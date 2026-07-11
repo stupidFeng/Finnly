@@ -17,31 +17,34 @@
 | 防茧房策略 | 多样性配额（每领域最低曝光条数） |
 | 分类方式 | 渠道映射 + 关键词词典修正 |
 | 评分维度 | 热度 × 时效 × 多源印证（三维归一化加权） |
-| 部署方案 | ④ GitHub Actions + Pages（零成本零服务器） |
+| 部署方案 | GitHub Actions 生成 feed.json, APP 直读 raw.githubusercontent.com (私有仓库, 需 token) |
+| 仓库可见性 | 保持私有 (放弃 Pages, 因私有仓库 Pages 需 Enterprise 付费) |
+| 沙箱 GitHub 权限 | 用户提供 PAT (repo + workflow scopes), 用于触发 workflow / 读 API |
 
 ## 三、系统架构
 
 ```
-┌──── GitHub 仓库 (stupidFeng/Finnly) ────┐
-│  .github/workflows/hot-feed.yml         │
-│    ↑ cron 每2h + workflow_dispatch       │
-│    │ 运行 Node 脚本                      │
-│    ▼                                     │
-│  scripts/fetch-and-score.mjs            │
-│    扒取 → 去重 → 分类 → 评分 → 配额      │
-│    │                                     │
-│    ▼ 输出                                │
-│  docs/feed.json (提交回仓库)             │
-│    │                                     │
-│    ▼ GitHub Pages 自动发布               │
-│  https://stupidfeng.github.io/Finnly/   │
-│    feed.json (HTTPS + CDN)              │
-└─────────────────────────────────────────┘
-              ▲ HTTPS GET
+┌──── GitHub 私有仓库 (stupidFeng/Finnly) ────┐
+│  .github/workflows/hot-feed.yml              │
+│    ↑ cron 每2h + workflow_dispatch            │
+│    │ 运行 Node 脚本                           │
+│    ▼                                          │
+│  scripts/fetch-and-score.mjs                 │
+│    扒取 → 去重 → 分类 → 评分 → 配额           │
+│    │                                          │
+│    ▼ 输出并提交                               │
+│  docs/feed.json (git commit 回 main)         │
+└──────────────────────────────────────────────┘
+              ▲ HTTPS GET (带 Authorization: token)
+              │ https://raw.githubusercontent.com/stupidFeng/Finnly/main/docs/feed.json
        ┌──────┴──────┐
-       │ Android APP │ Retrofit 拉取
+       │ Android APP │ Retrofit 拉取, 本地 Room 缓存
        └─────────────┘
 ```
+
+> 注: 私有仓库的 raw 地址需要带 token 才能访问。
+> APP 端通过 BuildConfig 注入只读 token (fine-grained PAT, 仅读 contents)。
+> 沙箱侧用经典 PAT (repo + workflow scopes) 触发 workflow 和调 API。
 
 ## 四、数据源与领域映射
 
@@ -111,14 +114,15 @@
 }
 ```
 
-## 九、后端部署（方案 ④ GitHub Actions + Pages）
+## 九、后端部署（GitHub Actions + raw 直读）
 
-- **扒取+评分脚本**：`scripts/fetch-and-score.mjs`（Node ESM，依赖仅 node-fetch / Node18+ 内置 fetch）
+- **扒取+评分脚本**：`scripts/fetch-and-score.mjs`（Node ESM，零依赖，用 Node18+ 内置 fetch）
 - **定时触发**：`schedule: cron: "0 */2 * * *"` + `workflow_dispatch`
 - **数据存储**：feed.json 提交回仓库 `docs/` 目录；历史快照可选归档到 `docs/archive/YYYY-MM-DD.json`
-- **发布**：Settings → Pages → Source 选 main 分支 `/docs` 目录
-- **访问**：`https://stupidfeng.github.io/Finnly/feed.json`（HTTPS + CDN）
-- **免费额度**：Actions 免费层 2000 分钟/月，每 2h 跑约 1~2 分钟，月耗约 360~720 分钟，够用
+- **发布方式**：不部署到 Pages（私有仓库需 Enterprise），改为 APP 直读 raw 地址
+- **访问**：`https://raw.githubusercontent.com/stupidFeng/Finnly/main/docs/feed.json`（需 Authorization header 带 token）
+- **免费额度**：Actions 免费层 2000 分钟/月（私有仓库），每 2h 跑约 1~2 分钟，月耗约 360~720 分钟，够用
+- **deploy-pages.yml 已弃用**：保留文件但不再需要, 后续可删除
 
 ## 十、APP 端职责
 
@@ -181,3 +185,7 @@
 ## 变更记录
 
 - 2026-07-11：初始规划，13 个工作项全部待办
+- 2026-07-11：第一块(#1~#7)完成。数据源调整为百度/头条/知乎/36氪/澎湃(原生接口),放弃第三方聚合 API。脚本本地验证通过。
+- 2026-07-11：第二块(#8)完成, #9 待用户开启 Pages。hot-feed.yml + deploy-pages.yml 就位。
+- 2026-07-11：第三块(#10/#11/#13)完成, #12 待联调。APP 编译通过(8c49e19)。
+- 2026-07-11：方案调整。私有仓库 Pages 需 Enterprise 付费, 放弃 Pages。改为 APP 直读 raw.githubusercontent.com (带 token)。用户选择给沙箱配 PAT(repo+workflow scopes)。
