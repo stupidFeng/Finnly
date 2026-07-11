@@ -3,6 +3,14 @@ plugins {
     id("org.jetbrains.kotlin.android")
 }
 
+// Read GitHub token from local.properties (not checked into git)
+val localProperties = java.util.Properties()
+val localPropertiesFile = rootProject.file("local.properties")
+if (localPropertiesFile.exists()) {
+    localPropertiesFile.reader().use { reader -> localProperties.load(reader) }
+}
+val githubToken: String = localProperties.getProperty("finnly.github.token") ?: ""
+
 android {
     namespace = "com.finn.finnly"
     compileSdk = 34
@@ -13,6 +21,14 @@ android {
         targetSdk = 34
         versionCode = 1
         versionName = "1.0"
+
+        // Inject GitHub token for accessing private repo raw URL
+        buildConfigField("String", "GITHUB_TOKEN", "\"$githubToken\"")
+    }
+
+    buildFeatures {
+        buildConfig = true
+        viewBinding = true
     }
 
     buildTypes {
@@ -33,10 +49,6 @@ android {
     kotlinOptions {
         jvmTarget = "17"
     }
-
-    buildFeatures {
-        viewBinding = true
-    }
 }
 
 dependencies {
@@ -44,4 +56,25 @@ dependencies {
     implementation("androidx.appcompat:appcompat:1.6.1")
     implementation("com.google.android.material:material:1.11.0")
     implementation("androidx.constraintlayout:constraintlayout:2.1.4")
+
+    // Lifecycle / ViewModel / LiveData
+    implementation("androidx.lifecycle:lifecycle-viewmodel-ktx:2.7.0")
+    implementation("androidx.lifecycle:lifecycle-livedata-ktx:2.7.0")
+    implementation("androidx.lifecycle:lifecycle-runtime-ktx:2.7.0")
+
+    // Coroutines
+    implementation("org.jetbrains.kotlinx:kotlinx-coroutines-android:1.7.3")
+
+    // Retrofit + OkHttp + Moshi (JSON 解析)
+    implementation("com.squareup.retrofit2:retrofit:2.9.0")
+    implementation("com.squareup.retrofit2:converter-moshi:2.9.0")
+    implementation("com.squareup.moshi:moshi-kotlin:1.15.0")
+    implementation("com.squareup.okhttp3:okhttp:4.12.0")
+
+    // Room (本地缓存)
+    implementation("androidx.room:room-runtime:2.6.1")
+    implementation("androidx.room:room-ktx:2.6.1")
+
+    // SwipeRefreshLayout (下拉刷新)
+    implementation("androidx.swiperefreshlayout:swiperefreshlayout:1.1.0")
 }
