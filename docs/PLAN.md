@@ -189,3 +189,5 @@
 - 2026-07-11：第二块(#8)完成, #9 待用户开启 Pages。hot-feed.yml + deploy-pages.yml 就位。
 - 2026-07-11：第三块(#10/#11/#13)完成, #12 待联调。APP 编译通过(8c49e19)。
 - 2026-07-11：方案调整。私有仓库 Pages 需 Enterprise 付费, 放弃 Pages。改为 APP 直读 raw.githubusercontent.com (带 token)。用户选择给沙箱配 PAT(repo+workflow scopes)。
+- 2026-07-11：PAT 配置完成。git remote 更新为经典 PAT; APP 通过 BuildConfig 注入 fine-grained PAT(只读 contents)。NetworkClient 添加 Authorization header。
+- 2026-07-11：APP 编译通过 (commit 3b98a39)。端到端闭环完成: hot-feed workflow 自动生成 feed.json → APP 通过 raw URL + token 拉取。
