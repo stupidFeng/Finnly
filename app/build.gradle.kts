@@ -3,11 +3,14 @@ plugins {
     id("org.jetbrains.kotlin.android")
 }
 
+import java.util.Properties
+import java.io.FileReader
+
 // Read GitHub token from local.properties (not checked into git)
-val localProperties = java.util.Properties()
+val localProperties = Properties()
 val localPropertiesFile = rootProject.file("local.properties")
 if (localPropertiesFile.exists()) {
-    localPropertiesFile.reader().use { reader -> localProperties.load(reader) }
+    FileReader(localPropertiesFile).use { reader -> localProperties.load(reader) }
 }
 val githubToken: String = localProperties.getProperty("finnly.github.token") ?: ""
 
