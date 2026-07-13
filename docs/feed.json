@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-07-13T20:49:03.090Z",
+  "generatedAt": "2026-07-13T22:44:21.358Z",
   "fields": {
     "society": "社会",
     "economy": "经济",
@@ -18,7 +18,7 @@
         {
           "channel": "toutiao",
           "rank": 1,
-          "hot": 20773518,
+          "hot": 22991160,
           "url": "https://www.toutiao.com/trending/7661381816020090943/"
         }
       ],
@@ -48,15 +48,15 @@
       "id": "evt-22200000",
       "title": "中山大学222人取消录取资格",
       "category": "society",
-      "hotScore": 0.68,
+      "hotScore": 0.7225,
       "freshness": 0.9999,
       "crossSource": 0.6309,
-      "totalScore": 0.7613,
+      "totalScore": 0.7783,
       "sources": [
         {
           "channel": "toutiao",
-          "rank": 5,
-          "hot": 13924905,
+          "rank": 4,
+          "hot": 17032270,
           "url": "https://www.toutiao.com/trending/7661065665880703012/"
         }
       ],
@@ -140,6 +140,25 @@
       "url": ""
     },
     {
+      "id": "evt-27000000",
+      "title": "男孩邀同学做客来了27人",
+      "category": "society",
+      "hotScore": 0.6375,
+      "freshness": 0.9999,
+      "crossSource": 0.6309,
+      "totalScore": 0.7443,
+      "sources": [
+        {
+          "channel": "toutiao",
+          "rank": 6,
+          "hot": 13944844,
+          "url": "https://www.toutiao.com/trending/7661456514159034378/"
+        }
+      ],
+      "summary": "",
+      "url": "https://www.toutiao.com/trending/7661456514159034378/"
+    },
+    {
       "id": "evt-3d000000",
       "title": "好未来《熊猫博士》3D动画片登陆央视少儿频道",
       "category": "society",
@@ -159,42 +178,23 @@
       "url": ""
     },
     {
-      "id": "evt-59400000",
-      "title": "老人贷款买59万房欠近400万违约金",
+      "id": "evt-ufo00000",
+      "title": "美国公布第四批 UFO 文件，一段迄今最清晰影像显示有飞行物酷似双层飞船，哪些信息值得关注？",
       "category": "society",
-      "hotScore": 0.595,
+      "hotScore": 0.5625,
       "freshness": 0.9999,
       "crossSource": 0.6309,
-      "totalScore": 0.7273,
+      "totalScore": 0.7143,
       "sources": [
         {
-          "channel": "toutiao",
-          "rank": 7,
-          "hot": 11400748,
-          "url": "https://www.toutiao.com/trending/7661825061879545919/"
+          "channel": "zhihu",
+          "rank": 6,
+          "hot": 0,
+          "url": ""
         }
       ],
       "summary": "",
-      "url": "https://www.toutiao.com/trending/7661825061879545919/"
-    },
-    {
-      "id": "evt-20000000",
-      "title": "美的：2万台移动空调订单发运法国",
-      "category": "society",
-      "hotScore": 0.5525,
-      "freshness": 0.9999,
-      "crossSource": 0.6309,
-      "totalScore": 0.7103,
-      "sources": [
-        {
-          "channel": "toutiao",
-          "rank": 8,
-          "hot": 10315823,
-          "url": "https://www.toutiao.com/trending/7661886836885274667/"
-        }
-      ],
-      "summary": "",
-      "url": "https://www.toutiao.com/trending/7661886836885274667/"
+      "url": ""
     }
   ]
 }
