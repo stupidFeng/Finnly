@@ -1,0 +1,206 @@
+{
+  "generatedAt": "2026-07-13T06:59:25.757Z",
+  "fields": {
+    "society": "社会",
+    "economy": "经济",
+    "entertainment": "娱乐"
+  },
+  "feed": [
+    {
+      "id": "evt-00000000",
+      "title": "中国首个禁售燃油车省份确认",
+      "category": "society",
+      "hotScore": 0.85,
+      "freshness": 1,
+      "crossSource": 1,
+      "totalScore": 0.94,
+      "sources": [
+        {
+          "channel": "toutiao",
+          "rank": 1,
+          "hot": 18604921,
+          "url": "https://www.toutiao.com/trending/7661862953297333798/"
+        },
+        {
+          "channel": "baidu",
+          "rank": 2,
+          "hot": 0,
+          "url": "https://m.baidu.com/s?word=%E4%B8%AD%E5%9B%BD%E9%A6%96%E4%B8%AA%E7%A6%81%E5%94%AE%E7%87%83%E6%B2%B9%E8%BD%A6%E7%9C%81%E4%BB%BD%E7%A1%AE%E8%AE%A4&sa=fyb_news"
+        }
+      ],
+      "summary": "",
+      "url": "https://www.toutiao.com/trending/7661862953297333798/"
+    },
+    {
+      "id": "evt-20000000",
+      "title": "调查：“扫开就近2块钱”，共享单车涨价到哪里是个头",
+      "category": "society",
+      "hotScore": 0.765,
+      "freshness": 1,
+      "crossSource": 0.6309,
+      "totalScore": 0.7953,
+      "sources": [
+        {
+          "channel": "thepaper",
+          "rank": 3,
+          "hot": 0,
+          "url": "https://www.thepaper.cn/newsDetail_forward_33572014"
+        }
+      ],
+      "summary": "",
+      "url": "https://www.thepaper.cn/newsDetail_forward_33572014"
+    },
+    {
+      "id": "evt-20260000",
+      "title": "如何评价赛力斯 2026 年上半年预计亏损 15-18 亿？为什么销量不低却依然巨亏？",
+      "category": "society",
+      "hotScore": 0.7125,
+      "freshness": 1,
+      "crossSource": 0.6309,
+      "totalScore": 0.7743,
+      "sources": [
+        {
+          "channel": "zhihu",
+          "rank": 2,
+          "hot": 0,
+          "url": ""
+        }
+      ],
+      "summary": "",
+      "url": ""
+    },
+    {
+      "id": "evt-var00000",
+      "title": "被VAR争议判罚送出局？瑞士在最接近突破的时候倒下",
+      "category": "society",
+      "hotScore": 0.68,
+      "freshness": 1,
+      "crossSource": 0.6309,
+      "totalScore": 0.7613,
+      "sources": [
+        {
+          "channel": "thepaper",
+          "rank": 5,
+          "hot": 0,
+          "url": "https://www.thepaper.cn/newsDetail_forward_33570457"
+        }
+      ],
+      "summary": "",
+      "url": "https://www.thepaper.cn/newsDetail_forward_33570457"
+    },
+    {
+      "id": "evt-10000000",
+      "title": "中芯国际与嘉楠科技合作14nm矿机芯片，知情人士：能否量产要看行情",
+      "category": "economy",
+      "hotScore": 0.9,
+      "freshness": 1,
+      "crossSource": 0.6309,
+      "totalScore": 0.8493,
+      "sources": [
+        {
+          "channel": "36kr",
+          "rank": 1,
+          "hot": 0,
+          "url": ""
+        }
+      ],
+      "summary": "有消息称，中芯国际与嘉楠科技合作的14nm矿机芯片已完成测试，将在今年二季度量产出货。对此，知情人士称，双方合作始于2019年年底，但能否量产要看行情。据悉，中芯国际数次尝试进入矿机行业，但受行情拖累一直未有实质进展。（财联社）",
+      "url": ""
+    },
+    {
+      "id": "evt-5g000000",
+      "title": "三大运营商年内推出5G消息",
+      "category": "economy",
+      "hotScore": 0.855,
+      "freshness": 1,
+      "crossSource": 0.6309,
+      "totalScore": 0.8313,
+      "sources": [
+        {
+          "channel": "36kr",
+          "rank": 2,
+          "hot": 0,
+          "url": ""
+        }
+      ],
+      "summary": "三大运营商计划在年内推出升级版短信服务5G消息。5G消息的特点：①打破传统短信长度限制，实现文、图、音视频、表情等融合；②支持在线支付、在线和离线消息；③不加好友就能随时发起群发、群聊。业内人士指出，5G消息可能按流量计费，价格有望比目前的短信和微信更优惠。（央视新闻）",
+      "url": ""
+    },
+    {
+      "id": "evt-take0000",
+      "title": "欧洲在线订餐服务Takeaway.com：外卖订单开始强劲复苏",
+      "category": "economy",
+      "hotScore": 0.81,
+      "freshness": 1,
+      "crossSource": 0.6309,
+      "totalScore": 0.8133,
+      "sources": [
+        {
+          "channel": "36kr",
+          "rank": 3,
+          "hot": 0,
+          "url": ""
+        }
+      ],
+      "summary": "据外媒报道，随着闭门不出的消费者厌倦了在家里做饭或寻求改变他们的日常生活，更多的人开始将点外卖作为一种改变局面的方式。欧洲最大的在线订餐服务之一Takeaway.com称，外卖订单已开始强劲复苏。而分析师表示，这种复苏是“I型复苏”，而不是“V型复苏”。（腾讯科技）",
+      "url": ""
+    },
+    {
+      "id": "evt-125ysl00",
+      "title": "售价 1.25 万的 YSL 男士 PVC 透明皮鞋遭吐槽「脚臭可视化」，如何看待这一设计？这种材料会加重脚臭吗？",
+      "category": "society",
+      "hotScore": 0.6375,
+      "freshness": 1,
+      "crossSource": 0.6309,
+      "totalScore": 0.7443,
+      "sources": [
+        {
+          "channel": "zhihu",
+          "rank": 4,
+          "hot": 0,
+          "url": ""
+        }
+      ],
+      "summary": "",
+      "url": ""
+    },
+    {
+      "id": "evt-3d000000",
+      "title": "好未来《熊猫博士》3D动画片登陆央视少儿频道",
+      "category": "society",
+      "hotScore": 0.63,
+      "freshness": 1,
+      "crossSource": 0.6309,
+      "totalScore": 0.7413,
+      "sources": [
+        {
+          "channel": "36kr",
+          "rank": 7,
+          "hot": 0,
+          "url": ""
+        }
+      ],
+      "summary": "36氪获悉，自4月9日起，中央电视台少儿频道携手好未来旗下教育品牌熊猫博士上线3D系列动画片《熊猫博士》。与此同时，《熊猫博士》3D动画片也在美国、加拿大、俄罗斯、意大利等多个国家、地区陆续发行，并登陆Discovery探索频道等多个世界知名节目。",
+      "url": ""
+    },
+    {
+      "id": "evt-60000000",
+      "title": "这6类食物正在悄悄让你的血糖飙升",
+      "category": "society",
+      "hotScore": 0.5525,
+      "freshness": 1,
+      "crossSource": 0.6309,
+      "totalScore": 0.7103,
+      "sources": [
+        {
+          "channel": "toutiao",
+          "rank": 8,
+          "hot": 9238930,
+          "url": "https://www.toutiao.com/trending/7661167647861948479/"
+        }
+      ],
+      "summary": "",
+      "url": "https://www.toutiao.com/trending/7661167647861948479/"
+    }
+  ]
+}

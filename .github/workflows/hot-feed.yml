@@ -1,0 +1,38 @@
+name: Hot Feed
+
+on:
+  schedule:
+    - cron: '0 */2 * * *'
+  workflow_dispatch: {}
+
+permissions:
+  contents: write
+
+jobs:
+  generate:
+    runs-on: ubuntu-latest
+    timeout-minutes: 10
+
+    steps:
+      - name: Checkout code
+        uses: actions/checkout@v4
+
+      - name: Set up Node.js
+        uses: actions/setup-node@v4
+        with:
+          node-version: '20'
+
+      - name: Generate feed.json
+        run: node scripts/fetch-and-score.mjs
+
+      - name: Commit feed.json
+        run: |
+          git config user.name "Trae Bot"
+          git config user.email "trae-bot@users.noreply.github.com"
+          git add docs/feed.json
+          if git diff --cached --quiet; then
+            echo "无变化, 跳过提交"
+          else
+            git commit -m "chore: 更新热点数据 $(date -u +%Y-%m-%dT%H:%M)Z"
+            git push
+          fi
