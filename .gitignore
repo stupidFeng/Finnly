@@ -26,6 +26,8 @@ render.experimental.xml
 # Keystore files
 *.jks
 *.keystore
+# 例外: 项目内固定签名 keystore (debug/release 共用, 保证 CI 与本地签名一致)
+!app/finnly.keystore
 
 # Google Services (e.g. APIs or Firebase)
 google-services.json

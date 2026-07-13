@@ -30,16 +30,6 @@ android {
         buildConfigField("String", "GITHUB_TOKEN", "\"$githubToken\"")
     }
 
-    buildTypes {
-        release {
-            isMinifyEnabled = false
-            proguardFiles(
-                getDefaultProguardFile("proguard-android-optimize.txt"),
-                "proguard-rules.pro"
-            )
-        }
-    }
-
     compileOptions {
         sourceCompatibility = JavaVersion.VERSION_17
         targetCompatibility = JavaVersion.VERSION_17
@@ -52,6 +42,31 @@ android {
     buildFeatures {
         buildConfig = true
         viewBinding = true
+    }
+
+    // 固定签名: 避免每次 CI 构建签名不同导致必须卸载旧 APK
+    // 使用项目内 finnly.keystore (debug/release 共用), 仓库公开但 keystore 仅用于调试构建
+    signingConfigs {
+        create("shared") {
+            storeFile = file("finnly.keystore")
+            storePassword = "finnly123"
+            keyAlias = "finnly"
+            keyPassword = "finnly123"
+        }
+    }
+
+    buildTypes {
+        debug {
+            signingConfig = signingConfigs.getByName("shared")
+        }
+        release {
+            isMinifyEnabled = false
+            signingConfig = signingConfigs.getByName("shared")
+            proguardFiles(
+                getDefaultProguardFile("proguard-android-optimize.txt"),
+                "proguard-rules.pro"
+            )
+        }
     }
 }
 
