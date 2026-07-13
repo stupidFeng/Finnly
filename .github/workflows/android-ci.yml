@@ -25,6 +25,11 @@ jobs:
       - name: Grant execute permission for gradlew
         run: chmod +x gradlew
 
+      - name: Create local.properties with GitHub token
+        run: |
+          echo "finnly.github.token=${{ secrets.FINNLY_GITHUB_TOKEN }}" > local.properties
+          echo "sdk.dir=${ANDROID_HOME}" >> local.properties
+
       - name: Build Debug APK
         run: ./gradlew assembleDebug --stacktrace
 
