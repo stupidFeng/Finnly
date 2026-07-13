@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-07-13T06:59:25.757Z",
+  "generatedAt": "2026-07-13T10:49:44.320Z",
   "fields": {
     "society": "社会",
     "economy": "经济",
@@ -8,7 +8,7 @@
   "feed": [
     {
       "id": "evt-00000000",
-      "title": "中国首个禁售燃油车省份确认",
+      "title": "沈阳百年一遇暴雨",
       "category": "society",
       "hotScore": 0.85,
       "freshness": 1,
@@ -18,31 +18,31 @@
         {
           "channel": "toutiao",
           "rank": 1,
-          "hot": 18604921,
-          "url": "https://www.toutiao.com/trending/7661862953297333798/"
+          "hot": 23433557,
+          "url": "https://www.toutiao.com/trending/7661539093834989610/"
         },
         {
           "channel": "baidu",
           "rank": 2,
           "hot": 0,
-          "url": "https://m.baidu.com/s?word=%E4%B8%AD%E5%9B%BD%E9%A6%96%E4%B8%AA%E7%A6%81%E5%94%AE%E7%87%83%E6%B2%B9%E8%BD%A6%E7%9C%81%E4%BB%BD%E7%A1%AE%E8%AE%A4&sa=fyb_news"
+          "url": "https://m.baidu.com/s?word=%E6%B2%88%E9%98%B3%E7%99%BE%E5%B9%B4%E4%B8%80%E9%81%87%E6%9A%B4%E9%9B%A8&sa=fyb_news"
         }
       ],
       "summary": "",
-      "url": "https://www.toutiao.com/trending/7661862953297333798/"
+      "url": "https://www.toutiao.com/trending/7661539093834989610/"
     },
     {
       "id": "evt-20000000",
       "title": "调查：“扫开就近2块钱”，共享单车涨价到哪里是个头",
       "category": "society",
-      "hotScore": 0.765,
+      "hotScore": 0.85,
       "freshness": 1,
       "crossSource": 0.6309,
-      "totalScore": 0.7953,
+      "totalScore": 0.8293,
       "sources": [
         {
           "channel": "thepaper",
-          "rank": 3,
+          "rank": 1,
           "hot": 0,
           "url": "https://www.thepaper.cn/newsDetail_forward_33572014"
         }
@@ -54,14 +54,14 @@
       "id": "evt-20260000",
       "title": "如何评价赛力斯 2026 年上半年预计亏损 15-18 亿？为什么销量不低却依然巨亏？",
       "category": "society",
-      "hotScore": 0.7125,
+      "hotScore": 0.75,
       "freshness": 1,
       "crossSource": 0.6309,
-      "totalScore": 0.7743,
+      "totalScore": 0.7893,
       "sources": [
         {
           "channel": "zhihu",
-          "rank": 2,
+          "rank": 1,
           "hot": 0,
           "url": ""
         }
@@ -70,23 +70,23 @@
       "url": ""
     },
     {
-      "id": "evt-var00000",
-      "title": "被VAR争议判罚送出局？瑞士在最接近突破的时候倒下",
+      "id": "evt-50000000",
+      "title": "《功夫女足》破5亿 周星驰：感到惭愧",
       "category": "society",
-      "hotScore": 0.68,
+      "hotScore": 0.64,
       "freshness": 1,
       "crossSource": 0.6309,
-      "totalScore": 0.7613,
+      "totalScore": 0.7453,
       "sources": [
         {
-          "channel": "thepaper",
+          "channel": "baidu",
           "rank": 5,
           "hot": 0,
-          "url": "https://www.thepaper.cn/newsDetail_forward_33570457"
+          "url": "https://m.baidu.com/s?word=%E3%80%8A%E5%8A%9F%E5%A4%AB%E5%A5%B3%E8%B6%B3%E3%80%8B%E7%A0%B45%E4%BA%BF+%E5%91%A8%E6%98%9F%E9%A9%B0%EF%BC%9A%E6%84%9F%E5%88%B0%E6%83%AD%E6%84%A7&sa=fyb_news"
         }
       ],
       "summary": "",
-      "url": "https://www.thepaper.cn/newsDetail_forward_33570457"
+      "url": "https://m.baidu.com/s?word=%E3%80%8A%E5%8A%9F%E5%A4%AB%E5%A5%B3%E8%B6%B3%E3%80%8B%E7%A0%B45%E4%BA%BF+%E5%91%A8%E6%98%9F%E9%A9%B0%EF%BC%9A%E6%84%9F%E5%88%B0%E6%83%AD%E6%84%A7&sa=fyb_news"
     },
     {
       "id": "evt-10000000",
@@ -146,25 +146,6 @@
       "url": ""
     },
     {
-      "id": "evt-125ysl00",
-      "title": "售价 1.25 万的 YSL 男士 PVC 透明皮鞋遭吐槽「脚臭可视化」，如何看待这一设计？这种材料会加重脚臭吗？",
-      "category": "society",
-      "hotScore": 0.6375,
-      "freshness": 1,
-      "crossSource": 0.6309,
-      "totalScore": 0.7443,
-      "sources": [
-        {
-          "channel": "zhihu",
-          "rank": 4,
-          "hot": 0,
-          "url": ""
-        }
-      ],
-      "summary": "",
-      "url": ""
-    },
-    {
       "id": "evt-3d000000",
       "title": "好未来《熊猫博士》3D动画片登陆央视少儿频道",
       "category": "society",
@@ -184,23 +165,42 @@
       "url": ""
     },
     {
-      "id": "evt-60000000",
-      "title": "这6类食物正在悄悄让你的血糖飙升",
+      "id": "evt-22200000",
+      "title": "中山大学222人取消录取资格",
       "category": "society",
-      "hotScore": 0.5525,
+      "hotScore": 0.595,
       "freshness": 1,
       "crossSource": 0.6309,
-      "totalScore": 0.7103,
+      "totalScore": 0.7273,
       "sources": [
         {
           "channel": "toutiao",
-          "rank": 8,
-          "hot": 9238930,
-          "url": "https://www.toutiao.com/trending/7661167647861948479/"
+          "rank": 7,
+          "hot": 12860609,
+          "url": "https://www.toutiao.com/trending/7661065665880703012/"
         }
       ],
       "summary": "",
-      "url": "https://www.toutiao.com/trending/7661167647861948479/"
+      "url": "https://www.toutiao.com/trending/7661065665880703012/"
+    },
+    {
+      "id": "evt-125ysl00",
+      "title": "售价 1.25 万的 YSL 男士 PVC 透明皮鞋遭吐槽「脚臭可视化」，如何看待这一设计？这种材料会加重脚臭吗？",
+      "category": "society",
+      "hotScore": 0.5625,
+      "freshness": 1,
+      "crossSource": 0.6309,
+      "totalScore": 0.7143,
+      "sources": [
+        {
+          "channel": "zhihu",
+          "rank": 6,
+          "hot": 0,
+          "url": ""
+        }
+      ],
+      "summary": "",
+      "url": ""
     }
   ]
 }
