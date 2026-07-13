@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-07-13T19:11:20.005Z",
+  "generatedAt": "2026-07-13T20:49:03.090Z",
   "fields": {
     "society": "社会",
     "economy": "经济",
@@ -18,7 +18,7 @@
         {
           "channel": "toutiao",
           "rank": 1,
-          "hot": 20130609,
+          "hot": 20773518,
           "url": "https://www.toutiao.com/trending/7661381816020090943/"
         }
       ],
@@ -48,15 +48,15 @@
       "id": "evt-22200000",
       "title": "中山大学222人取消录取资格",
       "category": "society",
-      "hotScore": 0.7225,
+      "hotScore": 0.68,
       "freshness": 0.9999,
       "crossSource": 0.6309,
-      "totalScore": 0.7783,
+      "totalScore": 0.7613,
       "sources": [
         {
           "channel": "toutiao",
-          "rank": 4,
-          "hot": 14913122,
+          "rank": 5,
+          "hot": 13924905,
           "url": "https://www.toutiao.com/trending/7661065665880703012/"
         }
       ],
@@ -170,12 +170,31 @@
         {
           "channel": "toutiao",
           "rank": 7,
-          "hot": 11047912,
+          "hot": 11400748,
           "url": "https://www.toutiao.com/trending/7661825061879545919/"
         }
       ],
       "summary": "",
       "url": "https://www.toutiao.com/trending/7661825061879545919/"
+    },
+    {
+      "id": "evt-20000000",
+      "title": "美的：2万台移动空调订单发运法国",
+      "category": "society",
+      "hotScore": 0.5525,
+      "freshness": 0.9999,
+      "crossSource": 0.6309,
+      "totalScore": 0.7103,
+      "sources": [
+        {
+          "channel": "toutiao",
+          "rank": 8,
+          "hot": 10315823,
+          "url": "https://www.toutiao.com/trending/7661886836885274667/"
+        }
+      ],
+      "summary": "",
+      "url": "https://www.toutiao.com/trending/7661886836885274667/"
     }
   ]
 }
