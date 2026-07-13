@@ -204,3 +204,4 @@
 - 2026-07-13：APP 报 `EAI_NODATA`（raw.githubusercontent.com 国内 DNS 污染）→ `NetworkClient.kt` 改 `https://cdn.jsdelivr.net/gh/stupidFeng/Finnly@main/`
 - 2026-07-13：jsDelivr 404（feed.json 与 scripts 在 merge 中丢失）→ 重建 `scripts/fetch-and-score.mjs` + `.github/workflows/hot-feed.yml` + 本地跑通生成 10 条；推送 main，jsDelivr 已返回 200
 - 2026-07-13：13 个工作项全部完成，端到端闭环跑通。Phase 2 待办已列出（补充娱乐源/历史归档/推送）
+- 2026-07-13：修复 APK 签名不一致问题 — 新增 `app/finnly.keystore`（项目级固定 keystore），`build.gradle.kts` 配 `signingConfigs.shared`，debug/release 共用。`.gitignore` 加例外 `!app/finnly.keystore`。此后新 APK 可直接覆盖安装，无需卸载旧版本
