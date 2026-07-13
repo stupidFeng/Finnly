@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-07-13T17:48:15.840Z",
+  "generatedAt": "2026-07-13T19:11:20.005Z",
   "fields": {
     "society": "社会",
     "economy": "经济",
@@ -11,14 +11,14 @@
       "title": "国务院：逐步提高城乡居民基础养老金",
       "category": "society",
       "hotScore": 0.85,
-      "freshness": 1,
+      "freshness": 0.9999,
       "crossSource": 0.6309,
       "totalScore": 0.8293,
       "sources": [
         {
           "channel": "toutiao",
           "rank": 1,
-          "hot": 19676342,
+          "hot": 20130609,
           "url": "https://www.toutiao.com/trending/7661381816020090943/"
         }
       ],
@@ -49,14 +49,14 @@
       "title": "中山大学222人取消录取资格",
       "category": "society",
       "hotScore": 0.7225,
-      "freshness": 1,
+      "freshness": 0.9999,
       "crossSource": 0.6309,
       "totalScore": 0.7783,
       "sources": [
         {
           "channel": "toutiao",
           "rank": 4,
-          "hot": 14576592,
+          "hot": 14913122,
           "url": "https://www.toutiao.com/trending/7661065665880703012/"
         }
       ],
@@ -64,23 +64,42 @@
       "url": "https://www.toutiao.com/trending/7661065665880703012/"
     },
     {
-      "id": "evt-10000000",
-      "title": "邵永灵：欧洲上月热死1万多人",
+      "id": "evt-87000000",
+      "title": "人均日通话降至8.7分钟",
       "category": "society",
-      "hotScore": 0.68,
+      "hotScore": 0.64,
       "freshness": 1,
       "crossSource": 0.6309,
-      "totalScore": 0.7613,
+      "totalScore": 0.7453,
       "sources": [
         {
-          "channel": "toutiao",
+          "channel": "baidu",
           "rank": 5,
-          "hot": 13189446,
-          "url": "https://www.toutiao.com/trending/7661945144576314921/"
+          "hot": 0,
+          "url": "https://m.baidu.com/s?word=%E4%BA%BA%E5%9D%87%E6%97%A5%E9%80%9A%E8%AF%9D%E9%99%8D%E8%87%B38.7%E5%88%86%E9%92%9F&sa=fyb_news"
         }
       ],
       "summary": "",
-      "url": "https://www.toutiao.com/trending/7661945144576314921/"
+      "url": "https://m.baidu.com/s?word=%E4%BA%BA%E5%9D%87%E6%97%A5%E9%80%9A%E8%AF%9D%E9%99%8D%E8%87%B38.7%E5%88%86%E9%92%9F&sa=fyb_news"
+    },
+    {
+      "id": "evt-10000000",
+      "title": "中芯国际与嘉楠科技合作14nm矿机芯片，知情人士：能否量产要看行情",
+      "category": "economy",
+      "hotScore": 0.9,
+      "freshness": 1,
+      "crossSource": 0.6309,
+      "totalScore": 0.8493,
+      "sources": [
+        {
+          "channel": "36kr",
+          "rank": 1,
+          "hot": 0,
+          "url": ""
+        }
+      ],
+      "summary": "有消息称，中芯国际与嘉楠科技合作的14nm矿机芯片已完成测试，将在今年二季度量产出货。对此，知情人士称，双方合作始于2019年年底，但能否量产要看行情。据悉，中芯国际数次尝试进入矿机行业，但受行情拖累一直未有实质进展。（财联社）",
+      "url": ""
     },
     {
       "id": "evt-5g000000",
@@ -121,25 +140,6 @@
       "url": ""
     },
     {
-      "id": "evt-87000000",
-      "title": "人均日通话降至8.7分钟",
-      "category": "society",
-      "hotScore": 0.64,
-      "freshness": 1,
-      "crossSource": 0.6309,
-      "totalScore": 0.7453,
-      "sources": [
-        {
-          "channel": "baidu",
-          "rank": 5,
-          "hot": 0,
-          "url": "https://m.baidu.com/s?word=%E4%BA%BA%E5%9D%87%E6%97%A5%E9%80%9A%E8%AF%9D%E9%99%8D%E8%87%B38.7%E5%88%86%E9%92%9F&sa=fyb_news"
-        }
-      ],
-      "summary": "",
-      "url": "https://m.baidu.com/s?word=%E4%BA%BA%E5%9D%87%E6%97%A5%E9%80%9A%E8%AF%9D%E9%99%8D%E8%87%B38.7%E5%88%86%E9%92%9F&sa=fyb_news"
-    },
-    {
       "id": "evt-3d000000",
       "title": "好未来《熊猫博士》3D动画片登陆央视少儿频道",
       "category": "society",
@@ -157,6 +157,25 @@
       ],
       "summary": "36氪获悉，自4月9日起，中央电视台少儿频道携手好未来旗下教育品牌熊猫博士上线3D系列动画片《熊猫博士》。与此同时，《熊猫博士》3D动画片也在美国、加拿大、俄罗斯、意大利等多个国家、地区陆续发行，并登陆Discovery探索频道等多个世界知名节目。",
       "url": ""
+    },
+    {
+      "id": "evt-59400000",
+      "title": "老人贷款买59万房欠近400万违约金",
+      "category": "society",
+      "hotScore": 0.595,
+      "freshness": 0.9999,
+      "crossSource": 0.6309,
+      "totalScore": 0.7273,
+      "sources": [
+        {
+          "channel": "toutiao",
+          "rank": 7,
+          "hot": 11047912,
+          "url": "https://www.toutiao.com/trending/7661825061879545919/"
+        }
+      ],
+      "summary": "",
+      "url": "https://www.toutiao.com/trending/7661825061879545919/"
     }
   ]
 }
