@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-07-14T11:17:35.676Z",
+  "generatedAt": "2026-07-14T13:06:57.363Z",
   "fields": {
     "society": "社会",
     "economy": "经济",
@@ -7,27 +7,8 @@
   },
   "feed": [
     {
-      "id": "evt-lv000000",
-      "title": "LV起诉国家知识产权局",
-      "category": "society",
-      "hotScore": 0.85,
-      "freshness": 0.9999,
-      "crossSource": 0.6309,
-      "totalScore": 0.8293,
-      "sources": [
-        {
-          "channel": "toutiao",
-          "rank": 1,
-          "hot": 37010946,
-          "url": "https://www.toutiao.com/trending/7661443399892615206/"
-        }
-      ],
-      "summary": "",
-      "url": "https://www.toutiao.com/trending/7661443399892615206/"
-    },
-    {
       "id": "evt-00000000",
-      "title": "硕士学位被撤销，蒋方舟：接受校方处理，向读者、老师致歉",
+      "title": "人社部：引导工资分配向一线岗位倾斜",
       "category": "society",
       "hotScore": 0.85,
       "freshness": 0.9999,
@@ -35,46 +16,65 @@
       "totalScore": 0.8293,
       "sources": [
         {
-          "channel": "thepaper",
-          "rank": 1,
-          "hot": 0,
-          "url": "https://www.thepaper.cn/newsDetail_forward_33576831"
-        }
-      ],
-      "summary": "",
-      "url": "https://www.thepaper.cn/newsDetail_forward_33576831"
-    },
-    {
-      "id": "evt-ai000000",
-      "title": "AI生成环卫工照片获摄影比赛一等奖",
-      "category": "society",
-      "hotScore": 0.8075,
-      "freshness": 0.9999,
-      "crossSource": 0.6309,
-      "totalScore": 0.8123,
-      "sources": [
-        {
           "channel": "toutiao",
-          "rank": 2,
-          "hot": 33488889,
-          "url": "https://www.toutiao.com/trending/7662295509886697491/"
+          "rank": 1,
+          "hot": 24883326,
+          "url": "https://www.toutiao.com/trending/7661899769200853001/"
         }
       ],
       "summary": "",
-      "url": "https://www.toutiao.com/trending/7662295509886697491/"
+      "url": "https://www.toutiao.com/trending/7661899769200853001/"
     },
     {
       "id": "evt-20260000",
       "title": "知友发现 2026 菲尔兹奖名单泄露，王虹、邓煜疑似双双获奖，如何看待这一信息？",
       "category": "society",
       "hotScore": 0.75,
-      "freshness": 0.9999,
+      "freshness": 1,
       "crossSource": 0.6309,
       "totalScore": 0.7893,
       "sources": [
         {
           "channel": "zhihu",
           "rank": 1,
+          "hot": 0,
+          "url": ""
+        }
+      ],
+      "summary": "",
+      "url": ""
+    },
+    {
+      "id": "evt-90000000",
+      "title": "郑州一长途汽车站9个窗口只开1个",
+      "category": "society",
+      "hotScore": 0.7225,
+      "freshness": 0.9999,
+      "crossSource": 0.6309,
+      "totalScore": 0.7783,
+      "sources": [
+        {
+          "channel": "toutiao",
+          "rank": 4,
+          "hot": 18434021,
+          "url": "https://www.toutiao.com/trending/7662332204488409098/"
+        }
+      ],
+      "summary": "",
+      "url": "https://www.toutiao.com/trending/7662332204488409098/"
+    },
+    {
+      "id": "evt-50000000",
+      "title": "超 500 万人请愿将阿根廷逐出世界杯，称国际足联和裁判偏袒阿根廷，你觉得是这样吗？裁判判罚有问题吗？",
+      "category": "society",
+      "hotScore": 0.7125,
+      "freshness": 1,
+      "crossSource": 0.6309,
+      "totalScore": 0.7743,
+      "sources": [
+        {
+          "channel": "zhihu",
+          "rank": 2,
           "hot": 0,
           "url": ""
         }
@@ -140,23 +140,23 @@
       "url": ""
     },
     {
-      "id": "evt-50000000",
-      "title": "超 500 万人请愿将阿根廷逐出世界杯，称国际足联和裁判偏袒阿根廷，你觉得是这样吗？裁判判罚有问题吗？",
-      "category": "society",
-      "hotScore": 0.7125,
+      "id": "evt-14000000",
+      "title": "央行将开展14000亿买断式逆回购操作",
+      "category": "economy",
+      "hotScore": 0.8075,
       "freshness": 0.9999,
       "crossSource": 0.6309,
-      "totalScore": 0.7743,
+      "totalScore": 0.8123,
       "sources": [
         {
-          "channel": "zhihu",
+          "channel": "toutiao",
           "rank": 2,
-          "hot": 0,
-          "url": ""
+          "hot": 22515365,
+          "url": "https://www.toutiao.com/trending/7661521641490432036/"
         }
       ],
       "summary": "",
-      "url": ""
+      "url": "https://www.toutiao.com/trending/7661521641490432036/"
     },
     {
       "id": "evt-80000000",
@@ -170,7 +170,7 @@
         {
           "channel": "toutiao",
           "rank": 11,
-          "hot": 13615566,
+          "hot": 9154064,
           "url": "https://www.toutiao.com/trending/7662311381517028890/"
         },
         {
@@ -184,61 +184,23 @@
       "url": "https://www.toutiao.com/trending/7662311381517028890/"
     },
     {
-      "id": "evt-cbd00000",
-      "title": "北京国贸 CBD 每天中午上百名「转圈人」沿中央公园绕圈，如何看待这种午休方式？你是怎样度过午休的？",
+      "id": "evt-ai000000",
+      "title": "AI时代需要什么样的人：从DeepSeek招聘清单说起",
       "category": "society",
-      "hotScore": 0.675,
-      "freshness": 0.9999,
-      "crossSource": 0.6309,
-      "totalScore": 0.7593,
-      "sources": [
-        {
-          "channel": "zhihu",
-          "rank": 3,
-          "hot": 0,
-          "url": ""
-        }
-      ],
-      "summary": "",
-      "url": ""
-    },
-    {
-      "id": "evt-25000000",
-      "title": "女子取25万现金触发预警 民警核实",
-      "category": "society",
-      "hotScore": 0.64,
+      "hotScore": 0.68,
       "freshness": 1,
       "crossSource": 0.6309,
-      "totalScore": 0.7453,
+      "totalScore": 0.7613,
       "sources": [
         {
-          "channel": "baidu",
+          "channel": "thepaper",
           "rank": 5,
           "hot": 0,
-          "url": "https://m.baidu.com/s?word=%E5%A5%B3%E5%AD%90%E5%8F%9625%E4%B8%87%E7%8E%B0%E9%87%91%E8%A7%A6%E5%8F%91%E9%A2%84%E8%AD%A6+%E6%B0%91%E8%AD%A6%E6%A0%B8%E5%AE%9E&sa=fyb_news"
+          "url": "https://www.thepaper.cn/newsDetail_forward_33570712"
         }
       ],
       "summary": "",
-      "url": "https://m.baidu.com/s?word=%E5%A5%B3%E5%AD%90%E5%8F%9625%E4%B8%87%E7%8E%B0%E9%87%91%E8%A7%A6%E5%8F%91%E9%A2%84%E8%AD%A6+%E6%B0%91%E8%AD%A6%E6%A0%B8%E5%AE%9E&sa=fyb_news"
-    },
-    {
-      "id": "evt-openai00",
-      "title": "如何评价 OpenAI 新模型 GPT-5.6 Sol Ultra，在不到一小时内证明循环双覆盖猜想？",
-      "category": "society",
-      "hotScore": 0.6375,
-      "freshness": 0.9999,
-      "crossSource": 0.6309,
-      "totalScore": 0.7443,
-      "sources": [
-        {
-          "channel": "zhihu",
-          "rank": 4,
-          "hot": 0,
-          "url": ""
-        }
-      ],
-      "summary": "",
-      "url": ""
+      "url": "https://www.thepaper.cn/newsDetail_forward_33570712"
     },
     {
       "id": "evt-3d000000",
@@ -260,42 +222,23 @@
       "url": ""
     },
     {
-      "id": "evt-12306000",
-      "title": "在 12306 出现之前，线下购票柜台工作人员使用的 TRS 系统也是全国联网的，为什么那时没有崩溃问题？",
+      "id": "evt-20000000",
+      "title": "一只食蟹猴市价已到20万元",
       "category": "society",
       "hotScore": 0.6,
-      "freshness": 0.9999,
+      "freshness": 1,
       "crossSource": 0.6309,
       "totalScore": 0.7293,
       "sources": [
         {
-          "channel": "zhihu",
-          "rank": 5,
+          "channel": "baidu",
+          "rank": 6,
           "hot": 0,
-          "url": ""
+          "url": "https://m.baidu.com/s?word=%E4%B8%80%E5%8F%AA%E9%A3%9F%E8%9F%B9%E7%8C%B4%E5%B8%82%E4%BB%B7%E5%B7%B2%E5%88%B020%E4%B8%87%E5%85%83&sa=fyb_news"
         }
       ],
       "summary": "",
-      "url": ""
-    },
-    {
-      "id": "evt-30000000",
-      "title": "俄投3吨重滑翔炸弹 冲击波清晰可见",
-      "category": "society",
-      "hotScore": 0.595,
-      "freshness": 0.9999,
-      "crossSource": 0.6309,
-      "totalScore": 0.7273,
-      "sources": [
-        {
-          "channel": "toutiao",
-          "rank": 7,
-          "hot": 20312038,
-          "url": "https://www.toutiao.com/trending/7661540676160487460/"
-        }
-      ],
-      "summary": "",
-      "url": "https://www.toutiao.com/trending/7661540676160487460/"
+      "url": "https://m.baidu.com/s?word=%E4%B8%80%E5%8F%AA%E9%A3%9F%E8%9F%B9%E7%8C%B4%E5%B8%82%E4%BB%B7%E5%B7%B2%E5%88%B020%E4%B8%87%E5%85%83&sa=fyb_news"
     }
   ]
 }
