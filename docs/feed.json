@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-07-14T20:49:31.458Z",
+  "generatedAt": "2026-07-14T22:46:17.514Z",
   "fields": {
     "society": "社会",
     "economy": "经济",
@@ -7,43 +7,18 @@
   },
   "feed": [
     {
-      "id": "evt-vs000000",
-      "title": "世界杯半决赛：法国vs西班牙",
-      "category": "society",
-      "hotScore": 0.76,
-      "freshness": 1,
-      "crossSource": 1,
-      "totalScore": 0.904,
-      "sources": [
-        {
-          "channel": "baidu",
-          "rank": 2,
-          "hot": 0,
-          "url": "https://m.baidu.com/s?word=%E4%B8%96%E7%95%8C%E6%9D%AF%E5%8D%8A%E5%86%B3%E8%B5%9B%EF%BC%9A%E6%B3%95%E5%9B%BDvs%E8%A5%BF%E7%8F%AD%E7%89%99&sa=fyb_news"
-        },
-        {
-          "channel": "zhihu",
-          "rank": 2,
-          "hot": 0,
-          "url": ""
-        }
-      ],
-      "summary": "",
-      "url": "https://m.baidu.com/s?word=%E4%B8%96%E7%95%8C%E6%9D%AF%E5%8D%8A%E5%86%B3%E8%B5%9B%EF%BC%9A%E6%B3%95%E5%9B%BDvs%E8%A5%BF%E7%8F%AD%E7%89%99&sa=fyb_news"
-    },
-    {
       "id": "evt-00000000",
       "title": "伊朗称美进入正式战争状态",
       "category": "society",
-      "hotScore": 0.6375,
+      "hotScore": 0.595,
       "freshness": 1,
       "crossSource": 1,
-      "totalScore": 0.855,
+      "totalScore": 0.838,
       "sources": [
         {
           "channel": "toutiao",
-          "rank": 6,
-          "hot": 17939954,
+          "rank": 7,
+          "hot": 16703651,
           "url": "https://www.toutiao.com/trending/7662353080528145926/"
         },
         {
@@ -57,8 +32,8 @@
       "url": "https://www.toutiao.com/trending/7662353080528145926/"
     },
     {
-      "id": "evt-pkvs0000",
-      "title": "姆巴佩PK亚马尔！法国VS西班牙",
+      "id": "evt-20160000",
+      "title": "西班牙2-0法国 时隔16年再进决赛",
       "category": "society",
       "hotScore": 0.85,
       "freshness": 1,
@@ -68,7 +43,7 @@
         {
           "channel": "toutiao",
           "rank": 1,
-          "hot": 29577984,
+          "hot": 30436037,
           "url": "https://www.toutiao.com/trending/7661782304809353267/"
         }
       ],
@@ -93,6 +68,25 @@
       ],
       "summary": "",
       "url": "https://www.thepaper.cn/newsDetail_forward_33570712"
+    },
+    {
+      "id": "evt-20000000",
+      "title": "西班牙2比0法国晋级世界杯决赛",
+      "category": "society",
+      "hotScore": 0.76,
+      "freshness": 1,
+      "crossSource": 0.6309,
+      "totalScore": 0.7933,
+      "sources": [
+        {
+          "channel": "baidu",
+          "rank": 2,
+          "hot": 0,
+          "url": "https://m.baidu.com/s?word=%E8%A5%BF%E7%8F%AD%E7%89%992%E6%AF%940%E6%B3%95%E5%9B%BD%E6%99%8B%E7%BA%A7%E4%B8%96%E7%95%8C%E6%9D%AF%E5%86%B3%E8%B5%9B&sa=fyb_news"
+        }
+      ],
+      "summary": "",
+      "url": "https://m.baidu.com/s?word=%E8%A5%BF%E7%8F%AD%E7%89%992%E6%AF%940%E6%B3%95%E5%9B%BD%E6%99%8B%E7%BA%A7%E4%B8%96%E7%95%8C%E6%9D%AF%E5%86%B3%E8%B5%9B&sa=fyb_news"
     },
     {
       "id": "evt-10000000",
@@ -152,36 +146,17 @@
       "url": ""
     },
     {
-      "id": "evt-70000000",
-      "title": "功夫女足票房破7亿",
-      "category": "entertainment",
-      "hotScore": 0.7225,
+      "id": "evt-vs000000",
+      "title": "世界杯半决赛，法国 vs 西班牙，如何评价本场比赛？",
+      "category": "society",
+      "hotScore": 0.75,
       "freshness": 1,
       "crossSource": 0.6309,
-      "totalScore": 0.7783,
-      "sources": [
-        {
-          "channel": "toutiao",
-          "rank": 4,
-          "hot": 21911909,
-          "url": "https://www.toutiao.com/trending/7661624253770432555/"
-        }
-      ],
-      "summary": "",
-      "url": "https://www.toutiao.com/trending/7661624253770432555/"
-    },
-    {
-      "id": "evt-30000000",
-      "title": "《功夫女足》预测票房涨至 30.3 亿，你觉得能打破《美人鱼》创造的「无厘头喜剧电影」票房纪录吗？",
-      "category": "entertainment",
-      "hotScore": 0.6375,
-      "freshness": 1,
-      "crossSource": 0.6309,
-      "totalScore": 0.7443,
+      "totalScore": 0.7893,
       "sources": [
         {
           "channel": "zhihu",
-          "rank": 4,
+          "rank": 1,
           "hot": 0,
           "url": ""
         }
@@ -201,7 +176,7 @@
         {
           "channel": "toutiao",
           "rank": 11,
-          "hot": 10881132,
+          "hot": 11196792,
           "url": "https://www.toutiao.com/trending/7662311381517028890/"
         },
         {
@@ -232,6 +207,25 @@
       ],
       "summary": "",
       "url": "https://m.baidu.com/s?word=%E6%9C%AA%E6%9D%A55%E5%B9%B4%E6%B6%88%E8%B4%B9%E2%80%9C%E8%B7%AF%E7%BA%BF%E5%9B%BE%E2%80%9D%E6%9D%A5%E4%BA%86&sa=fyb_news"
+    },
+    {
+      "id": "evt-20260000",
+      "title": "2026 年美加墨世界杯世界杯半决赛法国 0:2 西班牙，如何评价这场比赛？",
+      "category": "society",
+      "hotScore": 0.6375,
+      "freshness": 1,
+      "crossSource": 0.6309,
+      "totalScore": 0.7443,
+      "sources": [
+        {
+          "channel": "zhihu",
+          "rank": 4,
+          "hot": 0,
+          "url": ""
+        }
+      ],
+      "summary": "",
+      "url": ""
     },
     {
       "id": "evt-3d000000",
@@ -289,25 +283,6 @@
       ],
       "summary": "",
       "url": "https://www.thepaper.cn/newsDetail_forward_33581628"
-    },
-    {
-      "id": "evt-20000000",
-      "title": "一图世界｜特朗普威胁收20%过路费，霍尔木兹海峡为何仍是冲突焦点？",
-      "category": "society",
-      "hotScore": 0.5525,
-      "freshness": 1,
-      "crossSource": 0.6309,
-      "totalScore": 0.7103,
-      "sources": [
-        {
-          "channel": "thepaper",
-          "rank": 8,
-          "hot": 0,
-          "url": "https://www.thepaper.cn/newsDetail_forward_33580758"
-        }
-      ],
-      "summary": "",
-      "url": "https://www.thepaper.cn/newsDetail_forward_33580758"
     }
   ]
 }
