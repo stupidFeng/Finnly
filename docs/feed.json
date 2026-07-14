@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-07-14T15:16:27.688Z",
+  "generatedAt": "2026-07-14T17:02:28.760Z",
   "fields": {
     "society": "社会",
     "economy": "经济",
@@ -11,19 +11,19 @@
       "title": "两大核心城市新房库存不足1年",
       "category": "society",
       "hotScore": 0.7225,
-      "freshness": 0.9999,
+      "freshness": 1,
       "crossSource": 1,
       "totalScore": 0.889,
       "sources": [
         {
           "channel": "toutiao",
           "rank": 4,
-          "hot": 20707046,
+          "hot": 21382549,
           "url": "https://www.toutiao.com/trending/7662325344636325414/"
         },
         {
           "channel": "baidu",
-          "rank": 17,
+          "rank": 15,
           "hot": 0,
           "url": "https://m.baidu.com/s?word=%E4%B8%A4%E5%A4%A7%E6%A0%B8%E5%BF%83%E5%9F%8E%E5%B8%82%E6%96%B0%E6%88%BF%E5%BA%93%E5%AD%98%E4%B8%8D%E8%B6%B31%E5%B9%B4&sa=fyb_news"
         }
@@ -35,20 +35,20 @@
       "id": "evt-vs000000",
       "title": "世界杯半决赛：法国vs西班牙",
       "category": "society",
-      "hotScore": 0.52,
+      "hotScore": 0.6,
       "freshness": 1,
       "crossSource": 1,
-      "totalScore": 0.808,
+      "totalScore": 0.84,
       "sources": [
         {
           "channel": "baidu",
-          "rank": 8,
+          "rank": 6,
           "hot": 0,
           "url": "https://m.baidu.com/s?word=%E4%B8%96%E7%95%8C%E6%9D%AF%E5%8D%8A%E5%86%B3%E8%B5%9B%EF%BC%9A%E6%B3%95%E5%9B%BDvs%E8%A5%BF%E7%8F%AD%E7%89%99&sa=fyb_news"
         },
         {
           "channel": "zhihu",
-          "rank": 10,
+          "rank": 7,
           "hot": 0,
           "url": ""
         }
@@ -60,14 +60,14 @@
       "id": "evt-ai000000",
       "title": "AI时代需要什么样的人：从DeepSeek招聘清单说起",
       "category": "society",
-      "hotScore": 0.7225,
+      "hotScore": 0.765,
       "freshness": 1,
       "crossSource": 0.6309,
-      "totalScore": 0.7783,
+      "totalScore": 0.7953,
       "sources": [
         {
           "channel": "thepaper",
-          "rank": 4,
+          "rank": 3,
           "hot": 0,
           "url": "https://www.thepaper.cn/newsDetail_forward_33570712"
         }
@@ -152,37 +152,18 @@
       "url": ""
     },
     {
-      "id": "evt-14000000",
-      "title": "央行将开展14000亿元买断式逆回购",
-      "category": "economy",
-      "hotScore": 0.68,
-      "freshness": 0.9999,
-      "crossSource": 0.6309,
-      "totalScore": 0.7613,
-      "sources": [
-        {
-          "channel": "toutiao",
-          "rank": 5,
-          "hot": 18736510,
-          "url": "https://www.toutiao.com/trending/7661521641490432036/"
-        }
-      ],
-      "summary": "",
-      "url": "https://www.toutiao.com/trending/7661521641490432036/"
-    },
-    {
       "id": "evt-70000000",
       "title": "功夫女足票房破7亿",
       "category": "entertainment",
-      "hotScore": 0.8075,
-      "freshness": 0.9999,
+      "hotScore": 0.85,
+      "freshness": 1,
       "crossSource": 0.6309,
-      "totalScore": 0.8123,
+      "totalScore": 0.8293,
       "sources": [
         {
           "channel": "toutiao",
-          "rank": 2,
-          "hot": 25291643,
+          "rank": 1,
+          "hot": 28863422,
           "url": "https://www.toutiao.com/trending/7661624253770432555/"
         }
       ],
@@ -212,6 +193,69 @@
       "id": "evt-30000000",
       "title": "《功夫女足》预测票房涨至 30.3 亿，你觉得能打破《美人鱼》创造的「无厘头喜剧电影」票房纪录吗？",
       "category": "entertainment",
+      "hotScore": 0.675,
+      "freshness": 1,
+      "crossSource": 0.6309,
+      "totalScore": 0.7593,
+      "sources": [
+        {
+          "channel": "zhihu",
+          "rank": 3,
+          "hot": 0,
+          "url": ""
+        }
+      ],
+      "summary": "",
+      "url": ""
+    },
+    {
+      "id": "evt-80000000",
+      "title": "“鄂州龙卷风城区8人遇难”不实",
+      "category": "society",
+      "hotScore": 0.425,
+      "freshness": 1,
+      "crossSource": 1,
+      "totalScore": 0.77,
+      "sources": [
+        {
+          "channel": "toutiao",
+          "rank": 11,
+          "hot": 10618259,
+          "url": "https://www.toutiao.com/trending/7662311381517028890/"
+        },
+        {
+          "channel": "baidu",
+          "rank": 12,
+          "hot": 0,
+          "url": "https://m.baidu.com/s?word=%E2%80%9C%E9%84%82%E5%B7%9E%E9%BE%99%E5%8D%B7%E9%A3%8E%E5%9F%8E%E5%8C%BA8%E4%BA%BA%E9%81%87%E9%9A%BE%E2%80%9D%E4%B8%8D%E5%AE%9E&sa=fyb_news"
+        }
+      ],
+      "summary": "",
+      "url": "https://www.toutiao.com/trending/7662311381517028890/"
+    },
+    {
+      "id": "evt-67900000",
+      "title": "6月新增新冠确诊7.9万例 疾控提醒",
+      "category": "society",
+      "hotScore": 0.68,
+      "freshness": 1,
+      "crossSource": 0.6309,
+      "totalScore": 0.7613,
+      "sources": [
+        {
+          "channel": "toutiao",
+          "rank": 5,
+          "hot": 19347730,
+          "url": "https://www.toutiao.com/trending/7662267868830285860/"
+        }
+      ],
+      "summary": "",
+      "url": "https://www.toutiao.com/trending/7662267868830285860/"
+    },
+    {
+      "id": "evt-12306000",
+      "title": "在 12306 出现之前，线下购票柜台工作人员使用的 TRS 系统也是全国联网的，为什么那时没有崩溃问题？",
+      "category": "society",
       "hotScore": 0.6375,
       "freshness": 1,
       "crossSource": 0.6309,
@@ -228,48 +272,23 @@
       "url": ""
     },
     {
-      "id": "evt-80000000",
-      "title": "“鄂州龙卷风城区8人遇难”不实",
+      "id": "evt-24000000",
+      "title": "24小时制能否成为酒店业服务新方向？我们找消费者和从业者聊了聊",
       "category": "society",
-      "hotScore": 0.425,
-      "freshness": 0.9999,
-      "crossSource": 1,
-      "totalScore": 0.77,
-      "sources": [
-        {
-          "channel": "toutiao",
-          "rank": 11,
-          "hot": 10282814,
-          "url": "https://www.toutiao.com/trending/7662311381517028890/"
-        },
-        {
-          "channel": "baidu",
-          "rank": 12,
-          "hot": 0,
-          "url": "https://m.baidu.com/s?word=%E2%80%9C%E9%84%82%E5%B7%9E%E9%BE%99%E5%8D%B7%E9%A3%8E%E5%9F%8E%E5%8C%BA8%E4%BA%BA%E9%81%87%E9%9A%BE%E2%80%9D%E4%B8%8D%E5%AE%9E&sa=fyb_news"
-        }
-      ],
-      "summary": "",
-      "url": "https://www.toutiao.com/trending/7662311381517028890/"
-    },
-    {
-      "id": "evt-20260000",
-      "title": "知友发现 2026 菲尔兹奖名单泄露，王虹、邓煜疑似双双获奖，如何看待这一信息？",
-      "category": "society",
-      "hotScore": 0.675,
+      "hotScore": 0.6375,
       "freshness": 1,
       "crossSource": 0.6309,
-      "totalScore": 0.7593,
+      "totalScore": 0.7443,
       "sources": [
         {
-          "channel": "zhihu",
-          "rank": 3,
+          "channel": "thepaper",
+          "rank": 6,
           "hot": 0,
-          "url": ""
+          "url": "https://www.thepaper.cn/newsDetail_forward_33581628"
         }
       ],
       "summary": "",
-      "url": ""
+      "url": "https://www.thepaper.cn/newsDetail_forward_33581628"
     },
     {
       "id": "evt-3d000000",
@@ -289,25 +308,6 @@
       ],
       "summary": "36氪获悉，自4月9日起，中央电视台少儿频道携手好未来旗下教育品牌熊猫博士上线3D系列动画片《熊猫博士》。与此同时，《熊猫博士》3D动画片也在美国、加拿大、俄罗斯、意大利等多个国家、地区陆续发行，并登陆Discovery探索频道等多个世界知名节目。",
       "url": ""
-    },
-    {
-      "id": "evt-20250000",
-      "title": "感动中国2025年度人物揭晓",
-      "category": "society",
-      "hotScore": 0.6,
-      "freshness": 1,
-      "crossSource": 0.6309,
-      "totalScore": 0.7293,
-      "sources": [
-        {
-          "channel": "baidu",
-          "rank": 6,
-          "hot": 0,
-          "url": "https://m.baidu.com/s?word=%E6%84%9F%E5%8A%A8%E4%B8%AD%E5%9B%BD2025%E5%B9%B4%E5%BA%A6%E4%BA%BA%E7%89%A9%E6%8F%AD%E6%99%93&sa=fyb_news"
-        }
-      ],
-      "summary": "",
-      "url": "https://m.baidu.com/s?word=%E6%84%9F%E5%8A%A8%E4%B8%AD%E5%9B%BD2025%E5%B9%B4%E5%BA%A6%E4%BA%BA%E7%89%A9%E6%8F%AD%E6%99%93&sa=fyb_news"
     }
   ]
 }
