@@ -1,36 +1,11 @@
 {
-  "generatedAt": "2026-07-14T09:45:55.834Z",
+  "generatedAt": "2026-07-14T11:17:35.676Z",
   "fields": {
     "society": "社会",
     "economy": "经济",
     "entertainment": "娱乐"
   },
   "feed": [
-    {
-      "id": "evt-00000000",
-      "title": "马兴瑞被双开",
-      "category": "society",
-      "hotScore": 0.8075,
-      "freshness": 0.9999,
-      "crossSource": 1,
-      "totalScore": 0.923,
-      "sources": [
-        {
-          "channel": "toutiao",
-          "rank": 2,
-          "hot": 32566541,
-          "url": "https://www.toutiao.com/trending/7662212929651687433/"
-        },
-        {
-          "channel": "thepaper",
-          "rank": 19,
-          "hot": 0,
-          "url": "https://www.thepaper.cn/newsDetail_forward_33581328"
-        }
-      ],
-      "summary": "",
-      "url": "https://www.toutiao.com/trending/7662212929651687433/"
-    },
     {
       "id": "evt-lv000000",
       "title": "LV起诉国家知识产权局",
@@ -43,12 +18,50 @@
         {
           "channel": "toutiao",
           "rank": 1,
-          "hot": 35991594,
+          "hot": 37010946,
           "url": "https://www.toutiao.com/trending/7661443399892615206/"
         }
       ],
       "summary": "",
       "url": "https://www.toutiao.com/trending/7661443399892615206/"
+    },
+    {
+      "id": "evt-00000000",
+      "title": "硕士学位被撤销，蒋方舟：接受校方处理，向读者、老师致歉",
+      "category": "society",
+      "hotScore": 0.85,
+      "freshness": 0.9999,
+      "crossSource": 0.6309,
+      "totalScore": 0.8293,
+      "sources": [
+        {
+          "channel": "thepaper",
+          "rank": 1,
+          "hot": 0,
+          "url": "https://www.thepaper.cn/newsDetail_forward_33576831"
+        }
+      ],
+      "summary": "",
+      "url": "https://www.thepaper.cn/newsDetail_forward_33576831"
+    },
+    {
+      "id": "evt-ai000000",
+      "title": "AI生成环卫工照片获摄影比赛一等奖",
+      "category": "society",
+      "hotScore": 0.8075,
+      "freshness": 0.9999,
+      "crossSource": 0.6309,
+      "totalScore": 0.8123,
+      "sources": [
+        {
+          "channel": "toutiao",
+          "rank": 2,
+          "hot": 33488889,
+          "url": "https://www.toutiao.com/trending/7662295509886697491/"
+        }
+      ],
+      "summary": "",
+      "url": "https://www.toutiao.com/trending/7662295509886697491/"
     },
     {
       "id": "evt-20260000",
@@ -68,25 +81,6 @@
       ],
       "summary": "",
       "url": ""
-    },
-    {
-      "id": "evt-10052500",
-      "title": "存100万5.25%利息？四大行紧急提示",
-      "category": "society",
-      "hotScore": 0.72,
-      "freshness": 1,
-      "crossSource": 0.6309,
-      "totalScore": 0.7773,
-      "sources": [
-        {
-          "channel": "baidu",
-          "rank": 3,
-          "hot": 0,
-          "url": "https://m.baidu.com/s?word=%E5%AD%98100%E4%B8%875.25%25%E5%88%A9%E6%81%AF%EF%BC%9F%E5%9B%9B%E5%A4%A7%E8%A1%8C%E7%B4%A7%E6%80%A5%E6%8F%90%E7%A4%BA&sa=fyb_news"
-        }
-      ],
-      "summary": "",
-      "url": "https://m.baidu.com/s?word=%E5%AD%98100%E4%B8%875.25%25%E5%88%A9%E6%81%AF%EF%BC%9F%E5%9B%9B%E5%A4%A7%E8%A1%8C%E7%B4%A7%E6%80%A5%E6%8F%90%E7%A4%BA&sa=fyb_news"
     },
     {
       "id": "evt-10000000",
@@ -146,8 +140,8 @@
       "url": ""
     },
     {
-      "id": "evt-25000000",
-      "title": "超 250 万人请愿将阿根廷逐出世界杯，称国际足联和裁判偏袒阿根廷，你觉得是这样吗？裁判判罚有问题吗？",
+      "id": "evt-50000000",
+      "title": "超 500 万人请愿将阿根廷逐出世界杯，称国际足联和裁判偏袒阿根廷，你觉得是这样吗？裁判判罚有问题吗？",
       "category": "society",
       "hotScore": 0.7125,
       "freshness": 0.9999,
@@ -176,7 +170,7 @@
         {
           "channel": "toutiao",
           "rank": 11,
-          "hot": 13240567,
+          "hot": 13615566,
           "url": "https://www.toutiao.com/trending/7662311381517028890/"
         },
         {
@@ -190,8 +184,27 @@
       "url": "https://www.toutiao.com/trending/7662311381517028890/"
     },
     {
-      "id": "evt-40000000",
-      "title": "邹市明冉莹颖卖4城房产还近2亿债务",
+      "id": "evt-cbd00000",
+      "title": "北京国贸 CBD 每天中午上百名「转圈人」沿中央公园绕圈，如何看待这种午休方式？你是怎样度过午休的？",
+      "category": "society",
+      "hotScore": 0.675,
+      "freshness": 0.9999,
+      "crossSource": 0.6309,
+      "totalScore": 0.7593,
+      "sources": [
+        {
+          "channel": "zhihu",
+          "rank": 3,
+          "hot": 0,
+          "url": ""
+        }
+      ],
+      "summary": "",
+      "url": ""
+    },
+    {
+      "id": "evt-25000000",
+      "title": "女子取25万现金触发预警 民警核实",
       "category": "society",
       "hotScore": 0.64,
       "freshness": 1,
@@ -202,15 +215,15 @@
           "channel": "baidu",
           "rank": 5,
           "hot": 0,
-          "url": "https://m.baidu.com/s?word=%E9%82%B9%E5%B8%82%E6%98%8E%E5%86%89%E8%8E%B9%E9%A2%96%E5%8D%964%E5%9F%8E%E6%88%BF%E4%BA%A7%E8%BF%98%E8%BF%912%E4%BA%BF%E5%80%BA%E5%8A%A1&sa=fyb_news"
+          "url": "https://m.baidu.com/s?word=%E5%A5%B3%E5%AD%90%E5%8F%9625%E4%B8%87%E7%8E%B0%E9%87%91%E8%A7%A6%E5%8F%91%E9%A2%84%E8%AD%A6+%E6%B0%91%E8%AD%A6%E6%A0%B8%E5%AE%9E&sa=fyb_news"
         }
       ],
       "summary": "",
-      "url": "https://m.baidu.com/s?word=%E9%82%B9%E5%B8%82%E6%98%8E%E5%86%89%E8%8E%B9%E9%A2%96%E5%8D%964%E5%9F%8E%E6%88%BF%E4%BA%A7%E8%BF%98%E8%BF%912%E4%BA%BF%E5%80%BA%E5%8A%A1&sa=fyb_news"
+      "url": "https://m.baidu.com/s?word=%E5%A5%B3%E5%AD%90%E5%8F%9625%E4%B8%87%E7%8E%B0%E9%87%91%E8%A7%A6%E5%8F%91%E9%A2%84%E8%AD%A6+%E6%B0%91%E8%AD%A6%E6%A0%B8%E5%AE%9E&sa=fyb_news"
     },
     {
-      "id": "evt-cbd00000",
-      "title": "北京国贸 CBD 每天中午上百名「转圈人」沿中央公园绕圈，如何看待这种午休方式？你是怎样度过午休的？",
+      "id": "evt-openai00",
+      "title": "如何评价 OpenAI 新模型 GPT-5.6 Sol Ultra，在不到一小时内证明循环双覆盖猜想？",
       "category": "society",
       "hotScore": 0.6375,
       "freshness": 0.9999,
@@ -245,6 +258,44 @@
       ],
       "summary": "36氪获悉，自4月9日起，中央电视台少儿频道携手好未来旗下教育品牌熊猫博士上线3D系列动画片《熊猫博士》。与此同时，《熊猫博士》3D动画片也在美国、加拿大、俄罗斯、意大利等多个国家、地区陆续发行，并登陆Discovery探索频道等多个世界知名节目。",
       "url": ""
+    },
+    {
+      "id": "evt-12306000",
+      "title": "在 12306 出现之前，线下购票柜台工作人员使用的 TRS 系统也是全国联网的，为什么那时没有崩溃问题？",
+      "category": "society",
+      "hotScore": 0.6,
+      "freshness": 0.9999,
+      "crossSource": 0.6309,
+      "totalScore": 0.7293,
+      "sources": [
+        {
+          "channel": "zhihu",
+          "rank": 5,
+          "hot": 0,
+          "url": ""
+        }
+      ],
+      "summary": "",
+      "url": ""
+    },
+    {
+      "id": "evt-30000000",
+      "title": "俄投3吨重滑翔炸弹 冲击波清晰可见",
+      "category": "society",
+      "hotScore": 0.595,
+      "freshness": 0.9999,
+      "crossSource": 0.6309,
+      "totalScore": 0.7273,
+      "sources": [
+        {
+          "channel": "toutiao",
+          "rank": 7,
+          "hot": 20312038,
+          "url": "https://www.toutiao.com/trending/7661540676160487460/"
+        }
+      ],
+      "summary": "",
+      "url": "https://www.toutiao.com/trending/7661540676160487460/"
     }
   ]
 }
