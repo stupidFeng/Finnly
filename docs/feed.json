@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-07-15T20:49:37.430Z",
+  "generatedAt": "2026-07-15T22:48:33.544Z",
   "fields": {
     "society": "社会",
     "economy": "经济",
@@ -32,23 +32,23 @@
       "url": "https://www.thepaper.cn/newsDetail_forward_33591770"
     },
     {
-      "id": "evt-19000000",
-      "title": "肉搏战！英阿半场19次犯规",
+      "id": "evt-21000000",
+      "title": "劳塔罗绝杀！阿根廷2-1逆转英格兰",
       "category": "society",
-      "hotScore": 0.8075,
-      "freshness": 1,
+      "hotScore": 0.85,
+      "freshness": 0.9999,
       "crossSource": 0.6309,
-      "totalScore": 0.8123,
+      "totalScore": 0.8293,
       "sources": [
         {
           "channel": "toutiao",
-          "rank": 2,
-          "hot": 60283361,
-          "url": "https://www.toutiao.com/trending/7662838321558801947/"
+          "rank": 1,
+          "hot": 25346526,
+          "url": "https://www.toutiao.com/trending/7662590984089337910/"
         }
       ],
       "summary": "",
-      "url": "https://www.toutiao.com/trending/7662838321558801947/"
+      "url": "https://www.toutiao.com/trending/7662590984089337910/"
     },
     {
       "id": "evt-50000000",
@@ -166,54 +166,35 @@
     },
     {
       "id": "evt-vs000000",
-      "title": "世界杯：英格兰vs阿根廷",
+      "title": "世界杯半决赛，英格兰 vs 阿根廷，如何评价本场比赛？",
       "category": "society",
-      "hotScore": 0.76,
-      "freshness": 1,
+      "hotScore": 0.75,
+      "freshness": 0.9999,
       "crossSource": 0.6309,
-      "totalScore": 0.7933,
-      "sources": [
-        {
-          "channel": "baidu",
-          "rank": 2,
-          "hot": 0,
-          "url": "https://m.baidu.com/s?word=%E4%B8%96%E7%95%8C%E6%9D%AF%EF%BC%9A%E8%8B%B1%E6%A0%BC%E5%85%B0vs%E9%98%BF%E6%A0%B9%E5%BB%B7&sa=fyb_news"
-        }
-      ],
-      "summary": "",
-      "url": "https://m.baidu.com/s?word=%E4%B8%96%E7%95%8C%E6%9D%AF%EF%BC%9A%E8%8B%B1%E6%A0%BC%E5%85%B0vs%E9%98%BF%E6%A0%B9%E5%BB%B7&sa=fyb_news"
-    },
-    {
-      "id": "evt-20000000",
-      "title": "西班牙2-0淘汰法国，率先挺进世界杯决赛",
-      "category": "society",
-      "hotScore": 0.7225,
-      "freshness": 1,
-      "crossSource": 0.6309,
-      "totalScore": 0.7783,
-      "sources": [
-        {
-          "channel": "thepaper",
-          "rank": 4,
-          "hot": 0,
-          "url": "https://www.thepaper.cn/newsDetail_forward_33587688"
-        }
-      ],
-      "summary": "",
-      "url": "https://www.thepaper.cn/newsDetail_forward_33587688"
-    },
-    {
-      "id": "evt-q2000000",
-      "title": "如何评价 Q2 全球智能手机出货量同比下滑，小米跌幅最大，三星、苹果、华为逆势上涨？",
-      "category": "society",
-      "hotScore": 0.675,
-      "freshness": 1,
-      "crossSource": 0.6309,
-      "totalScore": 0.7593,
+      "totalScore": 0.7893,
       "sources": [
         {
           "channel": "zhihu",
-          "rank": 3,
+          "rank": 1,
+          "hot": 0,
+          "url": ""
+        }
+      ],
+      "summary": "",
+      "url": ""
+    },
+    {
+      "id": "evt-sk000000",
+      "title": "韩国股市大反弹，SK 海力士美股隔夜暴涨 27%，散户大规模爆仓强平后指数强势反弹，为何波动如此极端？",
+      "category": "economy",
+      "hotScore": 0.6375,
+      "freshness": 0.9999,
+      "crossSource": 0.6309,
+      "totalScore": 0.7443,
+      "sources": [
+        {
+          "channel": "zhihu",
+          "rank": 4,
           "hot": 0,
           "url": ""
         }
@@ -241,11 +222,30 @@
       "url": ""
     },
     {
-      "id": "evt-sk000000",
-      "title": "韩国股市大反弹，SK 海力士美股隔夜暴涨 27%，散户大规模爆仓强平后指数强势反弹，为何波动如此极端？",
-      "category": "economy",
+      "id": "evt-20260000",
+      "title": "2026 年美加墨世界杯世界杯半决赛英格兰 1:2 阿根廷，如何评价这场比赛？",
+      "category": "society",
+      "hotScore": 0.6,
+      "freshness": 0.9999,
+      "crossSource": 0.6309,
+      "totalScore": 0.7293,
+      "sources": [
+        {
+          "channel": "zhihu",
+          "rank": 5,
+          "hot": 0,
+          "url": ""
+        }
+      ],
+      "summary": "",
+      "url": ""
+    },
+    {
+      "id": "evt-q2000000",
+      "title": "如何评价 Q2 全球智能手机出货量同比下滑，小米跌幅最大，三星、苹果、华为逆势上涨？",
+      "category": "society",
       "hotScore": 0.5625,
-      "freshness": 1,
+      "freshness": 0.9999,
       "crossSource": 0.6309,
       "totalScore": 0.7143,
       "sources": [
@@ -258,25 +258,6 @@
       ],
       "summary": "",
       "url": ""
-    },
-    {
-      "id": "evt-30000000",
-      "title": "英阿对决30分钟零射门",
-      "category": "society",
-      "hotScore": 0.5525,
-      "freshness": 1,
-      "crossSource": 0.6309,
-      "totalScore": 0.7103,
-      "sources": [
-        {
-          "channel": "toutiao",
-          "rank": 8,
-          "hot": 33084210,
-          "url": "https://www.toutiao.com/trending/7662386459085291530/"
-        }
-      ],
-      "summary": "",
-      "url": "https://www.toutiao.com/trending/7662386459085291530/"
     }
   ]
 }
