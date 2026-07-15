@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-07-15T17:04:59.686Z",
+  "generatedAt": "2026-07-15T18:54:45.492Z",
   "fields": {
     "society": "社会",
     "economy": "经济",
@@ -70,23 +70,23 @@
       "url": "https://www.thepaper.cn/newsDetail_forward_33589310"
     },
     {
-      "id": "evt-20000000",
-      "title": "西班牙2-0淘汰法国，率先挺进世界杯决赛",
+      "id": "evt-vs000000",
+      "title": "世界杯：英格兰vs阿根廷",
       "category": "society",
-      "hotScore": 0.7225,
+      "hotScore": 0.76,
       "freshness": 1,
       "crossSource": 0.6309,
-      "totalScore": 0.7783,
+      "totalScore": 0.7933,
       "sources": [
         {
-          "channel": "thepaper",
-          "rank": 4,
+          "channel": "baidu",
+          "rank": 2,
           "hot": 0,
-          "url": "https://www.thepaper.cn/newsDetail_forward_33587688"
+          "url": "https://m.baidu.com/s?word=%E4%B8%96%E7%95%8C%E6%9D%AF%EF%BC%9A%E8%8B%B1%E6%A0%BC%E5%85%B0vs%E9%98%BF%E6%A0%B9%E5%BB%B7&sa=fyb_news"
         }
       ],
       "summary": "",
-      "url": "https://www.thepaper.cn/newsDetail_forward_33587688"
+      "url": "https://m.baidu.com/s?word=%E4%B8%96%E7%95%8C%E6%9D%AF%EF%BC%9A%E8%8B%B1%E6%A0%BC%E5%85%B0vs%E9%98%BF%E6%A0%B9%E5%BB%B7&sa=fyb_news"
     },
     {
       "id": "evt-10000000",
@@ -165,6 +165,25 @@
       "url": "https://m.baidu.com/s?word=%E4%BA%8C%E5%AD%A3%E5%BA%A6GDP%E5%A2%9E%E9%95%BF4.3%25+%E6%80%8E%E4%B9%88%E7%9C%8B&sa=fyb_news"
     },
     {
+      "id": "evt-20000000",
+      "title": "西班牙2-0淘汰法国，率先挺进世界杯决赛",
+      "category": "society",
+      "hotScore": 0.7225,
+      "freshness": 1,
+      "crossSource": 0.6309,
+      "totalScore": 0.7783,
+      "sources": [
+        {
+          "channel": "thepaper",
+          "rank": 4,
+          "hot": 0,
+          "url": "https://www.thepaper.cn/newsDetail_forward_33587688"
+        }
+      ],
+      "summary": "",
+      "url": "https://www.thepaper.cn/newsDetail_forward_33587688"
+    },
+    {
       "id": "evt-q2000000",
       "title": "如何评价 Q2 全球智能手机出货量同比下滑，小米跌幅最大，三星、苹果、华为逆势上涨？",
       "category": "society",
@@ -200,44 +219,6 @@
         }
       ],
       "summary": "36氪获悉，自4月9日起，中央电视台少儿频道携手好未来旗下教育品牌熊猫博士上线3D系列动画片《熊猫博士》。与此同时，《熊猫博士》3D动画片也在美国、加拿大、俄罗斯、意大利等多个国家、地区陆续发行，并登陆Discovery探索频道等多个世界知名节目。",
-      "url": ""
-    },
-    {
-      "id": "evt-vs000000",
-      "title": "世界杯：英格兰vs阿根廷",
-      "category": "society",
-      "hotScore": 0.6,
-      "freshness": 1,
-      "crossSource": 0.6309,
-      "totalScore": 0.7293,
-      "sources": [
-        {
-          "channel": "baidu",
-          "rank": 6,
-          "hot": 0,
-          "url": "https://m.baidu.com/s?word=%E4%B8%96%E7%95%8C%E6%9D%AF%EF%BC%9A%E8%8B%B1%E6%A0%BC%E5%85%B0vs%E9%98%BF%E6%A0%B9%E5%BB%B7&sa=fyb_news"
-        }
-      ],
-      "summary": "",
-      "url": "https://m.baidu.com/s?word=%E4%B8%96%E7%95%8C%E6%9D%AF%EF%BC%9A%E8%8B%B1%E6%A0%BC%E5%85%B0vs%E9%98%BF%E6%A0%B9%E5%BB%B7&sa=fyb_news"
-    },
-    {
-      "id": "evt-23000000",
-      "title": "小鹏汽车一季度上险量2331台",
-      "category": "economy",
-      "hotScore": 0.495,
-      "freshness": 1,
-      "crossSource": 0.6309,
-      "totalScore": 0.6873,
-      "sources": [
-        {
-          "channel": "36kr",
-          "rank": 10,
-          "hot": 0,
-          "url": ""
-        }
-      ],
-      "summary": "36氪获悉，4月11日，根据中国汽车研究中心数据，2020年一季度小鹏G3总计上险量达到2331台，3月单月上险量达到1094台。",
       "url": ""
     }
   ]
