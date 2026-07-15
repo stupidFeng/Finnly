@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-07-15T13:11:08.270Z",
+  "generatedAt": "2026-07-15T15:18:05.323Z",
   "fields": {
     "society": "社会",
     "economy": "经济",
@@ -32,31 +32,6 @@
       "url": "https://www.thepaper.cn/newsDetail_forward_33591770"
     },
     {
-      "id": "evt-35000000",
-      "title": "家长月薪3500元请大学生暑假带娃",
-      "category": "society",
-      "hotScore": 0.85,
-      "freshness": 1,
-      "crossSource": 1,
-      "totalScore": 0.94,
-      "sources": [
-        {
-          "channel": "toutiao",
-          "rank": 1,
-          "hot": 73335165,
-          "url": "https://www.toutiao.com/trending/7662675795064176667/"
-        },
-        {
-          "channel": "baidu",
-          "rank": 8,
-          "hot": 0,
-          "url": "https://m.baidu.com/s?word=%E5%AE%B6%E9%95%BF%E6%9C%88%E8%96%AA3500%E5%85%83%E8%AF%B7%E5%A4%A7%E5%AD%A6%E7%94%9F%E6%9A%91%E5%81%87%E5%B8%A6%E5%A8%83&sa=fyb_news"
-        }
-      ],
-      "summary": "",
-      "url": "https://www.toutiao.com/trending/7662675795064176667/"
-    },
-    {
       "id": "evt-50000000",
       "title": "5张图看懂中国人工智能进化之路",
       "category": "society",
@@ -74,6 +49,31 @@
       ],
       "summary": "",
       "url": "https://www.thepaper.cn/newsDetail_forward_33586048"
+    },
+    {
+      "id": "evt-35000000",
+      "title": "家长月薪3500元请大学生暑假带娃",
+      "category": "society",
+      "hotScore": 0.52,
+      "freshness": 0.9999,
+      "crossSource": 1,
+      "totalScore": 0.808,
+      "sources": [
+        {
+          "channel": "toutiao",
+          "rank": 16,
+          "hot": 17369332,
+          "url": "https://www.toutiao.com/trending/7662675795064176667/"
+        },
+        {
+          "channel": "baidu",
+          "rank": 8,
+          "hot": 0,
+          "url": "https://m.baidu.com/s?word=%E5%AE%B6%E9%95%BF%E6%9C%88%E8%96%AA3500%E5%85%83%E8%AF%B7%E5%A4%A7%E5%AD%A6%E7%94%9F%E6%9A%91%E5%81%87%E5%B8%A6%E5%A8%83&sa=fyb_news"
+        }
+      ],
+      "summary": "",
+      "url": "https://www.toutiao.com/trending/7662675795064176667/"
     },
     {
       "id": "evt-waic0000",
@@ -152,30 +152,30 @@
       "url": ""
     },
     {
-      "id": "evt-2026gdp6",
-      "title": "2026 年上半年 GDP 695704 亿元，同比增长 4.7%，如何解读这一数据？",
+      "id": "evt-gdp43000",
+      "title": "二季度GDP增长4.3% 怎么看",
       "category": "economy",
-      "hotScore": 0.7125,
+      "hotScore": 0.68,
       "freshness": 1,
       "crossSource": 0.6309,
-      "totalScore": 0.7743,
+      "totalScore": 0.7613,
       "sources": [
         {
-          "channel": "zhihu",
-          "rank": 2,
+          "channel": "baidu",
+          "rank": 4,
           "hot": 0,
-          "url": ""
+          "url": "https://m.baidu.com/s?word=%E4%BA%8C%E5%AD%A3%E5%BA%A6GDP%E5%A2%9E%E9%95%BF4.3%25+%E6%80%8E%E4%B9%88%E7%9C%8B&sa=fyb_news"
         }
       ],
       "summary": "",
-      "url": ""
+      "url": "https://m.baidu.com/s?word=%E4%BA%8C%E5%AD%A3%E5%BA%A6GDP%E5%A2%9E%E9%95%BF4.3%25+%E6%80%8E%E4%B9%88%E7%9C%8B&sa=fyb_news"
     },
     {
       "id": "evt-20260000",
       "title": "2026 年美加墨世界杯半决赛，英格兰 vs 阿根廷，你看好谁能取胜？",
       "category": "society",
       "hotScore": 0.75,
-      "freshness": 1,
+      "freshness": 0.9999,
       "crossSource": 0.6309,
       "totalScore": 0.7893,
       "sources": [
@@ -188,25 +188,6 @@
       ],
       "summary": "",
       "url": ""
-    },
-    {
-      "id": "evt-11000000",
-      "title": "幼儿园1元1斤包圆男孩和爷爷的瓜",
-      "category": "society",
-      "hotScore": 0.7225,
-      "freshness": 1,
-      "crossSource": 0.6309,
-      "totalScore": 0.7783,
-      "sources": [
-        {
-          "channel": "toutiao",
-          "rank": 4,
-          "hot": 54328026,
-          "url": "https://www.toutiao.com/trending/7662355263302926342/"
-        }
-      ],
-      "summary": "",
-      "url": "https://www.toutiao.com/trending/7662355263302926342/"
     },
     {
       "id": "evt-20000000",
@@ -228,42 +209,42 @@
       "url": "https://www.thepaper.cn/newsDetail_forward_33587688"
     },
     {
-      "id": "evt-gdp43000",
-      "title": "二季度GDP增长4.3% 怎么看",
-      "category": "economy",
-      "hotScore": 0.68,
+      "id": "evt-q2000000",
+      "title": "如何评价 Q2 全球智能手机出货量同比下滑，小米跌幅最大，三星、苹果、华为逆势上涨？",
+      "category": "society",
+      "hotScore": 0.675,
+      "freshness": 0.9999,
+      "crossSource": 0.6309,
+      "totalScore": 0.7593,
+      "sources": [
+        {
+          "channel": "zhihu",
+          "rank": 3,
+          "hot": 0,
+          "url": ""
+        }
+      ],
+      "summary": "",
+      "url": ""
+    },
+    {
+      "id": "evt-67800000",
+      "title": "高考678分男生暑假跟着父亲跑货车",
+      "category": "society",
+      "hotScore": 0.64,
       "freshness": 1,
       "crossSource": 0.6309,
-      "totalScore": 0.7613,
+      "totalScore": 0.7453,
       "sources": [
         {
           "channel": "baidu",
-          "rank": 4,
+          "rank": 5,
           "hot": 0,
-          "url": "https://m.baidu.com/s?word=%E4%BA%8C%E5%AD%A3%E5%BA%A6GDP%E5%A2%9E%E9%95%BF4.3%25+%E6%80%8E%E4%B9%88%E7%9C%8B&sa=fyb_news"
+          "url": "https://m.baidu.com/s?word=%E9%AB%98%E8%80%83678%E5%88%86%E7%94%B7%E7%94%9F%E6%9A%91%E5%81%87%E8%B7%9F%E7%9D%80%E7%88%B6%E4%BA%B2%E8%B7%91%E8%B4%A7%E8%BD%A6&sa=fyb_news"
         }
       ],
       "summary": "",
-      "url": "https://m.baidu.com/s?word=%E4%BA%8C%E5%AD%A3%E5%BA%A6GDP%E5%A2%9E%E9%95%BF4.3%25+%E6%80%8E%E4%B9%88%E7%9C%8B&sa=fyb_news"
-    },
-    {
-      "id": "evt-40000000",
-      "title": "上线一周年4000万人申领",
-      "category": "society",
-      "hotScore": 0.6375,
-      "freshness": 1,
-      "crossSource": 0.6309,
-      "totalScore": 0.7443,
-      "sources": [
-        {
-          "channel": "toutiao",
-          "rank": 6,
-          "hot": 44480026,
-          "url": "https://www.toutiao.com/trending/7662045803342970931/"
-        }
-      ],
-      "summary": "",
-      "url": "https://www.toutiao.com/trending/7662045803342970931/"
+      "url": "https://m.baidu.com/s?word=%E9%AB%98%E8%80%83678%E5%88%86%E7%94%B7%E7%94%9F%E6%9A%91%E5%81%87%E8%B7%9F%E7%9D%80%E7%88%B6%E4%BA%B2%E8%B7%91%E8%B4%A7%E8%BD%A6&sa=fyb_news"
     },
     {
       "id": "evt-3d000000",
@@ -285,8 +266,8 @@
       "url": ""
     },
     {
-      "id": "evt-36000000",
-      "title": "身家飙升至 360 亿美元，为什么梁文锋能超越奥特曼和达里奥成全球 AI 大模型创始人首富？",
+      "id": "evt-vs000000",
+      "title": "世界杯：英格兰vs阿根廷",
       "category": "society",
       "hotScore": 0.6,
       "freshness": 1,
@@ -294,8 +275,27 @@
       "totalScore": 0.7293,
       "sources": [
         {
+          "channel": "baidu",
+          "rank": 6,
+          "hot": 0,
+          "url": "https://m.baidu.com/s?word=%E4%B8%96%E7%95%8C%E6%9D%AF%EF%BC%9A%E8%8B%B1%E6%A0%BC%E5%85%B0vs%E9%98%BF%E6%A0%B9%E5%BB%B7&sa=fyb_news"
+        }
+      ],
+      "summary": "",
+      "url": "https://m.baidu.com/s?word=%E4%B8%96%E7%95%8C%E6%9D%AF%EF%BC%9A%E8%8B%B1%E6%A0%BC%E5%85%B0vs%E9%98%BF%E6%A0%B9%E5%BB%B7&sa=fyb_news"
+    },
+    {
+      "id": "evt-36000000",
+      "title": "身家飙升至 360 亿美元，为什么梁文锋能超越奥特曼和达里奥成全球 AI 大模型创始人首富？",
+      "category": "society",
+      "hotScore": 0.5625,
+      "freshness": 0.9999,
+      "crossSource": 0.6309,
+      "totalScore": 0.7143,
+      "sources": [
+        {
           "channel": "zhihu",
-          "rank": 5,
+          "rank": 6,
           "hot": 0,
           "url": ""
         }
