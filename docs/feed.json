@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-07-15T01:21:45.582Z",
+  "generatedAt": "2026-07-15T04:40:39.588Z",
   "fields": {
     "society": "社会",
     "economy": "经济",
@@ -7,29 +7,67 @@
   },
   "feed": [
     {
+      "id": "evt-15000000",
+      "title": "法国1.5亿巨星灾难表现遭法媒怒批",
+      "category": "society",
+      "hotScore": 0.68,
+      "freshness": 0.9999,
+      "crossSource": 1,
+      "totalScore": 0.872,
+      "sources": [
+        {
+          "channel": "toutiao",
+          "rank": 5,
+          "hot": 31449188,
+          "url": "https://www.toutiao.com/trending/7661841057671482943/"
+        },
+        {
+          "channel": "baidu",
+          "rank": 13,
+          "hot": 0,
+          "url": "https://m.baidu.com/s?word=%E6%B3%95%E5%9B%BD1.5%E4%BA%BF%E5%B7%A8%E6%98%9F%E7%81%BE%E9%9A%BE%E8%A1%A8%E7%8E%B0%E9%81%AD%E6%B3%95%E5%AA%92%E6%80%92%E6%89%B9&sa=fyb_news"
+        }
+      ],
+      "summary": "",
+      "url": "https://www.toutiao.com/trending/7661841057671482943/"
+    },
+    {
       "id": "evt-00000000",
-      "title": "西班牙中场再现“世界名画”",
+      "title": "贾浅浅抄袭硕士学位被撤销",
       "category": "society",
       "hotScore": 0.85,
-      "freshness": 1,
-      "crossSource": 1,
-      "totalScore": 0.94,
+      "freshness": 0.9999,
+      "crossSource": 0.6309,
+      "totalScore": 0.8293,
       "sources": [
         {
           "channel": "toutiao",
           "rank": 1,
-          "hot": 32491828,
-          "url": "https://www.toutiao.com/trending/7662143589740527666/"
-        },
-        {
-          "channel": "baidu",
-          "rank": 15,
-          "hot": 0,
-          "url": "https://m.baidu.com/s?word=%E8%A5%BF%E7%8F%AD%E7%89%99%E4%B8%AD%E5%9C%BA%E5%86%8D%E7%8E%B0%E2%80%9C%E4%B8%96%E7%95%8C%E5%90%8D%E7%94%BB%E2%80%9D&sa=fyb_news"
+          "hot": 46916676,
+          "url": "https://www.toutiao.com/trending/7661738702900871177/"
         }
       ],
       "summary": "",
-      "url": "https://www.toutiao.com/trending/7662143589740527666/"
+      "url": "https://www.toutiao.com/trending/7661738702900871177/"
+    },
+    {
+      "id": "evt-64000000",
+      "title": "新华社分析64队世界杯，从设想到现实还有多远",
+      "category": "society",
+      "hotScore": 0.85,
+      "freshness": 1,
+      "crossSource": 0.6309,
+      "totalScore": 0.8293,
+      "sources": [
+        {
+          "channel": "thepaper",
+          "rank": 1,
+          "hot": 0,
+          "url": "https://www.thepaper.cn/newsDetail_forward_33584231"
+        }
+      ],
+      "summary": "",
+      "url": "https://www.thepaper.cn/newsDetail_forward_33584231"
     },
     {
       "id": "evt-20000000",
@@ -49,44 +87,6 @@
       ],
       "summary": "",
       "url": "https://www.thepaper.cn/newsDetail_forward_33587688"
-    },
-    {
-      "id": "evt-50000000",
-      "title": "未来5年消费“路线图”来了",
-      "category": "society",
-      "hotScore": 0.68,
-      "freshness": 1,
-      "crossSource": 0.6309,
-      "totalScore": 0.7613,
-      "sources": [
-        {
-          "channel": "baidu",
-          "rank": 4,
-          "hot": 0,
-          "url": "https://m.baidu.com/s?word=%E6%9C%AA%E6%9D%A55%E5%B9%B4%E6%B6%88%E8%B4%B9%E2%80%9C%E8%B7%AF%E7%BA%BF%E5%9B%BE%E2%80%9D%E6%9D%A5%E4%BA%86&sa=fyb_news"
-        }
-      ],
-      "summary": "",
-      "url": "https://m.baidu.com/s?word=%E6%9C%AA%E6%9D%A55%E5%B9%B4%E6%B6%88%E8%B4%B9%E2%80%9C%E8%B7%AF%E7%BA%BF%E5%9B%BE%E2%80%9D%E6%9D%A5%E4%BA%86&sa=fyb_news"
-    },
-    {
-      "id": "evt-90000000",
-      "title": "伴娘遭婚闹被抛摔致伤残，9 人被判赔 23 万元，如何从法律角度解读这一判决？",
-      "category": "society",
-      "hotScore": 0.675,
-      "freshness": 1,
-      "crossSource": 0.6309,
-      "totalScore": 0.7593,
-      "sources": [
-        {
-          "channel": "zhihu",
-          "rank": 3,
-          "hot": 0,
-          "url": ""
-        }
-      ],
-      "summary": "",
-      "url": ""
     },
     {
       "id": "evt-10000000",
@@ -146,42 +146,42 @@
       "url": ""
     },
     {
-      "id": "evt-40000000",
-      "title": "上线一周年4000万人申领",
-      "category": "society",
-      "hotScore": 0.6375,
-      "freshness": 1,
-      "crossSource": 0.6309,
-      "totalScore": 0.7443,
-      "sources": [
-        {
-          "channel": "toutiao",
-          "rank": 6,
-          "hot": 19707289,
-          "url": "https://www.toutiao.com/trending/7662045803342970931/"
-        }
-      ],
-      "summary": "",
-      "url": "https://www.toutiao.com/trending/7662045803342970931/"
-    },
-    {
       "id": "evt-71600000",
       "title": "长鑫科技 7 月 16 日开启申购，发行价为 8.66 元 / 股，估值超 4 万亿，对其自身发展和半导体产业意味着什么？",
       "category": "society",
-      "hotScore": 0.6375,
-      "freshness": 1,
+      "hotScore": 0.7125,
+      "freshness": 0.9999,
       "crossSource": 0.6309,
-      "totalScore": 0.7443,
+      "totalScore": 0.7743,
       "sources": [
         {
           "channel": "zhihu",
-          "rank": 4,
+          "rank": 2,
           "hot": 0,
           "url": ""
         }
       ],
       "summary": "",
       "url": ""
+    },
+    {
+      "id": "evt-40000000",
+      "title": "上线一周年4000万人申领",
+      "category": "society",
+      "hotScore": 0.6375,
+      "freshness": 0.9999,
+      "crossSource": 0.6309,
+      "totalScore": 0.7443,
+      "sources": [
+        {
+          "channel": "toutiao",
+          "rank": 6,
+          "hot": 28456402,
+          "url": "https://www.toutiao.com/trending/7662045803342970931/"
+        }
+      ],
+      "summary": "",
+      "url": "https://www.toutiao.com/trending/7662045803342970931/"
     },
     {
       "id": "evt-3d000000",
@@ -203,6 +203,25 @@
       "url": ""
     },
     {
+      "id": "evt-lol00000",
+      "title": "LoL 官宣将推出怀旧模式，还原老版模型与旧数值且长期开放，在玩家日趋流失的现在会是个好做法吗？",
+      "category": "society",
+      "hotScore": 0.5625,
+      "freshness": 0.9999,
+      "crossSource": 0.6309,
+      "totalScore": 0.7143,
+      "sources": [
+        {
+          "channel": "zhihu",
+          "rank": 6,
+          "hot": 0,
+          "url": ""
+        }
+      ],
+      "summary": "",
+      "url": ""
+    },
+    {
       "id": "evt-24000000",
       "title": "24小时制能否成为酒店业服务新方向？我们找消费者和从业者聊了聊",
       "category": "society",
@@ -220,6 +239,25 @@
       ],
       "summary": "",
       "url": "https://www.thepaper.cn/newsDetail_forward_33581628"
+    },
+    {
+      "id": "evt-codexgp0",
+      "title": "为什么 Codex 搭载 GPT-5.6 后，越来越多用户开始弃用 Skills？",
+      "category": "society",
+      "hotScore": 0.525,
+      "freshness": 0.9999,
+      "crossSource": 0.6309,
+      "totalScore": 0.6993,
+      "sources": [
+        {
+          "channel": "zhihu",
+          "rank": 7,
+          "hot": 0,
+          "url": ""
+        }
+      ],
+      "summary": "",
+      "url": ""
     }
   ]
 }
