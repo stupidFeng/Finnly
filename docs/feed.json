@@ -1,30 +1,11 @@
 {
-  "generatedAt": "2026-07-15T11:21:35.872Z",
+  "generatedAt": "2026-07-15T13:11:08.270Z",
   "fields": {
     "society": "社会",
     "economy": "经济",
     "entertainment": "娱乐"
   },
   "feed": [
-    {
-      "id": "evt-35000000",
-      "title": "家长月薪3500元请大学生暑假带娃",
-      "category": "society",
-      "hotScore": 0.85,
-      "freshness": 1,
-      "crossSource": 1,
-      "totalScore": 0.94,
-      "sources": [
-        {
-          "channel": "toutiao",
-          "rank": 1,
-          "hot": 69427857,
-          "url": "https://www.toutiao.com/trending/7662675795064176667/"
-        }
-      ],
-      "summary": "",
-      "url": "https://www.toutiao.com/trending/7662675795064176667/"
-    },
     {
       "id": "evt-00000000",
       "title": "习近平在上海考察",
@@ -39,10 +20,41 @@
           "rank": 1,
           "hot": 0,
           "url": "https://www.thepaper.cn/newsDetail_forward_33591770"
+        },
+        {
+          "channel": "baidu",
+          "rank": 1,
+          "hot": 0,
+          "url": "https://m.baidu.com/s?word=%E4%B9%A0%E8%BF%91%E5%B9%B3%E5%9C%A8%E4%B8%8A%E6%B5%B7%E8%80%83%E5%AF%9F&sa=fyb_news"
         }
       ],
       "summary": "",
       "url": "https://www.thepaper.cn/newsDetail_forward_33591770"
+    },
+    {
+      "id": "evt-35000000",
+      "title": "家长月薪3500元请大学生暑假带娃",
+      "category": "society",
+      "hotScore": 0.85,
+      "freshness": 1,
+      "crossSource": 1,
+      "totalScore": 0.94,
+      "sources": [
+        {
+          "channel": "toutiao",
+          "rank": 1,
+          "hot": 73335165,
+          "url": "https://www.toutiao.com/trending/7662675795064176667/"
+        },
+        {
+          "channel": "baidu",
+          "rank": 8,
+          "hot": 0,
+          "url": "https://m.baidu.com/s?word=%E5%AE%B6%E9%95%BF%E6%9C%88%E8%96%AA3500%E5%85%83%E8%AF%B7%E5%A4%A7%E5%AD%A6%E7%94%9F%E6%9A%91%E5%81%87%E5%B8%A6%E5%A8%83&sa=fyb_news"
+        }
+      ],
+      "summary": "",
+      "url": "https://www.toutiao.com/trending/7662675795064176667/"
     },
     {
       "id": "evt-50000000",
@@ -50,8 +62,8 @@
       "category": "society",
       "hotScore": 0.8075,
       "freshness": 1,
-      "crossSource": 1,
-      "totalScore": 0.923,
+      "crossSource": 0.6309,
+      "totalScore": 0.8123,
       "sources": [
         {
           "channel": "thepaper",
@@ -69,8 +81,8 @@
       "category": "society",
       "hotScore": 0.765,
       "freshness": 1,
-      "crossSource": 1,
-      "totalScore": 0.906,
+      "crossSource": 0.6309,
+      "totalScore": 0.7953,
       "sources": [
         {
           "channel": "thepaper",
@@ -88,8 +100,8 @@
       "category": "economy",
       "hotScore": 0.9,
       "freshness": 1,
-      "crossSource": 1,
-      "totalScore": 0.96,
+      "crossSource": 0.6309,
+      "totalScore": 0.8493,
       "sources": [
         {
           "channel": "36kr",
@@ -107,8 +119,8 @@
       "category": "economy",
       "hotScore": 0.855,
       "freshness": 1,
-      "crossSource": 1,
-      "totalScore": 0.942,
+      "crossSource": 0.6309,
+      "totalScore": 0.8313,
       "sources": [
         {
           "channel": "36kr",
@@ -126,8 +138,8 @@
       "category": "economy",
       "hotScore": 0.81,
       "freshness": 1,
-      "crossSource": 1,
-      "totalScore": 0.924,
+      "crossSource": 0.6309,
+      "totalScore": 0.8133,
       "sources": [
         {
           "channel": "36kr",
@@ -143,10 +155,29 @@
       "id": "evt-2026gdp6",
       "title": "2026 年上半年 GDP 695704 亿元，同比增长 4.7%，如何解读这一数据？",
       "category": "economy",
+      "hotScore": 0.7125,
+      "freshness": 1,
+      "crossSource": 0.6309,
+      "totalScore": 0.7743,
+      "sources": [
+        {
+          "channel": "zhihu",
+          "rank": 2,
+          "hot": 0,
+          "url": ""
+        }
+      ],
+      "summary": "",
+      "url": ""
+    },
+    {
+      "id": "evt-20260000",
+      "title": "2026 年美加墨世界杯半决赛，英格兰 vs 阿根廷，你看好谁能取胜？",
+      "category": "society",
       "hotScore": 0.75,
       "freshness": 1,
-      "crossSource": 1,
-      "totalScore": 0.9,
+      "crossSource": 0.6309,
+      "totalScore": 0.7893,
       "sources": [
         {
           "channel": "zhihu",
@@ -159,42 +190,61 @@
       "url": ""
     },
     {
-      "id": "evt-64000000",
-      "title": "新华社分析64队世界杯，从设想到现实还有多远",
+      "id": "evt-11000000",
+      "title": "幼儿园1元1斤包圆男孩和爷爷的瓜",
       "category": "society",
-      "hotScore": 0.68,
+      "hotScore": 0.7225,
       "freshness": 1,
-      "crossSource": 1,
-      "totalScore": 0.872,
+      "crossSource": 0.6309,
+      "totalScore": 0.7783,
+      "sources": [
+        {
+          "channel": "toutiao",
+          "rank": 4,
+          "hot": 54328026,
+          "url": "https://www.toutiao.com/trending/7662355263302926342/"
+        }
+      ],
+      "summary": "",
+      "url": "https://www.toutiao.com/trending/7662355263302926342/"
+    },
+    {
+      "id": "evt-20000000",
+      "title": "西班牙2-0淘汰法国，率先挺进世界杯决赛",
+      "category": "society",
+      "hotScore": 0.7225,
+      "freshness": 1,
+      "crossSource": 0.6309,
+      "totalScore": 0.7783,
       "sources": [
         {
           "channel": "thepaper",
-          "rank": 5,
+          "rank": 4,
           "hot": 0,
-          "url": "https://www.thepaper.cn/newsDetail_forward_33584231"
+          "url": "https://www.thepaper.cn/newsDetail_forward_33587688"
         }
       ],
       "summary": "",
-      "url": "https://www.thepaper.cn/newsDetail_forward_33584231"
+      "url": "https://www.thepaper.cn/newsDetail_forward_33587688"
     },
     {
-      "id": "evt-20260000",
-      "title": "2026 年美加墨世界杯半决赛，英格兰 vs 阿根廷，你看好谁能取胜？",
-      "category": "society",
-      "hotScore": 0.675,
+      "id": "evt-gdp43000",
+      "title": "二季度GDP增长4.3% 怎么看",
+      "category": "economy",
+      "hotScore": 0.68,
       "freshness": 1,
-      "crossSource": 1,
-      "totalScore": 0.87,
+      "crossSource": 0.6309,
+      "totalScore": 0.7613,
       "sources": [
         {
-          "channel": "zhihu",
-          "rank": 3,
+          "channel": "baidu",
+          "rank": 4,
           "hot": 0,
-          "url": ""
+          "url": "https://m.baidu.com/s?word=%E4%BA%8C%E5%AD%A3%E5%BA%A6GDP%E5%A2%9E%E9%95%BF4.3%25+%E6%80%8E%E4%B9%88%E7%9C%8B&sa=fyb_news"
         }
       ],
       "summary": "",
-      "url": ""
+      "url": "https://m.baidu.com/s?word=%E4%BA%8C%E5%AD%A3%E5%BA%A6GDP%E5%A2%9E%E9%95%BF4.3%25+%E6%80%8E%E4%B9%88%E7%9C%8B&sa=fyb_news"
     },
     {
       "id": "evt-40000000",
@@ -202,13 +252,13 @@
       "category": "society",
       "hotScore": 0.6375,
       "freshness": 1,
-      "crossSource": 1,
-      "totalScore": 0.855,
+      "crossSource": 0.6309,
+      "totalScore": 0.7443,
       "sources": [
         {
           "channel": "toutiao",
           "rank": 6,
-          "hot": 42110124,
+          "hot": 44480026,
           "url": "https://www.toutiao.com/trending/7662045803342970931/"
         }
       ],
@@ -221,8 +271,8 @@
       "category": "society",
       "hotScore": 0.63,
       "freshness": 1,
-      "crossSource": 1,
-      "totalScore": 0.852,
+      "crossSource": 0.6309,
+      "totalScore": 0.7413,
       "sources": [
         {
           "channel": "36kr",
@@ -235,61 +285,23 @@
       "url": ""
     },
     {
-      "id": "evt-10200000",
-      "title": "国台办回应“10至20年间逐渐统一”",
+      "id": "evt-36000000",
+      "title": "身家飙升至 360 亿美元，为什么梁文锋能超越奥特曼和达里奥成全球 AI 大模型创始人首富？",
       "category": "society",
       "hotScore": 0.6,
       "freshness": 1,
-      "crossSource": 1,
-      "totalScore": 0.84,
+      "crossSource": 0.6309,
+      "totalScore": 0.7293,
       "sources": [
         {
-          "channel": "baidu",
-          "rank": 6,
+          "channel": "zhihu",
+          "rank": 5,
           "hot": 0,
-          "url": "https://m.baidu.com/s?word=%E5%9B%BD%E5%8F%B0%E5%8A%9E%E5%9B%9E%E5%BA%94%E2%80%9C10%E8%87%B320%E5%B9%B4%E9%97%B4%E9%80%90%E6%B8%90%E7%BB%9F%E4%B8%80%E2%80%9D&sa=fyb_news"
+          "url": ""
         }
       ],
       "summary": "",
-      "url": "https://m.baidu.com/s?word=%E5%9B%BD%E5%8F%B0%E5%8A%9E%E5%9B%9E%E5%BA%94%E2%80%9C10%E8%87%B320%E5%B9%B4%E9%97%B4%E9%80%90%E6%B8%90%E7%BB%9F%E4%B8%80%E2%80%9D&sa=fyb_news"
-    },
-    {
-      "id": "evt-20000000",
-      "title": "西班牙2-0淘汰法国，率先挺进世界杯决赛",
-      "category": "society",
-      "hotScore": 0.595,
-      "freshness": 1,
-      "crossSource": 1,
-      "totalScore": 0.838,
-      "sources": [
-        {
-          "channel": "thepaper",
-          "rank": 7,
-          "hot": 0,
-          "url": "https://www.thepaper.cn/newsDetail_forward_33587688"
-        }
-      ],
-      "summary": "",
-      "url": "https://www.thepaper.cn/newsDetail_forward_33587688"
-    },
-    {
-      "id": "evt-87000000",
-      "title": "87版《红楼梦》刘姥姥扮演者去世",
-      "category": "society",
-      "hotScore": 0.52,
-      "freshness": 1,
-      "crossSource": 1,
-      "totalScore": 0.808,
-      "sources": [
-        {
-          "channel": "baidu",
-          "rank": 8,
-          "hot": 0,
-          "url": "https://m.baidu.com/s?word=87%E7%89%88%E3%80%8A%E7%BA%A2%E6%A5%BC%E6%A2%A6%E3%80%8B%E5%88%98%E5%A7%A5%E5%A7%A5%E6%89%AE%E6%BC%94%E8%80%85%E5%8E%BB%E4%B8%96&sa=fyb_news"
-        }
-      ],
-      "summary": "",
-      "url": "https://m.baidu.com/s?word=87%E7%89%88%E3%80%8A%E7%BA%A2%E6%A5%BC%E6%A2%A6%E3%80%8B%E5%88%98%E5%A7%A5%E5%A7%A5%E6%89%AE%E6%BC%94%E8%80%85%E5%8E%BB%E4%B8%96&sa=fyb_news"
+      "url": ""
     }
   ]
 }
