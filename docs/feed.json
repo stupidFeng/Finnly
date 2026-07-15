@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-07-15T04:40:39.588Z",
+  "generatedAt": "2026-07-15T07:49:56.758Z",
   "fields": {
     "society": "社会",
     "economy": "经济",
@@ -7,33 +7,8 @@
   },
   "feed": [
     {
-      "id": "evt-15000000",
-      "title": "法国1.5亿巨星灾难表现遭法媒怒批",
-      "category": "society",
-      "hotScore": 0.68,
-      "freshness": 0.9999,
-      "crossSource": 1,
-      "totalScore": 0.872,
-      "sources": [
-        {
-          "channel": "toutiao",
-          "rank": 5,
-          "hot": 31449188,
-          "url": "https://www.toutiao.com/trending/7661841057671482943/"
-        },
-        {
-          "channel": "baidu",
-          "rank": 13,
-          "hot": 0,
-          "url": "https://m.baidu.com/s?word=%E6%B3%95%E5%9B%BD1.5%E4%BA%BF%E5%B7%A8%E6%98%9F%E7%81%BE%E9%9A%BE%E8%A1%A8%E7%8E%B0%E9%81%AD%E6%B3%95%E5%AA%92%E6%80%92%E6%89%B9&sa=fyb_news"
-        }
-      ],
-      "summary": "",
-      "url": "https://www.toutiao.com/trending/7661841057671482943/"
-    },
-    {
       "id": "evt-00000000",
-      "title": "贾浅浅抄袭硕士学位被撤销",
+      "title": "龙凤胎哥哥上国防科大妹妹上北大",
       "category": "society",
       "hotScore": 0.85,
       "freshness": 0.9999,
@@ -43,25 +18,44 @@
         {
           "channel": "toutiao",
           "rank": 1,
-          "hot": 46916676,
-          "url": "https://www.toutiao.com/trending/7661738702900871177/"
+          "hot": 59611744,
+          "url": "https://www.toutiao.com/trending/7662593488202612772/"
         }
       ],
       "summary": "",
-      "url": "https://www.toutiao.com/trending/7661738702900871177/"
+      "url": "https://www.toutiao.com/trending/7662593488202612772/"
+    },
+    {
+      "id": "evt-75000000",
+      "title": "打虎！75岁正部蔡赴朝被查",
+      "category": "society",
+      "hotScore": 0.8075,
+      "freshness": 0.9999,
+      "crossSource": 0.6309,
+      "totalScore": 0.8123,
+      "sources": [
+        {
+          "channel": "toutiao",
+          "rank": 2,
+          "hot": 53938937,
+          "url": "https://www.toutiao.com/trending/7662630430185357353/"
+        }
+      ],
+      "summary": "",
+      "url": "https://www.toutiao.com/trending/7662630430185357353/"
     },
     {
       "id": "evt-64000000",
       "title": "新华社分析64队世界杯，从设想到现实还有多远",
       "category": "society",
-      "hotScore": 0.85,
-      "freshness": 1,
+      "hotScore": 0.8075,
+      "freshness": 0.9999,
       "crossSource": 0.6309,
-      "totalScore": 0.8293,
+      "totalScore": 0.8123,
       "sources": [
         {
           "channel": "thepaper",
-          "rank": 1,
+          "rank": 2,
           "hot": 0,
           "url": "https://www.thepaper.cn/newsDetail_forward_33584231"
         }
@@ -74,7 +68,7 @@
       "title": "西班牙2-0淘汰法国，率先挺进世界杯决赛",
       "category": "society",
       "hotScore": 0.765,
-      "freshness": 1,
+      "freshness": 0.9999,
       "crossSource": 0.6309,
       "totalScore": 0.7953,
       "sources": [
@@ -146,9 +140,9 @@
       "url": ""
     },
     {
-      "id": "evt-71600000",
-      "title": "长鑫科技 7 月 16 日开启申购，发行价为 8.66 元 / 股，估值超 4 万亿，对其自身发展和半导体产业意味着什么？",
-      "category": "society",
+      "id": "evt-2026gdp6",
+      "title": "2026 年上半年 GDP 695704 亿元，同比增长 4.7%，如何解读这一数据？",
+      "category": "economy",
       "hotScore": 0.7125,
       "freshness": 0.9999,
       "crossSource": 0.6309,
@@ -165,6 +159,25 @@
       "url": ""
     },
     {
+      "id": "evt-87000000",
+      "title": "87版《红楼梦》刘姥姥扮演者去世",
+      "category": "society",
+      "hotScore": 0.72,
+      "freshness": 0.9999,
+      "crossSource": 0.6309,
+      "totalScore": 0.7773,
+      "sources": [
+        {
+          "channel": "baidu",
+          "rank": 3,
+          "hot": 0,
+          "url": "https://m.baidu.com/s?word=87%E7%89%88%E3%80%8A%E7%BA%A2%E6%A5%BC%E6%A2%A6%E3%80%8B%E5%88%98%E5%A7%A5%E5%A7%A5%E6%89%AE%E6%BC%94%E8%80%85%E5%8E%BB%E4%B8%96&sa=fyb_news"
+        }
+      ],
+      "summary": "",
+      "url": "https://m.baidu.com/s?word=87%E7%89%88%E3%80%8A%E7%BA%A2%E6%A5%BC%E6%A2%A6%E3%80%8B%E5%88%98%E5%A7%A5%E5%A7%A5%E6%89%AE%E6%BC%94%E8%80%85%E5%8E%BB%E4%B8%96&sa=fyb_news"
+    },
+    {
       "id": "evt-40000000",
       "title": "上线一周年4000万人申领",
       "category": "society",
@@ -176,12 +189,31 @@
         {
           "channel": "toutiao",
           "rank": 6,
-          "hot": 28456402,
+          "hot": 36156350,
           "url": "https://www.toutiao.com/trending/7662045803342970931/"
         }
       ],
       "summary": "",
       "url": "https://www.toutiao.com/trending/7662045803342970931/"
+    },
+    {
+      "id": "evt-20260000",
+      "title": "2026 年美加墨世界杯半决赛，英格兰 vs 阿根廷，你看好谁能取胜？",
+      "category": "society",
+      "hotScore": 0.6375,
+      "freshness": 0.9999,
+      "crossSource": 0.6309,
+      "totalScore": 0.7443,
+      "sources": [
+        {
+          "channel": "zhihu",
+          "rank": 4,
+          "hot": 0,
+          "url": ""
+        }
+      ],
+      "summary": "",
+      "url": ""
     },
     {
       "id": "evt-3d000000",
@@ -203,8 +235,46 @@
       "url": ""
     },
     {
-      "id": "evt-lol00000",
-      "title": "LoL 官宣将推出怀旧模式，还原老版模型与旧数值且长期开放，在玩家日趋流失的现在会是个好做法吗？",
+      "id": "evt-18000000",
+      "title": "租了18年房 退租被要求“恢复如新”",
+      "category": "society",
+      "hotScore": 0.6,
+      "freshness": 0.9999,
+      "crossSource": 0.6309,
+      "totalScore": 0.7293,
+      "sources": [
+        {
+          "channel": "baidu",
+          "rank": 6,
+          "hot": 0,
+          "url": "https://m.baidu.com/s?word=%E7%A7%9F%E4%BA%8618%E5%B9%B4%E6%88%BF+%E9%80%80%E7%A7%9F%E8%A2%AB%E8%A6%81%E6%B1%82%E2%80%9C%E6%81%A2%E5%A4%8D%E5%A6%82%E6%96%B0%E2%80%9D&sa=fyb_news"
+        }
+      ],
+      "summary": "",
+      "url": "https://m.baidu.com/s?word=%E7%A7%9F%E4%BA%8618%E5%B9%B4%E6%88%BF+%E9%80%80%E7%A7%9F%E8%A2%AB%E8%A6%81%E6%B1%82%E2%80%9C%E6%81%A2%E5%A4%8D%E5%A6%82%E6%96%B0%E2%80%9D&sa=fyb_news"
+    },
+    {
+      "id": "evt-10200000",
+      "title": "国台办回应“10至20年间逐渐统一”",
+      "category": "society",
+      "hotScore": 0.595,
+      "freshness": 0.9999,
+      "crossSource": 0.6309,
+      "totalScore": 0.7273,
+      "sources": [
+        {
+          "channel": "toutiao",
+          "rank": 7,
+          "hot": 32715619,
+          "url": "https://www.toutiao.com/trending/7662314127614296115/"
+        }
+      ],
+      "summary": "",
+      "url": "https://www.toutiao.com/trending/7662314127614296115/"
+    },
+    {
+      "id": "evt-36000000",
+      "title": "身家飙升至 360 亿美元，为什么梁文锋能超越奥特曼和达里奥成全球 AI 大模型创始人首富？",
       "category": "society",
       "hotScore": 0.5625,
       "freshness": 0.9999,
@@ -214,44 +284,6 @@
         {
           "channel": "zhihu",
           "rank": 6,
-          "hot": 0,
-          "url": ""
-        }
-      ],
-      "summary": "",
-      "url": ""
-    },
-    {
-      "id": "evt-24000000",
-      "title": "24小时制能否成为酒店业服务新方向？我们找消费者和从业者聊了聊",
-      "category": "society",
-      "hotScore": 0.5525,
-      "freshness": 1,
-      "crossSource": 0.6309,
-      "totalScore": 0.7103,
-      "sources": [
-        {
-          "channel": "thepaper",
-          "rank": 8,
-          "hot": 0,
-          "url": "https://www.thepaper.cn/newsDetail_forward_33581628"
-        }
-      ],
-      "summary": "",
-      "url": "https://www.thepaper.cn/newsDetail_forward_33581628"
-    },
-    {
-      "id": "evt-codexgp0",
-      "title": "为什么 Codex 搭载 GPT-5.6 后，越来越多用户开始弃用 Skills？",
-      "category": "society",
-      "hotScore": 0.525,
-      "freshness": 0.9999,
-      "crossSource": 0.6309,
-      "totalScore": 0.6993,
-      "sources": [
-        {
-          "channel": "zhihu",
-          "rank": 7,
           "hot": 0,
           "url": ""
         }
