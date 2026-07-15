@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-07-14T22:46:17.514Z",
+  "generatedAt": "2026-07-15T01:21:45.582Z",
   "fields": {
     "society": "社会",
     "economy": "经济",
@@ -8,51 +8,32 @@
   "feed": [
     {
       "id": "evt-00000000",
-      "title": "伊朗称美进入正式战争状态",
-      "category": "society",
-      "hotScore": 0.595,
-      "freshness": 1,
-      "crossSource": 1,
-      "totalScore": 0.838,
-      "sources": [
-        {
-          "channel": "toutiao",
-          "rank": 7,
-          "hot": 16703651,
-          "url": "https://www.toutiao.com/trending/7662353080528145926/"
-        },
-        {
-          "channel": "baidu",
-          "rank": 10,
-          "hot": 0,
-          "url": "https://m.baidu.com/s?word=%E4%BC%8A%E6%9C%97%E7%A7%B0%E7%BE%8E%E8%BF%9B%E5%85%A5%E6%AD%A3%E5%BC%8F%E6%88%98%E4%BA%89%E7%8A%B6%E6%80%81&sa=fyb_news"
-        }
-      ],
-      "summary": "",
-      "url": "https://www.toutiao.com/trending/7662353080528145926/"
-    },
-    {
-      "id": "evt-20160000",
-      "title": "西班牙2-0法国 时隔16年再进决赛",
+      "title": "西班牙中场再现“世界名画”",
       "category": "society",
       "hotScore": 0.85,
       "freshness": 1,
-      "crossSource": 0.6309,
-      "totalScore": 0.8293,
+      "crossSource": 1,
+      "totalScore": 0.94,
       "sources": [
         {
           "channel": "toutiao",
           "rank": 1,
-          "hot": 30436037,
-          "url": "https://www.toutiao.com/trending/7661782304809353267/"
+          "hot": 32491828,
+          "url": "https://www.toutiao.com/trending/7662143589740527666/"
+        },
+        {
+          "channel": "baidu",
+          "rank": 15,
+          "hot": 0,
+          "url": "https://m.baidu.com/s?word=%E8%A5%BF%E7%8F%AD%E7%89%99%E4%B8%AD%E5%9C%BA%E5%86%8D%E7%8E%B0%E2%80%9C%E4%B8%96%E7%95%8C%E5%90%8D%E7%94%BB%E2%80%9D&sa=fyb_news"
         }
       ],
       "summary": "",
-      "url": "https://www.toutiao.com/trending/7661782304809353267/"
+      "url": "https://www.toutiao.com/trending/7662143589740527666/"
     },
     {
-      "id": "evt-ai000000",
-      "title": "AI时代需要什么样的人：从DeepSeek招聘清单说起",
+      "id": "evt-20000000",
+      "title": "西班牙2-0淘汰法国，率先挺进世界杯决赛",
       "category": "society",
       "hotScore": 0.765,
       "freshness": 1,
@@ -63,30 +44,49 @@
           "channel": "thepaper",
           "rank": 3,
           "hot": 0,
-          "url": "https://www.thepaper.cn/newsDetail_forward_33570712"
+          "url": "https://www.thepaper.cn/newsDetail_forward_33587688"
         }
       ],
       "summary": "",
-      "url": "https://www.thepaper.cn/newsDetail_forward_33570712"
+      "url": "https://www.thepaper.cn/newsDetail_forward_33587688"
     },
     {
-      "id": "evt-20000000",
-      "title": "西班牙2比0法国晋级世界杯决赛",
+      "id": "evt-50000000",
+      "title": "未来5年消费“路线图”来了",
       "category": "society",
-      "hotScore": 0.76,
+      "hotScore": 0.68,
       "freshness": 1,
       "crossSource": 0.6309,
-      "totalScore": 0.7933,
+      "totalScore": 0.7613,
       "sources": [
         {
           "channel": "baidu",
-          "rank": 2,
+          "rank": 4,
           "hot": 0,
-          "url": "https://m.baidu.com/s?word=%E8%A5%BF%E7%8F%AD%E7%89%992%E6%AF%940%E6%B3%95%E5%9B%BD%E6%99%8B%E7%BA%A7%E4%B8%96%E7%95%8C%E6%9D%AF%E5%86%B3%E8%B5%9B&sa=fyb_news"
+          "url": "https://m.baidu.com/s?word=%E6%9C%AA%E6%9D%A55%E5%B9%B4%E6%B6%88%E8%B4%B9%E2%80%9C%E8%B7%AF%E7%BA%BF%E5%9B%BE%E2%80%9D%E6%9D%A5%E4%BA%86&sa=fyb_news"
         }
       ],
       "summary": "",
-      "url": "https://m.baidu.com/s?word=%E8%A5%BF%E7%8F%AD%E7%89%992%E6%AF%940%E6%B3%95%E5%9B%BD%E6%99%8B%E7%BA%A7%E4%B8%96%E7%95%8C%E6%9D%AF%E5%86%B3%E8%B5%9B&sa=fyb_news"
+      "url": "https://m.baidu.com/s?word=%E6%9C%AA%E6%9D%A55%E5%B9%B4%E6%B6%88%E8%B4%B9%E2%80%9C%E8%B7%AF%E7%BA%BF%E5%9B%BE%E2%80%9D%E6%9D%A5%E4%BA%86&sa=fyb_news"
+    },
+    {
+      "id": "evt-90000000",
+      "title": "伴娘遭婚闹被抛摔致伤残，9 人被判赔 23 万元，如何从法律角度解读这一判决？",
+      "category": "society",
+      "hotScore": 0.675,
+      "freshness": 1,
+      "crossSource": 0.6309,
+      "totalScore": 0.7593,
+      "sources": [
+        {
+          "channel": "zhihu",
+          "rank": 3,
+          "hot": 0,
+          "url": ""
+        }
+      ],
+      "summary": "",
+      "url": ""
     },
     {
       "id": "evt-10000000",
@@ -146,71 +146,27 @@
       "url": ""
     },
     {
-      "id": "evt-vs000000",
-      "title": "世界杯半决赛，法国 vs 西班牙，如何评价本场比赛？",
+      "id": "evt-40000000",
+      "title": "上线一周年4000万人申领",
       "category": "society",
-      "hotScore": 0.75,
+      "hotScore": 0.6375,
       "freshness": 1,
       "crossSource": 0.6309,
-      "totalScore": 0.7893,
-      "sources": [
-        {
-          "channel": "zhihu",
-          "rank": 1,
-          "hot": 0,
-          "url": ""
-        }
-      ],
-      "summary": "",
-      "url": ""
-    },
-    {
-      "id": "evt-80000000",
-      "title": "“鄂州龙卷风城区8人遇难”不实",
-      "category": "society",
-      "hotScore": 0.425,
-      "freshness": 1,
-      "crossSource": 1,
-      "totalScore": 0.77,
+      "totalScore": 0.7443,
       "sources": [
         {
           "channel": "toutiao",
-          "rank": 11,
-          "hot": 11196792,
-          "url": "https://www.toutiao.com/trending/7662311381517028890/"
-        },
-        {
-          "channel": "baidu",
-          "rank": 12,
-          "hot": 0,
-          "url": "https://m.baidu.com/s?word=%E2%80%9C%E9%84%82%E5%B7%9E%E9%BE%99%E5%8D%B7%E9%A3%8E%E5%9F%8E%E5%8C%BA8%E4%BA%BA%E9%81%87%E9%9A%BE%E2%80%9D%E4%B8%8D%E5%AE%9E&sa=fyb_news"
+          "rank": 6,
+          "hot": 19707289,
+          "url": "https://www.toutiao.com/trending/7662045803342970931/"
         }
       ],
       "summary": "",
-      "url": "https://www.toutiao.com/trending/7662311381517028890/"
+      "url": "https://www.toutiao.com/trending/7662045803342970931/"
     },
     {
-      "id": "evt-50000000",
-      "title": "未来5年消费“路线图”来了",
-      "category": "society",
-      "hotScore": 0.68,
-      "freshness": 1,
-      "crossSource": 0.6309,
-      "totalScore": 0.7613,
-      "sources": [
-        {
-          "channel": "baidu",
-          "rank": 4,
-          "hot": 0,
-          "url": "https://m.baidu.com/s?word=%E6%9C%AA%E6%9D%A55%E5%B9%B4%E6%B6%88%E8%B4%B9%E2%80%9C%E8%B7%AF%E7%BA%BF%E5%9B%BE%E2%80%9D%E6%9D%A5%E4%BA%86&sa=fyb_news"
-        }
-      ],
-      "summary": "",
-      "url": "https://m.baidu.com/s?word=%E6%9C%AA%E6%9D%A55%E5%B9%B4%E6%B6%88%E8%B4%B9%E2%80%9C%E8%B7%AF%E7%BA%BF%E5%9B%BE%E2%80%9D%E6%9D%A5%E4%BA%86&sa=fyb_news"
-    },
-    {
-      "id": "evt-20260000",
-      "title": "2026 年美加墨世界杯世界杯半决赛法国 0:2 西班牙，如何评价这场比赛？",
+      "id": "evt-71600000",
+      "title": "长鑫科技 7 月 16 日开启申购，发行价为 8.66 元 / 股，估值超 4 万亿，对其自身发展和半导体产业意味着什么？",
       "category": "society",
       "hotScore": 0.6375,
       "freshness": 1,
@@ -247,36 +203,17 @@
       "url": ""
     },
     {
-      "id": "evt-90000000",
-      "title": "伴娘遭婚闹被抛摔致伤残，9 人被判赔 23 万元，如何从法律角度解读这一判决？",
-      "category": "society",
-      "hotScore": 0.6,
-      "freshness": 1,
-      "crossSource": 0.6309,
-      "totalScore": 0.7293,
-      "sources": [
-        {
-          "channel": "zhihu",
-          "rank": 5,
-          "hot": 0,
-          "url": ""
-        }
-      ],
-      "summary": "",
-      "url": ""
-    },
-    {
       "id": "evt-24000000",
       "title": "24小时制能否成为酒店业服务新方向？我们找消费者和从业者聊了聊",
       "category": "society",
-      "hotScore": 0.595,
+      "hotScore": 0.5525,
       "freshness": 1,
       "crossSource": 0.6309,
-      "totalScore": 0.7273,
+      "totalScore": 0.7103,
       "sources": [
         {
           "channel": "thepaper",
-          "rank": 7,
+          "rank": 8,
           "hot": 0,
           "url": "https://www.thepaper.cn/newsDetail_forward_33581628"
         }
