@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-07-15T15:18:05.323Z",
+  "generatedAt": "2026-07-15T17:04:59.686Z",
   "fields": {
     "society": "社会",
     "economy": "经济",
@@ -51,31 +51,6 @@
       "url": "https://www.thepaper.cn/newsDetail_forward_33586048"
     },
     {
-      "id": "evt-35000000",
-      "title": "家长月薪3500元请大学生暑假带娃",
-      "category": "society",
-      "hotScore": 0.52,
-      "freshness": 0.9999,
-      "crossSource": 1,
-      "totalScore": 0.808,
-      "sources": [
-        {
-          "channel": "toutiao",
-          "rank": 16,
-          "hot": 17369332,
-          "url": "https://www.toutiao.com/trending/7662675795064176667/"
-        },
-        {
-          "channel": "baidu",
-          "rank": 8,
-          "hot": 0,
-          "url": "https://m.baidu.com/s?word=%E5%AE%B6%E9%95%BF%E6%9C%88%E8%96%AA3500%E5%85%83%E8%AF%B7%E5%A4%A7%E5%AD%A6%E7%94%9F%E6%9A%91%E5%81%87%E5%B8%A6%E5%A8%83&sa=fyb_news"
-        }
-      ],
-      "summary": "",
-      "url": "https://www.toutiao.com/trending/7662675795064176667/"
-    },
-    {
       "id": "evt-waic0000",
       "title": "小浪花看WAIC丨“三地四馆”全攻略：路线、看点、隐藏玩法一次说清",
       "category": "society",
@@ -93,6 +68,25 @@
       ],
       "summary": "",
       "url": "https://www.thepaper.cn/newsDetail_forward_33589310"
+    },
+    {
+      "id": "evt-20000000",
+      "title": "西班牙2-0淘汰法国，率先挺进世界杯决赛",
+      "category": "society",
+      "hotScore": 0.7225,
+      "freshness": 1,
+      "crossSource": 0.6309,
+      "totalScore": 0.7783,
+      "sources": [
+        {
+          "channel": "thepaper",
+          "rank": 4,
+          "hot": 0,
+          "url": "https://www.thepaper.cn/newsDetail_forward_33587688"
+        }
+      ],
+      "summary": "",
+      "url": "https://www.thepaper.cn/newsDetail_forward_33587688"
     },
     {
       "id": "evt-10000000",
@@ -171,80 +165,23 @@
       "url": "https://m.baidu.com/s?word=%E4%BA%8C%E5%AD%A3%E5%BA%A6GDP%E5%A2%9E%E9%95%BF4.3%25+%E6%80%8E%E4%B9%88%E7%9C%8B&sa=fyb_news"
     },
     {
-      "id": "evt-20260000",
-      "title": "2026 年美加墨世界杯半决赛，英格兰 vs 阿根廷，你看好谁能取胜？",
-      "category": "society",
-      "hotScore": 0.75,
-      "freshness": 0.9999,
-      "crossSource": 0.6309,
-      "totalScore": 0.7893,
-      "sources": [
-        {
-          "channel": "zhihu",
-          "rank": 1,
-          "hot": 0,
-          "url": ""
-        }
-      ],
-      "summary": "",
-      "url": ""
-    },
-    {
-      "id": "evt-20000000",
-      "title": "西班牙2-0淘汰法国，率先挺进世界杯决赛",
-      "category": "society",
-      "hotScore": 0.7225,
-      "freshness": 1,
-      "crossSource": 0.6309,
-      "totalScore": 0.7783,
-      "sources": [
-        {
-          "channel": "thepaper",
-          "rank": 4,
-          "hot": 0,
-          "url": "https://www.thepaper.cn/newsDetail_forward_33587688"
-        }
-      ],
-      "summary": "",
-      "url": "https://www.thepaper.cn/newsDetail_forward_33587688"
-    },
-    {
       "id": "evt-q2000000",
       "title": "如何评价 Q2 全球智能手机出货量同比下滑，小米跌幅最大，三星、苹果、华为逆势上涨？",
       "category": "society",
-      "hotScore": 0.675,
-      "freshness": 0.9999,
+      "hotScore": 0.7125,
+      "freshness": 1,
       "crossSource": 0.6309,
-      "totalScore": 0.7593,
+      "totalScore": 0.7743,
       "sources": [
         {
           "channel": "zhihu",
-          "rank": 3,
+          "rank": 2,
           "hot": 0,
           "url": ""
         }
       ],
       "summary": "",
       "url": ""
-    },
-    {
-      "id": "evt-67800000",
-      "title": "高考678分男生暑假跟着父亲跑货车",
-      "category": "society",
-      "hotScore": 0.64,
-      "freshness": 1,
-      "crossSource": 0.6309,
-      "totalScore": 0.7453,
-      "sources": [
-        {
-          "channel": "baidu",
-          "rank": 5,
-          "hot": 0,
-          "url": "https://m.baidu.com/s?word=%E9%AB%98%E8%80%83678%E5%88%86%E7%94%B7%E7%94%9F%E6%9A%91%E5%81%87%E8%B7%9F%E7%9D%80%E7%88%B6%E4%BA%B2%E8%B7%91%E8%B4%A7%E8%BD%A6&sa=fyb_news"
-        }
-      ],
-      "summary": "",
-      "url": "https://m.baidu.com/s?word=%E9%AB%98%E8%80%83678%E5%88%86%E7%94%B7%E7%94%9F%E6%9A%91%E5%81%87%E8%B7%9F%E7%9D%80%E7%88%B6%E4%BA%B2%E8%B7%91%E8%B4%A7%E8%BD%A6&sa=fyb_news"
     },
     {
       "id": "evt-3d000000",
@@ -285,22 +222,22 @@
       "url": "https://m.baidu.com/s?word=%E4%B8%96%E7%95%8C%E6%9D%AF%EF%BC%9A%E8%8B%B1%E6%A0%BC%E5%85%B0vs%E9%98%BF%E6%A0%B9%E5%BB%B7&sa=fyb_news"
     },
     {
-      "id": "evt-36000000",
-      "title": "身家飙升至 360 亿美元，为什么梁文锋能超越奥特曼和达里奥成全球 AI 大模型创始人首富？",
-      "category": "society",
-      "hotScore": 0.5625,
-      "freshness": 0.9999,
+      "id": "evt-23000000",
+      "title": "小鹏汽车一季度上险量2331台",
+      "category": "economy",
+      "hotScore": 0.495,
+      "freshness": 1,
       "crossSource": 0.6309,
-      "totalScore": 0.7143,
+      "totalScore": 0.6873,
       "sources": [
         {
-          "channel": "zhihu",
-          "rank": 6,
+          "channel": "36kr",
+          "rank": 10,
           "hot": 0,
           "url": ""
         }
       ],
-      "summary": "",
+      "summary": "36氪获悉，4月11日，根据中国汽车研究中心数据，2020年一季度小鹏G3总计上险量达到2331台，3月单月上险量达到1094台。",
       "url": ""
     }
   ]
