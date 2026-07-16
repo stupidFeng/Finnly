@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-07-16T11:36:52.036Z",
+  "generatedAt": "2026-07-16T13:19:31.725Z",
   "fields": {
     "society": "社会",
     "economy": "经济",
@@ -7,86 +7,86 @@
   },
   "feed": [
     {
-      "id": "evt-70000000",
-      "title": "辽宁一橡皮艇闪爆致7死1失联",
+      "id": "evt-00000000",
+      "title": "一文告诉你什么是国家网络身份认证",
       "category": "society",
-      "hotScore": 0.76,
-      "freshness": 1,
+      "hotScore": 0.6375,
+      "freshness": 0.9999,
       "crossSource": 1,
-      "totalScore": 0.904,
+      "totalScore": 0.855,
       "sources": [
         {
           "channel": "toutiao",
-          "rank": 4,
-          "hot": 52390164,
-          "url": "https://www.toutiao.com/trending/7662202757784587812/"
+          "rank": 6,
+          "hot": 45050268,
+          "url": "https://www.toutiao.com/trending/7662552627980353574/"
         },
+        {
+          "channel": "baidu",
+          "rank": 7,
+          "hot": 0,
+          "url": "https://m.baidu.com/s?word=%E4%B8%80%E6%96%87%E5%91%8A%E8%AF%89%E4%BD%A0%E4%BB%80%E4%B9%88%E6%98%AF%E5%9B%BD%E5%AE%B6%E7%BD%91%E7%BB%9C%E8%BA%AB%E4%BB%BD%E8%AE%A4%E8%AF%81&sa=fyb_news"
+        }
+      ],
+      "summary": "",
+      "url": "https://www.toutiao.com/trending/7662552627980353574/"
+    },
+    {
+      "id": "evt-28000000",
+      "title": "生娃基本不花钱 28个省份安排上了",
+      "category": "society",
+      "hotScore": 0.76,
+      "freshness": 1,
+      "crossSource": 0.6309,
+      "totalScore": 0.7933,
+      "sources": [
         {
           "channel": "baidu",
           "rank": 2,
           "hot": 0,
-          "url": "https://m.baidu.com/s?word=%E8%BE%BD%E5%AE%81%E4%B8%80%E6%A9%A1%E7%9A%AE%E8%89%87%E9%97%AA%E7%88%86%E8%87%B47%E6%AD%BB1%E5%A4%B1%E8%81%94&sa=fyb_news"
+          "url": "https://m.baidu.com/s?word=%E7%94%9F%E5%A8%83%E5%9F%BA%E6%9C%AC%E4%B8%8D%E8%8A%B1%E9%92%B1+28%E4%B8%AA%E7%9C%81%E4%BB%BD%E5%AE%89%E6%8E%92%E4%B8%8A%E4%BA%86&sa=fyb_news"
         }
       ],
       "summary": "",
-      "url": "https://www.toutiao.com/trending/7662202757784587812/"
+      "url": "https://m.baidu.com/s?word=%E7%94%9F%E5%A8%83%E5%9F%BA%E6%9C%AC%E4%B8%8D%E8%8A%B1%E9%92%B1+28%E4%B8%AA%E7%9C%81%E4%BB%BD%E5%AE%89%E6%8E%92%E4%B8%8A%E4%BA%86&sa=fyb_news"
     },
     {
-      "id": "evt-00000000",
-      "title": "中方驳斥所谓“朝贡体系”论调",
+      "id": "evt-lv000000",
+      "title": "LV母公司掌门人被责令补税1.74亿元",
       "category": "society",
-      "hotScore": 0.85,
-      "freshness": 1,
+      "hotScore": 0.7225,
+      "freshness": 0.9999,
       "crossSource": 0.6309,
-      "totalScore": 0.8293,
+      "totalScore": 0.7783,
       "sources": [
         {
           "channel": "toutiao",
-          "rank": 1,
-          "hot": 70719325,
-          "url": "https://www.toutiao.com/trending/7663025821225336851/"
+          "rank": 4,
+          "hot": 55024522,
+          "url": "https://www.toutiao.com/trending/7662671379091210282/"
         }
       ],
       "summary": "",
-      "url": "https://www.toutiao.com/trending/7663025821225336851/"
+      "url": "https://www.toutiao.com/trending/7662671379091210282/"
     },
     {
-      "id": "evt-16000000",
-      "title": "马龙许昕晋级全锦赛16强",
+      "id": "evt-50000000",
+      "title": "世界杯冠军奖金5000万美元 历史最高",
       "category": "society",
-      "hotScore": 0.8075,
+      "hotScore": 0.72,
       "freshness": 1,
       "crossSource": 0.6309,
-      "totalScore": 0.8123,
+      "totalScore": 0.7773,
       "sources": [
         {
-          "channel": "toutiao",
-          "rank": 2,
-          "hot": 63989491,
-          "url": "https://www.toutiao.com/trending/7662722907018821686/"
-        }
-      ],
-      "summary": "",
-      "url": "https://www.toutiao.com/trending/7662722907018821686/"
-    },
-    {
-      "id": "evt-20250000",
-      "title": "一图读懂2025年全国医保统计公报",
-      "category": "society",
-      "hotScore": 0.765,
-      "freshness": 1,
-      "crossSource": 0.6309,
-      "totalScore": 0.7953,
-      "sources": [
-        {
-          "channel": "toutiao",
+          "channel": "baidu",
           "rank": 3,
-          "hot": 57900086,
-          "url": "https://www.toutiao.com/trending/7662528441618628650/"
+          "hot": 0,
+          "url": "https://m.baidu.com/s?word=%E4%B8%96%E7%95%8C%E6%9D%AF%E5%86%A0%E5%86%9B%E5%A5%96%E9%87%915000%E4%B8%87%E7%BE%8E%E5%85%83+%E5%8E%86%E5%8F%B2%E6%9C%80%E9%AB%98&sa=fyb_news"
         }
       ],
       "summary": "",
-      "url": "https://www.toutiao.com/trending/7662528441618628650/"
+      "url": "https://m.baidu.com/s?word=%E4%B8%96%E7%95%8C%E6%9D%AF%E5%86%A0%E5%86%9B%E5%A5%96%E9%87%915000%E4%B8%87%E7%BE%8E%E5%85%83+%E5%8E%86%E5%8F%B2%E6%9C%80%E9%AB%98&sa=fyb_news"
     },
     {
       "id": "evt-10000000",
@@ -146,36 +146,36 @@
       "url": ""
     },
     {
-      "id": "evt-50000000",
-      "title": "5张图看懂中国人工智能进化之路",
-      "category": "society",
+      "id": "evt-12026000",
+      "title": "1组数字看2026上半年中国经济",
+      "category": "economy",
       "hotScore": 0.765,
-      "freshness": 1,
+      "freshness": 0.9999,
       "crossSource": 0.6309,
       "totalScore": 0.7953,
       "sources": [
         {
-          "channel": "thepaper",
+          "channel": "toutiao",
           "rank": 3,
-          "hot": 0,
-          "url": "https://www.thepaper.cn/newsDetail_forward_33586048"
+          "hot": 60811502,
+          "url": "https://www.toutiao.com/trending/7662148642534932521/"
         }
       ],
       "summary": "",
-      "url": "https://www.thepaper.cn/newsDetail_forward_33586048"
+      "url": "https://www.toutiao.com/trending/7662148642534932521/"
     },
     {
-      "id": "evt-17000000",
-      "title": "17 岁男孩被敌敌畏浸透裤子，数小时后被下达病危通知书，这是什么原因？如何做紧急处理？",
+      "id": "evt-nfc00000",
+      "title": "河南多家 NFC 果汁生产车间被曝无水果，产品却标注「100% 鲜榨果汁」，标注是否合规？消费者该如何辨别？",
       "category": "society",
-      "hotScore": 0.7125,
-      "freshness": 1,
+      "hotScore": 0.675,
+      "freshness": 0.9999,
       "crossSource": 0.6309,
-      "totalScore": 0.7743,
+      "totalScore": 0.7593,
       "sources": [
         {
           "channel": "zhihu",
-          "rank": 2,
+          "rank": 3,
           "hot": 0,
           "url": ""
         }
@@ -184,8 +184,27 @@
       "url": ""
     },
     {
-      "id": "evt-ai000000",
-      "title": "马上评｜AI“入侵”艺术评奖，不能只靠撤奖遮羞",
+      "id": "evt-realme00",
+      "title": "realme暂停中国市场业务",
+      "category": "society",
+      "hotScore": 0.64,
+      "freshness": 1,
+      "crossSource": 0.6309,
+      "totalScore": 0.7453,
+      "sources": [
+        {
+          "channel": "baidu",
+          "rank": 5,
+          "hot": 0,
+          "url": "https://m.baidu.com/s?word=realme%E6%9A%82%E5%81%9C%E4%B8%AD%E5%9B%BD%E5%B8%82%E5%9C%BA%E4%B8%9A%E5%8A%A1&sa=fyb_news"
+        }
+      ],
+      "summary": "",
+      "url": "https://m.baidu.com/s?word=realme%E6%9A%82%E5%81%9C%E4%B8%AD%E5%9B%BD%E5%B8%82%E5%9C%BA%E4%B8%9A%E5%8A%A1&sa=fyb_news"
+    },
+    {
+      "id": "evt-18000000",
+      "title": "18岁的“千里奔赴”是怎样的？对话高考后去横州参与救灾的两名少年",
       "category": "society",
       "hotScore": 0.6375,
       "freshness": 1,
@@ -196,11 +215,11 @@
           "channel": "thepaper",
           "rank": 6,
           "hot": 0,
-          "url": "https://www.thepaper.cn/newsDetail_forward_33592256"
+          "url": "https://www.thepaper.cn/newsDetail_forward_33588134"
         }
       ],
       "summary": "",
-      "url": "https://www.thepaper.cn/newsDetail_forward_33592256"
+      "url": "https://www.thepaper.cn/newsDetail_forward_33588134"
     },
     {
       "id": "evt-3d000000",
@@ -222,86 +241,23 @@
       "url": ""
     },
     {
-      "id": "evt-pk000000",
-      "title": "豆包下场PK世界杯懂球天团",
+      "id": "evt-ceo00000",
+      "title": "深圳文和友招牌拆除，CEO 确认撤场，为什么文和友难以走出长沙？",
       "category": "society",
-      "hotScore": 0.5525,
-      "freshness": 1,
+      "hotScore": 0.6,
+      "freshness": 0.9999,
       "crossSource": 0.6309,
-      "totalScore": 0.7103,
-      "sources": [
-        {
-          "channel": "toutiao",
-          "rank": 8,
-          "hot": 35118177,
-          "url": "https://www.toutiao.com/trending/7662239168139087423/"
-        }
-      ],
-      "summary": "",
-      "url": "https://www.toutiao.com/trending/7662239168139087423/"
-    },
-    {
-      "id": "evt-30000000",
-      "title": "黄仁勋见30年前“救命恩人”",
-      "category": "society",
-      "hotScore": 0.255,
-      "freshness": 1,
-      "crossSource": 1,
-      "totalScore": 0.702,
-      "sources": [
-        {
-          "channel": "toutiao",
-          "rank": 15,
-          "hot": 17439170,
-          "url": "https://www.toutiao.com/trending/7663007736279498761/"
-        },
-        {
-          "channel": "baidu",
-          "rank": 15,
-          "hot": 0,
-          "url": "https://m.baidu.com/s?word=%E9%BB%84%E4%BB%81%E5%8B%8B%E8%A7%8130%E5%B9%B4%E5%89%8D%E2%80%9C%E6%95%91%E5%91%BD%E6%81%A9%E4%BA%BA%E2%80%9D&sa=fyb_news"
-        }
-      ],
-      "summary": "",
-      "url": "https://www.toutiao.com/trending/7663007736279498761/"
-    },
-    {
-      "id": "evt-38000000",
-      "title": "38 岁的中年妇女有种无力感，不求上进的老公、不爱学习的孩子、无能为力的自己，大家都有这个感觉嘛？",
-      "category": "society",
-      "hotScore": 0.525,
-      "freshness": 1,
-      "crossSource": 0.6309,
-      "totalScore": 0.6993,
+      "totalScore": 0.7293,
       "sources": [
         {
           "channel": "zhihu",
-          "rank": 7,
+          "rank": 5,
           "hot": 0,
           "url": ""
         }
       ],
       "summary": "",
       "url": ""
-    },
-    {
-      "id": "evt-a0000000",
-      "title": "A股跳水原因是什么",
-      "category": "society",
-      "hotScore": 0.51,
-      "freshness": 1,
-      "crossSource": 0.6309,
-      "totalScore": 0.6933,
-      "sources": [
-        {
-          "channel": "toutiao",
-          "rank": 9,
-          "hot": 31776241,
-          "url": "https://www.toutiao.com/trending/7662226207446532138/"
-        }
-      ],
-      "summary": "",
-      "url": "https://www.toutiao.com/trending/7662226207446532138/"
     }
   ]
 }
