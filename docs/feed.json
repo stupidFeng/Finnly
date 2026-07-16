@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-07-16T20:45:29.760Z",
+  "generatedAt": "2026-07-16T22:48:49.119Z",
   "fields": {
     "society": "社会",
     "economy": "经济",
@@ -7,18 +7,43 @@
   },
   "feed": [
     {
+      "id": "evt-50000000",
+      "title": "世界杯冠军奖金5000万美元 历史最高",
+      "category": "society",
+      "hotScore": 0.595,
+      "freshness": 1,
+      "crossSource": 1,
+      "totalScore": 0.838,
+      "sources": [
+        {
+          "channel": "toutiao",
+          "rank": 7,
+          "hot": 11004611,
+          "url": "https://www.toutiao.com/trending/7662510119124877348/"
+        },
+        {
+          "channel": "baidu",
+          "rank": 11,
+          "hot": 0,
+          "url": "https://m.baidu.com/s?word=%E4%B8%96%E7%95%8C%E6%9D%AF%E5%86%A0%E5%86%9B%E5%A5%96%E9%87%915000%E4%B8%87%E7%BE%8E%E5%85%83+%E5%8E%86%E5%8F%B2%E6%9C%80%E9%AB%98&sa=fyb_news"
+        }
+      ],
+      "summary": "",
+      "url": "https://www.toutiao.com/trending/7662510119124877348/"
+    },
+    {
       "id": "evt-00000000",
       "title": "俄不承认“南海仲裁案裁决”合法性",
       "category": "society",
       "hotScore": 0.85,
-      "freshness": 0.9999,
+      "freshness": 1,
       "crossSource": 0.6309,
       "totalScore": 0.8293,
       "sources": [
         {
           "channel": "toutiao",
           "rank": 1,
-          "hot": 71363001,
+          "hot": 20051709,
           "url": "https://www.toutiao.com/trending/7662009584916545586/"
         }
       ],
@@ -62,31 +87,6 @@
       ],
       "summary": "",
       "url": ""
-    },
-    {
-      "id": "evt-50000000",
-      "title": "世界杯冠军奖金5000万美元 历史最高",
-      "category": "society",
-      "hotScore": 0.4675,
-      "freshness": 0.9999,
-      "crossSource": 1,
-      "totalScore": 0.787,
-      "sources": [
-        {
-          "channel": "toutiao",
-          "rank": 10,
-          "hot": 29014031,
-          "url": "https://www.toutiao.com/trending/7662510119124877348/"
-        },
-        {
-          "channel": "baidu",
-          "rank": 15,
-          "hot": 0,
-          "url": "https://m.baidu.com/s?word=%E4%B8%96%E7%95%8C%E6%9D%AF%E5%86%A0%E5%86%9B%E5%A5%96%E9%87%915000%E4%B8%87%E7%BE%8E%E5%85%83+%E5%8E%86%E5%8F%B2%E6%9C%80%E9%AB%98&sa=fyb_news"
-        }
-      ],
-      "summary": "",
-      "url": "https://www.toutiao.com/trending/7662510119124877348/"
     },
     {
       "id": "evt-10000000",
@@ -150,14 +150,14 @@
       "title": "1组数字看2026上半年中国经济",
       "category": "economy",
       "hotScore": 0.765,
-      "freshness": 0.9999,
+      "freshness": 1,
       "crossSource": 0.6309,
       "totalScore": 0.7953,
       "sources": [
         {
           "channel": "toutiao",
           "rank": 3,
-          "hot": 58427084,
+          "hot": 16416951,
           "url": "https://www.toutiao.com/trending/7662148642534932521/"
         }
       ],
@@ -165,23 +165,61 @@
       "url": "https://www.toutiao.com/trending/7662148642534932521/"
     },
     {
+      "id": "evt-tvb00000",
+      "title": "TVB演员梁爱在老人院去世",
+      "category": "entertainment",
+      "hotScore": 0.56,
+      "freshness": 1,
+      "crossSource": 0.6309,
+      "totalScore": 0.7133,
+      "sources": [
+        {
+          "channel": "baidu",
+          "rank": 7,
+          "hot": 0,
+          "url": "https://m.baidu.com/s?word=TVB%E6%BC%94%E5%91%98%E6%A2%81%E7%88%B1%E5%9C%A8%E8%80%81%E4%BA%BA%E9%99%A2%E5%8E%BB%E4%B8%96&sa=fyb_news"
+        }
+      ],
+      "summary": "",
+      "url": "https://m.baidu.com/s?word=TVB%E6%BC%94%E5%91%98%E6%A2%81%E7%88%B1%E5%9C%A8%E8%80%81%E4%BA%BA%E9%99%A2%E5%8E%BB%E4%B8%96&sa=fyb_news"
+    },
+    {
       "id": "evt-88000000",
       "title": "岛内民调称88%青年愿上战场结果翻车",
       "category": "society",
       "hotScore": 0.7225,
-      "freshness": 0.9999,
+      "freshness": 1,
       "crossSource": 0.6309,
       "totalScore": 0.7783,
       "sources": [
         {
           "channel": "toutiao",
           "rank": 4,
-          "hot": 52867012,
+          "hot": 14854671,
           "url": "https://www.toutiao.com/trending/7663028230777192490/"
         }
       ],
       "summary": "",
       "url": "https://www.toutiao.com/trending/7663028230777192490/"
+    },
+    {
+      "id": "evt-18000000",
+      "title": "18岁的“千里奔赴”是怎样的？对话高考后去横州参与救灾的两名少年",
+      "category": "society",
+      "hotScore": 0.7225,
+      "freshness": 1,
+      "crossSource": 0.6309,
+      "totalScore": 0.7783,
+      "sources": [
+        {
+          "channel": "thepaper",
+          "rank": 4,
+          "hot": 0,
+          "url": "https://www.thepaper.cn/newsDetail_forward_33588134"
+        }
+      ],
+      "summary": "",
+      "url": "https://www.thepaper.cn/newsDetail_forward_33588134"
     },
     {
       "id": "evt-40000000",
@@ -203,8 +241,8 @@
       "url": "https://m.baidu.com/s?word=%E6%B0%94%E8%B1%A1%E5%8F%B0%E4%B8%8D%E6%95%A2%E6%8A%A540%E2%84%83%EF%BC%9F%E6%9D%83%E5%A8%81%E5%9B%9E%E5%BA%94&sa=fyb_news"
     },
     {
-      "id": "evt-20260000",
-      "title": "2026 世界杯决赛，西班牙 vs 阿根廷，这场比赛结果会如何，是西班牙时隔多年再问鼎，还是阿根廷成功卫冕？",
+      "id": "evt-realme00",
+      "title": "如何看待真我 realme 退出中国市场，售后质保由 OPPO 全面接手？品牌为什么会走到停运这一步？",
       "category": "society",
       "hotScore": 0.7125,
       "freshness": 1,
@@ -222,28 +260,9 @@
       "url": ""
     },
     {
-      "id": "evt-18000000",
-      "title": "18岁的“千里奔赴”是怎样的？对话高考后去横州参与救灾的两名少年",
-      "category": "society",
-      "hotScore": 0.68,
-      "freshness": 1,
-      "crossSource": 0.6309,
-      "totalScore": 0.7613,
-      "sources": [
-        {
-          "channel": "thepaper",
-          "rank": 5,
-          "hot": 0,
-          "url": "https://www.thepaper.cn/newsDetail_forward_33588134"
-        }
-      ],
-      "summary": "",
-      "url": "https://www.thepaper.cn/newsDetail_forward_33588134"
-    },
-    {
-      "id": "evt-realme00",
-      "title": "如何看待真我 realme 退出中国市场，售后质保由 OPPO 全面接手？品牌为什么会走到停运这一步？",
-      "category": "society",
+      "id": "evt-spacex00",
+      "title": "SpaceX 上市仅一个月跌破 135 美元发行价，市值缩水三分之一，星舰第 13 次试飞将至，能否挽救股价？",
+      "category": "economy",
       "hotScore": 0.675,
       "freshness": 1,
       "crossSource": 0.6309,
@@ -252,25 +271,6 @@
         {
           "channel": "zhihu",
           "rank": 3,
-          "hot": 0,
-          "url": ""
-        }
-      ],
-      "summary": "",
-      "url": ""
-    },
-    {
-      "id": "evt-spacex00",
-      "title": "SpaceX 上市仅一个月跌破 135 美元发行价，市值缩水三分之一，星舰第 13 次试飞将至，能否挽救股价？",
-      "category": "economy",
-      "hotScore": 0.6375,
-      "freshness": 1,
-      "crossSource": 0.6309,
-      "totalScore": 0.7443,
-      "sources": [
-        {
-          "channel": "zhihu",
-          "rank": 4,
           "hot": 0,
           "url": ""
         }
