@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-07-16T13:19:31.725Z",
+  "generatedAt": "2026-07-16T15:25:59.199Z",
   "fields": {
     "society": "社会",
     "economy": "经济",
@@ -8,92 +8,92 @@
   "feed": [
     {
       "id": "evt-00000000",
-      "title": "一文告诉你什么是国家网络身份认证",
+      "title": "俄不承认“南海仲裁案裁决”合法性",
       "category": "society",
-      "hotScore": 0.6375,
+      "hotScore": 0.85,
       "freshness": 0.9999,
-      "crossSource": 1,
-      "totalScore": 0.855,
+      "crossSource": 0.6309,
+      "totalScore": 0.8293,
       "sources": [
         {
           "channel": "toutiao",
-          "rank": 6,
-          "hot": 45050268,
-          "url": "https://www.toutiao.com/trending/7662552627980353574/"
-        },
-        {
-          "channel": "baidu",
-          "rank": 7,
-          "hot": 0,
-          "url": "https://m.baidu.com/s?word=%E4%B8%80%E6%96%87%E5%91%8A%E8%AF%89%E4%BD%A0%E4%BB%80%E4%B9%88%E6%98%AF%E5%9B%BD%E5%AE%B6%E7%BD%91%E7%BB%9C%E8%BA%AB%E4%BB%BD%E8%AE%A4%E8%AF%81&sa=fyb_news"
+          "rank": 1,
+          "hot": 78262635,
+          "url": "https://www.toutiao.com/trending/7662009584916545586/"
         }
       ],
       "summary": "",
-      "url": "https://www.toutiao.com/trending/7662552627980353574/"
+      "url": "https://www.toutiao.com/trending/7662009584916545586/"
     },
     {
-      "id": "evt-28000000",
-      "title": "生娃基本不花钱 28个省份安排上了",
+      "id": "evt-88000000",
+      "title": "岛内民调称88%青年愿上战场结果翻车",
       "category": "society",
-      "hotScore": 0.76,
-      "freshness": 1,
+      "hotScore": 0.8075,
+      "freshness": 0.9999,
       "crossSource": 0.6309,
-      "totalScore": 0.7933,
+      "totalScore": 0.8123,
       "sources": [
         {
-          "channel": "baidu",
+          "channel": "toutiao",
           "rank": 2,
-          "hot": 0,
-          "url": "https://m.baidu.com/s?word=%E7%94%9F%E5%A8%83%E5%9F%BA%E6%9C%AC%E4%B8%8D%E8%8A%B1%E9%92%B1+28%E4%B8%AA%E7%9C%81%E4%BB%BD%E5%AE%89%E6%8E%92%E4%B8%8A%E4%BA%86&sa=fyb_news"
+          "hot": 70814960,
+          "url": "https://www.toutiao.com/trending/7663028230777192490/"
         }
       ],
       "summary": "",
-      "url": "https://m.baidu.com/s?word=%E7%94%9F%E5%A8%83%E5%9F%BA%E6%9C%AC%E4%B8%8D%E8%8A%B1%E9%92%B1+28%E4%B8%AA%E7%9C%81%E4%BB%BD%E5%AE%89%E6%8E%92%E4%B8%8A%E4%BA%86&sa=fyb_news"
+      "url": "https://www.toutiao.com/trending/7663028230777192490/"
     },
     {
-      "id": "evt-lv000000",
-      "title": "LV母公司掌门人被责令补税1.74亿元",
+      "id": "evt-18000000",
+      "title": "18岁的“千里奔赴”是怎样的？对话高考后去横州参与救灾的两名少年",
       "category": "society",
-      "hotScore": 0.7225,
+      "hotScore": 0.765,
       "freshness": 0.9999,
       "crossSource": 0.6309,
-      "totalScore": 0.7783,
+      "totalScore": 0.7953,
       "sources": [
         {
-          "channel": "toutiao",
-          "rank": 4,
-          "hot": 55024522,
-          "url": "https://www.toutiao.com/trending/7662671379091210282/"
+          "channel": "thepaper",
+          "rank": 3,
+          "hot": 0,
+          "url": "https://www.thepaper.cn/newsDetail_forward_33588134"
         }
       ],
       "summary": "",
-      "url": "https://www.toutiao.com/trending/7662671379091210282/"
+      "url": "https://www.thepaper.cn/newsDetail_forward_33588134"
     },
     {
       "id": "evt-50000000",
       "title": "世界杯冠军奖金5000万美元 历史最高",
       "category": "society",
-      "hotScore": 0.72,
-      "freshness": 1,
-      "crossSource": 0.6309,
-      "totalScore": 0.7773,
+      "hotScore": 0.48,
+      "freshness": 0.9999,
+      "crossSource": 1,
+      "totalScore": 0.792,
       "sources": [
         {
+          "channel": "toutiao",
+          "rank": 15,
+          "hot": 19299328,
+          "url": "https://www.toutiao.com/trending/7662510119124877348/"
+        },
+        {
           "channel": "baidu",
-          "rank": 3,
+          "rank": 9,
           "hot": 0,
           "url": "https://m.baidu.com/s?word=%E4%B8%96%E7%95%8C%E6%9D%AF%E5%86%A0%E5%86%9B%E5%A5%96%E9%87%915000%E4%B8%87%E7%BE%8E%E5%85%83+%E5%8E%86%E5%8F%B2%E6%9C%80%E9%AB%98&sa=fyb_news"
         }
       ],
       "summary": "",
-      "url": "https://m.baidu.com/s?word=%E4%B8%96%E7%95%8C%E6%9D%AF%E5%86%A0%E5%86%9B%E5%A5%96%E9%87%915000%E4%B8%87%E7%BE%8E%E5%85%83+%E5%8E%86%E5%8F%B2%E6%9C%80%E9%AB%98&sa=fyb_news"
+      "url": "https://www.toutiao.com/trending/7662510119124877348/"
     },
     {
       "id": "evt-10000000",
       "title": "中芯国际与嘉楠科技合作14nm矿机芯片，知情人士：能否量产要看行情",
       "category": "economy",
       "hotScore": 0.9,
-      "freshness": 1,
+      "freshness": 0.9999,
       "crossSource": 0.6309,
       "totalScore": 0.8493,
       "sources": [
@@ -112,7 +112,7 @@
       "title": "三大运营商年内推出5G消息",
       "category": "economy",
       "hotScore": 0.855,
-      "freshness": 1,
+      "freshness": 0.9999,
       "crossSource": 0.6309,
       "totalScore": 0.8313,
       "sources": [
@@ -131,7 +131,7 @@
       "title": "欧洲在线订餐服务Takeaway.com：外卖订单开始强劲复苏",
       "category": "economy",
       "hotScore": 0.81,
-      "freshness": 1,
+      "freshness": 0.9999,
       "crossSource": 0.6309,
       "totalScore": 0.8133,
       "sources": [
@@ -157,12 +157,31 @@
         {
           "channel": "toutiao",
           "rank": 3,
-          "hot": 60811502,
+          "hot": 64076026,
           "url": "https://www.toutiao.com/trending/7662148642534932521/"
         }
       ],
       "summary": "",
       "url": "https://www.toutiao.com/trending/7662148642534932521/"
+    },
+    {
+      "id": "evt-20260000",
+      "title": "2026 世界杯决赛，西班牙 vs 阿根廷，这场比赛结果会如何，是西班牙时隔多年再问鼎，还是阿根廷成功卫冕？",
+      "category": "society",
+      "hotScore": 0.7125,
+      "freshness": 0.9999,
+      "crossSource": 0.6309,
+      "totalScore": 0.7743,
+      "sources": [
+        {
+          "channel": "zhihu",
+          "rank": 2,
+          "hot": 0,
+          "url": ""
+        }
+      ],
+      "summary": "",
+      "url": ""
     },
     {
       "id": "evt-nfc00000",
@@ -184,49 +203,11 @@
       "url": ""
     },
     {
-      "id": "evt-realme00",
-      "title": "realme暂停中国市场业务",
-      "category": "society",
-      "hotScore": 0.64,
-      "freshness": 1,
-      "crossSource": 0.6309,
-      "totalScore": 0.7453,
-      "sources": [
-        {
-          "channel": "baidu",
-          "rank": 5,
-          "hot": 0,
-          "url": "https://m.baidu.com/s?word=realme%E6%9A%82%E5%81%9C%E4%B8%AD%E5%9B%BD%E5%B8%82%E5%9C%BA%E4%B8%9A%E5%8A%A1&sa=fyb_news"
-        }
-      ],
-      "summary": "",
-      "url": "https://m.baidu.com/s?word=realme%E6%9A%82%E5%81%9C%E4%B8%AD%E5%9B%BD%E5%B8%82%E5%9C%BA%E4%B8%9A%E5%8A%A1&sa=fyb_news"
-    },
-    {
-      "id": "evt-18000000",
-      "title": "18岁的“千里奔赴”是怎样的？对话高考后去横州参与救灾的两名少年",
-      "category": "society",
-      "hotScore": 0.6375,
-      "freshness": 1,
-      "crossSource": 0.6309,
-      "totalScore": 0.7443,
-      "sources": [
-        {
-          "channel": "thepaper",
-          "rank": 6,
-          "hot": 0,
-          "url": "https://www.thepaper.cn/newsDetail_forward_33588134"
-        }
-      ],
-      "summary": "",
-      "url": "https://www.thepaper.cn/newsDetail_forward_33588134"
-    },
-    {
       "id": "evt-3d000000",
       "title": "好未来《熊猫博士》3D动画片登陆央视少儿频道",
       "category": "society",
       "hotScore": 0.63,
-      "freshness": 1,
+      "freshness": 0.9999,
       "crossSource": 0.6309,
       "totalScore": 0.7413,
       "sources": [
@@ -252,6 +233,44 @@
         {
           "channel": "zhihu",
           "rank": 5,
+          "hot": 0,
+          "url": ""
+        }
+      ],
+      "summary": "",
+      "url": ""
+    },
+    {
+      "id": "evt-aai00000",
+      "title": "外资机构把脉A股：AI景气度仍向好，市场正进入结构性分化新阶段",
+      "category": "society",
+      "hotScore": 0.595,
+      "freshness": 0.9999,
+      "crossSource": 0.6309,
+      "totalScore": 0.7273,
+      "sources": [
+        {
+          "channel": "thepaper",
+          "rank": 7,
+          "hot": 0,
+          "url": "https://www.thepaper.cn/newsDetail_forward_33586841"
+        }
+      ],
+      "summary": "",
+      "url": "https://www.thepaper.cn/newsDetail_forward_33586841"
+    },
+    {
+      "id": "evt-71000000",
+      "title": "如何评价月之暗面于 7 月 15 日开始灰度测试的 Kimi-K3？",
+      "category": "society",
+      "hotScore": 0.525,
+      "freshness": 0.9999,
+      "crossSource": 0.6309,
+      "totalScore": 0.6993,
+      "sources": [
+        {
+          "channel": "zhihu",
+          "rank": 7,
           "hot": 0,
           "url": ""
         }
