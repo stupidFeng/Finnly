@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-07-16T09:57:22.470Z",
+  "generatedAt": "2026-07-16T11:36:52.036Z",
   "fields": {
     "society": "社会",
     "economy": "经济",
@@ -7,86 +7,86 @@
   },
   "feed": [
     {
-      "id": "evt-00000000",
-      "title": "中国夫妇在印尼浮潜时溺亡",
+      "id": "evt-70000000",
+      "title": "辽宁一橡皮艇闪爆致7死1失联",
       "category": "society",
-      "hotScore": 0.64,
-      "freshness": 0.9999,
+      "hotScore": 0.76,
+      "freshness": 1,
       "crossSource": 1,
-      "totalScore": 0.856,
+      "totalScore": 0.904,
       "sources": [
         {
           "channel": "toutiao",
-          "rank": 9,
-          "hot": 30171953,
-          "url": "https://www.toutiao.com/trending/7662913597463396388/"
+          "rank": 4,
+          "hot": 52390164,
+          "url": "https://www.toutiao.com/trending/7662202757784587812/"
         },
         {
           "channel": "baidu",
-          "rank": 5,
+          "rank": 2,
           "hot": 0,
-          "url": "https://m.baidu.com/s?word=%E4%B8%AD%E5%9B%BD%E5%A4%AB%E5%A6%87%E5%9C%A8%E5%8D%B0%E5%B0%BC%E6%B5%AE%E6%BD%9C%E6%97%B6%E6%BA%BA%E4%BA%A1&sa=fyb_news"
+          "url": "https://m.baidu.com/s?word=%E8%BE%BD%E5%AE%81%E4%B8%80%E6%A9%A1%E7%9A%AE%E8%89%87%E9%97%AA%E7%88%86%E8%87%B47%E6%AD%BB1%E5%A4%B1%E8%81%94&sa=fyb_news"
         }
       ],
       "summary": "",
-      "url": "https://www.toutiao.com/trending/7662913597463396388/"
+      "url": "https://www.toutiao.com/trending/7662202757784587812/"
+    },
+    {
+      "id": "evt-00000000",
+      "title": "中方驳斥所谓“朝贡体系”论调",
+      "category": "society",
+      "hotScore": 0.85,
+      "freshness": 1,
+      "crossSource": 0.6309,
+      "totalScore": 0.8293,
+      "sources": [
+        {
+          "channel": "toutiao",
+          "rank": 1,
+          "hot": 70719325,
+          "url": "https://www.toutiao.com/trending/7663025821225336851/"
+        }
+      ],
+      "summary": "",
+      "url": "https://www.toutiao.com/trending/7663025821225336851/"
+    },
+    {
+      "id": "evt-16000000",
+      "title": "马龙许昕晋级全锦赛16强",
+      "category": "society",
+      "hotScore": 0.8075,
+      "freshness": 1,
+      "crossSource": 0.6309,
+      "totalScore": 0.8123,
+      "sources": [
+        {
+          "channel": "toutiao",
+          "rank": 2,
+          "hot": 63989491,
+          "url": "https://www.toutiao.com/trending/7662722907018821686/"
+        }
+      ],
+      "summary": "",
+      "url": "https://www.toutiao.com/trending/7662722907018821686/"
     },
     {
       "id": "evt-20250000",
       "title": "一图读懂2025年全国医保统计公报",
       "category": "society",
       "hotScore": 0.765,
-      "freshness": 0.9999,
+      "freshness": 1,
       "crossSource": 0.6309,
       "totalScore": 0.7953,
       "sources": [
         {
           "channel": "toutiao",
           "rank": 3,
-          "hot": 54976883,
+          "hot": 57900086,
           "url": "https://www.toutiao.com/trending/7662528441618628650/"
         }
       ],
       "summary": "",
       "url": "https://www.toutiao.com/trending/7662528441618628650/"
-    },
-    {
-      "id": "evt-50000000",
-      "title": "5张图看懂中国人工智能进化之路",
-      "category": "society",
-      "hotScore": 0.765,
-      "freshness": 1,
-      "crossSource": 0.6309,
-      "totalScore": 0.7953,
-      "sources": [
-        {
-          "channel": "thepaper",
-          "rank": 3,
-          "hot": 0,
-          "url": "https://www.thepaper.cn/newsDetail_forward_33586048"
-        }
-      ],
-      "summary": "",
-      "url": "https://www.thepaper.cn/newsDetail_forward_33586048"
-    },
-    {
-      "id": "evt-17000000",
-      "title": "17 岁男孩被敌敌畏浸透裤子，数小时后被下达病危通知书，这是什么原因？如何做紧急处理？",
-      "category": "society",
-      "hotScore": 0.675,
-      "freshness": 1,
-      "crossSource": 0.6309,
-      "totalScore": 0.7593,
-      "sources": [
-        {
-          "channel": "zhihu",
-          "rank": 3,
-          "hot": 0,
-          "url": ""
-        }
-      ],
-      "summary": "",
-      "url": ""
     },
     {
       "id": "evt-10000000",
@@ -146,9 +146,28 @@
       "url": ""
     },
     {
-      "id": "evt-60000000",
-      "title": "长鑫科技超 6000 员工获股份，IPO 后批量诞生千万富翁，如何看待长鑫科技上市？",
-      "category": "economy",
+      "id": "evt-50000000",
+      "title": "5张图看懂中国人工智能进化之路",
+      "category": "society",
+      "hotScore": 0.765,
+      "freshness": 1,
+      "crossSource": 0.6309,
+      "totalScore": 0.7953,
+      "sources": [
+        {
+          "channel": "thepaper",
+          "rank": 3,
+          "hot": 0,
+          "url": "https://www.thepaper.cn/newsDetail_forward_33586048"
+        }
+      ],
+      "summary": "",
+      "url": "https://www.thepaper.cn/newsDetail_forward_33586048"
+    },
+    {
+      "id": "evt-17000000",
+      "title": "17 岁男孩被敌敌畏浸透裤子，数小时后被下达病危通知书，这是什么原因？如何做紧急处理？",
+      "category": "society",
       "hotScore": 0.7125,
       "freshness": 1,
       "crossSource": 0.6309,
@@ -165,8 +184,8 @@
       "url": ""
     },
     {
-      "id": "evt-71700000",
-      "title": "《功夫女足》将在 7 月 17 日（上映第 7 天）更换片源，为什么会出现这种情况？剧情会改动吗？",
+      "id": "evt-ai000000",
+      "title": "马上评｜AI“入侵”艺术评奖，不能只靠撤奖遮羞",
       "category": "society",
       "hotScore": 0.6375,
       "freshness": 1,
@@ -174,14 +193,14 @@
       "totalScore": 0.7443,
       "sources": [
         {
-          "channel": "zhihu",
-          "rank": 4,
+          "channel": "thepaper",
+          "rank": 6,
           "hot": 0,
-          "url": ""
+          "url": "https://www.thepaper.cn/newsDetail_forward_33592256"
         }
       ],
       "summary": "",
-      "url": ""
+      "url": "https://www.thepaper.cn/newsDetail_forward_33592256"
     },
     {
       "id": "evt-3d000000",
@@ -203,65 +222,52 @@
       "url": ""
     },
     {
-      "id": "evt-40000000",
-      "title": "40天超长版三伏炎热开场，高温打卡日历看哪里直冲40℃",
+      "id": "evt-pk000000",
+      "title": "豆包下场PK世界杯懂球天团",
       "category": "society",
-      "hotScore": 0.595,
+      "hotScore": 0.5525,
       "freshness": 1,
       "crossSource": 0.6309,
-      "totalScore": 0.7273,
+      "totalScore": 0.7103,
       "sources": [
         {
-          "channel": "thepaper",
-          "rank": 7,
-          "hot": 0,
-          "url": "https://www.thepaper.cn/newsDetail_forward_33591305"
+          "channel": "toutiao",
+          "rank": 8,
+          "hot": 35118177,
+          "url": "https://www.toutiao.com/trending/7662239168139087423/"
         }
       ],
       "summary": "",
-      "url": "https://www.thepaper.cn/newsDetail_forward_33591305"
+      "url": "https://www.toutiao.com/trending/7662239168139087423/"
+    },
+    {
+      "id": "evt-30000000",
+      "title": "黄仁勋见30年前“救命恩人”",
+      "category": "society",
+      "hotScore": 0.255,
+      "freshness": 1,
+      "crossSource": 1,
+      "totalScore": 0.702,
+      "sources": [
+        {
+          "channel": "toutiao",
+          "rank": 15,
+          "hot": 17439170,
+          "url": "https://www.toutiao.com/trending/7663007736279498761/"
+        },
+        {
+          "channel": "baidu",
+          "rank": 15,
+          "hot": 0,
+          "url": "https://m.baidu.com/s?word=%E9%BB%84%E4%BB%81%E5%8B%8B%E8%A7%8130%E5%B9%B4%E5%89%8D%E2%80%9C%E6%95%91%E5%91%BD%E6%81%A9%E4%BA%BA%E2%80%9D&sa=fyb_news"
+        }
+      ],
+      "summary": "",
+      "url": "https://www.toutiao.com/trending/7663007736279498761/"
     },
     {
       "id": "evt-38000000",
       "title": "38 岁的中年妇女有种无力感，不求上进的老公、不爱学习的孩子、无能为力的自己，大家都有这个感觉嘛？",
-      "category": "society",
-      "hotScore": 0.5625,
-      "freshness": 1,
-      "crossSource": 0.6309,
-      "totalScore": 0.7143,
-      "sources": [
-        {
-          "channel": "zhihu",
-          "rank": 6,
-          "hot": 0,
-          "url": ""
-        }
-      ],
-      "summary": "",
-      "url": ""
-    },
-    {
-      "id": "evt-nfc00000",
-      "title": "NFC果汁生产车间无水果 全靠勾兑",
-      "category": "society",
-      "hotScore": 0.56,
-      "freshness": 1,
-      "crossSource": 0.6309,
-      "totalScore": 0.7133,
-      "sources": [
-        {
-          "channel": "baidu",
-          "rank": 7,
-          "hot": 0,
-          "url": "https://m.baidu.com/s?word=NFC%E6%9E%9C%E6%B1%81%E7%94%9F%E4%BA%A7%E8%BD%A6%E9%97%B4%E6%97%A0%E6%B0%B4%E6%9E%9C+%E5%85%A8%E9%9D%A0%E5%8B%BE%E5%85%91&sa=fyb_news"
-        }
-      ],
-      "summary": "",
-      "url": "https://m.baidu.com/s?word=NFC%E6%9E%9C%E6%B1%81%E7%94%9F%E4%BA%A7%E8%BD%A6%E9%97%B4%E6%97%A0%E6%B0%B4%E6%9E%9C+%E5%85%A8%E9%9D%A0%E5%8B%BE%E5%85%91&sa=fyb_news"
-    },
-    {
-      "id": "evt-12000000",
-      "title": "英格兰 1-2 不敌阿根廷，图赫尔还剩 50 分钟就死守 + 换 2 后卫，如何评价这种战术？是输球的主要原因吗？",
       "category": "society",
       "hotScore": 0.525,
       "freshness": 1,
@@ -279,8 +285,8 @@
       "url": ""
     },
     {
-      "id": "evt-ai000000",
-      "title": "马上评｜AI“入侵”艺术评奖，不能只靠撤奖遮羞",
+      "id": "evt-a0000000",
+      "title": "A股跳水原因是什么",
       "category": "society",
       "hotScore": 0.51,
       "freshness": 1,
@@ -288,14 +294,14 @@
       "totalScore": 0.6933,
       "sources": [
         {
-          "channel": "thepaper",
+          "channel": "toutiao",
           "rank": 9,
-          "hot": 0,
-          "url": "https://www.thepaper.cn/newsDetail_forward_33592256"
+          "hot": 31776241,
+          "url": "https://www.toutiao.com/trending/7662226207446532138/"
         }
       ],
       "summary": "",
-      "url": "https://www.thepaper.cn/newsDetail_forward_33592256"
+      "url": "https://www.toutiao.com/trending/7662226207446532138/"
     }
   ]
 }
