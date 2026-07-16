@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-07-15T22:48:33.544Z",
+  "generatedAt": "2026-07-16T01:42:10.683Z",
   "fields": {
     "society": "社会",
     "economy": "经济",
@@ -22,6 +22,12 @@
           "url": "https://www.thepaper.cn/newsDetail_forward_33591770"
         },
         {
+          "channel": "thepaper",
+          "rank": 2,
+          "hot": 0,
+          "url": "https://www.thepaper.cn/newsDetail_forward_33593576"
+        },
+        {
           "channel": "baidu",
           "rank": 1,
           "hot": 0,
@@ -32,46 +38,27 @@
       "url": "https://www.thepaper.cn/newsDetail_forward_33591770"
     },
     {
-      "id": "evt-21000000",
-      "title": "劳塔罗绝杀！阿根廷2-1逆转英格兰",
+      "id": "evt-60000000",
+      "title": "四川雅安中巴车坠崖致6死11伤",
       "category": "society",
       "hotScore": 0.85,
-      "freshness": 0.9999,
+      "freshness": 1,
       "crossSource": 0.6309,
       "totalScore": 0.8293,
       "sources": [
         {
           "channel": "toutiao",
           "rank": 1,
-          "hot": 25346526,
-          "url": "https://www.toutiao.com/trending/7662590984089337910/"
+          "hot": 34522790,
+          "url": "https://www.toutiao.com/trending/7662202820829040170/"
         }
       ],
       "summary": "",
-      "url": "https://www.toutiao.com/trending/7662590984089337910/"
+      "url": "https://www.toutiao.com/trending/7662202820829040170/"
     },
     {
       "id": "evt-50000000",
       "title": "5张图看懂中国人工智能进化之路",
-      "category": "society",
-      "hotScore": 0.8075,
-      "freshness": 1,
-      "crossSource": 0.6309,
-      "totalScore": 0.8123,
-      "sources": [
-        {
-          "channel": "thepaper",
-          "rank": 2,
-          "hot": 0,
-          "url": "https://www.thepaper.cn/newsDetail_forward_33586048"
-        }
-      ],
-      "summary": "",
-      "url": "https://www.thepaper.cn/newsDetail_forward_33586048"
-    },
-    {
-      "id": "evt-waic0000",
-      "title": "小浪花看WAIC丨“三地四馆”全攻略：路线、看点、隐藏玩法一次说清",
       "category": "society",
       "hotScore": 0.765,
       "freshness": 1,
@@ -82,11 +69,30 @@
           "channel": "thepaper",
           "rank": 3,
           "hot": 0,
-          "url": "https://www.thepaper.cn/newsDetail_forward_33589310"
+          "url": "https://www.thepaper.cn/newsDetail_forward_33586048"
         }
       ],
       "summary": "",
-      "url": "https://www.thepaper.cn/newsDetail_forward_33589310"
+      "url": "https://www.thepaper.cn/newsDetail_forward_33586048"
+    },
+    {
+      "id": "evt-21000000",
+      "title": "阿根廷2比1淘汰英格兰 决赛战西班牙",
+      "category": "society",
+      "hotScore": 0.76,
+      "freshness": 1,
+      "crossSource": 0.6309,
+      "totalScore": 0.7933,
+      "sources": [
+        {
+          "channel": "baidu",
+          "rank": 2,
+          "hot": 0,
+          "url": "https://m.baidu.com/s?word=%E9%98%BF%E6%A0%B9%E5%BB%B72%E6%AF%941%E6%B7%98%E6%B1%B0%E8%8B%B1%E6%A0%BC%E5%85%B0+%E5%86%B3%E8%B5%9B%E6%88%98%E8%A5%BF%E7%8F%AD%E7%89%99&sa=fyb_news"
+        }
+      ],
+      "summary": "",
+      "url": "https://m.baidu.com/s?word=%E9%98%BF%E6%A0%B9%E5%BB%B72%E6%AF%941%E6%B7%98%E6%B1%B0%E8%8B%B1%E6%A0%BC%E5%85%B0+%E5%86%B3%E8%B5%9B%E6%88%98%E8%A5%BF%E7%8F%AD%E7%89%99&sa=fyb_news"
     },
     {
       "id": "evt-10000000",
@@ -165,8 +171,8 @@
       "url": "https://m.baidu.com/s?word=%E4%BA%8C%E5%AD%A3%E5%BA%A6GDP%E5%A2%9E%E9%95%BF4.3%25+%E6%80%8E%E4%B9%88%E7%9C%8B&sa=fyb_news"
     },
     {
-      "id": "evt-vs000000",
-      "title": "世界杯半决赛，英格兰 vs 阿根廷，如何评价本场比赛？",
+      "id": "evt-70000000",
+      "title": "世界杯半决赛，阿根廷 7 分钟两球 2-1 逆转英格兰，如何评价本场比赛？",
       "category": "society",
       "hotScore": 0.75,
       "freshness": 0.9999,
@@ -184,9 +190,47 @@
       "url": ""
     },
     {
+      "id": "evt-vs000000",
+      "title": "世界杯决赛，西班牙 vs 阿根廷，你更看好谁夺冠？",
+      "category": "society",
+      "hotScore": 0.7125,
+      "freshness": 0.9999,
+      "crossSource": 0.6309,
+      "totalScore": 0.7743,
+      "sources": [
+        {
+          "channel": "zhihu",
+          "rank": 2,
+          "hot": 0,
+          "url": ""
+        }
+      ],
+      "summary": "",
+      "url": ""
+    },
+    {
       "id": "evt-sk000000",
       "title": "韩国股市大反弹，SK 海力士美股隔夜暴涨 27%，散户大规模爆仓强平后指数强势反弹，为何波动如此极端？",
       "category": "economy",
+      "hotScore": 0.675,
+      "freshness": 0.9999,
+      "crossSource": 0.6309,
+      "totalScore": 0.7593,
+      "sources": [
+        {
+          "channel": "zhihu",
+          "rank": 3,
+          "hot": 0,
+          "url": ""
+        }
+      ],
+      "summary": "",
+      "url": ""
+    },
+    {
+      "id": "evt-deepse00",
+      "title": "如何看待网传 DeepSeek 实习日薪突破 5500 元？这反映了 AI 行业与求职市场哪些现状？",
+      "category": "society",
       "hotScore": 0.6375,
       "freshness": 0.9999,
       "crossSource": 0.6309,
@@ -222,8 +266,8 @@
       "url": ""
     },
     {
-      "id": "evt-20260000",
-      "title": "2026 年美加墨世界杯世界杯半决赛英格兰 1:2 阿根廷，如何评价这场比赛？",
+      "id": "evt-71700000",
+      "title": "《功夫女足》将在 7 月 17 日（上映第 7 天）更换片源，为什么会出现这种情况？剧情会改动吗？",
       "category": "society",
       "hotScore": 0.6,
       "freshness": 0.9999,
@@ -241,23 +285,23 @@
       "url": ""
     },
     {
-      "id": "evt-q2000000",
-      "title": "如何评价 Q2 全球智能手机出货量同比下滑，小米跌幅最大，三星、苹果、华为逆势上涨？",
+      "id": "evt-90000000",
+      "title": "郑州车站回应9个窗口只开1个",
       "category": "society",
-      "hotScore": 0.5625,
-      "freshness": 0.9999,
+      "hotScore": 0.51,
+      "freshness": 1,
       "crossSource": 0.6309,
-      "totalScore": 0.7143,
+      "totalScore": 0.6933,
       "sources": [
         {
-          "channel": "zhihu",
-          "rank": 6,
-          "hot": 0,
-          "url": ""
+          "channel": "toutiao",
+          "rank": 9,
+          "hot": 15512089,
+          "url": "https://www.toutiao.com/trending/7662376634208911414/"
         }
       ],
       "summary": "",
-      "url": ""
+      "url": "https://www.toutiao.com/trending/7662376634208911414/"
     }
   ]
 }
