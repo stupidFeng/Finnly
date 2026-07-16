@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-07-16T18:55:26.274Z",
+  "generatedAt": "2026-07-16T20:45:29.760Z",
   "fields": {
     "society": "社会",
     "economy": "经济",
@@ -18,7 +18,7 @@
         {
           "channel": "toutiao",
           "rank": 1,
-          "hot": 70856469,
+          "hot": 71363001,
           "url": "https://www.toutiao.com/trending/7662009584916545586/"
         }
       ],
@@ -45,36 +45,11 @@
       "url": "https://www.thepaper.cn/newsDetail_forward_33583299"
     },
     {
-      "id": "evt-50000000",
-      "title": "世界杯冠军奖金5000万美元 历史最高",
-      "category": "society",
-      "hotScore": 0.48,
-      "freshness": 0.9999,
-      "crossSource": 1,
-      "totalScore": 0.792,
-      "sources": [
-        {
-          "channel": "toutiao",
-          "rank": 16,
-          "hot": 15810215,
-          "url": "https://www.toutiao.com/trending/7662510119124877348/"
-        },
-        {
-          "channel": "baidu",
-          "rank": 9,
-          "hot": 0,
-          "url": "https://m.baidu.com/s?word=%E4%B8%96%E7%95%8C%E6%9D%AF%E5%86%A0%E5%86%9B%E5%A5%96%E9%87%915000%E4%B8%87%E7%BE%8E%E5%85%83+%E5%8E%86%E5%8F%B2%E6%9C%80%E9%AB%98&sa=fyb_news"
-        }
-      ],
-      "summary": "",
-      "url": "https://www.toutiao.com/trending/7662510119124877348/"
-    },
-    {
       "id": "evt-nfc00000",
       "title": "河南多家 NFC 果汁生产车间被曝无水果，产品却标注「100% 鲜榨果汁」，标注是否合规？消费者该如何辨别？",
       "category": "society",
       "hotScore": 0.75,
-      "freshness": 0.9999,
+      "freshness": 1,
       "crossSource": 0.6309,
       "totalScore": 0.7893,
       "sources": [
@@ -87,6 +62,31 @@
       ],
       "summary": "",
       "url": ""
+    },
+    {
+      "id": "evt-50000000",
+      "title": "世界杯冠军奖金5000万美元 历史最高",
+      "category": "society",
+      "hotScore": 0.4675,
+      "freshness": 0.9999,
+      "crossSource": 1,
+      "totalScore": 0.787,
+      "sources": [
+        {
+          "channel": "toutiao",
+          "rank": 10,
+          "hot": 29014031,
+          "url": "https://www.toutiao.com/trending/7662510119124877348/"
+        },
+        {
+          "channel": "baidu",
+          "rank": 15,
+          "hot": 0,
+          "url": "https://m.baidu.com/s?word=%E4%B8%96%E7%95%8C%E6%9D%AF%E5%86%A0%E5%86%9B%E5%A5%96%E9%87%915000%E4%B8%87%E7%BE%8E%E5%85%83+%E5%8E%86%E5%8F%B2%E6%9C%80%E9%AB%98&sa=fyb_news"
+        }
+      ],
+      "summary": "",
+      "url": "https://www.toutiao.com/trending/7662510119124877348/"
     },
     {
       "id": "evt-10000000",
@@ -157,7 +157,7 @@
         {
           "channel": "toutiao",
           "rank": 3,
-          "hot": 58012370,
+          "hot": 58427084,
           "url": "https://www.toutiao.com/trending/7662148642534932521/"
         }
       ],
@@ -176,7 +176,7 @@
         {
           "channel": "toutiao",
           "rank": 4,
-          "hot": 52491763,
+          "hot": 52867012,
           "url": "https://www.toutiao.com/trending/7663028230777192490/"
         }
       ],
@@ -207,7 +207,7 @@
       "title": "2026 世界杯决赛，西班牙 vs 阿根廷，这场比赛结果会如何，是西班牙时隔多年再问鼎，还是阿根廷成功卫冕？",
       "category": "society",
       "hotScore": 0.7125,
-      "freshness": 0.9999,
+      "freshness": 1,
       "crossSource": 0.6309,
       "totalScore": 0.7743,
       "sources": [
@@ -241,6 +241,44 @@
       "url": "https://www.thepaper.cn/newsDetail_forward_33588134"
     },
     {
+      "id": "evt-realme00",
+      "title": "如何看待真我 realme 退出中国市场，售后质保由 OPPO 全面接手？品牌为什么会走到停运这一步？",
+      "category": "society",
+      "hotScore": 0.675,
+      "freshness": 1,
+      "crossSource": 0.6309,
+      "totalScore": 0.7593,
+      "sources": [
+        {
+          "channel": "zhihu",
+          "rank": 3,
+          "hot": 0,
+          "url": ""
+        }
+      ],
+      "summary": "",
+      "url": ""
+    },
+    {
+      "id": "evt-spacex00",
+      "title": "SpaceX 上市仅一个月跌破 135 美元发行价，市值缩水三分之一，星舰第 13 次试飞将至，能否挽救股价？",
+      "category": "economy",
+      "hotScore": 0.6375,
+      "freshness": 1,
+      "crossSource": 0.6309,
+      "totalScore": 0.7443,
+      "sources": [
+        {
+          "channel": "zhihu",
+          "rank": 4,
+          "hot": 0,
+          "url": ""
+        }
+      ],
+      "summary": "",
+      "url": ""
+    },
+    {
       "id": "evt-3d000000",
       "title": "好未来《熊猫博士》3D动画片登陆央视少儿频道",
       "category": "society",
@@ -257,25 +295,6 @@
         }
       ],
       "summary": "36氪获悉，自4月9日起，中央电视台少儿频道携手好未来旗下教育品牌熊猫博士上线3D系列动画片《熊猫博士》。与此同时，《熊猫博士》3D动画片也在美国、加拿大、俄罗斯、意大利等多个国家、地区陆续发行，并登陆Discovery探索频道等多个世界知名节目。",
-      "url": ""
-    },
-    {
-      "id": "evt-71000000",
-      "title": "如何评价月之暗面于 7 月 15 日开始灰度测试的 Kimi-K3？",
-      "category": "society",
-      "hotScore": 0.6,
-      "freshness": 0.9999,
-      "crossSource": 0.6309,
-      "totalScore": 0.7293,
-      "sources": [
-        {
-          "channel": "zhihu",
-          "rank": 5,
-          "hot": 0,
-          "url": ""
-        }
-      ],
-      "summary": "",
       "url": ""
     }
   ]
