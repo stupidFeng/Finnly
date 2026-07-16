@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-07-16T01:42:10.683Z",
+  "generatedAt": "2026-07-16T04:50:43.256Z",
   "fields": {
     "society": "社会",
     "economy": "经济",
@@ -11,9 +11,9 @@
       "title": "习近平在上海考察",
       "category": "society",
       "hotScore": 0.85,
-      "freshness": 1,
-      "crossSource": 1,
-      "totalScore": 0.94,
+      "freshness": 0.9999,
+      "crossSource": 0.6309,
+      "totalScore": 0.8293,
       "sources": [
         {
           "channel": "thepaper",
@@ -26,42 +26,36 @@
           "rank": 2,
           "hot": 0,
           "url": "https://www.thepaper.cn/newsDetail_forward_33593576"
-        },
-        {
-          "channel": "baidu",
-          "rank": 1,
-          "hot": 0,
-          "url": "https://m.baidu.com/s?word=%E4%B9%A0%E8%BF%91%E5%B9%B3%E5%9C%A8%E4%B8%8A%E6%B5%B7%E8%80%83%E5%AF%9F&sa=fyb_news"
         }
       ],
       "summary": "",
       "url": "https://www.thepaper.cn/newsDetail_forward_33591770"
     },
     {
-      "id": "evt-60000000",
-      "title": "四川雅安中巴车坠崖致6死11伤",
+      "id": "evt-ipo00000",
+      "title": "长鑫科技IPO",
       "category": "society",
       "hotScore": 0.85,
-      "freshness": 1,
+      "freshness": 0.9999,
       "crossSource": 0.6309,
-      "totalScore": 0.8293,
+      "totalScore": 0.8292,
       "sources": [
         {
           "channel": "toutiao",
           "rank": 1,
-          "hot": 34522790,
-          "url": "https://www.toutiao.com/trending/7662202820829040170/"
+          "hot": 50492233,
+          "url": "https://www.toutiao.com/trending/7662302875339636742/"
         }
       ],
       "summary": "",
-      "url": "https://www.toutiao.com/trending/7662202820829040170/"
+      "url": "https://www.toutiao.com/trending/7662302875339636742/"
     },
     {
       "id": "evt-50000000",
       "title": "5张图看懂中国人工智能进化之路",
       "category": "society",
       "hotScore": 0.765,
-      "freshness": 1,
+      "freshness": 0.9999,
       "crossSource": 0.6309,
       "totalScore": 0.7953,
       "sources": [
@@ -76,11 +70,11 @@
       "url": "https://www.thepaper.cn/newsDetail_forward_33586048"
     },
     {
-      "id": "evt-21000000",
-      "title": "阿根廷2比1淘汰英格兰 决赛战西班牙",
+      "id": "evt-12000000",
+      "title": "决赛世界第1对世界第2",
       "category": "society",
       "hotScore": 0.76,
-      "freshness": 1,
+      "freshness": 0.9999,
       "crossSource": 0.6309,
       "totalScore": 0.7933,
       "sources": [
@@ -88,11 +82,11 @@
           "channel": "baidu",
           "rank": 2,
           "hot": 0,
-          "url": "https://m.baidu.com/s?word=%E9%98%BF%E6%A0%B9%E5%BB%B72%E6%AF%941%E6%B7%98%E6%B1%B0%E8%8B%B1%E6%A0%BC%E5%85%B0+%E5%86%B3%E8%B5%9B%E6%88%98%E8%A5%BF%E7%8F%AD%E7%89%99&sa=fyb_news"
+          "url": "https://m.baidu.com/s?word=%E5%86%B3%E8%B5%9B%E4%B8%96%E7%95%8C%E7%AC%AC1%E5%AF%B9%E4%B8%96%E7%95%8C%E7%AC%AC2&sa=fyb_news"
         }
       ],
       "summary": "",
-      "url": "https://m.baidu.com/s?word=%E9%98%BF%E6%A0%B9%E5%BB%B72%E6%AF%941%E6%B7%98%E6%B1%B0%E8%8B%B1%E6%A0%BC%E5%85%B0+%E5%86%B3%E8%B5%9B%E6%88%98%E8%A5%BF%E7%8F%AD%E7%89%99&sa=fyb_news"
+      "url": "https://m.baidu.com/s?word=%E5%86%B3%E8%B5%9B%E4%B8%96%E7%95%8C%E7%AC%AC1%E5%AF%B9%E4%B8%96%E7%95%8C%E7%AC%AC2&sa=fyb_news"
     },
     {
       "id": "evt-10000000",
@@ -152,32 +146,32 @@
       "url": ""
     },
     {
-      "id": "evt-gdp43000",
-      "title": "二季度GDP增长4.3% 怎么看",
+      "id": "evt-40000000",
+      "title": "这4个关键字概括上半年中国经济",
       "category": "economy",
-      "hotScore": 0.68,
-      "freshness": 1,
+      "hotScore": 0.765,
+      "freshness": 0.9999,
       "crossSource": 0.6309,
-      "totalScore": 0.7613,
+      "totalScore": 0.7952,
       "sources": [
         {
-          "channel": "baidu",
-          "rank": 4,
-          "hot": 0,
-          "url": "https://m.baidu.com/s?word=%E4%BA%8C%E5%AD%A3%E5%BA%A6GDP%E5%A2%9E%E9%95%BF4.3%25+%E6%80%8E%E4%B9%88%E7%9C%8B&sa=fyb_news"
+          "channel": "toutiao",
+          "rank": 3,
+          "hot": 41339544,
+          "url": "https://www.toutiao.com/trending/7662941452045127219/"
         }
       ],
       "summary": "",
-      "url": "https://m.baidu.com/s?word=%E4%BA%8C%E5%AD%A3%E5%BA%A6GDP%E5%A2%9E%E9%95%BF4.3%25+%E6%80%8E%E4%B9%88%E7%9C%8B&sa=fyb_news"
+      "url": "https://www.toutiao.com/trending/7662941452045127219/"
     },
     {
       "id": "evt-70000000",
-      "title": "世界杯半决赛，阿根廷 7 分钟两球 2-1 逆转英格兰，如何评价本场比赛？",
+      "title": "世界杯半决赛，阿根廷 7 分钟两球 2-1 绝杀英格兰，劳塔罗恩佐破门，如何评价本场比赛？",
       "category": "society",
       "hotScore": 0.75,
       "freshness": 0.9999,
       "crossSource": 0.6309,
-      "totalScore": 0.7893,
+      "totalScore": 0.7892,
       "sources": [
         {
           "channel": "zhihu",
@@ -196,7 +190,7 @@
       "hotScore": 0.7125,
       "freshness": 0.9999,
       "crossSource": 0.6309,
-      "totalScore": 0.7743,
+      "totalScore": 0.7742,
       "sources": [
         {
           "channel": "zhihu",
@@ -209,13 +203,13 @@
       "url": ""
     },
     {
-      "id": "evt-sk000000",
-      "title": "韩国股市大反弹，SK 海力士美股隔夜暴涨 27%，散户大规模爆仓强平后指数强势反弹，为何波动如此极端？",
-      "category": "economy",
+      "id": "evt-deepse00",
+      "title": "如何看待网传 DeepSeek 实习日薪突破 5500 元？这反映了 AI 行业与求职市场哪些现状？",
+      "category": "society",
       "hotScore": 0.675,
       "freshness": 0.9999,
       "crossSource": 0.6309,
-      "totalScore": 0.7593,
+      "totalScore": 0.7592,
       "sources": [
         {
           "channel": "zhihu",
@@ -228,13 +222,13 @@
       "url": ""
     },
     {
-      "id": "evt-deepse00",
-      "title": "如何看待网传 DeepSeek 实习日薪突破 5500 元？这反映了 AI 行业与求职市场哪些现状？",
+      "id": "evt-71700000",
+      "title": "《功夫女足》将在 7 月 17 日（上映第 7 天）更换片源，为什么会出现这种情况？剧情会改动吗？",
       "category": "society",
       "hotScore": 0.6375,
       "freshness": 0.9999,
       "crossSource": 0.6309,
-      "totalScore": 0.7443,
+      "totalScore": 0.7442,
       "sources": [
         {
           "channel": "zhihu",
@@ -264,44 +258,6 @@
       ],
       "summary": "36氪获悉，自4月9日起，中央电视台少儿频道携手好未来旗下教育品牌熊猫博士上线3D系列动画片《熊猫博士》。与此同时，《熊猫博士》3D动画片也在美国、加拿大、俄罗斯、意大利等多个国家、地区陆续发行，并登陆Discovery探索频道等多个世界知名节目。",
       "url": ""
-    },
-    {
-      "id": "evt-71700000",
-      "title": "《功夫女足》将在 7 月 17 日（上映第 7 天）更换片源，为什么会出现这种情况？剧情会改动吗？",
-      "category": "society",
-      "hotScore": 0.6,
-      "freshness": 0.9999,
-      "crossSource": 0.6309,
-      "totalScore": 0.7293,
-      "sources": [
-        {
-          "channel": "zhihu",
-          "rank": 5,
-          "hot": 0,
-          "url": ""
-        }
-      ],
-      "summary": "",
-      "url": ""
-    },
-    {
-      "id": "evt-90000000",
-      "title": "郑州车站回应9个窗口只开1个",
-      "category": "society",
-      "hotScore": 0.51,
-      "freshness": 1,
-      "crossSource": 0.6309,
-      "totalScore": 0.6933,
-      "sources": [
-        {
-          "channel": "toutiao",
-          "rank": 9,
-          "hot": 15512089,
-          "url": "https://www.toutiao.com/trending/7662376634208911414/"
-        }
-      ],
-      "summary": "",
-      "url": "https://www.toutiao.com/trending/7662376634208911414/"
     }
   ]
 }
