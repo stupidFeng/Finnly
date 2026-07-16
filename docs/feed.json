@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-07-16T07:55:26.304Z",
+  "generatedAt": "2026-07-16T09:57:22.470Z",
   "fields": {
     "society": "社会",
     "economy": "经济",
@@ -8,22 +8,47 @@
   "feed": [
     {
       "id": "evt-00000000",
-      "title": "“硬刚王健林”的县长落马",
+      "title": "中国夫妇在印尼浮潜时溺亡",
       "category": "society",
-      "hotScore": 0.85,
-      "freshness": 1,
-      "crossSource": 0.6309,
-      "totalScore": 0.8293,
+      "hotScore": 0.64,
+      "freshness": 0.9999,
+      "crossSource": 1,
+      "totalScore": 0.856,
       "sources": [
         {
           "channel": "toutiao",
-          "rank": 1,
-          "hot": 61582250,
-          "url": "https://www.toutiao.com/trending/7662984996600155691/"
+          "rank": 9,
+          "hot": 30171953,
+          "url": "https://www.toutiao.com/trending/7662913597463396388/"
+        },
+        {
+          "channel": "baidu",
+          "rank": 5,
+          "hot": 0,
+          "url": "https://m.baidu.com/s?word=%E4%B8%AD%E5%9B%BD%E5%A4%AB%E5%A6%87%E5%9C%A8%E5%8D%B0%E5%B0%BC%E6%B5%AE%E6%BD%9C%E6%97%B6%E6%BA%BA%E4%BA%A1&sa=fyb_news"
         }
       ],
       "summary": "",
-      "url": "https://www.toutiao.com/trending/7662984996600155691/"
+      "url": "https://www.toutiao.com/trending/7662913597463396388/"
+    },
+    {
+      "id": "evt-20250000",
+      "title": "一图读懂2025年全国医保统计公报",
+      "category": "society",
+      "hotScore": 0.765,
+      "freshness": 0.9999,
+      "crossSource": 0.6309,
+      "totalScore": 0.7953,
+      "sources": [
+        {
+          "channel": "toutiao",
+          "rank": 3,
+          "hot": 54976883,
+          "url": "https://www.toutiao.com/trending/7662528441618628650/"
+        }
+      ],
+      "summary": "",
+      "url": "https://www.toutiao.com/trending/7662528441618628650/"
     },
     {
       "id": "evt-50000000",
@@ -48,39 +73,20 @@
       "id": "evt-17000000",
       "title": "17 岁男孩被敌敌畏浸透裤子，数小时后被下达病危通知书，这是什么原因？如何做紧急处理？",
       "category": "society",
-      "hotScore": 0.7125,
+      "hotScore": 0.675,
       "freshness": 1,
       "crossSource": 0.6309,
-      "totalScore": 0.7743,
+      "totalScore": 0.7593,
       "sources": [
         {
           "channel": "zhihu",
-          "rank": 2,
+          "rank": 3,
           "hot": 0,
           "url": ""
         }
       ],
       "summary": "",
       "url": ""
-    },
-    {
-      "id": "evt-80000000",
-      "title": "长鑫科技8名高管身家过亿",
-      "category": "society",
-      "hotScore": 0.68,
-      "freshness": 1,
-      "crossSource": 0.6309,
-      "totalScore": 0.7613,
-      "sources": [
-        {
-          "channel": "toutiao",
-          "rank": 5,
-          "hot": 41279817,
-          "url": "https://www.toutiao.com/trending/7662008970165665830/"
-        }
-      ],
-      "summary": "",
-      "url": "https://www.toutiao.com/trending/7662008970165665830/"
     },
     {
       "id": "evt-10000000",
@@ -140,61 +146,23 @@
       "url": ""
     },
     {
-      "id": "evt-deepse00",
-      "title": "如何看待网传 DeepSeek 实习日薪突破 5500 元？这反映了 AI 行业与求职市场哪些现状？",
-      "category": "society",
-      "hotScore": 0.675,
+      "id": "evt-60000000",
+      "title": "长鑫科技超 6000 员工获股份，IPO 后批量诞生千万富翁，如何看待长鑫科技上市？",
+      "category": "economy",
+      "hotScore": 0.7125,
       "freshness": 1,
       "crossSource": 0.6309,
-      "totalScore": 0.7593,
+      "totalScore": 0.7743,
       "sources": [
         {
           "channel": "zhihu",
-          "rank": 3,
+          "rank": 2,
           "hot": 0,
           "url": ""
         }
       ],
       "summary": "",
       "url": ""
-    },
-    {
-      "id": "evt-nfc00000",
-      "title": "NFC果汁生产车间无水果 全靠勾兑",
-      "category": "society",
-      "hotScore": 0.64,
-      "freshness": 1,
-      "crossSource": 0.6309,
-      "totalScore": 0.7453,
-      "sources": [
-        {
-          "channel": "baidu",
-          "rank": 5,
-          "hot": 0,
-          "url": "https://m.baidu.com/s?word=NFC%E6%9E%9C%E6%B1%81%E7%94%9F%E4%BA%A7%E8%BD%A6%E9%97%B4%E6%97%A0%E6%B0%B4%E6%9E%9C+%E5%85%A8%E9%9D%A0%E5%8B%BE%E5%85%91&sa=fyb_news"
-        }
-      ],
-      "summary": "",
-      "url": "https://m.baidu.com/s?word=NFC%E6%9E%9C%E6%B1%81%E7%94%9F%E4%BA%A7%E8%BD%A6%E9%97%B4%E6%97%A0%E6%B0%B4%E6%9E%9C+%E5%85%A8%E9%9D%A0%E5%8B%BE%E5%85%91&sa=fyb_news"
-    },
-    {
-      "id": "evt-a0000000",
-      "title": "A股轮动行情普通人该怎么布局",
-      "category": "society",
-      "hotScore": 0.6375,
-      "freshness": 1,
-      "crossSource": 0.6309,
-      "totalScore": 0.7443,
-      "sources": [
-        {
-          "channel": "toutiao",
-          "rank": 6,
-          "hot": 37351523,
-          "url": "https://www.toutiao.com/trending/7662993529479630377/"
-        }
-      ],
-      "summary": "",
-      "url": "https://www.toutiao.com/trending/7662993529479630377/"
     },
     {
       "id": "evt-71700000",
@@ -235,23 +203,23 @@
       "url": ""
     },
     {
-      "id": "evt-vs000000",
-      "title": "世界杯决赛，西班牙 vs 阿根廷，你更看好谁夺冠？",
+      "id": "evt-40000000",
+      "title": "40天超长版三伏炎热开场，高温打卡日历看哪里直冲40℃",
       "category": "society",
-      "hotScore": 0.6,
+      "hotScore": 0.595,
       "freshness": 1,
       "crossSource": 0.6309,
-      "totalScore": 0.7293,
+      "totalScore": 0.7273,
       "sources": [
         {
-          "channel": "zhihu",
-          "rank": 5,
+          "channel": "thepaper",
+          "rank": 7,
           "hot": 0,
-          "url": ""
+          "url": "https://www.thepaper.cn/newsDetail_forward_33591305"
         }
       ],
       "summary": "",
-      "url": ""
+      "url": "https://www.thepaper.cn/newsDetail_forward_33591305"
     },
     {
       "id": "evt-38000000",
@@ -271,6 +239,63 @@
       ],
       "summary": "",
       "url": ""
+    },
+    {
+      "id": "evt-nfc00000",
+      "title": "NFC果汁生产车间无水果 全靠勾兑",
+      "category": "society",
+      "hotScore": 0.56,
+      "freshness": 1,
+      "crossSource": 0.6309,
+      "totalScore": 0.7133,
+      "sources": [
+        {
+          "channel": "baidu",
+          "rank": 7,
+          "hot": 0,
+          "url": "https://m.baidu.com/s?word=NFC%E6%9E%9C%E6%B1%81%E7%94%9F%E4%BA%A7%E8%BD%A6%E9%97%B4%E6%97%A0%E6%B0%B4%E6%9E%9C+%E5%85%A8%E9%9D%A0%E5%8B%BE%E5%85%91&sa=fyb_news"
+        }
+      ],
+      "summary": "",
+      "url": "https://m.baidu.com/s?word=NFC%E6%9E%9C%E6%B1%81%E7%94%9F%E4%BA%A7%E8%BD%A6%E9%97%B4%E6%97%A0%E6%B0%B4%E6%9E%9C+%E5%85%A8%E9%9D%A0%E5%8B%BE%E5%85%91&sa=fyb_news"
+    },
+    {
+      "id": "evt-12000000",
+      "title": "英格兰 1-2 不敌阿根廷，图赫尔还剩 50 分钟就死守 + 换 2 后卫，如何评价这种战术？是输球的主要原因吗？",
+      "category": "society",
+      "hotScore": 0.525,
+      "freshness": 1,
+      "crossSource": 0.6309,
+      "totalScore": 0.6993,
+      "sources": [
+        {
+          "channel": "zhihu",
+          "rank": 7,
+          "hot": 0,
+          "url": ""
+        }
+      ],
+      "summary": "",
+      "url": ""
+    },
+    {
+      "id": "evt-ai000000",
+      "title": "马上评｜AI“入侵”艺术评奖，不能只靠撤奖遮羞",
+      "category": "society",
+      "hotScore": 0.51,
+      "freshness": 1,
+      "crossSource": 0.6309,
+      "totalScore": 0.6933,
+      "sources": [
+        {
+          "channel": "thepaper",
+          "rank": 9,
+          "hot": 0,
+          "url": "https://www.thepaper.cn/newsDetail_forward_33592256"
+        }
+      ],
+      "summary": "",
+      "url": "https://www.thepaper.cn/newsDetail_forward_33592256"
     }
   ]
 }
