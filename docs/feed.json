@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-07-16T04:50:43.256Z",
+  "generatedAt": "2026-07-16T07:55:26.304Z",
   "fields": {
     "society": "社会",
     "economy": "经济",
@@ -8,54 +8,29 @@
   "feed": [
     {
       "id": "evt-00000000",
-      "title": "习近平在上海考察",
+      "title": "“硬刚王健林”的县长落马",
       "category": "society",
       "hotScore": 0.85,
-      "freshness": 0.9999,
+      "freshness": 1,
       "crossSource": 0.6309,
       "totalScore": 0.8293,
       "sources": [
         {
-          "channel": "thepaper",
-          "rank": 1,
-          "hot": 0,
-          "url": "https://www.thepaper.cn/newsDetail_forward_33591770"
-        },
-        {
-          "channel": "thepaper",
-          "rank": 2,
-          "hot": 0,
-          "url": "https://www.thepaper.cn/newsDetail_forward_33593576"
-        }
-      ],
-      "summary": "",
-      "url": "https://www.thepaper.cn/newsDetail_forward_33591770"
-    },
-    {
-      "id": "evt-ipo00000",
-      "title": "长鑫科技IPO",
-      "category": "society",
-      "hotScore": 0.85,
-      "freshness": 0.9999,
-      "crossSource": 0.6309,
-      "totalScore": 0.8292,
-      "sources": [
-        {
           "channel": "toutiao",
           "rank": 1,
-          "hot": 50492233,
-          "url": "https://www.toutiao.com/trending/7662302875339636742/"
+          "hot": 61582250,
+          "url": "https://www.toutiao.com/trending/7662984996600155691/"
         }
       ],
       "summary": "",
-      "url": "https://www.toutiao.com/trending/7662302875339636742/"
+      "url": "https://www.toutiao.com/trending/7662984996600155691/"
     },
     {
       "id": "evt-50000000",
       "title": "5张图看懂中国人工智能进化之路",
       "category": "society",
       "hotScore": 0.765,
-      "freshness": 0.9999,
+      "freshness": 1,
       "crossSource": 0.6309,
       "totalScore": 0.7953,
       "sources": [
@@ -70,23 +45,42 @@
       "url": "https://www.thepaper.cn/newsDetail_forward_33586048"
     },
     {
-      "id": "evt-12000000",
-      "title": "决赛世界第1对世界第2",
+      "id": "evt-17000000",
+      "title": "17 岁男孩被敌敌畏浸透裤子，数小时后被下达病危通知书，这是什么原因？如何做紧急处理？",
       "category": "society",
-      "hotScore": 0.76,
-      "freshness": 0.9999,
+      "hotScore": 0.7125,
+      "freshness": 1,
       "crossSource": 0.6309,
-      "totalScore": 0.7933,
+      "totalScore": 0.7743,
       "sources": [
         {
-          "channel": "baidu",
+          "channel": "zhihu",
           "rank": 2,
           "hot": 0,
-          "url": "https://m.baidu.com/s?word=%E5%86%B3%E8%B5%9B%E4%B8%96%E7%95%8C%E7%AC%AC1%E5%AF%B9%E4%B8%96%E7%95%8C%E7%AC%AC2&sa=fyb_news"
+          "url": ""
         }
       ],
       "summary": "",
-      "url": "https://m.baidu.com/s?word=%E5%86%B3%E8%B5%9B%E4%B8%96%E7%95%8C%E7%AC%AC1%E5%AF%B9%E4%B8%96%E7%95%8C%E7%AC%AC2&sa=fyb_news"
+      "url": ""
+    },
+    {
+      "id": "evt-80000000",
+      "title": "长鑫科技8名高管身家过亿",
+      "category": "society",
+      "hotScore": 0.68,
+      "freshness": 1,
+      "crossSource": 0.6309,
+      "totalScore": 0.7613,
+      "sources": [
+        {
+          "channel": "toutiao",
+          "rank": 5,
+          "hot": 41279817,
+          "url": "https://www.toutiao.com/trending/7662008970165665830/"
+        }
+      ],
+      "summary": "",
+      "url": "https://www.toutiao.com/trending/7662008970165665830/"
     },
     {
       "id": "evt-10000000",
@@ -146,70 +140,13 @@
       "url": ""
     },
     {
-      "id": "evt-40000000",
-      "title": "这4个关键字概括上半年中国经济",
-      "category": "economy",
-      "hotScore": 0.765,
-      "freshness": 0.9999,
-      "crossSource": 0.6309,
-      "totalScore": 0.7952,
-      "sources": [
-        {
-          "channel": "toutiao",
-          "rank": 3,
-          "hot": 41339544,
-          "url": "https://www.toutiao.com/trending/7662941452045127219/"
-        }
-      ],
-      "summary": "",
-      "url": "https://www.toutiao.com/trending/7662941452045127219/"
-    },
-    {
-      "id": "evt-70000000",
-      "title": "世界杯半决赛，阿根廷 7 分钟两球 2-1 绝杀英格兰，劳塔罗恩佐破门，如何评价本场比赛？",
-      "category": "society",
-      "hotScore": 0.75,
-      "freshness": 0.9999,
-      "crossSource": 0.6309,
-      "totalScore": 0.7892,
-      "sources": [
-        {
-          "channel": "zhihu",
-          "rank": 1,
-          "hot": 0,
-          "url": ""
-        }
-      ],
-      "summary": "",
-      "url": ""
-    },
-    {
-      "id": "evt-vs000000",
-      "title": "世界杯决赛，西班牙 vs 阿根廷，你更看好谁夺冠？",
-      "category": "society",
-      "hotScore": 0.7125,
-      "freshness": 0.9999,
-      "crossSource": 0.6309,
-      "totalScore": 0.7742,
-      "sources": [
-        {
-          "channel": "zhihu",
-          "rank": 2,
-          "hot": 0,
-          "url": ""
-        }
-      ],
-      "summary": "",
-      "url": ""
-    },
-    {
       "id": "evt-deepse00",
       "title": "如何看待网传 DeepSeek 实习日薪突破 5500 元？这反映了 AI 行业与求职市场哪些现状？",
       "category": "society",
       "hotScore": 0.675,
-      "freshness": 0.9999,
+      "freshness": 1,
       "crossSource": 0.6309,
-      "totalScore": 0.7592,
+      "totalScore": 0.7593,
       "sources": [
         {
           "channel": "zhihu",
@@ -220,15 +157,53 @@
       ],
       "summary": "",
       "url": ""
+    },
+    {
+      "id": "evt-nfc00000",
+      "title": "NFC果汁生产车间无水果 全靠勾兑",
+      "category": "society",
+      "hotScore": 0.64,
+      "freshness": 1,
+      "crossSource": 0.6309,
+      "totalScore": 0.7453,
+      "sources": [
+        {
+          "channel": "baidu",
+          "rank": 5,
+          "hot": 0,
+          "url": "https://m.baidu.com/s?word=NFC%E6%9E%9C%E6%B1%81%E7%94%9F%E4%BA%A7%E8%BD%A6%E9%97%B4%E6%97%A0%E6%B0%B4%E6%9E%9C+%E5%85%A8%E9%9D%A0%E5%8B%BE%E5%85%91&sa=fyb_news"
+        }
+      ],
+      "summary": "",
+      "url": "https://m.baidu.com/s?word=NFC%E6%9E%9C%E6%B1%81%E7%94%9F%E4%BA%A7%E8%BD%A6%E9%97%B4%E6%97%A0%E6%B0%B4%E6%9E%9C+%E5%85%A8%E9%9D%A0%E5%8B%BE%E5%85%91&sa=fyb_news"
+    },
+    {
+      "id": "evt-a0000000",
+      "title": "A股轮动行情普通人该怎么布局",
+      "category": "society",
+      "hotScore": 0.6375,
+      "freshness": 1,
+      "crossSource": 0.6309,
+      "totalScore": 0.7443,
+      "sources": [
+        {
+          "channel": "toutiao",
+          "rank": 6,
+          "hot": 37351523,
+          "url": "https://www.toutiao.com/trending/7662993529479630377/"
+        }
+      ],
+      "summary": "",
+      "url": "https://www.toutiao.com/trending/7662993529479630377/"
     },
     {
       "id": "evt-71700000",
       "title": "《功夫女足》将在 7 月 17 日（上映第 7 天）更换片源，为什么会出现这种情况？剧情会改动吗？",
       "category": "society",
       "hotScore": 0.6375,
-      "freshness": 0.9999,
+      "freshness": 1,
       "crossSource": 0.6309,
-      "totalScore": 0.7442,
+      "totalScore": 0.7443,
       "sources": [
         {
           "channel": "zhihu",
@@ -257,6 +232,44 @@
         }
       ],
       "summary": "36氪获悉，自4月9日起，中央电视台少儿频道携手好未来旗下教育品牌熊猫博士上线3D系列动画片《熊猫博士》。与此同时，《熊猫博士》3D动画片也在美国、加拿大、俄罗斯、意大利等多个国家、地区陆续发行，并登陆Discovery探索频道等多个世界知名节目。",
+      "url": ""
+    },
+    {
+      "id": "evt-vs000000",
+      "title": "世界杯决赛，西班牙 vs 阿根廷，你更看好谁夺冠？",
+      "category": "society",
+      "hotScore": 0.6,
+      "freshness": 1,
+      "crossSource": 0.6309,
+      "totalScore": 0.7293,
+      "sources": [
+        {
+          "channel": "zhihu",
+          "rank": 5,
+          "hot": 0,
+          "url": ""
+        }
+      ],
+      "summary": "",
+      "url": ""
+    },
+    {
+      "id": "evt-38000000",
+      "title": "38 岁的中年妇女有种无力感，不求上进的老公、不爱学习的孩子、无能为力的自己，大家都有这个感觉嘛？",
+      "category": "society",
+      "hotScore": 0.5625,
+      "freshness": 1,
+      "crossSource": 0.6309,
+      "totalScore": 0.7143,
+      "sources": [
+        {
+          "channel": "zhihu",
+          "rank": 6,
+          "hot": 0,
+          "url": ""
+        }
+      ],
+      "summary": "",
       "url": ""
     }
   ]
