@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-07-16T17:03:28.637Z",
+  "generatedAt": "2026-07-16T18:55:26.274Z",
   "fields": {
     "society": "社会",
     "economy": "经济",
@@ -7,67 +7,23 @@
   },
   "feed": [
     {
-      "id": "evt-50000000",
-      "title": "世界杯冠军奖金5000万美元 历史最高",
-      "category": "society",
-      "hotScore": 0.6375,
-      "freshness": 1,
-      "crossSource": 1,
-      "totalScore": 0.855,
-      "sources": [
-        {
-          "channel": "toutiao",
-          "rank": 6,
-          "hot": 48352252,
-          "url": "https://www.toutiao.com/trending/7662510119124877348/"
-        },
-        {
-          "channel": "baidu",
-          "rank": 11,
-          "hot": 0,
-          "url": "https://m.baidu.com/s?word=%E4%B8%96%E7%95%8C%E6%9D%AF%E5%86%A0%E5%86%9B%E5%A5%96%E9%87%915000%E4%B8%87%E7%BE%8E%E5%85%83+%E5%8E%86%E5%8F%B2%E6%9C%80%E9%AB%98&sa=fyb_news"
-        }
-      ],
-      "summary": "",
-      "url": "https://www.toutiao.com/trending/7662510119124877348/"
-    },
-    {
       "id": "evt-00000000",
       "title": "俄不承认“南海仲裁案裁决”合法性",
       "category": "society",
       "hotScore": 0.85,
-      "freshness": 1,
+      "freshness": 0.9999,
       "crossSource": 0.6309,
       "totalScore": 0.8293,
       "sources": [
         {
           "channel": "toutiao",
           "rank": 1,
-          "hot": 79719386,
+          "hot": 70856469,
           "url": "https://www.toutiao.com/trending/7662009584916545586/"
         }
       ],
       "summary": "",
       "url": "https://www.toutiao.com/trending/7662009584916545586/"
-    },
-    {
-      "id": "evt-88000000",
-      "title": "岛内民调称88%青年愿上战场结果翻车",
-      "category": "society",
-      "hotScore": 0.8075,
-      "freshness": 1,
-      "crossSource": 0.6309,
-      "totalScore": 0.8123,
-      "sources": [
-        {
-          "channel": "toutiao",
-          "rank": 2,
-          "hot": 72133084,
-          "url": "https://www.toutiao.com/trending/7663028230777192490/"
-        }
-      ],
-      "summary": "",
-      "url": "https://www.toutiao.com/trending/7663028230777192490/"
     },
     {
       "id": "evt-waic0000",
@@ -87,6 +43,50 @@
       ],
       "summary": "",
       "url": "https://www.thepaper.cn/newsDetail_forward_33583299"
+    },
+    {
+      "id": "evt-50000000",
+      "title": "世界杯冠军奖金5000万美元 历史最高",
+      "category": "society",
+      "hotScore": 0.48,
+      "freshness": 0.9999,
+      "crossSource": 1,
+      "totalScore": 0.792,
+      "sources": [
+        {
+          "channel": "toutiao",
+          "rank": 16,
+          "hot": 15810215,
+          "url": "https://www.toutiao.com/trending/7662510119124877348/"
+        },
+        {
+          "channel": "baidu",
+          "rank": 9,
+          "hot": 0,
+          "url": "https://m.baidu.com/s?word=%E4%B8%96%E7%95%8C%E6%9D%AF%E5%86%A0%E5%86%9B%E5%A5%96%E9%87%915000%E4%B8%87%E7%BE%8E%E5%85%83+%E5%8E%86%E5%8F%B2%E6%9C%80%E9%AB%98&sa=fyb_news"
+        }
+      ],
+      "summary": "",
+      "url": "https://www.toutiao.com/trending/7662510119124877348/"
+    },
+    {
+      "id": "evt-nfc00000",
+      "title": "河南多家 NFC 果汁生产车间被曝无水果，产品却标注「100% 鲜榨果汁」，标注是否合规？消费者该如何辨别？",
+      "category": "society",
+      "hotScore": 0.75,
+      "freshness": 0.9999,
+      "crossSource": 0.6309,
+      "totalScore": 0.7893,
+      "sources": [
+        {
+          "channel": "zhihu",
+          "rank": 1,
+          "hot": 0,
+          "url": ""
+        }
+      ],
+      "summary": "",
+      "url": ""
     },
     {
       "id": "evt-10000000",
@@ -150,14 +150,14 @@
       "title": "1组数字看2026上半年中国经济",
       "category": "economy",
       "hotScore": 0.765,
-      "freshness": 1,
+      "freshness": 0.9999,
       "crossSource": 0.6309,
       "totalScore": 0.7953,
       "sources": [
         {
           "channel": "toutiao",
           "rank": 3,
-          "hot": 65268713,
+          "hot": 58012370,
           "url": "https://www.toutiao.com/trending/7662148642534932521/"
         }
       ],
@@ -165,42 +165,23 @@
       "url": "https://www.toutiao.com/trending/7662148642534932521/"
     },
     {
-      "id": "evt-60000000",
-      "title": "《八仙！》预售突破 6000 万，点映口碑上佳，你预测影片最终票房能到多少？",
-      "category": "entertainment",
-      "hotScore": 0.525,
-      "freshness": 1,
-      "crossSource": 0.6309,
-      "totalScore": 0.6993,
-      "sources": [
-        {
-          "channel": "zhihu",
-          "rank": 7,
-          "hot": 0,
-          "url": ""
-        }
-      ],
-      "summary": "",
-      "url": ""
-    },
-    {
-      "id": "evt-20260000",
-      "title": "2026 世界杯决赛，西班牙 vs 阿根廷，这场比赛结果会如何，是西班牙时隔多年再问鼎，还是阿根廷成功卫冕？",
+      "id": "evt-88000000",
+      "title": "岛内民调称88%青年愿上战场结果翻车",
       "category": "society",
-      "hotScore": 0.75,
-      "freshness": 1,
+      "hotScore": 0.7225,
+      "freshness": 0.9999,
       "crossSource": 0.6309,
-      "totalScore": 0.7893,
+      "totalScore": 0.7783,
       "sources": [
         {
-          "channel": "zhihu",
-          "rank": 1,
-          "hot": 0,
-          "url": ""
+          "channel": "toutiao",
+          "rank": 4,
+          "hot": 52491763,
+          "url": "https://www.toutiao.com/trending/7663028230777192490/"
         }
       ],
       "summary": "",
-      "url": ""
+      "url": "https://www.toutiao.com/trending/7663028230777192490/"
     },
     {
       "id": "evt-40000000",
@@ -222,11 +203,11 @@
       "url": "https://m.baidu.com/s?word=%E6%B0%94%E8%B1%A1%E5%8F%B0%E4%B8%8D%E6%95%A2%E6%8A%A540%E2%84%83%EF%BC%9F%E6%9D%83%E5%A8%81%E5%9B%9E%E5%BA%94&sa=fyb_news"
     },
     {
-      "id": "evt-nfc00000",
-      "title": "河南多家 NFC 果汁生产车间被曝无水果，产品却标注「100% 鲜榨果汁」，标注是否合规？消费者该如何辨别？",
+      "id": "evt-20260000",
+      "title": "2026 世界杯决赛，西班牙 vs 阿根廷，这场比赛结果会如何，是西班牙时隔多年再问鼎，还是阿根廷成功卫冕？",
       "category": "society",
       "hotScore": 0.7125,
-      "freshness": 1,
+      "freshness": 0.9999,
       "crossSource": 0.6309,
       "totalScore": 0.7743,
       "sources": [
@@ -260,25 +241,6 @@
       "url": "https://www.thepaper.cn/newsDetail_forward_33588134"
     },
     {
-      "id": "evt-ceo00000",
-      "title": "深圳文和友招牌拆除，CEO 确认撤场，为什么文和友难以走出长沙？",
-      "category": "society",
-      "hotScore": 0.6375,
-      "freshness": 1,
-      "crossSource": 0.6309,
-      "totalScore": 0.7443,
-      "sources": [
-        {
-          "channel": "zhihu",
-          "rank": 4,
-          "hot": 0,
-          "url": ""
-        }
-      ],
-      "summary": "",
-      "url": ""
-    },
-    {
       "id": "evt-3d000000",
       "title": "好未来《熊猫博士》3D动画片登陆央视少儿频道",
       "category": "society",
@@ -295,6 +257,25 @@
         }
       ],
       "summary": "36氪获悉，自4月9日起，中央电视台少儿频道携手好未来旗下教育品牌熊猫博士上线3D系列动画片《熊猫博士》。与此同时，《熊猫博士》3D动画片也在美国、加拿大、俄罗斯、意大利等多个国家、地区陆续发行，并登陆Discovery探索频道等多个世界知名节目。",
+      "url": ""
+    },
+    {
+      "id": "evt-71000000",
+      "title": "如何评价月之暗面于 7 月 15 日开始灰度测试的 Kimi-K3？",
+      "category": "society",
+      "hotScore": 0.6,
+      "freshness": 0.9999,
+      "crossSource": 0.6309,
+      "totalScore": 0.7293,
+      "sources": [
+        {
+          "channel": "zhihu",
+          "rank": 5,
+          "hot": 0,
+          "url": ""
+        }
+      ],
+      "summary": "",
       "url": ""
     }
   ]
