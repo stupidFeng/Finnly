@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-07-17T01:45:26.666Z",
+  "generatedAt": "2026-07-17T04:53:58.002Z",
   "fields": {
     "society": "社会",
     "economy": "经济",
@@ -7,8 +7,8 @@
   },
   "feed": [
     {
-      "id": "evt-11000000",
-      "title": "超110艘俄船只遭“史无前例”袭击",
+      "id": "evt-00000000",
+      "title": "辽源市委书记沈德生突发疾病逝世",
       "category": "society",
       "hotScore": 0.8075,
       "freshness": 1,
@@ -18,22 +18,22 @@
         {
           "channel": "toutiao",
           "rank": 2,
-          "hot": 17019745,
-          "url": "https://www.toutiao.com/trending/7662671136975667206/"
+          "hot": 18119074,
+          "url": "https://www.toutiao.com/trending/7663337919003758118/"
         },
         {
           "channel": "baidu",
-          "rank": 5,
+          "rank": 6,
           "hot": 0,
-          "url": "https://m.baidu.com/s?word=%E8%B6%85110%E8%89%98%E4%BF%84%E8%88%B9%E5%8F%AA%E9%81%AD%E2%80%9C%E5%8F%B2%E6%97%A0%E5%89%8D%E4%BE%8B%E2%80%9D%E8%A2%AD%E5%87%BB&sa=fyb_news"
+          "url": "https://m.baidu.com/s?word=%E8%BE%BD%E6%BA%90%E5%B8%82%E5%A7%94%E4%B9%A6%E8%AE%B0%E6%B2%88%E5%BE%B7%E7%94%9F%E7%AA%81%E5%8F%91%E7%96%BE%E7%97%85%E9%80%9D%E4%B8%96&sa=fyb_news"
         }
       ],
       "summary": "",
-      "url": "https://www.toutiao.com/trending/7662671136975667206/"
+      "url": "https://www.toutiao.com/trending/7663337919003758118/"
     },
     {
-      "id": "evt-ki000000",
-      "title": "全球最大规模开源模型Kimi K3发布",
+      "id": "evt-a0000000",
+      "title": "A股突然放量释放何信号",
       "category": "society",
       "hotScore": 0.85,
       "freshness": 1,
@@ -43,50 +43,56 @@
         {
           "channel": "toutiao",
           "rank": 1,
-          "hot": 18809727,
-          "url": "https://www.toutiao.com/trending/7663270788073524782/"
+          "hot": 20024674,
+          "url": "https://www.toutiao.com/trending/7663326159165197865/"
         }
       ],
       "summary": "",
-      "url": "https://www.toutiao.com/trending/7663270788073524782/"
+      "url": "https://www.toutiao.com/trending/7663326159165197865/"
     },
     {
-      "id": "evt-00000000",
-      "title": "成立世界人工智能合作组织协定签署仪式在上海举行",
+      "id": "evt-716kim00",
+      "title": "如何评价 7 月 16 日 Kimi 发布的 2.8 万亿级开源模型 K3？",
       "category": "society",
-      "hotScore": 0.85,
+      "hotScore": 0.75,
       "freshness": 1,
       "crossSource": 0.6309,
-      "totalScore": 0.8293,
+      "totalScore": 0.7893,
       "sources": [
         {
-          "channel": "thepaper",
+          "channel": "zhihu",
           "rank": 1,
           "hot": 0,
-          "url": "https://www.thepaper.cn/newsDetail_forward_33600950"
+          "url": ""
         }
       ],
       "summary": "",
-      "url": "https://www.thepaper.cn/newsDetail_forward_33600950"
+      "url": ""
     },
     {
-      "id": "evt-waic0000",
-      "title": "经纬度：在上海，WAIC见证人工智能改变未来",
+      "id": "evt-11000000",
+      "title": "超110艘俄船只遭“史无前例”袭击",
       "category": "society",
-      "hotScore": 0.8075,
+      "hotScore": 0.44,
       "freshness": 1,
-      "crossSource": 0.6309,
-      "totalScore": 0.8123,
+      "crossSource": 1,
+      "totalScore": 0.776,
       "sources": [
         {
-          "channel": "thepaper",
-          "rank": 2,
+          "channel": "toutiao",
+          "rank": 20,
+          "hot": 2995062,
+          "url": "https://www.toutiao.com/trending/7662671136975667206/"
+        },
+        {
+          "channel": "baidu",
+          "rank": 10,
           "hot": 0,
-          "url": "https://www.thepaper.cn/newsDetail_forward_33583299"
+          "url": "https://m.baidu.com/s?word=%E8%B6%85110%E8%89%98%E4%BF%84%E8%88%B9%E5%8F%AA%E9%81%AD%E2%80%9C%E5%8F%B2%E6%97%A0%E5%89%8D%E4%BE%8B%E2%80%9D%E8%A2%AD%E5%87%BB&sa=fyb_news"
         }
       ],
       "summary": "",
-      "url": "https://www.thepaper.cn/newsDetail_forward_33583299"
+      "url": "https://www.toutiao.com/trending/7662671136975667206/"
     },
     {
       "id": "evt-10000000",
@@ -146,63 +152,6 @@
       "url": ""
     },
     {
-      "id": "evt-12026000",
-      "title": "1组数字看2026上半年中国经济",
-      "category": "economy",
-      "hotScore": 0.765,
-      "freshness": 1,
-      "crossSource": 0.6309,
-      "totalScore": 0.7953,
-      "sources": [
-        {
-          "channel": "toutiao",
-          "rank": 3,
-          "hot": 15400102,
-          "url": "https://www.toutiao.com/trending/7662148642534932521/"
-        }
-      ],
-      "summary": "",
-      "url": "https://www.toutiao.com/trending/7662148642534932521/"
-    },
-    {
-      "id": "evt-30000000",
-      "title": "周星驰连发3个问号回应疑被偷票房",
-      "category": "entertainment",
-      "hotScore": 0.72,
-      "freshness": 1,
-      "crossSource": 0.6309,
-      "totalScore": 0.7773,
-      "sources": [
-        {
-          "channel": "baidu",
-          "rank": 3,
-          "hot": 0,
-          "url": "https://m.baidu.com/s?word=%E5%91%A8%E6%98%9F%E9%A9%B0%E8%BF%9E%E5%8F%913%E4%B8%AA%E9%97%AE%E5%8F%B7%E5%9B%9E%E5%BA%94%E7%96%91%E8%A2%AB%E5%81%B7%E7%A5%A8%E6%88%BF&sa=fyb_news"
-        }
-      ],
-      "summary": "",
-      "url": "https://m.baidu.com/s?word=%E5%91%A8%E6%98%9F%E9%A9%B0%E8%BF%9E%E5%8F%913%E4%B8%AA%E9%97%AE%E5%8F%B7%E5%9B%9E%E5%BA%94%E7%96%91%E8%A2%AB%E5%81%B7%E7%A5%A8%E6%88%BF&sa=fyb_news"
-    },
-    {
-      "id": "evt-realme00",
-      "title": "如何看待真我 realme 退出中国市场，售后质保由 OPPO 全面接手？品牌为什么会走到停运这一步？",
-      "category": "society",
-      "hotScore": 0.75,
-      "freshness": 1,
-      "crossSource": 0.6309,
-      "totalScore": 0.7893,
-      "sources": [
-        {
-          "channel": "zhihu",
-          "rank": 1,
-          "hot": 0,
-          "url": ""
-        }
-      ],
-      "summary": "",
-      "url": ""
-    },
-    {
       "id": "evt-3d000000",
       "title": "好未来《熊猫博士》3D动画片登陆央视少儿频道",
       "category": "society",
@@ -222,46 +171,27 @@
       "url": ""
     },
     {
-      "id": "evt-88000000",
-      "title": "玛莎拉蒂新车88万二手只要24.8万",
+      "id": "evt-80000000",
+      "title": "重庆彭水山体崩塌已救出8人",
       "category": "society",
-      "hotScore": 0.6,
+      "hotScore": 0.595,
       "freshness": 1,
       "crossSource": 0.6309,
-      "totalScore": 0.7293,
+      "totalScore": 0.7273,
       "sources": [
         {
-          "channel": "baidu",
-          "rank": 6,
-          "hot": 0,
-          "url": "https://m.baidu.com/s?word=%E7%8E%9B%E8%8E%8E%E6%8B%89%E8%92%82%E6%96%B0%E8%BD%A688%E4%B8%87%E4%BA%8C%E6%89%8B%E5%8F%AA%E8%A6%8124.8%E4%B8%87&sa=fyb_news"
+          "channel": "toutiao",
+          "rank": 7,
+          "hot": 10989774,
+          "url": "https://www.toutiao.com/trending/7662659156129697323/"
         }
       ],
       "summary": "",
-      "url": "https://m.baidu.com/s?word=%E7%8E%9B%E8%8E%8E%E6%8B%89%E8%92%82%E6%96%B0%E8%BD%A688%E4%B8%87%E4%BA%8C%E6%89%8B%E5%8F%AA%E8%A6%8124.8%E4%B8%87&sa=fyb_news"
+      "url": "https://www.toutiao.com/trending/7662659156129697323/"
     },
     {
-      "id": "evt-71600000",
-      "title": "如何评价 7 月 16 日正式上线的 KIMI K3 模型？",
-      "category": "society",
-      "hotScore": 0.6,
-      "freshness": 1,
-      "crossSource": 0.6309,
-      "totalScore": 0.7293,
-      "sources": [
-        {
-          "channel": "zhihu",
-          "rank": 5,
-          "hot": 0,
-          "url": ""
-        }
-      ],
-      "summary": "",
-      "url": ""
-    },
-    {
-      "id": "evt-40000000",
-      "title": "气象台不敢报40℃？权威回应",
+      "id": "evt-50000000",
+      "title": "男子搭高铁被错拿500万元现金背包",
       "category": "society",
       "hotScore": 0.56,
       "freshness": 1,
@@ -272,30 +202,11 @@
           "channel": "baidu",
           "rank": 7,
           "hot": 0,
-          "url": "https://m.baidu.com/s?word=%E6%B0%94%E8%B1%A1%E5%8F%B0%E4%B8%8D%E6%95%A2%E6%8A%A540%E2%84%83%EF%BC%9F%E6%9D%83%E5%A8%81%E5%9B%9E%E5%BA%94&sa=fyb_news"
+          "url": "https://m.baidu.com/s?word=%E7%94%B7%E5%AD%90%E6%90%AD%E9%AB%98%E9%93%81%E8%A2%AB%E9%94%99%E6%8B%BF500%E4%B8%87%E5%85%83%E7%8E%B0%E9%87%91%E8%83%8C%E5%8C%85&sa=fyb_news"
         }
       ],
       "summary": "",
-      "url": "https://m.baidu.com/s?word=%E6%B0%94%E8%B1%A1%E5%8F%B0%E4%B8%8D%E6%95%A2%E6%8A%A540%E2%84%83%EF%BC%9F%E6%9D%83%E5%A8%81%E5%9B%9E%E5%BA%94&sa=fyb_news"
-    },
-    {
-      "id": "evt-nfc20000",
-      "title": "NFC果汁系勾兑2家企业被立案",
-      "category": "society",
-      "hotScore": 0.51,
-      "freshness": 1,
-      "crossSource": 0.6309,
-      "totalScore": 0.6933,
-      "sources": [
-        {
-          "channel": "toutiao",
-          "rank": 9,
-          "hot": 8451755,
-          "url": "https://www.toutiao.com/trending/7663277377359183913/"
-        }
-      ],
-      "summary": "",
-      "url": "https://www.toutiao.com/trending/7663277377359183913/"
+      "url": "https://m.baidu.com/s?word=%E7%94%B7%E5%AD%90%E6%90%AD%E9%AB%98%E9%93%81%E8%A2%AB%E9%94%99%E6%8B%BF500%E4%B8%87%E5%85%83%E7%8E%B0%E9%87%91%E8%83%8C%E5%8C%85&sa=fyb_news"
     }
   ]
 }
