@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-07-17T20:42:36.163Z",
+  "generatedAt": "2026-07-17T22:38:38.325Z",
   "fields": {
     "society": "社会",
     "economy": "经济",
@@ -17,7 +17,7 @@
       "sources": [
         {
           "channel": "thepaper",
-          "rank": 20,
+          "rank": 16,
           "hot": 0,
           "url": "https://www.thepaper.cn/newsDetail_forward_33609198"
         },
@@ -36,14 +36,14 @@
       "title": "重庆山体崩塌已致8死34失联",
       "category": "society",
       "hotScore": 0.85,
-      "freshness": 0.9999,
+      "freshness": 1,
       "crossSource": 0.6309,
       "totalScore": 0.8293,
       "sources": [
         {
           "channel": "toutiao",
           "rank": 1,
-          "hot": 28521611,
+          "hot": 20142571,
           "url": "https://www.toutiao.com/trending/7662578686872505862/"
         }
       ],
@@ -165,25 +165,6 @@
       "url": "https://m.baidu.com/s?word=%E9%87%8D%E5%BA%86%E5%BD%AD%E6%B0%B4%E5%B1%B1%E4%BD%93%E5%B4%A9%E5%A1%8C%E5%B7%B2%E8%87%B48%E4%BA%BA%E9%81%87%E9%9A%BE&sa=fyb_news"
     },
     {
-      "id": "evt-50000000",
-      "title": "店主回应送老顾客彩票中508万",
-      "category": "society",
-      "hotScore": 0.7225,
-      "freshness": 0.9999,
-      "crossSource": 0.6309,
-      "totalScore": 0.7783,
-      "sources": [
-        {
-          "channel": "toutiao",
-          "rank": 4,
-          "hot": 21129329,
-          "url": "https://www.toutiao.com/trending/7663310765592789035/"
-        }
-      ],
-      "summary": "",
-      "url": "https://www.toutiao.com/trending/7663310765592789035/"
-    },
-    {
       "id": "evt-nfc00000",
       "title": "河南漯河处置“NFC果汁系勾兑”：对2家企业立案，对其余3家深入调查",
       "category": "society",
@@ -277,25 +258,6 @@
       ],
       "summary": "",
       "url": ""
-    },
-    {
-      "id": "evt-74000000",
-      "title": "墨西哥附近海域发生7.4级地震",
-      "category": "society",
-      "hotScore": 0.52,
-      "freshness": 1,
-      "crossSource": 0.6309,
-      "totalScore": 0.6973,
-      "sources": [
-        {
-          "channel": "baidu",
-          "rank": 8,
-          "hot": 0,
-          "url": "https://m.baidu.com/s?word=%E5%A2%A8%E8%A5%BF%E5%93%A5%E9%99%84%E8%BF%91%E6%B5%B7%E5%9F%9F%E5%8F%91%E7%94%9F7.4%E7%BA%A7%E5%9C%B0%E9%9C%87&sa=fyb_news"
-        }
-      ],
-      "summary": "",
-      "url": "https://m.baidu.com/s?word=%E5%A2%A8%E8%A5%BF%E5%93%A5%E9%99%84%E8%BF%91%E6%B5%B7%E5%9F%9F%E5%8F%91%E7%94%9F7.4%E7%BA%A7%E5%9C%B0%E9%9C%87&sa=fyb_news"
     }
   ]
 }
