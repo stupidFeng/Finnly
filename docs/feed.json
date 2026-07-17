@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-07-17T18:52:40.939Z",
+  "generatedAt": "2026-07-17T20:42:36.163Z",
   "fields": {
     "society": "社会",
     "economy": "经济",
@@ -32,6 +32,25 @@
       "url": "https://www.thepaper.cn/newsDetail_forward_33609198"
     },
     {
+      "id": "evt-83400000",
+      "title": "重庆山体崩塌已致8死34失联",
+      "category": "society",
+      "hotScore": 0.85,
+      "freshness": 0.9999,
+      "crossSource": 0.6309,
+      "totalScore": 0.8293,
+      "sources": [
+        {
+          "channel": "toutiao",
+          "rank": 1,
+          "hot": 28521611,
+          "url": "https://www.toutiao.com/trending/7662578686872505862/"
+        }
+      ],
+      "summary": "",
+      "url": "https://www.toutiao.com/trending/7662578686872505862/"
+    },
+    {
       "id": "evt-20260000",
       "title": "详讯丨习近平出席2026世界人工智能大会暨人工智能全球治理高级别会议开幕式并发表主旨讲话",
       "category": "society",
@@ -49,25 +68,6 @@
       ],
       "summary": "",
       "url": "https://www.thepaper.cn/newsDetail_forward_33604314"
-    },
-    {
-      "id": "evt-83400000",
-      "title": "重庆山体崩塌已致8死34失联",
-      "category": "society",
-      "hotScore": 0.85,
-      "freshness": 0.9999,
-      "crossSource": 0.6309,
-      "totalScore": 0.8292,
-      "sources": [
-        {
-          "channel": "toutiao",
-          "rank": 1,
-          "hot": 27472239,
-          "url": "https://www.toutiao.com/trending/7662578686872505862/"
-        }
-      ],
-      "summary": "",
-      "url": "https://www.toutiao.com/trending/7662578686872505862/"
     },
     {
       "id": "evt-40000000",
@@ -93,7 +93,7 @@
       "title": "中芯国际与嘉楠科技合作14nm矿机芯片，知情人士：能否量产要看行情",
       "category": "economy",
       "hotScore": 0.9,
-      "freshness": 0.9999,
+      "freshness": 1,
       "crossSource": 0.6309,
       "totalScore": 0.8493,
       "sources": [
@@ -112,7 +112,7 @@
       "title": "三大运营商年内推出5G消息",
       "category": "economy",
       "hotScore": 0.855,
-      "freshness": 0.9999,
+      "freshness": 1,
       "crossSource": 0.6309,
       "totalScore": 0.8313,
       "sources": [
@@ -131,7 +131,7 @@
       "title": "欧洲在线订餐服务Takeaway.com：外卖订单开始强劲复苏",
       "category": "economy",
       "hotScore": 0.81,
-      "freshness": 0.9999,
+      "freshness": 1,
       "crossSource": 0.6309,
       "totalScore": 0.8133,
       "sources": [
@@ -143,25 +143,6 @@
         }
       ],
       "summary": "据外媒报道，随着闭门不出的消费者厌倦了在家里做饭或寻求改变他们的日常生活，更多的人开始将点外卖作为一种改变局面的方式。欧洲最大的在线订餐服务之一Takeaway.com称，外卖订单已开始强劲复苏。而分析师表示，这种复苏是“I型复苏”，而不是“V型复苏”。（腾讯科技）",
-      "url": ""
-    },
-    {
-      "id": "evt-70000000",
-      "title": "《功夫女足》上映 7 天票房突破 10 亿大关，登顶 2026 年暑期票房榜，你认为还有其他影片能赶超吗？",
-      "category": "entertainment",
-      "hotScore": 0.5625,
-      "freshness": 0.9999,
-      "crossSource": 0.6309,
-      "totalScore": 0.7143,
-      "sources": [
-        {
-          "channel": "zhihu",
-          "rank": 6,
-          "hot": 0,
-          "url": ""
-        }
-      ],
-      "summary": "",
       "url": ""
     },
     {
@@ -184,6 +165,25 @@
       "url": "https://m.baidu.com/s?word=%E9%87%8D%E5%BA%86%E5%BD%AD%E6%B0%B4%E5%B1%B1%E4%BD%93%E5%B4%A9%E5%A1%8C%E5%B7%B2%E8%87%B48%E4%BA%BA%E9%81%87%E9%9A%BE&sa=fyb_news"
     },
     {
+      "id": "evt-50000000",
+      "title": "店主回应送老顾客彩票中508万",
+      "category": "society",
+      "hotScore": 0.7225,
+      "freshness": 0.9999,
+      "crossSource": 0.6309,
+      "totalScore": 0.7783,
+      "sources": [
+        {
+          "channel": "toutiao",
+          "rank": 4,
+          "hot": 21129329,
+          "url": "https://www.toutiao.com/trending/7663310765592789035/"
+        }
+      ],
+      "summary": "",
+      "url": "https://www.toutiao.com/trending/7663310765592789035/"
+    },
+    {
       "id": "evt-nfc00000",
       "title": "河南漯河处置“NFC果汁系勾兑”：对2家企业立案，对其余3家深入调查",
       "category": "society",
@@ -203,49 +203,11 @@
       "url": "https://www.thepaper.cn/newsDetail_forward_33602053"
     },
     {
-      "id": "evt-50000000",
-      "title": "店主回应送老顾客彩票中508万",
-      "category": "society",
-      "hotScore": 0.68,
-      "freshness": 0.9999,
-      "crossSource": 0.6309,
-      "totalScore": 0.7612,
-      "sources": [
-        {
-          "channel": "toutiao",
-          "rank": 5,
-          "hot": 18415192,
-          "url": "https://www.toutiao.com/trending/7663310765592789035/"
-        }
-      ],
-      "summary": "",
-      "url": "https://www.toutiao.com/trending/7663310765592789035/"
-    },
-    {
-      "id": "evt-c0000000",
-      "title": "如何看待 C 罗或将推迟原定 7 月 20 日与乔治娜的婚礼？推迟婚期的背后可能有啥原因？",
-      "category": "society",
-      "hotScore": 0.6375,
-      "freshness": 0.9999,
-      "crossSource": 0.6309,
-      "totalScore": 0.7443,
-      "sources": [
-        {
-          "channel": "zhihu",
-          "rank": 4,
-          "hot": 0,
-          "url": ""
-        }
-      ],
-      "summary": "",
-      "url": ""
-    },
-    {
       "id": "evt-3d000000",
       "title": "好未来《熊猫博士》3D动画片登陆央视少儿频道",
       "category": "society",
       "hotScore": 0.63,
-      "freshness": 0.9999,
+      "freshness": 1,
       "crossSource": 0.6309,
       "totalScore": 0.7413,
       "sources": [
@@ -283,7 +245,7 @@
       "title": "7 月 17 日，A 股跌至 3790 点，沪指创 2025 年 9 月以来新低，发生了什么？",
       "category": "society",
       "hotScore": 0.6,
-      "freshness": 0.9999,
+      "freshness": 1,
       "crossSource": 0.6309,
       "totalScore": 0.7293,
       "sources": [
@@ -296,6 +258,44 @@
       ],
       "summary": "",
       "url": ""
+    },
+    {
+      "id": "evt-su700000",
+      "title": "小米 SU7 碰撞测试博主「原来是翔翔啊」因捏造事实被判刑一年八个月，罚款 10 万元，你怎么看？",
+      "category": "society",
+      "hotScore": 0.525,
+      "freshness": 1,
+      "crossSource": 0.6309,
+      "totalScore": 0.6993,
+      "sources": [
+        {
+          "channel": "zhihu",
+          "rank": 7,
+          "hot": 0,
+          "url": ""
+        }
+      ],
+      "summary": "",
+      "url": ""
+    },
+    {
+      "id": "evt-74000000",
+      "title": "墨西哥附近海域发生7.4级地震",
+      "category": "society",
+      "hotScore": 0.52,
+      "freshness": 1,
+      "crossSource": 0.6309,
+      "totalScore": 0.6973,
+      "sources": [
+        {
+          "channel": "baidu",
+          "rank": 8,
+          "hot": 0,
+          "url": "https://m.baidu.com/s?word=%E5%A2%A8%E8%A5%BF%E5%93%A5%E9%99%84%E8%BF%91%E6%B5%B7%E5%9F%9F%E5%8F%91%E7%94%9F7.4%E7%BA%A7%E5%9C%B0%E9%9C%87&sa=fyb_news"
+        }
+      ],
+      "summary": "",
+      "url": "https://m.baidu.com/s?word=%E5%A2%A8%E8%A5%BF%E5%93%A5%E9%99%84%E8%BF%91%E6%B5%B7%E5%9F%9F%E5%8F%91%E7%94%9F7.4%E7%BA%A7%E5%9C%B0%E9%9C%87&sa=fyb_news"
     }
   ]
 }
