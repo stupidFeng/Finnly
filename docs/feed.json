@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-07-17T13:03:28.198Z",
+  "generatedAt": "2026-07-17T15:05:33.525Z",
   "fields": {
     "society": "社会",
     "economy": "经济",
@@ -7,38 +7,32 @@
   },
   "feed": [
     {
-      "id": "evt-00000000",
-      "title": "一文看懂国家网络身份认证使用场景",
+      "id": "evt-83400000",
+      "title": "重庆山体崩塌已致8死34失联",
       "category": "society",
-      "hotScore": 0.6375,
+      "hotScore": 0.85,
       "freshness": 0.9999,
       "crossSource": 1,
-      "totalScore": 0.855,
+      "totalScore": 0.94,
       "sources": [
         {
           "channel": "toutiao",
-          "rank": 6,
-          "hot": 20858932,
-          "url": "https://www.toutiao.com/trending/7663435438748749350/"
-        },
-        {
-          "channel": "baidu",
-          "rank": 7,
-          "hot": 0,
-          "url": "https://m.baidu.com/s?word=%E4%B8%80%E6%96%87%E7%9C%8B%E6%87%82%E5%9B%BD%E5%AE%B6%E7%BD%91%E7%BB%9C%E8%BA%AB%E4%BB%BD%E8%AE%A4%E8%AF%81%E4%BD%BF%E7%94%A8%E5%9C%BA%E6%99%AF&sa=fyb_news"
+          "rank": 1,
+          "hot": 47669195,
+          "url": "https://www.toutiao.com/trending/7662578686872505862/"
         }
       ],
       "summary": "",
-      "url": "https://www.toutiao.com/trending/7663435438748749350/"
+      "url": "https://www.toutiao.com/trending/7662578686872505862/"
     },
     {
       "id": "evt-20260000",
       "title": "详讯丨习近平出席2026世界人工智能大会暨人工智能全球治理高级别会议开幕式并发表主旨讲话",
       "category": "society",
       "hotScore": 0.85,
-      "freshness": 0.9999,
-      "crossSource": 0.6309,
-      "totalScore": 0.8293,
+      "freshness": 1,
+      "crossSource": 1,
+      "totalScore": 0.94,
       "sources": [
         {
           "channel": "thepaper",
@@ -51,42 +45,61 @@
       "url": "https://www.thepaper.cn/newsDetail_forward_33604314"
     },
     {
-      "id": "evt-10000000",
-      "title": "重庆山体垮塌已救出10人",
+      "id": "evt-00000000",
+      "title": "国防部：望各方理性看待中俄军事合作",
       "category": "society",
-      "hotScore": 0.85,
+      "hotScore": 0.8075,
       "freshness": 0.9999,
-      "crossSource": 0.6309,
-      "totalScore": 0.8292,
+      "crossSource": 1,
+      "totalScore": 0.923,
       "sources": [
         {
           "channel": "toutiao",
-          "rank": 1,
-          "hot": 34390565,
-          "url": "https://www.toutiao.com/trending/7663402730588753435/"
+          "rank": 2,
+          "hot": 43132871,
+          "url": "https://www.toutiao.com/trending/7663393816196087851/"
         }
       ],
       "summary": "",
-      "url": "https://www.toutiao.com/trending/7663402730588753435/"
+      "url": "https://www.toutiao.com/trending/7663393816196087851/"
     },
     {
-      "id": "evt-nfc00000",
-      "title": "河南漯河处置“NFC果汁系勾兑”：对2家企业立案，对其余3家深入调查",
+      "id": "evt-40000000",
+      "title": "直面时代之问 习近平提出4点意见",
       "category": "society",
-      "hotScore": 0.7225,
-      "freshness": 0.9999,
-      "crossSource": 0.6309,
-      "totalScore": 0.7783,
+      "hotScore": 0.8,
+      "freshness": 1,
+      "crossSource": 1,
+      "totalScore": 0.92,
       "sources": [
         {
-          "channel": "thepaper",
-          "rank": 4,
+          "channel": "baidu",
+          "rank": 1,
           "hot": 0,
-          "url": "https://www.thepaper.cn/newsDetail_forward_33602053"
+          "url": "https://m.baidu.com/s?word=%E7%9B%B4%E9%9D%A2%E6%97%B6%E4%BB%A3%E4%B9%8B%E9%97%AE+%E4%B9%A0%E8%BF%91%E5%B9%B3%E6%8F%90%E5%87%BA4%E7%82%B9%E6%84%8F%E8%A7%81&sa=fyb_news"
         }
       ],
       "summary": "",
-      "url": "https://www.thepaper.cn/newsDetail_forward_33602053"
+      "url": "https://m.baidu.com/s?word=%E7%9B%B4%E9%9D%A2%E6%97%B6%E4%BB%A3%E4%B9%8B%E9%97%AE+%E4%B9%A0%E8%BF%91%E5%B9%B3%E6%8F%90%E5%87%BA4%E7%82%B9%E6%84%8F%E8%A7%81&sa=fyb_news"
+    },
+    {
+      "id": "evt-10000000",
+      "title": "中芯国际与嘉楠科技合作14nm矿机芯片，知情人士：能否量产要看行情",
+      "category": "economy",
+      "hotScore": 0.9,
+      "freshness": 1,
+      "crossSource": 1,
+      "totalScore": 0.96,
+      "sources": [
+        {
+          "channel": "36kr",
+          "rank": 1,
+          "hot": 0,
+          "url": ""
+        }
+      ],
+      "summary": "有消息称，中芯国际与嘉楠科技合作的14nm矿机芯片已完成测试，将在今年二季度量产出货。对此，知情人士称，双方合作始于2019年年底，但能否量产要看行情。据悉，中芯国际数次尝试进入矿机行业，但受行情拖累一直未有实质进展。（财联社）",
+      "url": ""
     },
     {
       "id": "evt-5g000000",
@@ -94,8 +107,8 @@
       "category": "economy",
       "hotScore": 0.855,
       "freshness": 1,
-      "crossSource": 0.6309,
-      "totalScore": 0.8313,
+      "crossSource": 1,
+      "totalScore": 0.942,
       "sources": [
         {
           "channel": "36kr",
@@ -113,8 +126,8 @@
       "category": "economy",
       "hotScore": 0.81,
       "freshness": 1,
-      "crossSource": 0.6309,
-      "totalScore": 0.8133,
+      "crossSource": 1,
+      "totalScore": 0.924,
       "sources": [
         {
           "channel": "36kr",
@@ -128,22 +141,98 @@
     },
     {
       "id": "evt-80000000",
-      "title": "伯纳姆8年前曾访华 对此念念不忘",
+      "title": "重庆彭水山体崩塌已致8人遇难",
+      "category": "society",
+      "hotScore": 0.76,
+      "freshness": 1,
+      "crossSource": 1,
+      "totalScore": 0.904,
+      "sources": [
+        {
+          "channel": "baidu",
+          "rank": 2,
+          "hot": 0,
+          "url": "https://m.baidu.com/s?word=%E9%87%8D%E5%BA%86%E5%BD%AD%E6%B0%B4%E5%B1%B1%E4%BD%93%E5%B4%A9%E5%A1%8C%E5%B7%B2%E8%87%B48%E4%BA%BA%E9%81%87%E9%9A%BE&sa=fyb_news"
+        }
+      ],
+      "summary": "",
+      "url": "https://m.baidu.com/s?word=%E9%87%8D%E5%BA%86%E5%BD%AD%E6%B0%B4%E5%B1%B1%E4%BD%93%E5%B4%A9%E5%A1%8C%E5%B7%B2%E8%87%B48%E4%BA%BA%E9%81%87%E9%9A%BE&sa=fyb_news"
+    },
+    {
+      "id": "evt-50000000",
+      "title": "店主回应送老顾客彩票中508万",
       "category": "society",
       "hotScore": 0.7225,
       "freshness": 0.9999,
-      "crossSource": 0.6309,
-      "totalScore": 0.7782,
+      "crossSource": 1,
+      "totalScore": 0.889,
       "sources": [
         {
           "channel": "toutiao",
           "rank": 4,
-          "hot": 25477157,
-          "url": "https://www.toutiao.com/trending/7662572233071771690/"
+          "hot": 35314208,
+          "url": "https://www.toutiao.com/trending/7663310765592789035/"
         }
       ],
       "summary": "",
-      "url": "https://www.toutiao.com/trending/7662572233071771690/"
+      "url": "https://www.toutiao.com/trending/7663310765592789035/"
+    },
+    {
+      "id": "evt-nfc00000",
+      "title": "河南漯河处置“NFC果汁系勾兑”：对2家企业立案，对其余3家深入调查",
+      "category": "society",
+      "hotScore": 0.7225,
+      "freshness": 1,
+      "crossSource": 1,
+      "totalScore": 0.889,
+      "sources": [
+        {
+          "channel": "thepaper",
+          "rank": 4,
+          "hot": 0,
+          "url": "https://www.thepaper.cn/newsDetail_forward_33602053"
+        }
+      ],
+      "summary": "",
+      "url": "https://www.thepaper.cn/newsDetail_forward_33602053"
+    },
+    {
+      "id": "evt-34000000",
+      "title": "山体崩塌现场还有34人失联",
+      "category": "society",
+      "hotScore": 0.72,
+      "freshness": 1,
+      "crossSource": 1,
+      "totalScore": 0.888,
+      "sources": [
+        {
+          "channel": "baidu",
+          "rank": 3,
+          "hot": 0,
+          "url": "https://m.baidu.com/s?word=%E5%B1%B1%E4%BD%93%E5%B4%A9%E5%A1%8C%E7%8E%B0%E5%9C%BA%E8%BF%98%E6%9C%8934%E4%BA%BA%E5%A4%B1%E8%81%94&sa=fyb_news"
+        }
+      ],
+      "summary": "",
+      "url": "https://m.baidu.com/s?word=%E5%B1%B1%E4%BD%93%E5%B4%A9%E5%A1%8C%E7%8E%B0%E5%9C%BA%E8%BF%98%E6%9C%8934%E4%BA%BA%E5%A4%B1%E8%81%94&sa=fyb_news"
+    },
+    {
+      "id": "evt-15700000",
+      "title": "四人操纵股票获利1.57亿被罚没6.27亿",
+      "category": "society",
+      "hotScore": 0.68,
+      "freshness": 0.9999,
+      "crossSource": 1,
+      "totalScore": 0.872,
+      "sources": [
+        {
+          "channel": "toutiao",
+          "rank": 5,
+          "hot": 31953617,
+          "url": "https://www.toutiao.com/trending/7663451675356692521/"
+        }
+      ],
+      "summary": "",
+      "url": "https://www.toutiao.com/trending/7663451675356692521/"
     },
     {
       "id": "evt-3d000000",
@@ -151,8 +240,8 @@
       "category": "society",
       "hotScore": 0.63,
       "freshness": 1,
-      "crossSource": 0.6309,
-      "totalScore": 0.7413,
+      "crossSource": 1,
+      "totalScore": 0.852,
       "sources": [
         {
           "channel": "36kr",
@@ -170,8 +259,8 @@
       "category": "society",
       "hotScore": 0.6,
       "freshness": 0.9999,
-      "crossSource": 0.6309,
-      "totalScore": 0.7292,
+      "crossSource": 1,
+      "totalScore": 0.84,
       "sources": [
         {
           "channel": "zhihu",
@@ -184,42 +273,23 @@
       "url": ""
     },
     {
-      "id": "evt-a0000000",
-      "title": "A股杀跌是中期调整还是牛市结束",
+      "id": "evt-ai000000",
+      "title": "大瓦特·让每一度电都有AI",
       "category": "society",
       "hotScore": 0.5525,
-      "freshness": 0.9999,
-      "crossSource": 0.6309,
-      "totalScore": 0.7102,
+      "freshness": 1,
+      "crossSource": 1,
+      "totalScore": 0.821,
       "sources": [
         {
-          "channel": "toutiao",
-          "rank": 8,
-          "hot": 17077849,
-          "url": "https://www.toutiao.com/trending/7663417152111644223/"
-        }
-      ],
-      "summary": "",
-      "url": "https://www.toutiao.com/trending/7663417152111644223/"
-    },
-    {
-      "id": "evt-35000000",
-      "title": "曲婉婷母亲曾贪污3.5亿元职工安置费",
-      "category": "society",
-      "hotScore": 0.52,
-      "freshness": 0.9999,
-      "crossSource": 0.6309,
-      "totalScore": 0.6973,
-      "sources": [
-        {
-          "channel": "baidu",
+          "channel": "thepaper",
           "rank": 8,
           "hot": 0,
-          "url": "https://m.baidu.com/s?word=%E6%9B%B2%E5%A9%89%E5%A9%B7%E6%AF%8D%E4%BA%B2%E6%9B%BE%E8%B4%AA%E6%B1%A13.5%E4%BA%BF%E5%85%83%E8%81%8C%E5%B7%A5%E5%AE%89%E7%BD%AE%E8%B4%B9&sa=fyb_news"
+          "url": "https://www.thepaper.cn/newsDetail_forward_33604737"
         }
       ],
       "summary": "",
-      "url": "https://m.baidu.com/s?word=%E6%9B%B2%E5%A9%89%E5%A9%B7%E6%AF%8D%E4%BA%B2%E6%9B%BE%E8%B4%AA%E6%B1%A13.5%E4%BA%BF%E5%85%83%E8%81%8C%E5%B7%A5%E5%AE%89%E7%BD%AE%E8%B4%B9&sa=fyb_news"
+      "url": "https://www.thepaper.cn/newsDetail_forward_33604737"
     }
   ]
 }
