@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-07-16T22:48:49.119Z",
+  "generatedAt": "2026-07-17T01:45:26.666Z",
   "fields": {
     "society": "社会",
     "economy": "经济",
@@ -7,33 +7,33 @@
   },
   "feed": [
     {
-      "id": "evt-50000000",
-      "title": "世界杯冠军奖金5000万美元 历史最高",
+      "id": "evt-11000000",
+      "title": "超110艘俄船只遭“史无前例”袭击",
       "category": "society",
-      "hotScore": 0.595,
+      "hotScore": 0.8075,
       "freshness": 1,
       "crossSource": 1,
-      "totalScore": 0.838,
+      "totalScore": 0.923,
       "sources": [
         {
           "channel": "toutiao",
-          "rank": 7,
-          "hot": 11004611,
-          "url": "https://www.toutiao.com/trending/7662510119124877348/"
+          "rank": 2,
+          "hot": 17019745,
+          "url": "https://www.toutiao.com/trending/7662671136975667206/"
         },
         {
           "channel": "baidu",
-          "rank": 11,
+          "rank": 5,
           "hot": 0,
-          "url": "https://m.baidu.com/s?word=%E4%B8%96%E7%95%8C%E6%9D%AF%E5%86%A0%E5%86%9B%E5%A5%96%E9%87%915000%E4%B8%87%E7%BE%8E%E5%85%83+%E5%8E%86%E5%8F%B2%E6%9C%80%E9%AB%98&sa=fyb_news"
+          "url": "https://m.baidu.com/s?word=%E8%B6%85110%E8%89%98%E4%BF%84%E8%88%B9%E5%8F%AA%E9%81%AD%E2%80%9C%E5%8F%B2%E6%97%A0%E5%89%8D%E4%BE%8B%E2%80%9D%E8%A2%AD%E5%87%BB&sa=fyb_news"
         }
       ],
       "summary": "",
-      "url": "https://www.toutiao.com/trending/7662510119124877348/"
+      "url": "https://www.toutiao.com/trending/7662671136975667206/"
     },
     {
-      "id": "evt-00000000",
-      "title": "俄不承认“南海仲裁案裁决”合法性",
+      "id": "evt-ki000000",
+      "title": "全球最大规模开源模型Kimi K3发布",
       "category": "society",
       "hotScore": 0.85,
       "freshness": 1,
@@ -43,12 +43,31 @@
         {
           "channel": "toutiao",
           "rank": 1,
-          "hot": 20051709,
-          "url": "https://www.toutiao.com/trending/7662009584916545586/"
+          "hot": 18809727,
+          "url": "https://www.toutiao.com/trending/7663270788073524782/"
         }
       ],
       "summary": "",
-      "url": "https://www.toutiao.com/trending/7662009584916545586/"
+      "url": "https://www.toutiao.com/trending/7663270788073524782/"
+    },
+    {
+      "id": "evt-00000000",
+      "title": "成立世界人工智能合作组织协定签署仪式在上海举行",
+      "category": "society",
+      "hotScore": 0.85,
+      "freshness": 1,
+      "crossSource": 0.6309,
+      "totalScore": 0.8293,
+      "sources": [
+        {
+          "channel": "thepaper",
+          "rank": 1,
+          "hot": 0,
+          "url": "https://www.thepaper.cn/newsDetail_forward_33600950"
+        }
+      ],
+      "summary": "",
+      "url": "https://www.thepaper.cn/newsDetail_forward_33600950"
     },
     {
       "id": "evt-waic0000",
@@ -68,25 +87,6 @@
       ],
       "summary": "",
       "url": "https://www.thepaper.cn/newsDetail_forward_33583299"
-    },
-    {
-      "id": "evt-nfc00000",
-      "title": "河南多家 NFC 果汁生产车间被曝无水果，产品却标注「100% 鲜榨果汁」，标注是否合规？消费者该如何辨别？",
-      "category": "society",
-      "hotScore": 0.75,
-      "freshness": 1,
-      "crossSource": 0.6309,
-      "totalScore": 0.7893,
-      "sources": [
-        {
-          "channel": "zhihu",
-          "rank": 1,
-          "hot": 0,
-          "url": ""
-        }
-      ],
-      "summary": "",
-      "url": ""
     },
     {
       "id": "evt-10000000",
@@ -157,7 +157,7 @@
         {
           "channel": "toutiao",
           "rank": 3,
-          "hot": 16416951,
+          "hot": 15400102,
           "url": "https://www.toutiao.com/trending/7662148642534932521/"
         }
       ],
@@ -165,66 +165,9 @@
       "url": "https://www.toutiao.com/trending/7662148642534932521/"
     },
     {
-      "id": "evt-tvb00000",
-      "title": "TVB演员梁爱在老人院去世",
+      "id": "evt-30000000",
+      "title": "周星驰连发3个问号回应疑被偷票房",
       "category": "entertainment",
-      "hotScore": 0.56,
-      "freshness": 1,
-      "crossSource": 0.6309,
-      "totalScore": 0.7133,
-      "sources": [
-        {
-          "channel": "baidu",
-          "rank": 7,
-          "hot": 0,
-          "url": "https://m.baidu.com/s?word=TVB%E6%BC%94%E5%91%98%E6%A2%81%E7%88%B1%E5%9C%A8%E8%80%81%E4%BA%BA%E9%99%A2%E5%8E%BB%E4%B8%96&sa=fyb_news"
-        }
-      ],
-      "summary": "",
-      "url": "https://m.baidu.com/s?word=TVB%E6%BC%94%E5%91%98%E6%A2%81%E7%88%B1%E5%9C%A8%E8%80%81%E4%BA%BA%E9%99%A2%E5%8E%BB%E4%B8%96&sa=fyb_news"
-    },
-    {
-      "id": "evt-88000000",
-      "title": "岛内民调称88%青年愿上战场结果翻车",
-      "category": "society",
-      "hotScore": 0.7225,
-      "freshness": 1,
-      "crossSource": 0.6309,
-      "totalScore": 0.7783,
-      "sources": [
-        {
-          "channel": "toutiao",
-          "rank": 4,
-          "hot": 14854671,
-          "url": "https://www.toutiao.com/trending/7663028230777192490/"
-        }
-      ],
-      "summary": "",
-      "url": "https://www.toutiao.com/trending/7663028230777192490/"
-    },
-    {
-      "id": "evt-18000000",
-      "title": "18岁的“千里奔赴”是怎样的？对话高考后去横州参与救灾的两名少年",
-      "category": "society",
-      "hotScore": 0.7225,
-      "freshness": 1,
-      "crossSource": 0.6309,
-      "totalScore": 0.7783,
-      "sources": [
-        {
-          "channel": "thepaper",
-          "rank": 4,
-          "hot": 0,
-          "url": "https://www.thepaper.cn/newsDetail_forward_33588134"
-        }
-      ],
-      "summary": "",
-      "url": "https://www.thepaper.cn/newsDetail_forward_33588134"
-    },
-    {
-      "id": "evt-40000000",
-      "title": "气象台不敢报40℃？权威回应",
-      "category": "society",
       "hotScore": 0.72,
       "freshness": 1,
       "crossSource": 0.6309,
@@ -234,43 +177,24 @@
           "channel": "baidu",
           "rank": 3,
           "hot": 0,
-          "url": "https://m.baidu.com/s?word=%E6%B0%94%E8%B1%A1%E5%8F%B0%E4%B8%8D%E6%95%A2%E6%8A%A540%E2%84%83%EF%BC%9F%E6%9D%83%E5%A8%81%E5%9B%9E%E5%BA%94&sa=fyb_news"
+          "url": "https://m.baidu.com/s?word=%E5%91%A8%E6%98%9F%E9%A9%B0%E8%BF%9E%E5%8F%913%E4%B8%AA%E9%97%AE%E5%8F%B7%E5%9B%9E%E5%BA%94%E7%96%91%E8%A2%AB%E5%81%B7%E7%A5%A8%E6%88%BF&sa=fyb_news"
         }
       ],
       "summary": "",
-      "url": "https://m.baidu.com/s?word=%E6%B0%94%E8%B1%A1%E5%8F%B0%E4%B8%8D%E6%95%A2%E6%8A%A540%E2%84%83%EF%BC%9F%E6%9D%83%E5%A8%81%E5%9B%9E%E5%BA%94&sa=fyb_news"
+      "url": "https://m.baidu.com/s?word=%E5%91%A8%E6%98%9F%E9%A9%B0%E8%BF%9E%E5%8F%913%E4%B8%AA%E9%97%AE%E5%8F%B7%E5%9B%9E%E5%BA%94%E7%96%91%E8%A2%AB%E5%81%B7%E7%A5%A8%E6%88%BF&sa=fyb_news"
     },
     {
       "id": "evt-realme00",
       "title": "如何看待真我 realme 退出中国市场，售后质保由 OPPO 全面接手？品牌为什么会走到停运这一步？",
       "category": "society",
-      "hotScore": 0.7125,
+      "hotScore": 0.75,
       "freshness": 1,
       "crossSource": 0.6309,
-      "totalScore": 0.7743,
+      "totalScore": 0.7893,
       "sources": [
         {
           "channel": "zhihu",
-          "rank": 2,
-          "hot": 0,
-          "url": ""
-        }
-      ],
-      "summary": "",
-      "url": ""
-    },
-    {
-      "id": "evt-spacex00",
-      "title": "SpaceX 上市仅一个月跌破 135 美元发行价，市值缩水三分之一，星舰第 13 次试飞将至，能否挽救股价？",
-      "category": "economy",
-      "hotScore": 0.675,
-      "freshness": 1,
-      "crossSource": 0.6309,
-      "totalScore": 0.7593,
-      "sources": [
-        {
-          "channel": "zhihu",
-          "rank": 3,
+          "rank": 1,
           "hot": 0,
           "url": ""
         }
@@ -296,6 +220,82 @@
       ],
       "summary": "36氪获悉，自4月9日起，中央电视台少儿频道携手好未来旗下教育品牌熊猫博士上线3D系列动画片《熊猫博士》。与此同时，《熊猫博士》3D动画片也在美国、加拿大、俄罗斯、意大利等多个国家、地区陆续发行，并登陆Discovery探索频道等多个世界知名节目。",
       "url": ""
+    },
+    {
+      "id": "evt-88000000",
+      "title": "玛莎拉蒂新车88万二手只要24.8万",
+      "category": "society",
+      "hotScore": 0.6,
+      "freshness": 1,
+      "crossSource": 0.6309,
+      "totalScore": 0.7293,
+      "sources": [
+        {
+          "channel": "baidu",
+          "rank": 6,
+          "hot": 0,
+          "url": "https://m.baidu.com/s?word=%E7%8E%9B%E8%8E%8E%E6%8B%89%E8%92%82%E6%96%B0%E8%BD%A688%E4%B8%87%E4%BA%8C%E6%89%8B%E5%8F%AA%E8%A6%8124.8%E4%B8%87&sa=fyb_news"
+        }
+      ],
+      "summary": "",
+      "url": "https://m.baidu.com/s?word=%E7%8E%9B%E8%8E%8E%E6%8B%89%E8%92%82%E6%96%B0%E8%BD%A688%E4%B8%87%E4%BA%8C%E6%89%8B%E5%8F%AA%E8%A6%8124.8%E4%B8%87&sa=fyb_news"
+    },
+    {
+      "id": "evt-71600000",
+      "title": "如何评价 7 月 16 日正式上线的 KIMI K3 模型？",
+      "category": "society",
+      "hotScore": 0.6,
+      "freshness": 1,
+      "crossSource": 0.6309,
+      "totalScore": 0.7293,
+      "sources": [
+        {
+          "channel": "zhihu",
+          "rank": 5,
+          "hot": 0,
+          "url": ""
+        }
+      ],
+      "summary": "",
+      "url": ""
+    },
+    {
+      "id": "evt-40000000",
+      "title": "气象台不敢报40℃？权威回应",
+      "category": "society",
+      "hotScore": 0.56,
+      "freshness": 1,
+      "crossSource": 0.6309,
+      "totalScore": 0.7133,
+      "sources": [
+        {
+          "channel": "baidu",
+          "rank": 7,
+          "hot": 0,
+          "url": "https://m.baidu.com/s?word=%E6%B0%94%E8%B1%A1%E5%8F%B0%E4%B8%8D%E6%95%A2%E6%8A%A540%E2%84%83%EF%BC%9F%E6%9D%83%E5%A8%81%E5%9B%9E%E5%BA%94&sa=fyb_news"
+        }
+      ],
+      "summary": "",
+      "url": "https://m.baidu.com/s?word=%E6%B0%94%E8%B1%A1%E5%8F%B0%E4%B8%8D%E6%95%A2%E6%8A%A540%E2%84%83%EF%BC%9F%E6%9D%83%E5%A8%81%E5%9B%9E%E5%BA%94&sa=fyb_news"
+    },
+    {
+      "id": "evt-nfc20000",
+      "title": "NFC果汁系勾兑2家企业被立案",
+      "category": "society",
+      "hotScore": 0.51,
+      "freshness": 1,
+      "crossSource": 0.6309,
+      "totalScore": 0.6933,
+      "sources": [
+        {
+          "channel": "toutiao",
+          "rank": 9,
+          "hot": 8451755,
+          "url": "https://www.toutiao.com/trending/7663277377359183913/"
+        }
+      ],
+      "summary": "",
+      "url": "https://www.toutiao.com/trending/7663277377359183913/"
     }
   ]
 }
