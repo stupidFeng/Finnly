@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-07-17T11:14:20.108Z",
+  "generatedAt": "2026-07-17T13:03:28.198Z",
   "fields": {
     "society": "社会",
     "economy": "经济",
@@ -7,36 +7,36 @@
   },
   "feed": [
     {
-      "id": "evt-10000000",
-      "title": "重庆彭水山体垮塌已救出10人",
+      "id": "evt-00000000",
+      "title": "一文看懂国家网络身份认证使用场景",
       "category": "society",
-      "hotScore": 0.85,
-      "freshness": 1,
+      "hotScore": 0.6375,
+      "freshness": 0.9999,
       "crossSource": 1,
-      "totalScore": 0.94,
+      "totalScore": 0.855,
       "sources": [
         {
           "channel": "toutiao",
-          "rank": 1,
-          "hot": 27456956,
-          "url": "https://www.toutiao.com/trending/7663402730588753435/"
+          "rank": 6,
+          "hot": 20858932,
+          "url": "https://www.toutiao.com/trending/7663435438748749350/"
         },
         {
           "channel": "baidu",
-          "rank": 8,
+          "rank": 7,
           "hot": 0,
-          "url": "https://m.baidu.com/s?word=%E9%87%8D%E5%BA%86%E5%BD%AD%E6%B0%B4%E5%B1%B1%E4%BD%93%E5%9E%AE%E5%A1%8C%E5%B7%B2%E6%95%91%E5%87%BA10%E4%BA%BA&sa=fyb_news"
+          "url": "https://m.baidu.com/s?word=%E4%B8%80%E6%96%87%E7%9C%8B%E6%87%82%E5%9B%BD%E5%AE%B6%E7%BD%91%E7%BB%9C%E8%BA%AB%E4%BB%BD%E8%AE%A4%E8%AF%81%E4%BD%BF%E7%94%A8%E5%9C%BA%E6%99%AF&sa=fyb_news"
         }
       ],
       "summary": "",
-      "url": "https://www.toutiao.com/trending/7663402730588753435/"
+      "url": "https://www.toutiao.com/trending/7663435438748749350/"
     },
     {
-      "id": "evt-00000000",
-      "title": "成立世界人工智能合作组织协定签署仪式在上海举行",
+      "id": "evt-20260000",
+      "title": "详讯丨习近平出席2026世界人工智能大会暨人工智能全球治理高级别会议开幕式并发表主旨讲话",
       "category": "society",
       "hotScore": 0.85,
-      "freshness": 1,
+      "freshness": 0.9999,
       "crossSource": 0.6309,
       "totalScore": 0.8293,
       "sources": [
@@ -44,49 +44,49 @@
           "channel": "thepaper",
           "rank": 1,
           "hot": 0,
-          "url": "https://www.thepaper.cn/newsDetail_forward_33600950"
+          "url": "https://www.thepaper.cn/newsDetail_forward_33604314"
         }
       ],
       "summary": "",
-      "url": "https://www.thepaper.cn/newsDetail_forward_33600950"
+      "url": "https://www.thepaper.cn/newsDetail_forward_33604314"
     },
     {
-      "id": "evt-20000000",
-      "title": "全市场近200股跌停",
+      "id": "evt-10000000",
+      "title": "重庆山体垮塌已救出10人",
+      "category": "society",
+      "hotScore": 0.85,
+      "freshness": 0.9999,
+      "crossSource": 0.6309,
+      "totalScore": 0.8292,
+      "sources": [
+        {
+          "channel": "toutiao",
+          "rank": 1,
+          "hot": 34390565,
+          "url": "https://www.toutiao.com/trending/7663402730588753435/"
+        }
+      ],
+      "summary": "",
+      "url": "https://www.toutiao.com/trending/7663402730588753435/"
+    },
+    {
+      "id": "evt-nfc00000",
+      "title": "河南漯河处置“NFC果汁系勾兑”：对2家企业立案，对其余3家深入调查",
       "category": "society",
       "hotScore": 0.7225,
-      "freshness": 1,
+      "freshness": 0.9999,
       "crossSource": 0.6309,
       "totalScore": 0.7783,
       "sources": [
         {
-          "channel": "toutiao",
+          "channel": "thepaper",
           "rank": 4,
-          "hot": 20340613,
-          "url": "https://www.toutiao.com/trending/7663383882661711387/"
-        }
-      ],
-      "summary": "",
-      "url": "https://www.toutiao.com/trending/7663383882661711387/"
-    },
-    {
-      "id": "evt-50000000",
-      "title": "大学生花50元起诉海航称“赢麻了”",
-      "category": "society",
-      "hotScore": 0.72,
-      "freshness": 1,
-      "crossSource": 0.6309,
-      "totalScore": 0.7773,
-      "sources": [
-        {
-          "channel": "baidu",
-          "rank": 3,
           "hot": 0,
-          "url": "https://m.baidu.com/s?word=%E5%A4%A7%E5%AD%A6%E7%94%9F%E8%8A%B150%E5%85%83%E8%B5%B7%E8%AF%89%E6%B5%B7%E8%88%AA%E7%A7%B0%E2%80%9C%E8%B5%A2%E9%BA%BB%E4%BA%86%E2%80%9D&sa=fyb_news"
+          "url": "https://www.thepaper.cn/newsDetail_forward_33602053"
         }
       ],
       "summary": "",
-      "url": "https://m.baidu.com/s?word=%E5%A4%A7%E5%AD%A6%E7%94%9F%E8%8A%B150%E5%85%83%E8%B5%B7%E8%AF%89%E6%B5%B7%E8%88%AA%E7%A7%B0%E2%80%9C%E8%B5%A2%E9%BA%BB%E4%BA%86%E2%80%9D&sa=fyb_news"
+      "url": "https://www.thepaper.cn/newsDetail_forward_33602053"
     },
     {
       "id": "evt-5g000000",
@@ -127,61 +127,23 @@
       "url": ""
     },
     {
-      "id": "evt-15000000",
-      "title": "日产芯片超15亿块 什么概念",
+      "id": "evt-80000000",
+      "title": "伯纳姆8年前曾访华 对此念念不忘",
       "category": "society",
-      "hotScore": 0.68,
-      "freshness": 1,
+      "hotScore": 0.7225,
+      "freshness": 0.9999,
       "crossSource": 0.6309,
-      "totalScore": 0.7613,
+      "totalScore": 0.7782,
       "sources": [
         {
-          "channel": "baidu",
+          "channel": "toutiao",
           "rank": 4,
-          "hot": 0,
-          "url": "https://m.baidu.com/s?word=%E6%97%A5%E4%BA%A7%E8%8A%AF%E7%89%87%E8%B6%8515%E4%BA%BF%E5%9D%97+%E4%BB%80%E4%B9%88%E6%A6%82%E5%BF%B5&sa=fyb_news"
+          "hot": 25477157,
+          "url": "https://www.toutiao.com/trending/7662572233071771690/"
         }
       ],
       "summary": "",
-      "url": "https://m.baidu.com/s?word=%E6%97%A5%E4%BA%A7%E8%8A%AF%E7%89%87%E8%B6%8515%E4%BA%BF%E5%9D%97+%E4%BB%80%E4%B9%88%E6%A6%82%E5%BF%B5&sa=fyb_news"
-    },
-    {
-      "id": "evt-nfc00000",
-      "title": "河南漯河处置“NFC果汁系勾兑”：对2家企业立案，对其余3家深入调查",
-      "category": "society",
-      "hotScore": 0.68,
-      "freshness": 1,
-      "crossSource": 0.6309,
-      "totalScore": 0.7613,
-      "sources": [
-        {
-          "channel": "thepaper",
-          "rank": 5,
-          "hot": 0,
-          "url": "https://www.thepaper.cn/newsDetail_forward_33602053"
-        }
-      ],
-      "summary": "",
-      "url": "https://www.thepaper.cn/newsDetail_forward_33602053"
-    },
-    {
-      "id": "evt-55000000",
-      "title": "中国汽车市场 5 个月推出 542 款新车，比亚迪高管称「彻底疯了」，这反映了怎样的市场竞争？",
-      "category": "society",
-      "hotScore": 0.6375,
-      "freshness": 1,
-      "crossSource": 0.6309,
-      "totalScore": 0.7443,
-      "sources": [
-        {
-          "channel": "zhihu",
-          "rank": 4,
-          "hot": 0,
-          "url": ""
-        }
-      ],
-      "summary": "",
-      "url": ""
+      "url": "https://www.toutiao.com/trending/7662572233071771690/"
     },
     {
       "id": "evt-3d000000",
@@ -203,32 +165,13 @@
       "url": ""
     },
     {
-      "id": "evt-60000000",
-      "title": "月薪6万云海观察员被质疑是萝卜岗",
-      "category": "society",
-      "hotScore": 0.6,
-      "freshness": 1,
-      "crossSource": 0.6309,
-      "totalScore": 0.7293,
-      "sources": [
-        {
-          "channel": "baidu",
-          "rank": 6,
-          "hot": 0,
-          "url": "https://m.baidu.com/s?word=%E6%9C%88%E8%96%AA6%E4%B8%87%E4%BA%91%E6%B5%B7%E8%A7%82%E5%AF%9F%E5%91%98%E8%A2%AB%E8%B4%A8%E7%96%91%E6%98%AF%E8%90%9D%E5%8D%9C%E5%B2%97&sa=fyb_news"
-        }
-      ],
-      "summary": "",
-      "url": "https://m.baidu.com/s?word=%E6%9C%88%E8%96%AA6%E4%B8%87%E4%BA%91%E6%B5%B7%E8%A7%82%E5%AF%9F%E5%91%98%E8%A2%AB%E8%B4%A8%E7%96%91%E6%98%AF%E8%90%9D%E5%8D%9C%E5%B2%97&sa=fyb_news"
-    },
-    {
       "id": "evt-717a3790",
       "title": "7 月 17 日，A 股跌至 3790 点，沪指创 2025 年 9 月以来新低，发生了什么？",
       "category": "society",
       "hotScore": 0.6,
-      "freshness": 1,
+      "freshness": 0.9999,
       "crossSource": 0.6309,
-      "totalScore": 0.7293,
+      "totalScore": 0.7292,
       "sources": [
         {
           "channel": "zhihu",
@@ -239,6 +182,44 @@
       ],
       "summary": "",
       "url": ""
+    },
+    {
+      "id": "evt-a0000000",
+      "title": "A股杀跌是中期调整还是牛市结束",
+      "category": "society",
+      "hotScore": 0.5525,
+      "freshness": 0.9999,
+      "crossSource": 0.6309,
+      "totalScore": 0.7102,
+      "sources": [
+        {
+          "channel": "toutiao",
+          "rank": 8,
+          "hot": 17077849,
+          "url": "https://www.toutiao.com/trending/7663417152111644223/"
+        }
+      ],
+      "summary": "",
+      "url": "https://www.toutiao.com/trending/7663417152111644223/"
+    },
+    {
+      "id": "evt-35000000",
+      "title": "曲婉婷母亲曾贪污3.5亿元职工安置费",
+      "category": "society",
+      "hotScore": 0.52,
+      "freshness": 0.9999,
+      "crossSource": 0.6309,
+      "totalScore": 0.6973,
+      "sources": [
+        {
+          "channel": "baidu",
+          "rank": 8,
+          "hot": 0,
+          "url": "https://m.baidu.com/s?word=%E6%9B%B2%E5%A9%89%E5%A9%B7%E6%AF%8D%E4%BA%B2%E6%9B%BE%E8%B4%AA%E6%B1%A13.5%E4%BA%BF%E5%85%83%E8%81%8C%E5%B7%A5%E5%AE%89%E7%BD%AE%E8%B4%B9&sa=fyb_news"
+        }
+      ],
+      "summary": "",
+      "url": "https://m.baidu.com/s?word=%E6%9B%B2%E5%A9%89%E5%A9%B7%E6%AF%8D%E4%BA%B2%E6%9B%BE%E8%B4%AA%E6%B1%A13.5%E4%BA%BF%E5%85%83%E8%81%8C%E5%B7%A5%E5%AE%89%E7%BD%AE%E8%B4%B9&sa=fyb_news"
     }
   ]
 }
