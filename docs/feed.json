@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-07-17T09:46:41.648Z",
+  "generatedAt": "2026-07-17T11:14:20.108Z",
   "fields": {
     "society": "社会",
     "economy": "经济",
@@ -11,19 +11,19 @@
       "title": "重庆彭水山体垮塌已救出10人",
       "category": "society",
       "hotScore": 0.85,
-      "freshness": 0.9999,
+      "freshness": 1,
       "crossSource": 1,
       "totalScore": 0.94,
       "sources": [
         {
           "channel": "toutiao",
           "rank": 1,
-          "hot": 21294849,
+          "hot": 27456956,
           "url": "https://www.toutiao.com/trending/7663402730588753435/"
         },
         {
           "channel": "baidu",
-          "rank": 11,
+          "rank": 8,
           "hot": 0,
           "url": "https://m.baidu.com/s?word=%E9%87%8D%E5%BA%86%E5%BD%AD%E6%B0%B4%E5%B1%B1%E4%BD%93%E5%9E%AE%E5%A1%8C%E5%B7%B2%E6%95%91%E5%87%BA10%E4%BA%BA&sa=fyb_news"
         }
@@ -51,42 +51,42 @@
       "url": "https://www.thepaper.cn/newsDetail_forward_33600950"
     },
     {
-      "id": "evt-50000000",
-      "title": "店主回应送老顾客彩票中508万",
-      "category": "society",
-      "hotScore": 0.8075,
-      "freshness": 0.9999,
-      "crossSource": 0.6309,
-      "totalScore": 0.8123,
-      "sources": [
-        {
-          "channel": "toutiao",
-          "rank": 2,
-          "hot": 19268376,
-          "url": "https://www.toutiao.com/trending/7663310765592789035/"
-        }
-      ],
-      "summary": "",
-      "url": "https://www.toutiao.com/trending/7663310765592789035/"
-    },
-    {
       "id": "evt-20000000",
       "title": "全市场近200股跌停",
       "category": "society",
       "hotScore": 0.7225,
-      "freshness": 0.9999,
+      "freshness": 1,
       "crossSource": 0.6309,
       "totalScore": 0.7783,
       "sources": [
         {
           "channel": "toutiao",
           "rank": 4,
-          "hot": 15775612,
+          "hot": 20340613,
           "url": "https://www.toutiao.com/trending/7663383882661711387/"
         }
       ],
       "summary": "",
       "url": "https://www.toutiao.com/trending/7663383882661711387/"
+    },
+    {
+      "id": "evt-50000000",
+      "title": "大学生花50元起诉海航称“赢麻了”",
+      "category": "society",
+      "hotScore": 0.72,
+      "freshness": 1,
+      "crossSource": 0.6309,
+      "totalScore": 0.7773,
+      "sources": [
+        {
+          "channel": "baidu",
+          "rank": 3,
+          "hot": 0,
+          "url": "https://m.baidu.com/s?word=%E5%A4%A7%E5%AD%A6%E7%94%9F%E8%8A%B150%E5%85%83%E8%B5%B7%E8%AF%89%E6%B5%B7%E8%88%AA%E7%A7%B0%E2%80%9C%E8%B5%A2%E9%BA%BB%E4%BA%86%E2%80%9D&sa=fyb_news"
+        }
+      ],
+      "summary": "",
+      "url": "https://m.baidu.com/s?word=%E5%A4%A7%E5%AD%A6%E7%94%9F%E8%8A%B150%E5%85%83%E8%B5%B7%E8%AF%89%E6%B5%B7%E8%88%AA%E7%A7%B0%E2%80%9C%E8%B5%A2%E9%BA%BB%E4%BA%86%E2%80%9D&sa=fyb_news"
     },
     {
       "id": "evt-5g000000",
@@ -127,30 +127,11 @@
       "url": ""
     },
     {
-      "id": "evt-717a3790",
-      "title": "7 月 17 日，A 股跌至 3790 点，沪指创 2025 年 9 月以来新低，发生了什么？",
-      "category": "society",
-      "hotScore": 0.7125,
-      "freshness": 0.9999,
-      "crossSource": 0.6309,
-      "totalScore": 0.7743,
-      "sources": [
-        {
-          "channel": "zhihu",
-          "rank": 2,
-          "hot": 0,
-          "url": ""
-        }
-      ],
-      "summary": "",
-      "url": ""
-    },
-    {
       "id": "evt-15000000",
       "title": "日产芯片超15亿块 什么概念",
       "category": "society",
       "hotScore": 0.68,
-      "freshness": 0.9999,
+      "freshness": 1,
       "crossSource": 0.6309,
       "totalScore": 0.7613,
       "sources": [
@@ -163,6 +144,44 @@
       ],
       "summary": "",
       "url": "https://m.baidu.com/s?word=%E6%97%A5%E4%BA%A7%E8%8A%AF%E7%89%87%E8%B6%8515%E4%BA%BF%E5%9D%97+%E4%BB%80%E4%B9%88%E6%A6%82%E5%BF%B5&sa=fyb_news"
+    },
+    {
+      "id": "evt-nfc00000",
+      "title": "河南漯河处置“NFC果汁系勾兑”：对2家企业立案，对其余3家深入调查",
+      "category": "society",
+      "hotScore": 0.68,
+      "freshness": 1,
+      "crossSource": 0.6309,
+      "totalScore": 0.7613,
+      "sources": [
+        {
+          "channel": "thepaper",
+          "rank": 5,
+          "hot": 0,
+          "url": "https://www.thepaper.cn/newsDetail_forward_33602053"
+        }
+      ],
+      "summary": "",
+      "url": "https://www.thepaper.cn/newsDetail_forward_33602053"
+    },
+    {
+      "id": "evt-55000000",
+      "title": "中国汽车市场 5 个月推出 542 款新车，比亚迪高管称「彻底疯了」，这反映了怎样的市场竞争？",
+      "category": "society",
+      "hotScore": 0.6375,
+      "freshness": 1,
+      "crossSource": 0.6309,
+      "totalScore": 0.7443,
+      "sources": [
+        {
+          "channel": "zhihu",
+          "rank": 4,
+          "hot": 0,
+          "url": ""
+        }
+      ],
+      "summary": "",
+      "url": ""
     },
     {
       "id": "evt-3d000000",
@@ -184,11 +203,30 @@
       "url": ""
     },
     {
-      "id": "evt-716kim00",
-      "title": "如何评价 7 月 16 日 Kimi 发布的 2.8 万亿级开源模型 K3？",
+      "id": "evt-60000000",
+      "title": "月薪6万云海观察员被质疑是萝卜岗",
       "category": "society",
       "hotScore": 0.6,
-      "freshness": 0.9999,
+      "freshness": 1,
+      "crossSource": 0.6309,
+      "totalScore": 0.7293,
+      "sources": [
+        {
+          "channel": "baidu",
+          "rank": 6,
+          "hot": 0,
+          "url": "https://m.baidu.com/s?word=%E6%9C%88%E8%96%AA6%E4%B8%87%E4%BA%91%E6%B5%B7%E8%A7%82%E5%AF%9F%E5%91%98%E8%A2%AB%E8%B4%A8%E7%96%91%E6%98%AF%E8%90%9D%E5%8D%9C%E5%B2%97&sa=fyb_news"
+        }
+      ],
+      "summary": "",
+      "url": "https://m.baidu.com/s?word=%E6%9C%88%E8%96%AA6%E4%B8%87%E4%BA%91%E6%B5%B7%E8%A7%82%E5%AF%9F%E5%91%98%E8%A2%AB%E8%B4%A8%E7%96%91%E6%98%AF%E8%90%9D%E5%8D%9C%E5%B2%97&sa=fyb_news"
+    },
+    {
+      "id": "evt-717a3790",
+      "title": "7 月 17 日，A 股跌至 3790 点，沪指创 2025 年 9 月以来新低，发生了什么？",
+      "category": "society",
+      "hotScore": 0.6,
+      "freshness": 1,
       "crossSource": 0.6309,
       "totalScore": 0.7293,
       "sources": [
@@ -201,25 +239,6 @@
       ],
       "summary": "",
       "url": ""
-    },
-    {
-      "id": "evt-nfc00000",
-      "title": "河南漯河处置“NFC果汁系勾兑”：对2家企业立案，对其余3家深入调查",
-      "category": "society",
-      "hotScore": 0.5525,
-      "freshness": 1,
-      "crossSource": 0.6309,
-      "totalScore": 0.7103,
-      "sources": [
-        {
-          "channel": "thepaper",
-          "rank": 8,
-          "hot": 0,
-          "url": "https://www.thepaper.cn/newsDetail_forward_33602053"
-        }
-      ],
-      "summary": "",
-      "url": "https://www.thepaper.cn/newsDetail_forward_33602053"
     }
   ]
 }
