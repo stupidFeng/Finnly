@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-07-17T15:05:33.525Z",
+  "generatedAt": "2026-07-17T16:59:28.398Z",
   "fields": {
     "society": "社会",
     "economy": "经济",
@@ -11,14 +11,14 @@
       "title": "重庆山体崩塌已致8死34失联",
       "category": "society",
       "hotScore": 0.85,
-      "freshness": 0.9999,
+      "freshness": 1,
       "crossSource": 1,
       "totalScore": 0.94,
       "sources": [
         {
           "channel": "toutiao",
           "rank": 1,
-          "hot": 47669195,
+          "hot": 48857001,
           "url": "https://www.toutiao.com/trending/7662578686872505862/"
         }
       ],
@@ -46,22 +46,22 @@
     },
     {
       "id": "evt-00000000",
-      "title": "国防部：望各方理性看待中俄军事合作",
+      "title": "飞天茅台再涨价",
       "category": "society",
       "hotScore": 0.8075,
-      "freshness": 0.9999,
+      "freshness": 1,
       "crossSource": 1,
       "totalScore": 0.923,
       "sources": [
         {
           "channel": "toutiao",
           "rank": 2,
-          "hot": 43132871,
-          "url": "https://www.toutiao.com/trending/7663393816196087851/"
+          "hot": 44207643,
+          "url": "https://www.toutiao.com/trending/7663432363745411118/"
         }
       ],
       "summary": "",
-      "url": "https://www.toutiao.com/trending/7663393816196087851/"
+      "url": "https://www.toutiao.com/trending/7663432363745411118/"
     },
     {
       "id": "evt-40000000",
@@ -163,14 +163,14 @@
       "title": "店主回应送老顾客彩票中508万",
       "category": "society",
       "hotScore": 0.7225,
-      "freshness": 0.9999,
+      "freshness": 1,
       "crossSource": 1,
       "totalScore": 0.889,
       "sources": [
         {
           "channel": "toutiao",
           "rank": 4,
-          "hot": 35314208,
+          "hot": 36194157,
           "url": "https://www.toutiao.com/trending/7663310765592789035/"
         }
       ],
@@ -216,25 +216,6 @@
       "url": "https://m.baidu.com/s?word=%E5%B1%B1%E4%BD%93%E5%B4%A9%E5%A1%8C%E7%8E%B0%E5%9C%BA%E8%BF%98%E6%9C%8934%E4%BA%BA%E5%A4%B1%E8%81%94&sa=fyb_news"
     },
     {
-      "id": "evt-15700000",
-      "title": "四人操纵股票获利1.57亿被罚没6.27亿",
-      "category": "society",
-      "hotScore": 0.68,
-      "freshness": 0.9999,
-      "crossSource": 1,
-      "totalScore": 0.872,
-      "sources": [
-        {
-          "channel": "toutiao",
-          "rank": 5,
-          "hot": 31953617,
-          "url": "https://www.toutiao.com/trending/7663451675356692521/"
-        }
-      ],
-      "summary": "",
-      "url": "https://www.toutiao.com/trending/7663451675356692521/"
-    },
-    {
       "id": "evt-3d000000",
       "title": "好未来《熊猫博士》3D动画片登陆央视少儿频道",
       "category": "society",
@@ -254,11 +235,30 @@
       "url": ""
     },
     {
+      "id": "evt-12306000",
+      "title": "12306购票有新变化",
+      "category": "society",
+      "hotScore": 0.6,
+      "freshness": 1,
+      "crossSource": 1,
+      "totalScore": 0.84,
+      "sources": [
+        {
+          "channel": "baidu",
+          "rank": 6,
+          "hot": 0,
+          "url": "https://m.baidu.com/s?word=12306%E8%B4%AD%E7%A5%A8%E6%9C%89%E6%96%B0%E5%8F%98%E5%8C%96&sa=fyb_news"
+        }
+      ],
+      "summary": "",
+      "url": "https://m.baidu.com/s?word=12306%E8%B4%AD%E7%A5%A8%E6%9C%89%E6%96%B0%E5%8F%98%E5%8C%96&sa=fyb_news"
+    },
+    {
       "id": "evt-717a3790",
       "title": "7 月 17 日，A 股跌至 3790 点，沪指创 2025 年 9 月以来新低，发生了什么？",
       "category": "society",
       "hotScore": 0.6,
-      "freshness": 0.9999,
+      "freshness": 1,
       "crossSource": 1,
       "totalScore": 0.84,
       "sources": [
@@ -273,23 +273,23 @@
       "url": ""
     },
     {
-      "id": "evt-ai000000",
-      "title": "大瓦特·让每一度电都有AI",
+      "id": "evt-c0000000",
+      "title": "如何看待 C 罗或将推迟原定 7 月 20 日与乔治娜的婚礼？推迟婚期的背后可能有啥原因？",
       "category": "society",
-      "hotScore": 0.5525,
+      "hotScore": 0.5625,
       "freshness": 1,
       "crossSource": 1,
-      "totalScore": 0.821,
+      "totalScore": 0.825,
       "sources": [
         {
-          "channel": "thepaper",
-          "rank": 8,
+          "channel": "zhihu",
+          "rank": 6,
           "hot": 0,
-          "url": "https://www.thepaper.cn/newsDetail_forward_33604737"
+          "url": ""
         }
       ],
       "summary": "",
-      "url": "https://www.thepaper.cn/newsDetail_forward_33604737"
+      "url": ""
     }
   ]
 }
