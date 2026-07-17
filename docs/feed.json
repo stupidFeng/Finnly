@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-07-17T16:59:28.398Z",
+  "generatedAt": "2026-07-17T18:52:40.939Z",
   "fields": {
     "society": "社会",
     "economy": "经济",
@@ -7,23 +7,29 @@
   },
   "feed": [
     {
-      "id": "evt-83400000",
-      "title": "重庆山体崩塌已致8死34失联",
+      "id": "evt-00000000",
+      "title": "山体崩塌现场还有34人失联",
       "category": "society",
-      "hotScore": 0.85,
+      "hotScore": 0.72,
       "freshness": 1,
       "crossSource": 1,
-      "totalScore": 0.94,
+      "totalScore": 0.888,
       "sources": [
         {
-          "channel": "toutiao",
-          "rank": 1,
-          "hot": 48857001,
-          "url": "https://www.toutiao.com/trending/7662578686872505862/"
+          "channel": "thepaper",
+          "rank": 20,
+          "hot": 0,
+          "url": "https://www.thepaper.cn/newsDetail_forward_33609198"
+        },
+        {
+          "channel": "baidu",
+          "rank": 3,
+          "hot": 0,
+          "url": "https://m.baidu.com/s?word=%E5%B1%B1%E4%BD%93%E5%B4%A9%E5%A1%8C%E7%8E%B0%E5%9C%BA%E8%BF%98%E6%9C%8934%E4%BA%BA%E5%A4%B1%E8%81%94&sa=fyb_news"
         }
       ],
       "summary": "",
-      "url": "https://www.toutiao.com/trending/7662578686872505862/"
+      "url": "https://www.thepaper.cn/newsDetail_forward_33609198"
     },
     {
       "id": "evt-20260000",
@@ -31,8 +37,8 @@
       "category": "society",
       "hotScore": 0.85,
       "freshness": 1,
-      "crossSource": 1,
-      "totalScore": 0.94,
+      "crossSource": 0.6309,
+      "totalScore": 0.8293,
       "sources": [
         {
           "channel": "thepaper",
@@ -45,23 +51,23 @@
       "url": "https://www.thepaper.cn/newsDetail_forward_33604314"
     },
     {
-      "id": "evt-00000000",
-      "title": "飞天茅台再涨价",
+      "id": "evt-83400000",
+      "title": "重庆山体崩塌已致8死34失联",
       "category": "society",
-      "hotScore": 0.8075,
-      "freshness": 1,
-      "crossSource": 1,
-      "totalScore": 0.923,
+      "hotScore": 0.85,
+      "freshness": 0.9999,
+      "crossSource": 0.6309,
+      "totalScore": 0.8292,
       "sources": [
         {
           "channel": "toutiao",
-          "rank": 2,
-          "hot": 44207643,
-          "url": "https://www.toutiao.com/trending/7663432363745411118/"
+          "rank": 1,
+          "hot": 27472239,
+          "url": "https://www.toutiao.com/trending/7662578686872505862/"
         }
       ],
       "summary": "",
-      "url": "https://www.toutiao.com/trending/7663432363745411118/"
+      "url": "https://www.toutiao.com/trending/7662578686872505862/"
     },
     {
       "id": "evt-40000000",
@@ -69,8 +75,8 @@
       "category": "society",
       "hotScore": 0.8,
       "freshness": 1,
-      "crossSource": 1,
-      "totalScore": 0.92,
+      "crossSource": 0.6309,
+      "totalScore": 0.8093,
       "sources": [
         {
           "channel": "baidu",
@@ -87,9 +93,9 @@
       "title": "中芯国际与嘉楠科技合作14nm矿机芯片，知情人士：能否量产要看行情",
       "category": "economy",
       "hotScore": 0.9,
-      "freshness": 1,
-      "crossSource": 1,
-      "totalScore": 0.96,
+      "freshness": 0.9999,
+      "crossSource": 0.6309,
+      "totalScore": 0.8493,
       "sources": [
         {
           "channel": "36kr",
@@ -106,9 +112,9 @@
       "title": "三大运营商年内推出5G消息",
       "category": "economy",
       "hotScore": 0.855,
-      "freshness": 1,
-      "crossSource": 1,
-      "totalScore": 0.942,
+      "freshness": 0.9999,
+      "crossSource": 0.6309,
+      "totalScore": 0.8313,
       "sources": [
         {
           "channel": "36kr",
@@ -125,9 +131,9 @@
       "title": "欧洲在线订餐服务Takeaway.com：外卖订单开始强劲复苏",
       "category": "economy",
       "hotScore": 0.81,
-      "freshness": 1,
-      "crossSource": 1,
-      "totalScore": 0.924,
+      "freshness": 0.9999,
+      "crossSource": 0.6309,
+      "totalScore": 0.8133,
       "sources": [
         {
           "channel": "36kr",
@@ -140,13 +146,32 @@
       "url": ""
     },
     {
+      "id": "evt-70000000",
+      "title": "《功夫女足》上映 7 天票房突破 10 亿大关，登顶 2026 年暑期票房榜，你认为还有其他影片能赶超吗？",
+      "category": "entertainment",
+      "hotScore": 0.5625,
+      "freshness": 0.9999,
+      "crossSource": 0.6309,
+      "totalScore": 0.7143,
+      "sources": [
+        {
+          "channel": "zhihu",
+          "rank": 6,
+          "hot": 0,
+          "url": ""
+        }
+      ],
+      "summary": "",
+      "url": ""
+    },
+    {
       "id": "evt-80000000",
       "title": "重庆彭水山体崩塌已致8人遇难",
       "category": "society",
       "hotScore": 0.76,
       "freshness": 1,
-      "crossSource": 1,
-      "totalScore": 0.904,
+      "crossSource": 0.6309,
+      "totalScore": 0.7933,
       "sources": [
         {
           "channel": "baidu",
@@ -159,36 +184,17 @@
       "url": "https://m.baidu.com/s?word=%E9%87%8D%E5%BA%86%E5%BD%AD%E6%B0%B4%E5%B1%B1%E4%BD%93%E5%B4%A9%E5%A1%8C%E5%B7%B2%E8%87%B48%E4%BA%BA%E9%81%87%E9%9A%BE&sa=fyb_news"
     },
     {
-      "id": "evt-50000000",
-      "title": "店主回应送老顾客彩票中508万",
-      "category": "society",
-      "hotScore": 0.7225,
-      "freshness": 1,
-      "crossSource": 1,
-      "totalScore": 0.889,
-      "sources": [
-        {
-          "channel": "toutiao",
-          "rank": 4,
-          "hot": 36194157,
-          "url": "https://www.toutiao.com/trending/7663310765592789035/"
-        }
-      ],
-      "summary": "",
-      "url": "https://www.toutiao.com/trending/7663310765592789035/"
-    },
-    {
       "id": "evt-nfc00000",
       "title": "河南漯河处置“NFC果汁系勾兑”：对2家企业立案，对其余3家深入调查",
       "category": "society",
-      "hotScore": 0.7225,
+      "hotScore": 0.68,
       "freshness": 1,
-      "crossSource": 1,
-      "totalScore": 0.889,
+      "crossSource": 0.6309,
+      "totalScore": 0.7613,
       "sources": [
         {
           "channel": "thepaper",
-          "rank": 4,
+          "rank": 5,
           "hot": 0,
           "url": "https://www.thepaper.cn/newsDetail_forward_33602053"
         }
@@ -197,32 +203,51 @@
       "url": "https://www.thepaper.cn/newsDetail_forward_33602053"
     },
     {
-      "id": "evt-34000000",
-      "title": "山体崩塌现场还有34人失联",
+      "id": "evt-50000000",
+      "title": "店主回应送老顾客彩票中508万",
       "category": "society",
-      "hotScore": 0.72,
-      "freshness": 1,
-      "crossSource": 1,
-      "totalScore": 0.888,
+      "hotScore": 0.68,
+      "freshness": 0.9999,
+      "crossSource": 0.6309,
+      "totalScore": 0.7612,
       "sources": [
         {
-          "channel": "baidu",
-          "rank": 3,
-          "hot": 0,
-          "url": "https://m.baidu.com/s?word=%E5%B1%B1%E4%BD%93%E5%B4%A9%E5%A1%8C%E7%8E%B0%E5%9C%BA%E8%BF%98%E6%9C%8934%E4%BA%BA%E5%A4%B1%E8%81%94&sa=fyb_news"
+          "channel": "toutiao",
+          "rank": 5,
+          "hot": 18415192,
+          "url": "https://www.toutiao.com/trending/7663310765592789035/"
         }
       ],
       "summary": "",
-      "url": "https://m.baidu.com/s?word=%E5%B1%B1%E4%BD%93%E5%B4%A9%E5%A1%8C%E7%8E%B0%E5%9C%BA%E8%BF%98%E6%9C%8934%E4%BA%BA%E5%A4%B1%E8%81%94&sa=fyb_news"
+      "url": "https://www.toutiao.com/trending/7663310765592789035/"
+    },
+    {
+      "id": "evt-c0000000",
+      "title": "如何看待 C 罗或将推迟原定 7 月 20 日与乔治娜的婚礼？推迟婚期的背后可能有啥原因？",
+      "category": "society",
+      "hotScore": 0.6375,
+      "freshness": 0.9999,
+      "crossSource": 0.6309,
+      "totalScore": 0.7443,
+      "sources": [
+        {
+          "channel": "zhihu",
+          "rank": 4,
+          "hot": 0,
+          "url": ""
+        }
+      ],
+      "summary": "",
+      "url": ""
     },
     {
       "id": "evt-3d000000",
       "title": "好未来《熊猫博士》3D动画片登陆央视少儿频道",
       "category": "society",
       "hotScore": 0.63,
-      "freshness": 1,
-      "crossSource": 1,
-      "totalScore": 0.852,
+      "freshness": 0.9999,
+      "crossSource": 0.6309,
+      "totalScore": 0.7413,
       "sources": [
         {
           "channel": "36kr",
@@ -240,8 +265,8 @@
       "category": "society",
       "hotScore": 0.6,
       "freshness": 1,
-      "crossSource": 1,
-      "totalScore": 0.84,
+      "crossSource": 0.6309,
+      "totalScore": 0.7293,
       "sources": [
         {
           "channel": "baidu",
@@ -258,32 +283,13 @@
       "title": "7 月 17 日，A 股跌至 3790 点，沪指创 2025 年 9 月以来新低，发生了什么？",
       "category": "society",
       "hotScore": 0.6,
-      "freshness": 1,
-      "crossSource": 1,
-      "totalScore": 0.84,
+      "freshness": 0.9999,
+      "crossSource": 0.6309,
+      "totalScore": 0.7293,
       "sources": [
         {
           "channel": "zhihu",
           "rank": 5,
-          "hot": 0,
-          "url": ""
-        }
-      ],
-      "summary": "",
-      "url": ""
-    },
-    {
-      "id": "evt-c0000000",
-      "title": "如何看待 C 罗或将推迟原定 7 月 20 日与乔治娜的婚礼？推迟婚期的背后可能有啥原因？",
-      "category": "society",
-      "hotScore": 0.5625,
-      "freshness": 1,
-      "crossSource": 1,
-      "totalScore": 0.825,
-      "sources": [
-        {
-          "channel": "zhihu",
-          "rank": 6,
           "hot": 0,
           "url": ""
         }
