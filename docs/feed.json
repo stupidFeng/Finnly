@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-07-18T18:45:29.649Z",
+  "generatedAt": "2026-07-18T20:37:20.007Z",
   "fields": {
     "society": "社会",
     "economy": "经济",
@@ -18,7 +18,7 @@
         {
           "channel": "toutiao",
           "rank": 3,
-          "hot": 28556004,
+          "hot": 29010158,
           "url": "https://www.toutiao.com/trending/7663839213271600691/"
         },
         {
@@ -51,25 +51,6 @@
       "url": ""
     },
     {
-      "id": "evt-cia5ga00",
-      "title": "美CIA局长：中国5G与AI领先是大问题",
-      "category": "society",
-      "hotScore": 0.7225,
-      "freshness": 1,
-      "crossSource": 0.6309,
-      "totalScore": 0.7783,
-      "sources": [
-        {
-          "channel": "toutiao",
-          "rank": 4,
-          "hot": 25838541,
-          "url": "https://www.toutiao.com/trending/7663822176776208390/"
-        }
-      ],
-      "summary": "",
-      "url": "https://www.toutiao.com/trending/7663822176776208390/"
-    },
-    {
       "id": "evt-vs000000",
       "title": "世界杯：法国vs英格兰",
       "category": "society",
@@ -87,6 +68,25 @@
       ],
       "summary": "",
       "url": "https://m.baidu.com/s?word=%E4%B8%96%E7%95%8C%E6%9D%AF%EF%BC%9A%E6%B3%95%E5%9B%BDvs%E8%8B%B1%E6%A0%BC%E5%85%B0&sa=fyb_news"
+    },
+    {
+      "id": "evt-3d000000",
+      "title": "好未来《熊猫博士》3D动画片登陆央视少儿频道",
+      "category": "society",
+      "hotScore": 0.63,
+      "freshness": 1,
+      "crossSource": 0.6309,
+      "totalScore": 0.7413,
+      "sources": [
+        {
+          "channel": "36kr",
+          "rank": 7,
+          "hot": 0,
+          "url": ""
+        }
+      ],
+      "summary": "36氪获悉，自4月9日起，中央电视台少儿频道携手好未来旗下教育品牌熊猫博士上线3D系列动画片《熊猫博士》。与此同时，《熊猫博士》3D动画片也在美国、加拿大、俄罗斯、意大利等多个国家、地区陆续发行，并登陆Discovery探索频道等多个世界知名节目。",
+      "url": ""
     },
     {
       "id": "evt-10000000",
@@ -165,25 +165,6 @@
       "url": ""
     },
     {
-      "id": "evt-3d000000",
-      "title": "好未来《熊猫博士》3D动画片登陆央视少儿频道",
-      "category": "society",
-      "hotScore": 0.63,
-      "freshness": 1,
-      "crossSource": 0.6309,
-      "totalScore": 0.7413,
-      "sources": [
-        {
-          "channel": "36kr",
-          "rank": 7,
-          "hot": 0,
-          "url": ""
-        }
-      ],
-      "summary": "36氪获悉，自4月9日起，中央电视台少儿频道携手好未来旗下教育品牌熊猫博士上线3D系列动画片《熊猫博士》。与此同时，《熊猫博士》3D动画片也在美国、加拿大、俄罗斯、意大利等多个国家、地区陆续发行，并登陆Discovery探索频道等多个世界知名节目。",
-      "url": ""
-    },
-    {
       "id": "evt-19000000",
       "title": "辽宁抚顺19日全市停课",
       "category": "society",
@@ -225,58 +206,20 @@
       "id": "evt-95500a00",
       "title": "95后夫妻手搓500集AI漫剧爆火",
       "category": "society",
-      "hotScore": 0.56,
+      "hotScore": 0.52,
       "freshness": 1,
       "crossSource": 0.6309,
-      "totalScore": 0.7133,
+      "totalScore": 0.6973,
       "sources": [
         {
           "channel": "baidu",
-          "rank": 7,
+          "rank": 8,
           "hot": 0,
           "url": "https://m.baidu.com/s?word=95%E5%90%8E%E5%A4%AB%E5%A6%BB%E6%89%8B%E6%90%93500%E9%9B%86AI%E6%BC%AB%E5%89%A7%E7%88%86%E7%81%AB&sa=fyb_news"
         }
       ],
       "summary": "",
       "url": "https://m.baidu.com/s?word=95%E5%90%8E%E5%A4%AB%E5%A6%BB%E6%89%8B%E6%90%93500%E9%9B%86AI%E6%BC%AB%E5%89%A7%E7%88%86%E7%81%AB&sa=fyb_news"
-    },
-    {
-      "id": "evt-ai000000",
-      "title": "AI赋能先进核能凝练八大共识",
-      "category": "society",
-      "hotScore": 0.5525,
-      "freshness": 1,
-      "crossSource": 0.6309,
-      "totalScore": 0.7103,
-      "sources": [
-        {
-          "channel": "toutiao",
-          "rank": 8,
-          "hot": 17320092,
-          "url": "https://www.toutiao.com/trending/7663872937329430062/"
-        }
-      ],
-      "summary": "",
-      "url": "https://www.toutiao.com/trending/7663872937329430062/"
-    },
-    {
-      "id": "evt-vikram00",
-      "title": "印度民营火箭 Vikram-1 首飞成功入轨，成全球第三个拥有民营轨道发射能力的国家，哪些信息值得关注？",
-      "category": "society",
-      "hotScore": 0.525,
-      "freshness": 1,
-      "crossSource": 0.6309,
-      "totalScore": 0.6993,
-      "sources": [
-        {
-          "channel": "zhihu",
-          "rank": 7,
-          "hot": 0,
-          "url": ""
-        }
-      ],
-      "summary": "",
-      "url": ""
     }
   ]
 }
