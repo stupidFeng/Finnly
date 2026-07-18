@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-07-18T20:37:20.007Z",
+  "generatedAt": "2026-07-18T22:38:16.508Z",
   "fields": {
     "society": "社会",
     "economy": "经济",
@@ -11,14 +11,14 @@
       "title": "一组图看未来五年你的城市怎么变",
       "category": "society",
       "hotScore": 0.765,
-      "freshness": 1,
+      "freshness": 0.9999,
       "crossSource": 1,
       "totalScore": 0.906,
       "sources": [
         {
           "channel": "toutiao",
           "rank": 3,
-          "hot": 29010158,
+          "hot": 30143985,
           "url": "https://www.toutiao.com/trending/7663839213271600691/"
         },
         {
@@ -32,42 +32,42 @@
       "url": "https://www.toutiao.com/trending/7663839213271600691/"
     },
     {
-      "id": "evt-18300000",
-      "title": "如何看待凡人第 183 集，播出两个小时后播放量不到 200 万？",
-      "category": "society",
-      "hotScore": 0.75,
-      "freshness": 1,
-      "crossSource": 0.6309,
-      "totalScore": 0.7893,
-      "sources": [
-        {
-          "channel": "zhihu",
-          "rank": 1,
-          "hot": 0,
-          "url": ""
-        }
-      ],
-      "summary": "",
-      "url": ""
-    },
-    {
       "id": "evt-vs000000",
       "title": "世界杯：法国vs英格兰",
       "category": "society",
-      "hotScore": 0.72,
+      "hotScore": 0.76,
       "freshness": 1,
       "crossSource": 0.6309,
-      "totalScore": 0.7773,
+      "totalScore": 0.7933,
       "sources": [
         {
           "channel": "baidu",
-          "rank": 3,
+          "rank": 2,
           "hot": 0,
           "url": "https://m.baidu.com/s?word=%E4%B8%96%E7%95%8C%E6%9D%AF%EF%BC%9A%E6%B3%95%E5%9B%BDvs%E8%8B%B1%E6%A0%BC%E5%85%B0&sa=fyb_news"
         }
       ],
       "summary": "",
       "url": "https://m.baidu.com/s?word=%E4%B8%96%E7%95%8C%E6%9D%AF%EF%BC%9A%E6%B3%95%E5%9B%BDvs%E8%8B%B1%E6%A0%BC%E5%85%B0&sa=fyb_news"
+    },
+    {
+      "id": "evt-18300000",
+      "title": "如何看待凡人第 183 集，播出两个小时后播放量不到 200 万？",
+      "category": "society",
+      "hotScore": 0.7125,
+      "freshness": 0.9999,
+      "crossSource": 0.6309,
+      "totalScore": 0.7743,
+      "sources": [
+        {
+          "channel": "zhihu",
+          "rank": 2,
+          "hot": 0,
+          "url": ""
+        }
+      ],
+      "summary": "",
+      "url": ""
     },
     {
       "id": "evt-3d000000",
@@ -146,27 +146,8 @@
       "url": ""
     },
     {
-      "id": "evt-vip00000",
-      "title": "经济学家任泽平 VIP 付费会员群「暴雷」，有人听信操作建议亏损 1000 多万，你如何看这种现象？",
-      "category": "economy",
-      "hotScore": 0.7125,
-      "freshness": 1,
-      "crossSource": 0.6309,
-      "totalScore": 0.7743,
-      "sources": [
-        {
-          "channel": "zhihu",
-          "rank": 2,
-          "hot": 0,
-          "url": ""
-        }
-      ],
-      "summary": "",
-      "url": ""
-    },
-    {
-      "id": "evt-19000000",
-      "title": "辽宁抚顺19日全市停课",
+      "id": "evt-40000000",
+      "title": "法国半场丢4球 詹俊：被打得满地找牙",
       "category": "society",
       "hotScore": 0.6,
       "freshness": 1,
@@ -177,18 +158,18 @@
           "channel": "baidu",
           "rank": 6,
           "hot": 0,
-          "url": "https://m.baidu.com/s?word=%E8%BE%BD%E5%AE%81%E6%8A%9A%E9%A1%BA19%E6%97%A5%E5%85%A8%E5%B8%82%E5%81%9C%E8%AF%BE&sa=fyb_news"
+          "url": "https://m.baidu.com/s?word=%E6%B3%95%E5%9B%BD%E5%8D%8A%E5%9C%BA%E4%B8%A24%E7%90%83+%E8%A9%B9%E4%BF%8A%EF%BC%9A%E8%A2%AB%E6%89%93%E5%BE%97%E6%BB%A1%E5%9C%B0%E6%89%BE%E7%89%99&sa=fyb_news"
         }
       ],
       "summary": "",
-      "url": "https://m.baidu.com/s?word=%E8%BE%BD%E5%AE%81%E6%8A%9A%E9%A1%BA19%E6%97%A5%E5%85%A8%E5%B8%82%E5%81%9C%E8%AF%BE&sa=fyb_news"
+      "url": "https://m.baidu.com/s?word=%E6%B3%95%E5%9B%BD%E5%8D%8A%E5%9C%BA%E4%B8%A24%E7%90%83+%E8%A9%B9%E4%BF%8A%EF%BC%9A%E8%A2%AB%E6%89%93%E5%BE%97%E6%BB%A1%E5%9C%B0%E6%89%BE%E7%89%99&sa=fyb_news"
     },
     {
       "id": "evt-23000000",
       "title": "王楚钦 / 孙颖莎 2-3 不敌袁励岑 / 王艺迪，无缘全锦赛混双决赛，怎样评价本场比赛？",
       "category": "society",
       "hotScore": 0.6,
-      "freshness": 1,
+      "freshness": 0.9999,
       "crossSource": 0.6309,
       "totalScore": 0.7293,
       "sources": [
@@ -203,23 +184,42 @@
       "url": ""
     },
     {
-      "id": "evt-95500a00",
-      "title": "95后夫妻手搓500集AI漫剧爆火",
+      "id": "evt-deepseekv4",
+      "title": "DeepSeek V4 正式版即将发布，有哪些值得关注的亮点？",
       "category": "society",
-      "hotScore": 0.52,
-      "freshness": 1,
+      "hotScore": 0.525,
+      "freshness": 0.9999,
       "crossSource": 0.6309,
-      "totalScore": 0.6973,
+      "totalScore": 0.6993,
       "sources": [
         {
-          "channel": "baidu",
-          "rank": 8,
+          "channel": "zhihu",
+          "rank": 7,
           "hot": 0,
-          "url": "https://m.baidu.com/s?word=95%E5%90%8E%E5%A4%AB%E5%A6%BB%E6%89%8B%E6%90%93500%E9%9B%86AI%E6%BC%AB%E5%89%A7%E7%88%86%E7%81%AB&sa=fyb_news"
+          "url": ""
         }
       ],
       "summary": "",
-      "url": "https://m.baidu.com/s?word=95%E5%90%8E%E5%A4%AB%E5%A6%BB%E6%89%8B%E6%90%93500%E9%9B%86AI%E6%BC%AB%E5%89%A7%E7%88%86%E7%81%AB&sa=fyb_news"
+      "url": ""
+    },
+    {
+      "id": "evt-fifa0000",
+      "title": "FIFA主席提议中美合办世界杯",
+      "category": "society",
+      "hotScore": 0.51,
+      "freshness": 0.9999,
+      "crossSource": 0.6309,
+      "totalScore": 0.6933,
+      "sources": [
+        {
+          "channel": "toutiao",
+          "rank": 9,
+          "hot": 16543369,
+          "url": "https://www.toutiao.com/trending/7663707553033113126/"
+        }
+      ],
+      "summary": "",
+      "url": "https://www.toutiao.com/trending/7663707553033113126/"
     }
   ]
 }
