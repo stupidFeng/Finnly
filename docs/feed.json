@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-07-17T22:38:38.325Z",
+  "generatedAt": "2026-07-18T01:26:14.260Z",
   "fields": {
     "society": "社会",
     "economy": "经济",
@@ -8,47 +8,78 @@
   "feed": [
     {
       "id": "evt-00000000",
-      "title": "山体崩塌现场还有34人失联",
-      "category": "society",
-      "hotScore": 0.72,
-      "freshness": 1,
-      "crossSource": 1,
-      "totalScore": 0.888,
-      "sources": [
-        {
-          "channel": "thepaper",
-          "rank": 16,
-          "hot": 0,
-          "url": "https://www.thepaper.cn/newsDetail_forward_33609198"
-        },
-        {
-          "channel": "baidu",
-          "rank": 3,
-          "hot": 0,
-          "url": "https://m.baidu.com/s?word=%E5%B1%B1%E4%BD%93%E5%B4%A9%E5%A1%8C%E7%8E%B0%E5%9C%BA%E8%BF%98%E6%9C%8934%E4%BA%BA%E5%A4%B1%E8%81%94&sa=fyb_news"
-        }
-      ],
-      "summary": "",
-      "url": "https://www.thepaper.cn/newsDetail_forward_33609198"
-    },
-    {
-      "id": "evt-83400000",
-      "title": "重庆山体崩塌已致8死34失联",
+      "title": "重庆山体崩塌前后对比图",
       "category": "society",
       "hotScore": 0.85,
-      "freshness": 1,
-      "crossSource": 0.6309,
-      "totalScore": 0.8293,
+      "freshness": 0.9999,
+      "crossSource": 1,
+      "totalScore": 0.94,
       "sources": [
         {
           "channel": "toutiao",
           "rank": 1,
-          "hot": 20142571,
-          "url": "https://www.toutiao.com/trending/7662578686872505862/"
+          "hot": 26994237,
+          "url": "https://www.toutiao.com/trending/7663061418727444010/"
+        },
+        {
+          "channel": "baidu",
+          "rank": 2,
+          "hot": 0,
+          "url": "https://m.baidu.com/s?word=%E9%87%8D%E5%BA%86%E5%B1%B1%E4%BD%93%E5%B4%A9%E5%A1%8C%E5%89%8D%E5%90%8E%E5%AF%B9%E6%AF%94%E5%9B%BE&sa=fyb_news"
         }
       ],
       "summary": "",
-      "url": "https://www.toutiao.com/trending/7662578686872505862/"
+      "url": "https://www.toutiao.com/trending/7663061418727444010/"
+    },
+    {
+      "id": "evt-60000000",
+      "title": "老君山月薪6万“云海观察员”发声",
+      "category": "society",
+      "hotScore": 0.7225,
+      "freshness": 0.9999,
+      "crossSource": 1,
+      "totalScore": 0.889,
+      "sources": [
+        {
+          "channel": "toutiao",
+          "rank": 4,
+          "hot": 19997822,
+          "url": "https://www.toutiao.com/trending/7662969432079122458/"
+        },
+        {
+          "channel": "baidu",
+          "rank": 19,
+          "hot": 0,
+          "url": "https://m.baidu.com/s?word=%E8%80%81%E5%90%9B%E5%B1%B1%E6%9C%88%E8%96%AA6%E4%B8%87%E2%80%9C%E4%BA%91%E6%B5%B7%E8%A7%82%E5%AF%9F%E5%91%98%E2%80%9D%E5%8F%91%E5%A3%B0&sa=fyb_news"
+        }
+      ],
+      "summary": "",
+      "url": "https://www.toutiao.com/trending/7662969432079122458/"
+    },
+    {
+      "id": "evt-40000000",
+      "title": "道指深夜重挫超400点",
+      "category": "society",
+      "hotScore": 0.6375,
+      "freshness": 0.9999,
+      "crossSource": 1,
+      "totalScore": 0.855,
+      "sources": [
+        {
+          "channel": "toutiao",
+          "rank": 6,
+          "hot": 16372832,
+          "url": "https://www.toutiao.com/trending/7663638928158625326/"
+        },
+        {
+          "channel": "baidu",
+          "rank": 8,
+          "hot": 0,
+          "url": "https://m.baidu.com/s?word=%E9%81%93%E6%8C%87%E6%B7%B1%E5%A4%9C%E9%87%8D%E6%8C%AB%E8%B6%85400%E7%82%B9&sa=fyb_news"
+        }
+      ],
+      "summary": "",
+      "url": "https://www.toutiao.com/trending/7663638928158625326/"
     },
     {
       "id": "evt-20260000",
@@ -70,30 +101,11 @@
       "url": "https://www.thepaper.cn/newsDetail_forward_33604314"
     },
     {
-      "id": "evt-40000000",
-      "title": "直面时代之问 习近平提出4点意见",
-      "category": "society",
-      "hotScore": 0.8,
-      "freshness": 1,
-      "crossSource": 0.6309,
-      "totalScore": 0.8093,
-      "sources": [
-        {
-          "channel": "baidu",
-          "rank": 1,
-          "hot": 0,
-          "url": "https://m.baidu.com/s?word=%E7%9B%B4%E9%9D%A2%E6%97%B6%E4%BB%A3%E4%B9%8B%E9%97%AE+%E4%B9%A0%E8%BF%91%E5%B9%B3%E6%8F%90%E5%87%BA4%E7%82%B9%E6%84%8F%E8%A7%81&sa=fyb_news"
-        }
-      ],
-      "summary": "",
-      "url": "https://m.baidu.com/s?word=%E7%9B%B4%E9%9D%A2%E6%97%B6%E4%BB%A3%E4%B9%8B%E9%97%AE+%E4%B9%A0%E8%BF%91%E5%B9%B3%E6%8F%90%E5%87%BA4%E7%82%B9%E6%84%8F%E8%A7%81&sa=fyb_news"
-    },
-    {
       "id": "evt-10000000",
       "title": "中芯国际与嘉楠科技合作14nm矿机芯片，知情人士：能否量产要看行情",
       "category": "economy",
       "hotScore": 0.9,
-      "freshness": 1,
+      "freshness": 0.9999,
       "crossSource": 0.6309,
       "totalScore": 0.8493,
       "sources": [
@@ -112,7 +124,7 @@
       "title": "三大运营商年内推出5G消息",
       "category": "economy",
       "hotScore": 0.855,
-      "freshness": 1,
+      "freshness": 0.9999,
       "crossSource": 0.6309,
       "totalScore": 0.8313,
       "sources": [
@@ -131,7 +143,7 @@
       "title": "欧洲在线订餐服务Takeaway.com：外卖订单开始强劲复苏",
       "category": "economy",
       "hotScore": 0.81,
-      "freshness": 1,
+      "freshness": 0.9999,
       "crossSource": 0.6309,
       "totalScore": 0.8133,
       "sources": [
@@ -146,49 +158,87 @@
       "url": ""
     },
     {
-      "id": "evt-80000000",
-      "title": "重庆彭水山体崩塌已致8人遇难",
+      "id": "evt-20200000",
+      "title": "美总统称“中国干预了2020年总统选举”，外交部：无中生有",
       "category": "society",
-      "hotScore": 0.76,
+      "hotScore": 0.765,
       "freshness": 1,
       "crossSource": 0.6309,
-      "totalScore": 0.7933,
-      "sources": [
-        {
-          "channel": "baidu",
-          "rank": 2,
-          "hot": 0,
-          "url": "https://m.baidu.com/s?word=%E9%87%8D%E5%BA%86%E5%BD%AD%E6%B0%B4%E5%B1%B1%E4%BD%93%E5%B4%A9%E5%A1%8C%E5%B7%B2%E8%87%B48%E4%BA%BA%E9%81%87%E9%9A%BE&sa=fyb_news"
-        }
-      ],
-      "summary": "",
-      "url": "https://m.baidu.com/s?word=%E9%87%8D%E5%BA%86%E5%BD%AD%E6%B0%B4%E5%B1%B1%E4%BD%93%E5%B4%A9%E5%A1%8C%E5%B7%B2%E8%87%B48%E4%BA%BA%E9%81%87%E9%9A%BE&sa=fyb_news"
-    },
-    {
-      "id": "evt-nfc00000",
-      "title": "河南漯河处置“NFC果汁系勾兑”：对2家企业立案，对其余3家深入调查",
-      "category": "society",
-      "hotScore": 0.68,
-      "freshness": 1,
-      "crossSource": 0.6309,
-      "totalScore": 0.7613,
+      "totalScore": 0.7953,
       "sources": [
         {
           "channel": "thepaper",
-          "rank": 5,
+          "rank": 3,
           "hot": 0,
-          "url": "https://www.thepaper.cn/newsDetail_forward_33602053"
+          "url": "https://www.thepaper.cn/newsDetail_forward_33604979"
         }
       ],
       "summary": "",
-      "url": "https://www.thepaper.cn/newsDetail_forward_33602053"
+      "url": "https://www.thepaper.cn/newsDetail_forward_33604979"
+    },
+    {
+      "id": "evt-ewcdk21bl",
+      "title": "EWC 淘汰赛 DK 2:1 BLG，lpl 三支参赛队伍全部淘汰，如何评价这场比赛？",
+      "category": "society",
+      "hotScore": 0.75,
+      "freshness": 0.9999,
+      "crossSource": 0.6309,
+      "totalScore": 0.7892,
+      "sources": [
+        {
+          "channel": "zhihu",
+          "rank": 1,
+          "hot": 0,
+          "url": ""
+        }
+      ],
+      "summary": "",
+      "url": ""
+    },
+    {
+      "id": "evt-ai000000",
+      "title": "AI能终结癌症吗",
+      "category": "society",
+      "hotScore": 0.64,
+      "freshness": 0.9999,
+      "crossSource": 0.6309,
+      "totalScore": 0.7452,
+      "sources": [
+        {
+          "channel": "baidu",
+          "rank": 5,
+          "hot": 0,
+          "url": "https://m.baidu.com/s?word=AI%E8%83%BD%E7%BB%88%E7%BB%93%E7%99%8C%E7%97%87%E5%90%97&sa=fyb_news"
+        }
+      ],
+      "summary": "",
+      "url": "https://m.baidu.com/s?word=AI%E8%83%BD%E7%BB%88%E7%BB%93%E7%99%8C%E7%97%87%E5%90%97&sa=fyb_news"
+    },
+    {
+      "id": "evt-ofo50000",
+      "title": "ofo 停更近 5 年后突然发文，此次「复活」释放了什么信号？199 元押金还有可能退回吗？",
+      "category": "society",
+      "hotScore": 0.6375,
+      "freshness": 0.9999,
+      "crossSource": 0.6309,
+      "totalScore": 0.7442,
+      "sources": [
+        {
+          "channel": "zhihu",
+          "rank": 4,
+          "hot": 0,
+          "url": ""
+        }
+      ],
+      "summary": "",
+      "url": ""
     },
     {
       "id": "evt-3d000000",
       "title": "好未来《熊猫博士》3D动画片登陆央视少儿频道",
       "category": "society",
       "hotScore": 0.63,
-      "freshness": 1,
+      "freshness": 0.9999,
       "crossSource": 0.6309,
       "totalScore": 0.7413,
       "sources": [
@@ -203,61 +253,61 @@
       "url": ""
     },
     {
-      "id": "evt-12306000",
-      "title": "12306购票有新变化",
+      "id": "evt-nfc00000",
+      "title": "马上评｜NFC果汁是勾兑的？别等媒体曝光后才整治",
       "category": "society",
-      "hotScore": 0.6,
+      "hotScore": 0.595,
       "freshness": 1,
       "crossSource": 0.6309,
-      "totalScore": 0.7293,
+      "totalScore": 0.7273,
+      "sources": [
+        {
+          "channel": "thepaper",
+          "rank": 7,
+          "hot": 0,
+          "url": "https://www.thepaper.cn/newsDetail_forward_33603950"
+        }
+      ],
+      "summary": "",
+      "url": "https://www.thepaper.cn/newsDetail_forward_33603950"
+    },
+    {
+      "id": "evt-80000000",
+      "title": "洪秀柱：我快80了我等不及了",
+      "category": "society",
+      "hotScore": 0.56,
+      "freshness": 0.9999,
+      "crossSource": 0.6309,
+      "totalScore": 0.7132,
       "sources": [
         {
           "channel": "baidu",
-          "rank": 6,
-          "hot": 0,
-          "url": "https://m.baidu.com/s?word=12306%E8%B4%AD%E7%A5%A8%E6%9C%89%E6%96%B0%E5%8F%98%E5%8C%96&sa=fyb_news"
-        }
-      ],
-      "summary": "",
-      "url": "https://m.baidu.com/s?word=12306%E8%B4%AD%E7%A5%A8%E6%9C%89%E6%96%B0%E5%8F%98%E5%8C%96&sa=fyb_news"
-    },
-    {
-      "id": "evt-717a3790",
-      "title": "7 月 17 日，A 股跌至 3790 点，沪指创 2025 年 9 月以来新低，发生了什么？",
-      "category": "society",
-      "hotScore": 0.6,
-      "freshness": 1,
-      "crossSource": 0.6309,
-      "totalScore": 0.7293,
-      "sources": [
-        {
-          "channel": "zhihu",
-          "rank": 5,
-          "hot": 0,
-          "url": ""
-        }
-      ],
-      "summary": "",
-      "url": ""
-    },
-    {
-      "id": "evt-su700000",
-      "title": "小米 SU7 碰撞测试博主「原来是翔翔啊」因捏造事实被判刑一年八个月，罚款 10 万元，你怎么看？",
-      "category": "society",
-      "hotScore": 0.525,
-      "freshness": 1,
-      "crossSource": 0.6309,
-      "totalScore": 0.6993,
-      "sources": [
-        {
-          "channel": "zhihu",
           "rank": 7,
           "hot": 0,
-          "url": ""
+          "url": "https://m.baidu.com/s?word=%E6%B4%AA%E7%A7%80%E6%9F%B1%EF%BC%9A%E6%88%91%E5%BF%AB80%E4%BA%86%E6%88%91%E7%AD%89%E4%B8%8D%E5%8F%8A%E4%BA%86&sa=fyb_news"
         }
       ],
       "summary": "",
-      "url": ""
+      "url": "https://m.baidu.com/s?word=%E6%B4%AA%E7%A7%80%E6%9F%B1%EF%BC%9A%E6%88%91%E5%BF%AB80%E4%BA%86%E6%88%91%E7%AD%89%E4%B8%8D%E5%8F%8A%E4%BA%86&sa=fyb_news"
+    },
+    {
+      "id": "evt-83400000",
+      "title": "重庆山体崩塌已致8死34失联",
+      "category": "society",
+      "hotScore": 0.5525,
+      "freshness": 0.9999,
+      "crossSource": 0.6309,
+      "totalScore": 0.7102,
+      "sources": [
+        {
+          "channel": "toutiao",
+          "rank": 8,
+          "hot": 13404941,
+          "url": "https://www.toutiao.com/trending/7662578686872505862/"
+        }
+      ],
+      "summary": "",
+      "url": "https://www.toutiao.com/trending/7662578686872505862/"
     }
   ]
 }
