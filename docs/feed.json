@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-07-18T01:26:14.260Z",
+  "generatedAt": "2026-07-18T04:39:00.997Z",
   "fields": {
     "society": "社会",
     "economy": "经济",
@@ -8,78 +8,22 @@
   "feed": [
     {
       "id": "evt-00000000",
-      "title": "重庆山体崩塌前后对比图",
+      "title": "重庆崩塌最大山石体积相当于1栋楼",
       "category": "society",
       "hotScore": 0.85,
       "freshness": 0.9999,
-      "crossSource": 1,
-      "totalScore": 0.94,
+      "crossSource": 0.6309,
+      "totalScore": 0.8293,
       "sources": [
         {
           "channel": "toutiao",
           "rank": 1,
-          "hot": 26994237,
-          "url": "https://www.toutiao.com/trending/7663061418727444010/"
-        },
-        {
-          "channel": "baidu",
-          "rank": 2,
-          "hot": 0,
-          "url": "https://m.baidu.com/s?word=%E9%87%8D%E5%BA%86%E5%B1%B1%E4%BD%93%E5%B4%A9%E5%A1%8C%E5%89%8D%E5%90%8E%E5%AF%B9%E6%AF%94%E5%9B%BE&sa=fyb_news"
+          "hot": 34931325,
+          "url": "https://www.toutiao.com/trending/7663455820470157318/"
         }
       ],
       "summary": "",
-      "url": "https://www.toutiao.com/trending/7663061418727444010/"
-    },
-    {
-      "id": "evt-60000000",
-      "title": "老君山月薪6万“云海观察员”发声",
-      "category": "society",
-      "hotScore": 0.7225,
-      "freshness": 0.9999,
-      "crossSource": 1,
-      "totalScore": 0.889,
-      "sources": [
-        {
-          "channel": "toutiao",
-          "rank": 4,
-          "hot": 19997822,
-          "url": "https://www.toutiao.com/trending/7662969432079122458/"
-        },
-        {
-          "channel": "baidu",
-          "rank": 19,
-          "hot": 0,
-          "url": "https://m.baidu.com/s?word=%E8%80%81%E5%90%9B%E5%B1%B1%E6%9C%88%E8%96%AA6%E4%B8%87%E2%80%9C%E4%BA%91%E6%B5%B7%E8%A7%82%E5%AF%9F%E5%91%98%E2%80%9D%E5%8F%91%E5%A3%B0&sa=fyb_news"
-        }
-      ],
-      "summary": "",
-      "url": "https://www.toutiao.com/trending/7662969432079122458/"
-    },
-    {
-      "id": "evt-40000000",
-      "title": "道指深夜重挫超400点",
-      "category": "society",
-      "hotScore": 0.6375,
-      "freshness": 0.9999,
-      "crossSource": 1,
-      "totalScore": 0.855,
-      "sources": [
-        {
-          "channel": "toutiao",
-          "rank": 6,
-          "hot": 16372832,
-          "url": "https://www.toutiao.com/trending/7663638928158625326/"
-        },
-        {
-          "channel": "baidu",
-          "rank": 8,
-          "hot": 0,
-          "url": "https://m.baidu.com/s?word=%E9%81%93%E6%8C%87%E6%B7%B1%E5%A4%9C%E9%87%8D%E6%8C%AB%E8%B6%85400%E7%82%B9&sa=fyb_news"
-        }
-      ],
-      "summary": "",
-      "url": "https://www.toutiao.com/trending/7663638928158625326/"
+      "url": "https://www.toutiao.com/trending/7663455820470157318/"
     },
     {
       "id": "evt-20260000",
@@ -101,63 +45,6 @@
       "url": "https://www.thepaper.cn/newsDetail_forward_33604314"
     },
     {
-      "id": "evt-10000000",
-      "title": "中芯国际与嘉楠科技合作14nm矿机芯片，知情人士：能否量产要看行情",
-      "category": "economy",
-      "hotScore": 0.9,
-      "freshness": 0.9999,
-      "crossSource": 0.6309,
-      "totalScore": 0.8493,
-      "sources": [
-        {
-          "channel": "36kr",
-          "rank": 1,
-          "hot": 0,
-          "url": ""
-        }
-      ],
-      "summary": "有消息称，中芯国际与嘉楠科技合作的14nm矿机芯片已完成测试，将在今年二季度量产出货。对此，知情人士称，双方合作始于2019年年底，但能否量产要看行情。据悉，中芯国际数次尝试进入矿机行业，但受行情拖累一直未有实质进展。（财联社）",
-      "url": ""
-    },
-    {
-      "id": "evt-5g000000",
-      "title": "三大运营商年内推出5G消息",
-      "category": "economy",
-      "hotScore": 0.855,
-      "freshness": 0.9999,
-      "crossSource": 0.6309,
-      "totalScore": 0.8313,
-      "sources": [
-        {
-          "channel": "36kr",
-          "rank": 2,
-          "hot": 0,
-          "url": ""
-        }
-      ],
-      "summary": "三大运营商计划在年内推出升级版短信服务5G消息。5G消息的特点：①打破传统短信长度限制，实现文、图、音视频、表情等融合；②支持在线支付、在线和离线消息；③不加好友就能随时发起群发、群聊。业内人士指出，5G消息可能按流量计费，价格有望比目前的短信和微信更优惠。（央视新闻）",
-      "url": ""
-    },
-    {
-      "id": "evt-take0000",
-      "title": "欧洲在线订餐服务Takeaway.com：外卖订单开始强劲复苏",
-      "category": "economy",
-      "hotScore": 0.81,
-      "freshness": 0.9999,
-      "crossSource": 0.6309,
-      "totalScore": 0.8133,
-      "sources": [
-        {
-          "channel": "36kr",
-          "rank": 3,
-          "hot": 0,
-          "url": ""
-        }
-      ],
-      "summary": "据外媒报道，随着闭门不出的消费者厌倦了在家里做饭或寻求改变他们的日常生活，更多的人开始将点外卖作为一种改变局面的方式。欧洲最大的在线订餐服务之一Takeaway.com称，外卖订单已开始强劲复苏。而分析师表示，这种复苏是“I型复苏”，而不是“V型复苏”。（腾讯科技）",
-      "url": ""
-    },
-    {
       "id": "evt-20200000",
       "title": "美总统称“中国干预了2020年总统选举”，外交部：无中生有",
       "category": "society",
@@ -177,68 +64,163 @@
       "url": "https://www.thepaper.cn/newsDetail_forward_33604979"
     },
     {
-      "id": "evt-ewcdk21bl",
-      "title": "EWC 淘汰赛 DK 2:1 BLG，lpl 三支参赛队伍全部淘汰，如何评价这场比赛？",
+      "id": "evt-fifa0000",
+      "title": "FIFA主席提议中美合办世界杯",
       "category": "society",
-      "hotScore": 0.75,
+      "hotScore": 0.7225,
       "freshness": 0.9999,
       "crossSource": 0.6309,
-      "totalScore": 0.7892,
+      "totalScore": 0.7783,
       "sources": [
         {
-          "channel": "zhihu",
+          "channel": "toutiao",
+          "rank": 4,
+          "hot": 25877762,
+          "url": "https://www.toutiao.com/trending/7663707553033113126/"
+        }
+      ],
+      "summary": "",
+      "url": "https://www.toutiao.com/trending/7663707553033113126/"
+    },
+    {
+      "id": "evt-10000000",
+      "title": "中芯国际与嘉楠科技合作14nm矿机芯片，知情人士：能否量产要看行情",
+      "category": "economy",
+      "hotScore": 0.9,
+      "freshness": 1,
+      "crossSource": 0.6309,
+      "totalScore": 0.8493,
+      "sources": [
+        {
+          "channel": "36kr",
           "rank": 1,
           "hot": 0,
           "url": ""
         }
       ],
-      "summary": "",
+      "summary": "有消息称，中芯国际与嘉楠科技合作的14nm矿机芯片已完成测试，将在今年二季度量产出货。对此，知情人士称，双方合作始于2019年年底，但能否量产要看行情。据悉，中芯国际数次尝试进入矿机行业，但受行情拖累一直未有实质进展。（财联社）",
       "url": ""
     },
     {
-      "id": "evt-ai000000",
-      "title": "AI能终结癌症吗",
-      "category": "society",
-      "hotScore": 0.64,
-      "freshness": 0.9999,
+      "id": "evt-5g000000",
+      "title": "三大运营商年内推出5G消息",
+      "category": "economy",
+      "hotScore": 0.855,
+      "freshness": 1,
       "crossSource": 0.6309,
-      "totalScore": 0.7452,
+      "totalScore": 0.8313,
+      "sources": [
+        {
+          "channel": "36kr",
+          "rank": 2,
+          "hot": 0,
+          "url": ""
+        }
+      ],
+      "summary": "三大运营商计划在年内推出升级版短信服务5G消息。5G消息的特点：①打破传统短信长度限制，实现文、图、音视频、表情等融合；②支持在线支付、在线和离线消息；③不加好友就能随时发起群发、群聊。业内人士指出，5G消息可能按流量计费，价格有望比目前的短信和微信更优惠。（央视新闻）",
+      "url": ""
+    },
+    {
+      "id": "evt-take0000",
+      "title": "欧洲在线订餐服务Takeaway.com：外卖订单开始强劲复苏",
+      "category": "economy",
+      "hotScore": 0.81,
+      "freshness": 1,
+      "crossSource": 0.6309,
+      "totalScore": 0.8133,
+      "sources": [
+        {
+          "channel": "36kr",
+          "rank": 3,
+          "hot": 0,
+          "url": ""
+        }
+      ],
+      "summary": "据外媒报道，随着闭门不出的消费者厌倦了在家里做饭或寻求改变他们的日常生活，更多的人开始将点外卖作为一种改变局面的方式。欧洲最大的在线订餐服务之一Takeaway.com称，外卖订单已开始强劲复苏。而分析师表示，这种复苏是“I型复苏”，而不是“V型复苏”。（腾讯科技）",
+      "url": ""
+    },
+    {
+      "id": "evt-11000000",
+      "title": "《八仙！》预测总票房已破11亿",
+      "category": "entertainment",
+      "hotScore": 0.6,
+      "freshness": 1,
+      "crossSource": 0.6309,
+      "totalScore": 0.7293,
       "sources": [
         {
           "channel": "baidu",
-          "rank": 5,
+          "rank": 6,
           "hot": 0,
-          "url": "https://m.baidu.com/s?word=AI%E8%83%BD%E7%BB%88%E7%BB%93%E7%99%8C%E7%97%87%E5%90%97&sa=fyb_news"
+          "url": "https://m.baidu.com/s?word=%E3%80%8A%E5%85%AB%E4%BB%99%EF%BC%81%E3%80%8B%E9%A2%84%E6%B5%8B%E6%80%BB%E7%A5%A8%E6%88%BF%E5%B7%B2%E7%A0%B411%E4%BA%BF&sa=fyb_news"
         }
       ],
       "summary": "",
-      "url": "https://m.baidu.com/s?word=AI%E8%83%BD%E7%BB%88%E7%BB%93%E7%99%8C%E7%97%87%E5%90%97&sa=fyb_news"
+      "url": "https://m.baidu.com/s?word=%E3%80%8A%E5%85%AB%E4%BB%99%EF%BC%81%E3%80%8B%E9%A2%84%E6%B5%8B%E6%80%BB%E7%A5%A8%E6%88%BF%E5%B7%B2%E7%A0%B411%E4%BA%BF&sa=fyb_news"
     },
     {
-      "id": "evt-ofo50000",
-      "title": "ofo 停更近 5 年后突然发文，此次「复活」释放了什么信号？199 元押金还有可能退回吗？",
+      "id": "evt-lv000000",
+      "title": "LV 再起诉浙江一日用百货店，商标维权诉讼已高达 1691 起，LV 为何在中国密集维权？",
       "category": "society",
-      "hotScore": 0.6375,
+      "hotScore": 0.7125,
       "freshness": 0.9999,
       "crossSource": 0.6309,
-      "totalScore": 0.7442,
+      "totalScore": 0.7743,
       "sources": [
         {
           "channel": "zhihu",
-          "rank": 4,
+          "rank": 2,
           "hot": 0,
           "url": ""
         }
       ],
       "summary": "",
       "url": ""
+    },
+    {
+      "id": "evt-ofo50000",
+      "title": "ofo 停更近 5 年后突然发文，此次「复活」释放了什么信号？199 元押金还有可能退回吗？",
+      "category": "society",
+      "hotScore": 0.675,
+      "freshness": 0.9999,
+      "crossSource": 0.6309,
+      "totalScore": 0.7593,
+      "sources": [
+        {
+          "channel": "zhihu",
+          "rank": 3,
+          "hot": 0,
+          "url": ""
+        }
+      ],
+      "summary": "",
+      "url": ""
+    },
+    {
+      "id": "evt-nfc00000",
+      "title": "马上评｜NFC果汁是勾兑的？别等媒体曝光后才整治",
+      "category": "society",
+      "hotScore": 0.6375,
+      "freshness": 1,
+      "crossSource": 0.6309,
+      "totalScore": 0.7443,
+      "sources": [
+        {
+          "channel": "thepaper",
+          "rank": 6,
+          "hot": 0,
+          "url": "https://www.thepaper.cn/newsDetail_forward_33603950"
+        }
+      ],
+      "summary": "",
+      "url": "https://www.thepaper.cn/newsDetail_forward_33603950"
     },
     {
       "id": "evt-3d000000",
       "title": "好未来《熊猫博士》3D动画片登陆央视少儿频道",
       "category": "society",
       "hotScore": 0.63,
-      "freshness": 0.9999,
+      "freshness": 1,
       "crossSource": 0.6309,
       "totalScore": 0.7413,
       "sources": [
@@ -253,32 +235,13 @@
       "url": ""
     },
     {
-      "id": "evt-nfc00000",
-      "title": "马上评｜NFC果汁是勾兑的？别等媒体曝光后才整治",
-      "category": "society",
-      "hotScore": 0.595,
-      "freshness": 1,
-      "crossSource": 0.6309,
-      "totalScore": 0.7273,
-      "sources": [
-        {
-          "channel": "thepaper",
-          "rank": 7,
-          "hot": 0,
-          "url": "https://www.thepaper.cn/newsDetail_forward_33603950"
-        }
-      ],
-      "summary": "",
-      "url": "https://www.thepaper.cn/newsDetail_forward_33603950"
-    },
-    {
       "id": "evt-80000000",
       "title": "洪秀柱：我快80了我等不及了",
       "category": "society",
       "hotScore": 0.56,
-      "freshness": 0.9999,
+      "freshness": 1,
       "crossSource": 0.6309,
-      "totalScore": 0.7132,
+      "totalScore": 0.7133,
       "sources": [
         {
           "channel": "baidu",
@@ -291,23 +254,23 @@
       "url": "https://m.baidu.com/s?word=%E6%B4%AA%E7%A7%80%E6%9F%B1%EF%BC%9A%E6%88%91%E5%BF%AB80%E4%BA%86%E6%88%91%E7%AD%89%E4%B8%8D%E5%8F%8A%E4%BA%86&sa=fyb_news"
     },
     {
-      "id": "evt-83400000",
-      "title": "重庆山体崩塌已致8死34失联",
+      "id": "evt-i0000000",
+      "title": "年内二度提价！飞天茅台i茅台零售价上调100元至1639元/瓶，销售合同价同步上调",
       "category": "society",
       "hotScore": 0.5525,
-      "freshness": 0.9999,
+      "freshness": 1,
       "crossSource": 0.6309,
-      "totalScore": 0.7102,
+      "totalScore": 0.7103,
       "sources": [
         {
-          "channel": "toutiao",
+          "channel": "thepaper",
           "rank": 8,
-          "hot": 13404941,
-          "url": "https://www.toutiao.com/trending/7662578686872505862/"
+          "hot": 0,
+          "url": "https://www.thepaper.cn/newsDetail_forward_33608521"
         }
       ],
       "summary": "",
-      "url": "https://www.toutiao.com/trending/7662578686872505862/"
+      "url": "https://www.thepaper.cn/newsDetail_forward_33608521"
     }
   ]
 }
