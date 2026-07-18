@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-07-18T16:43:48.965Z",
+  "generatedAt": "2026-07-18T18:45:29.649Z",
   "fields": {
     "society": "社会",
     "economy": "经济",
@@ -11,14 +11,14 @@
       "title": "一组图看未来五年你的城市怎么变",
       "category": "society",
       "hotScore": 0.765,
-      "freshness": 0.9999,
+      "freshness": 1,
       "crossSource": 1,
       "totalScore": 0.906,
       "sources": [
         {
           "channel": "toutiao",
           "rank": 3,
-          "hot": 27872518,
+          "hot": 28556004,
           "url": "https://www.toutiao.com/trending/7663839213271600691/"
         },
         {
@@ -30,6 +30,44 @@
       ],
       "summary": "",
       "url": "https://www.toutiao.com/trending/7663839213271600691/"
+    },
+    {
+      "id": "evt-18300000",
+      "title": "如何看待凡人第 183 集，播出两个小时后播放量不到 200 万？",
+      "category": "society",
+      "hotScore": 0.75,
+      "freshness": 1,
+      "crossSource": 0.6309,
+      "totalScore": 0.7893,
+      "sources": [
+        {
+          "channel": "zhihu",
+          "rank": 1,
+          "hot": 0,
+          "url": ""
+        }
+      ],
+      "summary": "",
+      "url": ""
+    },
+    {
+      "id": "evt-cia5ga00",
+      "title": "美CIA局长：中国5G与AI领先是大问题",
+      "category": "society",
+      "hotScore": 0.7225,
+      "freshness": 1,
+      "crossSource": 0.6309,
+      "totalScore": 0.7783,
+      "sources": [
+        {
+          "channel": "toutiao",
+          "rank": 4,
+          "hot": 25838541,
+          "url": "https://www.toutiao.com/trending/7663822176776208390/"
+        }
+      ],
+      "summary": "",
+      "url": "https://www.toutiao.com/trending/7663822176776208390/"
     },
     {
       "id": "evt-vs000000",
@@ -49,44 +87,6 @@
       ],
       "summary": "",
       "url": "https://m.baidu.com/s?word=%E4%B8%96%E7%95%8C%E6%9D%AF%EF%BC%9A%E6%B3%95%E5%9B%BDvs%E8%8B%B1%E6%A0%BC%E5%85%B0&sa=fyb_news"
-    },
-    {
-      "id": "evt-18300000",
-      "title": "如何看待凡人第 183 集，播出两个小时后播放量不到 200 万？",
-      "category": "society",
-      "hotScore": 0.7125,
-      "freshness": 0.9999,
-      "crossSource": 0.6309,
-      "totalScore": 0.7743,
-      "sources": [
-        {
-          "channel": "zhihu",
-          "rank": 2,
-          "hot": 0,
-          "url": ""
-        }
-      ],
-      "summary": "",
-      "url": ""
-    },
-    {
-      "id": "evt-cia5ga00",
-      "title": "美CIA局长：中国5G与AI领先是大问题",
-      "category": "society",
-      "hotScore": 0.68,
-      "freshness": 0.9999,
-      "crossSource": 0.6309,
-      "totalScore": 0.7613,
-      "sources": [
-        {
-          "channel": "toutiao",
-          "rank": 5,
-          "hot": 22820087,
-          "url": "https://www.toutiao.com/trending/7663822176776208390/"
-        }
-      ],
-      "summary": "",
-      "url": "https://www.toutiao.com/trending/7663822176776208390/"
     },
     {
       "id": "evt-10000000",
@@ -149,14 +149,14 @@
       "id": "evt-vip00000",
       "title": "经济学家任泽平 VIP 付费会员群「暴雷」，有人听信操作建议亏损 1000 多万，你如何看这种现象？",
       "category": "economy",
-      "hotScore": 0.75,
-      "freshness": 0.9999,
+      "hotScore": 0.7125,
+      "freshness": 1,
       "crossSource": 0.6309,
-      "totalScore": 0.7893,
+      "totalScore": 0.7743,
       "sources": [
         {
           "channel": "zhihu",
-          "rank": 1,
+          "rank": 2,
           "hot": 0,
           "url": ""
         }
@@ -207,7 +207,7 @@
       "title": "王楚钦 / 孙颖莎 2-3 不敌袁励岑 / 王艺迪，无缘全锦赛混双决赛，怎样评价本场比赛？",
       "category": "society",
       "hotScore": 0.6,
-      "freshness": 0.9999,
+      "freshness": 1,
       "crossSource": 0.6309,
       "totalScore": 0.7293,
       "sources": [
@@ -241,11 +241,30 @@
       "url": "https://m.baidu.com/s?word=95%E5%90%8E%E5%A4%AB%E5%A6%BB%E6%89%8B%E6%90%93500%E9%9B%86AI%E6%BC%AB%E5%89%A7%E7%88%86%E7%81%AB&sa=fyb_news"
     },
     {
+      "id": "evt-ai000000",
+      "title": "AI赋能先进核能凝练八大共识",
+      "category": "society",
+      "hotScore": 0.5525,
+      "freshness": 1,
+      "crossSource": 0.6309,
+      "totalScore": 0.7103,
+      "sources": [
+        {
+          "channel": "toutiao",
+          "rank": 8,
+          "hot": 17320092,
+          "url": "https://www.toutiao.com/trending/7663872937329430062/"
+        }
+      ],
+      "summary": "",
+      "url": "https://www.toutiao.com/trending/7663872937329430062/"
+    },
+    {
       "id": "evt-vikram00",
       "title": "印度民营火箭 Vikram-1 首飞成功入轨，成全球第三个拥有民营轨道发射能力的国家，哪些信息值得关注？",
       "category": "society",
       "hotScore": 0.525,
-      "freshness": 0.9999,
+      "freshness": 1,
       "crossSource": 0.6309,
       "totalScore": 0.6993,
       "sources": [
