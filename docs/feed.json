@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-07-18T10:55:37.581Z",
+  "generatedAt": "2026-07-18T12:51:14.901Z",
   "fields": {
     "society": "社会",
     "economy": "经济",
@@ -8,70 +8,51 @@
   "feed": [
     {
       "id": "evt-00000000",
-      "title": "上海足协通报申思涉嫌打骂小球员",
+      "title": "一组图看未来五年你的城市怎么变",
       "category": "society",
-      "hotScore": 0.7225,
+      "hotScore": 0.765,
       "freshness": 0.9999,
       "crossSource": 1,
-      "totalScore": 0.889,
+      "totalScore": 0.906,
       "sources": [
         {
           "channel": "toutiao",
-          "rank": 4,
-          "hot": 33302535,
-          "url": "https://www.toutiao.com/trending/7663784137072938522/"
+          "rank": 3,
+          "hot": 40148623,
+          "url": "https://www.toutiao.com/trending/7663839213271600691/"
         },
         {
           "channel": "baidu",
-          "rank": 16,
+          "rank": 4,
           "hot": 0,
-          "url": "https://m.baidu.com/s?word=%E4%B8%8A%E6%B5%B7%E8%B6%B3%E5%8D%8F%E9%80%9A%E6%8A%A5%E7%94%B3%E6%80%9D%E6%B6%89%E5%AB%8C%E6%89%93%E9%AA%82%E5%B0%8F%E7%90%83%E5%91%98&sa=fyb_news"
+          "url": "https://m.baidu.com/s?word=%E4%B8%80%E7%BB%84%E5%9B%BE%E7%9C%8B%E6%9C%AA%E6%9D%A5%E4%BA%94%E5%B9%B4%E4%BD%A0%E7%9A%84%E5%9F%8E%E5%B8%82%E6%80%8E%E4%B9%88%E5%8F%98&sa=fyb_news"
         }
       ],
       "summary": "",
-      "url": "https://www.toutiao.com/trending/7663784137072938522/"
+      "url": "https://www.toutiao.com/trending/7663839213271600691/"
     },
     {
-      "id": "evt-15000000",
-      "title": "老板让朋友15岁儿子干零活被罚",
+      "id": "evt-c9190000",
+      "title": "C919将首次执飞国际商业航线",
       "category": "society",
       "hotScore": 0.8075,
       "freshness": 0.9999,
       "crossSource": 0.6309,
-      "totalScore": 0.8122,
+      "totalScore": 0.8123,
       "sources": [
         {
           "channel": "toutiao",
           "rank": 2,
-          "hot": 40675809,
-          "url": "https://www.toutiao.com/trending/7663656681444065299/"
+          "hot": 44371090,
+          "url": "https://www.toutiao.com/trending/7663287808316047402/"
         }
       ],
       "summary": "",
-      "url": "https://www.toutiao.com/trending/7663656681444065299/"
+      "url": "https://www.toutiao.com/trending/7663287808316047402/"
     },
     {
-      "id": "evt-ofo50000",
-      "title": "ofo 停更近 5 年后突然发文，此次「复活」释放了什么信号？199 元押金还有可能退回吗？",
-      "category": "society",
-      "hotScore": 0.75,
-      "freshness": 0.9999,
-      "crossSource": 0.6309,
-      "totalScore": 0.7893,
-      "sources": [
-        {
-          "channel": "zhihu",
-          "rank": 1,
-          "hot": 0,
-          "url": ""
-        }
-      ],
-      "summary": "",
-      "url": ""
-    },
-    {
-      "id": "evt-ai000000",
-      "title": "多项AI在世界人工智能大会首发首秀",
+      "id": "evt-i0000000",
+      "title": "年内二度提价！飞天茅台i茅台零售价上调100元至1639元/瓶，销售合同价同步上调",
       "category": "society",
       "hotScore": 0.68,
       "freshness": 0.9999,
@@ -79,14 +60,33 @@
       "totalScore": 0.7613,
       "sources": [
         {
-          "channel": "baidu",
-          "rank": 4,
+          "channel": "thepaper",
+          "rank": 5,
           "hot": 0,
-          "url": "https://m.baidu.com/s?word=%E5%A4%9A%E9%A1%B9AI%E5%9C%A8%E4%B8%96%E7%95%8C%E4%BA%BA%E5%B7%A5%E6%99%BA%E8%83%BD%E5%A4%A7%E4%BC%9A%E9%A6%96%E5%8F%91%E9%A6%96%E7%A7%80&sa=fyb_news"
+          "url": "https://www.thepaper.cn/newsDetail_forward_33608521"
         }
       ],
       "summary": "",
-      "url": "https://m.baidu.com/s?word=%E5%A4%9A%E9%A1%B9AI%E5%9C%A8%E4%B8%96%E7%95%8C%E4%BA%BA%E5%B7%A5%E6%99%BA%E8%83%BD%E5%A4%A7%E4%BC%9A%E9%A6%96%E5%8F%91%E9%A6%96%E7%A7%80&sa=fyb_news"
+      "url": "https://www.thepaper.cn/newsDetail_forward_33608521"
+    },
+    {
+      "id": "evt-3d000000",
+      "title": "好未来《熊猫博士》3D动画片登陆央视少儿频道",
+      "category": "society",
+      "hotScore": 0.63,
+      "freshness": 1,
+      "crossSource": 0.6309,
+      "totalScore": 0.7413,
+      "sources": [
+        {
+          "channel": "36kr",
+          "rank": 7,
+          "hot": 0,
+          "url": ""
+        }
+      ],
+      "summary": "36氪获悉，自4月9日起，中央电视台少儿频道携手好未来旗下教育品牌熊猫博士上线3D系列动画片《熊猫博士》。与此同时，《熊猫博士》3D动画片也在美国、加拿大、俄罗斯、意大利等多个国家、地区陆续发行，并登陆Discovery探索频道等多个世界知名节目。",
+      "url": ""
     },
     {
       "id": "evt-10000000",
@@ -149,6 +149,44 @@
       "id": "evt-vip00000",
       "title": "经济学家任泽平 VIP 付费会员群「暴雷」，有人听信操作建议亏损 1000 多万，你如何看这种现象？",
       "category": "economy",
+      "hotScore": 0.75,
+      "freshness": 0.9999,
+      "crossSource": 0.6309,
+      "totalScore": 0.7893,
+      "sources": [
+        {
+          "channel": "zhihu",
+          "rank": 1,
+          "hot": 0,
+          "url": ""
+        }
+      ],
+      "summary": "",
+      "url": ""
+    },
+    {
+      "id": "evt-15000000",
+      "title": "老板让朋友15岁儿子干零活被罚5000",
+      "category": "society",
+      "hotScore": 0.6,
+      "freshness": 0.9999,
+      "crossSource": 0.6309,
+      "totalScore": 0.7293,
+      "sources": [
+        {
+          "channel": "baidu",
+          "rank": 6,
+          "hot": 0,
+          "url": "https://m.baidu.com/s?word=%E8%80%81%E6%9D%BF%E8%AE%A9%E6%9C%8B%E5%8F%8B15%E5%B2%81%E5%84%BF%E5%AD%90%E5%B9%B2%E9%9B%B6%E6%B4%BB%E8%A2%AB%E7%BD%9A5000&sa=fyb_news"
+        }
+      ],
+      "summary": "",
+      "url": "https://m.baidu.com/s?word=%E8%80%81%E6%9D%BF%E8%AE%A9%E6%9C%8B%E5%8F%8B15%E5%B2%81%E5%84%BF%E5%AD%90%E5%B9%B2%E9%9B%B6%E6%B4%BB%E8%A2%AB%E7%BD%9A5000&sa=fyb_news"
+    },
+    {
+      "id": "evt-18300000",
+      "title": "如何看待凡人第 183 集，播出两个小时后播放量不到 200 万？",
+      "category": "society",
       "hotScore": 0.525,
       "freshness": 0.9999,
       "crossSource": 0.6309,
@@ -163,101 +201,6 @@
       ],
       "summary": "",
       "url": ""
-    },
-    {
-      "id": "evt-70090000",
-      "title": "火箭军女兵考700.9分斩获第一名",
-      "category": "society",
-      "hotScore": 0.64,
-      "freshness": 0.9999,
-      "crossSource": 0.6309,
-      "totalScore": 0.7453,
-      "sources": [
-        {
-          "channel": "baidu",
-          "rank": 5,
-          "hot": 0,
-          "url": "https://m.baidu.com/s?word=%E7%81%AB%E7%AE%AD%E5%86%9B%E5%A5%B3%E5%85%B5%E8%80%83700.9%E5%88%86%E6%96%A9%E8%8E%B7%E7%AC%AC%E4%B8%80%E5%90%8D&sa=fyb_news"
-        }
-      ],
-      "summary": "",
-      "url": "https://m.baidu.com/s?word=%E7%81%AB%E7%AE%AD%E5%86%9B%E5%A5%B3%E5%85%B5%E8%80%83700.9%E5%88%86%E6%96%A9%E8%8E%B7%E7%AC%AC%E4%B8%80%E5%90%8D&sa=fyb_news"
-    },
-    {
-      "id": "evt-kimi0000",
-      "title": "如何评价月之暗面 kimi 最新发布的大模型 k3？对比全球其他大模型能力如何？",
-      "category": "society",
-      "hotScore": 0.6375,
-      "freshness": 0.9999,
-      "crossSource": 0.6309,
-      "totalScore": 0.7443,
-      "sources": [
-        {
-          "channel": "zhihu",
-          "rank": 4,
-          "hot": 0,
-          "url": ""
-        }
-      ],
-      "summary": "",
-      "url": ""
-    },
-    {
-      "id": "evt-i0000000",
-      "title": "年内二度提价！飞天茅台i茅台零售价上调100元至1639元/瓶，销售合同价同步上调",
-      "category": "society",
-      "hotScore": 0.6375,
-      "freshness": 1,
-      "crossSource": 0.6309,
-      "totalScore": 0.7443,
-      "sources": [
-        {
-          "channel": "thepaper",
-          "rank": 6,
-          "hot": 0,
-          "url": "https://www.thepaper.cn/newsDetail_forward_33608521"
-        }
-      ],
-      "summary": "",
-      "url": "https://www.thepaper.cn/newsDetail_forward_33608521"
-    },
-    {
-      "id": "evt-3d000000",
-      "title": "好未来《熊猫博士》3D动画片登陆央视少儿频道",
-      "category": "society",
-      "hotScore": 0.63,
-      "freshness": 1,
-      "crossSource": 0.6309,
-      "totalScore": 0.7413,
-      "sources": [
-        {
-          "channel": "36kr",
-          "rank": 7,
-          "hot": 0,
-          "url": ""
-        }
-      ],
-      "summary": "36氪获悉，自4月9日起，中央电视台少儿频道携手好未来旗下教育品牌熊猫博士上线3D系列动画片《熊猫博士》。与此同时，《熊猫博士》3D动画片也在美国、加拿大、俄罗斯、意大利等多个国家、地区陆续发行，并登陆Discovery探索频道等多个世界知名节目。",
-      "url": ""
-    },
-    {
-      "id": "evt-vs000000",
-      "title": "林高远袁烜松vs温瑞博林诗栋",
-      "category": "society",
-      "hotScore": 0.52,
-      "freshness": 0.9999,
-      "crossSource": 0.6309,
-      "totalScore": 0.6973,
-      "sources": [
-        {
-          "channel": "baidu",
-          "rank": 8,
-          "hot": 0,
-          "url": "https://m.baidu.com/s?word=%E6%9E%97%E9%AB%98%E8%BF%9C%E8%A2%81%E7%83%9C%E6%9D%BEvs%E6%B8%A9%E7%91%9E%E5%8D%9A%E6%9E%97%E8%AF%97%E6%A0%8B&sa=fyb_news"
-        }
-      ],
-      "summary": "",
-      "url": "https://m.baidu.com/s?word=%E6%9E%97%E9%AB%98%E8%BF%9C%E8%A2%81%E7%83%9C%E6%9D%BEvs%E6%B8%A9%E7%91%9E%E5%8D%9A%E6%9E%97%E8%AF%97%E6%A0%8B&sa=fyb_news"
     }
   ]
 }
