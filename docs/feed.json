@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-07-19T20:37:53.281Z",
+  "generatedAt": "2026-07-19T22:40:57.104Z",
   "fields": {
     "society": "社会",
     "economy": "经济",
@@ -10,20 +10,20 @@
       "id": "evt-00000000",
       "title": "世界杯决赛判罚尺度",
       "category": "society",
-      "hotScore": 0.8075,
+      "hotScore": 0.595,
       "freshness": 0.9999,
       "crossSource": 1,
-      "totalScore": 0.923,
+      "totalScore": 0.838,
       "sources": [
         {
           "channel": "toutiao",
-          "rank": 2,
-          "hot": 26439786,
+          "rank": 7,
+          "hot": 16289770,
           "url": "https://www.toutiao.com/trending/7664326311313198618/"
         },
         {
           "channel": "baidu",
-          "rank": 5,
+          "rank": 17,
           "hot": 0,
           "url": "https://m.baidu.com/s?word=%E4%B8%96%E7%95%8C%E6%9D%AF%E5%86%B3%E8%B5%9B%E5%88%A4%E7%BD%9A%E5%B0%BA%E5%BA%A6&sa=fyb_news"
         }
@@ -51,31 +51,6 @@
       "url": "https://www.thepaper.cn/newsDetail_forward_33615053"
     },
     {
-      "id": "evt-80000000",
-      "title": "洪秀柱盼统一：我已近80岁等不及了",
-      "category": "society",
-      "hotScore": 0.51,
-      "freshness": 0.9999,
-      "crossSource": 1,
-      "totalScore": 0.804,
-      "sources": [
-        {
-          "channel": "toutiao",
-          "rank": 9,
-          "hot": 13129609,
-          "url": "https://www.toutiao.com/trending/7663750963165089343/"
-        },
-        {
-          "channel": "baidu",
-          "rank": 13,
-          "hot": 0,
-          "url": "https://m.baidu.com/s?word=%E6%B4%AA%E7%A7%80%E6%9F%B1%E7%9B%BC%E7%BB%9F%E4%B8%80%EF%BC%9A%E6%88%91%E5%B7%B2%E8%BF%9180%E5%B2%81%E7%AD%89%E4%B8%8D%E5%8F%8A%E4%BA%86&sa=fyb_news"
-        }
-      ],
-      "summary": "",
-      "url": "https://www.toutiao.com/trending/7663750963165089343/"
-    },
-    {
       "id": "evt-10000000",
       "title": "全国已建成高质量数据集12万个",
       "category": "society",
@@ -87,12 +62,31 @@
         {
           "channel": "toutiao",
           "rank": 3,
-          "hot": 23923707,
+          "hot": 24301481,
           "url": "https://www.toutiao.com/trending/7663394977615642633/"
         }
       ],
       "summary": "",
       "url": "https://www.toutiao.com/trending/7663394977615642633/"
+    },
+    {
+      "id": "evt-blg00000",
+      "title": "网传 BLG 第三赛段有可能引入新上单，Bin 或轮换，如何评价这一决策？",
+      "category": "society",
+      "hotScore": 0.6375,
+      "freshness": 0.9999,
+      "crossSource": 0.6309,
+      "totalScore": 0.7443,
+      "sources": [
+        {
+          "channel": "zhihu",
+          "rank": 4,
+          "hot": 0,
+          "url": ""
+        }
+      ],
+      "summary": "",
+      "url": ""
     },
     {
       "id": "evt-5g000000",
@@ -152,101 +146,6 @@
       "url": "https://www.thepaper.cn/newsDetail_forward_33615735"
     },
     {
-      "id": "evt-vs000000",
-      "title": "世界杯决赛：西班牙vs阿根廷",
-      "category": "society",
-      "hotScore": 0.76,
-      "freshness": 1,
-      "crossSource": 0.6309,
-      "totalScore": 0.7933,
-      "sources": [
-        {
-          "channel": "baidu",
-          "rank": 2,
-          "hot": 0,
-          "url": "https://m.baidu.com/s?word=%E4%B8%96%E7%95%8C%E6%9D%AF%E5%86%B3%E8%B5%9B%EF%BC%9A%E8%A5%BF%E7%8F%AD%E7%89%99vs%E9%98%BF%E6%A0%B9%E5%BB%B7&sa=fyb_news"
-        }
-      ],
-      "summary": "",
-      "url": "https://m.baidu.com/s?word=%E4%B8%96%E7%95%8C%E6%9D%AF%E5%86%B3%E8%B5%9B%EF%BC%9A%E8%A5%BF%E7%8F%AD%E7%89%99vs%E9%98%BF%E6%A0%B9%E5%BB%B7&sa=fyb_news"
-    },
-    {
-      "id": "evt-a0000000",
-      "title": "两大央企深夜宣布：增持A股",
-      "category": "society",
-      "hotScore": 0.72,
-      "freshness": 1,
-      "crossSource": 0.6309,
-      "totalScore": 0.7773,
-      "sources": [
-        {
-          "channel": "baidu",
-          "rank": 3,
-          "hot": 0,
-          "url": "https://m.baidu.com/s?word=%E4%B8%A4%E5%A4%A7%E5%A4%AE%E4%BC%81%E6%B7%B1%E5%A4%9C%E5%AE%A3%E5%B8%83%EF%BC%9A%E5%A2%9E%E6%8C%81A%E8%82%A1&sa=fyb_news"
-        }
-      ],
-      "summary": "",
-      "url": "https://m.baidu.com/s?word=%E4%B8%A4%E5%A4%A7%E5%A4%AE%E4%BC%81%E6%B7%B1%E5%A4%9C%E5%AE%A3%E5%B8%83%EF%BC%9A%E5%A2%9E%E6%8C%81A%E8%82%A1&sa=fyb_news"
-    },
-    {
-      "id": "evt-v0000000",
-      "title": "美加墨世界杯决赛，西班牙 vs 阿根廷，如何评价本场比赛？",
-      "category": "society",
-      "hotScore": 0.7125,
-      "freshness": 0.9999,
-      "crossSource": 0.6309,
-      "totalScore": 0.7743,
-      "sources": [
-        {
-          "channel": "zhihu",
-          "rank": 2,
-          "hot": 0,
-          "url": ""
-        }
-      ],
-      "summary": "",
-      "url": ""
-    },
-    {
-      "id": "evt-20000000",
-      "title": "于东来建议每年新增 20 至 40 天带薪年假，严格执行每周 40 小时工作制，怎样看待他的用工理念？",
-      "category": "society",
-      "hotScore": 0.675,
-      "freshness": 0.9999,
-      "crossSource": 0.6309,
-      "totalScore": 0.7593,
-      "sources": [
-        {
-          "channel": "zhihu",
-          "rank": 3,
-          "hot": 0,
-          "url": ""
-        }
-      ],
-      "summary": "",
-      "url": ""
-    },
-    {
-      "id": "evt-de000000",
-      "title": "如何看待部分社区认为 DeepSeek-V4 的灰度测试是路由 Claude Fable 、 Opus 等模型？",
-      "category": "society",
-      "hotScore": 0.6375,
-      "freshness": 0.9999,
-      "crossSource": 0.6309,
-      "totalScore": 0.7443,
-      "sources": [
-        {
-          "channel": "zhihu",
-          "rank": 4,
-          "hot": 0,
-          "url": ""
-        }
-      ],
-      "summary": "",
-      "url": ""
-    },
-    {
       "id": "evt-3d000000",
       "title": "好未来《熊猫博士》3D动画片登陆央视少儿频道",
       "category": "society",
@@ -264,44 +163,6 @@
       ],
       "summary": "36氪获悉，自4月9日起，中央电视台少儿频道携手好未来旗下教育品牌熊猫博士上线3D系列动画片《熊猫博士》。与此同时，《熊猫博士》3D动画片也在美国、加拿大、俄罗斯、意大利等多个国家、地区陆续发行，并登陆Discovery探索频道等多个世界知名节目。",
       "url": ""
-    },
-    {
-      "id": "evt-ewc00000",
-      "title": "如何看待 EWC 官方邀请其他赛区选手观看《突然的陀螺》，随后因引发 LPL 粉丝不满而下架并处罚相关人员？",
-      "category": "society",
-      "hotScore": 0.6,
-      "freshness": 0.9999,
-      "crossSource": 0.6309,
-      "totalScore": 0.7293,
-      "sources": [
-        {
-          "channel": "zhihu",
-          "rank": 5,
-          "hot": 0,
-          "url": ""
-        }
-      ],
-      "summary": "",
-      "url": ""
-    },
-    {
-      "id": "evt-fifa0000",
-      "title": "FIFA将大力神杯送入特朗普包厢",
-      "category": "society",
-      "hotScore": 0.56,
-      "freshness": 1,
-      "crossSource": 0.6309,
-      "totalScore": 0.7133,
-      "sources": [
-        {
-          "channel": "baidu",
-          "rank": 7,
-          "hot": 0,
-          "url": "https://m.baidu.com/s?word=FIFA%E5%B0%86%E5%A4%A7%E5%8A%9B%E7%A5%9E%E6%9D%AF%E9%80%81%E5%85%A5%E7%89%B9%E6%9C%97%E6%99%AE%E5%8C%85%E5%8E%A2&sa=fyb_news"
-        }
-      ],
-      "summary": "",
-      "url": "https://m.baidu.com/s?word=FIFA%E5%B0%86%E5%A4%A7%E5%8A%9B%E7%A5%9E%E6%9D%AF%E9%80%81%E5%85%A5%E7%89%B9%E6%9C%97%E6%99%AE%E5%8C%85%E5%8E%A2&sa=fyb_news"
     }
   ]
 }
