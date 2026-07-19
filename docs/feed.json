@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-07-19T12:53:37.315Z",
+  "generatedAt": "2026-07-19T14:46:53.677Z",
   "fields": {
     "society": "社会",
     "economy": "经济",
@@ -8,28 +8,28 @@
   "feed": [
     {
       "id": "evt-00000000",
-      "title": "上海暴雨如注",
+      "title": "美伊冲突正跨越“红线”",
       "category": "society",
-      "hotScore": 0.85,
+      "hotScore": 0.6375,
       "freshness": 0.9999,
       "crossSource": 1,
-      "totalScore": 0.94,
+      "totalScore": 0.855,
       "sources": [
         {
           "channel": "toutiao",
-          "rank": 1,
-          "hot": 26328935,
-          "url": "https://www.toutiao.com/trending/7663750963165056575/"
+          "rank": 6,
+          "hot": 16794770,
+          "url": "https://www.toutiao.com/trending/7664211981766757938/"
         },
         {
           "channel": "baidu",
-          "rank": 5,
+          "rank": 10,
           "hot": 0,
-          "url": "https://m.baidu.com/s?word=%E4%B8%8A%E6%B5%B7%E6%9A%B4%E9%9B%A8%E5%A6%82%E6%B3%A8&sa=fyb_news"
+          "url": "https://m.baidu.com/s?word=%E7%BE%8E%E4%BC%8A%E5%86%B2%E7%AA%81%E6%AD%A3%E8%B7%A8%E8%B6%8A%E2%80%9C%E7%BA%A2%E7%BA%BF%E2%80%9D&sa=fyb_news"
         }
       ],
       "summary": "",
-      "url": "https://www.toutiao.com/trending/7663750963165056575/"
+      "url": "https://www.toutiao.com/trending/7664211981766757938/"
     },
     {
       "id": "evt-64000000",
@@ -62,7 +62,7 @@
         {
           "channel": "toutiao",
           "rank": 3,
-          "hot": 21556309,
+          "hot": 22670568,
           "url": "https://www.toutiao.com/trending/7663394977615642633/"
         }
       ],
@@ -70,23 +70,23 @@
       "url": "https://www.toutiao.com/trending/7663394977615642633/"
     },
     {
-      "id": "evt-30000000",
-      "title": "马龙许昕3比0横扫对手夺冠",
+      "id": "evt-fifa0000",
+      "title": "“为让国足进世界杯 FIFA主席拼了”",
       "category": "society",
-      "hotScore": 0.76,
-      "freshness": 1,
+      "hotScore": 0.72,
+      "freshness": 0.9999,
       "crossSource": 0.6309,
-      "totalScore": 0.7933,
+      "totalScore": 0.7773,
       "sources": [
         {
           "channel": "baidu",
-          "rank": 2,
+          "rank": 3,
           "hot": 0,
-          "url": "https://m.baidu.com/s?word=%E9%A9%AC%E9%BE%99%E8%AE%B8%E6%98%953%E6%AF%940%E6%A8%AA%E6%89%AB%E5%AF%B9%E6%89%8B%E5%A4%BA%E5%86%A0&sa=fyb_news"
+          "url": "https://m.baidu.com/s?word=%E2%80%9C%E4%B8%BA%E8%AE%A9%E5%9B%BD%E8%B6%B3%E8%BF%9B%E4%B8%96%E7%95%8C%E6%9D%AF+FIFA%E4%B8%BB%E5%B8%AD%E6%8B%BC%E4%BA%86%E2%80%9D&sa=fyb_news"
         }
       ],
       "summary": "",
-      "url": "https://m.baidu.com/s?word=%E9%A9%AC%E9%BE%99%E8%AE%B8%E6%98%953%E6%AF%940%E6%A8%AA%E6%89%AB%E5%AF%B9%E6%89%8B%E5%A4%BA%E5%86%A0&sa=fyb_news"
+      "url": "https://m.baidu.com/s?word=%E2%80%9C%E4%B8%BA%E8%AE%A9%E5%9B%BD%E8%B6%B3%E8%BF%9B%E4%B8%96%E7%95%8C%E6%9D%AF+FIFA%E4%B8%BB%E5%B8%AD%E6%8B%BC%E4%BA%86%E2%80%9D&sa=fyb_news"
     },
     {
       "id": "evt-5g000000",
@@ -149,25 +149,6 @@
       "id": "evt-20000000",
       "title": "于东来建议每年新增 20 至 40 天带薪年假，严格执行每周 40 小时工作制，怎样看待他的用工理念？",
       "category": "society",
-      "hotScore": 0.75,
-      "freshness": 0.9999,
-      "crossSource": 0.6309,
-      "totalScore": 0.7893,
-      "sources": [
-        {
-          "channel": "zhihu",
-          "rank": 1,
-          "hot": 0,
-          "url": ""
-        }
-      ],
-      "summary": "",
-      "url": ""
-    },
-    {
-      "id": "evt-v0000000",
-      "title": "美加墨世界杯决赛，西班牙 vs 阿根廷，你更看好哪支球队？决胜的关键是什么？",
-      "category": "society",
       "hotScore": 0.7125,
       "freshness": 0.9999,
       "crossSource": 0.6309,
@@ -184,27 +165,8 @@
       "url": ""
     },
     {
-      "id": "evt-kimik3ai",
-      "title": "Kimi K3让全球AI圈炸锅了",
-      "category": "society",
-      "hotScore": 0.68,
-      "freshness": 0.9999,
-      "crossSource": 0.6309,
-      "totalScore": 0.7613,
-      "sources": [
-        {
-          "channel": "toutiao",
-          "rank": 5,
-          "hot": 17648813,
-          "url": "https://www.toutiao.com/trending/7664192249667784198/"
-        }
-      ],
-      "summary": "",
-      "url": "https://www.toutiao.com/trending/7664192249667784198/"
-    },
-    {
-      "id": "evt-80000000",
-      "title": "宜家集中出售 8 座商场，已全面清空，其中 7 家商场今年关停，如何看待宜家此次大规模资产处置？",
+      "id": "evt-v0000000",
+      "title": "美加墨世界杯决赛，西班牙 vs 阿根廷，你更看好哪支球队？决胜的关键是什么？",
       "category": "society",
       "hotScore": 0.675,
       "freshness": 0.9999,
@@ -214,6 +176,44 @@
         {
           "channel": "zhihu",
           "rank": 3,
+          "hot": 0,
+          "url": ""
+        }
+      ],
+      "summary": "",
+      "url": ""
+    },
+    {
+      "id": "evt-30000000",
+      "title": "马龙许昕3比0横扫对手夺冠",
+      "category": "society",
+      "hotScore": 0.64,
+      "freshness": 0.9999,
+      "crossSource": 0.6309,
+      "totalScore": 0.7453,
+      "sources": [
+        {
+          "channel": "baidu",
+          "rank": 5,
+          "hot": 0,
+          "url": "https://m.baidu.com/s?word=%E9%A9%AC%E9%BE%99%E8%AE%B8%E6%98%953%E6%AF%940%E6%A8%AA%E6%89%AB%E5%AF%B9%E6%89%8B%E5%A4%BA%E5%86%A0&sa=fyb_news"
+        }
+      ],
+      "summary": "",
+      "url": "https://m.baidu.com/s?word=%E9%A9%AC%E9%BE%99%E8%AE%B8%E6%98%953%E6%AF%940%E6%A8%AA%E6%89%AB%E5%AF%B9%E6%89%8B%E5%A4%BA%E5%86%A0&sa=fyb_news"
+    },
+    {
+      "id": "evt-80000000",
+      "title": "宜家集中出售 8 座商场，已全面清空，其中 7 家商场今年关停，如何看待宜家此次大规模资产处置？",
+      "category": "society",
+      "hotScore": 0.6375,
+      "freshness": 0.9999,
+      "crossSource": 0.6309,
+      "totalScore": 0.7443,
+      "sources": [
+        {
+          "channel": "zhihu",
+          "rank": 4,
           "hot": 0,
           "url": ""
         }
@@ -238,44 +238,6 @@
         }
       ],
       "summary": "36氪获悉，自4月9日起，中央电视台少儿频道携手好未来旗下教育品牌熊猫博士上线3D系列动画片《熊猫博士》。与此同时，《熊猫博士》3D动画片也在美国、加拿大、俄罗斯、意大利等多个国家、地区陆续发行，并登陆Discovery探索频道等多个世界知名节目。",
-      "url": ""
-    },
-    {
-      "id": "evt-40000000",
-      "title": "俄40分钟内向基辅发射约40枚弹道导弹",
-      "category": "society",
-      "hotScore": 0.595,
-      "freshness": 0.9999,
-      "crossSource": 0.6309,
-      "totalScore": 0.7273,
-      "sources": [
-        {
-          "channel": "toutiao",
-          "rank": 7,
-          "hot": 14449626,
-          "url": "https://www.toutiao.com/trending/7664150368548814891/"
-        }
-      ],
-      "summary": "",
-      "url": "https://www.toutiao.com/trending/7664150368548814891/"
-    },
-    {
-      "id": "evt-fifa0000",
-      "title": "如何评价 FIFA 主席说可以中美合办世界杯？这是玩笑还是有所考量？",
-      "category": "society",
-      "hotScore": 0.525,
-      "freshness": 0.9999,
-      "crossSource": 0.6309,
-      "totalScore": 0.6993,
-      "sources": [
-        {
-          "channel": "zhihu",
-          "rank": 7,
-          "hot": 0,
-          "url": ""
-        }
-      ],
-      "summary": "",
       "url": ""
     }
   ]
