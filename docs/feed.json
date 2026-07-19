@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-07-19T16:43:57.549Z",
+  "generatedAt": "2026-07-19T18:50:38.609Z",
   "fields": {
     "society": "社会",
     "economy": "经济",
@@ -8,7 +8,32 @@
   "feed": [
     {
       "id": "evt-00000000",
-      "title": "美伊冲突正跨越“红线”",
+      "title": "马龙：也就我能叫得动许昕了",
+      "category": "society",
+      "hotScore": 0.7225,
+      "freshness": 0.9999,
+      "crossSource": 1,
+      "totalScore": 0.889,
+      "sources": [
+        {
+          "channel": "toutiao",
+          "rank": 4,
+          "hot": 21401677,
+          "url": "https://www.toutiao.com/trending/7664227357456125486/"
+        },
+        {
+          "channel": "baidu",
+          "rank": 20,
+          "hot": 0,
+          "url": "https://m.baidu.com/s?word=%E9%A9%AC%E9%BE%99%EF%BC%9A%E4%B9%9F%E5%B0%B1%E6%88%91%E8%83%BD%E5%8F%AB%E5%BE%97%E5%8A%A8%E8%AE%B8%E6%98%95%E4%BA%86&sa=fyb_news"
+        }
+      ],
+      "summary": "",
+      "url": "https://www.toutiao.com/trending/7664227357456125486/"
+    },
+    {
+      "id": "evt-80000000",
+      "title": "洪秀柱盼统一：我已近80岁等不及了",
       "category": "society",
       "hotScore": 0.6375,
       "freshness": 0.9999,
@@ -18,18 +43,18 @@
         {
           "channel": "toutiao",
           "rank": 6,
-          "hot": 17302900,
-          "url": "https://www.toutiao.com/trending/7664211981766757938/"
+          "hot": 17522211,
+          "url": "https://www.toutiao.com/trending/7663750963165089343/"
         },
         {
           "channel": "baidu",
-          "rank": 9,
+          "rank": 10,
           "hot": 0,
-          "url": "https://m.baidu.com/s?word=%E7%BE%8E%E4%BC%8A%E5%86%B2%E7%AA%81%E6%AD%A3%E8%B7%A8%E8%B6%8A%E2%80%9C%E7%BA%A2%E7%BA%BF%E2%80%9D&sa=fyb_news"
+          "url": "https://m.baidu.com/s?word=%E6%B4%AA%E7%A7%80%E6%9F%B1%E7%9B%BC%E7%BB%9F%E4%B8%80%EF%BC%9A%E6%88%91%E5%B7%B2%E8%BF%9180%E5%B2%81%E7%AD%89%E4%B8%8D%E5%8F%8A%E4%BA%86&sa=fyb_news"
         }
       ],
       "summary": "",
-      "url": "https://www.toutiao.com/trending/7664211981766757938/"
+      "url": "https://www.toutiao.com/trending/7663750963165089343/"
     },
     {
       "id": "evt-64000000",
@@ -62,7 +87,7 @@
         {
           "channel": "toutiao",
           "rank": 3,
-          "hot": 23356472,
+          "hot": 23652511,
           "url": "https://www.toutiao.com/trending/7663394977615642633/"
         }
       ],
@@ -70,30 +95,11 @@
       "url": "https://www.toutiao.com/trending/7663394977615642633/"
     },
     {
-      "id": "evt-vs000000",
-      "title": "世界杯决赛：西班牙vs阿根廷",
-      "category": "society",
-      "hotScore": 0.76,
-      "freshness": 1,
-      "crossSource": 0.6309,
-      "totalScore": 0.7933,
-      "sources": [
-        {
-          "channel": "baidu",
-          "rank": 2,
-          "hot": 0,
-          "url": "https://m.baidu.com/s?word=%E4%B8%96%E7%95%8C%E6%9D%AF%E5%86%B3%E8%B5%9B%EF%BC%9A%E8%A5%BF%E7%8F%AD%E7%89%99vs%E9%98%BF%E6%A0%B9%E5%BB%B7&sa=fyb_news"
-        }
-      ],
-      "summary": "",
-      "url": "https://m.baidu.com/s?word=%E4%B8%96%E7%95%8C%E6%9D%AF%E5%86%B3%E8%B5%9B%EF%BC%9A%E8%A5%BF%E7%8F%AD%E7%89%99vs%E9%98%BF%E6%A0%B9%E5%BB%B7&sa=fyb_news"
-    },
-    {
       "id": "evt-5g000000",
       "title": "三大运营商年内推出5G消息",
       "category": "economy",
       "hotScore": 0.855,
-      "freshness": 1,
+      "freshness": 0.9999,
       "crossSource": 0.6309,
       "totalScore": 0.8313,
       "sources": [
@@ -112,7 +118,7 @@
       "title": "欧洲在线订餐服务Takeaway.com：外卖订单开始强劲复苏",
       "category": "economy",
       "hotScore": 0.81,
-      "freshness": 1,
+      "freshness": 0.9999,
       "crossSource": 0.6309,
       "totalScore": 0.8133,
       "sources": [
@@ -146,8 +152,27 @@
       "url": "https://www.thepaper.cn/newsDetail_forward_33615735"
     },
     {
+      "id": "evt-vs000000",
+      "title": "世界杯决赛：西班牙vs阿根廷",
+      "category": "society",
+      "hotScore": 0.76,
+      "freshness": 0.9999,
+      "crossSource": 0.6309,
+      "totalScore": 0.7933,
+      "sources": [
+        {
+          "channel": "baidu",
+          "rank": 2,
+          "hot": 0,
+          "url": "https://m.baidu.com/s?word=%E4%B8%96%E7%95%8C%E6%9D%AF%E5%86%B3%E8%B5%9B%EF%BC%9A%E8%A5%BF%E7%8F%AD%E7%89%99vs%E9%98%BF%E6%A0%B9%E5%BB%B7&sa=fyb_news"
+        }
+      ],
+      "summary": "",
+      "url": "https://m.baidu.com/s?word=%E4%B8%96%E7%95%8C%E6%9D%AF%E5%86%B3%E8%B5%9B%EF%BC%9A%E8%A5%BF%E7%8F%AD%E7%89%99vs%E9%98%BF%E6%A0%B9%E5%BB%B7&sa=fyb_news"
+    },
+    {
       "id": "evt-v0000000",
-      "title": "美加墨世界杯决赛，西班牙 vs 阿根廷，你更看好哪支球队？决胜的关键是什么？",
+      "title": "美加墨世界杯决赛，西班牙 vs 阿根廷，如何评价本场比赛？",
       "category": "society",
       "hotScore": 0.7125,
       "freshness": 0.9999,
@@ -184,27 +209,8 @@
       "url": ""
     },
     {
-      "id": "evt-fifa0000",
-      "title": "“为让国足进世界杯 FIFA主席拼了”",
-      "category": "society",
-      "hotScore": 0.64,
-      "freshness": 1,
-      "crossSource": 0.6309,
-      "totalScore": 0.7453,
-      "sources": [
-        {
-          "channel": "baidu",
-          "rank": 5,
-          "hot": 0,
-          "url": "https://m.baidu.com/s?word=%E2%80%9C%E4%B8%BA%E8%AE%A9%E5%9B%BD%E8%B6%B3%E8%BF%9B%E4%B8%96%E7%95%8C%E6%9D%AF+FIFA%E4%B8%BB%E5%B8%AD%E6%8B%BC%E4%BA%86%E2%80%9D&sa=fyb_news"
-        }
-      ],
-      "summary": "",
-      "url": "https://m.baidu.com/s?word=%E2%80%9C%E4%B8%BA%E8%AE%A9%E5%9B%BD%E8%B6%B3%E8%BF%9B%E4%B8%96%E7%95%8C%E6%9D%AF+FIFA%E4%B8%BB%E5%B8%AD%E6%8B%BC%E4%BA%86%E2%80%9D&sa=fyb_news"
-    },
-    {
-      "id": "evt-80000000",
-      "title": "清华大学的学生中有 80% 的人是过目不忘的，这个是真的么？",
+      "id": "evt-de000000",
+      "title": "如何看待部分社区认为 DeepSeek-V4 的灰度测试是路由 Claude Fable 、 Opus 等模型？",
       "category": "society",
       "hotScore": 0.6375,
       "freshness": 0.9999,
@@ -226,7 +232,7 @@
       "title": "好未来《熊猫博士》3D动画片登陆央视少儿频道",
       "category": "society",
       "hotScore": 0.63,
-      "freshness": 1,
+      "freshness": 0.9999,
       "crossSource": 0.6309,
       "totalScore": 0.7413,
       "sources": [
@@ -241,11 +247,11 @@
       "url": ""
     },
     {
-      "id": "evt-30000000",
-      "title": "马龙许昕3比0横扫对手夺冠",
+      "id": "evt-fifa0000",
+      "title": "“为让国足进世界杯 FIFA主席拼了”",
       "category": "society",
       "hotScore": 0.6,
-      "freshness": 1,
+      "freshness": 0.9999,
       "crossSource": 0.6309,
       "totalScore": 0.7293,
       "sources": [
@@ -253,15 +259,15 @@
           "channel": "baidu",
           "rank": 6,
           "hot": 0,
-          "url": "https://m.baidu.com/s?word=%E9%A9%AC%E9%BE%99%E8%AE%B8%E6%98%953%E6%AF%940%E6%A8%AA%E6%89%AB%E5%AF%B9%E6%89%8B%E5%A4%BA%E5%86%A0&sa=fyb_news"
+          "url": "https://m.baidu.com/s?word=%E2%80%9C%E4%B8%BA%E8%AE%A9%E5%9B%BD%E8%B6%B3%E8%BF%9B%E4%B8%96%E7%95%8C%E6%9D%AF+FIFA%E4%B8%BB%E5%B8%AD%E6%8B%BC%E4%BA%86%E2%80%9D&sa=fyb_news"
         }
       ],
       "summary": "",
-      "url": "https://m.baidu.com/s?word=%E9%A9%AC%E9%BE%99%E8%AE%B8%E6%98%953%E6%AF%940%E6%A8%AA%E6%89%AB%E5%AF%B9%E6%89%8B%E5%A4%BA%E5%86%A0&sa=fyb_news"
+      "url": "https://m.baidu.com/s?word=%E2%80%9C%E4%B8%BA%E8%AE%A9%E5%9B%BD%E8%B6%B3%E8%BF%9B%E4%B8%96%E7%95%8C%E6%9D%AF+FIFA%E4%B8%BB%E5%B8%AD%E6%8B%BC%E4%BA%86%E2%80%9D&sa=fyb_news"
     },
     {
-      "id": "evt-de000000",
-      "title": "如何看待部分社区认为 DeepSeek-V4 的灰度测试是路由 Claude Fable 、 Opus 等模型？",
+      "id": "evt-openai00",
+      "title": "如何看待 OpenAI 战略未来负责人对 kimi k3 开源的公开发言？",
       "category": "society",
       "hotScore": 0.6,
       "freshness": 0.9999,
@@ -280,7 +286,7 @@
     },
     {
       "id": "evt-71900000",
-      "title": "如何评价 7 月 19 日上线的阿里 Qwen 3.8 Max Preview 模型？其性能如何？",
+      "title": "7 月 19 日苏州、杭州、上海等地遭遇大暴雨，你那儿雨下得大吗？出行和生活有没有受到影响？",
       "category": "society",
       "hotScore": 0.525,
       "freshness": 0.9999,
