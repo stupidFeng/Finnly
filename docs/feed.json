@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-07-19T11:03:53.271Z",
+  "generatedAt": "2026-07-19T12:53:37.315Z",
   "fields": {
     "society": "社会",
     "economy": "经济",
@@ -11,44 +11,25 @@
       "title": "上海暴雨如注",
       "category": "society",
       "hotScore": 0.85,
-      "freshness": 1,
+      "freshness": 0.9999,
       "crossSource": 1,
       "totalScore": 0.94,
       "sources": [
         {
           "channel": "toutiao",
           "rank": 1,
-          "hot": 34025107,
+          "hot": 26328935,
           "url": "https://www.toutiao.com/trending/7663750963165056575/"
         },
         {
           "channel": "baidu",
-          "rank": 2,
+          "rank": 5,
           "hot": 0,
           "url": "https://m.baidu.com/s?word=%E4%B8%8A%E6%B5%B7%E6%9A%B4%E9%9B%A8%E5%A6%82%E6%B3%A8&sa=fyb_news"
         }
       ],
       "summary": "",
       "url": "https://www.toutiao.com/trending/7663750963165056575/"
-    },
-    {
-      "id": "evt-40000000",
-      "title": "俄40分钟内向基辅发射约40枚弹道导弹",
-      "category": "society",
-      "hotScore": 0.8075,
-      "freshness": 1,
-      "crossSource": 0.6309,
-      "totalScore": 0.8123,
-      "sources": [
-        {
-          "channel": "toutiao",
-          "rank": 2,
-          "hot": 30787190,
-          "url": "https://www.toutiao.com/trending/7664150368548814891/"
-        }
-      ],
-      "summary": "",
-      "url": "https://www.toutiao.com/trending/7664150368548814891/"
     },
     {
       "id": "evt-64000000",
@@ -70,42 +51,42 @@
       "url": "https://www.thepaper.cn/newsDetail_forward_33615053"
     },
     {
-      "id": "evt-20000000",
-      "title": "于东来建议每年新增 20 至 40 天带薪年假，严格执行每周 40 小时工作制，怎样看待他的用工理念？",
+      "id": "evt-10000000",
+      "title": "全国已建成高质量数据集12万个",
       "category": "society",
-      "hotScore": 0.75,
+      "hotScore": 0.765,
       "freshness": 0.9999,
       "crossSource": 0.6309,
-      "totalScore": 0.7893,
+      "totalScore": 0.7953,
       "sources": [
         {
-          "channel": "zhihu",
-          "rank": 1,
-          "hot": 0,
-          "url": ""
+          "channel": "toutiao",
+          "rank": 3,
+          "hot": 21556309,
+          "url": "https://www.toutiao.com/trending/7663394977615642633/"
         }
       ],
       "summary": "",
-      "url": ""
+      "url": "https://www.toutiao.com/trending/7663394977615642633/"
     },
     {
-      "id": "evt-10000000",
-      "title": "中芯国际与嘉楠科技合作14nm矿机芯片，知情人士：能否量产要看行情",
-      "category": "economy",
-      "hotScore": 0.9,
+      "id": "evt-30000000",
+      "title": "马龙许昕3比0横扫对手夺冠",
+      "category": "society",
+      "hotScore": 0.76,
       "freshness": 1,
       "crossSource": 0.6309,
-      "totalScore": 0.8493,
+      "totalScore": 0.7933,
       "sources": [
         {
-          "channel": "36kr",
-          "rank": 1,
+          "channel": "baidu",
+          "rank": 2,
           "hot": 0,
-          "url": ""
+          "url": "https://m.baidu.com/s?word=%E9%A9%AC%E9%BE%99%E8%AE%B8%E6%98%953%E6%AF%940%E6%A8%AA%E6%89%AB%E5%AF%B9%E6%89%8B%E5%A4%BA%E5%86%A0&sa=fyb_news"
         }
       ],
-      "summary": "有消息称，中芯国际与嘉楠科技合作的14nm矿机芯片已完成测试，将在今年二季度量产出货。对此，知情人士称，双方合作始于2019年年底，但能否量产要看行情。据悉，中芯国际数次尝试进入矿机行业，但受行情拖累一直未有实质进展。（财联社）",
-      "url": ""
+      "summary": "",
+      "url": "https://m.baidu.com/s?word=%E9%A9%AC%E9%BE%99%E8%AE%B8%E6%98%953%E6%AF%940%E6%A8%AA%E6%89%AB%E5%AF%B9%E6%89%8B%E5%A4%BA%E5%86%A0&sa=fyb_news"
     },
     {
       "id": "evt-5g000000",
@@ -146,25 +127,6 @@
       "url": ""
     },
     {
-      "id": "evt-50000000",
-      "title": "5个关键词 一文读懂中国经济半年报",
-      "category": "economy",
-      "hotScore": 0.68,
-      "freshness": 1,
-      "crossSource": 0.6309,
-      "totalScore": 0.7613,
-      "sources": [
-        {
-          "channel": "baidu",
-          "rank": 4,
-          "hot": 0,
-          "url": "https://m.baidu.com/s?word=5%E4%B8%AA%E5%85%B3%E9%94%AE%E8%AF%8D+%E4%B8%80%E6%96%87%E8%AF%BB%E6%87%82%E4%B8%AD%E5%9B%BD%E7%BB%8F%E6%B5%8E%E5%8D%8A%E5%B9%B4%E6%8A%A5&sa=fyb_news"
-        }
-      ],
-      "summary": "",
-      "url": "https://m.baidu.com/s?word=5%E4%B8%AA%E5%85%B3%E9%94%AE%E8%AF%8D+%E4%B8%80%E6%96%87%E8%AF%BB%E6%87%82%E4%B8%AD%E5%9B%BD%E7%BB%8F%E6%B5%8E%E5%8D%8A%E5%B9%B4%E6%8A%A5&sa=fyb_news"
-    },
-    {
       "id": "evt-66000000",
       "title": "66岁演员王侃因病去逝，系牛犇次子",
       "category": "entertainment",
@@ -184,8 +146,27 @@
       "url": "https://www.thepaper.cn/newsDetail_forward_33615735"
     },
     {
-      "id": "evt-46000000",
-      "title": "法国 4-6 英格兰这场比赛算是诚信互刷吗？你怎么看？",
+      "id": "evt-20000000",
+      "title": "于东来建议每年新增 20 至 40 天带薪年假，严格执行每周 40 小时工作制，怎样看待他的用工理念？",
+      "category": "society",
+      "hotScore": 0.75,
+      "freshness": 0.9999,
+      "crossSource": 0.6309,
+      "totalScore": 0.7893,
+      "sources": [
+        {
+          "channel": "zhihu",
+          "rank": 1,
+          "hot": 0,
+          "url": ""
+        }
+      ],
+      "summary": "",
+      "url": ""
+    },
+    {
+      "id": "evt-v0000000",
+      "title": "美加墨世界杯决赛，西班牙 vs 阿根廷，你更看好哪支球队？决胜的关键是什么？",
       "category": "society",
       "hotScore": 0.7125,
       "freshness": 0.9999,
@@ -195,6 +176,44 @@
         {
           "channel": "zhihu",
           "rank": 2,
+          "hot": 0,
+          "url": ""
+        }
+      ],
+      "summary": "",
+      "url": ""
+    },
+    {
+      "id": "evt-kimik3ai",
+      "title": "Kimi K3让全球AI圈炸锅了",
+      "category": "society",
+      "hotScore": 0.68,
+      "freshness": 0.9999,
+      "crossSource": 0.6309,
+      "totalScore": 0.7613,
+      "sources": [
+        {
+          "channel": "toutiao",
+          "rank": 5,
+          "hot": 17648813,
+          "url": "https://www.toutiao.com/trending/7664192249667784198/"
+        }
+      ],
+      "summary": "",
+      "url": "https://www.toutiao.com/trending/7664192249667784198/"
+    },
+    {
+      "id": "evt-80000000",
+      "title": "宜家集中出售 8 座商场，已全面清空，其中 7 家商场今年关停，如何看待宜家此次大规模资产处置？",
+      "category": "society",
+      "hotScore": 0.675,
+      "freshness": 0.9999,
+      "crossSource": 0.6309,
+      "totalScore": 0.7593,
+      "sources": [
+        {
+          "channel": "zhihu",
+          "rank": 3,
           "hot": 0,
           "url": ""
         }
@@ -222,61 +241,42 @@
       "url": ""
     },
     {
-      "id": "evt-v0000000",
-      "title": "美加墨世界杯决赛，西班牙 vs 阿根廷，你更看好哪支球队？决胜的关键是什么？",
+      "id": "evt-40000000",
+      "title": "俄40分钟内向基辅发射约40枚弹道导弹",
       "category": "society",
-      "hotScore": 0.6,
+      "hotScore": 0.595,
       "freshness": 0.9999,
       "crossSource": 0.6309,
-      "totalScore": 0.7293,
+      "totalScore": 0.7273,
       "sources": [
         {
-          "channel": "zhihu",
-          "rank": 5,
-          "hot": 0,
-          "url": ""
+          "channel": "toutiao",
+          "rank": 7,
+          "hot": 14449626,
+          "url": "https://www.toutiao.com/trending/7664150368548814891/"
         }
       ],
       "summary": "",
-      "url": ""
+      "url": "https://www.toutiao.com/trending/7664150368548814891/"
     },
     {
-      "id": "evt-80000000",
-      "title": "宜家集中出售 8 座商场，已全面清空，其中 7 家商场今年关停，如何看待宜家此次大规模资产处置？",
+      "id": "evt-fifa0000",
+      "title": "如何评价 FIFA 主席说可以中美合办世界杯？这是玩笑还是有所考量？",
       "category": "society",
-      "hotScore": 0.5625,
+      "hotScore": 0.525,
       "freshness": 0.9999,
       "crossSource": 0.6309,
-      "totalScore": 0.7143,
+      "totalScore": 0.6993,
       "sources": [
         {
           "channel": "zhihu",
-          "rank": 6,
-          "hot": 0,
-          "url": ""
-        }
-      ],
-      "summary": "",
-      "url": ""
-    },
-    {
-      "id": "evt-vs000000",
-      "title": "坏了坏了这下好了vs好了好了这下坏了",
-      "category": "society",
-      "hotScore": 0.56,
-      "freshness": 1,
-      "crossSource": 0.6309,
-      "totalScore": 0.7133,
-      "sources": [
-        {
-          "channel": "baidu",
           "rank": 7,
           "hot": 0,
-          "url": "https://m.baidu.com/s?word=%E5%9D%8F%E4%BA%86%E5%9D%8F%E4%BA%86%E8%BF%99%E4%B8%8B%E5%A5%BD%E4%BA%86vs%E5%A5%BD%E4%BA%86%E5%A5%BD%E4%BA%86%E8%BF%99%E4%B8%8B%E5%9D%8F%E4%BA%86&sa=fyb_news"
+          "url": ""
         }
       ],
       "summary": "",
-      "url": "https://m.baidu.com/s?word=%E5%9D%8F%E4%BA%86%E5%9D%8F%E4%BA%86%E8%BF%99%E4%B8%8B%E5%A5%BD%E4%BA%86vs%E5%A5%BD%E4%BA%86%E5%A5%BD%E4%BA%86%E8%BF%99%E4%B8%8B%E5%9D%8F%E4%BA%86&sa=fyb_news"
+      "url": ""
     }
   ]
 }
