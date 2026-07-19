@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-07-19T09:50:13.755Z",
+  "generatedAt": "2026-07-19T11:03:53.271Z",
   "fields": {
     "society": "社会",
     "economy": "经济",
@@ -8,22 +8,47 @@
   "feed": [
     {
       "id": "evt-00000000",
-      "title": "官方调查女子就餐遭服务员传话“黄总请你去包厢”：系误会已和解，涉事餐厅停业",
+      "title": "上海暴雨如注",
       "category": "society",
       "hotScore": 0.85,
       "freshness": 1,
-      "crossSource": 0.6309,
-      "totalScore": 0.8293,
+      "crossSource": 1,
+      "totalScore": 0.94,
       "sources": [
         {
-          "channel": "thepaper",
+          "channel": "toutiao",
           "rank": 1,
+          "hot": 34025107,
+          "url": "https://www.toutiao.com/trending/7663750963165056575/"
+        },
+        {
+          "channel": "baidu",
+          "rank": 2,
           "hot": 0,
-          "url": "https://www.thepaper.cn/newsDetail_forward_33614643"
+          "url": "https://m.baidu.com/s?word=%E4%B8%8A%E6%B5%B7%E6%9A%B4%E9%9B%A8%E5%A6%82%E6%B3%A8&sa=fyb_news"
         }
       ],
       "summary": "",
-      "url": "https://www.thepaper.cn/newsDetail_forward_33614643"
+      "url": "https://www.toutiao.com/trending/7663750963165056575/"
+    },
+    {
+      "id": "evt-40000000",
+      "title": "俄40分钟内向基辅发射约40枚弹道导弹",
+      "category": "society",
+      "hotScore": 0.8075,
+      "freshness": 1,
+      "crossSource": 0.6309,
+      "totalScore": 0.8123,
+      "sources": [
+        {
+          "channel": "toutiao",
+          "rank": 2,
+          "hot": 30787190,
+          "url": "https://www.toutiao.com/trending/7664150368548814891/"
+        }
+      ],
+      "summary": "",
+      "url": "https://www.toutiao.com/trending/7664150368548814891/"
     },
     {
       "id": "evt-64000000",
@@ -51,30 +76,11 @@
       "hotScore": 0.75,
       "freshness": 0.9999,
       "crossSource": 0.6309,
-      "totalScore": 0.7892,
+      "totalScore": 0.7893,
       "sources": [
         {
           "channel": "zhihu",
           "rank": 1,
-          "hot": 0,
-          "url": ""
-        }
-      ],
-      "summary": "",
-      "url": ""
-    },
-    {
-      "id": "evt-21000000",
-      "title": "姆巴佩 2 射 1 传成历史射手王，一战刷爆 14 大纪录，如何评价他在世界杯季军赛的表现？",
-      "category": "society",
-      "hotScore": 0.7125,
-      "freshness": 0.9999,
-      "crossSource": 0.6309,
-      "totalScore": 0.7742,
-      "sources": [
-        {
-          "channel": "zhihu",
-          "rank": 2,
           "hot": 0,
           "url": ""
         }
@@ -140,23 +146,23 @@
       "url": ""
     },
     {
-      "id": "evt-85129000",
-      "title": "85岁浙商12.9亿卖掉自家上市公司",
+      "id": "evt-50000000",
+      "title": "5个关键词 一文读懂中国经济半年报",
       "category": "economy",
-      "hotScore": 0.7225,
-      "freshness": 0.9999,
+      "hotScore": 0.68,
+      "freshness": 1,
       "crossSource": 0.6309,
-      "totalScore": 0.7782,
+      "totalScore": 0.7613,
       "sources": [
         {
-          "channel": "toutiao",
+          "channel": "baidu",
           "rank": 4,
-          "hot": 24053069,
-          "url": "https://www.toutiao.com/trending/7663290181172166675/"
+          "hot": 0,
+          "url": "https://m.baidu.com/s?word=5%E4%B8%AA%E5%85%B3%E9%94%AE%E8%AF%8D+%E4%B8%80%E6%96%87%E8%AF%BB%E6%87%82%E4%B8%AD%E5%9B%BD%E7%BB%8F%E6%B5%8E%E5%8D%8A%E5%B9%B4%E6%8A%A5&sa=fyb_news"
         }
       ],
       "summary": "",
-      "url": "https://www.toutiao.com/trending/7663290181172166675/"
+      "url": "https://m.baidu.com/s?word=5%E4%B8%AA%E5%85%B3%E9%94%AE%E8%AF%8D+%E4%B8%80%E6%96%87%E8%AF%BB%E6%87%82%E4%B8%AD%E5%9B%BD%E7%BB%8F%E6%B5%8E%E5%8D%8A%E5%B9%B4%E6%8A%A5&sa=fyb_news"
     },
     {
       "id": "evt-66000000",
@@ -178,61 +184,23 @@
       "url": "https://www.thepaper.cn/newsDetail_forward_33615735"
     },
     {
-      "id": "evt-50000000",
-      "title": "5个关键词 一文读懂中国经济半年报",
-      "category": "economy",
-      "hotScore": 0.68,
-      "freshness": 0.9999,
-      "crossSource": 0.6309,
-      "totalScore": 0.7613,
-      "sources": [
-        {
-          "channel": "baidu",
-          "rank": 4,
-          "hot": 0,
-          "url": "https://m.baidu.com/s?word=5%E4%B8%AA%E5%85%B3%E9%94%AE%E8%AF%8D+%E4%B8%80%E6%96%87%E8%AF%BB%E6%87%82%E4%B8%AD%E5%9B%BD%E7%BB%8F%E6%B5%8E%E5%8D%8A%E5%B9%B4%E6%8A%A5&sa=fyb_news"
-        }
-      ],
-      "summary": "",
-      "url": "https://m.baidu.com/s?word=5%E4%B8%AA%E5%85%B3%E9%94%AE%E8%AF%8D+%E4%B8%80%E6%96%87%E8%AF%BB%E6%87%82%E4%B8%AD%E5%9B%BD%E7%BB%8F%E6%B5%8E%E5%8D%8A%E5%B9%B4%E6%8A%A5&sa=fyb_news"
-    },
-    {
       "id": "evt-46000000",
       "title": "法国 4-6 英格兰这场比赛算是诚信互刷吗？你怎么看？",
       "category": "society",
-      "hotScore": 0.675,
+      "hotScore": 0.7125,
       "freshness": 0.9999,
       "crossSource": 0.6309,
-      "totalScore": 0.7592,
+      "totalScore": 0.7743,
       "sources": [
         {
           "channel": "zhihu",
-          "rank": 3,
+          "rank": 2,
           "hot": 0,
           "url": ""
         }
       ],
       "summary": "",
       "url": ""
-    },
-    {
-      "id": "evt-61200000",
-      "title": "爸爸每月砸6千给12岁女儿打生长激素",
-      "category": "society",
-      "hotScore": 0.64,
-      "freshness": 0.9999,
-      "crossSource": 0.6309,
-      "totalScore": 0.7453,
-      "sources": [
-        {
-          "channel": "baidu",
-          "rank": 5,
-          "hot": 0,
-          "url": "https://m.baidu.com/s?word=%E7%88%B8%E7%88%B8%E6%AF%8F%E6%9C%88%E7%A0%B86%E5%8D%83%E7%BB%9912%E5%B2%81%E5%A5%B3%E5%84%BF%E6%89%93%E7%94%9F%E9%95%BF%E6%BF%80%E7%B4%A0&sa=fyb_news"
-        }
-      ],
-      "summary": "",
-      "url": "https://m.baidu.com/s?word=%E7%88%B8%E7%88%B8%E6%AF%8F%E6%9C%88%E7%A0%B86%E5%8D%83%E7%BB%9912%E5%B2%81%E5%A5%B3%E5%84%BF%E6%89%93%E7%94%9F%E9%95%BF%E6%BF%80%E7%B4%A0&sa=fyb_news"
     },
     {
       "id": "evt-3d000000",
@@ -254,8 +222,8 @@
       "url": ""
     },
     {
-      "id": "evt-vs000000",
-      "title": "坏了坏了这下好了vs好了好了这下坏了",
+      "id": "evt-v0000000",
+      "title": "美加墨世界杯决赛，西班牙 vs 阿根廷，你更看好哪支球队？决胜的关键是什么？",
       "category": "society",
       "hotScore": 0.6,
       "freshness": 0.9999,
@@ -263,23 +231,23 @@
       "totalScore": 0.7293,
       "sources": [
         {
-          "channel": "baidu",
-          "rank": 6,
+          "channel": "zhihu",
+          "rank": 5,
           "hot": 0,
-          "url": "https://m.baidu.com/s?word=%E5%9D%8F%E4%BA%86%E5%9D%8F%E4%BA%86%E8%BF%99%E4%B8%8B%E5%A5%BD%E4%BA%86vs%E5%A5%BD%E4%BA%86%E5%A5%BD%E4%BA%86%E8%BF%99%E4%B8%8B%E5%9D%8F%E4%BA%86&sa=fyb_news"
+          "url": ""
         }
       ],
       "summary": "",
-      "url": "https://m.baidu.com/s?word=%E5%9D%8F%E4%BA%86%E5%9D%8F%E4%BA%86%E8%BF%99%E4%B8%8B%E5%A5%BD%E4%BA%86vs%E5%A5%BD%E4%BA%86%E5%A5%BD%E4%BA%86%E8%BF%99%E4%B8%8B%E5%9D%8F%E4%BA%86&sa=fyb_news"
+      "url": ""
     },
     {
-      "id": "evt-v0000000",
-      "title": "美加墨世界杯决赛，西班牙 vs 阿根廷，你更看好哪支球队？决胜的关键是什么？",
+      "id": "evt-80000000",
+      "title": "宜家集中出售 8 座商场，已全面清空，其中 7 家商场今年关停，如何看待宜家此次大规模资产处置？",
       "category": "society",
       "hotScore": 0.5625,
       "freshness": 0.9999,
       "crossSource": 0.6309,
-      "totalScore": 0.7142,
+      "totalScore": 0.7143,
       "sources": [
         {
           "channel": "zhihu",
@@ -290,6 +258,25 @@
       ],
       "summary": "",
       "url": ""
+    },
+    {
+      "id": "evt-vs000000",
+      "title": "坏了坏了这下好了vs好了好了这下坏了",
+      "category": "society",
+      "hotScore": 0.56,
+      "freshness": 1,
+      "crossSource": 0.6309,
+      "totalScore": 0.7133,
+      "sources": [
+        {
+          "channel": "baidu",
+          "rank": 7,
+          "hot": 0,
+          "url": "https://m.baidu.com/s?word=%E5%9D%8F%E4%BA%86%E5%9D%8F%E4%BA%86%E8%BF%99%E4%B8%8B%E5%A5%BD%E4%BA%86vs%E5%A5%BD%E4%BA%86%E5%A5%BD%E4%BA%86%E8%BF%99%E4%B8%8B%E5%9D%8F%E4%BA%86&sa=fyb_news"
+        }
+      ],
+      "summary": "",
+      "url": "https://m.baidu.com/s?word=%E5%9D%8F%E4%BA%86%E5%9D%8F%E4%BA%86%E8%BF%99%E4%B8%8B%E5%A5%BD%E4%BA%86vs%E5%A5%BD%E4%BA%86%E5%A5%BD%E4%BA%86%E8%BF%99%E4%B8%8B%E5%9D%8F%E4%BA%86&sa=fyb_news"
     }
   ]
 }
