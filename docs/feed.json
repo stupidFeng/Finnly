@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-07-20T08:39:35.838Z",
+  "generatedAt": "2026-07-20T12:08:45.003Z",
   "fields": {
     "society": "社会",
     "economy": "经济",
@@ -8,47 +8,28 @@
   "feed": [
     {
       "id": "evt-00000000",
-      "title": "西班牙夺冠 中国赞助商赢麻了",
-      "category": "society",
-      "hotScore": 0.6,
-      "freshness": 1,
-      "crossSource": 1,
-      "totalScore": 0.84,
-      "sources": [
-        {
-          "channel": "toutiao",
-          "rank": 8,
-          "hot": 31272479,
-          "url": "https://www.toutiao.com/trending/7664435057889755146/"
-        },
-        {
-          "channel": "baidu",
-          "rank": 6,
-          "hot": 0,
-          "url": "https://m.baidu.com/s?word=%E8%A5%BF%E7%8F%AD%E7%89%99%E5%A4%BA%E5%86%A0+%E4%B8%AD%E5%9B%BD%E8%B5%9E%E5%8A%A9%E5%95%86%E8%B5%A2%E9%BA%BB%E4%BA%86&sa=fyb_news"
-        }
-      ],
-      "summary": "",
-      "url": "https://www.toutiao.com/trending/7664435057889755146/"
-    },
-    {
-      "id": "evt-a0000000",
-      "title": "证监会就近期A股波动发声",
+      "title": "中国海警回应菲方攻击中方执法人员",
       "category": "society",
       "hotScore": 0.85,
-      "freshness": 1,
-      "crossSource": 0.6309,
-      "totalScore": 0.8293,
+      "freshness": 0.9999,
+      "crossSource": 1,
+      "totalScore": 0.94,
       "sources": [
         {
           "channel": "toutiao",
           "rank": 1,
-          "hot": 62975040,
-          "url": "https://www.toutiao.com/trending/7664095612945600019/"
+          "hot": 72478805,
+          "url": "https://www.toutiao.com/trending/7664293326816772123/"
+        },
+        {
+          "channel": "baidu",
+          "rank": 16,
+          "hot": 0,
+          "url": "https://m.baidu.com/s?word=%E4%B8%AD%E5%9B%BD%E6%B5%B7%E8%AD%A6%E5%9B%9E%E5%BA%94%E8%8F%B2%E6%96%B9%E6%94%BB%E5%87%BB%E4%B8%AD%E6%96%B9%E6%89%A7%E6%B3%95%E4%BA%BA%E5%91%98&sa=fyb_news"
         }
       ],
       "summary": "",
-      "url": "https://www.toutiao.com/trending/7664095612945600019/"
+      "url": "https://www.toutiao.com/trending/7664293326816772123/"
     },
     {
       "id": "evt-10000000",
@@ -70,30 +51,49 @@
       "url": "https://www.thepaper.cn/newsDetail_forward_33618385"
     },
     {
-      "id": "evt-16000000",
-      "title": "西班牙公主时隔16年再捧大力神杯",
+      "id": "evt-a0000000",
+      "title": "证监会就近期A股波动发声",
       "category": "society",
-      "hotScore": 0.64,
-      "freshness": 1,
+      "hotScore": 0.7225,
+      "freshness": 0.9999,
       "crossSource": 0.6309,
-      "totalScore": 0.7453,
+      "totalScore": 0.7783,
       "sources": [
         {
-          "channel": "baidu",
-          "rank": 5,
-          "hot": 0,
-          "url": "https://m.baidu.com/s?word=%E8%A5%BF%E7%8F%AD%E7%89%99%E5%85%AC%E4%B8%BB%E6%97%B6%E9%9A%9416%E5%B9%B4%E5%86%8D%E6%8D%A7%E5%A4%A7%E5%8A%9B%E7%A5%9E%E6%9D%AF&sa=fyb_news"
+          "channel": "toutiao",
+          "rank": 4,
+          "hot": 53693619,
+          "url": "https://www.toutiao.com/trending/7664095612945600019/"
         }
       ],
       "summary": "",
-      "url": "https://m.baidu.com/s?word=%E8%A5%BF%E7%8F%AD%E7%89%99%E5%85%AC%E4%B8%BB%E6%97%B6%E9%9A%9416%E5%B9%B4%E5%86%8D%E6%8D%A7%E5%A4%A7%E5%8A%9B%E7%A5%9E%E6%9D%AF&sa=fyb_news"
+      "url": "https://www.toutiao.com/trending/7664095612945600019/"
+    },
+    {
+      "id": "evt-19000000",
+      "title": "19岁亚马尔加冕最年轻双冠王",
+      "category": "society",
+      "hotScore": 0.68,
+      "freshness": 0.9999,
+      "crossSource": 0.6309,
+      "totalScore": 0.7613,
+      "sources": [
+        {
+          "channel": "toutiao",
+          "rank": 5,
+          "hot": 48583996,
+          "url": "https://www.toutiao.com/trending/7664147096018173962/"
+        }
+      ],
+      "summary": "",
+      "url": "https://www.toutiao.com/trending/7664147096018173962/"
     },
     {
       "id": "evt-5g000000",
       "title": "三大运营商年内推出5G消息",
       "category": "economy",
       "hotScore": 0.855,
-      "freshness": 1,
+      "freshness": 0.9999,
       "crossSource": 0.6309,
       "totalScore": 0.8313,
       "sources": [
@@ -112,7 +112,7 @@
       "title": "欧洲在线订餐服务Takeaway.com：外卖订单开始强劲复苏",
       "category": "economy",
       "hotScore": 0.81,
-      "freshness": 1,
+      "freshness": 0.9999,
       "crossSource": 0.6309,
       "totalScore": 0.8133,
       "sources": [
@@ -127,11 +127,49 @@
       "url": ""
     },
     {
+      "id": "evt-30000000",
+      "title": "俄方：3名中国公民在乌军袭击中受伤",
+      "category": "society",
+      "hotScore": 0.6375,
+      "freshness": 0.9999,
+      "crossSource": 0.6309,
+      "totalScore": 0.7443,
+      "sources": [
+        {
+          "channel": "toutiao",
+          "rank": 6,
+          "hot": 43960617,
+          "url": "https://www.toutiao.com/trending/7664528488548728882/"
+        }
+      ],
+      "summary": "",
+      "url": "https://www.toutiao.com/trending/7664528488548728882/"
+    },
+    {
+      "id": "evt-20200000",
+      "title": "西班牙中场罗德里获 2026 世界杯金球奖，怎样评价他在本届比赛中的表现？对于西班牙队有多重要？",
+      "category": "society",
+      "hotScore": 0.6375,
+      "freshness": 0.9999,
+      "crossSource": 0.6309,
+      "totalScore": 0.7443,
+      "sources": [
+        {
+          "channel": "zhihu",
+          "rank": 4,
+          "hot": 0,
+          "url": ""
+        }
+      ],
+      "summary": "",
+      "url": ""
+    },
+    {
       "id": "evt-3d000000",
       "title": "好未来《熊猫博士》3D动画片登陆央视少儿频道",
       "category": "society",
       "hotScore": 0.63,
-      "freshness": 1,
+      "freshness": 0.9999,
       "crossSource": 0.6309,
       "totalScore": 0.7413,
       "sources": [
@@ -146,23 +184,23 @@
       "url": ""
     },
     {
-      "id": "evt-dee00000",
-      "title": "如何看待最近网传的 deep seek v4 正式版灰测？",
+      "id": "evt-31300000",
+      "title": "请3天假休13天 “拼假公式”火了",
       "category": "society",
-      "hotScore": 0.5625,
+      "hotScore": 0.6,
       "freshness": 1,
       "crossSource": 0.6309,
-      "totalScore": 0.7143,
+      "totalScore": 0.7293,
       "sources": [
         {
-          "channel": "zhihu",
+          "channel": "baidu",
           "rank": 6,
           "hot": 0,
-          "url": ""
+          "url": "https://m.baidu.com/s?word=%E8%AF%B73%E5%A4%A9%E5%81%87%E4%BC%9113%E5%A4%A9+%E2%80%9C%E6%8B%BC%E5%81%87%E5%85%AC%E5%BC%8F%E2%80%9D%E7%81%AB%E4%BA%86&sa=fyb_news"
         }
       ],
       "summary": "",
-      "url": ""
+      "url": "https://m.baidu.com/s?word=%E8%AF%B73%E5%A4%A9%E5%81%87%E4%BC%9113%E5%A4%A9+%E2%80%9C%E6%8B%BC%E5%81%87%E5%85%AC%E5%BC%8F%E2%80%9D%E7%81%AB%E4%BA%86&sa=fyb_news"
     },
     {
       "id": "evt-20100000",
@@ -184,11 +222,11 @@
       "url": "https://www.thepaper.cn/newsDetail_forward_33618677"
     },
     {
-      "id": "evt-80000000",
-      "title": "一年超 8 万家面包店关停，超市烘焙区却排长队，面包生意到底好不好做？反映了怎样的消费趋势？",
+      "id": "evt-dee00000",
+      "title": "如何看待最近网传的 DeepSeek v4 正式版灰测？",
       "category": "society",
       "hotScore": 0.525,
-      "freshness": 1,
+      "freshness": 0.9999,
       "crossSource": 0.6309,
       "totalScore": 0.6993,
       "sources": [
@@ -201,25 +239,6 @@
       ],
       "summary": "",
       "url": ""
-    },
-    {
-      "id": "evt-v0000000",
-      "title": "大V：印度对比亚迪的罚单让人看不懂",
-      "category": "society",
-      "hotScore": 0.51,
-      "freshness": 1,
-      "crossSource": 0.6309,
-      "totalScore": 0.6933,
-      "sources": [
-        {
-          "channel": "toutiao",
-          "rank": 9,
-          "hot": 28296509,
-          "url": "https://www.toutiao.com/trending/7664200227384999962/"
-        }
-      ],
-      "summary": "",
-      "url": "https://www.toutiao.com/trending/7664200227384999962/"
     }
   ]
 }
