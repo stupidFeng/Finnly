@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-07-20T21:00:46.548Z",
+  "generatedAt": "2026-07-20T22:45:53.286Z",
   "fields": {
     "society": "社会",
     "economy": "经济",
@@ -18,7 +18,7 @@
         {
           "channel": "toutiao",
           "rank": 2,
-          "hot": 88047048,
+          "hot": 94466635,
           "url": "https://www.toutiao.com/trending/7664537447249936410/"
         },
         {
@@ -32,25 +32,6 @@
       "url": "https://www.toutiao.com/trending/7664537447249936410/"
     },
     {
-      "id": "evt-10000000",
-      "title": "费兰·托雷斯加时破门！1比0力克阿根廷，西班牙世界杯夺冠",
-      "category": "society",
-      "hotScore": 0.85,
-      "freshness": 1,
-      "crossSource": 0.6309,
-      "totalScore": 0.8293,
-      "sources": [
-        {
-          "channel": "thepaper",
-          "rank": 1,
-          "hot": 0,
-          "url": "https://www.thepaper.cn/newsDetail_forward_33618385"
-        }
-      ],
-      "summary": "",
-      "url": "https://www.thepaper.cn/newsDetail_forward_33618385"
-    },
-    {
       "id": "evt-20000000",
       "title": "媒体：西班牙夺冠夜全国2死80伤",
       "category": "society",
@@ -62,7 +43,7 @@
         {
           "channel": "toutiao",
           "rank": 4,
-          "hot": 72086826,
+          "hot": 77342739,
           "url": "https://www.toutiao.com/trending/7664368086972006443/"
         }
       ],
@@ -70,8 +51,27 @@
       "url": "https://www.toutiao.com/trending/7664368086972006443/"
     },
     {
-      "id": "evt-60000000",
-      "title": "美6艘巡逻舰“现身”南海意欲何为",
+      "id": "evt-20100000",
+      "title": "西班牙复刻2010，但燃尽的阿根廷同样值得尊敬",
+      "category": "society",
+      "hotScore": 0.7225,
+      "freshness": 1,
+      "crossSource": 0.6309,
+      "totalScore": 0.7783,
+      "sources": [
+        {
+          "channel": "thepaper",
+          "rank": 4,
+          "hot": 0,
+          "url": "https://www.thepaper.cn/newsDetail_forward_33618677"
+        }
+      ],
+      "summary": "",
+      "url": "https://www.thepaper.cn/newsDetail_forward_33618677"
+    },
+    {
+      "id": "evt-ai2026waic",
+      "title": "AI观察｜2026WAIC上风很大的“Token工厂”已是“红海”？",
       "category": "society",
       "hotScore": 0.68,
       "freshness": 1,
@@ -79,14 +79,33 @@
       "totalScore": 0.7613,
       "sources": [
         {
-          "channel": "toutiao",
+          "channel": "thepaper",
           "rank": 5,
-          "hot": 65226857,
-          "url": "https://www.toutiao.com/trending/7664092589448904723/"
+          "hot": 0,
+          "url": "https://www.thepaper.cn/newsDetail_forward_33616683"
         }
       ],
       "summary": "",
-      "url": "https://www.toutiao.com/trending/7664092589448904723/"
+      "url": "https://www.thepaper.cn/newsDetail_forward_33616683"
+    },
+    {
+      "id": "evt-10000000",
+      "title": "中芯国际与嘉楠科技合作14nm矿机芯片，知情人士：能否量产要看行情",
+      "category": "economy",
+      "hotScore": 0.9,
+      "freshness": 1,
+      "crossSource": 0.6309,
+      "totalScore": 0.8493,
+      "sources": [
+        {
+          "channel": "36kr",
+          "rank": 1,
+          "hot": 0,
+          "url": ""
+        }
+      ],
+      "summary": "有消息称，中芯国际与嘉楠科技合作的14nm矿机芯片已完成测试，将在今年二季度量产出货。对此，知情人士称，双方合作始于2019年年底，但能否量产要看行情。据悉，中芯国际数次尝试进入矿机行业，但受行情拖累一直未有实质进展。（财联社）",
+      "url": ""
     },
     {
       "id": "evt-5g000000",
@@ -127,25 +146,6 @@
       "url": ""
     },
     {
-      "id": "evt-20100000",
-      "title": "西班牙复刻2010，但燃尽的阿根廷同样值得尊敬",
-      "category": "society",
-      "hotScore": 0.68,
-      "freshness": 1,
-      "crossSource": 0.6309,
-      "totalScore": 0.7613,
-      "sources": [
-        {
-          "channel": "thepaper",
-          "rank": 5,
-          "hot": 0,
-          "url": "https://www.thepaper.cn/newsDetail_forward_33618677"
-        }
-      ],
-      "summary": "",
-      "url": "https://www.thepaper.cn/newsDetail_forward_33618677"
-    },
-    {
       "id": "evt-46000000",
       "title": "月租4600元的酒店谁在住",
       "category": "society",
@@ -157,12 +157,31 @@
         {
           "channel": "toutiao",
           "rank": 6,
-          "hot": 59019701,
+          "hot": 63322879,
           "url": "https://www.toutiao.com/trending/7664552376119856703/"
         }
       ],
       "summary": "",
       "url": "https://www.toutiao.com/trending/7664552376119856703/"
+    },
+    {
+      "id": "evt-deep0000",
+      "title": "为什么豆包没有被 DeepSeek「斩杀」？",
+      "category": "society",
+      "hotScore": 0.6375,
+      "freshness": 1,
+      "crossSource": 0.6309,
+      "totalScore": 0.7443,
+      "sources": [
+        {
+          "channel": "zhihu",
+          "rank": 4,
+          "hot": 0,
+          "url": ""
+        }
+      ],
+      "summary": "",
+      "url": ""
     },
     {
       "id": "evt-3d000000",
@@ -184,27 +203,8 @@
       "url": ""
     },
     {
-      "id": "evt-ai2026waic",
-      "title": "AI观察｜2026WAIC上风很大的“Token工厂”已是“红海”？",
-      "category": "society",
-      "hotScore": 0.595,
-      "freshness": 1,
-      "crossSource": 0.6309,
-      "totalScore": 0.7273,
-      "sources": [
-        {
-          "channel": "thepaper",
-          "rank": 7,
-          "hot": 0,
-          "url": "https://www.thepaper.cn/newsDetail_forward_33616683"
-        }
-      ],
-      "summary": "",
-      "url": "https://www.thepaper.cn/newsDetail_forward_33616683"
-    },
-    {
-      "id": "evt-deep0000",
-      "title": "为什么豆包没有被 DeepSeek「斩杀」？",
+      "id": "evt-19000000",
+      "title": "19 岁亚马尔本届世界杯一进球、一造点，怎样评价他的表现？已包揽欧洲杯 + 世界杯冠军，他的上限在哪？",
       "category": "society",
       "hotScore": 0.5625,
       "freshness": 1,
@@ -239,6 +239,25 @@
       ],
       "summary": "",
       "url": "https://m.baidu.com/s?word=%E8%B0%A2%E8%B4%A4%E6%9B%BE%E6%98%8F%E8%BF%B7%E8%BF%9BICU%E5%BC%BA%E6%92%91%E5%88%B0%E8%B0%A2%E9%9C%86%E9%94%8B%E5%9B%9E%E6%B8%AF&sa=fyb_news"
+    },
+    {
+      "id": "evt-80000000",
+      "title": "三万斤西瓜成本近8000元仅能卖6000元",
+      "category": "society",
+      "hotScore": 0.51,
+      "freshness": 1,
+      "crossSource": 0.6309,
+      "totalScore": 0.6933,
+      "sources": [
+        {
+          "channel": "toutiao",
+          "rank": 9,
+          "hot": 46910743,
+          "url": "https://www.toutiao.com/trending/7663561734464192554/"
+        }
+      ],
+      "summary": "",
+      "url": "https://www.toutiao.com/trending/7663561734464192554/"
     }
   ]
 }
