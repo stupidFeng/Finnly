@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-07-20T15:44:51.833Z",
+  "generatedAt": "2026-07-20T17:25:50.586Z",
   "fields": {
     "society": "社会",
     "economy": "经济",
@@ -8,22 +8,28 @@
   "feed": [
     {
       "id": "evt-00000000",
-      "title": "中国海警回应菲方攻击中方执法人员",
+      "title": "前妻狄波拉双眼红肿回应谢贤离世",
       "category": "society",
-      "hotScore": 0.85,
-      "freshness": 1,
+      "hotScore": 0.8075,
+      "freshness": 0.9999,
       "crossSource": 1,
-      "totalScore": 0.94,
+      "totalScore": 0.923,
       "sources": [
         {
           "channel": "toutiao",
-          "rank": 1,
-          "hot": 85382263,
-          "url": "https://www.toutiao.com/trending/7664293326816772123/"
+          "rank": 2,
+          "hot": 83210196,
+          "url": "https://www.toutiao.com/trending/7664537447249936410/"
+        },
+        {
+          "channel": "baidu",
+          "rank": 3,
+          "hot": 0,
+          "url": "https://m.baidu.com/s?word=%E5%89%8D%E5%A6%BB%E7%8B%84%E6%B3%A2%E6%8B%89%E5%8F%8C%E7%9C%BC%E7%BA%A2%E8%82%BF%E5%9B%9E%E5%BA%94%E8%B0%A2%E8%B4%A4%E7%A6%BB%E4%B8%96&sa=fyb_news"
         }
       ],
       "summary": "",
-      "url": "https://www.toutiao.com/trending/7664293326816772123/"
+      "url": "https://www.toutiao.com/trending/7664537447249936410/"
     },
     {
       "id": "evt-10000000",
@@ -31,8 +37,8 @@
       "category": "society",
       "hotScore": 0.85,
       "freshness": 1,
-      "crossSource": 1,
-      "totalScore": 0.94,
+      "crossSource": 0.6309,
+      "totalScore": 0.8293,
       "sources": [
         {
           "channel": "thepaper",
@@ -45,51 +51,57 @@
       "url": "https://www.thepaper.cn/newsDetail_forward_33618385"
     },
     {
-      "id": "evt-3d000000",
-      "title": "好未来《熊猫博士》3D动画片登陆央视少儿频道",
+      "id": "evt-20000000",
+      "title": "媒体：西班牙夺冠夜全国2死80伤",
       "category": "society",
-      "hotScore": 0.63,
-      "freshness": 1,
-      "crossSource": 1,
-      "totalScore": 0.852,
+      "hotScore": 0.7225,
+      "freshness": 0.9999,
+      "crossSource": 0.6309,
+      "totalScore": 0.7783,
       "sources": [
         {
-          "channel": "36kr",
-          "rank": 7,
-          "hot": 0,
-          "url": ""
-        }
-      ],
-      "summary": "36氪获悉，自4月9日起，中央电视台少儿频道携手好未来旗下教育品牌熊猫博士上线3D系列动画片《熊猫博士》。与此同时，《熊猫博士》3D动画片也在美国、加拿大、俄罗斯、意大利等多个国家、地区陆续发行，并登陆Discovery探索频道等多个世界知名节目。",
-      "url": ""
-    },
-    {
-      "id": "evt-20100000",
-      "title": "西班牙复刻2010，但燃尽的阿根廷同样值得尊敬",
-      "category": "society",
-      "hotScore": 0.595,
-      "freshness": 1,
-      "crossSource": 1,
-      "totalScore": 0.838,
-      "sources": [
-        {
-          "channel": "thepaper",
-          "rank": 7,
-          "hot": 0,
-          "url": "https://www.thepaper.cn/newsDetail_forward_33618677"
+          "channel": "toutiao",
+          "rank": 4,
+          "hot": 68126746,
+          "url": "https://www.toutiao.com/trending/7664368086972006443/"
         }
       ],
       "summary": "",
-      "url": "https://www.thepaper.cn/newsDetail_forward_33618677"
+      "url": "https://www.toutiao.com/trending/7664368086972006443/"
+    },
+    {
+      "id": "evt-80000000",
+      "title": "三万斤西瓜成本近8000元仅能卖6000元",
+      "category": "society",
+      "hotScore": 0.44,
+      "freshness": 0.9999,
+      "crossSource": 1,
+      "totalScore": 0.776,
+      "sources": [
+        {
+          "channel": "toutiao",
+          "rank": 17,
+          "hot": 18566704,
+          "url": "https://www.toutiao.com/trending/7663561734464192554/"
+        },
+        {
+          "channel": "baidu",
+          "rank": 10,
+          "hot": 0,
+          "url": "https://m.baidu.com/s?word=%E4%B8%89%E4%B8%87%E6%96%A4%E8%A5%BF%E7%93%9C%E6%88%90%E6%9C%AC%E8%BF%918000%E5%85%83%E4%BB%85%E8%83%BD%E5%8D%966000%E5%85%83&sa=fyb_news"
+        }
+      ],
+      "summary": "",
+      "url": "https://www.toutiao.com/trending/7663561734464192554/"
     },
     {
       "id": "evt-5g000000",
       "title": "三大运营商年内推出5G消息",
       "category": "economy",
       "hotScore": 0.855,
-      "freshness": 1,
-      "crossSource": 1,
-      "totalScore": 0.942,
+      "freshness": 0.9999,
+      "crossSource": 0.6309,
+      "totalScore": 0.8313,
       "sources": [
         {
           "channel": "36kr",
@@ -106,9 +118,9 @@
       "title": "欧洲在线订餐服务Takeaway.com：外卖订单开始强劲复苏",
       "category": "economy",
       "hotScore": 0.81,
-      "freshness": 1,
-      "crossSource": 1,
-      "totalScore": 0.924,
+      "freshness": 0.9999,
+      "crossSource": 0.6309,
+      "totalScore": 0.8133,
       "sources": [
         {
           "channel": "36kr",
@@ -121,17 +133,74 @@
       "url": ""
     },
     {
-      "id": "evt-ai2026waic",
-      "title": "AI观察｜2026WAIC上风很大的“Token工厂”已是“红海”？",
+      "id": "evt-20100000",
+      "title": "西班牙复刻2010，但燃尽的阿根廷同样值得尊敬",
       "category": "society",
-      "hotScore": 0.5525,
+      "hotScore": 0.68,
       "freshness": 1,
-      "crossSource": 1,
-      "totalScore": 0.821,
+      "crossSource": 0.6309,
+      "totalScore": 0.7613,
       "sources": [
         {
           "channel": "thepaper",
-          "rank": 8,
+          "rank": 5,
+          "hot": 0,
+          "url": "https://www.thepaper.cn/newsDetail_forward_33618677"
+        }
+      ],
+      "summary": "",
+      "url": "https://www.thepaper.cn/newsDetail_forward_33618677"
+    },
+    {
+      "id": "evt-20200000",
+      "title": "西班牙中场罗德里获 2026 世界杯金球奖，怎样评价他在本届比赛中的表现？对于西班牙队有多重要？",
+      "category": "society",
+      "hotScore": 0.6375,
+      "freshness": 0.9999,
+      "crossSource": 0.6309,
+      "totalScore": 0.7443,
+      "sources": [
+        {
+          "channel": "zhihu",
+          "rank": 4,
+          "hot": 0,
+          "url": ""
+        }
+      ],
+      "summary": "",
+      "url": ""
+    },
+    {
+      "id": "evt-3d000000",
+      "title": "好未来《熊猫博士》3D动画片登陆央视少儿频道",
+      "category": "society",
+      "hotScore": 0.63,
+      "freshness": 0.9999,
+      "crossSource": 0.6309,
+      "totalScore": 0.7413,
+      "sources": [
+        {
+          "channel": "36kr",
+          "rank": 7,
+          "hot": 0,
+          "url": ""
+        }
+      ],
+      "summary": "36氪获悉，自4月9日起，中央电视台少儿频道携手好未来旗下教育品牌熊猫博士上线3D系列动画片《熊猫博士》。与此同时，《熊猫博士》3D动画片也在美国、加拿大、俄罗斯、意大利等多个国家、地区陆续发行，并登陆Discovery探索频道等多个世界知名节目。",
+      "url": ""
+    },
+    {
+      "id": "evt-ai2026waic",
+      "title": "AI观察｜2026WAIC上风很大的“Token工厂”已是“红海”？",
+      "category": "society",
+      "hotScore": 0.595,
+      "freshness": 1,
+      "crossSource": 0.6309,
+      "totalScore": 0.7273,
+      "sources": [
+        {
+          "channel": "thepaper",
+          "rank": 7,
           "hot": 0,
           "url": "https://www.thepaper.cn/newsDetail_forward_33616683"
         }
@@ -145,8 +214,8 @@
       "category": "society",
       "hotScore": 0.52,
       "freshness": 1,
-      "crossSource": 1,
-      "totalScore": 0.808,
+      "crossSource": 0.6309,
+      "totalScore": 0.6973,
       "sources": [
         {
           "channel": "baidu",
