@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-07-20T01:58:53.496Z",
+  "generatedAt": "2026-07-20T05:40:00.123Z",
   "fields": {
     "society": "社会",
     "economy": "经济",
@@ -8,85 +8,79 @@
   "feed": [
     {
       "id": "evt-00000000",
-      "title": "西班牙阿根廷赛后打起来了",
-      "category": "society",
-      "hotScore": 0.7225,
-      "freshness": 0.9999,
-      "crossSource": 1,
-      "totalScore": 0.889,
-      "sources": [
-        {
-          "channel": "toutiao",
-          "rank": 4,
-          "hot": 23037009,
-          "url": "https://www.toutiao.com/trending/7663839528063942692/"
-        },
-        {
-          "channel": "baidu",
-          "rank": 13,
-          "hot": 0,
-          "url": "https://m.baidu.com/s?word=%E8%A5%BF%E7%8F%AD%E7%89%99%E9%98%BF%E6%A0%B9%E5%BB%B7%E8%B5%9B%E5%90%8E%E6%89%93%E8%B5%B7%E6%9D%A5%E4%BA%86&sa=fyb_news"
-        }
-      ],
-      "summary": "",
-      "url": "https://www.toutiao.com/trending/7663839528063942692/"
-    },
-    {
-      "id": "evt-16000000",
-      "title": "西班牙时隔16年再夺世界杯冠军",
+      "title": "西班牙夺冠 中国赞助商赢麻了",
       "category": "society",
       "hotScore": 0.85,
-      "freshness": 0.9999,
-      "crossSource": 0.6309,
-      "totalScore": 0.8293,
+      "freshness": 1,
+      "crossSource": 1,
+      "totalScore": 0.94,
       "sources": [
         {
           "channel": "toutiao",
           "rank": 1,
-          "hot": 31096709,
-          "url": "https://www.toutiao.com/trending/7663707421214474276/"
+          "hot": 52331677,
+          "url": "https://www.toutiao.com/trending/7664435057889755146/"
         }
       ],
       "summary": "",
-      "url": "https://www.toutiao.com/trending/7663707421214474276/"
+      "url": "https://www.toutiao.com/trending/7664435057889755146/"
     },
     {
-      "id": "evt-60000000",
-      "title": "两大央企近600亿增持中国股票资产",
+      "id": "evt-50000000",
+      "title": "韩股民从白赚5年薪水到亏光5年存款",
       "category": "society",
       "hotScore": 0.8075,
-      "freshness": 0.9999,
-      "crossSource": 0.6309,
-      "totalScore": 0.8123,
+      "freshness": 1,
+      "crossSource": 1,
+      "totalScore": 0.923,
       "sources": [
         {
           "channel": "toutiao",
           "rank": 2,
-          "hot": 28137466,
-          "url": "https://www.toutiao.com/trending/7664256912476605979/"
+          "hot": 47351659,
+          "url": "https://www.toutiao.com/trending/7663890161311416363/"
         }
       ],
       "summary": "",
-      "url": "https://www.toutiao.com/trending/7664256912476605979/"
+      "url": "https://www.toutiao.com/trending/7663890161311416363/"
     },
     {
-      "id": "evt-10000000",
-      "title": "全国已建成高质量数据集12万个",
+      "id": "evt-20260000",
+      "title": "2026世界人工智能大会硬核瞬间",
       "category": "society",
       "hotScore": 0.765,
-      "freshness": 0.9999,
-      "crossSource": 0.6309,
-      "totalScore": 0.7953,
+      "freshness": 1,
+      "crossSource": 1,
+      "totalScore": 0.906,
       "sources": [
         {
           "channel": "toutiao",
           "rank": 3,
-          "hot": 25459832,
-          "url": "https://www.toutiao.com/trending/7663394977615642633/"
+          "hot": 42845553,
+          "url": "https://www.toutiao.com/trending/7664429615074725403/"
         }
       ],
       "summary": "",
-      "url": "https://www.toutiao.com/trending/7663394977615642633/"
+      "url": "https://www.toutiao.com/trending/7664429615074725403/"
+    },
+    {
+      "id": "evt-10000000",
+      "title": "费兰·托雷斯加时破门！1比0力克阿根廷，西班牙世界杯夺冠",
+      "category": "society",
+      "hotScore": 0.765,
+      "freshness": 1,
+      "crossSource": 1,
+      "totalScore": 0.906,
+      "sources": [
+        {
+          "channel": "thepaper",
+          "rank": 3,
+          "hot": 0,
+          "url": "https://www.thepaper.cn/newsDetail_forward_33618385"
+        }
+      ],
+      "summary": "",
+      "url": "https://www.thepaper.cn/newsDetail_forward_33618385"
     },
     {
       "id": "evt-5g000000",
@@ -94,8 +88,8 @@
       "category": "economy",
       "hotScore": 0.855,
       "freshness": 1,
-      "crossSource": 0.6309,
-      "totalScore": 0.8313,
+      "crossSource": 1,
+      "totalScore": 0.942,
       "sources": [
         {
           "channel": "36kr",
@@ -113,8 +107,8 @@
       "category": "economy",
       "hotScore": 0.81,
       "freshness": 1,
-      "crossSource": 0.6309,
-      "totalScore": 0.8133,
+      "crossSource": 1,
+      "totalScore": 0.924,
       "sources": [
         {
           "channel": "36kr",
@@ -132,8 +126,8 @@
       "category": "entertainment",
       "hotScore": 0.85,
       "freshness": 1,
-      "crossSource": 0.6309,
-      "totalScore": 0.8293,
+      "crossSource": 1,
+      "totalScore": 0.94,
       "sources": [
         {
           "channel": "thepaper",
@@ -146,51 +140,13 @@
       "url": "https://www.thepaper.cn/newsDetail_forward_33615735"
     },
     {
-      "id": "evt-20303000",
-      "title": "2030年世界杯3国举办6国办赛",
-      "category": "society",
-      "hotScore": 0.72,
-      "freshness": 1,
-      "crossSource": 0.6309,
-      "totalScore": 0.7773,
-      "sources": [
-        {
-          "channel": "baidu",
-          "rank": 3,
-          "hot": 0,
-          "url": "https://m.baidu.com/s?word=2030%E5%B9%B4%E4%B8%96%E7%95%8C%E6%9D%AF3%E5%9B%BD%E4%B8%BE%E5%8A%9E6%E5%9B%BD%E5%8A%9E%E8%B5%9B&sa=fyb_news"
-        }
-      ],
-      "summary": "",
-      "url": "https://m.baidu.com/s?word=2030%E5%B9%B4%E4%B8%96%E7%95%8C%E6%9D%AF3%E5%9B%BD%E4%B8%BE%E5%8A%9E6%E5%9B%BD%E5%8A%9E%E8%B5%9B&sa=fyb_news"
-    },
-    {
-      "id": "evt-20260000",
-      "title": "2026 年世界杯决赛，恩佐下半场两黄变一红被罚下，对此你怎么看？这是本场比赛的转折点吗？",
-      "category": "society",
-      "hotScore": 0.7125,
-      "freshness": 0.9999,
-      "crossSource": 0.6309,
-      "totalScore": 0.7743,
-      "sources": [
-        {
-          "channel": "zhihu",
-          "rank": 2,
-          "hot": 0,
-          "url": ""
-        }
-      ],
-      "summary": "",
-      "url": ""
-    },
-    {
       "id": "evt-3d000000",
       "title": "好未来《熊猫博士》3D动画片登陆央视少儿频道",
       "category": "society",
       "hotScore": 0.63,
       "freshness": 1,
-      "crossSource": 0.6309,
-      "totalScore": 0.7413,
+      "crossSource": 1,
+      "totalScore": 0.852,
       "sources": [
         {
           "channel": "36kr",
@@ -206,14 +162,14 @@
       "id": "evt-kimi0000",
       "title": "如何看待月之暗面 kimi 在 2026 年 7 月 19 日宣布算力紧张，暂停会员开放？",
       "category": "society",
-      "hotScore": 0.525,
-      "freshness": 0.9999,
-      "crossSource": 0.6309,
-      "totalScore": 0.6993,
+      "hotScore": 0.5625,
+      "freshness": 1,
+      "crossSource": 1,
+      "totalScore": 0.825,
       "sources": [
         {
           "channel": "zhihu",
-          "rank": 7,
+          "rank": 6,
           "hot": 0,
           "url": ""
         }
