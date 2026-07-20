@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-07-20T05:40:00.123Z",
+  "generatedAt": "2026-07-20T08:39:35.838Z",
   "fields": {
     "society": "社会",
     "economy": "经济",
@@ -10,71 +10,58 @@
       "id": "evt-00000000",
       "title": "西班牙夺冠 中国赞助商赢麻了",
       "category": "society",
-      "hotScore": 0.85,
+      "hotScore": 0.6,
       "freshness": 1,
       "crossSource": 1,
-      "totalScore": 0.94,
+      "totalScore": 0.84,
       "sources": [
         {
           "channel": "toutiao",
-          "rank": 1,
-          "hot": 52331677,
+          "rank": 8,
+          "hot": 31272479,
           "url": "https://www.toutiao.com/trending/7664435057889755146/"
+        },
+        {
+          "channel": "baidu",
+          "rank": 6,
+          "hot": 0,
+          "url": "https://m.baidu.com/s?word=%E8%A5%BF%E7%8F%AD%E7%89%99%E5%A4%BA%E5%86%A0+%E4%B8%AD%E5%9B%BD%E8%B5%9E%E5%8A%A9%E5%95%86%E8%B5%A2%E9%BA%BB%E4%BA%86&sa=fyb_news"
         }
       ],
       "summary": "",
       "url": "https://www.toutiao.com/trending/7664435057889755146/"
     },
     {
-      "id": "evt-50000000",
-      "title": "韩股民从白赚5年薪水到亏光5年存款",
+      "id": "evt-a0000000",
+      "title": "证监会就近期A股波动发声",
       "category": "society",
-      "hotScore": 0.8075,
+      "hotScore": 0.85,
       "freshness": 1,
-      "crossSource": 1,
-      "totalScore": 0.923,
+      "crossSource": 0.6309,
+      "totalScore": 0.8293,
       "sources": [
         {
           "channel": "toutiao",
-          "rank": 2,
-          "hot": 47351659,
-          "url": "https://www.toutiao.com/trending/7663890161311416363/"
+          "rank": 1,
+          "hot": 62975040,
+          "url": "https://www.toutiao.com/trending/7664095612945600019/"
         }
       ],
       "summary": "",
-      "url": "https://www.toutiao.com/trending/7663890161311416363/"
-    },
-    {
-      "id": "evt-20260000",
-      "title": "2026世界人工智能大会硬核瞬间",
-      "category": "society",
-      "hotScore": 0.765,
-      "freshness": 1,
-      "crossSource": 1,
-      "totalScore": 0.906,
-      "sources": [
-        {
-          "channel": "toutiao",
-          "rank": 3,
-          "hot": 42845553,
-          "url": "https://www.toutiao.com/trending/7664429615074725403/"
-        }
-      ],
-      "summary": "",
-      "url": "https://www.toutiao.com/trending/7664429615074725403/"
+      "url": "https://www.toutiao.com/trending/7664095612945600019/"
     },
     {
       "id": "evt-10000000",
       "title": "费兰·托雷斯加时破门！1比0力克阿根廷，西班牙世界杯夺冠",
       "category": "society",
-      "hotScore": 0.765,
+      "hotScore": 0.8075,
       "freshness": 1,
-      "crossSource": 1,
-      "totalScore": 0.906,
+      "crossSource": 0.6309,
+      "totalScore": 0.8123,
       "sources": [
         {
           "channel": "thepaper",
-          "rank": 3,
+          "rank": 2,
           "hot": 0,
           "url": "https://www.thepaper.cn/newsDetail_forward_33618385"
         }
@@ -83,13 +70,32 @@
       "url": "https://www.thepaper.cn/newsDetail_forward_33618385"
     },
     {
+      "id": "evt-16000000",
+      "title": "西班牙公主时隔16年再捧大力神杯",
+      "category": "society",
+      "hotScore": 0.64,
+      "freshness": 1,
+      "crossSource": 0.6309,
+      "totalScore": 0.7453,
+      "sources": [
+        {
+          "channel": "baidu",
+          "rank": 5,
+          "hot": 0,
+          "url": "https://m.baidu.com/s?word=%E8%A5%BF%E7%8F%AD%E7%89%99%E5%85%AC%E4%B8%BB%E6%97%B6%E9%9A%9416%E5%B9%B4%E5%86%8D%E6%8D%A7%E5%A4%A7%E5%8A%9B%E7%A5%9E%E6%9D%AF&sa=fyb_news"
+        }
+      ],
+      "summary": "",
+      "url": "https://m.baidu.com/s?word=%E8%A5%BF%E7%8F%AD%E7%89%99%E5%85%AC%E4%B8%BB%E6%97%B6%E9%9A%9416%E5%B9%B4%E5%86%8D%E6%8D%A7%E5%A4%A7%E5%8A%9B%E7%A5%9E%E6%9D%AF&sa=fyb_news"
+    },
+    {
       "id": "evt-5g000000",
       "title": "三大运营商年内推出5G消息",
       "category": "economy",
       "hotScore": 0.855,
       "freshness": 1,
-      "crossSource": 1,
-      "totalScore": 0.942,
+      "crossSource": 0.6309,
+      "totalScore": 0.8313,
       "sources": [
         {
           "channel": "36kr",
@@ -107,8 +113,8 @@
       "category": "economy",
       "hotScore": 0.81,
       "freshness": 1,
-      "crossSource": 1,
-      "totalScore": 0.924,
+      "crossSource": 0.6309,
+      "totalScore": 0.8133,
       "sources": [
         {
           "channel": "36kr",
@@ -121,32 +127,13 @@
       "url": ""
     },
     {
-      "id": "evt-66000000",
-      "title": "66岁演员王侃因病去逝，系牛犇次子",
-      "category": "entertainment",
-      "hotScore": 0.85,
-      "freshness": 1,
-      "crossSource": 1,
-      "totalScore": 0.94,
-      "sources": [
-        {
-          "channel": "thepaper",
-          "rank": 1,
-          "hot": 0,
-          "url": "https://www.thepaper.cn/newsDetail_forward_33615735"
-        }
-      ],
-      "summary": "",
-      "url": "https://www.thepaper.cn/newsDetail_forward_33615735"
-    },
-    {
       "id": "evt-3d000000",
       "title": "好未来《熊猫博士》3D动画片登陆央视少儿频道",
       "category": "society",
       "hotScore": 0.63,
       "freshness": 1,
-      "crossSource": 1,
-      "totalScore": 0.852,
+      "crossSource": 0.6309,
+      "totalScore": 0.7413,
       "sources": [
         {
           "channel": "36kr",
@@ -159,13 +146,13 @@
       "url": ""
     },
     {
-      "id": "evt-kimi0000",
-      "title": "如何看待月之暗面 kimi 在 2026 年 7 月 19 日宣布算力紧张，暂停会员开放？",
+      "id": "evt-dee00000",
+      "title": "如何看待最近网传的 deep seek v4 正式版灰测？",
       "category": "society",
       "hotScore": 0.5625,
       "freshness": 1,
-      "crossSource": 1,
-      "totalScore": 0.825,
+      "crossSource": 0.6309,
+      "totalScore": 0.7143,
       "sources": [
         {
           "channel": "zhihu",
@@ -176,6 +163,63 @@
       ],
       "summary": "",
       "url": ""
+    },
+    {
+      "id": "evt-20100000",
+      "title": "西班牙复刻2010，但燃尽的阿根廷同样值得尊敬",
+      "category": "society",
+      "hotScore": 0.5525,
+      "freshness": 1,
+      "crossSource": 0.6309,
+      "totalScore": 0.7103,
+      "sources": [
+        {
+          "channel": "thepaper",
+          "rank": 8,
+          "hot": 0,
+          "url": "https://www.thepaper.cn/newsDetail_forward_33618677"
+        }
+      ],
+      "summary": "",
+      "url": "https://www.thepaper.cn/newsDetail_forward_33618677"
+    },
+    {
+      "id": "evt-80000000",
+      "title": "一年超 8 万家面包店关停，超市烘焙区却排长队，面包生意到底好不好做？反映了怎样的消费趋势？",
+      "category": "society",
+      "hotScore": 0.525,
+      "freshness": 1,
+      "crossSource": 0.6309,
+      "totalScore": 0.6993,
+      "sources": [
+        {
+          "channel": "zhihu",
+          "rank": 7,
+          "hot": 0,
+          "url": ""
+        }
+      ],
+      "summary": "",
+      "url": ""
+    },
+    {
+      "id": "evt-v0000000",
+      "title": "大V：印度对比亚迪的罚单让人看不懂",
+      "category": "society",
+      "hotScore": 0.51,
+      "freshness": 1,
+      "crossSource": 0.6309,
+      "totalScore": 0.6933,
+      "sources": [
+        {
+          "channel": "toutiao",
+          "rank": 9,
+          "hot": 28296509,
+          "url": "https://www.toutiao.com/trending/7664200227384999962/"
+        }
+      ],
+      "summary": "",
+      "url": "https://www.toutiao.com/trending/7664200227384999962/"
     }
   ]
 }
