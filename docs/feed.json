@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-07-20T19:24:26.637Z",
+  "generatedAt": "2026-07-20T21:00:46.548Z",
   "fields": {
     "society": "社会",
     "economy": "经济",
@@ -18,7 +18,7 @@
         {
           "channel": "toutiao",
           "rank": 2,
-          "hot": 85864496,
+          "hot": 88047048,
           "url": "https://www.toutiao.com/trending/7664537447249936410/"
         },
         {
@@ -62,7 +62,7 @@
         {
           "channel": "toutiao",
           "rank": 4,
-          "hot": 70299903,
+          "hot": 72086826,
           "url": "https://www.toutiao.com/trending/7664368086972006443/"
         }
       ],
@@ -70,8 +70,8 @@
       "url": "https://www.toutiao.com/trending/7664368086972006443/"
     },
     {
-      "id": "evt-20100000",
-      "title": "西班牙复刻2010，但燃尽的阿根廷同样值得尊敬",
+      "id": "evt-60000000",
+      "title": "美6艘巡逻舰“现身”南海意欲何为",
       "category": "society",
       "hotScore": 0.68,
       "freshness": 1,
@@ -79,14 +79,14 @@
       "totalScore": 0.7613,
       "sources": [
         {
-          "channel": "thepaper",
+          "channel": "toutiao",
           "rank": 5,
-          "hot": 0,
-          "url": "https://www.thepaper.cn/newsDetail_forward_33618677"
+          "hot": 65226857,
+          "url": "https://www.toutiao.com/trending/7664092589448904723/"
         }
       ],
       "summary": "",
-      "url": "https://www.thepaper.cn/newsDetail_forward_33618677"
+      "url": "https://www.toutiao.com/trending/7664092589448904723/"
     },
     {
       "id": "evt-5g000000",
@@ -127,23 +127,42 @@
       "url": ""
     },
     {
-      "id": "evt-20200000",
-      "title": "西班牙中场罗德里获 2026 世界杯金球奖，怎样评价他在本届比赛中的表现？对于西班牙队有多重要？",
+      "id": "evt-20100000",
+      "title": "西班牙复刻2010，但燃尽的阿根廷同样值得尊敬",
       "category": "society",
-      "hotScore": 0.675,
+      "hotScore": 0.68,
       "freshness": 1,
       "crossSource": 0.6309,
-      "totalScore": 0.7593,
+      "totalScore": 0.7613,
       "sources": [
         {
-          "channel": "zhihu",
-          "rank": 3,
+          "channel": "thepaper",
+          "rank": 5,
           "hot": 0,
-          "url": ""
+          "url": "https://www.thepaper.cn/newsDetail_forward_33618677"
         }
       ],
       "summary": "",
-      "url": ""
+      "url": "https://www.thepaper.cn/newsDetail_forward_33618677"
+    },
+    {
+      "id": "evt-46000000",
+      "title": "月租4600元的酒店谁在住",
+      "category": "society",
+      "hotScore": 0.6375,
+      "freshness": 1,
+      "crossSource": 0.6309,
+      "totalScore": 0.7443,
+      "sources": [
+        {
+          "channel": "toutiao",
+          "rank": 6,
+          "hot": 59019701,
+          "url": "https://www.toutiao.com/trending/7664552376119856703/"
+        }
+      ],
+      "summary": "",
+      "url": "https://www.toutiao.com/trending/7664552376119856703/"
     },
     {
       "id": "evt-3d000000",
@@ -184,6 +203,25 @@
       "url": "https://www.thepaper.cn/newsDetail_forward_33616683"
     },
     {
+      "id": "evt-deep0000",
+      "title": "为什么豆包没有被 DeepSeek「斩杀」？",
+      "category": "society",
+      "hotScore": 0.5625,
+      "freshness": 1,
+      "crossSource": 0.6309,
+      "totalScore": 0.7143,
+      "sources": [
+        {
+          "channel": "zhihu",
+          "rank": 6,
+          "hot": 0,
+          "url": ""
+        }
+      ],
+      "summary": "",
+      "url": ""
+    },
+    {
       "id": "evt-icu00000",
       "title": "谢贤曾昏迷进ICU强撑到谢霆锋回港",
       "category": "society",
@@ -201,25 +239,6 @@
       ],
       "summary": "",
       "url": "https://m.baidu.com/s?word=%E8%B0%A2%E8%B4%A4%E6%9B%BE%E6%98%8F%E8%BF%B7%E8%BF%9BICU%E5%BC%BA%E6%92%91%E5%88%B0%E8%B0%A2%E9%9C%86%E9%94%8B%E5%9B%9E%E6%B8%AF&sa=fyb_news"
-    },
-    {
-      "id": "evt-60000000",
-      "title": "美6艘巡逻舰“现身”南海意欲何为",
-      "category": "society",
-      "hotScore": 0.51,
-      "freshness": 1,
-      "crossSource": 0.6309,
-      "totalScore": 0.6933,
-      "sources": [
-        {
-          "channel": "toutiao",
-          "rank": 9,
-          "hot": 42639046,
-          "url": "https://www.toutiao.com/trending/7664092589448904723/"
-        }
-      ],
-      "summary": "",
-      "url": "https://www.toutiao.com/trending/7664092589448904723/"
     }
   ]
 }
