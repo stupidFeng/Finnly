@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-07-20T17:25:50.586Z",
+  "generatedAt": "2026-07-20T17:28:43.942Z",
   "fields": {
     "society": "社会",
     "economy": "经济",
@@ -11,14 +11,14 @@
       "title": "前妻狄波拉双眼红肿回应谢贤离世",
       "category": "society",
       "hotScore": 0.8075,
-      "freshness": 0.9999,
+      "freshness": 1,
       "crossSource": 1,
       "totalScore": 0.923,
       "sources": [
         {
           "channel": "toutiao",
           "rank": 2,
-          "hot": 83210196,
+          "hot": 83298737,
           "url": "https://www.toutiao.com/trending/7664537447249936410/"
         },
         {
@@ -55,82 +55,19 @@
       "title": "媒体：西班牙夺冠夜全国2死80伤",
       "category": "society",
       "hotScore": 0.7225,
-      "freshness": 0.9999,
+      "freshness": 1,
       "crossSource": 0.6309,
       "totalScore": 0.7783,
       "sources": [
         {
           "channel": "toutiao",
           "rank": 4,
-          "hot": 68126746,
+          "hot": 68199237,
           "url": "https://www.toutiao.com/trending/7664368086972006443/"
         }
       ],
       "summary": "",
       "url": "https://www.toutiao.com/trending/7664368086972006443/"
-    },
-    {
-      "id": "evt-80000000",
-      "title": "三万斤西瓜成本近8000元仅能卖6000元",
-      "category": "society",
-      "hotScore": 0.44,
-      "freshness": 0.9999,
-      "crossSource": 1,
-      "totalScore": 0.776,
-      "sources": [
-        {
-          "channel": "toutiao",
-          "rank": 17,
-          "hot": 18566704,
-          "url": "https://www.toutiao.com/trending/7663561734464192554/"
-        },
-        {
-          "channel": "baidu",
-          "rank": 10,
-          "hot": 0,
-          "url": "https://m.baidu.com/s?word=%E4%B8%89%E4%B8%87%E6%96%A4%E8%A5%BF%E7%93%9C%E6%88%90%E6%9C%AC%E8%BF%918000%E5%85%83%E4%BB%85%E8%83%BD%E5%8D%966000%E5%85%83&sa=fyb_news"
-        }
-      ],
-      "summary": "",
-      "url": "https://www.toutiao.com/trending/7663561734464192554/"
-    },
-    {
-      "id": "evt-5g000000",
-      "title": "三大运营商年内推出5G消息",
-      "category": "economy",
-      "hotScore": 0.855,
-      "freshness": 0.9999,
-      "crossSource": 0.6309,
-      "totalScore": 0.8313,
-      "sources": [
-        {
-          "channel": "36kr",
-          "rank": 2,
-          "hot": 0,
-          "url": ""
-        }
-      ],
-      "summary": "三大运营商计划在年内推出升级版短信服务5G消息。5G消息的特点：①打破传统短信长度限制，实现文、图、音视频、表情等融合；②支持在线支付、在线和离线消息；③不加好友就能随时发起群发、群聊。业内人士指出，5G消息可能按流量计费，价格有望比目前的短信和微信更优惠。（央视新闻）",
-      "url": ""
-    },
-    {
-      "id": "evt-take0000",
-      "title": "欧洲在线订餐服务Takeaway.com：外卖订单开始强劲复苏",
-      "category": "economy",
-      "hotScore": 0.81,
-      "freshness": 0.9999,
-      "crossSource": 0.6309,
-      "totalScore": 0.8133,
-      "sources": [
-        {
-          "channel": "36kr",
-          "rank": 3,
-          "hot": 0,
-          "url": ""
-        }
-      ],
-      "summary": "据外媒报道，随着闭门不出的消费者厌倦了在家里做饭或寻求改变他们的日常生活，更多的人开始将点外卖作为一种改变局面的方式。欧洲最大的在线订餐服务之一Takeaway.com称，外卖订单已开始强劲复苏。而分析师表示，这种复苏是“I型复苏”，而不是“V型复苏”。（腾讯科技）",
-      "url": ""
     },
     {
       "id": "evt-20100000",
@@ -152,11 +89,74 @@
       "url": "https://www.thepaper.cn/newsDetail_forward_33618677"
     },
     {
+      "id": "evt-5g000000",
+      "title": "三大运营商年内推出5G消息",
+      "category": "economy",
+      "hotScore": 0.855,
+      "freshness": 1,
+      "crossSource": 0.6309,
+      "totalScore": 0.8313,
+      "sources": [
+        {
+          "channel": "36kr",
+          "rank": 2,
+          "hot": 0,
+          "url": ""
+        }
+      ],
+      "summary": "三大运营商计划在年内推出升级版短信服务5G消息。5G消息的特点：①打破传统短信长度限制，实现文、图、音视频、表情等融合；②支持在线支付、在线和离线消息；③不加好友就能随时发起群发、群聊。业内人士指出，5G消息可能按流量计费，价格有望比目前的短信和微信更优惠。（央视新闻）",
+      "url": ""
+    },
+    {
+      "id": "evt-take0000",
+      "title": "欧洲在线订餐服务Takeaway.com：外卖订单开始强劲复苏",
+      "category": "economy",
+      "hotScore": 0.81,
+      "freshness": 1,
+      "crossSource": 0.6309,
+      "totalScore": 0.8133,
+      "sources": [
+        {
+          "channel": "36kr",
+          "rank": 3,
+          "hot": 0,
+          "url": ""
+        }
+      ],
+      "summary": "据外媒报道，随着闭门不出的消费者厌倦了在家里做饭或寻求改变他们的日常生活，更多的人开始将点外卖作为一种改变局面的方式。欧洲最大的在线订餐服务之一Takeaway.com称，外卖订单已开始强劲复苏。而分析师表示，这种复苏是“I型复苏”，而不是“V型复苏”。（腾讯科技）",
+      "url": ""
+    },
+    {
+      "id": "evt-80000000",
+      "title": "三万斤西瓜成本近8000元仅能卖6000元",
+      "category": "society",
+      "hotScore": 0.4,
+      "freshness": 1,
+      "crossSource": 1,
+      "totalScore": 0.76,
+      "sources": [
+        {
+          "channel": "toutiao",
+          "rank": 17,
+          "hot": 18586460,
+          "url": "https://www.toutiao.com/trending/7663561734464192554/"
+        },
+        {
+          "channel": "baidu",
+          "rank": 11,
+          "hot": 0,
+          "url": "https://m.baidu.com/s?word=%E4%B8%89%E4%B8%87%E6%96%A4%E8%A5%BF%E7%93%9C%E6%88%90%E6%9C%AC%E8%BF%918000%E5%85%83%E4%BB%85%E8%83%BD%E5%8D%966000%E5%85%83&sa=fyb_news"
+        }
+      ],
+      "summary": "",
+      "url": "https://www.toutiao.com/trending/7663561734464192554/"
+    },
+    {
       "id": "evt-20200000",
       "title": "西班牙中场罗德里获 2026 世界杯金球奖，怎样评价他在本届比赛中的表现？对于西班牙队有多重要？",
       "category": "society",
       "hotScore": 0.6375,
-      "freshness": 0.9999,
+      "freshness": 1,
       "crossSource": 0.6309,
       "totalScore": 0.7443,
       "sources": [
@@ -175,7 +175,7 @@
       "title": "好未来《熊猫博士》3D动画片登陆央视少儿频道",
       "category": "society",
       "hotScore": 0.63,
-      "freshness": 0.9999,
+      "freshness": 1,
       "crossSource": 0.6309,
       "totalScore": 0.7413,
       "sources": [
