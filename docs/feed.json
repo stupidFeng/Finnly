@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-07-21T19:03:06.430Z",
+  "generatedAt": "2026-07-21T20:57:44.662Z",
   "fields": {
     "society": "社会",
     "economy": "经济",
@@ -11,14 +11,14 @@
       "title": "专家：黄金已严重超卖",
       "category": "society",
       "hotScore": 0.7225,
-      "freshness": 0.9999,
+      "freshness": 1,
       "crossSource": 1,
       "totalScore": 0.889,
       "sources": [
         {
           "channel": "toutiao",
           "rank": 4,
-          "hot": 82566651,
+          "hot": 84204889,
           "url": "https://www.toutiao.com/trending/7664353036575850515/"
         },
         {
@@ -70,36 +70,49 @@
       "url": "https://m.baidu.com/s?word=BBA%E9%9B%86%E4%BD%93%E9%99%8D%E4%BB%B7+%E9%94%80%E5%94%AE%EF%BC%9A%E4%BB%B7%E6%A0%BC%E8%BF%98%E8%83%BD%E8%B0%88&sa=fyb_news"
     },
     {
-      "id": "evt-10000000",
-      "title": "“养老服务师考试10月开考”不实",
+      "id": "evt-267ddr00",
+      "title": "如何看待 26 年 7 月 DDR5 内存价格再次暴涨，出现「一天两变、提货被拒、商家劝退用户」的怪象？",
       "category": "society",
-      "hotScore": 0.425,
-      "freshness": 0.9999,
-      "crossSource": 1,
-      "totalScore": 0.77,
+      "hotScore": 0.7125,
+      "freshness": 1,
+      "crossSource": 0.6309,
+      "totalScore": 0.7743,
       "sources": [
         {
-          "channel": "toutiao",
-          "rank": 11,
-          "hot": 41001385,
-          "url": "https://www.toutiao.com/trending/7664918657600634899/"
-        },
-        {
-          "channel": "baidu",
-          "rank": 12,
+          "channel": "zhihu",
+          "rank": 2,
           "hot": 0,
-          "url": "https://m.baidu.com/s?word=%E2%80%9C%E5%85%BB%E8%80%81%E6%9C%8D%E5%8A%A1%E5%B8%88%E8%80%83%E8%AF%9510%E6%9C%88%E5%BC%80%E8%80%83%E2%80%9D%E4%B8%8D%E5%AE%9E&sa=fyb_news"
+          "url": ""
         }
       ],
       "summary": "",
-      "url": "https://www.toutiao.com/trending/7664918657600634899/"
+      "url": ""
+    },
+    {
+      "id": "evt-10000000",
+      "title": "中芯国际与嘉楠科技合作14nm矿机芯片，知情人士：能否量产要看行情",
+      "category": "economy",
+      "hotScore": 0.9,
+      "freshness": 1,
+      "crossSource": 0.6309,
+      "totalScore": 0.8493,
+      "sources": [
+        {
+          "channel": "36kr",
+          "rank": 1,
+          "hot": 0,
+          "url": ""
+        }
+      ],
+      "summary": "有消息称，中芯国际与嘉楠科技合作的14nm矿机芯片已完成测试，将在今年二季度量产出货。对此，知情人士称，双方合作始于2019年年底，但能否量产要看行情。据悉，中芯国际数次尝试进入矿机行业，但受行情拖累一直未有实质进展。（财联社）",
+      "url": ""
     },
     {
       "id": "evt-5g000000",
       "title": "三大运营商年内推出5G消息",
       "category": "economy",
       "hotScore": 0.855,
-      "freshness": 0.9999,
+      "freshness": 1,
       "crossSource": 0.6309,
       "totalScore": 0.8313,
       "sources": [
@@ -118,7 +131,7 @@
       "title": "欧洲在线订餐服务Takeaway.com：外卖订单开始强劲复苏",
       "category": "economy",
       "hotScore": 0.81,
-      "freshness": 0.9999,
+      "freshness": 1,
       "crossSource": 0.6309,
       "totalScore": 0.8133,
       "sources": [
@@ -137,7 +150,7 @@
       "title": "7 月 21 日科创 50 指数大涨 10.73%，创业板指涨超 7%，如何看待当下 A 股市场行情？",
       "category": "economy",
       "hotScore": 0.5625,
-      "freshness": 0.9999,
+      "freshness": 1,
       "crossSource": 0.6309,
       "totalScore": 0.7143,
       "sources": [
@@ -171,11 +184,11 @@
       "url": "https://m.baidu.com/s?word=%E4%B8%AD%E5%9B%BD%E7%A7%91%E6%8A%80%E8%BF%993%E7%BB%84%E6%95%B0%E5%AD%97%E7%9C%9F%E6%8F%90%E6%B0%94&sa=fyb_news"
     },
     {
-      "id": "evt-267ddr00",
-      "title": "如何看待 26 年 7 月 DDR5 内存价格再次暴涨，出现「一天两变、提货被拒、商家劝退用户」的怪象？",
+      "id": "evt-ktv00000",
+      "title": "网友发现很多 KTV 都没有 MV 了，全是奇怪的 AI 画面，为什么会这样？你有遇到这种情况吗？",
       "category": "society",
       "hotScore": 0.675,
-      "freshness": 0.9999,
+      "freshness": 1,
       "crossSource": 0.6309,
       "totalScore": 0.7593,
       "sources": [
@@ -194,14 +207,14 @@
       "title": "媒体探访从小树林出圈的“26版西游记”",
       "category": "society",
       "hotScore": 0.6375,
-      "freshness": 0.9999,
+      "freshness": 1,
       "crossSource": 0.6309,
       "totalScore": 0.7443,
       "sources": [
         {
           "channel": "toutiao",
           "rank": 6,
-          "hot": 67599856,
+          "hot": 68941132,
           "url": "https://www.toutiao.com/trending/7664544012321295915/"
         }
       ],
@@ -213,7 +226,7 @@
       "title": "好未来《熊猫博士》3D动画片登陆央视少儿频道",
       "category": "society",
       "hotScore": 0.63,
-      "freshness": 0.9999,
+      "freshness": 1,
       "crossSource": 0.6309,
       "totalScore": 0.7413,
       "sources": [
@@ -247,11 +260,11 @@
       "url": "https://m.baidu.com/s?word=A%E8%82%A1%E5%85%AD%E5%A4%A7%E9%87%8D%E7%A3%85%E4%BF%A1%E5%8F%B7%E8%90%BD%E5%9C%B0&sa=fyb_news"
     },
     {
-      "id": "evt-ktv00000",
-      "title": "网友发现很多 KTV 都没有 MV 了，全是奇怪的 AI 画面，为什么会这样？你有遇到这种情况吗？",
+      "id": "evt-8p000000",
+      "title": "「怡颗莓」草莓被指检出 8 种 PFAS 永久性化学物，在美遭集体起诉，这些从何而来？食用风险有多大？",
       "category": "society",
       "hotScore": 0.6,
-      "freshness": 0.9999,
+      "freshness": 1,
       "crossSource": 0.6309,
       "totalScore": 0.7293,
       "sources": [
@@ -266,36 +279,17 @@
       "url": ""
     },
     {
-      "id": "evt-50000000",
-      "title": "因提亲一句玩笑公公送5吨西瓜",
-      "category": "society",
-      "hotScore": 0.56,
-      "freshness": 1,
-      "crossSource": 0.6309,
-      "totalScore": 0.7133,
-      "sources": [
-        {
-          "channel": "baidu",
-          "rank": 7,
-          "hot": 0,
-          "url": "https://m.baidu.com/s?word=%E5%9B%A0%E6%8F%90%E4%BA%B2%E4%B8%80%E5%8F%A5%E7%8E%A9%E7%AC%91%E5%85%AC%E5%85%AC%E9%80%815%E5%90%A8%E8%A5%BF%E7%93%9C&sa=fyb_news"
-        }
-      ],
-      "summary": "",
-      "url": "https://m.baidu.com/s?word=%E5%9B%A0%E6%8F%90%E4%BA%B2%E4%B8%80%E5%8F%A5%E7%8E%A9%E7%AC%91%E5%85%AC%E5%85%AC%E9%80%815%E5%90%A8%E8%A5%BF%E7%93%9C&sa=fyb_news"
-    },
-    {
       "id": "evt-29000000",
       "title": "29岁四川小伙奔赴广西救灾不幸逝世：他背起受困者的希望，却倒在了山路上",
       "category": "society",
-      "hotScore": 0.5525,
+      "hotScore": 0.595,
       "freshness": 1,
       "crossSource": 0.6309,
-      "totalScore": 0.7103,
+      "totalScore": 0.7273,
       "sources": [
         {
           "channel": "thepaper",
-          "rank": 8,
+          "rank": 7,
           "hot": 0,
           "url": "https://www.thepaper.cn/newsDetail_forward_33626668"
         }
