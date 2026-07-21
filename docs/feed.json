@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-07-21T20:57:44.662Z",
+  "generatedAt": "2026-07-21T22:44:30.679Z",
   "fields": {
     "society": "社会",
     "economy": "经济",
@@ -18,7 +18,7 @@
         {
           "channel": "toutiao",
           "rank": 4,
-          "hot": 84204889,
+          "hot": 88414809,
           "url": "https://www.toutiao.com/trending/7664353036575850515/"
         },
         {
@@ -51,6 +51,25 @@
       "url": "https://www.thepaper.cn/newsDetail_forward_33623764"
     },
     {
+      "id": "evt-ktv00000",
+      "title": "网友发现很多 KTV 都没有 MV 了，全是奇怪的 AI 画面，为什么会这样？你有遇到这种情况吗？",
+      "category": "society",
+      "hotScore": 0.75,
+      "freshness": 1,
+      "crossSource": 0.6309,
+      "totalScore": 0.7893,
+      "sources": [
+        {
+          "channel": "zhihu",
+          "rank": 1,
+          "hot": 0,
+          "url": ""
+        }
+      ],
+      "summary": "",
+      "url": ""
+    },
+    {
       "id": "evt-bba00000",
       "title": "BBA集体降价 销售：价格还能谈",
       "category": "society",
@@ -68,25 +87,6 @@
       ],
       "summary": "",
       "url": "https://m.baidu.com/s?word=BBA%E9%9B%86%E4%BD%93%E9%99%8D%E4%BB%B7+%E9%94%80%E5%94%AE%EF%BC%9A%E4%BB%B7%E6%A0%BC%E8%BF%98%E8%83%BD%E8%B0%88&sa=fyb_news"
-    },
-    {
-      "id": "evt-267ddr00",
-      "title": "如何看待 26 年 7 月 DDR5 内存价格再次暴涨，出现「一天两变、提货被拒、商家劝退用户」的怪象？",
-      "category": "society",
-      "hotScore": 0.7125,
-      "freshness": 1,
-      "crossSource": 0.6309,
-      "totalScore": 0.7743,
-      "sources": [
-        {
-          "channel": "zhihu",
-          "rank": 2,
-          "hot": 0,
-          "url": ""
-        }
-      ],
-      "summary": "",
-      "url": ""
     },
     {
       "id": "evt-10000000",
@@ -146,25 +146,6 @@
       "url": ""
     },
     {
-      "id": "evt-72150000",
-      "title": "7 月 21 日科创 50 指数大涨 10.73%，创业板指涨超 7%，如何看待当下 A 股市场行情？",
-      "category": "economy",
-      "hotScore": 0.5625,
-      "freshness": 1,
-      "crossSource": 0.6309,
-      "totalScore": 0.7143,
-      "sources": [
-        {
-          "channel": "zhihu",
-          "rank": 6,
-          "hot": 0,
-          "url": ""
-        }
-      ],
-      "summary": "",
-      "url": ""
-    },
-    {
       "id": "evt-30000000",
       "title": "中国科技这3组数字真提气",
       "category": "society",
@@ -184,8 +165,8 @@
       "url": "https://m.baidu.com/s?word=%E4%B8%AD%E5%9B%BD%E7%A7%91%E6%8A%80%E8%BF%993%E7%BB%84%E6%95%B0%E5%AD%97%E7%9C%9F%E6%8F%90%E6%B0%94&sa=fyb_news"
     },
     {
-      "id": "evt-ktv00000",
-      "title": "网友发现很多 KTV 都没有 MV 了，全是奇怪的 AI 画面，为什么会这样？你有遇到这种情况吗？",
+      "id": "evt-267ddr00",
+      "title": "如何看待 26 年 7 月 DDR5 内存价格再次暴涨，出现「一天两变、提货被拒、商家劝退用户」的怪象？",
       "category": "society",
       "hotScore": 0.675,
       "freshness": 1,
@@ -214,7 +195,7 @@
         {
           "channel": "toutiao",
           "rank": 6,
-          "hot": 68941132,
+          "hot": 72387923,
           "url": "https://www.toutiao.com/trending/7664544012321295915/"
         }
       ],
@@ -260,25 +241,6 @@
       "url": "https://m.baidu.com/s?word=A%E8%82%A1%E5%85%AD%E5%A4%A7%E9%87%8D%E7%A3%85%E4%BF%A1%E5%8F%B7%E8%90%BD%E5%9C%B0&sa=fyb_news"
     },
     {
-      "id": "evt-8p000000",
-      "title": "「怡颗莓」草莓被指检出 8 种 PFAS 永久性化学物，在美遭集体起诉，这些从何而来？食用风险有多大？",
-      "category": "society",
-      "hotScore": 0.6,
-      "freshness": 1,
-      "crossSource": 0.6309,
-      "totalScore": 0.7293,
-      "sources": [
-        {
-          "channel": "zhihu",
-          "rank": 5,
-          "hot": 0,
-          "url": ""
-        }
-      ],
-      "summary": "",
-      "url": ""
-    },
-    {
       "id": "evt-29000000",
       "title": "29岁四川小伙奔赴广西救灾不幸逝世：他背起受困者的希望，却倒在了山路上",
       "category": "society",
@@ -296,6 +258,44 @@
       ],
       "summary": "",
       "url": "https://www.thepaper.cn/newsDetail_forward_33626668"
+    },
+    {
+      "id": "evt-20300000",
+      "title": "中国计划 2030 年前载人登月，美国计划 2028 年重返月球，你觉得谁会先上？为什么？",
+      "category": "society",
+      "hotScore": 0.5625,
+      "freshness": 1,
+      "crossSource": 0.6309,
+      "totalScore": 0.7143,
+      "sources": [
+        {
+          "channel": "zhihu",
+          "rank": 6,
+          "hot": 0,
+          "url": ""
+        }
+      ],
+      "summary": "",
+      "url": ""
+    },
+    {
+      "id": "evt-50000000",
+      "title": "因提亲一句玩笑公公送5吨西瓜",
+      "category": "society",
+      "hotScore": 0.56,
+      "freshness": 1,
+      "crossSource": 0.6309,
+      "totalScore": 0.7133,
+      "sources": [
+        {
+          "channel": "baidu",
+          "rank": 7,
+          "hot": 0,
+          "url": "https://m.baidu.com/s?word=%E5%9B%A0%E6%8F%90%E4%BA%B2%E4%B8%80%E5%8F%A5%E7%8E%A9%E7%AC%91%E5%85%AC%E5%85%AC%E9%80%815%E5%90%A8%E8%A5%BF%E7%93%9C&sa=fyb_news"
+        }
+      ],
+      "summary": "",
+      "url": "https://m.baidu.com/s?word=%E5%9B%A0%E6%8F%90%E4%BA%B2%E4%B8%80%E5%8F%A5%E7%8E%A9%E7%AC%91%E5%85%AC%E5%85%AC%E9%80%815%E5%90%A8%E8%A5%BF%E7%93%9C&sa=fyb_news"
     }
   ]
 }
