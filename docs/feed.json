@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-07-21T04:58:58.665Z",
+  "generatedAt": "2026-07-21T08:07:30.721Z",
   "fields": {
     "society": "社会",
     "economy": "经济",
@@ -7,63 +7,57 @@
   },
   "feed": [
     {
-      "id": "evt-00000000",
-      "title": "西班牙夺冠狂欢震动地震仪",
+      "id": "evt-10000000",
+      "title": "儿女放弃接班 创始人套现13亿离场",
       "category": "society",
       "hotScore": 0.8075,
-      "freshness": 0.9999,
+      "freshness": 0.9998,
       "crossSource": 1,
-      "totalScore": 0.923,
+      "totalScore": 0.9229,
       "sources": [
         {
           "channel": "toutiao",
           "rank": 2,
-          "hot": 142190640,
-          "url": "https://www.toutiao.com/trending/7663855418126417929/"
+          "hot": 164718784,
+          "url": "https://www.toutiao.com/trending/7664288582458441779/"
         },
         {
           "channel": "baidu",
-          "rank": 19,
+          "rank": 6,
           "hot": 0,
-          "url": "https://m.baidu.com/s?word=%E8%A5%BF%E7%8F%AD%E7%89%99%E5%A4%BA%E5%86%A0%E7%8B%82%E6%AC%A2%E9%9C%87%E5%8A%A8%E5%9C%B0%E9%9C%87%E4%BB%AA&sa=fyb_news"
+          "url": "https://m.baidu.com/s?word=%E5%84%BF%E5%A5%B3%E6%94%BE%E5%BC%83%E6%8E%A5%E7%8F%AD+%E5%88%9B%E5%A7%8B%E4%BA%BA%E5%A5%97%E7%8E%B013%E4%BA%BF%E7%A6%BB%E5%9C%BA&sa=fyb_news"
         }
       ],
       "summary": "",
-      "url": "https://www.toutiao.com/trending/7663855418126417929/"
+      "url": "https://www.toutiao.com/trending/7664288582458441779/"
     },
     {
-      "id": "evt-15000000",
-      "title": "花1.5万元买机票退票仅退432元",
+      "id": "evt-00000000",
+      "title": "中方紧急召见菲驻华大使",
       "category": "society",
-      "hotScore": 0.7225,
-      "freshness": 0.9999,
-      "crossSource": 1,
-      "totalScore": 0.889,
+      "hotScore": 0.85,
+      "freshness": 0.9998,
+      "crossSource": 0.6309,
+      "totalScore": 0.8292,
       "sources": [
         {
           "channel": "toutiao",
-          "rank": 4,
-          "hot": 116415849,
-          "url": "https://www.toutiao.com/trending/7664067933903061018/"
-        },
-        {
-          "channel": "baidu",
-          "rank": 8,
-          "hot": 0,
-          "url": "https://m.baidu.com/s?word=%E8%8A%B11.5%E4%B8%87%E5%85%83%E4%B9%B0%E6%9C%BA%E7%A5%A8%E9%80%80%E7%A5%A8%E4%BB%85%E9%80%80432%E5%85%83&sa=fyb_news"
+          "rank": 1,
+          "hot": 182042409,
+          "url": "https://www.toutiao.com/trending/7664540470965587510/"
         }
       ],
       "summary": "",
-      "url": "https://www.toutiao.com/trending/7664067933903061018/"
+      "url": "https://www.toutiao.com/trending/7664540470965587510/"
     },
     {
       "id": "evt-30000000",
       "title": "江西男子花30多万元被带到贵阳闪婚，婚后发现妻子曾吸毒坐牢还患有梅毒",
       "category": "society",
       "hotScore": 0.8075,
-      "freshness": 0.9999,
+      "freshness": 0.9998,
       "crossSource": 0.6309,
-      "totalScore": 0.8123,
+      "totalScore": 0.8122,
       "sources": [
         {
           "channel": "thepaper",
@@ -76,42 +70,23 @@
       "url": "https://www.thepaper.cn/newsDetail_forward_33621035"
     },
     {
-      "id": "evt-68430000",
-      "title": "女生高考684分花3000元咨询进双非",
+      "id": "evt-15430000",
+      "title": "1.5万元机票退票仅退432元：携程称系航司规定，航司客服称费用需与平台确认",
       "category": "society",
-      "hotScore": 0.76,
-      "freshness": 0.9999,
+      "hotScore": 0.765,
+      "freshness": 0.9998,
       "crossSource": 0.6309,
-      "totalScore": 0.7933,
+      "totalScore": 0.7952,
       "sources": [
         {
-          "channel": "baidu",
-          "rank": 2,
+          "channel": "thepaper",
+          "rank": 3,
           "hot": 0,
-          "url": "https://m.baidu.com/s?word=%E5%A5%B3%E7%94%9F%E9%AB%98%E8%80%83684%E5%88%86%E8%8A%B13000%E5%85%83%E5%92%A8%E8%AF%A2%E8%BF%9B%E5%8F%8C%E9%9D%9E&sa=fyb_news"
+          "url": "https://www.thepaper.cn/newsDetail_forward_33623764"
         }
       ],
       "summary": "",
-      "url": "https://m.baidu.com/s?word=%E5%A5%B3%E7%94%9F%E9%AB%98%E8%80%83684%E5%88%86%E8%8A%B13000%E5%85%83%E5%92%A8%E8%AF%A2%E8%BF%9B%E5%8F%8C%E9%9D%9E&sa=fyb_news"
-    },
-    {
-      "id": "evt-10000000",
-      "title": "中芯国际与嘉楠科技合作14nm矿机芯片，知情人士：能否量产要看行情",
-      "category": "economy",
-      "hotScore": 0.9,
-      "freshness": 1,
-      "crossSource": 0.6309,
-      "totalScore": 0.8493,
-      "sources": [
-        {
-          "channel": "36kr",
-          "rank": 1,
-          "hot": 0,
-          "url": ""
-        }
-      ],
-      "summary": "有消息称，中芯国际与嘉楠科技合作的14nm矿机芯片已完成测试，将在今年二季度量产出货。对此，知情人士称，双方合作始于2019年年底，但能否量产要看行情。据悉，中芯国际数次尝试进入矿机行业，但受行情拖累一直未有实质进展。（财联社）",
-      "url": ""
+      "url": "https://www.thepaper.cn/newsDetail_forward_33623764"
     },
     {
       "id": "evt-5g000000",
@@ -152,13 +127,13 @@
       "url": ""
     },
     {
-      "id": "evt-20260000",
-      "title": "如何看待 2026 年临床医学录取分数线下降？",
+      "id": "evt-68430000",
+      "title": "女生高考 684 分花 3000 元咨询进双非，原计划上央财、上财，为什么会出现这种情况？高报师能赔偿吗？",
       "category": "society",
       "hotScore": 0.75,
-      "freshness": 0.9999,
+      "freshness": 0.9998,
       "crossSource": 0.6309,
-      "totalScore": 0.7893,
+      "totalScore": 0.7892,
       "sources": [
         {
           "channel": "zhihu",
@@ -171,13 +146,32 @@
       "url": ""
     },
     {
+      "id": "evt-ai000000",
+      "title": "AI的猴子为什么能让菲律宾“破防”",
+      "category": "society",
+      "hotScore": 0.7225,
+      "freshness": 0.9998,
+      "crossSource": 0.6309,
+      "totalScore": 0.7782,
+      "sources": [
+        {
+          "channel": "toutiao",
+          "rank": 4,
+          "hot": 134860334,
+          "url": "https://www.toutiao.com/trending/7664683124179337279/"
+        }
+      ],
+      "summary": "",
+      "url": "https://www.toutiao.com/trending/7664683124179337279/"
+    },
+    {
       "id": "evt-50000000",
       "title": "5家保险公司齐发声，坚定支持资本市场发展",
       "category": "society",
       "hotScore": 0.7225,
-      "freshness": 0.9999,
+      "freshness": 0.9998,
       "crossSource": 0.6309,
-      "totalScore": 0.7783,
+      "totalScore": 0.7782,
       "sources": [
         {
           "channel": "thepaper",
@@ -190,23 +184,42 @@
       "url": "https://www.thepaper.cn/newsDetail_forward_33621565"
     },
     {
-      "id": "evt-10100000",
-      "title": "卖一辆10万元新车仅赚1500元",
+      "id": "evt-50107300",
+      "title": "科创50指数大涨10.73%",
       "category": "society",
-      "hotScore": 0.64,
-      "freshness": 0.9999,
+      "hotScore": 0.68,
+      "freshness": 0.9998,
       "crossSource": 0.6309,
-      "totalScore": 0.7453,
+      "totalScore": 0.7612,
       "sources": [
         {
-          "channel": "baidu",
+          "channel": "toutiao",
           "rank": 5,
-          "hot": 0,
-          "url": "https://m.baidu.com/s?word=%E5%8D%96%E4%B8%80%E8%BE%8610%E4%B8%87%E5%85%83%E6%96%B0%E8%BD%A6%E4%BB%85%E8%B5%9A1500%E5%85%83&sa=fyb_news"
+          "hot": 122026676,
+          "url": "https://www.toutiao.com/trending/7664810487414767652/"
         }
       ],
       "summary": "",
-      "url": "https://m.baidu.com/s?word=%E5%8D%96%E4%B8%80%E8%BE%8610%E4%B8%87%E5%85%83%E6%96%B0%E8%BD%A6%E4%BB%85%E8%B5%9A1500%E5%85%83&sa=fyb_news"
+      "url": "https://www.toutiao.com/trending/7664810487414767652/"
+    },
+    {
+      "id": "evt-69200000",
+      "title": "男子买彩票中了 692 万只告诉老伴没告诉儿子，称孩子还太小，不能让他因此躺平，如何看待这一做法？",
+      "category": "society",
+      "hotScore": 0.675,
+      "freshness": 0.9998,
+      "crossSource": 0.6309,
+      "totalScore": 0.7592,
+      "sources": [
+        {
+          "channel": "zhihu",
+          "rank": 3,
+          "hot": 0,
+          "url": ""
+        }
+      ],
+      "summary": "",
+      "url": ""
     },
     {
       "id": "evt-3d000000",
@@ -228,13 +241,13 @@
       "url": ""
     },
     {
-      "id": "evt-openaiki",
-      "title": "OpenAI 负责人称 Kimi 开源是减速主义，他的说法有道理吗？开源对 AI 的发展能带来什么？",
+      "id": "evt-64060000",
+      "title": "西安中考满分 640，600 分以上超 10500 人，599 分基本无好学校可选，如何看待？",
       "category": "society",
       "hotScore": 0.6,
-      "freshness": 0.9999,
+      "freshness": 0.9998,
       "crossSource": 0.6309,
-      "totalScore": 0.7293,
+      "totalScore": 0.7292,
       "sources": [
         {
           "channel": "zhihu",
@@ -247,23 +260,42 @@
       "url": ""
     },
     {
-      "id": "evt-69200000",
-      "title": "男子买彩票中了 692 万只告诉老伴没告诉儿子，称孩子还太小，不能让他因此躺平，如何看待这一做法？",
+      "id": "evt-13870000",
+      "title": "13岁中国小将8战7冠称霸欧洲赛场",
       "category": "society",
-      "hotScore": 0.525,
-      "freshness": 0.9999,
+      "hotScore": 0.56,
+      "freshness": 1,
       "crossSource": 0.6309,
-      "totalScore": 0.6993,
+      "totalScore": 0.7133,
       "sources": [
         {
-          "channel": "zhihu",
+          "channel": "baidu",
           "rank": 7,
           "hot": 0,
-          "url": ""
+          "url": "https://m.baidu.com/s?word=13%E5%B2%81%E4%B8%AD%E5%9B%BD%E5%B0%8F%E5%B0%868%E6%88%987%E5%86%A0%E7%A7%B0%E9%9C%B8%E6%AC%A7%E6%B4%B2%E8%B5%9B%E5%9C%BA&sa=fyb_news"
         }
       ],
       "summary": "",
-      "url": ""
+      "url": "https://m.baidu.com/s?word=13%E5%B2%81%E4%B8%AD%E5%9B%BD%E5%B0%8F%E5%B0%868%E6%88%987%E5%86%A0%E7%A7%B0%E9%9C%B8%E6%AC%A7%E6%B4%B2%E8%B5%9B%E5%9C%BA&sa=fyb_news"
+    },
+    {
+      "id": "evt-a0000000",
+      "title": "A股这轮调整结束了吗",
+      "category": "society",
+      "hotScore": 0.5525,
+      "freshness": 0.9998,
+      "crossSource": 0.6309,
+      "totalScore": 0.7102,
+      "sources": [
+        {
+          "channel": "toutiao",
+          "rank": 8,
+          "hot": 90399585,
+          "url": "https://www.toutiao.com/trending/7664842413277449734/"
+        }
+      ],
+      "summary": "",
+      "url": "https://www.toutiao.com/trending/7664842413277449734/"
     }
   ]
 }
