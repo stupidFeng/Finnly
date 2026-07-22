@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-07-22T20:54:45.771Z",
+  "generatedAt": "2026-07-22T22:53:06.711Z",
   "fields": {
     "society": "社会",
     "economy": "经济",
@@ -18,7 +18,7 @@
         {
           "channel": "toutiao",
           "rank": 2,
-          "hot": 17017023,
+          "hot": 18511431,
           "url": "https://www.toutiao.com/trending/7664196569463406655/"
         },
         {
@@ -43,7 +43,7 @@
         {
           "channel": "toutiao",
           "rank": 1,
-          "hot": 18806719,
+          "hot": 20458295,
           "url": "https://www.toutiao.com/trending/7664285403965161513/"
         }
       ],
@@ -184,6 +184,25 @@
       "url": ""
     },
     {
+      "id": "evt-21400000",
+      "title": "许昌2名瓜农为14万斤滞销西瓜求援：地头价两毛一斤，销售窗口或仅一周",
+      "category": "society",
+      "hotScore": 0.6375,
+      "freshness": 1,
+      "crossSource": 0.6309,
+      "totalScore": 0.7443,
+      "sources": [
+        {
+          "channel": "thepaper",
+          "rank": 6,
+          "hot": 0,
+          "url": "https://www.thepaper.cn/newsDetail_forward_33637251"
+        }
+      ],
+      "summary": "",
+      "url": "https://www.thepaper.cn/newsDetail_forward_33637251"
+    },
+    {
       "id": "evt-3d000000",
       "title": "好未来《熊猫博士》3D动画片登陆央视少儿频道",
       "category": "society",
@@ -214,6 +233,25 @@
         {
           "channel": "zhihu",
           "rank": 5,
+          "hot": 0,
+          "url": ""
+        }
+      ],
+      "summary": "",
+      "url": ""
+    },
+    {
+      "id": "evt-14000000",
+      "title": "14 岁少年偷偷纹身纹满双腿，家长索赔 20 万，如何看待青少年纹身现象？纹身有什么危害和风险吗？",
+      "category": "society",
+      "hotScore": 0.525,
+      "freshness": 1,
+      "crossSource": 0.6309,
+      "totalScore": 0.6993,
+      "sources": [
+        {
+          "channel": "zhihu",
+          "rank": 7,
           "hot": 0,
           "url": ""
         }
