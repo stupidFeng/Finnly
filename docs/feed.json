@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-07-22T08:08:06.729Z",
+  "generatedAt": "2026-07-22T11:41:46.403Z",
   "fields": {
     "society": "社会",
     "economy": "经济",
@@ -8,28 +8,28 @@
   "feed": [
     {
       "id": "evt-00000000",
-      "title": "中菲在仁爱礁爆发冲突 幕后黑手是谁",
+      "title": "今年国家级气象站出现首个50℃",
       "category": "society",
-      "hotScore": 0.76,
+      "hotScore": 0.85,
       "freshness": 0.9999,
       "crossSource": 1,
-      "totalScore": 0.904,
+      "totalScore": 0.94,
       "sources": [
         {
           "channel": "toutiao",
-          "rank": 4,
-          "hot": 52150149,
-          "url": "https://www.toutiao.com/trending/7664779782164955190/"
+          "rank": 1,
+          "hot": 52132480,
+          "url": "https://www.toutiao.com/trending/7664651451955740710/"
         },
         {
           "channel": "baidu",
           "rank": 2,
           "hot": 0,
-          "url": "https://m.baidu.com/s?word=%E4%B8%AD%E8%8F%B2%E5%9C%A8%E4%BB%81%E7%88%B1%E7%A4%81%E7%88%86%E5%8F%91%E5%86%B2%E7%AA%81+%E5%B9%95%E5%90%8E%E9%BB%91%E6%89%8B%E6%98%AF%E8%B0%81&sa=fyb_news"
+          "url": "https://m.baidu.com/s?word=%E4%BB%8A%E5%B9%B4%E5%9B%BD%E5%AE%B6%E7%BA%A7%E6%B0%94%E8%B1%A1%E7%AB%99%E5%87%BA%E7%8E%B0%E9%A6%96%E4%B8%AA50%E2%84%83&sa=fyb_news"
         }
       ],
       "summary": "",
-      "url": "https://www.toutiao.com/trending/7664779782164955190/"
+      "url": "https://www.toutiao.com/trending/7664651451955740710/"
     },
     {
       "id": "evt-ai000000",
@@ -43,7 +43,7 @@
         {
           "channel": "toutiao",
           "rank": 3,
-          "hot": 57634828,
+          "hot": 42682464,
           "url": "https://www.toutiao.com/trending/7664428554470113321/"
         }
       ],
@@ -51,36 +51,36 @@
       "url": "https://www.toutiao.com/trending/7664428554470113321/"
     },
     {
-      "id": "evt-27000000",
-      "title": "27年老存折 取钱被银行告知查无此账",
+      "id": "evt-15430000",
+      "title": "1.5万元机票退票仅退432元，小字标注“仅部分税费可退”是否合理？",
       "category": "society",
-      "hotScore": 0.72,
+      "hotScore": 0.765,
       "freshness": 1,
       "crossSource": 0.6309,
-      "totalScore": 0.7773,
+      "totalScore": 0.7953,
       "sources": [
         {
-          "channel": "baidu",
+          "channel": "thepaper",
           "rank": 3,
           "hot": 0,
-          "url": "https://m.baidu.com/s?word=27%E5%B9%B4%E8%80%81%E5%AD%98%E6%8A%98+%E5%8F%96%E9%92%B1%E8%A2%AB%E9%93%B6%E8%A1%8C%E5%91%8A%E7%9F%A5%E6%9F%A5%E6%97%A0%E6%AD%A4%E8%B4%A6&sa=fyb_news"
+          "url": "https://www.thepaper.cn/newsDetail_forward_33631871"
         }
       ],
       "summary": "",
-      "url": "https://m.baidu.com/s?word=27%E5%B9%B4%E8%80%81%E5%AD%98%E6%8A%98+%E5%8F%96%E9%92%B1%E8%A2%AB%E9%93%B6%E8%A1%8C%E5%91%8A%E7%9F%A5%E6%9F%A5%E6%97%A0%E6%AD%A4%E8%B4%A6&sa=fyb_news"
+      "url": "https://www.thepaper.cn/newsDetail_forward_33631871"
     },
     {
-      "id": "evt-kimiope0",
-      "title": "Kimi 员工震惊和 OpenAI  算力的差距，为什么在这么大差距下 Kimi 还能做出来 K3 ？",
+      "id": "evt-14000000",
+      "title": "14 岁少年偷偷纹满双腿，家长索赔 20 万，如何看待青少年纹身现象？纹身有什么危害和风险吗？",
       "category": "society",
-      "hotScore": 0.675,
-      "freshness": 1,
+      "hotScore": 0.75,
+      "freshness": 0.9999,
       "crossSource": 0.6309,
-      "totalScore": 0.7593,
+      "totalScore": 0.7893,
       "sources": [
         {
           "channel": "zhihu",
-          "rank": 3,
+          "rank": 1,
           "hot": 0,
           "url": ""
         }
@@ -146,99 +146,23 @@
       "url": ""
     },
     {
-      "id": "evt-gdp10000",
-      "title": "中国GDP第10省又易主了",
-      "category": "economy",
-      "hotScore": 0.8075,
+      "id": "evt-kimiope0",
+      "title": "Kimi 员工震惊和 OpenAI  算力的差距，为什么在这么大差距下 Kimi 还能做出来 K3 ？",
+      "category": "society",
+      "hotScore": 0.675,
       "freshness": 0.9999,
       "crossSource": 0.6309,
-      "totalScore": 0.8123,
-      "sources": [
-        {
-          "channel": "toutiao",
-          "rank": 2,
-          "hot": 63696336,
-          "url": "https://www.toutiao.com/trending/7665204495978073642/"
-        }
-      ],
-      "summary": "",
-      "url": "https://www.toutiao.com/trending/7665204495978073642/"
-    },
-    {
-      "id": "evt-15100000",
-      "title": "整车利润率仅 1.5% ，卖一台 10 万元新车只赚 1500 元，为什么车企不涨价反而打价格战？",
-      "category": "economy",
-      "hotScore": 0.7125,
-      "freshness": 1,
-      "crossSource": 0.6309,
-      "totalScore": 0.7743,
+      "totalScore": 0.7593,
       "sources": [
         {
           "channel": "zhihu",
-          "rank": 2,
+          "rank": 3,
           "hot": 0,
           "url": ""
         }
       ],
       "summary": "",
       "url": ""
-    },
-    {
-      "id": "evt-16000000",
-      "title": "漠河16万平方米冰面挂牌成交",
-      "category": "society",
-      "hotScore": 0.6375,
-      "freshness": 0.9999,
-      "crossSource": 0.6309,
-      "totalScore": 0.7443,
-      "sources": [
-        {
-          "channel": "toutiao",
-          "rank": 6,
-          "hot": 42696931,
-          "url": "https://www.toutiao.com/trending/7665144661250162742/"
-        }
-      ],
-      "summary": "",
-      "url": "https://www.toutiao.com/trending/7665144661250162742/"
-    },
-    {
-      "id": "evt-14000000",
-      "title": "14 岁少年偷偷纹满双腿，家长索赔 20 万，如何看待青少年纹身现象？纹身有什么危害和风险吗？",
-      "category": "society",
-      "hotScore": 0.6375,
-      "freshness": 1,
-      "crossSource": 0.6309,
-      "totalScore": 0.7443,
-      "sources": [
-        {
-          "channel": "zhihu",
-          "rank": 4,
-          "hot": 0,
-          "url": ""
-        }
-      ],
-      "summary": "",
-      "url": ""
-    },
-    {
-      "id": "evt-15430000",
-      "title": "1.5万元机票退票仅退432元，小字标注“仅部分税费可退”是否合理？",
-      "category": "society",
-      "hotScore": 0.6375,
-      "freshness": 1,
-      "crossSource": 0.6309,
-      "totalScore": 0.7443,
-      "sources": [
-        {
-          "channel": "thepaper",
-          "rank": 6,
-          "hot": 0,
-          "url": "https://www.thepaper.cn/newsDetail_forward_33631871"
-        }
-      ],
-      "summary": "",
-      "url": "https://www.thepaper.cn/newsDetail_forward_33631871"
     },
     {
       "id": "evt-3d000000",
@@ -257,44 +181,6 @@
         }
       ],
       "summary": "36氪获悉，自4月9日起，中央电视台少儿频道携手好未来旗下教育品牌熊猫博士上线3D系列动画片《熊猫博士》。与此同时，《熊猫博士》3D动画片也在美国、加拿大、俄罗斯、意大利等多个国家、地区陆续发行，并登陆Discovery探索频道等多个世界知名节目。",
-      "url": ""
-    },
-    {
-      "id": "evt-30000000",
-      "title": "成龙近 3 年来社交账号所发布内容全是对好友的悼念和告别，对此你有哪些感触？",
-      "category": "society",
-      "hotScore": 0.6,
-      "freshness": 1,
-      "crossSource": 0.6309,
-      "totalScore": 0.7293,
-      "sources": [
-        {
-          "channel": "zhihu",
-          "rank": 5,
-          "hot": 0,
-          "url": ""
-        }
-      ],
-      "summary": "",
-      "url": ""
-    },
-    {
-      "id": "evt-37000000",
-      "title": "人体卡死 37℃，为啥不进化成 40℃，直接烫死病毒癌细胞？",
-      "category": "society",
-      "hotScore": 0.5625,
-      "freshness": 1,
-      "crossSource": 0.6309,
-      "totalScore": 0.7143,
-      "sources": [
-        {
-          "channel": "zhihu",
-          "rank": 6,
-          "hot": 0,
-          "url": ""
-        }
-      ],
-      "summary": "",
       "url": ""
     }
   ]
