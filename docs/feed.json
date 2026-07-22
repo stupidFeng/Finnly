@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-07-22T15:25:23.013Z",
+  "generatedAt": "2026-07-22T17:06:52.682Z",
   "fields": {
     "society": "社会",
     "economy": "经济",
@@ -7,29 +7,48 @@
   },
   "feed": [
     {
-      "id": "evt-00000000",
-      "title": "免打孔单杠已成家庭隐形杀手",
+      "id": "evt-81000000",
+      "title": "个人贷款新规8月1日起施行",
       "category": "society",
-      "hotScore": 0.6375,
-      "freshness": 0.9998,
+      "hotScore": 0.7225,
+      "freshness": 1,
       "crossSource": 1,
-      "totalScore": 0.855,
+      "totalScore": 0.889,
       "sources": [
         {
           "channel": "toutiao",
-          "rank": 6,
-          "hot": 10130186,
-          "url": "https://www.toutiao.com/trending/7665116904647016484/"
+          "rank": 4,
+          "hot": 13085044,
+          "url": "https://www.toutiao.com/trending/7664196569463406655/"
         },
         {
           "channel": "baidu",
-          "rank": 11,
+          "rank": 6,
           "hot": 0,
-          "url": "https://m.baidu.com/s?word=%E5%85%8D%E6%89%93%E5%AD%94%E5%8D%95%E6%9D%A0%E5%B7%B2%E6%88%90%E5%AE%B6%E5%BA%AD%E9%9A%90%E5%BD%A2%E6%9D%80%E6%89%8B&sa=fyb_news"
+          "url": "https://m.baidu.com/s?word=%E4%B8%AA%E4%BA%BA%E8%B4%B7%E6%AC%BE%E6%96%B0%E8%A7%848%E6%9C%881%E6%97%A5%E8%B5%B7%E6%96%BD%E8%A1%8C&sa=fyb_news"
         }
       ],
       "summary": "",
-      "url": "https://www.toutiao.com/trending/7665116904647016484/"
+      "url": "https://www.toutiao.com/trending/7664196569463406655/"
+    },
+    {
+      "id": "evt-00000000",
+      "title": "王毅会见鲁比奥：筹备好下阶段高层交往",
+      "category": "society",
+      "hotScore": 0.85,
+      "freshness": 1,
+      "crossSource": 0.6309,
+      "totalScore": 0.8293,
+      "sources": [
+        {
+          "channel": "toutiao",
+          "rank": 1,
+          "hot": 17662962,
+          "url": "https://www.toutiao.com/trending/7664285403965161513/"
+        }
+      ],
+      "summary": "",
+      "url": "https://www.toutiao.com/trending/7664285403965161513/"
     },
     {
       "id": "evt-70000000",
@@ -49,25 +68,6 @@
       ],
       "summary": "",
       "url": "https://m.baidu.com/s?word=%E5%9B%BD%E5%8A%A1%E9%99%A2%E6%89%B9%E5%A4%8D+%E8%B6%857%E4%B8%87%E4%BA%BF%E5%85%83%E5%A4%A7%E4%BA%A7%E4%B8%9A%E6%9D%A5%E4%BA%86&sa=fyb_news"
-    },
-    {
-      "id": "evt-14000000",
-      "title": "14 岁少年偷偷纹身纹满双腿，家长索赔 20 万，如何看待青少年纹身现象？纹身有什么危害和风险吗？",
-      "category": "society",
-      "hotScore": 0.7125,
-      "freshness": 0.9999,
-      "crossSource": 0.6309,
-      "totalScore": 0.7742,
-      "sources": [
-        {
-          "channel": "zhihu",
-          "rank": 2,
-          "hot": 0,
-          "url": ""
-        }
-      ],
-      "summary": "",
-      "url": ""
     },
     {
       "id": "evt-3d000000",
@@ -149,14 +149,52 @@
       "id": "evt-65800000",
       "title": "长鑫科技网上弃购超 658 万股，券商被迫包销 5731 万元，为何大量中签散户放弃缴款？对上市股价有何影响？",
       "category": "economy",
-      "hotScore": 0.6,
-      "freshness": 0.9999,
+      "hotScore": 0.675,
+      "freshness": 1,
       "crossSource": 0.6309,
-      "totalScore": 0.7292,
+      "totalScore": 0.7593,
+      "sources": [
+        {
+          "channel": "zhihu",
+          "rank": 3,
+          "hot": 0,
+          "url": ""
+        }
+      ],
+      "summary": "",
+      "url": ""
+    },
+    {
+      "id": "evt-lv000000",
+      "title": "为什么 LV 告侵权，就是被人嘲讽，而迪士尼告侵权，大家却是玩梗，觉得很有意思呢？",
+      "category": "society",
+      "hotScore": 0.6,
+      "freshness": 1,
+      "crossSource": 0.6309,
+      "totalScore": 0.7293,
       "sources": [
         {
           "channel": "zhihu",
           "rank": 5,
+          "hot": 0,
+          "url": ""
+        }
+      ],
+      "summary": "",
+      "url": ""
+    },
+    {
+      "id": "evt-blg00000",
+      "title": "网传 BLG 队内两名队友不满 Bin，其父还「蛐蛐」其他队友父亲，这会对电竞团队协作带来什么影响？",
+      "category": "society",
+      "hotScore": 0.525,
+      "freshness": 1,
+      "crossSource": 0.6309,
+      "totalScore": 0.6993,
+      "sources": [
+        {
+          "channel": "zhihu",
+          "rank": 7,
           "hot": 0,
           "url": ""
         }
