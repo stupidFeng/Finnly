@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-07-21T22:44:30.679Z",
+  "generatedAt": "2026-07-22T01:42:38.191Z",
   "fields": {
     "society": "社会",
     "economy": "经济",
@@ -8,54 +8,54 @@
   "feed": [
     {
       "id": "evt-00000000",
-      "title": "专家：黄金已严重超卖",
+      "title": "儿童独自坐高铁攻略刷屏 官方提醒",
       "category": "society",
-      "hotScore": 0.7225,
-      "freshness": 1,
+      "hotScore": 0.72,
+      "freshness": 0.9999,
       "crossSource": 1,
-      "totalScore": 0.889,
+      "totalScore": 0.888,
       "sources": [
         {
           "channel": "toutiao",
-          "rank": 4,
-          "hot": 88414809,
-          "url": "https://www.toutiao.com/trending/7664353036575850515/"
+          "rank": 11,
+          "hot": 26407859,
+          "url": "https://www.toutiao.com/trending/7664899507213172742/"
         },
         {
           "channel": "baidu",
-          "rank": 5,
+          "rank": 3,
           "hot": 0,
-          "url": "https://m.baidu.com/s?word=%E4%B8%93%E5%AE%B6%EF%BC%9A%E9%BB%84%E9%87%91%E5%B7%B2%E4%B8%A5%E9%87%8D%E8%B6%85%E5%8D%96&sa=fyb_news"
+          "url": "https://m.baidu.com/s?word=%E5%84%BF%E7%AB%A5%E7%8B%AC%E8%87%AA%E5%9D%90%E9%AB%98%E9%93%81%E6%94%BB%E7%95%A5%E5%88%B7%E5%B1%8F+%E5%AE%98%E6%96%B9%E6%8F%90%E9%86%92&sa=fyb_news"
         }
       ],
       "summary": "",
-      "url": "https://www.toutiao.com/trending/7664353036575850515/"
+      "url": "https://www.toutiao.com/trending/7664899507213172742/"
     },
     {
-      "id": "evt-15430000",
-      "title": "1.5万元机票退票仅退432元：携程称系航司规定，航司客服称费用需与平台确认",
+      "id": "evt-50000000",
+      "title": "巨浪击沉游轮游客漂流5小时 有人吓吐",
       "category": "society",
-      "hotScore": 0.85,
+      "hotScore": 0.76,
       "freshness": 1,
       "crossSource": 0.6309,
-      "totalScore": 0.8293,
+      "totalScore": 0.7933,
       "sources": [
         {
-          "channel": "thepaper",
-          "rank": 1,
+          "channel": "baidu",
+          "rank": 2,
           "hot": 0,
-          "url": "https://www.thepaper.cn/newsDetail_forward_33623764"
+          "url": "https://m.baidu.com/s?word=%E5%B7%A8%E6%B5%AA%E5%87%BB%E6%B2%89%E6%B8%B8%E8%BD%AE%E6%B8%B8%E5%AE%A2%E6%BC%82%E6%B5%815%E5%B0%8F%E6%97%B6+%E6%9C%89%E4%BA%BA%E5%90%93%E5%90%90&sa=fyb_news"
         }
       ],
       "summary": "",
-      "url": "https://www.thepaper.cn/newsDetail_forward_33623764"
+      "url": "https://m.baidu.com/s?word=%E5%B7%A8%E6%B5%AA%E5%87%BB%E6%B2%89%E6%B8%B8%E8%BD%AE%E6%B8%B8%E5%AE%A2%E6%BC%82%E6%B5%815%E5%B0%8F%E6%97%B6+%E6%9C%89%E4%BA%BA%E5%90%93%E5%90%90&sa=fyb_news"
     },
     {
-      "id": "evt-ktv00000",
-      "title": "网友发现很多 KTV 都没有 MV 了，全是奇怪的 AI 画面，为什么会这样？你有遇到这种情况吗？",
+      "id": "evt-65600000",
+      "title": "如何看待网传甘肃 656 分考生被福耀科技大学录取？",
       "category": "society",
       "hotScore": 0.75,
-      "freshness": 1,
+      "freshness": 0.9999,
       "crossSource": 0.6309,
       "totalScore": 0.7893,
       "sources": [
@@ -70,23 +70,23 @@
       "url": ""
     },
     {
-      "id": "evt-bba00000",
-      "title": "BBA集体降价 销售：价格还能谈",
+      "id": "evt-29000000",
+      "title": "29岁四川小伙奔赴广西救灾不幸逝世：他背起受困者的希望，却倒在了山路上",
       "category": "society",
-      "hotScore": 0.72,
+      "hotScore": 0.7225,
       "freshness": 1,
       "crossSource": 0.6309,
-      "totalScore": 0.7773,
+      "totalScore": 0.7783,
       "sources": [
         {
-          "channel": "baidu",
-          "rank": 3,
+          "channel": "thepaper",
+          "rank": 4,
           "hot": 0,
-          "url": "https://m.baidu.com/s?word=BBA%E9%9B%86%E4%BD%93%E9%99%8D%E4%BB%B7+%E9%94%80%E5%94%AE%EF%BC%9A%E4%BB%B7%E6%A0%BC%E8%BF%98%E8%83%BD%E8%B0%88&sa=fyb_news"
+          "url": "https://www.thepaper.cn/newsDetail_forward_33626668"
         }
       ],
       "summary": "",
-      "url": "https://m.baidu.com/s?word=BBA%E9%9B%86%E4%BD%93%E9%99%8D%E4%BB%B7+%E9%94%80%E5%94%AE%EF%BC%9A%E4%BB%B7%E6%A0%BC%E8%BF%98%E8%83%BD%E8%B0%88&sa=fyb_news"
+      "url": "https://www.thepaper.cn/newsDetail_forward_33626668"
     },
     {
       "id": "evt-10000000",
@@ -146,6 +146,44 @@
       "url": ""
     },
     {
+      "id": "evt-15100000",
+      "title": "整车利润率仅 1.5% ，卖一台 10 万元新车只赚 1500 元，为什么车企不涨价反而打价格战？",
+      "category": "economy",
+      "hotScore": 0.5625,
+      "freshness": 0.9999,
+      "crossSource": 0.6309,
+      "totalScore": 0.7143,
+      "sources": [
+        {
+          "channel": "zhihu",
+          "rank": 6,
+          "hot": 0,
+          "url": ""
+        }
+      ],
+      "summary": "",
+      "url": ""
+    },
+    {
+      "id": "evt-ktv00000",
+      "title": "网友发现很多 KTV 都没有 MV 了，全是奇怪的 AI 画面，为什么会这样？你有遇到这种情况吗？",
+      "category": "society",
+      "hotScore": 0.7125,
+      "freshness": 0.9999,
+      "crossSource": 0.6309,
+      "totalScore": 0.7743,
+      "sources": [
+        {
+          "channel": "zhihu",
+          "rank": 2,
+          "hot": 0,
+          "url": ""
+        }
+      ],
+      "summary": "",
+      "url": ""
+    },
+    {
       "id": "evt-30000000",
       "title": "中国科技这3组数字真提气",
       "category": "society",
@@ -165,42 +203,42 @@
       "url": "https://m.baidu.com/s?word=%E4%B8%AD%E5%9B%BD%E7%A7%91%E6%8A%80%E8%BF%993%E7%BB%84%E6%95%B0%E5%AD%97%E7%9C%9F%E6%8F%90%E6%B0%94&sa=fyb_news"
     },
     {
-      "id": "evt-267ddr00",
-      "title": "如何看待 26 年 7 月 DDR5 内存价格再次暴涨，出现「一天两变、提货被拒、商家劝退用户」的怪象？",
+      "id": "evt-11000000",
+      "title": "女子临近退休差点多等11年领养老金",
       "category": "society",
-      "hotScore": 0.675,
-      "freshness": 1,
+      "hotScore": 0.68,
+      "freshness": 0.9999,
       "crossSource": 0.6309,
-      "totalScore": 0.7593,
+      "totalScore": 0.7613,
+      "sources": [
+        {
+          "channel": "toutiao",
+          "rank": 5,
+          "hot": 48118257,
+          "url": "https://www.toutiao.com/trending/7664819309566672906/"
+        }
+      ],
+      "summary": "",
+      "url": "https://www.toutiao.com/trending/7664819309566672906/"
+    },
+    {
+      "id": "evt-ai000000",
+      "title": "情侣用 AI 判断菌子毒性采了 10 余斤，被本地小孩哥筛选只剩 2 斤，AI 和小孩哥谁的判断更准？为啥会有不同？",
+      "category": "society",
+      "hotScore": 0.6375,
+      "freshness": 0.9999,
+      "crossSource": 0.6309,
+      "totalScore": 0.7443,
       "sources": [
         {
           "channel": "zhihu",
-          "rank": 3,
+          "rank": 4,
           "hot": 0,
           "url": ""
         }
       ],
       "summary": "",
       "url": ""
-    },
-    {
-      "id": "evt-20000000",
-      "title": "媒体探访从小树林出圈的“26版西游记”",
-      "category": "society",
-      "hotScore": 0.6375,
-      "freshness": 1,
-      "crossSource": 0.6309,
-      "totalScore": 0.7443,
-      "sources": [
-        {
-          "channel": "toutiao",
-          "rank": 6,
-          "hot": 72387923,
-          "url": "https://www.toutiao.com/trending/7664544012321295915/"
-        }
-      ],
-      "summary": "",
-      "url": "https://www.toutiao.com/trending/7664544012321295915/"
     },
     {
       "id": "evt-3d000000",
@@ -222,8 +260,8 @@
       "url": ""
     },
     {
-      "id": "evt-a0000000",
-      "title": "A股六大重磅信号落地",
+      "id": "evt-18000000",
+      "title": "宗馥莉上诉被驳 18亿美元资产仍冻结",
       "category": "society",
       "hotScore": 0.6,
       "freshness": 1,
@@ -234,68 +272,30 @@
           "channel": "baidu",
           "rank": 6,
           "hot": 0,
-          "url": "https://m.baidu.com/s?word=A%E8%82%A1%E5%85%AD%E5%A4%A7%E9%87%8D%E7%A3%85%E4%BF%A1%E5%8F%B7%E8%90%BD%E5%9C%B0&sa=fyb_news"
+          "url": "https://m.baidu.com/s?word=%E5%AE%97%E9%A6%A5%E8%8E%89%E4%B8%8A%E8%AF%89%E8%A2%AB%E9%A9%B3+18%E4%BA%BF%E7%BE%8E%E5%85%83%E8%B5%84%E4%BA%A7%E4%BB%8D%E5%86%BB%E7%BB%93&sa=fyb_news"
         }
       ],
       "summary": "",
-      "url": "https://m.baidu.com/s?word=A%E8%82%A1%E5%85%AD%E5%A4%A7%E9%87%8D%E7%A3%85%E4%BF%A1%E5%8F%B7%E8%90%BD%E5%9C%B0&sa=fyb_news"
+      "url": "https://m.baidu.com/s?word=%E5%AE%97%E9%A6%A5%E8%8E%89%E4%B8%8A%E8%AF%89%E8%A2%AB%E9%A9%B3+18%E4%BA%BF%E7%BE%8E%E5%85%83%E8%B5%84%E4%BA%A7%E4%BB%8D%E5%86%BB%E7%BB%93&sa=fyb_news"
     },
     {
-      "id": "evt-29000000",
-      "title": "29岁四川小伙奔赴广西救灾不幸逝世：他背起受困者的希望，却倒在了山路上",
+      "id": "evt-20000000",
+      "title": "媒体探访从小树林出圈的“26版西游记”",
       "category": "society",
-      "hotScore": 0.595,
-      "freshness": 1,
+      "hotScore": 0.5525,
+      "freshness": 0.9999,
       "crossSource": 0.6309,
-      "totalScore": 0.7273,
+      "totalScore": 0.7103,
       "sources": [
         {
-          "channel": "thepaper",
-          "rank": 7,
-          "hot": 0,
-          "url": "https://www.thepaper.cn/newsDetail_forward_33626668"
+          "channel": "toutiao",
+          "rank": 8,
+          "hot": 35646882,
+          "url": "https://www.toutiao.com/trending/7664544012321295915/"
         }
       ],
       "summary": "",
-      "url": "https://www.thepaper.cn/newsDetail_forward_33626668"
-    },
-    {
-      "id": "evt-20300000",
-      "title": "中国计划 2030 年前载人登月，美国计划 2028 年重返月球，你觉得谁会先上？为什么？",
-      "category": "society",
-      "hotScore": 0.5625,
-      "freshness": 1,
-      "crossSource": 0.6309,
-      "totalScore": 0.7143,
-      "sources": [
-        {
-          "channel": "zhihu",
-          "rank": 6,
-          "hot": 0,
-          "url": ""
-        }
-      ],
-      "summary": "",
-      "url": ""
-    },
-    {
-      "id": "evt-50000000",
-      "title": "因提亲一句玩笑公公送5吨西瓜",
-      "category": "society",
-      "hotScore": 0.56,
-      "freshness": 1,
-      "crossSource": 0.6309,
-      "totalScore": 0.7133,
-      "sources": [
-        {
-          "channel": "baidu",
-          "rank": 7,
-          "hot": 0,
-          "url": "https://m.baidu.com/s?word=%E5%9B%A0%E6%8F%90%E4%BA%B2%E4%B8%80%E5%8F%A5%E7%8E%A9%E7%AC%91%E5%85%AC%E5%85%AC%E9%80%815%E5%90%A8%E8%A5%BF%E7%93%9C&sa=fyb_news"
-        }
-      ],
-      "summary": "",
-      "url": "https://m.baidu.com/s?word=%E5%9B%A0%E6%8F%90%E4%BA%B2%E4%B8%80%E5%8F%A5%E7%8E%A9%E7%AC%91%E5%85%AC%E5%85%AC%E9%80%815%E5%90%A8%E8%A5%BF%E7%93%9C&sa=fyb_news"
+      "url": "https://www.toutiao.com/trending/7664544012321295915/"
     }
   ]
 }
