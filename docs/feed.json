@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-07-22T17:06:52.682Z",
+  "generatedAt": "2026-07-22T18:57:11.390Z",
   "fields": {
     "society": "社会",
     "economy": "经济",
@@ -10,15 +10,15 @@
       "id": "evt-81000000",
       "title": "个人贷款新规8月1日起施行",
       "category": "society",
-      "hotScore": 0.7225,
-      "freshness": 1,
+      "hotScore": 0.8075,
+      "freshness": 0.9993,
       "crossSource": 1,
-      "totalScore": 0.889,
+      "totalScore": 0.9228,
       "sources": [
         {
           "channel": "toutiao",
-          "rank": 4,
-          "hot": 13085044,
+          "rank": 2,
+          "hot": 16447946,
           "url": "https://www.toutiao.com/trending/7664196569463406655/"
         },
         {
@@ -36,14 +36,14 @@
       "title": "王毅会见鲁比奥：筹备好下阶段高层交往",
       "category": "society",
       "hotScore": 0.85,
-      "freshness": 1,
+      "freshness": 0.9993,
       "crossSource": 0.6309,
-      "totalScore": 0.8293,
+      "totalScore": 0.8291,
       "sources": [
         {
           "channel": "toutiao",
           "rank": 1,
-          "hot": 17662962,
+          "hot": 18177792,
           "url": "https://www.toutiao.com/trending/7664285403965161513/"
         }
       ],
@@ -51,13 +51,32 @@
       "url": "https://www.toutiao.com/trending/7664285403965161513/"
     },
     {
+      "id": "evt-blg00000",
+      "title": "网传 BLG 队内两名队友不满 Bin，其父还「蛐蛐」其他队友父亲，这会对电竞团队协作带来什么影响？",
+      "category": "society",
+      "hotScore": 0.75,
+      "freshness": 0.9994,
+      "crossSource": 0.6309,
+      "totalScore": 0.7891,
+      "sources": [
+        {
+          "channel": "zhihu",
+          "rank": 1,
+          "hot": 0,
+          "url": ""
+        }
+      ],
+      "summary": "",
+      "url": ""
+    },
+    {
       "id": "evt-70000000",
       "title": "国务院批复 超7万亿元大产业来了",
       "category": "society",
       "hotScore": 0.72,
-      "freshness": 1,
+      "freshness": 0.9994,
       "crossSource": 0.6309,
-      "totalScore": 0.7773,
+      "totalScore": 0.7771,
       "sources": [
         {
           "channel": "baidu",
@@ -70,32 +89,13 @@
       "url": "https://m.baidu.com/s?word=%E5%9B%BD%E5%8A%A1%E9%99%A2%E6%89%B9%E5%A4%8D+%E8%B6%857%E4%B8%87%E4%BA%BF%E5%85%83%E5%A4%A7%E4%BA%A7%E4%B8%9A%E6%9D%A5%E4%BA%86&sa=fyb_news"
     },
     {
-      "id": "evt-3d000000",
-      "title": "好未来《熊猫博士》3D动画片登陆央视少儿频道",
-      "category": "society",
-      "hotScore": 0.63,
-      "freshness": 1,
-      "crossSource": 0.6309,
-      "totalScore": 0.7413,
-      "sources": [
-        {
-          "channel": "36kr",
-          "rank": 7,
-          "hot": 0,
-          "url": ""
-        }
-      ],
-      "summary": "36氪获悉，自4月9日起，中央电视台少儿频道携手好未来旗下教育品牌熊猫博士上线3D系列动画片《熊猫博士》。与此同时，《熊猫博士》3D动画片也在美国、加拿大、俄罗斯、意大利等多个国家、地区陆续发行，并登陆Discovery探索频道等多个世界知名节目。",
-      "url": ""
-    },
-    {
       "id": "evt-10000000",
       "title": "中芯国际与嘉楠科技合作14nm矿机芯片，知情人士：能否量产要看行情",
       "category": "economy",
       "hotScore": 0.9,
-      "freshness": 1,
+      "freshness": 0.9994,
       "crossSource": 0.6309,
-      "totalScore": 0.8493,
+      "totalScore": 0.8491,
       "sources": [
         {
           "channel": "36kr",
@@ -112,9 +112,9 @@
       "title": "三大运营商年内推出5G消息",
       "category": "economy",
       "hotScore": 0.855,
-      "freshness": 1,
+      "freshness": 0.9994,
       "crossSource": 0.6309,
-      "totalScore": 0.8313,
+      "totalScore": 0.8311,
       "sources": [
         {
           "channel": "36kr",
@@ -131,9 +131,9 @@
       "title": "欧洲在线订餐服务Takeaway.com：外卖订单开始强劲复苏",
       "category": "economy",
       "hotScore": 0.81,
-      "freshness": 1,
+      "freshness": 0.9994,
       "crossSource": 0.6309,
-      "totalScore": 0.8133,
+      "totalScore": 0.8131,
       "sources": [
         {
           "channel": "36kr",
@@ -146,13 +146,51 @@
       "url": ""
     },
     {
-      "id": "evt-65800000",
-      "title": "长鑫科技网上弃购超 658 万股，券商被迫包销 5731 万元，为何大量中签散户放弃缴款？对上市股价有何影响？",
+      "id": "evt-23000000",
+      "title": "小鹏汽车一季度上险量2331台",
       "category": "economy",
-      "hotScore": 0.675,
-      "freshness": 1,
+      "hotScore": 0.495,
+      "freshness": 0.9994,
       "crossSource": 0.6309,
-      "totalScore": 0.7593,
+      "totalScore": 0.6871,
+      "sources": [
+        {
+          "channel": "36kr",
+          "rank": 10,
+          "hot": 0,
+          "url": ""
+        }
+      ],
+      "summary": "36氪获悉，4月11日，根据中国汽车研究中心数据，2020年一季度小鹏G3总计上险量达到2331台，3月单月上险量达到1094台。",
+      "url": ""
+    },
+    {
+      "id": "evt-lv000000",
+      "title": "为什么 LV 告侵权，就是被人嘲讽，而迪士尼告侵权，大家却是玩梗，觉得很有意思呢？",
+      "category": "society",
+      "hotScore": 0.7125,
+      "freshness": 0.9994,
+      "crossSource": 0.6309,
+      "totalScore": 0.7741,
+      "sources": [
+        {
+          "channel": "zhihu",
+          "rank": 2,
+          "hot": 0,
+          "url": ""
+        }
+      ],
+      "summary": "",
+      "url": ""
+    },
+    {
+      "id": "evt-18600000",
+      "title": "快递员摔坏购入价 18.6 万元的手镯，快递公司只愿赔 5 万元，赔偿金额应如何认定？消费者该如何维权？",
+      "category": "society",
+      "hotScore": 0.675,
+      "freshness": 0.9994,
+      "crossSource": 0.6309,
+      "totalScore": 0.7591,
       "sources": [
         {
           "channel": "zhihu",
@@ -165,32 +203,32 @@
       "url": ""
     },
     {
-      "id": "evt-lv000000",
-      "title": "为什么 LV 告侵权，就是被人嘲讽，而迪士尼告侵权，大家却是玩梗，觉得很有意思呢？",
+      "id": "evt-3d000000",
+      "title": "好未来《熊猫博士》3D动画片登陆央视少儿频道",
       "category": "society",
-      "hotScore": 0.6,
-      "freshness": 1,
+      "hotScore": 0.63,
+      "freshness": 0.9994,
       "crossSource": 0.6309,
-      "totalScore": 0.7293,
+      "totalScore": 0.7411,
       "sources": [
         {
-          "channel": "zhihu",
-          "rank": 5,
+          "channel": "36kr",
+          "rank": 7,
           "hot": 0,
           "url": ""
         }
       ],
-      "summary": "",
+      "summary": "36氪获悉，自4月9日起，中央电视台少儿频道携手好未来旗下教育品牌熊猫博士上线3D系列动画片《熊猫博士》。与此同时，《熊猫博士》3D动画片也在美国、加拿大、俄罗斯、意大利等多个国家、地区陆续发行，并登陆Discovery探索频道等多个世界知名节目。",
       "url": ""
     },
     {
-      "id": "evt-blg00000",
-      "title": "网传 BLG 队内两名队友不满 Bin，其父还「蛐蛐」其他队友父亲，这会对电竞团队协作带来什么影响？",
+      "id": "evt-openai00",
+      "title": "OpenAI 模型「失控」入侵全球最大 AI 开源社区，敲响了哪些 AI 安全警钟？",
       "category": "society",
       "hotScore": 0.525,
-      "freshness": 1,
+      "freshness": 0.9994,
       "crossSource": 0.6309,
-      "totalScore": 0.6993,
+      "totalScore": 0.6991,
       "sources": [
         {
           "channel": "zhihu",
@@ -201,6 +239,44 @@
       ],
       "summary": "",
       "url": ""
+    },
+    {
+      "id": "evt-ipo00000",
+      "title": "小红书回应 IPO 传闻均不属实，结合这件事来看，种草平台是否适合上市？若要上市需要具备哪些条件？",
+      "category": "economy",
+      "hotScore": 0.4875,
+      "freshness": 0.9994,
+      "crossSource": 0.6309,
+      "totalScore": 0.6841,
+      "sources": [
+        {
+          "channel": "zhihu",
+          "rank": 8,
+          "hot": 0,
+          "url": ""
+        }
+      ],
+      "summary": "",
+      "url": ""
+    },
+    {
+      "id": "evt-90000000",
+      "title": "90岁老太太给重孙女买裙子视频火了",
+      "category": "society",
+      "hotScore": 0.44,
+      "freshness": 0.9994,
+      "crossSource": 0.6309,
+      "totalScore": 0.6651,
+      "sources": [
+        {
+          "channel": "baidu",
+          "rank": 10,
+          "hot": 0,
+          "url": "https://m.baidu.com/s?word=90%E5%B2%81%E8%80%81%E5%A4%AA%E5%A4%AA%E7%BB%99%E9%87%8D%E5%AD%99%E5%A5%B3%E4%B9%B0%E8%A3%99%E5%AD%90%E8%A7%86%E9%A2%91%E7%81%AB%E4%BA%86&sa=fyb_news"
+        }
+      ],
+      "summary": "",
+      "url": "https://m.baidu.com/s?word=90%E5%B2%81%E8%80%81%E5%A4%AA%E5%A4%AA%E7%BB%99%E9%87%8D%E5%AD%99%E5%A5%B3%E4%B9%B0%E8%A3%99%E5%AD%90%E8%A7%86%E9%A2%91%E7%81%AB%E4%BA%86&sa=fyb_news"
     }
   ]
 }
