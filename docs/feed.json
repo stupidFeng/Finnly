@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-07-23T20:50:47.779Z",
+  "generatedAt": "2026-07-23T22:46:33.514Z",
   "fields": {
     "society": "社会",
     "economy": "经济",
@@ -7,43 +7,18 @@
   },
   "feed": [
     {
-      "id": "evt-00000000",
-      "title": "人社部亮出社保“家底”",
-      "category": "society",
-      "hotScore": 0.72,
-      "freshness": 0.9999,
-      "crossSource": 1,
-      "totalScore": 0.888,
-      "sources": [
-        {
-          "channel": "toutiao",
-          "rank": 17,
-          "hot": 3005014,
-          "url": "https://www.toutiao.com/trending/7665260651014848521/"
-        },
-        {
-          "channel": "baidu",
-          "rank": 3,
-          "hot": 0,
-          "url": "https://m.baidu.com/s?word=%E4%BA%BA%E7%A4%BE%E9%83%A8%E4%BA%AE%E5%87%BA%E7%A4%BE%E4%BF%9D%E2%80%9C%E5%AE%B6%E5%BA%95%E2%80%9D&sa=fyb_news"
-        }
-      ],
-      "summary": "",
-      "url": "https://www.toutiao.com/trending/7665260651014848521/"
-    },
-    {
       "id": "evt-20000000",
       "title": "创历史！2名中国籍数学家获菲尔兹奖",
       "category": "society",
       "hotScore": 0.85,
-      "freshness": 0.9999,
+      "freshness": 1,
       "crossSource": 0.6309,
       "totalScore": 0.8293,
       "sources": [
         {
           "channel": "toutiao",
           "rank": 1,
-          "hot": 14883932,
+          "hot": 16056925,
           "url": "https://www.toutiao.com/trending/7665722221507169830/"
         }
       ],
@@ -51,11 +26,30 @@
       "url": "https://www.toutiao.com/trending/7665722221507169830/"
     },
     {
+      "id": "evt-00000000",
+      "title": "中国数学家王虹、邓煜双双获得菲尔兹奖，均系北大校友",
+      "category": "society",
+      "hotScore": 0.85,
+      "freshness": 1,
+      "crossSource": 0.6309,
+      "totalScore": 0.8293,
+      "sources": [
+        {
+          "channel": "thepaper",
+          "rank": 1,
+          "hot": 0,
+          "url": "https://www.thepaper.cn/newsDetail_forward_33645576"
+        }
+      ],
+      "summary": "",
+      "url": "https://www.thepaper.cn/newsDetail_forward_33645576"
+    },
+    {
       "id": "evt-20260000",
       "title": "2026 年菲尔兹奖公布，中国籍数学家邓煜、王虹获奖，如何理解他们获奖的意义？",
       "category": "society",
       "hotScore": 0.75,
-      "freshness": 0.9999,
+      "freshness": 1,
       "crossSource": 0.6309,
       "totalScore": 0.7893,
       "sources": [
@@ -74,14 +68,14 @@
       "title": "重庆山体崩塌已致11死50失联",
       "category": "society",
       "hotScore": 0.7225,
-      "freshness": 0.9999,
+      "freshness": 1,
       "crossSource": 0.6309,
       "totalScore": 0.7783,
       "sources": [
         {
           "channel": "toutiao",
           "rank": 4,
-          "hot": 11026288,
+          "hot": 11895263,
           "url": "https://www.toutiao.com/trending/7664907853928906794/"
         }
       ],
@@ -150,7 +144,7 @@
       "title": "644 分考生因填志愿未看清厦门大学本部与分校将复读，去年同有 16 人报错相同分校复读，反映了哪些问题？",
       "category": "society",
       "hotScore": 0.7125,
-      "freshness": 0.9999,
+      "freshness": 1,
       "crossSource": 0.6309,
       "totalScore": 0.7743,
       "sources": [
@@ -203,6 +197,25 @@
       "url": ""
     },
     {
+      "id": "evt-54700000",
+      "title": "云南耿马惊现54.7公斤巨大口蘑",
+      "category": "society",
+      "hotScore": 0.595,
+      "freshness": 1,
+      "crossSource": 0.6309,
+      "totalScore": 0.7273,
+      "sources": [
+        {
+          "channel": "toutiao",
+          "rank": 7,
+          "hot": 8812227,
+          "url": "https://www.toutiao.com/trending/7665538572556222490/"
+        }
+      ],
+      "summary": "",
+      "url": "https://www.toutiao.com/trending/7665538572556222490/"
+    },
+    {
       "id": "evt-60000000",
       "title": "视频丨美国海岸警卫队6艘巡逻舰“现身”南海，打的什么算盘？",
       "category": "society",
@@ -222,11 +235,11 @@
       "url": "https://www.thepaper.cn/newsDetail_forward_33642339"
     },
     {
-      "id": "evt-alp00000",
-      "title": "如何看待谷歌母公司 Alphabet 自由现金流数十年来首次转负？",
+      "id": "evt-37990000",
+      "title": "连续 37 天喝 9.9 元咖啡的贫困生补助金，是否该取消？有较多自称贫困生的大学生维护喝咖啡自由，合理吗？",
       "category": "society",
       "hotScore": 0.525,
-      "freshness": 0.9999,
+      "freshness": 1,
       "crossSource": 0.6309,
       "totalScore": 0.6993,
       "sources": [
