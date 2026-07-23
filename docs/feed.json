@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-07-23T18:58:17.360Z",
+  "generatedAt": "2026-07-23T20:50:47.779Z",
   "fields": {
     "society": "社会",
     "economy": "经济",
@@ -7,43 +7,43 @@
   },
   "feed": [
     {
-      "id": "evt-32000000",
-      "title": "中国女排3比2逆转美国",
+      "id": "evt-00000000",
+      "title": "人社部亮出社保“家底”",
       "category": "society",
-      "hotScore": 0.595,
-      "freshness": 1,
+      "hotScore": 0.72,
+      "freshness": 0.9999,
       "crossSource": 1,
-      "totalScore": 0.838,
+      "totalScore": 0.888,
       "sources": [
         {
           "channel": "toutiao",
-          "rank": 7,
-          "hot": 7919211,
-          "url": "https://www.toutiao.com/trending/7665720445194210822/"
+          "rank": 17,
+          "hot": 3005014,
+          "url": "https://www.toutiao.com/trending/7665260651014848521/"
         },
         {
           "channel": "baidu",
-          "rank": 19,
+          "rank": 3,
           "hot": 0,
-          "url": "https://m.baidu.com/s?word=%E4%B8%AD%E5%9B%BD%E5%A5%B3%E6%8E%923%E6%AF%942%E9%80%86%E8%BD%AC%E7%BE%8E%E5%9B%BD&sa=fyb_news"
+          "url": "https://m.baidu.com/s?word=%E4%BA%BA%E7%A4%BE%E9%83%A8%E4%BA%AE%E5%87%BA%E7%A4%BE%E4%BF%9D%E2%80%9C%E5%AE%B6%E5%BA%95%E2%80%9D&sa=fyb_news"
         }
       ],
       "summary": "",
-      "url": "https://www.toutiao.com/trending/7665720445194210822/"
+      "url": "https://www.toutiao.com/trending/7665260651014848521/"
     },
     {
       "id": "evt-20000000",
       "title": "创历史！2名中国籍数学家获菲尔兹奖",
       "category": "society",
       "hotScore": 0.85,
-      "freshness": 1,
+      "freshness": 0.9999,
       "crossSource": 0.6309,
       "totalScore": 0.8293,
       "sources": [
         {
           "channel": "toutiao",
           "rank": 1,
-          "hot": 14429744,
+          "hot": 14883932,
           "url": "https://www.toutiao.com/trending/7665722221507169830/"
         }
       ],
@@ -51,30 +51,11 @@
       "url": "https://www.toutiao.com/trending/7665722221507169830/"
     },
     {
-      "id": "evt-00000000",
-      "title": "中国数学家王虹、邓煜双双获得菲尔兹奖，均系北大校友",
-      "category": "society",
-      "hotScore": 0.85,
-      "freshness": 1,
-      "crossSource": 0.6309,
-      "totalScore": 0.8293,
-      "sources": [
-        {
-          "channel": "thepaper",
-          "rank": 1,
-          "hot": 0,
-          "url": "https://www.thepaper.cn/newsDetail_forward_33645576"
-        }
-      ],
-      "summary": "",
-      "url": "https://www.thepaper.cn/newsDetail_forward_33645576"
-    },
-    {
       "id": "evt-20260000",
       "title": "2026 年菲尔兹奖公布，中国籍数学家邓煜、王虹获奖，如何理解他们获奖的意义？",
       "category": "society",
       "hotScore": 0.75,
-      "freshness": 1,
+      "freshness": 0.9999,
       "crossSource": 0.6309,
       "totalScore": 0.7893,
       "sources": [
@@ -87,6 +68,25 @@
       ],
       "summary": "",
       "url": ""
+    },
+    {
+      "id": "evt-11500000",
+      "title": "重庆山体崩塌已致11死50失联",
+      "category": "society",
+      "hotScore": 0.7225,
+      "freshness": 0.9999,
+      "crossSource": 0.6309,
+      "totalScore": 0.7783,
+      "sources": [
+        {
+          "channel": "toutiao",
+          "rank": 4,
+          "hot": 11026288,
+          "url": "https://www.toutiao.com/trending/7664907853928906794/"
+        }
+      ],
+      "summary": "",
+      "url": "https://www.toutiao.com/trending/7664907853928906794/"
     },
     {
       "id": "evt-10000000",
@@ -146,23 +146,23 @@
       "url": ""
     },
     {
-      "id": "evt-11500000",
-      "title": "重庆山体崩塌已致11死50失联",
+      "id": "evt-64400000",
+      "title": "644 分考生因填志愿未看清厦门大学本部与分校将复读，去年同有 16 人报错相同分校复读，反映了哪些问题？",
       "category": "society",
-      "hotScore": 0.7225,
-      "freshness": 1,
+      "hotScore": 0.7125,
+      "freshness": 0.9999,
       "crossSource": 0.6309,
-      "totalScore": 0.7783,
+      "totalScore": 0.7743,
       "sources": [
         {
-          "channel": "toutiao",
-          "rank": 4,
-          "hot": 10689817,
-          "url": "https://www.toutiao.com/trending/7664907853928906794/"
+          "channel": "zhihu",
+          "rank": 2,
+          "hot": 0,
+          "url": ""
         }
       ],
       "summary": "",
-      "url": "https://www.toutiao.com/trending/7664907853928906794/"
+      "url": ""
     },
     {
       "id": "evt-50000000",
@@ -184,44 +184,6 @@
       "url": "https://m.baidu.com/s?word=%E6%9C%AA%E6%9D%A55%E5%B9%B4%E6%88%91%E4%BB%AC%E7%9A%84%E5%87%BA%E8%A1%8C%E5%B0%86%E6%9C%89%E6%96%B0%E5%8F%98%E5%8C%96&sa=fyb_news"
     },
     {
-      "id": "evt-64400000",
-      "title": "644 分考生因填志愿未看清厦门大学本部与分校将复读，去年同有 16 人报错相同分校复读，反映了哪些问题？",
-      "category": "society",
-      "hotScore": 0.6375,
-      "freshness": 1,
-      "crossSource": 0.6309,
-      "totalScore": 0.7443,
-      "sources": [
-        {
-          "channel": "zhihu",
-          "rank": 4,
-          "hot": 0,
-          "url": ""
-        }
-      ],
-      "summary": "",
-      "url": ""
-    },
-    {
-      "id": "evt-60000000",
-      "title": "视频丨美国海岸警卫队6艘巡逻舰“现身”南海，打的什么算盘？",
-      "category": "society",
-      "hotScore": 0.6375,
-      "freshness": 1,
-      "crossSource": 0.6309,
-      "totalScore": 0.7443,
-      "sources": [
-        {
-          "channel": "thepaper",
-          "rank": 6,
-          "hot": 0,
-          "url": "https://www.thepaper.cn/newsDetail_forward_33642339"
-        }
-      ],
-      "summary": "",
-      "url": "https://www.thepaper.cn/newsDetail_forward_33642339"
-    },
-    {
       "id": "evt-3d000000",
       "title": "好未来《熊猫博士》3D动画片登陆央视少儿频道",
       "category": "society",
@@ -241,23 +203,42 @@
       "url": ""
     },
     {
-      "id": "evt-20500000",
-      "title": "享受20万报销得先自费50万？当患者遇上惠民保调整，高保障与可持续性如何兼顾",
+      "id": "evt-60000000",
+      "title": "视频丨美国海岸警卫队6艘巡逻舰“现身”南海，打的什么算盘？",
       "category": "society",
-      "hotScore": 0.5525,
+      "hotScore": 0.595,
       "freshness": 1,
       "crossSource": 0.6309,
-      "totalScore": 0.7103,
+      "totalScore": 0.7273,
       "sources": [
         {
           "channel": "thepaper",
-          "rank": 8,
+          "rank": 7,
           "hot": 0,
-          "url": "https://www.thepaper.cn/newsDetail_forward_33622331"
+          "url": "https://www.thepaper.cn/newsDetail_forward_33642339"
         }
       ],
       "summary": "",
-      "url": "https://www.thepaper.cn/newsDetail_forward_33622331"
+      "url": "https://www.thepaper.cn/newsDetail_forward_33642339"
+    },
+    {
+      "id": "evt-alp00000",
+      "title": "如何看待谷歌母公司 Alphabet 自由现金流数十年来首次转负？",
+      "category": "society",
+      "hotScore": 0.525,
+      "freshness": 0.9999,
+      "crossSource": 0.6309,
+      "totalScore": 0.6993,
+      "sources": [
+        {
+          "channel": "zhihu",
+          "rank": 7,
+          "hot": 0,
+          "url": ""
+        }
+      ],
+      "summary": "",
+      "url": ""
     }
   ]
 }
