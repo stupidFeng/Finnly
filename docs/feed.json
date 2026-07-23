@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-07-23T05:16:12.590Z",
+  "generatedAt": "2026-07-23T08:11:11.495Z",
   "fields": {
     "society": "社会",
     "economy": "经济",
@@ -7,43 +7,18 @@
   },
   "feed": [
     {
-      "id": "evt-30000000",
-      "title": "大爷摸知了猴3个小时赚近400元",
-      "category": "society",
-      "hotScore": 0.85,
-      "freshness": 0.9998,
-      "crossSource": 1,
-      "totalScore": 0.94,
-      "sources": [
-        {
-          "channel": "toutiao",
-          "rank": 1,
-          "hot": 18927823,
-          "url": "https://www.toutiao.com/trending/7665375611665383462/"
-        },
-        {
-          "channel": "baidu",
-          "rank": 9,
-          "hot": 0,
-          "url": "https://m.baidu.com/s?word=%E5%A4%A7%E7%88%B7%E6%91%B8%E7%9F%A5%E4%BA%86%E7%8C%B43%E4%B8%AA%E5%B0%8F%E6%97%B6%E8%B5%9A%E8%BF%91400%E5%85%83&sa=fyb_news"
-        }
-      ],
-      "summary": "",
-      "url": "https://www.toutiao.com/trending/7665375611665383462/"
-    },
-    {
       "id": "evt-20000000",
       "title": "净网：网警发20起涉汛涉灾谣言案例",
       "category": "society",
       "hotScore": 0.6375,
-      "freshness": 0.9998,
+      "freshness": 1,
       "crossSource": 1,
       "totalScore": 0.855,
       "sources": [
         {
           "channel": "toutiao",
           "rank": 6,
-          "hot": 11480305,
+          "hot": 12713063,
           "url": "https://www.toutiao.com/trending/7665532809305706011/"
         },
         {
@@ -58,56 +33,88 @@
     },
     {
       "id": "evt-00000000",
-      "title": "贝克汉姆秃顶了",
+      "title": "外交部：中国外长没有与日方会见安排",
       "category": "society",
-      "hotScore": 0.6,
-      "freshness": 0.9998,
-      "crossSource": 1,
-      "totalScore": 0.84,
+      "hotScore": 0.85,
+      "freshness": 1,
+      "crossSource": 0.6309,
+      "totalScore": 0.8293,
       "sources": [
         {
           "channel": "toutiao",
-          "rank": 14,
-          "hot": 5158433,
-          "url": "https://www.toutiao.com/trending/7664799369761325066/"
-        },
-        {
-          "channel": "baidu",
-          "rank": 6,
-          "hot": 0,
-          "url": "https://m.baidu.com/s?word=%E8%B4%9D%E5%85%8B%E6%B1%89%E5%A7%86%E7%A7%83%E9%A1%B6%E4%BA%86&sa=fyb_news"
+          "rank": 1,
+          "hot": 20960298,
+          "url": "https://www.toutiao.com/trending/7664875358533075007/"
         }
       ],
       "summary": "",
-      "url": "https://www.toutiao.com/trending/7664799369761325066/"
+      "url": "https://www.toutiao.com/trending/7664875358533075007/"
     },
     {
-      "id": "evt-10000000",
-      "title": "多款高端手机涨价超1000元",
+      "id": "evt-30000000",
+      "title": "清华毕业生备考3年被北大医学部录取",
       "category": "society",
       "hotScore": 0.76,
-      "freshness": 0.9998,
+      "freshness": 1,
       "crossSource": 0.6309,
-      "totalScore": 0.7932,
+      "totalScore": 0.7933,
       "sources": [
         {
           "channel": "baidu",
           "rank": 2,
           "hot": 0,
-          "url": "https://m.baidu.com/s?word=%E5%A4%9A%E6%AC%BE%E9%AB%98%E7%AB%AF%E6%89%8B%E6%9C%BA%E6%B6%A8%E4%BB%B7%E8%B6%851000%E5%85%83&sa=fyb_news"
+          "url": "https://m.baidu.com/s?word=%E6%B8%85%E5%8D%8E%E6%AF%95%E4%B8%9A%E7%94%9F%E5%A4%87%E8%80%833%E5%B9%B4%E8%A2%AB%E5%8C%97%E5%A4%A7%E5%8C%BB%E5%AD%A6%E9%83%A8%E5%BD%95%E5%8F%96&sa=fyb_news"
         }
       ],
       "summary": "",
-      "url": "https://m.baidu.com/s?word=%E5%A4%9A%E6%AC%BE%E9%AB%98%E7%AB%AF%E6%89%8B%E6%9C%BA%E6%B6%A8%E4%BB%B7%E8%B6%851000%E5%85%83&sa=fyb_news"
+      "url": "https://m.baidu.com/s?word=%E6%B8%85%E5%8D%8E%E6%AF%95%E4%B8%9A%E7%94%9F%E5%A4%87%E8%80%833%E5%B9%B4%E8%A2%AB%E5%8C%97%E5%A4%A7%E5%8C%BB%E5%AD%A6%E9%83%A8%E5%BD%95%E5%8F%96&sa=fyb_news"
+    },
+    {
+      "id": "evt-21400000",
+      "title": "许昌2名瓜农为14万斤滞销西瓜求援：地头价两毛一斤，销售窗口或仅一周",
+      "category": "society",
+      "hotScore": 0.7225,
+      "freshness": 1,
+      "crossSource": 0.6309,
+      "totalScore": 0.7783,
+      "sources": [
+        {
+          "channel": "thepaper",
+          "rank": 4,
+          "hot": 0,
+          "url": "https://www.thepaper.cn/newsDetail_forward_33637251"
+        }
+      ],
+      "summary": "",
+      "url": "https://www.thepaper.cn/newsDetail_forward_33637251"
+    },
+    {
+      "id": "evt-10000000",
+      "title": "中芯国际与嘉楠科技合作14nm矿机芯片，知情人士：能否量产要看行情",
+      "category": "economy",
+      "hotScore": 0.9,
+      "freshness": 1,
+      "crossSource": 0.6309,
+      "totalScore": 0.8493,
+      "sources": [
+        {
+          "channel": "36kr",
+          "rank": 1,
+          "hot": 0,
+          "url": ""
+        }
+      ],
+      "summary": "有消息称，中芯国际与嘉楠科技合作的14nm矿机芯片已完成测试，将在今年二季度量产出货。对此，知情人士称，双方合作始于2019年年底，但能否量产要看行情。据悉，中芯国际数次尝试进入矿机行业，但受行情拖累一直未有实质进展。（财联社）",
+      "url": ""
     },
     {
       "id": "evt-5g000000",
       "title": "三大运营商年内推出5G消息",
       "category": "economy",
       "hotScore": 0.855,
-      "freshness": 0.9999,
+      "freshness": 1,
       "crossSource": 0.6309,
-      "totalScore": 0.8312,
+      "totalScore": 0.8313,
       "sources": [
         {
           "channel": "36kr",
@@ -124,9 +131,9 @@
       "title": "欧洲在线订餐服务Takeaway.com：外卖订单开始强劲复苏",
       "category": "economy",
       "hotScore": 0.81,
-      "freshness": 0.9999,
+      "freshness": 1,
       "crossSource": 0.6309,
-      "totalScore": 0.8132,
+      "totalScore": 0.8133,
       "sources": [
         {
           "channel": "36kr",
@@ -139,55 +146,17 @@
       "url": ""
     },
     {
-      "id": "evt-deepseekkim",
-      "title": "DeepSeek与Kimi的突破说明了什么",
-      "category": "society",
-      "hotScore": 0.7225,
-      "freshness": 1,
-      "crossSource": 0.6309,
-      "totalScore": 0.7783,
-      "sources": [
-        {
-          "channel": "toutiao",
-          "rank": 4,
-          "hot": 14022076,
-          "url": "https://www.toutiao.com/trending/7665542730700820004/"
-        }
-      ],
-      "summary": "",
-      "url": "https://www.toutiao.com/trending/7665542730700820004/"
-    },
-    {
-      "id": "evt-21400000",
-      "title": "许昌2名瓜农为14万斤滞销西瓜求援：地头价两毛一斤，销售窗口或仅一周",
-      "category": "society",
-      "hotScore": 0.68,
-      "freshness": 0.9998,
-      "crossSource": 0.6309,
-      "totalScore": 0.7612,
-      "sources": [
-        {
-          "channel": "thepaper",
-          "rank": 5,
-          "hot": 0,
-          "url": "https://www.thepaper.cn/newsDetail_forward_33637251"
-        }
-      ],
-      "summary": "",
-      "url": "https://www.thepaper.cn/newsDetail_forward_33637251"
-    },
-    {
       "id": "evt-gpt56000",
       "title": "如何评价 GPT-5.6 为了在跑分上作弊，自主挖掘零日漏洞从沙盒逃逸，然后把 Hugging Face 黑了？",
       "category": "society",
-      "hotScore": 0.675,
-      "freshness": 0.9998,
+      "hotScore": 0.7125,
+      "freshness": 0.9999,
       "crossSource": 0.6309,
-      "totalScore": 0.7592,
+      "totalScore": 0.7743,
       "sources": [
         {
           "channel": "zhihu",
-          "rank": 3,
+          "rank": 2,
           "hot": 0,
           "url": ""
         }
@@ -196,13 +165,32 @@
       "url": ""
     },
     {
+      "id": "evt-logo0000",
+      "title": "荣耀更换logo",
+      "category": "society",
+      "hotScore": 0.64,
+      "freshness": 1,
+      "crossSource": 0.6309,
+      "totalScore": 0.7453,
+      "sources": [
+        {
+          "channel": "baidu",
+          "rank": 5,
+          "hot": 0,
+          "url": "https://m.baidu.com/s?word=%E8%8D%A3%E8%80%80%E6%9B%B4%E6%8D%A2logo&sa=fyb_news"
+        }
+      ],
+      "summary": "",
+      "url": "https://m.baidu.com/s?word=%E8%8D%A3%E8%80%80%E6%9B%B4%E6%8D%A2logo&sa=fyb_news"
+    },
+    {
       "id": "evt-3d000000",
       "title": "好未来《熊猫博士》3D动画片登陆央视少儿频道",
       "category": "society",
       "hotScore": 0.63,
-      "freshness": 0.9999,
+      "freshness": 1,
       "crossSource": 0.6309,
-      "totalScore": 0.7412,
+      "totalScore": 0.7413,
       "sources": [
         {
           "channel": "36kr",
@@ -215,17 +203,55 @@
       "url": ""
     },
     {
+      "id": "evt-68000000",
+      "title": "湖南通报“68元请香结账变952元”",
+      "category": "society",
+      "hotScore": 0.6,
+      "freshness": 1,
+      "crossSource": 0.6309,
+      "totalScore": 0.7293,
+      "sources": [
+        {
+          "channel": "baidu",
+          "rank": 6,
+          "hot": 0,
+          "url": "https://m.baidu.com/s?word=%E6%B9%96%E5%8D%97%E9%80%9A%E6%8A%A5%E2%80%9C68%E5%85%83%E8%AF%B7%E9%A6%99%E7%BB%93%E8%B4%A6%E5%8F%98952%E5%85%83%E2%80%9D&sa=fyb_news"
+        }
+      ],
+      "summary": "",
+      "url": "https://m.baidu.com/s?word=%E6%B9%96%E5%8D%97%E9%80%9A%E6%8A%A5%E2%80%9C68%E5%85%83%E8%AF%B7%E9%A6%99%E7%BB%93%E8%B4%A6%E5%8F%98952%E5%85%83%E2%80%9D&sa=fyb_news"
+    },
+    {
+      "id": "evt-15000000",
+      "title": "女子搬运150斤黄鸡蛋瞬间全碎",
+      "category": "society",
+      "hotScore": 0.595,
+      "freshness": 1,
+      "crossSource": 0.6309,
+      "totalScore": 0.7273,
+      "sources": [
+        {
+          "channel": "toutiao",
+          "rank": 7,
+          "hot": 11503255,
+          "url": "https://www.toutiao.com/trending/7665583131156119558/"
+        }
+      ],
+      "summary": "",
+      "url": "https://www.toutiao.com/trending/7665583131156119558/"
+    },
+    {
       "id": "evt-16000000",
       "title": "警方通报16岁男生死亡事件：案发地不属于涉黄场所，嫌犯非保安",
       "category": "society",
-      "hotScore": 0.5525,
-      "freshness": 0.9998,
+      "hotScore": 0.595,
+      "freshness": 1,
       "crossSource": 0.6309,
-      "totalScore": 0.7102,
+      "totalScore": 0.7273,
       "sources": [
         {
           "channel": "thepaper",
-          "rank": 8,
+          "rank": 7,
           "hot": 0,
           "url": "https://www.thepaper.cn/newsDetail_forward_33638589"
         }
