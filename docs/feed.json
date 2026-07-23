@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-07-23T08:11:11.495Z",
+  "generatedAt": "2026-07-23T11:45:25.886Z",
   "fields": {
     "society": "社会",
     "economy": "经济",
@@ -18,7 +18,7 @@
         {
           "channel": "toutiao",
           "rank": 6,
-          "hot": 12713063,
+          "hot": 6467404,
           "url": "https://www.toutiao.com/trending/7665532809305706011/"
         },
         {
@@ -33,7 +33,7 @@
     },
     {
       "id": "evt-00000000",
-      "title": "外交部：中国外长没有与日方会见安排",
+      "title": "中纪委连打三虎",
       "category": "society",
       "hotScore": 0.85,
       "freshness": 1,
@@ -43,50 +43,50 @@
         {
           "channel": "toutiao",
           "rank": 1,
-          "hot": 20960298,
-          "url": "https://www.toutiao.com/trending/7664875358533075007/"
+          "hot": 10662947,
+          "url": "https://www.toutiao.com/trending/7665630273539211315/"
         }
       ],
       "summary": "",
-      "url": "https://www.toutiao.com/trending/7664875358533075007/"
-    },
-    {
-      "id": "evt-30000000",
-      "title": "清华毕业生备考3年被北大医学部录取",
-      "category": "society",
-      "hotScore": 0.76,
-      "freshness": 1,
-      "crossSource": 0.6309,
-      "totalScore": 0.7933,
-      "sources": [
-        {
-          "channel": "baidu",
-          "rank": 2,
-          "hot": 0,
-          "url": "https://m.baidu.com/s?word=%E6%B8%85%E5%8D%8E%E6%AF%95%E4%B8%9A%E7%94%9F%E5%A4%87%E8%80%833%E5%B9%B4%E8%A2%AB%E5%8C%97%E5%A4%A7%E5%8C%BB%E5%AD%A6%E9%83%A8%E5%BD%95%E5%8F%96&sa=fyb_news"
-        }
-      ],
-      "summary": "",
-      "url": "https://m.baidu.com/s?word=%E6%B8%85%E5%8D%8E%E6%AF%95%E4%B8%9A%E7%94%9F%E5%A4%87%E8%80%833%E5%B9%B4%E8%A2%AB%E5%8C%97%E5%A4%A7%E5%8C%BB%E5%AD%A6%E9%83%A8%E5%BD%95%E5%8F%96&sa=fyb_news"
+      "url": "https://www.toutiao.com/trending/7665630273539211315/"
     },
     {
       "id": "evt-21400000",
       "title": "许昌2名瓜农为14万斤滞销西瓜求援：地头价两毛一斤，销售窗口或仅一周",
       "category": "society",
-      "hotScore": 0.7225,
+      "hotScore": 0.85,
       "freshness": 1,
       "crossSource": 0.6309,
-      "totalScore": 0.7783,
+      "totalScore": 0.8293,
       "sources": [
         {
           "channel": "thepaper",
-          "rank": 4,
+          "rank": 1,
           "hot": 0,
           "url": "https://www.thepaper.cn/newsDetail_forward_33637251"
         }
       ],
       "summary": "",
       "url": "https://www.thepaper.cn/newsDetail_forward_33637251"
+    },
+    {
+      "id": "evt-37300000",
+      "title": "机场回应373名乘客被困机舱10小时",
+      "category": "society",
+      "hotScore": 0.8075,
+      "freshness": 1,
+      "crossSource": 0.6309,
+      "totalScore": 0.8123,
+      "sources": [
+        {
+          "channel": "toutiao",
+          "rank": 2,
+          "hot": 9648234,
+          "url": "https://www.toutiao.com/trending/7665339821040697390/"
+        }
+      ],
+      "summary": "",
+      "url": "https://www.toutiao.com/trending/7665339821040697390/"
     },
     {
       "id": "evt-10000000",
@@ -146,28 +146,9 @@
       "url": ""
     },
     {
-      "id": "evt-gpt56000",
-      "title": "如何评价 GPT-5.6 为了在跑分上作弊，自主挖掘零日漏洞从沙盒逃逸，然后把 Hugging Face 黑了？",
-      "category": "society",
-      "hotScore": 0.7125,
-      "freshness": 0.9999,
-      "crossSource": 0.6309,
-      "totalScore": 0.7743,
-      "sources": [
-        {
-          "channel": "zhihu",
-          "rank": 2,
-          "hot": 0,
-          "url": ""
-        }
-      ],
-      "summary": "",
-      "url": ""
-    },
-    {
-      "id": "evt-logo0000",
-      "title": "荣耀更换logo",
-      "category": "society",
+      "id": "evt-gdp00000",
+      "title": "GDP十强省份又变了",
+      "category": "economy",
       "hotScore": 0.64,
       "freshness": 1,
       "crossSource": 0.6309,
@@ -177,11 +158,87 @@
           "channel": "baidu",
           "rank": 5,
           "hot": 0,
-          "url": "https://m.baidu.com/s?word=%E8%8D%A3%E8%80%80%E6%9B%B4%E6%8D%A2logo&sa=fyb_news"
+          "url": "https://m.baidu.com/s?word=GDP%E5%8D%81%E5%BC%BA%E7%9C%81%E4%BB%BD%E5%8F%88%E5%8F%98%E4%BA%86&sa=fyb_news"
         }
       ],
       "summary": "",
-      "url": "https://m.baidu.com/s?word=%E8%8D%A3%E8%80%80%E6%9B%B4%E6%8D%A2logo&sa=fyb_news"
+      "url": "https://m.baidu.com/s?word=GDP%E5%8D%81%E5%BC%BA%E7%9C%81%E4%BB%BD%E5%8F%88%E5%8F%98%E4%BA%86&sa=fyb_news"
+    },
+    {
+      "id": "evt-16000000",
+      "title": "警方通报16岁男生死亡事件：案发地不属于涉黄场所，嫌犯非保安",
+      "category": "society",
+      "hotScore": 0.8075,
+      "freshness": 1,
+      "crossSource": 0.6309,
+      "totalScore": 0.8123,
+      "sources": [
+        {
+          "channel": "thepaper",
+          "rank": 2,
+          "hot": 0,
+          "url": "https://www.thepaper.cn/newsDetail_forward_33638589"
+        }
+      ],
+      "summary": "",
+      "url": "https://www.thepaper.cn/newsDetail_forward_33638589"
+    },
+    {
+      "id": "evt-gpt56000",
+      "title": "如何评价 GPT-5.6 为了在跑分上作弊，自主挖掘零日漏洞从沙盒逃逸，然后把 Hugging Face 黑了？",
+      "category": "society",
+      "hotScore": 0.75,
+      "freshness": 1,
+      "crossSource": 0.6309,
+      "totalScore": 0.7893,
+      "sources": [
+        {
+          "channel": "zhihu",
+          "rank": 1,
+          "hot": 0,
+          "url": ""
+        }
+      ],
+      "summary": "",
+      "url": ""
+    },
+    {
+      "id": "evt-64400000",
+      "title": "644分考生误报厦大分校或将复读",
+      "category": "society",
+      "hotScore": 0.7225,
+      "freshness": 1,
+      "crossSource": 0.6309,
+      "totalScore": 0.7783,
+      "sources": [
+        {
+          "channel": "toutiao",
+          "rank": 4,
+          "hot": 7899305,
+          "url": "https://www.toutiao.com/trending/7665194538676060206/"
+        }
+      ],
+      "summary": "",
+      "url": "https://www.toutiao.com/trending/7665194538676060206/"
+    },
+    {
+      "id": "evt-60000000",
+      "title": "视频丨美国海岸警卫队6艘巡逻舰“现身”南海，打的什么算盘？",
+      "category": "society",
+      "hotScore": 0.6375,
+      "freshness": 1,
+      "crossSource": 0.6309,
+      "totalScore": 0.7443,
+      "sources": [
+        {
+          "channel": "thepaper",
+          "rank": 6,
+          "hot": 0,
+          "url": "https://www.thepaper.cn/newsDetail_forward_33642339"
+        }
+      ],
+      "summary": "",
+      "url": "https://www.thepaper.cn/newsDetail_forward_33642339"
     },
     {
       "id": "evt-3d000000",
@@ -203,61 +260,42 @@
       "url": ""
     },
     {
-      "id": "evt-68000000",
-      "title": "湖南通报“68元请香结账变952元”",
+      "id": "evt-20500000",
+      "title": "享受20万报销得先自费50万？当患者遇上惠民保调整，高保障与可持续性如何兼顾",
       "category": "society",
-      "hotScore": 0.6,
+      "hotScore": 0.5525,
       "freshness": 1,
       "crossSource": 0.6309,
-      "totalScore": 0.7293,
-      "sources": [
-        {
-          "channel": "baidu",
-          "rank": 6,
-          "hot": 0,
-          "url": "https://m.baidu.com/s?word=%E6%B9%96%E5%8D%97%E9%80%9A%E6%8A%A5%E2%80%9C68%E5%85%83%E8%AF%B7%E9%A6%99%E7%BB%93%E8%B4%A6%E5%8F%98952%E5%85%83%E2%80%9D&sa=fyb_news"
-        }
-      ],
-      "summary": "",
-      "url": "https://m.baidu.com/s?word=%E6%B9%96%E5%8D%97%E9%80%9A%E6%8A%A5%E2%80%9C68%E5%85%83%E8%AF%B7%E9%A6%99%E7%BB%93%E8%B4%A6%E5%8F%98952%E5%85%83%E2%80%9D&sa=fyb_news"
-    },
-    {
-      "id": "evt-15000000",
-      "title": "女子搬运150斤黄鸡蛋瞬间全碎",
-      "category": "society",
-      "hotScore": 0.595,
-      "freshness": 1,
-      "crossSource": 0.6309,
-      "totalScore": 0.7273,
-      "sources": [
-        {
-          "channel": "toutiao",
-          "rank": 7,
-          "hot": 11503255,
-          "url": "https://www.toutiao.com/trending/7665583131156119558/"
-        }
-      ],
-      "summary": "",
-      "url": "https://www.toutiao.com/trending/7665583131156119558/"
-    },
-    {
-      "id": "evt-16000000",
-      "title": "警方通报16岁男生死亡事件：案发地不属于涉黄场所，嫌犯非保安",
-      "category": "society",
-      "hotScore": 0.595,
-      "freshness": 1,
-      "crossSource": 0.6309,
-      "totalScore": 0.7273,
+      "totalScore": 0.7103,
       "sources": [
         {
           "channel": "thepaper",
-          "rank": 7,
+          "rank": 8,
           "hot": 0,
-          "url": "https://www.thepaper.cn/newsDetail_forward_33638589"
+          "url": "https://www.thepaper.cn/newsDetail_forward_33622331"
         }
       ],
       "summary": "",
-      "url": "https://www.thepaper.cn/newsDetail_forward_33638589"
+      "url": "https://www.thepaper.cn/newsDetail_forward_33622331"
+    },
+    {
+      "id": "evt-54000000",
+      "title": "男子彩票中奖5400万 号码竟是捡到的",
+      "category": "society",
+      "hotScore": 0.52,
+      "freshness": 1,
+      "crossSource": 0.6309,
+      "totalScore": 0.6973,
+      "sources": [
+        {
+          "channel": "baidu",
+          "rank": 8,
+          "hot": 0,
+          "url": "https://m.baidu.com/s?word=%E7%94%B7%E5%AD%90%E5%BD%A9%E7%A5%A8%E4%B8%AD%E5%A5%965400%E4%B8%87+%E5%8F%B7%E7%A0%81%E7%AB%9F%E6%98%AF%E6%8D%A1%E5%88%B0%E7%9A%84&sa=fyb_news"
+        }
+      ],
+      "summary": "",
+      "url": "https://m.baidu.com/s?word=%E7%94%B7%E5%AD%90%E5%BD%A9%E7%A5%A8%E4%B8%AD%E5%A5%965400%E4%B8%87+%E5%8F%B7%E7%A0%81%E7%AB%9F%E6%98%AF%E6%8D%A1%E5%88%B0%E7%9A%84&sa=fyb_news"
     }
   ]
 }
