@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-07-23T15:47:19.259Z",
+  "generatedAt": "2026-07-23T17:08:50.903Z",
   "fields": {
     "society": "社会",
     "economy": "经济",
@@ -7,13 +7,57 @@
   },
   "feed": [
     {
+      "id": "evt-32000000",
+      "title": "中国女排3比2逆转美国",
+      "category": "society",
+      "hotScore": 0.6375,
+      "freshness": 0.9999,
+      "crossSource": 1,
+      "totalScore": 0.855,
+      "sources": [
+        {
+          "channel": "toutiao",
+          "rank": 6,
+          "hot": 8497822,
+          "url": "https://www.toutiao.com/trending/7665720445194210822/"
+        },
+        {
+          "channel": "baidu",
+          "rank": 19,
+          "hot": 0,
+          "url": "https://m.baidu.com/s?word=%E4%B8%AD%E5%9B%BD%E5%A5%B3%E6%8E%923%E6%AF%942%E9%80%86%E8%BD%AC%E7%BE%8E%E5%9B%BD&sa=fyb_news"
+        }
+      ],
+      "summary": "",
+      "url": "https://www.toutiao.com/trending/7665720445194210822/"
+    },
+    {
+      "id": "evt-20000000",
+      "title": "创历史！2名中国籍数学家获菲尔兹奖",
+      "category": "society",
+      "hotScore": 0.85,
+      "freshness": 0.9999,
+      "crossSource": 0.6309,
+      "totalScore": 0.8293,
+      "sources": [
+        {
+          "channel": "toutiao",
+          "rank": 1,
+          "hot": 14010540,
+          "url": "https://www.toutiao.com/trending/7665722221507169830/"
+        }
+      ],
+      "summary": "",
+      "url": "https://www.toutiao.com/trending/7665722221507169830/"
+    },
+    {
       "id": "evt-00000000",
       "title": "中国数学家王虹、邓煜双双获得菲尔兹奖，均系北大校友",
       "category": "society",
       "hotScore": 0.85,
       "freshness": 1,
-      "crossSource": 1,
-      "totalScore": 0.94,
+      "crossSource": 0.6309,
+      "totalScore": 0.8293,
       "sources": [
         {
           "channel": "thepaper",
@@ -26,32 +70,13 @@
       "url": "https://www.thepaper.cn/newsDetail_forward_33645576"
     },
     {
-      "id": "evt-20000000",
-      "title": "创历史！2名中国籍数学家获菲尔兹奖",
-      "category": "society",
-      "hotScore": 0.85,
-      "freshness": 0.9998,
-      "crossSource": 1,
-      "totalScore": 0.9399,
-      "sources": [
-        {
-          "channel": "toutiao",
-          "rank": 1,
-          "hot": 13414473,
-          "url": "https://www.toutiao.com/trending/7665722221507169830/"
-        }
-      ],
-      "summary": "",
-      "url": "https://www.toutiao.com/trending/7665722221507169830/"
-    },
-    {
       "id": "evt-20260000",
       "title": "2026 年菲尔兹奖公布，中国籍数学家邓煜、王虹获奖，如何理解他们获奖的意义？",
       "category": "society",
       "hotScore": 0.75,
-      "freshness": 0.9998,
-      "crossSource": 1,
-      "totalScore": 0.8999,
+      "freshness": 0.9999,
+      "crossSource": 0.6309,
+      "totalScore": 0.7893,
       "sources": [
         {
           "channel": "zhihu",
@@ -64,32 +89,13 @@
       "url": ""
     },
     {
-      "id": "evt-11500000",
-      "title": "重庆山体崩塌已致11死50失联",
-      "category": "society",
-      "hotScore": 0.7225,
-      "freshness": 0.9998,
-      "crossSource": 1,
-      "totalScore": 0.8889,
-      "sources": [
-        {
-          "channel": "toutiao",
-          "rank": 4,
-          "hot": 9937686,
-          "url": "https://www.toutiao.com/trending/7664907853928906794/"
-        }
-      ],
-      "summary": "",
-      "url": "https://www.toutiao.com/trending/7664907853928906794/"
-    },
-    {
       "id": "evt-10000000",
       "title": "中芯国际与嘉楠科技合作14nm矿机芯片，知情人士：能否量产要看行情",
       "category": "economy",
       "hotScore": 0.9,
       "freshness": 0.9999,
-      "crossSource": 1,
-      "totalScore": 0.96,
+      "crossSource": 0.6309,
+      "totalScore": 0.8493,
       "sources": [
         {
           "channel": "36kr",
@@ -107,8 +113,8 @@
       "category": "economy",
       "hotScore": 0.855,
       "freshness": 0.9999,
-      "crossSource": 1,
-      "totalScore": 0.942,
+      "crossSource": 0.6309,
+      "totalScore": 0.8313,
       "sources": [
         {
           "channel": "36kr",
@@ -126,8 +132,8 @@
       "category": "economy",
       "hotScore": 0.81,
       "freshness": 0.9999,
-      "crossSource": 1,
-      "totalScore": 0.924,
+      "crossSource": 0.6309,
+      "totalScore": 0.8133,
       "sources": [
         {
           "channel": "36kr",
@@ -140,32 +146,32 @@
       "url": ""
     },
     {
-      "id": "evt-60000000",
-      "title": "视频丨美国海岸警卫队6艘巡逻舰“现身”南海，打的什么算盘？",
+      "id": "evt-11500000",
+      "title": "重庆山体崩塌已致11死50失联",
       "category": "society",
-      "hotScore": 0.68,
-      "freshness": 1,
-      "crossSource": 1,
-      "totalScore": 0.872,
+      "hotScore": 0.7225,
+      "freshness": 0.9999,
+      "crossSource": 0.6309,
+      "totalScore": 0.7783,
       "sources": [
         {
-          "channel": "thepaper",
-          "rank": 5,
-          "hot": 0,
-          "url": "https://www.thepaper.cn/newsDetail_forward_33642339"
+          "channel": "toutiao",
+          "rank": 4,
+          "hot": 10379264,
+          "url": "https://www.toutiao.com/trending/7664907853928906794/"
         }
       ],
       "summary": "",
-      "url": "https://www.thepaper.cn/newsDetail_forward_33642339"
+      "url": "https://www.toutiao.com/trending/7664907853928906794/"
     },
     {
       "id": "evt-50000000",
       "title": "未来5年我们的出行将有新变化",
       "category": "society",
       "hotScore": 0.68,
-      "freshness": 0.9998,
-      "crossSource": 1,
-      "totalScore": 0.8719,
+      "freshness": 1,
+      "crossSource": 0.6309,
+      "totalScore": 0.7613,
       "sources": [
         {
           "channel": "baidu",
@@ -178,23 +184,23 @@
       "url": "https://m.baidu.com/s?word=%E6%9C%AA%E6%9D%A55%E5%B9%B4%E6%88%91%E4%BB%AC%E7%9A%84%E5%87%BA%E8%A1%8C%E5%B0%86%E6%9C%89%E6%96%B0%E5%8F%98%E5%8C%96&sa=fyb_news"
     },
     {
-      "id": "evt-32000000",
-      "title": "中国女排3-2逆转美国",
+      "id": "evt-60000000",
+      "title": "视频丨美国海岸警卫队6艘巡逻舰“现身”南海，打的什么算盘？",
       "category": "society",
       "hotScore": 0.6375,
-      "freshness": 0.9998,
-      "crossSource": 1,
-      "totalScore": 0.8549,
+      "freshness": 1,
+      "crossSource": 0.6309,
+      "totalScore": 0.7443,
       "sources": [
         {
-          "channel": "toutiao",
+          "channel": "thepaper",
           "rank": 6,
-          "hot": 8136289,
-          "url": "https://www.toutiao.com/trending/7665720445194210822/"
+          "hot": 0,
+          "url": "https://www.thepaper.cn/newsDetail_forward_33642339"
         }
       ],
       "summary": "",
-      "url": "https://www.toutiao.com/trending/7665720445194210822/"
+      "url": "https://www.thepaper.cn/newsDetail_forward_33642339"
     },
     {
       "id": "evt-3d000000",
@@ -202,8 +208,8 @@
       "category": "society",
       "hotScore": 0.63,
       "freshness": 0.9999,
-      "crossSource": 1,
-      "totalScore": 0.852,
+      "crossSource": 0.6309,
+      "totalScore": 0.7413,
       "sources": [
         {
           "channel": "36kr",
@@ -221,8 +227,8 @@
       "category": "society",
       "hotScore": 0.5525,
       "freshness": 1,
-      "crossSource": 1,
-      "totalScore": 0.821,
+      "crossSource": 0.6309,
+      "totalScore": 0.7103,
       "sources": [
         {
           "channel": "thepaper",
@@ -239,9 +245,9 @@
       "title": "644 分考生因填志愿未看清厦门大学本部与分校将复读，去年同有 16 人报错相同分校复读，反映了哪些问题？",
       "category": "society",
       "hotScore": 0.525,
-      "freshness": 0.9998,
-      "crossSource": 1,
-      "totalScore": 0.8099,
+      "freshness": 0.9999,
+      "crossSource": 0.6309,
+      "totalScore": 0.6993,
       "sources": [
         {
           "channel": "zhihu",
