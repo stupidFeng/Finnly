@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-07-23T13:23:23.761Z",
+  "generatedAt": "2026-07-23T15:47:19.259Z",
   "fields": {
     "society": "社会",
     "economy": "经济",
@@ -7,95 +7,89 @@
   },
   "feed": [
     {
-      "id": "evt-20000000",
-      "title": "净网：网警发20起涉汛涉灾谣言案例",
-      "category": "society",
-      "hotScore": 0.6375,
-      "freshness": 0.9999,
-      "crossSource": 1,
-      "totalScore": 0.855,
-      "sources": [
-        {
-          "channel": "toutiao",
-          "rank": 6,
-          "hot": 7154247,
-          "url": "https://www.toutiao.com/trending/7665532809305706011/"
-        },
-        {
-          "channel": "baidu",
-          "rank": 7,
-          "hot": 0,
-          "url": "https://m.baidu.com/s?word=%E5%87%80%E7%BD%91%EF%BC%9A%E7%BD%91%E8%AD%A6%E5%8F%9120%E8%B5%B7%E6%B6%89%E6%B1%9B%E6%B6%89%E7%81%BE%E8%B0%A3%E8%A8%80%E6%A1%88%E4%BE%8B&sa=fyb_news"
-        }
-      ],
-      "summary": "",
-      "url": "https://www.toutiao.com/trending/7665532809305706011/"
-    },
-    {
       "id": "evt-00000000",
-      "title": "中纪委连打三虎",
-      "category": "society",
-      "hotScore": 0.85,
-      "freshness": 0.9999,
-      "crossSource": 0.6309,
-      "totalScore": 0.8293,
-      "sources": [
-        {
-          "channel": "toutiao",
-          "rank": 1,
-          "hot": 11795360,
-          "url": "https://www.toutiao.com/trending/7665630273539211315/"
-        }
-      ],
-      "summary": "",
-      "url": "https://www.toutiao.com/trending/7665630273539211315/"
-    },
-    {
-      "id": "evt-16000000",
-      "title": "警方通报16岁男生死亡事件：案发地不属于涉黄场所，嫌犯非保安",
+      "title": "中国数学家王虹、邓煜双双获得菲尔兹奖，均系北大校友",
       "category": "society",
       "hotScore": 0.85,
       "freshness": 1,
-      "crossSource": 0.6309,
-      "totalScore": 0.8293,
+      "crossSource": 1,
+      "totalScore": 0.94,
       "sources": [
         {
           "channel": "thepaper",
           "rank": 1,
           "hot": 0,
-          "url": "https://www.thepaper.cn/newsDetail_forward_33638589"
+          "url": "https://www.thepaper.cn/newsDetail_forward_33645576"
         }
       ],
       "summary": "",
-      "url": "https://www.thepaper.cn/newsDetail_forward_33638589"
+      "url": "https://www.thepaper.cn/newsDetail_forward_33645576"
     },
     {
-      "id": "evt-64400000",
-      "title": "644分考生误报厦大分校或将复读",
+      "id": "evt-20000000",
+      "title": "创历史！2名中国籍数学家获菲尔兹奖",
       "category": "society",
-      "hotScore": 0.8075,
-      "freshness": 0.9999,
-      "crossSource": 0.6309,
-      "totalScore": 0.8123,
+      "hotScore": 0.85,
+      "freshness": 0.9998,
+      "crossSource": 1,
+      "totalScore": 0.9399,
       "sources": [
         {
           "channel": "toutiao",
-          "rank": 2,
-          "hot": 10672883,
-          "url": "https://www.toutiao.com/trending/7665194538676060206/"
+          "rank": 1,
+          "hot": 13414473,
+          "url": "https://www.toutiao.com/trending/7665722221507169830/"
         }
       ],
       "summary": "",
-      "url": "https://www.toutiao.com/trending/7665194538676060206/"
+      "url": "https://www.toutiao.com/trending/7665722221507169830/"
+    },
+    {
+      "id": "evt-20260000",
+      "title": "2026 年菲尔兹奖公布，中国籍数学家邓煜、王虹获奖，如何理解他们获奖的意义？",
+      "category": "society",
+      "hotScore": 0.75,
+      "freshness": 0.9998,
+      "crossSource": 1,
+      "totalScore": 0.8999,
+      "sources": [
+        {
+          "channel": "zhihu",
+          "rank": 1,
+          "hot": 0,
+          "url": ""
+        }
+      ],
+      "summary": "",
+      "url": ""
+    },
+    {
+      "id": "evt-11500000",
+      "title": "重庆山体崩塌已致11死50失联",
+      "category": "society",
+      "hotScore": 0.7225,
+      "freshness": 0.9998,
+      "crossSource": 1,
+      "totalScore": 0.8889,
+      "sources": [
+        {
+          "channel": "toutiao",
+          "rank": 4,
+          "hot": 9937686,
+          "url": "https://www.toutiao.com/trending/7664907853928906794/"
+        }
+      ],
+      "summary": "",
+      "url": "https://www.toutiao.com/trending/7664907853928906794/"
     },
     {
       "id": "evt-10000000",
       "title": "中芯国际与嘉楠科技合作14nm矿机芯片，知情人士：能否量产要看行情",
       "category": "economy",
       "hotScore": 0.9,
-      "freshness": 1,
-      "crossSource": 0.6309,
-      "totalScore": 0.8493,
+      "freshness": 0.9999,
+      "crossSource": 1,
+      "totalScore": 0.96,
       "sources": [
         {
           "channel": "36kr",
@@ -112,9 +106,9 @@
       "title": "三大运营商年内推出5G消息",
       "category": "economy",
       "hotScore": 0.855,
-      "freshness": 1,
-      "crossSource": 0.6309,
-      "totalScore": 0.8313,
+      "freshness": 0.9999,
+      "crossSource": 1,
+      "totalScore": 0.942,
       "sources": [
         {
           "channel": "36kr",
@@ -131,9 +125,9 @@
       "title": "欧洲在线订餐服务Takeaway.com：外卖订单开始强劲复苏",
       "category": "economy",
       "hotScore": 0.81,
-      "freshness": 1,
-      "crossSource": 0.6309,
-      "totalScore": 0.8133,
+      "freshness": 0.9999,
+      "crossSource": 1,
+      "totalScore": 0.924,
       "sources": [
         {
           "channel": "36kr",
@@ -146,51 +140,13 @@
       "url": ""
     },
     {
-      "id": "evt-gpt56000",
-      "title": "如何评价 GPT-5.6 为了在跑分上作弊，自主挖掘零日漏洞从沙盒逃逸，然后把 Hugging Face 黑了？",
-      "category": "society",
-      "hotScore": 0.7125,
-      "freshness": 0.9999,
-      "crossSource": 0.6309,
-      "totalScore": 0.7743,
-      "sources": [
-        {
-          "channel": "zhihu",
-          "rank": 2,
-          "hot": 0,
-          "url": ""
-        }
-      ],
-      "summary": "",
-      "url": ""
-    },
-    {
-      "id": "evt-50000000",
-      "title": "未来5年我们的出行将有新变化",
-      "category": "society",
-      "hotScore": 0.68,
-      "freshness": 1,
-      "crossSource": 0.6309,
-      "totalScore": 0.7613,
-      "sources": [
-        {
-          "channel": "baidu",
-          "rank": 4,
-          "hot": 0,
-          "url": "https://m.baidu.com/s?word=%E6%9C%AA%E6%9D%A55%E5%B9%B4%E6%88%91%E4%BB%AC%E7%9A%84%E5%87%BA%E8%A1%8C%E5%B0%86%E6%9C%89%E6%96%B0%E5%8F%98%E5%8C%96&sa=fyb_news"
-        }
-      ],
-      "summary": "",
-      "url": "https://m.baidu.com/s?word=%E6%9C%AA%E6%9D%A55%E5%B9%B4%E6%88%91%E4%BB%AC%E7%9A%84%E5%87%BA%E8%A1%8C%E5%B0%86%E6%9C%89%E6%96%B0%E5%8F%98%E5%8C%96&sa=fyb_news"
-    },
-    {
       "id": "evt-60000000",
       "title": "视频丨美国海岸警卫队6艘巡逻舰“现身”南海，打的什么算盘？",
       "category": "society",
       "hotScore": 0.68,
       "freshness": 1,
-      "crossSource": 0.6309,
-      "totalScore": 0.7613,
+      "crossSource": 1,
+      "totalScore": 0.872,
       "sources": [
         {
           "channel": "thepaper",
@@ -203,32 +159,51 @@
       "url": "https://www.thepaper.cn/newsDetail_forward_33642339"
     },
     {
-      "id": "evt-40000000",
-      "title": "上海血液中心献血送《战锤 40K》正版模型，大奖价值 3299 元。如何评价这次活动？",
+      "id": "evt-50000000",
+      "title": "未来5年我们的出行将有新变化",
       "category": "society",
-      "hotScore": 0.6375,
-      "freshness": 0.9999,
-      "crossSource": 0.6309,
-      "totalScore": 0.7443,
+      "hotScore": 0.68,
+      "freshness": 0.9998,
+      "crossSource": 1,
+      "totalScore": 0.8719,
       "sources": [
         {
-          "channel": "zhihu",
+          "channel": "baidu",
           "rank": 4,
           "hot": 0,
-          "url": ""
+          "url": "https://m.baidu.com/s?word=%E6%9C%AA%E6%9D%A55%E5%B9%B4%E6%88%91%E4%BB%AC%E7%9A%84%E5%87%BA%E8%A1%8C%E5%B0%86%E6%9C%89%E6%96%B0%E5%8F%98%E5%8C%96&sa=fyb_news"
         }
       ],
       "summary": "",
-      "url": ""
+      "url": "https://m.baidu.com/s?word=%E6%9C%AA%E6%9D%A55%E5%B9%B4%E6%88%91%E4%BB%AC%E7%9A%84%E5%87%BA%E8%A1%8C%E5%B0%86%E6%9C%89%E6%96%B0%E5%8F%98%E5%8C%96&sa=fyb_news"
+    },
+    {
+      "id": "evt-32000000",
+      "title": "中国女排3-2逆转美国",
+      "category": "society",
+      "hotScore": 0.6375,
+      "freshness": 0.9998,
+      "crossSource": 1,
+      "totalScore": 0.8549,
+      "sources": [
+        {
+          "channel": "toutiao",
+          "rank": 6,
+          "hot": 8136289,
+          "url": "https://www.toutiao.com/trending/7665720445194210822/"
+        }
+      ],
+      "summary": "",
+      "url": "https://www.toutiao.com/trending/7665720445194210822/"
     },
     {
       "id": "evt-3d000000",
       "title": "好未来《熊猫博士》3D动画片登陆央视少儿频道",
       "category": "society",
       "hotScore": 0.63,
-      "freshness": 1,
-      "crossSource": 0.6309,
-      "totalScore": 0.7413,
+      "freshness": 0.9999,
+      "crossSource": 1,
+      "totalScore": 0.852,
       "sources": [
         {
           "channel": "36kr",
@@ -244,14 +219,14 @@
       "id": "evt-20500000",
       "title": "享受20万报销得先自费50万？当患者遇上惠民保调整，高保障与可持续性如何兼顾",
       "category": "society",
-      "hotScore": 0.595,
+      "hotScore": 0.5525,
       "freshness": 1,
-      "crossSource": 0.6309,
-      "totalScore": 0.7273,
+      "crossSource": 1,
+      "totalScore": 0.821,
       "sources": [
         {
           "channel": "thepaper",
-          "rank": 7,
+          "rank": 8,
           "hot": 0,
           "url": "https://www.thepaper.cn/newsDetail_forward_33622331"
         }
@@ -260,17 +235,17 @@
       "url": "https://www.thepaper.cn/newsDetail_forward_33622331"
     },
     {
-      "id": "evt-20267000",
-      "title": "2026 年菲尔兹奖将于 7 月 23 日公布，有哪些信息值得关注？",
+      "id": "evt-64400000",
+      "title": "644 分考生因填志愿未看清厦门大学本部与分校将复读，去年同有 16 人报错相同分校复读，反映了哪些问题？",
       "category": "society",
-      "hotScore": 0.5625,
-      "freshness": 0.9999,
-      "crossSource": 0.6309,
-      "totalScore": 0.7143,
+      "hotScore": 0.525,
+      "freshness": 0.9998,
+      "crossSource": 1,
+      "totalScore": 0.8099,
       "sources": [
         {
           "channel": "zhihu",
-          "rank": 6,
+          "rank": 7,
           "hot": 0,
           "url": ""
         }
