@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-07-24T05:10:52.642Z",
+  "generatedAt": "2026-07-24T08:06:51.444Z",
   "fields": {
     "society": "社会",
     "economy": "经济",
@@ -7,82 +7,57 @@
   },
   "feed": [
     {
-      "id": "evt-31700000",
-      "title": "腾讯晒317万年终奖员工因泄密被辞退",
-      "category": "society",
-      "hotScore": 0.8075,
-      "freshness": 1,
-      "crossSource": 1,
-      "totalScore": 0.923,
-      "sources": [
-        {
-          "channel": "toutiao",
-          "rank": 2,
-          "hot": 23233038,
-          "url": "https://www.toutiao.com/trending/7665610788790992950/"
-        },
-        {
-          "channel": "baidu",
-          "rank": 3,
-          "hot": 0,
-          "url": "https://m.baidu.com/s?word=%E8%85%BE%E8%AE%AF%E6%99%92317%E4%B8%87%E5%B9%B4%E7%BB%88%E5%A5%96%E5%91%98%E5%B7%A5%E5%9B%A0%E6%B3%84%E5%AF%86%E8%A2%AB%E8%BE%9E%E9%80%80&sa=fyb_news"
-        }
-      ],
-      "summary": "",
-      "url": "https://www.toutiao.com/trending/7665610788790992950/"
-    },
-    {
-      "id": "evt-20000000",
-      "title": "歼-20披上了“金甲战衣”",
-      "category": "society",
-      "hotScore": 0.64,
-      "freshness": 1,
-      "crossSource": 1,
-      "totalScore": 0.856,
-      "sources": [
-        {
-          "channel": "toutiao",
-          "rank": 17,
-          "hot": 5183991,
-          "url": "https://www.toutiao.com/trending/7665862041688817705/"
-        },
-        {
-          "channel": "baidu",
-          "rank": 5,
-          "hot": 0,
-          "url": "https://m.baidu.com/s?word=%E6%AD%BC-20%E6%8A%AB%E4%B8%8A%E4%BA%86%E2%80%9C%E9%87%91%E7%94%B2%E6%88%98%E8%A1%A3%E2%80%9D&sa=fyb_news"
-        }
-      ],
-      "summary": "",
-      "url": "https://www.toutiao.com/trending/7665862041688817705/"
-    },
-    {
       "id": "evt-00000000",
-      "title": "四位菲尔兹奖得主有三位会说中文",
+      "title": "王虹获奖 别再说寒门难出贵子",
       "category": "society",
       "hotScore": 0.85,
-      "freshness": 1,
-      "crossSource": 0.6309,
-      "totalScore": 0.8293,
+      "freshness": 0.9999,
+      "crossSource": 1,
+      "totalScore": 0.94,
       "sources": [
         {
           "channel": "toutiao",
           "rank": 1,
-          "hot": 25676478,
-          "url": "https://www.toutiao.com/trending/7665497786082725418/"
+          "hot": 33533027,
+          "url": "https://www.toutiao.com/trending/7665902856143716390/"
+        },
+        {
+          "channel": "baidu",
+          "rank": 2,
+          "hot": 0,
+          "url": "https://m.baidu.com/s?word=%E7%8E%8B%E8%99%B9%E8%8E%B7%E5%A5%96+%E5%88%AB%E5%86%8D%E8%AF%B4%E5%AF%92%E9%97%A8%E9%9A%BE%E5%87%BA%E8%B4%B5%E5%AD%90&sa=fyb_news"
         }
       ],
       "summary": "",
-      "url": "https://www.toutiao.com/trending/7665497786082725418/"
+      "url": "https://www.toutiao.com/trending/7665902856143716390/"
+    },
+    {
+      "id": "evt-ai000000",
+      "title": "中国AI大反超 美国还能挡多久",
+      "category": "society",
+      "hotScore": 0.8075,
+      "freshness": 0.9999,
+      "crossSource": 0.6309,
+      "totalScore": 0.8122,
+      "sources": [
+        {
+          "channel": "toutiao",
+          "rank": 2,
+          "hot": 30341937,
+          "url": "https://www.toutiao.com/trending/7665608122941050431/"
+        }
+      ],
+      "summary": "",
+      "url": "https://www.toutiao.com/trending/7665608122941050431/"
     },
     {
       "id": "evt-31900000",
       "title": "如何看待网传耗资 319 亿的腾讯全球总部「企鹅岛」疑基建翻车，员工疯狂吐槽质量奇差？",
       "category": "society",
       "hotScore": 0.75,
-      "freshness": 1,
+      "freshness": 0.9999,
       "crossSource": 0.6309,
-      "totalScore": 0.7893,
+      "totalScore": 0.7892,
       "sources": [
         {
           "channel": "zhihu",
@@ -93,6 +68,25 @@
       ],
       "summary": "",
       "url": ""
+    },
+    {
+      "id": "evt-35000000",
+      "title": "35岁数学家王虹回应获菲尔兹奖",
+      "category": "society",
+      "hotScore": 0.7225,
+      "freshness": 0.9999,
+      "crossSource": 0.6309,
+      "totalScore": 0.7782,
+      "sources": [
+        {
+          "channel": "toutiao",
+          "rank": 4,
+          "hot": 24841877,
+          "url": "https://www.toutiao.com/trending/7665982985208008230/"
+        }
+      ],
+      "summary": "",
+      "url": "https://www.toutiao.com/trending/7665982985208008230/"
     },
     {
       "id": "evt-10000000",
@@ -156,9 +150,9 @@
       "title": "2026 年菲尔兹奖公布，中国籍数学家邓煜、王虹获奖，如何理解他们获奖的意义？",
       "category": "society",
       "hotScore": 0.7125,
-      "freshness": 1,
+      "freshness": 0.9999,
       "crossSource": 0.6309,
-      "totalScore": 0.7743,
+      "totalScore": 0.7742,
       "sources": [
         {
           "channel": "zhihu",
@@ -171,42 +165,23 @@
       "url": ""
     },
     {
-      "id": "evt-23000000",
-      "title": "被瑞典家庭收养23年弃婴回国认亲",
+      "id": "evt-68900000",
+      "title": "小伙689分考入清华：想撑起这个家",
       "category": "society",
       "hotScore": 0.68,
-      "freshness": 1,
+      "freshness": 0.9999,
       "crossSource": 0.6309,
-      "totalScore": 0.7613,
+      "totalScore": 0.7612,
       "sources": [
         {
           "channel": "toutiao",
           "rank": 5,
-          "hot": 17211458,
-          "url": "https://www.toutiao.com/trending/7665293095936606250/"
+          "hot": 22477860,
+          "url": "https://www.toutiao.com/trending/7665931577747324974/"
         }
       ],
       "summary": "",
-      "url": "https://www.toutiao.com/trending/7665293095936606250/"
-    },
-    {
-      "id": "evt-ai000000",
-      "title": "男子用 AI 伪造水果腐烂照片，恶意仅退款百余次套现，被判诈骗罪，当地也被平台标记高风险，如何看待此事？",
-      "category": "society",
-      "hotScore": 0.6375,
-      "freshness": 1,
-      "crossSource": 0.6309,
-      "totalScore": 0.7443,
-      "sources": [
-        {
-          "channel": "zhihu",
-          "rank": 4,
-          "hot": 0,
-          "url": ""
-        }
-      ],
-      "summary": "",
-      "url": ""
+      "url": "https://www.toutiao.com/trending/7665931577747324974/"
     },
     {
       "id": "evt-3d000000",
@@ -228,11 +203,11 @@
       "url": ""
     },
     {
-      "id": "evt-12300000",
-      "title": "下铺空间是否公用 12306回应",
+      "id": "evt-23160000",
+      "title": "南京南站23天已捡到16个娃",
       "category": "society",
       "hotScore": 0.6,
-      "freshness": 1,
+      "freshness": 0.9999,
       "crossSource": 0.6309,
       "totalScore": 0.7293,
       "sources": [
@@ -240,11 +215,30 @@
           "channel": "baidu",
           "rank": 6,
           "hot": 0,
-          "url": "https://m.baidu.com/s?word=%E4%B8%8B%E9%93%BA%E7%A9%BA%E9%97%B4%E6%98%AF%E5%90%A6%E5%85%AC%E7%94%A8+12306%E5%9B%9E%E5%BA%94&sa=fyb_news"
+          "url": "https://m.baidu.com/s?word=%E5%8D%97%E4%BA%AC%E5%8D%97%E7%AB%9923%E5%A4%A9%E5%B7%B2%E6%8D%A1%E5%88%B016%E4%B8%AA%E5%A8%83&sa=fyb_news"
         }
       ],
       "summary": "",
-      "url": "https://m.baidu.com/s?word=%E4%B8%8B%E9%93%BA%E7%A9%BA%E9%97%B4%E6%98%AF%E5%90%A6%E5%85%AC%E7%94%A8+12306%E5%9B%9E%E5%BA%94&sa=fyb_news"
+      "url": "https://m.baidu.com/s?word=%E5%8D%97%E4%BA%AC%E5%8D%97%E7%AB%9923%E5%A4%A9%E5%B7%B2%E6%8D%A1%E5%88%B016%E4%B8%AA%E5%A8%83&sa=fyb_news"
+    },
+    {
+      "id": "evt-31700000",
+      "title": "腾讯晒317万年终奖员工因泄密被辞退",
+      "category": "society",
+      "hotScore": 0.56,
+      "freshness": 0.9999,
+      "crossSource": 0.6309,
+      "totalScore": 0.7133,
+      "sources": [
+        {
+          "channel": "baidu",
+          "rank": 7,
+          "hot": 0,
+          "url": "https://m.baidu.com/s?word=%E8%85%BE%E8%AE%AF%E6%99%92317%E4%B8%87%E5%B9%B4%E7%BB%88%E5%A5%96%E5%91%98%E5%B7%A5%E5%9B%A0%E6%B3%84%E5%AF%86%E8%A2%AB%E8%BE%9E%E9%80%80&sa=fyb_news"
+        }
+      ],
+      "summary": "",
+      "url": "https://m.baidu.com/s?word=%E8%85%BE%E8%AE%AF%E6%99%92317%E4%B8%87%E5%B9%B4%E7%BB%88%E5%A5%96%E5%91%98%E5%B7%A5%E5%9B%A0%E6%B3%84%E5%AF%86%E8%A2%AB%E8%BE%9E%E9%80%80&sa=fyb_news"
     }
   ]
 }
