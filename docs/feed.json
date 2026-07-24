@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-07-24T08:06:51.444Z",
+  "generatedAt": "2026-07-24T11:30:08.974Z",
   "fields": {
     "society": "社会",
     "economy": "经济",
@@ -11,19 +11,19 @@
       "title": "王虹获奖 别再说寒门难出贵子",
       "category": "society",
       "hotScore": 0.85,
-      "freshness": 0.9999,
+      "freshness": 1,
       "crossSource": 1,
       "totalScore": 0.94,
       "sources": [
         {
           "channel": "toutiao",
           "rank": 1,
-          "hot": 33533027,
+          "hot": 41860581,
           "url": "https://www.toutiao.com/trending/7665902856143716390/"
         },
         {
           "channel": "baidu",
-          "rank": 2,
+          "rank": 8,
           "hot": 0,
           "url": "https://m.baidu.com/s?word=%E7%8E%8B%E8%99%B9%E8%8E%B7%E5%A5%96+%E5%88%AB%E5%86%8D%E8%AF%B4%E5%AF%92%E9%97%A8%E9%9A%BE%E5%87%BA%E8%B4%B5%E5%AD%90&sa=fyb_news"
         }
@@ -32,61 +32,61 @@
       "url": "https://www.toutiao.com/trending/7665902856143716390/"
     },
     {
-      "id": "evt-ai000000",
-      "title": "中国AI大反超 美国还能挡多久",
+      "id": "evt-72600000",
+      "title": "7月26日广东省内铁路全线停运",
       "category": "society",
-      "hotScore": 0.8075,
-      "freshness": 0.9999,
+      "hotScore": 0.76,
+      "freshness": 1,
       "crossSource": 0.6309,
-      "totalScore": 0.8122,
+      "totalScore": 0.7933,
       "sources": [
         {
-          "channel": "toutiao",
+          "channel": "baidu",
           "rank": 2,
-          "hot": 30341937,
-          "url": "https://www.toutiao.com/trending/7665608122941050431/"
+          "hot": 0,
+          "url": "https://m.baidu.com/s?word=7%E6%9C%8826%E6%97%A5%E5%B9%BF%E4%B8%9C%E7%9C%81%E5%86%85%E9%93%81%E8%B7%AF%E5%85%A8%E7%BA%BF%E5%81%9C%E8%BF%90&sa=fyb_news"
         }
       ],
       "summary": "",
-      "url": "https://www.toutiao.com/trending/7665608122941050431/"
+      "url": "https://m.baidu.com/s?word=7%E6%9C%8826%E6%97%A5%E5%B9%BF%E4%B8%9C%E7%9C%81%E5%86%85%E9%93%81%E8%B7%AF%E5%85%A8%E7%BA%BF%E5%81%9C%E8%BF%90&sa=fyb_news"
     },
     {
-      "id": "evt-31900000",
-      "title": "如何看待网传耗资 319 亿的腾讯全球总部「企鹅岛」疑基建翻车，员工疯狂吐槽质量奇差？",
+      "id": "evt-20000000",
+      "title": "没彩礼没宴席 夫妻花200元办婚礼",
       "category": "society",
-      "hotScore": 0.75,
-      "freshness": 0.9999,
+      "hotScore": 0.64,
+      "freshness": 1,
       "crossSource": 0.6309,
-      "totalScore": 0.7892,
+      "totalScore": 0.7453,
       "sources": [
         {
-          "channel": "zhihu",
-          "rank": 1,
+          "channel": "baidu",
+          "rank": 5,
+          "hot": 0,
+          "url": "https://m.baidu.com/s?word=%E6%B2%A1%E5%BD%A9%E7%A4%BC%E6%B2%A1%E5%AE%B4%E5%B8%AD+%E5%A4%AB%E5%A6%BB%E8%8A%B1200%E5%85%83%E5%8A%9E%E5%A9%9A%E7%A4%BC&sa=fyb_news"
+        }
+      ],
+      "summary": "",
+      "url": "https://m.baidu.com/s?word=%E6%B2%A1%E5%BD%A9%E7%A4%BC%E6%B2%A1%E5%AE%B4%E5%B8%AD+%E5%A4%AB%E5%A6%BB%E8%8A%B1200%E5%85%83%E5%8A%9E%E5%A9%9A%E7%A4%BC&sa=fyb_news"
+    },
+    {
+      "id": "evt-3d000000",
+      "title": "好未来《熊猫博士》3D动画片登陆央视少儿频道",
+      "category": "society",
+      "hotScore": 0.63,
+      "freshness": 1,
+      "crossSource": 0.6309,
+      "totalScore": 0.7413,
+      "sources": [
+        {
+          "channel": "36kr",
+          "rank": 7,
           "hot": 0,
           "url": ""
         }
       ],
-      "summary": "",
+      "summary": "36氪获悉，自4月9日起，中央电视台少儿频道携手好未来旗下教育品牌熊猫博士上线3D系列动画片《熊猫博士》。与此同时，《熊猫博士》3D动画片也在美国、加拿大、俄罗斯、意大利等多个国家、地区陆续发行，并登陆Discovery探索频道等多个世界知名节目。",
       "url": ""
-    },
-    {
-      "id": "evt-35000000",
-      "title": "35岁数学家王虹回应获菲尔兹奖",
-      "category": "society",
-      "hotScore": 0.7225,
-      "freshness": 0.9999,
-      "crossSource": 0.6309,
-      "totalScore": 0.7782,
-      "sources": [
-        {
-          "channel": "toutiao",
-          "rank": 4,
-          "hot": 24841877,
-          "url": "https://www.toutiao.com/trending/7665982985208008230/"
-        }
-      ],
-      "summary": "",
-      "url": "https://www.toutiao.com/trending/7665982985208008230/"
     },
     {
       "id": "evt-10000000",
@@ -146,99 +146,80 @@
       "url": ""
     },
     {
-      "id": "evt-20260000",
-      "title": "2026 年菲尔兹奖公布，中国籍数学家邓煜、王虹获奖，如何理解他们获奖的意义？",
+      "id": "evt-a0000000",
+      "title": "A股下周会二次探底吗",
       "category": "society",
-      "hotScore": 0.7125,
-      "freshness": 0.9999,
+      "hotScore": 0.595,
+      "freshness": 1,
       "crossSource": 0.6309,
-      "totalScore": 0.7742,
-      "sources": [
-        {
-          "channel": "zhihu",
-          "rank": 2,
-          "hot": 0,
-          "url": ""
-        }
-      ],
-      "summary": "",
-      "url": ""
-    },
-    {
-      "id": "evt-68900000",
-      "title": "小伙689分考入清华：想撑起这个家",
-      "category": "society",
-      "hotScore": 0.68,
-      "freshness": 0.9999,
-      "crossSource": 0.6309,
-      "totalScore": 0.7612,
+      "totalScore": 0.7273,
       "sources": [
         {
           "channel": "toutiao",
-          "rank": 5,
-          "hot": 22477860,
-          "url": "https://www.toutiao.com/trending/7665931577747324974/"
+          "rank": 7,
+          "hot": 22973574,
+          "url": "https://www.toutiao.com/trending/7665883266716663827/"
         }
       ],
       "summary": "",
-      "url": "https://www.toutiao.com/trending/7665931577747324974/"
+      "url": "https://www.toutiao.com/trending/7665883266716663827/"
     },
     {
-      "id": "evt-3d000000",
-      "title": "好未来《熊猫博士》3D动画片登陆央视少儿频道",
+      "id": "evt-32000000",
+      "title": "击败强敌！中国女排3比2胜美国女排，闯进世界女排联赛四强",
       "category": "society",
-      "hotScore": 0.63,
+      "hotScore": 0.5525,
       "freshness": 1,
       "crossSource": 0.6309,
-      "totalScore": 0.7413,
+      "totalScore": 0.7103,
       "sources": [
         {
-          "channel": "36kr",
+          "channel": "thepaper",
+          "rank": 8,
+          "hot": 0,
+          "url": "https://www.thepaper.cn/newsDetail_forward_33644764"
+        }
+      ],
+      "summary": "",
+      "url": "https://www.thepaper.cn/newsDetail_forward_33644764"
+    },
+    {
+      "id": "evt-log00000",
+      "title": "如何评价荣耀最新的 logo？为啥要在这个时间点更换 logo？",
+      "category": "society",
+      "hotScore": 0.525,
+      "freshness": 1,
+      "crossSource": 0.6309,
+      "totalScore": 0.6993,
+      "sources": [
+        {
+          "channel": "zhihu",
           "rank": 7,
           "hot": 0,
           "url": ""
         }
       ],
-      "summary": "36氪获悉，自4月9日起，中央电视台少儿频道携手好未来旗下教育品牌熊猫博士上线3D系列动画片《熊猫博士》。与此同时，《熊猫博士》3D动画片也在美国、加拿大、俄罗斯、意大利等多个国家、地区陆续发行，并登陆Discovery探索频道等多个世界知名节目。",
+      "summary": "",
       "url": ""
     },
     {
-      "id": "evt-23160000",
-      "title": "南京南站23天已捡到16个娃",
+      "id": "evt-n0000000",
+      "title": "菲尔兹奖得主王虹也发过NeurIPS",
       "category": "society",
-      "hotScore": 0.6,
-      "freshness": 0.9999,
+      "hotScore": 0.51,
+      "freshness": 1,
       "crossSource": 0.6309,
-      "totalScore": 0.7293,
+      "totalScore": 0.6933,
       "sources": [
         {
-          "channel": "baidu",
-          "rank": 6,
-          "hot": 0,
-          "url": "https://m.baidu.com/s?word=%E5%8D%97%E4%BA%AC%E5%8D%97%E7%AB%9923%E5%A4%A9%E5%B7%B2%E6%8D%A1%E5%88%B016%E4%B8%AA%E5%A8%83&sa=fyb_news"
+          "channel": "toutiao",
+          "rank": 9,
+          "hot": 18809171,
+          "url": "https://www.toutiao.com/trending/7666006087333580294/"
         }
       ],
       "summary": "",
-      "url": "https://m.baidu.com/s?word=%E5%8D%97%E4%BA%AC%E5%8D%97%E7%AB%9923%E5%A4%A9%E5%B7%B2%E6%8D%A1%E5%88%B016%E4%B8%AA%E5%A8%83&sa=fyb_news"
-    },
-    {
-      "id": "evt-31700000",
-      "title": "腾讯晒317万年终奖员工因泄密被辞退",
-      "category": "society",
-      "hotScore": 0.56,
-      "freshness": 0.9999,
-      "crossSource": 0.6309,
-      "totalScore": 0.7133,
-      "sources": [
-        {
-          "channel": "baidu",
-          "rank": 7,
-          "hot": 0,
-          "url": "https://m.baidu.com/s?word=%E8%85%BE%E8%AE%AF%E6%99%92317%E4%B8%87%E5%B9%B4%E7%BB%88%E5%A5%96%E5%91%98%E5%B7%A5%E5%9B%A0%E6%B3%84%E5%AF%86%E8%A2%AB%E8%BE%9E%E9%80%80&sa=fyb_news"
-        }
-      ],
-      "summary": "",
-      "url": "https://m.baidu.com/s?word=%E8%85%BE%E8%AE%AF%E6%99%92317%E4%B8%87%E5%B9%B4%E7%BB%88%E5%A5%96%E5%91%98%E5%B7%A5%E5%9B%A0%E6%B3%84%E5%AF%86%E8%A2%AB%E8%BE%9E%E9%80%80&sa=fyb_news"
+      "url": "https://www.toutiao.com/trending/7666006087333580294/"
     }
   ]
 }
