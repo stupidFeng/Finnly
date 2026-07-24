@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-07-24T13:16:55.376Z",
+  "generatedAt": "2026-07-24T15:20:16.910Z",
   "fields": {
     "society": "社会",
     "economy": "经济",
@@ -11,14 +11,14 @@
       "title": "证监会原副主席方星海被查",
       "category": "society",
       "hotScore": 0.85,
-      "freshness": 0.9999,
+      "freshness": 0.9998,
       "crossSource": 1,
-      "totalScore": 0.94,
+      "totalScore": 0.9399,
       "sources": [
         {
           "channel": "toutiao",
           "rank": 1,
-          "hot": 46239752,
+          "hot": 36883854,
           "url": "https://www.toutiao.com/trending/7666063296457965587/"
         },
         {
@@ -32,8 +32,8 @@
       "url": "https://www.toutiao.com/trending/7666063296457965587/"
     },
     {
-      "id": "evt-72600000",
-      "title": "7月26日广东省内铁路全线停运",
+      "id": "evt-80000000",
+      "title": "美国被曝考虑对第8国动武",
       "category": "society",
       "hotScore": 0.72,
       "freshness": 1,
@@ -44,20 +44,20 @@
           "channel": "baidu",
           "rank": 3,
           "hot": 0,
-          "url": "https://m.baidu.com/s?word=7%E6%9C%8826%E6%97%A5%E5%B9%BF%E4%B8%9C%E7%9C%81%E5%86%85%E9%93%81%E8%B7%AF%E5%85%A8%E7%BA%BF%E5%81%9C%E8%BF%90&sa=fyb_news"
+          "url": "https://m.baidu.com/s?word=%E7%BE%8E%E5%9B%BD%E8%A2%AB%E6%9B%9D%E8%80%83%E8%99%91%E5%AF%B9%E7%AC%AC8%E5%9B%BD%E5%8A%A8%E6%AD%A6&sa=fyb_news"
         }
       ],
       "summary": "",
-      "url": "https://m.baidu.com/s?word=7%E6%9C%8826%E6%97%A5%E5%B9%BF%E4%B8%9C%E7%9C%81%E5%86%85%E9%93%81%E8%B7%AF%E5%85%A8%E7%BA%BF%E5%81%9C%E8%BF%90&sa=fyb_news"
+      "url": "https://m.baidu.com/s?word=%E7%BE%8E%E5%9B%BD%E8%A2%AB%E6%9B%9D%E8%80%83%E8%99%91%E5%AF%B9%E7%AC%AC8%E5%9B%BD%E5%8A%A8%E6%AD%A6&sa=fyb_news"
     },
     {
       "id": "evt-3d000000",
       "title": "好未来《熊猫博士》3D动画片登陆央视少儿频道",
       "category": "society",
       "hotScore": 0.63,
-      "freshness": 1,
+      "freshness": 0.9998,
       "crossSource": 0.6309,
-      "totalScore": 0.7413,
+      "totalScore": 0.7412,
       "sources": [
         {
           "channel": "36kr",
@@ -70,32 +70,32 @@
       "url": ""
     },
     {
-      "id": "evt-14000000",
-      "title": "中方管制14家欧盟实体释放什么信号",
+      "id": "evt-oppovivo",
+      "title": "OPPO 、 Vivo  拒绝三星存储涨价报价，后续国产手机可能都用长鑫等国产内存吗？",
       "category": "society",
-      "hotScore": 0.5525,
-      "freshness": 0.9999,
+      "hotScore": 0.5625,
+      "freshness": 0.9998,
       "crossSource": 0.6309,
-      "totalScore": 0.7103,
+      "totalScore": 0.7142,
       "sources": [
         {
-          "channel": "toutiao",
-          "rank": 8,
-          "hot": 22961981,
-          "url": "https://www.toutiao.com/trending/7666063971803205126/"
+          "channel": "zhihu",
+          "rank": 6,
+          "hot": 0,
+          "url": ""
         }
       ],
       "summary": "",
-      "url": "https://www.toutiao.com/trending/7666063971803205126/"
+      "url": ""
     },
     {
       "id": "evt-10000000",
       "title": "中芯国际与嘉楠科技合作14nm矿机芯片，知情人士：能否量产要看行情",
       "category": "economy",
       "hotScore": 0.9,
-      "freshness": 1,
+      "freshness": 0.9998,
       "crossSource": 0.6309,
-      "totalScore": 0.8493,
+      "totalScore": 0.8492,
       "sources": [
         {
           "channel": "36kr",
@@ -112,9 +112,9 @@
       "title": "三大运营商年内推出5G消息",
       "category": "economy",
       "hotScore": 0.855,
-      "freshness": 1,
+      "freshness": 0.9998,
       "crossSource": 0.6309,
-      "totalScore": 0.8313,
+      "totalScore": 0.8312,
       "sources": [
         {
           "channel": "36kr",
@@ -131,9 +131,9 @@
       "title": "欧洲在线订餐服务Takeaway.com：外卖订单开始强劲复苏",
       "category": "economy",
       "hotScore": 0.81,
-      "freshness": 1,
+      "freshness": 0.9998,
       "crossSource": 0.6309,
-      "totalScore": 0.8133,
+      "totalScore": 0.8132,
       "sources": [
         {
           "channel": "36kr",
@@ -149,14 +149,14 @@
       "id": "evt-20000000",
       "title": "曝演员片酬再降，片酬从 2 亿降到最高 2500 万，透露出影视业哪些问题？对行业生态来说，是好事还是坏事？",
       "category": "entertainment",
-      "hotScore": 0.675,
-      "freshness": 0.9999,
+      "hotScore": 0.6375,
+      "freshness": 0.9998,
       "crossSource": 0.6309,
-      "totalScore": 0.7593,
+      "totalScore": 0.7442,
       "sources": [
         {
           "channel": "zhihu",
-          "rank": 3,
+          "rank": 4,
           "hot": 0,
           "url": ""
         }
@@ -165,23 +165,23 @@
       "url": ""
     },
     {
-      "id": "evt-32000000",
-      "title": "击败强敌！中国女排3比2胜美国女排，闯进世界女排联赛四强",
+      "id": "evt-openai00",
+      "title": "新闻蒸馏器｜OpenAI模型失控事件后，美国两党议员推动“AI终止开关法案”",
       "category": "society",
       "hotScore": 0.5525,
-      "freshness": 1,
+      "freshness": 0.9998,
       "crossSource": 0.6309,
-      "totalScore": 0.7103,
+      "totalScore": 0.7102,
       "sources": [
         {
           "channel": "thepaper",
           "rank": 8,
           "hot": 0,
-          "url": "https://www.thepaper.cn/newsDetail_forward_33644764"
+          "url": "https://www.thepaper.cn/newsDetail_forward_33650370"
         }
       ],
       "summary": "",
-      "url": "https://www.thepaper.cn/newsDetail_forward_33644764"
+      "url": "https://www.thepaper.cn/newsDetail_forward_33650370"
     }
   ]
 }
