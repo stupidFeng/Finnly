@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-07-24T17:19:58.692Z",
+  "generatedAt": "2026-07-24T19:11:31.677Z",
   "fields": {
     "society": "社会",
     "economy": "经济",
@@ -18,7 +18,7 @@
         {
           "channel": "toutiao",
           "rank": 1,
-          "hot": 39494923,
+          "hot": 40363865,
           "url": "https://www.toutiao.com/trending/7666090049737330219/"
         },
         {
@@ -51,36 +51,36 @@
       "url": "https://m.baidu.com/s?word=%E8%A9%B9%E5%A7%86%E6%96%AF%E5%8A%A0%E7%9B%9F76%E4%BA%BA&sa=fyb_news"
     },
     {
-      "id": "evt-80000000",
-      "title": "美国被曝考虑对第8国动武",
+      "id": "evt-31700000",
+      "title": "腾讯317万年终奖员工因泄密被辞退",
       "category": "society",
-      "hotScore": 0.64,
-      "freshness": 1,
+      "hotScore": 0.68,
+      "freshness": 0.9999,
       "crossSource": 0.6309,
-      "totalScore": 0.7453,
+      "totalScore": 0.7613,
       "sources": [
         {
-          "channel": "baidu",
+          "channel": "toutiao",
           "rank": 5,
-          "hot": 0,
-          "url": "https://m.baidu.com/s?word=%E7%BE%8E%E5%9B%BD%E8%A2%AB%E6%9B%9D%E8%80%83%E8%99%91%E5%AF%B9%E7%AC%AC8%E5%9B%BD%E5%8A%A8%E6%AD%A6&sa=fyb_news"
+          "hot": 27056708,
+          "url": "https://www.toutiao.com/trending/7665610788790992950/"
         }
       ],
       "summary": "",
-      "url": "https://m.baidu.com/s?word=%E7%BE%8E%E5%9B%BD%E8%A2%AB%E6%9B%9D%E8%80%83%E8%99%91%E5%AF%B9%E7%AC%AC8%E5%9B%BD%E5%8A%A8%E6%AD%A6&sa=fyb_news"
+      "url": "https://www.toutiao.com/trending/7665610788790992950/"
     },
     {
-      "id": "evt-oppovivo",
-      "title": "OPPO 、 Vivo  拒绝三星存储涨价报价，后续国产手机可能都用长鑫等国产内存吗？",
+      "id": "evt-28000000",
+      "title": "如何看待「詹姆斯 2 年 800 万美元加盟 76 人，第 2 年球员选项」，老詹这一决定的未来前景如何 ？",
       "category": "society",
-      "hotScore": 0.6375,
+      "hotScore": 0.675,
       "freshness": 0.9999,
       "crossSource": 0.6309,
-      "totalScore": 0.7443,
+      "totalScore": 0.7593,
       "sources": [
         {
           "channel": "zhihu",
-          "rank": 4,
+          "rank": 3,
           "hot": 0,
           "url": ""
         }
@@ -146,17 +146,74 @@
       "url": ""
     },
     {
+      "id": "evt-30000000",
+      "title": "中美贸易连涨3个月意味着什么",
+      "category": "economy",
+      "hotScore": 0.7225,
+      "freshness": 0.9999,
+      "crossSource": 0.6309,
+      "totalScore": 0.7783,
+      "sources": [
+        {
+          "channel": "toutiao",
+          "rank": 4,
+          "hot": 29902287,
+          "url": "https://www.toutiao.com/trending/7666061290502098486/"
+        }
+      ],
+      "summary": "",
+      "url": "https://www.toutiao.com/trending/7666061290502098486/"
+    },
+    {
       "id": "evt-20000000",
       "title": "曝演员片酬再降，片酬从 2 亿降到最高 2500 万，透露出影视业哪些问题？对行业生态来说，是好事还是坏事？",
       "category": "entertainment",
-      "hotScore": 0.7125,
+      "hotScore": 0.6,
       "freshness": 0.9999,
       "crossSource": 0.6309,
-      "totalScore": 0.7743,
+      "totalScore": 0.7293,
       "sources": [
         {
           "channel": "zhihu",
-          "rank": 2,
+          "rank": 5,
+          "hot": 0,
+          "url": ""
+        }
+      ],
+      "summary": "",
+      "url": ""
+    },
+    {
+      "id": "evt-80000000",
+      "title": "美国被曝考虑对第8国动武",
+      "category": "society",
+      "hotScore": 0.64,
+      "freshness": 1,
+      "crossSource": 0.6309,
+      "totalScore": 0.7453,
+      "sources": [
+        {
+          "channel": "baidu",
+          "rank": 5,
+          "hot": 0,
+          "url": "https://m.baidu.com/s?word=%E7%BE%8E%E5%9B%BD%E8%A2%AB%E6%9B%9D%E8%80%83%E8%99%91%E5%AF%B9%E7%AC%AC8%E5%9B%BD%E5%8A%A8%E6%AD%A6&sa=fyb_news"
+        }
+      ],
+      "summary": "",
+      "url": "https://m.baidu.com/s?word=%E7%BE%8E%E5%9B%BD%E8%A2%AB%E6%9B%9D%E8%80%83%E8%99%91%E5%AF%B9%E7%AC%AC8%E5%9B%BD%E5%8A%A8%E6%AD%A6&sa=fyb_news"
+    },
+    {
+      "id": "evt-oppovivo",
+      "title": "OPPO 、 Vivo  拒绝三星存储涨价报价，后续国产手机可能都用长鑫等国产内存吗？",
+      "category": "society",
+      "hotScore": 0.6375,
+      "freshness": 0.9999,
+      "crossSource": 0.6309,
+      "totalScore": 0.7443,
+      "sources": [
+        {
+          "channel": "zhihu",
+          "rank": 4,
           "hot": 0,
           "url": ""
         }
@@ -184,6 +241,25 @@
       "url": ""
     },
     {
+      "id": "evt-50000000",
+      "title": "腿上若有5个异常建议及时就医",
+      "category": "society",
+      "hotScore": 0.595,
+      "freshness": 0.9999,
+      "crossSource": 0.6309,
+      "totalScore": 0.7273,
+      "sources": [
+        {
+          "channel": "toutiao",
+          "rank": 7,
+          "hot": 22152159,
+          "url": "https://www.toutiao.com/trending/7665913905478877220/"
+        }
+      ],
+      "summary": "",
+      "url": "https://www.toutiao.com/trending/7665913905478877220/"
+    },
+    {
       "id": "evt-openai00",
       "title": "新闻蒸馏器｜OpenAI模型失控事件后，美国两党议员推动“AI终止开关法案”",
       "category": "society",
@@ -203,23 +279,23 @@
       "url": "https://www.thepaper.cn/newsDetail_forward_33650370"
     },
     {
-      "id": "evt-50000000",
-      "title": "高温天做5件事会给身体埋下病根",
+      "id": "evt-40000000",
+      "title": "詹姆斯年薪仅400万",
       "category": "society",
-      "hotScore": 0.5525,
-      "freshness": 0.9999,
+      "hotScore": 0.52,
+      "freshness": 1,
       "crossSource": 0.6309,
-      "totalScore": 0.7103,
+      "totalScore": 0.6973,
       "sources": [
         {
-          "channel": "toutiao",
+          "channel": "baidu",
           "rank": 8,
-          "hot": 19612598,
-          "url": "https://www.toutiao.com/trending/7665973959099793434/"
+          "hot": 0,
+          "url": "https://m.baidu.com/s?word=%E8%A9%B9%E5%A7%86%E6%96%AF%E5%B9%B4%E8%96%AA%E4%BB%85400%E4%B8%87&sa=fyb_news"
         }
       ],
       "summary": "",
-      "url": "https://www.toutiao.com/trending/7665973959099793434/"
+      "url": "https://m.baidu.com/s?word=%E8%A9%B9%E5%A7%86%E6%96%AF%E5%B9%B4%E8%96%AA%E4%BB%85400%E4%B8%87&sa=fyb_news"
     }
   ]
 }
