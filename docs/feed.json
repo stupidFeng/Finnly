@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-07-23T22:46:33.514Z",
+  "generatedAt": "2026-07-24T01:45:56.768Z",
   "fields": {
     "society": "社会",
     "economy": "经济",
@@ -7,49 +7,80 @@
   },
   "feed": [
     {
-      "id": "evt-20000000",
-      "title": "创历史！2名中国籍数学家获菲尔兹奖",
+      "id": "evt-00000000",
+      "title": "赛里木湖景区回应工作人员殴打司机",
       "category": "society",
-      "hotScore": 0.85,
-      "freshness": 1,
-      "crossSource": 0.6309,
-      "totalScore": 0.8293,
+      "hotScore": 0.8075,
+      "freshness": 0.9999,
+      "crossSource": 1,
+      "totalScore": 0.923,
       "sources": [
         {
           "channel": "toutiao",
-          "rank": 1,
-          "hot": 16056925,
-          "url": "https://www.toutiao.com/trending/7665722221507169830/"
+          "rank": 2,
+          "hot": 17047047,
+          "url": "https://www.toutiao.com/trending/7665732992987349011/"
+        },
+        {
+          "channel": "baidu",
+          "rank": 8,
+          "hot": 0,
+          "url": "https://m.baidu.com/s?word=%E8%B5%9B%E9%87%8C%E6%9C%A8%E6%B9%96%E6%99%AF%E5%8C%BA%E5%9B%9E%E5%BA%94%E5%B7%A5%E4%BD%9C%E4%BA%BA%E5%91%98%E6%AE%B4%E6%89%93%E5%8F%B8%E6%9C%BA&sa=fyb_news"
         }
       ],
       "summary": "",
-      "url": "https://www.toutiao.com/trending/7665722221507169830/"
+      "url": "https://www.toutiao.com/trending/7665732992987349011/"
     },
     {
-      "id": "evt-00000000",
-      "title": "中国数学家王虹、邓煜双双获得菲尔兹奖，均系北大校友",
+      "id": "evt-20000000",
+      "title": "歼-20披上了“金甲战衣”",
       "category": "society",
-      "hotScore": 0.85,
-      "freshness": 1,
-      "crossSource": 0.6309,
-      "totalScore": 0.8293,
+      "hotScore": 0.6375,
+      "freshness": 0.9999,
+      "crossSource": 1,
+      "totalScore": 0.855,
       "sources": [
         {
-          "channel": "thepaper",
-          "rank": 1,
+          "channel": "toutiao",
+          "rank": 6,
+          "hot": 11426977,
+          "url": "https://www.toutiao.com/trending/7665862041688817705/"
+        },
+        {
+          "channel": "baidu",
+          "rank": 20,
           "hot": 0,
-          "url": "https://www.thepaper.cn/newsDetail_forward_33645576"
+          "url": "https://m.baidu.com/s?word=%E6%AD%BC-20%E6%8A%AB%E4%B8%8A%E4%BA%86%E2%80%9C%E9%87%91%E7%94%B2%E6%88%98%E8%A1%A3%E2%80%9D&sa=fyb_news"
         }
       ],
       "summary": "",
-      "url": "https://www.thepaper.cn/newsDetail_forward_33645576"
+      "url": "https://www.toutiao.com/trending/7665862041688817705/"
+    },
+    {
+      "id": "evt-13160000",
+      "title": "王虹13岁跳级上高中 16岁上北大",
+      "category": "society",
+      "hotScore": 0.76,
+      "freshness": 1,
+      "crossSource": 0.6309,
+      "totalScore": 0.7933,
+      "sources": [
+        {
+          "channel": "baidu",
+          "rank": 2,
+          "hot": 0,
+          "url": "https://m.baidu.com/s?word=%E7%8E%8B%E8%99%B913%E5%B2%81%E8%B7%B3%E7%BA%A7%E4%B8%8A%E9%AB%98%E4%B8%AD+16%E5%B2%81%E4%B8%8A%E5%8C%97%E5%A4%A7&sa=fyb_news"
+        }
+      ],
+      "summary": "",
+      "url": "https://m.baidu.com/s?word=%E7%8E%8B%E8%99%B913%E5%B2%81%E8%B7%B3%E7%BA%A7%E4%B8%8A%E9%AB%98%E4%B8%AD+16%E5%B2%81%E4%B8%8A%E5%8C%97%E5%A4%A7&sa=fyb_news"
     },
     {
       "id": "evt-20260000",
       "title": "2026 年菲尔兹奖公布，中国籍数学家邓煜、王虹获奖，如何理解他们获奖的意义？",
       "category": "society",
       "hotScore": 0.75,
-      "freshness": 1,
+      "freshness": 0.9999,
       "crossSource": 0.6309,
       "totalScore": 0.7893,
       "sources": [
@@ -62,25 +93,6 @@
       ],
       "summary": "",
       "url": ""
-    },
-    {
-      "id": "evt-11500000",
-      "title": "重庆山体崩塌已致11死50失联",
-      "category": "society",
-      "hotScore": 0.7225,
-      "freshness": 1,
-      "crossSource": 0.6309,
-      "totalScore": 0.7783,
-      "sources": [
-        {
-          "channel": "toutiao",
-          "rank": 4,
-          "hot": 11895263,
-          "url": "https://www.toutiao.com/trending/7664907853928906794/"
-        }
-      ],
-      "summary": "",
-      "url": "https://www.toutiao.com/trending/7664907853928906794/"
     },
     {
       "id": "evt-10000000",
@@ -140,11 +152,30 @@
       "url": ""
     },
     {
-      "id": "evt-64400000",
-      "title": "644 分考生因填志愿未看清厦门大学本部与分校将复读，去年同有 16 人报错相同分校复读，反映了哪些问题？",
+      "id": "evt-16653000",
+      "title": "王虹16岁高考653分进北大",
+      "category": "society",
+      "hotScore": 0.7225,
+      "freshness": 0.9999,
+      "crossSource": 0.6309,
+      "totalScore": 0.7783,
+      "sources": [
+        {
+          "channel": "toutiao",
+          "rank": 4,
+          "hot": 13956942,
+          "url": "https://www.toutiao.com/trending/7665112206291288106/"
+        }
+      ],
+      "summary": "",
+      "url": "https://www.toutiao.com/trending/7665112206291288106/"
+    },
+    {
+      "id": "evt-37900000",
+      "title": "网传贫困生连续 37 天喝 9.9 元咖啡，是真的吗？如属实其补助金是否该取消？贫困生该有「喝咖啡自由」吗？",
       "category": "society",
       "hotScore": 0.7125,
-      "freshness": 1,
+      "freshness": 0.9999,
       "crossSource": 0.6309,
       "totalScore": 0.7743,
       "sources": [
@@ -178,6 +209,25 @@
       "url": "https://m.baidu.com/s?word=%E6%9C%AA%E6%9D%A55%E5%B9%B4%E6%88%91%E4%BB%AC%E7%9A%84%E5%87%BA%E8%A1%8C%E5%B0%86%E6%9C%89%E6%96%B0%E5%8F%98%E5%8C%96&sa=fyb_news"
     },
     {
+      "id": "evt-60000000",
+      "title": "视频丨美国海岸警卫队6艘巡逻舰“现身”南海，打的什么算盘？",
+      "category": "society",
+      "hotScore": 0.6375,
+      "freshness": 1,
+      "crossSource": 0.6309,
+      "totalScore": 0.7443,
+      "sources": [
+        {
+          "channel": "thepaper",
+          "rank": 6,
+          "hot": 0,
+          "url": "https://www.thepaper.cn/newsDetail_forward_33642339"
+        }
+      ],
+      "summary": "",
+      "url": "https://www.thepaper.cn/newsDetail_forward_33642339"
+    },
+    {
       "id": "evt-3d000000",
       "title": "好未来《熊猫博士》3D动画片登陆央视少儿频道",
       "category": "society",
@@ -197,55 +247,17 @@
       "url": ""
     },
     {
-      "id": "evt-54700000",
-      "title": "云南耿马惊现54.7公斤巨大口蘑",
+      "id": "evt-bin00000",
+      "title": "孙亚龙称 Bin 离队因『环境恶劣，输了就被放大镜找问题』，职业电竞选手为何面临如此高压？",
       "category": "society",
-      "hotScore": 0.595,
-      "freshness": 1,
+      "hotScore": 0.6,
+      "freshness": 0.9999,
       "crossSource": 0.6309,
-      "totalScore": 0.7273,
-      "sources": [
-        {
-          "channel": "toutiao",
-          "rank": 7,
-          "hot": 8812227,
-          "url": "https://www.toutiao.com/trending/7665538572556222490/"
-        }
-      ],
-      "summary": "",
-      "url": "https://www.toutiao.com/trending/7665538572556222490/"
-    },
-    {
-      "id": "evt-60000000",
-      "title": "视频丨美国海岸警卫队6艘巡逻舰“现身”南海，打的什么算盘？",
-      "category": "society",
-      "hotScore": 0.595,
-      "freshness": 1,
-      "crossSource": 0.6309,
-      "totalScore": 0.7273,
-      "sources": [
-        {
-          "channel": "thepaper",
-          "rank": 7,
-          "hot": 0,
-          "url": "https://www.thepaper.cn/newsDetail_forward_33642339"
-        }
-      ],
-      "summary": "",
-      "url": "https://www.thepaper.cn/newsDetail_forward_33642339"
-    },
-    {
-      "id": "evt-37990000",
-      "title": "连续 37 天喝 9.9 元咖啡的贫困生补助金，是否该取消？有较多自称贫困生的大学生维护喝咖啡自由，合理吗？",
-      "category": "society",
-      "hotScore": 0.525,
-      "freshness": 1,
-      "crossSource": 0.6309,
-      "totalScore": 0.6993,
+      "totalScore": 0.7293,
       "sources": [
         {
           "channel": "zhihu",
-          "rank": 7,
+          "rank": 5,
           "hot": 0,
           "url": ""
         }
