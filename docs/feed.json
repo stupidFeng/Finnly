@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-07-24T01:45:56.768Z",
+  "generatedAt": "2026-07-24T05:10:52.642Z",
   "fields": {
     "society": "社会",
     "economy": "经济",
@@ -7,48 +7,48 @@
   },
   "feed": [
     {
-      "id": "evt-00000000",
-      "title": "赛里木湖景区回应工作人员殴打司机",
+      "id": "evt-31700000",
+      "title": "腾讯晒317万年终奖员工因泄密被辞退",
       "category": "society",
       "hotScore": 0.8075,
-      "freshness": 0.9999,
+      "freshness": 1,
       "crossSource": 1,
       "totalScore": 0.923,
       "sources": [
         {
           "channel": "toutiao",
           "rank": 2,
-          "hot": 17047047,
-          "url": "https://www.toutiao.com/trending/7665732992987349011/"
+          "hot": 23233038,
+          "url": "https://www.toutiao.com/trending/7665610788790992950/"
         },
         {
           "channel": "baidu",
-          "rank": 8,
+          "rank": 3,
           "hot": 0,
-          "url": "https://m.baidu.com/s?word=%E8%B5%9B%E9%87%8C%E6%9C%A8%E6%B9%96%E6%99%AF%E5%8C%BA%E5%9B%9E%E5%BA%94%E5%B7%A5%E4%BD%9C%E4%BA%BA%E5%91%98%E6%AE%B4%E6%89%93%E5%8F%B8%E6%9C%BA&sa=fyb_news"
+          "url": "https://m.baidu.com/s?word=%E8%85%BE%E8%AE%AF%E6%99%92317%E4%B8%87%E5%B9%B4%E7%BB%88%E5%A5%96%E5%91%98%E5%B7%A5%E5%9B%A0%E6%B3%84%E5%AF%86%E8%A2%AB%E8%BE%9E%E9%80%80&sa=fyb_news"
         }
       ],
       "summary": "",
-      "url": "https://www.toutiao.com/trending/7665732992987349011/"
+      "url": "https://www.toutiao.com/trending/7665610788790992950/"
     },
     {
       "id": "evt-20000000",
       "title": "歼-20披上了“金甲战衣”",
       "category": "society",
-      "hotScore": 0.6375,
-      "freshness": 0.9999,
+      "hotScore": 0.64,
+      "freshness": 1,
       "crossSource": 1,
-      "totalScore": 0.855,
+      "totalScore": 0.856,
       "sources": [
         {
           "channel": "toutiao",
-          "rank": 6,
-          "hot": 11426977,
+          "rank": 17,
+          "hot": 5183991,
           "url": "https://www.toutiao.com/trending/7665862041688817705/"
         },
         {
           "channel": "baidu",
-          "rank": 20,
+          "rank": 5,
           "hot": 0,
           "url": "https://m.baidu.com/s?word=%E6%AD%BC-20%E6%8A%AB%E4%B8%8A%E4%BA%86%E2%80%9C%E9%87%91%E7%94%B2%E6%88%98%E8%A1%A3%E2%80%9D&sa=fyb_news"
         }
@@ -57,30 +57,30 @@
       "url": "https://www.toutiao.com/trending/7665862041688817705/"
     },
     {
-      "id": "evt-13160000",
-      "title": "王虹13岁跳级上高中 16岁上北大",
+      "id": "evt-00000000",
+      "title": "四位菲尔兹奖得主有三位会说中文",
       "category": "society",
-      "hotScore": 0.76,
+      "hotScore": 0.85,
       "freshness": 1,
       "crossSource": 0.6309,
-      "totalScore": 0.7933,
+      "totalScore": 0.8293,
       "sources": [
         {
-          "channel": "baidu",
-          "rank": 2,
-          "hot": 0,
-          "url": "https://m.baidu.com/s?word=%E7%8E%8B%E8%99%B913%E5%B2%81%E8%B7%B3%E7%BA%A7%E4%B8%8A%E9%AB%98%E4%B8%AD+16%E5%B2%81%E4%B8%8A%E5%8C%97%E5%A4%A7&sa=fyb_news"
+          "channel": "toutiao",
+          "rank": 1,
+          "hot": 25676478,
+          "url": "https://www.toutiao.com/trending/7665497786082725418/"
         }
       ],
       "summary": "",
-      "url": "https://m.baidu.com/s?word=%E7%8E%8B%E8%99%B913%E5%B2%81%E8%B7%B3%E7%BA%A7%E4%B8%8A%E9%AB%98%E4%B8%AD+16%E5%B2%81%E4%B8%8A%E5%8C%97%E5%A4%A7&sa=fyb_news"
+      "url": "https://www.toutiao.com/trending/7665497786082725418/"
     },
     {
-      "id": "evt-20260000",
-      "title": "2026 年菲尔兹奖公布，中国籍数学家邓煜、王虹获奖，如何理解他们获奖的意义？",
+      "id": "evt-31900000",
+      "title": "如何看待网传耗资 319 亿的腾讯全球总部「企鹅岛」疑基建翻车，员工疯狂吐槽质量奇差？",
       "category": "society",
       "hotScore": 0.75,
-      "freshness": 0.9999,
+      "freshness": 1,
       "crossSource": 0.6309,
       "totalScore": 0.7893,
       "sources": [
@@ -152,30 +152,11 @@
       "url": ""
     },
     {
-      "id": "evt-16653000",
-      "title": "王虹16岁高考653分进北大",
-      "category": "society",
-      "hotScore": 0.7225,
-      "freshness": 0.9999,
-      "crossSource": 0.6309,
-      "totalScore": 0.7783,
-      "sources": [
-        {
-          "channel": "toutiao",
-          "rank": 4,
-          "hot": 13956942,
-          "url": "https://www.toutiao.com/trending/7665112206291288106/"
-        }
-      ],
-      "summary": "",
-      "url": "https://www.toutiao.com/trending/7665112206291288106/"
-    },
-    {
-      "id": "evt-37900000",
-      "title": "网传贫困生连续 37 天喝 9.9 元咖啡，是真的吗？如属实其补助金是否该取消？贫困生该有「喝咖啡自由」吗？",
+      "id": "evt-20260000",
+      "title": "2026 年菲尔兹奖公布，中国籍数学家邓煜、王虹获奖，如何理解他们获奖的意义？",
       "category": "society",
       "hotScore": 0.7125,
-      "freshness": 0.9999,
+      "freshness": 1,
       "crossSource": 0.6309,
       "totalScore": 0.7743,
       "sources": [
@@ -190,8 +171,8 @@
       "url": ""
     },
     {
-      "id": "evt-50000000",
-      "title": "未来5年我们的出行将有新变化",
+      "id": "evt-23000000",
+      "title": "被瑞典家庭收养23年弃婴回国认亲",
       "category": "society",
       "hotScore": 0.68,
       "freshness": 1,
@@ -199,18 +180,18 @@
       "totalScore": 0.7613,
       "sources": [
         {
-          "channel": "baidu",
-          "rank": 4,
-          "hot": 0,
-          "url": "https://m.baidu.com/s?word=%E6%9C%AA%E6%9D%A55%E5%B9%B4%E6%88%91%E4%BB%AC%E7%9A%84%E5%87%BA%E8%A1%8C%E5%B0%86%E6%9C%89%E6%96%B0%E5%8F%98%E5%8C%96&sa=fyb_news"
+          "channel": "toutiao",
+          "rank": 5,
+          "hot": 17211458,
+          "url": "https://www.toutiao.com/trending/7665293095936606250/"
         }
       ],
       "summary": "",
-      "url": "https://m.baidu.com/s?word=%E6%9C%AA%E6%9D%A55%E5%B9%B4%E6%88%91%E4%BB%AC%E7%9A%84%E5%87%BA%E8%A1%8C%E5%B0%86%E6%9C%89%E6%96%B0%E5%8F%98%E5%8C%96&sa=fyb_news"
+      "url": "https://www.toutiao.com/trending/7665293095936606250/"
     },
     {
-      "id": "evt-60000000",
-      "title": "视频丨美国海岸警卫队6艘巡逻舰“现身”南海，打的什么算盘？",
+      "id": "evt-ai000000",
+      "title": "男子用 AI 伪造水果腐烂照片，恶意仅退款百余次套现，被判诈骗罪，当地也被平台标记高风险，如何看待此事？",
       "category": "society",
       "hotScore": 0.6375,
       "freshness": 1,
@@ -218,14 +199,14 @@
       "totalScore": 0.7443,
       "sources": [
         {
-          "channel": "thepaper",
-          "rank": 6,
+          "channel": "zhihu",
+          "rank": 4,
           "hot": 0,
-          "url": "https://www.thepaper.cn/newsDetail_forward_33642339"
+          "url": ""
         }
       ],
       "summary": "",
-      "url": "https://www.thepaper.cn/newsDetail_forward_33642339"
+      "url": ""
     },
     {
       "id": "evt-3d000000",
@@ -247,23 +228,23 @@
       "url": ""
     },
     {
-      "id": "evt-bin00000",
-      "title": "孙亚龙称 Bin 离队因『环境恶劣，输了就被放大镜找问题』，职业电竞选手为何面临如此高压？",
+      "id": "evt-12300000",
+      "title": "下铺空间是否公用 12306回应",
       "category": "society",
       "hotScore": 0.6,
-      "freshness": 0.9999,
+      "freshness": 1,
       "crossSource": 0.6309,
       "totalScore": 0.7293,
       "sources": [
         {
-          "channel": "zhihu",
-          "rank": 5,
+          "channel": "baidu",
+          "rank": 6,
           "hot": 0,
-          "url": ""
+          "url": "https://m.baidu.com/s?word=%E4%B8%8B%E9%93%BA%E7%A9%BA%E9%97%B4%E6%98%AF%E5%90%A6%E5%85%AC%E7%94%A8+12306%E5%9B%9E%E5%BA%94&sa=fyb_news"
         }
       ],
       "summary": "",
-      "url": ""
+      "url": "https://m.baidu.com/s?word=%E4%B8%8B%E9%93%BA%E7%A9%BA%E9%97%B4%E6%98%AF%E5%90%A6%E5%85%AC%E7%94%A8+12306%E5%9B%9E%E5%BA%94&sa=fyb_news"
     }
   ]
 }
