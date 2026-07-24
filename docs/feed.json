@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-07-24T20:54:53.451Z",
+  "generatedAt": "2026-07-24T22:52:56.961Z",
   "fields": {
     "society": "社会",
     "economy": "经济",
@@ -18,7 +18,7 @@
         {
           "channel": "toutiao",
           "rank": 1,
-          "hot": 41116939,
+          "hot": 43586950,
           "url": "https://www.toutiao.com/trending/7666090049737330219/"
         },
         {
@@ -168,15 +168,15 @@
       "id": "evt-50000000",
       "title": "高温天做5件事会给身体埋下病根",
       "category": "society",
-      "hotScore": 0.595,
+      "hotScore": 0.5525,
       "freshness": 1,
       "crossSource": 0.6309,
-      "totalScore": 0.7273,
+      "totalScore": 0.7103,
       "sources": [
         {
           "channel": "toutiao",
-          "rank": 7,
-          "hot": 22565454,
+          "rank": 8,
+          "hot": 21644638,
           "url": "https://www.toutiao.com/trending/7665973959099793434/"
         }
       ],
@@ -184,61 +184,42 @@
       "url": "https://www.toutiao.com/trending/7665973959099793434/"
     },
     {
-      "id": "evt-openai00",
-      "title": "新闻蒸馏器｜OpenAI模型失控事件后，美国两党议员推动“AI终止开关法案”",
+      "id": "evt-13000000",
+      "title": "一篇硕士学位论文13页大面积雷同疑似抄袭，中南大学：暑假结束再受理举报",
       "category": "society",
-      "hotScore": 0.595,
+      "hotScore": 0.5525,
       "freshness": 1,
       "crossSource": 0.6309,
-      "totalScore": 0.7273,
+      "totalScore": 0.7103,
       "sources": [
         {
           "channel": "thepaper",
-          "rank": 7,
-          "hot": 0,
-          "url": "https://www.thepaper.cn/newsDetail_forward_33650370"
-        }
-      ],
-      "summary": "",
-      "url": "https://www.thepaper.cn/newsDetail_forward_33650370"
-    },
-    {
-      "id": "evt-oppovivo",
-      "title": "OPPO 、 Vivo  拒绝三星存储涨价报价，后续国产手机可能都用长鑫等国产内存吗？",
-      "category": "society",
-      "hotScore": 0.525,
-      "freshness": 1,
-      "crossSource": 0.6309,
-      "totalScore": 0.6993,
-      "sources": [
-        {
-          "channel": "zhihu",
-          "rank": 7,
-          "hot": 0,
-          "url": ""
-        }
-      ],
-      "summary": "",
-      "url": ""
-    },
-    {
-      "id": "evt-40000000",
-      "title": "詹姆斯年薪仅400万",
-      "category": "society",
-      "hotScore": 0.52,
-      "freshness": 1,
-      "crossSource": 0.6309,
-      "totalScore": 0.6973,
-      "sources": [
-        {
-          "channel": "baidu",
           "rank": 8,
           "hot": 0,
-          "url": "https://m.baidu.com/s?word=%E8%A9%B9%E5%A7%86%E6%96%AF%E5%B9%B4%E8%96%AA%E4%BB%85400%E4%B8%87&sa=fyb_news"
+          "url": "https://www.thepaper.cn/newsDetail_forward_33652237"
         }
       ],
       "summary": "",
-      "url": "https://m.baidu.com/s?word=%E8%A9%B9%E5%A7%86%E6%96%AF%E5%B9%B4%E8%96%AA%E4%BB%85400%E4%B8%87&sa=fyb_news"
+      "url": "https://www.thepaper.cn/newsDetail_forward_33652237"
+    },
+    {
+      "id": "evt-31700000",
+      "title": "腾讯317万年终奖员工因泄密被辞退",
+      "category": "society",
+      "hotScore": 0.51,
+      "freshness": 1,
+      "crossSource": 0.6309,
+      "totalScore": 0.6933,
+      "sources": [
+        {
+          "channel": "toutiao",
+          "rank": 9,
+          "hot": 19584879,
+          "url": "https://www.toutiao.com/trending/7665610788790992950/"
+        }
+      ],
+      "summary": "",
+      "url": "https://www.toutiao.com/trending/7665610788790992950/"
     }
   ]
 }
