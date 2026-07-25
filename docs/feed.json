@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-07-24T22:52:56.961Z",
+  "generatedAt": "2026-07-25T01:45:45.040Z",
   "fields": {
     "society": "社会",
     "economy": "经济",
@@ -8,47 +8,72 @@
   "feed": [
     {
       "id": "evt-00000000",
-      "title": "广东多地宣布：停止一切线下培训",
+      "title": "台风红霞最新路径",
       "category": "society",
-      "hotScore": 0.85,
-      "freshness": 1,
+      "hotScore": 0.8075,
+      "freshness": 0.9999,
       "crossSource": 1,
-      "totalScore": 0.94,
+      "totalScore": 0.923,
       "sources": [
         {
           "channel": "toutiao",
-          "rank": 1,
-          "hot": 43586950,
-          "url": "https://www.toutiao.com/trending/7666090049737330219/"
+          "rank": 2,
+          "hot": 23046140,
+          "url": "https://www.toutiao.com/trending/7666237422249709119/"
         },
         {
           "channel": "baidu",
-          "rank": 2,
+          "rank": 3,
           "hot": 0,
-          "url": "https://m.baidu.com/s?word=%E5%B9%BF%E4%B8%9C%E5%A4%9A%E5%9C%B0%E5%AE%A3%E5%B8%83%EF%BC%9A%E5%81%9C%E6%AD%A2%E4%B8%80%E5%88%87%E7%BA%BF%E4%B8%8B%E5%9F%B9%E8%AE%AD&sa=fyb_news"
+          "url": "https://m.baidu.com/s?word=%E5%8F%B0%E9%A3%8E%E7%BA%A2%E9%9C%9E%E6%9C%80%E6%96%B0%E8%B7%AF%E5%BE%84&sa=fyb_news"
         }
       ],
       "summary": "",
-      "url": "https://www.toutiao.com/trending/7666090049737330219/"
+      "url": "https://www.toutiao.com/trending/7666237422249709119/"
     },
     {
       "id": "evt-76000000",
       "title": "詹姆斯加盟76人",
       "category": "society",
-      "hotScore": 0.72,
-      "freshness": 1,
-      "crossSource": 0.6309,
-      "totalScore": 0.7773,
+      "hotScore": 0.7225,
+      "freshness": 0.9999,
+      "crossSource": 1,
+      "totalScore": 0.889,
       "sources": [
         {
+          "channel": "toutiao",
+          "rank": 4,
+          "hot": 18868583,
+          "url": "https://www.toutiao.com/trending/7666232254640688681/"
+        },
+        {
           "channel": "baidu",
-          "rank": 3,
+          "rank": 8,
           "hot": 0,
           "url": "https://m.baidu.com/s?word=%E8%A9%B9%E5%A7%86%E6%96%AF%E5%8A%A0%E7%9B%9F76%E4%BA%BA&sa=fyb_news"
         }
       ],
       "summary": "",
-      "url": "https://m.baidu.com/s?word=%E8%A9%B9%E5%A7%86%E6%96%AF%E5%8A%A0%E7%9B%9F76%E4%BA%BA&sa=fyb_news"
+      "url": "https://www.toutiao.com/trending/7666232254640688681/"
+    },
+    {
+      "id": "evt-fbi00000",
+      "title": "王小洪会见FBI局长帕特尔",
+      "category": "society",
+      "hotScore": 0.76,
+      "freshness": 1,
+      "crossSource": 0.6309,
+      "totalScore": 0.7933,
+      "sources": [
+        {
+          "channel": "baidu",
+          "rank": 2,
+          "hot": 0,
+          "url": "https://m.baidu.com/s?word=%E7%8E%8B%E5%B0%8F%E6%B4%AA%E4%BC%9A%E8%A7%81FBI%E5%B1%80%E9%95%BF%E5%B8%95%E7%89%B9%E5%B0%94&sa=fyb_news"
+        }
+      ],
+      "summary": "",
+      "url": "https://m.baidu.com/s?word=%E7%8E%8B%E5%B0%8F%E6%B4%AA%E4%BC%9A%E8%A7%81FBI%E5%B1%80%E9%95%BF%E5%B8%95%E7%89%B9%E5%B0%94&sa=fyb_news"
     },
     {
       "id": "evt-28000000",
@@ -68,25 +93,6 @@
       ],
       "summary": "",
       "url": ""
-    },
-    {
-      "id": "evt-80000000",
-      "title": "美国被曝考虑对第8国动武",
-      "category": "society",
-      "hotScore": 0.64,
-      "freshness": 1,
-      "crossSource": 0.6309,
-      "totalScore": 0.7453,
-      "sources": [
-        {
-          "channel": "baidu",
-          "rank": 5,
-          "hot": 0,
-          "url": "https://m.baidu.com/s?word=%E7%BE%8E%E5%9B%BD%E8%A2%AB%E6%9B%9D%E8%80%83%E8%99%91%E5%AF%B9%E7%AC%AC8%E5%9B%BD%E5%8A%A8%E6%AD%A6&sa=fyb_news"
-        }
-      ],
-      "summary": "",
-      "url": "https://m.baidu.com/s?word=%E7%BE%8E%E5%9B%BD%E8%A2%AB%E6%9B%9D%E8%80%83%E8%99%91%E5%AF%B9%E7%AC%AC8%E5%9B%BD%E5%8A%A8%E6%AD%A6&sa=fyb_news"
     },
     {
       "id": "evt-10000000",
@@ -146,6 +152,44 @@
       "url": ""
     },
     {
+      "id": "evt-23000000",
+      "title": "小鹏汽车一季度上险量2331台",
+      "category": "economy",
+      "hotScore": 0.495,
+      "freshness": 1,
+      "crossSource": 0.6309,
+      "totalScore": 0.6873,
+      "sources": [
+        {
+          "channel": "36kr",
+          "rank": 10,
+          "hot": 0,
+          "url": ""
+        }
+      ],
+      "summary": "36氪获悉，4月11日，根据中国汽车研究中心数据，2020年一季度小鹏G3总计上险量达到2331台，3月单月上险量达到1094台。",
+      "url": ""
+    },
+    {
+      "id": "evt-13000000",
+      "title": "美“星舰”实施第13次试飞",
+      "category": "society",
+      "hotScore": 0.68,
+      "freshness": 0.9999,
+      "crossSource": 0.6309,
+      "totalScore": 0.7613,
+      "sources": [
+        {
+          "channel": "toutiao",
+          "rank": 5,
+          "hot": 17073000,
+          "url": "https://www.toutiao.com/trending/7665900627394039339/"
+        }
+      ],
+      "summary": "",
+      "url": "https://www.toutiao.com/trending/7665900627394039339/"
+    },
+    {
       "id": "evt-3d000000",
       "title": "好未来《熊猫博士》3D动画片登陆央视少儿频道",
       "category": "society",
@@ -165,27 +209,46 @@
       "url": ""
     },
     {
-      "id": "evt-50000000",
-      "title": "高温天做5件事会给身体埋下病根",
+      "id": "evt-90000000",
+      "title": "多所“小而精”大学分数线超985",
       "category": "society",
-      "hotScore": 0.5525,
+      "hotScore": 0.6,
       "freshness": 1,
       "crossSource": 0.6309,
-      "totalScore": 0.7103,
+      "totalScore": 0.7293,
       "sources": [
         {
-          "channel": "toutiao",
-          "rank": 8,
-          "hot": 21644638,
-          "url": "https://www.toutiao.com/trending/7665973959099793434/"
+          "channel": "baidu",
+          "rank": 6,
+          "hot": 0,
+          "url": "https://m.baidu.com/s?word=%E5%A4%9A%E6%89%80%E2%80%9C%E5%B0%8F%E8%80%8C%E7%B2%BE%E2%80%9D%E5%A4%A7%E5%AD%A6%E5%88%86%E6%95%B0%E7%BA%BF%E8%B6%85985&sa=fyb_news"
         }
       ],
       "summary": "",
-      "url": "https://www.toutiao.com/trending/7665973959099793434/"
+      "url": "https://m.baidu.com/s?word=%E5%A4%9A%E6%89%80%E2%80%9C%E5%B0%8F%E8%80%8C%E7%B2%BE%E2%80%9D%E5%A4%A7%E5%AD%A6%E5%88%86%E6%95%B0%E7%BA%BF%E8%B6%85985&sa=fyb_news"
     },
     {
-      "id": "evt-13000000",
-      "title": "一篇硕士学位论文13页大面积雷同疑似抄袭，中南大学：暑假结束再受理举报",
+      "id": "evt-anthropi",
+      "title": "如何评价 Anthropic 发布的 Claude Opus 5？",
+      "category": "society",
+      "hotScore": 0.6,
+      "freshness": 1,
+      "crossSource": 0.6309,
+      "totalScore": 0.7293,
+      "sources": [
+        {
+          "channel": "zhihu",
+          "rank": 5,
+          "hot": 0,
+          "url": ""
+        }
+      ],
+      "summary": "",
+      "url": ""
+    },
+    {
+      "id": "evt-openai00",
+      "title": "新闻蒸馏器｜OpenAI模型失控事件后，美国两党议员推动“AI终止开关法案”",
       "category": "society",
       "hotScore": 0.5525,
       "freshness": 1,
@@ -196,30 +259,30 @@
           "channel": "thepaper",
           "rank": 8,
           "hot": 0,
-          "url": "https://www.thepaper.cn/newsDetail_forward_33652237"
+          "url": "https://www.thepaper.cn/newsDetail_forward_33650370"
         }
       ],
       "summary": "",
-      "url": "https://www.thepaper.cn/newsDetail_forward_33652237"
+      "url": "https://www.thepaper.cn/newsDetail_forward_33650370"
     },
     {
-      "id": "evt-31700000",
-      "title": "腾讯317万年终奖员工因泄密被辞退",
+      "id": "evt-11000000",
+      "title": "河南滞销西瓜1元1斤在广州卖爆了",
       "category": "society",
       "hotScore": 0.51,
-      "freshness": 1,
+      "freshness": 0.9999,
       "crossSource": 0.6309,
       "totalScore": 0.6933,
       "sources": [
         {
           "channel": "toutiao",
           "rank": 9,
-          "hot": 19584879,
-          "url": "https://www.toutiao.com/trending/7665610788790992950/"
+          "hot": 11444374,
+          "url": "https://www.toutiao.com/trending/7665637860546936851/"
         }
       ],
       "summary": "",
-      "url": "https://www.toutiao.com/trending/7665610788790992950/"
+      "url": "https://www.toutiao.com/trending/7665637860546936851/"
     }
   ]
 }
