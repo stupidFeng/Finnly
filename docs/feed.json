@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-07-25T09:27:21.302Z",
+  "generatedAt": "2026-07-25T11:01:22.385Z",
   "fields": {
     "society": "社会",
     "economy": "经济",
@@ -8,28 +8,47 @@
   "feed": [
     {
       "id": "evt-00000000",
-      "title": "携程为何挨了最重的罚",
+      "title": "台风红霞即将“开眼”",
       "category": "society",
-      "hotScore": 0.7225,
-      "freshness": 0.9999,
-      "crossSource": 1,
-      "totalScore": 0.889,
+      "hotScore": 0.8075,
+      "freshness": 1,
+      "crossSource": 0.7925,
+      "totalScore": 0.8607,
       "sources": [
         {
           "channel": "toutiao",
-          "rank": 4,
-          "hot": 13646166,
-          "url": "https://www.toutiao.com/trending/7666344834122272282/"
+          "rank": 2,
+          "hot": 16587408,
+          "url": "https://www.toutiao.com/trending/7665680870275239487/"
         },
         {
           "channel": "baidu",
-          "rank": 8,
+          "rank": 10,
           "hot": 0,
-          "url": "https://m.baidu.com/s?word=%E6%90%BA%E7%A8%8B%E4%B8%BA%E4%BD%95%E6%8C%A8%E4%BA%86%E6%9C%80%E9%87%8D%E7%9A%84%E7%BD%9A&sa=fyb_news"
+          "url": "https://m.baidu.com/s?word=%E5%8F%B0%E9%A3%8E%E7%BA%A2%E9%9C%9E%E5%8D%B3%E5%B0%86%E2%80%9C%E5%BC%80%E7%9C%BC%E2%80%9D&sa=fyb_news"
         }
       ],
       "summary": "",
-      "url": "https://www.toutiao.com/trending/7666344834122272282/"
+      "url": "https://www.toutiao.com/trending/7665680870275239487/"
+    },
+    {
+      "id": "evt-13000000",
+      "title": "一篇硕士学位论文13页大面积雷同疑似抄袭，中南大学：暑假结束再受理举报",
+      "category": "society",
+      "hotScore": 0.765,
+      "freshness": 1,
+      "crossSource": 0.5,
+      "totalScore": 0.756,
+      "sources": [
+        {
+          "channel": "thepaper",
+          "rank": 3,
+          "hot": 0,
+          "url": "https://www.thepaper.cn/newsDetail_forward_33652237"
+        }
+      ],
+      "summary": "",
+      "url": "https://www.thepaper.cn/newsDetail_forward_33652237"
     },
     {
       "id": "evt-fbi00000",
@@ -37,8 +56,8 @@
       "category": "society",
       "hotScore": 0.76,
       "freshness": 1,
-      "crossSource": 0.6309,
-      "totalScore": 0.7933,
+      "crossSource": 0.5,
+      "totalScore": 0.754,
       "sources": [
         {
           "channel": "baidu",
@@ -51,32 +70,13 @@
       "url": "https://m.baidu.com/s?word=%E7%8E%8B%E5%B0%8F%E6%B4%AA%E4%BC%9A%E8%A7%81FBI%E5%B1%80%E9%95%BF%E5%B8%95%E7%89%B9%E5%B0%94&sa=fyb_news"
     },
     {
-      "id": "evt-13000000",
-      "title": "一篇硕士学位论文13页大面积雷同疑似抄袭，中南大学：暑假结束再受理举报",
-      "category": "society",
-      "hotScore": 0.7225,
-      "freshness": 1,
-      "crossSource": 0.6309,
-      "totalScore": 0.7783,
-      "sources": [
-        {
-          "channel": "thepaper",
-          "rank": 4,
-          "hot": 0,
-          "url": "https://www.thepaper.cn/newsDetail_forward_33652237"
-        }
-      ],
-      "summary": "",
-      "url": "https://www.thepaper.cn/newsDetail_forward_33652237"
-    },
-    {
       "id": "evt-x9300000",
       "title": "小鹏 X9 因趴窝问题召回 33473 辆，有车主称大部分都是 3 万公里就趴窝，换完再塌，哪个流程出了问题？",
       "category": "society",
       "hotScore": 0.7125,
-      "freshness": 0.9999,
-      "crossSource": 0.6309,
-      "totalScore": 0.7743,
+      "freshness": 1,
+      "crossSource": 0.5,
+      "totalScore": 0.735,
       "sources": [
         {
           "channel": "zhihu",
@@ -94,8 +94,8 @@
       "category": "economy",
       "hotScore": 0.9,
       "freshness": 1,
-      "crossSource": 0.6309,
-      "totalScore": 0.8493,
+      "crossSource": 0.5,
+      "totalScore": 0.81,
       "sources": [
         {
           "channel": "36kr",
@@ -113,8 +113,8 @@
       "category": "economy",
       "hotScore": 0.855,
       "freshness": 1,
-      "crossSource": 0.6309,
-      "totalScore": 0.8313,
+      "crossSource": 0.5,
+      "totalScore": 0.792,
       "sources": [
         {
           "channel": "36kr",
@@ -132,8 +132,8 @@
       "category": "economy",
       "hotScore": 0.81,
       "freshness": 1,
-      "crossSource": 0.6309,
-      "totalScore": 0.8133,
+      "crossSource": 0.5,
+      "totalScore": 0.774,
       "sources": [
         {
           "channel": "36kr",
@@ -146,32 +146,32 @@
       "url": ""
     },
     {
-      "id": "evt-23000000",
-      "title": "小鹏汽车一季度上险量2331台",
-      "category": "economy",
-      "hotScore": 0.495,
+      "id": "evt-18000000",
+      "title": "《功夫女足》票房破18亿",
+      "category": "entertainment",
+      "hotScore": 0.51,
       "freshness": 1,
-      "crossSource": 0.6309,
-      "totalScore": 0.6873,
+      "crossSource": 0.5,
+      "totalScore": 0.654,
       "sources": [
         {
-          "channel": "36kr",
-          "rank": 10,
-          "hot": 0,
-          "url": ""
+          "channel": "toutiao",
+          "rank": 9,
+          "hot": 8237063,
+          "url": "https://www.toutiao.com/trending/7665490635545559046/"
         }
       ],
-      "summary": "36氪获悉，4月11日，根据中国汽车研究中心数据，2020年一季度小鹏G3总计上险量达到2331台，3月单月上险量达到1094台。",
-      "url": ""
+      "summary": "",
+      "url": "https://www.toutiao.com/trending/7665490635545559046/"
     },
     {
       "id": "evt-g2100000",
       "title": "网友爆料称赛里木湖 G219 国道设了两个卡点，不想进景区也得交钱，这是真的吗？收费合理吗？",
       "category": "society",
       "hotScore": 0.675,
-      "freshness": 0.9999,
-      "crossSource": 0.6309,
-      "totalScore": 0.7593,
+      "freshness": 1,
+      "crossSource": 0.5,
+      "totalScore": 0.72,
       "sources": [
         {
           "channel": "zhihu",
@@ -189,8 +189,8 @@
       "category": "society",
       "hotScore": 0.63,
       "freshness": 1,
-      "crossSource": 0.6309,
-      "totalScore": 0.7413,
+      "crossSource": 0.5,
+      "totalScore": 0.702,
       "sources": [
         {
           "channel": "36kr",
@@ -203,36 +203,55 @@
       "url": ""
     },
     {
-      "id": "evt-70000000",
-      "title": "实拍台风红霞7级风圈",
+      "id": "evt-80000000",
+      "title": "女装退货率达80% 责任不在消费者",
       "category": "society",
-      "hotScore": 0.5525,
-      "freshness": 0.9999,
-      "crossSource": 0.6309,
-      "totalScore": 0.7103,
+      "hotScore": 0.6,
+      "freshness": 1,
+      "crossSource": 0.5,
+      "totalScore": 0.69,
       "sources": [
         {
-          "channel": "toutiao",
-          "rank": 8,
-          "hot": 9147298,
-          "url": "https://www.toutiao.com/trending/7665695154036752447/"
+          "channel": "baidu",
+          "rank": 6,
+          "hot": 0,
+          "url": "https://m.baidu.com/s?word=%E5%A5%B3%E8%A3%85%E9%80%80%E8%B4%A7%E7%8E%87%E8%BE%BE80%25+%E8%B4%A3%E4%BB%BB%E4%B8%8D%E5%9C%A8%E6%B6%88%E8%B4%B9%E8%80%85&sa=fyb_news"
         }
       ],
       "summary": "",
-      "url": "https://www.toutiao.com/trending/7665695154036752447/"
+      "url": "https://m.baidu.com/s?word=%E5%A5%B3%E8%A3%85%E9%80%80%E8%B4%A7%E7%8E%87%E8%BE%BE80%25+%E8%B4%A3%E4%BB%BB%E4%B8%8D%E5%9C%A8%E6%B6%88%E8%B4%B9%E8%80%85&sa=fyb_news"
+    },
+    {
+      "id": "evt-25000000",
+      "title": "「红霞」加强为台风级，预计 25 晚至 26 日在香港到广东陆丰沿海登陆，可能带来多大影响？你那里情况如何？",
+      "category": "society",
+      "hotScore": 0.6,
+      "freshness": 1,
+      "crossSource": 0.5,
+      "totalScore": 0.69,
+      "sources": [
+        {
+          "channel": "zhihu",
+          "rank": 5,
+          "hot": 0,
+          "url": ""
+        }
+      ],
+      "summary": "",
+      "url": ""
     },
     {
       "id": "evt-50000000",
       "title": "中纪委通报：上半年50名省部级及以上干部被立案",
       "category": "society",
-      "hotScore": 0.5525,
+      "hotScore": 0.595,
       "freshness": 1,
-      "crossSource": 0.6309,
-      "totalScore": 0.7103,
+      "crossSource": 0.5,
+      "totalScore": 0.688,
       "sources": [
         {
           "channel": "thepaper",
-          "rank": 8,
+          "rank": 7,
           "hot": 0,
           "url": "https://www.thepaper.cn/newsDetail_forward_33656291"
         }
@@ -241,13 +260,13 @@
       "url": "https://www.thepaper.cn/newsDetail_forward_33656291"
     },
     {
-      "id": "evt-kimik300",
-      "title": "杨植麟团队 KimiK3 拥有 2.8 万亿参数且团队最小成员仅 17 岁，这意味着什么？",
+      "id": "evt-20260000",
+      "title": "2026 乒超联赛常规赛第一站男团，王楚钦 1-2 张煜东，如何评价本场比赛？",
       "category": "society",
       "hotScore": 0.525,
-      "freshness": 0.9999,
-      "crossSource": 0.6309,
-      "totalScore": 0.6993,
+      "freshness": 1,
+      "crossSource": 0.5,
+      "totalScore": 0.66,
       "sources": [
         {
           "channel": "zhihu",
@@ -258,25 +277,6 @@
       ],
       "summary": "",
       "url": ""
-    },
-    {
-      "id": "evt-18000000",
-      "title": "副教授被举报18年前高考移民，江苏师大：已处分，原就读高校撤销其本科学位但保留硕士博士学位",
-      "category": "society",
-      "hotScore": 0.51,
-      "freshness": 1,
-      "crossSource": 0.6309,
-      "totalScore": 0.6933,
-      "sources": [
-        {
-          "channel": "thepaper",
-          "rank": 9,
-          "hot": 0,
-          "url": "https://www.thepaper.cn/newsDetail_forward_33652226"
-        }
-      ],
-      "summary": "",
-      "url": "https://www.thepaper.cn/newsDetail_forward_33652226"
     }
   ]
 }
