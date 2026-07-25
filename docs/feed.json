@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-07-25T11:01:22.385Z",
+  "generatedAt": "2026-07-25T12:59:57.080Z",
   "fields": {
     "society": "社会",
     "economy": "经济",
@@ -8,41 +8,41 @@
   "feed": [
     {
       "id": "evt-00000000",
-      "title": "台风红霞即将“开眼”",
+      "title": "阿凡提扮演者吐依贡去世 享年80岁",
       "category": "society",
-      "hotScore": 0.8075,
+      "hotScore": 0.7225,
       "freshness": 1,
       "crossSource": 0.7925,
-      "totalScore": 0.8607,
+      "totalScore": 0.8267,
       "sources": [
         {
           "channel": "toutiao",
-          "rank": 2,
-          "hot": 16587408,
-          "url": "https://www.toutiao.com/trending/7665680870275239487/"
+          "rank": 4,
+          "hot": 15385175,
+          "url": "https://www.toutiao.com/trending/7666413060190961710/"
         },
         {
           "channel": "baidu",
-          "rank": 10,
+          "rank": 5,
           "hot": 0,
-          "url": "https://m.baidu.com/s?word=%E5%8F%B0%E9%A3%8E%E7%BA%A2%E9%9C%9E%E5%8D%B3%E5%B0%86%E2%80%9C%E5%BC%80%E7%9C%BC%E2%80%9D&sa=fyb_news"
+          "url": "https://m.baidu.com/s?word=%E9%98%BF%E5%87%A1%E6%8F%90%E6%89%AE%E6%BC%94%E8%80%85%E5%90%90%E4%BE%9D%E8%B4%A1%E5%8E%BB%E4%B8%96+%E4%BA%AB%E5%B9%B480%E5%B2%81&sa=fyb_news"
         }
       ],
       "summary": "",
-      "url": "https://www.toutiao.com/trending/7665680870275239487/"
+      "url": "https://www.toutiao.com/trending/7666413060190961710/"
     },
     {
       "id": "evt-13000000",
       "title": "一篇硕士学位论文13页大面积雷同疑似抄袭，中南大学：暑假结束再受理举报",
       "category": "society",
-      "hotScore": 0.765,
+      "hotScore": 0.8075,
       "freshness": 1,
       "crossSource": 0.5,
-      "totalScore": 0.756,
+      "totalScore": 0.773,
       "sources": [
         {
           "channel": "thepaper",
-          "rank": 3,
+          "rank": 2,
           "hot": 0,
           "url": "https://www.thepaper.cn/newsDetail_forward_33652237"
         }
@@ -70,23 +70,23 @@
       "url": "https://m.baidu.com/s?word=%E7%8E%8B%E5%B0%8F%E6%B4%AA%E4%BC%9A%E8%A7%81FBI%E5%B1%80%E9%95%BF%E5%B8%95%E7%89%B9%E5%B0%94&sa=fyb_news"
     },
     {
-      "id": "evt-x9300000",
-      "title": "小鹏 X9 因趴窝问题召回 33473 辆，有车主称大部分都是 3 万公里就趴窝，换完再塌，哪个流程出了问题？",
+      "id": "evt-50000000",
+      "title": "中纪委通报：上半年50名省部级及以上干部被立案",
       "category": "society",
-      "hotScore": 0.7125,
+      "hotScore": 0.7225,
       "freshness": 1,
       "crossSource": 0.5,
-      "totalScore": 0.735,
+      "totalScore": 0.739,
       "sources": [
         {
-          "channel": "zhihu",
-          "rank": 2,
+          "channel": "thepaper",
+          "rank": 4,
           "hot": 0,
-          "url": ""
+          "url": "https://www.thepaper.cn/newsDetail_forward_33656291"
         }
       ],
       "summary": "",
-      "url": ""
+      "url": "https://www.thepaper.cn/newsDetail_forward_33656291"
     },
     {
       "id": "evt-10000000",
@@ -146,30 +146,11 @@
       "url": ""
     },
     {
-      "id": "evt-18000000",
-      "title": "《功夫女足》票房破18亿",
-      "category": "entertainment",
-      "hotScore": 0.51,
-      "freshness": 1,
-      "crossSource": 0.5,
-      "totalScore": 0.654,
-      "sources": [
-        {
-          "channel": "toutiao",
-          "rank": 9,
-          "hot": 8237063,
-          "url": "https://www.toutiao.com/trending/7665490635545559046/"
-        }
-      ],
-      "summary": "",
-      "url": "https://www.toutiao.com/trending/7665490635545559046/"
-    },
-    {
-      "id": "evt-g2100000",
-      "title": "网友爆料称赛里木湖 G219 国道设了两个卡点，不想进景区也得交钱，这是真的吗？收费合理吗？",
+      "id": "evt-69900000",
+      "title": "男生中考 699 分偷偷改志愿读中职，称「未来想当程序员，AI 时代也不怕」，如何看待这一升学选择？",
       "category": "society",
       "hotScore": 0.675,
-      "freshness": 1,
+      "freshness": 0.9999,
       "crossSource": 0.5,
       "totalScore": 0.72,
       "sources": [
@@ -226,7 +207,7 @@
       "title": "「红霞」加强为台风级，预计 25 晚至 26 日在香港到广东陆丰沿海登陆，可能带来多大影响？你那里情况如何？",
       "category": "society",
       "hotScore": 0.6,
-      "freshness": 1,
+      "freshness": 0.9999,
       "crossSource": 0.5,
       "totalScore": 0.69,
       "sources": [
@@ -241,30 +222,11 @@
       "url": ""
     },
     {
-      "id": "evt-50000000",
-      "title": "中纪委通报：上半年50名省部级及以上干部被立案",
-      "category": "society",
-      "hotScore": 0.595,
-      "freshness": 1,
-      "crossSource": 0.5,
-      "totalScore": 0.688,
-      "sources": [
-        {
-          "channel": "thepaper",
-          "rank": 7,
-          "hot": 0,
-          "url": "https://www.thepaper.cn/newsDetail_forward_33656291"
-        }
-      ],
-      "summary": "",
-      "url": "https://www.thepaper.cn/newsDetail_forward_33656291"
-    },
-    {
       "id": "evt-20260000",
       "title": "2026 乒超联赛常规赛第一站男团，王楚钦 1-2 张煜东，如何评价本场比赛？",
       "category": "society",
       "hotScore": 0.525,
-      "freshness": 1,
+      "freshness": 0.9999,
       "crossSource": 0.5,
       "totalScore": 0.66,
       "sources": [
