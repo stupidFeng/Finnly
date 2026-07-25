@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-07-25T20:40:03.319Z",
+  "generatedAt": "2026-07-25T22:43:08.659Z",
   "fields": {
     "society": "社会",
     "economy": "经济",
@@ -8,22 +8,47 @@
   "feed": [
     {
       "id": "evt-00000000",
-      "title": "上百斤重水泥柱被巨浪拍断冲上岸",
+      "title": "博三女生没结婚问亲戚：谁笑话我妈了",
       "category": "society",
-      "hotScore": 0.85,
-      "freshness": 0.9999,
-      "crossSource": 0.6309,
-      "totalScore": 0.8293,
+      "hotScore": 0.595,
+      "freshness": 1,
+      "crossSource": 1,
+      "totalScore": 0.838,
       "sources": [
         {
           "channel": "toutiao",
-          "rank": 1,
-          "hot": 23241055,
-          "url": "https://www.toutiao.com/trending/7666453576574684682/"
+          "rank": 7,
+          "hot": 13259546,
+          "url": "https://www.toutiao.com/trending/7665976615656276010/"
+        },
+        {
+          "channel": "baidu",
+          "rank": 11,
+          "hot": 0,
+          "url": "https://m.baidu.com/s?word=%E5%8D%9A%E4%B8%89%E5%A5%B3%E7%94%9F%E6%B2%A1%E7%BB%93%E5%A9%9A%E9%97%AE%E4%BA%B2%E6%88%9A%EF%BC%9A%E8%B0%81%E7%AC%91%E8%AF%9D%E6%88%91%E5%A6%88%E4%BA%86&sa=fyb_news"
         }
       ],
       "summary": "",
-      "url": "https://www.toutiao.com/trending/7666453576574684682/"
+      "url": "https://www.toutiao.com/trending/7665976615656276010/"
+    },
+    {
+      "id": "evt-69900000",
+      "title": "信阳学生冷子豪高考699分被清华录取",
+      "category": "society",
+      "hotScore": 0.8075,
+      "freshness": 1,
+      "crossSource": 0.6309,
+      "totalScore": 0.8123,
+      "sources": [
+        {
+          "channel": "toutiao",
+          "rank": 2,
+          "hot": 21861296,
+          "url": "https://www.toutiao.com/trending/7666389570667003947/"
+        }
+      ],
+      "summary": "",
+      "url": "https://www.toutiao.com/trending/7666389570667003947/"
     },
     {
       "id": "evt-50000000",
@@ -62,25 +87,6 @@
       ],
       "summary": "",
       "url": "https://m.baidu.com/s?word=%E6%99%AF%E5%BE%B7%E9%95%87%E7%94%A8%E5%B0%8F%E5%86%99%E7%9A%84c%E6%83%8A%E8%89%B3%E5%85%A8%E7%90%83&sa=fyb_news"
-    },
-    {
-      "id": "evt-19000000",
-      "title": "携程公布19项整改措施：全面、坚决防范“大数据杀熟”行为",
-      "category": "society",
-      "hotScore": 0.68,
-      "freshness": 1,
-      "crossSource": 0.6309,
-      "totalScore": 0.7613,
-      "sources": [
-        {
-          "channel": "thepaper",
-          "rank": 5,
-          "hot": 0,
-          "url": "https://www.thepaper.cn/newsDetail_forward_33658118"
-        }
-      ],
-      "summary": "",
-      "url": "https://www.thepaper.cn/newsDetail_forward_33658118"
     },
     {
       "id": "evt-10000000",
@@ -144,7 +150,7 @@
       "title": "《三国第一部：争洛阳》上映 16 天官宣撤档，票房未破亿，电影的问题出在哪？改档期会有效吗？",
       "category": "entertainment",
       "hotScore": 0.7125,
-      "freshness": 0.9999,
+      "freshness": 1,
       "crossSource": 0.6309,
       "totalScore": 0.7743,
       "sources": [
@@ -157,6 +163,44 @@
       ],
       "summary": "",
       "url": ""
+    },
+    {
+      "id": "evt-19000000",
+      "title": "携程公布19项整改措施：全面、坚决防范“大数据杀熟”行为",
+      "category": "society",
+      "hotScore": 0.68,
+      "freshness": 1,
+      "crossSource": 0.6309,
+      "totalScore": 0.7613,
+      "sources": [
+        {
+          "channel": "thepaper",
+          "rank": 5,
+          "hot": 0,
+          "url": "https://www.thepaper.cn/newsDetail_forward_33658118"
+        }
+      ],
+      "summary": "",
+      "url": "https://www.thepaper.cn/newsDetail_forward_33658118"
+    },
+    {
+      "id": "evt-a0000000",
+      "title": "A股下周会迎来更猛烈的震荡吗",
+      "category": "society",
+      "hotScore": 0.6375,
+      "freshness": 1,
+      "crossSource": 0.6309,
+      "totalScore": 0.7443,
+      "sources": [
+        {
+          "channel": "toutiao",
+          "rank": 6,
+          "hot": 14654065,
+          "url": "https://www.toutiao.com/trending/7666467803297222180/"
+        }
+      ],
+      "summary": "",
+      "url": "https://www.toutiao.com/trending/7666467803297222180/"
     },
     {
       "id": "evt-3d000000",
@@ -182,7 +226,7 @@
       "title": "「红霞」加强为强台风级，预计 26 日凌晨在广东深圳到海丰一带沿海登陆，可能带来多大影响？你那里情况如何？",
       "category": "society",
       "hotScore": 0.6,
-      "freshness": 0.9999,
+      "freshness": 1,
       "crossSource": 0.6309,
       "totalScore": 0.7293,
       "sources": [
@@ -197,23 +241,23 @@
       "url": ""
     },
     {
-      "id": "evt-51000000",
-      "title": "携程因垄断行为被罚没51.79亿元",
+      "id": "evt-ki000000",
+      "title": "如何看待月之暗面发布 kimi K3-256K 大模型，能力和 K3 一样，不能看视频，上下文只有 256K？",
       "category": "society",
-      "hotScore": 0.5525,
-      "freshness": 0.9999,
+      "hotScore": 0.525,
+      "freshness": 1,
       "crossSource": 0.6309,
-      "totalScore": 0.7103,
+      "totalScore": 0.6993,
       "sources": [
         {
-          "channel": "toutiao",
-          "rank": 8,
-          "hot": 11541166,
-          "url": "https://www.toutiao.com/trending/7666046170700005430/"
+          "channel": "zhihu",
+          "rank": 7,
+          "hot": 0,
+          "url": ""
         }
       ],
       "summary": "",
-      "url": "https://www.toutiao.com/trending/7666046170700005430/"
+      "url": ""
     }
   ]
 }
