@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-07-25T07:50:01.789Z",
+  "generatedAt": "2026-07-25T09:27:21.302Z",
   "fields": {
     "society": "社会",
     "economy": "经济",
@@ -10,20 +10,20 @@
       "id": "evt-00000000",
       "title": "携程为何挨了最重的罚",
       "category": "society",
-      "hotScore": 0.8075,
-      "freshness": 1,
+      "hotScore": 0.7225,
+      "freshness": 0.9999,
       "crossSource": 1,
-      "totalScore": 0.923,
+      "totalScore": 0.889,
       "sources": [
         {
           "channel": "toutiao",
-          "rank": 2,
-          "hot": 26462549,
+          "rank": 4,
+          "hot": 13646166,
           "url": "https://www.toutiao.com/trending/7666344834122272282/"
         },
         {
           "channel": "baidu",
-          "rank": 3,
+          "rank": 8,
           "hot": 0,
           "url": "https://m.baidu.com/s?word=%E6%90%BA%E7%A8%8B%E4%B8%BA%E4%BD%95%E6%8C%A8%E4%BA%86%E6%9C%80%E9%87%8D%E7%9A%84%E7%BD%9A&sa=fyb_news"
         }
@@ -74,7 +74,7 @@
       "title": "小鹏 X9 因趴窝问题召回 33473 辆，有车主称大部分都是 3 万公里就趴窝，换完再塌，哪个流程出了问题？",
       "category": "society",
       "hotScore": 0.7125,
-      "freshness": 1,
+      "freshness": 0.9999,
       "crossSource": 0.6309,
       "totalScore": 0.7743,
       "sources": [
@@ -146,30 +146,30 @@
       "url": ""
     },
     {
-      "id": "evt-51000000",
-      "title": "携程因垄断行为被罚没51.79亿元",
-      "category": "society",
-      "hotScore": 0.68,
+      "id": "evt-23000000",
+      "title": "小鹏汽车一季度上险量2331台",
+      "category": "economy",
+      "hotScore": 0.495,
       "freshness": 1,
       "crossSource": 0.6309,
-      "totalScore": 0.7613,
+      "totalScore": 0.6873,
       "sources": [
         {
-          "channel": "toutiao",
-          "rank": 5,
-          "hot": 19603938,
-          "url": "https://www.toutiao.com/trending/7666046170700005430/"
+          "channel": "36kr",
+          "rank": 10,
+          "hot": 0,
+          "url": ""
         }
       ],
-      "summary": "",
-      "url": "https://www.toutiao.com/trending/7666046170700005430/"
+      "summary": "36氪获悉，4月11日，根据中国汽车研究中心数据，2020年一季度小鹏G3总计上险量达到2331台，3月单月上险量达到1094台。",
+      "url": ""
     },
     {
       "id": "evt-g2100000",
       "title": "网友爆料称赛里木湖 G219 国道设了两个卡点，不想进景区也得交钱，这是真的吗？收费合理吗？",
       "category": "society",
       "hotScore": 0.675,
-      "freshness": 1,
+      "freshness": 0.9999,
       "crossSource": 0.6309,
       "totalScore": 0.7593,
       "sources": [
@@ -203,23 +203,80 @@
       "url": ""
     },
     {
+      "id": "evt-70000000",
+      "title": "实拍台风红霞7级风圈",
+      "category": "society",
+      "hotScore": 0.5525,
+      "freshness": 0.9999,
+      "crossSource": 0.6309,
+      "totalScore": 0.7103,
+      "sources": [
+        {
+          "channel": "toutiao",
+          "rank": 8,
+          "hot": 9147298,
+          "url": "https://www.toutiao.com/trending/7665695154036752447/"
+        }
+      ],
+      "summary": "",
+      "url": "https://www.toutiao.com/trending/7665695154036752447/"
+    },
+    {
+      "id": "evt-50000000",
+      "title": "中纪委通报：上半年50名省部级及以上干部被立案",
+      "category": "society",
+      "hotScore": 0.5525,
+      "freshness": 1,
+      "crossSource": 0.6309,
+      "totalScore": 0.7103,
+      "sources": [
+        {
+          "channel": "thepaper",
+          "rank": 8,
+          "hot": 0,
+          "url": "https://www.thepaper.cn/newsDetail_forward_33656291"
+        }
+      ],
+      "summary": "",
+      "url": "https://www.thepaper.cn/newsDetail_forward_33656291"
+    },
+    {
       "id": "evt-kimik300",
       "title": "杨植麟团队 KimiK3 拥有 2.8 万亿参数且团队最小成员仅 17 岁，这意味着什么？",
       "category": "society",
-      "hotScore": 0.6,
-      "freshness": 1,
+      "hotScore": 0.525,
+      "freshness": 0.9999,
       "crossSource": 0.6309,
-      "totalScore": 0.7293,
+      "totalScore": 0.6993,
       "sources": [
         {
           "channel": "zhihu",
-          "rank": 5,
+          "rank": 7,
           "hot": 0,
           "url": ""
         }
       ],
       "summary": "",
       "url": ""
+    },
+    {
+      "id": "evt-18000000",
+      "title": "副教授被举报18年前高考移民，江苏师大：已处分，原就读高校撤销其本科学位但保留硕士博士学位",
+      "category": "society",
+      "hotScore": 0.51,
+      "freshness": 1,
+      "crossSource": 0.6309,
+      "totalScore": 0.6933,
+      "sources": [
+        {
+          "channel": "thepaper",
+          "rank": 9,
+          "hot": 0,
+          "url": "https://www.thepaper.cn/newsDetail_forward_33652226"
+        }
+      ],
+      "summary": "",
+      "url": "https://www.thepaper.cn/newsDetail_forward_33652226"
     }
   ]
 }
