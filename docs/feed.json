@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-07-25T16:44:38.599Z",
+  "generatedAt": "2026-07-25T18:52:13.889Z",
   "fields": {
     "society": "社会",
     "economy": "经济",
@@ -8,42 +8,36 @@
   "feed": [
     {
       "id": "evt-00000000",
-      "title": "中央气象台发布今年首个台风红警",
+      "title": "上百斤重水泥柱被巨浪拍断冲上岸",
       "category": "society",
       "hotScore": 0.85,
-      "freshness": 0.9999,
-      "crossSource": 1,
-      "totalScore": 0.94,
+      "freshness": 1,
+      "crossSource": 0.6309,
+      "totalScore": 0.8293,
       "sources": [
         {
           "channel": "toutiao",
           "rank": 1,
-          "hot": 22444641,
-          "url": "https://www.toutiao.com/trending/7666467518051012146/"
-        },
-        {
-          "channel": "baidu",
-          "rank": 13,
-          "hot": 0,
-          "url": "https://m.baidu.com/s?word=%E4%B8%AD%E5%A4%AE%E6%B0%94%E8%B1%A1%E5%8F%B0%E5%8F%91%E5%B8%83%E4%BB%8A%E5%B9%B4%E9%A6%96%E4%B8%AA%E5%8F%B0%E9%A3%8E%E7%BA%A2%E8%AD%A6&sa=fyb_news"
+          "hot": 22937170,
+          "url": "https://www.toutiao.com/trending/7666453576574684682/"
         }
       ],
       "summary": "",
-      "url": "https://www.toutiao.com/trending/7666467518051012146/"
+      "url": "https://www.toutiao.com/trending/7666453576574684682/"
     },
     {
       "id": "evt-a0000000",
       "title": "A股下周会迎来更猛烈的震荡吗",
       "category": "society",
       "hotScore": 0.8075,
-      "freshness": 0.9999,
+      "freshness": 1,
       "crossSource": 0.6309,
       "totalScore": 0.8123,
       "sources": [
         {
           "channel": "toutiao",
           "rank": 2,
-          "hot": 20308751,
+          "hot": 20754410,
           "url": "https://www.toutiao.com/trending/7666467803297222180/"
         }
       ],
@@ -70,23 +64,23 @@
       "url": "https://www.thepaper.cn/newsDetail_forward_33656291"
     },
     {
-      "id": "evt-69900000",
-      "title": "男生中考 699 分偷偷改志愿读中职，称「未来想当程序员，AI 时代也不怕」，如何看待这一升学选择？",
+      "id": "evt-c0000000",
+      "title": "景德镇用小写的c惊艳全球",
       "category": "society",
-      "hotScore": 0.7125,
-      "freshness": 0.9999,
+      "hotScore": 0.68,
+      "freshness": 1,
       "crossSource": 0.6309,
-      "totalScore": 0.7743,
+      "totalScore": 0.7613,
       "sources": [
         {
-          "channel": "zhihu",
-          "rank": 2,
+          "channel": "baidu",
+          "rank": 4,
           "hot": 0,
-          "url": ""
+          "url": "https://m.baidu.com/s?word=%E6%99%AF%E5%BE%B7%E9%95%87%E7%94%A8%E5%B0%8F%E5%86%99%E7%9A%84c%E6%83%8A%E8%89%B3%E5%85%A8%E7%90%83&sa=fyb_news"
         }
       ],
       "summary": "",
-      "url": ""
+      "url": "https://m.baidu.com/s?word=%E6%99%AF%E5%BE%B7%E9%95%87%E7%94%A8%E5%B0%8F%E5%86%99%E7%9A%84c%E6%83%8A%E8%89%B3%E5%85%A8%E7%90%83&sa=fyb_news"
     },
     {
       "id": "evt-10000000",
@@ -146,8 +140,27 @@
       "url": ""
     },
     {
-      "id": "evt-c0000000",
-      "title": "景德镇用小写的c惊艳全球",
+      "id": "evt-16000000",
+      "title": "《三国第一部：争洛阳》上映 16 天官宣撤档，票房未破亿，电影的问题出在哪？改档期会有效吗？",
+      "category": "entertainment",
+      "hotScore": 0.675,
+      "freshness": 1,
+      "crossSource": 0.6309,
+      "totalScore": 0.7593,
+      "sources": [
+        {
+          "channel": "zhihu",
+          "rank": 3,
+          "hot": 0,
+          "url": ""
+        }
+      ],
+      "summary": "",
+      "url": ""
+    },
+    {
+      "id": "evt-19000000",
+      "title": "携程公布19项整改措施：全面、坚决防范“大数据杀熟”行为",
       "category": "society",
       "hotScore": 0.68,
       "freshness": 1,
@@ -155,27 +168,8 @@
       "totalScore": 0.7613,
       "sources": [
         {
-          "channel": "baidu",
-          "rank": 4,
-          "hot": 0,
-          "url": "https://m.baidu.com/s?word=%E6%99%AF%E5%BE%B7%E9%95%87%E7%94%A8%E5%B0%8F%E5%86%99%E7%9A%84c%E6%83%8A%E8%89%B3%E5%85%A8%E7%90%83&sa=fyb_news"
-        }
-      ],
-      "summary": "",
-      "url": "https://m.baidu.com/s?word=%E6%99%AF%E5%BE%B7%E9%95%87%E7%94%A8%E5%B0%8F%E5%86%99%E7%9A%84c%E6%83%8A%E8%89%B3%E5%85%A8%E7%90%83&sa=fyb_news"
-    },
-    {
-      "id": "evt-19000000",
-      "title": "携程公布19项整改措施：全面、坚决防范“大数据杀熟”行为",
-      "category": "society",
-      "hotScore": 0.6375,
-      "freshness": 1,
-      "crossSource": 0.6309,
-      "totalScore": 0.7443,
-      "sources": [
-        {
           "channel": "thepaper",
-          "rank": 6,
+          "rank": 5,
           "hot": 0,
           "url": "https://www.thepaper.cn/newsDetail_forward_33658118"
         }
@@ -207,7 +201,7 @@
       "title": "「红霞」加强为强台风级，预计 26 日凌晨在广东深圳到海丰一带沿海登陆，可能带来多大影响？你那里情况如何？",
       "category": "society",
       "hotScore": 0.6,
-      "freshness": 0.9999,
+      "freshness": 1,
       "crossSource": 0.6309,
       "totalScore": 0.7293,
       "sources": [
@@ -222,23 +216,42 @@
       "url": ""
     },
     {
-      "id": "evt-20260000",
-      "title": "2026 乒超联赛常规赛第一站男团，王楚钦 1-2 张煜东，如何评价本场比赛？",
+      "id": "evt-51000000",
+      "title": "携程因垄断行为被罚没51.79亿元",
       "category": "society",
-      "hotScore": 0.525,
-      "freshness": 0.9999,
+      "hotScore": 0.595,
+      "freshness": 1,
       "crossSource": 0.6309,
-      "totalScore": 0.6993,
+      "totalScore": 0.7273,
       "sources": [
         {
-          "channel": "zhihu",
+          "channel": "toutiao",
           "rank": 7,
-          "hot": 0,
-          "url": ""
+          "hot": 12588186,
+          "url": "https://www.toutiao.com/trending/7666046170700005430/"
         }
       ],
       "summary": "",
-      "url": ""
+      "url": "https://www.toutiao.com/trending/7666046170700005430/"
+    },
+    {
+      "id": "evt-69900000",
+      "title": "信阳学生冷子豪高考699分被清华录取",
+      "category": "society",
+      "hotScore": 0.51,
+      "freshness": 1,
+      "crossSource": 0.6309,
+      "totalScore": 0.6933,
+      "sources": [
+        {
+          "channel": "toutiao",
+          "rank": 9,
+          "hot": 10306335,
+          "url": "https://www.toutiao.com/trending/7666389570667003947/"
+        }
+      ],
+      "summary": "",
+      "url": "https://www.toutiao.com/trending/7666389570667003947/"
     }
   ]
 }
