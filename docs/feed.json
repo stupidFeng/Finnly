@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-07-25T01:45:45.040Z",
+  "generatedAt": "2026-07-25T04:56:35.834Z",
   "fields": {
     "society": "社会",
     "economy": "经济",
@@ -8,53 +8,47 @@
   "feed": [
     {
       "id": "evt-00000000",
-      "title": "台风红霞最新路径",
+      "title": "重庆警方打掉境内外电诈团伙198个",
+      "category": "society",
+      "hotScore": 0.6375,
+      "freshness": 0.9999,
+      "crossSource": 1,
+      "totalScore": 0.855,
+      "sources": [
+        {
+          "channel": "toutiao",
+          "rank": 6,
+          "hot": 18572831,
+          "url": "https://www.toutiao.com/trending/7666253915905871398/"
+        },
+        {
+          "channel": "baidu",
+          "rank": 7,
+          "hot": 0,
+          "url": "https://m.baidu.com/s?word=%E9%87%8D%E5%BA%86%E8%AD%A6%E6%96%B9%E6%89%93%E6%8E%89%E5%A2%83%E5%86%85%E5%A4%96%E7%94%B5%E8%AF%88%E5%9B%A2%E4%BC%99198%E4%B8%AA&sa=fyb_news"
+        }
+      ],
+      "summary": "",
+      "url": "https://www.toutiao.com/trending/7666253915905871398/"
+    },
+    {
+      "id": "evt-51000000",
+      "title": "携程因垄断行为被罚没51.79亿元",
       "category": "society",
       "hotScore": 0.8075,
       "freshness": 0.9999,
-      "crossSource": 1,
-      "totalScore": 0.923,
+      "crossSource": 0.6309,
+      "totalScore": 0.8123,
       "sources": [
         {
           "channel": "toutiao",
           "rank": 2,
-          "hot": 23046140,
-          "url": "https://www.toutiao.com/trending/7666237422249709119/"
-        },
-        {
-          "channel": "baidu",
-          "rank": 3,
-          "hot": 0,
-          "url": "https://m.baidu.com/s?word=%E5%8F%B0%E9%A3%8E%E7%BA%A2%E9%9C%9E%E6%9C%80%E6%96%B0%E8%B7%AF%E5%BE%84&sa=fyb_news"
+          "hot": 27707408,
+          "url": "https://www.toutiao.com/trending/7666046170700005430/"
         }
       ],
       "summary": "",
-      "url": "https://www.toutiao.com/trending/7666237422249709119/"
-    },
-    {
-      "id": "evt-76000000",
-      "title": "詹姆斯加盟76人",
-      "category": "society",
-      "hotScore": 0.7225,
-      "freshness": 0.9999,
-      "crossSource": 1,
-      "totalScore": 0.889,
-      "sources": [
-        {
-          "channel": "toutiao",
-          "rank": 4,
-          "hot": 18868583,
-          "url": "https://www.toutiao.com/trending/7666232254640688681/"
-        },
-        {
-          "channel": "baidu",
-          "rank": 8,
-          "hot": 0,
-          "url": "https://m.baidu.com/s?word=%E8%A9%B9%E5%A7%86%E6%96%AF%E5%8A%A0%E7%9B%9F76%E4%BA%BA&sa=fyb_news"
-        }
-      ],
-      "summary": "",
-      "url": "https://www.toutiao.com/trending/7666232254640688681/"
+      "url": "https://www.toutiao.com/trending/7666046170700005430/"
     },
     {
       "id": "evt-fbi00000",
@@ -76,23 +70,23 @@
       "url": "https://m.baidu.com/s?word=%E7%8E%8B%E5%B0%8F%E6%B4%AA%E4%BC%9A%E8%A7%81FBI%E5%B1%80%E9%95%BF%E5%B8%95%E7%89%B9%E5%B0%94&sa=fyb_news"
     },
     {
-      "id": "evt-28000000",
-      "title": "如何看待「詹姆斯 2 年 800 万美元加盟 76 人，第 2 年球员选项」，老詹这一决定的未来前景如何 ？",
+      "id": "evt-13000000",
+      "title": "一篇硕士学位论文13页大面积雷同疑似抄袭，中南大学：暑假结束再受理举报",
       "category": "society",
-      "hotScore": 0.7125,
+      "hotScore": 0.7225,
       "freshness": 1,
       "crossSource": 0.6309,
-      "totalScore": 0.7743,
+      "totalScore": 0.7783,
       "sources": [
         {
-          "channel": "zhihu",
-          "rank": 2,
+          "channel": "thepaper",
+          "rank": 4,
           "hot": 0,
-          "url": ""
+          "url": "https://www.thepaper.cn/newsDetail_forward_33652237"
         }
       ],
       "summary": "",
-      "url": ""
+      "url": "https://www.thepaper.cn/newsDetail_forward_33652237"
     },
     {
       "id": "evt-10000000",
@@ -152,42 +146,61 @@
       "url": ""
     },
     {
-      "id": "evt-23000000",
-      "title": "小鹏汽车一季度上险量2331台",
-      "category": "economy",
-      "hotScore": 0.495,
+      "id": "evt-51790000",
+      "title": "携程被罚没51.79亿元",
+      "category": "society",
+      "hotScore": 0.72,
       "freshness": 1,
       "crossSource": 0.6309,
-      "totalScore": 0.6873,
+      "totalScore": 0.7773,
       "sources": [
         {
-          "channel": "36kr",
-          "rank": 10,
+          "channel": "baidu",
+          "rank": 3,
+          "hot": 0,
+          "url": "https://m.baidu.com/s?word=%E6%90%BA%E7%A8%8B%E8%A2%AB%E7%BD%9A%E6%B2%A151.79%E4%BA%BF%E5%85%83&sa=fyb_news"
+        }
+      ],
+      "summary": "",
+      "url": "https://m.baidu.com/s?word=%E6%90%BA%E7%A8%8B%E8%A2%AB%E7%BD%9A%E6%B2%A151.79%E4%BA%BF%E5%85%83&sa=fyb_news"
+    },
+    {
+      "id": "evt-28000000",
+      "title": "如何看待「詹姆斯 2 年 800 万美元加盟 76 人，第 2 年球员选项」，老詹这一决定的未来前景如何 ？",
+      "category": "society",
+      "hotScore": 0.675,
+      "freshness": 0.9999,
+      "crossSource": 0.6309,
+      "totalScore": 0.7593,
+      "sources": [
+        {
+          "channel": "zhihu",
+          "rank": 3,
           "hot": 0,
           "url": ""
         }
       ],
-      "summary": "36氪获悉，4月11日，根据中国汽车研究中心数据，2020年一季度小鹏G3总计上险量达到2331台，3月单月上险量达到1094台。",
+      "summary": "",
       "url": ""
     },
     {
-      "id": "evt-13000000",
-      "title": "美“星舰”实施第13次试飞",
+      "id": "evt-x9300000",
+      "title": "小鹏 X9 因趴窝问题召回 33473 辆，有车主称大部分都是 3 万公里就趴窝，换完再塌，哪个流程出了问题？",
       "category": "society",
-      "hotScore": 0.68,
+      "hotScore": 0.6375,
       "freshness": 0.9999,
       "crossSource": 0.6309,
-      "totalScore": 0.7613,
+      "totalScore": 0.7443,
       "sources": [
         {
-          "channel": "toutiao",
-          "rank": 5,
-          "hot": 17073000,
-          "url": "https://www.toutiao.com/trending/7665900627394039339/"
+          "channel": "zhihu",
+          "rank": 4,
+          "hot": 0,
+          "url": ""
         }
       ],
       "summary": "",
-      "url": "https://www.toutiao.com/trending/7665900627394039339/"
+      "url": ""
     },
     {
       "id": "evt-3d000000",
@@ -207,82 +220,6 @@
       ],
       "summary": "36氪获悉，自4月9日起，中央电视台少儿频道携手好未来旗下教育品牌熊猫博士上线3D系列动画片《熊猫博士》。与此同时，《熊猫博士》3D动画片也在美国、加拿大、俄罗斯、意大利等多个国家、地区陆续发行，并登陆Discovery探索频道等多个世界知名节目。",
       "url": ""
-    },
-    {
-      "id": "evt-90000000",
-      "title": "多所“小而精”大学分数线超985",
-      "category": "society",
-      "hotScore": 0.6,
-      "freshness": 1,
-      "crossSource": 0.6309,
-      "totalScore": 0.7293,
-      "sources": [
-        {
-          "channel": "baidu",
-          "rank": 6,
-          "hot": 0,
-          "url": "https://m.baidu.com/s?word=%E5%A4%9A%E6%89%80%E2%80%9C%E5%B0%8F%E8%80%8C%E7%B2%BE%E2%80%9D%E5%A4%A7%E5%AD%A6%E5%88%86%E6%95%B0%E7%BA%BF%E8%B6%85985&sa=fyb_news"
-        }
-      ],
-      "summary": "",
-      "url": "https://m.baidu.com/s?word=%E5%A4%9A%E6%89%80%E2%80%9C%E5%B0%8F%E8%80%8C%E7%B2%BE%E2%80%9D%E5%A4%A7%E5%AD%A6%E5%88%86%E6%95%B0%E7%BA%BF%E8%B6%85985&sa=fyb_news"
-    },
-    {
-      "id": "evt-anthropi",
-      "title": "如何评价 Anthropic 发布的 Claude Opus 5？",
-      "category": "society",
-      "hotScore": 0.6,
-      "freshness": 1,
-      "crossSource": 0.6309,
-      "totalScore": 0.7293,
-      "sources": [
-        {
-          "channel": "zhihu",
-          "rank": 5,
-          "hot": 0,
-          "url": ""
-        }
-      ],
-      "summary": "",
-      "url": ""
-    },
-    {
-      "id": "evt-openai00",
-      "title": "新闻蒸馏器｜OpenAI模型失控事件后，美国两党议员推动“AI终止开关法案”",
-      "category": "society",
-      "hotScore": 0.5525,
-      "freshness": 1,
-      "crossSource": 0.6309,
-      "totalScore": 0.7103,
-      "sources": [
-        {
-          "channel": "thepaper",
-          "rank": 8,
-          "hot": 0,
-          "url": "https://www.thepaper.cn/newsDetail_forward_33650370"
-        }
-      ],
-      "summary": "",
-      "url": "https://www.thepaper.cn/newsDetail_forward_33650370"
-    },
-    {
-      "id": "evt-11000000",
-      "title": "河南滞销西瓜1元1斤在广州卖爆了",
-      "category": "society",
-      "hotScore": 0.51,
-      "freshness": 0.9999,
-      "crossSource": 0.6309,
-      "totalScore": 0.6933,
-      "sources": [
-        {
-          "channel": "toutiao",
-          "rank": 9,
-          "hot": 11444374,
-          "url": "https://www.toutiao.com/trending/7665637860546936851/"
-        }
-      ],
-      "summary": "",
-      "url": "https://www.toutiao.com/trending/7665637860546936851/"
     }
   ]
 }
