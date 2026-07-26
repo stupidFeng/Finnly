@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-07-26T16:46:40.063Z",
+  "generatedAt": "2026-07-26T18:55:35.121Z",
   "fields": {
     "society": "社会",
     "economy": "经济",
@@ -11,14 +11,14 @@
       "title": "甘肃省委书记省长赶赴山洪现场",
       "category": "society",
       "hotScore": 0.85,
-      "freshness": 0.9999,
+      "freshness": 1,
       "crossSource": 1,
       "totalScore": 0.94,
       "sources": [
         {
           "channel": "toutiao",
           "rank": 1,
-          "hot": 14653460,
+          "hot": 15308914,
           "url": "https://www.toutiao.com/trending/7666680577428979748/"
         },
         {
@@ -70,23 +70,23 @@
       "url": "https://www.thepaper.cn/newsDetail_forward_33660556"
     },
     {
-      "id": "evt-98000000",
-      "title": "这些“双非”院校分数线超985",
+      "id": "evt-20000000",
+      "title": "评论员谈台湾岛内20万人集会抗议",
       "category": "society",
-      "hotScore": 0.72,
+      "hotScore": 0.7225,
       "freshness": 1,
       "crossSource": 0.6309,
-      "totalScore": 0.7773,
+      "totalScore": 0.7783,
       "sources": [
         {
-          "channel": "baidu",
-          "rank": 3,
-          "hot": 0,
-          "url": "https://m.baidu.com/s?word=%E8%BF%99%E4%BA%9B%E2%80%9C%E5%8F%8C%E9%9D%9E%E2%80%9D%E9%99%A2%E6%A0%A1%E5%88%86%E6%95%B0%E7%BA%BF%E8%B6%85985&sa=fyb_news"
+          "channel": "toutiao",
+          "rank": 4,
+          "hot": 11341123,
+          "url": "https://www.toutiao.com/trending/7666218493817192511/"
         }
       ],
       "summary": "",
-      "url": "https://m.baidu.com/s?word=%E8%BF%99%E4%BA%9B%E2%80%9C%E5%8F%8C%E9%9D%9E%E2%80%9D%E9%99%A2%E6%A0%A1%E5%88%86%E6%95%B0%E7%BA%BF%E8%B6%85985&sa=fyb_news"
+      "url": "https://www.toutiao.com/trending/7666218493817192511/"
     },
     {
       "id": "evt-5g000000",
@@ -127,30 +127,30 @@
       "url": ""
     },
     {
-      "id": "evt-20000000",
-      "title": "评论员谈台湾岛内20万人集会抗议",
+      "id": "evt-98000000",
+      "title": "这些“双非”院校分数线超985",
       "category": "society",
-      "hotScore": 0.6375,
-      "freshness": 0.9999,
+      "hotScore": 0.72,
+      "freshness": 1,
       "crossSource": 0.6309,
-      "totalScore": 0.7443,
+      "totalScore": 0.7773,
       "sources": [
         {
-          "channel": "toutiao",
-          "rank": 6,
-          "hot": 8887772,
-          "url": "https://www.toutiao.com/trending/7666218493817192511/"
+          "channel": "baidu",
+          "rank": 3,
+          "hot": 0,
+          "url": "https://m.baidu.com/s?word=%E8%BF%99%E4%BA%9B%E2%80%9C%E5%8F%8C%E9%9D%9E%E2%80%9D%E9%99%A2%E6%A0%A1%E5%88%86%E6%95%B0%E7%BA%BF%E8%B6%85985&sa=fyb_news"
         }
       ],
       "summary": "",
-      "url": "https://www.toutiao.com/trending/7666218493817192511/"
+      "url": "https://m.baidu.com/s?word=%E8%BF%99%E4%BA%9B%E2%80%9C%E5%8F%8C%E9%9D%9E%E2%80%9D%E9%99%A2%E6%A0%A1%E5%88%86%E6%95%B0%E7%BA%BF%E8%B6%85985&sa=fyb_news"
     },
     {
       "id": "evt-20260000",
       "title": "邓煜获得了 2026 年菲尔兹奖，其研究成果与物理学之间有很强的关联性，他会获得诺贝尔物理学奖吗？",
       "category": "society",
       "hotScore": 0.6375,
-      "freshness": 0.9999,
+      "freshness": 1,
       "crossSource": 0.6309,
       "totalScore": 0.7443,
       "sources": [
@@ -203,25 +203,6 @@
       "url": "https://m.baidu.com/s?word=%E6%9A%B4%E6%B6%A85%E5%80%8D%E5%90%8E+%E6%8B%BC%E8%B1%86%E8%BF%8E%E6%9D%A5%E5%9B%BD%E5%AE%B6%E7%BA%A7%E5%AE%89%E5%85%A8%E8%AD%A6%E7%A4%BA&sa=fyb_news"
     },
     {
-      "id": "evt-ai000000",
-      "title": "美国五大科技巨头 AI 隐性债务被曝达 1.65 万亿美元，四年内增长 8 倍，巨额表外负债会成为定时炸弹吗？",
-      "category": "society",
-      "hotScore": 0.6,
-      "freshness": 0.9999,
-      "crossSource": 0.6309,
-      "totalScore": 0.7293,
-      "sources": [
-        {
-          "channel": "zhihu",
-          "rank": 5,
-          "hot": 0,
-          "url": ""
-        }
-      ],
-      "summary": "",
-      "url": ""
-    },
-    {
       "id": "evt-30000000",
       "title": "龙卷风突袭 他3分钟失去父母和公司",
       "category": "society",
@@ -241,23 +222,23 @@
       "url": "https://m.baidu.com/s?word=%E9%BE%99%E5%8D%B7%E9%A3%8E%E7%AA%81%E8%A2%AD+%E4%BB%963%E5%88%86%E9%92%9F%E5%A4%B1%E5%8E%BB%E7%88%B6%E6%AF%8D%E5%92%8C%E5%85%AC%E5%8F%B8&sa=fyb_news"
     },
     {
-      "id": "evt-20280000",
-      "title": "2028美共和党接班生变",
+      "id": "evt-lpl20260",
+      "title": "LPL2026 赛季第三赛段组内赛 AL 1:2 BLG，如何评价这场比赛？",
       "category": "society",
-      "hotScore": 0.5525,
-      "freshness": 0.9999,
+      "hotScore": 0.525,
+      "freshness": 1,
       "crossSource": 0.6309,
-      "totalScore": 0.7103,
+      "totalScore": 0.6993,
       "sources": [
         {
-          "channel": "toutiao",
-          "rank": 8,
-          "hot": 7276693,
-          "url": "https://www.toutiao.com/trending/7666843304859799086/"
+          "channel": "zhihu",
+          "rank": 7,
+          "hot": 0,
+          "url": ""
         }
       ],
       "summary": "",
-      "url": "https://www.toutiao.com/trending/7666843304859799086/"
+      "url": ""
     }
   ]
 }
