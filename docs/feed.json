@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-07-26T18:55:35.121Z",
+  "generatedAt": "2026-07-26T20:44:59.735Z",
   "fields": {
     "society": "社会",
     "economy": "经济",
@@ -18,7 +18,7 @@
         {
           "channel": "toutiao",
           "rank": 1,
-          "hot": 15308914,
+          "hot": 15719216,
           "url": "https://www.toutiao.com/trending/7666680577428979748/"
         },
         {
@@ -81,7 +81,7 @@
         {
           "channel": "toutiao",
           "rank": 4,
-          "hot": 11341123,
+          "hot": 11645081,
           "url": "https://www.toutiao.com/trending/7666218493817192511/"
         }
       ],
@@ -149,14 +149,14 @@
       "id": "evt-20260000",
       "title": "邓煜获得了 2026 年菲尔兹奖，其研究成果与物理学之间有很强的关联性，他会获得诺贝尔物理学奖吗？",
       "category": "society",
-      "hotScore": 0.6375,
+      "hotScore": 0.675,
       "freshness": 1,
       "crossSource": 0.6309,
-      "totalScore": 0.7443,
+      "totalScore": 0.7593,
       "sources": [
         {
           "channel": "zhihu",
-          "rank": 4,
+          "rank": 3,
           "hot": 0,
           "url": ""
         }
@@ -222,23 +222,23 @@
       "url": "https://m.baidu.com/s?word=%E9%BE%99%E5%8D%B7%E9%A3%8E%E7%AA%81%E8%A2%AD+%E4%BB%963%E5%88%86%E9%92%9F%E5%A4%B1%E5%8E%BB%E7%88%B6%E6%AF%8D%E5%92%8C%E5%85%AC%E5%8F%B8&sa=fyb_news"
     },
     {
-      "id": "evt-lpl20260",
-      "title": "LPL2026 赛季第三赛段组内赛 AL 1:2 BLG，如何评价这场比赛？",
+      "id": "evt-40000000",
+      "title": "女子手臂被烫伤用水冲了4小时",
       "category": "society",
-      "hotScore": 0.525,
+      "hotScore": 0.5525,
       "freshness": 1,
       "crossSource": 0.6309,
-      "totalScore": 0.6993,
+      "totalScore": 0.7103,
       "sources": [
         {
-          "channel": "zhihu",
-          "rank": 7,
-          "hot": 0,
-          "url": ""
+          "channel": "toutiao",
+          "rank": 8,
+          "hot": 7805931,
+          "url": "https://www.toutiao.com/trending/7665564743701004307/"
         }
       ],
       "summary": "",
-      "url": ""
+      "url": "https://www.toutiao.com/trending/7665564743701004307/"
     }
   ]
 }
