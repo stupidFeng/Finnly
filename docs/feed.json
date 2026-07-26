@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-07-26T01:48:48.697Z",
+  "generatedAt": "2026-07-26T05:21:37.054Z",
   "fields": {
     "society": "社会",
     "economy": "经济",
@@ -8,41 +8,66 @@
   "feed": [
     {
       "id": "evt-00000000",
-      "title": "新冠疫情升至中流行水平 专家建议",
+      "title": "浙大两大热门专业没录满",
       "category": "society",
-      "hotScore": 0.8075,
-      "freshness": 1,
+      "hotScore": 0.72,
+      "freshness": 0.9998,
       "crossSource": 1,
-      "totalScore": 0.923,
+      "totalScore": 0.888,
       "sources": [
         {
           "channel": "toutiao",
-          "rank": 2,
-          "hot": 24130135,
-          "url": "https://www.toutiao.com/trending/7666086385439555625/"
+          "rank": 20,
+          "hot": 2240706,
+          "url": "https://www.toutiao.com/trending/7665707737108381734/"
         },
         {
           "channel": "baidu",
-          "rank": 19,
+          "rank": 3,
           "hot": 0,
-          "url": "https://m.baidu.com/s?word=%E6%96%B0%E5%86%A0%E7%96%AB%E6%83%85%E5%8D%87%E8%87%B3%E4%B8%AD%E6%B5%81%E8%A1%8C%E6%B0%B4%E5%B9%B3+%E4%B8%93%E5%AE%B6%E5%BB%BA%E8%AE%AE&sa=fyb_news"
+          "url": "https://m.baidu.com/s?word=%E6%B5%99%E5%A4%A7%E4%B8%A4%E5%A4%A7%E7%83%AD%E9%97%A8%E4%B8%93%E4%B8%9A%E6%B2%A1%E5%BD%95%E6%BB%A1&sa=fyb_news"
         }
       ],
       "summary": "",
-      "url": "https://www.toutiao.com/trending/7666086385439555625/"
+      "url": "https://www.toutiao.com/trending/7665707737108381734/"
+    },
+    {
+      "id": "evt-ai000000",
+      "title": "《被裁掉的女孩》播放破2亿",
+      "category": "society",
+      "hotScore": 0.6375,
+      "freshness": 0.9998,
+      "crossSource": 1,
+      "totalScore": 0.855,
+      "sources": [
+        {
+          "channel": "toutiao",
+          "rank": 6,
+          "hot": 9086514,
+          "url": "https://www.toutiao.com/trending/7665929964277006363/"
+        },
+        {
+          "channel": "baidu",
+          "rank": 9,
+          "hot": 0,
+          "url": "https://m.baidu.com/s?word=%E3%80%8A%E8%A2%AB%E8%A3%81%E6%8E%89%E7%9A%84%E5%A5%B3%E5%AD%A9%E3%80%8B%E6%92%AD%E6%94%BE%E7%A0%B42%E4%BA%BF&sa=fyb_news"
+        }
+      ],
+      "summary": "",
+      "url": "https://www.toutiao.com/trending/7665929964277006363/"
     },
     {
       "id": "evt-19000000",
       "title": "携程公布19项整改措施：全面、坚决防范“大数据杀熟”行为",
       "category": "society",
-      "hotScore": 0.8075,
-      "freshness": 1,
+      "hotScore": 0.85,
+      "freshness": 0.9999,
       "crossSource": 0.6309,
-      "totalScore": 0.8123,
+      "totalScore": 0.8293,
       "sources": [
         {
           "channel": "thepaper",
-          "rank": 2,
+          "rank": 1,
           "hot": 0,
           "url": "https://www.thepaper.cn/newsDetail_forward_33658118"
         }
@@ -51,42 +76,23 @@
       "url": "https://www.thepaper.cn/newsDetail_forward_33658118"
     },
     {
-      "id": "evt-c0000000",
-      "title": "景德镇用小写的c惊艳全球",
+      "id": "evt-30000000",
+      "title": "郑丽文3声怒吼“一定让民进党垮台”",
       "category": "society",
-      "hotScore": 0.68,
-      "freshness": 1,
+      "hotScore": 0.8075,
+      "freshness": 0.9998,
       "crossSource": 0.6309,
-      "totalScore": 0.7613,
-      "sources": [
-        {
-          "channel": "baidu",
-          "rank": 4,
-          "hot": 0,
-          "url": "https://m.baidu.com/s?word=%E6%99%AF%E5%BE%B7%E9%95%87%E7%94%A8%E5%B0%8F%E5%86%99%E7%9A%84c%E6%83%8A%E8%89%B3%E5%85%A8%E7%90%83&sa=fyb_news"
-        }
-      ],
-      "summary": "",
-      "url": "https://m.baidu.com/s?word=%E6%99%AF%E5%BE%B7%E9%95%87%E7%94%A8%E5%B0%8F%E5%86%99%E7%9A%84c%E6%83%8A%E8%89%B3%E5%85%A8%E7%90%83&sa=fyb_news"
-    },
-    {
-      "id": "evt-40000000",
-      "title": "女子手臂被烫伤用水冲了4小时",
-      "category": "society",
-      "hotScore": 0.6375,
-      "freshness": 1,
-      "crossSource": 0.6309,
-      "totalScore": 0.7443,
+      "totalScore": 0.8122,
       "sources": [
         {
           "channel": "toutiao",
-          "rank": 6,
-          "hot": 16174913,
-          "url": "https://www.toutiao.com/trending/7665564743701004307/"
+          "rank": 2,
+          "hot": 13555486,
+          "url": "https://www.toutiao.com/trending/7665670468057726995/"
         }
       ],
       "summary": "",
-      "url": "https://www.toutiao.com/trending/7665564743701004307/"
+      "url": "https://www.toutiao.com/trending/7665670468057726995/"
     },
     {
       "id": "evt-10000000",
@@ -146,17 +152,74 @@
       "url": ""
     },
     {
-      "id": "evt-16000000",
-      "title": "《三国第一部：争洛阳》上映 16 天官宣撤档，票房未破亿，电影的问题出在哪？改档期会有效吗？",
-      "category": "entertainment",
-      "hotScore": 0.7125,
-      "freshness": 1,
+      "id": "evt-18950000",
+      "title": "郑州银行利润  18.95 亿却不分红，将 3.37 亿砸进总部大楼建设，中小股东的反对票说明了什么？",
+      "category": "economy",
+      "hotScore": 0.675,
+      "freshness": 0.9998,
       "crossSource": 0.6309,
-      "totalScore": 0.7743,
+      "totalScore": 0.7592,
       "sources": [
         {
           "channel": "zhihu",
+          "rank": 3,
+          "hot": 0,
+          "url": ""
+        }
+      ],
+      "summary": "",
+      "url": ""
+    },
+    {
+      "id": "evt-61000000",
+      "title": "最新！中国61项世界遗产全名单",
+      "category": "society",
+      "hotScore": 0.765,
+      "freshness": 0.9998,
+      "crossSource": 0.6309,
+      "totalScore": 0.7952,
+      "sources": [
+        {
+          "channel": "toutiao",
+          "rank": 3,
+          "hot": 12265511,
+          "url": "https://www.toutiao.com/trending/7666119317990424617/"
+        }
+      ],
+      "summary": "",
+      "url": "https://www.toutiao.com/trending/7666119317990424617/"
+    },
+    {
+      "id": "evt-80000000",
+      "title": "台湾“致癌油”已查出8000吨",
+      "category": "society",
+      "hotScore": 0.76,
+      "freshness": 0.9999,
+      "crossSource": 0.6309,
+      "totalScore": 0.7932,
+      "sources": [
+        {
+          "channel": "baidu",
           "rank": 2,
+          "hot": 0,
+          "url": "https://m.baidu.com/s?word=%E5%8F%B0%E6%B9%BE%E2%80%9C%E8%87%B4%E7%99%8C%E6%B2%B9%E2%80%9D%E5%B7%B2%E6%9F%A5%E5%87%BA8000%E5%90%A8&sa=fyb_news"
+        }
+      ],
+      "summary": "",
+      "url": "https://m.baidu.com/s?word=%E5%8F%B0%E6%B9%BE%E2%80%9C%E8%87%B4%E7%99%8C%E6%B2%B9%E2%80%9D%E5%B7%B2%E6%9F%A5%E5%87%BA8000%E5%90%A8&sa=fyb_news"
+    },
+    {
+      "id": "evt-90000000",
+      "title": "高通宣布 9 月起芯片涨价两位数百分比，将对手机市场产生哪些影响？",
+      "category": "society",
+      "hotScore": 0.6375,
+      "freshness": 0.9998,
+      "crossSource": 0.6309,
+      "totalScore": 0.7442,
+      "sources": [
+        {
+          "channel": "zhihu",
+          "rank": 4,
           "hot": 0,
           "url": ""
         }
@@ -184,32 +247,13 @@
       "url": ""
     },
     {
-      "id": "evt-20000000",
-      "title": "《被裁掉的女孩》播放破2亿",
-      "category": "society",
-      "hotScore": 0.6,
-      "freshness": 1,
-      "crossSource": 0.6309,
-      "totalScore": 0.7293,
-      "sources": [
-        {
-          "channel": "baidu",
-          "rank": 6,
-          "hot": 0,
-          "url": "https://m.baidu.com/s?word=%E3%80%8A%E8%A2%AB%E8%A3%81%E6%8E%89%E7%9A%84%E5%A5%B3%E5%AD%A9%E3%80%8B%E6%92%AD%E6%94%BE%E7%A0%B42%E4%BA%BF&sa=fyb_news"
-        }
-      ],
-      "summary": "",
-      "url": "https://m.baidu.com/s?word=%E3%80%8A%E8%A2%AB%E8%A3%81%E6%8E%89%E7%9A%84%E5%A5%B3%E5%AD%A9%E3%80%8B%E6%92%AD%E6%94%BE%E7%A0%B42%E4%BA%BF&sa=fyb_news"
-    },
-    {
       "id": "evt-76000000",
       "title": "詹姆斯发长文宣布加盟 76 人，如何评价他「生涯最后一段征程」的这一选择？",
       "category": "society",
       "hotScore": 0.5625,
-      "freshness": 1,
+      "freshness": 0.9998,
       "crossSource": 0.6309,
-      "totalScore": 0.7143,
+      "totalScore": 0.7142,
       "sources": [
         {
           "channel": "zhihu",
@@ -226,9 +270,9 @@
       "title": "平均每天减少22所小学",
       "category": "society",
       "hotScore": 0.56,
-      "freshness": 1,
+      "freshness": 0.9999,
       "crossSource": 0.6309,
-      "totalScore": 0.7133,
+      "totalScore": 0.7132,
       "sources": [
         {
           "channel": "baidu",
@@ -241,42 +285,23 @@
       "url": "https://m.baidu.com/s?word=%E5%B9%B3%E5%9D%87%E6%AF%8F%E5%A4%A9%E5%87%8F%E5%B0%9122%E6%89%80%E5%B0%8F%E5%AD%A6&sa=fyb_news"
     },
     {
-      "id": "evt-80000000",
-      "title": "台湾“致癌油”已查出8000吨",
+      "id": "evt-40000000",
+      "title": "女子手臂被烫伤用水冲了4小时",
       "category": "society",
       "hotScore": 0.5525,
-      "freshness": 1,
+      "freshness": 0.9998,
       "crossSource": 0.6309,
-      "totalScore": 0.7103,
+      "totalScore": 0.7102,
       "sources": [
         {
           "channel": "toutiao",
           "rank": 8,
-          "hot": 13242899,
-          "url": "https://www.toutiao.com/trending/7666238053325324329/"
+          "hot": 7439408,
+          "url": "https://www.toutiao.com/trending/7665564743701004307/"
         }
       ],
       "summary": "",
-      "url": "https://www.toutiao.com/trending/7666238053325324329/"
-    },
-    {
-      "id": "evt-12000000",
-      "title": "王楚钦梁靖崑 1-2 爆冷输向鹏温瑞博，如何评价本场比赛？",
-      "category": "society",
-      "hotScore": 0.525,
-      "freshness": 1,
-      "crossSource": 0.6309,
-      "totalScore": 0.6993,
-      "sources": [
-        {
-          "channel": "zhihu",
-          "rank": 7,
-          "hot": 0,
-          "url": ""
-        }
-      ],
-      "summary": "",
-      "url": ""
+      "url": "https://www.toutiao.com/trending/7665564743701004307/"
     }
   ]
 }
