@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-07-26T14:56:17.716Z",
+  "generatedAt": "2026-07-26T16:46:40.063Z",
   "fields": {
     "society": "社会",
     "economy": "经济",
@@ -8,7 +8,7 @@
   "feed": [
     {
       "id": "evt-00000000",
-      "title": "甘肃一景区发生山洪致10死23伤",
+      "title": "甘肃省委书记省长赶赴山洪现场",
       "category": "society",
       "hotScore": 0.85,
       "freshness": 0.9999,
@@ -18,25 +18,25 @@
         {
           "channel": "toutiao",
           "rank": 1,
-          "hot": 20959175,
-          "url": "https://www.toutiao.com/trending/7666768911483863091/"
+          "hot": 14653460,
+          "url": "https://www.toutiao.com/trending/7666680577428979748/"
         },
         {
-          "channel": "thepaper",
-          "rank": 19,
+          "channel": "baidu",
+          "rank": 2,
           "hot": 0,
-          "url": "https://www.thepaper.cn/newsDetail_forward_33663056"
+          "url": "https://m.baidu.com/s?word=%E7%94%98%E8%82%83%E7%9C%81%E5%A7%94%E4%B9%A6%E8%AE%B0%E7%9C%81%E9%95%BF%E8%B5%B6%E8%B5%B4%E5%B1%B1%E6%B4%AA%E7%8E%B0%E5%9C%BA&sa=fyb_news"
         }
       ],
       "summary": "",
-      "url": "https://www.toutiao.com/trending/7666768911483863091/"
+      "url": "https://www.toutiao.com/trending/7666680577428979748/"
     },
     {
       "id": "evt-10000000",
       "title": "媒体：把价格压到1毛多？爱心西瓜不容流量收割",
       "category": "society",
       "hotScore": 0.85,
-      "freshness": 0.9999,
+      "freshness": 1,
       "crossSource": 0.6309,
       "totalScore": 0.8293,
       "sources": [
@@ -54,14 +54,14 @@
       "id": "evt-kimik300",
       "title": "Kimi K3再引关注，瑞银：中国模型的结构性成本优势有望长期保持",
       "category": "society",
-      "hotScore": 0.765,
-      "freshness": 0.9999,
+      "hotScore": 0.8075,
+      "freshness": 1,
       "crossSource": 0.6309,
-      "totalScore": 0.7953,
+      "totalScore": 0.8123,
       "sources": [
         {
           "channel": "thepaper",
-          "rank": 3,
+          "rank": 2,
           "hot": 0,
           "url": "https://www.thepaper.cn/newsDetail_forward_33660556"
         }
@@ -127,17 +127,36 @@
       "url": ""
     },
     {
-      "id": "evt-18950000",
-      "title": "郑州银行利润  18.95 亿却不分红，将 3.37 亿砸进总部大楼建设，中小股东的反对票说明了什么？",
-      "category": "economy",
-      "hotScore": 0.6,
+      "id": "evt-20000000",
+      "title": "评论员谈台湾岛内20万人集会抗议",
+      "category": "society",
+      "hotScore": 0.6375,
       "freshness": 0.9999,
       "crossSource": 0.6309,
-      "totalScore": 0.7293,
+      "totalScore": 0.7443,
+      "sources": [
+        {
+          "channel": "toutiao",
+          "rank": 6,
+          "hot": 8887772,
+          "url": "https://www.toutiao.com/trending/7666218493817192511/"
+        }
+      ],
+      "summary": "",
+      "url": "https://www.toutiao.com/trending/7666218493817192511/"
+    },
+    {
+      "id": "evt-20260000",
+      "title": "邓煜获得了 2026 年菲尔兹奖，其研究成果与物理学之间有很强的关联性，他会获得诺贝尔物理学奖吗？",
+      "category": "society",
+      "hotScore": 0.6375,
+      "freshness": 0.9999,
+      "crossSource": 0.6309,
+      "totalScore": 0.7443,
       "sources": [
         {
           "channel": "zhihu",
-          "rank": 5,
+          "rank": 4,
           "hot": 0,
           "url": ""
         }
@@ -184,8 +203,46 @@
       "url": "https://m.baidu.com/s?word=%E6%9A%B4%E6%B6%A85%E5%80%8D%E5%90%8E+%E6%8B%BC%E8%B1%86%E8%BF%8E%E6%9D%A5%E5%9B%BD%E5%AE%B6%E7%BA%A7%E5%AE%89%E5%85%A8%E8%AD%A6%E7%A4%BA&sa=fyb_news"
     },
     {
-      "id": "evt-70000000",
-      "title": "日本大妈网恋“马斯克”被骗70万日元",
+      "id": "evt-ai000000",
+      "title": "美国五大科技巨头 AI 隐性债务被曝达 1.65 万亿美元，四年内增长 8 倍，巨额表外负债会成为定时炸弹吗？",
+      "category": "society",
+      "hotScore": 0.6,
+      "freshness": 0.9999,
+      "crossSource": 0.6309,
+      "totalScore": 0.7293,
+      "sources": [
+        {
+          "channel": "zhihu",
+          "rank": 5,
+          "hot": 0,
+          "url": ""
+        }
+      ],
+      "summary": "",
+      "url": ""
+    },
+    {
+      "id": "evt-30000000",
+      "title": "龙卷风突袭 他3分钟失去父母和公司",
+      "category": "society",
+      "hotScore": 0.56,
+      "freshness": 1,
+      "crossSource": 0.6309,
+      "totalScore": 0.7133,
+      "sources": [
+        {
+          "channel": "baidu",
+          "rank": 7,
+          "hot": 0,
+          "url": "https://m.baidu.com/s?word=%E9%BE%99%E5%8D%B7%E9%A3%8E%E7%AA%81%E8%A2%AD+%E4%BB%963%E5%88%86%E9%92%9F%E5%A4%B1%E5%8E%BB%E7%88%B6%E6%AF%8D%E5%92%8C%E5%85%AC%E5%8F%B8&sa=fyb_news"
+        }
+      ],
+      "summary": "",
+      "url": "https://m.baidu.com/s?word=%E9%BE%99%E5%8D%B7%E9%A3%8E%E7%AA%81%E8%A2%AD+%E4%BB%963%E5%88%86%E9%92%9F%E5%A4%B1%E5%8E%BB%E7%88%B6%E6%AF%8D%E5%92%8C%E5%85%AC%E5%8F%B8&sa=fyb_news"
+    },
+    {
+      "id": "evt-20280000",
+      "title": "2028美共和党接班生变",
       "category": "society",
       "hotScore": 0.5525,
       "freshness": 0.9999,
@@ -195,50 +252,12 @@
         {
           "channel": "toutiao",
           "rank": 8,
-          "hot": 10408018,
-          "url": "https://www.toutiao.com/trending/7666708739600646154/"
+          "hot": 7276693,
+          "url": "https://www.toutiao.com/trending/7666843304859799086/"
         }
       ],
       "summary": "",
-      "url": "https://www.toutiao.com/trending/7666708739600646154/"
-    },
-    {
-      "id": "evt-43000000",
-      "title": "仅剩4年 吸烟率如何再降3.2%",
-      "category": "society",
-      "hotScore": 0.52,
-      "freshness": 1,
-      "crossSource": 0.6309,
-      "totalScore": 0.6973,
-      "sources": [
-        {
-          "channel": "baidu",
-          "rank": 8,
-          "hot": 0,
-          "url": "https://m.baidu.com/s?word=%E4%BB%85%E5%89%A94%E5%B9%B4+%E5%90%B8%E7%83%9F%E7%8E%87%E5%A6%82%E4%BD%95%E5%86%8D%E9%99%8D3.2%25&sa=fyb_news"
-        }
-      ],
-      "summary": "",
-      "url": "https://m.baidu.com/s?word=%E4%BB%85%E5%89%A94%E5%B9%B4+%E5%90%B8%E7%83%9F%E7%8E%87%E5%A6%82%E4%BD%95%E5%86%8D%E9%99%8D3.2%25&sa=fyb_news"
-    },
-    {
-      "id": "evt-20000000",
-      "title": "业主拒交2年物业费被起诉 法院判了",
-      "category": "society",
-      "hotScore": 0.51,
-      "freshness": 0.9999,
-      "crossSource": 0.6309,
-      "totalScore": 0.6933,
-      "sources": [
-        {
-          "channel": "toutiao",
-          "rank": 9,
-          "hot": 9417564,
-          "url": "https://www.toutiao.com/trending/7665882531048308790/"
-        }
-      ],
-      "summary": "",
-      "url": "https://www.toutiao.com/trending/7665882531048308790/"
+      "url": "https://www.toutiao.com/trending/7666843304859799086/"
     }
   ]
 }
