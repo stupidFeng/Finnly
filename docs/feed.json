@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-07-27T16:07:32.197Z",
+  "generatedAt": "2026-07-27T19:11:41.351Z",
   "fields": {
     "society": "社会",
     "economy": "经济",
@@ -8,104 +8,85 @@
   "feed": [
     {
       "id": "evt-00000000",
-      "title": "敬一丹公众号疑辟谣脑溢血传闻",
-      "category": "society",
-      "hotScore": 0.8075,
-      "freshness": 0.9999,
-      "crossSource": 1,
-      "totalScore": 0.923,
-      "sources": [
-        {
-          "channel": "toutiao",
-          "rank": 2,
-          "hot": 21826265,
-          "url": "https://www.toutiao.com/trending/7666427445033324074/"
-        },
-        {
-          "channel": "baidu",
-          "rank": 3,
-          "hot": 0,
-          "url": "https://m.baidu.com/s?word=%E6%95%AC%E4%B8%80%E4%B8%B9%E5%85%AC%E4%BC%97%E5%8F%B7%E7%96%91%E8%BE%9F%E8%B0%A3%E8%84%91%E6%BA%A2%E8%A1%80%E4%BC%A0%E9%97%BB&sa=fyb_news"
-        }
-      ],
-      "summary": "",
-      "url": "https://www.toutiao.com/trending/7666427445033324074/"
-    },
-    {
-      "id": "evt-14nm4000",
-      "title": "专家：14nm凭什么等效4nm",
+      "title": "尹锡悦当选韩国总统或无效",
       "category": "society",
       "hotScore": 0.7225,
-      "freshness": 0.9999,
-      "crossSource": 0.6309,
-      "totalScore": 0.7782,
+      "freshness": 1,
+      "crossSource": 1,
+      "totalScore": 0.889,
       "sources": [
         {
           "channel": "toutiao",
           "rank": 4,
-          "hot": 17869834,
-          "url": "https://www.toutiao.com/trending/7667113463110221860/"
+          "hot": 18637484,
+          "url": "https://www.toutiao.com/trending/7667146044668562971/"
+        },
+        {
+          "channel": "baidu",
+          "rank": 20,
+          "hot": 0,
+          "url": "https://m.baidu.com/s?word=%E5%B0%B9%E9%94%A1%E6%82%A6%E5%BD%93%E9%80%89%E9%9F%A9%E5%9B%BD%E6%80%BB%E7%BB%9F%E6%88%96%E6%97%A0%E6%95%88&sa=fyb_news"
         }
       ],
       "summary": "",
-      "url": "https://www.toutiao.com/trending/7667113463110221860/"
+      "url": "https://www.toutiao.com/trending/7667146044668562971/"
+    },
+    {
+      "id": "evt-10000000",
+      "title": "女孩和男友吵架闹分手从18层坠楼",
+      "category": "society",
+      "hotScore": 0.85,
+      "freshness": 1,
+      "crossSource": 0.6309,
+      "totalScore": 0.8293,
+      "sources": [
+        {
+          "channel": "toutiao",
+          "rank": 1,
+          "hot": 25157972,
+          "url": "https://www.toutiao.com/trending/7667198705293606921/"
+        }
+      ],
+      "summary": "",
+      "url": "https://www.toutiao.com/trending/7667198705293606921/"
+    },
+    {
+      "id": "evt-47000000",
+      "title": "碧桂园卖长鑫痛失 470 亿，如何看待这一商业决策？如果没有卖长鑫可能会给碧桂园哪些影响？",
+      "category": "society",
+      "hotScore": 0.7125,
+      "freshness": 1,
+      "crossSource": 0.6309,
+      "totalScore": 0.7743,
+      "sources": [
+        {
+          "channel": "zhihu",
+          "rank": 2,
+          "hot": 0,
+          "url": ""
+        }
+      ],
+      "summary": "",
+      "url": ""
     },
     {
       "id": "evt-30000000",
       "title": "朝鲜若向俄派遣3万援军有何影响",
       "category": "society",
-      "hotScore": 0.68,
-      "freshness": 0.9999,
+      "hotScore": 0.6375,
+      "freshness": 1,
       "crossSource": 0.6309,
-      "totalScore": 0.7612,
+      "totalScore": 0.7443,
       "sources": [
         {
           "channel": "toutiao",
-          "rank": 5,
-          "hot": 16169294,
+          "rank": 6,
+          "hot": 15259081,
           "url": "https://www.toutiao.com/trending/7667162032768028187/"
         }
       ],
       "summary": "",
       "url": "https://www.toutiao.com/trending/7667162032768028187/"
-    },
-    {
-      "id": "evt-allinai0",
-      "title": "全世界都在 ALL in AI ，AI 真的是第四次工业革命吗？人类的科技树是否点错了？",
-      "category": "society",
-      "hotScore": 0.675,
-      "freshness": 0.9999,
-      "crossSource": 0.6309,
-      "totalScore": 0.7592,
-      "sources": [
-        {
-          "channel": "zhihu",
-          "rank": 3,
-          "hot": 0,
-          "url": ""
-        }
-      ],
-      "summary": "",
-      "url": ""
-    },
-    {
-      "id": "evt-10000000",
-      "title": "中芯国际与嘉楠科技合作14nm矿机芯片，知情人士：能否量产要看行情",
-      "category": "economy",
-      "hotScore": 0.9,
-      "freshness": 1,
-      "crossSource": 0.6309,
-      "totalScore": 0.8493,
-      "sources": [
-        {
-          "channel": "36kr",
-          "rank": 1,
-          "hot": 0,
-          "url": ""
-        }
-      ],
-      "summary": "有消息称，中芯国际与嘉楠科技合作的14nm矿机芯片已完成测试，将在今年二季度量产出货。对此，知情人士称，双方合作始于2019年年底，但能否量产要看行情。据悉，中芯国际数次尝试进入矿机行业，但受行情拖累一直未有实质进展。（财联社）",
-      "url": ""
     },
     {
       "id": "evt-5g000000",
@@ -146,30 +127,30 @@
       "url": ""
     },
     {
-      "id": "evt-47000000",
-      "title": "长鑫科技上市首日高开 471%，市值突破 3 万亿，成 A 股新「一哥」，如何看待其表现？",
+      "id": "evt-70000000",
+      "title": "长鑫上市首日雷军浮盈7个多亿",
       "category": "economy",
-      "hotScore": 0.75,
-      "freshness": 0.9999,
+      "hotScore": 0.8075,
+      "freshness": 1,
       "crossSource": 0.6309,
-      "totalScore": 0.7892,
+      "totalScore": 0.8123,
       "sources": [
         {
-          "channel": "zhihu",
-          "rank": 1,
-          "hot": 0,
-          "url": ""
+          "channel": "toutiao",
+          "rank": 2,
+          "hot": 22763875,
+          "url": "https://www.toutiao.com/trending/7666243604578435078/"
         }
       ],
       "summary": "",
-      "url": ""
+      "url": "https://www.toutiao.com/trending/7666243604578435078/"
     },
     {
       "id": "evt-20260000",
       "title": "2026上半年规上工业企业利润增长18.7%，国家统计局解读",
       "category": "economy",
       "hotScore": 0.68,
-      "freshness": 0.9999,
+      "freshness": 1,
       "crossSource": 0.6309,
       "totalScore": 0.7613,
       "sources": [
@@ -182,25 +163,6 @@
       ],
       "summary": "",
       "url": "https://www.thepaper.cn/newsDetail_forward_33665126"
-    },
-    {
-      "id": "evt-60062000",
-      "title": "今年高考很多 600-620 分段的考生跌出万名之外，如何看待高考分数「通货膨胀」？对考生有哪些影响？",
-      "category": "society",
-      "hotScore": 0.6375,
-      "freshness": 0.9999,
-      "crossSource": 0.6309,
-      "totalScore": 0.7442,
-      "sources": [
-        {
-          "channel": "zhihu",
-          "rank": 4,
-          "hot": 0,
-          "url": ""
-        }
-      ],
-      "summary": "",
-      "url": ""
     },
     {
       "id": "evt-3d000000",
@@ -222,13 +184,32 @@
       "url": ""
     },
     {
+      "id": "evt-ai000000",
+      "title": "国内首部AI长片首播",
+      "category": "society",
+      "hotScore": 0.6,
+      "freshness": 1,
+      "crossSource": 0.6309,
+      "totalScore": 0.7293,
+      "sources": [
+        {
+          "channel": "baidu",
+          "rank": 6,
+          "hot": 0,
+          "url": "https://m.baidu.com/s?word=%E5%9B%BD%E5%86%85%E9%A6%96%E9%83%A8AI%E9%95%BF%E7%89%87%E9%A6%96%E6%92%AD&sa=fyb_news"
+        }
+      ],
+      "summary": "",
+      "url": "https://m.baidu.com/s?word=%E5%9B%BD%E5%86%85%E9%A6%96%E9%83%A8AI%E9%95%BF%E7%89%87%E9%A6%96%E6%92%AD&sa=fyb_news"
+    },
+    {
       "id": "evt-40000000",
       "title": "为什么菲尔兹奖要限定 40 岁以下？",
       "category": "society",
       "hotScore": 0.6,
-      "freshness": 0.9999,
+      "freshness": 1,
       "crossSource": 0.6309,
-      "totalScore": 0.7292,
+      "totalScore": 0.7293,
       "sources": [
         {
           "channel": "zhihu",
@@ -239,6 +220,25 @@
       ],
       "summary": "",
       "url": ""
+    },
+    {
+      "id": "evt-14nm4000",
+      "title": "专家：14nm凭什么等效4nm",
+      "category": "society",
+      "hotScore": 0.5525,
+      "freshness": 1,
+      "crossSource": 0.6309,
+      "totalScore": 0.7103,
+      "sources": [
+        {
+          "channel": "toutiao",
+          "rank": 8,
+          "hot": 12493079,
+          "url": "https://www.toutiao.com/trending/7667113463110221860/"
+        }
+      ],
+      "summary": "",
+      "url": "https://www.toutiao.com/trending/7667113463110221860/"
     }
   ]
 }
