@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-07-27T21:02:01.222Z",
+  "generatedAt": "2026-07-27T22:51:33.941Z",
   "fields": {
     "society": "社会",
     "economy": "经济",
@@ -10,15 +10,15 @@
       "id": "evt-00000000",
       "title": "尹锡悦当选韩国总统或无效",
       "category": "society",
-      "hotScore": 0.8075,
+      "hotScore": 0.7225,
       "freshness": 0.9999,
       "crossSource": 1,
-      "totalScore": 0.923,
+      "totalScore": 0.889,
       "sources": [
         {
           "channel": "toutiao",
-          "rank": 2,
-          "hot": 23135839,
+          "rank": 4,
+          "hot": 19727073,
           "url": "https://www.toutiao.com/trending/7667146044668562971/"
         },
         {
@@ -38,12 +38,12 @@
       "hotScore": 0.85,
       "freshness": 0.9999,
       "crossSource": 0.6309,
-      "totalScore": 0.8293,
+      "totalScore": 0.8292,
       "sources": [
         {
           "channel": "toutiao",
           "rank": 1,
-          "hot": 25569056,
+          "hot": 26628763,
           "url": "https://www.toutiao.com/trending/7667198705293606921/"
         }
       ],
@@ -51,17 +51,36 @@
       "url": "https://www.toutiao.com/trending/7667198705293606921/"
     },
     {
+      "id": "evt-30000000",
+      "title": "朝鲜若向俄派遣3万援军有何影响",
+      "category": "society",
+      "hotScore": 0.8075,
+      "freshness": 0.9999,
+      "crossSource": 0.6309,
+      "totalScore": 0.8122,
+      "sources": [
+        {
+          "channel": "toutiao",
+          "rank": 2,
+          "hot": 24094701,
+          "url": "https://www.toutiao.com/trending/7667162032768028187/"
+        }
+      ],
+      "summary": "",
+      "url": "https://www.toutiao.com/trending/7667162032768028187/"
+    },
+    {
       "id": "evt-47000000",
       "title": "碧桂园卖长鑫痛失 470 亿，如何看待这一商业决策？如果没有卖长鑫可能会给碧桂园哪些影响？",
       "category": "society",
-      "hotScore": 0.7125,
+      "hotScore": 0.675,
       "freshness": 0.9999,
       "crossSource": 0.6309,
-      "totalScore": 0.7743,
+      "totalScore": 0.7592,
       "sources": [
         {
           "channel": "zhihu",
-          "rank": 2,
+          "rank": 3,
           "hot": 0,
           "url": ""
         }
@@ -70,30 +89,11 @@
       "url": ""
     },
     {
-      "id": "evt-3d000000",
-      "title": "好未来《熊猫博士》3D动画片登陆央视少儿频道",
-      "category": "society",
-      "hotScore": 0.63,
-      "freshness": 1,
-      "crossSource": 0.6309,
-      "totalScore": 0.7413,
-      "sources": [
-        {
-          "channel": "36kr",
-          "rank": 7,
-          "hot": 0,
-          "url": ""
-        }
-      ],
-      "summary": "36氪获悉，自4月9日起，中央电视台少儿频道携手好未来旗下教育品牌熊猫博士上线3D系列动画片《熊猫博士》。与此同时，《熊猫博士》3D动画片也在美国、加拿大、俄罗斯、意大利等多个国家、地区陆续发行，并登陆Discovery探索频道等多个世界知名节目。",
-      "url": ""
-    },
-    {
       "id": "evt-5g000000",
       "title": "三大运营商年内推出5G消息",
       "category": "economy",
       "hotScore": 0.855,
-      "freshness": 1,
+      "freshness": 0.9999,
       "crossSource": 0.6309,
       "totalScore": 0.8313,
       "sources": [
@@ -112,7 +112,7 @@
       "title": "欧洲在线订餐服务Takeaway.com：外卖订单开始强劲复苏",
       "category": "economy",
       "hotScore": 0.81,
-      "freshness": 1,
+      "freshness": 0.9999,
       "crossSource": 0.6309,
       "totalScore": 0.8133,
       "sources": [
@@ -125,25 +125,6 @@
       ],
       "summary": "据外媒报道，随着闭门不出的消费者厌倦了在家里做饭或寻求改变他们的日常生活，更多的人开始将点外卖作为一种改变局面的方式。欧洲最大的在线订餐服务之一Takeaway.com称，外卖订单已开始强劲复苏。而分析师表示，这种复苏是“I型复苏”，而不是“V型复苏”。（腾讯科技）",
       "url": ""
-    },
-    {
-      "id": "evt-70000000",
-      "title": "长鑫上市首日雷军浮盈7个多亿",
-      "category": "economy",
-      "hotScore": 0.7225,
-      "freshness": 0.9999,
-      "crossSource": 0.6309,
-      "totalScore": 0.7783,
-      "sources": [
-        {
-          "channel": "toutiao",
-          "rank": 4,
-          "hot": 18942023,
-          "url": "https://www.toutiao.com/trending/7666243604578435078/"
-        }
-      ],
-      "summary": "",
-      "url": "https://www.toutiao.com/trending/7666243604578435078/"
     },
     {
       "id": "evt-20260000",
@@ -165,11 +146,49 @@
       "url": "https://www.thepaper.cn/newsDetail_forward_33665126"
     },
     {
+      "id": "evt-70000000",
+      "title": "长鑫上市首日雷军浮盈7个多亿",
+      "category": "economy",
+      "hotScore": 0.68,
+      "freshness": 0.9999,
+      "crossSource": 0.6309,
+      "totalScore": 0.7612,
+      "sources": [
+        {
+          "channel": "toutiao",
+          "rank": 5,
+          "hot": 17849793,
+          "url": "https://www.toutiao.com/trending/7666243604578435078/"
+        }
+      ],
+      "summary": "",
+      "url": "https://www.toutiao.com/trending/7666243604578435078/"
+    },
+    {
+      "id": "evt-3d000000",
+      "title": "好未来《熊猫博士》3D动画片登陆央视少儿频道",
+      "category": "society",
+      "hotScore": 0.63,
+      "freshness": 0.9999,
+      "crossSource": 0.6309,
+      "totalScore": 0.7413,
+      "sources": [
+        {
+          "channel": "36kr",
+          "rank": 7,
+          "hot": 0,
+          "url": ""
+        }
+      ],
+      "summary": "36氪获悉，自4月9日起，中央电视台少儿频道携手好未来旗下教育品牌熊猫博士上线3D系列动画片《熊猫博士》。与此同时，《熊猫博士》3D动画片也在美国、加拿大、俄罗斯、意大利等多个国家、地区陆续发行，并登陆Discovery探索频道等多个世界知名节目。",
+      "url": ""
+    },
+    {
       "id": "evt-ai000000",
       "title": "国内首部AI长片首播",
       "category": "society",
       "hotScore": 0.6,
-      "freshness": 1,
+      "freshness": 0.9999,
       "crossSource": 0.6309,
       "totalScore": 0.7293,
       "sources": [
@@ -190,7 +209,7 @@
       "hotScore": 0.6,
       "freshness": 0.9999,
       "crossSource": 0.6309,
-      "totalScore": 0.7293,
+      "totalScore": 0.7292,
       "sources": [
         {
           "channel": "zhihu",
@@ -203,23 +222,23 @@
       "url": ""
     },
     {
-      "id": "evt-30000000",
-      "title": "朝鲜若向俄派遣3万援军有何影响",
+      "id": "evt-35000000",
+      "title": "邓煜王虹都是 35+ 未婚，这是否是学术顶尖的代价？",
       "category": "society",
-      "hotScore": 0.595,
+      "hotScore": 0.5625,
       "freshness": 0.9999,
       "crossSource": 0.6309,
-      "totalScore": 0.7273,
+      "totalScore": 0.7142,
       "sources": [
         {
-          "channel": "toutiao",
-          "rank": 7,
-          "hot": 14032596,
-          "url": "https://www.toutiao.com/trending/7667162032768028187/"
+          "channel": "zhihu",
+          "rank": 6,
+          "hot": 0,
+          "url": ""
         }
       ],
       "summary": "",
-      "url": "https://www.toutiao.com/trending/7667162032768028187/"
+      "url": ""
     }
   ]
 }
