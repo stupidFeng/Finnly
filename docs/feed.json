@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-07-27T19:11:41.351Z",
+  "generatedAt": "2026-07-27T21:02:01.222Z",
   "fields": {
     "society": "社会",
     "economy": "经济",
@@ -10,15 +10,15 @@
       "id": "evt-00000000",
       "title": "尹锡悦当选韩国总统或无效",
       "category": "society",
-      "hotScore": 0.7225,
-      "freshness": 1,
+      "hotScore": 0.8075,
+      "freshness": 0.9999,
       "crossSource": 1,
-      "totalScore": 0.889,
+      "totalScore": 0.923,
       "sources": [
         {
           "channel": "toutiao",
-          "rank": 4,
-          "hot": 18637484,
+          "rank": 2,
+          "hot": 23135839,
           "url": "https://www.toutiao.com/trending/7667146044668562971/"
         },
         {
@@ -36,14 +36,14 @@
       "title": "女孩和男友吵架闹分手从18层坠楼",
       "category": "society",
       "hotScore": 0.85,
-      "freshness": 1,
+      "freshness": 0.9999,
       "crossSource": 0.6309,
       "totalScore": 0.8293,
       "sources": [
         {
           "channel": "toutiao",
           "rank": 1,
-          "hot": 25157972,
+          "hot": 25569056,
           "url": "https://www.toutiao.com/trending/7667198705293606921/"
         }
       ],
@@ -55,7 +55,7 @@
       "title": "碧桂园卖长鑫痛失 470 亿，如何看待这一商业决策？如果没有卖长鑫可能会给碧桂园哪些影响？",
       "category": "society",
       "hotScore": 0.7125,
-      "freshness": 1,
+      "freshness": 0.9999,
       "crossSource": 0.6309,
       "totalScore": 0.7743,
       "sources": [
@@ -70,23 +70,23 @@
       "url": ""
     },
     {
-      "id": "evt-30000000",
-      "title": "朝鲜若向俄派遣3万援军有何影响",
+      "id": "evt-3d000000",
+      "title": "好未来《熊猫博士》3D动画片登陆央视少儿频道",
       "category": "society",
-      "hotScore": 0.6375,
+      "hotScore": 0.63,
       "freshness": 1,
       "crossSource": 0.6309,
-      "totalScore": 0.7443,
+      "totalScore": 0.7413,
       "sources": [
         {
-          "channel": "toutiao",
-          "rank": 6,
-          "hot": 15259081,
-          "url": "https://www.toutiao.com/trending/7667162032768028187/"
+          "channel": "36kr",
+          "rank": 7,
+          "hot": 0,
+          "url": ""
         }
       ],
-      "summary": "",
-      "url": "https://www.toutiao.com/trending/7667162032768028187/"
+      "summary": "36氪获悉，自4月9日起，中央电视台少儿频道携手好未来旗下教育品牌熊猫博士上线3D系列动画片《熊猫博士》。与此同时，《熊猫博士》3D动画片也在美国、加拿大、俄罗斯、意大利等多个国家、地区陆续发行，并登陆Discovery探索频道等多个世界知名节目。",
+      "url": ""
     },
     {
       "id": "evt-5g000000",
@@ -130,15 +130,15 @@
       "id": "evt-70000000",
       "title": "长鑫上市首日雷军浮盈7个多亿",
       "category": "economy",
-      "hotScore": 0.8075,
-      "freshness": 1,
+      "hotScore": 0.7225,
+      "freshness": 0.9999,
       "crossSource": 0.6309,
-      "totalScore": 0.8123,
+      "totalScore": 0.7783,
       "sources": [
         {
           "channel": "toutiao",
-          "rank": 2,
-          "hot": 22763875,
+          "rank": 4,
+          "hot": 18942023,
           "url": "https://www.toutiao.com/trending/7666243604578435078/"
         }
       ],
@@ -165,25 +165,6 @@
       "url": "https://www.thepaper.cn/newsDetail_forward_33665126"
     },
     {
-      "id": "evt-3d000000",
-      "title": "好未来《熊猫博士》3D动画片登陆央视少儿频道",
-      "category": "society",
-      "hotScore": 0.63,
-      "freshness": 1,
-      "crossSource": 0.6309,
-      "totalScore": 0.7413,
-      "sources": [
-        {
-          "channel": "36kr",
-          "rank": 7,
-          "hot": 0,
-          "url": ""
-        }
-      ],
-      "summary": "36氪获悉，自4月9日起，中央电视台少儿频道携手好未来旗下教育品牌熊猫博士上线3D系列动画片《熊猫博士》。与此同时，《熊猫博士》3D动画片也在美国、加拿大、俄罗斯、意大利等多个国家、地区陆续发行，并登陆Discovery探索频道等多个世界知名节目。",
-      "url": ""
-    },
-    {
       "id": "evt-ai000000",
       "title": "国内首部AI长片首播",
       "category": "society",
@@ -207,7 +188,7 @@
       "title": "为什么菲尔兹奖要限定 40 岁以下？",
       "category": "society",
       "hotScore": 0.6,
-      "freshness": 1,
+      "freshness": 0.9999,
       "crossSource": 0.6309,
       "totalScore": 0.7293,
       "sources": [
@@ -222,23 +203,23 @@
       "url": ""
     },
     {
-      "id": "evt-14nm4000",
-      "title": "专家：14nm凭什么等效4nm",
+      "id": "evt-30000000",
+      "title": "朝鲜若向俄派遣3万援军有何影响",
       "category": "society",
-      "hotScore": 0.5525,
-      "freshness": 1,
+      "hotScore": 0.595,
+      "freshness": 0.9999,
       "crossSource": 0.6309,
-      "totalScore": 0.7103,
+      "totalScore": 0.7273,
       "sources": [
         {
           "channel": "toutiao",
-          "rank": 8,
-          "hot": 12493079,
-          "url": "https://www.toutiao.com/trending/7667113463110221860/"
+          "rank": 7,
+          "hot": 14032596,
+          "url": "https://www.toutiao.com/trending/7667162032768028187/"
         }
       ],
       "summary": "",
-      "url": "https://www.toutiao.com/trending/7667113463110221860/"
+      "url": "https://www.toutiao.com/trending/7667162032768028187/"
     }
   ]
 }
