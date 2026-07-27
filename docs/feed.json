@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-07-27T09:29:43.146Z",
+  "generatedAt": "2026-07-27T12:50:17.775Z",
   "fields": {
     "society": "社会",
     "economy": "经济",
@@ -7,68 +7,43 @@
   },
   "feed": [
     {
-      "id": "evt-30000000",
-      "title": "老人极少用燃气一年竟花3400多元",
-      "category": "society",
-      "hotScore": 0.72,
-      "freshness": 0.9999,
-      "crossSource": 1,
-      "totalScore": 0.888,
-      "sources": [
-        {
-          "channel": "toutiao",
-          "rank": 16,
-          "hot": 7230782,
-          "url": "https://www.toutiao.com/trending/7666267605649686582/"
-        },
-        {
-          "channel": "baidu",
-          "rank": 3,
-          "hot": 0,
-          "url": "https://m.baidu.com/s?word=%E8%80%81%E4%BA%BA%E6%9E%81%E5%B0%91%E7%94%A8%E7%87%83%E6%B0%94%E4%B8%80%E5%B9%B4%E7%AB%9F%E8%8A%B13400%E5%A4%9A%E5%85%83&sa=fyb_news"
-        }
-      ],
-      "summary": "",
-      "url": "https://www.toutiao.com/trending/7666267605649686582/"
-    },
-    {
       "id": "evt-00000000",
-      "title": "作家紫金陈发文悼念东野圭吾",
+      "title": "山洪前男子拍到乌云 带孩子提前撤离",
       "category": "society",
-      "hotScore": 0.6375,
-      "freshness": 0.9999,
+      "hotScore": 0.76,
+      "freshness": 1,
       "crossSource": 1,
-      "totalScore": 0.855,
+      "totalScore": 0.904,
       "sources": [
         {
           "channel": "toutiao",
-          "rank": 6,
-          "hot": 19655304,
-          "url": "https://www.toutiao.com/trending/7667108219948531718/"
+          "rank": 7,
+          "hot": 11160222,
+          "url": "https://www.toutiao.com/trending/7666797041611505705/"
         },
         {
           "channel": "baidu",
-          "rank": 7,
+          "rank": 2,
           "hot": 0,
-          "url": "https://m.baidu.com/s?word=%E4%BD%9C%E5%AE%B6%E7%B4%AB%E9%87%91%E9%99%88%E5%8F%91%E6%96%87%E6%82%BC%E5%BF%B5%E4%B8%9C%E9%87%8E%E5%9C%AD%E5%90%BE&sa=fyb_news"
+          "url": "https://m.baidu.com/s?word=%E5%B1%B1%E6%B4%AA%E5%89%8D%E7%94%B7%E5%AD%90%E6%8B%8D%E5%88%B0%E4%B9%8C%E4%BA%91+%E5%B8%A6%E5%AD%A9%E5%AD%90%E6%8F%90%E5%89%8D%E6%92%A4%E7%A6%BB&sa=fyb_news"
         }
       ],
       "summary": "",
-      "url": "https://www.toutiao.com/trending/7667108219948531718/"
+      "url": "https://www.toutiao.com/trending/7666797041611505705/"
     },
     {
       "id": "evt-10000000",
       "title": "合肥国资赚了10000亿",
       "category": "society",
       "hotScore": 0.85,
-      "freshness": 0.9999,
+      "freshness": 1,
       "crossSource": 0.6309,
       "totalScore": 0.8293,
       "sources": [
         {
           "channel": "toutiao",
           "rank": 1,
-          "hot": 32406118,
+          "hot": 20335251,
           "url": "https://www.toutiao.com/trending/7666289625799052854/"
         }
       ],
@@ -76,23 +51,42 @@
       "url": "https://www.toutiao.com/trending/7666289625799052854/"
     },
     {
-      "id": "evt-82700000",
-      "title": "梁文锋打新长鑫浮盈8.27亿",
+      "id": "evt-24000000",
+      "title": "24 岁女孩正颌手术被做反，变成「鞋拔子脸」，武汉卫健部门介入，医院和医生各得担哪些责？女孩还能恢复吗？",
       "category": "society",
-      "hotScore": 0.7225,
-      "freshness": 0.9999,
+      "hotScore": 0.7125,
+      "freshness": 1,
       "crossSource": 0.6309,
-      "totalScore": 0.7783,
+      "totalScore": 0.7743,
       "sources": [
         {
-          "channel": "toutiao",
-          "rank": 4,
-          "hot": 24007043,
-          "url": "https://www.toutiao.com/trending/7666377405216509494/"
+          "channel": "zhihu",
+          "rank": 2,
+          "hot": 0,
+          "url": ""
         }
       ],
       "summary": "",
-      "url": "https://www.toutiao.com/trending/7666377405216509494/"
+      "url": ""
+    },
+    {
+      "id": "evt-allinai0",
+      "title": "全世界都在 ALL in AI ，AI 真的是第四次工业革命吗？人类的科技树是否点错了？",
+      "category": "society",
+      "hotScore": 0.675,
+      "freshness": 1,
+      "crossSource": 0.6309,
+      "totalScore": 0.7593,
+      "sources": [
+        {
+          "channel": "zhihu",
+          "rank": 3,
+          "hot": 0,
+          "url": ""
+        }
+      ],
+      "summary": "",
+      "url": ""
     },
     {
       "id": "evt-5g000000",
@@ -152,42 +146,42 @@
       "url": ""
     },
     {
-      "id": "evt-24000000",
-      "title": "24 岁女孩正颌手术被做反，变成「鞋拔子脸」，武汉卫健部门介入，医院和医生各得担哪些责？女孩还能恢复吗？",
-      "category": "society",
-      "hotScore": 0.7125,
+      "id": "evt-20260000",
+      "title": "2026上半年规上工业企业利润增长18.7%，国家统计局解读",
+      "category": "economy",
+      "hotScore": 0.6375,
       "freshness": 1,
       "crossSource": 0.6309,
-      "totalScore": 0.7743,
-      "sources": [
-        {
-          "channel": "zhihu",
-          "rank": 2,
-          "hot": 0,
-          "url": ""
-        }
-      ],
-      "summary": "",
-      "url": ""
-    },
-    {
-      "id": "evt-openai00",
-      "title": "OpenAI模型失控始末曝光，Hugging Face“索赔”1亿美元算力",
-      "category": "society",
-      "hotScore": 0.68,
-      "freshness": 1,
-      "crossSource": 0.6309,
-      "totalScore": 0.7613,
+      "totalScore": 0.7443,
       "sources": [
         {
           "channel": "thepaper",
-          "rank": 5,
+          "rank": 6,
           "hot": 0,
-          "url": "https://www.thepaper.cn/newsDetail_forward_33662817"
+          "url": "https://www.thepaper.cn/newsDetail_forward_33665126"
         }
       ],
       "summary": "",
-      "url": "https://www.thepaper.cn/newsDetail_forward_33662817"
+      "url": "https://www.thepaper.cn/newsDetail_forward_33665126"
+    },
+    {
+      "id": "evt-20000000",
+      "title": "多名公职人员被举报2元买走8亿股权",
+      "category": "society",
+      "hotScore": 0.6375,
+      "freshness": 1,
+      "crossSource": 0.6309,
+      "totalScore": 0.7443,
+      "sources": [
+        {
+          "channel": "toutiao",
+          "rank": 6,
+          "hot": 12333953,
+          "url": "https://www.toutiao.com/trending/7667142616898604554/"
+        }
+      ],
+      "summary": "",
+      "url": "https://www.toutiao.com/trending/7667142616898604554/"
     },
     {
       "id": "evt-3d000000",
@@ -207,25 +201,6 @@
       ],
       "summary": "36氪获悉，自4月9日起，中央电视台少儿频道携手好未来旗下教育品牌熊猫博士上线3D系列动画片《熊猫博士》。与此同时，《熊猫博士》3D动画片也在美国、加拿大、俄罗斯、意大利等多个国家、地区陆续发行，并登陆Discovery探索频道等多个世界知名节目。",
       "url": ""
-    },
-    {
-      "id": "evt-52000000",
-      "title": "胖东来今年上半年流失52名员工",
-      "category": "society",
-      "hotScore": 0.51,
-      "freshness": 0.9999,
-      "crossSource": 0.6309,
-      "totalScore": 0.6933,
-      "sources": [
-        {
-          "channel": "toutiao",
-          "rank": 9,
-          "hot": 14561007,
-          "url": "https://www.toutiao.com/trending/7665968033349681194/"
-        }
-      ],
-      "summary": "",
-      "url": "https://www.toutiao.com/trending/7665968033349681194/"
     }
   ]
 }
