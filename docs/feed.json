@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-07-27T05:41:33.335Z",
+  "generatedAt": "2026-07-27T09:29:43.146Z",
   "fields": {
     "society": "社会",
     "economy": "经济",
@@ -7,33 +7,58 @@
   },
   "feed": [
     {
-      "id": "evt-00000000",
-      "title": "金正恩向毛岸英之墓献花",
+      "id": "evt-30000000",
+      "title": "老人极少用燃气一年竟花3400多元",
       "category": "society",
-      "hotScore": 0.595,
+      "hotScore": 0.72,
       "freshness": 0.9999,
       "crossSource": 1,
-      "totalScore": 0.838,
+      "totalScore": 0.888,
       "sources": [
         {
           "channel": "toutiao",
-          "rank": 7,
-          "hot": 14983413,
-          "url": "https://www.toutiao.com/trending/7666427445033160234/"
+          "rank": 16,
+          "hot": 7230782,
+          "url": "https://www.toutiao.com/trending/7666267605649686582/"
         },
         {
           "channel": "baidu",
-          "rank": 9,
+          "rank": 3,
           "hot": 0,
-          "url": "https://m.baidu.com/s?word=%E9%87%91%E6%AD%A3%E6%81%A9%E5%90%91%E6%AF%9B%E5%B2%B8%E8%8B%B1%E4%B9%8B%E5%A2%93%E7%8C%AE%E8%8A%B1&sa=fyb_news"
+          "url": "https://m.baidu.com/s?word=%E8%80%81%E4%BA%BA%E6%9E%81%E5%B0%91%E7%94%A8%E7%87%83%E6%B0%94%E4%B8%80%E5%B9%B4%E7%AB%9F%E8%8A%B13400%E5%A4%9A%E5%85%83&sa=fyb_news"
         }
       ],
       "summary": "",
-      "url": "https://www.toutiao.com/trending/7666427445033160234/"
+      "url": "https://www.toutiao.com/trending/7666267605649686582/"
     },
     {
-      "id": "evt-12000000",
-      "title": "长鑫科技中1签赚2万",
+      "id": "evt-00000000",
+      "title": "作家紫金陈发文悼念东野圭吾",
+      "category": "society",
+      "hotScore": 0.6375,
+      "freshness": 0.9999,
+      "crossSource": 1,
+      "totalScore": 0.855,
+      "sources": [
+        {
+          "channel": "toutiao",
+          "rank": 6,
+          "hot": 19655304,
+          "url": "https://www.toutiao.com/trending/7667108219948531718/"
+        },
+        {
+          "channel": "baidu",
+          "rank": 7,
+          "hot": 0,
+          "url": "https://m.baidu.com/s?word=%E4%BD%9C%E5%AE%B6%E7%B4%AB%E9%87%91%E9%99%88%E5%8F%91%E6%96%87%E6%82%BC%E5%BF%B5%E4%B8%9C%E9%87%8E%E5%9C%AD%E5%90%BE&sa=fyb_news"
+        }
+      ],
+      "summary": "",
+      "url": "https://www.toutiao.com/trending/7667108219948531718/"
+    },
+    {
+      "id": "evt-10000000",
+      "title": "合肥国资赚了10000亿",
       "category": "society",
       "hotScore": 0.85,
       "freshness": 0.9999,
@@ -43,50 +68,31 @@
         {
           "channel": "toutiao",
           "rank": 1,
-          "hot": 27301560,
-          "url": "https://www.toutiao.com/trending/7666049413378850870/"
+          "hot": 32406118,
+          "url": "https://www.toutiao.com/trending/7666289625799052854/"
         }
       ],
       "summary": "",
-      "url": "https://www.toutiao.com/trending/7666049413378850870/"
+      "url": "https://www.toutiao.com/trending/7666289625799052854/"
     },
     {
-      "id": "evt-10000000",
-      "title": "媒体：把价格压到1毛多？爱心西瓜不容流量收割",
-      "category": "society",
-      "hotScore": 0.85,
-      "freshness": 1,
-      "crossSource": 0.6309,
-      "totalScore": 0.8293,
-      "sources": [
-        {
-          "channel": "thepaper",
-          "rank": 1,
-          "hot": 0,
-          "url": "https://www.thepaper.cn/newsDetail_forward_33662045"
-        }
-      ],
-      "summary": "",
-      "url": "https://www.thepaper.cn/newsDetail_forward_33662045"
-    },
-    {
-      "id": "evt-openai00",
-      "title": "OpenAI模型失控始末曝光，Hugging Face“索赔”1亿美元算力",
+      "id": "evt-82700000",
+      "title": "梁文锋打新长鑫浮盈8.27亿",
       "category": "society",
       "hotScore": 0.7225,
-      "freshness": 1,
+      "freshness": 0.9999,
       "crossSource": 0.6309,
       "totalScore": 0.7783,
       "sources": [
         {
-          "channel": "thepaper",
+          "channel": "toutiao",
           "rank": 4,
-          "hot": 0,
-          "url": "https://www.thepaper.cn/newsDetail_forward_33662817"
+          "hot": 24007043,
+          "url": "https://www.toutiao.com/trending/7666377405216509494/"
         }
       ],
       "summary": "",
-      "url": "https://www.thepaper.cn/newsDetail_forward_33662817"
+      "url": "https://www.toutiao.com/trending/7666377405216509494/"
     },
     {
       "id": "evt-5g000000",
@@ -127,30 +133,11 @@
       "url": ""
     },
     {
-      "id": "evt-a0000000",
-      "title": "长鑫科技上市 成A股市值最高公司",
-      "category": "economy",
-      "hotScore": 0.76,
-      "freshness": 1,
-      "crossSource": 0.6309,
-      "totalScore": 0.7933,
-      "sources": [
-        {
-          "channel": "baidu",
-          "rank": 2,
-          "hot": 0,
-          "url": "https://m.baidu.com/s?word=%E9%95%BF%E9%91%AB%E7%A7%91%E6%8A%80%E4%B8%8A%E5%B8%82+%E6%88%90A%E8%82%A1%E5%B8%82%E5%80%BC%E6%9C%80%E9%AB%98%E5%85%AC%E5%8F%B8&sa=fyb_news"
-        }
-      ],
-      "summary": "",
-      "url": "https://m.baidu.com/s?word=%E9%95%BF%E9%91%AB%E7%A7%91%E6%8A%80%E4%B8%8A%E5%B8%82+%E6%88%90A%E8%82%A1%E5%B8%82%E5%80%BC%E6%9C%80%E9%AB%98%E5%85%AC%E5%8F%B8&sa=fyb_news"
-    },
-    {
       "id": "evt-47000000",
       "title": "长鑫科技上市首日高开 471%，市值突破 3 万亿，成 A 股新「一哥」，如何看待其表现？",
       "category": "economy",
       "hotScore": 0.75,
-      "freshness": 0.9999,
+      "freshness": 1,
       "crossSource": 0.6309,
       "totalScore": 0.7893,
       "sources": [
@@ -169,7 +156,7 @@
       "title": "24 岁女孩正颌手术被做反，变成「鞋拔子脸」，武汉卫健部门介入，医院和医生各得担哪些责？女孩还能恢复吗？",
       "category": "society",
       "hotScore": 0.7125,
-      "freshness": 0.9999,
+      "freshness": 1,
       "crossSource": 0.6309,
       "totalScore": 0.7743,
       "sources": [
@@ -184,23 +171,23 @@
       "url": ""
     },
     {
-      "id": "evt-20000000",
-      "title": "业主拒交2年物业费被起诉 法院判了",
+      "id": "evt-openai00",
+      "title": "OpenAI模型失控始末曝光，Hugging Face“索赔”1亿美元算力",
       "category": "society",
-      "hotScore": 0.6375,
-      "freshness": 0.9999,
+      "hotScore": 0.68,
+      "freshness": 1,
       "crossSource": 0.6309,
-      "totalScore": 0.7443,
+      "totalScore": 0.7613,
       "sources": [
         {
-          "channel": "toutiao",
-          "rank": 6,
-          "hot": 16559233,
-          "url": "https://www.toutiao.com/trending/7665882531048308790/"
+          "channel": "thepaper",
+          "rank": 5,
+          "hot": 0,
+          "url": "https://www.thepaper.cn/newsDetail_forward_33662817"
         }
       ],
       "summary": "",
-      "url": "https://www.toutiao.com/trending/7665882531048308790/"
+      "url": "https://www.thepaper.cn/newsDetail_forward_33662817"
     },
     {
       "id": "evt-3d000000",
@@ -220,6 +207,25 @@
       ],
       "summary": "36氪获悉，自4月9日起，中央电视台少儿频道携手好未来旗下教育品牌熊猫博士上线3D系列动画片《熊猫博士》。与此同时，《熊猫博士》3D动画片也在美国、加拿大、俄罗斯、意大利等多个国家、地区陆续发行，并登陆Discovery探索频道等多个世界知名节目。",
       "url": ""
+    },
+    {
+      "id": "evt-52000000",
+      "title": "胖东来今年上半年流失52名员工",
+      "category": "society",
+      "hotScore": 0.51,
+      "freshness": 0.9999,
+      "crossSource": 0.6309,
+      "totalScore": 0.6933,
+      "sources": [
+        {
+          "channel": "toutiao",
+          "rank": 9,
+          "hot": 14561007,
+          "url": "https://www.toutiao.com/trending/7665968033349681194/"
+        }
+      ],
+      "summary": "",
+      "url": "https://www.toutiao.com/trending/7665968033349681194/"
     }
   ]
 }
