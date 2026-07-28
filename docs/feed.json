@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-07-28T20:58:33.323Z",
+  "generatedAt": "2026-07-28T22:50:48.546Z",
   "fields": {
     "society": "社会",
     "economy": "经济",
@@ -11,14 +11,14 @@
       "title": "女子摸田螺溺亡 儿子连扇自己巴掌",
       "category": "society",
       "hotScore": 0.8075,
-      "freshness": 1,
+      "freshness": 0.9999,
       "crossSource": 1,
       "totalScore": 0.923,
       "sources": [
         {
           "channel": "toutiao",
           "rank": 2,
-          "hot": 9243999,
+          "hot": 10571600,
           "url": "https://www.toutiao.com/trending/7667420483098198057/"
         },
         {
@@ -36,7 +36,7 @@
       "title": "2.87亿人感染！肝脏保卫战进入关键期",
       "category": "society",
       "hotScore": 0.76,
-      "freshness": 1,
+      "freshness": 0.9999,
       "crossSource": 0.6309,
       "totalScore": 0.7933,
       "sources": [
@@ -54,14 +54,14 @@
       "id": "evt-24000000",
       "title": "24 岁女孩正颌手术被做反变「鞋拔子脸」，当事医生已停诊，为什么会出现这种医疗事故？患者要怎么维权？",
       "category": "society",
-      "hotScore": 0.675,
-      "freshness": 1,
+      "hotScore": 0.7125,
+      "freshness": 0.9999,
       "crossSource": 0.6309,
-      "totalScore": 0.7593,
+      "totalScore": 0.7742,
       "sources": [
         {
           "channel": "zhihu",
-          "rank": 3,
+          "rank": 2,
           "hot": 0,
           "url": ""
         }
@@ -70,32 +70,51 @@
       "url": ""
     },
     {
-      "id": "evt-10000000",
-      "title": "我国年收入前1%群体贡献逾五成个税",
+      "id": "evt-14400000",
+      "title": "受贿1.44亿余元，重庆市政协原副主席段成刚一审被判无期",
       "category": "society",
-      "hotScore": 0.6375,
+      "hotScore": 0.68,
       "freshness": 1,
       "crossSource": 0.6309,
-      "totalScore": 0.7443,
+      "totalScore": 0.7613,
       "sources": [
         {
-          "channel": "toutiao",
-          "rank": 6,
-          "hot": 6196437,
-          "url": "https://www.toutiao.com/trending/7667407176999567401/"
+          "channel": "thepaper",
+          "rank": 5,
+          "hot": 0,
+          "url": "https://www.thepaper.cn/newsDetail_forward_33673349"
         }
       ],
       "summary": "",
-      "url": "https://www.toutiao.com/trending/7667407176999567401/"
+      "url": "https://www.thepaper.cn/newsDetail_forward_33673349"
+    },
+    {
+      "id": "evt-10000000",
+      "title": "中芯国际与嘉楠科技合作14nm矿机芯片，知情人士：能否量产要看行情",
+      "category": "economy",
+      "hotScore": 0.9,
+      "freshness": 0.9999,
+      "crossSource": 0.6309,
+      "totalScore": 0.8492,
+      "sources": [
+        {
+          "channel": "36kr",
+          "rank": 1,
+          "hot": 0,
+          "url": ""
+        }
+      ],
+      "summary": "有消息称，中芯国际与嘉楠科技合作的14nm矿机芯片已完成测试，将在今年二季度量产出货。对此，知情人士称，双方合作始于2019年年底，但能否量产要看行情。据悉，中芯国际数次尝试进入矿机行业，但受行情拖累一直未有实质进展。（财联社）",
+      "url": ""
     },
     {
       "id": "evt-5g000000",
       "title": "三大运营商年内推出5G消息",
       "category": "economy",
       "hotScore": 0.855,
-      "freshness": 1,
+      "freshness": 0.9999,
       "crossSource": 0.6309,
-      "totalScore": 0.8313,
+      "totalScore": 0.8312,
       "sources": [
         {
           "channel": "36kr",
@@ -131,9 +150,9 @@
       "title": "欧洲在线订餐服务Takeaway.com：外卖订单开始强劲复苏",
       "category": "economy",
       "hotScore": 0.81,
-      "freshness": 1,
+      "freshness": 0.9999,
       "crossSource": 0.6309,
-      "totalScore": 0.8133,
+      "totalScore": 0.8132,
       "sources": [
         {
           "channel": "36kr",
@@ -146,32 +165,13 @@
       "url": ""
     },
     {
-      "id": "evt-14400000",
-      "title": "受贿1.44亿余元，重庆市政协原副主席段成刚一审被判无期",
-      "category": "society",
-      "hotScore": 0.6375,
-      "freshness": 1,
-      "crossSource": 0.6309,
-      "totalScore": 0.7443,
-      "sources": [
-        {
-          "channel": "thepaper",
-          "rank": 6,
-          "hot": 0,
-          "url": "https://www.thepaper.cn/newsDetail_forward_33673349"
-        }
-      ],
-      "summary": "",
-      "url": "https://www.thepaper.cn/newsDetail_forward_33673349"
-    },
-    {
       "id": "evt-3d000000",
       "title": "好未来《熊猫博士》3D动画片登陆央视少儿频道",
       "category": "society",
       "hotScore": 0.63,
-      "freshness": 1,
+      "freshness": 0.9999,
       "crossSource": 0.6309,
-      "totalScore": 0.7413,
+      "totalScore": 0.7412,
       "sources": [
         {
           "channel": "36kr",
@@ -188,7 +188,7 @@
       "title": "1个西瓜卖898元 商家称营养高10倍",
       "category": "society",
       "hotScore": 0.6,
-      "freshness": 1,
+      "freshness": 0.9999,
       "crossSource": 0.6309,
       "totalScore": 0.7293,
       "sources": [
@@ -201,6 +201,25 @@
       ],
       "summary": "",
       "url": "https://m.baidu.com/s?word=1%E4%B8%AA%E8%A5%BF%E7%93%9C%E5%8D%96898%E5%85%83+%E5%95%86%E5%AE%B6%E7%A7%B0%E8%90%A5%E5%85%BB%E9%AB%9810%E5%80%8D&sa=fyb_news"
+    },
+    {
+      "id": "evt-17300000",
+      "title": "17万新能源车开3年电池故障更换要5万",
+      "category": "society",
+      "hotScore": 0.5525,
+      "freshness": 0.9999,
+      "crossSource": 0.6309,
+      "totalScore": 0.7102,
+      "sources": [
+        {
+          "channel": "toutiao",
+          "rank": 8,
+          "hot": 5801817,
+          "url": "https://www.toutiao.com/trending/7666689922334244870/"
+        }
+      ],
+      "summary": "",
+      "url": "https://www.toutiao.com/trending/7666689922334244870/"
     }
   ]
 }
