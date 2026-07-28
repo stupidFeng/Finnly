@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-07-28T04:54:11.082Z",
+  "generatedAt": "2026-07-28T08:13:29.539Z",
   "fields": {
     "society": "社会",
     "economy": "经济",
@@ -18,12 +18,12 @@
         {
           "channel": "toutiao",
           "rank": 1,
-          "hot": 16533916,
+          "hot": 12413527,
           "url": "https://www.toutiao.com/trending/7667411754222960646/"
         },
         {
           "channel": "baidu",
-          "rank": 5,
+          "rank": 10,
           "hot": 0,
           "url": "https://m.baidu.com/s?word=%E5%85%AD%E9%83%A8%E9%97%A8%EF%BC%9A%E7%A6%81%E6%AD%A2%E6%B6%89%E5%86%9B%E9%98%9F%E9%80%80%E5%BD%B9%E6%8A%A5%E5%BA%9F%E8%A3%85%E5%A4%87%E9%94%80%E5%94%AE&sa=fyb_news"
         }
@@ -32,11 +32,36 @@
       "url": "https://www.toutiao.com/trending/7667411754222960646/"
     },
     {
-      "id": "evt-kimik300",
-      "title": "如何评价 KIMI K3 正式开源，以及同步发布出技术报告？",
+      "id": "evt-71000000",
+      "title": "日本熊本县附近发生7.1级地震",
+      "category": "society",
+      "hotScore": 0.8075,
+      "freshness": 0.9999,
+      "crossSource": 1,
+      "totalScore": 0.923,
+      "sources": [
+        {
+          "channel": "toutiao",
+          "rank": 2,
+          "hot": 11232224,
+          "url": "https://www.toutiao.com/trending/7667479822087491091/"
+        },
+        {
+          "channel": "baidu",
+          "rank": 2,
+          "hot": 0,
+          "url": "https://m.baidu.com/s?word=%E6%97%A5%E6%9C%AC%E7%86%8A%E6%9C%AC%E5%8E%BF%E9%99%84%E8%BF%91%E5%8F%91%E7%94%9F7.1%E7%BA%A7%E5%9C%B0%E9%9C%87&sa=fyb_news"
+        }
+      ],
+      "summary": "",
+      "url": "https://www.toutiao.com/trending/7667479822087491091/"
+    },
+    {
+      "id": "evt-51790000",
+      "title": "携程被罚 51.79 亿元后发内部全员信，透露出哪些信息？",
       "category": "society",
       "hotScore": 0.7125,
-      "freshness": 0.9999,
+      "freshness": 1,
       "crossSource": 0.6309,
       "totalScore": 0.7743,
       "sources": [
@@ -51,17 +76,17 @@
       "url": ""
     },
     {
-      "id": "evt-22000000",
-      "title": "如何评价长春一汽 22 街区「书香门第」大娘装修事件?",
+      "id": "evt-10000000",
+      "title": "皇家美素力 1 号奶粉被澳门检出铅超标九倍，但厂商自检说符合标准，到底该信谁？铅超标有什么食用风险？",
       "category": "society",
-      "hotScore": 0.6375,
-      "freshness": 0.9999,
+      "hotScore": 0.675,
+      "freshness": 1,
       "crossSource": 0.6309,
-      "totalScore": 0.7443,
+      "totalScore": 0.7593,
       "sources": [
         {
           "channel": "zhihu",
-          "rank": 4,
+          "rank": 3,
           "hot": 0,
           "url": ""
         }
@@ -70,49 +95,11 @@
       "url": ""
     },
     {
-      "id": "evt-3d000000",
-      "title": "好未来《熊猫博士》3D动画片登陆央视少儿频道",
-      "category": "society",
-      "hotScore": 0.63,
-      "freshness": 0.9999,
-      "crossSource": 0.6309,
-      "totalScore": 0.7413,
-      "sources": [
-        {
-          "channel": "36kr",
-          "rank": 7,
-          "hot": 0,
-          "url": ""
-        }
-      ],
-      "summary": "36氪获悉，自4月9日起，中央电视台少儿频道携手好未来旗下教育品牌熊猫博士上线3D系列动画片《熊猫博士》。与此同时，《熊猫博士》3D动画片也在美国、加拿大、俄罗斯、意大利等多个国家、地区陆续发行，并登陆Discovery探索频道等多个世界知名节目。",
-      "url": ""
-    },
-    {
-      "id": "evt-10000000",
-      "title": "中芯国际与嘉楠科技合作14nm矿机芯片，知情人士：能否量产要看行情",
-      "category": "economy",
-      "hotScore": 0.9,
-      "freshness": 0.9999,
-      "crossSource": 0.6309,
-      "totalScore": 0.8493,
-      "sources": [
-        {
-          "channel": "36kr",
-          "rank": 1,
-          "hot": 0,
-          "url": ""
-        }
-      ],
-      "summary": "有消息称，中芯国际与嘉楠科技合作的14nm矿机芯片已完成测试，将在今年二季度量产出货。对此，知情人士称，双方合作始于2019年年底，但能否量产要看行情。据悉，中芯国际数次尝试进入矿机行业，但受行情拖累一直未有实质进展。（财联社）",
-      "url": ""
-    },
-    {
       "id": "evt-5g000000",
       "title": "三大运营商年内推出5G消息",
       "category": "economy",
       "hotScore": 0.855,
-      "freshness": 0.9999,
+      "freshness": 1,
       "crossSource": 0.6309,
       "totalScore": 0.8313,
       "sources": [
@@ -131,7 +118,7 @@
       "title": "欧洲在线订餐服务Takeaway.com：外卖订单开始强劲复苏",
       "category": "economy",
       "hotScore": 0.81,
-      "freshness": 0.9999,
+      "freshness": 1,
       "crossSource": 0.6309,
       "totalScore": 0.8133,
       "sources": [
@@ -146,79 +133,79 @@
       "url": ""
     },
     {
-      "id": "evt-54000000",
-      "title": "5元水饺4元面馆 一批低价餐饮爆火",
-      "category": "society",
-      "hotScore": 0.6,
+      "id": "evt-a0000000",
+      "title": "长鑫科技让合肥坐上A股总市值第四城：硬科技正在重新定义城市竞争力",
+      "category": "economy",
+      "hotScore": 0.6375,
       "freshness": 1,
       "crossSource": 0.6309,
-      "totalScore": 0.7293,
+      "totalScore": 0.7443,
       "sources": [
         {
-          "channel": "baidu",
+          "channel": "thepaper",
           "rank": 6,
           "hot": 0,
-          "url": "https://m.baidu.com/s?word=5%E5%85%83%E6%B0%B4%E9%A5%BA4%E5%85%83%E9%9D%A2%E9%A6%86+%E4%B8%80%E6%89%B9%E4%BD%8E%E4%BB%B7%E9%A4%90%E9%A5%AE%E7%88%86%E7%81%AB&sa=fyb_news"
+          "url": "https://www.thepaper.cn/newsDetail_forward_33503166"
         }
       ],
       "summary": "",
-      "url": "https://m.baidu.com/s?word=5%E5%85%83%E6%B0%B4%E9%A5%BA4%E5%85%83%E9%9D%A2%E9%A6%86+%E4%B8%80%E6%89%B9%E4%BD%8E%E4%BB%B7%E9%A4%90%E9%A5%AE%E7%88%86%E7%81%AB&sa=fyb_news"
-    },
-    {
-      "id": "evt-13000000",
-      "title": "黑龙江木兰13万只大鹅漫山遍野",
-      "category": "society",
-      "hotScore": 0.595,
-      "freshness": 0.9999,
-      "crossSource": 0.6309,
-      "totalScore": 0.7272,
-      "sources": [
-        {
-          "channel": "toutiao",
-          "rank": 7,
-          "hot": 9074005,
-          "url": "https://www.toutiao.com/trending/7667377376050528297/"
-        }
-      ],
-      "summary": "",
-      "url": "https://www.toutiao.com/trending/7667377376050528297/"
+      "url": "https://www.thepaper.cn/newsDetail_forward_33503166"
     },
     {
       "id": "evt-60000000",
-      "title": "老人一个月内被骗近600万",
+      "title": "爷爷撬开焊死6年存钱箱助孙子上大学",
       "category": "society",
-      "hotScore": 0.5525,
+      "hotScore": 0.6375,
       "freshness": 0.9999,
       "crossSource": 0.6309,
-      "totalScore": 0.7102,
+      "totalScore": 0.7443,
       "sources": [
         {
           "channel": "toutiao",
-          "rank": 8,
-          "hot": 8210499,
-          "url": "https://www.toutiao.com/trending/7667161729927430194/"
+          "rank": 6,
+          "hot": 7529184,
+          "url": "https://www.toutiao.com/trending/7667434242044936238/"
         }
       ],
       "summary": "",
-      "url": "https://www.toutiao.com/trending/7667161729927430194/"
+      "url": "https://www.toutiao.com/trending/7667434242044936238/"
     },
     {
-      "id": "evt-24000000",
-      "title": "衡水一中学 2 元转让 40% 股权后陷债务危机，有公职人员遭举报，当地成立联合调查组，具体是什么情况？",
+      "id": "evt-kimik300",
+      "title": "如何评价 KIMI K3 正式开源，以及同步发布出技术报告？",
       "category": "society",
-      "hotScore": 0.525,
-      "freshness": 0.9999,
+      "hotScore": 0.6375,
+      "freshness": 1,
       "crossSource": 0.6309,
-      "totalScore": 0.6993,
+      "totalScore": 0.7443,
       "sources": [
         {
           "channel": "zhihu",
-          "rank": 7,
+          "rank": 4,
           "hot": 0,
           "url": ""
         }
       ],
       "summary": "",
+      "url": ""
+    },
+    {
+      "id": "evt-3d000000",
+      "title": "好未来《熊猫博士》3D动画片登陆央视少儿频道",
+      "category": "society",
+      "hotScore": 0.63,
+      "freshness": 1,
+      "crossSource": 0.6309,
+      "totalScore": 0.7413,
+      "sources": [
+        {
+          "channel": "36kr",
+          "rank": 7,
+          "hot": 0,
+          "url": ""
+        }
+      ],
+      "summary": "36氪获悉，自4月9日起，中央电视台少儿频道携手好未来旗下教育品牌熊猫博士上线3D系列动画片《熊猫博士》。与此同时，《熊猫博士》3D动画片也在美国、加拿大、俄罗斯、意大利等多个国家、地区陆续发行，并登陆Discovery探索频道等多个世界知名节目。",
       "url": ""
     }
   ]
