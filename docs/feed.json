@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-07-27T22:51:33.941Z",
+  "generatedAt": "2026-07-28T01:30:12.465Z",
   "fields": {
     "society": "社会",
     "economy": "经济",
@@ -7,80 +7,67 @@
   },
   "feed": [
     {
-      "id": "evt-00000000",
-      "title": "尹锡悦当选韩国总统或无效",
-      "category": "society",
-      "hotScore": 0.7225,
-      "freshness": 0.9999,
-      "crossSource": 1,
-      "totalScore": 0.889,
-      "sources": [
-        {
-          "channel": "toutiao",
-          "rank": 4,
-          "hot": 19727073,
-          "url": "https://www.toutiao.com/trending/7667146044668562971/"
-        },
-        {
-          "channel": "baidu",
-          "rank": 20,
-          "hot": 0,
-          "url": "https://m.baidu.com/s?word=%E5%B0%B9%E9%94%A1%E6%82%A6%E5%BD%93%E9%80%89%E9%9F%A9%E5%9B%BD%E6%80%BB%E7%BB%9F%E6%88%96%E6%97%A0%E6%95%88&sa=fyb_news"
-        }
-      ],
-      "summary": "",
-      "url": "https://www.toutiao.com/trending/7667146044668562971/"
-    },
-    {
       "id": "evt-10000000",
-      "title": "女孩和男友吵架闹分手从18层坠楼",
+      "title": "网红景区10人遇难 三次预警为何失效",
       "category": "society",
       "hotScore": 0.85,
-      "freshness": 0.9999,
-      "crossSource": 0.6309,
-      "totalScore": 0.8292,
+      "freshness": 1,
+      "crossSource": 1,
+      "totalScore": 0.94,
       "sources": [
         {
           "channel": "toutiao",
           "rank": 1,
-          "hot": 26628763,
-          "url": "https://www.toutiao.com/trending/7667198705293606921/"
+          "hot": 13832815,
+          "url": "https://www.toutiao.com/trending/7667355494197235209/"
+        },
+        {
+          "channel": "baidu",
+          "rank": 2,
+          "hot": 0,
+          "url": "https://m.baidu.com/s?word=%E7%BD%91%E7%BA%A2%E6%99%AF%E5%8C%BA10%E4%BA%BA%E9%81%87%E9%9A%BE+%E4%B8%89%E6%AC%A1%E9%A2%84%E8%AD%A6%E4%B8%BA%E4%BD%95%E5%A4%B1%E6%95%88&sa=fyb_news"
         }
       ],
       "summary": "",
-      "url": "https://www.toutiao.com/trending/7667198705293606921/"
+      "url": "https://www.toutiao.com/trending/7667355494197235209/"
     },
     {
-      "id": "evt-30000000",
-      "title": "朝鲜若向俄派遣3万援军有何影响",
+      "id": "evt-00000000",
+      "title": "泽连斯基：与伊朗已处于战争中",
       "category": "society",
       "hotScore": 0.8075,
-      "freshness": 0.9999,
-      "crossSource": 0.6309,
-      "totalScore": 0.8122,
+      "freshness": 1,
+      "crossSource": 1,
+      "totalScore": 0.923,
       "sources": [
         {
           "channel": "toutiao",
           "rank": 2,
-          "hot": 24094701,
-          "url": "https://www.toutiao.com/trending/7667162032768028187/"
+          "hot": 12516449,
+          "url": "https://www.toutiao.com/trending/7667130069253013558/"
+        },
+        {
+          "channel": "baidu",
+          "rank": 5,
+          "hot": 0,
+          "url": "https://m.baidu.com/s?word=%E6%B3%BD%E8%BF%9E%E6%96%AF%E5%9F%BA%EF%BC%9A%E4%B8%8E%E4%BC%8A%E6%9C%97%E5%B7%B2%E5%A4%84%E4%BA%8E%E6%88%98%E4%BA%89%E4%B8%AD&sa=fyb_news"
         }
       ],
       "summary": "",
-      "url": "https://www.toutiao.com/trending/7667162032768028187/"
+      "url": "https://www.toutiao.com/trending/7667130069253013558/"
     },
     {
-      "id": "evt-47000000",
-      "title": "碧桂园卖长鑫痛失 470 亿，如何看待这一商业决策？如果没有卖长鑫可能会给碧桂园哪些影响？",
+      "id": "evt-14000000",
+      "title": "莱茵金属、太脱拉等 14 家欧盟实体被中方列入出口管制，大家怎么看今后的中欧关系？",
       "category": "society",
-      "hotScore": 0.675,
-      "freshness": 0.9999,
+      "hotScore": 0.6375,
+      "freshness": 1,
       "crossSource": 0.6309,
-      "totalScore": 0.7592,
+      "totalScore": 0.7443,
       "sources": [
         {
           "channel": "zhihu",
-          "rank": 3,
+          "rank": 4,
           "hot": 0,
           "url": ""
         }
@@ -89,11 +76,30 @@
       "url": ""
     },
     {
+      "id": "evt-3d000000",
+      "title": "好未来《熊猫博士》3D动画片登陆央视少儿频道",
+      "category": "society",
+      "hotScore": 0.63,
+      "freshness": 1,
+      "crossSource": 0.6309,
+      "totalScore": 0.7413,
+      "sources": [
+        {
+          "channel": "36kr",
+          "rank": 7,
+          "hot": 0,
+          "url": ""
+        }
+      ],
+      "summary": "36氪获悉，自4月9日起，中央电视台少儿频道携手好未来旗下教育品牌熊猫博士上线3D系列动画片《熊猫博士》。与此同时，《熊猫博士》3D动画片也在美国、加拿大、俄罗斯、意大利等多个国家、地区陆续发行，并登陆Discovery探索频道等多个世界知名节目。",
+      "url": ""
+    },
+    {
       "id": "evt-5g000000",
       "title": "三大运营商年内推出5G消息",
       "category": "economy",
       "hotScore": 0.855,
-      "freshness": 0.9999,
+      "freshness": 1,
       "crossSource": 0.6309,
       "totalScore": 0.8313,
       "sources": [
@@ -112,7 +118,7 @@
       "title": "欧洲在线订餐服务Takeaway.com：外卖订单开始强劲复苏",
       "category": "economy",
       "hotScore": 0.81,
-      "freshness": 0.9999,
+      "freshness": 1,
       "crossSource": 0.6309,
       "totalScore": 0.8133,
       "sources": [
@@ -130,14 +136,14 @@
       "id": "evt-20260000",
       "title": "2026上半年规上工业企业利润增长18.7%，国家统计局解读",
       "category": "economy",
-      "hotScore": 0.68,
+      "hotScore": 0.765,
       "freshness": 1,
       "crossSource": 0.6309,
-      "totalScore": 0.7613,
+      "totalScore": 0.7953,
       "sources": [
         {
           "channel": "thepaper",
-          "rank": 5,
+          "rank": 3,
           "hot": 0,
           "url": "https://www.thepaper.cn/newsDetail_forward_33665126"
         }
@@ -146,99 +152,61 @@
       "url": "https://www.thepaper.cn/newsDetail_forward_33665126"
     },
     {
-      "id": "evt-70000000",
-      "title": "长鑫上市首日雷军浮盈7个多亿",
+      "id": "evt-23000000",
+      "title": "小鹏汽车一季度上险量2331台",
       "category": "economy",
-      "hotScore": 0.68,
-      "freshness": 0.9999,
+      "hotScore": 0.495,
+      "freshness": 1,
       "crossSource": 0.6309,
-      "totalScore": 0.7612,
-      "sources": [
-        {
-          "channel": "toutiao",
-          "rank": 5,
-          "hot": 17849793,
-          "url": "https://www.toutiao.com/trending/7666243604578435078/"
-        }
-      ],
-      "summary": "",
-      "url": "https://www.toutiao.com/trending/7666243604578435078/"
-    },
-    {
-      "id": "evt-3d000000",
-      "title": "好未来《熊猫博士》3D动画片登陆央视少儿频道",
-      "category": "society",
-      "hotScore": 0.63,
-      "freshness": 0.9999,
-      "crossSource": 0.6309,
-      "totalScore": 0.7413,
+      "totalScore": 0.6873,
       "sources": [
         {
           "channel": "36kr",
-          "rank": 7,
+          "rank": 10,
           "hot": 0,
           "url": ""
         }
       ],
-      "summary": "36氪获悉，自4月9日起，中央电视台少儿频道携手好未来旗下教育品牌熊猫博士上线3D系列动画片《熊猫博士》。与此同时，《熊猫博士》3D动画片也在美国、加拿大、俄罗斯、意大利等多个国家、地区陆续发行，并登陆Discovery探索频道等多个世界知名节目。",
+      "summary": "36氪获悉，4月11日，根据中国汽车研究中心数据，2020年一季度小鹏G3总计上险量达到2331台，3月单月上险量达到1094台。",
       "url": ""
     },
     {
-      "id": "evt-ai000000",
-      "title": "国内首部AI长片首播",
+      "id": "evt-47000000",
+      "title": "碧桂园卖长鑫痛失 470 亿，如何看待这一商业决策？如果没有卖长鑫可能会给碧桂园哪些影响？",
       "category": "society",
-      "hotScore": 0.6,
-      "freshness": 0.9999,
+      "hotScore": 0.5625,
+      "freshness": 1,
       "crossSource": 0.6309,
-      "totalScore": 0.7293,
+      "totalScore": 0.7143,
+      "sources": [
+        {
+          "channel": "zhihu",
+          "rank": 6,
+          "hot": 0,
+          "url": ""
+        }
+      ],
+      "summary": "",
+      "url": ""
+    },
+    {
+      "id": "evt-50000000",
+      "title": "今年“震生”50岁了",
+      "category": "society",
+      "hotScore": 0.52,
+      "freshness": 1,
+      "crossSource": 0.6309,
+      "totalScore": 0.6973,
       "sources": [
         {
           "channel": "baidu",
-          "rank": 6,
+          "rank": 8,
           "hot": 0,
-          "url": "https://m.baidu.com/s?word=%E5%9B%BD%E5%86%85%E9%A6%96%E9%83%A8AI%E9%95%BF%E7%89%87%E9%A6%96%E6%92%AD&sa=fyb_news"
+          "url": "https://m.baidu.com/s?word=%E4%BB%8A%E5%B9%B4%E2%80%9C%E9%9C%87%E7%94%9F%E2%80%9D50%E5%B2%81%E4%BA%86&sa=fyb_news"
         }
       ],
       "summary": "",
-      "url": "https://m.baidu.com/s?word=%E5%9B%BD%E5%86%85%E9%A6%96%E9%83%A8AI%E9%95%BF%E7%89%87%E9%A6%96%E6%92%AD&sa=fyb_news"
-    },
-    {
-      "id": "evt-40000000",
-      "title": "为什么菲尔兹奖要限定 40 岁以下？",
-      "category": "society",
-      "hotScore": 0.6,
-      "freshness": 0.9999,
-      "crossSource": 0.6309,
-      "totalScore": 0.7292,
-      "sources": [
-        {
-          "channel": "zhihu",
-          "rank": 5,
-          "hot": 0,
-          "url": ""
-        }
-      ],
-      "summary": "",
-      "url": ""
-    },
-    {
-      "id": "evt-35000000",
-      "title": "邓煜王虹都是 35+ 未婚，这是否是学术顶尖的代价？",
-      "category": "society",
-      "hotScore": 0.5625,
-      "freshness": 0.9999,
-      "crossSource": 0.6309,
-      "totalScore": 0.7142,
-      "sources": [
-        {
-          "channel": "zhihu",
-          "rank": 6,
-          "hot": 0,
-          "url": ""
-        }
-      ],
-      "summary": "",
-      "url": ""
+      "url": "https://m.baidu.com/s?word=%E4%BB%8A%E5%B9%B4%E2%80%9C%E9%9C%87%E7%94%9F%E2%80%9D50%E5%B2%81%E4%BA%86&sa=fyb_news"
     }
   ]
 }
