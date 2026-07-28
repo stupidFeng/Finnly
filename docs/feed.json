@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-07-28T01:30:12.465Z",
+  "generatedAt": "2026-07-28T04:54:11.082Z",
   "fields": {
     "society": "社会",
     "economy": "经济",
@@ -7,61 +7,55 @@
   },
   "feed": [
     {
-      "id": "evt-10000000",
-      "title": "网红景区10人遇难 三次预警为何失效",
+      "id": "evt-00000000",
+      "title": "六部门：禁止涉军队退役报废装备销售",
       "category": "society",
       "hotScore": 0.85,
-      "freshness": 1,
+      "freshness": 0.9999,
       "crossSource": 1,
       "totalScore": 0.94,
       "sources": [
         {
           "channel": "toutiao",
           "rank": 1,
-          "hot": 13832815,
-          "url": "https://www.toutiao.com/trending/7667355494197235209/"
-        },
-        {
-          "channel": "baidu",
-          "rank": 2,
-          "hot": 0,
-          "url": "https://m.baidu.com/s?word=%E7%BD%91%E7%BA%A2%E6%99%AF%E5%8C%BA10%E4%BA%BA%E9%81%87%E9%9A%BE+%E4%B8%89%E6%AC%A1%E9%A2%84%E8%AD%A6%E4%B8%BA%E4%BD%95%E5%A4%B1%E6%95%88&sa=fyb_news"
-        }
-      ],
-      "summary": "",
-      "url": "https://www.toutiao.com/trending/7667355494197235209/"
-    },
-    {
-      "id": "evt-00000000",
-      "title": "泽连斯基：与伊朗已处于战争中",
-      "category": "society",
-      "hotScore": 0.8075,
-      "freshness": 1,
-      "crossSource": 1,
-      "totalScore": 0.923,
-      "sources": [
-        {
-          "channel": "toutiao",
-          "rank": 2,
-          "hot": 12516449,
-          "url": "https://www.toutiao.com/trending/7667130069253013558/"
+          "hot": 16533916,
+          "url": "https://www.toutiao.com/trending/7667411754222960646/"
         },
         {
           "channel": "baidu",
           "rank": 5,
           "hot": 0,
-          "url": "https://m.baidu.com/s?word=%E6%B3%BD%E8%BF%9E%E6%96%AF%E5%9F%BA%EF%BC%9A%E4%B8%8E%E4%BC%8A%E6%9C%97%E5%B7%B2%E5%A4%84%E4%BA%8E%E6%88%98%E4%BA%89%E4%B8%AD&sa=fyb_news"
+          "url": "https://m.baidu.com/s?word=%E5%85%AD%E9%83%A8%E9%97%A8%EF%BC%9A%E7%A6%81%E6%AD%A2%E6%B6%89%E5%86%9B%E9%98%9F%E9%80%80%E5%BD%B9%E6%8A%A5%E5%BA%9F%E8%A3%85%E5%A4%87%E9%94%80%E5%94%AE&sa=fyb_news"
         }
       ],
       "summary": "",
-      "url": "https://www.toutiao.com/trending/7667130069253013558/"
+      "url": "https://www.toutiao.com/trending/7667411754222960646/"
     },
     {
-      "id": "evt-14000000",
-      "title": "莱茵金属、太脱拉等 14 家欧盟实体被中方列入出口管制，大家怎么看今后的中欧关系？",
+      "id": "evt-kimik300",
+      "title": "如何评价 KIMI K3 正式开源，以及同步发布出技术报告？",
+      "category": "society",
+      "hotScore": 0.7125,
+      "freshness": 0.9999,
+      "crossSource": 0.6309,
+      "totalScore": 0.7743,
+      "sources": [
+        {
+          "channel": "zhihu",
+          "rank": 2,
+          "hot": 0,
+          "url": ""
+        }
+      ],
+      "summary": "",
+      "url": ""
+    },
+    {
+      "id": "evt-22000000",
+      "title": "如何评价长春一汽 22 街区「书香门第」大娘装修事件?",
       "category": "society",
       "hotScore": 0.6375,
-      "freshness": 1,
+      "freshness": 0.9999,
       "crossSource": 0.6309,
       "totalScore": 0.7443,
       "sources": [
@@ -80,7 +74,7 @@
       "title": "好未来《熊猫博士》3D动画片登陆央视少儿频道",
       "category": "society",
       "hotScore": 0.63,
-      "freshness": 1,
+      "freshness": 0.9999,
       "crossSource": 0.6309,
       "totalScore": 0.7413,
       "sources": [
@@ -95,11 +89,30 @@
       "url": ""
     },
     {
+      "id": "evt-10000000",
+      "title": "中芯国际与嘉楠科技合作14nm矿机芯片，知情人士：能否量产要看行情",
+      "category": "economy",
+      "hotScore": 0.9,
+      "freshness": 0.9999,
+      "crossSource": 0.6309,
+      "totalScore": 0.8493,
+      "sources": [
+        {
+          "channel": "36kr",
+          "rank": 1,
+          "hot": 0,
+          "url": ""
+        }
+      ],
+      "summary": "有消息称，中芯国际与嘉楠科技合作的14nm矿机芯片已完成测试，将在今年二季度量产出货。对此，知情人士称，双方合作始于2019年年底，但能否量产要看行情。据悉，中芯国际数次尝试进入矿机行业，但受行情拖累一直未有实质进展。（财联社）",
+      "url": ""
+    },
+    {
       "id": "evt-5g000000",
       "title": "三大运营商年内推出5G消息",
       "category": "economy",
       "hotScore": 0.855,
-      "freshness": 1,
+      "freshness": 0.9999,
       "crossSource": 0.6309,
       "totalScore": 0.8313,
       "sources": [
@@ -118,7 +131,7 @@
       "title": "欧洲在线订餐服务Takeaway.com：外卖订单开始强劲复苏",
       "category": "economy",
       "hotScore": 0.81,
-      "freshness": 1,
+      "freshness": 0.9999,
       "crossSource": 0.6309,
       "totalScore": 0.8133,
       "sources": [
@@ -133,80 +146,80 @@
       "url": ""
     },
     {
-      "id": "evt-20260000",
-      "title": "2026上半年规上工业企业利润增长18.7%，国家统计局解读",
-      "category": "economy",
-      "hotScore": 0.765,
-      "freshness": 1,
-      "crossSource": 0.6309,
-      "totalScore": 0.7953,
-      "sources": [
-        {
-          "channel": "thepaper",
-          "rank": 3,
-          "hot": 0,
-          "url": "https://www.thepaper.cn/newsDetail_forward_33665126"
-        }
-      ],
-      "summary": "",
-      "url": "https://www.thepaper.cn/newsDetail_forward_33665126"
-    },
-    {
-      "id": "evt-23000000",
-      "title": "小鹏汽车一季度上险量2331台",
-      "category": "economy",
-      "hotScore": 0.495,
-      "freshness": 1,
-      "crossSource": 0.6309,
-      "totalScore": 0.6873,
-      "sources": [
-        {
-          "channel": "36kr",
-          "rank": 10,
-          "hot": 0,
-          "url": ""
-        }
-      ],
-      "summary": "36氪获悉，4月11日，根据中国汽车研究中心数据，2020年一季度小鹏G3总计上险量达到2331台，3月单月上险量达到1094台。",
-      "url": ""
-    },
-    {
-      "id": "evt-47000000",
-      "title": "碧桂园卖长鑫痛失 470 亿，如何看待这一商业决策？如果没有卖长鑫可能会给碧桂园哪些影响？",
+      "id": "evt-54000000",
+      "title": "5元水饺4元面馆 一批低价餐饮爆火",
       "category": "society",
-      "hotScore": 0.5625,
+      "hotScore": 0.6,
       "freshness": 1,
       "crossSource": 0.6309,
-      "totalScore": 0.7143,
-      "sources": [
-        {
-          "channel": "zhihu",
-          "rank": 6,
-          "hot": 0,
-          "url": ""
-        }
-      ],
-      "summary": "",
-      "url": ""
-    },
-    {
-      "id": "evt-50000000",
-      "title": "今年“震生”50岁了",
-      "category": "society",
-      "hotScore": 0.52,
-      "freshness": 1,
-      "crossSource": 0.6309,
-      "totalScore": 0.6973,
+      "totalScore": 0.7293,
       "sources": [
         {
           "channel": "baidu",
-          "rank": 8,
+          "rank": 6,
           "hot": 0,
-          "url": "https://m.baidu.com/s?word=%E4%BB%8A%E5%B9%B4%E2%80%9C%E9%9C%87%E7%94%9F%E2%80%9D50%E5%B2%81%E4%BA%86&sa=fyb_news"
+          "url": "https://m.baidu.com/s?word=5%E5%85%83%E6%B0%B4%E9%A5%BA4%E5%85%83%E9%9D%A2%E9%A6%86+%E4%B8%80%E6%89%B9%E4%BD%8E%E4%BB%B7%E9%A4%90%E9%A5%AE%E7%88%86%E7%81%AB&sa=fyb_news"
         }
       ],
       "summary": "",
-      "url": "https://m.baidu.com/s?word=%E4%BB%8A%E5%B9%B4%E2%80%9C%E9%9C%87%E7%94%9F%E2%80%9D50%E5%B2%81%E4%BA%86&sa=fyb_news"
+      "url": "https://m.baidu.com/s?word=5%E5%85%83%E6%B0%B4%E9%A5%BA4%E5%85%83%E9%9D%A2%E9%A6%86+%E4%B8%80%E6%89%B9%E4%BD%8E%E4%BB%B7%E9%A4%90%E9%A5%AE%E7%88%86%E7%81%AB&sa=fyb_news"
+    },
+    {
+      "id": "evt-13000000",
+      "title": "黑龙江木兰13万只大鹅漫山遍野",
+      "category": "society",
+      "hotScore": 0.595,
+      "freshness": 0.9999,
+      "crossSource": 0.6309,
+      "totalScore": 0.7272,
+      "sources": [
+        {
+          "channel": "toutiao",
+          "rank": 7,
+          "hot": 9074005,
+          "url": "https://www.toutiao.com/trending/7667377376050528297/"
+        }
+      ],
+      "summary": "",
+      "url": "https://www.toutiao.com/trending/7667377376050528297/"
+    },
+    {
+      "id": "evt-60000000",
+      "title": "老人一个月内被骗近600万",
+      "category": "society",
+      "hotScore": 0.5525,
+      "freshness": 0.9999,
+      "crossSource": 0.6309,
+      "totalScore": 0.7102,
+      "sources": [
+        {
+          "channel": "toutiao",
+          "rank": 8,
+          "hot": 8210499,
+          "url": "https://www.toutiao.com/trending/7667161729927430194/"
+        }
+      ],
+      "summary": "",
+      "url": "https://www.toutiao.com/trending/7667161729927430194/"
+    },
+    {
+      "id": "evt-24000000",
+      "title": "衡水一中学 2 元转让 40% 股权后陷债务危机，有公职人员遭举报，当地成立联合调查组，具体是什么情况？",
+      "category": "society",
+      "hotScore": 0.525,
+      "freshness": 0.9999,
+      "crossSource": 0.6309,
+      "totalScore": 0.6993,
+      "sources": [
+        {
+          "channel": "zhihu",
+          "rank": 7,
+          "hot": 0,
+          "url": ""
+        }
+      ],
+      "summary": "",
+      "url": ""
     }
   ]
 }
