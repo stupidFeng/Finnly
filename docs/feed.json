@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-07-28T11:50:09.743Z",
+  "generatedAt": "2026-07-28T13:29:45.728Z",
   "fields": {
     "society": "社会",
     "economy": "经济",
@@ -8,24 +8,18 @@
   "feed": [
     {
       "id": "evt-00000000",
-      "title": "日本强震一购物中心坍塌 多人死亡",
+      "title": "日本强震已致多人死亡",
       "category": "society",
-      "hotScore": 0.64,
-      "freshness": 0.9999,
+      "hotScore": 0.85,
+      "freshness": 1,
       "crossSource": 1,
-      "totalScore": 0.856,
+      "totalScore": 0.94,
       "sources": [
         {
           "channel": "toutiao",
-          "rank": 9,
-          "hot": 4869498,
+          "rank": 1,
+          "hot": 11622560,
           "url": "https://www.toutiao.com/trending/7667533383014026815/"
-        },
-        {
-          "channel": "baidu",
-          "rank": 5,
-          "hot": 0,
-          "url": "https://m.baidu.com/s?word=%E6%97%A5%E6%9C%AC%E5%BC%BA%E9%9C%87%E4%B8%80%E8%B4%AD%E7%89%A9%E4%B8%AD%E5%BF%83%E5%9D%8D%E5%A1%8C+%E5%A4%9A%E4%BA%BA%E6%AD%BB%E4%BA%A1&sa=fyb_news"
         }
       ],
       "summary": "",
@@ -33,31 +27,31 @@
     },
     {
       "id": "evt-71000000",
-      "title": "日本熊本县附近发生7.1级地震",
+      "title": "日本熊本县发生7.1级地震 余震不断",
       "category": "society",
-      "hotScore": 0.85,
-      "freshness": 0.9999,
-      "crossSource": 0.6309,
-      "totalScore": 0.8293,
+      "hotScore": 0.76,
+      "freshness": 1,
+      "crossSource": 1,
+      "totalScore": 0.904,
       "sources": [
         {
-          "channel": "toutiao",
-          "rank": 1,
-          "hot": 10837268,
-          "url": "https://www.toutiao.com/trending/7667479822087491091/"
+          "channel": "baidu",
+          "rank": 2,
+          "hot": 0,
+          "url": "https://m.baidu.com/s?word=%E6%97%A5%E6%9C%AC%E7%86%8A%E6%9C%AC%E5%8E%BF%E5%8F%91%E7%94%9F7.1%E7%BA%A7%E5%9C%B0%E9%9C%87+%E4%BD%99%E9%9C%87%E4%B8%8D%E6%96%AD&sa=fyb_news"
         }
       ],
       "summary": "",
-      "url": "https://www.toutiao.com/trending/7667479822087491091/"
+      "url": "https://m.baidu.com/s?word=%E6%97%A5%E6%9C%AC%E7%86%8A%E6%9C%AC%E5%8E%BF%E5%8F%91%E7%94%9F7.1%E7%BA%A7%E5%9C%B0%E9%9C%87+%E4%BD%99%E9%9C%87%E4%B8%8D%E6%96%AD&sa=fyb_news"
     },
     {
-      "id": "evt-10000000",
-      "title": "皇家美素力 1 号奶粉被澳门检出铅超标九倍，但厂商自检说符合标准，到底该信谁？铅超标有什么食用风险？",
+      "id": "evt-51790000",
+      "title": "携程被罚 51.79 亿元后发内部全员信，透露出哪些信息？",
       "category": "society",
       "hotScore": 0.75,
       "freshness": 1,
-      "crossSource": 0.6309,
-      "totalScore": 0.7893,
+      "crossSource": 1,
+      "totalScore": 0.9,
       "sources": [
         {
           "channel": "zhihu",
@@ -70,22 +64,41 @@
       "url": ""
     },
     {
-      "id": "evt-51790000",
-      "title": "携程被罚 51.79 亿元后发内部全员信，透露出哪些信息？",
+      "id": "evt-28700000",
+      "title": "2.87亿人感染！肝脏保卫战进入关键期",
       "category": "society",
-      "hotScore": 0.7125,
+      "hotScore": 0.72,
       "freshness": 1,
-      "crossSource": 0.6309,
-      "totalScore": 0.7743,
+      "crossSource": 1,
+      "totalScore": 0.888,
       "sources": [
         {
-          "channel": "zhihu",
-          "rank": 2,
+          "channel": "baidu",
+          "rank": 3,
+          "hot": 0,
+          "url": "https://m.baidu.com/s?word=2.87%E4%BA%BF%E4%BA%BA%E6%84%9F%E6%9F%93%EF%BC%81%E8%82%9D%E8%84%8F%E4%BF%9D%E5%8D%AB%E6%88%98%E8%BF%9B%E5%85%A5%E5%85%B3%E9%94%AE%E6%9C%9F&sa=fyb_news"
+        }
+      ],
+      "summary": "",
+      "url": "https://m.baidu.com/s?word=2.87%E4%BA%BF%E4%BA%BA%E6%84%9F%E6%9F%93%EF%BC%81%E8%82%9D%E8%84%8F%E4%BF%9D%E5%8D%AB%E6%88%98%E8%BF%9B%E5%85%A5%E5%85%B3%E9%94%AE%E6%9C%9F&sa=fyb_news"
+    },
+    {
+      "id": "evt-10000000",
+      "title": "中芯国际与嘉楠科技合作14nm矿机芯片，知情人士：能否量产要看行情",
+      "category": "economy",
+      "hotScore": 0.9,
+      "freshness": 1,
+      "crossSource": 1,
+      "totalScore": 0.96,
+      "sources": [
+        {
+          "channel": "36kr",
+          "rank": 1,
           "hot": 0,
           "url": ""
         }
       ],
-      "summary": "",
+      "summary": "有消息称，中芯国际与嘉楠科技合作的14nm矿机芯片已完成测试，将在今年二季度量产出货。对此，知情人士称，双方合作始于2019年年底，但能否量产要看行情。据悉，中芯国际数次尝试进入矿机行业，但受行情拖累一直未有实质进展。（财联社）",
       "url": ""
     },
     {
@@ -94,8 +107,8 @@
       "category": "economy",
       "hotScore": 0.855,
       "freshness": 1,
-      "crossSource": 0.6309,
-      "totalScore": 0.8313,
+      "crossSource": 1,
+      "totalScore": 0.942,
       "sources": [
         {
           "channel": "36kr",
@@ -113,8 +126,8 @@
       "category": "economy",
       "hotScore": 0.81,
       "freshness": 1,
-      "crossSource": 0.6309,
-      "totalScore": 0.8133,
+      "crossSource": 1,
+      "totalScore": 0.924,
       "sources": [
         {
           "channel": "36kr",
@@ -132,8 +145,8 @@
       "category": "economy",
       "hotScore": 0.765,
       "freshness": 1,
-      "crossSource": 0.6309,
-      "totalScore": 0.7953,
+      "crossSource": 1,
+      "totalScore": 0.906,
       "sources": [
         {
           "channel": "thepaper",
@@ -146,23 +159,23 @@
       "url": "https://www.thepaper.cn/newsDetail_forward_33503166"
     },
     {
-      "id": "evt-vs000000",
-      "title": "乒乓百分大战：张继科VS郑荣植",
+      "id": "evt-npc00000",
+      "title": "景区NPC和游客猜拳全程无人赢走银票",
       "category": "society",
       "hotScore": 0.6375,
-      "freshness": 0.9999,
-      "crossSource": 0.6309,
-      "totalScore": 0.7443,
+      "freshness": 1,
+      "crossSource": 1,
+      "totalScore": 0.855,
       "sources": [
         {
           "channel": "toutiao",
           "rank": 6,
-          "hot": 6573135,
-          "url": "https://www.toutiao.com/trending/7667503823631663123/"
+          "hot": 7049439,
+          "url": "https://www.toutiao.com/trending/7667215326179655686/"
         }
       ],
       "summary": "",
-      "url": "https://www.toutiao.com/trending/7667503823631663123/"
+      "url": "https://www.toutiao.com/trending/7667215326179655686/"
     },
     {
       "id": "evt-3d000000",
@@ -170,8 +183,8 @@
       "category": "society",
       "hotScore": 0.63,
       "freshness": 1,
-      "crossSource": 0.6309,
-      "totalScore": 0.7413,
+      "crossSource": 1,
+      "totalScore": 0.852,
       "sources": [
         {
           "channel": "36kr",
@@ -182,44 +195,6 @@
       ],
       "summary": "36氪获悉，自4月9日起，中央电视台少儿频道携手好未来旗下教育品牌熊猫博士上线3D系列动画片《熊猫博士》。与此同时，《熊猫博士》3D动画片也在美国、加拿大、俄罗斯、意大利等多个国家、地区陆续发行，并登陆Discovery探索频道等多个世界知名节目。",
       "url": ""
-    },
-    {
-      "id": "evt-40000000",
-      "title": "安徽警方通报4辆越野车高速并排占道",
-      "category": "society",
-      "hotScore": 0.6,
-      "freshness": 1,
-      "crossSource": 0.6309,
-      "totalScore": 0.7293,
-      "sources": [
-        {
-          "channel": "baidu",
-          "rank": 6,
-          "hot": 0,
-          "url": "https://m.baidu.com/s?word=%E5%AE%89%E5%BE%BD%E8%AD%A6%E6%96%B9%E9%80%9A%E6%8A%A54%E8%BE%86%E8%B6%8A%E9%87%8E%E8%BD%A6%E9%AB%98%E9%80%9F%E5%B9%B6%E6%8E%92%E5%8D%A0%E9%81%93&sa=fyb_news"
-        }
-      ],
-      "summary": "",
-      "url": "https://m.baidu.com/s?word=%E5%AE%89%E5%BE%BD%E8%AD%A6%E6%96%B9%E9%80%9A%E6%8A%A54%E8%BE%86%E8%B6%8A%E9%87%8E%E8%BD%A6%E9%AB%98%E9%80%9F%E5%B9%B6%E6%8E%92%E5%8D%A0%E9%81%93&sa=fyb_news"
-    },
-    {
-      "id": "evt-60000000",
-      "title": "爷爷撬开焊死6年存钱箱助孙子上大学",
-      "category": "society",
-      "hotScore": 0.56,
-      "freshness": 1,
-      "crossSource": 0.6309,
-      "totalScore": 0.7133,
-      "sources": [
-        {
-          "channel": "baidu",
-          "rank": 7,
-          "hot": 0,
-          "url": "https://m.baidu.com/s?word=%E7%88%B7%E7%88%B7%E6%92%AC%E5%BC%80%E7%84%8A%E6%AD%BB6%E5%B9%B4%E5%AD%98%E9%92%B1%E7%AE%B1%E5%8A%A9%E5%AD%99%E5%AD%90%E4%B8%8A%E5%A4%A7%E5%AD%A6&sa=fyb_news"
-        }
-      ],
-      "summary": "",
-      "url": "https://m.baidu.com/s?word=%E7%88%B7%E7%88%B7%E6%92%AC%E5%BC%80%E7%84%8A%E6%AD%BB6%E5%B9%B4%E5%AD%98%E9%92%B1%E7%AE%B1%E5%8A%A9%E5%AD%99%E5%AD%90%E4%B8%8A%E5%A4%A7%E5%AD%A6&sa=fyb_news"
     }
   ]
 }
