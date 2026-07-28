@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-07-28T19:06:48.072Z",
+  "generatedAt": "2026-07-28T20:58:33.323Z",
   "fields": {
     "society": "社会",
     "economy": "经济",
@@ -18,7 +18,7 @@
         {
           "channel": "toutiao",
           "rank": 2,
-          "hot": 14450302,
+          "hot": 9243999,
           "url": "https://www.toutiao.com/trending/7667420483098198057/"
         },
         {
@@ -51,6 +51,25 @@
       "url": "https://m.baidu.com/s?word=2.87%E4%BA%BF%E4%BA%BA%E6%84%9F%E6%9F%93%EF%BC%81%E8%82%9D%E8%84%8F%E4%BF%9D%E5%8D%AB%E6%88%98%E8%BF%9B%E5%85%A5%E5%85%B3%E9%94%AE%E6%9C%9F&sa=fyb_news"
     },
     {
+      "id": "evt-24000000",
+      "title": "24 岁女孩正颌手术被做反变「鞋拔子脸」，当事医生已停诊，为什么会出现这种医疗事故？患者要怎么维权？",
+      "category": "society",
+      "hotScore": 0.675,
+      "freshness": 1,
+      "crossSource": 0.6309,
+      "totalScore": 0.7593,
+      "sources": [
+        {
+          "channel": "zhihu",
+          "rank": 3,
+          "hot": 0,
+          "url": ""
+        }
+      ],
+      "summary": "",
+      "url": ""
+    },
+    {
       "id": "evt-10000000",
       "title": "我国年收入前1%群体贡献逾五成个税",
       "category": "society",
@@ -62,31 +81,12 @@
         {
           "channel": "toutiao",
           "rank": 6,
-          "hot": 9686327,
+          "hot": 6196437,
           "url": "https://www.toutiao.com/trending/7667407176999567401/"
         }
       ],
       "summary": "",
       "url": "https://www.toutiao.com/trending/7667407176999567401/"
-    },
-    {
-      "id": "evt-24000000",
-      "title": "24 岁女孩正颌手术被做反变「鞋拔子脸」，当事医生已停诊，为什么会出现这种医疗事故？患者要怎么维权？",
-      "category": "society",
-      "hotScore": 0.6375,
-      "freshness": 1,
-      "crossSource": 0.6309,
-      "totalScore": 0.7443,
-      "sources": [
-        {
-          "channel": "zhihu",
-          "rank": 4,
-          "hot": 0,
-          "url": ""
-        }
-      ],
-      "summary": "",
-      "url": ""
     },
     {
       "id": "evt-5g000000",
