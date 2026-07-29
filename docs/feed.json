@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-07-29T20:42:26.368Z",
+  "generatedAt": "2026-07-29T22:49:32.338Z",
   "fields": {
     "society": "社会",
     "economy": "经济",
@@ -8,22 +8,28 @@
   "feed": [
     {
       "id": "evt-00000000",
-      "title": "北京君正董秘精准逃顶 套现约5500万",
+      "title": "斯洛伐克总统怀疑中国机器人藏真人",
       "category": "society",
-      "hotScore": 0.85,
+      "hotScore": 0.8075,
       "freshness": 0.9999,
       "crossSource": 1,
-      "totalScore": 0.94,
+      "totalScore": 0.923,
       "sources": [
         {
           "channel": "toutiao",
-          "rank": 1,
-          "hot": 9049798,
-          "url": "https://www.toutiao.com/trending/7667942757092589604/"
+          "rank": 2,
+          "hot": 8744071,
+          "url": "https://www.toutiao.com/trending/7667207733225029638/"
+        },
+        {
+          "channel": "baidu",
+          "rank": 16,
+          "hot": 0,
+          "url": "https://m.baidu.com/s?word=%E6%96%AF%E6%B4%9B%E4%BC%90%E5%85%8B%E6%80%BB%E7%BB%9F%E6%80%80%E7%96%91%E4%B8%AD%E5%9B%BD%E6%9C%BA%E5%99%A8%E4%BA%BA%E8%97%8F%E7%9C%9F%E4%BA%BA&sa=fyb_news"
         }
       ],
       "summary": "",
-      "url": "https://www.toutiao.com/trending/7667942757092589604/"
+      "url": "https://www.toutiao.com/trending/7667207733225029638/"
     },
     {
       "id": "evt-13000000",
@@ -31,8 +37,8 @@
       "category": "society",
       "hotScore": 0.8075,
       "freshness": 1,
-      "crossSource": 1,
-      "totalScore": 0.923,
+      "crossSource": 0.6309,
+      "totalScore": 0.8123,
       "sources": [
         {
           "channel": "thepaper",
@@ -45,37 +51,18 @@
       "url": "https://www.thepaper.cn/newsDetail_forward_33679905"
     },
     {
-      "id": "evt-34300000",
-      "title": "343 斤吃播博主「良子」在峨眉山徒步途中晕倒，后被担架抬下山，大体重人士适合徒步吗？会有哪些风险？",
-      "category": "society",
-      "hotScore": 0.75,
-      "freshness": 1,
-      "crossSource": 1,
-      "totalScore": 0.9,
-      "sources": [
-        {
-          "channel": "zhihu",
-          "rank": 1,
-          "hot": 0,
-          "url": ""
-        }
-      ],
-      "summary": "",
-      "url": ""
-    },
-    {
       "id": "evt-31000000",
       "title": "小区电梯失控从31楼下坠到负2楼",
       "category": "society",
       "hotScore": 0.7225,
       "freshness": 0.9999,
-      "crossSource": 1,
-      "totalScore": 0.889,
+      "crossSource": 0.6309,
+      "totalScore": 0.7783,
       "sources": [
         {
           "channel": "toutiao",
           "rank": 4,
-          "hot": 6704255,
+          "hot": 7159040,
           "url": "https://www.toutiao.com/trending/7667443664234627078/"
         }
       ],
@@ -83,13 +70,32 @@
       "url": "https://www.toutiao.com/trending/7667443664234627078/"
     },
     {
+      "id": "evt-q0000000",
+      "title": "已经忘了微信是怎么取代QQ的了",
+      "category": "society",
+      "hotScore": 0.72,
+      "freshness": 1,
+      "crossSource": 0.6309,
+      "totalScore": 0.7773,
+      "sources": [
+        {
+          "channel": "baidu",
+          "rank": 3,
+          "hot": 0,
+          "url": "https://m.baidu.com/s?word=%E5%B7%B2%E7%BB%8F%E5%BF%98%E4%BA%86%E5%BE%AE%E4%BF%A1%E6%98%AF%E6%80%8E%E4%B9%88%E5%8F%96%E4%BB%A3QQ%E7%9A%84%E4%BA%86&sa=fyb_news"
+        }
+      ],
+      "summary": "",
+      "url": "https://m.baidu.com/s?word=%E5%B7%B2%E7%BB%8F%E5%BF%98%E4%BA%86%E5%BE%AE%E4%BF%A1%E6%98%AF%E6%80%8E%E4%B9%88%E5%8F%96%E4%BB%A3QQ%E7%9A%84%E4%BA%86&sa=fyb_news"
+    },
+    {
       "id": "evt-10000000",
       "title": "中芯国际与嘉楠科技合作14nm矿机芯片，知情人士：能否量产要看行情",
       "category": "economy",
       "hotScore": 0.9,
       "freshness": 1,
-      "crossSource": 1,
-      "totalScore": 0.96,
+      "crossSource": 0.6309,
+      "totalScore": 0.8493,
       "sources": [
         {
           "channel": "36kr",
@@ -107,8 +113,8 @@
       "category": "economy",
       "hotScore": 0.855,
       "freshness": 1,
-      "crossSource": 1,
-      "totalScore": 0.942,
+      "crossSource": 0.6309,
+      "totalScore": 0.8313,
       "sources": [
         {
           "channel": "36kr",
@@ -126,8 +132,8 @@
       "category": "economy",
       "hotScore": 0.81,
       "freshness": 1,
-      "crossSource": 1,
-      "totalScore": 0.924,
+      "crossSource": 0.6309,
+      "totalScore": 0.8133,
       "sources": [
         {
           "channel": "36kr",
@@ -140,13 +146,13 @@
       "url": ""
     },
     {
-      "id": "evt-ai000000",
-      "title": "有说法称印度成首个被 AI 做空的国家，真的是这样吗？会对印度经济产生哪些影响？",
-      "category": "economy",
+      "id": "evt-18000000",
+      "title": "周星驰《功夫女足》上映 18 天票房破 20 亿，超过《给阿嬷的情书》跻身年度第二，如何评价这一成绩？",
+      "category": "entertainment",
       "hotScore": 0.5625,
       "freshness": 1,
-      "crossSource": 1,
-      "totalScore": 0.825,
+      "crossSource": 0.6309,
+      "totalScore": 0.7143,
       "sources": [
         {
           "channel": "zhihu",
@@ -159,23 +165,23 @@
       "url": ""
     },
     {
-      "id": "evt-q0000000",
-      "title": "已经忘了微信是怎么取代QQ的了",
+      "id": "evt-34300000",
+      "title": "343 斤吃播博主「良子」在峨眉山徒步途中晕倒，后被担架抬下山，大体重人士适合徒步吗？会有哪些风险？",
       "category": "society",
-      "hotScore": 0.72,
+      "hotScore": 0.6375,
       "freshness": 1,
-      "crossSource": 1,
-      "totalScore": 0.888,
+      "crossSource": 0.6309,
+      "totalScore": 0.7443,
       "sources": [
         {
-          "channel": "baidu",
-          "rank": 3,
+          "channel": "zhihu",
+          "rank": 4,
           "hot": 0,
-          "url": "https://m.baidu.com/s?word=%E5%B7%B2%E7%BB%8F%E5%BF%98%E4%BA%86%E5%BE%AE%E4%BF%A1%E6%98%AF%E6%80%8E%E4%B9%88%E5%8F%96%E4%BB%A3QQ%E7%9A%84%E4%BA%86&sa=fyb_news"
+          "url": ""
         }
       ],
       "summary": "",
-      "url": "https://m.baidu.com/s?word=%E5%B7%B2%E7%BB%8F%E5%BF%98%E4%BA%86%E5%BE%AE%E4%BF%A1%E6%98%AF%E6%80%8E%E4%B9%88%E5%8F%96%E4%BB%A3QQ%E7%9A%84%E4%BA%86&sa=fyb_news"
+      "url": ""
     },
     {
       "id": "evt-3d000000",
@@ -183,8 +189,8 @@
       "category": "society",
       "hotScore": 0.63,
       "freshness": 1,
-      "crossSource": 1,
-      "totalScore": 0.852,
+      "crossSource": 0.6309,
+      "totalScore": 0.7413,
       "sources": [
         {
           "channel": "36kr",
@@ -202,18 +208,37 @@
       "category": "society",
       "hotScore": 0.595,
       "freshness": 0.9999,
-      "crossSource": 1,
-      "totalScore": 0.838,
+      "crossSource": 0.6309,
+      "totalScore": 0.7273,
       "sources": [
         {
           "channel": "toutiao",
           "rank": 7,
-          "hot": 4966634,
+          "hot": 5303547,
           "url": "https://www.toutiao.com/trending/7667415040820101171/"
         }
       ],
       "summary": "",
       "url": "https://www.toutiao.com/trending/7667415040820101171/"
+    },
+    {
+      "id": "evt-17000000",
+      "title": "17岁小将爆冷击败世界冠军蒯曼",
+      "category": "society",
+      "hotScore": 0.51,
+      "freshness": 0.9999,
+      "crossSource": 0.6309,
+      "totalScore": 0.6933,
+      "sources": [
+        {
+          "channel": "toutiao",
+          "rank": 9,
+          "hot": 4342177,
+          "url": "https://www.toutiao.com/trending/7667361696147898411/"
+        }
+      ],
+      "summary": "",
+      "url": "https://www.toutiao.com/trending/7667361696147898411/"
     }
   ]
 }
