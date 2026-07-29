@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-07-29T04:59:19.317Z",
+  "generatedAt": "2026-07-29T08:19:22.195Z",
   "fields": {
     "society": "社会",
     "economy": "经济",
@@ -8,60 +8,41 @@
   "feed": [
     {
       "id": "evt-00000000",
-      "title": "日本强震致神社完全垮塌列车脱轨",
+      "title": "日本强震瞬间满载大货车被抛起",
       "category": "society",
-      "hotScore": 0.76,
-      "freshness": 1,
+      "hotScore": 0.68,
+      "freshness": 0.9999,
       "crossSource": 1,
-      "totalScore": 0.904,
+      "totalScore": 0.872,
       "sources": [
         {
           "channel": "toutiao",
           "rank": 5,
-          "hot": 10319198,
-          "url": "https://www.toutiao.com/trending/7667713008373894707/"
+          "hot": 12286442,
+          "url": "https://www.toutiao.com/trending/7667766651118636582/"
         },
         {
           "channel": "baidu",
-          "rank": 2,
+          "rank": 14,
           "hot": 0,
-          "url": "https://m.baidu.com/s?word=%E6%97%A5%E6%9C%AC%E5%BC%BA%E9%9C%87%E8%87%B4%E7%A5%9E%E7%A4%BE%E5%AE%8C%E5%85%A8%E5%9E%AE%E5%A1%8C%E5%88%97%E8%BD%A6%E8%84%B1%E8%BD%A8&sa=fyb_news"
+          "url": "https://m.baidu.com/s?word=%E6%97%A5%E6%9C%AC%E5%BC%BA%E9%9C%87%E7%9E%AC%E9%97%B4%E6%BB%A1%E8%BD%BD%E5%A4%A7%E8%B4%A7%E8%BD%A6%E8%A2%AB%E6%8A%9B%E8%B5%B7&sa=fyb_news"
         }
       ],
       "summary": "",
-      "url": "https://www.toutiao.com/trending/7667713008373894707/"
-    },
-    {
-      "id": "evt-12000000",
-      "title": "上海一室一厅酒店月租 12000 元起，半数客人为长住客，原因为何？真的比租房划算吗？",
-      "category": "society",
-      "hotScore": 0.75,
-      "freshness": 1,
-      "crossSource": 0.6309,
-      "totalScore": 0.7893,
-      "sources": [
-        {
-          "channel": "zhihu",
-          "rank": 1,
-          "hot": 0,
-          "url": ""
-        }
-      ],
-      "summary": "",
-      "url": ""
+      "url": "https://www.toutiao.com/trending/7667766651118636582/"
     },
     {
       "id": "evt-14400000",
       "title": "受贿1.44亿余元，重庆市政协原副主席段成刚一审被判无期",
       "category": "society",
-      "hotScore": 0.7225,
+      "hotScore": 0.8075,
       "freshness": 1,
       "crossSource": 0.6309,
-      "totalScore": 0.7783,
+      "totalScore": 0.8123,
       "sources": [
         {
           "channel": "thepaper",
-          "rank": 4,
+          "rank": 2,
           "hot": 0,
           "url": "https://www.thepaper.cn/newsDetail_forward_33673349"
         }
@@ -71,22 +52,47 @@
     },
     {
       "id": "evt-40000000",
-      "title": "40℃高温 可乐和冰红茶“没人要”",
+      "title": "女子修手机被店主导出40多张私密照",
       "category": "society",
-      "hotScore": 0.72,
-      "freshness": 1,
-      "crossSource": 0.6309,
-      "totalScore": 0.7773,
+      "hotScore": 0.4675,
+      "freshness": 0.9999,
+      "crossSource": 1,
+      "totalScore": 0.787,
       "sources": [
         {
+          "channel": "toutiao",
+          "rank": 10,
+          "hot": 7452104,
+          "url": "https://www.toutiao.com/trending/7667415040820101171/"
+        },
+        {
           "channel": "baidu",
-          "rank": 3,
+          "rank": 15,
           "hot": 0,
-          "url": "https://m.baidu.com/s?word=40%E2%84%83%E9%AB%98%E6%B8%A9+%E5%8F%AF%E4%B9%90%E5%92%8C%E5%86%B0%E7%BA%A2%E8%8C%B6%E2%80%9C%E6%B2%A1%E4%BA%BA%E8%A6%81%E2%80%9D&sa=fyb_news"
+          "url": "https://m.baidu.com/s?word=%E5%A5%B3%E5%AD%90%E4%BF%AE%E6%89%8B%E6%9C%BA%E8%A2%AB%E5%BA%97%E4%B8%BB%E5%AF%BC%E5%87%BA40%E5%A4%9A%E5%BC%A0%E7%A7%81%E5%AF%86%E7%85%A7&sa=fyb_news"
         }
       ],
       "summary": "",
-      "url": "https://m.baidu.com/s?word=40%E2%84%83%E9%AB%98%E6%B8%A9+%E5%8F%AF%E4%B9%90%E5%92%8C%E5%86%B0%E7%BA%A2%E8%8C%B6%E2%80%9C%E6%B2%A1%E4%BA%BA%E8%A6%81%E2%80%9D&sa=fyb_news"
+      "url": "https://www.toutiao.com/trending/7667415040820101171/"
+    },
+    {
+      "id": "evt-12000000",
+      "title": "上海一室一厅酒店月租 12000 元起，半数客人为长住客，原因为何？真的比租房划算吗？",
+      "category": "society",
+      "hotScore": 0.7125,
+      "freshness": 1,
+      "crossSource": 0.6309,
+      "totalScore": 0.7743,
+      "sources": [
+        {
+          "channel": "zhihu",
+          "rank": 2,
+          "hot": 0,
+          "url": ""
+        }
+      ],
+      "summary": "",
+      "url": ""
     },
     {
       "id": "evt-10000000",
@@ -146,25 +152,6 @@
       "url": ""
     },
     {
-      "id": "evt-ppt00000",
-      "title": "电子屏和 PPT 已经如此普及，为什么像王虹这样的顶尖学者仍偏爱粉笔和黑板？PPT 真的还是教学的必需品吗？",
-      "category": "society",
-      "hotScore": 0.6375,
-      "freshness": 1,
-      "crossSource": 0.6309,
-      "totalScore": 0.7443,
-      "sources": [
-        {
-          "channel": "zhihu",
-          "rank": 4,
-          "hot": 0,
-          "url": ""
-        }
-      ],
-      "summary": "",
-      "url": ""
-    },
-    {
       "id": "evt-3d000000",
       "title": "好未来《熊猫博士》3D动画片登陆央视少儿频道",
       "category": "society",
@@ -184,23 +171,80 @@
       "url": ""
     },
     {
+      "id": "evt-34300000",
+      "title": "343斤网红徒步峨眉山晕倒被抬下山",
+      "category": "society",
+      "hotScore": 0.6,
+      "freshness": 1,
+      "crossSource": 0.6309,
+      "totalScore": 0.7293,
+      "sources": [
+        {
+          "channel": "baidu",
+          "rank": 6,
+          "hot": 0,
+          "url": "https://m.baidu.com/s?word=343%E6%96%A4%E7%BD%91%E7%BA%A2%E5%BE%92%E6%AD%A5%E5%B3%A8%E7%9C%89%E5%B1%B1%E6%99%95%E5%80%92%E8%A2%AB%E6%8A%AC%E4%B8%8B%E5%B1%B1&sa=fyb_news"
+        }
+      ],
+      "summary": "",
+      "url": "https://m.baidu.com/s?word=343%E6%96%A4%E7%BD%91%E7%BA%A2%E5%BE%92%E6%AD%A5%E5%B3%A8%E7%9C%89%E5%B1%B1%E6%99%95%E5%80%92%E8%A2%AB%E6%8A%AC%E4%B8%8B%E5%B1%B1&sa=fyb_news"
+    },
+    {
       "id": "evt-71000000",
       "title": "日本熊本发生7.1级地震，在日华人拉朋友躲在商场墙角避险",
       "category": "society",
-      "hotScore": 0.5525,
+      "hotScore": 0.595,
       "freshness": 1,
       "crossSource": 0.6309,
-      "totalScore": 0.7103,
+      "totalScore": 0.7273,
       "sources": [
         {
           "channel": "thepaper",
-          "rank": 8,
+          "rank": 7,
           "hot": 0,
           "url": "https://www.thepaper.cn/newsDetail_forward_33674135"
         }
       ],
       "summary": "",
       "url": "https://www.thepaper.cn/newsDetail_forward_33674135"
+    },
+    {
+      "id": "evt-17150000",
+      "title": "17岁哥哥上中科大15岁妹妹上北大",
+      "category": "society",
+      "hotScore": 0.56,
+      "freshness": 1,
+      "crossSource": 0.6309,
+      "totalScore": 0.7133,
+      "sources": [
+        {
+          "channel": "baidu",
+          "rank": 7,
+          "hot": 0,
+          "url": "https://m.baidu.com/s?word=17%E5%B2%81%E5%93%A5%E5%93%A5%E4%B8%8A%E4%B8%AD%E7%A7%91%E5%A4%A715%E5%B2%81%E5%A6%B9%E5%A6%B9%E4%B8%8A%E5%8C%97%E5%A4%A7&sa=fyb_news"
+        }
+      ],
+      "summary": "",
+      "url": "https://m.baidu.com/s?word=17%E5%B2%81%E5%93%A5%E5%93%A5%E4%B8%8A%E4%B8%AD%E7%A7%91%E5%A4%A715%E5%B2%81%E5%A6%B9%E5%A6%B9%E4%B8%8A%E5%8C%97%E5%A4%A7&sa=fyb_news"
+    },
+    {
+      "id": "evt-86000000",
+      "title": "河北 860 元一晚酒店半夜关空调导致客人被热醒，酒店空调间断关停合法吗？消费者该怎样维权？",
+      "category": "society",
+      "hotScore": 0.525,
+      "freshness": 1,
+      "crossSource": 0.6309,
+      "totalScore": 0.6993,
+      "sources": [
+        {
+          "channel": "zhihu",
+          "rank": 7,
+          "hot": 0,
+          "url": ""
+        }
+      ],
+      "summary": "",
+      "url": ""
     }
   ]
 }
