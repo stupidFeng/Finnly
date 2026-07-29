@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-07-29T18:56:31.806Z",
+  "generatedAt": "2026-07-29T20:42:26.368Z",
   "fields": {
     "society": "社会",
     "economy": "经济",
@@ -11,14 +11,14 @@
       "title": "北京君正董秘精准逃顶 套现约5500万",
       "category": "society",
       "hotScore": 0.85,
-      "freshness": 1,
-      "crossSource": 0.6309,
-      "totalScore": 0.8293,
+      "freshness": 0.9999,
+      "crossSource": 1,
+      "totalScore": 0.94,
       "sources": [
         {
           "channel": "toutiao",
           "rank": 1,
-          "hot": 8820487,
+          "hot": 9049798,
           "url": "https://www.toutiao.com/trending/7667942757092589604/"
         }
       ],
@@ -31,8 +31,8 @@
       "category": "society",
       "hotScore": 0.8075,
       "freshness": 1,
-      "crossSource": 0.6309,
-      "totalScore": 0.8123,
+      "crossSource": 1,
+      "totalScore": 0.923,
       "sources": [
         {
           "channel": "thepaper",
@@ -50,8 +50,8 @@
       "category": "society",
       "hotScore": 0.75,
       "freshness": 1,
-      "crossSource": 0.6309,
-      "totalScore": 0.7893,
+      "crossSource": 1,
+      "totalScore": 0.9,
       "sources": [
         {
           "channel": "zhihu",
@@ -64,23 +64,23 @@
       "url": ""
     },
     {
-      "id": "evt-q0000000",
-      "title": "已经忘了微信是怎么取代QQ的了",
+      "id": "evt-31000000",
+      "title": "小区电梯失控从31楼下坠到负2楼",
       "category": "society",
-      "hotScore": 0.72,
-      "freshness": 1,
-      "crossSource": 0.6309,
-      "totalScore": 0.7773,
+      "hotScore": 0.7225,
+      "freshness": 0.9999,
+      "crossSource": 1,
+      "totalScore": 0.889,
       "sources": [
         {
-          "channel": "baidu",
-          "rank": 3,
-          "hot": 0,
-          "url": "https://m.baidu.com/s?word=%E5%B7%B2%E7%BB%8F%E5%BF%98%E4%BA%86%E5%BE%AE%E4%BF%A1%E6%98%AF%E6%80%8E%E4%B9%88%E5%8F%96%E4%BB%A3QQ%E7%9A%84%E4%BA%86&sa=fyb_news"
+          "channel": "toutiao",
+          "rank": 4,
+          "hot": 6704255,
+          "url": "https://www.toutiao.com/trending/7667443664234627078/"
         }
       ],
       "summary": "",
-      "url": "https://m.baidu.com/s?word=%E5%B7%B2%E7%BB%8F%E5%BF%98%E4%BA%86%E5%BE%AE%E4%BF%A1%E6%98%AF%E6%80%8E%E4%B9%88%E5%8F%96%E4%BB%A3QQ%E7%9A%84%E4%BA%86&sa=fyb_news"
+      "url": "https://www.toutiao.com/trending/7667443664234627078/"
     },
     {
       "id": "evt-10000000",
@@ -88,8 +88,8 @@
       "category": "economy",
       "hotScore": 0.9,
       "freshness": 1,
-      "crossSource": 0.6309,
-      "totalScore": 0.8493,
+      "crossSource": 1,
+      "totalScore": 0.96,
       "sources": [
         {
           "channel": "36kr",
@@ -107,8 +107,8 @@
       "category": "economy",
       "hotScore": 0.855,
       "freshness": 1,
-      "crossSource": 0.6309,
-      "totalScore": 0.8313,
+      "crossSource": 1,
+      "totalScore": 0.942,
       "sources": [
         {
           "channel": "36kr",
@@ -126,8 +126,8 @@
       "category": "economy",
       "hotScore": 0.81,
       "freshness": 1,
-      "crossSource": 0.6309,
-      "totalScore": 0.8133,
+      "crossSource": 1,
+      "totalScore": 0.924,
       "sources": [
         {
           "channel": "36kr",
@@ -140,13 +140,13 @@
       "url": ""
     },
     {
-      "id": "evt-18000000",
-      "title": "周星驰《功夫女足》上映 18 天票房破 20 亿，超过《给阿嬷的情书》跻身年度第二，如何评价这一成绩？",
-      "category": "entertainment",
+      "id": "evt-ai000000",
+      "title": "有说法称印度成首个被 AI 做空的国家，真的是这样吗？会对印度经济产生哪些影响？",
+      "category": "economy",
       "hotScore": 0.5625,
       "freshness": 1,
-      "crossSource": 0.6309,
-      "totalScore": 0.7143,
+      "crossSource": 1,
+      "totalScore": 0.825,
       "sources": [
         {
           "channel": "zhihu",
@@ -159,23 +159,23 @@
       "url": ""
     },
     {
-      "id": "evt-31000000",
-      "title": "小区电梯失控从31楼下坠到负2楼",
+      "id": "evt-q0000000",
+      "title": "已经忘了微信是怎么取代QQ的了",
       "category": "society",
-      "hotScore": 0.68,
+      "hotScore": 0.72,
       "freshness": 1,
-      "crossSource": 0.6309,
-      "totalScore": 0.7613,
+      "crossSource": 1,
+      "totalScore": 0.888,
       "sources": [
         {
-          "channel": "toutiao",
-          "rank": 5,
-          "hot": 5912549,
-          "url": "https://www.toutiao.com/trending/7667443664234627078/"
+          "channel": "baidu",
+          "rank": 3,
+          "hot": 0,
+          "url": "https://m.baidu.com/s?word=%E5%B7%B2%E7%BB%8F%E5%BF%98%E4%BA%86%E5%BE%AE%E4%BF%A1%E6%98%AF%E6%80%8E%E4%B9%88%E5%8F%96%E4%BB%A3QQ%E7%9A%84%E4%BA%86&sa=fyb_news"
         }
       ],
       "summary": "",
-      "url": "https://www.toutiao.com/trending/7667443664234627078/"
+      "url": "https://m.baidu.com/s?word=%E5%B7%B2%E7%BB%8F%E5%BF%98%E4%BA%86%E5%BE%AE%E4%BF%A1%E6%98%AF%E6%80%8E%E4%B9%88%E5%8F%96%E4%BB%A3QQ%E7%9A%84%E4%BA%86&sa=fyb_news"
     },
     {
       "id": "evt-3d000000",
@@ -183,8 +183,8 @@
       "category": "society",
       "hotScore": 0.63,
       "freshness": 1,
-      "crossSource": 0.6309,
-      "totalScore": 0.7413,
+      "crossSource": 1,
+      "totalScore": 0.852,
       "sources": [
         {
           "channel": "36kr",
@@ -200,15 +200,15 @@
       "id": "evt-40000000",
       "title": "女子修手机被店主导出40多张私密照",
       "category": "society",
-      "hotScore": 0.5525,
-      "freshness": 1,
-      "crossSource": 0.6309,
-      "totalScore": 0.7103,
+      "hotScore": 0.595,
+      "freshness": 0.9999,
+      "crossSource": 1,
+      "totalScore": 0.838,
       "sources": [
         {
           "channel": "toutiao",
-          "rank": 8,
-          "hot": 4380124,
+          "rank": 7,
+          "hot": 4966634,
           "url": "https://www.toutiao.com/trending/7667415040820101171/"
         }
       ],
