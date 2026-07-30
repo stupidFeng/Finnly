@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-07-30T15:45:16.510Z",
+  "generatedAt": "2026-07-30T17:14:28.357Z",
   "fields": {
     "society": "社会",
     "economy": "经济",
@@ -7,43 +7,18 @@
   },
   "feed": [
     {
-      "id": "evt-81000000",
-      "title": "宇树科技：8月10日打新",
-      "category": "society",
-      "hotScore": 0.85,
-      "freshness": 1,
-      "crossSource": 1,
-      "totalScore": 0.94,
-      "sources": [
-        {
-          "channel": "toutiao",
-          "rank": 1,
-          "hot": 11052712,
-          "url": "https://www.toutiao.com/trending/7667763686765019190/"
-        },
-        {
-          "channel": "thepaper",
-          "rank": 11,
-          "hot": 0,
-          "url": "https://www.thepaper.cn/newsDetail_forward_33687840"
-        }
-      ],
-      "summary": "",
-      "url": "https://www.toutiao.com/trending/7667763686765019190/"
-    },
-    {
       "id": "evt-00000000",
       "title": "一组数据读懂我国能源转型新趋势",
       "category": "society",
       "hotScore": 0.765,
-      "freshness": 1,
+      "freshness": 0.9999,
       "crossSource": 1,
       "totalScore": 0.906,
       "sources": [
         {
           "channel": "toutiao",
           "rank": 3,
-          "hot": 9049195,
+          "hot": 9708073,
           "url": "https://www.toutiao.com/trending/7668288897973194267/"
         },
         {
@@ -60,20 +35,20 @@
       "id": "evt-n90m0000",
       "title": "小米澎程N90 Max预售价29.99万元",
       "category": "society",
-      "hotScore": 0.68,
-      "freshness": 1,
+      "hotScore": 0.7225,
+      "freshness": 0.9999,
       "crossSource": 1,
-      "totalScore": 0.872,
+      "totalScore": 0.889,
       "sources": [
         {
           "channel": "toutiao",
-          "rank": 5,
-          "hot": 7408854,
+          "rank": 4,
+          "hot": 8784227,
           "url": "https://www.toutiao.com/trending/7668228760780406838/"
         },
         {
           "channel": "zhihu",
-          "rank": 8,
+          "rank": 5,
           "hot": 0,
           "url": ""
         }
@@ -99,6 +74,25 @@
       ],
       "summary": "",
       "url": "https://www.thepaper.cn/newsDetail_forward_33683938"
+    },
+    {
+      "id": "evt-50000000",
+      "title": "重庆彭水山体崩塌已确认51人遇难",
+      "category": "society",
+      "hotScore": 0.76,
+      "freshness": 1,
+      "crossSource": 0.6309,
+      "totalScore": 0.7933,
+      "sources": [
+        {
+          "channel": "baidu",
+          "rank": 2,
+          "hot": 0,
+          "url": "https://m.baidu.com/s?word=%E9%87%8D%E5%BA%86%E5%BD%AD%E6%B0%B4%E5%B1%B1%E4%BD%93%E5%B4%A9%E5%A1%8C%E5%B7%B2%E7%A1%AE%E8%AE%A451%E4%BA%BA%E9%81%87%E9%9A%BE&sa=fyb_news"
+        }
+      ],
+      "summary": "",
+      "url": "https://m.baidu.com/s?word=%E9%87%8D%E5%BA%86%E5%BD%AD%E6%B0%B4%E5%B1%B1%E4%BD%93%E5%B4%A9%E5%A1%8C%E5%B7%B2%E7%A1%AE%E8%AE%A451%E4%BA%BA%E9%81%87%E9%9A%BE&sa=fyb_news"
     },
     {
       "id": "evt-10000000",
@@ -158,42 +152,29 @@
       "url": ""
     },
     {
-      "id": "evt-50000000",
-      "title": "重庆彭水山体崩塌已确认51人遇难",
+      "id": "evt-81000000",
+      "title": "宇树科技：8月10日打新",
       "category": "society",
-      "hotScore": 0.76,
-      "freshness": 1,
-      "crossSource": 0.6309,
-      "totalScore": 0.7933,
-      "sources": [
-        {
-          "channel": "baidu",
-          "rank": 2,
-          "hot": 0,
-          "url": "https://m.baidu.com/s?word=%E9%87%8D%E5%BA%86%E5%BD%AD%E6%B0%B4%E5%B1%B1%E4%BD%93%E5%B4%A9%E5%A1%8C%E5%B7%B2%E7%A1%AE%E8%AE%A451%E4%BA%BA%E9%81%87%E9%9A%BE&sa=fyb_news"
-        }
-      ],
-      "summary": "",
-      "url": "https://m.baidu.com/s?word=%E9%87%8D%E5%BA%86%E5%BD%AD%E6%B0%B4%E5%B1%B1%E4%BD%93%E5%B4%A9%E5%A1%8C%E5%B7%B2%E7%A1%AE%E8%AE%A451%E4%BA%BA%E9%81%87%E9%9A%BE&sa=fyb_news"
-    },
-    {
-      "id": "evt-15500000",
-      "title": "1.55升“哑铃矿泉水”走红 厂家回应",
-      "category": "society",
-      "hotScore": 0.7225,
-      "freshness": 1,
-      "crossSource": 0.6309,
-      "totalScore": 0.7783,
+      "hotScore": 0.4675,
+      "freshness": 0.9999,
+      "crossSource": 1,
+      "totalScore": 0.787,
       "sources": [
         {
           "channel": "toutiao",
-          "rank": 4,
-          "hot": 8188050,
-          "url": "https://www.toutiao.com/trending/7667350103325196342/"
+          "rank": 10,
+          "hot": 4820886,
+          "url": "https://www.toutiao.com/trending/7667763686765019190/"
+        },
+        {
+          "channel": "thepaper",
+          "rank": 10,
+          "hot": 0,
+          "url": "https://www.thepaper.cn/newsDetail_forward_33687840"
         }
       ],
       "summary": "",
-      "url": "https://www.toutiao.com/trending/7667350103325196342/"
+      "url": "https://www.toutiao.com/trending/7667763686765019190/"
     },
     {
       "id": "evt-84436000",
@@ -253,6 +234,25 @@
       "url": ""
     },
     {
+      "id": "evt-15500000",
+      "title": "1.55升“哑铃矿泉水”走红 厂家回应",
+      "category": "society",
+      "hotScore": 0.68,
+      "freshness": 0.9999,
+      "crossSource": 0.6309,
+      "totalScore": 0.7613,
+      "sources": [
+        {
+          "channel": "toutiao",
+          "rank": 5,
+          "hot": 7948298,
+          "url": "https://www.toutiao.com/trending/7667350103325196342/"
+        }
+      ],
+      "summary": "",
+      "url": "https://www.toutiao.com/trending/7667350103325196342/"
+    },
+    {
       "id": "evt-70000000",
       "title": "媒体称三大运营商将于 7 月 31 日前全面取消网络代理渠道，释放了哪些行业信号？对消费者有什么影响？",
       "category": "society",
@@ -272,23 +272,23 @@
       "url": ""
     },
     {
-      "id": "evt-40000000",
-      "title": "中国向伊朗提供400枚导弹？外交部回应",
+      "id": "evt-51000000",
+      "title": "重庆彭水山体崩塌致51人遇难10人失联",
       "category": "society",
       "hotScore": 0.6375,
-      "freshness": 1,
+      "freshness": 0.9999,
       "crossSource": 0.6309,
       "totalScore": 0.7443,
       "sources": [
         {
           "channel": "toutiao",
           "rank": 6,
-          "hot": 6703808,
-          "url": "https://www.toutiao.com/trending/7668128346190053385/"
+          "hot": 7191917,
+          "url": "https://www.toutiao.com/trending/7668338615017016882/"
         }
       ],
       "summary": "",
-      "url": "https://www.toutiao.com/trending/7668128346190053385/"
+      "url": "https://www.toutiao.com/trending/7668338615017016882/"
     },
     {
       "id": "evt-3d000000",
