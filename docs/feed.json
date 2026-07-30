@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-07-30T17:14:28.357Z",
+  "generatedAt": "2026-07-30T19:09:03.423Z",
   "fields": {
     "society": "社会",
     "economy": "经济",
@@ -18,7 +18,7 @@
         {
           "channel": "toutiao",
           "rank": 3,
-          "hot": 9708073,
+          "hot": 10161926,
           "url": "https://www.toutiao.com/trending/7668288897973194267/"
         },
         {
@@ -35,26 +35,51 @@
       "id": "evt-n90m0000",
       "title": "小米澎程N90 Max预售价29.99万元",
       "category": "society",
-      "hotScore": 0.7225,
+      "hotScore": 0.7125,
       "freshness": 0.9999,
       "crossSource": 1,
-      "totalScore": 0.889,
+      "totalScore": 0.885,
       "sources": [
         {
           "channel": "toutiao",
-          "rank": 4,
-          "hot": 8784227,
+          "rank": 5,
+          "hot": 8319881,
           "url": "https://www.toutiao.com/trending/7668228760780406838/"
         },
         {
           "channel": "zhihu",
-          "rank": 5,
+          "rank": 2,
           "hot": 0,
           "url": ""
         }
       ],
       "summary": "",
       "url": "https://www.toutiao.com/trending/7668228760780406838/"
+    },
+    {
+      "id": "evt-81000000",
+      "title": "宇树科技：8月10日打新",
+      "category": "society",
+      "hotScore": 0.5525,
+      "freshness": 0.9999,
+      "crossSource": 1,
+      "totalScore": 0.821,
+      "sources": [
+        {
+          "channel": "toutiao",
+          "rank": 16,
+          "hot": 2769448,
+          "url": "https://www.toutiao.com/trending/7667763686765019190/"
+        },
+        {
+          "channel": "thepaper",
+          "rank": 8,
+          "hot": 0,
+          "url": "https://www.thepaper.cn/newsDetail_forward_33687840"
+        }
+      ],
+      "summary": "",
+      "url": "https://www.toutiao.com/trending/7667763686765019190/"
     },
     {
       "id": "evt-20260000",
@@ -74,25 +99,6 @@
       ],
       "summary": "",
       "url": "https://www.thepaper.cn/newsDetail_forward_33683938"
-    },
-    {
-      "id": "evt-50000000",
-      "title": "重庆彭水山体崩塌已确认51人遇难",
-      "category": "society",
-      "hotScore": 0.76,
-      "freshness": 1,
-      "crossSource": 0.6309,
-      "totalScore": 0.7933,
-      "sources": [
-        {
-          "channel": "baidu",
-          "rank": 2,
-          "hot": 0,
-          "url": "https://m.baidu.com/s?word=%E9%87%8D%E5%BA%86%E5%BD%AD%E6%B0%B4%E5%B1%B1%E4%BD%93%E5%B4%A9%E5%A1%8C%E5%B7%B2%E7%A1%AE%E8%AE%A451%E4%BA%BA%E9%81%87%E9%9A%BE&sa=fyb_news"
-        }
-      ],
-      "summary": "",
-      "url": "https://m.baidu.com/s?word=%E9%87%8D%E5%BA%86%E5%BD%AD%E6%B0%B4%E5%B1%B1%E4%BD%93%E5%B4%A9%E5%A1%8C%E5%B7%B2%E7%A1%AE%E8%AE%A451%E4%BA%BA%E9%81%87%E9%9A%BE&sa=fyb_news"
     },
     {
       "id": "evt-10000000",
@@ -152,29 +158,61 @@
       "url": ""
     },
     {
-      "id": "evt-81000000",
-      "title": "宇树科技：8月10日打新",
-      "category": "society",
-      "hotScore": 0.4675,
-      "freshness": 0.9999,
-      "crossSource": 1,
-      "totalScore": 0.787,
+      "id": "evt-15000000",
+      "title": "微软股价涨幅扩大至15%",
+      "category": "economy",
+      "hotScore": 0.52,
+      "freshness": 1,
+      "crossSource": 0.6309,
+      "totalScore": 0.6973,
       "sources": [
         {
-          "channel": "toutiao",
-          "rank": 10,
-          "hot": 4820886,
-          "url": "https://www.toutiao.com/trending/7667763686765019190/"
-        },
-        {
-          "channel": "thepaper",
-          "rank": 10,
+          "channel": "baidu",
+          "rank": 8,
           "hot": 0,
-          "url": "https://www.thepaper.cn/newsDetail_forward_33687840"
+          "url": "https://m.baidu.com/s?word=%E5%BE%AE%E8%BD%AF%E8%82%A1%E4%BB%B7%E6%B6%A8%E5%B9%85%E6%89%A9%E5%A4%A7%E8%87%B315%25&sa=fyb_news"
         }
       ],
       "summary": "",
-      "url": "https://www.toutiao.com/trending/7667763686765019190/"
+      "url": "https://m.baidu.com/s?word=%E5%BE%AE%E8%BD%AF%E8%82%A1%E4%BB%B7%E6%B6%A8%E5%B9%85%E6%89%A9%E5%A4%A7%E8%87%B315%25&sa=fyb_news"
+    },
+    {
+      "id": "evt-50000000",
+      "title": "重庆彭水山体崩塌已确认51人遇难",
+      "category": "society",
+      "hotScore": 0.76,
+      "freshness": 1,
+      "crossSource": 0.6309,
+      "totalScore": 0.7933,
+      "sources": [
+        {
+          "channel": "baidu",
+          "rank": 2,
+          "hot": 0,
+          "url": "https://m.baidu.com/s?word=%E9%87%8D%E5%BA%86%E5%BD%AD%E6%B0%B4%E5%B1%B1%E4%BD%93%E5%B4%A9%E5%A1%8C%E5%B7%B2%E7%A1%AE%E8%AE%A451%E4%BA%BA%E9%81%87%E9%9A%BE&sa=fyb_news"
+        }
+      ],
+      "summary": "",
+      "url": "https://m.baidu.com/s?word=%E9%87%8D%E5%BA%86%E5%BD%AD%E6%B0%B4%E5%B1%B1%E4%BD%93%E5%B4%A9%E5%A1%8C%E5%B7%B2%E7%A1%AE%E8%AE%A451%E4%BA%BA%E9%81%87%E9%9A%BE&sa=fyb_news"
+    },
+    {
+      "id": "evt-15500000",
+      "title": "1.55升“哑铃矿泉水”走红 厂家回应",
+      "category": "society",
+      "hotScore": 0.7225,
+      "freshness": 0.9999,
+      "crossSource": 0.6309,
+      "totalScore": 0.7783,
+      "sources": [
+        {
+          "channel": "toutiao",
+          "rank": 4,
+          "hot": 9194891,
+          "url": "https://www.toutiao.com/trending/7667350103325196342/"
+        }
+      ],
+      "summary": "",
+      "url": "https://www.toutiao.com/trending/7667350103325196342/"
     },
     {
       "id": "evt-84436000",
@@ -218,44 +256,6 @@
       "id": "evt-15432000",
       "title": "1.5 万机票退票仅退 432 元，曝光后获全额退款，问题出在哪？这次胜利能否撬动天价退票费规则？",
       "category": "society",
-      "hotScore": 0.7125,
-      "freshness": 1,
-      "crossSource": 0.6309,
-      "totalScore": 0.7743,
-      "sources": [
-        {
-          "channel": "zhihu",
-          "rank": 2,
-          "hot": 0,
-          "url": ""
-        }
-      ],
-      "summary": "",
-      "url": ""
-    },
-    {
-      "id": "evt-15500000",
-      "title": "1.55升“哑铃矿泉水”走红 厂家回应",
-      "category": "society",
-      "hotScore": 0.68,
-      "freshness": 0.9999,
-      "crossSource": 0.6309,
-      "totalScore": 0.7613,
-      "sources": [
-        {
-          "channel": "toutiao",
-          "rank": 5,
-          "hot": 7948298,
-          "url": "https://www.toutiao.com/trending/7667350103325196342/"
-        }
-      ],
-      "summary": "",
-      "url": "https://www.toutiao.com/trending/7667350103325196342/"
-    },
-    {
-      "id": "evt-70000000",
-      "title": "媒体称三大运营商将于 7 月 31 日前全面取消网络代理渠道，释放了哪些行业信号？对消费者有什么影响？",
-      "category": "society",
       "hotScore": 0.675,
       "freshness": 1,
       "crossSource": 0.6309,
@@ -283,7 +283,7 @@
         {
           "channel": "toutiao",
           "rank": 6,
-          "hot": 7191917,
+          "hot": 7528140,
           "url": "https://www.toutiao.com/trending/7668338615017016882/"
         }
       ],
@@ -291,22 +291,22 @@
       "url": "https://www.toutiao.com/trending/7668338615017016882/"
     },
     {
-      "id": "evt-3d000000",
-      "title": "好未来《熊猫博士》3D动画片登陆央视少儿频道",
+      "id": "evt-70000000",
+      "title": "媒体称三大运营商将于 7 月 31 日前全面取消网络代理渠道，释放了哪些行业信号？对消费者有什么影响？",
       "category": "society",
-      "hotScore": 0.63,
+      "hotScore": 0.6375,
       "freshness": 1,
       "crossSource": 0.6309,
-      "totalScore": 0.7413,
+      "totalScore": 0.7443,
       "sources": [
         {
-          "channel": "36kr",
-          "rank": 7,
+          "channel": "zhihu",
+          "rank": 4,
           "hot": 0,
           "url": ""
         }
       ],
-      "summary": "36氪获悉，自4月9日起，中央电视台少儿频道携手好未来旗下教育品牌熊猫博士上线3D系列动画片《熊猫博士》。与此同时，《熊猫博士》3D动画片也在美国、加拿大、俄罗斯、意大利等多个国家、地区陆续发行，并登陆Discovery探索频道等多个世界知名节目。",
+      "summary": "",
       "url": ""
     }
   ]
