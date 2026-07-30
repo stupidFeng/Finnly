@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-07-30T13:26:16.164Z",
+  "generatedAt": "2026-07-30T15:45:16.510Z",
   "fields": {
     "society": "社会",
     "economy": "经济",
@@ -7,18 +7,43 @@
   },
   "feed": [
     {
+      "id": "evt-81000000",
+      "title": "宇树科技：8月10日打新",
+      "category": "society",
+      "hotScore": 0.85,
+      "freshness": 1,
+      "crossSource": 1,
+      "totalScore": 0.94,
+      "sources": [
+        {
+          "channel": "toutiao",
+          "rank": 1,
+          "hot": 11052712,
+          "url": "https://www.toutiao.com/trending/7667763686765019190/"
+        },
+        {
+          "channel": "thepaper",
+          "rank": 11,
+          "hot": 0,
+          "url": "https://www.thepaper.cn/newsDetail_forward_33687840"
+        }
+      ],
+      "summary": "",
+      "url": "https://www.toutiao.com/trending/7667763686765019190/"
+    },
+    {
       "id": "evt-00000000",
       "title": "一组数据读懂我国能源转型新趋势",
       "category": "society",
       "hotScore": 0.765,
-      "freshness": 0.9999,
+      "freshness": 1,
       "crossSource": 1,
       "totalScore": 0.906,
       "sources": [
         {
           "channel": "toutiao",
           "rank": 3,
-          "hot": 13256333,
+          "hot": 9049195,
           "url": "https://www.toutiao.com/trending/7668288897973194267/"
         },
         {
@@ -32,25 +57,25 @@
       "url": "https://www.toutiao.com/trending/7668288897973194267/"
     },
     {
-      "id": "evt-n90max00",
-      "title": "小米澎程N90 Max预售价29.99万",
+      "id": "evt-n90m0000",
+      "title": "小米澎程N90 Max预售价29.99万元",
       "category": "society",
-      "hotScore": 0.7225,
-      "freshness": 0.9999,
+      "hotScore": 0.68,
+      "freshness": 1,
       "crossSource": 1,
-      "totalScore": 0.889,
+      "totalScore": 0.872,
       "sources": [
         {
           "channel": "toutiao",
-          "rank": 4,
-          "hot": 11994826,
+          "rank": 5,
+          "hot": 7408854,
           "url": "https://www.toutiao.com/trending/7668228760780406838/"
         },
         {
-          "channel": "baidu",
-          "rank": 6,
+          "channel": "zhihu",
+          "rank": 8,
           "hot": 0,
-          "url": "https://m.baidu.com/s?word=%E5%B0%8F%E7%B1%B3%E6%BE%8E%E7%A8%8BN90+Max%E9%A2%84%E5%94%AE%E4%BB%B729.99%E4%B8%87&sa=fyb_news"
+          "url": ""
         }
       ],
       "summary": "",
@@ -61,9 +86,9 @@
       "title": "“逐浪·共生”2026外滩新媒体年会即将举行，议程抢先看",
       "category": "society",
       "hotScore": 0.8075,
-      "freshness": 0.9999,
+      "freshness": 1,
       "crossSource": 0.6309,
-      "totalScore": 0.8122,
+      "totalScore": 0.8123,
       "sources": [
         {
           "channel": "thepaper",
@@ -74,25 +99,6 @@
       ],
       "summary": "",
       "url": "https://www.thepaper.cn/newsDetail_forward_33683938"
-    },
-    {
-      "id": "evt-11000000",
-      "title": "11岁杀鱼妹妹火了 有人专程开车光顾",
-      "category": "society",
-      "hotScore": 0.76,
-      "freshness": 0.9999,
-      "crossSource": 0.6309,
-      "totalScore": 0.7932,
-      "sources": [
-        {
-          "channel": "baidu",
-          "rank": 2,
-          "hot": 0,
-          "url": "https://m.baidu.com/s?word=11%E5%B2%81%E6%9D%80%E9%B1%BC%E5%A6%B9%E5%A6%B9%E7%81%AB%E4%BA%86+%E6%9C%89%E4%BA%BA%E4%B8%93%E7%A8%8B%E5%BC%80%E8%BD%A6%E5%85%89%E9%A1%BE&sa=fyb_news"
-        }
-      ],
-      "summary": "",
-      "url": "https://m.baidu.com/s?word=11%E5%B2%81%E6%9D%80%E9%B1%BC%E5%A6%B9%E5%A6%B9%E7%81%AB%E4%BA%86+%E6%9C%89%E4%BA%BA%E4%B8%93%E7%A8%8B%E5%BC%80%E8%BD%A6%E5%85%89%E9%A1%BE&sa=fyb_news"
     },
     {
       "id": "evt-10000000",
@@ -152,32 +158,51 @@
       "url": ""
     },
     {
-      "id": "evt-15432000",
-      "title": "1.5 万机票退票仅退 432 元，曝光后获全额退款，问题出在哪？这次胜利能否撬动天价退票费规则？",
+      "id": "evt-50000000",
+      "title": "重庆彭水山体崩塌已确认51人遇难",
       "category": "society",
-      "hotScore": 0.75,
-      "freshness": 0.9999,
+      "hotScore": 0.76,
+      "freshness": 1,
       "crossSource": 0.6309,
-      "totalScore": 0.7892,
+      "totalScore": 0.7933,
       "sources": [
         {
-          "channel": "zhihu",
-          "rank": 1,
+          "channel": "baidu",
+          "rank": 2,
           "hot": 0,
-          "url": ""
+          "url": "https://m.baidu.com/s?word=%E9%87%8D%E5%BA%86%E5%BD%AD%E6%B0%B4%E5%B1%B1%E4%BD%93%E5%B4%A9%E5%A1%8C%E5%B7%B2%E7%A1%AE%E8%AE%A451%E4%BA%BA%E9%81%87%E9%9A%BE&sa=fyb_news"
         }
       ],
       "summary": "",
-      "url": ""
+      "url": "https://m.baidu.com/s?word=%E9%87%8D%E5%BA%86%E5%BD%AD%E6%B0%B4%E5%B1%B1%E4%BD%93%E5%B4%A9%E5%A1%8C%E5%B7%B2%E7%A1%AE%E8%AE%A451%E4%BA%BA%E9%81%87%E9%9A%BE&sa=fyb_news"
+    },
+    {
+      "id": "evt-15500000",
+      "title": "1.55升“哑铃矿泉水”走红 厂家回应",
+      "category": "society",
+      "hotScore": 0.7225,
+      "freshness": 1,
+      "crossSource": 0.6309,
+      "totalScore": 0.7783,
+      "sources": [
+        {
+          "channel": "toutiao",
+          "rank": 4,
+          "hot": 8188050,
+          "url": "https://www.toutiao.com/trending/7667350103325196342/"
+        }
+      ],
+      "summary": "",
+      "url": "https://www.toutiao.com/trending/7667350103325196342/"
     },
     {
       "id": "evt-84436000",
       "title": "近844克黄金被扣押36年：男子申请返还被驳回，烟台中院组织质证",
       "category": "society",
       "hotScore": 0.7225,
-      "freshness": 0.9999,
+      "freshness": 1,
       "crossSource": 0.6309,
-      "totalScore": 0.7782,
+      "totalScore": 0.7783,
       "sources": [
         {
           "channel": "thepaper",
@@ -190,13 +215,51 @@
       "url": "https://www.thepaper.cn/newsDetail_forward_33684311"
     },
     {
+      "id": "evt-vs000000",
+      "title": "空调一直开vs忍着不开 谁更健康",
+      "category": "society",
+      "hotScore": 0.72,
+      "freshness": 1,
+      "crossSource": 0.6309,
+      "totalScore": 0.7773,
+      "sources": [
+        {
+          "channel": "baidu",
+          "rank": 3,
+          "hot": 0,
+          "url": "https://m.baidu.com/s?word=%E7%A9%BA%E8%B0%83%E4%B8%80%E7%9B%B4%E5%BC%80vs%E5%BF%8D%E7%9D%80%E4%B8%8D%E5%BC%80+%E8%B0%81%E6%9B%B4%E5%81%A5%E5%BA%B7&sa=fyb_news"
+        }
+      ],
+      "summary": "",
+      "url": "https://m.baidu.com/s?word=%E7%A9%BA%E8%B0%83%E4%B8%80%E7%9B%B4%E5%BC%80vs%E5%BF%8D%E7%9D%80%E4%B8%8D%E5%BC%80+%E8%B0%81%E6%9B%B4%E5%81%A5%E5%BA%B7&sa=fyb_news"
+    },
+    {
+      "id": "evt-15432000",
+      "title": "1.5 万机票退票仅退 432 元，曝光后获全额退款，问题出在哪？这次胜利能否撬动天价退票费规则？",
+      "category": "society",
+      "hotScore": 0.7125,
+      "freshness": 1,
+      "crossSource": 0.6309,
+      "totalScore": 0.7743,
+      "sources": [
+        {
+          "channel": "zhihu",
+          "rank": 2,
+          "hot": 0,
+          "url": ""
+        }
+      ],
+      "summary": "",
+      "url": ""
+    },
+    {
       "id": "evt-70000000",
       "title": "媒体称三大运营商将于 7 月 31 日前全面取消网络代理渠道，释放了哪些行业信号？对消费者有什么影响？",
       "category": "society",
       "hotScore": 0.675,
-      "freshness": 0.9999,
+      "freshness": 1,
       "crossSource": 0.6309,
-      "totalScore": 0.7592,
+      "totalScore": 0.7593,
       "sources": [
         {
           "channel": "zhihu",
@@ -207,6 +270,25 @@
       ],
       "summary": "",
       "url": ""
+    },
+    {
+      "id": "evt-40000000",
+      "title": "中国向伊朗提供400枚导弹？外交部回应",
+      "category": "society",
+      "hotScore": 0.6375,
+      "freshness": 1,
+      "crossSource": 0.6309,
+      "totalScore": 0.7443,
+      "sources": [
+        {
+          "channel": "toutiao",
+          "rank": 6,
+          "hot": 6703808,
+          "url": "https://www.toutiao.com/trending/7668128346190053385/"
+        }
+      ],
+      "summary": "",
+      "url": "https://www.toutiao.com/trending/7668128346190053385/"
     },
     {
       "id": "evt-3d000000",
@@ -226,63 +308,6 @@
       ],
       "summary": "36氪获悉，自4月9日起，中央电视台少儿频道携手好未来旗下教育品牌熊猫博士上线3D系列动画片《熊猫博士》。与此同时，《熊猫博士》3D动画片也在美国、加拿大、俄罗斯、意大利等多个国家、地区陆续发行，并登陆Discovery探索频道等多个世界知名节目。",
       "url": ""
-    },
-    {
-      "id": "evt-44000000",
-      "title": "减持套现44亿元后，兆易创新实控人朱一明拟增持不低于10亿元，承诺未来12个月不再减持",
-      "category": "society",
-      "hotScore": 0.595,
-      "freshness": 0.9999,
-      "crossSource": 0.6309,
-      "totalScore": 0.7272,
-      "sources": [
-        {
-          "channel": "thepaper",
-          "rank": 7,
-          "hot": 0,
-          "url": "https://www.thepaper.cn/newsDetail_forward_33683617"
-        }
-      ],
-      "summary": "",
-      "url": "https://www.thepaper.cn/newsDetail_forward_33683617"
-    },
-    {
-      "id": "evt-15000000",
-      "title": "携程通报1.5万元机票仅退432元事件",
-      "category": "society",
-      "hotScore": 0.56,
-      "freshness": 0.9999,
-      "crossSource": 0.6309,
-      "totalScore": 0.7132,
-      "sources": [
-        {
-          "channel": "baidu",
-          "rank": 7,
-          "hot": 0,
-          "url": "https://m.baidu.com/s?word=%E6%90%BA%E7%A8%8B%E9%80%9A%E6%8A%A51.5%E4%B8%87%E5%85%83%E6%9C%BA%E7%A5%A8%E4%BB%85%E9%80%80432%E5%85%83%E4%BA%8B%E4%BB%B6&sa=fyb_news"
-        }
-      ],
-      "summary": "",
-      "url": "https://m.baidu.com/s?word=%E6%90%BA%E7%A8%8B%E9%80%9A%E6%8A%A51.5%E4%B8%87%E5%85%83%E6%9C%BA%E7%A5%A8%E4%BB%85%E9%80%80432%E5%85%83%E4%BA%8B%E4%BB%B6&sa=fyb_news"
-    },
-    {
-      "id": "evt-13000000",
-      "title": "货车夫妻忘付饭钱13天后回店补27元",
-      "category": "society",
-      "hotScore": 0.5525,
-      "freshness": 0.9999,
-      "crossSource": 0.6309,
-      "totalScore": 0.7102,
-      "sources": [
-        {
-          "channel": "toutiao",
-          "rank": 8,
-          "hot": 8040372,
-          "url": "https://www.toutiao.com/trending/7667878463231377471/"
-        }
-      ],
-      "summary": "",
-      "url": "https://www.toutiao.com/trending/7667878463231377471/"
     }
   ]
 }
