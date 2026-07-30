@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-07-30T20:55:06.473Z",
+  "generatedAt": "2026-07-30T22:55:42.838Z",
   "fields": {
     "society": "社会",
     "economy": "经济",
@@ -11,14 +11,14 @@
       "title": "一组数据读懂我国能源转型新趋势",
       "category": "society",
       "hotScore": 0.765,
-      "freshness": 0.9999,
+      "freshness": 1,
       "crossSource": 1,
       "totalScore": 0.906,
       "sources": [
         {
           "channel": "toutiao",
           "rank": 3,
-          "hot": 10603747,
+          "hot": 11814060,
           "url": "https://www.toutiao.com/trending/7668288897973194267/"
         },
         {
@@ -36,14 +36,14 @@
       "title": "小米澎程N90 Max预售价29.99万元",
       "category": "society",
       "hotScore": 0.7125,
-      "freshness": 0.9999,
+      "freshness": 1,
       "crossSource": 1,
       "totalScore": 0.885,
       "sources": [
         {
           "channel": "toutiao",
           "rank": 8,
-          "hot": 6431498,
+          "hot": 7165590,
           "url": "https://www.toutiao.com/trending/7668228760780406838/"
         },
         {
@@ -55,6 +55,31 @@
       ],
       "summary": "",
       "url": "https://www.toutiao.com/trending/7668228760780406838/"
+    },
+    {
+      "id": "evt-81000000",
+      "title": "宇树科技：8月10日打新",
+      "category": "society",
+      "hotScore": 0.6375,
+      "freshness": 1,
+      "crossSource": 1,
+      "totalScore": 0.855,
+      "sources": [
+        {
+          "channel": "toutiao",
+          "rank": 9,
+          "hot": 6483694,
+          "url": "https://www.toutiao.com/trending/7667763686765019190/"
+        },
+        {
+          "channel": "thepaper",
+          "rank": 6,
+          "hot": 0,
+          "url": "https://www.thepaper.cn/newsDetail_forward_33687840"
+        }
+      ],
+      "summary": "",
+      "url": "https://www.toutiao.com/trending/7667763686765019190/"
     },
     {
       "id": "evt-20260000",
@@ -74,25 +99,6 @@
       ],
       "summary": "",
       "url": "https://www.thepaper.cn/newsDetail_forward_33683938"
-    },
-    {
-      "id": "evt-50000000",
-      "title": "重庆彭水山体崩塌已确认51人遇难",
-      "category": "society",
-      "hotScore": 0.76,
-      "freshness": 1,
-      "crossSource": 0.6309,
-      "totalScore": 0.7933,
-      "sources": [
-        {
-          "channel": "baidu",
-          "rank": 2,
-          "hot": 0,
-          "url": "https://m.baidu.com/s?word=%E9%87%8D%E5%BA%86%E5%BD%AD%E6%B0%B4%E5%B1%B1%E4%BD%93%E5%B4%A9%E5%A1%8C%E5%B7%B2%E7%A1%AE%E8%AE%A451%E4%BA%BA%E9%81%87%E9%9A%BE&sa=fyb_news"
-        }
-      ],
-      "summary": "",
-      "url": "https://m.baidu.com/s?word=%E9%87%8D%E5%BA%86%E5%BD%AD%E6%B0%B4%E5%B1%B1%E4%BD%93%E5%B4%A9%E5%A1%8C%E5%B7%B2%E7%A1%AE%E8%AE%A451%E4%BA%BA%E9%81%87%E9%9A%BE&sa=fyb_news"
     },
     {
       "id": "evt-10000000",
@@ -155,14 +161,14 @@
       "id": "evt-sk170000",
       "title": "SK 海力士跌超 17%，创最大跌幅纪录，AI 芯片投资热潮下，芯片巨头海力士股价为啥崩了？",
       "category": "economy",
-      "hotScore": 0.6,
+      "hotScore": 0.6375,
       "freshness": 1,
       "crossSource": 0.6309,
-      "totalScore": 0.7293,
+      "totalScore": 0.7443,
       "sources": [
         {
           "channel": "zhihu",
-          "rank": 5,
+          "rank": 4,
           "hot": 0,
           "url": ""
         }
@@ -171,18 +177,37 @@
       "url": ""
     },
     {
+      "id": "evt-vs000000",
+      "title": "空调一直开vs忍着不开 谁更健康",
+      "category": "society",
+      "hotScore": 0.76,
+      "freshness": 1,
+      "crossSource": 0.6309,
+      "totalScore": 0.7933,
+      "sources": [
+        {
+          "channel": "baidu",
+          "rank": 2,
+          "hot": 0,
+          "url": "https://m.baidu.com/s?word=%E7%A9%BA%E8%B0%83%E4%B8%80%E7%9B%B4%E5%BC%80vs%E5%BF%8D%E7%9D%80%E4%B8%8D%E5%BC%80+%E8%B0%81%E6%9B%B4%E5%81%A5%E5%BA%B7&sa=fyb_news"
+        }
+      ],
+      "summary": "",
+      "url": "https://m.baidu.com/s?word=%E7%A9%BA%E8%B0%83%E4%B8%80%E7%9B%B4%E5%BC%80vs%E5%BF%8D%E7%9D%80%E4%B8%8D%E5%BC%80+%E8%B0%81%E6%9B%B4%E5%81%A5%E5%BA%B7&sa=fyb_news"
+    },
+    {
       "id": "evt-15500000",
       "title": "1.55升“哑铃矿泉水”走红 厂家回应",
       "category": "society",
       "hotScore": 0.7225,
-      "freshness": 0.9999,
+      "freshness": 1,
       "crossSource": 0.6309,
       "totalScore": 0.7783,
       "sources": [
         {
           "channel": "toutiao",
           "rank": 4,
-          "hot": 9594667,
+          "hot": 10689804,
           "url": "https://www.toutiao.com/trending/7667350103325196342/"
         }
       ],
@@ -209,61 +234,23 @@
       "url": "https://www.thepaper.cn/newsDetail_forward_33684311"
     },
     {
-      "id": "evt-vs000000",
-      "title": "空调一直开vs忍着不开 谁更健康",
+      "id": "evt-77100000",
+      "title": "77岁老人因领鸡蛋买了120多盒羊奶",
       "category": "society",
-      "hotScore": 0.72,
+      "hotScore": 0.68,
       "freshness": 1,
       "crossSource": 0.6309,
-      "totalScore": 0.7773,
-      "sources": [
-        {
-          "channel": "baidu",
-          "rank": 3,
-          "hot": 0,
-          "url": "https://m.baidu.com/s?word=%E7%A9%BA%E8%B0%83%E4%B8%80%E7%9B%B4%E5%BC%80vs%E5%BF%8D%E7%9D%80%E4%B8%8D%E5%BC%80+%E8%B0%81%E6%9B%B4%E5%81%A5%E5%BA%B7&sa=fyb_news"
-        }
-      ],
-      "summary": "",
-      "url": "https://m.baidu.com/s?word=%E7%A9%BA%E8%B0%83%E4%B8%80%E7%9B%B4%E5%BC%80vs%E5%BF%8D%E7%9D%80%E4%B8%8D%E5%BC%80+%E8%B0%81%E6%9B%B4%E5%81%A5%E5%BA%B7&sa=fyb_news"
-    },
-    {
-      "id": "evt-70000000",
-      "title": "媒体称三大运营商将于 7 月 31 日前全面取消网络代理渠道，释放了哪些行业信号？对消费者有什么影响？",
-      "category": "society",
-      "hotScore": 0.675,
-      "freshness": 1,
-      "crossSource": 0.6309,
-      "totalScore": 0.7593,
-      "sources": [
-        {
-          "channel": "zhihu",
-          "rank": 3,
-          "hot": 0,
-          "url": ""
-        }
-      ],
-      "summary": "",
-      "url": ""
-    },
-    {
-      "id": "evt-51000000",
-      "title": "重庆彭水山体崩塌致51人遇难10人失联",
-      "category": "society",
-      "hotScore": 0.6375,
-      "freshness": 0.9999,
-      "crossSource": 0.6309,
-      "totalScore": 0.7443,
+      "totalScore": 0.7613,
       "sources": [
         {
           "channel": "toutiao",
-          "rank": 6,
-          "hot": 7855449,
-          "url": "https://www.toutiao.com/trending/7668338615017016882/"
+          "rank": 5,
+          "hot": 9672534,
+          "url": "https://www.toutiao.com/trending/7667506785406156826/"
         }
       ],
       "summary": "",
-      "url": "https://www.toutiao.com/trending/7668338615017016882/"
+      "url": "https://www.toutiao.com/trending/7667506785406156826/"
     },
     {
       "id": "evt-3d000000",
@@ -285,8 +272,8 @@
       "url": ""
     },
     {
-      "id": "evt-81000000",
-      "title": "宇树科技：8月10日打新",
+      "id": "evt-10200000",
+      "title": "102岁八路军老战士武汉安逝世，解放上海时荣获“战斗英雄”",
       "category": "society",
       "hotScore": 0.595,
       "freshness": 1,
@@ -297,11 +284,30 @@
           "channel": "thepaper",
           "rank": 7,
           "hot": 0,
-          "url": "https://www.thepaper.cn/newsDetail_forward_33687840"
+          "url": "https://www.thepaper.cn/newsDetail_forward_33684599"
         }
       ],
       "summary": "",
-      "url": "https://www.thepaper.cn/newsDetail_forward_33687840"
+      "url": "https://www.thepaper.cn/newsDetail_forward_33684599"
+    },
+    {
+      "id": "evt-ipo80000",
+      "title": "宇树科技IPO时间定了 8月10日申购",
+      "category": "society",
+      "hotScore": 0.52,
+      "freshness": 1,
+      "crossSource": 0.6309,
+      "totalScore": 0.6973,
+      "sources": [
+        {
+          "channel": "baidu",
+          "rank": 8,
+          "hot": 0,
+          "url": "https://m.baidu.com/s?word=%E5%AE%87%E6%A0%91%E7%A7%91%E6%8A%80IPO%E6%97%B6%E9%97%B4%E5%AE%9A%E4%BA%86+8%E6%9C%8810%E6%97%A5%E7%94%B3%E8%B4%AD&sa=fyb_news"
+        }
+      ],
+      "summary": "",
+      "url": "https://m.baidu.com/s?word=%E5%AE%87%E6%A0%91%E7%A7%91%E6%8A%80IPO%E6%97%B6%E9%97%B4%E5%AE%9A%E4%BA%86+8%E6%9C%8810%E6%97%A5%E7%94%B3%E8%B4%AD&sa=fyb_news"
     }
   ]
 }
