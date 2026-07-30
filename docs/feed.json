@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-07-30T19:09:03.423Z",
+  "generatedAt": "2026-07-30T20:55:06.473Z",
   "fields": {
     "society": "社会",
     "economy": "经济",
@@ -18,7 +18,7 @@
         {
           "channel": "toutiao",
           "rank": 3,
-          "hot": 10161926,
+          "hot": 10603747,
           "url": "https://www.toutiao.com/trending/7668288897973194267/"
         },
         {
@@ -42,8 +42,8 @@
       "sources": [
         {
           "channel": "toutiao",
-          "rank": 5,
-          "hot": 8319881,
+          "rank": 8,
+          "hot": 6431498,
           "url": "https://www.toutiao.com/trending/7668228760780406838/"
         },
         {
@@ -55,31 +55,6 @@
       ],
       "summary": "",
       "url": "https://www.toutiao.com/trending/7668228760780406838/"
-    },
-    {
-      "id": "evt-81000000",
-      "title": "宇树科技：8月10日打新",
-      "category": "society",
-      "hotScore": 0.5525,
-      "freshness": 0.9999,
-      "crossSource": 1,
-      "totalScore": 0.821,
-      "sources": [
-        {
-          "channel": "toutiao",
-          "rank": 16,
-          "hot": 2769448,
-          "url": "https://www.toutiao.com/trending/7667763686765019190/"
-        },
-        {
-          "channel": "thepaper",
-          "rank": 8,
-          "hot": 0,
-          "url": "https://www.thepaper.cn/newsDetail_forward_33687840"
-        }
-      ],
-      "summary": "",
-      "url": "https://www.toutiao.com/trending/7667763686765019190/"
     },
     {
       "id": "evt-20260000",
@@ -99,6 +74,25 @@
       ],
       "summary": "",
       "url": "https://www.thepaper.cn/newsDetail_forward_33683938"
+    },
+    {
+      "id": "evt-50000000",
+      "title": "重庆彭水山体崩塌已确认51人遇难",
+      "category": "society",
+      "hotScore": 0.76,
+      "freshness": 1,
+      "crossSource": 0.6309,
+      "totalScore": 0.7933,
+      "sources": [
+        {
+          "channel": "baidu",
+          "rank": 2,
+          "hot": 0,
+          "url": "https://m.baidu.com/s?word=%E9%87%8D%E5%BA%86%E5%BD%AD%E6%B0%B4%E5%B1%B1%E4%BD%93%E5%B4%A9%E5%A1%8C%E5%B7%B2%E7%A1%AE%E8%AE%A451%E4%BA%BA%E9%81%87%E9%9A%BE&sa=fyb_news"
+        }
+      ],
+      "summary": "",
+      "url": "https://m.baidu.com/s?word=%E9%87%8D%E5%BA%86%E5%BD%AD%E6%B0%B4%E5%B1%B1%E4%BD%93%E5%B4%A9%E5%A1%8C%E5%B7%B2%E7%A1%AE%E8%AE%A451%E4%BA%BA%E9%81%87%E9%9A%BE&sa=fyb_news"
     },
     {
       "id": "evt-10000000",
@@ -158,42 +152,23 @@
       "url": ""
     },
     {
-      "id": "evt-15000000",
-      "title": "微软股价涨幅扩大至15%",
+      "id": "evt-sk170000",
+      "title": "SK 海力士跌超 17%，创最大跌幅纪录，AI 芯片投资热潮下，芯片巨头海力士股价为啥崩了？",
       "category": "economy",
-      "hotScore": 0.52,
+      "hotScore": 0.6,
       "freshness": 1,
       "crossSource": 0.6309,
-      "totalScore": 0.6973,
+      "totalScore": 0.7293,
       "sources": [
         {
-          "channel": "baidu",
-          "rank": 8,
+          "channel": "zhihu",
+          "rank": 5,
           "hot": 0,
-          "url": "https://m.baidu.com/s?word=%E5%BE%AE%E8%BD%AF%E8%82%A1%E4%BB%B7%E6%B6%A8%E5%B9%85%E6%89%A9%E5%A4%A7%E8%87%B315%25&sa=fyb_news"
+          "url": ""
         }
       ],
       "summary": "",
-      "url": "https://m.baidu.com/s?word=%E5%BE%AE%E8%BD%AF%E8%82%A1%E4%BB%B7%E6%B6%A8%E5%B9%85%E6%89%A9%E5%A4%A7%E8%87%B315%25&sa=fyb_news"
-    },
-    {
-      "id": "evt-50000000",
-      "title": "重庆彭水山体崩塌已确认51人遇难",
-      "category": "society",
-      "hotScore": 0.76,
-      "freshness": 1,
-      "crossSource": 0.6309,
-      "totalScore": 0.7933,
-      "sources": [
-        {
-          "channel": "baidu",
-          "rank": 2,
-          "hot": 0,
-          "url": "https://m.baidu.com/s?word=%E9%87%8D%E5%BA%86%E5%BD%AD%E6%B0%B4%E5%B1%B1%E4%BD%93%E5%B4%A9%E5%A1%8C%E5%B7%B2%E7%A1%AE%E8%AE%A451%E4%BA%BA%E9%81%87%E9%9A%BE&sa=fyb_news"
-        }
-      ],
-      "summary": "",
-      "url": "https://m.baidu.com/s?word=%E9%87%8D%E5%BA%86%E5%BD%AD%E6%B0%B4%E5%B1%B1%E4%BD%93%E5%B4%A9%E5%A1%8C%E5%B7%B2%E7%A1%AE%E8%AE%A451%E4%BA%BA%E9%81%87%E9%9A%BE&sa=fyb_news"
+      "url": ""
     },
     {
       "id": "evt-15500000",
@@ -207,7 +182,7 @@
         {
           "channel": "toutiao",
           "rank": 4,
-          "hot": 9194891,
+          "hot": 9594667,
           "url": "https://www.toutiao.com/trending/7667350103325196342/"
         }
       ],
@@ -253,8 +228,8 @@
       "url": "https://m.baidu.com/s?word=%E7%A9%BA%E8%B0%83%E4%B8%80%E7%9B%B4%E5%BC%80vs%E5%BF%8D%E7%9D%80%E4%B8%8D%E5%BC%80+%E8%B0%81%E6%9B%B4%E5%81%A5%E5%BA%B7&sa=fyb_news"
     },
     {
-      "id": "evt-15432000",
-      "title": "1.5 万机票退票仅退 432 元，曝光后获全额退款，问题出在哪？这次胜利能否撬动天价退票费规则？",
+      "id": "evt-70000000",
+      "title": "媒体称三大运营商将于 7 月 31 日前全面取消网络代理渠道，释放了哪些行业信号？对消费者有什么影响？",
       "category": "society",
       "hotScore": 0.675,
       "freshness": 1,
@@ -283,7 +258,7 @@
         {
           "channel": "toutiao",
           "rank": 6,
-          "hot": 7528140,
+          "hot": 7855449,
           "url": "https://www.toutiao.com/trending/7668338615017016882/"
         }
       ],
@@ -291,23 +266,42 @@
       "url": "https://www.toutiao.com/trending/7668338615017016882/"
     },
     {
-      "id": "evt-70000000",
-      "title": "媒体称三大运营商将于 7 月 31 日前全面取消网络代理渠道，释放了哪些行业信号？对消费者有什么影响？",
+      "id": "evt-3d000000",
+      "title": "好未来《熊猫博士》3D动画片登陆央视少儿频道",
       "category": "society",
-      "hotScore": 0.6375,
+      "hotScore": 0.63,
       "freshness": 1,
       "crossSource": 0.6309,
-      "totalScore": 0.7443,
+      "totalScore": 0.7413,
       "sources": [
         {
-          "channel": "zhihu",
-          "rank": 4,
+          "channel": "36kr",
+          "rank": 7,
           "hot": 0,
           "url": ""
         }
       ],
-      "summary": "",
+      "summary": "36氪获悉，自4月9日起，中央电视台少儿频道携手好未来旗下教育品牌熊猫博士上线3D系列动画片《熊猫博士》。与此同时，《熊猫博士》3D动画片也在美国、加拿大、俄罗斯、意大利等多个国家、地区陆续发行，并登陆Discovery探索频道等多个世界知名节目。",
       "url": ""
+    },
+    {
+      "id": "evt-81000000",
+      "title": "宇树科技：8月10日打新",
+      "category": "society",
+      "hotScore": 0.595,
+      "freshness": 1,
+      "crossSource": 0.6309,
+      "totalScore": 0.7273,
+      "sources": [
+        {
+          "channel": "thepaper",
+          "rank": 7,
+          "hot": 0,
+          "url": "https://www.thepaper.cn/newsDetail_forward_33687840"
+        }
+      ],
+      "summary": "",
+      "url": "https://www.thepaper.cn/newsDetail_forward_33687840"
     }
   ]
 }
