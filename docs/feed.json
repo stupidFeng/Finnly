@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-07-30T11:45:12.823Z",
+  "generatedAt": "2026-07-30T13:26:16.164Z",
   "fields": {
     "society": "社会",
     "economy": "经济",
@@ -8,60 +8,66 @@
   "feed": [
     {
       "id": "evt-00000000",
-      "title": "解放军两次警告日方不能自称“海军”",
+      "title": "一组数据读懂我国能源转型新趋势",
       "category": "society",
-      "hotScore": 0.8075,
+      "hotScore": 0.765,
       "freshness": 0.9999,
       "crossSource": 1,
-      "totalScore": 0.923,
+      "totalScore": 0.906,
       "sources": [
         {
           "channel": "toutiao",
-          "rank": 2,
-          "hot": 13707309,
-          "url": "https://www.toutiao.com/trending/7667674880024428570/"
+          "rank": 3,
+          "hot": 13256333,
+          "url": "https://www.toutiao.com/trending/7668288897973194267/"
         },
         {
           "channel": "baidu",
-          "rank": 3,
+          "rank": 4,
           "hot": 0,
-          "url": "https://m.baidu.com/s?word=%E8%A7%A3%E6%94%BE%E5%86%9B%E4%B8%A4%E6%AC%A1%E8%AD%A6%E5%91%8A%E6%97%A5%E6%96%B9%E4%B8%8D%E8%83%BD%E8%87%AA%E7%A7%B0%E2%80%9C%E6%B5%B7%E5%86%9B%E2%80%9D&sa=fyb_news"
+          "url": "https://m.baidu.com/s?word=%E4%B8%80%E7%BB%84%E6%95%B0%E6%8D%AE%E8%AF%BB%E6%87%82%E6%88%91%E5%9B%BD%E8%83%BD%E6%BA%90%E8%BD%AC%E5%9E%8B%E6%96%B0%E8%B6%8B%E5%8A%BF&sa=fyb_news"
         }
       ],
       "summary": "",
-      "url": "https://www.toutiao.com/trending/7667674880024428570/"
+      "url": "https://www.toutiao.com/trending/7668288897973194267/"
     },
     {
-      "id": "evt-13000000",
-      "title": "货车夫妻忘付饭钱13天后回店补27元",
+      "id": "evt-n90max00",
+      "title": "小米澎程N90 Max预售价29.99万",
       "category": "society",
-      "hotScore": 0.85,
+      "hotScore": 0.7225,
       "freshness": 0.9999,
-      "crossSource": 0.6309,
-      "totalScore": 0.8292,
+      "crossSource": 1,
+      "totalScore": 0.889,
       "sources": [
         {
           "channel": "toutiao",
-          "rank": 1,
-          "hot": 15148920,
-          "url": "https://www.toutiao.com/trending/7667878463231377471/"
+          "rank": 4,
+          "hot": 11994826,
+          "url": "https://www.toutiao.com/trending/7668228760780406838/"
+        },
+        {
+          "channel": "baidu",
+          "rank": 6,
+          "hot": 0,
+          "url": "https://m.baidu.com/s?word=%E5%B0%8F%E7%B1%B3%E6%BE%8E%E7%A8%8BN90+Max%E9%A2%84%E5%94%AE%E4%BB%B729.99%E4%B8%87&sa=fyb_news"
         }
       ],
       "summary": "",
-      "url": "https://www.toutiao.com/trending/7667878463231377471/"
+      "url": "https://www.toutiao.com/trending/7668228760780406838/"
     },
     {
       "id": "evt-20260000",
       "title": "“逐浪·共生”2026外滩新媒体年会即将举行，议程抢先看",
       "category": "society",
-      "hotScore": 0.765,
+      "hotScore": 0.8075,
       "freshness": 0.9999,
       "crossSource": 0.6309,
-      "totalScore": 0.7953,
+      "totalScore": 0.8122,
       "sources": [
         {
           "channel": "thepaper",
-          "rank": 3,
+          "rank": 2,
           "hot": 0,
           "url": "https://www.thepaper.cn/newsDetail_forward_33683938"
         }
@@ -70,30 +76,30 @@
       "url": "https://www.thepaper.cn/newsDetail_forward_33683938"
     },
     {
-      "id": "evt-50700000",
-      "title": "售价50美元7分钟售罄，从《奥德赛》爆米花桶看影院新金矿",
+      "id": "evt-11000000",
+      "title": "11岁杀鱼妹妹火了 有人专程开车光顾",
       "category": "society",
-      "hotScore": 0.7225,
+      "hotScore": 0.76,
       "freshness": 0.9999,
       "crossSource": 0.6309,
-      "totalScore": 0.7783,
+      "totalScore": 0.7932,
       "sources": [
         {
-          "channel": "thepaper",
-          "rank": 4,
+          "channel": "baidu",
+          "rank": 2,
           "hot": 0,
-          "url": "https://www.thepaper.cn/newsDetail_forward_33681062"
+          "url": "https://m.baidu.com/s?word=11%E5%B2%81%E6%9D%80%E9%B1%BC%E5%A6%B9%E5%A6%B9%E7%81%AB%E4%BA%86+%E6%9C%89%E4%BA%BA%E4%B8%93%E7%A8%8B%E5%BC%80%E8%BD%A6%E5%85%89%E9%A1%BE&sa=fyb_news"
         }
       ],
       "summary": "",
-      "url": "https://www.thepaper.cn/newsDetail_forward_33681062"
+      "url": "https://m.baidu.com/s?word=11%E5%B2%81%E6%9D%80%E9%B1%BC%E5%A6%B9%E5%A6%B9%E7%81%AB%E4%BA%86+%E6%9C%89%E4%BA%BA%E4%B8%93%E7%A8%8B%E5%BC%80%E8%BD%A6%E5%85%89%E9%A1%BE&sa=fyb_news"
     },
     {
       "id": "evt-10000000",
       "title": "中芯国际与嘉楠科技合作14nm矿机芯片，知情人士：能否量产要看行情",
       "category": "economy",
       "hotScore": 0.9,
-      "freshness": 0.9999,
+      "freshness": 1,
       "crossSource": 0.6309,
       "totalScore": 0.8493,
       "sources": [
@@ -112,7 +118,7 @@
       "title": "三大运营商年内推出5G消息",
       "category": "economy",
       "hotScore": 0.855,
-      "freshness": 0.9999,
+      "freshness": 1,
       "crossSource": 0.6309,
       "totalScore": 0.8313,
       "sources": [
@@ -131,7 +137,7 @@
       "title": "欧洲在线订餐服务Takeaway.com：外卖订单开始强劲复苏",
       "category": "economy",
       "hotScore": 0.81,
-      "freshness": 0.9999,
+      "freshness": 1,
       "crossSource": 0.6309,
       "totalScore": 0.8133,
       "sources": [
@@ -149,14 +155,14 @@
       "id": "evt-15432000",
       "title": "1.5 万机票退票仅退 432 元，曝光后获全额退款，问题出在哪？这次胜利能否撬动天价退票费规则？",
       "category": "society",
-      "hotScore": 0.7125,
+      "hotScore": 0.75,
       "freshness": 0.9999,
       "crossSource": 0.6309,
-      "totalScore": 0.7743,
+      "totalScore": 0.7892,
       "sources": [
         {
           "channel": "zhihu",
-          "rank": 2,
+          "rank": 1,
           "hot": 0,
           "url": ""
         }
@@ -165,32 +171,32 @@
       "url": ""
     },
     {
-      "id": "evt-40000000",
-      "title": "新目标：40％的人经常锻炼",
+      "id": "evt-84436000",
+      "title": "近844克黄金被扣押36年：男子申请返还被驳回，烟台中院组织质证",
       "category": "society",
-      "hotScore": 0.68,
-      "freshness": 1,
+      "hotScore": 0.7225,
+      "freshness": 0.9999,
       "crossSource": 0.6309,
-      "totalScore": 0.7613,
+      "totalScore": 0.7782,
       "sources": [
         {
-          "channel": "baidu",
+          "channel": "thepaper",
           "rank": 4,
           "hot": 0,
-          "url": "https://m.baidu.com/s?word=%E6%96%B0%E7%9B%AE%E6%A0%87%EF%BC%9A40%EF%BC%85%E7%9A%84%E4%BA%BA%E7%BB%8F%E5%B8%B8%E9%94%BB%E7%82%BC&sa=fyb_news"
+          "url": "https://www.thepaper.cn/newsDetail_forward_33684311"
         }
       ],
       "summary": "",
-      "url": "https://m.baidu.com/s?word=%E6%96%B0%E7%9B%AE%E6%A0%87%EF%BC%9A40%EF%BC%85%E7%9A%84%E4%BA%BA%E7%BB%8F%E5%B8%B8%E9%94%BB%E7%82%BC&sa=fyb_news"
+      "url": "https://www.thepaper.cn/newsDetail_forward_33684311"
     },
     {
-      "id": "evt-chatgpt0",
-      "title": "为什么 ChatGPT 已经发布 4 年了，社会总生产力纹丝不动？",
+      "id": "evt-70000000",
+      "title": "媒体称三大运营商将于 7 月 31 日前全面取消网络代理渠道，释放了哪些行业信号？对消费者有什么影响？",
       "category": "society",
       "hotScore": 0.675,
       "freshness": 0.9999,
       "crossSource": 0.6309,
-      "totalScore": 0.7593,
+      "totalScore": 0.7592,
       "sources": [
         {
           "channel": "zhihu",
@@ -203,30 +209,11 @@
       "url": ""
     },
     {
-      "id": "evt-84436000",
-      "title": "近844克黄金被扣押36年：男子申请返还被驳回，烟台中院组织质证",
-      "category": "society",
-      "hotScore": 0.6375,
-      "freshness": 0.9999,
-      "crossSource": 0.6309,
-      "totalScore": 0.7443,
-      "sources": [
-        {
-          "channel": "thepaper",
-          "rank": 6,
-          "hot": 0,
-          "url": "https://www.thepaper.cn/newsDetail_forward_33684311"
-        }
-      ],
-      "summary": "",
-      "url": "https://www.thepaper.cn/newsDetail_forward_33684311"
-    },
-    {
       "id": "evt-3d000000",
       "title": "好未来《熊猫博士》3D动画片登陆央视少儿频道",
       "category": "society",
       "hotScore": 0.63,
-      "freshness": 0.9999,
+      "freshness": 1,
       "crossSource": 0.6309,
       "totalScore": 0.7413,
       "sources": [
@@ -241,61 +228,61 @@
       "url": ""
     },
     {
-      "id": "evt-80000000",
-      "title": "雷军晒照所戴项链同款仅8.8元",
+      "id": "evt-44000000",
+      "title": "减持套现44亿元后，兆易创新实控人朱一明拟增持不低于10亿元，承诺未来12个月不再减持",
       "category": "society",
-      "hotScore": 0.6,
-      "freshness": 1,
-      "crossSource": 0.6309,
-      "totalScore": 0.7293,
-      "sources": [
-        {
-          "channel": "baidu",
-          "rank": 6,
-          "hot": 0,
-          "url": "https://m.baidu.com/s?word=%E9%9B%B7%E5%86%9B%E6%99%92%E7%85%A7%E6%89%80%E6%88%B4%E9%A1%B9%E9%93%BE%E5%90%8C%E6%AC%BE%E4%BB%858.8%E5%85%83&sa=fyb_news"
-        }
-      ],
-      "summary": "",
-      "url": "https://m.baidu.com/s?word=%E9%9B%B7%E5%86%9B%E6%99%92%E7%85%A7%E6%89%80%E6%88%B4%E9%A1%B9%E9%93%BE%E5%90%8C%E6%AC%BE%E4%BB%858.8%E5%85%83&sa=fyb_news"
-    },
-    {
-      "id": "evt-26000000",
-      "title": "香港 26 岁交易员被拘捕，挪用 5000 万港元豪赌两倍做多海力士，巨亏 1.5 亿，如何看待此事？",
-      "category": "society",
-      "hotScore": 0.6,
+      "hotScore": 0.595,
       "freshness": 0.9999,
       "crossSource": 0.6309,
-      "totalScore": 0.7293,
+      "totalScore": 0.7272,
       "sources": [
         {
-          "channel": "zhihu",
-          "rank": 5,
+          "channel": "thepaper",
+          "rank": 7,
           "hot": 0,
-          "url": ""
+          "url": "https://www.thepaper.cn/newsDetail_forward_33683617"
         }
       ],
       "summary": "",
-      "url": ""
+      "url": "https://www.thepaper.cn/newsDetail_forward_33683617"
     },
     {
-      "id": "evt-27000000",
-      "title": "“为弟追凶27年”案警方撤案",
+      "id": "evt-15000000",
+      "title": "携程通报1.5万元机票仅退432元事件",
       "category": "society",
       "hotScore": 0.56,
-      "freshness": 1,
+      "freshness": 0.9999,
       "crossSource": 0.6309,
-      "totalScore": 0.7133,
+      "totalScore": 0.7132,
       "sources": [
         {
           "channel": "baidu",
           "rank": 7,
           "hot": 0,
-          "url": "https://m.baidu.com/s?word=%E2%80%9C%E4%B8%BA%E5%BC%9F%E8%BF%BD%E5%87%B627%E5%B9%B4%E2%80%9D%E6%A1%88%E8%AD%A6%E6%96%B9%E6%92%A4%E6%A1%88&sa=fyb_news"
+          "url": "https://m.baidu.com/s?word=%E6%90%BA%E7%A8%8B%E9%80%9A%E6%8A%A51.5%E4%B8%87%E5%85%83%E6%9C%BA%E7%A5%A8%E4%BB%85%E9%80%80432%E5%85%83%E4%BA%8B%E4%BB%B6&sa=fyb_news"
         }
       ],
       "summary": "",
-      "url": "https://m.baidu.com/s?word=%E2%80%9C%E4%B8%BA%E5%BC%9F%E8%BF%BD%E5%87%B627%E5%B9%B4%E2%80%9D%E6%A1%88%E8%AD%A6%E6%96%B9%E6%92%A4%E6%A1%88&sa=fyb_news"
+      "url": "https://m.baidu.com/s?word=%E6%90%BA%E7%A8%8B%E9%80%9A%E6%8A%A51.5%E4%B8%87%E5%85%83%E6%9C%BA%E7%A5%A8%E4%BB%85%E9%80%80432%E5%85%83%E4%BA%8B%E4%BB%B6&sa=fyb_news"
+    },
+    {
+      "id": "evt-13000000",
+      "title": "货车夫妻忘付饭钱13天后回店补27元",
+      "category": "society",
+      "hotScore": 0.5525,
+      "freshness": 0.9999,
+      "crossSource": 0.6309,
+      "totalScore": 0.7102,
+      "sources": [
+        {
+          "channel": "toutiao",
+          "rank": 8,
+          "hot": 8040372,
+          "url": "https://www.toutiao.com/trending/7667878463231377471/"
+        }
+      ],
+      "summary": "",
+      "url": "https://www.toutiao.com/trending/7667878463231377471/"
     }
   ]
 }
