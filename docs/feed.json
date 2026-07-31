@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-07-31T19:07:26.193Z",
+  "generatedAt": "2026-07-31T20:53:14.616Z",
   "fields": {
     "society": "社会",
     "economy": "经济",
@@ -11,14 +11,14 @@
       "title": "50℃高温来了",
       "category": "society",
       "hotScore": 0.85,
-      "freshness": 0.9999,
-      "crossSource": 0.6309,
-      "totalScore": 0.8293,
+      "freshness": 1,
+      "crossSource": 1,
+      "totalScore": 0.94,
       "sources": [
         {
           "channel": "toutiao",
           "rank": 1,
-          "hot": 12912799,
+          "hot": 13441620,
           "url": "https://www.toutiao.com/trending/7668537827139780671/"
         }
       ],
@@ -31,8 +31,8 @@
       "category": "society",
       "hotScore": 0.85,
       "freshness": 1,
-      "crossSource": 0.6309,
-      "totalScore": 0.8293,
+      "crossSource": 1,
+      "totalScore": 0.94,
       "sources": [
         {
           "channel": "thepaper",
@@ -45,13 +45,13 @@
       "url": "https://www.thepaper.cn/newsDetail_forward_33688472"
     },
     {
-      "id": "evt-deepseekv4fl",
-      "title": "DeepSeek V4 flash 正式版发布，有哪些亮点值得关注？",
+      "id": "evt-96000000",
+      "title": "至少 96 个足协抵制国际足联主席因凡蒂诺，他为什么犯了众怒？会被弹劾下台吗？",
       "category": "society",
       "hotScore": 0.75,
-      "freshness": 0.9999,
-      "crossSource": 0.6309,
-      "totalScore": 0.7893,
+      "freshness": 1,
+      "crossSource": 1,
+      "totalScore": 0.9,
       "sources": [
         {
           "channel": "zhihu",
@@ -67,15 +67,15 @@
       "id": "evt-054b0000",
       "title": "054B护卫舰首次亮相黄岩岛",
       "category": "society",
-      "hotScore": 0.68,
-      "freshness": 0.9999,
-      "crossSource": 0.6309,
-      "totalScore": 0.7613,
+      "hotScore": 0.7225,
+      "freshness": 1,
+      "crossSource": 1,
+      "totalScore": 0.889,
       "sources": [
         {
           "channel": "toutiao",
-          "rank": 5,
-          "hot": 8655708,
+          "rank": 4,
+          "hot": 9957797,
           "url": "https://www.toutiao.com/trending/7667567988811776036/"
         }
       ],
@@ -88,8 +88,8 @@
       "category": "economy",
       "hotScore": 0.9,
       "freshness": 1,
-      "crossSource": 0.6309,
-      "totalScore": 0.8493,
+      "crossSource": 1,
+      "totalScore": 0.96,
       "sources": [
         {
           "channel": "36kr",
@@ -107,8 +107,8 @@
       "category": "economy",
       "hotScore": 0.855,
       "freshness": 1,
-      "crossSource": 0.6309,
-      "totalScore": 0.8313,
+      "crossSource": 1,
+      "totalScore": 0.942,
       "sources": [
         {
           "channel": "36kr",
@@ -126,8 +126,8 @@
       "category": "economy",
       "hotScore": 0.81,
       "freshness": 1,
-      "crossSource": 0.6309,
-      "totalScore": 0.8133,
+      "crossSource": 1,
+      "totalScore": 0.924,
       "sources": [
         {
           "channel": "36kr",
@@ -140,51 +140,13 @@
       "url": ""
     },
     {
-      "id": "evt-96000000",
-      "title": "至少 96 个足协抵制国际足联主席因凡蒂诺，他为什么犯了众怒？会被弹劾下台吗？",
-      "category": "society",
-      "hotScore": 0.675,
-      "freshness": 0.9999,
-      "crossSource": 0.6309,
-      "totalScore": 0.7593,
-      "sources": [
-        {
-          "channel": "zhihu",
-          "rank": 3,
-          "hot": 0,
-          "url": ""
-        }
-      ],
-      "summary": "",
-      "url": ""
-    },
-    {
-      "id": "evt-12306000",
-      "title": "12306回应高铁为何会提前7分钟发车",
-      "category": "society",
-      "hotScore": 0.6375,
-      "freshness": 0.9999,
-      "crossSource": 0.6309,
-      "totalScore": 0.7443,
-      "sources": [
-        {
-          "channel": "toutiao",
-          "rank": 6,
-          "hot": 7832008,
-          "url": "https://www.toutiao.com/trending/7668642504205467691/"
-        }
-      ],
-      "summary": "",
-      "url": "https://www.toutiao.com/trending/7668642504205467691/"
-    },
-    {
       "id": "evt-3d000000",
       "title": "好未来《熊猫博士》3D动画片登陆央视少儿频道",
       "category": "society",
       "hotScore": 0.63,
       "freshness": 1,
-      "crossSource": 0.6309,
-      "totalScore": 0.7413,
+      "crossSource": 1,
+      "totalScore": 0.852,
       "sources": [
         {
           "channel": "36kr",
@@ -202,8 +164,8 @@
       "category": "society",
       "hotScore": 0.6,
       "freshness": 1,
-      "crossSource": 0.6309,
-      "totalScore": 0.7293,
+      "crossSource": 1,
+      "totalScore": 0.84,
       "sources": [
         {
           "channel": "baidu",
@@ -216,13 +178,13 @@
       "url": "https://m.baidu.com/s?word=24%E5%B0%8F%E6%97%B6%E5%86%85%E8%BF%914.9%E4%B8%87%E7%A7%BB%E6%B0%91%E8%BF%9B%E5%85%A5%E8%A5%BF%E7%8F%AD%E7%89%99%E4%BC%91%E8%BE%BE&sa=fyb_news"
     },
     {
-      "id": "evt-deepseekv4",
-      "title": "DeepSeek V4 正式版发布，使用体验如何？和降价后的 GPT5.6 luna 对比谁更有优势？",
+      "id": "evt-deepseekv4fl",
+      "title": "DeepSeek V4 flash 正式版发布，有哪些亮点值得关注？",
       "category": "society",
       "hotScore": 0.6,
-      "freshness": 0.9999,
-      "crossSource": 0.6309,
-      "totalScore": 0.7293,
+      "freshness": 1,
+      "crossSource": 1,
+      "totalScore": 0.84,
       "sources": [
         {
           "channel": "zhihu",
@@ -235,29 +197,42 @@
       "url": ""
     },
     {
-      "id": "evt-22000000",
-      "title": "陈天桥2.2亿“抄底”上海酒店",
+      "id": "evt-12306000",
+      "title": "12306回应高铁为何会提前7分钟发车",
       "category": "society",
-      "hotScore": 0.2975,
-      "freshness": 0.9999,
+      "hotScore": 0.595,
+      "freshness": 1,
       "crossSource": 1,
-      "totalScore": 0.719,
+      "totalScore": 0.838,
       "sources": [
         {
           "channel": "toutiao",
-          "rank": 14,
-          "hot": 3519148,
-          "url": "https://www.toutiao.com/trending/7667817500806086710/"
-        },
+          "rank": 7,
+          "hot": 7376917,
+          "url": "https://www.toutiao.com/trending/7668642504205467691/"
+        }
+      ],
+      "summary": "",
+      "url": "https://www.toutiao.com/trending/7668642504205467691/"
+    },
+    {
+      "id": "evt-22000000",
+      "title": "陈天桥2.2亿“抄底”上海酒店",
+      "category": "society",
+      "hotScore": 0.52,
+      "freshness": 1,
+      "crossSource": 1,
+      "totalScore": 0.808,
+      "sources": [
         {
           "channel": "baidu",
-          "rank": 18,
+          "rank": 8,
           "hot": 0,
           "url": "https://m.baidu.com/s?word=%E9%99%88%E5%A4%A9%E6%A1%A52.2%E4%BA%BF%E2%80%9C%E6%8A%84%E5%BA%95%E2%80%9D%E4%B8%8A%E6%B5%B7%E9%85%92%E5%BA%97&sa=fyb_news"
         }
       ],
       "summary": "",
-      "url": "https://www.toutiao.com/trending/7667817500806086710/"
+      "url": "https://m.baidu.com/s?word=%E9%99%88%E5%A4%A9%E6%A1%A52.2%E4%BA%BF%E2%80%9C%E6%8A%84%E5%BA%95%E2%80%9D%E4%B8%8A%E6%B5%B7%E9%85%92%E5%BA%97&sa=fyb_news"
     }
   ]
 }
