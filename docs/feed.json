@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-07-31T11:52:02.364Z",
+  "generatedAt": "2026-07-31T13:39:35.245Z",
   "fields": {
     "society": "社会",
     "economy": "经济",
@@ -10,20 +10,20 @@
       "id": "evt-40000000",
       "title": "取消午休4点下班你同意吗",
       "category": "society",
-      "hotScore": 0.85,
-      "freshness": 1,
+      "hotScore": 0.8075,
+      "freshness": 0.9999,
       "crossSource": 1,
-      "totalScore": 0.94,
+      "totalScore": 0.923,
       "sources": [
         {
           "channel": "toutiao",
-          "rank": 1,
-          "hot": 9912027,
+          "rank": 2,
+          "hot": 9290467,
           "url": "https://www.toutiao.com/trending/7668571447275814962/"
         },
         {
           "channel": "baidu",
-          "rank": 3,
+          "rank": 8,
           "hot": 0,
           "url": "https://m.baidu.com/s?word=%E5%8F%96%E6%B6%88%E5%8D%88%E4%BC%914%E7%82%B9%E4%B8%8B%E7%8F%AD%E4%BD%A0%E5%90%8C%E6%84%8F%E5%90%97&sa=fyb_news"
         }
@@ -33,22 +33,22 @@
     },
     {
       "id": "evt-00000000",
-      "title": "重庆彭水山体崩塌灾害找到并确认51人遇难，仍有10名失联人员",
+      "title": "退役军人事务部向广大退役军人送祝福",
       "category": "society",
       "hotScore": 0.85,
-      "freshness": 1,
+      "freshness": 0.9999,
       "crossSource": 0.6309,
       "totalScore": 0.8293,
       "sources": [
         {
-          "channel": "thepaper",
+          "channel": "toutiao",
           "rank": 1,
-          "hot": 0,
-          "url": "https://www.thepaper.cn/newsDetail_forward_33688077"
+          "hot": 10267554,
+          "url": "https://www.toutiao.com/trending/7668247104610975787/"
         }
       ],
       "summary": "",
-      "url": "https://www.thepaper.cn/newsDetail_forward_33688077"
+      "url": "https://www.toutiao.com/trending/7668247104610975787/"
     },
     {
       "id": "evt-81000000",
@@ -146,30 +146,30 @@
       "url": ""
     },
     {
-      "id": "evt-52000000",
-      "title": "半年多急涨急跌52次，韩国股市到底怎么了？",
+      "id": "evt-73100000",
+      "title": "7 月 31 日长鑫科技盘中涨超 13%，总市值突破 4 万亿，还会持续上涨吗？",
       "category": "economy",
-      "hotScore": 0.765,
-      "freshness": 1,
+      "hotScore": 0.6,
+      "freshness": 0.9999,
       "crossSource": 0.6309,
-      "totalScore": 0.7953,
+      "totalScore": 0.7293,
       "sources": [
         {
-          "channel": "thepaper",
-          "rank": 3,
+          "channel": "zhihu",
+          "rank": 5,
           "hot": 0,
-          "url": "https://www.thepaper.cn/newsDetail_forward_33671320"
+          "url": ""
         }
       ],
       "summary": "",
-      "url": "https://www.thepaper.cn/newsDetail_forward_33671320"
+      "url": ""
     },
     {
       "id": "evt-deepseekv4fl",
       "title": "DeepSeek V4 flash 正式版发布，有哪些亮点值得关注？",
       "category": "society",
       "hotScore": 0.75,
-      "freshness": 1,
+      "freshness": 0.9999,
       "crossSource": 0.6309,
       "totalScore": 0.7893,
       "sources": [
@@ -184,99 +184,23 @@
       "url": ""
     },
     {
-      "id": "evt-70000000",
-      "title": "马航飞行员偷运7万粒摇头丸被抓",
-      "category": "society",
-      "hotScore": 0.7225,
-      "freshness": 1,
-      "crossSource": 0.6309,
-      "totalScore": 0.7783,
-      "sources": [
-        {
-          "channel": "toutiao",
-          "rank": 4,
-          "hot": 7343010,
-          "url": "https://www.toutiao.com/trending/7668605222637436954/"
-        }
-      ],
-      "summary": "",
-      "url": "https://www.toutiao.com/trending/7668605222637436954/"
-    },
-    {
-      "id": "evt-60000000",
-      "title": "超60城优化公积金政策",
-      "category": "society",
-      "hotScore": 0.68,
-      "freshness": 1,
-      "crossSource": 0.6309,
-      "totalScore": 0.7613,
-      "sources": [
-        {
-          "channel": "baidu",
-          "rank": 4,
-          "hot": 0,
-          "url": "https://m.baidu.com/s?word=%E8%B6%8560%E5%9F%8E%E4%BC%98%E5%8C%96%E5%85%AC%E7%A7%AF%E9%87%91%E6%94%BF%E7%AD%96&sa=fyb_news"
-        }
-      ],
-      "summary": "",
-      "url": "https://m.baidu.com/s?word=%E8%B6%8560%E5%9F%8E%E4%BC%98%E5%8C%96%E5%85%AC%E7%A7%AF%E9%87%91%E6%94%BF%E7%AD%96&sa=fyb_news"
-    },
-    {
       "id": "evt-054b0000",
       "title": "054B护卫舰首次亮相黄岩岛",
       "category": "society",
       "hotScore": 0.68,
-      "freshness": 1,
+      "freshness": 0.9999,
       "crossSource": 0.6309,
       "totalScore": 0.7613,
       "sources": [
         {
           "channel": "toutiao",
           "rank": 5,
-          "hot": 6644230,
+          "hot": 6882547,
           "url": "https://www.toutiao.com/trending/7667567988811776036/"
         }
       ],
       "summary": "",
       "url": "https://www.toutiao.com/trending/7667567988811776036/"
-    },
-    {
-      "id": "evt-50000000",
-      "title": "50℃高温来了",
-      "category": "society",
-      "hotScore": 0.6375,
-      "freshness": 1,
-      "crossSource": 0.6309,
-      "totalScore": 0.7443,
-      "sources": [
-        {
-          "channel": "toutiao",
-          "rank": 6,
-          "hot": 6011948,
-          "url": "https://www.toutiao.com/trending/7668537827139780671/"
-        }
-      ],
-      "summary": "",
-      "url": "https://www.toutiao.com/trending/7668537827139780671/"
-    },
-    {
-      "id": "evt-73100000",
-      "title": "7 月 31 日长鑫科技盘中涨超 13%，总市值突破 4 万亿，还会持续上涨吗？",
-      "category": "economy",
-      "hotScore": 0.6375,
-      "freshness": 1,
-      "crossSource": 0.6309,
-      "totalScore": 0.7443,
-      "sources": [
-        {
-          "channel": "zhihu",
-          "rank": 4,
-          "hot": 0,
-          "url": ""
-        }
-      ],
-      "summary": "",
-      "url": ""
     },
     {
       "id": "evt-3d000000",
@@ -295,6 +219,63 @@
         }
       ],
       "summary": "36氪获悉，自4月9日起，中央电视台少儿频道携手好未来旗下教育品牌熊猫博士上线3D系列动画片《熊猫博士》。与此同时，《熊猫博士》3D动画片也在美国、加拿大、俄罗斯、意大利等多个国家、地区陆续发行，并登陆Discovery探索频道等多个世界知名节目。",
+      "url": ""
+    },
+    {
+      "id": "evt-12000000",
+      "title": "信用卡三年少了1.2亿张",
+      "category": "society",
+      "hotScore": 0.6,
+      "freshness": 1,
+      "crossSource": 0.6309,
+      "totalScore": 0.7293,
+      "sources": [
+        {
+          "channel": "baidu",
+          "rank": 6,
+          "hot": 0,
+          "url": "https://m.baidu.com/s?word=%E4%BF%A1%E7%94%A8%E5%8D%A1%E4%B8%89%E5%B9%B4%E5%B0%91%E4%BA%861.2%E4%BA%BF%E5%BC%A0&sa=fyb_news"
+        }
+      ],
+      "summary": "",
+      "url": "https://m.baidu.com/s?word=%E4%BF%A1%E7%94%A8%E5%8D%A1%E4%B8%89%E5%B9%B4%E5%B0%91%E4%BA%861.2%E4%BA%BF%E5%BC%A0&sa=fyb_news"
+    },
+    {
+      "id": "evt-72000000",
+      "title": "72岁董明珠打卡成都太古里",
+      "category": "society",
+      "hotScore": 0.595,
+      "freshness": 0.9999,
+      "crossSource": 0.6309,
+      "totalScore": 0.7273,
+      "sources": [
+        {
+          "channel": "toutiao",
+          "rank": 7,
+          "hot": 5634953,
+          "url": "https://www.toutiao.com/trending/7668101451247304747/"
+        }
+      ],
+      "summary": "",
+      "url": "https://www.toutiao.com/trending/7668101451247304747/"
+    },
+    {
+      "id": "evt-96000000",
+      "title": "至少 96 个足协抵制国际足联主席因凡蒂诺，他为什么犯了众怒？会被弹劾下台吗？",
+      "category": "society",
+      "hotScore": 0.5625,
+      "freshness": 0.9999,
+      "crossSource": 0.6309,
+      "totalScore": 0.7143,
+      "sources": [
+        {
+          "channel": "zhihu",
+          "rank": 6,
+          "hot": 0,
+          "url": ""
+        }
+      ],
+      "summary": "",
       "url": ""
     }
   ]
