@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-07-31T05:25:15.748Z",
+  "generatedAt": "2026-07-31T08:33:33.062Z",
   "fields": {
     "society": "社会",
     "economy": "经济",
@@ -7,27 +7,46 @@
   },
   "feed": [
     {
-      "id": "evt-24000000",
-      "title": "今晚24时油价将调整",
+      "id": "evt-50000000",
+      "title": "50℃高温来了",
       "category": "society",
       "hotScore": 0.85,
-      "freshness": 0.9999,
+      "freshness": 1,
       "crossSource": 0.6309,
       "totalScore": 0.8293,
       "sources": [
         {
           "channel": "toutiao",
           "rank": 1,
-          "hot": 17256389,
-          "url": "https://www.toutiao.com/trending/7667521642420011017/"
+          "hot": 20113316,
+          "url": "https://www.toutiao.com/trending/7668537827139780671/"
         }
       ],
       "summary": "",
-      "url": "https://www.toutiao.com/trending/7667521642420011017/"
+      "url": "https://www.toutiao.com/trending/7668537827139780671/"
     },
     {
-      "id": "evt-20260000",
-      "title": "“逐浪·共生”2026外滩新媒体年会即将举行，议程抢先看",
+      "id": "evt-00000000",
+      "title": "重庆彭水山体崩塌灾害找到并确认51人遇难，仍有10名失联人员",
+      "category": "society",
+      "hotScore": 0.85,
+      "freshness": 1,
+      "crossSource": 0.6309,
+      "totalScore": 0.8293,
+      "sources": [
+        {
+          "channel": "thepaper",
+          "rank": 1,
+          "hot": 0,
+          "url": "https://www.thepaper.cn/newsDetail_forward_33688077"
+        }
+      ],
+      "summary": "",
+      "url": "https://www.thepaper.cn/newsDetail_forward_33688077"
+    },
+    {
+      "id": "evt-81000000",
+      "title": "宇树科技：8月10日打新",
       "category": "society",
       "hotScore": 0.8075,
       "freshness": 1,
@@ -38,74 +57,30 @@
           "channel": "thepaper",
           "rank": 2,
           "hot": 0,
-          "url": "https://www.thepaper.cn/newsDetail_forward_33683938"
+          "url": "https://www.thepaper.cn/newsDetail_forward_33687840"
         }
       ],
       "summary": "",
-      "url": "https://www.thepaper.cn/newsDetail_forward_33683938"
+      "url": "https://www.thepaper.cn/newsDetail_forward_33687840"
     },
     {
-      "id": "evt-00000000",
-      "title": "一组数据读懂我国能源转型新趋势",
+      "id": "evt-50c00000",
+      "title": "地球正在发烧 50°C高温来了",
       "category": "society",
-      "hotScore": 0.765,
-      "freshness": 0.9999,
+      "hotScore": 0.76,
+      "freshness": 1,
       "crossSource": 0.6309,
-      "totalScore": 0.7953,
+      "totalScore": 0.7933,
       "sources": [
-        {
-          "channel": "toutiao",
-          "rank": 3,
-          "hot": 14128337,
-          "url": "https://www.toutiao.com/trending/7668288897973194267/"
-        }
-      ],
-      "summary": "",
-      "url": "https://www.toutiao.com/trending/7668288897973194267/"
-    },
-    {
-      "id": "evt-37000000",
-      "title": "曝《流浪地球 3》导演版素材 750 分钟，公映版 125 分钟，郭帆称「我也不知道时长」，哪些看点值得期待？",
-      "category": "society",
-      "hotScore": 0.75,
-      "freshness": 0.9999,
-      "crossSource": 0.6309,
-      "totalScore": 0.7893,
-      "sources": [
-        {
-          "channel": "zhihu",
-          "rank": 1,
-          "hot": 0,
-          "url": ""
-        }
-      ],
-      "summary": "",
-      "url": ""
-    },
-    {
-      "id": "evt-40000000",
-      "title": "长鑫科技市值突破4万亿",
-      "category": "economy",
-      "hotScore": 0.8075,
-      "freshness": 0.9999,
-      "crossSource": 1,
-      "totalScore": 0.923,
-      "sources": [
-        {
-          "channel": "toutiao",
-          "rank": 2,
-          "hot": 15614227,
-          "url": "https://www.toutiao.com/trending/7668102382697447470/"
-        },
         {
           "channel": "baidu",
-          "rank": 8,
+          "rank": 2,
           "hot": 0,
-          "url": "https://m.baidu.com/s?word=%E9%95%BF%E9%91%AB%E7%A7%91%E6%8A%80%E5%B8%82%E5%80%BC%E7%AA%81%E7%A0%B44%E4%B8%87%E4%BA%BF&sa=fyb_news"
+          "url": "https://m.baidu.com/s?word=%E5%9C%B0%E7%90%83%E6%AD%A3%E5%9C%A8%E5%8F%91%E7%83%A7+50%C2%B0C%E9%AB%98%E6%B8%A9%E6%9D%A5%E4%BA%86&sa=fyb_news"
         }
       ],
       "summary": "",
-      "url": "https://www.toutiao.com/trending/7668102382697447470/"
+      "url": "https://m.baidu.com/s?word=%E5%9C%B0%E7%90%83%E6%AD%A3%E5%9C%A8%E5%8F%91%E7%83%A7+50%C2%B0C%E9%AB%98%E6%B8%A9%E6%9D%A5%E4%BA%86&sa=fyb_news"
     },
     {
       "id": "evt-10000000",
@@ -165,8 +140,46 @@
       "url": ""
     },
     {
-      "id": "evt-80000000",
-      "title": "8月一批新规将实施",
+      "id": "evt-52000000",
+      "title": "半年多急涨急跌52次，韩国股市到底怎么了？",
+      "category": "economy",
+      "hotScore": 0.765,
+      "freshness": 1,
+      "crossSource": 0.6309,
+      "totalScore": 0.7953,
+      "sources": [
+        {
+          "channel": "thepaper",
+          "rank": 3,
+          "hot": 0,
+          "url": "https://www.thepaper.cn/newsDetail_forward_33671320"
+        }
+      ],
+      "summary": "",
+      "url": "https://www.thepaper.cn/newsDetail_forward_33671320"
+    },
+    {
+      "id": "evt-deepseekv4fl",
+      "title": "DeepSeek V4 flash 正式版发布，有哪些亮点值得关注？",
+      "category": "society",
+      "hotScore": 0.75,
+      "freshness": 1,
+      "crossSource": 0.6309,
+      "totalScore": 0.7893,
+      "sources": [
+        {
+          "channel": "zhihu",
+          "rank": 1,
+          "hot": 0,
+          "url": ""
+        }
+      ],
+      "summary": "",
+      "url": ""
+    },
+    {
+      "id": "evt-60000000",
+      "title": "超60城优化公积金政策",
       "category": "society",
       "hotScore": 0.68,
       "freshness": 1,
@@ -177,18 +190,18 @@
           "channel": "baidu",
           "rank": 4,
           "hot": 0,
-          "url": "https://m.baidu.com/s?word=8%E6%9C%88%E4%B8%80%E6%89%B9%E6%96%B0%E8%A7%84%E5%B0%86%E5%AE%9E%E6%96%BD&sa=fyb_news"
+          "url": "https://m.baidu.com/s?word=%E8%B6%8560%E5%9F%8E%E4%BC%98%E5%8C%96%E5%85%AC%E7%A7%AF%E9%87%91%E6%94%BF%E7%AD%96&sa=fyb_news"
         }
       ],
       "summary": "",
-      "url": "https://m.baidu.com/s?word=8%E6%9C%88%E4%B8%80%E6%89%B9%E6%96%B0%E8%A7%84%E5%B0%86%E5%AE%9E%E6%96%BD&sa=fyb_news"
+      "url": "https://m.baidu.com/s?word=%E8%B6%8560%E5%9F%8E%E4%BC%98%E5%8C%96%E5%85%AC%E7%A7%AF%E9%87%91%E6%94%BF%E7%AD%96&sa=fyb_news"
     },
     {
-      "id": "evt-35000000",
-      "title": "保姆拐走婴儿 35 年为何仅获刑三年？这一判决是不是太轻了？",
+      "id": "evt-37000000",
+      "title": "曝《流浪地球 3》导演版素材 750 分钟，公映版 125 分钟，郭帆称「我也不知道时长」，哪些看点值得期待？",
       "category": "society",
       "hotScore": 0.675,
-      "freshness": 0.9999,
+      "freshness": 1,
       "crossSource": 0.6309,
       "totalScore": 0.7593,
       "sources": [
@@ -203,27 +216,8 @@
       "url": ""
     },
     {
-      "id": "evt-ai000000",
-      "title": "媒体曝因 AI 裁员企业超半数承认决策失误，是真的吗？为啥这些企业光速反悔了？AI 裁员浪潮结束了吗？",
-      "category": "society",
-      "hotScore": 0.6375,
-      "freshness": 0.9999,
-      "crossSource": 0.6309,
-      "totalScore": 0.7443,
-      "sources": [
-        {
-          "channel": "zhihu",
-          "rank": 4,
-          "hot": 0,
-          "url": ""
-        }
-      ],
-      "summary": "",
-      "url": ""
-    },
-    {
-      "id": "evt-81000000",
-      "title": "宇树科技：8月10日打新",
+      "id": "evt-054b0000",
+      "title": "054B护卫舰首次亮相黄岩岛",
       "category": "society",
       "hotScore": 0.6375,
       "freshness": 1,
@@ -231,14 +225,14 @@
       "totalScore": 0.7443,
       "sources": [
         {
-          "channel": "thepaper",
+          "channel": "toutiao",
           "rank": 6,
-          "hot": 0,
-          "url": "https://www.thepaper.cn/newsDetail_forward_33687840"
+          "hot": 12199343,
+          "url": "https://www.toutiao.com/trending/7667567988811776036/"
         }
       ],
       "summary": "",
-      "url": "https://www.thepaper.cn/newsDetail_forward_33687840"
+      "url": "https://www.toutiao.com/trending/7667567988811776036/"
     },
     {
       "id": "evt-3d000000",
@@ -260,8 +254,8 @@
       "url": ""
     },
     {
-      "id": "evt-15500000",
-      "title": "1.55升“哑铃矿泉水”火了 单瓶8元",
+      "id": "evt-c1600000",
+      "title": "C罗晒与16岁儿子肌肉合照",
       "category": "society",
       "hotScore": 0.6,
       "freshness": 1,
@@ -272,30 +266,30 @@
           "channel": "baidu",
           "rank": 6,
           "hot": 0,
-          "url": "https://m.baidu.com/s?word=1.55%E5%8D%87%E2%80%9C%E5%93%91%E9%93%83%E7%9F%BF%E6%B3%89%E6%B0%B4%E2%80%9D%E7%81%AB%E4%BA%86+%E5%8D%95%E7%93%B68%E5%85%83&sa=fyb_news"
+          "url": "https://m.baidu.com/s?word=C%E7%BD%97%E6%99%92%E4%B8%8E16%E5%B2%81%E5%84%BF%E5%AD%90%E8%82%8C%E8%82%89%E5%90%88%E7%85%A7&sa=fyb_news"
         }
       ],
       "summary": "",
-      "url": "https://m.baidu.com/s?word=1.55%E5%8D%87%E2%80%9C%E5%93%91%E9%93%83%E7%9F%BF%E6%B3%89%E6%B0%B4%E2%80%9D%E7%81%AB%E4%BA%86+%E5%8D%95%E7%93%B68%E5%85%83&sa=fyb_news"
+      "url": "https://m.baidu.com/s?word=C%E7%BD%97%E6%99%92%E4%B8%8E16%E5%B2%81%E5%84%BF%E5%AD%90%E8%82%8C%E8%82%89%E5%90%88%E7%85%A7&sa=fyb_news"
     },
     {
-      "id": "evt-52000000",
-      "title": "半年多急涨急跌52次，韩国股市到底怎么了？",
+      "id": "evt-73100000",
+      "title": "7 月 31 日长鑫科技盘中涨超 13%，总市值突破 4 万亿，还会持续上涨吗？",
       "category": "economy",
-      "hotScore": 0.595,
+      "hotScore": 0.5625,
       "freshness": 1,
       "crossSource": 0.6309,
-      "totalScore": 0.7273,
+      "totalScore": 0.7143,
       "sources": [
         {
-          "channel": "thepaper",
-          "rank": 7,
+          "channel": "zhihu",
+          "rank": 6,
           "hot": 0,
-          "url": "https://www.thepaper.cn/newsDetail_forward_33671320"
+          "url": ""
         }
       ],
       "summary": "",
-      "url": "https://www.thepaper.cn/newsDetail_forward_33671320"
+      "url": ""
     }
   ]
 }
