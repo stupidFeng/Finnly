@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-07-31T08:33:33.062Z",
+  "generatedAt": "2026-07-31T11:52:02.364Z",
   "fields": {
     "society": "社会",
     "economy": "经济",
@@ -7,23 +7,29 @@
   },
   "feed": [
     {
-      "id": "evt-50000000",
-      "title": "50℃高温来了",
+      "id": "evt-40000000",
+      "title": "取消午休4点下班你同意吗",
       "category": "society",
       "hotScore": 0.85,
       "freshness": 1,
-      "crossSource": 0.6309,
-      "totalScore": 0.8293,
+      "crossSource": 1,
+      "totalScore": 0.94,
       "sources": [
         {
           "channel": "toutiao",
           "rank": 1,
-          "hot": 20113316,
-          "url": "https://www.toutiao.com/trending/7668537827139780671/"
+          "hot": 9912027,
+          "url": "https://www.toutiao.com/trending/7668571447275814962/"
+        },
+        {
+          "channel": "baidu",
+          "rank": 3,
+          "hot": 0,
+          "url": "https://m.baidu.com/s?word=%E5%8F%96%E6%B6%88%E5%8D%88%E4%BC%914%E7%82%B9%E4%B8%8B%E7%8F%AD%E4%BD%A0%E5%90%8C%E6%84%8F%E5%90%97&sa=fyb_news"
         }
       ],
       "summary": "",
-      "url": "https://www.toutiao.com/trending/7668537827139780671/"
+      "url": "https://www.toutiao.com/trending/7668571447275814962/"
     },
     {
       "id": "evt-00000000",
@@ -64,8 +70,8 @@
       "url": "https://www.thepaper.cn/newsDetail_forward_33687840"
     },
     {
-      "id": "evt-50c00000",
-      "title": "地球正在发烧 50°C高温来了",
+      "id": "evt-17000000",
+      "title": "台风白海豚已达17级 可能直奔中国",
       "category": "society",
       "hotScore": 0.76,
       "freshness": 1,
@@ -76,11 +82,11 @@
           "channel": "baidu",
           "rank": 2,
           "hot": 0,
-          "url": "https://m.baidu.com/s?word=%E5%9C%B0%E7%90%83%E6%AD%A3%E5%9C%A8%E5%8F%91%E7%83%A7+50%C2%B0C%E9%AB%98%E6%B8%A9%E6%9D%A5%E4%BA%86&sa=fyb_news"
+          "url": "https://m.baidu.com/s?word=%E5%8F%B0%E9%A3%8E%E7%99%BD%E6%B5%B7%E8%B1%9A%E5%B7%B2%E8%BE%BE17%E7%BA%A7+%E5%8F%AF%E8%83%BD%E7%9B%B4%E5%A5%94%E4%B8%AD%E5%9B%BD&sa=fyb_news"
         }
       ],
       "summary": "",
-      "url": "https://m.baidu.com/s?word=%E5%9C%B0%E7%90%83%E6%AD%A3%E5%9C%A8%E5%8F%91%E7%83%A7+50%C2%B0C%E9%AB%98%E6%B8%A9%E6%9D%A5%E4%BA%86&sa=fyb_news"
+      "url": "https://m.baidu.com/s?word=%E5%8F%B0%E9%A3%8E%E7%99%BD%E6%B5%B7%E8%B1%9A%E5%B7%B2%E8%BE%BE17%E7%BA%A7+%E5%8F%AF%E8%83%BD%E7%9B%B4%E5%A5%94%E4%B8%AD%E5%9B%BD&sa=fyb_news"
     },
     {
       "id": "evt-10000000",
@@ -178,6 +184,25 @@
       "url": ""
     },
     {
+      "id": "evt-70000000",
+      "title": "马航飞行员偷运7万粒摇头丸被抓",
+      "category": "society",
+      "hotScore": 0.7225,
+      "freshness": 1,
+      "crossSource": 0.6309,
+      "totalScore": 0.7783,
+      "sources": [
+        {
+          "channel": "toutiao",
+          "rank": 4,
+          "hot": 7343010,
+          "url": "https://www.toutiao.com/trending/7668605222637436954/"
+        }
+      ],
+      "summary": "",
+      "url": "https://www.toutiao.com/trending/7668605222637436954/"
+    },
+    {
       "id": "evt-60000000",
       "title": "超60城优化公积金政策",
       "category": "society",
@@ -197,27 +222,27 @@
       "url": "https://m.baidu.com/s?word=%E8%B6%8560%E5%9F%8E%E4%BC%98%E5%8C%96%E5%85%AC%E7%A7%AF%E9%87%91%E6%94%BF%E7%AD%96&sa=fyb_news"
     },
     {
-      "id": "evt-37000000",
-      "title": "曝《流浪地球 3》导演版素材 750 分钟，公映版 125 分钟，郭帆称「我也不知道时长」，哪些看点值得期待？",
+      "id": "evt-054b0000",
+      "title": "054B护卫舰首次亮相黄岩岛",
       "category": "society",
-      "hotScore": 0.675,
+      "hotScore": 0.68,
       "freshness": 1,
       "crossSource": 0.6309,
-      "totalScore": 0.7593,
+      "totalScore": 0.7613,
       "sources": [
         {
-          "channel": "zhihu",
-          "rank": 3,
-          "hot": 0,
-          "url": ""
+          "channel": "toutiao",
+          "rank": 5,
+          "hot": 6644230,
+          "url": "https://www.toutiao.com/trending/7667567988811776036/"
         }
       ],
       "summary": "",
-      "url": ""
+      "url": "https://www.toutiao.com/trending/7667567988811776036/"
     },
     {
-      "id": "evt-054b0000",
-      "title": "054B护卫舰首次亮相黄岩岛",
+      "id": "evt-50000000",
+      "title": "50℃高温来了",
       "category": "society",
       "hotScore": 0.6375,
       "freshness": 1,
@@ -227,12 +252,31 @@
         {
           "channel": "toutiao",
           "rank": 6,
-          "hot": 12199343,
-          "url": "https://www.toutiao.com/trending/7667567988811776036/"
+          "hot": 6011948,
+          "url": "https://www.toutiao.com/trending/7668537827139780671/"
         }
       ],
       "summary": "",
-      "url": "https://www.toutiao.com/trending/7667567988811776036/"
+      "url": "https://www.toutiao.com/trending/7668537827139780671/"
+    },
+    {
+      "id": "evt-73100000",
+      "title": "7 月 31 日长鑫科技盘中涨超 13%，总市值突破 4 万亿，还会持续上涨吗？",
+      "category": "economy",
+      "hotScore": 0.6375,
+      "freshness": 1,
+      "crossSource": 0.6309,
+      "totalScore": 0.7443,
+      "sources": [
+        {
+          "channel": "zhihu",
+          "rank": 4,
+          "hot": 0,
+          "url": ""
+        }
+      ],
+      "summary": "",
+      "url": ""
     },
     {
       "id": "evt-3d000000",
@@ -251,44 +295,6 @@
         }
       ],
       "summary": "36氪获悉，自4月9日起，中央电视台少儿频道携手好未来旗下教育品牌熊猫博士上线3D系列动画片《熊猫博士》。与此同时，《熊猫博士》3D动画片也在美国、加拿大、俄罗斯、意大利等多个国家、地区陆续发行，并登陆Discovery探索频道等多个世界知名节目。",
-      "url": ""
-    },
-    {
-      "id": "evt-c1600000",
-      "title": "C罗晒与16岁儿子肌肉合照",
-      "category": "society",
-      "hotScore": 0.6,
-      "freshness": 1,
-      "crossSource": 0.6309,
-      "totalScore": 0.7293,
-      "sources": [
-        {
-          "channel": "baidu",
-          "rank": 6,
-          "hot": 0,
-          "url": "https://m.baidu.com/s?word=C%E7%BD%97%E6%99%92%E4%B8%8E16%E5%B2%81%E5%84%BF%E5%AD%90%E8%82%8C%E8%82%89%E5%90%88%E7%85%A7&sa=fyb_news"
-        }
-      ],
-      "summary": "",
-      "url": "https://m.baidu.com/s?word=C%E7%BD%97%E6%99%92%E4%B8%8E16%E5%B2%81%E5%84%BF%E5%AD%90%E8%82%8C%E8%82%89%E5%90%88%E7%85%A7&sa=fyb_news"
-    },
-    {
-      "id": "evt-73100000",
-      "title": "7 月 31 日长鑫科技盘中涨超 13%，总市值突破 4 万亿，还会持续上涨吗？",
-      "category": "economy",
-      "hotScore": 0.5625,
-      "freshness": 1,
-      "crossSource": 0.6309,
-      "totalScore": 0.7143,
-      "sources": [
-        {
-          "channel": "zhihu",
-          "rank": 6,
-          "hot": 0,
-          "url": ""
-        }
-      ],
-      "summary": "",
       "url": ""
     }
   ]
