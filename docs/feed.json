@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-07-31T15:54:10.505Z",
+  "generatedAt": "2026-07-31T17:18:28.685Z",
   "fields": {
     "society": "社会",
     "economy": "经济",
@@ -11,25 +11,50 @@
       "title": "国家电网原董事长辛保安被查",
       "category": "society",
       "hotScore": 0.8075,
-      "freshness": 1,
+      "freshness": 0.9999,
       "crossSource": 1,
       "totalScore": 0.923,
       "sources": [
         {
           "channel": "toutiao",
           "rank": 2,
-          "hot": 10752329,
+          "hot": 11267230,
           "url": "https://www.toutiao.com/trending/7668687269330911270/"
         },
         {
           "channel": "baidu",
-          "rank": 14,
+          "rank": 9,
           "hot": 0,
           "url": "https://m.baidu.com/s?word=%E5%9B%BD%E5%AE%B6%E7%94%B5%E7%BD%91%E5%8E%9F%E8%91%A3%E4%BA%8B%E9%95%BF%E8%BE%9B%E4%BF%9D%E5%AE%89%E8%A2%AB%E6%9F%A5&sa=fyb_news"
         }
       ],
       "summary": "",
       "url": "https://www.toutiao.com/trending/7668687269330911270/"
+    },
+    {
+      "id": "evt-22000000",
+      "title": "陈天桥2.2亿“抄底”上海酒店",
+      "category": "society",
+      "hotScore": 0.6375,
+      "freshness": 0.9999,
+      "crossSource": 1,
+      "totalScore": 0.855,
+      "sources": [
+        {
+          "channel": "toutiao",
+          "rank": 6,
+          "hot": 7552650,
+          "url": "https://www.toutiao.com/trending/7667817500806086710/"
+        },
+        {
+          "channel": "baidu",
+          "rank": 18,
+          "hot": 0,
+          "url": "https://m.baidu.com/s?word=%E9%99%88%E5%A4%A9%E6%A1%A52.2%E4%BA%BF%E2%80%9C%E6%8A%84%E5%BA%95%E2%80%9D%E4%B8%8A%E6%B5%B7%E9%85%92%E5%BA%97&sa=fyb_news"
+        }
+      ],
+      "summary": "",
+      "url": "https://www.toutiao.com/trending/7667817500806086710/"
     },
     {
       "id": "evt-deepseekv4fl",
@@ -55,38 +80,19 @@
       "title": "12306回应高铁为何会提前7分钟发车",
       "category": "society",
       "hotScore": 0.7225,
-      "freshness": 1,
+      "freshness": 0.9999,
       "crossSource": 0.6309,
       "totalScore": 0.7783,
       "sources": [
         {
           "channel": "toutiao",
           "rank": 4,
-          "hot": 8803262,
+          "hot": 9224828,
           "url": "https://www.toutiao.com/trending/7668642504205467691/"
         }
       ],
       "summary": "",
       "url": "https://www.toutiao.com/trending/7668642504205467691/"
-    },
-    {
-      "id": "evt-054b0000",
-      "title": "054B护卫舰首次亮相黄岩岛",
-      "category": "society",
-      "hotScore": 0.68,
-      "freshness": 1,
-      "crossSource": 0.6309,
-      "totalScore": 0.7613,
-      "sources": [
-        {
-          "channel": "toutiao",
-          "rank": 5,
-          "hot": 7965521,
-          "url": "https://www.toutiao.com/trending/7667567988811776036/"
-        }
-      ],
-      "summary": "",
-      "url": "https://www.toutiao.com/trending/7667567988811776036/"
     },
     {
       "id": "evt-10000000",
@@ -146,6 +152,25 @@
       "url": ""
     },
     {
+      "id": "evt-054b0000",
+      "title": "054B护卫舰首次亮相黄岩岛",
+      "category": "society",
+      "hotScore": 0.68,
+      "freshness": 0.9999,
+      "crossSource": 0.6309,
+      "totalScore": 0.7613,
+      "sources": [
+        {
+          "channel": "toutiao",
+          "rank": 5,
+          "hot": 8346969,
+          "url": "https://www.toutiao.com/trending/7667567988811776036/"
+        }
+      ],
+      "summary": "",
+      "url": "https://www.toutiao.com/trending/7667567988811776036/"
+    },
+    {
       "id": "evt-96000000",
       "title": "至少 96 个足协抵制国际足联主席因凡蒂诺，他为什么犯了众怒？会被弹劾下台吗？",
       "category": "society",
@@ -165,25 +190,6 @@
       "url": ""
     },
     {
-      "id": "evt-22000000",
-      "title": "陈天桥2.2亿“抄底”上海酒店",
-      "category": "society",
-      "hotScore": 0.6375,
-      "freshness": 1,
-      "crossSource": 0.6309,
-      "totalScore": 0.7443,
-      "sources": [
-        {
-          "channel": "toutiao",
-          "rank": 6,
-          "hot": 7207502,
-          "url": "https://www.toutiao.com/trending/7667817500806086710/"
-        }
-      ],
-      "summary": "",
-      "url": "https://www.toutiao.com/trending/7667817500806086710/"
-    },
-    {
       "id": "evt-3d000000",
       "title": "好未来《熊猫博士》3D动画片登陆央视少儿频道",
       "category": "society",
@@ -201,6 +207,31 @@
       ],
       "summary": "36氪获悉，自4月9日起，中央电视台少儿频道携手好未来旗下教育品牌熊猫博士上线3D系列动画片《熊猫博士》。与此同时，《熊猫博士》3D动画片也在美国、加拿大、俄罗斯、意大利等多个国家、地区陆续发行，并登陆Discovery探索频道等多个世界知名节目。",
       "url": ""
+    },
+    {
+      "id": "evt-72000000",
+      "title": "72岁董明珠打卡成都太古里",
+      "category": "society",
+      "hotScore": 0.34,
+      "freshness": 0.9999,
+      "crossSource": 1,
+      "totalScore": 0.736,
+      "sources": [
+        {
+          "channel": "toutiao",
+          "rank": 13,
+          "hot": 3750535,
+          "url": "https://www.toutiao.com/trending/7668101451247304747/"
+        },
+        {
+          "channel": "baidu",
+          "rank": 20,
+          "hot": 0,
+          "url": "https://m.baidu.com/s?word=72%E5%B2%81%E8%91%A3%E6%98%8E%E7%8F%A0%E6%89%93%E5%8D%A1%E6%88%90%E9%83%BD%E5%A4%AA%E5%8F%A4%E9%87%8C&sa=fyb_news"
+        }
+      ],
+      "summary": "",
+      "url": "https://www.toutiao.com/trending/7668101451247304747/"
     },
     {
       "id": "evt-24490000",
@@ -245,14 +276,14 @@
       "title": "50℃高温来了",
       "category": "society",
       "hotScore": 0.5525,
-      "freshness": 1,
+      "freshness": 0.9999,
       "crossSource": 0.6309,
       "totalScore": 0.7103,
       "sources": [
         {
           "channel": "toutiao",
           "rank": 8,
-          "hot": 5901003,
+          "hot": 6183587,
           "url": "https://www.toutiao.com/trending/7668537827139780671/"
         }
       ],
