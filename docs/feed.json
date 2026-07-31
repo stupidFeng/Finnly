@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-07-31T01:50:19.458Z",
+  "generatedAt": "2026-07-31T05:25:15.748Z",
   "fields": {
     "society": "社会",
     "economy": "经济",
@@ -7,35 +7,23 @@
   },
   "feed": [
     {
-      "id": "evt-00000000",
-      "title": "欧足联宣布抵制所有国际足联赛事",
+      "id": "evt-24000000",
+      "title": "今晚24时油价将调整",
       "category": "society",
-      "hotScore": 0.64,
-      "freshness": 1,
-      "crossSource": 1,
-      "totalScore": 0.856,
+      "hotScore": 0.85,
+      "freshness": 0.9999,
+      "crossSource": 0.6309,
+      "totalScore": 0.8293,
       "sources": [
         {
           "channel": "toutiao",
-          "rank": 17,
-          "hot": 2859874,
-          "url": "https://www.toutiao.com/trending/7667834448070705198/"
-        },
-        {
-          "channel": "thepaper",
-          "rank": 13,
-          "hot": 0,
-          "url": "https://www.thepaper.cn/newsDetail_forward_33688311"
-        },
-        {
-          "channel": "baidu",
-          "rank": 5,
-          "hot": 0,
-          "url": "https://m.baidu.com/s?word=%E6%AC%A7%E8%B6%B3%E8%81%94%E5%AE%A3%E5%B8%83%E6%8A%B5%E5%88%B6%E6%89%80%E6%9C%89%E5%9B%BD%E9%99%85%E8%B6%B3%E8%81%94%E8%B5%9B%E4%BA%8B&sa=fyb_news"
+          "rank": 1,
+          "hot": 17256389,
+          "url": "https://www.toutiao.com/trending/7667521642420011017/"
         }
       ],
       "summary": "",
-      "url": "https://www.toutiao.com/trending/7667834448070705198/"
+      "url": "https://www.toutiao.com/trending/7667521642420011017/"
     },
     {
       "id": "evt-20260000",
@@ -43,8 +31,8 @@
       "category": "society",
       "hotScore": 0.8075,
       "freshness": 1,
-      "crossSource": 0.5,
-      "totalScore": 0.773,
+      "crossSource": 0.6309,
+      "totalScore": 0.8123,
       "sources": [
         {
           "channel": "thepaper",
@@ -57,13 +45,32 @@
       "url": "https://www.thepaper.cn/newsDetail_forward_33683938"
     },
     {
+      "id": "evt-00000000",
+      "title": "一组数据读懂我国能源转型新趋势",
+      "category": "society",
+      "hotScore": 0.765,
+      "freshness": 0.9999,
+      "crossSource": 0.6309,
+      "totalScore": 0.7953,
+      "sources": [
+        {
+          "channel": "toutiao",
+          "rank": 3,
+          "hot": 14128337,
+          "url": "https://www.toutiao.com/trending/7668288897973194267/"
+        }
+      ],
+      "summary": "",
+      "url": "https://www.toutiao.com/trending/7668288897973194267/"
+    },
+    {
       "id": "evt-37000000",
       "title": "曝《流浪地球 3》导演版素材 750 分钟，公映版 125 分钟，郭帆称「我也不知道时长」，哪些看点值得期待？",
       "category": "society",
       "hotScore": 0.75,
-      "freshness": 1,
-      "crossSource": 0.5,
-      "totalScore": 0.75,
+      "freshness": 0.9999,
+      "crossSource": 0.6309,
+      "totalScore": 0.7893,
       "sources": [
         {
           "channel": "zhihu",
@@ -76,23 +83,29 @@
       "url": ""
     },
     {
-      "id": "evt-84436000",
-      "title": "近844克黄金被扣押36年：男子申请返还被驳回，烟台中院组织质证",
-      "category": "society",
-      "hotScore": 0.68,
-      "freshness": 1,
-      "crossSource": 0.5,
-      "totalScore": 0.722,
+      "id": "evt-40000000",
+      "title": "长鑫科技市值突破4万亿",
+      "category": "economy",
+      "hotScore": 0.8075,
+      "freshness": 0.9999,
+      "crossSource": 1,
+      "totalScore": 0.923,
       "sources": [
         {
-          "channel": "thepaper",
-          "rank": 5,
+          "channel": "toutiao",
+          "rank": 2,
+          "hot": 15614227,
+          "url": "https://www.toutiao.com/trending/7668102382697447470/"
+        },
+        {
+          "channel": "baidu",
+          "rank": 8,
           "hot": 0,
-          "url": "https://www.thepaper.cn/newsDetail_forward_33684311"
+          "url": "https://m.baidu.com/s?word=%E9%95%BF%E9%91%AB%E7%A7%91%E6%8A%80%E5%B8%82%E5%80%BC%E7%AA%81%E7%A0%B44%E4%B8%87%E4%BA%BF&sa=fyb_news"
         }
       ],
       "summary": "",
-      "url": "https://www.thepaper.cn/newsDetail_forward_33684311"
+      "url": "https://www.toutiao.com/trending/7668102382697447470/"
     },
     {
       "id": "evt-10000000",
@@ -100,8 +113,8 @@
       "category": "economy",
       "hotScore": 0.9,
       "freshness": 1,
-      "crossSource": 0.5,
-      "totalScore": 0.81,
+      "crossSource": 0.6309,
+      "totalScore": 0.8493,
       "sources": [
         {
           "channel": "36kr",
@@ -119,8 +132,8 @@
       "category": "economy",
       "hotScore": 0.855,
       "freshness": 1,
-      "crossSource": 0.5,
-      "totalScore": 0.792,
+      "crossSource": 0.6309,
+      "totalScore": 0.8313,
       "sources": [
         {
           "channel": "36kr",
@@ -138,8 +151,8 @@
       "category": "economy",
       "hotScore": 0.81,
       "freshness": 1,
-      "crossSource": 0.5,
-      "totalScore": 0.774,
+      "crossSource": 0.6309,
+      "totalScore": 0.8133,
       "sources": [
         {
           "channel": "36kr",
@@ -152,32 +165,51 @@
       "url": ""
     },
     {
-      "id": "evt-19880000",
-      "title": "1988元可抱抱亲亲 官方通报伴漂服务",
+      "id": "evt-80000000",
+      "title": "8月一批新规将实施",
       "category": "society",
-      "hotScore": 0.6375,
+      "hotScore": 0.68,
       "freshness": 1,
-      "crossSource": 0.5,
-      "totalScore": 0.705,
+      "crossSource": 0.6309,
+      "totalScore": 0.7613,
       "sources": [
         {
-          "channel": "toutiao",
-          "rank": 6,
-          "hot": 8591537,
-          "url": "https://www.toutiao.com/trending/7668275160986239027/"
+          "channel": "baidu",
+          "rank": 4,
+          "hot": 0,
+          "url": "https://m.baidu.com/s?word=8%E6%9C%88%E4%B8%80%E6%89%B9%E6%96%B0%E8%A7%84%E5%B0%86%E5%AE%9E%E6%96%BD&sa=fyb_news"
         }
       ],
       "summary": "",
-      "url": "https://www.toutiao.com/trending/7668275160986239027/"
+      "url": "https://m.baidu.com/s?word=8%E6%9C%88%E4%B8%80%E6%89%B9%E6%96%B0%E8%A7%84%E5%B0%86%E5%AE%9E%E6%96%BD&sa=fyb_news"
     },
     {
       "id": "evt-35000000",
       "title": "保姆拐走婴儿 35 年为何仅获刑三年？这一判决是不是太轻了？",
       "category": "society",
+      "hotScore": 0.675,
+      "freshness": 0.9999,
+      "crossSource": 0.6309,
+      "totalScore": 0.7593,
+      "sources": [
+        {
+          "channel": "zhihu",
+          "rank": 3,
+          "hot": 0,
+          "url": ""
+        }
+      ],
+      "summary": "",
+      "url": ""
+    },
+    {
+      "id": "evt-ai000000",
+      "title": "媒体曝因 AI 裁员企业超半数承认决策失误，是真的吗？为啥这些企业光速反悔了？AI 裁员浪潮结束了吗？",
+      "category": "society",
       "hotScore": 0.6375,
-      "freshness": 1,
-      "crossSource": 0.5,
-      "totalScore": 0.705,
+      "freshness": 0.9999,
+      "crossSource": 0.6309,
+      "totalScore": 0.7443,
       "sources": [
         {
           "channel": "zhihu",
@@ -190,13 +222,32 @@
       "url": ""
     },
     {
+      "id": "evt-81000000",
+      "title": "宇树科技：8月10日打新",
+      "category": "society",
+      "hotScore": 0.6375,
+      "freshness": 1,
+      "crossSource": 0.6309,
+      "totalScore": 0.7443,
+      "sources": [
+        {
+          "channel": "thepaper",
+          "rank": 6,
+          "hot": 0,
+          "url": "https://www.thepaper.cn/newsDetail_forward_33687840"
+        }
+      ],
+      "summary": "",
+      "url": "https://www.thepaper.cn/newsDetail_forward_33687840"
+    },
+    {
       "id": "evt-3d000000",
       "title": "好未来《熊猫博士》3D动画片登陆央视少儿频道",
       "category": "society",
       "hotScore": 0.63,
       "freshness": 1,
-      "crossSource": 0.5,
-      "totalScore": 0.702,
+      "crossSource": 0.6309,
+      "totalScore": 0.7413,
       "sources": [
         {
           "channel": "36kr",
@@ -209,80 +260,42 @@
       "url": ""
     },
     {
-      "id": "evt-40000000",
-      "title": "40℃高温下饮料为何卖不动了",
+      "id": "evt-15500000",
+      "title": "1.55升“哑铃矿泉水”火了 单瓶8元",
       "category": "society",
-      "hotScore": 0.595,
+      "hotScore": 0.6,
       "freshness": 1,
-      "crossSource": 0.5,
-      "totalScore": 0.688,
-      "sources": [
-        {
-          "channel": "toutiao",
-          "rank": 7,
-          "hot": 7773944,
-          "url": "https://www.toutiao.com/trending/7667744490966401065/"
-        }
-      ],
-      "summary": "",
-      "url": "https://www.toutiao.com/trending/7667744490966401065/"
-    },
-    {
-      "id": "evt-81000000",
-      "title": "宇树科技：8月10日打新",
-      "category": "society",
-      "hotScore": 0.595,
-      "freshness": 1,
-      "crossSource": 0.5,
-      "totalScore": 0.688,
-      "sources": [
-        {
-          "channel": "thepaper",
-          "rank": 7,
-          "hot": 0,
-          "url": "https://www.thepaper.cn/newsDetail_forward_33687840"
-        }
-      ],
-      "summary": "",
-      "url": "https://www.thepaper.cn/newsDetail_forward_33687840"
-    },
-    {
-      "id": "evt-10200000",
-      "title": "102岁八路军老战士武汉安逝世，解放上海时荣获“战斗英雄”",
-      "category": "society",
-      "hotScore": 0.5525,
-      "freshness": 1,
-      "crossSource": 0.5,
-      "totalScore": 0.671,
-      "sources": [
-        {
-          "channel": "thepaper",
-          "rank": 8,
-          "hot": 0,
-          "url": "https://www.thepaper.cn/newsDetail_forward_33684599"
-        }
-      ],
-      "summary": "",
-      "url": "https://www.thepaper.cn/newsDetail_forward_33684599"
-    },
-    {
-      "id": "evt-51550000",
-      "title": "创业板指高开5.15% 科创50涨超8%",
-      "category": "society",
-      "hotScore": 0.52,
-      "freshness": 1,
-      "crossSource": 0.5,
-      "totalScore": 0.658,
+      "crossSource": 0.6309,
+      "totalScore": 0.7293,
       "sources": [
         {
           "channel": "baidu",
-          "rank": 8,
+          "rank": 6,
           "hot": 0,
-          "url": "https://m.baidu.com/s?word=%E5%88%9B%E4%B8%9A%E6%9D%BF%E6%8C%87%E9%AB%98%E5%BC%805.15%25+%E7%A7%91%E5%88%9B50%E6%B6%A8%E8%B6%858%25&sa=fyb_news"
+          "url": "https://m.baidu.com/s?word=1.55%E5%8D%87%E2%80%9C%E5%93%91%E9%93%83%E7%9F%BF%E6%B3%89%E6%B0%B4%E2%80%9D%E7%81%AB%E4%BA%86+%E5%8D%95%E7%93%B68%E5%85%83&sa=fyb_news"
         }
       ],
       "summary": "",
-      "url": "https://m.baidu.com/s?word=%E5%88%9B%E4%B8%9A%E6%9D%BF%E6%8C%87%E9%AB%98%E5%BC%805.15%25+%E7%A7%91%E5%88%9B50%E6%B6%A8%E8%B6%858%25&sa=fyb_news"
+      "url": "https://m.baidu.com/s?word=1.55%E5%8D%87%E2%80%9C%E5%93%91%E9%93%83%E7%9F%BF%E6%B3%89%E6%B0%B4%E2%80%9D%E7%81%AB%E4%BA%86+%E5%8D%95%E7%93%B68%E5%85%83&sa=fyb_news"
+    },
+    {
+      "id": "evt-52000000",
+      "title": "半年多急涨急跌52次，韩国股市到底怎么了？",
+      "category": "economy",
+      "hotScore": 0.595,
+      "freshness": 1,
+      "crossSource": 0.6309,
+      "totalScore": 0.7273,
+      "sources": [
+        {
+          "channel": "thepaper",
+          "rank": 7,
+          "hot": 0,
+          "url": "https://www.thepaper.cn/newsDetail_forward_33671320"
+        }
+      ],
+      "summary": "",
+      "url": "https://www.thepaper.cn/newsDetail_forward_33671320"
     }
   ]
 }
