@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-08-01T16:47:46.437Z",
+  "generatedAt": "2026-08-01T18:53:26.298Z",
   "fields": {
     "society": "社会",
     "economy": "经济",
@@ -18,7 +18,7 @@
         {
           "channel": "toutiao",
           "rank": 1,
-          "hot": 10232181,
+          "hot": 10774284,
           "url": "https://www.toutiao.com/trending/7669021084112391731/"
         }
       ],
@@ -181,8 +181,27 @@
       "id": "evt-98500000",
       "title": "已经复读一年，被中流 985 物理拔尖班录取，但不甘心，还有必要读高五吗？",
       "category": "society",
+      "hotScore": 0.6,
+      "freshness": 1,
+      "crossSource": 1,
+      "totalScore": 0.84,
+      "sources": [
+        {
+          "channel": "zhihu",
+          "rank": 5,
+          "hot": 0,
+          "url": ""
+        }
+      ],
+      "summary": "",
+      "url": ""
+    },
+    {
+      "id": "evt-20230000",
+      "title": "2023 年《长安三万里》火了，追光动画为啥不趁热再出个宋代版甚至屈原版？非要什么都试搞成现在这样？",
+      "category": "society",
       "hotScore": 0.5625,
-      "freshness": 0.9999,
+      "freshness": 1,
       "crossSource": 1,
       "totalScore": 0.825,
       "sources": [
