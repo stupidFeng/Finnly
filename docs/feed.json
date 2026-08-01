@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-08-01T20:39:53.376Z",
+  "generatedAt": "2026-08-01T22:43:39.586Z",
   "fields": {
     "society": "社会",
     "economy": "经济",
@@ -18,7 +18,7 @@
         {
           "channel": "toutiao",
           "rank": 1,
-          "hot": 11180811,
+          "hot": 12348952,
           "url": "https://www.toutiao.com/trending/7669021084112391731/"
         }
       ],
@@ -37,7 +37,7 @@
         {
           "channel": "toutiao",
           "rank": 2,
-          "hot": 10116816,
+          "hot": 11173794,
           "url": "https://www.toutiao.com/trending/7668972744050081833/"
         }
       ],
@@ -140,25 +140,6 @@
       "url": ""
     },
     {
-      "id": "evt-50000000",
-      "title": "多家大行重启 5 年期大额存单，利率最高 1.8%，20 万起存，释放什么信号？普通储户值得入手吗？",
-      "category": "economy",
-      "hotScore": 0.6375,
-      "freshness": 1,
-      "crossSource": 1,
-      "totalScore": 0.855,
-      "sources": [
-        {
-          "channel": "zhihu",
-          "rank": 4,
-          "hot": 0,
-          "url": ""
-        }
-      ],
-      "summary": "",
-      "url": ""
-    },
-    {
       "id": "evt-17000000",
       "title": "一部老片为何17年后在中国卖了5000万",
       "category": "society",
@@ -220,7 +201,7 @@
       "title": "已经复读一年，被中流 985 物理拔尖班录取，但不甘心，还有必要读高五吗？",
       "category": "society",
       "hotScore": 0.6,
-      "freshness": 1,
+      "freshness": 0.9999,
       "crossSource": 1,
       "totalScore": 0.84,
       "sources": [
@@ -233,6 +214,25 @@
       ],
       "summary": "",
       "url": ""
+    },
+    {
+      "id": "evt-70000000",
+      "title": "男子买错机票7分钟退票被扣2022元",
+      "category": "society",
+      "hotScore": 0.595,
+      "freshness": 0.9999,
+      "crossSource": 1,
+      "totalScore": 0.838,
+      "sources": [
+        {
+          "channel": "toutiao",
+          "rank": 7,
+          "hot": 6777248,
+          "url": "https://www.toutiao.com/trending/7668172838323748905/"
+        }
+      ],
+      "summary": "",
+      "url": "https://www.toutiao.com/trending/7668172838323748905/"
     }
   ]
 }
