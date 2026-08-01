@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-07-31T22:50:58.887Z",
+  "generatedAt": "2026-08-01T01:51:11.956Z",
   "fields": {
     "society": "社会",
     "economy": "经济",
@@ -7,42 +7,54 @@
   },
   "feed": [
     {
-      "id": "evt-50000000",
-      "title": "50℃高温来了",
+      "id": "evt-00000000",
+      "title": "警方对捐日本侵华罪证少年启动保护",
       "category": "society",
       "hotScore": 0.85,
-      "freshness": 0.9999,
-      "crossSource": 0.6309,
-      "totalScore": 0.8293,
+      "freshness": 1,
+      "crossSource": 1,
+      "totalScore": 0.94,
       "sources": [
         {
           "channel": "toutiao",
           "rank": 1,
-          "hot": 14834518,
-          "url": "https://www.toutiao.com/trending/7668537827139780671/"
+          "hot": 10452157,
+          "url": "https://www.toutiao.com/trending/7668841212840889883/"
+        },
+        {
+          "channel": "baidu",
+          "rank": 20,
+          "hot": 0,
+          "url": "https://m.baidu.com/s?word=%E8%AD%A6%E6%96%B9%E5%AF%B9%E6%8D%90%E6%97%A5%E6%9C%AC%E4%BE%B5%E5%8D%8E%E7%BD%AA%E8%AF%81%E5%B0%91%E5%B9%B4%E5%90%AF%E5%8A%A8%E4%BF%9D%E6%8A%A4&sa=fyb_news"
         }
       ],
       "summary": "",
-      "url": "https://www.toutiao.com/trending/7668537827139780671/"
+      "url": "https://www.toutiao.com/trending/7668841212840889883/"
     },
     {
-      "id": "evt-00000000",
-      "title": "中国五矿集团原总经理国文清主动投案，接受审查调查",
+      "id": "evt-68000000",
+      "title": "6万非法移民登陆西班牙8万人口飞地",
       "category": "society",
-      "hotScore": 0.85,
+      "hotScore": 0.8075,
       "freshness": 1,
-      "crossSource": 0.6309,
-      "totalScore": 0.8293,
+      "crossSource": 1,
+      "totalScore": 0.923,
       "sources": [
         {
-          "channel": "thepaper",
-          "rank": 1,
+          "channel": "toutiao",
+          "rank": 2,
+          "hot": 9457502,
+          "url": "https://www.toutiao.com/trending/7668535138078769193/"
+        },
+        {
+          "channel": "baidu",
+          "rank": 19,
           "hot": 0,
-          "url": "https://www.thepaper.cn/newsDetail_forward_33688472"
+          "url": "https://m.baidu.com/s?word=6%E4%B8%87%E9%9D%9E%E6%B3%95%E7%A7%BB%E6%B0%91%E7%99%BB%E9%99%86%E8%A5%BF%E7%8F%AD%E7%89%998%E4%B8%87%E4%BA%BA%E5%8F%A3%E9%A3%9E%E5%9C%B0&sa=fyb_news"
         }
       ],
       "summary": "",
-      "url": "https://www.thepaper.cn/newsDetail_forward_33688472"
+      "url": "https://www.toutiao.com/trending/7668535138078769193/"
     },
     {
       "id": "evt-96000000",
@@ -64,42 +76,23 @@
       "url": ""
     },
     {
-      "id": "evt-054b0000",
-      "title": "054B护卫舰首次亮相黄岩岛",
+      "id": "evt-10000000",
+      "title": "主任医师“10级美颜”证件照火了",
       "category": "society",
       "hotScore": 0.7225,
-      "freshness": 0.9999,
+      "freshness": 1,
       "crossSource": 0.6309,
       "totalScore": 0.7783,
       "sources": [
         {
           "channel": "toutiao",
           "rank": 4,
-          "hot": 10989681,
-          "url": "https://www.toutiao.com/trending/7667567988811776036/"
+          "hot": 7743148,
+          "url": "https://www.toutiao.com/trending/7668663684344365097/"
         }
       ],
       "summary": "",
-      "url": "https://www.toutiao.com/trending/7667567988811776036/"
-    },
-    {
-      "id": "evt-10000000",
-      "title": "中芯国际与嘉楠科技合作14nm矿机芯片，知情人士：能否量产要看行情",
-      "category": "economy",
-      "hotScore": 0.9,
-      "freshness": 1,
-      "crossSource": 0.6309,
-      "totalScore": 0.8493,
-      "sources": [
-        {
-          "channel": "36kr",
-          "rank": 1,
-          "hot": 0,
-          "url": ""
-        }
-      ],
-      "summary": "有消息称，中芯国际与嘉楠科技合作的14nm矿机芯片已完成测试，将在今年二季度量产出货。对此，知情人士称，双方合作始于2019年年底，但能否量产要看行情。据悉，中芯国际数次尝试进入矿机行业，但受行情拖累一直未有实质进展。（财联社）",
-      "url": ""
+      "url": "https://www.toutiao.com/trending/7668663684344365097/"
     },
     {
       "id": "evt-5g000000",
@@ -140,23 +133,124 @@
       "url": ""
     },
     {
-      "id": "evt-12306000",
-      "title": "12306回应高铁为何会提前7分钟发车",
+      "id": "evt-20260000",
+      "title": "好莱坞女星赞达亚 2026 年有 4 部电影上映，其中 3 部都是大片，她怎么崛起的？如何评价其演技？",
+      "category": "entertainment",
+      "hotScore": 0.5625,
+      "freshness": 1,
+      "crossSource": 0.6309,
+      "totalScore": 0.7143,
+      "sources": [
+        {
+          "channel": "zhihu",
+          "rank": 6,
+          "hot": 0,
+          "url": ""
+        }
+      ],
+      "summary": "",
+      "url": ""
+    },
+    {
+      "id": "evt-20000000",
+      "title": "新冠检测阳性率超20%",
+      "category": "society",
+      "hotScore": 0.72,
+      "freshness": 1,
+      "crossSource": 0.6309,
+      "totalScore": 0.7773,
+      "sources": [
+        {
+          "channel": "baidu",
+          "rank": 3,
+          "hot": 0,
+          "url": "https://m.baidu.com/s?word=%E6%96%B0%E5%86%A0%E6%A3%80%E6%B5%8B%E9%98%B3%E6%80%A7%E7%8E%87%E8%B6%8520%25&sa=fyb_news"
+        }
+      ],
+      "summary": "",
+      "url": "https://m.baidu.com/s?word=%E6%96%B0%E5%86%A0%E6%A3%80%E6%B5%8B%E9%98%B3%E6%80%A7%E7%8E%87%E8%B6%8520%25&sa=fyb_news"
+    },
+    {
+      "id": "evt-f3500000",
+      "title": "美军一架F-35隐形战机坠毁",
+      "category": "society",
+      "hotScore": 0.44,
+      "freshness": 1,
+      "crossSource": 1,
+      "totalScore": 0.776,
+      "sources": [
+        {
+          "channel": "toutiao",
+          "rank": 14,
+          "hot": 2848545,
+          "url": "https://www.toutiao.com/trending/7668398638011531290/"
+        },
+        {
+          "channel": "baidu",
+          "rank": 10,
+          "hot": 0,
+          "url": "https://m.baidu.com/s?word=%E7%BE%8E%E5%86%9B%E4%B8%80%E6%9E%B6F-35%E9%9A%90%E5%BD%A2%E6%88%98%E6%9C%BA%E5%9D%A0%E6%AF%81&sa=fyb_news"
+        }
+      ],
+      "summary": "",
+      "url": "https://www.toutiao.com/trending/7668398638011531290/"
+    },
+    {
+      "id": "evt-80000000",
+      "title": "我国新核准8台核电机组，项目总投资超1700亿元",
       "category": "society",
       "hotScore": 0.68,
-      "freshness": 0.9999,
+      "freshness": 1,
       "crossSource": 0.6309,
       "totalScore": 0.7613,
       "sources": [
         {
-          "channel": "toutiao",
+          "channel": "thepaper",
           "rank": 5,
-          "hot": 9943875,
-          "url": "https://www.toutiao.com/trending/7668642504205467691/"
+          "hot": 0,
+          "url": "https://www.thepaper.cn/newsDetail_forward_33691572"
         }
       ],
       "summary": "",
-      "url": "https://www.toutiao.com/trending/7668642504205467691/"
+      "url": "https://www.thepaper.cn/newsDetail_forward_33691572"
+    },
+    {
+      "id": "evt-18200000",
+      "title": "如何评价凡人修仙传 182 集再做修改？",
+      "category": "society",
+      "hotScore": 0.675,
+      "freshness": 1,
+      "crossSource": 0.6309,
+      "totalScore": 0.7593,
+      "sources": [
+        {
+          "channel": "zhihu",
+          "rank": 3,
+          "hot": 0,
+          "url": ""
+        }
+      ],
+      "summary": "",
+      "url": ""
+    },
+    {
+      "id": "evt-63260000",
+      "title": "63岁乔丹与26岁哈兰德合影",
+      "category": "society",
+      "hotScore": 0.64,
+      "freshness": 1,
+      "crossSource": 0.6309,
+      "totalScore": 0.7453,
+      "sources": [
+        {
+          "channel": "baidu",
+          "rank": 5,
+          "hot": 0,
+          "url": "https://m.baidu.com/s?word=63%E5%B2%81%E4%B9%94%E4%B8%B9%E4%B8%8E26%E5%B2%81%E5%93%88%E5%85%B0%E5%BE%B7%E5%90%88%E5%BD%B1&sa=fyb_news"
+        }
+      ],
+      "summary": "",
+      "url": "https://m.baidu.com/s?word=63%E5%B2%81%E4%B9%94%E4%B8%B9%E4%B8%8E26%E5%B2%81%E5%93%88%E5%85%B0%E5%BE%B7%E5%90%88%E5%BD%B1&sa=fyb_news"
     },
     {
       "id": "evt-3d000000",
@@ -178,27 +272,8 @@
       "url": ""
     },
     {
-      "id": "evt-24490000",
-      "title": "24小时内近4.9万移民进入西班牙休达",
-      "category": "society",
-      "hotScore": 0.6,
-      "freshness": 1,
-      "crossSource": 0.6309,
-      "totalScore": 0.7293,
-      "sources": [
-        {
-          "channel": "baidu",
-          "rank": 6,
-          "hot": 0,
-          "url": "https://m.baidu.com/s?word=24%E5%B0%8F%E6%97%B6%E5%86%85%E8%BF%914.9%E4%B8%87%E7%A7%BB%E6%B0%91%E8%BF%9B%E5%85%A5%E8%A5%BF%E7%8F%AD%E7%89%99%E4%BC%91%E8%BE%BE&sa=fyb_news"
-        }
-      ],
-      "summary": "",
-      "url": "https://m.baidu.com/s?word=24%E5%B0%8F%E6%97%B6%E5%86%85%E8%BF%914.9%E4%B8%87%E7%A7%BB%E6%B0%91%E8%BF%9B%E5%85%A5%E8%A5%BF%E7%8F%AD%E7%89%99%E4%BC%91%E8%BE%BE&sa=fyb_news"
-    },
-    {
-      "id": "evt-deepseek",
-      "title": "如何评价 Deepseek-V4-Flash 正式版？",
+      "id": "evt-ipo80000",
+      "title": "宇树科技 IPO 时间定了，8 月 10 日开启新股申购，怎样看待其市场前景？",
       "category": "society",
       "hotScore": 0.6,
       "freshness": 1,
@@ -214,6 +289,25 @@
       ],
       "summary": "",
       "url": ""
+    },
+    {
+      "id": "evt-51790000",
+      "title": "男子晒5辆豪车179万余额后借钱不还",
+      "category": "society",
+      "hotScore": 0.595,
+      "freshness": 1,
+      "crossSource": 0.6309,
+      "totalScore": 0.7273,
+      "sources": [
+        {
+          "channel": "toutiao",
+          "rank": 7,
+          "hot": 5736265,
+          "url": "https://www.toutiao.com/trending/7668703607180754986/"
+        }
+      ],
+      "summary": "",
+      "url": "https://www.toutiao.com/trending/7668703607180754986/"
     }
   ]
 }
