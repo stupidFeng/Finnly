@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-08-01T12:55:34.610Z",
+  "generatedAt": "2026-08-01T14:51:41.173Z",
   "fields": {
     "society": "社会",
     "economy": "经济",
@@ -7,23 +7,61 @@
   },
   "feed": [
     {
-      "id": "evt-30000000",
-      "title": "出生时被抱错 两女子错换37年人生",
+      "id": "evt-00000000",
+      "title": "国家电网原董事长辛保安落马，退休已逾两年",
       "category": "society",
-      "hotScore": 0.72,
+      "hotScore": 0.85,
       "freshness": 1,
-      "crossSource": 1,
-      "totalScore": 0.888,
+      "crossSource": 0.6309,
+      "totalScore": 0.8293,
+      "sources": [
+        {
+          "channel": "thepaper",
+          "rank": 1,
+          "hot": 0,
+          "url": "https://www.thepaper.cn/newsDetail_forward_33692070"
+        }
+      ],
+      "summary": "",
+      "url": "https://www.thepaper.cn/newsDetail_forward_33692070"
+    },
+    {
+      "id": "evt-20340000",
+      "title": "2034杯落幕",
+      "category": "society",
+      "hotScore": 0.8075,
+      "freshness": 0.9997,
+      "crossSource": 0.6309,
+      "totalScore": 0.8122,
       "sources": [
         {
           "channel": "toutiao",
-          "rank": 19,
-          "hot": 2415772,
+          "rank": 2,
+          "hot": 10048872,
+          "url": "https://www.toutiao.com/trending/7669007887519485491/"
+        }
+      ],
+      "summary": "",
+      "url": "https://www.toutiao.com/trending/7669007887519485491/"
+    },
+    {
+      "id": "evt-30000000",
+      "title": "出生时被抱错 两女子错换37年人生",
+      "category": "society",
+      "hotScore": 0.4675,
+      "freshness": 0.9997,
+      "crossSource": 1,
+      "totalScore": 0.7869,
+      "sources": [
+        {
+          "channel": "toutiao",
+          "rank": 10,
+          "hot": 4515249,
           "url": "https://www.toutiao.com/trending/7668972744050081833/"
         },
         {
           "channel": "baidu",
-          "rank": 3,
+          "rank": 10,
           "hot": 0,
           "url": "https://m.baidu.com/s?word=%E5%87%BA%E7%94%9F%E6%97%B6%E8%A2%AB%E6%8A%B1%E9%94%99+%E4%B8%A4%E5%A5%B3%E5%AD%90%E9%94%99%E6%8D%A237%E5%B9%B4%E4%BA%BA%E7%94%9F&sa=fyb_news"
         }
@@ -32,33 +70,8 @@
       "url": "https://www.toutiao.com/trending/7668972744050081833/"
     },
     {
-      "id": "evt-00000000",
-      "title": "海警在黄岩岛模拟拖离侵权船只",
-      "category": "society",
-      "hotScore": 0.68,
-      "freshness": 1,
-      "crossSource": 1,
-      "totalScore": 0.872,
-      "sources": [
-        {
-          "channel": "toutiao",
-          "rank": 5,
-          "hot": 9796440,
-          "url": "https://www.toutiao.com/trending/7669019008590695982/"
-        },
-        {
-          "channel": "baidu",
-          "rank": 10,
-          "hot": 0,
-          "url": "https://m.baidu.com/s?word=%E6%B5%B7%E8%AD%A6%E5%9C%A8%E9%BB%84%E5%B2%A9%E5%B2%9B%E6%A8%A1%E6%8B%9F%E6%8B%96%E7%A6%BB%E4%BE%B5%E6%9D%83%E8%88%B9%E5%8F%AA&sa=fyb_news"
-        }
-      ],
-      "summary": "",
-      "url": "https://www.toutiao.com/trending/7669019008590695982/"
-    },
-    {
-      "id": "evt-20340000",
-      "title": "决战！2034杯收官战直播",
+      "id": "evt-ai000000",
+      "title": "摩根士丹利邢自强：AI投资“半场休息”，下半场逻辑已变",
       "category": "society",
       "hotScore": 0.7225,
       "freshness": 1,
@@ -66,42 +79,23 @@
       "totalScore": 0.7783,
       "sources": [
         {
-          "channel": "toutiao",
+          "channel": "thepaper",
           "rank": 4,
-          "hot": 10826740,
-          "url": "https://www.toutiao.com/trending/7669007887519485491/"
-        }
-      ],
-      "summary": "",
-      "url": "https://www.toutiao.com/trending/7669007887519485491/"
-    },
-    {
-      "id": "evt-deepseek",
-      "title": "DeepSeek 居然会对用户说「我去吃饭了」「我去睡了」，为啥会出现这样的现象？",
-      "category": "society",
-      "hotScore": 0.675,
-      "freshness": 1,
-      "crossSource": 0.6309,
-      "totalScore": 0.7593,
-      "sources": [
-        {
-          "channel": "zhihu",
-          "rank": 3,
           "hot": 0,
-          "url": ""
+          "url": "https://www.thepaper.cn/newsDetail_forward_33692011"
         }
       ],
       "summary": "",
-      "url": ""
+      "url": "https://www.thepaper.cn/newsDetail_forward_33692011"
     },
     {
       "id": "evt-10000000",
       "title": "中芯国际与嘉楠科技合作14nm矿机芯片，知情人士：能否量产要看行情",
       "category": "economy",
       "hotScore": 0.9,
-      "freshness": 1,
+      "freshness": 0.9998,
       "crossSource": 0.6309,
-      "totalScore": 0.8493,
+      "totalScore": 0.8492,
       "sources": [
         {
           "channel": "36kr",
@@ -118,9 +112,9 @@
       "title": "三大运营商年内推出5G消息",
       "category": "economy",
       "hotScore": 0.855,
-      "freshness": 1,
+      "freshness": 0.9998,
       "crossSource": 0.6309,
-      "totalScore": 0.8313,
+      "totalScore": 0.8312,
       "sources": [
         {
           "channel": "36kr",
@@ -137,9 +131,9 @@
       "title": "欧洲在线订餐服务Takeaway.com：外卖订单开始强劲复苏",
       "category": "economy",
       "hotScore": 0.81,
-      "freshness": 1,
+      "freshness": 0.9998,
       "crossSource": 0.6309,
-      "totalScore": 0.8133,
+      "totalScore": 0.8132,
       "sources": [
         {
           "channel": "36kr",
@@ -152,13 +146,51 @@
       "url": ""
     },
     {
+      "id": "evt-54800000",
+      "title": "5万人游进西班牙后4.8万人游回去了",
+      "category": "society",
+      "hotScore": 0.72,
+      "freshness": 0.9998,
+      "crossSource": 0.6309,
+      "totalScore": 0.7772,
+      "sources": [
+        {
+          "channel": "baidu",
+          "rank": 3,
+          "hot": 0,
+          "url": "https://m.baidu.com/s?word=5%E4%B8%87%E4%BA%BA%E6%B8%B8%E8%BF%9B%E8%A5%BF%E7%8F%AD%E7%89%99%E5%90%8E4.8%E4%B8%87%E4%BA%BA%E6%B8%B8%E5%9B%9E%E5%8E%BB%E4%BA%86&sa=fyb_news"
+        }
+      ],
+      "summary": "",
+      "url": "https://m.baidu.com/s?word=5%E4%B8%87%E4%BA%BA%E6%B8%B8%E8%BF%9B%E8%A5%BF%E7%8F%AD%E7%89%99%E5%90%8E4.8%E4%B8%87%E4%BA%BA%E6%B8%B8%E5%9B%9E%E5%8E%BB%E4%BA%86&sa=fyb_news"
+    },
+    {
+      "id": "evt-50000000",
+      "title": "大哥离世留下5娃由婶婶照顾至今5年",
+      "category": "society",
+      "hotScore": 0.68,
+      "freshness": 0.9997,
+      "crossSource": 0.6309,
+      "totalScore": 0.7612,
+      "sources": [
+        {
+          "channel": "toutiao",
+          "rank": 5,
+          "hot": 7444388,
+          "url": "https://www.toutiao.com/trending/7669003483882242091/"
+        }
+      ],
+      "summary": "",
+      "url": "https://www.toutiao.com/trending/7669003483882242091/"
+    },
+    {
       "id": "evt-3d000000",
       "title": "好未来《熊猫博士》3D动画片登陆央视少儿频道",
       "category": "society",
       "hotScore": 0.63,
-      "freshness": 1,
+      "freshness": 0.9998,
       "crossSource": 0.6309,
-      "totalScore": 0.7413,
+      "totalScore": 0.7412,
       "sources": [
         {
           "channel": "36kr",
@@ -171,42 +203,42 @@
       "url": ""
     },
     {
-      "id": "evt-ai000000",
-      "title": "摩根士丹利邢自强：AI投资“半场休息”，下半场逻辑已变",
+      "id": "evt-65000000",
+      "title": "一个小孩两天吃饭要花659元？家长投诉",
       "category": "society",
-      "hotScore": 0.595,
-      "freshness": 1,
+      "hotScore": 0.6,
+      "freshness": 0.9998,
       "crossSource": 0.6309,
-      "totalScore": 0.7273,
-      "sources": [
-        {
-          "channel": "thepaper",
-          "rank": 7,
-          "hot": 0,
-          "url": "https://www.thepaper.cn/newsDetail_forward_33692011"
-        }
-      ],
-      "summary": "",
-      "url": "https://www.thepaper.cn/newsDetail_forward_33692011"
-    },
-    {
-      "id": "evt-vs000000",
-      "title": "曼城vs国米",
-      "category": "society",
-      "hotScore": 0.52,
-      "freshness": 1,
-      "crossSource": 0.6309,
-      "totalScore": 0.6973,
+      "totalScore": 0.7292,
       "sources": [
         {
           "channel": "baidu",
-          "rank": 8,
+          "rank": 6,
           "hot": 0,
-          "url": "https://m.baidu.com/s?word=%E6%9B%BC%E5%9F%8Evs%E5%9B%BD%E7%B1%B3&sa=fyb_news"
+          "url": "https://m.baidu.com/s?word=%E4%B8%80%E4%B8%AA%E5%B0%8F%E5%AD%A9%E4%B8%A4%E5%A4%A9%E5%90%83%E9%A5%AD%E8%A6%81%E8%8A%B1659%E5%85%83%EF%BC%9F%E5%AE%B6%E9%95%BF%E6%8A%95%E8%AF%89&sa=fyb_news"
         }
       ],
       "summary": "",
-      "url": "https://m.baidu.com/s?word=%E6%9B%BC%E5%9F%8Evs%E5%9B%BD%E7%B1%B3&sa=fyb_news"
+      "url": "https://m.baidu.com/s?word=%E4%B8%80%E4%B8%AA%E5%B0%8F%E5%AD%A9%E4%B8%A4%E5%A4%A9%E5%90%83%E9%A5%AD%E8%A6%81%E8%8A%B1659%E5%85%83%EF%BC%9F%E5%AE%B6%E9%95%BF%E6%8A%95%E8%AF%89&sa=fyb_news"
+    },
+    {
+      "id": "evt-98500000",
+      "title": "已经复读一年，被中流 985 物理拔尖班录取，但不甘心，还有必要读高五吗？",
+      "category": "society",
+      "hotScore": 0.5625,
+      "freshness": 0.9998,
+      "crossSource": 0.6309,
+      "totalScore": 0.7142,
+      "sources": [
+        {
+          "channel": "zhihu",
+          "rank": 6,
+          "hot": 0,
+          "url": ""
+        }
+      ],
+      "summary": "",
+      "url": ""
     }
   ]
 }
