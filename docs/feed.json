@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-08-02T05:17:10.016Z",
+  "generatedAt": "2026-08-02T08:04:33.676Z",
   "fields": {
     "society": "社会",
     "economy": "经济",
@@ -7,32 +7,13 @@
   },
   "feed": [
     {
-      "id": "evt-20000000",
-      "title": "歼20实弹发射罕见曝光",
-      "category": "society",
-      "hotScore": 0.85,
-      "freshness": 0.9999,
-      "crossSource": 1,
-      "totalScore": 0.94,
-      "sources": [
-        {
-          "channel": "toutiao",
-          "rank": 1,
-          "hot": 18152662,
-          "url": "https://www.toutiao.com/trending/7668727416755634227/"
-        }
-      ],
-      "summary": "",
-      "url": "https://www.toutiao.com/trending/7668727416755634227/"
-    },
-    {
       "id": "evt-00000000",
       "title": "中国烹饪协会：“中国烹饪大师”“之乡、之都”等称号全部作废",
       "category": "society",
       "hotScore": 0.85,
       "freshness": 1,
-      "crossSource": 1,
-      "totalScore": 0.94,
+      "crossSource": 0.6309,
+      "totalScore": 0.8293,
       "sources": [
         {
           "channel": "thepaper",
@@ -45,32 +26,13 @@
       "url": "https://www.thepaper.cn/newsDetail_forward_33695141"
     },
     {
-      "id": "evt-25200000",
-      "title": "甘肃渭源山洪已致25死23伤",
-      "category": "society",
-      "hotScore": 0.8075,
-      "freshness": 0.9999,
-      "crossSource": 1,
-      "totalScore": 0.923,
-      "sources": [
-        {
-          "channel": "toutiao",
-          "rank": 2,
-          "hot": 16425208,
-          "url": "https://www.toutiao.com/trending/7669117720610045993/"
-        }
-      ],
-      "summary": "",
-      "url": "https://www.toutiao.com/trending/7669117720610045993/"
-    },
-    {
       "id": "evt-30000000",
       "title": "赞达亚戴3000年历史耳环为《奥德赛》站台，引考古界批评",
       "category": "society",
       "hotScore": 0.8075,
       "freshness": 1,
-      "crossSource": 1,
-      "totalScore": 0.923,
+      "crossSource": 0.6309,
+      "totalScore": 0.8123,
       "sources": [
         {
           "channel": "thepaper",
@@ -83,13 +45,76 @@
       "url": "https://www.thepaper.cn/newsDetail_forward_33693676"
     },
     {
+      "id": "evt-20000000",
+      "title": "歼-20王牌旅长为何说耻辱牌永不摘下",
+      "category": "society",
+      "hotScore": 0.76,
+      "freshness": 0.9999,
+      "crossSource": 0.6309,
+      "totalScore": 0.7933,
+      "sources": [
+        {
+          "channel": "baidu",
+          "rank": 2,
+          "hot": 0,
+          "url": "https://m.baidu.com/s?word=%E6%AD%BC-20%E7%8E%8B%E7%89%8C%E6%97%85%E9%95%BF%E4%B8%BA%E4%BD%95%E8%AF%B4%E8%80%BB%E8%BE%B1%E7%89%8C%E6%B0%B8%E4%B8%8D%E6%91%98%E4%B8%8B&sa=fyb_news"
+        }
+      ],
+      "summary": "",
+      "url": "https://m.baidu.com/s?word=%E6%AD%BC-20%E7%8E%8B%E7%89%8C%E6%97%85%E9%95%BF%E4%B8%BA%E4%BD%95%E8%AF%B4%E8%80%BB%E8%BE%B1%E7%89%8C%E6%B0%B8%E4%B8%8D%E6%91%98%E4%B8%8B&sa=fyb_news"
+    },
+    {
+      "id": "evt-50000000",
+      "title": "四大行陆续上架5年期大额存单，均为20万元起存",
+      "category": "society",
+      "hotScore": 0.7225,
+      "freshness": 1,
+      "crossSource": 0.6309,
+      "totalScore": 0.7783,
+      "sources": [
+        {
+          "channel": "thepaper",
+          "rank": 4,
+          "hot": 0,
+          "url": "https://www.thepaper.cn/newsDetail_forward_33693952"
+        }
+      ],
+      "summary": "",
+      "url": "https://www.thepaper.cn/newsDetail_forward_33693952"
+    },
+    {
+      "id": "evt-70000000",
+      "title": "利润最高涨700倍 半导体产业全线爆发",
+      "category": "economy",
+      "hotScore": 0.85,
+      "freshness": 0.9999,
+      "crossSource": 1,
+      "totalScore": 0.94,
+      "sources": [
+        {
+          "channel": "toutiao",
+          "rank": 1,
+          "hot": 12268012,
+          "url": "https://www.toutiao.com/trending/7668166509122355243/"
+        },
+        {
+          "channel": "baidu",
+          "rank": 5,
+          "hot": 0,
+          "url": "https://m.baidu.com/s?word=%E5%88%A9%E6%B6%A6%E6%9C%80%E9%AB%98%E6%B6%A8700%E5%80%8D+%E5%8D%8A%E5%AF%BC%E4%BD%93%E4%BA%A7%E4%B8%9A%E5%85%A8%E7%BA%BF%E7%88%86%E5%8F%91&sa=fyb_news"
+        }
+      ],
+      "summary": "",
+      "url": "https://www.toutiao.com/trending/7668166509122355243/"
+    },
+    {
       "id": "evt-10000000",
       "title": "中芯国际与嘉楠科技合作14nm矿机芯片，知情人士：能否量产要看行情",
       "category": "economy",
       "hotScore": 0.9,
       "freshness": 1,
-      "crossSource": 1,
-      "totalScore": 0.96,
+      "crossSource": 0.6309,
+      "totalScore": 0.8493,
       "sources": [
         {
           "channel": "36kr",
@@ -107,8 +132,8 @@
       "category": "economy",
       "hotScore": 0.855,
       "freshness": 1,
-      "crossSource": 1,
-      "totalScore": 0.942,
+      "crossSource": 0.6309,
+      "totalScore": 0.8313,
       "sources": [
         {
           "channel": "36kr",
@@ -126,8 +151,8 @@
       "category": "economy",
       "hotScore": 0.81,
       "freshness": 1,
-      "crossSource": 1,
-      "totalScore": 0.924,
+      "crossSource": 0.6309,
+      "totalScore": 0.8133,
       "sources": [
         {
           "channel": "36kr",
@@ -140,93 +165,99 @@
       "url": ""
     },
     {
-      "id": "evt-if126000",
-      "title": "IF椰子水市值从126亿暴跌到16亿",
-      "category": "economy",
-      "hotScore": 0.6,
-      "freshness": 1,
+      "id": "evt-20267000",
+      "title": "2026暑期档票房突破70亿",
+      "category": "entertainment",
+      "hotScore": 0.765,
+      "freshness": 0.9999,
+      "crossSource": 0.6309,
+      "totalScore": 0.7952,
+      "sources": [
+        {
+          "channel": "toutiao",
+          "rank": 3,
+          "hot": 10044199,
+          "url": "https://www.toutiao.com/trending/7669332835286896154/"
+        }
+      ],
+      "summary": "",
+      "url": "https://www.toutiao.com/trending/7669332835286896154/"
+    },
+    {
+      "id": "evt-59000000",
+      "title": "59岁陈小春称不敢退休",
+      "category": "society",
+      "hotScore": 0.44,
+      "freshness": 0.9999,
       "crossSource": 1,
-      "totalScore": 0.84,
+      "totalScore": 0.776,
+      "sources": [
+        {
+          "channel": "toutiao",
+          "rank": 15,
+          "hot": 3025254,
+          "url": "https://www.toutiao.com/trending/7668488111014232127/"
+        },
+        {
+          "channel": "baidu",
+          "rank": 10,
+          "hot": 0,
+          "url": "https://m.baidu.com/s?word=59%E5%B2%81%E9%99%88%E5%B0%8F%E6%98%A5%E7%A7%B0%E4%B8%8D%E6%95%A2%E9%80%80%E4%BC%91&sa=fyb_news"
+        }
+      ],
+      "summary": "",
+      "url": "https://www.toutiao.com/trending/7668488111014232127/"
+    },
+    {
+      "id": "evt-ai000000",
+      "title": "中国AI大模型的优势在哪里",
+      "category": "society",
+      "hotScore": 0.68,
+      "freshness": 0.9999,
+      "crossSource": 0.6309,
+      "totalScore": 0.7613,
       "sources": [
         {
           "channel": "baidu",
-          "rank": 6,
-          "hot": 0,
-          "url": "https://m.baidu.com/s?word=IF%E6%A4%B0%E5%AD%90%E6%B0%B4%E5%B8%82%E5%80%BC%E4%BB%8E126%E4%BA%BF%E6%9A%B4%E8%B7%8C%E5%88%B016%E4%BA%BF&sa=fyb_news"
-        }
-      ],
-      "summary": "",
-      "url": "https://m.baidu.com/s?word=IF%E6%A4%B0%E5%AD%90%E6%B0%B4%E5%B8%82%E5%80%BC%E4%BB%8E126%E4%BA%BF%E6%9A%B4%E8%B7%8C%E5%88%B016%E4%BA%BF&sa=fyb_news"
-    },
-    {
-      "id": "evt-15000000",
-      "title": "漂流抓到15斤大鱼当事人发声",
-      "category": "society",
-      "hotScore": 0.7225,
-      "freshness": 0.9999,
-      "crossSource": 1,
-      "totalScore": 0.889,
-      "sources": [
-        {
-          "channel": "toutiao",
           "rank": 4,
-          "hot": 13447822,
-          "url": "https://www.toutiao.com/trending/7668937302252470335/"
+          "hot": 0,
+          "url": "https://m.baidu.com/s?word=%E4%B8%AD%E5%9B%BDAI%E5%A4%A7%E6%A8%A1%E5%9E%8B%E7%9A%84%E4%BC%98%E5%8A%BF%E5%9C%A8%E5%93%AA%E9%87%8C&sa=fyb_news"
         }
       ],
       "summary": "",
-      "url": "https://www.toutiao.com/trending/7668937302252470335/"
+      "url": "https://m.baidu.com/s?word=%E4%B8%AD%E5%9B%BDAI%E5%A4%A7%E6%A8%A1%E5%9E%8B%E7%9A%84%E4%BC%98%E5%8A%BF%E5%9C%A8%E5%93%AA%E9%87%8C&sa=fyb_news"
     },
     {
-      "id": "evt-00200000",
-      "title": "00后运20女飞：离地三尺不分男女",
+      "id": "evt-20j00000",
+      "title": "直-20J亮剑黄岩岛",
       "category": "society",
       "hotScore": 0.68,
       "freshness": 0.9999,
-      "crossSource": 1,
-      "totalScore": 0.872,
+      "crossSource": 0.6309,
+      "totalScore": 0.7612,
       "sources": [
         {
           "channel": "toutiao",
           "rank": 5,
-          "hot": 12168093,
-          "url": "https://www.toutiao.com/trending/7669241153266437670/"
+          "hot": 8223494,
+          "url": "https://www.toutiao.com/trending/7668940746304634943/"
         }
       ],
       "summary": "",
-      "url": "https://www.toutiao.com/trending/7669241153266437670/"
+      "url": "https://www.toutiao.com/trending/7668940746304634943/"
     },
     {
-      "id": "evt-50000000",
-      "title": "四大行陆续上架5年期大额存单，均为20万元起存",
-      "category": "society",
-      "hotScore": 0.68,
-      "freshness": 1,
-      "crossSource": 1,
-      "totalScore": 0.872,
-      "sources": [
-        {
-          "channel": "thepaper",
-          "rank": 5,
-          "hot": 0,
-          "url": "https://www.thepaper.cn/newsDetail_forward_33693952"
-        }
-      ],
-      "summary": "",
-      "url": "https://www.thepaper.cn/newsDetail_forward_33693952"
-    },
-    {
-      "id": "evt-18500000",
-      "title": "如何评价凡人修仙传 185 集在线人数创新低？",
-      "category": "society",
-      "hotScore": 0.675,
+      "id": "evt-38000000",
+      "title": "韩国股市 38 天跌掉韩国一年 GDP，韩股「去杠杆」结束了吗？这场杠杆风暴给全球散户带来哪些警示？",
+      "category": "economy",
+      "hotScore": 0.6375,
       "freshness": 0.9999,
-      "crossSource": 1,
-      "totalScore": 0.87,
+      "crossSource": 0.6309,
+      "totalScore": 0.7443,
       "sources": [
         {
           "channel": "zhihu",
-          "rank": 3,
+          "rank": 4,
           "hot": 0,
           "url": ""
         }
@@ -235,23 +266,23 @@
       "url": ""
     },
     {
-      "id": "evt-a3360000",
-      "title": "A股“追光者”一月亏光336万",
+      "id": "evt-25200000",
+      "title": "甘肃渭源山洪已致25死23伤",
       "category": "society",
       "hotScore": 0.6375,
       "freshness": 0.9999,
-      "crossSource": 1,
-      "totalScore": 0.855,
+      "crossSource": 0.6309,
+      "totalScore": 0.7442,
       "sources": [
         {
           "channel": "toutiao",
           "rank": 6,
-          "hot": 11010146,
-          "url": "https://www.toutiao.com/trending/7668209151550816275/"
+          "hot": 7440925,
+          "url": "https://www.toutiao.com/trending/7669117720610045993/"
         }
       ],
       "summary": "",
-      "url": "https://www.toutiao.com/trending/7668209151550816275/"
+      "url": "https://www.toutiao.com/trending/7669117720610045993/"
     },
     {
       "id": "evt-3d000000",
@@ -259,8 +290,8 @@
       "category": "society",
       "hotScore": 0.63,
       "freshness": 1,
-      "crossSource": 1,
-      "totalScore": 0.852,
+      "crossSource": 0.6309,
+      "totalScore": 0.7413,
       "sources": [
         {
           "channel": "36kr",
@@ -271,25 +302,6 @@
       ],
       "summary": "36氪获悉，自4月9日起，中央电视台少儿频道携手好未来旗下教育品牌熊猫博士上线3D系列动画片《熊猫博士》。与此同时，《熊猫博士》3D动画片也在美国、加拿大、俄罗斯、意大利等多个国家、地区陆续发行，并登陆Discovery探索频道等多个世界知名节目。",
       "url": ""
-    },
-    {
-      "id": "evt-12000000",
-      "title": "老人戒指掉入高铁厕所、12306回复称不符合寻找条件？铁路部门回应",
-      "category": "society",
-      "hotScore": 0.595,
-      "freshness": 1,
-      "crossSource": 1,
-      "totalScore": 0.838,
-      "sources": [
-        {
-          "channel": "thepaper",
-          "rank": 7,
-          "hot": 0,
-          "url": "https://www.thepaper.cn/newsDetail_forward_33694046"
-        }
-      ],
-      "summary": "",
-      "url": "https://www.thepaper.cn/newsDetail_forward_33694046"
     }
   ]
 }
