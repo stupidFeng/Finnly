@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-08-02T18:54:11.411Z",
+  "generatedAt": "2026-08-02T20:42:23.977Z",
   "fields": {
     "society": "社会",
     "economy": "经济",
@@ -11,14 +11,14 @@
       "title": "胖东来将大量占用直饮水列为不文明行为",
       "category": "society",
       "hotScore": 0.85,
-      "freshness": 0.9999,
-      "crossSource": 1,
-      "totalScore": 0.94,
+      "freshness": 1,
+      "crossSource": 0.6309,
+      "totalScore": 0.8293,
       "sources": [
         {
           "channel": "toutiao",
           "rank": 1,
-          "hot": 17451972,
+          "hot": 17972262,
           "url": "https://www.toutiao.com/trending/7669294913607221286/"
         }
       ],
@@ -30,14 +30,14 @@
       "title": "超10万亿住房公积金迎来全面激活",
       "category": "society",
       "hotScore": 0.8075,
-      "freshness": 0.9999,
-      "crossSource": 1,
-      "totalScore": 0.923,
+      "freshness": 1,
+      "crossSource": 0.6309,
+      "totalScore": 0.8123,
       "sources": [
         {
           "channel": "toutiao",
           "rank": 2,
-          "hot": 15791198,
+          "hot": 16261975,
           "url": "https://www.toutiao.com/trending/7668644818654003226/"
         }
       ],
@@ -50,8 +50,8 @@
       "category": "society",
       "hotScore": 0.76,
       "freshness": 1,
-      "crossSource": 1,
-      "totalScore": 0.904,
+      "crossSource": 0.6309,
+      "totalScore": 0.7933,
       "sources": [
         {
           "channel": "baidu",
@@ -67,14 +67,14 @@
       "id": "evt-deepseekv4fl",
       "title": "DeepSeek v4 flash 如此强大，接下来发布的 pro 会不会让美国御三家全部倒闭？",
       "category": "society",
-      "hotScore": 0.675,
+      "hotScore": 0.7125,
       "freshness": 1,
-      "crossSource": 1,
-      "totalScore": 0.87,
+      "crossSource": 0.6309,
+      "totalScore": 0.7743,
       "sources": [
         {
           "channel": "zhihu",
-          "rank": 3,
+          "rank": 2,
           "hot": 0,
           "url": ""
         }
@@ -88,8 +88,8 @@
       "category": "economy",
       "hotScore": 0.855,
       "freshness": 1,
-      "crossSource": 1,
-      "totalScore": 0.942,
+      "crossSource": 0.6309,
+      "totalScore": 0.8313,
       "sources": [
         {
           "channel": "36kr",
@@ -107,8 +107,8 @@
       "category": "economy",
       "hotScore": 0.81,
       "freshness": 1,
-      "crossSource": 1,
-      "totalScore": 0.924,
+      "crossSource": 0.6309,
+      "totalScore": 0.8133,
       "sources": [
         {
           "channel": "36kr",
@@ -125,14 +125,14 @@
       "title": "利润最高涨700倍 半导体产业全线爆发",
       "category": "economy",
       "hotScore": 0.68,
-      "freshness": 0.9999,
-      "crossSource": 1,
-      "totalScore": 0.872,
+      "freshness": 1,
+      "crossSource": 0.6309,
+      "totalScore": 0.7613,
       "sources": [
         {
           "channel": "toutiao",
           "rank": 5,
-          "hot": 11698407,
+          "hot": 12047167,
           "url": "https://www.toutiao.com/trending/7668166509122355243/"
         }
       ],
@@ -145,8 +145,8 @@
       "category": "entertainment",
       "hotScore": 0.68,
       "freshness": 1,
-      "crossSource": 1,
-      "totalScore": 0.872,
+      "crossSource": 0.6309,
+      "totalScore": 0.7613,
       "sources": [
         {
           "channel": "baidu",
@@ -159,13 +159,32 @@
       "url": "https://m.baidu.com/s?word=2026%E6%9A%91%E6%9C%9F%E6%A1%A3%E7%94%B5%E5%BD%B1%E7%A5%A8%E6%88%BF%E7%A0%B471%E4%BA%BF&sa=fyb_news"
     },
     {
+      "id": "evt-bin00000",
+      "title": "为什么 Bin 休息以后，从俱乐部到选手没有一个人帮他说话？",
+      "category": "society",
+      "hotScore": 0.675,
+      "freshness": 1,
+      "crossSource": 0.6309,
+      "totalScore": 0.7593,
+      "sources": [
+        {
+          "channel": "zhihu",
+          "rank": 3,
+          "hot": 0,
+          "url": ""
+        }
+      ],
+      "summary": "",
+      "url": ""
+    },
+    {
       "id": "evt-3d000000",
       "title": "好未来《熊猫博士》3D动画片登陆央视少儿频道",
       "category": "society",
       "hotScore": 0.63,
       "freshness": 1,
-      "crossSource": 1,
-      "totalScore": 0.852,
+      "crossSource": 0.6309,
+      "totalScore": 0.7413,
       "sources": [
         {
           "channel": "36kr",
@@ -183,8 +202,8 @@
       "category": "society",
       "hotScore": 0.6,
       "freshness": 1,
-      "crossSource": 1,
-      "totalScore": 0.84,
+      "crossSource": 0.6309,
+      "totalScore": 0.7293,
       "sources": [
         {
           "channel": "baidu",
@@ -201,14 +220,14 @@
       "title": "90后男子破坏军婚被判刑六个月",
       "category": "society",
       "hotScore": 0.595,
-      "freshness": 0.9999,
-      "crossSource": 1,
-      "totalScore": 0.838,
+      "freshness": 1,
+      "crossSource": 0.6309,
+      "totalScore": 0.7273,
       "sources": [
         {
           "channel": "toutiao",
           "rank": 7,
-          "hot": 9577845,
+          "hot": 9863386,
           "url": "https://www.toutiao.com/trending/7668273650482839598/"
         }
       ],
@@ -216,17 +235,36 @@
       "url": "https://www.toutiao.com/trending/7668273650482839598/"
     },
     {
-      "id": "evt-bin00000",
-      "title": "为什么 Bin 休息以后，从俱乐部到选手没有一个人帮他说话？",
+      "id": "evt-20j00000",
+      "title": "直-20J亮剑黄岩岛",
       "category": "society",
-      "hotScore": 0.5625,
+      "hotScore": 0.5525,
       "freshness": 1,
-      "crossSource": 1,
-      "totalScore": 0.825,
+      "crossSource": 0.6309,
+      "totalScore": 0.7103,
+      "sources": [
+        {
+          "channel": "toutiao",
+          "rank": 8,
+          "hot": 8924761,
+          "url": "https://www.toutiao.com/trending/7668940746304634943/"
+        }
+      ],
+      "summary": "",
+      "url": "https://www.toutiao.com/trending/7668940746304634943/"
+    },
+    {
+      "id": "evt-20268100",
+      "title": "如何看待 2026 年 8 月 1 日《蜘蛛侠：崭新之日》在上映第四天上座率被《八仙！》完全碾压？",
+      "category": "society",
+      "hotScore": 0.525,
+      "freshness": 1,
+      "crossSource": 0.6309,
+      "totalScore": 0.6993,
       "sources": [
         {
           "channel": "zhihu",
-          "rank": 6,
+          "rank": 7,
           "hot": 0,
           "url": ""
         }
