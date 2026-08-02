@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-08-01T22:43:39.586Z",
+  "generatedAt": "2026-08-02T01:48:02.943Z",
   "fields": {
     "society": "社会",
     "economy": "经济",
@@ -8,54 +8,54 @@
   "feed": [
     {
       "id": "evt-00000000",
-      "title": "俄罗斯轰炸利沃夫 北约会下场吗",
+      "title": "国防部部长：当好祖国统一的稳固底牌",
       "category": "society",
       "hotScore": 0.85,
-      "freshness": 0.9999,
-      "crossSource": 1,
-      "totalScore": 0.94,
+      "freshness": 1,
+      "crossSource": 0.6309,
+      "totalScore": 0.8293,
       "sources": [
         {
           "channel": "toutiao",
           "rank": 1,
-          "hot": 12348952,
-          "url": "https://www.toutiao.com/trending/7669021084112391731/"
+          "hot": 16861744,
+          "url": "https://www.toutiao.com/trending/7668676319316688902/"
         }
       ],
       "summary": "",
-      "url": "https://www.toutiao.com/trending/7669021084112391731/"
+      "url": "https://www.toutiao.com/trending/7668676319316688902/"
     },
     {
-      "id": "evt-30000000",
-      "title": "出生时被抱错两女子错换37年人生",
+      "id": "evt-50000000",
+      "title": "超5万非法移民闯西班牙后4.8万人返程",
       "category": "society",
       "hotScore": 0.8075,
-      "freshness": 0.9999,
-      "crossSource": 1,
-      "totalScore": 0.923,
+      "freshness": 1,
+      "crossSource": 0.6309,
+      "totalScore": 0.8123,
       "sources": [
         {
           "channel": "toutiao",
           "rank": 2,
-          "hot": 11173794,
-          "url": "https://www.toutiao.com/trending/7668972744050081833/"
+          "hot": 15257137,
+          "url": "https://www.toutiao.com/trending/7668589630266134035/"
         }
       ],
       "summary": "",
-      "url": "https://www.toutiao.com/trending/7668972744050081833/"
+      "url": "https://www.toutiao.com/trending/7668589630266134035/"
     },
     {
       "id": "evt-ai000000",
       "title": "摩根士丹利邢自强：AI投资“半场休息”，下半场逻辑已变",
       "category": "society",
-      "hotScore": 0.765,
+      "hotScore": 0.8075,
       "freshness": 1,
-      "crossSource": 1,
-      "totalScore": 0.906,
+      "crossSource": 0.6309,
+      "totalScore": 0.8123,
       "sources": [
         {
           "channel": "thepaper",
-          "rank": 3,
+          "rank": 2,
           "hot": 0,
           "url": "https://www.thepaper.cn/newsDetail_forward_33692011"
         }
@@ -64,42 +64,23 @@
       "url": "https://www.thepaper.cn/newsDetail_forward_33692011"
     },
     {
-      "id": "evt-54800000",
-      "title": "5万人游进西班牙后4.8万人游回去了",
+      "id": "evt-10000000",
+      "title": "媒体评小伙贷100万开制冰厂月赚30万",
       "category": "society",
-      "hotScore": 0.72,
+      "hotScore": 0.7225,
       "freshness": 1,
-      "crossSource": 1,
-      "totalScore": 0.888,
+      "crossSource": 0.6309,
+      "totalScore": 0.7783,
       "sources": [
         {
-          "channel": "baidu",
-          "rank": 3,
-          "hot": 0,
-          "url": "https://m.baidu.com/s?word=5%E4%B8%87%E4%BA%BA%E6%B8%B8%E8%BF%9B%E8%A5%BF%E7%8F%AD%E7%89%99%E5%90%8E4.8%E4%B8%87%E4%BA%BA%E6%B8%B8%E5%9B%9E%E5%8E%BB%E4%BA%86&sa=fyb_news"
+          "channel": "toutiao",
+          "rank": 4,
+          "hot": 12491487,
+          "url": "https://www.toutiao.com/trending/7668589630266183187/"
         }
       ],
       "summary": "",
-      "url": "https://m.baidu.com/s?word=5%E4%B8%87%E4%BA%BA%E6%B8%B8%E8%BF%9B%E8%A5%BF%E7%8F%AD%E7%89%99%E5%90%8E4.8%E4%B8%87%E4%BA%BA%E6%B8%B8%E5%9B%9E%E5%8E%BB%E4%BA%86&sa=fyb_news"
-    },
-    {
-      "id": "evt-10000000",
-      "title": "中芯国际与嘉楠科技合作14nm矿机芯片，知情人士：能否量产要看行情",
-      "category": "economy",
-      "hotScore": 0.9,
-      "freshness": 1,
-      "crossSource": 1,
-      "totalScore": 0.96,
-      "sources": [
-        {
-          "channel": "36kr",
-          "rank": 1,
-          "hot": 0,
-          "url": ""
-        }
-      ],
-      "summary": "有消息称，中芯国际与嘉楠科技合作的14nm矿机芯片已完成测试，将在今年二季度量产出货。对此，知情人士称，双方合作始于2019年年底，但能否量产要看行情。据悉，中芯国际数次尝试进入矿机行业，但受行情拖累一直未有实质进展。（财联社）",
-      "url": ""
+      "url": "https://www.toutiao.com/trending/7668589630266183187/"
     },
     {
       "id": "evt-5g000000",
@@ -107,8 +88,8 @@
       "category": "economy",
       "hotScore": 0.855,
       "freshness": 1,
-      "crossSource": 1,
-      "totalScore": 0.942,
+      "crossSource": 0.6309,
+      "totalScore": 0.8313,
       "sources": [
         {
           "channel": "36kr",
@@ -126,8 +107,8 @@
       "category": "economy",
       "hotScore": 0.81,
       "freshness": 1,
-      "crossSource": 1,
-      "totalScore": 0.924,
+      "crossSource": 0.6309,
+      "totalScore": 0.8133,
       "sources": [
         {
           "channel": "36kr",
@@ -140,23 +121,80 @@
       "url": ""
     },
     {
-      "id": "evt-17000000",
-      "title": "一部老片为何17年后在中国卖了5000万",
+      "id": "evt-30000000",
+      "title": "赞达亚戴3000年历史耳环为《奥德赛》站台，引考古界批评",
+      "category": "society",
+      "hotScore": 0.7225,
+      "freshness": 1,
+      "crossSource": 0.6309,
+      "totalScore": 0.7783,
+      "sources": [
+        {
+          "channel": "thepaper",
+          "rank": 4,
+          "hot": 0,
+          "url": "https://www.thepaper.cn/newsDetail_forward_33693676"
+        }
+      ],
+      "summary": "",
+      "url": "https://www.thepaper.cn/newsDetail_forward_33693676"
+    },
+    {
+      "id": "evt-18500000",
+      "title": "如何评价凡人修仙传 185 集在线人数创新低？",
+      "category": "society",
+      "hotScore": 0.7125,
+      "freshness": 1,
+      "crossSource": 0.6309,
+      "totalScore": 0.7743,
+      "sources": [
+        {
+          "channel": "zhihu",
+          "rank": 2,
+          "hot": 0,
+          "url": ""
+        }
+      ],
+      "summary": "",
+      "url": ""
+    },
+    {
+      "id": "evt-60000000",
+      "title": "月薪6万 老君山云海观察员日记曝光",
       "category": "society",
       "hotScore": 0.64,
       "freshness": 1,
-      "crossSource": 1,
-      "totalScore": 0.856,
+      "crossSource": 0.6309,
+      "totalScore": 0.7453,
       "sources": [
         {
           "channel": "baidu",
           "rank": 5,
           "hot": 0,
-          "url": "https://m.baidu.com/s?word=%E4%B8%80%E9%83%A8%E8%80%81%E7%89%87%E4%B8%BA%E4%BD%9517%E5%B9%B4%E5%90%8E%E5%9C%A8%E4%B8%AD%E5%9B%BD%E5%8D%96%E4%BA%865000%E4%B8%87&sa=fyb_news"
+          "url": "https://m.baidu.com/s?word=%E6%9C%88%E8%96%AA6%E4%B8%87+%E8%80%81%E5%90%9B%E5%B1%B1%E4%BA%91%E6%B5%B7%E8%A7%82%E5%AF%9F%E5%91%98%E6%97%A5%E8%AE%B0%E6%9B%9D%E5%85%89&sa=fyb_news"
         }
       ],
       "summary": "",
-      "url": "https://m.baidu.com/s?word=%E4%B8%80%E9%83%A8%E8%80%81%E7%89%87%E4%B8%BA%E4%BD%9517%E5%B9%B4%E5%90%8E%E5%9C%A8%E4%B8%AD%E5%9B%BD%E5%8D%96%E4%BA%865000%E4%B8%87&sa=fyb_news"
+      "url": "https://m.baidu.com/s?word=%E6%9C%88%E8%96%AA6%E4%B8%87+%E8%80%81%E5%90%9B%E5%B1%B1%E4%BA%91%E6%B5%B7%E8%A7%82%E5%AF%9F%E5%91%98%E6%97%A5%E8%AE%B0%E6%9B%9D%E5%85%89&sa=fyb_news"
+    },
+    {
+      "id": "evt-20j00000",
+      "title": "直-20J亮剑黄岩岛",
+      "category": "society",
+      "hotScore": 0.6375,
+      "freshness": 1,
+      "crossSource": 0.6309,
+      "totalScore": 0.7443,
+      "sources": [
+        {
+          "channel": "toutiao",
+          "rank": 6,
+          "hot": 10227164,
+          "url": "https://www.toutiao.com/trending/7668940746304634943/"
+        }
+      ],
+      "summary": "",
+      "url": "https://www.toutiao.com/trending/7668940746304634943/"
     },
     {
       "id": "evt-3d000000",
@@ -164,8 +202,8 @@
       "category": "society",
       "hotScore": 0.63,
       "freshness": 1,
-      "crossSource": 1,
-      "totalScore": 0.852,
+      "crossSource": 0.6309,
+      "totalScore": 0.7413,
       "sources": [
         {
           "channel": "36kr",
@@ -178,32 +216,13 @@
       "url": ""
     },
     {
-      "id": "evt-65000000",
-      "title": "一个小孩两天吃饭要花659元？家长投诉",
+      "id": "evt-blgbin00",
+      "title": "BLG 豪取五连胜，Bin 回归面临挑战，这对他职业生涯有何影响？",
       "category": "society",
       "hotScore": 0.6,
       "freshness": 1,
-      "crossSource": 1,
-      "totalScore": 0.84,
-      "sources": [
-        {
-          "channel": "baidu",
-          "rank": 6,
-          "hot": 0,
-          "url": "https://m.baidu.com/s?word=%E4%B8%80%E4%B8%AA%E5%B0%8F%E5%AD%A9%E4%B8%A4%E5%A4%A9%E5%90%83%E9%A5%AD%E8%A6%81%E8%8A%B1659%E5%85%83%EF%BC%9F%E5%AE%B6%E9%95%BF%E6%8A%95%E8%AF%89&sa=fyb_news"
-        }
-      ],
-      "summary": "",
-      "url": "https://m.baidu.com/s?word=%E4%B8%80%E4%B8%AA%E5%B0%8F%E5%AD%A9%E4%B8%A4%E5%A4%A9%E5%90%83%E9%A5%AD%E8%A6%81%E8%8A%B1659%E5%85%83%EF%BC%9F%E5%AE%B6%E9%95%BF%E6%8A%95%E8%AF%89&sa=fyb_news"
-    },
-    {
-      "id": "evt-98500000",
-      "title": "已经复读一年，被中流 985 物理拔尖班录取，但不甘心，还有必要读高五吗？",
-      "category": "society",
-      "hotScore": 0.6,
-      "freshness": 0.9999,
-      "crossSource": 1,
-      "totalScore": 0.84,
+      "crossSource": 0.6309,
+      "totalScore": 0.7293,
       "sources": [
         {
           "channel": "zhihu",
@@ -216,23 +235,23 @@
       "url": ""
     },
     {
-      "id": "evt-70000000",
-      "title": "男子买错机票7分钟退票被扣2022元",
+      "id": "evt-80000000",
+      "title": "8000米高峰雪崩 中国登山家仍失联",
       "category": "society",
-      "hotScore": 0.595,
-      "freshness": 0.9999,
-      "crossSource": 1,
-      "totalScore": 0.838,
+      "hotScore": 0.5525,
+      "freshness": 1,
+      "crossSource": 0.6309,
+      "totalScore": 0.7103,
       "sources": [
         {
           "channel": "toutiao",
-          "rank": 7,
-          "hot": 6777248,
-          "url": "https://www.toutiao.com/trending/7668172838323748905/"
+          "rank": 8,
+          "hot": 8373294,
+          "url": "https://www.toutiao.com/trending/7669209405941992987/"
         }
       ],
       "summary": "",
-      "url": "https://www.toutiao.com/trending/7668172838323748905/"
+      "url": "https://www.toutiao.com/trending/7669209405941992987/"
     }
   ]
 }
