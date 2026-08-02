@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-08-02T20:42:23.977Z",
+  "generatedAt": "2026-08-02T22:44:35.226Z",
   "fields": {
     "society": "社会",
     "economy": "经济",
@@ -11,14 +11,14 @@
       "title": "胖东来将大量占用直饮水列为不文明行为",
       "category": "society",
       "hotScore": 0.85,
-      "freshness": 1,
-      "crossSource": 0.6309,
-      "totalScore": 0.8293,
+      "freshness": 0.9999,
+      "crossSource": 1,
+      "totalScore": 0.94,
       "sources": [
         {
           "channel": "toutiao",
           "rank": 1,
-          "hot": 17972262,
+          "hot": 19302405,
           "url": "https://www.toutiao.com/trending/7669294913607221286/"
         }
       ],
@@ -30,14 +30,14 @@
       "title": "超10万亿住房公积金迎来全面激活",
       "category": "society",
       "hotScore": 0.8075,
-      "freshness": 1,
-      "crossSource": 0.6309,
-      "totalScore": 0.8123,
+      "freshness": 0.9999,
+      "crossSource": 1,
+      "totalScore": 0.923,
       "sources": [
         {
           "channel": "toutiao",
           "rank": 2,
-          "hot": 16261975,
+          "hot": 17465538,
           "url": "https://www.toutiao.com/trending/7668644818654003226/"
         }
       ],
@@ -50,8 +50,8 @@
       "category": "society",
       "hotScore": 0.76,
       "freshness": 1,
-      "crossSource": 0.6309,
-      "totalScore": 0.7933,
+      "crossSource": 1,
+      "totalScore": 0.904,
       "sources": [
         {
           "channel": "baidu",
@@ -67,14 +67,14 @@
       "id": "evt-deepseekv4fl",
       "title": "DeepSeek v4 flash 如此强大，接下来发布的 pro 会不会让美国御三家全部倒闭？",
       "category": "society",
-      "hotScore": 0.7125,
+      "hotScore": 0.75,
       "freshness": 1,
-      "crossSource": 0.6309,
-      "totalScore": 0.7743,
+      "crossSource": 1,
+      "totalScore": 0.9,
       "sources": [
         {
           "channel": "zhihu",
-          "rank": 2,
+          "rank": 1,
           "hot": 0,
           "url": ""
         }
@@ -88,8 +88,8 @@
       "category": "economy",
       "hotScore": 0.855,
       "freshness": 1,
-      "crossSource": 0.6309,
-      "totalScore": 0.8313,
+      "crossSource": 1,
+      "totalScore": 0.942,
       "sources": [
         {
           "channel": "36kr",
@@ -107,8 +107,8 @@
       "category": "economy",
       "hotScore": 0.81,
       "freshness": 1,
-      "crossSource": 0.6309,
-      "totalScore": 0.8133,
+      "crossSource": 1,
+      "totalScore": 0.924,
       "sources": [
         {
           "channel": "36kr",
@@ -121,32 +121,13 @@
       "url": ""
     },
     {
-      "id": "evt-70000000",
-      "title": "利润最高涨700倍 半导体产业全线爆发",
-      "category": "economy",
-      "hotScore": 0.68,
-      "freshness": 1,
-      "crossSource": 0.6309,
-      "totalScore": 0.7613,
-      "sources": [
-        {
-          "channel": "toutiao",
-          "rank": 5,
-          "hot": 12047167,
-          "url": "https://www.toutiao.com/trending/7668166509122355243/"
-        }
-      ],
-      "summary": "",
-      "url": "https://www.toutiao.com/trending/7668166509122355243/"
-    },
-    {
       "id": "evt-20260000",
       "title": "2026暑期档电影票房破71亿",
       "category": "entertainment",
       "hotScore": 0.68,
       "freshness": 1,
-      "crossSource": 0.6309,
-      "totalScore": 0.7613,
+      "crossSource": 1,
+      "totalScore": 0.872,
       "sources": [
         {
           "channel": "baidu",
@@ -164,8 +145,8 @@
       "category": "society",
       "hotScore": 0.675,
       "freshness": 1,
-      "crossSource": 0.6309,
-      "totalScore": 0.7593,
+      "crossSource": 1,
+      "totalScore": 0.87,
       "sources": [
         {
           "channel": "zhihu",
@@ -183,8 +164,8 @@
       "category": "society",
       "hotScore": 0.63,
       "freshness": 1,
-      "crossSource": 0.6309,
-      "totalScore": 0.7413,
+      "crossSource": 1,
+      "totalScore": 0.852,
       "sources": [
         {
           "channel": "36kr",
@@ -202,8 +183,8 @@
       "category": "society",
       "hotScore": 0.6,
       "freshness": 1,
-      "crossSource": 0.6309,
-      "totalScore": 0.7293,
+      "crossSource": 1,
+      "totalScore": 0.84,
       "sources": [
         {
           "channel": "baidu",
@@ -216,61 +197,61 @@
       "url": "https://m.baidu.com/s?word=32%E5%B2%81%E8%83%A1%E4%B8%80%E5%A4%A9%E6%BC%94%E9%AB%98%E4%B8%AD%E7%94%9F%E8%A2%AB%E6%8C%87%E8%BF%9D%E5%92%8C&sa=fyb_news"
     },
     {
-      "id": "evt-90000000",
-      "title": "90后男子破坏军婚被判刑六个月",
-      "category": "society",
-      "hotScore": 0.595,
-      "freshness": 1,
-      "crossSource": 0.6309,
-      "totalScore": 0.7273,
-      "sources": [
-        {
-          "channel": "toutiao",
-          "rank": 7,
-          "hot": 9863386,
-          "url": "https://www.toutiao.com/trending/7668273650482839598/"
-        }
-      ],
-      "summary": "",
-      "url": "https://www.toutiao.com/trending/7668273650482839598/"
-    },
-    {
-      "id": "evt-20j00000",
-      "title": "直-20J亮剑黄岩岛",
-      "category": "society",
-      "hotScore": 0.5525,
-      "freshness": 1,
-      "crossSource": 0.6309,
-      "totalScore": 0.7103,
-      "sources": [
-        {
-          "channel": "toutiao",
-          "rank": 8,
-          "hot": 8924761,
-          "url": "https://www.toutiao.com/trending/7668940746304634943/"
-        }
-      ],
-      "summary": "",
-      "url": "https://www.toutiao.com/trending/7668940746304634943/"
-    },
-    {
       "id": "evt-20268100",
       "title": "如何看待 2026 年 8 月 1 日《蜘蛛侠：崭新之日》在上映第四天上座率被《八仙！》完全碾压？",
       "category": "society",
-      "hotScore": 0.525,
+      "hotScore": 0.5625,
       "freshness": 1,
-      "crossSource": 0.6309,
-      "totalScore": 0.6993,
+      "crossSource": 1,
+      "totalScore": 0.825,
       "sources": [
         {
           "channel": "zhihu",
-          "rank": 7,
+          "rank": 6,
           "hot": 0,
           "url": ""
         }
       ],
       "summary": "",
       "url": ""
+    },
+    {
+      "id": "evt-12000000",
+      "title": "近120万辆特斯拉汽车遭调查",
+      "category": "society",
+      "hotScore": 0.56,
+      "freshness": 1,
+      "crossSource": 1,
+      "totalScore": 0.824,
+      "sources": [
+        {
+          "channel": "baidu",
+          "rank": 7,
+          "hot": 0,
+          "url": "https://m.baidu.com/s?word=%E8%BF%91120%E4%B8%87%E8%BE%86%E7%89%B9%E6%96%AF%E6%8B%89%E6%B1%BD%E8%BD%A6%E9%81%AD%E8%B0%83%E6%9F%A5&sa=fyb_news"
+        }
+      ],
+      "summary": "",
+      "url": "https://m.baidu.com/s?word=%E8%BF%91120%E4%B8%87%E8%BE%86%E7%89%B9%E6%96%AF%E6%8B%89%E6%B1%BD%E8%BD%A6%E9%81%AD%E8%B0%83%E6%9F%A5&sa=fyb_news"
+    },
+    {
+      "id": "evt-20j00000",
+      "title": "直-20J亮剑黄岩岛",
+      "category": "society",
+      "hotScore": 0.5525,
+      "freshness": 0.9999,
+      "crossSource": 1,
+      "totalScore": 0.821,
+      "sources": [
+        {
+          "channel": "toutiao",
+          "rank": 8,
+          "hot": 9585290,
+          "url": "https://www.toutiao.com/trending/7668940746304634943/"
+        }
+      ],
+      "summary": "",
+      "url": "https://www.toutiao.com/trending/7668940746304634943/"
     }
   ]
 }
