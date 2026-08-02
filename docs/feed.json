@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-08-02T14:53:40.629Z",
+  "generatedAt": "2026-08-02T16:46:13.766Z",
   "fields": {
     "society": "社会",
     "economy": "经济",
@@ -12,13 +12,13 @@
       "category": "society",
       "hotScore": 0.85,
       "freshness": 0.9999,
-      "crossSource": 0.6309,
-      "totalScore": 0.8293,
+      "crossSource": 1,
+      "totalScore": 0.94,
       "sources": [
         {
           "channel": "toutiao",
           "rank": 1,
-          "hot": 15662957,
+          "hot": 16844175,
           "url": "https://www.toutiao.com/trending/7669294913607221286/"
         }
       ],
@@ -26,18 +26,37 @@
       "url": "https://www.toutiao.com/trending/7669294913607221286/"
     },
     {
+      "id": "evt-50100000",
+      "title": "“高空秋千”成本50万 景区1个月回本",
+      "category": "society",
+      "hotScore": 0.76,
+      "freshness": 0.9999,
+      "crossSource": 1,
+      "totalScore": 0.904,
+      "sources": [
+        {
+          "channel": "baidu",
+          "rank": 2,
+          "hot": 0,
+          "url": "https://m.baidu.com/s?word=%E2%80%9C%E9%AB%98%E7%A9%BA%E7%A7%8B%E5%8D%83%E2%80%9D%E6%88%90%E6%9C%AC50%E4%B8%87+%E6%99%AF%E5%8C%BA1%E4%B8%AA%E6%9C%88%E5%9B%9E%E6%9C%AC&sa=fyb_news"
+        }
+      ],
+      "summary": "",
+      "url": "https://m.baidu.com/s?word=%E2%80%9C%E9%AB%98%E7%A9%BA%E7%A7%8B%E5%8D%83%E2%80%9D%E6%88%90%E6%9C%AC50%E4%B8%87+%E6%99%AF%E5%8C%BA1%E4%B8%AA%E6%9C%88%E5%9B%9E%E6%9C%AC&sa=fyb_news"
+    },
+    {
       "id": "evt-10000000",
       "title": "超10万亿住房公积金迎来全面激活",
       "category": "society",
-      "hotScore": 0.8075,
+      "hotScore": 0.68,
       "freshness": 0.9999,
-      "crossSource": 0.6309,
-      "totalScore": 0.8123,
+      "crossSource": 1,
+      "totalScore": 0.872,
       "sources": [
         {
           "channel": "toutiao",
-          "rank": 2,
-          "hot": 14172430,
+          "rank": 5,
+          "hot": 11290988,
           "url": "https://www.toutiao.com/trending/7668644818654003226/"
         }
       ],
@@ -50,8 +69,8 @@
       "category": "society",
       "hotScore": 0.63,
       "freshness": 1,
-      "crossSource": 0.6309,
-      "totalScore": 0.7413,
+      "crossSource": 1,
+      "totalScore": 0.852,
       "sources": [
         {
           "channel": "36kr",
@@ -64,32 +83,13 @@
       "url": ""
     },
     {
-      "id": "evt-32000000",
-      "title": "32岁胡一天演高中生被指违和",
-      "category": "society",
-      "hotScore": 0.6,
-      "freshness": 1,
-      "crossSource": 0.6309,
-      "totalScore": 0.7293,
-      "sources": [
-        {
-          "channel": "baidu",
-          "rank": 6,
-          "hot": 0,
-          "url": "https://m.baidu.com/s?word=32%E5%B2%81%E8%83%A1%E4%B8%80%E5%A4%A9%E6%BC%94%E9%AB%98%E4%B8%AD%E7%94%9F%E8%A2%AB%E6%8C%87%E8%BF%9D%E5%92%8C&sa=fyb_news"
-        }
-      ],
-      "summary": "",
-      "url": "https://m.baidu.com/s?word=32%E5%B2%81%E8%83%A1%E4%B8%80%E5%A4%A9%E6%BC%94%E9%AB%98%E4%B8%AD%E7%94%9F%E8%A2%AB%E6%8C%87%E8%BF%9D%E5%92%8C&sa=fyb_news"
-    },
-    {
       "id": "evt-5g000000",
       "title": "三大运营商年内推出5G消息",
       "category": "economy",
       "hotScore": 0.855,
       "freshness": 1,
-      "crossSource": 0.6309,
-      "totalScore": 0.8313,
+      "crossSource": 1,
+      "totalScore": 0.942,
       "sources": [
         {
           "channel": "36kr",
@@ -107,8 +107,8 @@
       "category": "economy",
       "hotScore": 0.81,
       "freshness": 1,
-      "crossSource": 0.6309,
-      "totalScore": 0.8133,
+      "crossSource": 1,
+      "totalScore": 0.924,
       "sources": [
         {
           "channel": "36kr",
@@ -125,9 +125,9 @@
       "title": "韩国股市 38 天跌掉韩国一年 GDP，韩股「去杠杆」结束了吗？这场杠杆风暴给全球散户带来哪些警示？",
       "category": "economy",
       "hotScore": 0.675,
-      "freshness": 1,
-      "crossSource": 0.6309,
-      "totalScore": 0.7593,
+      "freshness": 0.9999,
+      "crossSource": 1,
+      "totalScore": 0.87,
       "sources": [
         {
           "channel": "zhihu",
@@ -144,9 +144,9 @@
       "title": "2026暑期档电影票房破71亿",
       "category": "entertainment",
       "hotScore": 0.68,
-      "freshness": 1,
-      "crossSource": 0.6309,
-      "totalScore": 0.7613,
+      "freshness": 0.9999,
+      "crossSource": 1,
+      "totalScore": 0.872,
       "sources": [
         {
           "channel": "baidu",
@@ -159,36 +159,55 @@
       "url": "https://m.baidu.com/s?word=2026%E6%9A%91%E6%9C%9F%E6%A1%A3%E7%94%B5%E5%BD%B1%E7%A5%A8%E6%88%BF%E7%A0%B471%E4%BA%BF&sa=fyb_news"
     },
     {
-      "id": "evt-50000000",
-      "title": "为什么董宇辉能坚持看 500 多遍《大话西游》？真有人能同一部电影看 500 遍吗？",
-      "category": "entertainment",
+      "id": "evt-32000000",
+      "title": "32岁胡一天演高中生被指违和",
+      "category": "society",
+      "hotScore": 0.6,
+      "freshness": 0.9999,
+      "crossSource": 1,
+      "totalScore": 0.84,
+      "sources": [
+        {
+          "channel": "baidu",
+          "rank": 6,
+          "hot": 0,
+          "url": "https://m.baidu.com/s?word=32%E5%B2%81%E8%83%A1%E4%B8%80%E5%A4%A9%E6%BC%94%E9%AB%98%E4%B8%AD%E7%94%9F%E8%A2%AB%E6%8C%87%E8%BF%9D%E5%92%8C&sa=fyb_news"
+        }
+      ],
+      "summary": "",
+      "url": "https://m.baidu.com/s?word=32%E5%B2%81%E8%83%A1%E4%B8%80%E5%A4%A9%E6%BC%94%E9%AB%98%E4%B8%AD%E7%94%9F%E8%A2%AB%E6%8C%87%E8%BF%9D%E5%92%8C&sa=fyb_news"
+    },
+    {
+      "id": "evt-ceo00000",
+      "title": "东方甄选前CEO孙东旭新号首播",
+      "category": "society",
+      "hotScore": 0.5525,
+      "freshness": 0.9999,
+      "crossSource": 1,
+      "totalScore": 0.821,
+      "sources": [
+        {
+          "channel": "toutiao",
+          "rank": 8,
+          "hot": 8364569,
+          "url": "https://www.toutiao.com/trending/7668649061834965034/"
+        }
+      ],
+      "summary": "",
+      "url": "https://www.toutiao.com/trending/7668649061834965034/"
+    },
+    {
+      "id": "evt-deepseekv4fl",
+      "title": "DeepSeek v4 flash 如此强大，接下来发布的 pro 会不会让美国御三家全部倒闭？",
+      "category": "society",
       "hotScore": 0.525,
-      "freshness": 1,
-      "crossSource": 0.6309,
-      "totalScore": 0.6993,
+      "freshness": 0.9999,
+      "crossSource": 1,
+      "totalScore": 0.81,
       "sources": [
         {
           "channel": "zhihu",
           "rank": 7,
-          "hot": 0,
-          "url": ""
-        }
-      ],
-      "summary": "",
-      "url": ""
-    },
-    {
-      "id": "evt-71000000",
-      "title": "7 月零跑交付超 10 万台，小鹏交付 3.8 万台，理想、小米、极氪超 3 万台，如何评价各家表现？",
-      "category": "society",
-      "hotScore": 0.5625,
-      "freshness": 1,
-      "crossSource": 0.6309,
-      "totalScore": 0.7143,
-      "sources": [
-        {
-          "channel": "zhihu",
-          "rank": 6,
           "hot": 0,
           "url": ""
         }
