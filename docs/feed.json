@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-08-02T16:46:13.766Z",
+  "generatedAt": "2026-08-02T18:54:11.411Z",
   "fields": {
     "society": "社会",
     "economy": "经济",
@@ -18,7 +18,7 @@
         {
           "channel": "toutiao",
           "rank": 1,
-          "hot": 16844175,
+          "hot": 17451972,
           "url": "https://www.toutiao.com/trending/7669294913607221286/"
         }
       ],
@@ -26,11 +26,30 @@
       "url": "https://www.toutiao.com/trending/7669294913607221286/"
     },
     {
+      "id": "evt-10000000",
+      "title": "超10万亿住房公积金迎来全面激活",
+      "category": "society",
+      "hotScore": 0.8075,
+      "freshness": 0.9999,
+      "crossSource": 1,
+      "totalScore": 0.923,
+      "sources": [
+        {
+          "channel": "toutiao",
+          "rank": 2,
+          "hot": 15791198,
+          "url": "https://www.toutiao.com/trending/7668644818654003226/"
+        }
+      ],
+      "summary": "",
+      "url": "https://www.toutiao.com/trending/7668644818654003226/"
+    },
+    {
       "id": "evt-50100000",
       "title": "“高空秋千”成本50万 景区1个月回本",
       "category": "society",
       "hotScore": 0.76,
-      "freshness": 0.9999,
+      "freshness": 1,
       "crossSource": 1,
       "totalScore": 0.904,
       "sources": [
@@ -45,41 +64,22 @@
       "url": "https://m.baidu.com/s?word=%E2%80%9C%E9%AB%98%E7%A9%BA%E7%A7%8B%E5%8D%83%E2%80%9D%E6%88%90%E6%9C%AC50%E4%B8%87+%E6%99%AF%E5%8C%BA1%E4%B8%AA%E6%9C%88%E5%9B%9E%E6%9C%AC&sa=fyb_news"
     },
     {
-      "id": "evt-10000000",
-      "title": "超10万亿住房公积金迎来全面激活",
+      "id": "evt-deepseekv4fl",
+      "title": "DeepSeek v4 flash 如此强大，接下来发布的 pro 会不会让美国御三家全部倒闭？",
       "category": "society",
-      "hotScore": 0.68,
-      "freshness": 0.9999,
-      "crossSource": 1,
-      "totalScore": 0.872,
-      "sources": [
-        {
-          "channel": "toutiao",
-          "rank": 5,
-          "hot": 11290988,
-          "url": "https://www.toutiao.com/trending/7668644818654003226/"
-        }
-      ],
-      "summary": "",
-      "url": "https://www.toutiao.com/trending/7668644818654003226/"
-    },
-    {
-      "id": "evt-3d000000",
-      "title": "好未来《熊猫博士》3D动画片登陆央视少儿频道",
-      "category": "society",
-      "hotScore": 0.63,
+      "hotScore": 0.675,
       "freshness": 1,
       "crossSource": 1,
-      "totalScore": 0.852,
+      "totalScore": 0.87,
       "sources": [
         {
-          "channel": "36kr",
-          "rank": 7,
+          "channel": "zhihu",
+          "rank": 3,
           "hot": 0,
           "url": ""
         }
       ],
-      "summary": "36氪获悉，自4月9日起，中央电视台少儿频道携手好未来旗下教育品牌熊猫博士上线3D系列动画片《熊猫博士》。与此同时，《熊猫博士》3D动画片也在美国、加拿大、俄罗斯、意大利等多个国家、地区陆续发行，并登陆Discovery探索频道等多个世界知名节目。",
+      "summary": "",
       "url": ""
     },
     {
@@ -121,30 +121,30 @@
       "url": ""
     },
     {
-      "id": "evt-38000000",
-      "title": "韩国股市 38 天跌掉韩国一年 GDP，韩股「去杠杆」结束了吗？这场杠杆风暴给全球散户带来哪些警示？",
+      "id": "evt-70000000",
+      "title": "利润最高涨700倍 半导体产业全线爆发",
       "category": "economy",
-      "hotScore": 0.675,
+      "hotScore": 0.68,
       "freshness": 0.9999,
       "crossSource": 1,
-      "totalScore": 0.87,
+      "totalScore": 0.872,
       "sources": [
         {
-          "channel": "zhihu",
-          "rank": 3,
-          "hot": 0,
-          "url": ""
+          "channel": "toutiao",
+          "rank": 5,
+          "hot": 11698407,
+          "url": "https://www.toutiao.com/trending/7668166509122355243/"
         }
       ],
       "summary": "",
-      "url": ""
+      "url": "https://www.toutiao.com/trending/7668166509122355243/"
     },
     {
       "id": "evt-20260000",
       "title": "2026暑期档电影票房破71亿",
       "category": "entertainment",
       "hotScore": 0.68,
-      "freshness": 0.9999,
+      "freshness": 1,
       "crossSource": 1,
       "totalScore": 0.872,
       "sources": [
@@ -159,11 +159,30 @@
       "url": "https://m.baidu.com/s?word=2026%E6%9A%91%E6%9C%9F%E6%A1%A3%E7%94%B5%E5%BD%B1%E7%A5%A8%E6%88%BF%E7%A0%B471%E4%BA%BF&sa=fyb_news"
     },
     {
+      "id": "evt-3d000000",
+      "title": "好未来《熊猫博士》3D动画片登陆央视少儿频道",
+      "category": "society",
+      "hotScore": 0.63,
+      "freshness": 1,
+      "crossSource": 1,
+      "totalScore": 0.852,
+      "sources": [
+        {
+          "channel": "36kr",
+          "rank": 7,
+          "hot": 0,
+          "url": ""
+        }
+      ],
+      "summary": "36氪获悉，自4月9日起，中央电视台少儿频道携手好未来旗下教育品牌熊猫博士上线3D系列动画片《熊猫博士》。与此同时，《熊猫博士》3D动画片也在美国、加拿大、俄罗斯、意大利等多个国家、地区陆续发行，并登陆Discovery探索频道等多个世界知名节目。",
+      "url": ""
+    },
+    {
       "id": "evt-32000000",
       "title": "32岁胡一天演高中生被指违和",
       "category": "society",
       "hotScore": 0.6,
-      "freshness": 0.9999,
+      "freshness": 1,
       "crossSource": 1,
       "totalScore": 0.84,
       "sources": [
@@ -178,36 +197,36 @@
       "url": "https://m.baidu.com/s?word=32%E5%B2%81%E8%83%A1%E4%B8%80%E5%A4%A9%E6%BC%94%E9%AB%98%E4%B8%AD%E7%94%9F%E8%A2%AB%E6%8C%87%E8%BF%9D%E5%92%8C&sa=fyb_news"
     },
     {
-      "id": "evt-ceo00000",
-      "title": "东方甄选前CEO孙东旭新号首播",
+      "id": "evt-90000000",
+      "title": "90后男子破坏军婚被判刑六个月",
       "category": "society",
-      "hotScore": 0.5525,
+      "hotScore": 0.595,
       "freshness": 0.9999,
       "crossSource": 1,
-      "totalScore": 0.821,
+      "totalScore": 0.838,
       "sources": [
         {
           "channel": "toutiao",
-          "rank": 8,
-          "hot": 8364569,
-          "url": "https://www.toutiao.com/trending/7668649061834965034/"
+          "rank": 7,
+          "hot": 9577845,
+          "url": "https://www.toutiao.com/trending/7668273650482839598/"
         }
       ],
       "summary": "",
-      "url": "https://www.toutiao.com/trending/7668649061834965034/"
+      "url": "https://www.toutiao.com/trending/7668273650482839598/"
     },
     {
-      "id": "evt-deepseekv4fl",
-      "title": "DeepSeek v4 flash 如此强大，接下来发布的 pro 会不会让美国御三家全部倒闭？",
+      "id": "evt-bin00000",
+      "title": "为什么 Bin 休息以后，从俱乐部到选手没有一个人帮他说话？",
       "category": "society",
-      "hotScore": 0.525,
-      "freshness": 0.9999,
+      "hotScore": 0.5625,
+      "freshness": 1,
       "crossSource": 1,
-      "totalScore": 0.81,
+      "totalScore": 0.825,
       "sources": [
         {
           "channel": "zhihu",
-          "rank": 7,
+          "rank": 6,
           "hot": 0,
           "url": ""
         }
