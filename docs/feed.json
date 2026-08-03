@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-08-03T16:13:52.663Z",
+  "generatedAt": "2026-08-03T19:18:42.053Z",
   "fields": {
     "society": "社会",
     "economy": "经济",
@@ -11,14 +11,14 @@
       "title": "A股4000只股票上涨为何科技股暴跌",
       "category": "society",
       "hotScore": 0.85,
-      "freshness": 0.9999,
-      "crossSource": 1,
-      "totalScore": 0.94,
+      "freshness": 1,
+      "crossSource": 0.6309,
+      "totalScore": 0.8293,
       "sources": [
         {
           "channel": "toutiao",
           "rank": 1,
-          "hot": 9981291,
+          "hot": 10725555,
           "url": "https://www.toutiao.com/trending/7669788116869189162/"
         }
       ],
@@ -31,8 +31,8 @@
       "category": "society",
       "hotScore": 0.85,
       "freshness": 1,
-      "crossSource": 1,
-      "totalScore": 0.94,
+      "crossSource": 0.6309,
+      "totalScore": 0.8293,
       "sources": [
         {
           "channel": "thepaper",
@@ -45,37 +45,37 @@
       "url": "https://www.thepaper.cn/newsDetail_forward_33631457"
     },
     {
-      "id": "evt-70000000",
-      "title": "赛力斯7月新能源汽车销量同比降45%",
+      "id": "evt-12000000",
+      "title": "研究：每天1-2杯咖啡可降低肝病风险",
       "category": "society",
       "hotScore": 0.8075,
-      "freshness": 0.9999,
-      "crossSource": 1,
-      "totalScore": 0.923,
+      "freshness": 1,
+      "crossSource": 0.6309,
+      "totalScore": 0.8123,
       "sources": [
         {
           "channel": "toutiao",
           "rank": 2,
-          "hot": 9031445,
-          "url": "https://www.toutiao.com/trending/7669619798967484459/"
+          "hot": 9704884,
+          "url": "https://www.toutiao.com/trending/7669789210492157958/"
         }
       ],
       "summary": "",
-      "url": "https://www.toutiao.com/trending/7669619798967484459/"
+      "url": "https://www.toutiao.com/trending/7669789210492157958/"
     },
     {
       "id": "evt-55000000",
       "title": "全国海洋生产总值5.5万亿元",
       "category": "society",
       "hotScore": 0.765,
-      "freshness": 0.9999,
-      "crossSource": 1,
-      "totalScore": 0.906,
+      "freshness": 1,
+      "crossSource": 0.6309,
+      "totalScore": 0.7953,
       "sources": [
         {
           "channel": "toutiao",
           "rank": 3,
-          "hot": 8171989,
+          "hot": 8781342,
           "url": "https://www.toutiao.com/trending/7669588746061266980/"
         }
       ],
@@ -87,9 +87,9 @@
       "title": "中芯国际与嘉楠科技合作14nm矿机芯片，知情人士：能否量产要看行情",
       "category": "economy",
       "hotScore": 0.9,
-      "freshness": 0.9999,
-      "crossSource": 1,
-      "totalScore": 0.96,
+      "freshness": 1,
+      "crossSource": 0.6309,
+      "totalScore": 0.8493,
       "sources": [
         {
           "channel": "36kr",
@@ -106,9 +106,9 @@
       "title": "三大运营商年内推出5G消息",
       "category": "economy",
       "hotScore": 0.855,
-      "freshness": 0.9999,
-      "crossSource": 1,
-      "totalScore": 0.942,
+      "freshness": 1,
+      "crossSource": 0.6309,
+      "totalScore": 0.8313,
       "sources": [
         {
           "channel": "36kr",
@@ -125,9 +125,9 @@
       "title": "欧洲在线订餐服务Takeaway.com：外卖订单开始强劲复苏",
       "category": "economy",
       "hotScore": 0.81,
-      "freshness": 0.9999,
-      "crossSource": 1,
-      "totalScore": 0.924,
+      "freshness": 1,
+      "crossSource": 0.6309,
+      "totalScore": 0.8133,
       "sources": [
         {
           "channel": "36kr",
@@ -145,46 +145,109 @@
       "category": "society",
       "hotScore": 0.76,
       "freshness": 1,
-      "crossSource": 1,
-      "totalScore": 0.904,
+      "crossSource": 0.6309,
+      "totalScore": 0.7933,
       "sources": [
         {
           "channel": "baidu",
           "rank": 2,
           "hot": 0,
           "url": "https://m.baidu.com/s?word=DeepSeek+%E6%96%A9%E6%9D%80%E7%BA%BF&sa=fyb_news"
+        },
+        {
+          "channel": "baidu",
+          "rank": 8,
+          "hot": 0,
+          "url": "https://m.baidu.com/s?word=DeepSeek%E6%96%A9%E6%9D%80%E7%BA%BF%E6%96%A9%E7%9A%84%E6%98%AF%E4%BB%80%E4%B9%88&sa=fyb_news"
         }
       ],
       "summary": "",
       "url": "https://m.baidu.com/s?word=DeepSeek+%E6%96%A9%E6%9D%80%E7%BA%BF&sa=fyb_news"
     },
     {
-      "id": "evt-u1732000",
-      "title": "U17国足3-2绝杀阿森纳U17",
+      "id": "evt-78000000",
+      "title": "如何看待 7 月末至 8 月初有多家韩国公司发布 AI 称性能强于 DeepSeek？",
+      "category": "society",
+      "hotScore": 0.75,
+      "freshness": 1,
+      "crossSource": 0.6309,
+      "totalScore": 0.7893,
+      "sources": [
+        {
+          "channel": "zhihu",
+          "rank": 1,
+          "hot": 0,
+          "url": ""
+        }
+      ],
+      "summary": "",
+      "url": ""
+    },
+    {
+      "id": "evt-70000000",
+      "title": "赛力斯7月新能源汽车销量同比降45%",
       "category": "society",
       "hotScore": 0.68,
-      "freshness": 0.9999,
-      "crossSource": 1,
-      "totalScore": 0.872,
+      "freshness": 1,
+      "crossSource": 0.6309,
+      "totalScore": 0.7613,
       "sources": [
         {
           "channel": "toutiao",
           "rank": 5,
-          "hot": 6690659,
-          "url": "https://www.toutiao.com/trending/7669800533523172873/"
+          "hot": 7189554,
+          "url": "https://www.toutiao.com/trending/7669619798967484459/"
         }
       ],
       "summary": "",
-      "url": "https://www.toutiao.com/trending/7669800533523172873/"
+      "url": "https://www.toutiao.com/trending/7669619798967484459/"
+    },
+    {
+      "id": "evt-24000000",
+      "title": "空调24小时不关更省电吗",
+      "category": "society",
+      "hotScore": 0.6375,
+      "freshness": 1,
+      "crossSource": 0.6309,
+      "totalScore": 0.7443,
+      "sources": [
+        {
+          "channel": "toutiao",
+          "rank": 6,
+          "hot": 6505378,
+          "url": "https://www.toutiao.com/trending/7668640492518883382/"
+        }
+      ],
+      "summary": "",
+      "url": "https://www.toutiao.com/trending/7668640492518883382/"
+    },
+    {
+      "id": "evt-15500000",
+      "title": "1.55 升哑铃造型矿泉水走红，这种创意设计能代替正规哑铃吗？你愿为这种创意买单吗？",
+      "category": "society",
+      "hotScore": 0.6375,
+      "freshness": 1,
+      "crossSource": 0.6309,
+      "totalScore": 0.7443,
+      "sources": [
+        {
+          "channel": "zhihu",
+          "rank": 4,
+          "hot": 0,
+          "url": ""
+        }
+      ],
+      "summary": "",
+      "url": ""
     },
     {
       "id": "evt-3d000000",
       "title": "好未来《熊猫博士》3D动画片登陆央视少儿频道",
       "category": "society",
       "hotScore": 0.63,
-      "freshness": 0.9999,
-      "crossSource": 1,
-      "totalScore": 0.852,
+      "freshness": 1,
+      "crossSource": 0.6309,
+      "totalScore": 0.7413,
       "sources": [
         {
           "channel": "36kr",
@@ -197,13 +260,13 @@
       "url": ""
     },
     {
-      "id": "evt-15500000",
-      "title": "1.55 升哑铃造型矿泉水走红，这种创意设计能代替正规哑铃吗？你愿为这种创意买单吗？",
+      "id": "evt-deeps000",
+      "title": "为什么大家都说 DeepSeek 已经成为大模型的「斩杀线」？",
       "category": "society",
       "hotScore": 0.6,
-      "freshness": 0.9999,
-      "crossSource": 1,
-      "totalScore": 0.84,
+      "freshness": 1,
+      "crossSource": 0.6309,
+      "totalScore": 0.7293,
       "sources": [
         {
           "channel": "zhihu",
@@ -216,23 +279,23 @@
       "url": ""
     },
     {
-      "id": "evt-78000000",
-      "title": "如何看待 7 月末至 8 月初有多家韩国公司发布 AI 称性能强于 DeepSeek？",
+      "id": "evt-68000000",
+      "title": "贵州一景区有游客跌入68级瀑布",
       "category": "society",
-      "hotScore": 0.5625,
-      "freshness": 0.9999,
-      "crossSource": 1,
-      "totalScore": 0.825,
+      "hotScore": 0.56,
+      "freshness": 1,
+      "crossSource": 0.6309,
+      "totalScore": 0.7133,
       "sources": [
         {
-          "channel": "zhihu",
-          "rank": 6,
+          "channel": "baidu",
+          "rank": 7,
           "hot": 0,
-          "url": ""
+          "url": "https://m.baidu.com/s?word=%E8%B4%B5%E5%B7%9E%E4%B8%80%E6%99%AF%E5%8C%BA%E6%9C%89%E6%B8%B8%E5%AE%A2%E8%B7%8C%E5%85%A568%E7%BA%A7%E7%80%91%E5%B8%83&sa=fyb_news"
         }
       ],
       "summary": "",
-      "url": ""
+      "url": "https://m.baidu.com/s?word=%E8%B4%B5%E5%B7%9E%E4%B8%80%E6%99%AF%E5%8C%BA%E6%9C%89%E6%B8%B8%E5%AE%A2%E8%B7%8C%E5%85%A568%E7%BA%A7%E7%80%91%E5%B8%83&sa=fyb_news"
     }
   ]
 }
