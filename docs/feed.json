@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-08-02T22:44:35.226Z",
+  "generatedAt": "2026-08-03T01:50:18.965Z",
   "fields": {
     "society": "社会",
     "economy": "经济",
@@ -7,79 +7,98 @@
   },
   "feed": [
     {
-      "id": "evt-00000000",
-      "title": "胖东来将大量占用直饮水列为不文明行为",
+      "id": "evt-70000000",
+      "title": "7名赛里木湖工作人员打司机被行拘",
       "category": "society",
       "hotScore": 0.85,
-      "freshness": 0.9999,
+      "freshness": 1,
       "crossSource": 1,
       "totalScore": 0.94,
       "sources": [
         {
           "channel": "toutiao",
           "rank": 1,
-          "hot": 19302405,
-          "url": "https://www.toutiao.com/trending/7669294913607221286/"
+          "hot": 15918540,
+          "url": "https://www.toutiao.com/trending/7669574852038574116/"
         }
       ],
       "summary": "",
-      "url": "https://www.toutiao.com/trending/7669294913607221286/"
+      "url": "https://www.toutiao.com/trending/7669574852038574116/"
     },
     {
-      "id": "evt-10000000",
-      "title": "超10万亿住房公积金迎来全面激活",
+      "id": "evt-00000000",
+      "title": "湖南衡阳通报公职人员损坏停车位地锁事件：依规依纪严肃处理",
+      "category": "society",
+      "hotScore": 0.85,
+      "freshness": 1,
+      "crossSource": 1,
+      "totalScore": 0.94,
+      "sources": [
+        {
+          "channel": "thepaper",
+          "rank": 1,
+          "hot": 0,
+          "url": "https://www.thepaper.cn/newsDetail_forward_33696810"
+        }
+      ],
+      "summary": "",
+      "url": "https://www.thepaper.cn/newsDetail_forward_33696810"
+    },
+    {
+      "id": "evt-ai000000",
+      "title": "澎湃新闻发布AI底座战略，打造智媒时代“信任引擎”",
       "category": "society",
       "hotScore": 0.8075,
-      "freshness": 0.9999,
+      "freshness": 1,
       "crossSource": 1,
       "totalScore": 0.923,
       "sources": [
         {
-          "channel": "toutiao",
-          "rank": 2,
-          "hot": 17465538,
-          "url": "https://www.toutiao.com/trending/7668644818654003226/"
-        }
-      ],
-      "summary": "",
-      "url": "https://www.toutiao.com/trending/7668644818654003226/"
-    },
-    {
-      "id": "evt-50100000",
-      "title": "“高空秋千”成本50万 景区1个月回本",
-      "category": "society",
-      "hotScore": 0.76,
-      "freshness": 1,
-      "crossSource": 1,
-      "totalScore": 0.904,
-      "sources": [
-        {
-          "channel": "baidu",
+          "channel": "thepaper",
           "rank": 2,
           "hot": 0,
-          "url": "https://m.baidu.com/s?word=%E2%80%9C%E9%AB%98%E7%A9%BA%E7%A7%8B%E5%8D%83%E2%80%9D%E6%88%90%E6%9C%AC50%E4%B8%87+%E6%99%AF%E5%8C%BA1%E4%B8%AA%E6%9C%88%E5%9B%9E%E6%9C%AC&sa=fyb_news"
+          "url": "https://www.thepaper.cn/newsDetail_forward_33696805"
         }
       ],
       "summary": "",
-      "url": "https://m.baidu.com/s?word=%E2%80%9C%E9%AB%98%E7%A9%BA%E7%A7%8B%E5%8D%83%E2%80%9D%E6%88%90%E6%9C%AC50%E4%B8%87+%E6%99%AF%E5%8C%BA1%E4%B8%AA%E6%9C%88%E5%9B%9E%E6%9C%AC&sa=fyb_news"
+      "url": "https://www.thepaper.cn/newsDetail_forward_33696805"
     },
     {
-      "id": "evt-deepseekv4fl",
-      "title": "DeepSeek v4 flash 如此强大，接下来发布的 pro 会不会让美国御三家全部倒闭？",
+      "id": "evt-15000000",
+      "title": "15岁男生称在华山被强制买车票",
       "category": "society",
-      "hotScore": 0.75,
+      "hotScore": 0.7225,
       "freshness": 1,
       "crossSource": 1,
-      "totalScore": 0.9,
+      "totalScore": 0.889,
       "sources": [
         {
-          "channel": "zhihu",
+          "channel": "toutiao",
+          "rank": 4,
+          "hot": 11792745,
+          "url": "https://www.toutiao.com/trending/7668901368912150571/"
+        }
+      ],
+      "summary": "",
+      "url": "https://www.toutiao.com/trending/7668901368912150571/"
+    },
+    {
+      "id": "evt-10000000",
+      "title": "中芯国际与嘉楠科技合作14nm矿机芯片，知情人士：能否量产要看行情",
+      "category": "economy",
+      "hotScore": 0.9,
+      "freshness": 1,
+      "crossSource": 1,
+      "totalScore": 0.96,
+      "sources": [
+        {
+          "channel": "36kr",
           "rank": 1,
           "hot": 0,
           "url": ""
         }
       ],
-      "summary": "",
+      "summary": "有消息称，中芯国际与嘉楠科技合作的14nm矿机芯片已完成测试，将在今年二季度量产出货。对此，知情人士称，双方合作始于2019年年底，但能否量产要看行情。据悉，中芯国际数次尝试进入矿机行业，但受行情拖累一直未有实质进展。（财联社）",
       "url": ""
     },
     {
@@ -140,17 +159,36 @@
       "url": "https://m.baidu.com/s?word=2026%E6%9A%91%E6%9C%9F%E6%A1%A3%E7%94%B5%E5%BD%B1%E7%A5%A8%E6%88%BF%E7%A0%B471%E4%BA%BF&sa=fyb_news"
     },
     {
-      "id": "evt-bin00000",
-      "title": "为什么 Bin 休息以后，从俱乐部到选手没有一个人帮他说话？",
+      "id": "evt-12000000",
+      "title": "近120万辆特斯拉汽车遭调查",
       "category": "society",
-      "hotScore": 0.675,
+      "hotScore": 0.64,
       "freshness": 1,
       "crossSource": 1,
-      "totalScore": 0.87,
+      "totalScore": 0.856,
+      "sources": [
+        {
+          "channel": "baidu",
+          "rank": 5,
+          "hot": 0,
+          "url": "https://m.baidu.com/s?word=%E8%BF%91120%E4%B8%87%E8%BE%86%E7%89%B9%E6%96%AF%E6%8B%89%E6%B1%BD%E8%BD%A6%E9%81%AD%E8%B0%83%E6%9F%A5&sa=fyb_news"
+        }
+      ],
+      "summary": "",
+      "url": "https://m.baidu.com/s?word=%E8%BF%91120%E4%B8%87%E8%BE%86%E7%89%B9%E6%96%AF%E6%8B%89%E6%B1%BD%E8%BD%A6%E9%81%AD%E8%B0%83%E6%9F%A5&sa=fyb_news"
+    },
+    {
+      "id": "evt-74000000",
+      "title": "方程豹 7 月销量超 4 万辆，这对新能源汽车市场意味着什么？越野市场需求被打开了吗？",
+      "category": "society",
+      "hotScore": 0.6375,
+      "freshness": 1,
+      "crossSource": 1,
+      "totalScore": 0.855,
       "sources": [
         {
           "channel": "zhihu",
-          "rank": 3,
+          "rank": 4,
           "hot": 0,
           "url": ""
         }
@@ -178,27 +216,8 @@
       "url": ""
     },
     {
-      "id": "evt-32000000",
-      "title": "32岁胡一天演高中生被指违和",
-      "category": "society",
-      "hotScore": 0.6,
-      "freshness": 1,
-      "crossSource": 1,
-      "totalScore": 0.84,
-      "sources": [
-        {
-          "channel": "baidu",
-          "rank": 6,
-          "hot": 0,
-          "url": "https://m.baidu.com/s?word=32%E5%B2%81%E8%83%A1%E4%B8%80%E5%A4%A9%E6%BC%94%E9%AB%98%E4%B8%AD%E7%94%9F%E8%A2%AB%E6%8C%87%E8%BF%9D%E5%92%8C&sa=fyb_news"
-        }
-      ],
-      "summary": "",
-      "url": "https://m.baidu.com/s?word=32%E5%B2%81%E8%83%A1%E4%B8%80%E5%A4%A9%E6%BC%94%E9%AB%98%E4%B8%AD%E7%94%9F%E8%A2%AB%E6%8C%87%E8%BF%9D%E5%92%8C&sa=fyb_news"
-    },
-    {
       "id": "evt-20268100",
-      "title": "如何看待 2026 年 8 月 1 日《蜘蛛侠：崭新之日》在上映第四天上座率被《八仙！》完全碾压？",
+      "title": "如何看待 2026 年 8 月 1 日《蜘蛛侠：崭新之日》在上映第四天上座率比《八仙！》低很多？",
       "category": "society",
       "hotScore": 0.5625,
       "freshness": 1,
@@ -216,8 +235,8 @@
       "url": ""
     },
     {
-      "id": "evt-12000000",
-      "title": "近120万辆特斯拉汽车遭调查",
+      "id": "evt-32000000",
+      "title": "32岁胡一天演高中生被指违和",
       "category": "society",
       "hotScore": 0.56,
       "freshness": 1,
@@ -228,30 +247,49 @@
           "channel": "baidu",
           "rank": 7,
           "hot": 0,
-          "url": "https://m.baidu.com/s?word=%E8%BF%91120%E4%B8%87%E8%BE%86%E7%89%B9%E6%96%AF%E6%8B%89%E6%B1%BD%E8%BD%A6%E9%81%AD%E8%B0%83%E6%9F%A5&sa=fyb_news"
+          "url": "https://m.baidu.com/s?word=32%E5%B2%81%E8%83%A1%E4%B8%80%E5%A4%A9%E6%BC%94%E9%AB%98%E4%B8%AD%E7%94%9F%E8%A2%AB%E6%8C%87%E8%BF%9D%E5%92%8C&sa=fyb_news"
         }
       ],
       "summary": "",
-      "url": "https://m.baidu.com/s?word=%E8%BF%91120%E4%B8%87%E8%BE%86%E7%89%B9%E6%96%AF%E6%8B%89%E6%B1%BD%E8%BD%A6%E9%81%AD%E8%B0%83%E6%9F%A5&sa=fyb_news"
+      "url": "https://m.baidu.com/s?word=32%E5%B2%81%E8%83%A1%E4%B8%80%E5%A4%A9%E6%BC%94%E9%AB%98%E4%B8%AD%E7%94%9F%E8%A2%AB%E6%8C%87%E8%BF%9D%E5%92%8C&sa=fyb_news"
     },
     {
-      "id": "evt-20j00000",
-      "title": "直-20J亮剑黄岩岛",
+      "id": "evt-bin00000",
+      "title": "为什么 Bin 休息以后，从俱乐部到选手没有一个人帮他说话？",
       "category": "society",
-      "hotScore": 0.5525,
-      "freshness": 0.9999,
+      "hotScore": 0.525,
+      "freshness": 1,
       "crossSource": 1,
-      "totalScore": 0.821,
+      "totalScore": 0.81,
       "sources": [
         {
-          "channel": "toutiao",
-          "rank": 8,
-          "hot": 9585290,
-          "url": "https://www.toutiao.com/trending/7668940746304634943/"
+          "channel": "zhihu",
+          "rank": 7,
+          "hot": 0,
+          "url": ""
         }
       ],
       "summary": "",
-      "url": "https://www.toutiao.com/trending/7668940746304634943/"
+      "url": ""
+    },
+    {
+      "id": "evt-20000000",
+      "title": "港股开盘：百度集团涨超2%",
+      "category": "society",
+      "hotScore": 0.52,
+      "freshness": 1,
+      "crossSource": 1,
+      "totalScore": 0.808,
+      "sources": [
+        {
+          "channel": "baidu",
+          "rank": 8,
+          "hot": 0,
+          "url": "https://m.baidu.com/s?word=%E6%B8%AF%E8%82%A1%E5%BC%80%E7%9B%98%EF%BC%9A%E7%99%BE%E5%BA%A6%E9%9B%86%E5%9B%A2%E6%B6%A8%E8%B6%852%25&sa=fyb_news"
+        }
+      ],
+      "summary": "",
+      "url": "https://m.baidu.com/s?word=%E6%B8%AF%E8%82%A1%E5%BC%80%E7%9B%98%EF%BC%9A%E7%99%BE%E5%BA%A6%E9%9B%86%E5%9B%A2%E6%B6%A8%E8%B6%852%25&sa=fyb_news"
     }
   ]
 }
