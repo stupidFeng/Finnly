@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-08-03T09:21:35.935Z",
+  "generatedAt": "2026-08-03T12:49:10.881Z",
   "fields": {
     "society": "社会",
     "economy": "经济",
@@ -7,99 +7,80 @@
   },
   "feed": [
     {
-      "id": "evt-deepseek",
-      "title": "DeepSeek模型单日吞下8万亿Token",
-      "category": "society",
-      "hotScore": 0.85,
-      "freshness": 0.9999,
-      "crossSource": 0.6309,
-      "totalScore": 0.8293,
-      "sources": [
-        {
-          "channel": "toutiao",
-          "rank": 1,
-          "hot": 10923339,
-          "url": "https://www.toutiao.com/trending/7669679149316836902/"
-        }
-      ],
-      "summary": "",
-      "url": "https://www.toutiao.com/trending/7669679149316836902/"
-    },
-    {
       "id": "evt-00000000",
-      "title": "影子暗访｜“抗生素”牛蛙，何以难禁？",
+      "title": "华人大爷大妈摆摊卖菜占领纽约早市",
       "category": "society",
       "hotScore": 0.85,
       "freshness": 1,
-      "crossSource": 0.6309,
-      "totalScore": 0.8293,
-      "sources": [
-        {
-          "channel": "thepaper",
-          "rank": 1,
-          "hot": 0,
-          "url": "https://www.thepaper.cn/newsDetail_forward_33631457"
-        }
-      ],
-      "summary": "",
-      "url": "https://www.thepaper.cn/newsDetail_forward_33631457"
-    },
-    {
-      "id": "evt-50000000",
-      "title": "车主投诉5万旧车换电池需9万",
-      "category": "society",
-      "hotScore": 0.7225,
-      "freshness": 0.9999,
-      "crossSource": 0.6309,
-      "totalScore": 0.7783,
+      "crossSource": 1,
+      "totalScore": 0.94,
       "sources": [
         {
           "channel": "toutiao",
-          "rank": 4,
-          "hot": 8092208,
-          "url": "https://www.toutiao.com/trending/7669208976583557130/"
+          "rank": 1,
+          "hot": 12699870,
+          "url": "https://www.toutiao.com/trending/7669709533375348790/"
         }
       ],
       "summary": "",
-      "url": "https://www.toutiao.com/trending/7669208976583557130/"
+      "url": "https://www.toutiao.com/trending/7669709533375348790/"
     },
     {
-      "id": "evt-24000000",
-      "title": "空调24小时不关更省电？电力公司回应",
+      "id": "evt-55000000",
+      "title": "全国海洋生产总值5.5万亿元",
       "category": "society",
-      "hotScore": 0.72,
+      "hotScore": 0.765,
       "freshness": 1,
-      "crossSource": 0.6309,
-      "totalScore": 0.7773,
+      "crossSource": 1,
+      "totalScore": 0.906,
       "sources": [
         {
-          "channel": "baidu",
+          "channel": "toutiao",
           "rank": 3,
-          "hot": 0,
-          "url": "https://m.baidu.com/s?word=%E7%A9%BA%E8%B0%8324%E5%B0%8F%E6%97%B6%E4%B8%8D%E5%85%B3%E6%9B%B4%E7%9C%81%E7%94%B5%EF%BC%9F%E7%94%B5%E5%8A%9B%E5%85%AC%E5%8F%B8%E5%9B%9E%E5%BA%94&sa=fyb_news"
+          "hot": 10397774,
+          "url": "https://www.toutiao.com/trending/7669588746061266980/"
         }
       ],
       "summary": "",
-      "url": "https://m.baidu.com/s?word=%E7%A9%BA%E8%B0%8324%E5%B0%8F%E6%97%B6%E4%B8%8D%E5%85%B3%E6%9B%B4%E7%9C%81%E7%94%B5%EF%BC%9F%E7%94%B5%E5%8A%9B%E5%85%AC%E5%8F%B8%E5%9B%9E%E5%BA%94&sa=fyb_news"
+      "url": "https://www.toutiao.com/trending/7669588746061266980/"
     },
     {
       "id": "evt-10000000",
-      "title": "中芯国际与嘉楠科技合作14nm矿机芯片，知情人士：能否量产要看行情",
-      "category": "economy",
-      "hotScore": 0.9,
+      "title": "精神科医生「10 级美颜证件照」火了，出诊照却素颜干练，这种反差戳中了什么？为什么大家边笑边把号挂满了？",
+      "category": "society",
+      "hotScore": 0.675,
       "freshness": 1,
-      "crossSource": 0.6309,
-      "totalScore": 0.8493,
+      "crossSource": 1,
+      "totalScore": 0.87,
       "sources": [
         {
-          "channel": "36kr",
-          "rank": 1,
+          "channel": "zhihu",
+          "rank": 3,
           "hot": 0,
           "url": ""
         }
       ],
-      "summary": "有消息称，中芯国际与嘉楠科技合作的14nm矿机芯片已完成测试，将在今年二季度量产出货。对此，知情人士称，双方合作始于2019年年底，但能否量产要看行情。据悉，中芯国际数次尝试进入矿机行业，但受行情拖累一直未有实质进展。（财联社）",
+      "summary": "",
       "url": ""
+    },
+    {
+      "id": "evt-98500000",
+      "title": "985博士后出轨被退站已入职高校",
+      "category": "society",
+      "hotScore": 0.6375,
+      "freshness": 1,
+      "crossSource": 1,
+      "totalScore": 0.855,
+      "sources": [
+        {
+          "channel": "toutiao",
+          "rank": 6,
+          "hot": 7702860,
+          "url": "https://www.toutiao.com/trending/7669037219634757642/"
+        }
+      ],
+      "summary": "",
+      "url": "https://www.toutiao.com/trending/7669037219634757642/"
     },
     {
       "id": "evt-5g000000",
@@ -107,8 +88,8 @@
       "category": "economy",
       "hotScore": 0.855,
       "freshness": 1,
-      "crossSource": 0.6309,
-      "totalScore": 0.8313,
+      "crossSource": 1,
+      "totalScore": 0.942,
       "sources": [
         {
           "channel": "36kr",
@@ -126,8 +107,8 @@
       "category": "economy",
       "hotScore": 0.81,
       "freshness": 1,
-      "crossSource": 0.6309,
-      "totalScore": 0.8133,
+      "crossSource": 1,
+      "totalScore": 0.924,
       "sources": [
         {
           "channel": "36kr",
@@ -145,8 +126,8 @@
       "category": "society",
       "hotScore": 0.63,
       "freshness": 1,
-      "crossSource": 0.6309,
-      "totalScore": 0.7413,
+      "crossSource": 1,
+      "totalScore": 0.852,
       "sources": [
         {
           "channel": "36kr",
@@ -159,42 +140,42 @@
       "url": ""
     },
     {
-      "id": "evt-70000000",
-      "title": "哥哥去世嫂子离家 婶婶成7个孩子的妈",
+      "id": "evt-15500000",
+      "title": "1.55 升哑铃造型矿泉水走红，这种创意设计能代替正规哑铃吗？你愿为这种创意买单吗？",
       "category": "society",
-      "hotScore": 0.5525,
-      "freshness": 0.9999,
-      "crossSource": 0.6309,
-      "totalScore": 0.7103,
-      "sources": [
-        {
-          "channel": "toutiao",
-          "rank": 8,
-          "hot": 5424369,
-          "url": "https://www.toutiao.com/trending/7669309305876283438/"
-        }
-      ],
-      "summary": "",
-      "url": "https://www.toutiao.com/trending/7669309305876283438/"
-    },
-    {
-      "id": "evt-83000000",
-      "title": "如何评价 8 月 3 日上线的阿里 Qwen 3.8 Max 正式版？相比其他模型表现如何？",
-      "category": "society",
-      "hotScore": 0.525,
+      "hotScore": 0.6,
       "freshness": 1,
-      "crossSource": 0.6309,
-      "totalScore": 0.6993,
+      "crossSource": 1,
+      "totalScore": 0.84,
       "sources": [
         {
           "channel": "zhihu",
-          "rank": 7,
+          "rank": 5,
           "hot": 0,
           "url": ""
         }
       ],
       "summary": "",
       "url": ""
+    },
+    {
+      "id": "evt-24000000",
+      "title": "空调24小时不关更省电？电力公司回应",
+      "category": "society",
+      "hotScore": 0.56,
+      "freshness": 1,
+      "crossSource": 1,
+      "totalScore": 0.824,
+      "sources": [
+        {
+          "channel": "baidu",
+          "rank": 7,
+          "hot": 0,
+          "url": "https://m.baidu.com/s?word=%E7%A9%BA%E8%B0%8324%E5%B0%8F%E6%97%B6%E4%B8%8D%E5%85%B3%E6%9B%B4%E7%9C%81%E7%94%B5%EF%BC%9F%E7%94%B5%E5%8A%9B%E5%85%AC%E5%8F%B8%E5%9B%9E%E5%BA%94&sa=fyb_news"
+        }
+      ],
+      "summary": "",
+      "url": "https://m.baidu.com/s?word=%E7%A9%BA%E8%B0%8324%E5%B0%8F%E6%97%B6%E4%B8%8D%E5%85%B3%E6%9B%B4%E7%9C%81%E7%94%B5%EF%BC%9F%E7%94%B5%E5%8A%9B%E5%85%AC%E5%8F%B8%E5%9B%9E%E5%BA%94&sa=fyb_news"
     }
   ]
 }
