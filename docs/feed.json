@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-08-03T01:50:18.965Z",
+  "generatedAt": "2026-08-03T05:31:43.775Z",
   "fields": {
     "society": "社会",
     "economy": "经济",
@@ -8,7 +8,7 @@
   "feed": [
     {
       "id": "evt-70000000",
-      "title": "7名赛里木湖工作人员打司机被行拘",
+      "title": "哥哥去世嫂子离家 婶婶成7个孩子的妈",
       "category": "society",
       "hotScore": 0.85,
       "freshness": 1,
@@ -18,16 +18,16 @@
         {
           "channel": "toutiao",
           "rank": 1,
-          "hot": 15918540,
-          "url": "https://www.toutiao.com/trending/7669574852038574116/"
+          "hot": 10599076,
+          "url": "https://www.toutiao.com/trending/7669309305876283438/"
         }
       ],
       "summary": "",
-      "url": "https://www.toutiao.com/trending/7669574852038574116/"
+      "url": "https://www.toutiao.com/trending/7669309305876283438/"
     },
     {
       "id": "evt-00000000",
-      "title": "湖南衡阳通报公职人员损坏停车位地锁事件：依规依纪严肃处理",
+      "title": "全国开展深化扫黑除恶专项斗争，举报途径公布",
       "category": "society",
       "hotScore": 0.85,
       "freshness": 1,
@@ -38,49 +38,49 @@
           "channel": "thepaper",
           "rank": 1,
           "hot": 0,
-          "url": "https://www.thepaper.cn/newsDetail_forward_33696810"
+          "url": "https://www.thepaper.cn/newsDetail_forward_33697649"
         }
       ],
       "summary": "",
-      "url": "https://www.thepaper.cn/newsDetail_forward_33696810"
+      "url": "https://www.thepaper.cn/newsDetail_forward_33697649"
     },
     {
-      "id": "evt-ai000000",
-      "title": "澎湃新闻发布AI底座战略，打造智媒时代“信任引擎”",
+      "id": "evt-suv00000",
+      "title": "奥迪史上最大SUV官宣",
       "category": "society",
-      "hotScore": 0.8075,
+      "hotScore": 0.76,
       "freshness": 1,
       "crossSource": 1,
-      "totalScore": 0.923,
+      "totalScore": 0.904,
       "sources": [
         {
-          "channel": "thepaper",
+          "channel": "baidu",
           "rank": 2,
           "hot": 0,
-          "url": "https://www.thepaper.cn/newsDetail_forward_33696805"
+          "url": "https://m.baidu.com/s?word=%E5%A5%A5%E8%BF%AA%E5%8F%B2%E4%B8%8A%E6%9C%80%E5%A4%A7SUV%E5%AE%98%E5%AE%A3&sa=fyb_news"
         }
       ],
       "summary": "",
-      "url": "https://www.thepaper.cn/newsDetail_forward_33696805"
+      "url": "https://m.baidu.com/s?word=%E5%A5%A5%E8%BF%AA%E5%8F%B2%E4%B8%8A%E6%9C%80%E5%A4%A7SUV%E5%AE%98%E5%AE%A3&sa=fyb_news"
     },
     {
-      "id": "evt-15000000",
-      "title": "15岁男生称在华山被强制买车票",
+      "id": "evt-74000000",
+      "title": "方程豹 7 月销量超 4 万辆，这对新能源汽车市场意味着什么？越野市场需求被打开了吗？",
       "category": "society",
-      "hotScore": 0.7225,
+      "hotScore": 0.675,
       "freshness": 1,
       "crossSource": 1,
-      "totalScore": 0.889,
+      "totalScore": 0.87,
       "sources": [
         {
-          "channel": "toutiao",
-          "rank": 4,
-          "hot": 11792745,
-          "url": "https://www.toutiao.com/trending/7668901368912150571/"
+          "channel": "zhihu",
+          "rank": 3,
+          "hot": 0,
+          "url": ""
         }
       ],
       "summary": "",
-      "url": "https://www.toutiao.com/trending/7668901368912150571/"
+      "url": ""
     },
     {
       "id": "evt-10000000",
@@ -140,46 +140,8 @@
       "url": ""
     },
     {
-      "id": "evt-20260000",
-      "title": "2026暑期档电影票房破71亿",
-      "category": "entertainment",
-      "hotScore": 0.68,
-      "freshness": 1,
-      "crossSource": 1,
-      "totalScore": 0.872,
-      "sources": [
-        {
-          "channel": "baidu",
-          "rank": 4,
-          "hot": 0,
-          "url": "https://m.baidu.com/s?word=2026%E6%9A%91%E6%9C%9F%E6%A1%A3%E7%94%B5%E5%BD%B1%E7%A5%A8%E6%88%BF%E7%A0%B471%E4%BA%BF&sa=fyb_news"
-        }
-      ],
-      "summary": "",
-      "url": "https://m.baidu.com/s?word=2026%E6%9A%91%E6%9C%9F%E6%A1%A3%E7%94%B5%E5%BD%B1%E7%A5%A8%E6%88%BF%E7%A0%B471%E4%BA%BF&sa=fyb_news"
-    },
-    {
-      "id": "evt-12000000",
-      "title": "近120万辆特斯拉汽车遭调查",
-      "category": "society",
-      "hotScore": 0.64,
-      "freshness": 1,
-      "crossSource": 1,
-      "totalScore": 0.856,
-      "sources": [
-        {
-          "channel": "baidu",
-          "rank": 5,
-          "hot": 0,
-          "url": "https://m.baidu.com/s?word=%E8%BF%91120%E4%B8%87%E8%BE%86%E7%89%B9%E6%96%AF%E6%8B%89%E6%B1%BD%E8%BD%A6%E9%81%AD%E8%B0%83%E6%9F%A5&sa=fyb_news"
-        }
-      ],
-      "summary": "",
-      "url": "https://m.baidu.com/s?word=%E8%BF%91120%E4%B8%87%E8%BE%86%E7%89%B9%E6%96%AF%E6%8B%89%E6%B1%BD%E8%BD%A6%E9%81%AD%E8%B0%83%E6%9F%A5&sa=fyb_news"
-    },
-    {
-      "id": "evt-74000000",
-      "title": "方程豹 7 月销量超 4 万辆，这对新能源汽车市场意味着什么？越野市场需求被打开了吗？",
+      "id": "evt-80000000",
+      "title": "美国男子从80米高大桥跳下",
       "category": "society",
       "hotScore": 0.6375,
       "freshness": 1,
@@ -187,14 +149,14 @@
       "totalScore": 0.855,
       "sources": [
         {
-          "channel": "zhihu",
-          "rank": 4,
-          "hot": 0,
-          "url": ""
+          "channel": "toutiao",
+          "rank": 6,
+          "hot": 6428664,
+          "url": "https://www.toutiao.com/trending/7669604384150831145/"
         }
       ],
       "summary": "",
-      "url": ""
+      "url": "https://www.toutiao.com/trending/7669604384150831145/"
     },
     {
       "id": "evt-3d000000",
@@ -216,80 +178,23 @@
       "url": ""
     },
     {
-      "id": "evt-20268100",
-      "title": "如何看待 2026 年 8 月 1 日《蜘蛛侠：崭新之日》在上映第四天上座率比《八仙！》低很多？",
+      "id": "evt-50000000",
+      "title": "刑案嫌犯在逃警方悬赏5万 危险性较高",
       "category": "society",
-      "hotScore": 0.5625,
+      "hotScore": 0.6,
       "freshness": 1,
       "crossSource": 1,
-      "totalScore": 0.825,
+      "totalScore": 0.84,
       "sources": [
         {
-          "channel": "zhihu",
+          "channel": "baidu",
           "rank": 6,
           "hot": 0,
-          "url": ""
+          "url": "https://m.baidu.com/s?word=%E5%88%91%E6%A1%88%E5%AB%8C%E7%8A%AF%E5%9C%A8%E9%80%83%E8%AD%A6%E6%96%B9%E6%82%AC%E8%B5%8F5%E4%B8%87+%E5%8D%B1%E9%99%A9%E6%80%A7%E8%BE%83%E9%AB%98&sa=fyb_news"
         }
       ],
       "summary": "",
-      "url": ""
-    },
-    {
-      "id": "evt-32000000",
-      "title": "32岁胡一天演高中生被指违和",
-      "category": "society",
-      "hotScore": 0.56,
-      "freshness": 1,
-      "crossSource": 1,
-      "totalScore": 0.824,
-      "sources": [
-        {
-          "channel": "baidu",
-          "rank": 7,
-          "hot": 0,
-          "url": "https://m.baidu.com/s?word=32%E5%B2%81%E8%83%A1%E4%B8%80%E5%A4%A9%E6%BC%94%E9%AB%98%E4%B8%AD%E7%94%9F%E8%A2%AB%E6%8C%87%E8%BF%9D%E5%92%8C&sa=fyb_news"
-        }
-      ],
-      "summary": "",
-      "url": "https://m.baidu.com/s?word=32%E5%B2%81%E8%83%A1%E4%B8%80%E5%A4%A9%E6%BC%94%E9%AB%98%E4%B8%AD%E7%94%9F%E8%A2%AB%E6%8C%87%E8%BF%9D%E5%92%8C&sa=fyb_news"
-    },
-    {
-      "id": "evt-bin00000",
-      "title": "为什么 Bin 休息以后，从俱乐部到选手没有一个人帮他说话？",
-      "category": "society",
-      "hotScore": 0.525,
-      "freshness": 1,
-      "crossSource": 1,
-      "totalScore": 0.81,
-      "sources": [
-        {
-          "channel": "zhihu",
-          "rank": 7,
-          "hot": 0,
-          "url": ""
-        }
-      ],
-      "summary": "",
-      "url": ""
-    },
-    {
-      "id": "evt-20000000",
-      "title": "港股开盘：百度集团涨超2%",
-      "category": "society",
-      "hotScore": 0.52,
-      "freshness": 1,
-      "crossSource": 1,
-      "totalScore": 0.808,
-      "sources": [
-        {
-          "channel": "baidu",
-          "rank": 8,
-          "hot": 0,
-          "url": "https://m.baidu.com/s?word=%E6%B8%AF%E8%82%A1%E5%BC%80%E7%9B%98%EF%BC%9A%E7%99%BE%E5%BA%A6%E9%9B%86%E5%9B%A2%E6%B6%A8%E8%B6%852%25&sa=fyb_news"
-        }
-      ],
-      "summary": "",
-      "url": "https://m.baidu.com/s?word=%E6%B8%AF%E8%82%A1%E5%BC%80%E7%9B%98%EF%BC%9A%E7%99%BE%E5%BA%A6%E9%9B%86%E5%9B%A2%E6%B6%A8%E8%B6%852%25&sa=fyb_news"
+      "url": "https://m.baidu.com/s?word=%E5%88%91%E6%A1%88%E5%AB%8C%E7%8A%AF%E5%9C%A8%E9%80%83%E8%AD%A6%E6%96%B9%E6%82%AC%E8%B5%8F5%E4%B8%87+%E5%8D%B1%E9%99%A9%E6%80%A7%E8%BE%83%E9%AB%98&sa=fyb_news"
     }
   ]
 }
