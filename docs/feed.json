@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-08-03T12:49:10.881Z",
+  "generatedAt": "2026-08-03T16:13:52.663Z",
   "fields": {
     "society": "社会",
     "economy": "经济",
@@ -7,8 +7,27 @@
   },
   "feed": [
     {
+      "id": "evt-a4000000",
+      "title": "A股4000只股票上涨为何科技股暴跌",
+      "category": "society",
+      "hotScore": 0.85,
+      "freshness": 0.9999,
+      "crossSource": 1,
+      "totalScore": 0.94,
+      "sources": [
+        {
+          "channel": "toutiao",
+          "rank": 1,
+          "hot": 9981291,
+          "url": "https://www.toutiao.com/trending/7669788116869189162/"
+        }
+      ],
+      "summary": "",
+      "url": "https://www.toutiao.com/trending/7669788116869189162/"
+    },
+    {
       "id": "evt-00000000",
-      "title": "华人大爷大妈摆摊卖菜占领纽约早市",
+      "title": "影子暗访｜“抗生素”牛蛙，何以难禁？",
       "category": "society",
       "hotScore": 0.85,
       "freshness": 1,
@@ -16,28 +35,47 @@
       "totalScore": 0.94,
       "sources": [
         {
-          "channel": "toutiao",
+          "channel": "thepaper",
           "rank": 1,
-          "hot": 12699870,
-          "url": "https://www.toutiao.com/trending/7669709533375348790/"
+          "hot": 0,
+          "url": "https://www.thepaper.cn/newsDetail_forward_33631457"
         }
       ],
       "summary": "",
-      "url": "https://www.toutiao.com/trending/7669709533375348790/"
+      "url": "https://www.thepaper.cn/newsDetail_forward_33631457"
+    },
+    {
+      "id": "evt-70000000",
+      "title": "赛力斯7月新能源汽车销量同比降45%",
+      "category": "society",
+      "hotScore": 0.8075,
+      "freshness": 0.9999,
+      "crossSource": 1,
+      "totalScore": 0.923,
+      "sources": [
+        {
+          "channel": "toutiao",
+          "rank": 2,
+          "hot": 9031445,
+          "url": "https://www.toutiao.com/trending/7669619798967484459/"
+        }
+      ],
+      "summary": "",
+      "url": "https://www.toutiao.com/trending/7669619798967484459/"
     },
     {
       "id": "evt-55000000",
       "title": "全国海洋生产总值5.5万亿元",
       "category": "society",
       "hotScore": 0.765,
-      "freshness": 1,
+      "freshness": 0.9999,
       "crossSource": 1,
       "totalScore": 0.906,
       "sources": [
         {
           "channel": "toutiao",
           "rank": 3,
-          "hot": 10397774,
+          "hot": 8171989,
           "url": "https://www.toutiao.com/trending/7669588746061266980/"
         }
       ],
@@ -46,48 +84,29 @@
     },
     {
       "id": "evt-10000000",
-      "title": "精神科医生「10 级美颜证件照」火了，出诊照却素颜干练，这种反差戳中了什么？为什么大家边笑边把号挂满了？",
-      "category": "society",
-      "hotScore": 0.675,
-      "freshness": 1,
+      "title": "中芯国际与嘉楠科技合作14nm矿机芯片，知情人士：能否量产要看行情",
+      "category": "economy",
+      "hotScore": 0.9,
+      "freshness": 0.9999,
       "crossSource": 1,
-      "totalScore": 0.87,
+      "totalScore": 0.96,
       "sources": [
         {
-          "channel": "zhihu",
-          "rank": 3,
+          "channel": "36kr",
+          "rank": 1,
           "hot": 0,
           "url": ""
         }
       ],
-      "summary": "",
+      "summary": "有消息称，中芯国际与嘉楠科技合作的14nm矿机芯片已完成测试，将在今年二季度量产出货。对此，知情人士称，双方合作始于2019年年底，但能否量产要看行情。据悉，中芯国际数次尝试进入矿机行业，但受行情拖累一直未有实质进展。（财联社）",
       "url": ""
-    },
-    {
-      "id": "evt-98500000",
-      "title": "985博士后出轨被退站已入职高校",
-      "category": "society",
-      "hotScore": 0.6375,
-      "freshness": 1,
-      "crossSource": 1,
-      "totalScore": 0.855,
-      "sources": [
-        {
-          "channel": "toutiao",
-          "rank": 6,
-          "hot": 7702860,
-          "url": "https://www.toutiao.com/trending/7669037219634757642/"
-        }
-      ],
-      "summary": "",
-      "url": "https://www.toutiao.com/trending/7669037219634757642/"
     },
     {
       "id": "evt-5g000000",
       "title": "三大运营商年内推出5G消息",
       "category": "economy",
       "hotScore": 0.855,
-      "freshness": 1,
+      "freshness": 0.9999,
       "crossSource": 1,
       "totalScore": 0.942,
       "sources": [
@@ -106,7 +125,7 @@
       "title": "欧洲在线订餐服务Takeaway.com：外卖订单开始强劲复苏",
       "category": "economy",
       "hotScore": 0.81,
-      "freshness": 1,
+      "freshness": 0.9999,
       "crossSource": 1,
       "totalScore": 0.924,
       "sources": [
@@ -121,11 +140,49 @@
       "url": ""
     },
     {
+      "id": "evt-deepseek",
+      "title": "DeepSeek 斩杀线",
+      "category": "society",
+      "hotScore": 0.76,
+      "freshness": 1,
+      "crossSource": 1,
+      "totalScore": 0.904,
+      "sources": [
+        {
+          "channel": "baidu",
+          "rank": 2,
+          "hot": 0,
+          "url": "https://m.baidu.com/s?word=DeepSeek+%E6%96%A9%E6%9D%80%E7%BA%BF&sa=fyb_news"
+        }
+      ],
+      "summary": "",
+      "url": "https://m.baidu.com/s?word=DeepSeek+%E6%96%A9%E6%9D%80%E7%BA%BF&sa=fyb_news"
+    },
+    {
+      "id": "evt-u1732000",
+      "title": "U17国足3-2绝杀阿森纳U17",
+      "category": "society",
+      "hotScore": 0.68,
+      "freshness": 0.9999,
+      "crossSource": 1,
+      "totalScore": 0.872,
+      "sources": [
+        {
+          "channel": "toutiao",
+          "rank": 5,
+          "hot": 6690659,
+          "url": "https://www.toutiao.com/trending/7669800533523172873/"
+        }
+      ],
+      "summary": "",
+      "url": "https://www.toutiao.com/trending/7669800533523172873/"
+    },
+    {
       "id": "evt-3d000000",
       "title": "好未来《熊猫博士》3D动画片登陆央视少儿频道",
       "category": "society",
       "hotScore": 0.63,
-      "freshness": 1,
+      "freshness": 0.9999,
       "crossSource": 1,
       "totalScore": 0.852,
       "sources": [
@@ -144,7 +201,7 @@
       "title": "1.55 升哑铃造型矿泉水走红，这种创意设计能代替正规哑铃吗？你愿为这种创意买单吗？",
       "category": "society",
       "hotScore": 0.6,
-      "freshness": 1,
+      "freshness": 0.9999,
       "crossSource": 1,
       "totalScore": 0.84,
       "sources": [
@@ -159,23 +216,23 @@
       "url": ""
     },
     {
-      "id": "evt-24000000",
-      "title": "空调24小时不关更省电？电力公司回应",
+      "id": "evt-78000000",
+      "title": "如何看待 7 月末至 8 月初有多家韩国公司发布 AI 称性能强于 DeepSeek？",
       "category": "society",
-      "hotScore": 0.56,
-      "freshness": 1,
+      "hotScore": 0.5625,
+      "freshness": 0.9999,
       "crossSource": 1,
-      "totalScore": 0.824,
+      "totalScore": 0.825,
       "sources": [
         {
-          "channel": "baidu",
-          "rank": 7,
+          "channel": "zhihu",
+          "rank": 6,
           "hot": 0,
-          "url": "https://m.baidu.com/s?word=%E7%A9%BA%E8%B0%8324%E5%B0%8F%E6%97%B6%E4%B8%8D%E5%85%B3%E6%9B%B4%E7%9C%81%E7%94%B5%EF%BC%9F%E7%94%B5%E5%8A%9B%E5%85%AC%E5%8F%B8%E5%9B%9E%E5%BA%94&sa=fyb_news"
+          "url": ""
         }
       ],
       "summary": "",
-      "url": "https://m.baidu.com/s?word=%E7%A9%BA%E8%B0%8324%E5%B0%8F%E6%97%B6%E4%B8%8D%E5%85%B3%E6%9B%B4%E7%9C%81%E7%94%B5%EF%BC%9F%E7%94%B5%E5%8A%9B%E5%85%AC%E5%8F%B8%E5%9B%9E%E5%BA%94&sa=fyb_news"
+      "url": ""
     }
   ]
 }
