@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-08-03T19:18:42.053Z",
+  "generatedAt": "2026-08-03T20:54:28.679Z",
   "fields": {
     "society": "社会",
     "economy": "经济",
@@ -7,23 +7,23 @@
   },
   "feed": [
     {
-      "id": "evt-a4000000",
-      "title": "A股4000只股票上涨为何科技股暴跌",
+      "id": "evt-12000000",
+      "title": "研究：每天1-2杯咖啡可降低肝病风险",
       "category": "society",
       "hotScore": 0.85,
-      "freshness": 1,
+      "freshness": 0.9999,
       "crossSource": 0.6309,
       "totalScore": 0.8293,
       "sources": [
         {
           "channel": "toutiao",
           "rank": 1,
-          "hot": 10725555,
-          "url": "https://www.toutiao.com/trending/7669788116869189162/"
+          "hot": 11149466,
+          "url": "https://www.toutiao.com/trending/7669789210492157958/"
         }
       ],
       "summary": "",
-      "url": "https://www.toutiao.com/trending/7669788116869189162/"
+      "url": "https://www.toutiao.com/trending/7669789210492157958/"
     },
     {
       "id": "evt-00000000",
@@ -45,42 +45,48 @@
       "url": "https://www.thepaper.cn/newsDetail_forward_33631457"
     },
     {
-      "id": "evt-12000000",
-      "title": "研究：每天1-2杯咖啡可降低肝病风险",
-      "category": "society",
-      "hotScore": 0.8075,
-      "freshness": 1,
-      "crossSource": 0.6309,
-      "totalScore": 0.8123,
-      "sources": [
-        {
-          "channel": "toutiao",
-          "rank": 2,
-          "hot": 9704884,
-          "url": "https://www.toutiao.com/trending/7669789210492157958/"
-        }
-      ],
-      "summary": "",
-      "url": "https://www.toutiao.com/trending/7669789210492157958/"
-    },
-    {
       "id": "evt-55000000",
       "title": "全国海洋生产总值5.5万亿元",
       "category": "society",
       "hotScore": 0.765,
-      "freshness": 1,
+      "freshness": 0.9999,
       "crossSource": 0.6309,
       "totalScore": 0.7953,
       "sources": [
         {
           "channel": "toutiao",
           "rank": 3,
-          "hot": 8781342,
+          "hot": 9128411,
           "url": "https://www.toutiao.com/trending/7669588746061266980/"
         }
       ],
       "summary": "",
       "url": "https://www.toutiao.com/trending/7669588746061266980/"
+    },
+    {
+      "id": "evt-deepseek",
+      "title": "DeepSeek 斩杀线",
+      "category": "society",
+      "hotScore": 0.76,
+      "freshness": 1,
+      "crossSource": 0.6309,
+      "totalScore": 0.7933,
+      "sources": [
+        {
+          "channel": "baidu",
+          "rank": 2,
+          "hot": 0,
+          "url": "https://m.baidu.com/s?word=DeepSeek+%E6%96%A9%E6%9D%80%E7%BA%BF&sa=fyb_news"
+        },
+        {
+          "channel": "baidu",
+          "rank": 14,
+          "hot": 0,
+          "url": "https://m.baidu.com/s?word=DeepSeek%E6%96%A9%E6%9D%80%E7%BA%BF%E6%96%A9%E7%9A%84%E6%98%AF%E4%BB%80%E4%B9%88&sa=fyb_news"
+        }
+      ],
+      "summary": "",
+      "url": "https://m.baidu.com/s?word=DeepSeek+%E6%96%A9%E6%9D%80%E7%BA%BF&sa=fyb_news"
     },
     {
       "id": "evt-10000000",
@@ -140,36 +146,11 @@
       "url": ""
     },
     {
-      "id": "evt-deepseek",
-      "title": "DeepSeek 斩杀线",
-      "category": "society",
-      "hotScore": 0.76,
-      "freshness": 1,
-      "crossSource": 0.6309,
-      "totalScore": 0.7933,
-      "sources": [
-        {
-          "channel": "baidu",
-          "rank": 2,
-          "hot": 0,
-          "url": "https://m.baidu.com/s?word=DeepSeek+%E6%96%A9%E6%9D%80%E7%BA%BF&sa=fyb_news"
-        },
-        {
-          "channel": "baidu",
-          "rank": 8,
-          "hot": 0,
-          "url": "https://m.baidu.com/s?word=DeepSeek%E6%96%A9%E6%9D%80%E7%BA%BF%E6%96%A9%E7%9A%84%E6%98%AF%E4%BB%80%E4%B9%88&sa=fyb_news"
-        }
-      ],
-      "summary": "",
-      "url": "https://m.baidu.com/s?word=DeepSeek+%E6%96%A9%E6%9D%80%E7%BA%BF&sa=fyb_news"
-    },
-    {
       "id": "evt-78000000",
       "title": "如何看待 7 月末至 8 月初有多家韩国公司发布 AI 称性能强于 DeepSeek？",
       "category": "society",
       "hotScore": 0.75,
-      "freshness": 1,
+      "freshness": 0.9999,
       "crossSource": 0.6309,
       "totalScore": 0.7893,
       "sources": [
@@ -184,37 +165,37 @@
       "url": ""
     },
     {
-      "id": "evt-70000000",
-      "title": "赛力斯7月新能源汽车销量同比降45%",
+      "id": "evt-50000000",
+      "title": "国乒男单世界排名前5仅剩王楚钦",
+      "category": "society",
+      "hotScore": 0.7225,
+      "freshness": 0.9999,
+      "crossSource": 0.6309,
+      "totalScore": 0.7783,
+      "sources": [
+        {
+          "channel": "toutiao",
+          "rank": 4,
+          "hot": 8259727,
+          "url": "https://www.toutiao.com/trending/7669430596620927019/"
+        }
+      ],
+      "summary": "",
+      "url": "https://www.toutiao.com/trending/7669430596620927019/"
+    },
+    {
+      "id": "evt-24000000",
+      "title": "空调24小时不关更省电吗",
       "category": "society",
       "hotScore": 0.68,
-      "freshness": 1,
+      "freshness": 0.9999,
       "crossSource": 0.6309,
       "totalScore": 0.7613,
       "sources": [
         {
           "channel": "toutiao",
           "rank": 5,
-          "hot": 7189554,
-          "url": "https://www.toutiao.com/trending/7669619798967484459/"
-        }
-      ],
-      "summary": "",
-      "url": "https://www.toutiao.com/trending/7669619798967484459/"
-    },
-    {
-      "id": "evt-24000000",
-      "title": "空调24小时不关更省电吗",
-      "category": "society",
-      "hotScore": 0.6375,
-      "freshness": 1,
-      "crossSource": 0.6309,
-      "totalScore": 0.7443,
-      "sources": [
-        {
-          "channel": "toutiao",
-          "rank": 6,
-          "hot": 6505378,
+          "hot": 7473710,
           "url": "https://www.toutiao.com/trending/7668640492518883382/"
         }
       ],
@@ -222,17 +203,17 @@
       "url": "https://www.toutiao.com/trending/7668640492518883382/"
     },
     {
-      "id": "evt-15500000",
-      "title": "1.55 升哑铃造型矿泉水走红，这种创意设计能代替正规哑铃吗？你愿为这种创意买单吗？",
+      "id": "evt-deeps000",
+      "title": "为什么大家都说 DeepSeek 已经成为大模型的「斩杀线」？",
       "category": "society",
-      "hotScore": 0.6375,
-      "freshness": 1,
+      "hotScore": 0.675,
+      "freshness": 0.9999,
       "crossSource": 0.6309,
-      "totalScore": 0.7443,
+      "totalScore": 0.7593,
       "sources": [
         {
           "channel": "zhihu",
-          "rank": 4,
+          "rank": 3,
           "hot": 0,
           "url": ""
         }
@@ -257,25 +238,6 @@
         }
       ],
       "summary": "36氪获悉，自4月9日起，中央电视台少儿频道携手好未来旗下教育品牌熊猫博士上线3D系列动画片《熊猫博士》。与此同时，《熊猫博士》3D动画片也在美国、加拿大、俄罗斯、意大利等多个国家、地区陆续发行，并登陆Discovery探索频道等多个世界知名节目。",
-      "url": ""
-    },
-    {
-      "id": "evt-deeps000",
-      "title": "为什么大家都说 DeepSeek 已经成为大模型的「斩杀线」？",
-      "category": "society",
-      "hotScore": 0.6,
-      "freshness": 1,
-      "crossSource": 0.6309,
-      "totalScore": 0.7293,
-      "sources": [
-        {
-          "channel": "zhihu",
-          "rank": 5,
-          "hot": 0,
-          "url": ""
-        }
-      ],
-      "summary": "",
       "url": ""
     },
     {
