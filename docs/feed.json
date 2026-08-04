@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-08-04T16:06:38.280Z",
+  "generatedAt": "2026-08-04T19:17:50.000Z",
   "fields": {
     "society": "社会",
     "economy": "经济",
@@ -11,19 +11,19 @@
       "title": "鸿蒙智行回应“竹知了”事件",
       "category": "society",
       "hotScore": 0.72,
-      "freshness": 1,
+      "freshness": 0.9998,
       "crossSource": 1,
-      "totalScore": 0.888,
+      "totalScore": 0.8879,
       "sources": [
         {
           "channel": "toutiao",
           "rank": 5,
-          "hot": 5897299,
+          "hot": 6462432,
           "url": "https://www.toutiao.com/trending/7669737948003794994/"
         },
         {
           "channel": "thepaper",
-          "rank": 12,
+          "rank": 11,
           "hot": 0,
           "url": "https://www.thepaper.cn/newsDetail_forward_33715905"
         },
@@ -42,7 +42,7 @@
       "title": "2026年上半年1535名纪检监察干部被处分",
       "category": "society",
       "hotScore": 0.85,
-      "freshness": 1,
+      "freshness": 0.9999,
       "crossSource": 0.5,
       "totalScore": 0.79,
       "sources": [
@@ -57,42 +57,42 @@
       "url": "https://www.thepaper.cn/newsDetail_forward_33711605"
     },
     {
-      "id": "evt-37700000",
-      "title": "我国服务进出口总额37797.5亿元",
+      "id": "evt-70000000",
+      "title": "7月楼市淡季不淡：多城成交同比保持增长，上海豪宅项目开盘日光",
       "category": "society",
       "hotScore": 0.765,
-      "freshness": 1,
+      "freshness": 0.9999,
       "crossSource": 0.5,
       "totalScore": 0.756,
       "sources": [
         {
+          "channel": "thepaper",
+          "rank": 3,
+          "hot": 0,
+          "url": "https://www.thepaper.cn/newsDetail_forward_33713617"
+        }
+      ],
+      "summary": "",
+      "url": "https://www.thepaper.cn/newsDetail_forward_33713617"
+    },
+    {
+      "id": "evt-37700000",
+      "title": "我国服务进出口总额37797.5亿元",
+      "category": "society",
+      "hotScore": 0.765,
+      "freshness": 0.9998,
+      "crossSource": 0.5,
+      "totalScore": 0.7559,
+      "sources": [
+        {
           "channel": "toutiao",
           "rank": 3,
-          "hot": 7202978,
+          "hot": 7893232,
           "url": "https://www.toutiao.com/trending/7669248908602687529/"
         }
       ],
       "summary": "",
       "url": "https://www.toutiao.com/trending/7669248908602687529/"
-    },
-    {
-      "id": "evt-30000000",
-      "title": "小偷叫3辆货拉拉拖走价值20万摩托车",
-      "category": "society",
-      "hotScore": 0.7225,
-      "freshness": 1,
-      "crossSource": 0.5,
-      "totalScore": 0.739,
-      "sources": [
-        {
-          "channel": "toutiao",
-          "rank": 4,
-          "hot": 6517524,
-          "url": "https://www.toutiao.com/trending/7670131307091099689/"
-        }
-      ],
-      "summary": "",
-      "url": "https://www.toutiao.com/trending/7670131307091099689/"
     },
     {
       "id": "evt-10000000",
@@ -152,30 +152,11 @@
       "url": ""
     },
     {
-      "id": "evt-20200000",
-      "title": "如何评价赛力斯问界 2026 年 7 月销量严重下滑，月销量不足 21,000 辆？",
-      "category": "society",
-      "hotScore": 0.7125,
-      "freshness": 1,
-      "crossSource": 0.5,
-      "totalScore": 0.735,
-      "sources": [
-        {
-          "channel": "zhihu",
-          "rank": 2,
-          "hot": 0,
-          "url": ""
-        }
-      ],
-      "summary": "",
-      "url": ""
-    },
-    {
       "id": "evt-80000000",
       "title": "8月需重点关注哪些极端天气",
       "category": "society",
       "hotScore": 0.68,
-      "freshness": 1,
+      "freshness": 0.9998,
       "crossSource": 0.5,
       "totalScore": 0.722,
       "sources": [
@@ -190,23 +171,23 @@
       "url": "https://m.baidu.com/s?word=8%E6%9C%88%E9%9C%80%E9%87%8D%E7%82%B9%E5%85%B3%E6%B3%A8%E5%93%AA%E4%BA%9B%E6%9E%81%E7%AB%AF%E5%A4%A9%E6%B0%94&sa=fyb_news"
     },
     {
-      "id": "evt-opencoded",
-      "title": "OpenCode 发文称 DeepSeek 单日吞下 8 万亿 Token，传递出哪些信号？",
+      "id": "evt-30000000",
+      "title": "小偷叫3辆货拉拉拖走价值20万摩托车",
       "category": "society",
       "hotScore": 0.6375,
-      "freshness": 1,
+      "freshness": 0.9998,
       "crossSource": 0.5,
-      "totalScore": 0.705,
+      "totalScore": 0.7049,
       "sources": [
         {
-          "channel": "zhihu",
-          "rank": 4,
-          "hot": 0,
-          "url": ""
+          "channel": "toutiao",
+          "rank": 6,
+          "hot": 5847450,
+          "url": "https://www.toutiao.com/trending/7670131307091099689/"
         }
       ],
       "summary": "",
-      "url": ""
+      "url": "https://www.toutiao.com/trending/7670131307091099689/"
     },
     {
       "id": "evt-3d000000",
@@ -226,82 +207,6 @@
       ],
       "summary": "36氪获悉，自4月9日起，中央电视台少儿频道携手好未来旗下教育品牌熊猫博士上线3D系列动画片《熊猫博士》。与此同时，《熊猫博士》3D动画片也在美国、加拿大、俄罗斯、意大利等多个国家、地区陆续发行，并登陆Discovery探索频道等多个世界知名节目。",
       "url": ""
-    },
-    {
-      "id": "evt-81200000",
-      "title": "8月12日地球将失去引力7秒？谣言",
-      "category": "society",
-      "hotScore": 0.595,
-      "freshness": 1,
-      "crossSource": 0.5,
-      "totalScore": 0.688,
-      "sources": [
-        {
-          "channel": "toutiao",
-          "rank": 7,
-          "hot": 4828300,
-          "url": "https://www.toutiao.com/trending/7669265651924074537/"
-        }
-      ],
-      "summary": "",
-      "url": "https://www.toutiao.com/trending/7669265651924074537/"
-    },
-    {
-      "id": "evt-52000000",
-      "title": "5元2瓶都卖不动 含糖碳酸饮料遇冷",
-      "category": "society",
-      "hotScore": 0.56,
-      "freshness": 1,
-      "crossSource": 0.5,
-      "totalScore": 0.674,
-      "sources": [
-        {
-          "channel": "baidu",
-          "rank": 7,
-          "hot": 0,
-          "url": "https://m.baidu.com/s?word=5%E5%85%832%E7%93%B6%E9%83%BD%E5%8D%96%E4%B8%8D%E5%8A%A8+%E5%90%AB%E7%B3%96%E7%A2%B3%E9%85%B8%E9%A5%AE%E6%96%99%E9%81%87%E5%86%B7&sa=fyb_news"
-        }
-      ],
-      "summary": "",
-      "url": "https://m.baidu.com/s?word=5%E5%85%832%E7%93%B6%E9%83%BD%E5%8D%96%E4%B8%8D%E5%8A%A8+%E5%90%AB%E7%B3%96%E7%A2%B3%E9%85%B8%E9%A5%AE%E6%96%99%E9%81%87%E5%86%B7&sa=fyb_news"
-    },
-    {
-      "id": "evt-deepsee0",
-      "title": "中国版“生物DeepSeek”诞生",
-      "category": "society",
-      "hotScore": 0.5525,
-      "freshness": 1,
-      "crossSource": 0.5,
-      "totalScore": 0.671,
-      "sources": [
-        {
-          "channel": "toutiao",
-          "rank": 8,
-          "hot": 4368827,
-          "url": "https://www.toutiao.com/trending/7670182284162502194/"
-        }
-      ],
-      "summary": "",
-      "url": "https://www.toutiao.com/trending/7670182284162502194/"
-    },
-    {
-      "id": "evt-70000000",
-      "title": "7月楼市淡季不淡：多城成交同比保持增长，上海豪宅项目开盘日光",
-      "category": "society",
-      "hotScore": 0.5525,
-      "freshness": 1,
-      "crossSource": 0.5,
-      "totalScore": 0.671,
-      "sources": [
-        {
-          "channel": "thepaper",
-          "rank": 8,
-          "hot": 0,
-          "url": "https://www.thepaper.cn/newsDetail_forward_33713617"
-        }
-      ],
-      "summary": "",
-      "url": "https://www.thepaper.cn/newsDetail_forward_33713617"
     }
   ]
 }
