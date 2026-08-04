@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-08-04T19:17:50.000Z",
+  "generatedAt": "2026-08-04T21:01:29.896Z",
   "fields": {
     "society": "社会",
     "economy": "经济",
@@ -11,14 +11,14 @@
       "title": "鸿蒙智行回应“竹知了”事件",
       "category": "society",
       "hotScore": 0.72,
-      "freshness": 0.9998,
+      "freshness": 0.9999,
       "crossSource": 1,
-      "totalScore": 0.8879,
+      "totalScore": 0.888,
       "sources": [
         {
           "channel": "toutiao",
           "rank": 5,
-          "hot": 6462432,
+          "hot": 6749561,
           "url": "https://www.toutiao.com/trending/7669737948003794994/"
         },
         {
@@ -42,7 +42,7 @@
       "title": "2026年上半年1535名纪检监察干部被处分",
       "category": "society",
       "hotScore": 0.85,
-      "freshness": 0.9999,
+      "freshness": 1,
       "crossSource": 0.5,
       "totalScore": 0.79,
       "sources": [
@@ -57,11 +57,30 @@
       "url": "https://www.thepaper.cn/newsDetail_forward_33711605"
     },
     {
+      "id": "evt-37700000",
+      "title": "我国服务进出口总额37797.5亿元",
+      "category": "society",
+      "hotScore": 0.765,
+      "freshness": 0.9999,
+      "crossSource": 0.5,
+      "totalScore": 0.756,
+      "sources": [
+        {
+          "channel": "toutiao",
+          "rank": 3,
+          "hot": 8243932,
+          "url": "https://www.toutiao.com/trending/7669248908602687529/"
+        }
+      ],
+      "summary": "",
+      "url": "https://www.toutiao.com/trending/7669248908602687529/"
+    },
+    {
       "id": "evt-70000000",
       "title": "7月楼市淡季不淡：多城成交同比保持增长，上海豪宅项目开盘日光",
       "category": "society",
       "hotScore": 0.765,
-      "freshness": 0.9999,
+      "freshness": 1,
       "crossSource": 0.5,
       "totalScore": 0.756,
       "sources": [
@@ -74,25 +93,6 @@
       ],
       "summary": "",
       "url": "https://www.thepaper.cn/newsDetail_forward_33713617"
-    },
-    {
-      "id": "evt-37700000",
-      "title": "我国服务进出口总额37797.5亿元",
-      "category": "society",
-      "hotScore": 0.765,
-      "freshness": 0.9998,
-      "crossSource": 0.5,
-      "totalScore": 0.7559,
-      "sources": [
-        {
-          "channel": "toutiao",
-          "rank": 3,
-          "hot": 7893232,
-          "url": "https://www.toutiao.com/trending/7669248908602687529/"
-        }
-      ],
-      "summary": "",
-      "url": "https://www.toutiao.com/trending/7669248908602687529/"
     },
     {
       "id": "evt-10000000",
@@ -152,11 +152,30 @@
       "url": ""
     },
     {
+      "id": "evt-30000000",
+      "title": "小偷叫3辆货拉拉拖走价值20万摩托车",
+      "category": "society",
+      "hotScore": 0.7225,
+      "freshness": 0.9999,
+      "crossSource": 0.5,
+      "totalScore": 0.739,
+      "sources": [
+        {
+          "channel": "toutiao",
+          "rank": 4,
+          "hot": 7459418,
+          "url": "https://www.toutiao.com/trending/7670131307091099689/"
+        }
+      ],
+      "summary": "",
+      "url": "https://www.toutiao.com/trending/7670131307091099689/"
+    },
+    {
       "id": "evt-80000000",
       "title": "8月需重点关注哪些极端天气",
       "category": "society",
       "hotScore": 0.68,
-      "freshness": 0.9998,
+      "freshness": 1,
       "crossSource": 0.5,
       "totalScore": 0.722,
       "sources": [
@@ -171,23 +190,23 @@
       "url": "https://m.baidu.com/s?word=8%E6%9C%88%E9%9C%80%E9%87%8D%E7%82%B9%E5%85%B3%E6%B3%A8%E5%93%AA%E4%BA%9B%E6%9E%81%E7%AB%AF%E5%A4%A9%E6%B0%94&sa=fyb_news"
     },
     {
-      "id": "evt-30000000",
-      "title": "小偷叫3辆货拉拉拖走价值20万摩托车",
+      "id": "evt-81200000",
+      "title": "8月12日地球将失去引力7秒？谣言",
       "category": "society",
       "hotScore": 0.6375,
-      "freshness": 0.9998,
+      "freshness": 0.9999,
       "crossSource": 0.5,
-      "totalScore": 0.7049,
+      "totalScore": 0.705,
       "sources": [
         {
           "channel": "toutiao",
           "rank": 6,
-          "hot": 5847450,
-          "url": "https://www.toutiao.com/trending/7670131307091099689/"
+          "hot": 6107255,
+          "url": "https://www.toutiao.com/trending/7669265651924074537/"
         }
       ],
       "summary": "",
-      "url": "https://www.toutiao.com/trending/7670131307091099689/"
+      "url": "https://www.toutiao.com/trending/7669265651924074537/"
     },
     {
       "id": "evt-3d000000",
@@ -207,6 +226,25 @@
       ],
       "summary": "36氪获悉，自4月9日起，中央电视台少儿频道携手好未来旗下教育品牌熊猫博士上线3D系列动画片《熊猫博士》。与此同时，《熊猫博士》3D动画片也在美国、加拿大、俄罗斯、意大利等多个国家、地区陆续发行，并登陆Discovery探索频道等多个世界知名节目。",
       "url": ""
+    },
+    {
+      "id": "evt-20000000",
+      "title": "20多名中国乘客被泰航无理由拒载",
+      "category": "society",
+      "hotScore": 0.52,
+      "freshness": 1,
+      "crossSource": 0.5,
+      "totalScore": 0.658,
+      "sources": [
+        {
+          "channel": "baidu",
+          "rank": 8,
+          "hot": 0,
+          "url": "https://m.baidu.com/s?word=20%E5%A4%9A%E5%90%8D%E4%B8%AD%E5%9B%BD%E4%B9%98%E5%AE%A2%E8%A2%AB%E6%B3%B0%E8%88%AA%E6%97%A0%E7%90%86%E7%94%B1%E6%8B%92%E8%BD%BD&sa=fyb_news"
+        }
+      ],
+      "summary": "",
+      "url": "https://m.baidu.com/s?word=20%E5%A4%9A%E5%90%8D%E4%B8%AD%E5%9B%BD%E4%B9%98%E5%AE%A2%E8%A2%AB%E6%B3%B0%E8%88%AA%E6%97%A0%E7%90%86%E7%94%B1%E6%8B%92%E8%BD%BD&sa=fyb_news"
     }
   ]
 }
