@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-08-04T04:54:02.675Z",
+  "generatedAt": "2026-08-04T08:19:16.742Z",
   "fields": {
     "society": "社会",
     "economy": "经济",
@@ -7,8 +7,8 @@
   },
   "feed": [
     {
-      "id": "evt-a0000000",
-      "title": "A股又现“大肉签”",
+      "id": "evt-40000000",
+      "title": "女子山姆40元买披萨吃出108元剪刀",
       "category": "society",
       "hotScore": 0.85,
       "freshness": 0.9999,
@@ -18,69 +18,81 @@
         {
           "channel": "toutiao",
           "rank": 1,
-          "hot": 9090376,
-          "url": "https://www.toutiao.com/trending/7669966034836946987/"
+          "hot": 10674552,
+          "url": "https://www.toutiao.com/trending/7669729587991134227/"
+        },
+        {
+          "channel": "baidu",
+          "rank": 13,
+          "hot": 0,
+          "url": "https://m.baidu.com/s?word=%E5%A5%B3%E5%AD%90%E5%B1%B1%E5%A7%8640%E5%85%83%E4%B9%B0%E6%8A%AB%E8%90%A8%E5%90%83%E5%87%BA108%E5%85%83%E5%89%AA%E5%88%80&sa=fyb_news"
         }
       ],
       "summary": "",
-      "url": "https://www.toutiao.com/trending/7669966034836946987/"
+      "url": "https://www.toutiao.com/trending/7669729587991134227/"
     },
     {
       "id": "evt-00000000",
-      "title": "全球最大压缩空气储能项目塌方事故后，行业扩张节奏或生变？",
+      "title": "泰国前首富现身《给阿嬷的情书》首映礼",
       "category": "society",
-      "hotScore": 0.85,
+      "hotScore": 0.8075,
       "freshness": 0.9999,
       "crossSource": 1,
-      "totalScore": 0.94,
+      "totalScore": 0.923,
+      "sources": [
+        {
+          "channel": "toutiao",
+          "rank": 2,
+          "hot": 9658734,
+          "url": "https://www.toutiao.com/trending/7670007551815110185/"
+        },
+        {
+          "channel": "baidu",
+          "rank": 18,
+          "hot": 0,
+          "url": "https://m.baidu.com/s?word=%E6%B3%B0%E5%9B%BD%E5%89%8D%E9%A6%96%E5%AF%8C%E7%8E%B0%E8%BA%AB%E3%80%8A%E7%BB%99%E9%98%BF%E5%AC%B7%E7%9A%84%E6%83%85%E4%B9%A6%E3%80%8B%E9%A6%96%E6%98%A0%E7%A4%BC&sa=fyb_news"
+        }
+      ],
+      "summary": "",
+      "url": "https://www.toutiao.com/trending/7670007551815110185/"
+    },
+    {
+      "id": "evt-20261535",
+      "title": "2026年上半年1535名纪检监察干部被处分",
+      "category": "society",
+      "hotScore": 0.7225,
+      "freshness": 1,
+      "crossSource": 0.6309,
+      "totalScore": 0.7783,
       "sources": [
         {
           "channel": "thepaper",
-          "rank": 1,
+          "rank": 4,
           "hot": 0,
-          "url": "https://www.thepaper.cn/newsDetail_forward_33711206"
+          "url": "https://www.thepaper.cn/newsDetail_forward_33711605"
         }
       ],
       "summary": "",
-      "url": "https://www.thepaper.cn/newsDetail_forward_33711206"
+      "url": "https://www.thepaper.cn/newsDetail_forward_33711605"
     },
     {
-      "id": "evt-87000000",
-      "title": "儿子去世 母亲起诉继承87个游戏账号",
+      "id": "evt-a0000000",
+      "title": "A股“股王”涨停",
       "category": "society",
-      "hotScore": 0.76,
-      "freshness": 0.9999,
-      "crossSource": 1,
-      "totalScore": 0.904,
+      "hotScore": 0.72,
+      "freshness": 1,
+      "crossSource": 0.6309,
+      "totalScore": 0.7773,
       "sources": [
         {
           "channel": "baidu",
-          "rank": 2,
+          "rank": 3,
           "hot": 0,
-          "url": "https://m.baidu.com/s?word=%E5%84%BF%E5%AD%90%E5%8E%BB%E4%B8%96+%E6%AF%8D%E4%BA%B2%E8%B5%B7%E8%AF%89%E7%BB%A7%E6%89%BF87%E4%B8%AA%E6%B8%B8%E6%88%8F%E8%B4%A6%E5%8F%B7&sa=fyb_news"
+          "url": "https://m.baidu.com/s?word=A%E8%82%A1%E2%80%9C%E8%82%A1%E7%8E%8B%E2%80%9D%E6%B6%A8%E5%81%9C&sa=fyb_news"
         }
       ],
       "summary": "",
-      "url": "https://m.baidu.com/s?word=%E5%84%BF%E5%AD%90%E5%8E%BB%E4%B8%96+%E6%AF%8D%E4%BA%B2%E8%B5%B7%E8%AF%89%E7%BB%A7%E6%89%BF87%E4%B8%AA%E6%B8%B8%E6%88%8F%E8%B4%A6%E5%8F%B7&sa=fyb_news"
-    },
-    {
-      "id": "evt-43000000",
-      "title": "美将 43 家中企拉黑，涵盖食品、医药等民生领域，这是否意味着全面脱钩已深入底层供应链？如何解读美方意图？",
-      "category": "society",
-      "hotScore": 0.75,
-      "freshness": 0.9999,
-      "crossSource": 1,
-      "totalScore": 0.9,
-      "sources": [
-        {
-          "channel": "zhihu",
-          "rank": 1,
-          "hot": 0,
-          "url": ""
-        }
-      ],
-      "summary": "",
-      "url": ""
+      "url": "https://m.baidu.com/s?word=A%E8%82%A1%E2%80%9C%E8%82%A1%E7%8E%8B%E2%80%9D%E6%B6%A8%E5%81%9C&sa=fyb_news"
     },
     {
       "id": "evt-10000000",
@@ -88,8 +100,8 @@
       "category": "economy",
       "hotScore": 0.9,
       "freshness": 1,
-      "crossSource": 1,
-      "totalScore": 0.96,
+      "crossSource": 0.6309,
+      "totalScore": 0.8493,
       "sources": [
         {
           "channel": "36kr",
@@ -107,8 +119,8 @@
       "category": "economy",
       "hotScore": 0.855,
       "freshness": 1,
-      "crossSource": 1,
-      "totalScore": 0.942,
+      "crossSource": 0.6309,
+      "totalScore": 0.8313,
       "sources": [
         {
           "channel": "36kr",
@@ -126,8 +138,8 @@
       "category": "economy",
       "hotScore": 0.81,
       "freshness": 1,
-      "crossSource": 1,
-      "totalScore": 0.924,
+      "crossSource": 0.6309,
+      "totalScore": 0.8133,
       "sources": [
         {
           "channel": "36kr",
@@ -140,51 +152,51 @@
       "url": ""
     },
     {
-      "id": "evt-16000000",
-      "title": "歼-16南海上空“训转战”画面公开",
+      "id": "evt-24ai0000",
+      "title": "如何看待 24 岁华尔街 AI 天才掌管 450 亿美元、以 4 倍杠杆极致梭哈 AI 硬件，最终遭华尔街「围猎」爆仓？",
+      "category": "society",
+      "hotScore": 0.7125,
+      "freshness": 1,
+      "crossSource": 0.6309,
+      "totalScore": 0.7743,
+      "sources": [
+        {
+          "channel": "zhihu",
+          "rank": 2,
+          "hot": 0,
+          "url": ""
+        }
+      ],
+      "summary": "",
+      "url": ""
+    },
+    {
+      "id": "evt-56400000",
+      "title": "创业板指大涨5.64% 超百股涨停",
       "category": "society",
       "hotScore": 0.68,
       "freshness": 0.9999,
-      "crossSource": 1,
-      "totalScore": 0.872,
+      "crossSource": 0.6309,
+      "totalScore": 0.7613,
       "sources": [
         {
           "channel": "toutiao",
           "rank": 5,
-          "hot": 6093461,
-          "url": "https://www.toutiao.com/trending/7669008700711157801/"
+          "hot": 7155366,
+          "url": "https://www.toutiao.com/trending/7670069077377011246/"
         }
       ],
       "summary": "",
-      "url": "https://www.toutiao.com/trending/7669008700711157801/"
+      "url": "https://www.toutiao.com/trending/7670069077377011246/"
     },
     {
-      "id": "evt-20261535",
-      "title": "2026年上半年1535名纪检监察干部被处分",
-      "category": "society",
-      "hotScore": 0.68,
-      "freshness": 0.9999,
-      "crossSource": 1,
-      "totalScore": 0.872,
-      "sources": [
-        {
-          "channel": "thepaper",
-          "rank": 5,
-          "hot": 0,
-          "url": "https://www.thepaper.cn/newsDetail_forward_33711605"
-        }
-      ],
-      "summary": "",
-      "url": "https://www.thepaper.cn/newsDetail_forward_33711605"
-    },
-    {
-      "id": "evt-deeps000",
-      "title": "为什么大家都说 DeepSeek 已经成为大模型的「斩杀线」？",
+      "id": "evt-opencoded",
+      "title": "OpenCode 发文称 DeepSeek 单日吞下 8 万亿 Token，传递出哪些信号？",
       "category": "society",
       "hotScore": 0.6375,
-      "freshness": 0.9999,
-      "crossSource": 1,
-      "totalScore": 0.855,
+      "freshness": 1,
+      "crossSource": 0.6309,
+      "totalScore": 0.7443,
       "sources": [
         {
           "channel": "zhihu",
@@ -202,8 +214,8 @@
       "category": "society",
       "hotScore": 0.63,
       "freshness": 1,
-      "crossSource": 1,
-      "totalScore": 0.852,
+      "crossSource": 0.6309,
+      "totalScore": 0.7413,
       "sources": [
         {
           "channel": "36kr",
@@ -216,13 +228,32 @@
       "url": ""
     },
     {
-      "id": "evt-24ai0000",
-      "title": "如何看待 24 岁华尔街 AI 天才掌管 450 亿美元、以 4 倍杠杆极致梭哈 AI 硬件，最终遭华尔街「围猎」爆仓？",
+      "id": "evt-ufc34000",
+      "title": "UFC名将去世年仅34岁 疑因突发心脏病",
+      "category": "society",
+      "hotScore": 0.6,
+      "freshness": 1,
+      "crossSource": 0.6309,
+      "totalScore": 0.7293,
+      "sources": [
+        {
+          "channel": "baidu",
+          "rank": 6,
+          "hot": 0,
+          "url": "https://m.baidu.com/s?word=UFC%E5%90%8D%E5%B0%86%E5%8E%BB%E4%B8%96%E5%B9%B4%E4%BB%8534%E5%B2%81+%E7%96%91%E5%9B%A0%E7%AA%81%E5%8F%91%E5%BF%83%E8%84%8F%E7%97%85&sa=fyb_news"
+        }
+      ],
+      "summary": "",
+      "url": "https://m.baidu.com/s?word=UFC%E5%90%8D%E5%B0%86%E5%8E%BB%E4%B8%96%E5%B9%B4%E4%BB%8534%E5%B2%81+%E7%96%91%E5%9B%A0%E7%AA%81%E5%8F%91%E5%BF%83%E8%84%8F%E7%97%85&sa=fyb_news"
+    },
+    {
+      "id": "evt-43000000",
+      "title": "美将 43 家中企拉黑，涵盖食品、医药等民生领域，这是否意味着全面脱钩已深入底层供应链？如何解读美方意图？",
       "category": "society",
       "hotScore": 0.525,
-      "freshness": 0.9999,
-      "crossSource": 1,
-      "totalScore": 0.81,
+      "freshness": 1,
+      "crossSource": 0.6309,
+      "totalScore": 0.6993,
       "sources": [
         {
           "channel": "zhihu",
@@ -233,25 +264,6 @@
       ],
       "summary": "",
       "url": ""
-    },
-    {
-      "id": "evt-a1000000",
-      "title": "A股又现大肉签 中1签最高可赚7.5万",
-      "category": "society",
-      "hotScore": 0.52,
-      "freshness": 0.9999,
-      "crossSource": 1,
-      "totalScore": 0.808,
-      "sources": [
-        {
-          "channel": "baidu",
-          "rank": 8,
-          "hot": 0,
-          "url": "https://m.baidu.com/s?word=A%E8%82%A1%E5%8F%88%E7%8E%B0%E5%A4%A7%E8%82%89%E7%AD%BE+%E4%B8%AD1%E7%AD%BE%E6%9C%80%E9%AB%98%E5%8F%AF%E8%B5%9A7.5%E4%B8%87&sa=fyb_news"
-        }
-      ],
-      "summary": "",
-      "url": "https://m.baidu.com/s?word=A%E8%82%A1%E5%8F%88%E7%8E%B0%E5%A4%A7%E8%82%89%E7%AD%BE+%E4%B8%AD1%E7%AD%BE%E6%9C%80%E9%AB%98%E5%8F%AF%E8%B5%9A7.5%E4%B8%87&sa=fyb_news"
     }
   ]
 }
