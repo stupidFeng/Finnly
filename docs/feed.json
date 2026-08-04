@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-08-03T22:52:04.479Z",
+  "generatedAt": "2026-08-04T01:25:38.503Z",
   "fields": {
     "society": "社会",
     "economy": "经济",
@@ -8,61 +8,42 @@
   "feed": [
     {
       "id": "evt-00000000",
-      "title": "青岛火车站好多人拖着铁桶扎啤返乡",
+      "title": "香港传奇影星葛兰去世 享年93岁",
       "category": "society",
-      "hotScore": 0.8075,
-      "freshness": 1,
+      "hotScore": 0.7225,
+      "freshness": 0.9999,
       "crossSource": 1,
-      "totalScore": 0.923,
+      "totalScore": 0.889,
       "sources": [
         {
           "channel": "toutiao",
-          "rank": 2,
-          "hot": 11038709,
-          "url": "https://www.toutiao.com/trending/7669683677127704619/"
+          "rank": 4,
+          "hot": 7009864,
+          "url": "https://www.toutiao.com/trending/7669806919556939814/"
         },
         {
           "channel": "baidu",
-          "rank": 11,
+          "rank": 5,
           "hot": 0,
-          "url": "https://m.baidu.com/s?word=%E9%9D%92%E5%B2%9B%E7%81%AB%E8%BD%A6%E7%AB%99%E5%A5%BD%E5%A4%9A%E4%BA%BA%E6%8B%96%E7%9D%80%E9%93%81%E6%A1%B6%E6%89%8E%E5%95%A4%E8%BF%94%E4%B9%A1&sa=fyb_news"
+          "url": "https://m.baidu.com/s?word=%E9%A6%99%E6%B8%AF%E4%BC%A0%E5%A5%87%E5%BD%B1%E6%98%9F%E8%91%9B%E5%85%B0%E5%8E%BB%E4%B8%96+%E4%BA%AB%E5%B9%B493%E5%B2%81&sa=fyb_news"
         }
       ],
       "summary": "",
-      "url": "https://www.toutiao.com/trending/7669683677127704619/"
-    },
-    {
-      "id": "evt-12000000",
-      "title": "研究：每天1-2杯咖啡可降低肝病风险",
-      "category": "society",
-      "hotScore": 0.85,
-      "freshness": 1,
-      "crossSource": 0.6309,
-      "totalScore": 0.8293,
-      "sources": [
-        {
-          "channel": "toutiao",
-          "rank": 1,
-          "hot": 12199660,
-          "url": "https://www.toutiao.com/trending/7669789210492157958/"
-        }
-      ],
-      "summary": "",
-      "url": "https://www.toutiao.com/trending/7669789210492157958/"
+      "url": "https://www.toutiao.com/trending/7669806919556939814/"
     },
     {
       "id": "evt-55000000",
       "title": "全国海洋生产总值5.5万亿元",
       "category": "society",
       "hotScore": 0.765,
-      "freshness": 1,
+      "freshness": 0.9999,
       "crossSource": 0.6309,
       "totalScore": 0.7953,
       "sources": [
         {
           "channel": "toutiao",
           "rank": 3,
-          "hot": 9988237,
+          "hot": 7747097,
           "url": "https://www.toutiao.com/trending/7669588746061266980/"
         }
       ],
@@ -70,23 +51,42 @@
       "url": "https://www.toutiao.com/trending/7669588746061266980/"
     },
     {
-      "id": "evt-deepseek",
-      "title": "DeepSeek 斩杀线",
+      "id": "evt-43000000",
+      "title": "美将 43 家中企拉黑，涵盖食品、医药等民生领域，这是否意味着全面脱钩已深入底层供应链？如何解读美方意图？",
       "category": "society",
-      "hotScore": 0.76,
+      "hotScore": 0.75,
       "freshness": 1,
       "crossSource": 0.6309,
-      "totalScore": 0.7933,
+      "totalScore": 0.7893,
       "sources": [
         {
-          "channel": "baidu",
-          "rank": 2,
+          "channel": "zhihu",
+          "rank": 1,
           "hot": 0,
-          "url": "https://m.baidu.com/s?word=DeepSeek+%E6%96%A9%E6%9D%80%E7%BA%BF&sa=fyb_news"
+          "url": ""
         }
       ],
       "summary": "",
-      "url": "https://m.baidu.com/s?word=DeepSeek+%E6%96%A9%E6%9D%80%E7%BA%BF&sa=fyb_news"
+      "url": ""
+    },
+    {
+      "id": "evt-deeps000",
+      "title": "为什么大家都说 DeepSeek 已经成为大模型的「斩杀线」？",
+      "category": "society",
+      "hotScore": 0.7125,
+      "freshness": 1,
+      "crossSource": 0.6309,
+      "totalScore": 0.7743,
+      "sources": [
+        {
+          "channel": "zhihu",
+          "rank": 2,
+          "hot": 0,
+          "url": ""
+        }
+      ],
+      "summary": "",
+      "url": ""
     },
     {
       "id": "evt-10000000",
@@ -146,63 +146,6 @@
       "url": ""
     },
     {
-      "id": "evt-deeps000",
-      "title": "为什么大家都说 DeepSeek 已经成为大模型的「斩杀线」？",
-      "category": "society",
-      "hotScore": 0.7125,
-      "freshness": 1,
-      "crossSource": 0.6309,
-      "totalScore": 0.7743,
-      "sources": [
-        {
-          "channel": "zhihu",
-          "rank": 2,
-          "hot": 0,
-          "url": ""
-        }
-      ],
-      "summary": "",
-      "url": ""
-    },
-    {
-      "id": "evt-43000000",
-      "title": "美将 43 家中企拉黑，涵盖食品、医药等民生领域，这是否意味着全面脱钩已深入底层供应链？如何解读美方意图？",
-      "category": "society",
-      "hotScore": 0.675,
-      "freshness": 1,
-      "crossSource": 0.6309,
-      "totalScore": 0.7593,
-      "sources": [
-        {
-          "channel": "zhihu",
-          "rank": 3,
-          "hot": 0,
-          "url": ""
-        }
-      ],
-      "summary": "",
-      "url": ""
-    },
-    {
-      "id": "evt-78000000",
-      "title": "如何看待 7 月末至 8 月初有多家韩国公司发布 AI 称性能强于 DeepSeek？",
-      "category": "society",
-      "hotScore": 0.6375,
-      "freshness": 1,
-      "crossSource": 0.6309,
-      "totalScore": 0.7443,
-      "sources": [
-        {
-          "channel": "zhihu",
-          "rank": 4,
-          "hot": 0,
-          "url": ""
-        }
-      ],
-      "summary": "",
-      "url": ""
-    },
-    {
       "id": "evt-3d000000",
       "title": "好未来《熊猫博士》3D动画片登陆央视少儿频道",
       "category": "society",
@@ -222,42 +165,23 @@
       "url": ""
     },
     {
-      "id": "evt-68000000",
-      "title": "贵州一景区有游客跌入68级瀑布",
+      "id": "evt-20260000",
+      "title": "2026 上海明日之星冠军赛揭幕战，中国 U17 队 3：2 绝杀阿森纳 U17 队，如何评价这场比赛？",
       "category": "society",
-      "hotScore": 0.56,
+      "hotScore": 0.525,
       "freshness": 1,
       "crossSource": 0.6309,
-      "totalScore": 0.7133,
+      "totalScore": 0.6993,
       "sources": [
         {
-          "channel": "baidu",
+          "channel": "zhihu",
           "rank": 7,
           "hot": 0,
-          "url": "https://m.baidu.com/s?word=%E8%B4%B5%E5%B7%9E%E4%B8%80%E6%99%AF%E5%8C%BA%E6%9C%89%E6%B8%B8%E5%AE%A2%E8%B7%8C%E5%85%A568%E7%BA%A7%E7%80%91%E5%B8%83&sa=fyb_news"
+          "url": ""
         }
       ],
       "summary": "",
-      "url": "https://m.baidu.com/s?word=%E8%B4%B5%E5%B7%9E%E4%B8%80%E6%99%AF%E5%8C%BA%E6%9C%89%E6%B8%B8%E5%AE%A2%E8%B7%8C%E5%85%A568%E7%BA%A7%E7%80%91%E5%B8%83&sa=fyb_news"
-    },
-    {
-      "id": "evt-70000000",
-      "title": "赛力斯7月新能源汽车销量同比降45%",
-      "category": "society",
-      "hotScore": 0.5525,
-      "freshness": 1,
-      "crossSource": 0.6309,
-      "totalScore": 0.7103,
-      "sources": [
-        {
-          "channel": "toutiao",
-          "rank": 8,
-          "hot": 6058172,
-          "url": "https://www.toutiao.com/trending/7669619798967484459/"
-        }
-      ],
-      "summary": "",
-      "url": "https://www.toutiao.com/trending/7669619798967484459/"
+      "url": ""
     }
   ]
 }
