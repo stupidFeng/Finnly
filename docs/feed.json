@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-08-04T13:47:13.298Z",
+  "generatedAt": "2026-08-04T16:06:38.280Z",
   "fields": {
     "society": "社会",
     "economy": "经济",
@@ -8,41 +8,47 @@
   "feed": [
     {
       "id": "evt-00000000",
-      "title": "申通快递被立案调查",
+      "title": "鸿蒙智行回应“竹知了”事件",
       "category": "society",
-      "hotScore": 0.85,
+      "hotScore": 0.72,
       "freshness": 1,
       "crossSource": 1,
-      "totalScore": 0.94,
+      "totalScore": 0.888,
       "sources": [
         {
           "channel": "toutiao",
-          "rank": 1,
-          "hot": 9180474,
-          "url": "https://www.toutiao.com/trending/7670119765616689158/"
+          "rank": 5,
+          "hot": 5897299,
+          "url": "https://www.toutiao.com/trending/7669737948003794994/"
+        },
+        {
+          "channel": "thepaper",
+          "rank": 12,
+          "hot": 0,
+          "url": "https://www.thepaper.cn/newsDetail_forward_33715905"
         },
         {
           "channel": "baidu",
-          "rank": 2,
+          "rank": 3,
           "hot": 0,
-          "url": "https://m.baidu.com/s?word=%E7%94%B3%E9%80%9A%E5%BF%AB%E9%80%92%E8%A2%AB%E7%AB%8B%E6%A1%88%E8%B0%83%E6%9F%A5&sa=fyb_news"
+          "url": "https://m.baidu.com/s?word=%E9%B8%BF%E8%92%99%E6%99%BA%E8%A1%8C%E5%9B%9E%E5%BA%94%E2%80%9C%E7%AB%B9%E7%9F%A5%E4%BA%86%E2%80%9D%E4%BA%8B%E4%BB%B6&sa=fyb_news"
         }
       ],
       "summary": "",
-      "url": "https://www.toutiao.com/trending/7670119765616689158/"
+      "url": "https://www.toutiao.com/trending/7669737948003794994/"
     },
     {
       "id": "evt-20261535",
       "title": "2026年上半年1535名纪检监察干部被处分",
       "category": "society",
-      "hotScore": 0.8075,
+      "hotScore": 0.85,
       "freshness": 1,
-      "crossSource": 0.6309,
-      "totalScore": 0.8123,
+      "crossSource": 0.5,
+      "totalScore": 0.79,
       "sources": [
         {
           "channel": "thepaper",
-          "rank": 2,
+          "rank": 1,
           "hot": 0,
           "url": "https://www.thepaper.cn/newsDetail_forward_33711605"
         }
@@ -56,13 +62,13 @@
       "category": "society",
       "hotScore": 0.765,
       "freshness": 1,
-      "crossSource": 0.6309,
-      "totalScore": 0.7953,
+      "crossSource": 0.5,
+      "totalScore": 0.756,
       "sources": [
         {
           "channel": "toutiao",
           "rank": 3,
-          "hot": 7516336,
+          "hot": 7202978,
           "url": "https://www.toutiao.com/trending/7669248908602687529/"
         }
       ],
@@ -70,23 +76,23 @@
       "url": "https://www.toutiao.com/trending/7669248908602687529/"
     },
     {
-      "id": "evt-44000000",
-      "title": "44岁爸爸被女儿激将考上985研究生",
+      "id": "evt-30000000",
+      "title": "小偷叫3辆货拉拉拖走价值20万摩托车",
       "category": "society",
       "hotScore": 0.7225,
       "freshness": 1,
-      "crossSource": 0.6309,
-      "totalScore": 0.7783,
+      "crossSource": 0.5,
+      "totalScore": 0.739,
       "sources": [
         {
           "channel": "toutiao",
           "rank": 4,
-          "hot": 6801062,
-          "url": "https://www.toutiao.com/trending/7670086340830904362/"
+          "hot": 6517524,
+          "url": "https://www.toutiao.com/trending/7670131307091099689/"
         }
       ],
       "summary": "",
-      "url": "https://www.toutiao.com/trending/7670086340830904362/"
+      "url": "https://www.toutiao.com/trending/7670131307091099689/"
     },
     {
       "id": "evt-10000000",
@@ -94,8 +100,8 @@
       "category": "economy",
       "hotScore": 0.9,
       "freshness": 1,
-      "crossSource": 0.6309,
-      "totalScore": 0.8493,
+      "crossSource": 0.5,
+      "totalScore": 0.81,
       "sources": [
         {
           "channel": "36kr",
@@ -113,8 +119,8 @@
       "category": "economy",
       "hotScore": 0.855,
       "freshness": 1,
-      "crossSource": 0.6309,
-      "totalScore": 0.8313,
+      "crossSource": 0.5,
+      "totalScore": 0.792,
       "sources": [
         {
           "channel": "36kr",
@@ -132,8 +138,8 @@
       "category": "economy",
       "hotScore": 0.81,
       "freshness": 1,
-      "crossSource": 0.6309,
-      "totalScore": 0.8133,
+      "crossSource": 0.5,
+      "totalScore": 0.774,
       "sources": [
         {
           "channel": "36kr",
@@ -146,32 +152,13 @@
       "url": ""
     },
     {
-      "id": "evt-52000000",
-      "title": "5元2瓶都卖不动 含糖碳酸饮料遇冷",
-      "category": "society",
-      "hotScore": 0.72,
-      "freshness": 1,
-      "crossSource": 0.6309,
-      "totalScore": 0.7773,
-      "sources": [
-        {
-          "channel": "baidu",
-          "rank": 3,
-          "hot": 0,
-          "url": "https://m.baidu.com/s?word=5%E5%85%832%E7%93%B6%E9%83%BD%E5%8D%96%E4%B8%8D%E5%8A%A8+%E5%90%AB%E7%B3%96%E7%A2%B3%E9%85%B8%E9%A5%AE%E6%96%99%E9%81%87%E5%86%B7&sa=fyb_news"
-        }
-      ],
-      "summary": "",
-      "url": "https://m.baidu.com/s?word=5%E5%85%832%E7%93%B6%E9%83%BD%E5%8D%96%E4%B8%8D%E5%8A%A8+%E5%90%AB%E7%B3%96%E7%A2%B3%E9%85%B8%E9%A5%AE%E6%96%99%E9%81%87%E5%86%B7&sa=fyb_news"
-    },
-    {
       "id": "evt-20200000",
       "title": "如何评价赛力斯问界 2026 年 7 月销量严重下滑，月销量不足 21,000 辆？",
       "category": "society",
       "hotScore": 0.7125,
       "freshness": 1,
-      "crossSource": 0.6309,
-      "totalScore": 0.7743,
+      "crossSource": 0.5,
+      "totalScore": 0.735,
       "sources": [
         {
           "channel": "zhihu",
@@ -189,8 +176,8 @@
       "category": "society",
       "hotScore": 0.68,
       "freshness": 1,
-      "crossSource": 0.6309,
-      "totalScore": 0.7613,
+      "crossSource": 0.5,
+      "totalScore": 0.722,
       "sources": [
         {
           "channel": "baidu",
@@ -203,51 +190,13 @@
       "url": "https://m.baidu.com/s?word=8%E6%9C%88%E9%9C%80%E9%87%8D%E7%82%B9%E5%85%B3%E6%B3%A8%E5%93%AA%E4%BA%9B%E6%9E%81%E7%AB%AF%E5%A4%A9%E6%B0%94&sa=fyb_news"
     },
     {
-      "id": "evt-16000000",
-      "title": "歼-16南海上空“训转战”画面公开",
-      "category": "society",
-      "hotScore": 0.68,
-      "freshness": 1,
-      "crossSource": 0.6309,
-      "totalScore": 0.7613,
-      "sources": [
-        {
-          "channel": "toutiao",
-          "rank": 5,
-          "hot": 6153856,
-          "url": "https://www.toutiao.com/trending/7669008700711157801/"
-        }
-      ],
-      "summary": "",
-      "url": "https://www.toutiao.com/trending/7669008700711157801/"
-    },
-    {
       "id": "evt-opencoded",
       "title": "OpenCode 发文称 DeepSeek 单日吞下 8 万亿 Token，传递出哪些信号？",
       "category": "society",
-      "hotScore": 0.675,
-      "freshness": 1,
-      "crossSource": 0.6309,
-      "totalScore": 0.7593,
-      "sources": [
-        {
-          "channel": "zhihu",
-          "rank": 3,
-          "hot": 0,
-          "url": ""
-        }
-      ],
-      "summary": "",
-      "url": ""
-    },
-    {
-      "id": "evt-24ai0000",
-      "title": "如何看待 24 岁华尔街 AI 天才掌管 450 亿美元、以 4 倍杠杆极致梭哈 AI 硬件，最终遭华尔街「围猎」爆仓？",
-      "category": "society",
       "hotScore": 0.6375,
       "freshness": 1,
-      "crossSource": 0.6309,
-      "totalScore": 0.7443,
+      "crossSource": 0.5,
+      "totalScore": 0.705,
       "sources": [
         {
           "channel": "zhihu",
@@ -265,8 +214,8 @@
       "category": "society",
       "hotScore": 0.63,
       "freshness": 1,
-      "crossSource": 0.6309,
-      "totalScore": 0.7413,
+      "crossSource": 0.5,
+      "totalScore": 0.702,
       "sources": [
         {
           "channel": "36kr",
@@ -279,23 +228,80 @@
       "url": ""
     },
     {
-      "id": "evt-50000000",
-      "title": "四川一50岁女区委书记病逝",
+      "id": "evt-81200000",
+      "title": "8月12日地球将失去引力7秒？谣言",
       "category": "society",
       "hotScore": 0.595,
       "freshness": 1,
-      "crossSource": 0.6309,
-      "totalScore": 0.7273,
+      "crossSource": 0.5,
+      "totalScore": 0.688,
       "sources": [
         {
           "channel": "toutiao",
           "rank": 7,
-          "hot": 5038351,
-          "url": "https://www.toutiao.com/trending/7670076141069369390/"
+          "hot": 4828300,
+          "url": "https://www.toutiao.com/trending/7669265651924074537/"
         }
       ],
       "summary": "",
-      "url": "https://www.toutiao.com/trending/7670076141069369390/"
+      "url": "https://www.toutiao.com/trending/7669265651924074537/"
+    },
+    {
+      "id": "evt-52000000",
+      "title": "5元2瓶都卖不动 含糖碳酸饮料遇冷",
+      "category": "society",
+      "hotScore": 0.56,
+      "freshness": 1,
+      "crossSource": 0.5,
+      "totalScore": 0.674,
+      "sources": [
+        {
+          "channel": "baidu",
+          "rank": 7,
+          "hot": 0,
+          "url": "https://m.baidu.com/s?word=5%E5%85%832%E7%93%B6%E9%83%BD%E5%8D%96%E4%B8%8D%E5%8A%A8+%E5%90%AB%E7%B3%96%E7%A2%B3%E9%85%B8%E9%A5%AE%E6%96%99%E9%81%87%E5%86%B7&sa=fyb_news"
+        }
+      ],
+      "summary": "",
+      "url": "https://m.baidu.com/s?word=5%E5%85%832%E7%93%B6%E9%83%BD%E5%8D%96%E4%B8%8D%E5%8A%A8+%E5%90%AB%E7%B3%96%E7%A2%B3%E9%85%B8%E9%A5%AE%E6%96%99%E9%81%87%E5%86%B7&sa=fyb_news"
+    },
+    {
+      "id": "evt-deepsee0",
+      "title": "中国版“生物DeepSeek”诞生",
+      "category": "society",
+      "hotScore": 0.5525,
+      "freshness": 1,
+      "crossSource": 0.5,
+      "totalScore": 0.671,
+      "sources": [
+        {
+          "channel": "toutiao",
+          "rank": 8,
+          "hot": 4368827,
+          "url": "https://www.toutiao.com/trending/7670182284162502194/"
+        }
+      ],
+      "summary": "",
+      "url": "https://www.toutiao.com/trending/7670182284162502194/"
+    },
+    {
+      "id": "evt-70000000",
+      "title": "7月楼市淡季不淡：多城成交同比保持增长，上海豪宅项目开盘日光",
+      "category": "society",
+      "hotScore": 0.5525,
+      "freshness": 1,
+      "crossSource": 0.5,
+      "totalScore": 0.671,
+      "sources": [
+        {
+          "channel": "thepaper",
+          "rank": 8,
+          "hot": 0,
+          "url": "https://www.thepaper.cn/newsDetail_forward_33713617"
+        }
+      ],
+      "summary": "",
+      "url": "https://www.thepaper.cn/newsDetail_forward_33713617"
     }
   ]
 }
