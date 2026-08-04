@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-08-04T01:25:38.503Z",
+  "generatedAt": "2026-08-04T04:54:02.675Z",
   "fields": {
     "society": "社会",
     "economy": "经济",
@@ -7,80 +7,74 @@
   },
   "feed": [
     {
-      "id": "evt-00000000",
-      "title": "香港传奇影星葛兰去世 享年93岁",
+      "id": "evt-a0000000",
+      "title": "A股又现“大肉签”",
       "category": "society",
-      "hotScore": 0.7225,
+      "hotScore": 0.85,
       "freshness": 0.9999,
       "crossSource": 1,
-      "totalScore": 0.889,
+      "totalScore": 0.94,
       "sources": [
         {
           "channel": "toutiao",
-          "rank": 4,
-          "hot": 7009864,
-          "url": "https://www.toutiao.com/trending/7669806919556939814/"
-        },
-        {
-          "channel": "baidu",
-          "rank": 5,
-          "hot": 0,
-          "url": "https://m.baidu.com/s?word=%E9%A6%99%E6%B8%AF%E4%BC%A0%E5%A5%87%E5%BD%B1%E6%98%9F%E8%91%9B%E5%85%B0%E5%8E%BB%E4%B8%96+%E4%BA%AB%E5%B9%B493%E5%B2%81&sa=fyb_news"
+          "rank": 1,
+          "hot": 9090376,
+          "url": "https://www.toutiao.com/trending/7669966034836946987/"
         }
       ],
       "summary": "",
-      "url": "https://www.toutiao.com/trending/7669806919556939814/"
+      "url": "https://www.toutiao.com/trending/7669966034836946987/"
     },
     {
-      "id": "evt-55000000",
-      "title": "全国海洋生产总值5.5万亿元",
+      "id": "evt-00000000",
+      "title": "全球最大压缩空气储能项目塌方事故后，行业扩张节奏或生变？",
       "category": "society",
-      "hotScore": 0.765,
+      "hotScore": 0.85,
       "freshness": 0.9999,
-      "crossSource": 0.6309,
-      "totalScore": 0.7953,
+      "crossSource": 1,
+      "totalScore": 0.94,
       "sources": [
         {
-          "channel": "toutiao",
-          "rank": 3,
-          "hot": 7747097,
-          "url": "https://www.toutiao.com/trending/7669588746061266980/"
+          "channel": "thepaper",
+          "rank": 1,
+          "hot": 0,
+          "url": "https://www.thepaper.cn/newsDetail_forward_33711206"
         }
       ],
       "summary": "",
-      "url": "https://www.toutiao.com/trending/7669588746061266980/"
+      "url": "https://www.thepaper.cn/newsDetail_forward_33711206"
+    },
+    {
+      "id": "evt-87000000",
+      "title": "儿子去世 母亲起诉继承87个游戏账号",
+      "category": "society",
+      "hotScore": 0.76,
+      "freshness": 0.9999,
+      "crossSource": 1,
+      "totalScore": 0.904,
+      "sources": [
+        {
+          "channel": "baidu",
+          "rank": 2,
+          "hot": 0,
+          "url": "https://m.baidu.com/s?word=%E5%84%BF%E5%AD%90%E5%8E%BB%E4%B8%96+%E6%AF%8D%E4%BA%B2%E8%B5%B7%E8%AF%89%E7%BB%A7%E6%89%BF87%E4%B8%AA%E6%B8%B8%E6%88%8F%E8%B4%A6%E5%8F%B7&sa=fyb_news"
+        }
+      ],
+      "summary": "",
+      "url": "https://m.baidu.com/s?word=%E5%84%BF%E5%AD%90%E5%8E%BB%E4%B8%96+%E6%AF%8D%E4%BA%B2%E8%B5%B7%E8%AF%89%E7%BB%A7%E6%89%BF87%E4%B8%AA%E6%B8%B8%E6%88%8F%E8%B4%A6%E5%8F%B7&sa=fyb_news"
     },
     {
       "id": "evt-43000000",
       "title": "美将 43 家中企拉黑，涵盖食品、医药等民生领域，这是否意味着全面脱钩已深入底层供应链？如何解读美方意图？",
       "category": "society",
       "hotScore": 0.75,
-      "freshness": 1,
-      "crossSource": 0.6309,
-      "totalScore": 0.7893,
+      "freshness": 0.9999,
+      "crossSource": 1,
+      "totalScore": 0.9,
       "sources": [
         {
           "channel": "zhihu",
           "rank": 1,
-          "hot": 0,
-          "url": ""
-        }
-      ],
-      "summary": "",
-      "url": ""
-    },
-    {
-      "id": "evt-deeps000",
-      "title": "为什么大家都说 DeepSeek 已经成为大模型的「斩杀线」？",
-      "category": "society",
-      "hotScore": 0.7125,
-      "freshness": 1,
-      "crossSource": 0.6309,
-      "totalScore": 0.7743,
-      "sources": [
-        {
-          "channel": "zhihu",
-          "rank": 2,
           "hot": 0,
           "url": ""
         }
@@ -94,8 +88,8 @@
       "category": "economy",
       "hotScore": 0.9,
       "freshness": 1,
-      "crossSource": 0.6309,
-      "totalScore": 0.8493,
+      "crossSource": 1,
+      "totalScore": 0.96,
       "sources": [
         {
           "channel": "36kr",
@@ -113,8 +107,8 @@
       "category": "economy",
       "hotScore": 0.855,
       "freshness": 1,
-      "crossSource": 0.6309,
-      "totalScore": 0.8313,
+      "crossSource": 1,
+      "totalScore": 0.942,
       "sources": [
         {
           "channel": "36kr",
@@ -132,8 +126,8 @@
       "category": "economy",
       "hotScore": 0.81,
       "freshness": 1,
-      "crossSource": 0.6309,
-      "totalScore": 0.8133,
+      "crossSource": 1,
+      "totalScore": 0.924,
       "sources": [
         {
           "channel": "36kr",
@@ -146,13 +140,70 @@
       "url": ""
     },
     {
+      "id": "evt-16000000",
+      "title": "歼-16南海上空“训转战”画面公开",
+      "category": "society",
+      "hotScore": 0.68,
+      "freshness": 0.9999,
+      "crossSource": 1,
+      "totalScore": 0.872,
+      "sources": [
+        {
+          "channel": "toutiao",
+          "rank": 5,
+          "hot": 6093461,
+          "url": "https://www.toutiao.com/trending/7669008700711157801/"
+        }
+      ],
+      "summary": "",
+      "url": "https://www.toutiao.com/trending/7669008700711157801/"
+    },
+    {
+      "id": "evt-20261535",
+      "title": "2026年上半年1535名纪检监察干部被处分",
+      "category": "society",
+      "hotScore": 0.68,
+      "freshness": 0.9999,
+      "crossSource": 1,
+      "totalScore": 0.872,
+      "sources": [
+        {
+          "channel": "thepaper",
+          "rank": 5,
+          "hot": 0,
+          "url": "https://www.thepaper.cn/newsDetail_forward_33711605"
+        }
+      ],
+      "summary": "",
+      "url": "https://www.thepaper.cn/newsDetail_forward_33711605"
+    },
+    {
+      "id": "evt-deeps000",
+      "title": "为什么大家都说 DeepSeek 已经成为大模型的「斩杀线」？",
+      "category": "society",
+      "hotScore": 0.6375,
+      "freshness": 0.9999,
+      "crossSource": 1,
+      "totalScore": 0.855,
+      "sources": [
+        {
+          "channel": "zhihu",
+          "rank": 4,
+          "hot": 0,
+          "url": ""
+        }
+      ],
+      "summary": "",
+      "url": ""
+    },
+    {
       "id": "evt-3d000000",
       "title": "好未来《熊猫博士》3D动画片登陆央视少儿频道",
       "category": "society",
       "hotScore": 0.63,
       "freshness": 1,
-      "crossSource": 0.6309,
-      "totalScore": 0.7413,
+      "crossSource": 1,
+      "totalScore": 0.852,
       "sources": [
         {
           "channel": "36kr",
@@ -165,13 +216,13 @@
       "url": ""
     },
     {
-      "id": "evt-20260000",
-      "title": "2026 上海明日之星冠军赛揭幕战，中国 U17 队 3：2 绝杀阿森纳 U17 队，如何评价这场比赛？",
+      "id": "evt-24ai0000",
+      "title": "如何看待 24 岁华尔街 AI 天才掌管 450 亿美元、以 4 倍杠杆极致梭哈 AI 硬件，最终遭华尔街「围猎」爆仓？",
       "category": "society",
       "hotScore": 0.525,
-      "freshness": 1,
-      "crossSource": 0.6309,
-      "totalScore": 0.6993,
+      "freshness": 0.9999,
+      "crossSource": 1,
+      "totalScore": 0.81,
       "sources": [
         {
           "channel": "zhihu",
@@ -182,6 +233,25 @@
       ],
       "summary": "",
       "url": ""
+    },
+    {
+      "id": "evt-a1000000",
+      "title": "A股又现大肉签 中1签最高可赚7.5万",
+      "category": "society",
+      "hotScore": 0.52,
+      "freshness": 0.9999,
+      "crossSource": 1,
+      "totalScore": 0.808,
+      "sources": [
+        {
+          "channel": "baidu",
+          "rank": 8,
+          "hot": 0,
+          "url": "https://m.baidu.com/s?word=A%E8%82%A1%E5%8F%88%E7%8E%B0%E5%A4%A7%E8%82%89%E7%AD%BE+%E4%B8%AD1%E7%AD%BE%E6%9C%80%E9%AB%98%E5%8F%AF%E8%B5%9A7.5%E4%B8%87&sa=fyb_news"
+        }
+      ],
+      "summary": "",
+      "url": "https://m.baidu.com/s?word=A%E8%82%A1%E5%8F%88%E7%8E%B0%E5%A4%A7%E8%82%89%E7%AD%BE+%E4%B8%AD1%E7%AD%BE%E6%9C%80%E9%AB%98%E5%8F%AF%E8%B5%9A7.5%E4%B8%87&sa=fyb_news"
     }
   ]
 }
