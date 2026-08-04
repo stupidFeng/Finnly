@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-08-04T21:01:29.896Z",
+  "generatedAt": "2026-08-04T22:52:03.955Z",
   "fields": {
     "society": "社会",
     "economy": "经济",
@@ -18,7 +18,7 @@
         {
           "channel": "toutiao",
           "rank": 5,
-          "hot": 6749561,
+          "hot": 7352500,
           "url": "https://www.toutiao.com/trending/7669737948003794994/"
         },
         {
@@ -38,8 +38,8 @@
       "url": "https://www.toutiao.com/trending/7669737948003794994/"
     },
     {
-      "id": "evt-20261535",
-      "title": "2026年上半年1535名纪检监察干部被处分",
+      "id": "evt-70000000",
+      "title": "7月楼市淡季不淡：多城成交同比保持增长，上海豪宅项目开盘日光",
       "category": "society",
       "hotScore": 0.85,
       "freshness": 1,
@@ -50,11 +50,11 @@
           "channel": "thepaper",
           "rank": 1,
           "hot": 0,
-          "url": "https://www.thepaper.cn/newsDetail_forward_33711605"
+          "url": "https://www.thepaper.cn/newsDetail_forward_33713617"
         }
       ],
       "summary": "",
-      "url": "https://www.thepaper.cn/newsDetail_forward_33711605"
+      "url": "https://www.thepaper.cn/newsDetail_forward_33713617"
     },
     {
       "id": "evt-37700000",
@@ -68,7 +68,7 @@
         {
           "channel": "toutiao",
           "rank": 3,
-          "hot": 8243932,
+          "hot": 8980364,
           "url": "https://www.toutiao.com/trending/7669248908602687529/"
         }
       ],
@@ -76,8 +76,8 @@
       "url": "https://www.toutiao.com/trending/7669248908602687529/"
     },
     {
-      "id": "evt-70000000",
-      "title": "7月楼市淡季不淡：多城成交同比保持增长，上海豪宅项目开盘日光",
+      "id": "evt-20261535",
+      "title": "2026年上半年1535名纪检监察干部被处分",
       "category": "society",
       "hotScore": 0.765,
       "freshness": 1,
@@ -88,11 +88,11 @@
           "channel": "thepaper",
           "rank": 3,
           "hot": 0,
-          "url": "https://www.thepaper.cn/newsDetail_forward_33713617"
+          "url": "https://www.thepaper.cn/newsDetail_forward_33711605"
         }
       ],
       "summary": "",
-      "url": "https://www.thepaper.cn/newsDetail_forward_33713617"
+      "url": "https://www.thepaper.cn/newsDetail_forward_33711605"
     },
     {
       "id": "evt-10000000",
@@ -163,7 +163,7 @@
         {
           "channel": "toutiao",
           "rank": 4,
-          "hot": 7459418,
+          "hot": 8125770,
           "url": "https://www.toutiao.com/trending/7670131307091099689/"
         }
       ],
@@ -190,25 +190,6 @@
       "url": "https://m.baidu.com/s?word=8%E6%9C%88%E9%9C%80%E9%87%8D%E7%82%B9%E5%85%B3%E6%B3%A8%E5%93%AA%E4%BA%9B%E6%9E%81%E7%AB%AF%E5%A4%A9%E6%B0%94&sa=fyb_news"
     },
     {
-      "id": "evt-81200000",
-      "title": "8月12日地球将失去引力7秒？谣言",
-      "category": "society",
-      "hotScore": 0.6375,
-      "freshness": 0.9999,
-      "crossSource": 0.5,
-      "totalScore": 0.705,
-      "sources": [
-        {
-          "channel": "toutiao",
-          "rank": 6,
-          "hot": 6107255,
-          "url": "https://www.toutiao.com/trending/7669265651924074537/"
-        }
-      ],
-      "summary": "",
-      "url": "https://www.toutiao.com/trending/7669265651924074537/"
-    },
-    {
       "id": "evt-3d000000",
       "title": "好未来《熊猫博士》3D动画片登陆央视少儿频道",
       "category": "society",
@@ -228,23 +209,23 @@
       "url": ""
     },
     {
-      "id": "evt-20000000",
-      "title": "20多名中国乘客被泰航无理由拒载",
+      "id": "evt-44000000",
+      "title": "44岁爸爸被女儿激将考上985研究生",
       "category": "society",
-      "hotScore": 0.52,
-      "freshness": 1,
+      "hotScore": 0.595,
+      "freshness": 0.9999,
       "crossSource": 0.5,
-      "totalScore": 0.658,
+      "totalScore": 0.688,
       "sources": [
         {
-          "channel": "baidu",
-          "rank": 8,
-          "hot": 0,
-          "url": "https://m.baidu.com/s?word=20%E5%A4%9A%E5%90%8D%E4%B8%AD%E5%9B%BD%E4%B9%98%E5%AE%A2%E8%A2%AB%E6%B3%B0%E8%88%AA%E6%97%A0%E7%90%86%E7%94%B1%E6%8B%92%E8%BD%BD&sa=fyb_news"
+          "channel": "toutiao",
+          "rank": 7,
+          "hot": 6019718,
+          "url": "https://www.toutiao.com/trending/7670086340830904362/"
         }
       ],
       "summary": "",
-      "url": "https://m.baidu.com/s?word=20%E5%A4%9A%E5%90%8D%E4%B8%AD%E5%9B%BD%E4%B9%98%E5%AE%A2%E8%A2%AB%E6%B3%B0%E8%88%AA%E6%97%A0%E7%90%86%E7%94%B1%E6%8B%92%E8%BD%BD&sa=fyb_news"
+      "url": "https://www.toutiao.com/trending/7670086340830904362/"
     }
   ]
 }
