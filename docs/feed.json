@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-08-05T20:56:32.654Z",
+  "generatedAt": "2026-08-05T22:48:39.409Z",
   "fields": {
     "society": "社会",
     "economy": "经济",
@@ -17,7 +17,7 @@
       "sources": [
         {
           "channel": "thepaper",
-          "rank": 19,
+          "rank": 20,
           "hot": 0,
           "url": "https://www.thepaper.cn/newsDetail_forward_33723263"
         },
@@ -35,14 +35,14 @@
       "id": "evt-19000000",
       "title": "抢劫刺死19岁少女的死刑改死缓当事人自述：出狱11年间始终刻意躲避被害人家属",
       "category": "society",
-      "hotScore": 0.5525,
+      "hotScore": 0.765,
       "freshness": 1,
       "crossSource": 0.6309,
-      "totalScore": 0.7103,
+      "totalScore": 0.7953,
       "sources": [
         {
           "channel": "thepaper",
-          "rank": 8,
+          "rank": 3,
           "hot": 0,
           "url": "https://www.thepaper.cn/newsDetail_forward_33722401"
         }
@@ -54,15 +54,15 @@
       "id": "evt-22000000",
       "title": "22名中国乘客遭拒载 泰国机场致歉",
       "category": "society",
-      "hotScore": 0.51,
-      "freshness": 0.9999,
+      "hotScore": 0.595,
+      "freshness": 1,
       "crossSource": 0.6309,
-      "totalScore": 0.6933,
+      "totalScore": 0.7273,
       "sources": [
         {
           "channel": "toutiao",
-          "rank": 9,
-          "hot": 2852120,
+          "rank": 7,
+          "hot": 3841668,
           "url": "https://www.toutiao.com/trending/7669828239829254170/"
         }
       ],
@@ -70,61 +70,23 @@
       "url": "https://www.toutiao.com/trending/7669828239829254170/"
     },
     {
-      "id": "evt-72000000",
-      "title": "美国 7 月囤 20 万吨精炼铜，美国为啥热衷抢铜？会对全球产业链产生什么影响？",
+      "id": "evt-h8000000",
+      "title": "“老头乐”悬挂“蒙H好几个8”上路",
       "category": "society",
-      "hotScore": 0.4875,
-      "freshness": 0.9999,
+      "hotScore": 0.5525,
+      "freshness": 1,
       "crossSource": 0.6309,
-      "totalScore": 0.6843,
-      "sources": [
-        {
-          "channel": "zhihu",
-          "rank": 8,
-          "hot": 0,
-          "url": ""
-        }
-      ],
-      "summary": "",
-      "url": ""
-    },
-    {
-      "id": "evt-openai00",
-      "title": "怎么看 OpenAI 提到下一代 Harness 将脱离 PC，两三个月后现在的 Codex 工作方式会淘汰？",
-      "category": "society",
-      "hotScore": 0.45,
-      "freshness": 0.9999,
-      "crossSource": 0.6309,
-      "totalScore": 0.6693,
-      "sources": [
-        {
-          "channel": "zhihu",
-          "rank": 9,
-          "hot": 0,
-          "url": ""
-        }
-      ],
-      "summary": "",
-      "url": ""
-    },
-    {
-      "id": "evt-85000000",
-      "title": "“新疆喀什8.5级地震”系谣言",
-      "category": "society",
-      "hotScore": 0.425,
-      "freshness": 0.9999,
-      "crossSource": 0.6309,
-      "totalScore": 0.6593,
+      "totalScore": 0.7103,
       "sources": [
         {
           "channel": "toutiao",
-          "rank": 11,
-          "hot": 2335118,
-          "url": "https://www.toutiao.com/trending/7670396561460953107/"
+          "rank": 8,
+          "hot": 3476085,
+          "url": "https://www.toutiao.com/trending/7670229759422382134/"
         }
       ],
       "summary": "",
-      "url": "https://www.toutiao.com/trending/7670396561460953107/"
+      "url": "https://www.toutiao.com/trending/7670229759422382134/"
     }
   ]
 }
