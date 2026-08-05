@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-08-04T22:52:03.955Z",
+  "generatedAt": "2026-08-05T01:39:36.711Z",
   "fields": {
     "society": "社会",
     "economy": "经济",
@@ -10,26 +10,26 @@
       "id": "evt-00000000",
       "title": "鸿蒙智行回应“竹知了”事件",
       "category": "society",
-      "hotScore": 0.72,
-      "freshness": 0.9999,
+      "hotScore": 0.68,
+      "freshness": 1,
       "crossSource": 1,
-      "totalScore": 0.888,
+      "totalScore": 0.872,
       "sources": [
         {
           "channel": "toutiao",
           "rank": 5,
-          "hot": 7352500,
+          "hot": 8505341,
           "url": "https://www.toutiao.com/trending/7669737948003794994/"
         },
         {
           "channel": "thepaper",
-          "rank": 11,
+          "rank": 9,
           "hot": 0,
           "url": "https://www.thepaper.cn/newsDetail_forward_33715905"
         },
         {
           "channel": "baidu",
-          "rank": 3,
+          "rank": 17,
           "hot": 0,
           "url": "https://m.baidu.com/s?word=%E9%B8%BF%E8%92%99%E6%99%BA%E8%A1%8C%E5%9B%9E%E5%BA%94%E2%80%9C%E7%AB%B9%E7%9F%A5%E4%BA%86%E2%80%9D%E4%BA%8B%E4%BB%B6&sa=fyb_news"
         }
@@ -38,8 +38,8 @@
       "url": "https://www.toutiao.com/trending/7669737948003794994/"
     },
     {
-      "id": "evt-70000000",
-      "title": "7月楼市淡季不淡：多城成交同比保持增长，上海豪宅项目开盘日光",
+      "id": "evt-22000000",
+      "title": "22名中国乘客遭拒载 泰国机场致歉",
       "category": "society",
       "hotScore": 0.85,
       "freshness": 1,
@@ -47,8 +47,27 @@
       "totalScore": 0.79,
       "sources": [
         {
-          "channel": "thepaper",
+          "channel": "toutiao",
           "rank": 1,
+          "hot": 12688478,
+          "url": "https://www.toutiao.com/trending/7669828239829254170/"
+        }
+      ],
+      "summary": "",
+      "url": "https://www.toutiao.com/trending/7669828239829254170/"
+    },
+    {
+      "id": "evt-70000000",
+      "title": "7月楼市淡季不淡：多城成交同比保持增长，上海豪宅项目开盘日光",
+      "category": "society",
+      "hotScore": 0.8075,
+      "freshness": 1,
+      "crossSource": 0.5,
+      "totalScore": 0.773,
+      "sources": [
+        {
+          "channel": "thepaper",
+          "rank": 2,
           "hot": 0,
           "url": "https://www.thepaper.cn/newsDetail_forward_33713617"
         }
@@ -61,38 +80,19 @@
       "title": "我国服务进出口总额37797.5亿元",
       "category": "society",
       "hotScore": 0.765,
-      "freshness": 0.9999,
+      "freshness": 1,
       "crossSource": 0.5,
       "totalScore": 0.756,
       "sources": [
         {
           "channel": "toutiao",
           "rank": 3,
-          "hot": 8980364,
+          "hot": 10388447,
           "url": "https://www.toutiao.com/trending/7669248908602687529/"
         }
       ],
       "summary": "",
       "url": "https://www.toutiao.com/trending/7669248908602687529/"
-    },
-    {
-      "id": "evt-20261535",
-      "title": "2026年上半年1535名纪检监察干部被处分",
-      "category": "society",
-      "hotScore": 0.765,
-      "freshness": 1,
-      "crossSource": 0.5,
-      "totalScore": 0.756,
-      "sources": [
-        {
-          "channel": "thepaper",
-          "rank": 3,
-          "hot": 0,
-          "url": "https://www.thepaper.cn/newsDetail_forward_33711605"
-        }
-      ],
-      "summary": "",
-      "url": "https://www.thepaper.cn/newsDetail_forward_33711605"
     },
     {
       "id": "evt-10000000",
@@ -152,23 +152,23 @@
       "url": ""
     },
     {
-      "id": "evt-30000000",
-      "title": "小偷叫3辆货拉拉拖走价值20万摩托车",
+      "id": "evt-20000000",
+      "title": "20多中国游客被拒登机 泰国机场致歉",
       "category": "society",
-      "hotScore": 0.7225,
-      "freshness": 0.9999,
+      "hotScore": 0.76,
+      "freshness": 1,
       "crossSource": 0.5,
-      "totalScore": 0.739,
+      "totalScore": 0.754,
       "sources": [
         {
-          "channel": "toutiao",
-          "rank": 4,
-          "hot": 8125770,
-          "url": "https://www.toutiao.com/trending/7670131307091099689/"
+          "channel": "baidu",
+          "rank": 2,
+          "hot": 0,
+          "url": "https://m.baidu.com/s?word=20%E5%A4%9A%E4%B8%AD%E5%9B%BD%E6%B8%B8%E5%AE%A2%E8%A2%AB%E6%8B%92%E7%99%BB%E6%9C%BA+%E6%B3%B0%E5%9B%BD%E6%9C%BA%E5%9C%BA%E8%87%B4%E6%AD%89&sa=fyb_news"
         }
       ],
       "summary": "",
-      "url": "https://www.toutiao.com/trending/7670131307091099689/"
+      "url": "https://m.baidu.com/s?word=20%E5%A4%9A%E4%B8%AD%E5%9B%BD%E6%B8%B8%E5%AE%A2%E8%A2%AB%E6%8B%92%E7%99%BB%E6%9C%BA+%E6%B3%B0%E5%9B%BD%E6%9C%BA%E5%9C%BA%E8%87%B4%E6%AD%89&sa=fyb_news"
     },
     {
       "id": "evt-80000000",
@@ -209,23 +209,23 @@
       "url": ""
     },
     {
-      "id": "evt-44000000",
-      "title": "44岁爸爸被女儿激将考上985研究生",
+      "id": "evt-nba00000",
+      "title": "作为前 NBA 三分王，为什么雷 - 阿伦也会吐槽如今的比赛「全是三分球…没什么战术了」？",
       "category": "society",
-      "hotScore": 0.595,
-      "freshness": 0.9999,
+      "hotScore": 0.5625,
+      "freshness": 1,
       "crossSource": 0.5,
-      "totalScore": 0.688,
+      "totalScore": 0.675,
       "sources": [
         {
-          "channel": "toutiao",
-          "rank": 7,
-          "hot": 6019718,
-          "url": "https://www.toutiao.com/trending/7670086340830904362/"
+          "channel": "zhihu",
+          "rank": 6,
+          "hot": 0,
+          "url": ""
         }
       ],
       "summary": "",
-      "url": "https://www.toutiao.com/trending/7670086340830904362/"
+      "url": ""
     }
   ]
 }
