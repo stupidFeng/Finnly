@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-08-05T08:15:40.559Z",
+  "generatedAt": "2026-08-05T11:50:48.447Z",
   "fields": {
     "society": "社会",
     "economy": "经济",
@@ -7,8 +7,8 @@
   },
   "feed": [
     {
-      "id": "evt-80000000",
-      "title": "男子出狱前8天被改判死缓",
+      "id": "evt-50000000",
+      "title": "中方公布5项对美反制措施",
       "category": "society",
       "hotScore": 0.85,
       "freshness": 0.9999,
@@ -18,96 +18,97 @@
         {
           "channel": "toutiao",
           "rank": 1,
-          "hot": 8106869,
-          "url": "https://www.toutiao.com/trending/7670210632259977270/"
-        },
-        {
-          "channel": "baidu",
-          "rank": 9,
-          "hot": 0,
-          "url": "https://m.baidu.com/s?word=%E7%94%B7%E5%AD%90%E5%87%BA%E7%8B%B1%E5%89%8D8%E5%A4%A9%E8%A2%AB%E6%94%B9%E5%88%A4%E6%AD%BB%E7%BC%93&sa=fyb_news"
+          "hot": 9665558,
+          "url": "https://www.toutiao.com/trending/7669757913359663131/"
         }
       ],
       "summary": "",
-      "url": "https://www.toutiao.com/trending/7670210632259977270/"
+      "url": "https://www.toutiao.com/trending/7669757913359663131/"
     },
     {
       "id": "evt-00000000",
-      "title": "官方通报西安赛格商场坠亡事件",
+      "title": "抢劫杀人犯死刑改死缓被害人家属十年后才知晓，申诉已获云南省检受理",
       "category": "society",
-      "hotScore": 0.8075,
-      "freshness": 0.9999,
-      "crossSource": 1,
-      "totalScore": 0.923,
-      "sources": [
-        {
-          "channel": "toutiao",
-          "rank": 2,
-          "hot": 7335398,
-          "url": "https://www.toutiao.com/trending/7670261561843367999/"
-        },
-        {
-          "channel": "thepaper",
-          "rank": 10,
-          "hot": 0,
-          "url": "https://www.thepaper.cn/newsDetail_forward_33719947"
-        }
-      ],
-      "summary": "",
-      "url": "https://www.toutiao.com/trending/7670261561843367999/"
-    },
-    {
-      "id": "evt-70000000",
-      "title": "7月楼市淡季不淡：多城成交同比保持增长，上海豪宅项目开盘日光",
-      "category": "society",
-      "hotScore": 0.8075,
+      "hotScore": 0.85,
       "freshness": 1,
-      "crossSource": 0.6309,
-      "totalScore": 0.8123,
+      "crossSource": 1,
+      "totalScore": 0.94,
       "sources": [
         {
           "channel": "thepaper",
-          "rank": 2,
+          "rank": 1,
           "hot": 0,
-          "url": "https://www.thepaper.cn/newsDetail_forward_33713617"
+          "url": "https://www.thepaper.cn/newsDetail_forward_33714213"
         }
       ],
       "summary": "",
-      "url": "https://www.thepaper.cn/newsDetail_forward_33713617"
+      "url": "https://www.thepaper.cn/newsDetail_forward_33714213"
     },
     {
-      "id": "evt-81200000",
-      "title": "8月12日地球将失去引力7秒？谣言",
+      "id": "evt-spacex00",
+      "title": "SpaceX火箭残骸撞上月球了",
       "category": "society",
-      "hotScore": 0.425,
+      "hotScore": 0.7225,
       "freshness": 0.9999,
       "crossSource": 1,
-      "totalScore": 0.77,
+      "totalScore": 0.889,
       "sources": [
         {
           "channel": "toutiao",
-          "rank": 11,
-          "hot": 2982350,
-          "url": "https://www.toutiao.com/trending/7669265651924074537/"
-        },
-        {
-          "channel": "baidu",
-          "rank": 12,
-          "hot": 0,
-          "url": "https://m.baidu.com/s?word=8%E6%9C%8812%E6%97%A5%E5%9C%B0%E7%90%83%E5%B0%86%E5%A4%B1%E5%8E%BB%E5%BC%95%E5%8A%9B7%E7%A7%92%EF%BC%9F%E8%B0%A3%E8%A8%80&sa=fyb_news"
+          "rank": 4,
+          "hot": 7160422,
+          "url": "https://www.toutiao.com/trending/7670499738105515570/"
         }
       ],
       "summary": "",
-      "url": "https://www.toutiao.com/trending/7669265651924074537/"
+      "url": "https://www.toutiao.com/trending/7670499738105515570/"
+    },
+    {
+      "id": "evt-ai000000",
+      "title": "梁文锋会不会成为中国AI里程碑人物？",
+      "category": "society",
+      "hotScore": 0.6,
+      "freshness": 0.9999,
+      "crossSource": 1,
+      "totalScore": 0.84,
+      "sources": [
+        {
+          "channel": "zhihu",
+          "rank": 5,
+          "hot": 0,
+          "url": ""
+        }
+      ],
+      "summary": "",
+      "url": ""
+    },
+    {
+      "id": "evt-v800v680",
+      "title": "尊界V800/V680上市1小时大定2115台",
+      "category": "economy",
+      "hotScore": 0.5525,
+      "freshness": 0.9999,
+      "crossSource": 1,
+      "totalScore": 0.821,
+      "sources": [
+        {
+          "channel": "toutiao",
+          "rank": 8,
+          "hot": 4799774,
+          "url": "https://www.toutiao.com/trending/7670488588269735470/"
+        }
+      ],
+      "summary": "",
+      "url": "https://www.toutiao.com/trending/7670488588269735470/"
     },
     {
       "id": "evt-20268000",
       "title": "如何看待 2026 年 8 月美债正式突破 40 万亿美元大关？压垮美债的最后一根稻草会是什么？",
       "category": "society",
       "hotScore": 0.5625,
-      "freshness": 1,
-      "crossSource": 0.6309,
-      "totalScore": 0.7143,
+      "freshness": 0.9999,
+      "crossSource": 1,
+      "totalScore": 0.825,
       "sources": [
         {
           "channel": "zhihu",
@@ -120,55 +121,36 @@
       "url": ""
     },
     {
-      "id": "evt-60000000",
-      "title": "中方反制6家美国实体",
+      "id": "evt-24990000",
+      "title": "余承东发布会口误 24999元报成2499元",
       "category": "society",
       "hotScore": 0.56,
       "freshness": 1,
-      "crossSource": 0.6309,
-      "totalScore": 0.7133,
+      "crossSource": 1,
+      "totalScore": 0.824,
       "sources": [
         {
           "channel": "baidu",
           "rank": 7,
           "hot": 0,
-          "url": "https://m.baidu.com/s?word=%E4%B8%AD%E6%96%B9%E5%8F%8D%E5%88%B66%E5%AE%B6%E7%BE%8E%E5%9B%BD%E5%AE%9E%E4%BD%93&sa=fyb_news"
+          "url": "https://m.baidu.com/s?word=%E4%BD%99%E6%89%BF%E4%B8%9C%E5%8F%91%E5%B8%83%E4%BC%9A%E5%8F%A3%E8%AF%AF+24999%E5%85%83%E6%8A%A5%E6%88%902499%E5%85%83&sa=fyb_news"
         }
       ],
       "summary": "",
-      "url": "https://m.baidu.com/s?word=%E4%B8%AD%E6%96%B9%E5%8F%8D%E5%88%B66%E5%AE%B6%E7%BE%8E%E5%9B%BD%E5%AE%9E%E4%BD%93&sa=fyb_news"
+      "url": "https://m.baidu.com/s?word=%E4%BD%99%E6%89%BF%E4%B8%9C%E5%8F%91%E5%B8%83%E4%BC%9A%E5%8F%A3%E8%AF%AF+24999%E5%85%83%E6%8A%A5%E6%88%902499%E5%85%83&sa=fyb_news"
     },
     {
-      "id": "evt-17000000",
-      "title": "员工用代码17小时删光公司89TB数据",
+      "id": "evt-82000000",
+      "title": "怎么看待 82 岁老人为公益骑行横穿澳大利亚，抵达终点后次日安详去世？",
       "category": "society",
-      "hotScore": 0.5525,
+      "hotScore": 0.4875,
       "freshness": 0.9999,
-      "crossSource": 0.6309,
-      "totalScore": 0.7103,
-      "sources": [
-        {
-          "channel": "toutiao",
-          "rank": 8,
-          "hot": 4025752,
-          "url": "https://www.toutiao.com/trending/7670413114399067699/"
-        }
-      ],
-      "summary": "",
-      "url": "https://www.toutiao.com/trending/7670413114399067699/"
-    },
-    {
-      "id": "evt-ai000000",
-      "title": "梁文峰会不会成为中国 AI 里程碑人物？",
-      "category": "society",
-      "hotScore": 0.525,
-      "freshness": 1,
-      "crossSource": 0.6309,
-      "totalScore": 0.6993,
+      "crossSource": 1,
+      "totalScore": 0.795,
       "sources": [
         {
           "channel": "zhihu",
-          "rank": 7,
+          "rank": 8,
           "hot": 0,
           "url": ""
         }
@@ -177,23 +159,61 @@
       "url": ""
     },
     {
-      "id": "evt-mpv00000",
-      "title": "尊界MPV及华为新品发布会",
+      "id": "evt-80000000",
+      "title": "男子出狱前8天被改判死缓",
       "category": "society",
-      "hotScore": 0.52,
-      "freshness": 1,
-      "crossSource": 0.6309,
-      "totalScore": 0.6973,
+      "hotScore": 0.4675,
+      "freshness": 0.9999,
+      "crossSource": 1,
+      "totalScore": 0.787,
       "sources": [
         {
-          "channel": "baidu",
-          "rank": 8,
-          "hot": 0,
-          "url": "https://m.baidu.com/s?word=%E5%B0%8A%E7%95%8CMPV%E5%8F%8A%E5%8D%8E%E4%B8%BA%E6%96%B0%E5%93%81%E5%8F%91%E5%B8%83%E4%BC%9A&sa=fyb_news"
+          "channel": "toutiao",
+          "rank": 10,
+          "hot": 3929722,
+          "url": "https://www.toutiao.com/trending/7670210632259977270/"
         }
       ],
       "summary": "",
-      "url": "https://m.baidu.com/s?word=%E5%B0%8A%E7%95%8CMPV%E5%8F%8A%E5%8D%8E%E4%B8%BA%E6%96%B0%E5%93%81%E5%8F%91%E5%B8%83%E4%BC%9A&sa=fyb_news"
+      "url": "https://www.toutiao.com/trending/7670210632259977270/"
+    },
+    {
+      "id": "evt-40000000",
+      "title": "失联4天男孩被找到 无人机飞手发声",
+      "category": "society",
+      "hotScore": 0.44,
+      "freshness": 1,
+      "crossSource": 1,
+      "totalScore": 0.776,
+      "sources": [
+        {
+          "channel": "baidu",
+          "rank": 10,
+          "hot": 0,
+          "url": "https://m.baidu.com/s?word=%E5%A4%B1%E8%81%944%E5%A4%A9%E7%94%B7%E5%AD%A9%E8%A2%AB%E6%89%BE%E5%88%B0+%E6%97%A0%E4%BA%BA%E6%9C%BA%E9%A3%9E%E6%89%8B%E5%8F%91%E5%A3%B0&sa=fyb_news"
+        }
+      ],
+      "summary": "",
+      "url": "https://m.baidu.com/s?word=%E5%A4%B1%E8%81%944%E5%A4%A9%E7%94%B7%E5%AD%A9%E8%A2%AB%E6%89%BE%E5%88%B0+%E6%97%A0%E4%BA%BA%E6%9C%BA%E9%A3%9E%E6%89%8B%E5%8F%91%E5%A3%B0&sa=fyb_news"
+    },
+    {
+      "id": "evt-85000000",
+      "title": "“新疆喀什8.5级地震”系谣言",
+      "category": "society",
+      "hotScore": 0.425,
+      "freshness": 0.9999,
+      "crossSource": 1,
+      "totalScore": 0.77,
+      "sources": [
+        {
+          "channel": "toutiao",
+          "rank": 11,
+          "hot": 3555760,
+          "url": "https://www.toutiao.com/trending/7670396561460953107/"
+        }
+      ],
+      "summary": "",
+      "url": "https://www.toutiao.com/trending/7670396561460953107/"
     }
   ]
 }
