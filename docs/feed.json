@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-08-05T11:50:48.447Z",
+  "generatedAt": "2026-08-05T13:42:05.032Z",
   "fields": {
     "society": "社会",
     "economy": "经济",
@@ -7,18 +7,100 @@
   },
   "feed": [
     {
-      "id": "evt-50000000",
-      "title": "中方公布5项对美反制措施",
+      "id": "evt-00000000",
+      "title": "鸿蒙智行回应“竹知了”争议",
+      "category": "society",
+      "hotScore": 0.765,
+      "freshness": 1,
+      "crossSource": 1,
+      "totalScore": 0.906,
+      "sources": [
+        {
+          "channel": "toutiao",
+          "rank": 18,
+          "hot": 1979894,
+          "url": "https://www.toutiao.com/trending/7669737948003794994/"
+        },
+        {
+          "channel": "thepaper",
+          "rank": 3,
+          "hot": 0,
+          "url": "https://www.thepaper.cn/newsDetail_forward_33715905"
+        }
+      ],
+      "summary": "",
+      "url": "https://www.toutiao.com/trending/7669737948003794994/"
+    },
+    {
+      "id": "evt-24900000",
+      "title": "华为新款折叠屏电脑24999元起",
       "category": "society",
       "hotScore": 0.85,
-      "freshness": 0.9999,
-      "crossSource": 1,
-      "totalScore": 0.94,
+      "freshness": 1,
+      "crossSource": 0.6309,
+      "totalScore": 0.8293,
       "sources": [
         {
           "channel": "toutiao",
           "rank": 1,
-          "hot": 9665558,
+          "hot": 10837839,
+          "url": "https://www.toutiao.com/trending/7669720941584498729/"
+        }
+      ],
+      "summary": "",
+      "url": "https://www.toutiao.com/trending/7669720941584498729/"
+    },
+    {
+      "id": "evt-24990000",
+      "title": "余承东发布会口误 24999元报成2499元",
+      "category": "society",
+      "hotScore": 0.72,
+      "freshness": 1,
+      "crossSource": 0.6309,
+      "totalScore": 0.7773,
+      "sources": [
+        {
+          "channel": "baidu",
+          "rank": 3,
+          "hot": 0,
+          "url": "https://m.baidu.com/s?word=%E4%BD%99%E6%89%BF%E4%B8%9C%E5%8F%91%E5%B8%83%E4%BC%9A%E5%8F%A3%E8%AF%AF+24999%E5%85%83%E6%8A%A5%E6%88%902499%E5%85%83&sa=fyb_news"
+        }
+      ],
+      "summary": "",
+      "url": "https://m.baidu.com/s?word=%E4%BD%99%E6%89%BF%E4%B8%9C%E5%8F%91%E5%B8%83%E4%BC%9A%E5%8F%A3%E8%AF%AF+24999%E5%85%83%E6%8A%A5%E6%88%902499%E5%85%83&sa=fyb_news"
+    },
+    {
+      "id": "evt-ai000000",
+      "title": "梁文锋会不会成为中国AI里程碑人物？",
+      "category": "society",
+      "hotScore": 0.7125,
+      "freshness": 1,
+      "crossSource": 0.6309,
+      "totalScore": 0.7743,
+      "sources": [
+        {
+          "channel": "zhihu",
+          "rank": 2,
+          "hot": 0,
+          "url": ""
+        }
+      ],
+      "summary": "",
+      "url": ""
+    },
+    {
+      "id": "evt-50000000",
+      "title": "中方公布5项对美反制措施",
+      "category": "society",
+      "hotScore": 0.68,
+      "freshness": 1,
+      "crossSource": 0.6309,
+      "totalScore": 0.7613,
+      "sources": [
+        {
+          "channel": "toutiao",
+          "rank": 5,
+          "hot": 7264820,
           "url": "https://www.toutiao.com/trending/7669757913359663131/"
         }
       ],
@@ -26,51 +108,32 @@
       "url": "https://www.toutiao.com/trending/7669757913359663131/"
     },
     {
-      "id": "evt-00000000",
-      "title": "抢劫杀人犯死刑改死缓被害人家属十年后才知晓，申诉已获云南省检受理",
+      "id": "evt-40100000",
+      "title": "女子山姆 40 元披萨吃出 108 元剪刀，可能是哪个环节出了问题？反映了哪些质量管理问题？",
       "category": "society",
-      "hotScore": 0.85,
+      "hotScore": 0.6375,
       "freshness": 1,
-      "crossSource": 1,
-      "totalScore": 0.94,
+      "crossSource": 0.6309,
+      "totalScore": 0.7443,
       "sources": [
         {
-          "channel": "thepaper",
-          "rank": 1,
-          "hot": 0,
-          "url": "https://www.thepaper.cn/newsDetail_forward_33714213"
-        }
-      ],
-      "summary": "",
-      "url": "https://www.thepaper.cn/newsDetail_forward_33714213"
-    },
-    {
-      "id": "evt-spacex00",
-      "title": "SpaceX火箭残骸撞上月球了",
-      "category": "society",
-      "hotScore": 0.7225,
-      "freshness": 0.9999,
-      "crossSource": 1,
-      "totalScore": 0.889,
-      "sources": [
-        {
-          "channel": "toutiao",
+          "channel": "zhihu",
           "rank": 4,
-          "hot": 7160422,
-          "url": "https://www.toutiao.com/trending/7670499738105515570/"
+          "hot": 0,
+          "url": ""
         }
       ],
       "summary": "",
-      "url": "https://www.toutiao.com/trending/7670499738105515570/"
+      "url": ""
     },
     {
-      "id": "evt-ai000000",
-      "title": "梁文锋会不会成为中国AI里程碑人物？",
+      "id": "evt-72000000",
+      "title": "美国 7 月囤 20 万吨精炼铜，美国为啥热衷抢铜？会对全球产业链产生什么影响？",
       "category": "society",
       "hotScore": 0.6,
-      "freshness": 0.9999,
-      "crossSource": 1,
-      "totalScore": 0.84,
+      "freshness": 1,
+      "crossSource": 0.6309,
+      "totalScore": 0.7293,
       "sources": [
         {
           "channel": "zhihu",
@@ -83,32 +146,32 @@
       "url": ""
     },
     {
-      "id": "evt-v800v680",
-      "title": "尊界V800/V680上市1小时大定2115台",
-      "category": "economy",
-      "hotScore": 0.5525,
-      "freshness": 0.9999,
-      "crossSource": 1,
-      "totalScore": 0.821,
+      "id": "evt-20000000",
+      "title": "男子承包山林无证伐木2公顷获刑3年",
+      "category": "society",
+      "hotScore": 0.595,
+      "freshness": 1,
+      "crossSource": 0.6309,
+      "totalScore": 0.7273,
       "sources": [
         {
           "channel": "toutiao",
-          "rank": 8,
-          "hot": 4799774,
-          "url": "https://www.toutiao.com/trending/7670488588269735470/"
+          "rank": 7,
+          "hot": 5947932,
+          "url": "https://www.toutiao.com/trending/7670468187230191622/"
         }
       ],
       "summary": "",
-      "url": "https://www.toutiao.com/trending/7670488588269735470/"
+      "url": "https://www.toutiao.com/trending/7670468187230191622/"
     },
     {
-      "id": "evt-20268000",
-      "title": "如何看待 2026 年 8 月美债正式突破 40 万亿美元大关？压垮美债的最后一根稻草会是什么？",
+      "id": "evt-openai00",
+      "title": "怎么看 OpenAI 提到下一代 Harness 将脱离 PC，两三个月后现在的 Codex 工作方式会淘汰？",
       "category": "society",
       "hotScore": 0.5625,
-      "freshness": 0.9999,
-      "crossSource": 1,
-      "totalScore": 0.825,
+      "freshness": 1,
+      "crossSource": 0.6309,
+      "totalScore": 0.7143,
       "sources": [
         {
           "channel": "zhihu",
@@ -121,32 +184,13 @@
       "url": ""
     },
     {
-      "id": "evt-24990000",
-      "title": "余承东发布会口误 24999元报成2499元",
-      "category": "society",
-      "hotScore": 0.56,
-      "freshness": 1,
-      "crossSource": 1,
-      "totalScore": 0.824,
-      "sources": [
-        {
-          "channel": "baidu",
-          "rank": 7,
-          "hot": 0,
-          "url": "https://m.baidu.com/s?word=%E4%BD%99%E6%89%BF%E4%B8%9C%E5%8F%91%E5%B8%83%E4%BC%9A%E5%8F%A3%E8%AF%AF+24999%E5%85%83%E6%8A%A5%E6%88%902499%E5%85%83&sa=fyb_news"
-        }
-      ],
-      "summary": "",
-      "url": "https://m.baidu.com/s?word=%E4%BD%99%E6%89%BF%E4%B8%9C%E5%8F%91%E5%B8%83%E4%BC%9A%E5%8F%A3%E8%AF%AF+24999%E5%85%83%E6%8A%A5%E6%88%902499%E5%85%83&sa=fyb_news"
-    },
-    {
-      "id": "evt-82000000",
-      "title": "怎么看待 82 岁老人为公益骑行横穿澳大利亚，抵达终点后次日安详去世？",
+      "id": "evt-40000000",
+      "title": "辽宁海城酸菜坑清理致 4 农户死亡，为何会酸菜坑会引发窒息和中毒？应如何做好防护？",
       "category": "society",
       "hotScore": 0.4875,
-      "freshness": 0.9999,
-      "crossSource": 1,
-      "totalScore": 0.795,
+      "freshness": 1,
+      "crossSource": 0.6309,
+      "totalScore": 0.6843,
       "sources": [
         {
           "channel": "zhihu",
@@ -159,56 +203,18 @@
       "url": ""
     },
     {
-      "id": "evt-80000000",
-      "title": "男子出狱前8天被改判死缓",
-      "category": "society",
-      "hotScore": 0.4675,
-      "freshness": 0.9999,
-      "crossSource": 1,
-      "totalScore": 0.787,
-      "sources": [
-        {
-          "channel": "toutiao",
-          "rank": 10,
-          "hot": 3929722,
-          "url": "https://www.toutiao.com/trending/7670210632259977270/"
-        }
-      ],
-      "summary": "",
-      "url": "https://www.toutiao.com/trending/7670210632259977270/"
-    },
-    {
-      "id": "evt-40000000",
-      "title": "失联4天男孩被找到 无人机飞手发声",
-      "category": "society",
-      "hotScore": 0.44,
-      "freshness": 1,
-      "crossSource": 1,
-      "totalScore": 0.776,
-      "sources": [
-        {
-          "channel": "baidu",
-          "rank": 10,
-          "hot": 0,
-          "url": "https://m.baidu.com/s?word=%E5%A4%B1%E8%81%944%E5%A4%A9%E7%94%B7%E5%AD%A9%E8%A2%AB%E6%89%BE%E5%88%B0+%E6%97%A0%E4%BA%BA%E6%9C%BA%E9%A3%9E%E6%89%8B%E5%8F%91%E5%A3%B0&sa=fyb_news"
-        }
-      ],
-      "summary": "",
-      "url": "https://m.baidu.com/s?word=%E5%A4%B1%E8%81%944%E5%A4%A9%E7%94%B7%E5%AD%A9%E8%A2%AB%E6%89%BE%E5%88%B0+%E6%97%A0%E4%BA%BA%E6%9C%BA%E9%A3%9E%E6%89%8B%E5%8F%91%E5%A3%B0&sa=fyb_news"
-    },
-    {
       "id": "evt-85000000",
       "title": "“新疆喀什8.5级地震”系谣言",
       "category": "society",
       "hotScore": 0.425,
-      "freshness": 0.9999,
-      "crossSource": 1,
-      "totalScore": 0.77,
+      "freshness": 1,
+      "crossSource": 0.6309,
+      "totalScore": 0.6593,
       "sources": [
         {
           "channel": "toutiao",
           "rank": 11,
-          "hot": 3555760,
+          "hot": 3987018,
           "url": "https://www.toutiao.com/trending/7670396561460953107/"
         }
       ],
