@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-08-05T13:42:05.032Z",
+  "generatedAt": "2026-08-05T15:54:13.978Z",
   "fields": {
     "society": "社会",
     "economy": "经济",
@@ -8,66 +8,22 @@
   "feed": [
     {
       "id": "evt-00000000",
-      "title": "鸿蒙智行回应“竹知了”争议",
-      "category": "society",
-      "hotScore": 0.765,
-      "freshness": 1,
-      "crossSource": 1,
-      "totalScore": 0.906,
-      "sources": [
-        {
-          "channel": "toutiao",
-          "rank": 18,
-          "hot": 1979894,
-          "url": "https://www.toutiao.com/trending/7669737948003794994/"
-        },
-        {
-          "channel": "thepaper",
-          "rank": 3,
-          "hot": 0,
-          "url": "https://www.thepaper.cn/newsDetail_forward_33715905"
-        }
-      ],
-      "summary": "",
-      "url": "https://www.toutiao.com/trending/7669737948003794994/"
-    },
-    {
-      "id": "evt-24900000",
-      "title": "华为新款折叠屏电脑24999元起",
+      "title": "外交部回应日本将中国列为最大挑战",
       "category": "society",
       "hotScore": 0.85,
-      "freshness": 1,
+      "freshness": 0.9999,
       "crossSource": 0.6309,
       "totalScore": 0.8293,
       "sources": [
         {
           "channel": "toutiao",
           "rank": 1,
-          "hot": 10837839,
-          "url": "https://www.toutiao.com/trending/7669720941584498729/"
+          "hot": 5599924,
+          "url": "https://www.toutiao.com/trending/7670542721295191579/"
         }
       ],
       "summary": "",
-      "url": "https://www.toutiao.com/trending/7669720941584498729/"
-    },
-    {
-      "id": "evt-24990000",
-      "title": "余承东发布会口误 24999元报成2499元",
-      "category": "society",
-      "hotScore": 0.72,
-      "freshness": 1,
-      "crossSource": 0.6309,
-      "totalScore": 0.7773,
-      "sources": [
-        {
-          "channel": "baidu",
-          "rank": 3,
-          "hot": 0,
-          "url": "https://m.baidu.com/s?word=%E4%BD%99%E6%89%BF%E4%B8%9C%E5%8F%91%E5%B8%83%E4%BC%9A%E5%8F%A3%E8%AF%AF+24999%E5%85%83%E6%8A%A5%E6%88%902499%E5%85%83&sa=fyb_news"
-        }
-      ],
-      "summary": "",
-      "url": "https://m.baidu.com/s?word=%E4%BD%99%E6%89%BF%E4%B8%9C%E5%8F%91%E5%B8%83%E4%BC%9A%E5%8F%A3%E8%AF%AF+24999%E5%85%83%E6%8A%A5%E6%88%902499%E5%85%83&sa=fyb_news"
+      "url": "https://www.toutiao.com/trending/7670542721295191579/"
     },
     {
       "id": "evt-ai000000",
@@ -89,23 +45,23 @@
       "url": ""
     },
     {
-      "id": "evt-50000000",
-      "title": "中方公布5项对美反制措施",
+      "id": "evt-72000000",
+      "title": "美国 7 月囤 20 万吨精炼铜，美国为啥热衷抢铜？会对全球产业链产生什么影响？",
       "category": "society",
-      "hotScore": 0.68,
+      "hotScore": 0.675,
       "freshness": 1,
       "crossSource": 0.6309,
-      "totalScore": 0.7613,
+      "totalScore": 0.7593,
       "sources": [
         {
-          "channel": "toutiao",
-          "rank": 5,
-          "hot": 7264820,
-          "url": "https://www.toutiao.com/trending/7669757913359663131/"
+          "channel": "zhihu",
+          "rank": 3,
+          "hot": 0,
+          "url": ""
         }
       ],
       "summary": "",
-      "url": "https://www.toutiao.com/trending/7669757913359663131/"
+      "url": ""
     },
     {
       "id": "evt-40100000",
@@ -127,55 +83,17 @@
       "url": ""
     },
     {
-      "id": "evt-72000000",
-      "title": "美国 7 月囤 20 万吨精炼铜，美国为啥热衷抢铜？会对全球产业链产生什么影响？",
-      "category": "society",
-      "hotScore": 0.6,
-      "freshness": 1,
-      "crossSource": 0.6309,
-      "totalScore": 0.7293,
-      "sources": [
-        {
-          "channel": "zhihu",
-          "rank": 5,
-          "hot": 0,
-          "url": ""
-        }
-      ],
-      "summary": "",
-      "url": ""
-    },
-    {
-      "id": "evt-20000000",
-      "title": "男子承包山林无证伐木2公顷获刑3年",
-      "category": "society",
-      "hotScore": 0.595,
-      "freshness": 1,
-      "crossSource": 0.6309,
-      "totalScore": 0.7273,
-      "sources": [
-        {
-          "channel": "toutiao",
-          "rank": 7,
-          "hot": 5947932,
-          "url": "https://www.toutiao.com/trending/7670468187230191622/"
-        }
-      ],
-      "summary": "",
-      "url": "https://www.toutiao.com/trending/7670468187230191622/"
-    },
-    {
       "id": "evt-openai00",
       "title": "怎么看 OpenAI 提到下一代 Harness 将脱离 PC，两三个月后现在的 Codex 工作方式会淘汰？",
       "category": "society",
-      "hotScore": 0.5625,
+      "hotScore": 0.525,
       "freshness": 1,
       "crossSource": 0.6309,
-      "totalScore": 0.7143,
+      "totalScore": 0.6993,
       "sources": [
         {
           "channel": "zhihu",
-          "rank": 6,
+          "rank": 7,
           "hot": 0,
           "url": ""
         }
@@ -184,37 +102,56 @@
       "url": ""
     },
     {
-      "id": "evt-40000000",
-      "title": "辽宁海城酸菜坑清理致 4 农户死亡，为何会酸菜坑会引发窒息和中毒？应如何做好防护？",
+      "id": "evt-24900000",
+      "title": "华为新款折叠屏电脑24999元起",
       "category": "society",
-      "hotScore": 0.4875,
-      "freshness": 1,
+      "hotScore": 0.51,
+      "freshness": 0.9999,
       "crossSource": 0.6309,
-      "totalScore": 0.6843,
+      "totalScore": 0.6933,
       "sources": [
         {
-          "channel": "zhihu",
-          "rank": 8,
-          "hot": 0,
-          "url": ""
+          "channel": "toutiao",
+          "rank": 9,
+          "hot": 2516208,
+          "url": "https://www.toutiao.com/trending/7669720941584498729/"
         }
       ],
       "summary": "",
-      "url": ""
+      "url": "https://www.toutiao.com/trending/7669720941584498729/"
+    },
+    {
+      "id": "evt-50000000",
+      "title": "反制美国！中方公布5项措施",
+      "category": "society",
+      "hotScore": 0.48,
+      "freshness": 1,
+      "crossSource": 0.6309,
+      "totalScore": 0.6813,
+      "sources": [
+        {
+          "channel": "baidu",
+          "rank": 9,
+          "hot": 0,
+          "url": "https://m.baidu.com/s?word=%E5%8F%8D%E5%88%B6%E7%BE%8E%E5%9B%BD%EF%BC%81%E4%B8%AD%E6%96%B9%E5%85%AC%E5%B8%835%E9%A1%B9%E6%8E%AA%E6%96%BD&sa=fyb_news"
+        }
+      ],
+      "summary": "",
+      "url": "https://m.baidu.com/s?word=%E5%8F%8D%E5%88%B6%E7%BE%8E%E5%9B%BD%EF%BC%81%E4%B8%AD%E6%96%B9%E5%85%AC%E5%B8%835%E9%A1%B9%E6%8E%AA%E6%96%BD&sa=fyb_news"
     },
     {
       "id": "evt-85000000",
       "title": "“新疆喀什8.5级地震”系谣言",
       "category": "society",
       "hotScore": 0.425,
-      "freshness": 1,
+      "freshness": 0.9999,
       "crossSource": 0.6309,
       "totalScore": 0.6593,
       "sources": [
         {
           "channel": "toutiao",
           "rank": 11,
-          "hot": 3987018,
+          "hot": 2060096,
           "url": "https://www.toutiao.com/trending/7670396561460953107/"
         }
       ],
