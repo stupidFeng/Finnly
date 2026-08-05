@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-08-05T19:13:48.254Z",
+  "generatedAt": "2026-08-05T20:56:32.654Z",
   "fields": {
     "society": "社会",
     "economy": "经济",
@@ -32,63 +32,6 @@
       "url": "https://www.thepaper.cn/newsDetail_forward_33723263"
     },
     {
-      "id": "evt-72000000",
-      "title": "美国 7 月囤 20 万吨精炼铜，美国为啥热衷抢铜？会对全球产业链产生什么影响？",
-      "category": "society",
-      "hotScore": 0.75,
-      "freshness": 1,
-      "crossSource": 0.6309,
-      "totalScore": 0.7893,
-      "sources": [
-        {
-          "channel": "zhihu",
-          "rank": 1,
-          "hot": 0,
-          "url": ""
-        }
-      ],
-      "summary": "",
-      "url": ""
-    },
-    {
-      "id": "evt-50000000",
-      "title": "中方公布5项对美反制措施",
-      "category": "society",
-      "hotScore": 0.6375,
-      "freshness": 1,
-      "crossSource": 0.6309,
-      "totalScore": 0.7443,
-      "sources": [
-        {
-          "channel": "toutiao",
-          "rank": 6,
-          "hot": 3679136,
-          "url": "https://www.toutiao.com/trending/7669757913359663131/"
-        }
-      ],
-      "summary": "",
-      "url": "https://www.toutiao.com/trending/7669757913359663131/"
-    },
-    {
-      "id": "evt-24900000",
-      "title": "华为新款折叠屏电脑24999元起",
-      "category": "society",
-      "hotScore": 0.595,
-      "freshness": 1,
-      "crossSource": 0.6309,
-      "totalScore": 0.7273,
-      "sources": [
-        {
-          "channel": "toutiao",
-          "rank": 7,
-          "hot": 3329020,
-          "url": "https://www.toutiao.com/trending/7669720941584498729/"
-        }
-      ],
-      "summary": "",
-      "url": "https://www.toutiao.com/trending/7669720941584498729/"
-    },
-    {
       "id": "evt-19000000",
       "title": "抢劫刺死19岁少女的死刑改死缓当事人自述：出狱11年间始终刻意躲避被害人家属",
       "category": "society",
@@ -108,11 +51,49 @@
       "url": "https://www.thepaper.cn/newsDetail_forward_33722401"
     },
     {
+      "id": "evt-22000000",
+      "title": "22名中国乘客遭拒载 泰国机场致歉",
+      "category": "society",
+      "hotScore": 0.51,
+      "freshness": 0.9999,
+      "crossSource": 0.6309,
+      "totalScore": 0.6933,
+      "sources": [
+        {
+          "channel": "toutiao",
+          "rank": 9,
+          "hot": 2852120,
+          "url": "https://www.toutiao.com/trending/7669828239829254170/"
+        }
+      ],
+      "summary": "",
+      "url": "https://www.toutiao.com/trending/7669828239829254170/"
+    },
+    {
+      "id": "evt-72000000",
+      "title": "美国 7 月囤 20 万吨精炼铜，美国为啥热衷抢铜？会对全球产业链产生什么影响？",
+      "category": "society",
+      "hotScore": 0.4875,
+      "freshness": 0.9999,
+      "crossSource": 0.6309,
+      "totalScore": 0.6843,
+      "sources": [
+        {
+          "channel": "zhihu",
+          "rank": 8,
+          "hot": 0,
+          "url": ""
+        }
+      ],
+      "summary": "",
+      "url": ""
+    },
+    {
       "id": "evt-openai00",
       "title": "怎么看 OpenAI 提到下一代 Harness 将脱离 PC，两三个月后现在的 Codex 工作方式会淘汰？",
       "category": "society",
       "hotScore": 0.45,
-      "freshness": 1,
+      "freshness": 0.9999,
       "crossSource": 0.6309,
       "totalScore": 0.6693,
       "sources": [
@@ -131,14 +112,14 @@
       "title": "“新疆喀什8.5级地震”系谣言",
       "category": "society",
       "hotScore": 0.425,
-      "freshness": 1,
+      "freshness": 0.9999,
       "crossSource": 0.6309,
       "totalScore": 0.6593,
       "sources": [
         {
           "channel": "toutiao",
           "rank": 11,
-          "hot": 2231509,
+          "hot": 2335118,
           "url": "https://www.toutiao.com/trending/7670396561460953107/"
         }
       ],
