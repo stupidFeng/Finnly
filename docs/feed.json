@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-08-05T17:18:57.045Z",
+  "generatedAt": "2026-08-05T19:13:48.254Z",
   "fields": {
     "society": "社会",
     "economy": "经济",
@@ -17,7 +17,7 @@
       "sources": [
         {
           "channel": "thepaper",
-          "rank": 20,
+          "rank": 19,
           "hot": 0,
           "url": "https://www.thepaper.cn/newsDetail_forward_33723263"
         },
@@ -32,36 +32,17 @@
       "url": "https://www.thepaper.cn/newsDetail_forward_33723263"
     },
     {
-      "id": "evt-ai000000",
-      "title": "梁文锋会不会成为中国AI里程碑人物？",
-      "category": "society",
-      "hotScore": 0.7125,
-      "freshness": 1,
-      "crossSource": 0.6309,
-      "totalScore": 0.7743,
-      "sources": [
-        {
-          "channel": "zhihu",
-          "rank": 2,
-          "hot": 0,
-          "url": ""
-        }
-      ],
-      "summary": "",
-      "url": ""
-    },
-    {
       "id": "evt-72000000",
       "title": "美国 7 月囤 20 万吨精炼铜，美国为啥热衷抢铜？会对全球产业链产生什么影响？",
       "category": "society",
-      "hotScore": 0.675,
+      "hotScore": 0.75,
       "freshness": 1,
       "crossSource": 0.6309,
-      "totalScore": 0.7593,
+      "totalScore": 0.7893,
       "sources": [
         {
           "channel": "zhihu",
-          "rank": 3,
+          "rank": 1,
           "hot": 0,
           "url": ""
         }
@@ -81,7 +62,7 @@
         {
           "channel": "toutiao",
           "rank": 6,
-          "hot": 3545017,
+          "hot": 3679136,
           "url": "https://www.toutiao.com/trending/7669757913359663131/"
         }
       ],
@@ -89,61 +70,61 @@
       "url": "https://www.toutiao.com/trending/7669757913359663131/"
     },
     {
-      "id": "evt-40100000",
-      "title": "女子山姆 40 元披萨吃出 108 元剪刀，可能是哪个环节出了问题？反映了哪些质量管理问题？",
-      "category": "society",
-      "hotScore": 0.6375,
-      "freshness": 1,
-      "crossSource": 0.6309,
-      "totalScore": 0.7443,
-      "sources": [
-        {
-          "channel": "zhihu",
-          "rank": 4,
-          "hot": 0,
-          "url": ""
-        }
-      ],
-      "summary": "",
-      "url": ""
-    },
-    {
-      "id": "evt-openai00",
-      "title": "怎么看 OpenAI 提到下一代 Harness 将脱离 PC，两三个月后现在的 Codex 工作方式会淘汰？",
-      "category": "society",
-      "hotScore": 0.4875,
-      "freshness": 1,
-      "crossSource": 0.6309,
-      "totalScore": 0.6843,
-      "sources": [
-        {
-          "channel": "zhihu",
-          "rank": 8,
-          "hot": 0,
-          "url": ""
-        }
-      ],
-      "summary": "",
-      "url": ""
-    },
-    {
       "id": "evt-24900000",
       "title": "华为新款折叠屏电脑24999元起",
       "category": "society",
-      "hotScore": 0.4675,
+      "hotScore": 0.595,
       "freshness": 1,
       "crossSource": 0.6309,
-      "totalScore": 0.6763,
+      "totalScore": 0.7273,
       "sources": [
         {
           "channel": "toutiao",
-          "rank": 10,
-          "hot": 2376296,
+          "rank": 7,
+          "hot": 3329020,
           "url": "https://www.toutiao.com/trending/7669720941584498729/"
         }
       ],
       "summary": "",
       "url": "https://www.toutiao.com/trending/7669720941584498729/"
+    },
+    {
+      "id": "evt-19000000",
+      "title": "抢劫刺死19岁少女的死刑改死缓当事人自述：出狱11年间始终刻意躲避被害人家属",
+      "category": "society",
+      "hotScore": 0.5525,
+      "freshness": 1,
+      "crossSource": 0.6309,
+      "totalScore": 0.7103,
+      "sources": [
+        {
+          "channel": "thepaper",
+          "rank": 8,
+          "hot": 0,
+          "url": "https://www.thepaper.cn/newsDetail_forward_33722401"
+        }
+      ],
+      "summary": "",
+      "url": "https://www.thepaper.cn/newsDetail_forward_33722401"
+    },
+    {
+      "id": "evt-openai00",
+      "title": "怎么看 OpenAI 提到下一代 Harness 将脱离 PC，两三个月后现在的 Codex 工作方式会淘汰？",
+      "category": "society",
+      "hotScore": 0.45,
+      "freshness": 1,
+      "crossSource": 0.6309,
+      "totalScore": 0.6693,
+      "sources": [
+        {
+          "channel": "zhihu",
+          "rank": 9,
+          "hot": 0,
+          "url": ""
+        }
+      ],
+      "summary": "",
+      "url": ""
     },
     {
       "id": "evt-85000000",
@@ -157,7 +138,7 @@
         {
           "channel": "toutiao",
           "rank": 11,
-          "hot": 2150162,
+          "hot": 2231509,
           "url": "https://www.toutiao.com/trending/7670396561460953107/"
         }
       ],
