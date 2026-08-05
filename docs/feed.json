@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-08-05T04:55:08.830Z",
+  "generatedAt": "2026-08-05T08:15:40.559Z",
   "fields": {
     "society": "社会",
     "economy": "经济",
@@ -7,73 +7,54 @@
   },
   "feed": [
     {
-      "id": "evt-29000000",
-      "title": "男子健身2年从90斤涨到120斤",
+      "id": "evt-80000000",
+      "title": "男子出狱前8天被改判死缓",
       "category": "society",
-      "hotScore": 0.6375,
-      "freshness": 1,
+      "hotScore": 0.85,
+      "freshness": 0.9999,
       "crossSource": 1,
-      "totalScore": 0.855,
+      "totalScore": 0.94,
       "sources": [
         {
           "channel": "toutiao",
-          "rank": 6,
-          "hot": 6332588,
-          "url": "https://www.toutiao.com/trending/7670076323029057599/"
+          "rank": 1,
+          "hot": 8106869,
+          "url": "https://www.toutiao.com/trending/7670210632259977270/"
         },
         {
           "channel": "baidu",
-          "rank": 10,
+          "rank": 9,
           "hot": 0,
-          "url": "https://m.baidu.com/s?word=%E7%94%B7%E5%AD%90%E5%81%A5%E8%BA%AB2%E5%B9%B4%E4%BB%8E90%E6%96%A4%E6%B6%A8%E5%88%B0120%E6%96%A4&sa=fyb_news"
+          "url": "https://m.baidu.com/s?word=%E7%94%B7%E5%AD%90%E5%87%BA%E7%8B%B1%E5%89%8D8%E5%A4%A9%E8%A2%AB%E6%94%B9%E5%88%A4%E6%AD%BB%E7%BC%93&sa=fyb_news"
         }
       ],
       "summary": "",
-      "url": "https://www.toutiao.com/trending/7670076323029057599/"
+      "url": "https://www.toutiao.com/trending/7670210632259977270/"
     },
     {
       "id": "evt-00000000",
-      "title": "鸿蒙智行回应“竹知了”争议",
-      "category": "society",
-      "hotScore": 0.595,
-      "freshness": 1,
-      "crossSource": 1,
-      "totalScore": 0.838,
-      "sources": [
-        {
-          "channel": "toutiao",
-          "rank": 15,
-          "hot": 2574638,
-          "url": "https://www.toutiao.com/trending/7669737948003794994/"
-        },
-        {
-          "channel": "thepaper",
-          "rank": 7,
-          "hot": 0,
-          "url": "https://www.thepaper.cn/newsDetail_forward_33715905"
-        }
-      ],
-      "summary": "",
-      "url": "https://www.toutiao.com/trending/7669737948003794994/"
-    },
-    {
-      "id": "evt-32300000",
-      "title": "3.23亿老人成各地政府的香饽饽了吗",
+      "title": "官方通报西安赛格商场坠亡事件",
       "category": "society",
       "hotScore": 0.8075,
-      "freshness": 1,
-      "crossSource": 0.6309,
-      "totalScore": 0.8123,
+      "freshness": 0.9999,
+      "crossSource": 1,
+      "totalScore": 0.923,
       "sources": [
         {
           "channel": "toutiao",
           "rank": 2,
-          "hot": 9447111,
-          "url": "https://www.toutiao.com/trending/7670200369644834367/"
+          "hot": 7335398,
+          "url": "https://www.toutiao.com/trending/7670261561843367999/"
+        },
+        {
+          "channel": "thepaper",
+          "rank": 10,
+          "hot": 0,
+          "url": "https://www.thepaper.cn/newsDetail_forward_33719947"
         }
       ],
       "summary": "",
-      "url": "https://www.toutiao.com/trending/7670200369644834367/"
+      "url": "https://www.toutiao.com/trending/7670261561843367999/"
     },
     {
       "id": "evt-70000000",
@@ -99,14 +80,14 @@
       "title": "8月12日地球将失去引力7秒？谣言",
       "category": "society",
       "hotScore": 0.425,
-      "freshness": 1,
+      "freshness": 0.9999,
       "crossSource": 1,
       "totalScore": 0.77,
       "sources": [
         {
           "channel": "toutiao",
           "rank": 11,
-          "hot": 3840908,
+          "hot": 2982350,
           "url": "https://www.toutiao.com/trending/7669265651924074537/"
         },
         {
@@ -120,36 +101,17 @@
       "url": "https://www.toutiao.com/trending/7669265651924074537/"
     },
     {
-      "id": "evt-14000000",
-      "title": "第14号台风“鲸鱼”已生成",
+      "id": "evt-20268000",
+      "title": "如何看待 2026 年 8 月美债正式突破 40 万亿美元大关？压垮美债的最后一根稻草会是什么？",
       "category": "society",
-      "hotScore": 0.64,
+      "hotScore": 0.5625,
       "freshness": 1,
       "crossSource": 0.6309,
-      "totalScore": 0.7453,
-      "sources": [
-        {
-          "channel": "baidu",
-          "rank": 5,
-          "hot": 0,
-          "url": "https://m.baidu.com/s?word=%E7%AC%AC14%E5%8F%B7%E5%8F%B0%E9%A3%8E%E2%80%9C%E9%B2%B8%E9%B1%BC%E2%80%9D%E5%B7%B2%E7%94%9F%E6%88%90&sa=fyb_news"
-        }
-      ],
-      "summary": "",
-      "url": "https://m.baidu.com/s?word=%E7%AC%AC14%E5%8F%B7%E5%8F%B0%E9%A3%8E%E2%80%9C%E9%B2%B8%E9%B1%BC%E2%80%9D%E5%B7%B2%E7%94%9F%E6%88%90&sa=fyb_news"
-    },
-    {
-      "id": "evt-ai000000",
-      "title": "京东外卖推出 AI 头盔，能语音接单、规划路线、解析备注，对骑手安全和效率有提升吗？会成为外卖标配吗？",
-      "category": "society",
-      "hotScore": 0.6,
-      "freshness": 1,
-      "crossSource": 0.6309,
-      "totalScore": 0.7293,
+      "totalScore": 0.7143,
       "sources": [
         {
           "channel": "zhihu",
-          "rank": 5,
+          "rank": 6,
           "hot": 0,
           "url": ""
         }
@@ -158,27 +120,65 @@
       "url": ""
     },
     {
-      "id": "evt-22000000",
-      "title": "22名中国乘客遭拒载 泰国机场致歉",
+      "id": "evt-60000000",
+      "title": "中方反制6家美国实体",
+      "category": "society",
+      "hotScore": 0.56,
+      "freshness": 1,
+      "crossSource": 0.6309,
+      "totalScore": 0.7133,
+      "sources": [
+        {
+          "channel": "baidu",
+          "rank": 7,
+          "hot": 0,
+          "url": "https://m.baidu.com/s?word=%E4%B8%AD%E6%96%B9%E5%8F%8D%E5%88%B66%E5%AE%B6%E7%BE%8E%E5%9B%BD%E5%AE%9E%E4%BD%93&sa=fyb_news"
+        }
+      ],
+      "summary": "",
+      "url": "https://m.baidu.com/s?word=%E4%B8%AD%E6%96%B9%E5%8F%8D%E5%88%B66%E5%AE%B6%E7%BE%8E%E5%9B%BD%E5%AE%9E%E4%BD%93&sa=fyb_news"
+    },
+    {
+      "id": "evt-17000000",
+      "title": "员工用代码17小时删光公司89TB数据",
       "category": "society",
       "hotScore": 0.5525,
-      "freshness": 1,
+      "freshness": 0.9999,
       "crossSource": 0.6309,
       "totalScore": 0.7103,
       "sources": [
         {
           "channel": "toutiao",
           "rank": 8,
-          "hot": 5184684,
-          "url": "https://www.toutiao.com/trending/7669828239829254170/"
+          "hot": 4025752,
+          "url": "https://www.toutiao.com/trending/7670413114399067699/"
         }
       ],
       "summary": "",
-      "url": "https://www.toutiao.com/trending/7669828239829254170/"
+      "url": "https://www.toutiao.com/trending/7670413114399067699/"
     },
     {
-      "id": "evt-10000000",
-      "title": "女子带10岁儿子从成都坐火车去意大利",
+      "id": "evt-ai000000",
+      "title": "梁文峰会不会成为中国 AI 里程碑人物？",
+      "category": "society",
+      "hotScore": 0.525,
+      "freshness": 1,
+      "crossSource": 0.6309,
+      "totalScore": 0.6993,
+      "sources": [
+        {
+          "channel": "zhihu",
+          "rank": 7,
+          "hot": 0,
+          "url": ""
+        }
+      ],
+      "summary": "",
+      "url": ""
+    },
+    {
+      "id": "evt-mpv00000",
+      "title": "尊界MPV及华为新品发布会",
       "category": "society",
       "hotScore": 0.52,
       "freshness": 1,
@@ -189,49 +189,11 @@
           "channel": "baidu",
           "rank": 8,
           "hot": 0,
-          "url": "https://m.baidu.com/s?word=%E5%A5%B3%E5%AD%90%E5%B8%A610%E5%B2%81%E5%84%BF%E5%AD%90%E4%BB%8E%E6%88%90%E9%83%BD%E5%9D%90%E7%81%AB%E8%BD%A6%E5%8E%BB%E6%84%8F%E5%A4%A7%E5%88%A9&sa=fyb_news"
+          "url": "https://m.baidu.com/s?word=%E5%B0%8A%E7%95%8CMPV%E5%8F%8A%E5%8D%8E%E4%B8%BA%E6%96%B0%E5%93%81%E5%8F%91%E5%B8%83%E4%BC%9A&sa=fyb_news"
         }
       ],
       "summary": "",
-      "url": "https://m.baidu.com/s?word=%E5%A5%B3%E5%AD%90%E5%B8%A610%E5%B2%81%E5%84%BF%E5%AD%90%E4%BB%8E%E6%88%90%E9%83%BD%E5%9D%90%E7%81%AB%E8%BD%A6%E5%8E%BB%E6%84%8F%E5%A4%A7%E5%88%A9&sa=fyb_news"
-    },
-    {
-      "id": "evt-17000000",
-      "title": "员工用代码17小时删光公司89TB数据",
-      "category": "society",
-      "hotScore": 0.48,
-      "freshness": 1,
-      "crossSource": 0.6309,
-      "totalScore": 0.6813,
-      "sources": [
-        {
-          "channel": "baidu",
-          "rank": 9,
-          "hot": 0,
-          "url": "https://m.baidu.com/s?word=%E5%91%98%E5%B7%A5%E7%94%A8%E4%BB%A3%E7%A0%8117%E5%B0%8F%E6%97%B6%E5%88%A0%E5%85%89%E5%85%AC%E5%8F%B889TB%E6%95%B0%E6%8D%AE&sa=fyb_news"
-        }
-      ],
-      "summary": "",
-      "url": "https://m.baidu.com/s?word=%E5%91%98%E5%B7%A5%E7%94%A8%E4%BB%A3%E7%A0%8117%E5%B0%8F%E6%97%B6%E5%88%A0%E5%85%89%E5%85%AC%E5%8F%B889TB%E6%95%B0%E6%8D%AE&sa=fyb_news"
-    },
-    {
-      "id": "evt-15000000",
-      "title": "150年来最强厄尔尼诺或将来袭，全球多地身陷“水深火热”",
-      "category": "society",
-      "hotScore": 0.425,
-      "freshness": 1,
-      "crossSource": 0.6309,
-      "totalScore": 0.6593,
-      "sources": [
-        {
-          "channel": "thepaper",
-          "rank": 11,
-          "hot": 0,
-          "url": "https://www.thepaper.cn/newsDetail_forward_33711975"
-        }
-      ],
-      "summary": "",
-      "url": "https://www.thepaper.cn/newsDetail_forward_33711975"
+      "url": "https://m.baidu.com/s?word=%E5%B0%8A%E7%95%8CMPV%E5%8F%8A%E5%8D%8E%E4%B8%BA%E6%96%B0%E5%93%81%E5%8F%91%E5%B8%83%E4%BC%9A&sa=fyb_news"
     }
   ]
 }
