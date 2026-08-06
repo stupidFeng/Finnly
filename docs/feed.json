@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-08-06T08:14:26.641Z",
+  "generatedAt": "2026-08-06T11:56:46.570Z",
   "fields": {
     "society": "社会",
     "economy": "经济",
@@ -8,60 +8,79 @@
   "feed": [
     {
       "id": "evt-00000000",
-      "title": "伊朗总统：最高领袖决策过程遭人利用",
-      "category": "society",
-      "hotScore": 0.8075,
-      "freshness": 1,
-      "crossSource": 1,
-      "totalScore": 0.923,
-      "sources": [
-        {
-          "channel": "toutiao",
-          "rank": 2,
-          "hot": 7443636,
-          "url": "https://www.toutiao.com/trending/7670008339098750483/"
-        },
-        {
-          "channel": "baidu",
-          "rank": 8,
-          "hot": 0,
-          "url": "https://m.baidu.com/s?word=%E4%BC%8A%E6%9C%97%E6%80%BB%E7%BB%9F%EF%BC%9A%E6%9C%80%E9%AB%98%E9%A2%86%E8%A2%96%E5%86%B3%E7%AD%96%E8%BF%87%E7%A8%8B%E9%81%AD%E4%BA%BA%E5%88%A9%E7%94%A8&sa=fyb_news"
-        }
-      ],
-      "summary": "",
-      "url": "https://www.toutiao.com/trending/7670008339098750483/"
-    },
-    {
-      "id": "evt-80420000",
-      "title": "80后女柜员逆袭成4200亿银行副行长",
+      "title": "中国五箭齐发反制美国",
       "category": "society",
       "hotScore": 0.85,
-      "freshness": 1,
-      "crossSource": 0.6309,
-      "totalScore": 0.8293,
+      "freshness": 0.9998,
+      "crossSource": 1,
+      "totalScore": 0.9399,
       "sources": [
         {
           "channel": "toutiao",
           "rank": 1,
-          "hot": 8226490,
-          "url": "https://www.toutiao.com/trending/7670734565728272447/"
+          "hot": 9341686,
+          "url": "https://www.toutiao.com/trending/7670706969024184358/"
+        },
+        {
+          "channel": "baidu",
+          "rank": 9,
+          "hot": 0,
+          "url": "https://m.baidu.com/s?word=%E4%B8%AD%E5%9B%BD%E4%BA%94%E7%AE%AD%E9%BD%90%E5%8F%91%E5%8F%8D%E5%88%B6%E7%BE%8E%E5%9B%BD&sa=fyb_news"
         }
       ],
       "summary": "",
-      "url": "https://www.toutiao.com/trending/7670734565728272447/"
+      "url": "https://www.toutiao.com/trending/7670706969024184358/"
     },
     {
-      "id": "evt-44000000",
-      "title": "44 岁爸爸因叛逆期女儿说「有本事你去考个研究生」，在职一战上岸 985，怎样看待这种教育方式？",
+      "id": "evt-30000000",
+      "title": "日本自卫队3架反潜巡逻机在东海活动",
       "category": "society",
-      "hotScore": 0.7125,
-      "freshness": 1,
+      "hotScore": 0.8075,
+      "freshness": 0.9998,
       "crossSource": 0.6309,
-      "totalScore": 0.7743,
+      "totalScore": 0.8122,
+      "sources": [
+        {
+          "channel": "toutiao",
+          "rank": 2,
+          "hot": 8452707,
+          "url": "https://www.toutiao.com/trending/7670833787848101382/"
+        }
+      ],
+      "summary": "",
+      "url": "https://www.toutiao.com/trending/7670833787848101382/"
+    },
+    {
+      "id": "evt-70000000",
+      "title": "感觉全东北都在等7号",
+      "category": "society",
+      "hotScore": 0.76,
+      "freshness": 0.9998,
+      "crossSource": 0.6309,
+      "totalScore": 0.7932,
+      "sources": [
+        {
+          "channel": "baidu",
+          "rank": 2,
+          "hot": 0,
+          "url": "https://m.baidu.com/s?word=%E6%84%9F%E8%A7%89%E5%85%A8%E4%B8%9C%E5%8C%97%E9%83%BD%E5%9C%A8%E7%AD%897%E5%8F%B7&sa=fyb_news"
+        }
+      ],
+      "summary": "",
+      "url": "https://m.baidu.com/s?word=%E6%84%9F%E8%A7%89%E5%85%A8%E4%B8%9C%E5%8C%97%E9%83%BD%E5%9C%A8%E7%AD%897%E5%8F%B7&sa=fyb_news"
+    },
+    {
+      "id": "evt-deepseek",
+      "title": "如何看待 DeepSeek 8 月 6 日公告称即将大幅度涨价？",
+      "category": "society",
+      "hotScore": 0.75,
+      "freshness": 0.9998,
+      "crossSource": 0.6309,
+      "totalScore": 0.7892,
       "sources": [
         {
           "channel": "zhihu",
-          "rank": 2,
+          "rank": 1,
           "hot": 0,
           "url": ""
         }
@@ -70,13 +89,89 @@
       "url": ""
     },
     {
-      "id": "evt-deepseek",
-      "title": "如何看待 DeepSeek 8 月 6 日公告称即将大幅度涨价？",
+      "id": "evt-10000000",
+      "title": "如何看待尊界新车上市 1 小时大定 2115 台？订单热度能延续到交付阶段吗？",
+      "category": "economy",
+      "hotScore": 0.5625,
+      "freshness": 0.9998,
+      "crossSource": 0.6309,
+      "totalScore": 0.7142,
+      "sources": [
+        {
+          "channel": "zhihu",
+          "rank": 6,
+          "hot": 0,
+          "url": ""
+        }
+      ],
+      "summary": "",
+      "url": ""
+    },
+    {
+      "id": "evt-03000000",
+      "title": "女子利用漏洞0元薅走3000多件家电",
       "category": "society",
-      "hotScore": 0.675,
+      "hotScore": 0.7225,
+      "freshness": 0.9998,
+      "crossSource": 0.6309,
+      "totalScore": 0.7782,
+      "sources": [
+        {
+          "channel": "toutiao",
+          "rank": 4,
+          "hot": 6920491,
+          "url": "https://www.toutiao.com/trending/7670546861320732713/"
+        }
+      ],
+      "summary": "",
+      "url": "https://www.toutiao.com/trending/7670546861320732713/"
+    },
+    {
+      "id": "evt-15080000",
+      "title": "宇树科技发行价格150.80元/股",
+      "category": "society",
+      "hotScore": 0.72,
+      "freshness": 0.9998,
+      "crossSource": 0.6309,
+      "totalScore": 0.7772,
+      "sources": [
+        {
+          "channel": "baidu",
+          "rank": 3,
+          "hot": 0,
+          "url": "https://m.baidu.com/s?word=%E5%AE%87%E6%A0%91%E7%A7%91%E6%8A%80%E5%8F%91%E8%A1%8C%E4%BB%B7%E6%A0%BC150.80%E5%85%83%2F%E8%82%A1&sa=fyb_news"
+        }
+      ],
+      "summary": "",
+      "url": "https://m.baidu.com/s?word=%E5%AE%87%E6%A0%91%E7%A7%91%E6%8A%80%E5%8F%91%E8%A1%8C%E4%BB%B7%E6%A0%BC150.80%E5%85%83%2F%E8%82%A1&sa=fyb_news"
+    },
+    {
+      "id": "evt-40000000",
+      "title": "韩国“超高龄社会”切面：40℃国家灾难状态下，2400名首尔老人还在巷子里收废纸",
+      "category": "society",
+      "hotScore": 0.68,
       "freshness": 1,
       "crossSource": 0.6309,
-      "totalScore": 0.7593,
+      "totalScore": 0.7613,
+      "sources": [
+        {
+          "channel": "thepaper",
+          "rank": 5,
+          "hot": 0,
+          "url": "https://www.thepaper.cn/newsDetail_forward_33720253"
+        }
+      ],
+      "summary": "",
+      "url": "https://www.thepaper.cn/newsDetail_forward_33720253"
+    },
+    {
+      "id": "evt-44000000",
+      "title": "44 岁爸爸因叛逆期女儿说「有本事你去考个研究生」，在职一战上岸 985，怎样看待这种教育方式？",
+      "category": "society",
+      "hotScore": 0.675,
+      "freshness": 0.9998,
+      "crossSource": 0.6309,
+      "totalScore": 0.7592,
       "sources": [
         {
           "channel": "zhihu",
@@ -89,75 +184,18 @@
       "url": ""
     },
     {
-      "id": "evt-10000000",
-      "title": "如何看待尊界新车上市 1 小时大定 2115 台？订单热度能延续到交付阶段吗？",
-      "category": "economy",
-      "hotScore": 0.45,
-      "freshness": 1,
-      "crossSource": 0.6309,
-      "totalScore": 0.6693,
-      "sources": [
-        {
-          "channel": "zhihu",
-          "rank": 9,
-          "hot": 0,
-          "url": ""
-        }
-      ],
-      "summary": "",
-      "url": ""
-    },
-    {
-      "id": "evt-a0000000",
-      "title": "曝张一鸣下死命令：不依赖AI蒸馏技术",
-      "category": "society",
-      "hotScore": 0.64,
-      "freshness": 1,
-      "crossSource": 0.6309,
-      "totalScore": 0.7453,
-      "sources": [
-        {
-          "channel": "baidu",
-          "rank": 5,
-          "hot": 0,
-          "url": "https://m.baidu.com/s?word=%E6%9B%9D%E5%BC%A0%E4%B8%80%E9%B8%A3%E4%B8%8B%E6%AD%BB%E5%91%BD%E4%BB%A4%EF%BC%9A%E4%B8%8D%E4%BE%9D%E8%B5%96AI%E8%92%B8%E9%A6%8F%E6%8A%80%E6%9C%AF&sa=fyb_news"
-        }
-      ],
-      "summary": "",
-      "url": "https://m.baidu.com/s?word=%E6%9B%9D%E5%BC%A0%E4%B8%80%E9%B8%A3%E4%B8%8B%E6%AD%BB%E5%91%BD%E4%BB%A4%EF%BC%9A%E4%B8%8D%E4%BE%9D%E8%B5%96AI%E8%92%B8%E9%A6%8F%E6%8A%80%E6%9C%AF&sa=fyb_news"
-    },
-    {
-      "id": "evt-20000000",
-      "title": "网传吃 20 个饺子，等于吃下 6 到 7 个馒头，是真的吗？",
-      "category": "society",
-      "hotScore": 0.525,
-      "freshness": 1,
-      "crossSource": 0.6309,
-      "totalScore": 0.6993,
-      "sources": [
-        {
-          "channel": "zhihu",
-          "rank": 7,
-          "hot": 0,
-          "url": ""
-        }
-      ],
-      "summary": "",
-      "url": ""
-    },
-    {
       "id": "evt-90000000",
       "title": "李亚鹏向地铁吐血女孩捐99999元",
       "category": "society",
-      "hotScore": 0.51,
-      "freshness": 1,
+      "hotScore": 0.6375,
+      "freshness": 0.9998,
       "crossSource": 0.6309,
-      "totalScore": 0.6933,
+      "totalScore": 0.7442,
       "sources": [
         {
           "channel": "toutiao",
-          "rank": 9,
-          "hot": 3696400,
+          "rank": 6,
+          "hot": 5666019,
           "url": "https://www.toutiao.com/trending/7670496020695859238/"
         }
       ],
@@ -165,23 +203,61 @@
       "url": "https://www.toutiao.com/trending/7670496020695859238/"
     },
     {
-      "id": "evt-40000000",
-      "title": "韩国“超高龄社会”切面：40℃国家灾难状态下，2400名首尔老人还在巷子里收废纸",
+      "id": "evt-81000000",
+      "title": "中方回应日本广岛核爆81周年",
       "category": "society",
-      "hotScore": 0.51,
-      "freshness": 1,
+      "hotScore": 0.6,
+      "freshness": 0.9998,
       "crossSource": 0.6309,
-      "totalScore": 0.6933,
+      "totalScore": 0.7292,
       "sources": [
         {
-          "channel": "thepaper",
-          "rank": 9,
+          "channel": "baidu",
+          "rank": 6,
           "hot": 0,
-          "url": "https://www.thepaper.cn/newsDetail_forward_33720253"
+          "url": "https://m.baidu.com/s?word=%E4%B8%AD%E6%96%B9%E5%9B%9E%E5%BA%94%E6%97%A5%E6%9C%AC%E5%B9%BF%E5%B2%9B%E6%A0%B8%E7%88%8681%E5%91%A8%E5%B9%B4&sa=fyb_news"
         }
       ],
       "summary": "",
-      "url": "https://www.thepaper.cn/newsDetail_forward_33720253"
+      "url": "https://m.baidu.com/s?word=%E4%B8%AD%E6%96%B9%E5%9B%9E%E5%BA%94%E6%97%A5%E6%9C%AC%E5%B9%BF%E5%B2%9B%E6%A0%B8%E7%88%8681%E5%91%A8%E5%B9%B4&sa=fyb_news"
+    },
+    {
+      "id": "evt-28000000",
+      "title": "村民2千万拆迁款被分掉8年后才知晓",
+      "category": "society",
+      "hotScore": 0.595,
+      "freshness": 0.9998,
+      "crossSource": 0.6309,
+      "totalScore": 0.7272,
+      "sources": [
+        {
+          "channel": "toutiao",
+          "rank": 7,
+          "hot": 5126826,
+          "url": "https://www.toutiao.com/trending/7670830148002234394/"
+        }
+      ],
+      "summary": "",
+      "url": "https://www.toutiao.com/trending/7670830148002234394/"
+    },
+    {
+      "id": "evt-20000000",
+      "title": "网传吃 20 个饺子，等于吃下 6 到 7 个馒头，是真的吗？",
+      "category": "society",
+      "hotScore": 0.45,
+      "freshness": 0.9998,
+      "crossSource": 0.6309,
+      "totalScore": 0.6692,
+      "sources": [
+        {
+          "channel": "zhihu",
+          "rank": 9,
+          "hot": 0,
+          "url": ""
+        }
+      ],
+      "summary": "",
+      "url": ""
     }
   ]
 }
