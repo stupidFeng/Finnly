@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-08-06T13:50:36.726Z",
+  "generatedAt": "2026-08-06T23:49:13.377Z",
   "fields": {
     "society": "社会",
     "economy": "经济",
@@ -7,54 +7,67 @@
   },
   "feed": [
     {
-      "id": "evt-15080000",
-      "title": "宇树科技发行价格150.80元/股",
+      "id": "evt-00000000",
+      "title": "我国编制完成新版全月地质图",
+      "category": "society",
+      "hotScore": 0.765,
+      "freshness": 1,
+      "crossSource": 1,
+      "totalScore": 0.906,
+      "sources": [
+        {
+          "channel": "toutiao",
+          "rank": 3,
+          "hot": 5235425,
+          "url": "https://www.toutiao.com/trending/7670889844792659506/"
+        },
+        {
+          "channel": "thepaper",
+          "rank": 9,
+          "hot": 0,
+          "url": "https://www.thepaper.cn/newsDetail_forward_33728798"
+        }
+      ],
+      "summary": "",
+      "url": "https://www.toutiao.com/trending/7670889844792659506/"
+    },
+    {
+      "id": "evt-ai000000",
+      "title": "眼镜店老板副业做的AI视频火到海外",
       "category": "society",
       "hotScore": 0.85,
-      "freshness": 0.9999,
-      "crossSource": 1,
-      "totalScore": 0.94,
+      "freshness": 1,
+      "crossSource": 0.6309,
+      "totalScore": 0.8293,
       "sources": [
         {
           "channel": "toutiao",
           "rank": 1,
-          "hot": 11583585,
-          "url": "https://www.toutiao.com/trending/7670565723299020826/"
-        },
-        {
-          "channel": "baidu",
-          "rank": 7,
-          "hot": 0,
-          "url": "https://m.baidu.com/s?word=%E5%AE%87%E6%A0%91%E7%A7%91%E6%8A%80%E5%8F%91%E8%A1%8C%E4%BB%B7%E6%A0%BC150.80%E5%85%83%2F%E8%82%A1&sa=fyb_news"
+          "hot": 6394563,
+          "url": "https://www.toutiao.com/trending/7670874502713622564/"
         }
       ],
       "summary": "",
-      "url": "https://www.toutiao.com/trending/7670565723299020826/"
+      "url": "https://www.toutiao.com/trending/7670874502713622564/"
     },
     {
-      "id": "evt-00000000",
-      "title": "中国五箭齐发反制美国",
+      "id": "evt-10000000",
+      "title": "游客睡自己车里被酒店收150元“住宿费”，监管部门介入后酒店退款并赔偿1000元",
       "category": "society",
       "hotScore": 0.8075,
-      "freshness": 0.9999,
-      "crossSource": 1,
-      "totalScore": 0.923,
+      "freshness": 1,
+      "crossSource": 0.6309,
+      "totalScore": 0.8123,
       "sources": [
         {
-          "channel": "toutiao",
+          "channel": "thepaper",
           "rank": 2,
-          "hot": 10481261,
-          "url": "https://www.toutiao.com/trending/7670706969024184358/"
-        },
-        {
-          "channel": "baidu",
-          "rank": 17,
           "hot": 0,
-          "url": "https://m.baidu.com/s?word=%E4%B8%AD%E5%9B%BD%E4%BA%94%E7%AE%AD%E9%BD%90%E5%8F%91%E5%8F%8D%E5%88%B6%E7%BE%8E%E5%9B%BD&sa=fyb_news"
+          "url": "https://www.thepaper.cn/newsDetail_forward_33730642"
         }
       ],
       "summary": "",
-      "url": "https://www.toutiao.com/trending/7670706969024184358/"
+      "url": "https://www.thepaper.cn/newsDetail_forward_33730642"
     },
     {
       "id": "evt-40000000",
@@ -76,8 +89,8 @@
       "url": "https://www.thepaper.cn/newsDetail_forward_33720253"
     },
     {
-      "id": "evt-deepseek",
-      "title": "如何看待 DeepSeek 8 月 6 日公告称即将大幅度涨价？",
+      "id": "evt-15080000",
+      "title": "宇树科技发行价 150.80 元 / 股，发行市盈率高达 219.23 倍，这个定价贵不贵？",
       "category": "society",
       "hotScore": 0.75,
       "freshness": 1,
@@ -95,8 +108,27 @@
       "url": ""
     },
     {
-      "id": "evt-10000000",
-      "title": "10年前救人上央视的小伙抗洪牺牲",
+      "id": "evt-15000000",
+      "title": "银行午休1.5小时 留个窗口行不行",
+      "category": "society",
+      "hotScore": 0.7225,
+      "freshness": 1,
+      "crossSource": 0.6309,
+      "totalScore": 0.7783,
+      "sources": [
+        {
+          "channel": "toutiao",
+          "rank": 4,
+          "hot": 4737208,
+          "url": "https://www.toutiao.com/trending/7670365802210131978/"
+        }
+      ],
+      "summary": "",
+      "url": "https://www.toutiao.com/trending/7670365802210131978/"
+    },
+    {
+      "id": "evt-deepseek",
+      "title": "DeepSeek终于打算激进扩张了",
       "category": "society",
       "hotScore": 0.72,
       "freshness": 1,
@@ -107,11 +139,30 @@
           "channel": "baidu",
           "rank": 3,
           "hot": 0,
-          "url": "https://m.baidu.com/s?word=10%E5%B9%B4%E5%89%8D%E6%95%91%E4%BA%BA%E4%B8%8A%E5%A4%AE%E8%A7%86%E7%9A%84%E5%B0%8F%E4%BC%99%E6%8A%97%E6%B4%AA%E7%89%BA%E7%89%B2&sa=fyb_news"
+          "url": "https://m.baidu.com/s?word=DeepSeek%E7%BB%88%E4%BA%8E%E6%89%93%E7%AE%97%E6%BF%80%E8%BF%9B%E6%89%A9%E5%BC%A0%E4%BA%86&sa=fyb_news"
         }
       ],
       "summary": "",
-      "url": "https://m.baidu.com/s?word=10%E5%B9%B4%E5%89%8D%E6%95%91%E4%BA%BA%E4%B8%8A%E5%A4%AE%E8%A7%86%E7%9A%84%E5%B0%8F%E4%BC%99%E6%8A%97%E6%B4%AA%E7%89%BA%E7%89%B2&sa=fyb_news"
+      "url": "https://m.baidu.com/s?word=DeepSeek%E7%BB%88%E4%BA%8E%E6%89%93%E7%AE%97%E6%BF%80%E8%BF%9B%E6%89%A9%E5%BC%A0%E4%BA%86&sa=fyb_news"
+    },
+    {
+      "id": "evt-jeffdean",
+      "title": "为什么 Jeff Dean 从 Google 离职引起这么大的轰动？",
+      "category": "society",
+      "hotScore": 0.7125,
+      "freshness": 1,
+      "crossSource": 0.6309,
+      "totalScore": 0.7743,
+      "sources": [
+        {
+          "channel": "zhihu",
+          "rank": 2,
+          "hot": 0,
+          "url": ""
+        }
+      ],
+      "summary": "",
+      "url": ""
     },
     {
       "id": "evt-chinacool",
@@ -134,41 +185,98 @@
     },
     {
       "id": "evt-70000000",
-      "title": "感觉全东北都在等7号",
+      "title": "韩媒：韩足协7场比赛性贿赂20名裁判",
       "category": "society",
-      "hotScore": 0.52,
+      "hotScore": 0.6375,
       "freshness": 1,
       "crossSource": 0.6309,
-      "totalScore": 0.6973,
+      "totalScore": 0.7443,
       "sources": [
         {
-          "channel": "baidu",
-          "rank": 8,
-          "hot": 0,
-          "url": "https://m.baidu.com/s?word=%E6%84%9F%E8%A7%89%E5%85%A8%E4%B8%9C%E5%8C%97%E9%83%BD%E5%9C%A8%E7%AD%897%E5%8F%B7&sa=fyb_news"
+          "channel": "toutiao",
+          "rank": 6,
+          "hot": 3878498,
+          "url": "https://www.toutiao.com/trending/7670844109670924314/"
         }
       ],
       "summary": "",
-      "url": "https://m.baidu.com/s?word=%E6%84%9F%E8%A7%89%E5%85%A8%E4%B8%9C%E5%8C%97%E9%83%BD%E5%9C%A8%E7%AD%897%E5%8F%B7&sa=fyb_news"
+      "url": "https://www.toutiao.com/trending/7670844109670924314/"
     },
     {
-      "id": "evt-ai000000",
-      "title": "“中式天庭”AI视频海外爆火",
+      "id": "evt-go000000",
+      "title": "小米徐洁云就「孩 Go」言论回应，称有用户宠物名叫「孩 Go」，如何评价其这一解释？",
       "category": "society",
-      "hotScore": 0.44,
+      "hotScore": 0.5625,
       "freshness": 1,
       "crossSource": 0.6309,
-      "totalScore": 0.6653,
+      "totalScore": 0.7143,
       "sources": [
         {
-          "channel": "baidu",
-          "rank": 10,
+          "channel": "zhihu",
+          "rank": 6,
           "hot": 0,
-          "url": "https://m.baidu.com/s?word=%E2%80%9C%E4%B8%AD%E5%BC%8F%E5%A4%A9%E5%BA%AD%E2%80%9DAI%E8%A7%86%E9%A2%91%E6%B5%B7%E5%A4%96%E7%88%86%E7%81%AB&sa=fyb_news"
+          "url": ""
         }
       ],
       "summary": "",
-      "url": "https://m.baidu.com/s?word=%E2%80%9C%E4%B8%AD%E5%BC%8F%E5%A4%A9%E5%BA%AD%E2%80%9DAI%E8%A7%86%E9%A2%91%E6%B5%B7%E5%A4%96%E7%88%86%E7%81%AB&sa=fyb_news"
+      "url": ""
+    },
+    {
+      "id": "evt-a3800000",
+      "title": "阿联酋航空 A380 备降杭州，373 名乘客被困机舱超 10 小时，具体情况如何？航司需负哪些责任？",
+      "category": "society",
+      "hotScore": 0.525,
+      "freshness": 1,
+      "crossSource": 0.6309,
+      "totalScore": 0.6993,
+      "sources": [
+        {
+          "channel": "zhihu",
+          "rank": 7,
+          "hot": 0,
+          "url": ""
+        }
+      ],
+      "summary": "",
+      "url": ""
+    },
+    {
+      "id": "evt-c9000000",
+      "title": "本人某 C9 毕业学生，想从事教培工作，但是被家里人骂得狗血淋头，难道教培就怎么不堪吗？",
+      "category": "society",
+      "hotScore": 0.4875,
+      "freshness": 1,
+      "crossSource": 0.6309,
+      "totalScore": 0.6843,
+      "sources": [
+        {
+          "channel": "zhihu",
+          "rank": 8,
+          "hot": 0,
+          "url": ""
+        }
+      ],
+      "summary": "",
+      "url": ""
+    },
+    {
+      "id": "evt-21000000",
+      "title": "21楼高空抛物嫌疑人被拘留",
+      "category": "society",
+      "hotScore": 0.48,
+      "freshness": 1,
+      "crossSource": 0.6309,
+      "totalScore": 0.6813,
+      "sources": [
+        {
+          "channel": "baidu",
+          "rank": 9,
+          "hot": 0,
+          "url": "https://m.baidu.com/s?word=21%E6%A5%BC%E9%AB%98%E7%A9%BA%E6%8A%9B%E7%89%A9%E5%AB%8C%E7%96%91%E4%BA%BA%E8%A2%AB%E6%8B%98%E7%95%99&sa=fyb_news"
+        }
+      ],
+      "summary": "",
+      "url": "https://m.baidu.com/s?word=21%E6%A5%BC%E9%AB%98%E7%A9%BA%E6%8A%9B%E7%89%A9%E5%AB%8C%E7%96%91%E4%BA%BA%E8%A2%AB%E6%8B%98%E7%95%99&sa=fyb_news"
     }
   ]
 }
