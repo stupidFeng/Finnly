@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-08-05T22:48:39.409Z",
+  "generatedAt": "2026-08-06T01:28:23.844Z",
   "fields": {
     "society": "社会",
     "economy": "经济",
@@ -7,23 +7,73 @@
   },
   "feed": [
     {
+      "id": "evt-41000000",
+      "title": "为鼓励女儿 41岁妈妈考上985研究生",
+      "category": "society",
+      "hotScore": 0.85,
+      "freshness": 1,
+      "crossSource": 1,
+      "totalScore": 0.94,
+      "sources": [
+        {
+          "channel": "toutiao",
+          "rank": 1,
+          "hot": 8918199,
+          "url": "https://www.toutiao.com/trending/7670357295159279622/"
+        },
+        {
+          "channel": "baidu",
+          "rank": 15,
+          "hot": 0,
+          "url": "https://m.baidu.com/s?word=%E4%B8%BA%E9%BC%93%E5%8A%B1%E5%A5%B3%E5%84%BF+41%E5%B2%81%E5%A6%88%E5%A6%88%E8%80%83%E4%B8%8A985%E7%A0%94%E7%A9%B6%E7%94%9F&sa=fyb_news"
+        }
+      ],
+      "summary": "",
+      "url": "https://www.toutiao.com/trending/7670357295159279622/"
+    },
+    {
+      "id": "evt-90000000",
+      "title": "李亚鹏向地铁吐血女孩捐99999元",
+      "category": "society",
+      "hotScore": 0.8075,
+      "freshness": 1,
+      "crossSource": 1,
+      "totalScore": 0.923,
+      "sources": [
+        {
+          "channel": "toutiao",
+          "rank": 2,
+          "hot": 8069520,
+          "url": "https://www.toutiao.com/trending/7670496020695859238/"
+        },
+        {
+          "channel": "baidu",
+          "rank": 6,
+          "hot": 0,
+          "url": "https://m.baidu.com/s?word=%E6%9D%8E%E4%BA%9A%E9%B9%8F%E5%90%91%E5%9C%B0%E9%93%81%E5%90%90%E8%A1%80%E5%A5%B3%E5%AD%A9%E6%8D%9099999%E5%85%83&sa=fyb_news"
+        }
+      ],
+      "summary": "",
+      "url": "https://www.toutiao.com/trending/7670496020695859238/"
+    },
+    {
       "id": "evt-00000000",
       "title": "人贩子“梅姨”真实姓名曝光",
       "category": "society",
-      "hotScore": 0.76,
+      "hotScore": 0.765,
       "freshness": 1,
       "crossSource": 1,
-      "totalScore": 0.904,
+      "totalScore": 0.906,
       "sources": [
         {
           "channel": "thepaper",
-          "rank": 20,
+          "rank": 3,
           "hot": 0,
           "url": "https://www.thepaper.cn/newsDetail_forward_33723263"
         },
         {
           "channel": "baidu",
-          "rank": 2,
+          "rank": 14,
           "hot": 0,
           "url": "https://m.baidu.com/s?word=%E4%BA%BA%E8%B4%A9%E5%AD%90%E2%80%9C%E6%A2%85%E5%A7%A8%E2%80%9D%E7%9C%9F%E5%AE%9E%E5%A7%93%E5%90%8D%E6%9B%9D%E5%85%89&sa=fyb_news"
         }
@@ -32,17 +82,55 @@
       "url": "https://www.thepaper.cn/newsDetail_forward_33723263"
     },
     {
+      "id": "evt-24999000",
+      "title": "余承东口误将24999元电脑报成2499",
+      "category": "society",
+      "hotScore": 0.7225,
+      "freshness": 1,
+      "crossSource": 0.6309,
+      "totalScore": 0.7783,
+      "sources": [
+        {
+          "channel": "toutiao",
+          "rank": 4,
+          "hot": 6606764,
+          "url": "https://www.toutiao.com/trending/7670512223148752942/"
+        }
+      ],
+      "summary": "",
+      "url": "https://www.toutiao.com/trending/7670512223148752942/"
+    },
+    {
+      "id": "evt-10000000",
+      "title": "美国退回1000亿美元关税",
+      "category": "economy",
+      "hotScore": 0.64,
+      "freshness": 1,
+      "crossSource": 0.6309,
+      "totalScore": 0.7453,
+      "sources": [
+        {
+          "channel": "baidu",
+          "rank": 5,
+          "hot": 0,
+          "url": "https://m.baidu.com/s?word=%E7%BE%8E%E5%9B%BD%E9%80%80%E5%9B%9E1000%E4%BA%BF%E7%BE%8E%E5%85%83%E5%85%B3%E7%A8%8E&sa=fyb_news"
+        }
+      ],
+      "summary": "",
+      "url": "https://m.baidu.com/s?word=%E7%BE%8E%E5%9B%BD%E9%80%80%E5%9B%9E1000%E4%BA%BF%E7%BE%8E%E5%85%83%E5%85%B3%E7%A8%8E&sa=fyb_news"
+    },
+    {
       "id": "evt-19000000",
       "title": "抢劫刺死19岁少女的死刑改死缓当事人自述：出狱11年间始终刻意躲避被害人家属",
       "category": "society",
-      "hotScore": 0.765,
+      "hotScore": 0.68,
       "freshness": 1,
       "crossSource": 0.6309,
-      "totalScore": 0.7953,
+      "totalScore": 0.7613,
       "sources": [
         {
           "channel": "thepaper",
-          "rank": 3,
+          "rank": 5,
           "hot": 0,
           "url": "https://www.thepaper.cn/newsDetail_forward_33722401"
         }
@@ -51,8 +139,27 @@
       "url": "https://www.thepaper.cn/newsDetail_forward_33722401"
     },
     {
-      "id": "evt-22000000",
-      "title": "22名中国乘客遭拒载 泰国机场致歉",
+      "id": "evt-44000000",
+      "title": "44 岁爸爸因叛逆期女儿说「有本事你去考个研究生」，在职一战上岸 985，怎样看待这种教育方式？",
+      "category": "society",
+      "hotScore": 0.6375,
+      "freshness": 1,
+      "crossSource": 0.6309,
+      "totalScore": 0.7443,
+      "sources": [
+        {
+          "channel": "zhihu",
+          "rank": 4,
+          "hot": 0,
+          "url": ""
+        }
+      ],
+      "summary": "",
+      "url": ""
+    },
+    {
+      "id": "evt-43000000",
+      "title": "现货黄金突破4300美元",
       "category": "society",
       "hotScore": 0.595,
       "freshness": 1,
@@ -62,31 +169,69 @@
         {
           "channel": "toutiao",
           "rank": 7,
-          "hot": 3841668,
-          "url": "https://www.toutiao.com/trending/7669828239829254170/"
+          "hot": 4894411,
+          "url": "https://www.toutiao.com/trending/7670717450970730025/"
         }
       ],
       "summary": "",
-      "url": "https://www.toutiao.com/trending/7669828239829254170/"
+      "url": "https://www.toutiao.com/trending/7670717450970730025/"
     },
     {
-      "id": "evt-h8000000",
-      "title": "“老头乐”悬挂“蒙H好几个8”上路",
+      "id": "evt-37000000",
+      "title": "被错换37年女子起诉医院：本不需辍学",
       "category": "society",
-      "hotScore": 0.5525,
+      "hotScore": 0.56,
       "freshness": 1,
       "crossSource": 0.6309,
-      "totalScore": 0.7103,
+      "totalScore": 0.7133,
+      "sources": [
+        {
+          "channel": "baidu",
+          "rank": 7,
+          "hot": 0,
+          "url": "https://m.baidu.com/s?word=%E8%A2%AB%E9%94%99%E6%8D%A237%E5%B9%B4%E5%A5%B3%E5%AD%90%E8%B5%B7%E8%AF%89%E5%8C%BB%E9%99%A2%EF%BC%9A%E6%9C%AC%E4%B8%8D%E9%9C%80%E8%BE%8D%E5%AD%A6&sa=fyb_news"
+        }
+      ],
+      "summary": "",
+      "url": "https://m.baidu.com/s?word=%E8%A2%AB%E9%94%99%E6%8D%A237%E5%B9%B4%E5%A5%B3%E5%AD%90%E8%B5%B7%E8%AF%89%E5%8C%BB%E9%99%A2%EF%BC%9A%E6%9C%AC%E4%B8%8D%E9%9C%80%E8%BE%8D%E5%AD%A6&sa=fyb_news"
+    },
+    {
+      "id": "evt-20000000",
+      "title": "骗走200万元后男子躲进深山13年",
+      "category": "society",
+      "hotScore": 0.44,
+      "freshness": 1,
+      "crossSource": 0.6309,
+      "totalScore": 0.6653,
+      "sources": [
+        {
+          "channel": "baidu",
+          "rank": 10,
+          "hot": 0,
+          "url": "https://m.baidu.com/s?word=%E9%AA%97%E8%B5%B0200%E4%B8%87%E5%85%83%E5%90%8E%E7%94%B7%E5%AD%90%E8%BA%B2%E8%BF%9B%E6%B7%B1%E5%B1%B113%E5%B9%B4&sa=fyb_news"
+        }
+      ],
+      "summary": "",
+      "url": "https://m.baidu.com/s?word=%E9%AA%97%E8%B5%B0200%E4%B8%87%E5%85%83%E5%90%8E%E7%94%B7%E5%AD%90%E8%BA%B2%E8%BF%9B%E6%B7%B1%E5%B1%B113%E5%B9%B4&sa=fyb_news"
+    },
+    {
+      "id": "evt-85000000",
+      "title": "“新疆喀什8.5级地震”系谣言",
+      "category": "society",
+      "hotScore": 0.425,
+      "freshness": 1,
+      "crossSource": 0.6309,
+      "totalScore": 0.6593,
       "sources": [
         {
           "channel": "toutiao",
-          "rank": 8,
-          "hot": 3476085,
-          "url": "https://www.toutiao.com/trending/7670229759422382134/"
+          "rank": 11,
+          "hot": 3280822,
+          "url": "https://www.toutiao.com/trending/7670396561460953107/"
         }
       ],
       "summary": "",
-      "url": "https://www.toutiao.com/trending/7670229759422382134/"
+      "url": "https://www.toutiao.com/trending/7670396561460953107/"
     }
   ]
 }
