@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-08-06T11:56:46.570Z",
+  "generatedAt": "2026-08-06T13:50:36.726Z",
   "fields": {
     "society": "社会",
     "economy": "经济",
@@ -7,23 +7,48 @@
   },
   "feed": [
     {
-      "id": "evt-00000000",
-      "title": "中国五箭齐发反制美国",
+      "id": "evt-15080000",
+      "title": "宇树科技发行价格150.80元/股",
       "category": "society",
       "hotScore": 0.85,
-      "freshness": 0.9998,
+      "freshness": 0.9999,
       "crossSource": 1,
-      "totalScore": 0.9399,
+      "totalScore": 0.94,
       "sources": [
         {
           "channel": "toutiao",
           "rank": 1,
-          "hot": 9341686,
+          "hot": 11583585,
+          "url": "https://www.toutiao.com/trending/7670565723299020826/"
+        },
+        {
+          "channel": "baidu",
+          "rank": 7,
+          "hot": 0,
+          "url": "https://m.baidu.com/s?word=%E5%AE%87%E6%A0%91%E7%A7%91%E6%8A%80%E5%8F%91%E8%A1%8C%E4%BB%B7%E6%A0%BC150.80%E5%85%83%2F%E8%82%A1&sa=fyb_news"
+        }
+      ],
+      "summary": "",
+      "url": "https://www.toutiao.com/trending/7670565723299020826/"
+    },
+    {
+      "id": "evt-00000000",
+      "title": "中国五箭齐发反制美国",
+      "category": "society",
+      "hotScore": 0.8075,
+      "freshness": 0.9999,
+      "crossSource": 1,
+      "totalScore": 0.923,
+      "sources": [
+        {
+          "channel": "toutiao",
+          "rank": 2,
+          "hot": 10481261,
           "url": "https://www.toutiao.com/trending/7670706969024184358/"
         },
         {
           "channel": "baidu",
-          "rank": 9,
+          "rank": 17,
           "hot": 0,
           "url": "https://m.baidu.com/s?word=%E4%B8%AD%E5%9B%BD%E4%BA%94%E7%AE%AD%E9%BD%90%E5%8F%91%E5%8F%8D%E5%88%B6%E7%BE%8E%E5%9B%BD&sa=fyb_news"
         }
@@ -32,51 +57,32 @@
       "url": "https://www.toutiao.com/trending/7670706969024184358/"
     },
     {
-      "id": "evt-30000000",
-      "title": "日本自卫队3架反潜巡逻机在东海活动",
+      "id": "evt-40000000",
+      "title": "韩国“超高龄社会”切面：40℃国家灾难状态下，2400名首尔老人还在巷子里收废纸",
       "category": "society",
-      "hotScore": 0.8075,
-      "freshness": 0.9998,
+      "hotScore": 0.765,
+      "freshness": 1,
       "crossSource": 0.6309,
-      "totalScore": 0.8122,
+      "totalScore": 0.7953,
       "sources": [
         {
-          "channel": "toutiao",
-          "rank": 2,
-          "hot": 8452707,
-          "url": "https://www.toutiao.com/trending/7670833787848101382/"
-        }
-      ],
-      "summary": "",
-      "url": "https://www.toutiao.com/trending/7670833787848101382/"
-    },
-    {
-      "id": "evt-70000000",
-      "title": "感觉全东北都在等7号",
-      "category": "society",
-      "hotScore": 0.76,
-      "freshness": 0.9998,
-      "crossSource": 0.6309,
-      "totalScore": 0.7932,
-      "sources": [
-        {
-          "channel": "baidu",
-          "rank": 2,
+          "channel": "thepaper",
+          "rank": 3,
           "hot": 0,
-          "url": "https://m.baidu.com/s?word=%E6%84%9F%E8%A7%89%E5%85%A8%E4%B8%9C%E5%8C%97%E9%83%BD%E5%9C%A8%E7%AD%897%E5%8F%B7&sa=fyb_news"
+          "url": "https://www.thepaper.cn/newsDetail_forward_33720253"
         }
       ],
       "summary": "",
-      "url": "https://m.baidu.com/s?word=%E6%84%9F%E8%A7%89%E5%85%A8%E4%B8%9C%E5%8C%97%E9%83%BD%E5%9C%A8%E7%AD%897%E5%8F%B7&sa=fyb_news"
+      "url": "https://www.thepaper.cn/newsDetail_forward_33720253"
     },
     {
       "id": "evt-deepseek",
       "title": "如何看待 DeepSeek 8 月 6 日公告称即将大幅度涨价？",
       "category": "society",
       "hotScore": 0.75,
-      "freshness": 0.9998,
+      "freshness": 1,
       "crossSource": 0.6309,
-      "totalScore": 0.7892,
+      "totalScore": 0.7893,
       "sources": [
         {
           "channel": "zhihu",
@@ -90,64 +96,26 @@
     },
     {
       "id": "evt-10000000",
-      "title": "如何看待尊界新车上市 1 小时大定 2115 台？订单热度能延续到交付阶段吗？",
-      "category": "economy",
-      "hotScore": 0.5625,
-      "freshness": 0.9998,
-      "crossSource": 0.6309,
-      "totalScore": 0.7142,
-      "sources": [
-        {
-          "channel": "zhihu",
-          "rank": 6,
-          "hot": 0,
-          "url": ""
-        }
-      ],
-      "summary": "",
-      "url": ""
-    },
-    {
-      "id": "evt-03000000",
-      "title": "女子利用漏洞0元薅走3000多件家电",
-      "category": "society",
-      "hotScore": 0.7225,
-      "freshness": 0.9998,
-      "crossSource": 0.6309,
-      "totalScore": 0.7782,
-      "sources": [
-        {
-          "channel": "toutiao",
-          "rank": 4,
-          "hot": 6920491,
-          "url": "https://www.toutiao.com/trending/7670546861320732713/"
-        }
-      ],
-      "summary": "",
-      "url": "https://www.toutiao.com/trending/7670546861320732713/"
-    },
-    {
-      "id": "evt-15080000",
-      "title": "宇树科技发行价格150.80元/股",
+      "title": "10年前救人上央视的小伙抗洪牺牲",
       "category": "society",
       "hotScore": 0.72,
-      "freshness": 0.9998,
+      "freshness": 1,
       "crossSource": 0.6309,
-      "totalScore": 0.7772,
+      "totalScore": 0.7773,
       "sources": [
         {
           "channel": "baidu",
           "rank": 3,
           "hot": 0,
-          "url": "https://m.baidu.com/s?word=%E5%AE%87%E6%A0%91%E7%A7%91%E6%8A%80%E5%8F%91%E8%A1%8C%E4%BB%B7%E6%A0%BC150.80%E5%85%83%2F%E8%82%A1&sa=fyb_news"
+          "url": "https://m.baidu.com/s?word=10%E5%B9%B4%E5%89%8D%E6%95%91%E4%BA%BA%E4%B8%8A%E5%A4%AE%E8%A7%86%E7%9A%84%E5%B0%8F%E4%BC%99%E6%8A%97%E6%B4%AA%E7%89%BA%E7%89%B2&sa=fyb_news"
         }
       ],
       "summary": "",
-      "url": "https://m.baidu.com/s?word=%E5%AE%87%E6%A0%91%E7%A7%91%E6%8A%80%E5%8F%91%E8%A1%8C%E4%BB%B7%E6%A0%BC150.80%E5%85%83%2F%E8%82%A1&sa=fyb_news"
+      "url": "https://m.baidu.com/s?word=10%E5%B9%B4%E5%89%8D%E6%95%91%E4%BA%BA%E4%B8%8A%E5%A4%AE%E8%A7%86%E7%9A%84%E5%B0%8F%E4%BC%99%E6%8A%97%E6%B4%AA%E7%89%BA%E7%89%B2&sa=fyb_news"
     },
     {
-      "id": "evt-40000000",
-      "title": "韩国“超高龄社会”切面：40℃国家灾难状态下，2400名首尔老人还在巷子里收废纸",
+      "id": "evt-chinacool",
+      "title": "“China Cool”成海外热词",
       "category": "society",
       "hotScore": 0.68,
       "freshness": 1,
@@ -155,109 +123,52 @@
       "totalScore": 0.7613,
       "sources": [
         {
-          "channel": "thepaper",
-          "rank": 5,
+          "channel": "baidu",
+          "rank": 4,
           "hot": 0,
-          "url": "https://www.thepaper.cn/newsDetail_forward_33720253"
+          "url": "https://m.baidu.com/s?word=%E2%80%9CChina+Cool%E2%80%9D%E6%88%90%E6%B5%B7%E5%A4%96%E7%83%AD%E8%AF%8D&sa=fyb_news"
         }
       ],
       "summary": "",
-      "url": "https://www.thepaper.cn/newsDetail_forward_33720253"
+      "url": "https://m.baidu.com/s?word=%E2%80%9CChina+Cool%E2%80%9D%E6%88%90%E6%B5%B7%E5%A4%96%E7%83%AD%E8%AF%8D&sa=fyb_news"
     },
     {
-      "id": "evt-44000000",
-      "title": "44 岁爸爸因叛逆期女儿说「有本事你去考个研究生」，在职一战上岸 985，怎样看待这种教育方式？",
+      "id": "evt-70000000",
+      "title": "感觉全东北都在等7号",
       "category": "society",
-      "hotScore": 0.675,
-      "freshness": 0.9998,
+      "hotScore": 0.52,
+      "freshness": 1,
       "crossSource": 0.6309,
-      "totalScore": 0.7592,
-      "sources": [
-        {
-          "channel": "zhihu",
-          "rank": 3,
-          "hot": 0,
-          "url": ""
-        }
-      ],
-      "summary": "",
-      "url": ""
-    },
-    {
-      "id": "evt-90000000",
-      "title": "李亚鹏向地铁吐血女孩捐99999元",
-      "category": "society",
-      "hotScore": 0.6375,
-      "freshness": 0.9998,
-      "crossSource": 0.6309,
-      "totalScore": 0.7442,
-      "sources": [
-        {
-          "channel": "toutiao",
-          "rank": 6,
-          "hot": 5666019,
-          "url": "https://www.toutiao.com/trending/7670496020695859238/"
-        }
-      ],
-      "summary": "",
-      "url": "https://www.toutiao.com/trending/7670496020695859238/"
-    },
-    {
-      "id": "evt-81000000",
-      "title": "中方回应日本广岛核爆81周年",
-      "category": "society",
-      "hotScore": 0.6,
-      "freshness": 0.9998,
-      "crossSource": 0.6309,
-      "totalScore": 0.7292,
+      "totalScore": 0.6973,
       "sources": [
         {
           "channel": "baidu",
-          "rank": 6,
+          "rank": 8,
           "hot": 0,
-          "url": "https://m.baidu.com/s?word=%E4%B8%AD%E6%96%B9%E5%9B%9E%E5%BA%94%E6%97%A5%E6%9C%AC%E5%B9%BF%E5%B2%9B%E6%A0%B8%E7%88%8681%E5%91%A8%E5%B9%B4&sa=fyb_news"
+          "url": "https://m.baidu.com/s?word=%E6%84%9F%E8%A7%89%E5%85%A8%E4%B8%9C%E5%8C%97%E9%83%BD%E5%9C%A8%E7%AD%897%E5%8F%B7&sa=fyb_news"
         }
       ],
       "summary": "",
-      "url": "https://m.baidu.com/s?word=%E4%B8%AD%E6%96%B9%E5%9B%9E%E5%BA%94%E6%97%A5%E6%9C%AC%E5%B9%BF%E5%B2%9B%E6%A0%B8%E7%88%8681%E5%91%A8%E5%B9%B4&sa=fyb_news"
+      "url": "https://m.baidu.com/s?word=%E6%84%9F%E8%A7%89%E5%85%A8%E4%B8%9C%E5%8C%97%E9%83%BD%E5%9C%A8%E7%AD%897%E5%8F%B7&sa=fyb_news"
     },
     {
-      "id": "evt-28000000",
-      "title": "村民2千万拆迁款被分掉8年后才知晓",
+      "id": "evt-ai000000",
+      "title": "“中式天庭”AI视频海外爆火",
       "category": "society",
-      "hotScore": 0.595,
-      "freshness": 0.9998,
+      "hotScore": 0.44,
+      "freshness": 1,
       "crossSource": 0.6309,
-      "totalScore": 0.7272,
+      "totalScore": 0.6653,
       "sources": [
         {
-          "channel": "toutiao",
-          "rank": 7,
-          "hot": 5126826,
-          "url": "https://www.toutiao.com/trending/7670830148002234394/"
-        }
-      ],
-      "summary": "",
-      "url": "https://www.toutiao.com/trending/7670830148002234394/"
-    },
-    {
-      "id": "evt-20000000",
-      "title": "网传吃 20 个饺子，等于吃下 6 到 7 个馒头，是真的吗？",
-      "category": "society",
-      "hotScore": 0.45,
-      "freshness": 0.9998,
-      "crossSource": 0.6309,
-      "totalScore": 0.6692,
-      "sources": [
-        {
-          "channel": "zhihu",
-          "rank": 9,
+          "channel": "baidu",
+          "rank": 10,
           "hot": 0,
-          "url": ""
+          "url": "https://m.baidu.com/s?word=%E2%80%9C%E4%B8%AD%E5%BC%8F%E5%A4%A9%E5%BA%AD%E2%80%9DAI%E8%A7%86%E9%A2%91%E6%B5%B7%E5%A4%96%E7%88%86%E7%81%AB&sa=fyb_news"
         }
       ],
       "summary": "",
-      "url": ""
+      "url": "https://m.baidu.com/s?word=%E2%80%9C%E4%B8%AD%E5%BC%8F%E5%A4%A9%E5%BA%AD%E2%80%9DAI%E8%A7%86%E9%A2%91%E6%B5%B7%E5%A4%96%E7%88%86%E7%81%AB&sa=fyb_news"
     }
   ]
 }
