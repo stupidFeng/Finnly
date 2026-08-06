@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-08-06T04:55:25.438Z",
+  "generatedAt": "2026-08-06T08:14:26.641Z",
   "fields": {
     "society": "社会",
     "economy": "经济",
@@ -8,94 +8,94 @@
   "feed": [
     {
       "id": "evt-00000000",
-      "title": "广东或将迎来“空调外机”",
+      "title": "伊朗总统：最高领袖决策过程遭人利用",
+      "category": "society",
+      "hotScore": 0.8075,
+      "freshness": 1,
+      "crossSource": 1,
+      "totalScore": 0.923,
+      "sources": [
+        {
+          "channel": "toutiao",
+          "rank": 2,
+          "hot": 7443636,
+          "url": "https://www.toutiao.com/trending/7670008339098750483/"
+        },
+        {
+          "channel": "baidu",
+          "rank": 8,
+          "hot": 0,
+          "url": "https://m.baidu.com/s?word=%E4%BC%8A%E6%9C%97%E6%80%BB%E7%BB%9F%EF%BC%9A%E6%9C%80%E9%AB%98%E9%A2%86%E8%A2%96%E5%86%B3%E7%AD%96%E8%BF%87%E7%A8%8B%E9%81%AD%E4%BA%BA%E5%88%A9%E7%94%A8&sa=fyb_news"
+        }
+      ],
+      "summary": "",
+      "url": "https://www.toutiao.com/trending/7670008339098750483/"
+    },
+    {
+      "id": "evt-80420000",
+      "title": "80后女柜员逆袭成4200亿银行副行长",
       "category": "society",
       "hotScore": 0.85,
-      "freshness": 0.9999,
-      "crossSource": 1,
-      "totalScore": 0.94,
+      "freshness": 1,
+      "crossSource": 0.6309,
+      "totalScore": 0.8293,
       "sources": [
         {
           "channel": "toutiao",
           "rank": 1,
-          "hot": 11249760,
-          "url": "https://www.toutiao.com/trending/7670513488922607635/"
-        },
-        {
-          "channel": "baidu",
-          "rank": 17,
-          "hot": 0,
-          "url": "https://m.baidu.com/s?word=%E5%B9%BF%E4%B8%9C%E6%88%96%E5%B0%86%E8%BF%8E%E6%9D%A5%E2%80%9C%E7%A9%BA%E8%B0%83%E5%A4%96%E6%9C%BA%E2%80%9D&sa=fyb_news"
+          "hot": 8226490,
+          "url": "https://www.toutiao.com/trending/7670734565728272447/"
         }
       ],
       "summary": "",
-      "url": "https://www.toutiao.com/trending/7670513488922607635/"
+      "url": "https://www.toutiao.com/trending/7670734565728272447/"
     },
     {
-      "id": "evt-bba00000",
-      "title": "BBA降价也卖不动",
+      "id": "evt-44000000",
+      "title": "44 岁爸爸因叛逆期女儿说「有本事你去考个研究生」，在职一战上岸 985，怎样看待这种教育方式？",
       "category": "society",
-      "hotScore": 0.72,
-      "freshness": 0.9999,
+      "hotScore": 0.7125,
+      "freshness": 1,
       "crossSource": 0.6309,
-      "totalScore": 0.7773,
+      "totalScore": 0.7743,
       "sources": [
         {
-          "channel": "baidu",
+          "channel": "zhihu",
+          "rank": 2,
+          "hot": 0,
+          "url": ""
+        }
+      ],
+      "summary": "",
+      "url": ""
+    },
+    {
+      "id": "evt-deepseek",
+      "title": "如何看待 DeepSeek 8 月 6 日公告称即将大幅度涨价？",
+      "category": "society",
+      "hotScore": 0.675,
+      "freshness": 1,
+      "crossSource": 0.6309,
+      "totalScore": 0.7593,
+      "sources": [
+        {
+          "channel": "zhihu",
           "rank": 3,
           "hot": 0,
-          "url": "https://m.baidu.com/s?word=BBA%E9%99%8D%E4%BB%B7%E4%B9%9F%E5%8D%96%E4%B8%8D%E5%8A%A8&sa=fyb_news"
+          "url": ""
         }
       ],
       "summary": "",
-      "url": "https://m.baidu.com/s?word=BBA%E9%99%8D%E4%BB%B7%E4%B9%9F%E5%8D%96%E4%B8%8D%E5%8A%A8&sa=fyb_news"
-    },
-    {
-      "id": "evt-z0000000",
-      "title": "西方Z世代为何开始“粉”中国",
-      "category": "society",
-      "hotScore": 0.68,
-      "freshness": 0.9999,
-      "crossSource": 0.6309,
-      "totalScore": 0.7613,
-      "sources": [
-        {
-          "channel": "baidu",
-          "rank": 4,
-          "hot": 0,
-          "url": "https://m.baidu.com/s?word=%E8%A5%BF%E6%96%B9Z%E4%B8%96%E4%BB%A3%E4%B8%BA%E4%BD%95%E5%BC%80%E5%A7%8B%E2%80%9C%E7%B2%89%E2%80%9D%E4%B8%AD%E5%9B%BD&sa=fyb_news"
-        }
-      ],
-      "summary": "",
-      "url": "https://m.baidu.com/s?word=%E8%A5%BF%E6%96%B9Z%E4%B8%96%E4%BB%A3%E4%B8%BA%E4%BD%95%E5%BC%80%E5%A7%8B%E2%80%9C%E7%B2%89%E2%80%9D%E4%B8%AD%E5%9B%BD&sa=fyb_news"
-    },
-    {
-      "id": "evt-19000000",
-      "title": "抢劫刺死19岁少女的死刑改死缓当事人自述：出狱11年间始终刻意躲避被害人家属",
-      "category": "society",
-      "hotScore": 0.68,
-      "freshness": 0.9999,
-      "crossSource": 0.6309,
-      "totalScore": 0.7613,
-      "sources": [
-        {
-          "channel": "thepaper",
-          "rank": 5,
-          "hot": 0,
-          "url": "https://www.thepaper.cn/newsDetail_forward_33722401"
-        }
-      ],
-      "summary": "",
-      "url": "https://www.thepaper.cn/newsDetail_forward_33722401"
+      "url": ""
     },
     {
       "id": "evt-10000000",
       "title": "如何看待尊界新车上市 1 小时大定 2115 台？订单热度能延续到交付阶段吗？",
       "category": "economy",
       "hotScore": 0.45,
-      "freshness": 0.9999,
+      "freshness": 1,
       "crossSource": 0.6309,
-      "totalScore": 0.6692,
+      "totalScore": 0.6693,
       "sources": [
         {
           "channel": "zhihu",
@@ -108,18 +108,56 @@
       "url": ""
     },
     {
+      "id": "evt-a0000000",
+      "title": "曝张一鸣下死命令：不依赖AI蒸馏技术",
+      "category": "society",
+      "hotScore": 0.64,
+      "freshness": 1,
+      "crossSource": 0.6309,
+      "totalScore": 0.7453,
+      "sources": [
+        {
+          "channel": "baidu",
+          "rank": 5,
+          "hot": 0,
+          "url": "https://m.baidu.com/s?word=%E6%9B%9D%E5%BC%A0%E4%B8%80%E9%B8%A3%E4%B8%8B%E6%AD%BB%E5%91%BD%E4%BB%A4%EF%BC%9A%E4%B8%8D%E4%BE%9D%E8%B5%96AI%E8%92%B8%E9%A6%8F%E6%8A%80%E6%9C%AF&sa=fyb_news"
+        }
+      ],
+      "summary": "",
+      "url": "https://m.baidu.com/s?word=%E6%9B%9D%E5%BC%A0%E4%B8%80%E9%B8%A3%E4%B8%8B%E6%AD%BB%E5%91%BD%E4%BB%A4%EF%BC%9A%E4%B8%8D%E4%BE%9D%E8%B5%96AI%E8%92%B8%E9%A6%8F%E6%8A%80%E6%9C%AF&sa=fyb_news"
+    },
+    {
+      "id": "evt-20000000",
+      "title": "网传吃 20 个饺子，等于吃下 6 到 7 个馒头，是真的吗？",
+      "category": "society",
+      "hotScore": 0.525,
+      "freshness": 1,
+      "crossSource": 0.6309,
+      "totalScore": 0.6993,
+      "sources": [
+        {
+          "channel": "zhihu",
+          "rank": 7,
+          "hot": 0,
+          "url": ""
+        }
+      ],
+      "summary": "",
+      "url": ""
+    },
+    {
       "id": "evt-90000000",
       "title": "李亚鹏向地铁吐血女孩捐99999元",
       "category": "society",
-      "hotScore": 0.68,
-      "freshness": 0.9999,
+      "hotScore": 0.51,
+      "freshness": 1,
       "crossSource": 0.6309,
-      "totalScore": 0.7612,
+      "totalScore": 0.6933,
       "sources": [
         {
           "channel": "toutiao",
-          "rank": 5,
-          "hot": 7540939,
+          "rank": 9,
+          "hot": 3696400,
           "url": "https://www.toutiao.com/trending/7670496020695859238/"
         }
       ],
@@ -127,118 +165,23 @@
       "url": "https://www.toutiao.com/trending/7670496020695859238/"
     },
     {
-      "id": "evt-44000000",
-      "title": "44 岁爸爸因叛逆期女儿说「有本事你去考个研究生」，在职一战上岸 985，怎样看待这种教育方式？",
+      "id": "evt-40000000",
+      "title": "韩国“超高龄社会”切面：40℃国家灾难状态下，2400名首尔老人还在巷子里收废纸",
       "category": "society",
-      "hotScore": 0.675,
-      "freshness": 0.9999,
+      "hotScore": 0.51,
+      "freshness": 1,
       "crossSource": 0.6309,
-      "totalScore": 0.7592,
+      "totalScore": 0.6933,
       "sources": [
         {
-          "channel": "zhihu",
-          "rank": 3,
+          "channel": "thepaper",
+          "rank": 9,
           "hot": 0,
-          "url": ""
+          "url": "https://www.thepaper.cn/newsDetail_forward_33720253"
         }
       ],
       "summary": "",
-      "url": ""
-    },
-    {
-      "id": "evt-deepseek",
-      "title": "如何看待 DeepSeek 8 月 6 日公告称即将大幅度涨价？",
-      "category": "society",
-      "hotScore": 0.6375,
-      "freshness": 0.9999,
-      "crossSource": 0.6309,
-      "totalScore": 0.7442,
-      "sources": [
-        {
-          "channel": "zhihu",
-          "rank": 4,
-          "hot": 0,
-          "url": ""
-        }
-      ],
-      "summary": "",
-      "url": ""
-    },
-    {
-      "id": "evt-deepseekapi",
-      "title": "DeepSeek API即将大幅涨价",
-      "category": "society",
-      "hotScore": 0.6,
-      "freshness": 0.9999,
-      "crossSource": 0.6309,
-      "totalScore": 0.7293,
-      "sources": [
-        {
-          "channel": "baidu",
-          "rank": 6,
-          "hot": 0,
-          "url": "https://m.baidu.com/s?word=DeepSeek+API%E5%8D%B3%E5%B0%86%E5%A4%A7%E5%B9%85%E6%B6%A8%E4%BB%B7&sa=fyb_news"
-        }
-      ],
-      "summary": "",
-      "url": "https://m.baidu.com/s?word=DeepSeek+API%E5%8D%B3%E5%B0%86%E5%A4%A7%E5%B9%85%E6%B6%A8%E4%BB%B7&sa=fyb_news"
-    },
-    {
-      "id": "evt-20000000",
-      "title": "网传吃 20 个饺子，等于吃下 6 到 7 个馒头，是真的吗？",
-      "category": "society",
-      "hotScore": 0.6,
-      "freshness": 0.9999,
-      "crossSource": 0.6309,
-      "totalScore": 0.7292,
-      "sources": [
-        {
-          "channel": "zhihu",
-          "rank": 5,
-          "hot": 0,
-          "url": ""
-        }
-      ],
-      "summary": "",
-      "url": ""
-    },
-    {
-      "id": "evt-b1000000",
-      "title": "地铁被爆改成商场B1层",
-      "category": "society",
-      "hotScore": 0.52,
-      "freshness": 0.9999,
-      "crossSource": 0.6309,
-      "totalScore": 0.6973,
-      "sources": [
-        {
-          "channel": "baidu",
-          "rank": 8,
-          "hot": 0,
-          "url": "https://m.baidu.com/s?word=%E5%9C%B0%E9%93%81%E8%A2%AB%E7%88%86%E6%94%B9%E6%88%90%E5%95%86%E5%9C%BAB1%E5%B1%82&sa=fyb_news"
-        }
-      ],
-      "summary": "",
-      "url": "https://m.baidu.com/s?word=%E5%9C%B0%E9%93%81%E8%A2%AB%E7%88%86%E6%94%B9%E6%88%90%E5%95%86%E5%9C%BAB1%E5%B1%82&sa=fyb_news"
-    },
-    {
-      "id": "evt-19990000",
-      "title": "1999 年云南「山村小卖部抢劫杀人案」被告死刑改判死缓，被害人家属十年后才知情，反映了哪些问题？",
-      "category": "society",
-      "hotScore": 0.4875,
-      "freshness": 0.9999,
-      "crossSource": 0.6309,
-      "totalScore": 0.6842,
-      "sources": [
-        {
-          "channel": "zhihu",
-          "rank": 8,
-          "hot": 0,
-          "url": ""
-        }
-      ],
-      "summary": "",
-      "url": ""
+      "url": "https://www.thepaper.cn/newsDetail_forward_33720253"
     }
   ]
 }
