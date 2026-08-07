@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-08-07T08:45:37.768Z",
+  "generatedAt": "2026-08-07T10:42:00.615Z",
   "fields": {
     "society": "社会",
     "economy": "经济",
@@ -8,22 +8,28 @@
   "feed": [
     {
       "id": "evt-00000000",
-      "title": "李云泽严重违纪违法",
+      "title": "北京暴雨",
       "category": "society",
       "hotScore": 0.85,
-      "freshness": 0.9999,
+      "freshness": 1,
       "crossSource": 1,
       "totalScore": 0.94,
       "sources": [
         {
           "channel": "toutiao",
           "rank": 1,
-          "hot": 13001943,
-          "url": "https://www.toutiao.com/trending/7671202287129202217/"
+          "hot": 15972233,
+          "url": "https://www.toutiao.com/trending/7670777290070507583/"
+        },
+        {
+          "channel": "baidu",
+          "rank": 6,
+          "hot": 0,
+          "url": "https://m.baidu.com/s?word=%E5%8C%97%E4%BA%AC%E6%9A%B4%E9%9B%A8&sa=fyb_news"
         }
       ],
       "summary": "",
-      "url": "https://www.toutiao.com/trending/7671202287129202217/"
+      "url": "https://www.toutiao.com/trending/7670777290070507583/"
     },
     {
       "id": "evt-15080000",
@@ -31,8 +37,8 @@
       "category": "society",
       "hotScore": 0.8075,
       "freshness": 1,
-      "crossSource": 1,
-      "totalScore": 0.923,
+      "crossSource": 0.6309,
+      "totalScore": 0.8123,
       "sources": [
         {
           "channel": "thepaper",
@@ -45,13 +51,89 @@
       "url": "https://www.thepaper.cn/newsDetail_forward_33728179"
     },
     {
+      "id": "evt-70000000",
+      "title": "如何看待韩媒曝韩国足协 7 场比赛性贿赂 20 名裁判，涉中韩国奥战 + 世预赛？暴露出哪些问题？",
+      "category": "society",
+      "hotScore": 0.75,
+      "freshness": 1,
+      "crossSource": 0.6309,
+      "totalScore": 0.7893,
+      "sources": [
+        {
+          "channel": "zhihu",
+          "rank": 1,
+          "hot": 0,
+          "url": ""
+        }
+      ],
+      "summary": "",
+      "url": ""
+    },
+    {
+      "id": "evt-90000000",
+      "title": "女儿卖房定价9000被母亲7500签约",
+      "category": "society",
+      "hotScore": 0.7225,
+      "freshness": 1,
+      "crossSource": 0.6309,
+      "totalScore": 0.7783,
+      "sources": [
+        {
+          "channel": "toutiao",
+          "rank": 4,
+          "hot": 11832521,
+          "url": "https://www.toutiao.com/trending/7671197679598501942/"
+        }
+      ],
+      "summary": "",
+      "url": "https://www.toutiao.com/trending/7671197679598501942/"
+    },
+    {
+      "id": "evt-30000000",
+      "title": "我国货物贸易进出口超30万亿元",
+      "category": "economy",
+      "hotScore": 0.765,
+      "freshness": 1,
+      "crossSource": 0.6309,
+      "totalScore": 0.7953,
+      "sources": [
+        {
+          "channel": "toutiao",
+          "rank": 3,
+          "hot": 13076958,
+          "url": "https://www.toutiao.com/trending/7671186471851789874/"
+        }
+      ],
+      "summary": "",
+      "url": "https://www.toutiao.com/trending/7671186471851789874/"
+    },
+    {
+      "id": "evt-40000000",
+      "title": "新生儿入住月子会所 4 天后颅内出血进 ICU，监控现护理人员拍打、吼叫行为，相关方应承担怎样责任？",
+      "category": "society",
+      "hotScore": 0.7125,
+      "freshness": 1,
+      "crossSource": 0.6309,
+      "totalScore": 0.7743,
+      "sources": [
+        {
+          "channel": "zhihu",
+          "rank": 2,
+          "hot": 0,
+          "url": ""
+        }
+      ],
+      "summary": "",
+      "url": ""
+    },
+    {
       "id": "evt-a4000000",
       "title": "比A4纸还薄！中国高端钢材密集突破",
       "category": "society",
       "hotScore": 0.68,
       "freshness": 1,
-      "crossSource": 1,
-      "totalScore": 0.872,
+      "crossSource": 0.6309,
+      "totalScore": 0.7613,
       "sources": [
         {
           "channel": "baidu",
@@ -64,70 +146,32 @@
       "url": "https://m.baidu.com/s?word=%E6%AF%94A4%E7%BA%B8%E8%BF%98%E8%96%84%EF%BC%81%E4%B8%AD%E5%9B%BD%E9%AB%98%E7%AB%AF%E9%92%A2%E6%9D%90%E5%AF%86%E9%9B%86%E7%AA%81%E7%A0%B4&sa=fyb_news"
     },
     {
-      "id": "evt-84000000",
-      "title": "网红峰哥8月份三天“回血”46万",
+      "id": "evt-u1700000",
+      "title": "U17国足三连胜晋级明日之星半决赛，定位球成最大亮点",
       "category": "society",
       "hotScore": 0.68,
-      "freshness": 0.9999,
-      "crossSource": 1,
-      "totalScore": 0.872,
-      "sources": [
-        {
-          "channel": "toutiao",
-          "rank": 5,
-          "hot": 8715463,
-          "url": "https://www.toutiao.com/trending/7670284781363707967/"
-        }
-      ],
-      "summary": "",
-      "url": "https://www.toutiao.com/trending/7670284781363707967/"
-    },
-    {
-      "id": "evt-40000000",
-      "title": "新生儿入住月子会所 4 天后颅内出血进 ICU，监控现护理人员拍打、吼叫行为，相关方应承担怎样责任？",
-      "category": "society",
-      "hotScore": 0.675,
       "freshness": 1,
-      "crossSource": 1,
-      "totalScore": 0.87,
+      "crossSource": 0.6309,
+      "totalScore": 0.7613,
       "sources": [
         {
-          "channel": "zhihu",
-          "rank": 3,
+          "channel": "thepaper",
+          "rank": 5,
           "hot": 0,
-          "url": ""
+          "url": "https://www.thepaper.cn/newsDetail_forward_33733761"
         }
       ],
       "summary": "",
-      "url": ""
+      "url": "https://www.thepaper.cn/newsDetail_forward_33733761"
     },
     {
       "id": "evt-10000000",
-      "title": "官方通报教师招聘笔试前13名被淘汰",
-      "category": "society",
-      "hotScore": 0.6375,
-      "freshness": 0.9999,
-      "crossSource": 1,
-      "totalScore": 0.855,
-      "sources": [
-        {
-          "channel": "toutiao",
-          "rank": 6,
-          "hot": 7886077,
-          "url": "https://www.toutiao.com/trending/7671138775929471014/"
-        }
-      ],
-      "summary": "",
-      "url": "https://www.toutiao.com/trending/7671138775929471014/"
-    },
-    {
-      "id": "evt-70000000",
-      "title": "如何看待韩媒曝韩国足协 7 场比赛性贿赂 20 名裁判，涉中韩国奥战 + 世预赛？暴露出哪些问题？",
+      "title": "1 岁宝宝碰坏纸巾盒被三亚酒店索赔 924 元，采购价仅 462 元酒店索赔超 900 合理吗？",
       "category": "society",
       "hotScore": 0.6375,
       "freshness": 1,
-      "crossSource": 1,
-      "totalScore": 0.855,
+      "crossSource": 0.6309,
+      "totalScore": 0.7443,
       "sources": [
         {
           "channel": "zhihu",
@@ -140,118 +184,118 @@
       "url": ""
     },
     {
-      "id": "evt-14000000",
-      "title": "东航新规：提前14天可免费退改签",
-      "category": "society",
-      "hotScore": 0.6,
-      "freshness": 1,
-      "crossSource": 1,
-      "totalScore": 0.84,
-      "sources": [
-        {
-          "channel": "baidu",
-          "rank": 6,
-          "hot": 0,
-          "url": "https://m.baidu.com/s?word=%E4%B8%9C%E8%88%AA%E6%96%B0%E8%A7%84%EF%BC%9A%E6%8F%90%E5%89%8D14%E5%A4%A9%E5%8F%AF%E5%85%8D%E8%B4%B9%E9%80%80%E6%94%B9%E7%AD%BE&sa=fyb_news"
-        }
-      ],
-      "summary": "",
-      "url": "https://m.baidu.com/s?word=%E4%B8%9C%E8%88%AA%E6%96%B0%E8%A7%84%EF%BC%9A%E6%8F%90%E5%89%8D14%E5%A4%A9%E5%8F%AF%E5%85%8D%E8%B4%B9%E9%80%80%E6%94%B9%E7%AD%BE&sa=fyb_news"
-    },
-    {
-      "id": "evt-u1700000",
-      "title": "U17国足三连胜晋级明日之星半决赛，定位球成最大亮点",
+      "id": "evt-23000000",
+      "title": "23岁博士确诊胃癌晚期",
       "category": "society",
       "hotScore": 0.595,
       "freshness": 1,
-      "crossSource": 1,
-      "totalScore": 0.838,
-      "sources": [
-        {
-          "channel": "thepaper",
-          "rank": 7,
-          "hot": 0,
-          "url": "https://www.thepaper.cn/newsDetail_forward_33733761"
-        }
-      ],
-      "summary": "",
-      "url": "https://www.thepaper.cn/newsDetail_forward_33733761"
-    },
-    {
-      "id": "evt-30000000",
-      "title": "300万元行贿、“定制”标书、现场厕所协商，河南某医院2.33亿元工程串标案细节披露",
-      "category": "society",
-      "hotScore": 0.5525,
-      "freshness": 1,
-      "crossSource": 1,
-      "totalScore": 0.821,
-      "sources": [
-        {
-          "channel": "thepaper",
-          "rank": 8,
-          "hot": 0,
-          "url": "https://www.thepaper.cn/newsDetail_forward_33685397"
-        }
-      ],
-      "summary": "",
-      "url": "https://www.thepaper.cn/newsDetail_forward_33685397"
-    },
-    {
-      "id": "evt-11000000",
-      "title": "女孩南太行山失联超11天 直击搜寻",
-      "category": "society",
-      "hotScore": 0.51,
-      "freshness": 0.9999,
-      "crossSource": 1,
-      "totalScore": 0.804,
+      "crossSource": 0.6309,
+      "totalScore": 0.7273,
       "sources": [
         {
           "channel": "toutiao",
-          "rank": 9,
-          "hot": 5842150,
-          "url": "https://www.toutiao.com/trending/7670726266027163674/"
+          "rank": 7,
+          "hot": 8765747,
+          "url": "https://www.toutiao.com/trending/7671006022714081334/"
         }
       ],
       "summary": "",
-      "url": "https://www.toutiao.com/trending/7670726266027163674/"
+      "url": "https://www.toutiao.com/trending/7671006022714081334/"
     },
     {
-      "id": "evt-ai110000",
-      "title": "汪峰公司因AI从1100人减到400人",
+      "id": "evt-80000000",
+      "title": "我在夏夜麦霸活动只唱了88分？",
+      "category": "society",
+      "hotScore": 0.52,
+      "freshness": 1,
+      "crossSource": 0.6309,
+      "totalScore": 0.6973,
+      "sources": [
+        {
+          "channel": "baidu",
+          "rank": 8,
+          "hot": 0,
+          "url": "https://m.baidu.com/s?word=%E6%88%91%E5%9C%A8%E5%A4%8F%E5%A4%9C%E9%BA%A6%E9%9C%B8%E6%B4%BB%E5%8A%A8%E5%8F%AA%E5%94%B1%E4%BA%8688%E5%88%86%EF%BC%9F&sa=fyb_news"
+        }
+      ],
+      "summary": "",
+      "url": "https://m.baidu.com/s?word=%E6%88%91%E5%9C%A8%E5%A4%8F%E5%A4%9C%E9%BA%A6%E9%9C%B8%E6%B4%BB%E5%8A%A8%E5%8F%AA%E5%94%B1%E4%BA%8688%E5%88%86%EF%BC%9F&sa=fyb_news"
+    },
+    {
+      "id": "evt-14000000",
+      "title": "东航国内客票提前14天可免费退改，其他航司如何规定？",
+      "category": "society",
+      "hotScore": 0.51,
+      "freshness": 1,
+      "crossSource": 0.6309,
+      "totalScore": 0.6933,
+      "sources": [
+        {
+          "channel": "thepaper",
+          "rank": 9,
+          "hot": 0,
+          "url": "https://www.thepaper.cn/newsDetail_forward_33738317"
+        }
+      ],
+      "summary": "",
+      "url": "https://www.thepaper.cn/newsDetail_forward_33738317"
+    },
+    {
+      "id": "evt-03000000",
+      "title": "向鹏0-3不敌张本智和",
       "category": "society",
       "hotScore": 0.48,
       "freshness": 1,
-      "crossSource": 1,
-      "totalScore": 0.792,
+      "crossSource": 0.6309,
+      "totalScore": 0.6813,
       "sources": [
         {
           "channel": "baidu",
           "rank": 9,
           "hot": 0,
-          "url": "https://m.baidu.com/s?word=%E6%B1%AA%E5%B3%B0%E5%85%AC%E5%8F%B8%E5%9B%A0AI%E4%BB%8E1100%E4%BA%BA%E5%87%8F%E5%88%B0400%E4%BA%BA&sa=fyb_news"
+          "url": "https://m.baidu.com/s?word=%E5%90%91%E9%B9%8F0-3%E4%B8%8D%E6%95%8C%E5%BC%A0%E6%9C%AC%E6%99%BA%E5%92%8C&sa=fyb_news"
         }
       ],
       "summary": "",
-      "url": "https://m.baidu.com/s?word=%E6%B1%AA%E5%B3%B0%E5%85%AC%E5%8F%B8%E5%9B%A0AI%E4%BB%8E1100%E4%BA%BA%E5%87%8F%E5%88%B0400%E4%BA%BA&sa=fyb_news"
+      "url": "https://m.baidu.com/s?word=%E5%90%91%E9%B9%8F0-3%E4%B8%8D%E6%95%8C%E5%BC%A0%E6%9C%AC%E6%99%BA%E5%92%8C&sa=fyb_news"
     },
     {
       "id": "evt-73100000",
       "title": "从731部队交易到海外实验室网络",
       "category": "society",
       "hotScore": 0.4675,
-      "freshness": 0.9999,
-      "crossSource": 1,
-      "totalScore": 0.787,
+      "freshness": 1,
+      "crossSource": 0.6309,
+      "totalScore": 0.6763,
       "sources": [
         {
           "channel": "toutiao",
           "rank": 10,
-          "hot": 5286195,
+          "hot": 6493825,
           "url": "https://www.toutiao.com/trending/7671098096596025385/"
         }
       ],
       "summary": "",
       "url": "https://www.toutiao.com/trending/7671098096596025385/"
+    },
+    {
+      "id": "evt-gpt56lun",
+      "title": "如何评价 GPT-5.6Luna 免费不限量，后续基础大模型都会走向免费吗？",
+      "category": "society",
+      "hotScore": 0.45,
+      "freshness": 1,
+      "crossSource": 0.6309,
+      "totalScore": 0.6693,
+      "sources": [
+        {
+          "channel": "zhihu",
+          "rank": 9,
+          "hot": 0,
+          "url": ""
+        }
+      ],
+      "summary": "",
+      "url": ""
     }
   ]
 }
