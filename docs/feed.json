@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-08-07T20:29:20.153Z",
+  "generatedAt": "2026-08-07T22:24:44.074Z",
   "fields": {
     "society": "社会",
     "economy": "经济",
@@ -18,7 +18,7 @@
         {
           "channel": "toutiao",
           "rank": 1,
-          "hot": 20590196,
+          "hot": 21811724,
           "url": "https://www.toutiao.com/trending/7670846466219622426/"
         }
       ],
@@ -26,8 +26,8 @@
       "url": "https://www.toutiao.com/trending/7670846466219622426/"
     },
     {
-      "id": "evt-20260000",
-      "title": "河南省2026年“三支一扶”笔试成绩作废，将重新组织笔试",
+      "id": "evt-20000000",
+      "title": "2名小孩玩手机低头幅度近乎折叠",
       "category": "society",
       "hotScore": 0.8075,
       "freshness": 1,
@@ -35,18 +35,18 @@
       "totalScore": 0.8123,
       "sources": [
         {
-          "channel": "thepaper",
+          "channel": "toutiao",
           "rank": 2,
-          "hot": 0,
-          "url": "https://www.thepaper.cn/newsDetail_forward_33738930"
+          "hot": 19736064,
+          "url": "https://www.toutiao.com/trending/7670846175725322294/"
         }
       ],
       "summary": "",
-      "url": "https://www.thepaper.cn/newsDetail_forward_33738930"
+      "url": "https://www.toutiao.com/trending/7670846175725322294/"
     },
     {
-      "id": "evt-14000000",
-      "title": "东航国内客票提前14天可免费退改，其他航司如何规定？",
+      "id": "evt-20260000",
+      "title": "河南省2026年“三支一扶”笔试成绩作废，将重新组织笔试",
       "category": "society",
       "hotScore": 0.765,
       "freshness": 1,
@@ -57,15 +57,15 @@
           "channel": "thepaper",
           "rank": 3,
           "hot": 0,
-          "url": "https://www.thepaper.cn/newsDetail_forward_33738317"
+          "url": "https://www.thepaper.cn/newsDetail_forward_33738930"
         }
       ],
       "summary": "",
-      "url": "https://www.thepaper.cn/newsDetail_forward_33738317"
+      "url": "https://www.thepaper.cn/newsDetail_forward_33738930"
     },
     {
-      "id": "evt-20000000",
-      "title": "2名小孩玩手机低头幅度近乎折叠",
+      "id": "evt-98000000",
+      "title": "越来越多高分考生放弃985选警校",
       "category": "society",
       "hotScore": 0.7225,
       "freshness": 1,
@@ -75,12 +75,12 @@
         {
           "channel": "toutiao",
           "rank": 4,
-          "hot": 15253592,
-          "url": "https://www.toutiao.com/trending/7670846175725322294/"
+          "hot": 16158522,
+          "url": "https://www.toutiao.com/trending/7670392664409899058/"
         }
       ],
       "summary": "",
-      "url": "https://www.toutiao.com/trending/7670846175725322294/"
+      "url": "https://www.toutiao.com/trending/7670392664409899058/"
     },
     {
       "id": "evt-24000000",
@@ -102,6 +102,44 @@
       "url": "https://m.baidu.com/s?word=%E5%8F%B0%E9%A3%8E%E7%99%BD%E6%B5%B7%E8%B1%9A%E5%B7%B2%E8%BF%9B%E5%85%A524%E5%B0%8F%E6%97%B6%E8%AD%A6%E6%88%92%E7%BA%BF&sa=fyb_news"
     },
     {
+      "id": "evt-90000000",
+      "title": "女儿卖房定价9000被母亲7500签约",
+      "category": "society",
+      "hotScore": 0.68,
+      "freshness": 1,
+      "crossSource": 0.6309,
+      "totalScore": 0.7613,
+      "sources": [
+        {
+          "channel": "toutiao",
+          "rank": 5,
+          "hot": 14620835,
+          "url": "https://www.toutiao.com/trending/7671197679598501942/"
+        }
+      ],
+      "summary": "",
+      "url": "https://www.toutiao.com/trending/7671197679598501942/"
+    },
+    {
+      "id": "evt-14000000",
+      "title": "东航国内客票提前14天可免费退改，其他航司如何规定？",
+      "category": "society",
+      "hotScore": 0.68,
+      "freshness": 1,
+      "crossSource": 0.6309,
+      "totalScore": 0.7613,
+      "sources": [
+        {
+          "channel": "thepaper",
+          "rank": 5,
+          "hot": 0,
+          "url": "https://www.thepaper.cn/newsDetail_forward_33738317"
+        }
+      ],
+      "summary": "",
+      "url": "https://www.thepaper.cn/newsDetail_forward_33738317"
+    },
+    {
       "id": "evt-38000000",
       "title": "云南发现眼镜王蛇一家38口",
       "category": "society",
@@ -113,31 +151,12 @@
         {
           "channel": "toutiao",
           "rank": 6,
-          "hot": 12488585,
+          "hot": 13229479,
           "url": "https://www.toutiao.com/trending/7670698699731337270/"
         }
       ],
       "summary": "",
       "url": "https://www.toutiao.com/trending/7670698699731337270/"
-    },
-    {
-      "id": "evt-u1700000",
-      "title": "U17国足三连胜晋级明日之星半决赛，定位球成最大亮点",
-      "category": "society",
-      "hotScore": 0.6375,
-      "freshness": 1,
-      "crossSource": 0.6309,
-      "totalScore": 0.7443,
-      "sources": [
-        {
-          "channel": "thepaper",
-          "rank": 6,
-          "hot": 0,
-          "url": "https://www.thepaper.cn/newsDetail_forward_33733761"
-        }
-      ],
-      "summary": "",
-      "url": "https://www.thepaper.cn/newsDetail_forward_33733761"
     },
     {
       "id": "evt-40000000",
@@ -159,8 +178,8 @@
       "url": "https://m.baidu.com/s?word=%E6%8B%BC%E8%B1%86%E6%9C%89%E5%A4%9A%E7%81%AB+%E4%B8%80%E5%85%AC%E9%87%8C%E5%86%85%E8%83%BD%E6%9C%8940%E5%AE%B6%E5%BA%97&sa=fyb_news"
     },
     {
-      "id": "evt-90000000",
-      "title": "女儿卖房定价9000被母亲7500签约",
+      "id": "evt-u1700000",
+      "title": "U17国足三连胜晋级明日之星半决赛，定位球成最大亮点",
       "category": "society",
       "hotScore": 0.595,
       "freshness": 1,
@@ -168,52 +187,33 @@
       "totalScore": 0.7273,
       "sources": [
         {
-          "channel": "toutiao",
+          "channel": "thepaper",
           "rank": 7,
-          "hot": 11300139,
-          "url": "https://www.toutiao.com/trending/7671197679598501942/"
+          "hot": 0,
+          "url": "https://www.thepaper.cn/newsDetail_forward_33733761"
         }
       ],
       "summary": "",
-      "url": "https://www.toutiao.com/trending/7671197679598501942/"
+      "url": "https://www.thepaper.cn/newsDetail_forward_33733761"
     },
     {
       "id": "evt-30000000",
       "title": "300万元行贿、“定制”标书、现场厕所协商，河南某医院2.33亿元工程串标案细节披露",
       "category": "society",
-      "hotScore": 0.5525,
+      "hotScore": 0.51,
       "freshness": 1,
       "crossSource": 0.6309,
-      "totalScore": 0.7103,
+      "totalScore": 0.6933,
       "sources": [
         {
           "channel": "thepaper",
-          "rank": 8,
+          "rank": 9,
           "hot": 0,
           "url": "https://www.thepaper.cn/newsDetail_forward_33685397"
         }
       ],
       "summary": "",
       "url": "https://www.thepaper.cn/newsDetail_forward_33685397"
-    },
-    {
-      "id": "evt-98000000",
-      "title": "越来越多高分考生放弃985选警校",
-      "category": "society",
-      "hotScore": 0.4675,
-      "freshness": 1,
-      "crossSource": 0.6309,
-      "totalScore": 0.6763,
-      "sources": [
-        {
-          "channel": "toutiao",
-          "rank": 10,
-          "hot": 8371349,
-          "url": "https://www.toutiao.com/trending/7670392664409899058/"
-        }
-      ],
-      "summary": "",
-      "url": "https://www.toutiao.com/trending/7670392664409899058/"
     }
   ]
 }
