@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-08-07T12:39:09.583Z",
+  "generatedAt": "2026-08-07T14:44:31.435Z",
   "fields": {
     "society": "社会",
     "economy": "经济",
@@ -7,48 +7,92 @@
   },
   "feed": [
     {
-      "id": "evt-00000000",
-      "title": "河南三支一扶笔试成绩作废 将重考",
+      "id": "evt-34000000",
+      "title": "北京公积金最高可贷340万",
       "category": "society",
-      "hotScore": 0.64,
-      "freshness": 1,
+      "hotScore": 0.85,
+      "freshness": 0.9999,
       "crossSource": 1,
-      "totalScore": 0.856,
+      "totalScore": 0.94,
       "sources": [
         {
           "channel": "toutiao",
-          "rank": 7,
-          "hot": 8628508,
-          "url": "https://www.toutiao.com/trending/7670910281817227300/"
+          "rank": 1,
+          "hot": 19593632,
+          "url": "https://www.toutiao.com/trending/7670568325163794468/"
         },
         {
           "channel": "baidu",
-          "rank": 5,
+          "rank": 13,
           "hot": 0,
-          "url": "https://m.baidu.com/s?word=%E6%B2%B3%E5%8D%97%E4%B8%89%E6%94%AF%E4%B8%80%E6%89%B6%E7%AC%94%E8%AF%95%E6%88%90%E7%BB%A9%E4%BD%9C%E5%BA%9F+%E5%B0%86%E9%87%8D%E8%80%83&sa=fyb_news"
+          "url": "https://m.baidu.com/s?word=%E5%8C%97%E4%BA%AC%E5%85%AC%E7%A7%AF%E9%87%91%E6%9C%80%E9%AB%98%E5%8F%AF%E8%B4%B7340%E4%B8%87&sa=fyb_news"
         }
       ],
       "summary": "",
-      "url": "https://www.toutiao.com/trending/7670910281817227300/"
+      "url": "https://www.toutiao.com/trending/7670568325163794468/"
     },
     {
-      "id": "evt-49000000",
-      "title": "四川宜宾市高县4.9级地震致1人死亡",
+      "id": "evt-u1700000",
+      "title": "U17国足三连胜晋级明日之星半决赛",
       "category": "society",
-      "hotScore": 0.76,
-      "freshness": 1,
-      "crossSource": 0.6309,
-      "totalScore": 0.7933,
+      "hotScore": 0.68,
+      "freshness": 0.9999,
+      "crossSource": 1,
+      "totalScore": 0.872,
       "sources": [
         {
-          "channel": "baidu",
-          "rank": 2,
+          "channel": "toutiao",
+          "rank": 14,
+          "hot": 5339887,
+          "url": "https://www.toutiao.com/trending/7670791476876820486/"
+        },
+        {
+          "channel": "thepaper",
+          "rank": 5,
           "hot": 0,
-          "url": "https://m.baidu.com/s?word=%E5%9B%9B%E5%B7%9D%E5%AE%9C%E5%AE%BE%E5%B8%82%E9%AB%98%E5%8E%BF4.9%E7%BA%A7%E5%9C%B0%E9%9C%87%E8%87%B41%E4%BA%BA%E6%AD%BB%E4%BA%A1&sa=fyb_news"
+          "url": "https://www.thepaper.cn/newsDetail_forward_33733761"
         }
       ],
       "summary": "",
-      "url": "https://m.baidu.com/s?word=%E5%9B%9B%E5%B7%9D%E5%AE%9C%E5%AE%BE%E5%B8%82%E9%AB%98%E5%8E%BF4.9%E7%BA%A7%E5%9C%B0%E9%9C%87%E8%87%B41%E4%BA%BA%E6%AD%BB%E4%BA%A1&sa=fyb_news"
+      "url": "https://www.toutiao.com/trending/7670791476876820486/"
+    },
+    {
+      "id": "evt-00000000",
+      "title": "泸溪河发布“桃酥现金属牙冠”调查结论，称消费者已澄清所发视频不属实",
+      "category": "society",
+      "hotScore": 0.85,
+      "freshness": 1,
+      "crossSource": 0.6309,
+      "totalScore": 0.8293,
+      "sources": [
+        {
+          "channel": "thepaper",
+          "rank": 1,
+          "hot": 0,
+          "url": "https://www.thepaper.cn/newsDetail_forward_33736078"
+        }
+      ],
+      "summary": "",
+      "url": "https://www.thepaper.cn/newsDetail_forward_33736078"
+    },
+    {
+      "id": "evt-14000000",
+      "title": "东航国内客票提前14天可免费退改，其他航司如何规定？",
+      "category": "society",
+      "hotScore": 0.8075,
+      "freshness": 1,
+      "crossSource": 0.6309,
+      "totalScore": 0.8123,
+      "sources": [
+        {
+          "channel": "thepaper",
+          "rank": 2,
+          "hot": 0,
+          "url": "https://www.thepaper.cn/newsDetail_forward_33738317"
+        }
+      ],
+      "summary": "",
+      "url": "https://www.thepaper.cn/newsDetail_forward_33738317"
     },
     {
       "id": "evt-70000000",
@@ -70,8 +114,8 @@
       "url": ""
     },
     {
-      "id": "evt-14000000",
-      "title": "东航国内客票提前14天可免费退改，其他航司如何规定？",
+      "id": "evt-20260000",
+      "title": "河南省2026年“三支一扶”笔试成绩作废，将重新组织笔试",
       "category": "society",
       "hotScore": 0.7225,
       "freshness": 1,
@@ -82,119 +126,24 @@
           "channel": "thepaper",
           "rank": 4,
           "hot": 0,
-          "url": "https://www.thepaper.cn/newsDetail_forward_33738317"
+          "url": "https://www.thepaper.cn/newsDetail_forward_33738930"
         }
       ],
       "summary": "",
-      "url": "https://www.thepaper.cn/newsDetail_forward_33738317"
-    },
-    {
-      "id": "evt-40000000",
-      "title": "“今天得有40℃了吧 为啥还不预警”",
-      "category": "society",
-      "hotScore": 0.72,
-      "freshness": 1,
-      "crossSource": 0.6309,
-      "totalScore": 0.7773,
-      "sources": [
-        {
-          "channel": "baidu",
-          "rank": 3,
-          "hot": 0,
-          "url": "https://m.baidu.com/s?word=%E2%80%9C%E4%BB%8A%E5%A4%A9%E5%BE%97%E6%9C%8940%E2%84%83%E4%BA%86%E5%90%A7+%E4%B8%BA%E5%95%A5%E8%BF%98%E4%B8%8D%E9%A2%84%E8%AD%A6%E2%80%9D&sa=fyb_news"
-        }
-      ],
-      "summary": "",
-      "url": "https://m.baidu.com/s?word=%E2%80%9C%E4%BB%8A%E5%A4%A9%E5%BE%97%E6%9C%8940%E2%84%83%E4%BA%86%E5%90%A7+%E4%B8%BA%E5%95%A5%E8%BF%98%E4%B8%8D%E9%A2%84%E8%AD%A6%E2%80%9D&sa=fyb_news"
-    },
-    {
-      "id": "evt-u1700000",
-      "title": "U17国足三连胜晋级明日之星半决赛，定位球成最大亮点",
-      "category": "society",
-      "hotScore": 0.68,
-      "freshness": 1,
-      "crossSource": 0.6309,
-      "totalScore": 0.7613,
-      "sources": [
-        {
-          "channel": "thepaper",
-          "rank": 5,
-          "hot": 0,
-          "url": "https://www.thepaper.cn/newsDetail_forward_33733761"
-        }
-      ],
-      "summary": "",
-      "url": "https://www.thepaper.cn/newsDetail_forward_33733761"
-    },
-    {
-      "id": "evt-90000000",
-      "title": "女儿卖房定价9000被母亲7500签约",
-      "category": "society",
-      "hotScore": 0.6375,
-      "freshness": 1,
-      "crossSource": 0.6309,
-      "totalScore": 0.7443,
-      "sources": [
-        {
-          "channel": "toutiao",
-          "rank": 6,
-          "hot": 9535976,
-          "url": "https://www.toutiao.com/trending/7671197679598501942/"
-        }
-      ],
-      "summary": "",
-      "url": "https://www.toutiao.com/trending/7671197679598501942/"
-    },
-    {
-      "id": "evt-gpt56lun",
-      "title": "如何评价 GPT-5.6Luna 免费不限量，后续基础大模型都会走向免费吗？",
-      "category": "society",
-      "hotScore": 0.6375,
-      "freshness": 1,
-      "crossSource": 0.6309,
-      "totalScore": 0.7443,
-      "sources": [
-        {
-          "channel": "zhihu",
-          "rank": 4,
-          "hot": 0,
-          "url": ""
-        }
-      ],
-      "summary": "",
-      "url": ""
-    },
-    {
-      "id": "evt-iphone18pro",
-      "title": "iPhone18Pro十二大升级",
-      "category": "society",
-      "hotScore": 0.6,
-      "freshness": 1,
-      "crossSource": 0.6309,
-      "totalScore": 0.7293,
-      "sources": [
-        {
-          "channel": "baidu",
-          "rank": 6,
-          "hot": 0,
-          "url": "https://m.baidu.com/s?word=iPhone18Pro%E5%8D%81%E4%BA%8C%E5%A4%A7%E5%8D%87%E7%BA%A7&sa=fyb_news"
-        }
-      ],
-      "summary": "",
-      "url": "https://m.baidu.com/s?word=iPhone18Pro%E5%8D%81%E4%BA%8C%E5%A4%A7%E5%8D%87%E7%BA%A7&sa=fyb_news"
+      "url": "https://www.thepaper.cn/newsDetail_forward_33738930"
     },
     {
       "id": "evt-30000000",
       "title": "300万元行贿、“定制”标书、现场厕所协商，河南某医院2.33亿元工程串标案细节披露",
       "category": "society",
-      "hotScore": 0.595,
+      "hotScore": 0.5525,
       "freshness": 1,
       "crossSource": 0.6309,
-      "totalScore": 0.7273,
+      "totalScore": 0.7103,
       "sources": [
         {
           "channel": "thepaper",
-          "rank": 7,
+          "rank": 8,
           "hot": 0,
           "url": "https://www.thepaper.cn/newsDetail_forward_33685397"
         }
@@ -203,42 +152,42 @@
       "url": "https://www.thepaper.cn/newsDetail_forward_33685397"
     },
     {
+      "id": "evt-gpt56lun",
+      "title": "如何评价 GPT-5.6Luna 免费不限量，后续基础大模型都会走向免费吗？",
+      "category": "society",
+      "hotScore": 0.525,
+      "freshness": 1,
+      "crossSource": 0.6309,
+      "totalScore": 0.6993,
+      "sources": [
+        {
+          "channel": "zhihu",
+          "rank": 7,
+          "hot": 0,
+          "url": ""
+        }
+      ],
+      "summary": "",
+      "url": ""
+    },
+    {
       "id": "evt-12000000",
       "title": "商家称1小时被20条差评后门店倒闭",
       "category": "society",
-      "hotScore": 0.56,
+      "hotScore": 0.48,
       "freshness": 1,
       "crossSource": 0.6309,
-      "totalScore": 0.7133,
+      "totalScore": 0.6813,
       "sources": [
         {
           "channel": "baidu",
-          "rank": 7,
+          "rank": 9,
           "hot": 0,
           "url": "https://m.baidu.com/s?word=%E5%95%86%E5%AE%B6%E7%A7%B01%E5%B0%8F%E6%97%B6%E8%A2%AB20%E6%9D%A1%E5%B7%AE%E8%AF%84%E5%90%8E%E9%97%A8%E5%BA%97%E5%80%92%E9%97%AD&sa=fyb_news"
         }
       ],
       "summary": "",
       "url": "https://m.baidu.com/s?word=%E5%95%86%E5%AE%B6%E7%A7%B01%E5%B0%8F%E6%97%B6%E8%A2%AB20%E6%9D%A1%E5%B7%AE%E8%AF%84%E5%90%8E%E9%97%A8%E5%BA%97%E5%80%92%E9%97%AD&sa=fyb_news"
-    },
-    {
-      "id": "evt-73100000",
-      "title": "从731部队交易到海外实验室网络",
-      "category": "society",
-      "hotScore": 0.4675,
-      "freshness": 1,
-      "crossSource": 0.6309,
-      "totalScore": 0.6763,
-      "sources": [
-        {
-          "channel": "toutiao",
-          "rank": 10,
-          "hot": 6392156,
-          "url": "https://www.toutiao.com/trending/7671098096596025385/"
-        }
-      ],
-      "summary": "",
-      "url": "https://www.toutiao.com/trending/7671098096596025385/"
     }
   ]
 }
