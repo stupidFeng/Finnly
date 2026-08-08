@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-08-08T18:22:03.880Z",
+  "generatedAt": "2026-08-08T20:16:52.171Z",
   "fields": {
     "society": "社会",
     "economy": "经济",
@@ -11,14 +11,14 @@
       "title": "伊媒发布伊朗最高领袖视频",
       "category": "society",
       "hotScore": 0.85,
-      "freshness": 1,
+      "freshness": 0.9999,
       "crossSource": 1,
       "totalScore": 0.94,
       "sources": [
         {
           "channel": "toutiao",
           "rank": 1,
-          "hot": 36656447,
+          "hot": 37445890,
           "url": "https://www.toutiao.com/trending/7671613890689502783/"
         },
         {
@@ -70,23 +70,23 @@
       "url": "https://m.baidu.com/s?word=2026%E5%B9%B4%E2%80%9C%E6%9C%AA%E5%BD%95%E6%BB%A1%E2%80%9D%E6%9C%AC%E7%A7%91%E4%B8%93%E4%B8%9A%E6%8E%92%E8%A1%8C%E6%A6%9C%E5%87%BA%E7%82%89&sa=fyb_news"
     },
     {
-      "id": "evt-top00000",
-      "title": "上半年国内手机销量TOP30出炉",
+      "id": "evt-10000000",
+      "title": "游客称睡私家车被酒店收 150 元过夜费，酒店回应费用涉及停车、使用厨具及衣物清洗等，如何看待此事？",
       "category": "society",
-      "hotScore": 0.68,
+      "hotScore": 0.7125,
       "freshness": 1,
       "crossSource": 0.6309,
-      "totalScore": 0.7613,
+      "totalScore": 0.7743,
       "sources": [
         {
-          "channel": "toutiao",
-          "rank": 5,
-          "hot": 24571551,
-          "url": "https://www.toutiao.com/trending/7670854651357904947/"
+          "channel": "zhihu",
+          "rank": 2,
+          "hot": 0,
+          "url": ""
         }
       ],
       "summary": "",
-      "url": "https://www.toutiao.com/trending/7670854651357904947/"
+      "url": ""
     },
     {
       "id": "evt-ai000000",
@@ -111,14 +111,14 @@
       "id": "evt-70000000",
       "title": "今年前 7 月我国货物贸易进出口总值 30.13 万亿元，同比增长  17.3% ，如何看待这一数据？",
       "category": "economy",
-      "hotScore": 0.5625,
+      "hotScore": 0.525,
       "freshness": 1,
       "crossSource": 0.6309,
-      "totalScore": 0.7143,
+      "totalScore": 0.6993,
       "sources": [
         {
           "channel": "zhihu",
-          "rank": 6,
+          "rank": 7,
           "hot": 0,
           "url": ""
         }
@@ -130,14 +130,14 @@
       "id": "evt-20000000",
       "title": "《年会不能停！2》票房预测跌至 2.48 亿，甚至不到第一部票房的零头，问题出在哪里？",
       "category": "entertainment",
-      "hotScore": 0.7125,
+      "hotScore": 0.6375,
       "freshness": 1,
       "crossSource": 0.6309,
-      "totalScore": 0.7743,
+      "totalScore": 0.7443,
       "sources": [
         {
           "channel": "zhihu",
-          "rank": 2,
+          "rank": 4,
           "hot": 0,
           "url": ""
         }
@@ -146,8 +146,27 @@
       "url": ""
     },
     {
-      "id": "evt-10000000",
-      "title": "游客称睡私家车被酒店收 150 元过夜费，酒店回应费用涉及停车、使用厨具及衣物清洗等，如何看待此事？",
+      "id": "evt-top00000",
+      "title": "上半年国内手机销量TOP30出炉",
+      "category": "society",
+      "hotScore": 0.68,
+      "freshness": 0.9999,
+      "crossSource": 0.6309,
+      "totalScore": 0.7613,
+      "sources": [
+        {
+          "channel": "toutiao",
+          "rank": 5,
+          "hot": 25100730,
+          "url": "https://www.toutiao.com/trending/7670854651357904947/"
+        }
+      ],
+      "summary": "",
+      "url": "https://www.toutiao.com/trending/7670854651357904947/"
+    },
+    {
+      "id": "evt-kcarr000",
+      "title": "比亚迪纯电 K-car「海獭」Racco 在日本获超 700 辆订单，这对其出海战略意味着什么？",
       "category": "society",
       "hotScore": 0.675,
       "freshness": 1,
@@ -169,38 +188,19 @@
       "title": "情侣平潭拍日出坠崖1死1伤",
       "category": "society",
       "hotScore": 0.6375,
-      "freshness": 1,
+      "freshness": 0.9999,
       "crossSource": 0.6309,
       "totalScore": 0.7443,
       "sources": [
         {
           "channel": "toutiao",
           "rank": 6,
-          "hot": 22233259,
+          "hot": 22712080,
           "url": "https://www.toutiao.com/trending/7671606512804806697/"
         }
       ],
       "summary": "",
       "url": "https://www.toutiao.com/trending/7671606512804806697/"
-    },
-    {
-      "id": "evt-kcarr000",
-      "title": "比亚迪纯电 K-car「海獭」Racco 在日本获超 700 辆订单，这对其出海战略意味着什么？",
-      "category": "society",
-      "hotScore": 0.6375,
-      "freshness": 1,
-      "crossSource": 0.6309,
-      "totalScore": 0.7443,
-      "sources": [
-        {
-          "channel": "zhihu",
-          "rank": 4,
-          "hot": 0,
-          "url": ""
-        }
-      ],
-      "summary": "",
-      "url": ""
     },
     {
       "id": "evt-15000000",
@@ -260,6 +260,25 @@
       "url": "https://www.thepaper.cn/newsDetail_forward_33743109"
     },
     {
+      "id": "evt-90000000",
+      "title": "中国卫星拍到猎鹰9号火箭残骸撞月",
+      "category": "society",
+      "hotScore": 0.5525,
+      "freshness": 0.9999,
+      "crossSource": 0.6309,
+      "totalScore": 0.7103,
+      "sources": [
+        {
+          "channel": "toutiao",
+          "rank": 8,
+          "hot": 18595078,
+          "url": "https://www.toutiao.com/trending/7671595112442367551/"
+        }
+      ],
+      "summary": "",
+      "url": "https://www.toutiao.com/trending/7671595112442367551/"
+    },
+    {
       "id": "evt-73000000",
       "title": "河南西平县“7·30”故意伤害案件犯罪嫌疑人夏某钢被抓获",
       "category": "society",
@@ -277,25 +296,6 @@
       ],
       "summary": "",
       "url": "https://www.thepaper.cn/newsDetail_forward_33745286"
-    },
-    {
-      "id": "evt-30000000",
-      "title": "网络谣言的3种典型“伪装套路”",
-      "category": "society",
-      "hotScore": 0.425,
-      "freshness": 1,
-      "crossSource": 0.6309,
-      "totalScore": 0.6593,
-      "sources": [
-        {
-          "channel": "toutiao",
-          "rank": 11,
-          "hot": 13485153,
-          "url": "https://www.toutiao.com/trending/7670853259876515866/"
-        }
-      ],
-      "summary": "",
-      "url": "https://www.toutiao.com/trending/7670853259876515866/"
     }
   ]
 }
