@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-08-08T08:27:36.358Z",
+  "generatedAt": "2026-08-08T10:20:44.926Z",
   "fields": {
     "society": "社会",
     "economy": "经济",
@@ -8,28 +8,22 @@
   "feed": [
     {
       "id": "evt-00000000",
-      "title": "新疆女孩在天津偶遇支教老师哭红眼",
+      "title": "白海豚将正面袭击贯穿浙江",
       "category": "society",
-      "hotScore": 0.64,
-      "freshness": 0.9999,
+      "hotScore": 0.85,
+      "freshness": 1,
       "crossSource": 1,
-      "totalScore": 0.856,
+      "totalScore": 0.94,
       "sources": [
         {
           "channel": "toutiao",
-          "rank": 8,
-          "hot": 10183362,
-          "url": "https://www.toutiao.com/trending/7671460092932636678/"
-        },
-        {
-          "channel": "baidu",
-          "rank": 5,
-          "hot": 0,
-          "url": "https://m.baidu.com/s?word=%E6%96%B0%E7%96%86%E5%A5%B3%E5%AD%A9%E5%9C%A8%E5%A4%A9%E6%B4%A5%E5%81%B6%E9%81%87%E6%94%AF%E6%95%99%E8%80%81%E5%B8%88%E5%93%AD%E7%BA%A2%E7%9C%BC&sa=fyb_news"
+          "rank": 1,
+          "hot": 24437895,
+          "url": "https://www.toutiao.com/trending/7671556283757022747/"
         }
       ],
       "summary": "",
-      "url": "https://www.toutiao.com/trending/7671460092932636678/"
+      "url": "https://www.toutiao.com/trending/7671556283757022747/"
     },
     {
       "id": "evt-33000000",
@@ -37,8 +31,8 @@
       "category": "society",
       "hotScore": 0.85,
       "freshness": 1,
-      "crossSource": 0.6309,
-      "totalScore": 0.8293,
+      "crossSource": 1,
+      "totalScore": 0.94,
       "sources": [
         {
           "channel": "thepaper",
@@ -51,18 +45,37 @@
       "url": "https://www.thepaper.cn/newsDetail_forward_33736855"
     },
     {
+      "id": "evt-13000000",
+      "title": "金饰克价一夜涨回1300元",
+      "category": "society",
+      "hotScore": 0.8075,
+      "freshness": 1,
+      "crossSource": 1,
+      "totalScore": 0.923,
+      "sources": [
+        {
+          "channel": "toutiao",
+          "rank": 2,
+          "hot": 22112322,
+          "url": "https://www.toutiao.com/trending/7670685913919471626/"
+        }
+      ],
+      "summary": "",
+      "url": "https://www.toutiao.com/trending/7670685913919471626/"
+    },
+    {
       "id": "evt-20000000",
       "title": "外贸成绩单里的中国机遇2.0",
       "category": "society",
       "hotScore": 0.765,
-      "freshness": 0.9999,
-      "crossSource": 0.6309,
-      "totalScore": 0.7953,
+      "freshness": 1,
+      "crossSource": 1,
+      "totalScore": 0.906,
       "sources": [
         {
           "channel": "toutiao",
           "rank": 3,
-          "hot": 16789526,
+          "hot": 20008056,
           "url": "https://www.toutiao.com/trending/7671237290643079209/"
         }
       ],
@@ -70,36 +83,17 @@
       "url": "https://www.toutiao.com/trending/7671237290643079209/"
     },
     {
-      "id": "evt-10000000",
-      "title": "强台风靠近 浙江沿海掀起15米巨浪",
-      "category": "society",
-      "hotScore": 0.76,
+      "id": "evt-20268800",
+      "title": "如何评价 2026 年 8 月 8 日开启超前点映的文牧野执导、沈腾领衔主演的电影《欢迎来龙餐馆》？",
+      "category": "entertainment",
+      "hotScore": 0.5625,
       "freshness": 1,
-      "crossSource": 0.6309,
-      "totalScore": 0.7933,
-      "sources": [
-        {
-          "channel": "baidu",
-          "rank": 2,
-          "hot": 0,
-          "url": "https://m.baidu.com/s?word=%E5%BC%BA%E5%8F%B0%E9%A3%8E%E9%9D%A0%E8%BF%91+%E6%B5%99%E6%B1%9F%E6%B2%BF%E6%B5%B7%E6%8E%80%E8%B5%B715%E7%B1%B3%E5%B7%A8%E6%B5%AA&sa=fyb_news"
-        }
-      ],
-      "summary": "",
-      "url": "https://m.baidu.com/s?word=%E5%BC%BA%E5%8F%B0%E9%A3%8E%E9%9D%A0%E8%BF%91+%E6%B5%99%E6%B1%9F%E6%B2%BF%E6%B5%B7%E6%8E%80%E8%B5%B715%E7%B1%B3%E5%B7%A8%E6%B5%AA&sa=fyb_news"
-    },
-    {
-      "id": "evt-13000000",
-      "title": "佛山一中学招聘前 13 名考生均被淘汰，后 5 名反进体检，教育局已成立调查组，哪些信息值得关注？",
-      "category": "society",
-      "hotScore": 0.75,
-      "freshness": 0.9999,
-      "crossSource": 0.6309,
-      "totalScore": 0.7893,
+      "crossSource": 1,
+      "totalScore": 0.825,
       "sources": [
         {
           "channel": "zhihu",
-          "rank": 1,
+          "rank": 6,
           "hot": 0,
           "url": ""
         }
@@ -113,8 +107,8 @@
       "category": "society",
       "hotScore": 0.7225,
       "freshness": 1,
-      "crossSource": 0.6309,
-      "totalScore": 0.7783,
+      "crossSource": 1,
+      "totalScore": 0.889,
       "sources": [
         {
           "channel": "thepaper",
@@ -127,36 +121,36 @@
       "url": "https://www.thepaper.cn/newsDetail_forward_33739244"
     },
     {
-      "id": "evt-14000000",
-      "title": "东航国内客票提前14天可免费退改，其他航司如何规定？",
+      "id": "evt-40000000",
+      "title": "海鲜忘车里4天打开门满车都是蛆",
       "category": "society",
-      "hotScore": 0.68,
+      "hotScore": 0.6375,
       "freshness": 1,
-      "crossSource": 0.6309,
-      "totalScore": 0.7613,
+      "crossSource": 1,
+      "totalScore": 0.855,
       "sources": [
         {
-          "channel": "thepaper",
-          "rank": 5,
-          "hot": 0,
-          "url": "https://www.thepaper.cn/newsDetail_forward_33738317"
+          "channel": "toutiao",
+          "rank": 6,
+          "hot": 14822333,
+          "url": "https://www.toutiao.com/trending/7671488059160002606/"
         }
       ],
       "summary": "",
-      "url": "https://www.thepaper.cn/newsDetail_forward_33738317"
+      "url": "https://www.toutiao.com/trending/7671488059160002606/"
     },
     {
       "id": "evt-deepseekv4",
       "title": "网传 DeepSeek V4 Flash 完成任务后写了个游戏玩一上午，是真的吗？为什么会出现这样的现象？",
       "category": "society",
-      "hotScore": 0.675,
-      "freshness": 0.9999,
-      "crossSource": 0.6309,
-      "totalScore": 0.7593,
+      "hotScore": 0.6,
+      "freshness": 1,
+      "crossSource": 1,
+      "totalScore": 0.84,
       "sources": [
         {
           "channel": "zhihu",
-          "rank": 3,
+          "rank": 5,
           "hot": 0,
           "url": ""
         }
@@ -165,13 +159,70 @@
       "url": ""
     },
     {
-      "id": "evt-18000000",
-      "title": "如何评价《凡人修仙传》第 186 集？",
+      "id": "evt-60000000",
+      "title": "富婆带资进组给自己硬加60多场吻戏",
+      "category": "society",
+      "hotScore": 0.595,
+      "freshness": 1,
+      "crossSource": 1,
+      "totalScore": 0.838,
+      "sources": [
+        {
+          "channel": "toutiao",
+          "rank": 7,
+          "hot": 13411801,
+          "url": "https://www.toutiao.com/trending/7671558362017828378/"
+        }
+      ],
+      "summary": "",
+      "url": "https://www.toutiao.com/trending/7671558362017828378/"
+    },
+    {
+      "id": "evt-14000000",
+      "title": "14岁男孩因家长放纵确诊糖尿病",
+      "category": "society",
+      "hotScore": 0.56,
+      "freshness": 1,
+      "crossSource": 1,
+      "totalScore": 0.824,
+      "sources": [
+        {
+          "channel": "baidu",
+          "rank": 7,
+          "hot": 0,
+          "url": "https://m.baidu.com/s?word=14%E5%B2%81%E7%94%B7%E5%AD%A9%E5%9B%A0%E5%AE%B6%E9%95%BF%E6%94%BE%E7%BA%B5%E7%A1%AE%E8%AF%8A%E7%B3%96%E5%B0%BF%E7%97%85&sa=fyb_news"
+        }
+      ],
+      "summary": "",
+      "url": "https://m.baidu.com/s?word=14%E5%B2%81%E7%94%B7%E5%AD%A9%E5%9B%A0%E5%AE%B6%E9%95%BF%E6%94%BE%E7%BA%B5%E7%A1%AE%E8%AF%8A%E7%B3%96%E5%B0%BF%E7%97%85&sa=fyb_news"
+    },
+    {
+      "id": "evt-ai000000",
+      "title": "李开复：AI时代，人的优势在“右脑”，做出数据不能预测的事情",
+      "category": "society",
+      "hotScore": 0.5525,
+      "freshness": 1,
+      "crossSource": 1,
+      "totalScore": 0.821,
+      "sources": [
+        {
+          "channel": "thepaper",
+          "rank": 8,
+          "hot": 0,
+          "url": "https://www.thepaper.cn/newsDetail_forward_33740664"
+        }
+      ],
+      "summary": "",
+      "url": "https://www.thepaper.cn/newsDetail_forward_33740664"
+    },
+    {
+      "id": "evt-10000000",
+      "title": "游客称睡私家车被酒店收 150 元过夜费，酒店回应费用涉及停车、使用厨具及衣物清洗等，如何看待此事？",
       "category": "society",
       "hotScore": 0.525,
-      "freshness": 0.9999,
-      "crossSource": 0.6309,
-      "totalScore": 0.6993,
+      "freshness": 1,
+      "crossSource": 1,
+      "totalScore": 0.81,
       "sources": [
         {
           "channel": "zhihu",
@@ -184,37 +235,37 @@
       "url": ""
     },
     {
-      "id": "evt-ai000000",
-      "title": "李开复：AI时代，人的优势在“右脑”，做出数据不能预测的事情",
+      "id": "evt-6j000000",
+      "title": "轰-6J现身黄岩岛参与什么演练",
       "category": "society",
-      "hotScore": 0.51,
+      "hotScore": 0.4675,
       "freshness": 1,
-      "crossSource": 0.6309,
-      "totalScore": 0.6933,
+      "crossSource": 1,
+      "totalScore": 0.787,
       "sources": [
         {
-          "channel": "thepaper",
-          "rank": 9,
-          "hot": 0,
-          "url": "https://www.thepaper.cn/newsDetail_forward_33740664"
+          "channel": "toutiao",
+          "rank": 10,
+          "hot": 9935706,
+          "url": "https://www.toutiao.com/trending/7671370881981333554/"
         }
       ],
       "summary": "",
-      "url": "https://www.thepaper.cn/newsDetail_forward_33740664"
+      "url": "https://www.toutiao.com/trending/7671370881981333554/"
     },
     {
       "id": "evt-30000000",
       "title": "网络谣言的3种典型“伪装套路”",
       "category": "society",
       "hotScore": 0.425,
-      "freshness": 0.9999,
-      "crossSource": 0.6309,
-      "totalScore": 0.6593,
+      "freshness": 1,
+      "crossSource": 1,
+      "totalScore": 0.77,
       "sources": [
         {
           "channel": "toutiao",
           "rank": 11,
-          "hot": 7544020,
+          "hot": 8990199,
           "url": "https://www.toutiao.com/trending/7670853259876515866/"
         }
       ],
