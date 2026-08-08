@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-08-08T06:33:38.637Z",
+  "generatedAt": "2026-08-08T08:27:36.358Z",
   "fields": {
     "society": "社会",
     "economy": "经济",
@@ -10,20 +10,20 @@
       "id": "evt-00000000",
       "title": "新疆女孩在天津偶遇支教老师哭红眼",
       "category": "society",
-      "hotScore": 0.85,
-      "freshness": 1,
+      "hotScore": 0.64,
+      "freshness": 0.9999,
       "crossSource": 1,
-      "totalScore": 0.94,
+      "totalScore": 0.856,
       "sources": [
         {
           "channel": "toutiao",
-          "rank": 1,
-          "hot": 22231339,
+          "rank": 8,
+          "hot": 10183362,
           "url": "https://www.toutiao.com/trending/7671460092932636678/"
         },
         {
           "channel": "baidu",
-          "rank": 20,
+          "rank": 5,
           "hot": 0,
           "url": "https://m.baidu.com/s?word=%E6%96%B0%E7%96%86%E5%A5%B3%E5%AD%A9%E5%9C%A8%E5%A4%A9%E6%B4%A5%E5%81%B6%E9%81%87%E6%94%AF%E6%95%99%E8%80%81%E5%B8%88%E5%93%AD%E7%BA%A2%E7%9C%BC&sa=fyb_news"
         }
@@ -51,55 +51,55 @@
       "url": "https://www.thepaper.cn/newsDetail_forward_33736855"
     },
     {
-      "id": "evt-30000000",
-      "title": "上半年国内居民出游人次34.63亿",
+      "id": "evt-20000000",
+      "title": "外贸成绩单里的中国机遇2.0",
       "category": "society",
       "hotScore": 0.765,
-      "freshness": 1,
+      "freshness": 0.9999,
       "crossSource": 0.6309,
       "totalScore": 0.7953,
       "sources": [
         {
           "channel": "toutiao",
           "rank": 3,
-          "hot": 18201480,
-          "url": "https://www.toutiao.com/trending/7670497201836343323/"
+          "hot": 16789526,
+          "url": "https://www.toutiao.com/trending/7671237290643079209/"
         }
       ],
       "summary": "",
-      "url": "https://www.toutiao.com/trending/7670497201836343323/"
+      "url": "https://www.toutiao.com/trending/7671237290643079209/"
+    },
+    {
+      "id": "evt-10000000",
+      "title": "强台风靠近 浙江沿海掀起15米巨浪",
+      "category": "society",
+      "hotScore": 0.76,
+      "freshness": 1,
+      "crossSource": 0.6309,
+      "totalScore": 0.7933,
+      "sources": [
+        {
+          "channel": "baidu",
+          "rank": 2,
+          "hot": 0,
+          "url": "https://m.baidu.com/s?word=%E5%BC%BA%E5%8F%B0%E9%A3%8E%E9%9D%A0%E8%BF%91+%E6%B5%99%E6%B1%9F%E6%B2%BF%E6%B5%B7%E6%8E%80%E8%B5%B715%E7%B1%B3%E5%B7%A8%E6%B5%AA&sa=fyb_news"
+        }
+      ],
+      "summary": "",
+      "url": "https://m.baidu.com/s?word=%E5%BC%BA%E5%8F%B0%E9%A3%8E%E9%9D%A0%E8%BF%91+%E6%B5%99%E6%B1%9F%E6%B2%BF%E6%B5%B7%E6%8E%80%E8%B5%B715%E7%B1%B3%E5%B7%A8%E6%B5%AA&sa=fyb_news"
     },
     {
       "id": "evt-13000000",
       "title": "佛山一中学招聘前 13 名考生均被淘汰，后 5 名反进体检，教育局已成立调查组，哪些信息值得关注？",
       "category": "society",
       "hotScore": 0.75,
-      "freshness": 1,
+      "freshness": 0.9999,
       "crossSource": 0.6309,
       "totalScore": 0.7893,
       "sources": [
         {
           "channel": "zhihu",
           "rank": 1,
-          "hot": 0,
-          "url": ""
-        }
-      ],
-      "summary": "",
-      "url": ""
-    },
-    {
-      "id": "evt-15080000",
-      "title": "宇树科技发行价 150.80 元 / 股，总市值突破 600 亿，中一签需缴款 7.54 万元，如何看待这个估值？",
-      "category": "economy",
-      "hotScore": 0.675,
-      "freshness": 1,
-      "crossSource": 0.6309,
-      "totalScore": 0.7593,
-      "sources": [
-        {
-          "channel": "zhihu",
-          "rank": 3,
           "hot": 0,
           "url": ""
         }
@@ -127,44 +127,6 @@
       "url": "https://www.thepaper.cn/newsDetail_forward_33739244"
     },
     {
-      "id": "evt-10900000",
-      "title": "10部9亏 暑期档扎堆撤档",
-      "category": "society",
-      "hotScore": 0.72,
-      "freshness": 1,
-      "crossSource": 0.6309,
-      "totalScore": 0.7773,
-      "sources": [
-        {
-          "channel": "baidu",
-          "rank": 3,
-          "hot": 0,
-          "url": "https://m.baidu.com/s?word=10%E9%83%A89%E4%BA%8F+%E6%9A%91%E6%9C%9F%E6%A1%A3%E6%89%8E%E5%A0%86%E6%92%A4%E6%A1%A3&sa=fyb_news"
-        }
-      ],
-      "summary": "",
-      "url": "https://m.baidu.com/s?word=10%E9%83%A89%E4%BA%8F+%E6%9A%91%E6%9C%9F%E6%A1%A3%E6%89%8E%E5%A0%86%E6%92%A4%E6%A1%A3&sa=fyb_news"
-    },
-    {
-      "id": "evt-66000000",
-      "title": "双胞胎高考同考660分被同一大学录取",
-      "category": "society",
-      "hotScore": 0.68,
-      "freshness": 1,
-      "crossSource": 0.6309,
-      "totalScore": 0.7613,
-      "sources": [
-        {
-          "channel": "toutiao",
-          "rank": 5,
-          "hot": 14902112,
-          "url": "https://www.toutiao.com/trending/7671438644434960447/"
-        }
-      ],
-      "summary": "",
-      "url": "https://www.toutiao.com/trending/7671438644434960447/"
-    },
-    {
       "id": "evt-14000000",
       "title": "东航国内客票提前14天可免费退改，其他航司如何规定？",
       "category": "society",
@@ -184,36 +146,17 @@
       "url": "https://www.thepaper.cn/newsDetail_forward_33738317"
     },
     {
-      "id": "evt-ai000000",
-      "title": "美国AI开始攻击真人了",
-      "category": "society",
-      "hotScore": 0.64,
-      "freshness": 1,
-      "crossSource": 0.6309,
-      "totalScore": 0.7453,
-      "sources": [
-        {
-          "channel": "baidu",
-          "rank": 5,
-          "hot": 0,
-          "url": "https://m.baidu.com/s?word=%E7%BE%8E%E5%9B%BDAI%E5%BC%80%E5%A7%8B%E6%94%BB%E5%87%BB%E7%9C%9F%E4%BA%BA%E4%BA%86&sa=fyb_news"
-        }
-      ],
-      "summary": "",
-      "url": "https://m.baidu.com/s?word=%E7%BE%8E%E5%9B%BDAI%E5%BC%80%E5%A7%8B%E6%94%BB%E5%87%BB%E7%9C%9F%E4%BA%BA%E4%BA%86&sa=fyb_news"
-    },
-    {
       "id": "evt-deepseekv4",
       "title": "网传 DeepSeek V4 Flash 完成任务后写了个游戏玩一上午，是真的吗？为什么会出现这样的现象？",
       "category": "society",
-      "hotScore": 0.6,
-      "freshness": 1,
+      "hotScore": 0.675,
+      "freshness": 0.9999,
       "crossSource": 0.6309,
-      "totalScore": 0.7293,
+      "totalScore": 0.7593,
       "sources": [
         {
           "channel": "zhihu",
-          "rank": 5,
+          "rank": 3,
           "hot": 0,
           "url": ""
         }
@@ -222,30 +165,11 @@
       "url": ""
     },
     {
-      "id": "evt-57050600",
-      "title": "搬家报价570元 要5060元才肯上楼",
-      "category": "society",
-      "hotScore": 0.56,
-      "freshness": 1,
-      "crossSource": 0.6309,
-      "totalScore": 0.7133,
-      "sources": [
-        {
-          "channel": "baidu",
-          "rank": 7,
-          "hot": 0,
-          "url": "https://m.baidu.com/s?word=%E6%90%AC%E5%AE%B6%E6%8A%A5%E4%BB%B7570%E5%85%83+%E8%A6%815060%E5%85%83%E6%89%8D%E8%82%AF%E4%B8%8A%E6%A5%BC&sa=fyb_news"
-        }
-      ],
-      "summary": "",
-      "url": "https://m.baidu.com/s?word=%E6%90%AC%E5%AE%B6%E6%8A%A5%E4%BB%B7570%E5%85%83+%E8%A6%815060%E5%85%83%E6%89%8D%E8%82%AF%E4%B8%8A%E6%A5%BC&sa=fyb_news"
-    },
-    {
-      "id": "evt-20260000",
-      "title": "2026 上半年中国汽车出口 531 万辆、同比增长 53%，中国汽车出海是否已经进入全球化能力竞争新阶段？",
+      "id": "evt-18000000",
+      "title": "如何评价《凡人修仙传》第 186 集？",
       "category": "society",
       "hotScore": 0.525,
-      "freshness": 1,
+      "freshness": 0.9999,
       "crossSource": 0.6309,
       "totalScore": 0.6993,
       "sources": [
@@ -260,23 +184,42 @@
       "url": ""
     },
     {
-      "id": "evt-50000000",
-      "title": "宇树科技中一签或至少赚5万",
+      "id": "evt-ai000000",
+      "title": "李开复：AI时代，人的优势在“右脑”，做出数据不能预测的事情",
       "category": "society",
-      "hotScore": 0.4675,
+      "hotScore": 0.51,
       "freshness": 1,
       "crossSource": 0.6309,
-      "totalScore": 0.6763,
+      "totalScore": 0.6933,
       "sources": [
         {
-          "channel": "toutiao",
-          "rank": 10,
-          "hot": 9038587,
-          "url": "https://www.toutiao.com/trending/7670835580204453417/"
+          "channel": "thepaper",
+          "rank": 9,
+          "hot": 0,
+          "url": "https://www.thepaper.cn/newsDetail_forward_33740664"
         }
       ],
       "summary": "",
-      "url": "https://www.toutiao.com/trending/7670835580204453417/"
+      "url": "https://www.thepaper.cn/newsDetail_forward_33740664"
+    },
+    {
+      "id": "evt-30000000",
+      "title": "网络谣言的3种典型“伪装套路”",
+      "category": "society",
+      "hotScore": 0.425,
+      "freshness": 0.9999,
+      "crossSource": 0.6309,
+      "totalScore": 0.6593,
+      "sources": [
+        {
+          "channel": "toutiao",
+          "rank": 11,
+          "hot": 7544020,
+          "url": "https://www.toutiao.com/trending/7670853259876515866/"
+        }
+      ],
+      "summary": "",
+      "url": "https://www.toutiao.com/trending/7670853259876515866/"
     }
   ]
 }
