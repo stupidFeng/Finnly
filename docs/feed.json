@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-08-08T20:16:52.171Z",
+  "generatedAt": "2026-08-08T22:17:15.085Z",
   "fields": {
     "society": "社会",
     "economy": "经济",
@@ -18,12 +18,12 @@
         {
           "channel": "toutiao",
           "rank": 1,
-          "hot": 37445890,
+          "hot": 39412683,
           "url": "https://www.toutiao.com/trending/7671613890689502783/"
         },
         {
           "channel": "thepaper",
-          "rank": 10,
+          "rank": 11,
           "hot": 0,
           "url": "https://www.thepaper.cn/newsDetail_forward_33745289"
         }
@@ -35,14 +35,14 @@
       "id": "evt-4a000000",
       "title": "新疆4A级及以上景区自驾服务费均改为按车收费",
       "category": "society",
-      "hotScore": 0.85,
+      "hotScore": 0.8075,
       "freshness": 1,
       "crossSource": 0.6309,
-      "totalScore": 0.8293,
+      "totalScore": 0.8123,
       "sources": [
         {
           "channel": "thepaper",
-          "rank": 1,
+          "rank": 2,
           "hot": 0,
           "url": "https://www.thepaper.cn/newsDetail_forward_33744766"
         }
@@ -127,44 +127,6 @@
       "url": ""
     },
     {
-      "id": "evt-20000000",
-      "title": "《年会不能停！2》票房预测跌至 2.48 亿，甚至不到第一部票房的零头，问题出在哪里？",
-      "category": "entertainment",
-      "hotScore": 0.6375,
-      "freshness": 1,
-      "crossSource": 0.6309,
-      "totalScore": 0.7443,
-      "sources": [
-        {
-          "channel": "zhihu",
-          "rank": 4,
-          "hot": 0,
-          "url": ""
-        }
-      ],
-      "summary": "",
-      "url": ""
-    },
-    {
-      "id": "evt-top00000",
-      "title": "上半年国内手机销量TOP30出炉",
-      "category": "society",
-      "hotScore": 0.68,
-      "freshness": 0.9999,
-      "crossSource": 0.6309,
-      "totalScore": 0.7613,
-      "sources": [
-        {
-          "channel": "toutiao",
-          "rank": 5,
-          "hot": 25100730,
-          "url": "https://www.toutiao.com/trending/7670854651357904947/"
-        }
-      ],
-      "summary": "",
-      "url": "https://www.toutiao.com/trending/7670854651357904947/"
-    },
-    {
       "id": "evt-kcarr000",
       "title": "比亚迪纯电 K-car「海獭」Racco 在日本获超 700 辆订单，这对其出海战略意味着什么？",
       "category": "society",
@@ -195,12 +157,31 @@
         {
           "channel": "toutiao",
           "rank": 6,
-          "hot": 22712080,
+          "hot": 23905001,
           "url": "https://www.toutiao.com/trending/7671606512804806697/"
         }
       ],
       "summary": "",
       "url": "https://www.toutiao.com/trending/7671606512804806697/"
+    },
+    {
+      "id": "evt-85203000",
+      "title": "于东来 8 月 5 日官宣：2030 年后停止所有经营项目发展，转型「学校式企业」，这种打法在商业上站得住吗？",
+      "category": "society",
+      "hotScore": 0.6375,
+      "freshness": 1,
+      "crossSource": 0.6309,
+      "totalScore": 0.7443,
+      "sources": [
+        {
+          "channel": "zhihu",
+          "rank": 4,
+          "hot": 0,
+          "url": ""
+        }
+      ],
+      "summary": "",
+      "url": ""
     },
     {
       "id": "evt-15000000",
@@ -222,17 +203,17 @@
       "url": "https://m.baidu.com/s?word=150%E5%85%83%E8%BD%A6%E4%B8%8A%E8%BF%87%E5%A4%9C%E8%B4%B9%E5%88%B0%E5%BA%95%E8%B0%81%E8%A2%AB%E5%81%9A%E5%B1%80%E4%BA%86&sa=fyb_news"
     },
     {
-      "id": "evt-85203000",
-      "title": "于东来 8 月 5 日官宣：2030 年后停止所有经营项目发展，转型「学校式企业」，这种打法在商业上站得住吗？",
+      "id": "evt-24000000",
+      "title": "于东来称要关闭营业 24 年的生活广场店，每一个项目都是国际一流的品质，达不到的都关了，如何看待此事？",
       "category": "society",
-      "hotScore": 0.6,
+      "hotScore": 0.5625,
       "freshness": 1,
       "crossSource": 0.6309,
-      "totalScore": 0.7293,
+      "totalScore": 0.7143,
       "sources": [
         {
           "channel": "zhihu",
-          "rank": 5,
+          "rank": 6,
           "hot": 0,
           "url": ""
         }
@@ -244,14 +225,14 @@
       "id": "evt-11200000",
       "title": "检测列车撞人致11死2伤，施工业务外包单位被罚1.5万元",
       "category": "society",
-      "hotScore": 0.595,
+      "hotScore": 0.5525,
       "freshness": 1,
       "crossSource": 0.6309,
-      "totalScore": 0.7273,
+      "totalScore": 0.7103,
       "sources": [
         {
           "channel": "thepaper",
-          "rank": 7,
+          "rank": 8,
           "hot": 0,
           "url": "https://www.thepaper.cn/newsDetail_forward_33743109"
         }
@@ -260,42 +241,42 @@
       "url": "https://www.thepaper.cn/newsDetail_forward_33743109"
     },
     {
-      "id": "evt-90000000",
-      "title": "中国卫星拍到猎鹰9号火箭残骸撞月",
-      "category": "society",
-      "hotScore": 0.5525,
-      "freshness": 0.9999,
-      "crossSource": 0.6309,
-      "totalScore": 0.7103,
-      "sources": [
-        {
-          "channel": "toutiao",
-          "rank": 8,
-          "hot": 18595078,
-          "url": "https://www.toutiao.com/trending/7671595112442367551/"
-        }
-      ],
-      "summary": "",
-      "url": "https://www.toutiao.com/trending/7671595112442367551/"
-    },
-    {
       "id": "evt-73000000",
       "title": "河南西平县“7·30”故意伤害案件犯罪嫌疑人夏某钢被抓获",
       "category": "society",
-      "hotScore": 0.51,
+      "hotScore": 0.4675,
       "freshness": 1,
       "crossSource": 0.6309,
-      "totalScore": 0.6933,
+      "totalScore": 0.6763,
       "sources": [
         {
           "channel": "thepaper",
-          "rank": 9,
+          "rank": 10,
           "hot": 0,
           "url": "https://www.thepaper.cn/newsDetail_forward_33745286"
         }
       ],
       "summary": "",
       "url": "https://www.thepaper.cn/newsDetail_forward_33745286"
+    },
+    {
+      "id": "evt-30000000",
+      "title": "网络谣言的3种典型“伪装套路”",
+      "category": "society",
+      "hotScore": 0.425,
+      "freshness": 0.9999,
+      "crossSource": 0.6309,
+      "totalScore": 0.6593,
+      "sources": [
+        {
+          "channel": "toutiao",
+          "rank": 11,
+          "hot": 14499116,
+          "url": "https://www.toutiao.com/trending/7670853259876515866/"
+        }
+      ],
+      "summary": "",
+      "url": "https://www.toutiao.com/trending/7670853259876515866/"
     }
   ]
 }
