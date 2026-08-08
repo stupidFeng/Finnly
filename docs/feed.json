@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-08-08T16:19:49.359Z",
+  "generatedAt": "2026-08-08T18:22:03.880Z",
   "fields": {
     "society": "社会",
     "economy": "经济",
@@ -11,19 +11,19 @@
       "title": "伊媒发布伊朗最高领袖视频",
       "category": "society",
       "hotScore": 0.85,
-      "freshness": 0.9999,
+      "freshness": 1,
       "crossSource": 1,
       "totalScore": 0.94,
       "sources": [
         {
           "channel": "toutiao",
           "rank": 1,
-          "hot": 35545969,
+          "hot": 36656447,
           "url": "https://www.toutiao.com/trending/7671613890689502783/"
         },
         {
           "channel": "thepaper",
-          "rank": 14,
+          "rank": 10,
           "hot": 0,
           "url": "https://www.thepaper.cn/newsDetail_forward_33745289"
         }
@@ -51,25 +51,6 @@
       "url": "https://www.thepaper.cn/newsDetail_forward_33744766"
     },
     {
-      "id": "evt-top00000",
-      "title": "上半年国内手机销量TOP30出炉",
-      "category": "society",
-      "hotScore": 0.8075,
-      "freshness": 0.9999,
-      "crossSource": 0.6309,
-      "totalScore": 0.8123,
-      "sources": [
-        {
-          "channel": "toutiao",
-          "rank": 2,
-          "hot": 32163323,
-          "url": "https://www.toutiao.com/trending/7670854651357904947/"
-        }
-      ],
-      "summary": "",
-      "url": "https://www.toutiao.com/trending/7670854651357904947/"
-    },
-    {
       "id": "evt-20260000",
       "title": "2026年“未录满”本科专业排行榜出炉",
       "category": "society",
@@ -87,6 +68,25 @@
       ],
       "summary": "",
       "url": "https://m.baidu.com/s?word=2026%E5%B9%B4%E2%80%9C%E6%9C%AA%E5%BD%95%E6%BB%A1%E2%80%9D%E6%9C%AC%E7%A7%91%E4%B8%93%E4%B8%9A%E6%8E%92%E8%A1%8C%E6%A6%9C%E5%87%BA%E7%82%89&sa=fyb_news"
+    },
+    {
+      "id": "evt-top00000",
+      "title": "上半年国内手机销量TOP30出炉",
+      "category": "society",
+      "hotScore": 0.68,
+      "freshness": 1,
+      "crossSource": 0.6309,
+      "totalScore": 0.7613,
+      "sources": [
+        {
+          "channel": "toutiao",
+          "rank": 5,
+          "hot": 24571551,
+          "url": "https://www.toutiao.com/trending/7670854651357904947/"
+        }
+      ],
+      "summary": "",
+      "url": "https://www.toutiao.com/trending/7670854651357904947/"
     },
     {
       "id": "evt-ai000000",
@@ -108,17 +108,17 @@
       "url": "https://m.baidu.com/s?word=%E5%87%A0%E5%85%83%E6%88%90%E6%9C%AC%E7%9A%84AI%E5%B9%BF%E5%91%8A%E5%AF%BC%E8%87%B4%E5%8D%83%E4%B8%87%E5%B8%82%E5%80%BC%E8%92%B8%E5%8F%91&sa=fyb_news"
     },
     {
-      "id": "evt-20000000",
-      "title": "《年会不能停！2》票房预测跌至 2.48 亿，甚至不到第一部票房的零头，问题出在哪里？",
-      "category": "entertainment",
-      "hotScore": 0.75,
+      "id": "evt-70000000",
+      "title": "今年前 7 月我国货物贸易进出口总值 30.13 万亿元，同比增长  17.3% ，如何看待这一数据？",
+      "category": "economy",
+      "hotScore": 0.5625,
       "freshness": 1,
       "crossSource": 0.6309,
-      "totalScore": 0.7893,
+      "totalScore": 0.7143,
       "sources": [
         {
           "channel": "zhihu",
-          "rank": 1,
+          "rank": 6,
           "hot": 0,
           "url": ""
         }
@@ -127,17 +127,17 @@
       "url": ""
     },
     {
-      "id": "evt-90000000",
-      "title": "电影《功夫女足》映期延长至 9 月 10 日，目前票房破 22 亿，你认为最终票房有望冲击多少？",
+      "id": "evt-20000000",
+      "title": "《年会不能停！2》票房预测跌至 2.48 亿，甚至不到第一部票房的零头，问题出在哪里？",
       "category": "entertainment",
-      "hotScore": 0.45,
+      "hotScore": 0.7125,
       "freshness": 1,
       "crossSource": 0.6309,
-      "totalScore": 0.6693,
+      "totalScore": 0.7743,
       "sources": [
         {
           "channel": "zhihu",
-          "rank": 9,
+          "rank": 2,
           "hot": 0,
           "url": ""
         }
@@ -169,19 +169,38 @@
       "title": "情侣平潭拍日出坠崖1死1伤",
       "category": "society",
       "hotScore": 0.6375,
-      "freshness": 0.9999,
+      "freshness": 1,
       "crossSource": 0.6309,
       "totalScore": 0.7443,
       "sources": [
         {
           "channel": "toutiao",
           "rank": 6,
-          "hot": 21559720,
+          "hot": 22233259,
           "url": "https://www.toutiao.com/trending/7671606512804806697/"
         }
       ],
       "summary": "",
       "url": "https://www.toutiao.com/trending/7671606512804806697/"
+    },
+    {
+      "id": "evt-kcarr000",
+      "title": "比亚迪纯电 K-car「海獭」Racco 在日本获超 700 辆订单，这对其出海战略意味着什么？",
+      "category": "society",
+      "hotScore": 0.6375,
+      "freshness": 1,
+      "crossSource": 0.6309,
+      "totalScore": 0.7443,
+      "sources": [
+        {
+          "channel": "zhihu",
+          "rank": 4,
+          "hot": 0,
+          "url": ""
+        }
+      ],
+      "summary": "",
+      "url": ""
     },
     {
       "id": "evt-15000000",
@@ -222,36 +241,17 @@
       "url": ""
     },
     {
-      "id": "evt-kcarr000",
-      "title": "比亚迪纯电 K-car「海獭」Racco 在日本获超 700 辆订单，这对其出海战略意味着什么？",
-      "category": "society",
-      "hotScore": 0.5625,
-      "freshness": 1,
-      "crossSource": 0.6309,
-      "totalScore": 0.7143,
-      "sources": [
-        {
-          "channel": "zhihu",
-          "rank": 6,
-          "hot": 0,
-          "url": ""
-        }
-      ],
-      "summary": "",
-      "url": ""
-    },
-    {
       "id": "evt-11200000",
       "title": "检测列车撞人致11死2伤，施工业务外包单位被罚1.5万元",
       "category": "society",
-      "hotScore": 0.5525,
+      "hotScore": 0.595,
       "freshness": 1,
       "crossSource": 0.6309,
-      "totalScore": 0.7103,
+      "totalScore": 0.7273,
       "sources": [
         {
           "channel": "thepaper",
-          "rank": 8,
+          "rank": 7,
           "hot": 0,
           "url": "https://www.thepaper.cn/newsDetail_forward_33743109"
         }
@@ -260,18 +260,37 @@
       "url": "https://www.thepaper.cn/newsDetail_forward_33743109"
     },
     {
+      "id": "evt-73000000",
+      "title": "河南西平县“7·30”故意伤害案件犯罪嫌疑人夏某钢被抓获",
+      "category": "society",
+      "hotScore": 0.51,
+      "freshness": 1,
+      "crossSource": 0.6309,
+      "totalScore": 0.6933,
+      "sources": [
+        {
+          "channel": "thepaper",
+          "rank": 9,
+          "hot": 0,
+          "url": "https://www.thepaper.cn/newsDetail_forward_33745286"
+        }
+      ],
+      "summary": "",
+      "url": "https://www.thepaper.cn/newsDetail_forward_33745286"
+    },
+    {
       "id": "evt-30000000",
       "title": "网络谣言的3种典型“伪装套路”",
       "category": "society",
       "hotScore": 0.425,
-      "freshness": 0.9999,
+      "freshness": 1,
       "crossSource": 0.6309,
       "totalScore": 0.6593,
       "sources": [
         {
           "channel": "toutiao",
           "rank": 11,
-          "hot": 13076631,
+          "hot": 13485153,
           "url": "https://www.toutiao.com/trending/7670853259876515866/"
         }
       ],
