@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-08-08T10:20:44.926Z",
+  "generatedAt": "2026-08-08T12:25:00.666Z",
   "fields": {
     "society": "社会",
     "economy": "经济",
@@ -8,111 +8,41 @@
   "feed": [
     {
       "id": "evt-00000000",
-      "title": "白海豚将正面袭击贯穿浙江",
-      "category": "society",
-      "hotScore": 0.85,
-      "freshness": 1,
-      "crossSource": 1,
-      "totalScore": 0.94,
-      "sources": [
-        {
-          "channel": "toutiao",
-          "rank": 1,
-          "hot": 24437895,
-          "url": "https://www.toutiao.com/trending/7671556283757022747/"
-        }
-      ],
-      "summary": "",
-      "url": "https://www.toutiao.com/trending/7671556283757022747/"
-    },
-    {
-      "id": "evt-33000000",
-      "title": "欧洲燃烧之夏：33万人大撤离，一个升温世界的“哨兵事件”",
-      "category": "society",
-      "hotScore": 0.85,
-      "freshness": 1,
-      "crossSource": 1,
-      "totalScore": 0.94,
-      "sources": [
-        {
-          "channel": "thepaper",
-          "rank": 1,
-          "hot": 0,
-          "url": "https://www.thepaper.cn/newsDetail_forward_33736855"
-        }
-      ],
-      "summary": "",
-      "url": "https://www.thepaper.cn/newsDetail_forward_33736855"
-    },
-    {
-      "id": "evt-13000000",
-      "title": "金饰克价一夜涨回1300元",
+      "title": "伊朗媒体发布伊朗最高领袖视频",
       "category": "society",
       "hotScore": 0.8075,
-      "freshness": 1,
+      "freshness": 0.9999,
       "crossSource": 1,
       "totalScore": 0.923,
       "sources": [
         {
           "channel": "toutiao",
           "rank": 2,
-          "hot": 22112322,
-          "url": "https://www.toutiao.com/trending/7670685913919471626/"
-        }
-      ],
-      "summary": "",
-      "url": "https://www.toutiao.com/trending/7670685913919471626/"
-    },
-    {
-      "id": "evt-20000000",
-      "title": "外贸成绩单里的中国机遇2.0",
-      "category": "society",
-      "hotScore": 0.765,
-      "freshness": 1,
-      "crossSource": 1,
-      "totalScore": 0.906,
-      "sources": [
+          "hot": 25893390,
+          "url": "https://www.toutiao.com/trending/7671613890689502783/"
+        },
         {
-          "channel": "toutiao",
-          "rank": 3,
-          "hot": 20008056,
-          "url": "https://www.toutiao.com/trending/7671237290643079209/"
-        }
-      ],
-      "summary": "",
-      "url": "https://www.toutiao.com/trending/7671237290643079209/"
-    },
-    {
-      "id": "evt-20268800",
-      "title": "如何评价 2026 年 8 月 8 日开启超前点映的文牧野执导、沈腾领衔主演的电影《欢迎来龙餐馆》？",
-      "category": "entertainment",
-      "hotScore": 0.5625,
-      "freshness": 1,
-      "crossSource": 1,
-      "totalScore": 0.825,
-      "sources": [
-        {
-          "channel": "zhihu",
-          "rank": 6,
+          "channel": "baidu",
+          "rank": 18,
           "hot": 0,
-          "url": ""
+          "url": "https://m.baidu.com/s?word=%E4%BC%8A%E6%9C%97%E5%AA%92%E4%BD%93%E5%8F%91%E5%B8%83%E4%BC%8A%E6%9C%97%E6%9C%80%E9%AB%98%E9%A2%86%E8%A2%96%E8%A7%86%E9%A2%91&sa=fyb_news"
         }
       ],
       "summary": "",
-      "url": ""
+      "url": "https://www.toutiao.com/trending/7671613890689502783/"
     },
     {
       "id": "evt-90000000",
       "title": "女子称丰胸术9个月后确诊乳腺癌，医美机构：手术不可能引发癌症，建议走司法途径",
       "category": "society",
-      "hotScore": 0.7225,
+      "hotScore": 0.8075,
       "freshness": 1,
-      "crossSource": 1,
-      "totalScore": 0.889,
+      "crossSource": 0.6309,
+      "totalScore": 0.8123,
       "sources": [
         {
           "channel": "thepaper",
-          "rank": 4,
+          "rank": 2,
           "hot": 0,
           "url": "https://www.thepaper.cn/newsDetail_forward_33739244"
         }
@@ -121,36 +51,17 @@
       "url": "https://www.thepaper.cn/newsDetail_forward_33739244"
     },
     {
-      "id": "evt-40000000",
-      "title": "海鲜忘车里4天打开门满车都是蛆",
+      "id": "evt-13000000",
+      "title": "佛山一中学招聘前 13 名考生均被淘汰，后 5 名反进体检，教育局已成立调查组，哪些信息值得关注？",
       "category": "society",
-      "hotScore": 0.6375,
+      "hotScore": 0.75,
       "freshness": 1,
-      "crossSource": 1,
-      "totalScore": 0.855,
-      "sources": [
-        {
-          "channel": "toutiao",
-          "rank": 6,
-          "hot": 14822333,
-          "url": "https://www.toutiao.com/trending/7671488059160002606/"
-        }
-      ],
-      "summary": "",
-      "url": "https://www.toutiao.com/trending/7671488059160002606/"
-    },
-    {
-      "id": "evt-deepseekv4",
-      "title": "网传 DeepSeek V4 Flash 完成任务后写了个游戏玩一上午，是真的吗？为什么会出现这样的现象？",
-      "category": "society",
-      "hotScore": 0.6,
-      "freshness": 1,
-      "crossSource": 1,
-      "totalScore": 0.84,
+      "crossSource": 0.6309,
+      "totalScore": 0.7893,
       "sources": [
         {
           "channel": "zhihu",
-          "rank": 5,
+          "rank": 1,
           "hot": 0,
           "url": ""
         }
@@ -159,55 +70,93 @@
       "url": ""
     },
     {
-      "id": "evt-60000000",
-      "title": "富婆带资进组给自己硬加60多场吻戏",
+      "id": "evt-10000000",
+      "title": "河南潜逃10日重大刑案嫌疑人落网",
       "category": "society",
-      "hotScore": 0.595,
-      "freshness": 1,
-      "crossSource": 1,
-      "totalScore": 0.838,
+      "hotScore": 0.7225,
+      "freshness": 0.9999,
+      "crossSource": 0.6309,
+      "totalScore": 0.7783,
       "sources": [
         {
           "channel": "toutiao",
-          "rank": 7,
-          "hot": 13411801,
-          "url": "https://www.toutiao.com/trending/7671558362017828378/"
+          "rank": 4,
+          "hot": 21199715,
+          "url": "https://www.toutiao.com/trending/7670925137198956571/"
         }
       ],
       "summary": "",
-      "url": "https://www.toutiao.com/trending/7671558362017828378/"
+      "url": "https://www.toutiao.com/trending/7670925137198956571/"
     },
     {
-      "id": "evt-14000000",
-      "title": "14岁男孩因家长放纵确诊糖尿病",
-      "category": "society",
-      "hotScore": 0.56,
-      "freshness": 1,
-      "crossSource": 1,
-      "totalScore": 0.824,
+      "id": "evt-a0000000",
+      "title": "多家A股公司收到美国关税退款",
+      "category": "economy",
+      "hotScore": 0.6375,
+      "freshness": 0.9999,
+      "crossSource": 0.6309,
+      "totalScore": 0.7443,
       "sources": [
         {
-          "channel": "baidu",
-          "rank": 7,
-          "hot": 0,
-          "url": "https://m.baidu.com/s?word=14%E5%B2%81%E7%94%B7%E5%AD%A9%E5%9B%A0%E5%AE%B6%E9%95%BF%E6%94%BE%E7%BA%B5%E7%A1%AE%E8%AF%8A%E7%B3%96%E5%B0%BF%E7%97%85&sa=fyb_news"
+          "channel": "toutiao",
+          "rank": 6,
+          "hot": 17356858,
+          "url": "https://www.toutiao.com/trending/7671564964749905451/"
         }
       ],
       "summary": "",
-      "url": "https://m.baidu.com/s?word=14%E5%B2%81%E7%94%B7%E5%AD%A9%E5%9B%A0%E5%AE%B6%E9%95%BF%E6%94%BE%E7%BA%B5%E7%A1%AE%E8%AF%8A%E7%B3%96%E5%B0%BF%E7%97%85&sa=fyb_news"
+      "url": "https://www.toutiao.com/trending/7671564964749905451/"
+    },
+    {
+      "id": "evt-20000000",
+      "title": "《年会不能停！2》票房预测跌至 2.48 亿，甚至不到第一部票房的零头，问题出在哪里？",
+      "category": "entertainment",
+      "hotScore": 0.7125,
+      "freshness": 1,
+      "crossSource": 0.6309,
+      "totalScore": 0.7743,
+      "sources": [
+        {
+          "channel": "zhihu",
+          "rank": 2,
+          "hot": 0,
+          "url": ""
+        }
+      ],
+      "summary": "",
+      "url": ""
+    },
+    {
+      "id": "evt-20268800",
+      "title": "如何评价 2026 年 8 月 8 日开启超前点映的文牧野执导、沈腾领衔主演的电影《欢迎来龙餐馆》？",
+      "category": "entertainment",
+      "hotScore": 0.675,
+      "freshness": 1,
+      "crossSource": 0.6309,
+      "totalScore": 0.7593,
+      "sources": [
+        {
+          "channel": "zhihu",
+          "rank": 3,
+          "hot": 0,
+          "url": ""
+        }
+      ],
+      "summary": "",
+      "url": ""
     },
     {
       "id": "evt-ai000000",
       "title": "李开复：AI时代，人的优势在“右脑”，做出数据不能预测的事情",
       "category": "society",
-      "hotScore": 0.5525,
+      "hotScore": 0.6375,
       "freshness": 1,
-      "crossSource": 1,
-      "totalScore": 0.821,
+      "crossSource": 0.6309,
+      "totalScore": 0.7443,
       "sources": [
         {
           "channel": "thepaper",
-          "rank": 8,
+          "rank": 6,
           "hot": 0,
           "url": "https://www.thepaper.cn/newsDetail_forward_33740664"
         }
@@ -216,56 +165,56 @@
       "url": "https://www.thepaper.cn/newsDetail_forward_33740664"
     },
     {
-      "id": "evt-10000000",
-      "title": "游客称睡私家车被酒店收 150 元过夜费，酒店回应费用涉及停车、使用厨具及衣物清洗等，如何看待此事？",
+      "id": "evt-4a000000",
+      "title": "新疆4A级及以上景区自驾服务费均改为按车收费",
       "category": "society",
-      "hotScore": 0.525,
+      "hotScore": 0.595,
       "freshness": 1,
-      "crossSource": 1,
-      "totalScore": 0.81,
+      "crossSource": 0.6309,
+      "totalScore": 0.7273,
       "sources": [
         {
-          "channel": "zhihu",
+          "channel": "thepaper",
           "rank": 7,
           "hot": 0,
-          "url": ""
+          "url": "https://www.thepaper.cn/newsDetail_forward_33744766"
         }
       ],
       "summary": "",
-      "url": ""
+      "url": "https://www.thepaper.cn/newsDetail_forward_33744766"
     },
     {
-      "id": "evt-6j000000",
-      "title": "轰-6J现身黄岩岛参与什么演练",
+      "id": "evt-14000000",
+      "title": "14岁男孩因家长放纵确诊糖尿病",
       "category": "society",
-      "hotScore": 0.4675,
+      "hotScore": 0.52,
       "freshness": 1,
-      "crossSource": 1,
-      "totalScore": 0.787,
+      "crossSource": 0.6309,
+      "totalScore": 0.6973,
       "sources": [
         {
-          "channel": "toutiao",
-          "rank": 10,
-          "hot": 9935706,
-          "url": "https://www.toutiao.com/trending/7671370881981333554/"
+          "channel": "baidu",
+          "rank": 8,
+          "hot": 0,
+          "url": "https://m.baidu.com/s?word=14%E5%B2%81%E7%94%B7%E5%AD%A9%E5%9B%A0%E5%AE%B6%E9%95%BF%E6%94%BE%E7%BA%B5%E7%A1%AE%E8%AF%8A%E7%B3%96%E5%B0%BF%E7%97%85&sa=fyb_news"
         }
       ],
       "summary": "",
-      "url": "https://www.toutiao.com/trending/7671370881981333554/"
+      "url": "https://m.baidu.com/s?word=14%E5%B2%81%E7%94%B7%E5%AD%A9%E5%9B%A0%E5%AE%B6%E9%95%BF%E6%94%BE%E7%BA%B5%E7%A1%AE%E8%AF%8A%E7%B3%96%E5%B0%BF%E7%97%85&sa=fyb_news"
     },
     {
       "id": "evt-30000000",
       "title": "网络谣言的3种典型“伪装套路”",
       "category": "society",
       "hotScore": 0.425,
-      "freshness": 1,
-      "crossSource": 1,
-      "totalScore": 0.77,
+      "freshness": 0.9999,
+      "crossSource": 0.6309,
+      "totalScore": 0.6593,
       "sources": [
         {
           "channel": "toutiao",
           "rank": 11,
-          "hot": 8990199,
+          "hot": 10527467,
           "url": "https://www.toutiao.com/trending/7670853259876515866/"
         }
       ],
