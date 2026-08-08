@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-08-08T12:25:00.666Z",
+  "generatedAt": "2026-08-08T14:22:33.523Z",
   "fields": {
     "society": "社会",
     "economy": "经济",
@@ -10,20 +10,20 @@
       "id": "evt-00000000",
       "title": "伊朗媒体发布伊朗最高领袖视频",
       "category": "society",
-      "hotScore": 0.8075,
+      "hotScore": 0.85,
       "freshness": 0.9999,
       "crossSource": 1,
-      "totalScore": 0.923,
+      "totalScore": 0.94,
       "sources": [
         {
           "channel": "toutiao",
-          "rank": 2,
-          "hot": 25893390,
+          "rank": 1,
+          "hot": 32848223,
           "url": "https://www.toutiao.com/trending/7671613890689502783/"
         },
         {
           "channel": "baidu",
-          "rank": 18,
+          "rank": 9,
           "hot": 0,
           "url": "https://m.baidu.com/s?word=%E4%BC%8A%E6%9C%97%E5%AA%92%E4%BD%93%E5%8F%91%E5%B8%83%E4%BC%8A%E6%9C%97%E6%9C%80%E9%AB%98%E9%A2%86%E8%A2%96%E8%A7%86%E9%A2%91&sa=fyb_news"
         }
@@ -32,28 +32,66 @@
       "url": "https://www.toutiao.com/trending/7671613890689502783/"
     },
     {
-      "id": "evt-90000000",
-      "title": "女子称丰胸术9个月后确诊乳腺癌，医美机构：手术不可能引发癌症，建议走司法途径",
+      "id": "evt-top00000",
+      "title": "上半年国内手机销量TOP30出炉",
       "category": "society",
       "hotScore": 0.8075,
-      "freshness": 1,
+      "freshness": 0.9999,
       "crossSource": 0.6309,
       "totalScore": 0.8123,
       "sources": [
         {
-          "channel": "thepaper",
+          "channel": "toutiao",
           "rank": 2,
-          "hot": 0,
-          "url": "https://www.thepaper.cn/newsDetail_forward_33739244"
+          "hot": 29722301,
+          "url": "https://www.toutiao.com/trending/7670854651357904947/"
         }
       ],
       "summary": "",
-      "url": "https://www.thepaper.cn/newsDetail_forward_33739244"
+      "url": "https://www.toutiao.com/trending/7670854651357904947/"
     },
     {
-      "id": "evt-13000000",
-      "title": "佛山一中学招聘前 13 名考生均被淘汰，后 5 名反进体检，教育局已成立调查组，哪些信息值得关注？",
+      "id": "evt-ai000000",
+      "title": "李开复：AI时代，人的优势在“右脑”，做出数据不能预测的事情",
       "category": "society",
+      "hotScore": 0.7225,
+      "freshness": 1,
+      "crossSource": 0.6309,
+      "totalScore": 0.7783,
+      "sources": [
+        {
+          "channel": "thepaper",
+          "rank": 4,
+          "hot": 0,
+          "url": "https://www.thepaper.cn/newsDetail_forward_33740664"
+        }
+      ],
+      "summary": "",
+      "url": "https://www.thepaper.cn/newsDetail_forward_33740664"
+    },
+    {
+      "id": "evt-4a000000",
+      "title": "新疆4A级及以上景区自驾服务费均改为按车收费",
+      "category": "society",
+      "hotScore": 0.68,
+      "freshness": 1,
+      "crossSource": 0.6309,
+      "totalScore": 0.7613,
+      "sources": [
+        {
+          "channel": "thepaper",
+          "rank": 5,
+          "hot": 0,
+          "url": "https://www.thepaper.cn/newsDetail_forward_33744766"
+        }
+      ],
+      "summary": "",
+      "url": "https://www.thepaper.cn/newsDetail_forward_33744766"
+    },
+    {
+      "id": "evt-20000000",
+      "title": "《年会不能停！2》票房预测跌至 2.48 亿，甚至不到第一部票房的零头，问题出在哪里？",
+      "category": "entertainment",
       "hotScore": 0.75,
       "freshness": 1,
       "crossSource": 0.6309,
@@ -71,65 +109,8 @@
     },
     {
       "id": "evt-10000000",
-      "title": "河南潜逃10日重大刑案嫌疑人落网",
+      "title": "游客称睡私家车被酒店收 150 元过夜费，酒店回应费用涉及停车、使用厨具及衣物清洗等，如何看待此事？",
       "category": "society",
-      "hotScore": 0.7225,
-      "freshness": 0.9999,
-      "crossSource": 0.6309,
-      "totalScore": 0.7783,
-      "sources": [
-        {
-          "channel": "toutiao",
-          "rank": 4,
-          "hot": 21199715,
-          "url": "https://www.toutiao.com/trending/7670925137198956571/"
-        }
-      ],
-      "summary": "",
-      "url": "https://www.toutiao.com/trending/7670925137198956571/"
-    },
-    {
-      "id": "evt-a0000000",
-      "title": "多家A股公司收到美国关税退款",
-      "category": "economy",
-      "hotScore": 0.6375,
-      "freshness": 0.9999,
-      "crossSource": 0.6309,
-      "totalScore": 0.7443,
-      "sources": [
-        {
-          "channel": "toutiao",
-          "rank": 6,
-          "hot": 17356858,
-          "url": "https://www.toutiao.com/trending/7671564964749905451/"
-        }
-      ],
-      "summary": "",
-      "url": "https://www.toutiao.com/trending/7671564964749905451/"
-    },
-    {
-      "id": "evt-20000000",
-      "title": "《年会不能停！2》票房预测跌至 2.48 亿，甚至不到第一部票房的零头，问题出在哪里？",
-      "category": "entertainment",
-      "hotScore": 0.7125,
-      "freshness": 1,
-      "crossSource": 0.6309,
-      "totalScore": 0.7743,
-      "sources": [
-        {
-          "channel": "zhihu",
-          "rank": 2,
-          "hot": 0,
-          "url": ""
-        }
-      ],
-      "summary": "",
-      "url": ""
-    },
-    {
-      "id": "evt-20268800",
-      "title": "如何评价 2026 年 8 月 8 日开启超前点映的文牧野执导、沈腾领衔主演的电影《欢迎来龙餐馆》？",
-      "category": "entertainment",
       "hotScore": 0.675,
       "freshness": 1,
       "crossSource": 0.6309,
@@ -146,61 +127,118 @@
       "url": ""
     },
     {
-      "id": "evt-ai000000",
-      "title": "李开复：AI时代，人的优势在“右脑”，做出数据不能预测的事情",
+      "id": "evt-11000000",
+      "title": "情侣平潭拍日出坠崖1死1伤",
       "category": "society",
       "hotScore": 0.6375,
-      "freshness": 1,
+      "freshness": 0.9999,
       "crossSource": 0.6309,
       "totalScore": 0.7443,
       "sources": [
         {
-          "channel": "thepaper",
+          "channel": "toutiao",
+          "rank": 6,
+          "hot": 19923454,
+          "url": "https://www.toutiao.com/trending/7671606512804806697/"
+        }
+      ],
+      "summary": "",
+      "url": "https://www.toutiao.com/trending/7671606512804806697/"
+    },
+    {
+      "id": "evt-13000000",
+      "title": "佛山一中学招聘前 13 名考生均被淘汰，后 5 名反进体检，教育局已成立调查组，哪些信息值得关注？",
+      "category": "society",
+      "hotScore": 0.6,
+      "freshness": 1,
+      "crossSource": 0.6309,
+      "totalScore": 0.7293,
+      "sources": [
+        {
+          "channel": "zhihu",
+          "rank": 5,
+          "hot": 0,
+          "url": ""
+        }
+      ],
+      "summary": "",
+      "url": ""
+    },
+    {
+      "id": "evt-85203000",
+      "title": "于东来 8 月 5 日官宣：2030 年后停止所有经营项目发展，转型「学校式企业」，这种打法在商业上站得住吗？",
+      "category": "society",
+      "hotScore": 0.5625,
+      "freshness": 1,
+      "crossSource": 0.6309,
+      "totalScore": 0.7143,
+      "sources": [
+        {
+          "channel": "zhihu",
           "rank": 6,
           "hot": 0,
-          "url": "https://www.thepaper.cn/newsDetail_forward_33740664"
+          "url": ""
         }
       ],
       "summary": "",
-      "url": "https://www.thepaper.cn/newsDetail_forward_33740664"
+      "url": ""
     },
     {
-      "id": "evt-4a000000",
-      "title": "新疆4A级及以上景区自驾服务费均改为按车收费",
+      "id": "evt-kcarr000",
+      "title": "比亚迪纯电 K-car「海獭」Racco 在日本获超 700 辆订单，这对其出海战略意味着什么？",
       "category": "society",
-      "hotScore": 0.595,
+      "hotScore": 0.525,
       "freshness": 1,
       "crossSource": 0.6309,
-      "totalScore": 0.7273,
+      "totalScore": 0.6993,
+      "sources": [
+        {
+          "channel": "zhihu",
+          "rank": 7,
+          "hot": 0,
+          "url": ""
+        }
+      ],
+      "summary": "",
+      "url": ""
+    },
+    {
+      "id": "evt-20260000",
+      "title": "兵韬志略｜日本发布2026防卫白皮书，“总体战”动员值得警惕",
+      "category": "society",
+      "hotScore": 0.51,
+      "freshness": 1,
+      "crossSource": 0.6309,
+      "totalScore": 0.6933,
       "sources": [
         {
           "channel": "thepaper",
-          "rank": 7,
+          "rank": 9,
           "hot": 0,
-          "url": "https://www.thepaper.cn/newsDetail_forward_33744766"
+          "url": "https://www.thepaper.cn/newsDetail_forward_33736615"
         }
       ],
       "summary": "",
-      "url": "https://www.thepaper.cn/newsDetail_forward_33744766"
+      "url": "https://www.thepaper.cn/newsDetail_forward_33736615"
     },
     {
-      "id": "evt-14000000",
-      "title": "14岁男孩因家长放纵确诊糖尿病",
+      "id": "evt-wtt00000",
+      "title": "WTT横滨冠军赛国乒女单三将晋级四强",
       "category": "society",
-      "hotScore": 0.52,
-      "freshness": 1,
+      "hotScore": 0.4675,
+      "freshness": 0.9999,
       "crossSource": 0.6309,
-      "totalScore": 0.6973,
+      "totalScore": 0.6763,
       "sources": [
         {
-          "channel": "baidu",
-          "rank": 8,
-          "hot": 0,
-          "url": "https://m.baidu.com/s?word=14%E5%B2%81%E7%94%B7%E5%AD%A9%E5%9B%A0%E5%AE%B6%E9%95%BF%E6%94%BE%E7%BA%B5%E7%A1%AE%E8%AF%8A%E7%B3%96%E5%B0%BF%E7%97%85&sa=fyb_news"
+          "channel": "toutiao",
+          "rank": 10,
+          "hot": 13355091,
+          "url": "https://www.toutiao.com/trending/7670712779452071955/"
         }
       ],
       "summary": "",
-      "url": "https://m.baidu.com/s?word=14%E5%B2%81%E7%94%B7%E5%AD%A9%E5%9B%A0%E5%AE%B6%E9%95%BF%E6%94%BE%E7%BA%B5%E7%A1%AE%E8%AF%8A%E7%B3%96%E5%B0%BF%E7%97%85&sa=fyb_news"
+      "url": "https://www.toutiao.com/trending/7670712779452071955/"
     },
     {
       "id": "evt-30000000",
@@ -214,7 +252,7 @@
         {
           "channel": "toutiao",
           "rank": 11,
-          "hot": 10527467,
+          "hot": 12084186,
           "url": "https://www.toutiao.com/trending/7670853259876515866/"
         }
       ],
