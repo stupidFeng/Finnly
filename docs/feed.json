@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-08-09T20:19:50.213Z",
+  "generatedAt": "2026-08-09T22:19:09.693Z",
   "fields": {
     "society": "社会",
     "economy": "经济",
@@ -18,7 +18,7 @@
         {
           "channel": "toutiao",
           "rank": 2,
-          "hot": 21026960,
+          "hot": 22678611,
           "url": "https://www.toutiao.com/trending/7670941843498287158/"
         },
         {
@@ -43,7 +43,7 @@
         {
           "channel": "toutiao",
           "rank": 3,
-          "hot": 19025980,
+          "hot": 20520455,
           "url": "https://www.toutiao.com/trending/7671832122461716521/"
         }
       ],
@@ -70,8 +70,8 @@
       "url": "https://www.thepaper.cn/newsDetail_forward_33747571"
     },
     {
-      "id": "evt-rtx50000",
-      "title": "如何看待「现在查 RTX 5090 价格已经变成了一种恐怖片题材」这个梗？",
+      "id": "evt-waywardblg",
+      "title": "Wayward 称 BLG 放弃 Bin 是最错误决定，你如何评价？",
       "category": "society",
       "hotScore": 0.675,
       "freshness": 1,
@@ -100,69 +100,12 @@
         {
           "channel": "toutiao",
           "rank": 6,
-          "hot": 14094793,
+          "hot": 15201927,
           "url": "https://www.toutiao.com/trending/7671958308341481508/"
         }
       ],
       "summary": "",
       "url": "https://www.toutiao.com/trending/7671958308341481508/"
-    },
-    {
-      "id": "evt-waywardblg",
-      "title": "Wayward 称 BLG 放弃 Bin 是最错误决定，你如何评价？",
-      "category": "society",
-      "hotScore": 0.6375,
-      "freshness": 1,
-      "crossSource": 0.6309,
-      "totalScore": 0.7443,
-      "sources": [
-        {
-          "channel": "zhihu",
-          "rank": 4,
-          "hot": 0,
-          "url": ""
-        }
-      ],
-      "summary": "",
-      "url": ""
-    },
-    {
-      "id": "evt-v8300000",
-      "title": "大V：日称解放军有8架歼35是自欺欺人",
-      "category": "society",
-      "hotScore": 0.595,
-      "freshness": 0.9999,
-      "crossSource": 0.6309,
-      "totalScore": 0.7273,
-      "sources": [
-        {
-          "channel": "toutiao",
-          "rank": 7,
-          "hot": 12753496,
-          "url": "https://www.toutiao.com/trending/7671945014229863942/"
-        }
-      ],
-      "summary": "",
-      "url": "https://www.toutiao.com/trending/7671945014229863942/"
-    },
-    {
-      "id": "evt-suv00000",
-      "title": "新能源充电站一辆SUV突然起火爆燃",
-      "category": "society",
-      "hotScore": 0.5525,
-      "freshness": 0.9999,
-      "crossSource": 0.6309,
-      "totalScore": 0.7103,
-      "sources": [
-        {
-          "channel": "toutiao",
-          "rank": 8,
-          "hot": 11539840,
-          "url": "https://www.toutiao.com/trending/7671198968541921289/"
-        }
-      ],
-      "summary": "",
-      "url": "https://www.toutiao.com/trending/7671198968541921289/"
     },
     {
       "id": "evt-42100000",
@@ -207,7 +150,7 @@
       "title": "穿8850元MiuMiu鞋脚被染黑 官方回应",
       "category": "society",
       "hotScore": 0.48,
-      "freshness": 0.9999,
+      "freshness": 1,
       "crossSource": 0.6309,
       "totalScore": 0.6813,
       "sources": [
@@ -222,8 +165,8 @@
       "url": "https://m.baidu.com/s?word=%E7%A9%BF8850%E5%85%83MiuMiu%E9%9E%8B%E8%84%9A%E8%A2%AB%E6%9F%93%E9%BB%91+%E5%AE%98%E6%96%B9%E5%9B%9E%E5%BA%94&sa=fyb_news"
     },
     {
-      "id": "evt-10000000",
-      "title": "10万台中国空调坐着火车去欧洲",
+      "id": "evt-suv00000",
+      "title": "新能源充电站一辆SUV突然起火爆燃",
       "category": "society",
       "hotScore": 0.4675,
       "freshness": 0.9999,
@@ -233,19 +176,38 @@
         {
           "channel": "toutiao",
           "rank": 10,
-          "hot": 9448022,
-          "url": "https://www.toutiao.com/trending/7670947462508757038/"
+          "hot": 10190156,
+          "url": "https://www.toutiao.com/trending/7671198968541921289/"
         }
       ],
       "summary": "",
-      "url": "https://www.toutiao.com/trending/7670947462508757038/"
+      "url": "https://www.toutiao.com/trending/7671198968541921289/"
+    },
+    {
+      "id": "evt-rtx50000",
+      "title": "如何看待「现在查 RTX 5090 价格已经变成了一种恐怖片题材」这个梗？",
+      "category": "society",
+      "hotScore": 0.45,
+      "freshness": 1,
+      "crossSource": 0.6309,
+      "totalScore": 0.6693,
+      "sources": [
+        {
+          "channel": "zhihu",
+          "rank": 9,
+          "hot": 0,
+          "url": ""
+        }
+      ],
+      "summary": "",
+      "url": ""
     },
     {
       "id": "evt-16000000",
       "title": "今年第16号台风琵鹭生成",
       "category": "society",
       "hotScore": 0.44,
-      "freshness": 0.9999,
+      "freshness": 1,
       "crossSource": 0.6309,
       "totalScore": 0.6653,
       "sources": [
@@ -271,31 +233,12 @@
         {
           "channel": "toutiao",
           "rank": 11,
-          "hot": 8548924,
+          "hot": 9220435,
           "url": "https://www.toutiao.com/trending/7671970111683969066/"
         }
       ],
       "summary": "",
       "url": "https://www.toutiao.com/trending/7671970111683969066/"
-    },
-    {
-      "id": "evt-74300000",
-      "title": "现货黄金周涨超7%站上4300美元，为何突然大涨？",
-      "category": "society",
-      "hotScore": 0.425,
-      "freshness": 1,
-      "crossSource": 0.6309,
-      "totalScore": 0.6593,
-      "sources": [
-        {
-          "channel": "thepaper",
-          "rank": 11,
-          "hot": 0,
-          "url": "https://www.thepaper.cn/newsDetail_forward_33744664"
-        }
-      ],
-      "summary": "",
-      "url": "https://www.thepaper.cn/newsDetail_forward_33744664"
     }
   ]
 }
