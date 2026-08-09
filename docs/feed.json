@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-08-09T03:23:51.021Z",
+  "generatedAt": "2026-08-09T04:54:48.842Z",
   "fields": {
     "society": "社会",
     "economy": "经济",
@@ -11,19 +11,19 @@
       "title": "以军士兵把枪口对准中国记者",
       "category": "society",
       "hotScore": 0.8075,
-      "freshness": 1,
+      "freshness": 0.9999,
       "crossSource": 1,
       "totalScore": 0.923,
       "sources": [
         {
           "channel": "toutiao",
           "rank": 2,
-          "hot": 45164866,
+          "hot": 48734158,
           "url": "https://www.toutiao.com/trending/7670816047708667940/"
         },
         {
           "channel": "baidu",
-          "rank": 7,
+          "rank": 9,
           "hot": 0,
           "url": "https://m.baidu.com/s?word=%E4%BB%A5%E5%86%9B%E5%A3%AB%E5%85%B5%E6%8A%8A%E6%9E%AA%E5%8F%A3%E5%AF%B9%E5%87%86%E4%B8%AD%E5%9B%BD%E8%AE%B0%E8%80%85&sa=fyb_news"
         }
@@ -36,14 +36,14 @@
       "title": "白海豚10级风圈",
       "category": "society",
       "hotScore": 0.85,
-      "freshness": 1,
+      "freshness": 0.9999,
       "crossSource": 0.6309,
       "totalScore": 0.8293,
       "sources": [
         {
           "channel": "toutiao",
           "rank": 1,
-          "hot": 49914896,
+          "hot": 53859574,
           "url": "https://www.toutiao.com/trending/7671841305773002291/"
         }
       ],
@@ -89,61 +89,80 @@
       "url": ""
     },
     {
-      "id": "evt-99000000",
-      "title": "男孩被妈妈强拉拍照比“995”",
-      "category": "society",
-      "hotScore": 0.6375,
+      "id": "evt-42026000",
+      "title": "《蜘蛛侠4》登顶2026全球票房总冠军",
+      "category": "entertainment",
+      "hotScore": 0.64,
       "freshness": 1,
       "crossSource": 0.6309,
-      "totalScore": 0.7443,
+      "totalScore": 0.7453,
       "sources": [
         {
-          "channel": "toutiao",
-          "rank": 6,
-          "hot": 30274915,
-          "url": "https://www.toutiao.com/trending/7671666402750824491/"
-        }
-      ],
-      "summary": "",
-      "url": "https://www.toutiao.com/trending/7671666402750824491/"
-    },
-    {
-      "id": "evt-24000000",
-      "title": "于东来称要关闭营业 24 年的生活广场店，每一个项目都是国际一流的品质，达不到的都关了，如何看待此事？",
-      "category": "society",
-      "hotScore": 0.6375,
-      "freshness": 1,
-      "crossSource": 0.6309,
-      "totalScore": 0.7443,
-      "sources": [
-        {
-          "channel": "zhihu",
-          "rank": 4,
+          "channel": "baidu",
+          "rank": 5,
           "hot": 0,
-          "url": ""
+          "url": "https://m.baidu.com/s?word=%E3%80%8A%E8%9C%98%E8%9B%9B%E4%BE%A04%E3%80%8B%E7%99%BB%E9%A1%B62026%E5%85%A8%E7%90%83%E7%A5%A8%E6%88%BF%E6%80%BB%E5%86%A0%E5%86%9B&sa=fyb_news"
         }
       ],
       "summary": "",
-      "url": ""
+      "url": "https://m.baidu.com/s?word=%E3%80%8A%E8%9C%98%E8%9B%9B%E4%BE%A04%E3%80%8B%E7%99%BB%E9%A1%B62026%E5%85%A8%E7%90%83%E7%A5%A8%E6%88%BF%E6%80%BB%E5%86%A0%E5%86%9B&sa=fyb_news"
     },
     {
-      "id": "evt-89340000",
-      "title": "89岁婆婆34年坚持锻炼",
+      "id": "evt-30000000",
+      "title": "白海豚生命史是普通台风3倍以上",
       "category": "society",
-      "hotScore": 0.51,
-      "freshness": 1,
+      "hotScore": 0.68,
+      "freshness": 0.9999,
       "crossSource": 0.6309,
-      "totalScore": 0.6933,
+      "totalScore": 0.7613,
       "sources": [
         {
           "channel": "toutiao",
-          "rank": 9,
-          "hot": 22428208,
-          "url": "https://www.toutiao.com/trending/7671623822897987627/"
+          "rank": 5,
+          "hot": 36103152,
+          "url": "https://www.toutiao.com/trending/7671499726491058230/"
         }
       ],
       "summary": "",
-      "url": "https://www.toutiao.com/trending/7671623822897987627/"
+      "url": "https://www.toutiao.com/trending/7671499726491058230/"
+    },
+    {
+      "id": "evt-80000000",
+      "title": "网上卖黄金卷入电诈8万元被划扣，驻马店市公安局称新蔡警方程序违法",
+      "category": "society",
+      "hotScore": 0.595,
+      "freshness": 1,
+      "crossSource": 0.6309,
+      "totalScore": 0.7273,
+      "sources": [
+        {
+          "channel": "thepaper",
+          "rank": 7,
+          "hot": 0,
+          "url": "https://www.thepaper.cn/newsDetail_forward_33747571"
+        }
+      ],
+      "summary": "",
+      "url": "https://www.thepaper.cn/newsDetail_forward_33747571"
+    },
+    {
+      "id": "evt-u1700000",
+      "title": "国足U17与阿森纳决赛取消 并列冠军",
+      "category": "society",
+      "hotScore": 0.56,
+      "freshness": 1,
+      "crossSource": 0.6309,
+      "totalScore": 0.7133,
+      "sources": [
+        {
+          "channel": "baidu",
+          "rank": 7,
+          "hot": 0,
+          "url": "https://m.baidu.com/s?word=%E5%9B%BD%E8%B6%B3U17%E4%B8%8E%E9%98%BF%E6%A3%AE%E7%BA%B3%E5%86%B3%E8%B5%9B%E5%8F%96%E6%B6%88+%E5%B9%B6%E5%88%97%E5%86%A0%E5%86%9B&sa=fyb_news"
+        }
+      ],
+      "summary": "",
+      "url": "https://m.baidu.com/s?word=%E5%9B%BD%E8%B6%B3U17%E4%B8%8E%E9%98%BF%E6%A3%AE%E7%BA%B3%E5%86%B3%E8%B5%9B%E5%8F%96%E6%B6%88+%E5%B9%B6%E5%88%97%E5%86%A0%E5%86%9B&sa=fyb_news"
     },
     {
       "id": "evt-11200000",
@@ -165,8 +184,65 @@
       "url": "https://www.thepaper.cn/newsDetail_forward_33743109"
     },
     {
-      "id": "evt-20260000",
-      "title": "2026“未录满”本科专业排行榜出炉",
+      "id": "evt-24000000",
+      "title": "于东来称要关闭营业 24 年的生活广场店，每一个项目都是国际一流的品质，达不到的都关了，如何看待此事？",
+      "category": "society",
+      "hotScore": 0.4875,
+      "freshness": 1,
+      "crossSource": 0.6309,
+      "totalScore": 0.6843,
+      "sources": [
+        {
+          "channel": "zhihu",
+          "rank": 8,
+          "hot": 0,
+          "url": ""
+        }
+      ],
+      "summary": "",
+      "url": ""
+    },
+    {
+      "id": "evt-99000000",
+      "title": "男孩被妈妈强拉拍照比“995”",
+      "category": "society",
+      "hotScore": 0.4675,
+      "freshness": 0.9999,
+      "crossSource": 0.6309,
+      "totalScore": 0.6763,
+      "sources": [
+        {
+          "channel": "toutiao",
+          "rank": 10,
+          "hot": 21897668,
+          "url": "https://www.toutiao.com/trending/7671666402750824491/"
+        }
+      ],
+      "summary": "",
+      "url": "https://www.toutiao.com/trending/7671666402750824491/"
+    },
+    {
+      "id": "evt-73000000",
+      "title": "河南西平县“7·30”故意伤害案件犯罪嫌疑人夏某钢被抓获",
+      "category": "society",
+      "hotScore": 0.4675,
+      "freshness": 1,
+      "crossSource": 0.6309,
+      "totalScore": 0.6763,
+      "sources": [
+        {
+          "channel": "thepaper",
+          "rank": 10,
+          "hot": 0,
+          "url": "https://www.thepaper.cn/newsDetail_forward_33745286"
+        }
+      ],
+      "summary": "",
+      "url": "https://www.thepaper.cn/newsDetail_forward_33745286"
+    },
+    {
+      "id": "evt-60000000",
+      "title": "经常半夜醒要排查6种疾病",
       "category": "society",
       "hotScore": 0.44,
       "freshness": 1,
@@ -177,30 +253,11 @@
           "channel": "baidu",
           "rank": 10,
           "hot": 0,
-          "url": "https://m.baidu.com/s?word=2026%E2%80%9C%E6%9C%AA%E5%BD%95%E6%BB%A1%E2%80%9D%E6%9C%AC%E7%A7%91%E4%B8%93%E4%B8%9A%E6%8E%92%E8%A1%8C%E6%A6%9C%E5%87%BA%E7%82%89&sa=fyb_news"
+          "url": "https://m.baidu.com/s?word=%E7%BB%8F%E5%B8%B8%E5%8D%8A%E5%A4%9C%E9%86%92%E8%A6%81%E6%8E%92%E6%9F%A56%E7%A7%8D%E7%96%BE%E7%97%85&sa=fyb_news"
         }
       ],
       "summary": "",
-      "url": "https://m.baidu.com/s?word=2026%E2%80%9C%E6%9C%AA%E5%BD%95%E6%BB%A1%E2%80%9D%E6%9C%AC%E7%A7%91%E4%B8%93%E4%B8%9A%E6%8E%92%E8%A1%8C%E6%A6%9C%E5%87%BA%E7%82%89&sa=fyb_news"
-    },
-    {
-      "id": "evt-80000000",
-      "title": "网上卖黄金卷入电诈8万元被划扣，驻马店市公安局称新蔡警方程序违法",
-      "category": "society",
-      "hotScore": 0.425,
-      "freshness": 1,
-      "crossSource": 0.6309,
-      "totalScore": 0.6593,
-      "sources": [
-        {
-          "channel": "thepaper",
-          "rank": 11,
-          "hot": 0,
-          "url": "https://www.thepaper.cn/newsDetail_forward_33747571"
-        }
-      ],
-      "summary": "",
-      "url": "https://www.thepaper.cn/newsDetail_forward_33747571"
+      "url": "https://m.baidu.com/s?word=%E7%BB%8F%E5%B8%B8%E5%8D%8A%E5%A4%9C%E9%86%92%E8%A6%81%E6%8E%92%E6%9F%A56%E7%A7%8D%E7%96%BE%E7%97%85&sa=fyb_news"
     }
   ]
 }
