@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-08-09T08:29:53.659Z",
+  "generatedAt": "2026-08-09T10:22:14.815Z",
   "fields": {
     "society": "社会",
     "economy": "经济",
@@ -8,80 +8,36 @@
   "feed": [
     {
       "id": "evt-00000000",
-      "title": "台风白海豚到哪里了",
+      "title": "台风白海豚正式登陆",
       "category": "society",
-      "hotScore": 0.6,
-      "freshness": 0.9999,
-      "crossSource": 1,
-      "totalScore": 0.84,
-      "sources": [
-        {
-          "channel": "toutiao",
-          "rank": 7,
-          "hot": 35834974,
-          "url": "https://www.toutiao.com/trending/7670858062097481770/"
-        },
-        {
-          "channel": "baidu",
-          "rank": 6,
-          "hot": 0,
-          "url": "https://m.baidu.com/s?word=%E5%8F%B0%E9%A3%8E%E7%99%BD%E6%B5%B7%E8%B1%9A%E5%88%B0%E5%93%AA%E9%87%8C%E4%BA%86&sa=fyb_news"
-        }
-      ],
-      "summary": "",
-      "url": "https://www.toutiao.com/trending/7670858062097481770/"
-    },
-    {
-      "id": "evt-25000000",
-      "title": "于东来回应胖东来近25年老店年底关闭",
-      "category": "society",
-      "hotScore": 0.8075,
-      "freshness": 0.9999,
-      "crossSource": 0.6309,
-      "totalScore": 0.8123,
-      "sources": [
-        {
-          "channel": "toutiao",
-          "rank": 2,
-          "hot": 59081884,
-          "url": "https://www.toutiao.com/trending/7671135915863621675/"
-        }
-      ],
-      "summary": "",
-      "url": "https://www.toutiao.com/trending/7671135915863621675/"
-    },
-    {
-      "id": "evt-4a000000",
-      "title": "新疆4A级及以上景区自驾服务费均改为按车收费",
-      "category": "society",
-      "hotScore": 0.8075,
+      "hotScore": 0.85,
       "freshness": 1,
-      "crossSource": 0.6309,
-      "totalScore": 0.8123,
+      "crossSource": 1,
+      "totalScore": 0.94,
       "sources": [
         {
-          "channel": "thepaper",
-          "rank": 2,
-          "hot": 0,
-          "url": "https://www.thepaper.cn/newsDetail_forward_33744766"
+          "channel": "toutiao",
+          "rank": 1,
+          "hot": 75385756,
+          "url": "https://www.toutiao.com/trending/7671218090708946475/"
         }
       ],
       "summary": "",
-      "url": "https://www.thepaper.cn/newsDetail_forward_33744766"
+      "url": "https://www.toutiao.com/trending/7671218090708946475/"
     },
     {
       "id": "evt-70000000",
       "title": "前7个月我国区域外贸增势稳健",
       "category": "society",
       "hotScore": 0.765,
-      "freshness": 0.9999,
-      "crossSource": 0.6309,
-      "totalScore": 0.7953,
+      "freshness": 1,
+      "crossSource": 1,
+      "totalScore": 0.906,
       "sources": [
         {
           "channel": "toutiao",
           "rank": 3,
-          "hot": 53459499,
+          "hot": 61720637,
           "url": "https://www.toutiao.com/trending/7671218090708880939/"
         }
       ],
@@ -89,13 +45,32 @@
       "url": "https://www.toutiao.com/trending/7671218090708880939/"
     },
     {
+      "id": "evt-25000000",
+      "title": "于东来回应胖东来近25年老店年底关闭",
+      "category": "society",
+      "hotScore": 0.7225,
+      "freshness": 1,
+      "crossSource": 1,
+      "totalScore": 0.889,
+      "sources": [
+        {
+          "channel": "toutiao",
+          "rank": 4,
+          "hot": 55847141,
+          "url": "https://www.toutiao.com/trending/7671135915863621675/"
+        }
+      ],
+      "summary": "",
+      "url": "https://www.toutiao.com/trending/7671135915863621675/"
+    },
+    {
       "id": "evt-10000000",
       "title": "中国第1高楼阻尼器摆动明显",
       "category": "society",
       "hotScore": 0.72,
       "freshness": 1,
-      "crossSource": 0.6309,
-      "totalScore": 0.7773,
+      "crossSource": 1,
+      "totalScore": 0.888,
       "sources": [
         {
           "channel": "baidu",
@@ -113,8 +88,8 @@
       "category": "society",
       "hotScore": 0.7125,
       "freshness": 1,
-      "crossSource": 0.6309,
-      "totalScore": 0.7743,
+      "crossSource": 1,
+      "totalScore": 0.885,
       "sources": [
         {
           "channel": "zhihu",
@@ -132,8 +107,8 @@
       "category": "society",
       "hotScore": 0.68,
       "freshness": 1,
-      "crossSource": 0.6309,
-      "totalScore": 0.7613,
+      "crossSource": 1,
+      "totalScore": 0.872,
       "sources": [
         {
           "channel": "baidu",
@@ -146,23 +121,23 @@
       "url": "https://m.baidu.com/s?word=%E9%A6%96%E4%B8%AA%E5%85%A8%E5%9B%BD%E4%BA%A710%E4%B8%87%E5%8D%A1AI%E8%B6%85%E9%9B%86%E7%BE%A4%E6%8A%95%E7%94%A8&sa=fyb_news"
     },
     {
-      "id": "evt-20000000",
-      "title": "老人买200万保险退保只退108万",
+      "id": "evt-23000000",
+      "title": "年仅23岁 夏士远空降时坠地牺牲",
       "category": "society",
-      "hotScore": 0.6375,
-      "freshness": 0.9999,
-      "crossSource": 0.6309,
-      "totalScore": 0.7443,
+      "hotScore": 0.64,
+      "freshness": 1,
+      "crossSource": 1,
+      "totalScore": 0.856,
       "sources": [
         {
-          "channel": "toutiao",
-          "rank": 6,
-          "hot": 39603771,
-          "url": "https://www.toutiao.com/trending/7671263736380145718/"
+          "channel": "baidu",
+          "rank": 5,
+          "hot": 0,
+          "url": "https://m.baidu.com/s?word=%E5%B9%B4%E4%BB%8523%E5%B2%81+%E5%A4%8F%E5%A3%AB%E8%BF%9C%E7%A9%BA%E9%99%8D%E6%97%B6%E5%9D%A0%E5%9C%B0%E7%89%BA%E7%89%B2&sa=fyb_news"
         }
       ],
       "summary": "",
-      "url": "https://www.toutiao.com/trending/7671263736380145718/"
+      "url": "https://m.baidu.com/s?word=%E5%B9%B4%E4%BB%8523%E5%B2%81+%E5%A4%8F%E5%A3%AB%E8%BF%9C%E7%A9%BA%E9%99%8D%E6%97%B6%E5%9D%A0%E5%9C%B0%E7%89%BA%E7%89%B2&sa=fyb_news"
     },
     {
       "id": "evt-20260000",
@@ -170,8 +145,8 @@
       "category": "society",
       "hotScore": 0.6375,
       "freshness": 1,
-      "crossSource": 0.6309,
-      "totalScore": 0.7443,
+      "crossSource": 1,
+      "totalScore": 0.855,
       "sources": [
         {
           "channel": "zhihu",
@@ -187,14 +162,14 @@
       "id": "evt-80000000",
       "title": "网上卖黄金卷入电诈8万元被划扣，驻马店市公安局称新蔡警方程序违法",
       "category": "society",
-      "hotScore": 0.595,
+      "hotScore": 0.6375,
       "freshness": 1,
-      "crossSource": 0.6309,
-      "totalScore": 0.7273,
+      "crossSource": 1,
+      "totalScore": 0.855,
       "sources": [
         {
           "channel": "thepaper",
-          "rank": 7,
+          "rank": 6,
           "hot": 0,
           "url": "https://www.thepaper.cn/newsDetail_forward_33747571"
         }
@@ -203,51 +178,13 @@
       "url": "https://www.thepaper.cn/newsDetail_forward_33747571"
     },
     {
-      "id": "evt-23000000",
-      "title": "年仅23岁 夏士远空降时坠地牺牲",
-      "category": "society",
-      "hotScore": 0.56,
-      "freshness": 1,
-      "crossSource": 0.6309,
-      "totalScore": 0.7133,
-      "sources": [
-        {
-          "channel": "baidu",
-          "rank": 7,
-          "hot": 0,
-          "url": "https://m.baidu.com/s?word=%E5%B9%B4%E4%BB%8523%E5%B2%81+%E5%A4%8F%E5%A3%AB%E8%BF%9C%E7%A9%BA%E9%99%8D%E6%97%B6%E5%9D%A0%E5%9C%B0%E7%89%BA%E7%89%B2&sa=fyb_news"
-        }
-      ],
-      "summary": "",
-      "url": "https://m.baidu.com/s?word=%E5%B9%B4%E4%BB%8523%E5%B2%81+%E5%A4%8F%E5%A3%AB%E8%BF%9C%E7%A9%BA%E9%99%8D%E6%97%B6%E5%9D%A0%E5%9C%B0%E7%89%BA%E7%89%B2&sa=fyb_news"
-    },
-    {
-      "id": "evt-30000000",
-      "title": "白海豚生命史是普通台风3倍以上",
-      "category": "society",
-      "hotScore": 0.5525,
-      "freshness": 0.9999,
-      "crossSource": 0.6309,
-      "totalScore": 0.7103,
-      "sources": [
-        {
-          "channel": "toutiao",
-          "rank": 8,
-          "hot": 32424825,
-          "url": "https://www.toutiao.com/trending/7671499726491058230/"
-        }
-      ],
-      "summary": "",
-      "url": "https://www.toutiao.com/trending/7671499726491058230/"
-    },
-    {
       "id": "evt-11200000",
       "title": "检测列车撞人致11死2伤，施工业务外包单位被罚1.5万元",
       "category": "society",
       "hotScore": 0.5525,
       "freshness": 1,
-      "crossSource": 0.6309,
-      "totalScore": 0.7103,
+      "crossSource": 1,
+      "totalScore": 0.821,
       "sources": [
         {
           "channel": "thepaper",
@@ -258,25 +195,6 @@
       ],
       "summary": "",
       "url": "https://www.thepaper.cn/newsDetail_forward_33743109"
-    },
-    {
-      "id": "evt-73000000",
-      "title": "河南西平县“7·30”故意伤害案件犯罪嫌疑人夏某钢被抓获",
-      "category": "society",
-      "hotScore": 0.4675,
-      "freshness": 1,
-      "crossSource": 0.6309,
-      "totalScore": 0.6763,
-      "sources": [
-        {
-          "channel": "thepaper",
-          "rank": 10,
-          "hot": 0,
-          "url": "https://www.thepaper.cn/newsDetail_forward_33745286"
-        }
-      ],
-      "summary": "",
-      "url": "https://www.thepaper.cn/newsDetail_forward_33745286"
     }
   ]
 }
