@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-08-09T04:54:48.842Z",
+  "generatedAt": "2026-08-09T06:37:28.280Z",
   "fields": {
     "society": "社会",
     "economy": "经济",
@@ -8,42 +8,42 @@
   "feed": [
     {
       "id": "evt-00000000",
-      "title": "以军士兵把枪口对准中国记者",
+      "title": "台风白海豚到哪了",
       "category": "society",
-      "hotScore": 0.8075,
-      "freshness": 0.9999,
+      "hotScore": 0.595,
+      "freshness": 1,
       "crossSource": 1,
-      "totalScore": 0.923,
+      "totalScore": 0.838,
       "sources": [
         {
           "channel": "toutiao",
-          "rank": 2,
-          "hot": 48734158,
-          "url": "https://www.toutiao.com/trending/7670816047708667940/"
+          "rank": 7,
+          "hot": 32312078,
+          "url": "https://www.toutiao.com/trending/7670858062097481770/"
         },
         {
           "channel": "baidu",
-          "rank": 9,
+          "rank": 11,
           "hot": 0,
-          "url": "https://m.baidu.com/s?word=%E4%BB%A5%E5%86%9B%E5%A3%AB%E5%85%B5%E6%8A%8A%E6%9E%AA%E5%8F%A3%E5%AF%B9%E5%87%86%E4%B8%AD%E5%9B%BD%E8%AE%B0%E8%80%85&sa=fyb_news"
+          "url": "https://m.baidu.com/s?word=%E5%8F%B0%E9%A3%8E%E7%99%BD%E6%B5%B7%E8%B1%9A%E5%88%B0%E5%93%AA%E4%BA%86&sa=fyb_news"
         }
       ],
       "summary": "",
-      "url": "https://www.toutiao.com/trending/7670816047708667940/"
+      "url": "https://www.toutiao.com/trending/7670858062097481770/"
     },
     {
       "id": "evt-10000000",
       "title": "白海豚10级风圈",
       "category": "society",
       "hotScore": 0.85,
-      "freshness": 0.9999,
+      "freshness": 1,
       "crossSource": 0.6309,
       "totalScore": 0.8293,
       "sources": [
         {
           "channel": "toutiao",
           "rank": 1,
-          "hot": 53859574,
+          "hot": 58876446,
           "url": "https://www.toutiao.com/trending/7671841305773002291/"
         }
       ],
@@ -70,17 +70,36 @@
       "url": "https://www.thepaper.cn/newsDetail_forward_33744766"
     },
     {
+      "id": "evt-30000000",
+      "title": "白海豚或提早3小时登陆",
+      "category": "society",
+      "hotScore": 0.7225,
+      "freshness": 1,
+      "crossSource": 0.6309,
+      "totalScore": 0.7783,
+      "sources": [
+        {
+          "channel": "toutiao",
+          "rank": 4,
+          "hot": 43616744,
+          "url": "https://www.toutiao.com/trending/7671080497425989675/"
+        }
+      ],
+      "summary": "",
+      "url": "https://www.toutiao.com/trending/7671080497425989675/"
+    },
+    {
       "id": "evt-90000000",
       "title": "台风「白海豚」逼近，9 岁男孩在浙江温岭海边被浪卷走，带来哪些警示？目前救援难点有哪些？",
       "category": "society",
-      "hotScore": 0.75,
+      "hotScore": 0.7125,
       "freshness": 1,
       "crossSource": 0.6309,
-      "totalScore": 0.7893,
+      "totalScore": 0.7743,
       "sources": [
         {
           "channel": "zhihu",
-          "rank": 1,
+          "rank": 2,
           "hot": 0,
           "url": ""
         }
@@ -89,9 +108,9 @@
       "url": ""
     },
     {
-      "id": "evt-42026000",
-      "title": "《蜘蛛侠4》登顶2026全球票房总冠军",
-      "category": "entertainment",
+      "id": "evt-14000000",
+      "title": "“140多斤的我也很难静止站立”",
+      "category": "society",
       "hotScore": 0.64,
       "freshness": 1,
       "crossSource": 0.6309,
@@ -101,30 +120,30 @@
           "channel": "baidu",
           "rank": 5,
           "hot": 0,
-          "url": "https://m.baidu.com/s?word=%E3%80%8A%E8%9C%98%E8%9B%9B%E4%BE%A04%E3%80%8B%E7%99%BB%E9%A1%B62026%E5%85%A8%E7%90%83%E7%A5%A8%E6%88%BF%E6%80%BB%E5%86%A0%E5%86%9B&sa=fyb_news"
+          "url": "https://m.baidu.com/s?word=%E2%80%9C140%E5%A4%9A%E6%96%A4%E7%9A%84%E6%88%91%E4%B9%9F%E5%BE%88%E9%9A%BE%E9%9D%99%E6%AD%A2%E7%AB%99%E7%AB%8B%E2%80%9D&sa=fyb_news"
         }
       ],
       "summary": "",
-      "url": "https://m.baidu.com/s?word=%E3%80%8A%E8%9C%98%E8%9B%9B%E4%BE%A04%E3%80%8B%E7%99%BB%E9%A1%B62026%E5%85%A8%E7%90%83%E7%A5%A8%E6%88%BF%E6%80%BB%E5%86%A0%E5%86%9B&sa=fyb_news"
+      "url": "https://m.baidu.com/s?word=%E2%80%9C140%E5%A4%9A%E6%96%A4%E7%9A%84%E6%88%91%E4%B9%9F%E5%BE%88%E9%9A%BE%E9%9D%99%E6%AD%A2%E7%AB%99%E7%AB%8B%E2%80%9D&sa=fyb_news"
     },
     {
-      "id": "evt-30000000",
-      "title": "白海豚生命史是普通台风3倍以上",
+      "id": "evt-20000000",
+      "title": "老人买200万保险退保只退108万",
       "category": "society",
-      "hotScore": 0.68,
-      "freshness": 0.9999,
+      "hotScore": 0.6375,
+      "freshness": 1,
       "crossSource": 0.6309,
-      "totalScore": 0.7613,
+      "totalScore": 0.7443,
       "sources": [
         {
           "channel": "toutiao",
-          "rank": 5,
-          "hot": 36103152,
-          "url": "https://www.toutiao.com/trending/7671499726491058230/"
+          "rank": 6,
+          "hot": 35710369,
+          "url": "https://www.toutiao.com/trending/7671263736380145718/"
         }
       ],
       "summary": "",
-      "url": "https://www.toutiao.com/trending/7671499726491058230/"
+      "url": "https://www.toutiao.com/trending/7671263736380145718/"
     },
     {
       "id": "evt-80000000",
@@ -146,25 +165,6 @@
       "url": "https://www.thepaper.cn/newsDetail_forward_33747571"
     },
     {
-      "id": "evt-u1700000",
-      "title": "国足U17与阿森纳决赛取消 并列冠军",
-      "category": "society",
-      "hotScore": 0.56,
-      "freshness": 1,
-      "crossSource": 0.6309,
-      "totalScore": 0.7133,
-      "sources": [
-        {
-          "channel": "baidu",
-          "rank": 7,
-          "hot": 0,
-          "url": "https://m.baidu.com/s?word=%E5%9B%BD%E8%B6%B3U17%E4%B8%8E%E9%98%BF%E6%A3%AE%E7%BA%B3%E5%86%B3%E8%B5%9B%E5%8F%96%E6%B6%88+%E5%B9%B6%E5%88%97%E5%86%A0%E5%86%9B&sa=fyb_news"
-        }
-      ],
-      "summary": "",
-      "url": "https://m.baidu.com/s?word=%E5%9B%BD%E8%B6%B3U17%E4%B8%8E%E9%98%BF%E6%A3%AE%E7%BA%B3%E5%86%B3%E8%B5%9B%E5%8F%96%E6%B6%88+%E5%B9%B6%E5%88%97%E5%86%A0%E5%86%9B&sa=fyb_news"
-    },
-    {
       "id": "evt-11200000",
       "title": "检测列车撞人致11死2伤，施工业务外包单位被罚1.5万元",
       "category": "society",
@@ -182,44 +182,6 @@
       ],
       "summary": "",
       "url": "https://www.thepaper.cn/newsDetail_forward_33743109"
-    },
-    {
-      "id": "evt-24000000",
-      "title": "于东来称要关闭营业 24 年的生活广场店，每一个项目都是国际一流的品质，达不到的都关了，如何看待此事？",
-      "category": "society",
-      "hotScore": 0.4875,
-      "freshness": 1,
-      "crossSource": 0.6309,
-      "totalScore": 0.6843,
-      "sources": [
-        {
-          "channel": "zhihu",
-          "rank": 8,
-          "hot": 0,
-          "url": ""
-        }
-      ],
-      "summary": "",
-      "url": ""
-    },
-    {
-      "id": "evt-99000000",
-      "title": "男孩被妈妈强拉拍照比“995”",
-      "category": "society",
-      "hotScore": 0.4675,
-      "freshness": 0.9999,
-      "crossSource": 0.6309,
-      "totalScore": 0.6763,
-      "sources": [
-        {
-          "channel": "toutiao",
-          "rank": 10,
-          "hot": 21897668,
-          "url": "https://www.toutiao.com/trending/7671666402750824491/"
-        }
-      ],
-      "summary": "",
-      "url": "https://www.toutiao.com/trending/7671666402750824491/"
     },
     {
       "id": "evt-73000000",
@@ -241,23 +203,23 @@
       "url": "https://www.thepaper.cn/newsDetail_forward_33745286"
     },
     {
-      "id": "evt-60000000",
-      "title": "经常半夜醒要排查6种疾病",
+      "id": "evt-20260000",
+      "title": "2026 上半年国内手机销量 TOP30 出炉，苹果包揽前三华为领跑国产，哪些品牌的表现值得关注？",
       "category": "society",
-      "hotScore": 0.44,
+      "hotScore": 0.45,
       "freshness": 1,
       "crossSource": 0.6309,
-      "totalScore": 0.6653,
+      "totalScore": 0.6693,
       "sources": [
         {
-          "channel": "baidu",
-          "rank": 10,
+          "channel": "zhihu",
+          "rank": 9,
           "hot": 0,
-          "url": "https://m.baidu.com/s?word=%E7%BB%8F%E5%B8%B8%E5%8D%8A%E5%A4%9C%E9%86%92%E8%A6%81%E6%8E%92%E6%9F%A56%E7%A7%8D%E7%96%BE%E7%97%85&sa=fyb_news"
+          "url": ""
         }
       ],
       "summary": "",
-      "url": "https://m.baidu.com/s?word=%E7%BB%8F%E5%B8%B8%E5%8D%8A%E5%A4%9C%E9%86%92%E8%A6%81%E6%8E%92%E6%9F%A56%E7%A7%8D%E7%96%BE%E7%97%85&sa=fyb_news"
+      "url": ""
     }
   ]
 }
