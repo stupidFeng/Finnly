@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-08-09T10:22:14.815Z",
+  "generatedAt": "2026-08-09T12:27:34.940Z",
   "fields": {
     "society": "社会",
     "economy": "经济",
@@ -8,79 +8,47 @@
   "feed": [
     {
       "id": "evt-00000000",
-      "title": "台风白海豚正式登陆",
+      "title": "伊朗最高领袖与总统会谈",
       "category": "society",
-      "hotScore": 0.85,
+      "hotScore": 0.8075,
       "freshness": 1,
       "crossSource": 1,
-      "totalScore": 0.94,
+      "totalScore": 0.923,
       "sources": [
         {
           "channel": "toutiao",
-          "rank": 1,
-          "hot": 75385756,
-          "url": "https://www.toutiao.com/trending/7671218090708946475/"
+          "rank": 2,
+          "hot": 12925981,
+          "url": "https://www.toutiao.com/trending/7670941843498287158/"
+        },
+        {
+          "channel": "baidu",
+          "rank": 6,
+          "hot": 0,
+          "url": "https://m.baidu.com/s?word=%E4%BC%8A%E6%9C%97%E6%9C%80%E9%AB%98%E9%A2%86%E8%A2%96%E4%B8%8E%E6%80%BB%E7%BB%9F%E4%BC%9A%E8%B0%88&sa=fyb_news"
         }
       ],
       "summary": "",
-      "url": "https://www.toutiao.com/trending/7671218090708946475/"
+      "url": "https://www.toutiao.com/trending/7670941843498287158/"
     },
     {
       "id": "evt-70000000",
-      "title": "前7个月我国区域外贸增势稳健",
+      "title": "蓝厅观察丨被中方反制的7家美国实体有何来头？",
       "category": "society",
-      "hotScore": 0.765,
+      "hotScore": 0.8075,
       "freshness": 1,
-      "crossSource": 1,
-      "totalScore": 0.906,
+      "crossSource": 0.6309,
+      "totalScore": 0.8123,
       "sources": [
         {
-          "channel": "toutiao",
-          "rank": 3,
-          "hot": 61720637,
-          "url": "https://www.toutiao.com/trending/7671218090708880939/"
-        }
-      ],
-      "summary": "",
-      "url": "https://www.toutiao.com/trending/7671218090708880939/"
-    },
-    {
-      "id": "evt-25000000",
-      "title": "于东来回应胖东来近25年老店年底关闭",
-      "category": "society",
-      "hotScore": 0.7225,
-      "freshness": 1,
-      "crossSource": 1,
-      "totalScore": 0.889,
-      "sources": [
-        {
-          "channel": "toutiao",
-          "rank": 4,
-          "hot": 55847141,
-          "url": "https://www.toutiao.com/trending/7671135915863621675/"
-        }
-      ],
-      "summary": "",
-      "url": "https://www.toutiao.com/trending/7671135915863621675/"
-    },
-    {
-      "id": "evt-10000000",
-      "title": "中国第1高楼阻尼器摆动明显",
-      "category": "society",
-      "hotScore": 0.72,
-      "freshness": 1,
-      "crossSource": 1,
-      "totalScore": 0.888,
-      "sources": [
-        {
-          "channel": "baidu",
-          "rank": 3,
+          "channel": "thepaper",
+          "rank": 2,
           "hot": 0,
-          "url": "https://m.baidu.com/s?word=%E4%B8%AD%E5%9B%BD%E7%AC%AC1%E9%AB%98%E6%A5%BC%E9%98%BB%E5%B0%BC%E5%99%A8%E6%91%86%E5%8A%A8%E6%98%8E%E6%98%BE&sa=fyb_news"
+          "url": "https://www.thepaper.cn/newsDetail_forward_33746518"
         }
       ],
       "summary": "",
-      "url": "https://m.baidu.com/s?word=%E4%B8%AD%E5%9B%BD%E7%AC%AC1%E9%AB%98%E6%A5%BC%E9%98%BB%E5%B0%BC%E5%99%A8%E6%91%86%E5%8A%A8%E6%98%8E%E6%98%BE&sa=fyb_news"
+      "url": "https://www.thepaper.cn/newsDetail_forward_33746518"
     },
     {
       "id": "evt-90000000",
@@ -88,8 +56,8 @@
       "category": "society",
       "hotScore": 0.7125,
       "freshness": 1,
-      "crossSource": 1,
-      "totalScore": 0.885,
+      "crossSource": 0.6309,
+      "totalScore": 0.7743,
       "sources": [
         {
           "channel": "zhihu",
@@ -107,8 +75,8 @@
       "category": "society",
       "hotScore": 0.68,
       "freshness": 1,
-      "crossSource": 1,
-      "totalScore": 0.872,
+      "crossSource": 0.6309,
+      "totalScore": 0.7613,
       "sources": [
         {
           "channel": "baidu",
@@ -121,36 +89,17 @@
       "url": "https://m.baidu.com/s?word=%E9%A6%96%E4%B8%AA%E5%85%A8%E5%9B%BD%E4%BA%A710%E4%B8%87%E5%8D%A1AI%E8%B6%85%E9%9B%86%E7%BE%A4%E6%8A%95%E7%94%A8&sa=fyb_news"
     },
     {
-      "id": "evt-23000000",
-      "title": "年仅23岁 夏士远空降时坠地牺牲",
-      "category": "society",
-      "hotScore": 0.64,
-      "freshness": 1,
-      "crossSource": 1,
-      "totalScore": 0.856,
-      "sources": [
-        {
-          "channel": "baidu",
-          "rank": 5,
-          "hot": 0,
-          "url": "https://m.baidu.com/s?word=%E5%B9%B4%E4%BB%8523%E5%B2%81+%E5%A4%8F%E5%A3%AB%E8%BF%9C%E7%A9%BA%E9%99%8D%E6%97%B6%E5%9D%A0%E5%9C%B0%E7%89%BA%E7%89%B2&sa=fyb_news"
-        }
-      ],
-      "summary": "",
-      "url": "https://m.baidu.com/s?word=%E5%B9%B4%E4%BB%8523%E5%B2%81+%E5%A4%8F%E5%A3%AB%E8%BF%9C%E7%A9%BA%E9%99%8D%E6%97%B6%E5%9D%A0%E5%9C%B0%E7%89%BA%E7%89%B2&sa=fyb_news"
-    },
-    {
       "id": "evt-20260000",
-      "title": "2026 上半年国内手机销量 TOP30 出炉，苹果包揽前三华为领跑国产，哪些品牌的表现值得关注？",
+      "title": "2026 上半年国内手机销量 TOP30 出炉，苹果包揽前三、华为领跑国产，哪些品牌的表现值得关注？",
       "category": "society",
-      "hotScore": 0.6375,
+      "hotScore": 0.675,
       "freshness": 1,
-      "crossSource": 1,
-      "totalScore": 0.855,
+      "crossSource": 0.6309,
+      "totalScore": 0.7593,
       "sources": [
         {
           "channel": "zhihu",
-          "rank": 4,
+          "rank": 3,
           "hot": 0,
           "url": ""
         }
@@ -164,8 +113,8 @@
       "category": "society",
       "hotScore": 0.6375,
       "freshness": 1,
-      "crossSource": 1,
-      "totalScore": 0.855,
+      "crossSource": 0.6309,
+      "totalScore": 0.7443,
       "sources": [
         {
           "channel": "thepaper",
@@ -178,23 +127,42 @@
       "url": "https://www.thepaper.cn/newsDetail_forward_33747571"
     },
     {
-      "id": "evt-11200000",
-      "title": "检测列车撞人致11死2伤，施工业务外包单位被罚1.5万元",
+      "id": "evt-8850miumiu",
+      "title": "穿8850元MiuMiu鞋脚被染黑 官方回应",
       "category": "society",
-      "hotScore": 0.5525,
+      "hotScore": 0.56,
       "freshness": 1,
-      "crossSource": 1,
-      "totalScore": 0.821,
+      "crossSource": 0.6309,
+      "totalScore": 0.7133,
       "sources": [
         {
-          "channel": "thepaper",
-          "rank": 8,
+          "channel": "baidu",
+          "rank": 7,
           "hot": 0,
-          "url": "https://www.thepaper.cn/newsDetail_forward_33743109"
+          "url": "https://m.baidu.com/s?word=%E7%A9%BF8850%E5%85%83MiuMiu%E9%9E%8B%E8%84%9A%E8%A2%AB%E6%9F%93%E9%BB%91+%E5%AE%98%E6%96%B9%E5%9B%9E%E5%BA%94&sa=fyb_news"
         }
       ],
       "summary": "",
-      "url": "https://www.thepaper.cn/newsDetail_forward_33743109"
+      "url": "https://m.baidu.com/s?word=%E7%A9%BF8850%E5%85%83MiuMiu%E9%9E%8B%E8%84%9A%E8%A2%AB%E6%9F%93%E9%BB%91+%E5%AE%98%E6%96%B9%E5%9B%9E%E5%BA%94&sa=fyb_news"
+    },
+    {
+      "id": "evt-16000000",
+      "title": "16岁女孩连喝多杯奶茶后进ICU",
+      "category": "society",
+      "hotScore": 0.48,
+      "freshness": 1,
+      "crossSource": 0.6309,
+      "totalScore": 0.6813,
+      "sources": [
+        {
+          "channel": "baidu",
+          "rank": 9,
+          "hot": 0,
+          "url": "https://m.baidu.com/s?word=16%E5%B2%81%E5%A5%B3%E5%AD%A9%E8%BF%9E%E5%96%9D%E5%A4%9A%E6%9D%AF%E5%A5%B6%E8%8C%B6%E5%90%8E%E8%BF%9BICU&sa=fyb_news"
+        }
+      ],
+      "summary": "",
+      "url": "https://m.baidu.com/s?word=16%E5%B2%81%E5%A5%B3%E5%AD%A9%E8%BF%9E%E5%96%9D%E5%A4%9A%E6%9D%AF%E5%A5%B6%E8%8C%B6%E5%90%8E%E8%BF%9BICU&sa=fyb_news"
     }
   ]
 }
