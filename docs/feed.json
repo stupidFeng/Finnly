@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-08-09T16:21:44.302Z",
+  "generatedAt": "2026-08-09T18:24:14.447Z",
   "fields": {
     "society": "社会",
     "economy": "经济",
@@ -32,25 +32,6 @@
       "url": "https://www.thepaper.cn/newsDetail_forward_33748939"
     },
     {
-      "id": "evt-20000000",
-      "title": "200多位院士专家为一人齐聚哈工程",
-      "category": "society",
-      "hotScore": 0.8075,
-      "freshness": 1,
-      "crossSource": 0.6309,
-      "totalScore": 0.8123,
-      "sources": [
-        {
-          "channel": "toutiao",
-          "rank": 2,
-          "hot": 19406732,
-          "url": "https://www.toutiao.com/trending/7671958308341481508/"
-        }
-      ],
-      "summary": "",
-      "url": "https://www.toutiao.com/trending/7671958308341481508/"
-    },
-    {
       "id": "evt-chinamaxxing",
       "title": "Chinamaxxing全球出圈！是啥意思",
       "category": "society",
@@ -62,7 +43,7 @@
         {
           "channel": "toutiao",
           "rank": 3,
-          "hot": 17559937,
+          "hot": 18429021,
           "url": "https://www.toutiao.com/trending/7671832122461716521/"
         }
       ],
@@ -70,17 +51,36 @@
       "url": "https://www.toutiao.com/trending/7671832122461716521/"
     },
     {
+      "id": "evt-20000000",
+      "title": "200多位院士专家为一人齐聚哈工程",
+      "category": "society",
+      "hotScore": 0.7225,
+      "freshness": 1,
+      "crossSource": 0.6309,
+      "totalScore": 0.7783,
+      "sources": [
+        {
+          "channel": "toutiao",
+          "rank": 4,
+          "hot": 16675268,
+          "url": "https://www.toutiao.com/trending/7671958308341481508/"
+        }
+      ],
+      "summary": "",
+      "url": "https://www.toutiao.com/trending/7671958308341481508/"
+    },
+    {
       "id": "evt-80000000",
       "title": "网上卖黄金卷入电诈8万元被划扣，驻马店市公安局称新蔡警方程序违法",
       "category": "society",
-      "hotScore": 0.765,
+      "hotScore": 0.7225,
       "freshness": 1,
       "crossSource": 0.6309,
-      "totalScore": 0.7953,
+      "totalScore": 0.7783,
       "sources": [
         {
           "channel": "thepaper",
-          "rank": 3,
+          "rank": 4,
           "hot": 0,
           "url": "https://www.thepaper.cn/newsDetail_forward_33747571"
         }
@@ -89,65 +89,8 @@
       "url": "https://www.thepaper.cn/newsDetail_forward_33747571"
     },
     {
-      "id": "evt-20268800",
-      "title": "如何看待 2026 年 8 月 8 日，史诗级电影《奥德赛》的点映上座率高达 57.3% 左右？",
-      "category": "entertainment",
-      "hotScore": 0.4125,
-      "freshness": 1,
-      "crossSource": 0.6309,
-      "totalScore": 0.6543,
-      "sources": [
-        {
-          "channel": "zhihu",
-          "rank": 10,
-          "hot": 0,
-          "url": ""
-        }
-      ],
-      "summary": "",
-      "url": ""
-    },
-    {
-      "id": "evt-20260000",
-      "title": "2026 上半年国内手机销量 TOP30 出炉，苹果包揽前三、华为领跑国产，哪些品牌的表现值得关注？",
-      "category": "society",
-      "hotScore": 0.7125,
-      "freshness": 1,
-      "crossSource": 0.6309,
-      "totalScore": 0.7743,
-      "sources": [
-        {
-          "channel": "zhihu",
-          "rank": 2,
-          "hot": 0,
-          "url": ""
-        }
-      ],
-      "summary": "",
-      "url": ""
-    },
-    {
-      "id": "evt-suv00000",
-      "title": "新能源充电站一辆SUV突然起火爆燃",
-      "category": "society",
-      "hotScore": 0.68,
-      "freshness": 1,
-      "crossSource": 0.6309,
-      "totalScore": 0.7613,
-      "sources": [
-        {
-          "channel": "toutiao",
-          "rank": 5,
-          "hot": 14376861,
-          "url": "https://www.toutiao.com/trending/7671198968541921289/"
-        }
-      ],
-      "summary": "",
-      "url": "https://www.toutiao.com/trending/7671198968541921289/"
-    },
-    {
-      "id": "evt-10000000",
-      "title": "飞宁波航班颠簸超1小时备降杭州",
+      "id": "evt-2026wtt0",
+      "title": "2026WTT 横滨冠军赛，张本智和 4:2 击败松岛辉空，挺进决赛，如何评价这场比赛？",
       "category": "society",
       "hotScore": 0.6375,
       "freshness": 1,
@@ -155,14 +98,14 @@
       "totalScore": 0.7443,
       "sources": [
         {
-          "channel": "toutiao",
-          "rank": 6,
-          "hot": 13008721,
-          "url": "https://www.toutiao.com/trending/7672014705011966003/"
+          "channel": "zhihu",
+          "rank": 4,
+          "hot": 0,
+          "url": ""
         }
       ],
       "summary": "",
-      "url": "https://www.toutiao.com/trending/7672014705011966003/"
+      "url": ""
     },
     {
       "id": "evt-42100000",
@@ -203,27 +146,46 @@
       "url": ""
     },
     {
-      "id": "evt-18840000",
-      "title": "香港刷新1884年以来最高气温纪录",
+      "id": "evt-suv00000",
+      "title": "新能源充电站一辆SUV突然起火爆燃",
       "category": "society",
-      "hotScore": 0.48,
+      "hotScore": 0.51,
       "freshness": 1,
       "crossSource": 0.6309,
-      "totalScore": 0.6813,
+      "totalScore": 0.6933,
       "sources": [
         {
-          "channel": "baidu",
+          "channel": "toutiao",
           "rank": 9,
-          "hot": 0,
-          "url": "https://m.baidu.com/s?word=%E9%A6%99%E6%B8%AF%E5%88%B7%E6%96%B01884%E5%B9%B4%E4%BB%A5%E6%9D%A5%E6%9C%80%E9%AB%98%E6%B0%94%E6%B8%A9%E7%BA%AA%E5%BD%95&sa=fyb_news"
+          "hot": 10114061,
+          "url": "https://www.toutiao.com/trending/7671198968541921289/"
         }
       ],
       "summary": "",
-      "url": "https://m.baidu.com/s?word=%E9%A6%99%E6%B8%AF%E5%88%B7%E6%96%B01884%E5%B9%B4%E4%BB%A5%E6%9D%A5%E6%9C%80%E9%AB%98%E6%B0%94%E6%B8%A9%E7%BA%AA%E5%BD%95&sa=fyb_news"
+      "url": "https://www.toutiao.com/trending/7671198968541921289/"
     },
     {
-      "id": "evt-7cp00000",
-      "title": "国家统计局解读：7月份CPI保持温和上涨，PPI同比涨幅有所回落",
+      "id": "evt-20260000",
+      "title": "浙江省甬江发生2026年第1号洪水",
+      "category": "society",
+      "hotScore": 0.51,
+      "freshness": 1,
+      "crossSource": 0.6309,
+      "totalScore": 0.6933,
+      "sources": [
+        {
+          "channel": "thepaper",
+          "rank": 9,
+          "hot": 0,
+          "url": "https://www.thepaper.cn/newsDetail_forward_33749537"
+        }
+      ],
+      "summary": "",
+      "url": "https://www.thepaper.cn/newsDetail_forward_33749537"
+    },
+    {
+      "id": "evt-v8300000",
+      "title": "大V：日称解放军有8架歼35是自欺欺人",
       "category": "society",
       "hotScore": 0.4675,
       "freshness": 1,
@@ -231,14 +193,14 @@
       "totalScore": 0.6763,
       "sources": [
         {
-          "channel": "thepaper",
+          "channel": "toutiao",
           "rank": 10,
-          "hot": 0,
-          "url": "https://www.thepaper.cn/newsDetail_forward_33747633"
+          "hot": 9151581,
+          "url": "https://www.toutiao.com/trending/7671945014229863942/"
         }
       ],
       "summary": "",
-      "url": "https://www.thepaper.cn/newsDetail_forward_33747633"
+      "url": "https://www.toutiao.com/trending/7671945014229863942/"
     },
     {
       "id": "evt-ai000000",
@@ -252,7 +214,7 @@
         {
           "channel": "toutiao",
           "rank": 11,
-          "hot": 7890188,
+          "hot": 8280693,
           "url": "https://www.toutiao.com/trending/7671970111683969066/"
         }
       ],
