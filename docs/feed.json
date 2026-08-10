@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-08-10T03:43:16.156Z",
+  "generatedAt": "2026-08-10T05:15:51.990Z",
   "fields": {
     "society": "社会",
     "economy": "经济",
@@ -18,7 +18,7 @@
         {
           "channel": "toutiao",
           "rank": 1,
-          "hot": 15980199,
+          "hot": 17266514,
           "url": "https://www.toutiao.com/trending/7671242186478796842/"
         }
       ],
@@ -26,8 +26,8 @@
       "url": "https://www.toutiao.com/trending/7671242186478796842/"
     },
     {
-      "id": "evt-30000000",
-      "title": "武汉3名城管协管员殴打摊主被刑拘",
+      "id": "evt-a0000000",
+      "title": "专家：A股二次探底是大概率事件",
       "category": "society",
       "hotScore": 0.8075,
       "freshness": 1,
@@ -37,35 +37,35 @@
         {
           "channel": "toutiao",
           "rank": 2,
-          "hot": 14459482,
-          "url": "https://www.toutiao.com/trending/7672117070280130596/"
+          "hot": 15623388,
+          "url": "https://www.toutiao.com/trending/7672233159576014346/"
         }
       ],
       "summary": "",
-      "url": "https://www.toutiao.com/trending/7672117070280130596/"
+      "url": "https://www.toutiao.com/trending/7672233159576014346/"
+    },
+    {
+      "id": "evt-50000000",
+      "title": "5万元以下微型代步车集体遇冷",
+      "category": "society",
+      "hotScore": 0.68,
+      "freshness": 1,
+      "crossSource": 1,
+      "totalScore": 0.872,
+      "sources": [
+        {
+          "channel": "toutiao",
+          "rank": 5,
+          "hot": 11574090,
+          "url": "https://www.toutiao.com/trending/7671392442637156358/"
+        }
+      ],
+      "summary": "",
+      "url": "https://www.toutiao.com/trending/7671392442637156358/"
     },
     {
       "id": "evt-81000000",
       "title": "宇树科技 8 月 10 日申购，中一签需缴 7.54 万，打新性价比如何？高预期背后哪些风险值得警惕？",
-      "category": "society",
-      "hotScore": 0.675,
-      "freshness": 1,
-      "crossSource": 1,
-      "totalScore": 0.87,
-      "sources": [
-        {
-          "channel": "zhihu",
-          "rank": 3,
-          "hot": 0,
-          "url": ""
-        }
-      ],
-      "summary": "",
-      "url": ""
-    },
-    {
-      "id": "evt-a0000000",
-      "title": "为什么程序员大多都拥抱 AI，而音乐人却抗拒并隔离 AI 音乐池？",
       "category": "society",
       "hotScore": 0.6375,
       "freshness": 1,
@@ -94,7 +94,7 @@
         {
           "channel": "toutiao",
           "rank": 3,
-          "hot": 13083480,
+          "hot": 14136626,
           "url": "https://www.toutiao.com/trending/7672225503419321902/"
         }
       ],
@@ -102,36 +102,17 @@
       "url": "https://www.toutiao.com/trending/7672225503419321902/"
     },
     {
-      "id": "evt-83000000",
-      "title": "男子结婚8年3个女儿都不是亲生",
-      "category": "society",
-      "hotScore": 0.6,
-      "freshness": 1,
-      "crossSource": 1,
-      "totalScore": 0.84,
-      "sources": [
-        {
-          "channel": "baidu",
-          "rank": 6,
-          "hot": 0,
-          "url": "https://m.baidu.com/s?word=%E7%94%B7%E5%AD%90%E7%BB%93%E5%A9%9A8%E5%B9%B43%E4%B8%AA%E5%A5%B3%E5%84%BF%E9%83%BD%E4%B8%8D%E6%98%AF%E4%BA%B2%E7%94%9F&sa=fyb_news"
-        }
-      ],
-      "summary": "",
-      "url": "https://m.baidu.com/s?word=%E7%94%B7%E5%AD%90%E7%BB%93%E5%A9%9A8%E5%B9%B43%E4%B8%AA%E5%A5%B3%E5%84%BF%E9%83%BD%E4%B8%8D%E6%98%AF%E4%BA%B2%E7%94%9F&sa=fyb_news"
-    },
-    {
       "id": "evt-42100000",
       "title": "4.2平卫生间补漏注胶花1.55万，消费者称陷“天价注胶补漏”套路",
       "category": "society",
-      "hotScore": 0.5525,
+      "hotScore": 0.595,
       "freshness": 1,
       "crossSource": 1,
-      "totalScore": 0.821,
+      "totalScore": 0.838,
       "sources": [
         {
           "channel": "thepaper",
-          "rank": 8,
+          "rank": 7,
           "hot": 0,
           "url": "https://www.thepaper.cn/newsDetail_forward_33748209"
         }
@@ -140,61 +121,42 @@
       "url": "https://www.thepaper.cn/newsDetail_forward_33748209"
     },
     {
-      "id": "evt-50000000",
-      "title": "5万小车卖不动 微型代步车集体遇冷",
+      "id": "evt-12000000",
+      "title": "梅婷12岁女儿百花奖发言",
       "category": "society",
-      "hotScore": 0.48,
+      "hotScore": 0.52,
       "freshness": 1,
       "crossSource": 1,
-      "totalScore": 0.792,
+      "totalScore": 0.808,
       "sources": [
         {
           "channel": "baidu",
-          "rank": 9,
+          "rank": 8,
           "hot": 0,
-          "url": "https://m.baidu.com/s?word=5%E4%B8%87%E5%B0%8F%E8%BD%A6%E5%8D%96%E4%B8%8D%E5%8A%A8+%E5%BE%AE%E5%9E%8B%E4%BB%A3%E6%AD%A5%E8%BD%A6%E9%9B%86%E4%BD%93%E9%81%87%E5%86%B7&sa=fyb_news"
+          "url": "https://m.baidu.com/s?word=%E6%A2%85%E5%A9%B712%E5%B2%81%E5%A5%B3%E5%84%BF%E7%99%BE%E8%8A%B1%E5%A5%96%E5%8F%91%E8%A8%80&sa=fyb_news"
         }
       ],
       "summary": "",
-      "url": "https://m.baidu.com/s?word=5%E4%B8%87%E5%B0%8F%E8%BD%A6%E5%8D%96%E4%B8%8D%E5%8A%A8+%E5%BE%AE%E5%9E%8B%E4%BB%A3%E6%AD%A5%E8%BD%A6%E9%9B%86%E4%BD%93%E9%81%87%E5%86%B7&sa=fyb_news"
+      "url": "https://m.baidu.com/s?word=%E6%A2%85%E5%A9%B712%E5%B2%81%E5%A5%B3%E5%84%BF%E7%99%BE%E8%8A%B1%E5%A5%96%E5%8F%91%E8%A8%80&sa=fyb_news"
     },
     {
-      "id": "evt-20000000",
-      "title": "20岁中国富二代在泰国被杀",
+      "id": "evt-110hse00",
+      "title": "路虎卫士110 HSE限时降价",
       "category": "society",
-      "hotScore": 0.4675,
+      "hotScore": 0.51,
       "freshness": 1,
       "crossSource": 1,
-      "totalScore": 0.787,
+      "totalScore": 0.804,
       "sources": [
         {
           "channel": "toutiao",
-          "rank": 10,
-          "hot": 6497064,
-          "url": "https://www.toutiao.com/trending/7671821182479417395/"
+          "rank": 9,
+          "hot": 7758345,
+          "url": "https://www.toutiao.com/trending/7671621686164340755/"
         }
       ],
       "summary": "",
-      "url": "https://www.toutiao.com/trending/7671821182479417395/"
-    },
-    {
-      "id": "evt-20260000",
-      "title": "浙江省甬江发生2026年第1号洪水",
-      "category": "society",
-      "hotScore": 0.4675,
-      "freshness": 1,
-      "crossSource": 1,
-      "totalScore": 0.787,
-      "sources": [
-        {
-          "channel": "thepaper",
-          "rank": 10,
-          "hot": 0,
-          "url": "https://www.thepaper.cn/newsDetail_forward_33749537"
-        }
-      ],
-      "summary": "",
-      "url": "https://www.thepaper.cn/newsDetail_forward_33749537"
+      "url": "https://www.toutiao.com/trending/7671621686164340755/"
     },
     {
       "id": "evt-67ai0000",
@@ -227,7 +189,7 @@
         {
           "channel": "toutiao",
           "rank": 11,
-          "hot": 5878786,
+          "hot": 6351995,
           "url": "https://www.toutiao.com/trending/7671970111683969066/"
         }
       ],
