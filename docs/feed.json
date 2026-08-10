@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-08-10T00:56:41.219Z",
+  "generatedAt": "2026-08-10T03:43:16.156Z",
   "fields": {
     "society": "社会",
     "economy": "经济",
@@ -18,7 +18,7 @@
         {
           "channel": "toutiao",
           "rank": 1,
-          "hot": 29500029,
+          "hot": 15980199,
           "url": "https://www.toutiao.com/trending/7671242186478796842/"
         }
       ],
@@ -26,8 +26,8 @@
       "url": "https://www.toutiao.com/trending/7671242186478796842/"
     },
     {
-      "id": "evt-40000000",
-      "title": "上海地铁4条线路全线停运",
+      "id": "evt-30000000",
+      "title": "武汉3名城管协管员殴打摊主被刑拘",
       "category": "society",
       "hotScore": 0.8075,
       "freshness": 1,
@@ -37,63 +37,25 @@
         {
           "channel": "toutiao",
           "rank": 2,
-          "hot": 26692730,
-          "url": "https://www.toutiao.com/trending/7671904414269259795/"
+          "hot": 14459482,
+          "url": "https://www.toutiao.com/trending/7672117070280130596/"
         }
       ],
       "summary": "",
-      "url": "https://www.toutiao.com/trending/7671904414269259795/"
+      "url": "https://www.toutiao.com/trending/7672117070280130596/"
     },
     {
-      "id": "evt-chinamaxxing",
-      "title": "Chinamaxxing全球出圈！是啥意思",
+      "id": "evt-81000000",
+      "title": "宇树科技 8 月 10 日申购，中一签需缴 7.54 万，打新性价比如何？高预期背后哪些风险值得警惕？",
       "category": "society",
-      "hotScore": 0.765,
+      "hotScore": 0.675,
       "freshness": 1,
       "crossSource": 1,
-      "totalScore": 0.906,
-      "sources": [
-        {
-          "channel": "toutiao",
-          "rank": 3,
-          "hot": 24152581,
-          "url": "https://www.toutiao.com/trending/7671832122461716521/"
-        }
-      ],
-      "summary": "",
-      "url": "https://www.toutiao.com/trending/7671832122461716521/"
-    },
-    {
-      "id": "evt-80000000",
-      "title": "网上卖黄金卷入电诈8万元被划扣，驻马店市公安局称新蔡警方程序违法",
-      "category": "society",
-      "hotScore": 0.765,
-      "freshness": 1,
-      "crossSource": 1,
-      "totalScore": 0.906,
-      "sources": [
-        {
-          "channel": "thepaper",
-          "rank": 3,
-          "hot": 0,
-          "url": "https://www.thepaper.cn/newsDetail_forward_33747571"
-        }
-      ],
-      "summary": "",
-      "url": "https://www.thepaper.cn/newsDetail_forward_33747571"
-    },
-    {
-      "id": "evt-waywardblg",
-      "title": "Wayward 称 BLG 放弃 Bin 是最错误决定，你如何评价？",
-      "category": "society",
-      "hotScore": 0.75,
-      "freshness": 1,
-      "crossSource": 1,
-      "totalScore": 0.9,
+      "totalScore": 0.87,
       "sources": [
         {
           "channel": "zhihu",
-          "rank": 1,
+          "rank": 3,
           "hot": 0,
           "url": ""
         }
@@ -102,17 +64,74 @@
       "url": ""
     },
     {
+      "id": "evt-a0000000",
+      "title": "为什么程序员大多都拥抱 AI，而音乐人却抗拒并隔离 AI 音乐池？",
+      "category": "society",
+      "hotScore": 0.6375,
+      "freshness": 1,
+      "crossSource": 1,
+      "totalScore": 0.855,
+      "sources": [
+        {
+          "channel": "zhihu",
+          "rank": 4,
+          "hot": 0,
+          "url": ""
+        }
+      ],
+      "summary": "",
+      "url": ""
+    },
+    {
+      "id": "evt-85000000",
+      "title": "暑期档票房超85亿爆燃千亿级市场",
+      "category": "entertainment",
+      "hotScore": 0.765,
+      "freshness": 1,
+      "crossSource": 1,
+      "totalScore": 0.906,
+      "sources": [
+        {
+          "channel": "toutiao",
+          "rank": 3,
+          "hot": 13083480,
+          "url": "https://www.toutiao.com/trending/7672225503419321902/"
+        }
+      ],
+      "summary": "",
+      "url": "https://www.toutiao.com/trending/7672225503419321902/"
+    },
+    {
+      "id": "evt-83000000",
+      "title": "男子结婚8年3个女儿都不是亲生",
+      "category": "society",
+      "hotScore": 0.6,
+      "freshness": 1,
+      "crossSource": 1,
+      "totalScore": 0.84,
+      "sources": [
+        {
+          "channel": "baidu",
+          "rank": 6,
+          "hot": 0,
+          "url": "https://m.baidu.com/s?word=%E7%94%B7%E5%AD%90%E7%BB%93%E5%A9%9A8%E5%B9%B43%E4%B8%AA%E5%A5%B3%E5%84%BF%E9%83%BD%E4%B8%8D%E6%98%AF%E4%BA%B2%E7%94%9F&sa=fyb_news"
+        }
+      ],
+      "summary": "",
+      "url": "https://m.baidu.com/s?word=%E7%94%B7%E5%AD%90%E7%BB%93%E5%A9%9A8%E5%B9%B43%E4%B8%AA%E5%A5%B3%E5%84%BF%E9%83%BD%E4%B8%8D%E6%98%AF%E4%BA%B2%E7%94%9F&sa=fyb_news"
+    },
+    {
       "id": "evt-42100000",
       "title": "4.2平卫生间补漏注胶花1.55万，消费者称陷“天价注胶补漏”套路",
       "category": "society",
-      "hotScore": 0.595,
+      "hotScore": 0.5525,
       "freshness": 1,
       "crossSource": 1,
-      "totalScore": 0.838,
+      "totalScore": 0.821,
       "sources": [
         {
           "channel": "thepaper",
-          "rank": 7,
+          "rank": 8,
           "hot": 0,
           "url": "https://www.thepaper.cn/newsDetail_forward_33748209"
         }
@@ -121,17 +140,55 @@
       "url": "https://www.thepaper.cn/newsDetail_forward_33748209"
     },
     {
+      "id": "evt-50000000",
+      "title": "5万小车卖不动 微型代步车集体遇冷",
+      "category": "society",
+      "hotScore": 0.48,
+      "freshness": 1,
+      "crossSource": 1,
+      "totalScore": 0.792,
+      "sources": [
+        {
+          "channel": "baidu",
+          "rank": 9,
+          "hot": 0,
+          "url": "https://m.baidu.com/s?word=5%E4%B8%87%E5%B0%8F%E8%BD%A6%E5%8D%96%E4%B8%8D%E5%8A%A8+%E5%BE%AE%E5%9E%8B%E4%BB%A3%E6%AD%A5%E8%BD%A6%E9%9B%86%E4%BD%93%E9%81%87%E5%86%B7&sa=fyb_news"
+        }
+      ],
+      "summary": "",
+      "url": "https://m.baidu.com/s?word=5%E4%B8%87%E5%B0%8F%E8%BD%A6%E5%8D%96%E4%B8%8D%E5%8A%A8+%E5%BE%AE%E5%9E%8B%E4%BB%A3%E6%AD%A5%E8%BD%A6%E9%9B%86%E4%BD%93%E9%81%87%E5%86%B7&sa=fyb_news"
+    },
+    {
+      "id": "evt-20000000",
+      "title": "20岁中国富二代在泰国被杀",
+      "category": "society",
+      "hotScore": 0.4675,
+      "freshness": 1,
+      "crossSource": 1,
+      "totalScore": 0.787,
+      "sources": [
+        {
+          "channel": "toutiao",
+          "rank": 10,
+          "hot": 6497064,
+          "url": "https://www.toutiao.com/trending/7671821182479417395/"
+        }
+      ],
+      "summary": "",
+      "url": "https://www.toutiao.com/trending/7671821182479417395/"
+    },
+    {
       "id": "evt-20260000",
       "title": "浙江省甬江发生2026年第1号洪水",
       "category": "society",
-      "hotScore": 0.51,
+      "hotScore": 0.4675,
       "freshness": 1,
       "crossSource": 1,
-      "totalScore": 0.804,
+      "totalScore": 0.787,
       "sources": [
         {
           "channel": "thepaper",
-          "rank": 9,
+          "rank": 10,
           "hot": 0,
           "url": "https://www.thepaper.cn/newsDetail_forward_33749537"
         }
@@ -140,8 +197,8 @@
       "url": "https://www.thepaper.cn/newsDetail_forward_33749537"
     },
     {
-      "id": "evt-ai000000",
-      "title": "美国科学家首次用 AI 设计出病毒，意味着什么？生物安全防线该如何应对？",
+      "id": "evt-67ai0000",
+      "title": "67 岁农户听信 AI 喷农药致 150 亩地一夜枯萎，老人听 AI 翻车的事层出不穷，有啥办法能帮助他们辨别吗？",
       "category": "society",
       "hotScore": 0.45,
       "freshness": 1,
@@ -159,23 +216,23 @@
       "url": ""
     },
     {
-      "id": "evt-50000000",
-      "title": "5万小车卖不动 微型代步车集体遇冷",
+      "id": "evt-ai000000",
+      "title": "网民AI造谣“西平灭门案”被行拘",
       "category": "society",
-      "hotScore": 0.44,
+      "hotScore": 0.425,
       "freshness": 1,
       "crossSource": 1,
-      "totalScore": 0.776,
+      "totalScore": 0.77,
       "sources": [
         {
-          "channel": "baidu",
-          "rank": 10,
-          "hot": 0,
-          "url": "https://m.baidu.com/s?word=5%E4%B8%87%E5%B0%8F%E8%BD%A6%E5%8D%96%E4%B8%8D%E5%8A%A8+%E5%BE%AE%E5%9E%8B%E4%BB%A3%E6%AD%A5%E8%BD%A6%E9%9B%86%E4%BD%93%E9%81%87%E5%86%B7&sa=fyb_news"
+          "channel": "toutiao",
+          "rank": 11,
+          "hot": 5878786,
+          "url": "https://www.toutiao.com/trending/7671970111683969066/"
         }
       ],
       "summary": "",
-      "url": "https://m.baidu.com/s?word=5%E4%B8%87%E5%B0%8F%E8%BD%A6%E5%8D%96%E4%B8%8D%E5%8A%A8+%E5%BE%AE%E5%9E%8B%E4%BB%A3%E6%AD%A5%E8%BD%A6%E9%9B%86%E4%BD%93%E9%81%87%E5%86%B7&sa=fyb_news"
+      "url": "https://www.toutiao.com/trending/7671970111683969066/"
     }
   ]
 }
