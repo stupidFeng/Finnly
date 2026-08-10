@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-08-10T20:30:54.565Z",
+  "generatedAt": "2026-08-10T22:26:07.974Z",
   "fields": {
     "society": "社会",
     "economy": "经济",
@@ -11,14 +11,14 @@
       "title": "卫诗雅获百花奖最佳女主角",
       "category": "society",
       "hotScore": 0.72,
-      "freshness": 1,
+      "freshness": 0.9999,
       "crossSource": 1,
       "totalScore": 0.888,
       "sources": [
         {
           "channel": "toutiao",
           "rank": 12,
-          "hot": 10481688,
+          "hot": 11064406,
           "url": "https://www.toutiao.com/trending/7672389469455220763/"
         },
         {
@@ -36,14 +36,14 @@
       "title": "24岁网红姜小柔去世",
       "category": "society",
       "hotScore": 0.8075,
-      "freshness": 1,
+      "freshness": 0.9999,
       "crossSource": 0.6309,
       "totalScore": 0.8123,
       "sources": [
         {
           "channel": "toutiao",
           "rank": 2,
-          "hot": 28492183,
+          "hot": 30076174,
           "url": "https://www.toutiao.com/trending/7671892071961460774/"
         }
       ],
@@ -51,86 +51,23 @@
       "url": "https://www.toutiao.com/trending/7671892071961460774/"
     },
     {
-      "id": "evt-75000000",
-      "title": "哥伦比亚发生7.5级地震",
-      "category": "society",
-      "hotScore": 0.51,
-      "freshness": 1,
-      "crossSource": 1,
-      "totalScore": 0.804,
-      "sources": [
-        {
-          "channel": "toutiao",
-          "rank": 9,
-          "hot": 14148799,
-          "url": "https://www.toutiao.com/trending/7672382183877296147/"
-        },
-        {
-          "channel": "baidu",
-          "rank": 11,
-          "hot": 0,
-          "url": "https://m.baidu.com/s?word=%E5%93%A5%E4%BC%A6%E6%AF%94%E4%BA%9A%E5%8F%91%E7%94%9F7.5%E7%BA%A7%E5%9C%B0%E9%9C%87&sa=fyb_news"
-        }
-      ],
-      "summary": "",
-      "url": "https://www.toutiao.com/trending/7672382183877296147/"
-    },
-    {
       "id": "evt-4b000000",
       "title": "中星4B卫星发射失利",
       "category": "society",
-      "hotScore": 0.68,
+      "hotScore": 0.765,
       "freshness": 1,
       "crossSource": 0.6309,
-      "totalScore": 0.7613,
+      "totalScore": 0.7953,
       "sources": [
         {
           "channel": "thepaper",
-          "rank": 5,
+          "rank": 3,
           "hot": 0,
           "url": "https://www.thepaper.cn/newsDetail_forward_33755223"
         }
       ],
       "summary": "",
       "url": "https://www.thepaper.cn/newsDetail_forward_33755223"
-    },
-    {
-      "id": "evt-q2256000",
-      "title": "伯克希尔 Q2 净利润 256.67 亿美元，时隔 3 年首次净买入股票，现金储备降至 3655 亿美元，如何解读？",
-      "category": "economy",
-      "hotScore": 0.45,
-      "freshness": 1,
-      "crossSource": 0.6309,
-      "totalScore": 0.6693,
-      "sources": [
-        {
-          "channel": "zhihu",
-          "rank": 9,
-          "hot": 0,
-          "url": ""
-        }
-      ],
-      "summary": "",
-      "url": ""
-    },
-    {
-      "id": "evt-72000000",
-      "title": "演员秦焰去世，享年 72 岁，曾出演《狂飙》《庆余年第二季》等多部剧集，你对他塑造的角色有哪些记忆？",
-      "category": "entertainment",
-      "hotScore": 0.6,
-      "freshness": 1,
-      "crossSource": 0.6309,
-      "totalScore": 0.7293,
-      "sources": [
-        {
-          "channel": "zhihu",
-          "rank": 5,
-          "hot": 0,
-          "url": ""
-        }
-      ],
-      "summary": "",
-      "url": ""
     },
     {
       "id": "evt-22000000",
@@ -144,6 +81,25 @@
         {
           "channel": "zhihu",
           "rank": 3,
+          "hot": 0,
+          "url": ""
+        }
+      ],
+      "summary": "",
+      "url": ""
+    },
+    {
+      "id": "evt-72000000",
+      "title": "演员秦焰去世，享年 72 岁，曾出演《狂飙》《庆余年第二季》等多部剧集，你对他塑造的角色有哪些记忆？",
+      "category": "entertainment",
+      "hotScore": 0.6375,
+      "freshness": 1,
+      "crossSource": 0.6309,
+      "totalScore": 0.7443,
+      "sources": [
+        {
+          "channel": "zhihu",
+          "rank": 4,
           "hot": 0,
           "url": ""
         }
