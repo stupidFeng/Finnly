@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-08-09T22:19:09.693Z",
+  "generatedAt": "2026-08-10T00:56:41.219Z",
   "fields": {
     "society": "社会",
     "economy": "经济",
@@ -8,42 +8,55 @@
   "feed": [
     {
       "id": "evt-00000000",
-      "title": "伊朗最高领袖与总统会谈",
+      "title": "台风白海豚最新路径",
+      "category": "society",
+      "hotScore": 0.85,
+      "freshness": 1,
+      "crossSource": 1,
+      "totalScore": 0.94,
+      "sources": [
+        {
+          "channel": "toutiao",
+          "rank": 1,
+          "hot": 29500029,
+          "url": "https://www.toutiao.com/trending/7671242186478796842/"
+        }
+      ],
+      "summary": "",
+      "url": "https://www.toutiao.com/trending/7671242186478796842/"
+    },
+    {
+      "id": "evt-40000000",
+      "title": "上海地铁4条线路全线停运",
       "category": "society",
       "hotScore": 0.8075,
-      "freshness": 0.9999,
+      "freshness": 1,
       "crossSource": 1,
       "totalScore": 0.923,
       "sources": [
         {
           "channel": "toutiao",
           "rank": 2,
-          "hot": 22678611,
-          "url": "https://www.toutiao.com/trending/7670941843498287158/"
-        },
-        {
-          "channel": "baidu",
-          "rank": 7,
-          "hot": 0,
-          "url": "https://m.baidu.com/s?word=%E4%BC%8A%E6%9C%97%E6%9C%80%E9%AB%98%E9%A2%86%E8%A2%96%E4%B8%8E%E6%80%BB%E7%BB%9F%E4%BC%9A%E8%B0%88&sa=fyb_news"
+          "hot": 26692730,
+          "url": "https://www.toutiao.com/trending/7671904414269259795/"
         }
       ],
       "summary": "",
-      "url": "https://www.toutiao.com/trending/7670941843498287158/"
+      "url": "https://www.toutiao.com/trending/7671904414269259795/"
     },
     {
       "id": "evt-chinamaxxing",
       "title": "Chinamaxxing全球出圈！是啥意思",
       "category": "society",
       "hotScore": 0.765,
-      "freshness": 0.9999,
-      "crossSource": 0.6309,
-      "totalScore": 0.7953,
+      "freshness": 1,
+      "crossSource": 1,
+      "totalScore": 0.906,
       "sources": [
         {
           "channel": "toutiao",
           "rank": 3,
-          "hot": 20520455,
+          "hot": 24152581,
           "url": "https://www.toutiao.com/trending/7671832122461716521/"
         }
       ],
@@ -54,14 +67,14 @@
       "id": "evt-80000000",
       "title": "网上卖黄金卷入电诈8万元被划扣，驻马店市公安局称新蔡警方程序违法",
       "category": "society",
-      "hotScore": 0.7225,
+      "hotScore": 0.765,
       "freshness": 1,
-      "crossSource": 0.6309,
-      "totalScore": 0.7783,
+      "crossSource": 1,
+      "totalScore": 0.906,
       "sources": [
         {
           "channel": "thepaper",
-          "rank": 4,
+          "rank": 3,
           "hot": 0,
           "url": "https://www.thepaper.cn/newsDetail_forward_33747571"
         }
@@ -73,14 +86,14 @@
       "id": "evt-waywardblg",
       "title": "Wayward 称 BLG 放弃 Bin 是最错误决定，你如何评价？",
       "category": "society",
-      "hotScore": 0.675,
+      "hotScore": 0.75,
       "freshness": 1,
-      "crossSource": 0.6309,
-      "totalScore": 0.7593,
+      "crossSource": 1,
+      "totalScore": 0.9,
       "sources": [
         {
           "channel": "zhihu",
-          "rank": 3,
+          "rank": 1,
           "hot": 0,
           "url": ""
         }
@@ -89,36 +102,17 @@
       "url": ""
     },
     {
-      "id": "evt-20000000",
-      "title": "200多位院士专家为一人齐聚哈工程",
-      "category": "society",
-      "hotScore": 0.6375,
-      "freshness": 0.9999,
-      "crossSource": 0.6309,
-      "totalScore": 0.7443,
-      "sources": [
-        {
-          "channel": "toutiao",
-          "rank": 6,
-          "hot": 15201927,
-          "url": "https://www.toutiao.com/trending/7671958308341481508/"
-        }
-      ],
-      "summary": "",
-      "url": "https://www.toutiao.com/trending/7671958308341481508/"
-    },
-    {
       "id": "evt-42100000",
       "title": "4.2平卫生间补漏注胶花1.55万，消费者称陷“天价注胶补漏”套路",
       "category": "society",
-      "hotScore": 0.5525,
+      "hotScore": 0.595,
       "freshness": 1,
-      "crossSource": 0.6309,
-      "totalScore": 0.7103,
+      "crossSource": 1,
+      "totalScore": 0.838,
       "sources": [
         {
           "channel": "thepaper",
-          "rank": 8,
+          "rank": 7,
           "hot": 0,
           "url": "https://www.thepaper.cn/newsDetail_forward_33748209"
         }
@@ -132,8 +126,8 @@
       "category": "society",
       "hotScore": 0.51,
       "freshness": 1,
-      "crossSource": 0.6309,
-      "totalScore": 0.6933,
+      "crossSource": 1,
+      "totalScore": 0.804,
       "sources": [
         {
           "channel": "thepaper",
@@ -146,51 +140,13 @@
       "url": "https://www.thepaper.cn/newsDetail_forward_33749537"
     },
     {
-      "id": "evt-8850miumiu",
-      "title": "穿8850元MiuMiu鞋脚被染黑 官方回应",
-      "category": "society",
-      "hotScore": 0.48,
-      "freshness": 1,
-      "crossSource": 0.6309,
-      "totalScore": 0.6813,
-      "sources": [
-        {
-          "channel": "baidu",
-          "rank": 9,
-          "hot": 0,
-          "url": "https://m.baidu.com/s?word=%E7%A9%BF8850%E5%85%83MiuMiu%E9%9E%8B%E8%84%9A%E8%A2%AB%E6%9F%93%E9%BB%91+%E5%AE%98%E6%96%B9%E5%9B%9E%E5%BA%94&sa=fyb_news"
-        }
-      ],
-      "summary": "",
-      "url": "https://m.baidu.com/s?word=%E7%A9%BF8850%E5%85%83MiuMiu%E9%9E%8B%E8%84%9A%E8%A2%AB%E6%9F%93%E9%BB%91+%E5%AE%98%E6%96%B9%E5%9B%9E%E5%BA%94&sa=fyb_news"
-    },
-    {
-      "id": "evt-suv00000",
-      "title": "新能源充电站一辆SUV突然起火爆燃",
-      "category": "society",
-      "hotScore": 0.4675,
-      "freshness": 0.9999,
-      "crossSource": 0.6309,
-      "totalScore": 0.6763,
-      "sources": [
-        {
-          "channel": "toutiao",
-          "rank": 10,
-          "hot": 10190156,
-          "url": "https://www.toutiao.com/trending/7671198968541921289/"
-        }
-      ],
-      "summary": "",
-      "url": "https://www.toutiao.com/trending/7671198968541921289/"
-    },
-    {
-      "id": "evt-rtx50000",
-      "title": "如何看待「现在查 RTX 5090 价格已经变成了一种恐怖片题材」这个梗？",
+      "id": "evt-ai000000",
+      "title": "美国科学家首次用 AI 设计出病毒，意味着什么？生物安全防线该如何应对？",
       "category": "society",
       "hotScore": 0.45,
       "freshness": 1,
-      "crossSource": 0.6309,
-      "totalScore": 0.6693,
+      "crossSource": 1,
+      "totalScore": 0.78,
       "sources": [
         {
           "channel": "zhihu",
@@ -203,42 +159,23 @@
       "url": ""
     },
     {
-      "id": "evt-16000000",
-      "title": "今年第16号台风琵鹭生成",
+      "id": "evt-50000000",
+      "title": "5万小车卖不动 微型代步车集体遇冷",
       "category": "society",
       "hotScore": 0.44,
       "freshness": 1,
-      "crossSource": 0.6309,
-      "totalScore": 0.6653,
+      "crossSource": 1,
+      "totalScore": 0.776,
       "sources": [
         {
           "channel": "baidu",
           "rank": 10,
           "hot": 0,
-          "url": "https://m.baidu.com/s?word=%E4%BB%8A%E5%B9%B4%E7%AC%AC16%E5%8F%B7%E5%8F%B0%E9%A3%8E%E7%90%B5%E9%B9%AD%E7%94%9F%E6%88%90&sa=fyb_news"
+          "url": "https://m.baidu.com/s?word=5%E4%B8%87%E5%B0%8F%E8%BD%A6%E5%8D%96%E4%B8%8D%E5%8A%A8+%E5%BE%AE%E5%9E%8B%E4%BB%A3%E6%AD%A5%E8%BD%A6%E9%9B%86%E4%BD%93%E9%81%87%E5%86%B7&sa=fyb_news"
         }
       ],
       "summary": "",
-      "url": "https://m.baidu.com/s?word=%E4%BB%8A%E5%B9%B4%E7%AC%AC16%E5%8F%B7%E5%8F%B0%E9%A3%8E%E7%90%B5%E9%B9%AD%E7%94%9F%E6%88%90&sa=fyb_news"
-    },
-    {
-      "id": "evt-ai000000",
-      "title": "网民AI造谣“西平灭门案”被行拘",
-      "category": "society",
-      "hotScore": 0.425,
-      "freshness": 0.9999,
-      "crossSource": 0.6309,
-      "totalScore": 0.6593,
-      "sources": [
-        {
-          "channel": "toutiao",
-          "rank": 11,
-          "hot": 9220435,
-          "url": "https://www.toutiao.com/trending/7671970111683969066/"
-        }
-      ],
-      "summary": "",
-      "url": "https://www.toutiao.com/trending/7671970111683969066/"
+      "url": "https://m.baidu.com/s?word=5%E4%B8%87%E5%B0%8F%E8%BD%A6%E5%8D%96%E4%B8%8D%E5%8A%A8+%E5%BE%AE%E5%9E%8B%E4%BB%A3%E6%AD%A5%E8%BD%A6%E9%9B%86%E4%BD%93%E9%81%87%E5%86%B7&sa=fyb_news"
     }
   ]
 }
