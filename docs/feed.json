@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-08-11T08:43:11.772Z",
+  "generatedAt": "2026-08-11T10:41:16.341Z",
   "fields": {
     "society": "社会",
     "economy": "经济",
@@ -17,8 +17,8 @@
       "sources": [
         {
           "channel": "toutiao",
-          "rank": 8,
-          "hot": 15410724,
+          "rank": 17,
+          "hot": 7000842,
           "url": "https://www.toutiao.com/trending/7672231698684575807/"
         },
         {
@@ -33,7 +33,7 @@
     },
     {
       "id": "evt-00000000",
-      "title": "宁波公安回应“网红雅典娜遇害”",
+      "title": "“星巴克该管管只坐不买的人”",
       "category": "society",
       "hotScore": 0.72,
       "freshness": 1,
@@ -42,19 +42,44 @@
       "sources": [
         {
           "channel": "toutiao",
-          "rank": 5,
-          "hot": 20802302,
-          "url": "https://www.toutiao.com/trending/7671612619727572499/"
+          "rank": 10,
+          "hot": 14097965,
+          "url": "https://www.toutiao.com/trending/7672670139569569834/"
         },
         {
           "channel": "baidu",
           "rank": 3,
           "hot": 0,
-          "url": "https://m.baidu.com/s?word=%E5%AE%81%E6%B3%A2%E5%85%AC%E5%AE%89%E5%9B%9E%E5%BA%94%E2%80%9C%E7%BD%91%E7%BA%A2%E9%9B%85%E5%85%B8%E5%A8%9C%E9%81%87%E5%AE%B3%E2%80%9D&sa=fyb_news"
+          "url": "https://m.baidu.com/s?word=%E2%80%9C%E6%98%9F%E5%B7%B4%E5%85%8B%E8%AF%A5%E7%AE%A1%E7%AE%A1%E5%8F%AA%E5%9D%90%E4%B8%8D%E4%B9%B0%E7%9A%84%E4%BA%BA%E2%80%9D&sa=fyb_news"
         }
       ],
       "summary": "",
-      "url": "https://www.toutiao.com/trending/7671612619727572499/"
+      "url": "https://www.toutiao.com/trending/7672670139569569834/"
+    },
+    {
+      "id": "evt-80045000",
+      "title": "租金从800元降到450元房东决定不租了",
+      "category": "society",
+      "hotScore": 0.64,
+      "freshness": 1,
+      "crossSource": 1,
+      "totalScore": 0.856,
+      "sources": [
+        {
+          "channel": "toutiao",
+          "rank": 6,
+          "hot": 21031692,
+          "url": "https://www.toutiao.com/trending/7671617219173351460/"
+        },
+        {
+          "channel": "baidu",
+          "rank": 5,
+          "hot": 0,
+          "url": "https://m.baidu.com/s?word=%E7%A7%9F%E9%87%91%E4%BB%8E800%E5%85%83%E9%99%8D%E5%88%B0450%E5%85%83%E6%88%BF%E4%B8%9C%E5%86%B3%E5%AE%9A%E4%B8%8D%E7%A7%9F%E4%BA%86&sa=fyb_news"
+        }
+      ],
+      "summary": "",
+      "url": "https://www.toutiao.com/trending/7671617219173351460/"
     },
     {
       "id": "evt-4b000000",
@@ -76,8 +101,8 @@
       "url": "https://www.thepaper.cn/newsDetail_forward_33755223"
     },
     {
-      "id": "evt-98450000",
-      "title": "984.5高校火了",
+      "id": "evt-15000000",
+      "title": "睡车里被酒店收150元住宿费事件反转",
       "category": "society",
       "hotScore": 0.8075,
       "freshness": 1,
@@ -87,12 +112,12 @@
         {
           "channel": "toutiao",
           "rank": 2,
-          "hot": 28080170,
-          "url": "https://www.toutiao.com/trending/7672196297356673087/"
+          "hot": 31375598,
+          "url": "https://www.toutiao.com/trending/7672232495756902446/"
         }
       ],
       "summary": "",
-      "url": "https://www.toutiao.com/trending/7672196297356673087/"
+      "url": "https://www.toutiao.com/trending/7672232495756902446/"
     },
     {
       "id": "evt-05500000",
@@ -114,23 +139,61 @@
       "url": ""
     },
     {
-      "id": "evt-80045000",
-      "title": "租金从800元降到450元房东决定不租了",
+      "id": "evt-26100000",
+      "title": "龙翔贪2.61亿被判死缓",
       "category": "society",
-      "hotScore": 0.56,
+      "hotScore": 0.68,
       "freshness": 1,
       "crossSource": 0.6309,
-      "totalScore": 0.7133,
+      "totalScore": 0.7613,
       "sources": [
         {
-          "channel": "baidu",
-          "rank": 7,
-          "hot": 0,
-          "url": "https://m.baidu.com/s?word=%E7%A7%9F%E9%87%91%E4%BB%8E800%E5%85%83%E9%99%8D%E5%88%B0450%E5%85%83%E6%88%BF%E4%B8%9C%E5%86%B3%E5%AE%9A%E4%B8%8D%E7%A7%9F%E4%BA%86&sa=fyb_news"
+          "channel": "toutiao",
+          "rank": 5,
+          "hot": 23243615,
+          "url": "https://www.toutiao.com/trending/7672696576308940342/"
         }
       ],
       "summary": "",
-      "url": "https://m.baidu.com/s?word=%E7%A7%9F%E9%87%91%E4%BB%8E800%E5%85%83%E9%99%8D%E5%88%B0450%E5%85%83%E6%88%BF%E4%B8%9C%E5%86%B3%E5%AE%9A%E4%B8%8D%E7%A7%9F%E4%BA%86&sa=fyb_news"
+      "url": "https://www.toutiao.com/trending/7672696576308940342/"
+    },
+    {
+      "id": "evt-98450000",
+      "title": "984.5高校火了",
+      "category": "society",
+      "hotScore": 0.595,
+      "freshness": 1,
+      "crossSource": 0.6309,
+      "totalScore": 0.7273,
+      "sources": [
+        {
+          "channel": "toutiao",
+          "rank": 7,
+          "hot": 19030262,
+          "url": "https://www.toutiao.com/trending/7672196297356673087/"
+        }
+      ],
+      "summary": "",
+      "url": "https://www.toutiao.com/trending/7672196297356673087/"
+    },
+    {
+      "id": "evt-36ai0000",
+      "title": "每36秒上新一部！AI短剧狂飙，短剧江湖正在换主角",
+      "category": "society",
+      "hotScore": 0.595,
+      "freshness": 1,
+      "crossSource": 0.6309,
+      "totalScore": 0.7273,
+      "sources": [
+        {
+          "channel": "thepaper",
+          "rank": 7,
+          "hot": 0,
+          "url": "https://www.thepaper.cn/newsDetail_forward_33710549"
+        }
+      ],
+      "summary": "",
+      "url": "https://www.thepaper.cn/newsDetail_forward_33710549"
     },
     {
       "id": "evt-ai000000",
@@ -155,14 +218,14 @@
       "id": "evt-11100000",
       "title": "哥伦比亚强震已致111死87伤，政府宣布进入“国家灾难状态”",
       "category": "society",
-      "hotScore": 0.4675,
+      "hotScore": 0.51,
       "freshness": 1,
       "crossSource": 0.6309,
-      "totalScore": 0.6763,
+      "totalScore": 0.6933,
       "sources": [
         {
           "channel": "thepaper",
-          "rank": 10,
+          "rank": 9,
           "hot": 0,
           "url": "https://www.thepaper.cn/newsDetail_forward_33756837"
         }
@@ -171,42 +234,23 @@
       "url": "https://www.thepaper.cn/newsDetail_forward_33756837"
     },
     {
-      "id": "evt-20000000",
-      "title": "岳云鹏瘦了20斤",
+      "id": "evt-12000000",
+      "title": "豆包否认推荐酒店抽取 12% 佣金，称仅在订单成交后收取渠道服务费，字节在打哪些商业算盘？",
       "category": "society",
-      "hotScore": 0.44,
+      "hotScore": 0.45,
       "freshness": 1,
       "crossSource": 0.6309,
-      "totalScore": 0.6653,
+      "totalScore": 0.6693,
       "sources": [
         {
-          "channel": "baidu",
-          "rank": 10,
+          "channel": "zhihu",
+          "rank": 9,
           "hot": 0,
-          "url": "https://m.baidu.com/s?word=%E5%B2%B3%E4%BA%91%E9%B9%8F%E7%98%A6%E4%BA%8620%E6%96%A4&sa=fyb_news"
+          "url": ""
         }
       ],
       "summary": "",
-      "url": "https://m.baidu.com/s?word=%E5%B2%B3%E4%BA%91%E9%B9%8F%E7%98%A6%E4%BA%8620%E6%96%A4&sa=fyb_news"
-    },
-    {
-      "id": "evt-36ai0000",
-      "title": "每36秒上新一部！AI短剧狂飙，短剧江湖正在换主角",
-      "category": "society",
-      "hotScore": 0.425,
-      "freshness": 1,
-      "crossSource": 0.6309,
-      "totalScore": 0.6593,
-      "sources": [
-        {
-          "channel": "thepaper",
-          "rank": 11,
-          "hot": 0,
-          "url": "https://www.thepaper.cn/newsDetail_forward_33710549"
-        }
-      ],
-      "summary": "",
-      "url": "https://www.thepaper.cn/newsDetail_forward_33710549"
+      "url": ""
     }
   ]
 }
