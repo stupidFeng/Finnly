@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-08-11T10:41:16.341Z",
+  "generatedAt": "2026-08-11T12:39:52.898Z",
   "fields": {
     "society": "社会",
     "economy": "经济",
@@ -7,73 +7,23 @@
   },
   "feed": [
     {
-      "id": "evt-70000000",
-      "title": "7月销量前十仅一款燃油车",
+      "id": "evt-80045000",
+      "title": "租金从800元降到450元房东决定不租了",
       "category": "society",
       "hotScore": 0.76,
-      "freshness": 1,
+      "freshness": 0.9999,
       "crossSource": 1,
       "totalScore": 0.904,
       "sources": [
         {
           "channel": "toutiao",
-          "rank": 17,
-          "hot": 7000842,
-          "url": "https://www.toutiao.com/trending/7672231698684575807/"
-        },
-        {
-          "channel": "baidu",
-          "rank": 2,
-          "hot": 0,
-          "url": "https://m.baidu.com/s?word=7%E6%9C%88%E9%94%80%E9%87%8F%E5%89%8D%E5%8D%81%E4%BB%85%E4%B8%80%E6%AC%BE%E7%87%83%E6%B2%B9%E8%BD%A6&sa=fyb_news"
-        }
-      ],
-      "summary": "",
-      "url": "https://www.toutiao.com/trending/7672231698684575807/"
-    },
-    {
-      "id": "evt-00000000",
-      "title": "“星巴克该管管只坐不买的人”",
-      "category": "society",
-      "hotScore": 0.72,
-      "freshness": 1,
-      "crossSource": 1,
-      "totalScore": 0.888,
-      "sources": [
-        {
-          "channel": "toutiao",
-          "rank": 10,
-          "hot": 14097965,
-          "url": "https://www.toutiao.com/trending/7672670139569569834/"
-        },
-        {
-          "channel": "baidu",
-          "rank": 3,
-          "hot": 0,
-          "url": "https://m.baidu.com/s?word=%E2%80%9C%E6%98%9F%E5%B7%B4%E5%85%8B%E8%AF%A5%E7%AE%A1%E7%AE%A1%E5%8F%AA%E5%9D%90%E4%B8%8D%E4%B9%B0%E7%9A%84%E4%BA%BA%E2%80%9D&sa=fyb_news"
-        }
-      ],
-      "summary": "",
-      "url": "https://www.toutiao.com/trending/7672670139569569834/"
-    },
-    {
-      "id": "evt-80045000",
-      "title": "租金从800元降到450元房东决定不租了",
-      "category": "society",
-      "hotScore": 0.64,
-      "freshness": 1,
-      "crossSource": 1,
-      "totalScore": 0.856,
-      "sources": [
-        {
-          "channel": "toutiao",
-          "rank": 6,
-          "hot": 21031692,
+          "rank": 7,
+          "hot": 20904954,
           "url": "https://www.toutiao.com/trending/7671617219173351460/"
         },
         {
           "channel": "baidu",
-          "rank": 5,
+          "rank": 2,
           "hot": 0,
           "url": "https://m.baidu.com/s?word=%E7%A7%9F%E9%87%91%E4%BB%8E800%E5%85%83%E9%99%8D%E5%88%B0450%E5%85%83%E6%88%BF%E4%B8%9C%E5%86%B3%E5%AE%9A%E4%B8%8D%E7%A7%9F%E4%BA%86&sa=fyb_news"
         }
@@ -101,8 +51,27 @@
       "url": "https://www.thepaper.cn/newsDetail_forward_33755223"
     },
     {
-      "id": "evt-15000000",
-      "title": "睡车里被酒店收150元住宿费事件反转",
+      "id": "evt-98450000",
+      "title": "984.5高校火了",
+      "category": "society",
+      "hotScore": 0.85,
+      "freshness": 0.9999,
+      "crossSource": 0.6309,
+      "totalScore": 0.8292,
+      "sources": [
+        {
+          "channel": "toutiao",
+          "rank": 1,
+          "hot": 38091311,
+          "url": "https://www.toutiao.com/trending/7672196297356673087/"
+        }
+      ],
+      "summary": "",
+      "url": "https://www.toutiao.com/trending/7672196297356673087/"
+    },
+    {
+      "id": "evt-00000000",
+      "title": "公安部深化扫黑除恶专项斗争第一轮集中收网，抓获犯罪嫌疑人8200余名",
       "category": "society",
       "hotScore": 0.8075,
       "freshness": 1,
@@ -110,21 +79,40 @@
       "totalScore": 0.8123,
       "sources": [
         {
-          "channel": "toutiao",
+          "channel": "thepaper",
           "rank": 2,
-          "hot": 31375598,
-          "url": "https://www.toutiao.com/trending/7672232495756902446/"
+          "hot": 0,
+          "url": "https://www.thepaper.cn/newsDetail_forward_33754726"
         }
       ],
       "summary": "",
-      "url": "https://www.toutiao.com/trending/7672232495756902446/"
+      "url": "https://www.thepaper.cn/newsDetail_forward_33754726"
+    },
+    {
+      "id": "evt-26100000",
+      "title": "龙翔贪2.61亿被判死缓",
+      "category": "society",
+      "hotScore": 0.8075,
+      "freshness": 0.9999,
+      "crossSource": 0.6309,
+      "totalScore": 0.8122,
+      "sources": [
+        {
+          "channel": "toutiao",
+          "rank": 2,
+          "hot": 34466443,
+          "url": "https://www.toutiao.com/trending/7672696576308940342/"
+        }
+      ],
+      "summary": "",
+      "url": "https://www.toutiao.com/trending/7672696576308940342/"
     },
     {
       "id": "evt-05500000",
       "title": "央视首次曝光 055 遵义舰演习遭潜艇伏击「击沉」，这一操作的意图是什么？算暴露 055 的短板吗？",
       "category": "society",
       "hotScore": 0.75,
-      "freshness": 1,
+      "freshness": 0.9999,
       "crossSource": 0.6309,
       "totalScore": 0.7893,
       "sources": [
@@ -139,42 +127,42 @@
       "url": ""
     },
     {
-      "id": "evt-26100000",
-      "title": "龙翔贪2.61亿被判死缓",
+      "id": "evt-70000000",
+      "title": "7月销量前十仅一款燃油车",
       "category": "society",
-      "hotScore": 0.68,
-      "freshness": 1,
+      "hotScore": 0.72,
+      "freshness": 0.9999,
       "crossSource": 0.6309,
-      "totalScore": 0.7613,
+      "totalScore": 0.7773,
       "sources": [
         {
-          "channel": "toutiao",
-          "rank": 5,
-          "hot": 23243615,
-          "url": "https://www.toutiao.com/trending/7672696576308940342/"
+          "channel": "baidu",
+          "rank": 3,
+          "hot": 0,
+          "url": "https://m.baidu.com/s?word=7%E6%9C%88%E9%94%80%E9%87%8F%E5%89%8D%E5%8D%81%E4%BB%85%E4%B8%80%E6%AC%BE%E7%87%83%E6%B2%B9%E8%BD%A6&sa=fyb_news"
         }
       ],
       "summary": "",
-      "url": "https://www.toutiao.com/trending/7672696576308940342/"
+      "url": "https://m.baidu.com/s?word=7%E6%9C%88%E9%94%80%E9%87%8F%E5%89%8D%E5%8D%81%E4%BB%85%E4%B8%80%E6%AC%BE%E7%87%83%E6%B2%B9%E8%BD%A6&sa=fyb_news"
     },
     {
-      "id": "evt-98450000",
-      "title": "984.5高校火了",
+      "id": "evt-10000000",
+      "title": "宇树科技中签号出炉 共约1.94万个",
       "category": "society",
-      "hotScore": 0.595,
-      "freshness": 1,
+      "hotScore": 0.64,
+      "freshness": 0.9999,
       "crossSource": 0.6309,
-      "totalScore": 0.7273,
+      "totalScore": 0.7453,
       "sources": [
         {
-          "channel": "toutiao",
-          "rank": 7,
-          "hot": 19030262,
-          "url": "https://www.toutiao.com/trending/7672196297356673087/"
+          "channel": "baidu",
+          "rank": 5,
+          "hot": 0,
+          "url": "https://m.baidu.com/s?word=%E5%AE%87%E6%A0%91%E7%A7%91%E6%8A%80%E4%B8%AD%E7%AD%BE%E5%8F%B7%E5%87%BA%E7%82%89+%E5%85%B1%E7%BA%A61.94%E4%B8%87%E4%B8%AA&sa=fyb_news"
         }
       ],
       "summary": "",
-      "url": "https://www.toutiao.com/trending/7672196297356673087/"
+      "url": "https://m.baidu.com/s?word=%E5%AE%87%E6%A0%91%E7%A7%91%E6%8A%80%E4%B8%AD%E7%AD%BE%E5%8F%B7%E5%87%BA%E7%82%89+%E5%85%B1%E7%BA%A61.94%E4%B8%87%E4%B8%AA&sa=fyb_news"
     },
     {
       "id": "evt-36ai0000",
@@ -215,6 +203,25 @@
       "url": "https://www.thepaper.cn/newsDetail_forward_33753662"
     },
     {
+      "id": "evt-58000000",
+      "title": "58 同城被曝启动大规模裁员，缩减比例或达 75%，是真的吗？58 同城这几年到底经历了什么？",
+      "category": "society",
+      "hotScore": 0.525,
+      "freshness": 0.9999,
+      "crossSource": 0.6309,
+      "totalScore": 0.6993,
+      "sources": [
+        {
+          "channel": "zhihu",
+          "rank": 7,
+          "hot": 0,
+          "url": ""
+        }
+      ],
+      "summary": "",
+      "url": ""
+    },
+    {
       "id": "evt-11100000",
       "title": "哥伦比亚强震已致111死87伤，政府宣布进入“国家灾难状态”",
       "category": "society",
@@ -234,23 +241,23 @@
       "url": "https://www.thepaper.cn/newsDetail_forward_33756837"
     },
     {
-      "id": "evt-12000000",
-      "title": "豆包否认推荐酒店抽取 12% 佣金，称仅在订单成交后收取渠道服务费，字节在打哪些商业算盘？",
+      "id": "evt-74000000",
+      "title": "一图世界｜哥伦比亚7.4级强震，震源深但灾情严重",
       "category": "society",
-      "hotScore": 0.45,
+      "hotScore": 0.425,
       "freshness": 1,
       "crossSource": 0.6309,
-      "totalScore": 0.6693,
+      "totalScore": 0.6593,
       "sources": [
         {
-          "channel": "zhihu",
-          "rank": 9,
+          "channel": "thepaper",
+          "rank": 11,
           "hot": 0,
-          "url": ""
+          "url": "https://www.thepaper.cn/newsDetail_forward_33758007"
         }
       ],
       "summary": "",
-      "url": ""
+      "url": "https://www.thepaper.cn/newsDetail_forward_33758007"
     }
   ]
 }
