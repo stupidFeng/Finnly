@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-08-11T12:39:52.898Z",
+  "generatedAt": "2026-08-11T14:49:48.127Z",
   "fields": {
     "society": "社会",
     "economy": "经济",
@@ -7,23 +7,48 @@
   },
   "feed": [
     {
-      "id": "evt-80045000",
-      "title": "租金从800元降到450元房东决定不租了",
+      "id": "evt-00000000",
+      "title": "文献纪录片《江泽民》播出",
       "category": "society",
-      "hotScore": 0.76,
+      "hotScore": 0.8075,
       "freshness": 0.9999,
       "crossSource": 1,
-      "totalScore": 0.904,
+      "totalScore": 0.923,
       "sources": [
         {
           "channel": "toutiao",
-          "rank": 7,
-          "hot": 20904954,
-          "url": "https://www.toutiao.com/trending/7671617219173351460/"
+          "rank": 2,
+          "hot": 25200155,
+          "url": "https://www.toutiao.com/trending/7672736569466060846/"
         },
         {
           "channel": "baidu",
           "rank": 2,
+          "hot": 0,
+          "url": "https://m.baidu.com/s?word=%E6%96%87%E7%8C%AE%E7%BA%AA%E5%BD%95%E7%89%87%E3%80%8A%E6%B1%9F%E6%B3%BD%E6%B0%91%E3%80%8B%E6%92%AD%E5%87%BA&sa=fyb_news"
+        }
+      ],
+      "summary": "",
+      "url": "https://www.toutiao.com/trending/7672736569466060846/"
+    },
+    {
+      "id": "evt-80045000",
+      "title": "租金从800元降到450元房东决定不租了",
+      "category": "society",
+      "hotScore": 0.72,
+      "freshness": 0.9999,
+      "crossSource": 1,
+      "totalScore": 0.888,
+      "sources": [
+        {
+          "channel": "toutiao",
+          "rank": 8,
+          "hot": 13830138,
+          "url": "https://www.toutiao.com/trending/7671617219173351460/"
+        },
+        {
+          "channel": "baidu",
+          "rank": 3,
           "hot": 0,
           "url": "https://m.baidu.com/s?word=%E7%A7%9F%E9%87%91%E4%BB%8E800%E5%85%83%E9%99%8D%E5%88%B0450%E5%85%83%E6%88%BF%E4%B8%9C%E5%86%B3%E5%AE%9A%E4%B8%8D%E7%A7%9F%E4%BA%86&sa=fyb_news"
         }
@@ -51,106 +76,49 @@
       "url": "https://www.thepaper.cn/newsDetail_forward_33755223"
     },
     {
-      "id": "evt-98450000",
-      "title": "984.5高校火了",
+      "id": "evt-36000000",
+      "title": "36岁网红为救父亲氨气中毒去世",
       "category": "society",
-      "hotScore": 0.85,
+      "hotScore": 0.7225,
       "freshness": 0.9999,
       "crossSource": 0.6309,
-      "totalScore": 0.8292,
+      "totalScore": 0.7783,
       "sources": [
         {
           "channel": "toutiao",
-          "rank": 1,
-          "hot": 38091311,
-          "url": "https://www.toutiao.com/trending/7672196297356673087/"
+          "rank": 4,
+          "hot": 20632142,
+          "url": "https://www.toutiao.com/trending/7672588898545451046/"
         }
       ],
       "summary": "",
-      "url": "https://www.toutiao.com/trending/7672196297356673087/"
+      "url": "https://www.toutiao.com/trending/7672588898545451046/"
     },
     {
-      "id": "evt-00000000",
-      "title": "公安部深化扫黑除恶专项斗争第一轮集中收网，抓获犯罪嫌疑人8200余名",
-      "category": "society",
-      "hotScore": 0.8075,
-      "freshness": 1,
-      "crossSource": 0.6309,
-      "totalScore": 0.8123,
-      "sources": [
-        {
-          "channel": "thepaper",
-          "rank": 2,
-          "hot": 0,
-          "url": "https://www.thepaper.cn/newsDetail_forward_33754726"
-        }
-      ],
-      "summary": "",
-      "url": "https://www.thepaper.cn/newsDetail_forward_33754726"
-    },
-    {
-      "id": "evt-26100000",
-      "title": "龙翔贪2.61亿被判死缓",
-      "category": "society",
-      "hotScore": 0.8075,
+      "id": "evt-20270600",
+      "title": "比亚迪2027款海豹06上市",
+      "category": "economy",
+      "hotScore": 0.6375,
       "freshness": 0.9999,
       "crossSource": 0.6309,
-      "totalScore": 0.8122,
+      "totalScore": 0.7443,
       "sources": [
         {
           "channel": "toutiao",
-          "rank": 2,
-          "hot": 34466443,
-          "url": "https://www.toutiao.com/trending/7672696576308940342/"
+          "rank": 6,
+          "hot": 16892169,
+          "url": "https://www.toutiao.com/trending/7672587129632882738/"
         }
       ],
       "summary": "",
-      "url": "https://www.toutiao.com/trending/7672696576308940342/"
+      "url": "https://www.toutiao.com/trending/7672587129632882738/"
     },
     {
-      "id": "evt-05500000",
-      "title": "央视首次曝光 055 遵义舰演习遭潜艇伏击「击沉」，这一操作的意图是什么？算暴露 055 的短板吗？",
-      "category": "society",
-      "hotScore": 0.75,
-      "freshness": 0.9999,
-      "crossSource": 0.6309,
-      "totalScore": 0.7893,
-      "sources": [
-        {
-          "channel": "zhihu",
-          "rank": 1,
-          "hot": 0,
-          "url": ""
-        }
-      ],
-      "summary": "",
-      "url": ""
-    },
-    {
-      "id": "evt-70000000",
-      "title": "7月销量前十仅一款燃油车",
-      "category": "society",
-      "hotScore": 0.72,
-      "freshness": 0.9999,
-      "crossSource": 0.6309,
-      "totalScore": 0.7773,
-      "sources": [
-        {
-          "channel": "baidu",
-          "rank": 3,
-          "hot": 0,
-          "url": "https://m.baidu.com/s?word=7%E6%9C%88%E9%94%80%E9%87%8F%E5%89%8D%E5%8D%81%E4%BB%85%E4%B8%80%E6%AC%BE%E7%87%83%E6%B2%B9%E8%BD%A6&sa=fyb_news"
-        }
-      ],
-      "summary": "",
-      "url": "https://m.baidu.com/s?word=7%E6%9C%88%E9%94%80%E9%87%8F%E5%89%8D%E5%8D%81%E4%BB%85%E4%B8%80%E6%AC%BE%E7%87%83%E6%B2%B9%E8%BD%A6&sa=fyb_news"
-    },
-    {
-      "id": "evt-10000000",
-      "title": "宇树科技中签号出炉 共约1.94万个",
-      "category": "society",
+      "id": "evt-12000000",
+      "title": "女演员被曝1天只吃2个馒头 本人回应",
+      "category": "entertainment",
       "hotScore": 0.64,
-      "freshness": 0.9999,
+      "freshness": 1,
       "crossSource": 0.6309,
       "totalScore": 0.7453,
       "sources": [
@@ -158,24 +126,43 @@
           "channel": "baidu",
           "rank": 5,
           "hot": 0,
-          "url": "https://m.baidu.com/s?word=%E5%AE%87%E6%A0%91%E7%A7%91%E6%8A%80%E4%B8%AD%E7%AD%BE%E5%8F%B7%E5%87%BA%E7%82%89+%E5%85%B1%E7%BA%A61.94%E4%B8%87%E4%B8%AA&sa=fyb_news"
+          "url": "https://m.baidu.com/s?word=%E5%A5%B3%E6%BC%94%E5%91%98%E8%A2%AB%E6%9B%9D1%E5%A4%A9%E5%8F%AA%E5%90%832%E4%B8%AA%E9%A6%92%E5%A4%B4+%E6%9C%AC%E4%BA%BA%E5%9B%9E%E5%BA%94&sa=fyb_news"
         }
       ],
       "summary": "",
-      "url": "https://m.baidu.com/s?word=%E5%AE%87%E6%A0%91%E7%A7%91%E6%8A%80%E4%B8%AD%E7%AD%BE%E5%8F%B7%E5%87%BA%E7%82%89+%E5%85%B1%E7%BA%A61.94%E4%B8%87%E4%B8%AA&sa=fyb_news"
+      "url": "https://m.baidu.com/s?word=%E5%A5%B3%E6%BC%94%E5%91%98%E8%A2%AB%E6%9B%9D1%E5%A4%A9%E5%8F%AA%E5%90%832%E4%B8%AA%E9%A6%92%E5%A4%B4+%E6%9C%AC%E4%BA%BA%E5%9B%9E%E5%BA%94&sa=fyb_news"
+    },
+    {
+      "id": "evt-98450000",
+      "title": "984.5高校火了",
+      "category": "society",
+      "hotScore": 0.68,
+      "freshness": 0.9999,
+      "crossSource": 0.6309,
+      "totalScore": 0.7613,
+      "sources": [
+        {
+          "channel": "toutiao",
+          "rank": 5,
+          "hot": 18668734,
+          "url": "https://www.toutiao.com/trending/7672196297356673087/"
+        }
+      ],
+      "summary": "",
+      "url": "https://www.toutiao.com/trending/7672196297356673087/"
     },
     {
       "id": "evt-36ai0000",
       "title": "每36秒上新一部！AI短剧狂飙，短剧江湖正在换主角",
       "category": "society",
-      "hotScore": 0.595,
+      "hotScore": 0.68,
       "freshness": 1,
       "crossSource": 0.6309,
-      "totalScore": 0.7273,
+      "totalScore": 0.7613,
       "sources": [
         {
           "channel": "thepaper",
-          "rank": 7,
+          "rank": 5,
           "hot": 0,
           "url": "https://www.thepaper.cn/newsDetail_forward_33710549"
         }
@@ -187,6 +174,25 @@
       "id": "evt-ai000000",
       "title": "城市竞争进入AI答案时代",
       "category": "society",
+      "hotScore": 0.6375,
+      "freshness": 1,
+      "crossSource": 0.6309,
+      "totalScore": 0.7443,
+      "sources": [
+        {
+          "channel": "thepaper",
+          "rank": 6,
+          "hot": 0,
+          "url": "https://www.thepaper.cn/newsDetail_forward_33753662"
+        }
+      ],
+      "summary": "",
+      "url": "https://www.thepaper.cn/newsDetail_forward_33753662"
+    },
+    {
+      "id": "evt-11100000",
+      "title": "哥伦比亚强震已致111死87伤，政府宣布进入“国家灾难状态”",
+      "category": "society",
       "hotScore": 0.5525,
       "freshness": 1,
       "crossSource": 0.6309,
@@ -196,44 +202,6 @@
           "channel": "thepaper",
           "rank": 8,
           "hot": 0,
-          "url": "https://www.thepaper.cn/newsDetail_forward_33753662"
-        }
-      ],
-      "summary": "",
-      "url": "https://www.thepaper.cn/newsDetail_forward_33753662"
-    },
-    {
-      "id": "evt-58000000",
-      "title": "58 同城被曝启动大规模裁员，缩减比例或达 75%，是真的吗？58 同城这几年到底经历了什么？",
-      "category": "society",
-      "hotScore": 0.525,
-      "freshness": 0.9999,
-      "crossSource": 0.6309,
-      "totalScore": 0.6993,
-      "sources": [
-        {
-          "channel": "zhihu",
-          "rank": 7,
-          "hot": 0,
-          "url": ""
-        }
-      ],
-      "summary": "",
-      "url": ""
-    },
-    {
-      "id": "evt-11100000",
-      "title": "哥伦比亚强震已致111死87伤，政府宣布进入“国家灾难状态”",
-      "category": "society",
-      "hotScore": 0.51,
-      "freshness": 1,
-      "crossSource": 0.6309,
-      "totalScore": 0.6933,
-      "sources": [
-        {
-          "channel": "thepaper",
-          "rank": 9,
-          "hot": 0,
           "url": "https://www.thepaper.cn/newsDetail_forward_33756837"
         }
       ],
@@ -241,23 +209,80 @@
       "url": "https://www.thepaper.cn/newsDetail_forward_33756837"
     },
     {
+      "id": "evt-20000000",
+      "title": "北京2区已现大暴雨 夜间雨势逐渐增强",
+      "category": "society",
+      "hotScore": 0.52,
+      "freshness": 1,
+      "crossSource": 0.6309,
+      "totalScore": 0.6973,
+      "sources": [
+        {
+          "channel": "baidu",
+          "rank": 8,
+          "hot": 0,
+          "url": "https://m.baidu.com/s?word=%E5%8C%97%E4%BA%AC2%E5%8C%BA%E5%B7%B2%E7%8E%B0%E5%A4%A7%E6%9A%B4%E9%9B%A8+%E5%A4%9C%E9%97%B4%E9%9B%A8%E5%8A%BF%E9%80%90%E6%B8%90%E5%A2%9E%E5%BC%BA&sa=fyb_news"
+        }
+      ],
+      "summary": "",
+      "url": "https://m.baidu.com/s?word=%E5%8C%97%E4%BA%AC2%E5%8C%BA%E5%B7%B2%E7%8E%B0%E5%A4%A7%E6%9A%B4%E9%9B%A8+%E5%A4%9C%E9%97%B4%E9%9B%A8%E5%8A%BF%E9%80%90%E6%B8%90%E5%A2%9E%E5%BC%BA&sa=fyb_news"
+    },
+    {
       "id": "evt-74000000",
       "title": "一图世界｜哥伦比亚7.4级强震，震源深但灾情严重",
       "category": "society",
-      "hotScore": 0.425,
+      "hotScore": 0.4675,
       "freshness": 1,
       "crossSource": 0.6309,
-      "totalScore": 0.6593,
+      "totalScore": 0.6763,
       "sources": [
         {
           "channel": "thepaper",
-          "rank": 11,
+          "rank": 10,
           "hot": 0,
           "url": "https://www.thepaper.cn/newsDetail_forward_33758007"
         }
       ],
       "summary": "",
       "url": "https://www.thepaper.cn/newsDetail_forward_33758007"
+    },
+    {
+      "id": "evt-22000000",
+      "title": "安徽安庆22岁女大学生被前男友杀害案二审宣判：维持死刑判决",
+      "category": "society",
+      "hotScore": 0.34,
+      "freshness": 1,
+      "crossSource": 0.6309,
+      "totalScore": 0.6253,
+      "sources": [
+        {
+          "channel": "thepaper",
+          "rank": 13,
+          "hot": 0,
+          "url": "https://www.thepaper.cn/newsDetail_forward_33759348"
+        }
+      ],
+      "summary": "",
+      "url": "https://www.thepaper.cn/newsDetail_forward_33759348"
+    },
+    {
+      "id": "evt-13000000",
+      "title": "乌无人机为何奔袭1300公里炸俄炼油厂",
+      "category": "society",
+      "hotScore": 0.2975,
+      "freshness": 0.9999,
+      "crossSource": 0.6309,
+      "totalScore": 0.6083,
+      "sources": [
+        {
+          "channel": "toutiao",
+          "rank": 14,
+          "hot": 7590140,
+          "url": "https://www.toutiao.com/trending/7672722239778721299/"
+        }
+      ],
+      "summary": "",
+      "url": "https://www.toutiao.com/trending/7672722239778721299/"
     }
   ]
 }
