@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-08-11T04:57:33.211Z",
+  "generatedAt": "2026-08-11T06:46:34.985Z",
   "fields": {
     "society": "社会",
     "economy": "经济",
@@ -8,31 +8,37 @@
   "feed": [
     {
       "id": "evt-00000000",
-      "title": "伊朗警告乌克兰不赔偿就动手",
+      "title": "俄少女被诱骗进缅甸电诈园 游河逃生",
       "category": "society",
       "hotScore": 0.85,
-      "freshness": 0.9996,
+      "freshness": 1,
       "crossSource": 1,
-      "totalScore": 0.9399,
+      "totalScore": 0.94,
       "sources": [
         {
           "channel": "toutiao",
           "rank": 1,
-          "hot": 43411337,
-          "url": "https://www.toutiao.com/trending/7671598956682723379/"
+          "hot": 45838137,
+          "url": "https://www.toutiao.com/trending/7672560326260539433/"
+        },
+        {
+          "channel": "baidu",
+          "rank": 6,
+          "hot": 0,
+          "url": "https://m.baidu.com/s?word=%E4%BF%84%E5%B0%91%E5%A5%B3%E8%A2%AB%E8%AF%B1%E9%AA%97%E8%BF%9B%E7%BC%85%E7%94%B8%E7%94%B5%E8%AF%88%E5%9B%AD+%E6%B8%B8%E6%B2%B3%E9%80%83%E7%94%9F&sa=fyb_news"
         }
       ],
       "summary": "",
-      "url": "https://www.toutiao.com/trending/7671598956682723379/"
+      "url": "https://www.toutiao.com/trending/7672560326260539433/"
     },
     {
       "id": "evt-4b000000",
       "title": "中星4B卫星发射失利",
       "category": "society",
       "hotScore": 0.85,
-      "freshness": 0.9997,
-      "crossSource": 1,
-      "totalScore": 0.9399,
+      "freshness": 1,
+      "crossSource": 0.6309,
+      "totalScore": 0.8293,
       "sources": [
         {
           "channel": "thepaper",
@@ -45,32 +51,13 @@
       "url": "https://www.thepaper.cn/newsDetail_forward_33755223"
     },
     {
-      "id": "evt-98450000",
-      "title": "今年“984.5高校”火了",
-      "category": "society",
-      "hotScore": 0.76,
-      "freshness": 0.9997,
-      "crossSource": 1,
-      "totalScore": 0.9039,
-      "sources": [
-        {
-          "channel": "baidu",
-          "rank": 2,
-          "hot": 0,
-          "url": "https://m.baidu.com/s?word=%E4%BB%8A%E5%B9%B4%E2%80%9C984.5%E9%AB%98%E6%A0%A1%E2%80%9D%E7%81%AB%E4%BA%86&sa=fyb_news"
-        }
-      ],
-      "summary": "",
-      "url": "https://m.baidu.com/s?word=%E4%BB%8A%E5%B9%B4%E2%80%9C984.5%E9%AB%98%E6%A0%A1%E2%80%9D%E7%81%AB%E4%BA%86&sa=fyb_news"
-    },
-    {
       "id": "evt-05500000",
       "title": "央视首次曝光 055 遵义舰演习遭潜艇伏击「击沉」，这一操作的意图是什么？算暴露 055 的短板吗？",
       "category": "society",
       "hotScore": 0.75,
-      "freshness": 0.9997,
-      "crossSource": 1,
-      "totalScore": 0.8999,
+      "freshness": 1,
+      "crossSource": 0.6309,
+      "totalScore": 0.7893,
       "sources": [
         {
           "channel": "zhihu",
@@ -87,9 +74,9 @@
       "title": "从一笔账单看60万亿消费KPI的底气",
       "category": "society",
       "hotScore": 0.68,
-      "freshness": 0.9997,
-      "crossSource": 1,
-      "totalScore": 0.8719,
+      "freshness": 1,
+      "crossSource": 0.6309,
+      "totalScore": 0.7613,
       "sources": [
         {
           "channel": "baidu",
@@ -102,32 +89,51 @@
       "url": "https://m.baidu.com/s?word=%E4%BB%8E%E4%B8%80%E7%AC%94%E8%B4%A6%E5%8D%95%E7%9C%8B60%E4%B8%87%E4%BA%BF%E6%B6%88%E8%B4%B9KPI%E7%9A%84%E5%BA%95%E6%B0%94&sa=fyb_news"
     },
     {
-      "id": "evt-40aa0000",
-      "title": "夫妻结婚40年都AA制 丈夫在家装监控",
+      "id": "evt-98450000",
+      "title": "今年“984.5高校”火了",
+      "category": "society",
+      "hotScore": 0.64,
+      "freshness": 1,
+      "crossSource": 0.6309,
+      "totalScore": 0.7453,
+      "sources": [
+        {
+          "channel": "baidu",
+          "rank": 5,
+          "hot": 0,
+          "url": "https://m.baidu.com/s?word=%E4%BB%8A%E5%B9%B4%E2%80%9C984.5%E9%AB%98%E6%A0%A1%E2%80%9D%E7%81%AB%E4%BA%86&sa=fyb_news"
+        }
+      ],
+      "summary": "",
+      "url": "https://m.baidu.com/s?word=%E4%BB%8A%E5%B9%B4%E2%80%9C984.5%E9%AB%98%E6%A0%A1%E2%80%9D%E7%81%AB%E4%BA%86&sa=fyb_news"
+    },
+    {
+      "id": "evt-50000000",
+      "title": "男子瞒着妻子5年给父母转账50万",
       "category": "society",
       "hotScore": 0.56,
-      "freshness": 0.9997,
-      "crossSource": 1,
-      "totalScore": 0.8239,
+      "freshness": 1,
+      "crossSource": 0.6309,
+      "totalScore": 0.7133,
       "sources": [
         {
           "channel": "baidu",
           "rank": 7,
           "hot": 0,
-          "url": "https://m.baidu.com/s?word=%E5%A4%AB%E5%A6%BB%E7%BB%93%E5%A9%9A40%E5%B9%B4%E9%83%BDAA%E5%88%B6+%E4%B8%88%E5%A4%AB%E5%9C%A8%E5%AE%B6%E8%A3%85%E7%9B%91%E6%8E%A7&sa=fyb_news"
+          "url": "https://m.baidu.com/s?word=%E7%94%B7%E5%AD%90%E7%9E%92%E7%9D%80%E5%A6%BB%E5%AD%905%E5%B9%B4%E7%BB%99%E7%88%B6%E6%AF%8D%E8%BD%AC%E8%B4%A650%E4%B8%87&sa=fyb_news"
         }
       ],
       "summary": "",
-      "url": "https://m.baidu.com/s?word=%E5%A4%AB%E5%A6%BB%E7%BB%93%E5%A9%9A40%E5%B9%B4%E9%83%BDAA%E5%88%B6+%E4%B8%88%E5%A4%AB%E5%9C%A8%E5%AE%B6%E8%A3%85%E7%9B%91%E6%8E%A7&sa=fyb_news"
+      "url": "https://m.baidu.com/s?word=%E7%94%B7%E5%AD%90%E7%9E%92%E7%9D%80%E5%A6%BB%E5%AD%905%E5%B9%B4%E7%BB%99%E7%88%B6%E6%AF%8D%E8%BD%AC%E8%B4%A650%E4%B8%87&sa=fyb_news"
     },
     {
       "id": "evt-ai000000",
       "title": "城市竞争进入AI答案时代",
       "category": "society",
       "hotScore": 0.5525,
-      "freshness": 0.9997,
-      "crossSource": 1,
-      "totalScore": 0.8209,
+      "freshness": 1,
+      "crossSource": 0.6309,
+      "totalScore": 0.7103,
       "sources": [
         {
           "channel": "thepaper",
@@ -140,42 +146,80 @@
       "url": "https://www.thepaper.cn/newsDetail_forward_33753662"
     },
     {
-      "id": "evt-50000000",
-      "title": "男子瞒着妻子5年给父母转账50万",
+      "id": "evt-nfc00000",
+      "title": "手机NFC功能不要随便打开",
       "category": "society",
-      "hotScore": 0.48,
-      "freshness": 0.9997,
-      "crossSource": 1,
-      "totalScore": 0.7919,
+      "hotScore": 0.51,
+      "freshness": 1,
+      "crossSource": 0.6309,
+      "totalScore": 0.6933,
       "sources": [
         {
-          "channel": "baidu",
+          "channel": "toutiao",
           "rank": 9,
-          "hot": 0,
-          "url": "https://m.baidu.com/s?word=%E7%94%B7%E5%AD%90%E7%9E%92%E7%9D%80%E5%A6%BB%E5%AD%905%E5%B9%B4%E7%BB%99%E7%88%B6%E6%AF%8D%E8%BD%AC%E8%B4%A650%E4%B8%87&sa=fyb_news"
+          "hot": 20596402,
+          "url": "https://www.toutiao.com/trending/7672232082655182884/"
         }
       ],
       "summary": "",
-      "url": "https://m.baidu.com/s?word=%E7%94%B7%E5%AD%90%E7%9E%92%E7%9D%80%E5%A6%BB%E5%AD%905%E5%B9%B4%E7%BB%99%E7%88%B6%E6%AF%8D%E8%BD%AC%E8%B4%A650%E4%B8%87&sa=fyb_news"
+      "url": "https://www.toutiao.com/trending/7672232082655182884/"
     },
     {
       "id": "evt-11100000",
       "title": "哥伦比亚强震已致111死87伤，政府宣布进入“国家灾难状态”",
       "category": "society",
-      "hotScore": 0.4675,
-      "freshness": 0.9997,
-      "crossSource": 1,
-      "totalScore": 0.7869,
+      "hotScore": 0.51,
+      "freshness": 1,
+      "crossSource": 0.6309,
+      "totalScore": 0.6933,
       "sources": [
         {
           "channel": "thepaper",
-          "rank": 10,
+          "rank": 9,
           "hot": 0,
           "url": "https://www.thepaper.cn/newsDetail_forward_33756837"
         }
       ],
       "summary": "",
       "url": "https://www.thepaper.cn/newsDetail_forward_33756837"
+    },
+    {
+      "id": "evt-12000000",
+      "title": "豆包否认推荐酒店抽取 12% 佣金，称仅在订单成交后收取渠道服务费，字节在打哪些商业算盘？",
+      "category": "society",
+      "hotScore": 0.4875,
+      "freshness": 1,
+      "crossSource": 0.6309,
+      "totalScore": 0.6843,
+      "sources": [
+        {
+          "channel": "zhihu",
+          "rank": 8,
+          "hot": 0,
+          "url": ""
+        }
+      ],
+      "summary": "",
+      "url": ""
+    },
+    {
+      "id": "evt-20000000",
+      "title": "岳云鹏瘦了20斤",
+      "category": "society",
+      "hotScore": 0.44,
+      "freshness": 1,
+      "crossSource": 0.6309,
+      "totalScore": 0.6653,
+      "sources": [
+        {
+          "channel": "baidu",
+          "rank": 10,
+          "hot": 0,
+          "url": "https://m.baidu.com/s?word=%E5%B2%B3%E4%BA%91%E9%B9%8F%E7%98%A6%E4%BA%8620%E6%96%A4&sa=fyb_news"
+        }
+      ],
+      "summary": "",
+      "url": "https://m.baidu.com/s?word=%E5%B2%B3%E4%BA%91%E9%B9%8F%E7%98%A6%E4%BA%8620%E6%96%A4&sa=fyb_news"
     }
   ]
 }
