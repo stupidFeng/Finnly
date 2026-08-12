@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-08-12T09:00:46.009Z",
+  "generatedAt": "2026-08-12T10:50:44.194Z",
   "fields": {
     "society": "社会",
     "economy": "经济",
@@ -7,27 +7,8 @@
   },
   "feed": [
     {
-      "id": "evt-20000000",
-      "title": "日全食将上演 最长持续约2分18秒",
-      "category": "society",
-      "hotScore": 0.85,
-      "freshness": 0.9999,
-      "crossSource": 1,
-      "totalScore": 0.94,
-      "sources": [
-        {
-          "channel": "toutiao",
-          "rank": 1,
-          "hot": 16804324,
-          "url": "https://www.toutiao.com/trending/7672179294160355347/"
-        }
-      ],
-      "summary": "",
-      "url": "https://www.toutiao.com/trending/7672179294160355347/"
-    },
-    {
       "id": "evt-00000000",
-      "title": "“人民艺术家”郭兰英逝世，享年97岁",
+      "title": "中共中央 全国人大常委会 国务院 全国政协讣告 朱镕基同志逝世",
       "category": "society",
       "hotScore": 0.85,
       "freshness": 1,
@@ -38,49 +19,55 @@
           "channel": "thepaper",
           "rank": 1,
           "hot": 0,
-          "url": "https://www.thepaper.cn/newsDetail_forward_33763546"
+          "url": "https://www.thepaper.cn/newsDetail_forward_33769071"
+        },
+        {
+          "channel": "zhihu",
+          "rank": 1,
+          "hot": 0,
+          "url": ""
         }
       ],
       "summary": "",
-      "url": "https://www.thepaper.cn/newsDetail_forward_33763546"
+      "url": "https://www.thepaper.cn/newsDetail_forward_33769071"
     },
     {
-      "id": "evt-32750000",
-      "title": "上半年结婚登记327.5万对",
+      "id": "evt-c9190000",
+      "title": "视频丨C919国产大飞机正式执飞国际商业航线",
       "category": "society",
-      "hotScore": 0.76,
+      "hotScore": 0.8075,
       "freshness": 1,
-      "crossSource": 1,
-      "totalScore": 0.904,
+      "crossSource": 0.6309,
+      "totalScore": 0.8123,
       "sources": [
         {
-          "channel": "baidu",
+          "channel": "thepaper",
           "rank": 2,
           "hot": 0,
-          "url": "https://m.baidu.com/s?word=%E4%B8%8A%E5%8D%8A%E5%B9%B4%E7%BB%93%E5%A9%9A%E7%99%BB%E8%AE%B0327.5%E4%B8%87%E5%AF%B9&sa=fyb_news"
+          "url": "https://www.thepaper.cn/newsDetail_forward_33765803"
         }
       ],
       "summary": "",
-      "url": "https://m.baidu.com/s?word=%E4%B8%8A%E5%8D%8A%E5%B9%B4%E7%BB%93%E5%A9%9A%E7%99%BB%E8%AE%B0327.5%E4%B8%87%E5%AF%B9&sa=fyb_news"
+      "url": "https://www.thepaper.cn/newsDetail_forward_33765803"
     },
     {
-      "id": "evt-30000000",
-      "title": "华裔加密货币投资者从30楼离奇坠亡",
+      "id": "evt-20000000",
+      "title": "日全食将上演 最长持续约2分18秒",
       "category": "society",
       "hotScore": 0.7225,
       "freshness": 0.9999,
-      "crossSource": 1,
-      "totalScore": 0.889,
+      "crossSource": 0.6309,
+      "totalScore": 0.7783,
       "sources": [
         {
           "channel": "toutiao",
           "rank": 4,
-          "hot": 12448949,
-          "url": "https://www.toutiao.com/trending/7672984185451053082/"
+          "hot": 15213174,
+          "url": "https://www.toutiao.com/trending/7672179294160355347/"
         }
       ],
       "summary": "",
-      "url": "https://www.toutiao.com/trending/7672984185451053082/"
+      "url": "https://www.toutiao.com/trending/7672179294160355347/"
     },
     {
       "id": "evt-51500000",
@@ -88,8 +75,8 @@
       "category": "society",
       "hotScore": 0.68,
       "freshness": 1,
-      "crossSource": 1,
-      "totalScore": 0.872,
+      "crossSource": 0.6309,
+      "totalScore": 0.7613,
       "sources": [
         {
           "channel": "baidu",
@@ -102,55 +89,17 @@
       "url": "https://m.baidu.com/s?word=%E6%9C%AA%E6%9D%A55%E5%B9%B4+15%E4%B8%87%E4%BA%BF%E5%85%83%E6%88%96%E5%B0%86%E6%8A%95%E5%90%91%E8%BF%99%E9%87%8C&sa=fyb_news"
     },
     {
-      "id": "evt-c9190000",
-      "title": "视频丨C919国产大飞机正式执飞国际商业航线",
-      "category": "society",
-      "hotScore": 0.68,
-      "freshness": 1,
-      "crossSource": 1,
-      "totalScore": 0.872,
-      "sources": [
-        {
-          "channel": "thepaper",
-          "rank": 5,
-          "hot": 0,
-          "url": "https://www.thepaper.cn/newsDetail_forward_33765803"
-        }
-      ],
-      "summary": "",
-      "url": "https://www.thepaper.cn/newsDetail_forward_33765803"
-    },
-    {
-      "id": "evt-22000000",
-      "title": "安徽安庆22岁女大学生被前男友杀害案二审宣判：维持死刑判决",
-      "category": "society",
-      "hotScore": 0.595,
-      "freshness": 1,
-      "crossSource": 1,
-      "totalScore": 0.838,
-      "sources": [
-        {
-          "channel": "thepaper",
-          "rank": 7,
-          "hot": 0,
-          "url": "https://www.thepaper.cn/newsDetail_forward_33759348"
-        }
-      ],
-      "summary": "",
-      "url": "https://www.thepaper.cn/newsDetail_forward_33759348"
-    },
-    {
       "id": "evt-64000000",
       "title": "赵一鸣牛肉干 64 元复称仅 17 元，店方称不知道为啥出错，暴露了哪些管理漏洞？消费者如何避免被坑？",
       "category": "society",
-      "hotScore": 0.5625,
-      "freshness": 0.9999,
-      "crossSource": 1,
-      "totalScore": 0.825,
+      "hotScore": 0.6375,
+      "freshness": 1,
+      "crossSource": 0.6309,
+      "totalScore": 0.7443,
       "sources": [
         {
           "channel": "zhihu",
-          "rank": 6,
+          "rank": 4,
           "hot": 0,
           "url": ""
         }
@@ -159,36 +108,74 @@
       "url": ""
     },
     {
-      "id": "evt-70000000",
-      "title": "蒯曼7个半小时三战",
+      "id": "evt-30000000",
+      "title": "华裔加密货币投资者从30楼离奇坠亡",
       "category": "society",
-      "hotScore": 0.4675,
+      "hotScore": 0.595,
       "freshness": 0.9999,
-      "crossSource": 1,
-      "totalScore": 0.787,
+      "crossSource": 0.6309,
+      "totalScore": 0.7273,
       "sources": [
         {
           "channel": "toutiao",
-          "rank": 10,
-          "hot": 6832128,
-          "url": "https://www.toutiao.com/trending/7672572491923210281/"
+          "rank": 7,
+          "hot": 11270196,
+          "url": "https://www.toutiao.com/trending/7672984185451053082/"
         }
       ],
       "summary": "",
-      "url": "https://www.toutiao.com/trending/7672572491923210281/"
+      "url": "https://www.toutiao.com/trending/7672984185451053082/"
+    },
+    {
+      "id": "evt-32750000",
+      "title": "上半年结婚登记327.5万对",
+      "category": "society",
+      "hotScore": 0.56,
+      "freshness": 1,
+      "crossSource": 0.6309,
+      "totalScore": 0.7133,
+      "sources": [
+        {
+          "channel": "baidu",
+          "rank": 7,
+          "hot": 0,
+          "url": "https://m.baidu.com/s?word=%E4%B8%8A%E5%8D%8A%E5%B9%B4%E7%BB%93%E5%A9%9A%E7%99%BB%E8%AE%B0327.5%E4%B8%87%E5%AF%B9&sa=fyb_news"
+        }
+      ],
+      "summary": "",
+      "url": "https://m.baidu.com/s?word=%E4%B8%8A%E5%8D%8A%E5%B9%B4%E7%BB%93%E5%A9%9A%E7%99%BB%E8%AE%B0327.5%E4%B8%87%E5%AF%B9&sa=fyb_news"
+    },
+    {
+      "id": "evt-19940000",
+      "title": "郭兰英1994年将演唱版权无偿捐国家",
+      "category": "society",
+      "hotScore": 0.5525,
+      "freshness": 0.9999,
+      "crossSource": 0.6309,
+      "totalScore": 0.7103,
+      "sources": [
+        {
+          "channel": "toutiao",
+          "rank": 8,
+          "hot": 10197695,
+          "url": "https://www.toutiao.com/trending/7672949387655400998/"
+        }
+      ],
+      "summary": "",
+      "url": "https://www.toutiao.com/trending/7672949387655400998/"
     },
     {
       "id": "evt-13500000",
       "title": "135家私募打新宇树科技获配：头部量化扎堆入围 ，梁文锋旗下幻方、九章拿下私募最大份额",
       "category": "society",
-      "hotScore": 0.4675,
+      "hotScore": 0.5525,
       "freshness": 1,
-      "crossSource": 1,
-      "totalScore": 0.787,
+      "crossSource": 0.6309,
+      "totalScore": 0.7103,
       "sources": [
         {
           "channel": "thepaper",
-          "rank": 10,
+          "rank": 8,
           "hot": 0,
           "url": "https://www.thepaper.cn/newsDetail_forward_33764096"
         }
@@ -197,13 +184,51 @@
       "url": "https://www.thepaper.cn/newsDetail_forward_33764096"
     },
     {
+      "id": "evt-53000000",
+      "title": "深圳大学拟拿出 5.3 亿元，买下整栋商品房给学生当宿舍，背后有哪些考量？买商品房当宿舍会成为趋势吗？",
+      "category": "society",
+      "hotScore": 0.525,
+      "freshness": 1,
+      "crossSource": 0.6309,
+      "totalScore": 0.6993,
+      "sources": [
+        {
+          "channel": "zhihu",
+          "rank": 7,
+          "hot": 0,
+          "url": ""
+        }
+      ],
+      "summary": "",
+      "url": ""
+    },
+    {
+      "id": "evt-bba00000",
+      "title": "中国市场不再是BBA的提款机",
+      "category": "society",
+      "hotScore": 0.52,
+      "freshness": 1,
+      "crossSource": 0.6309,
+      "totalScore": 0.6973,
+      "sources": [
+        {
+          "channel": "baidu",
+          "rank": 8,
+          "hot": 0,
+          "url": "https://m.baidu.com/s?word=%E4%B8%AD%E5%9B%BD%E5%B8%82%E5%9C%BA%E4%B8%8D%E5%86%8D%E6%98%AFBBA%E7%9A%84%E6%8F%90%E6%AC%BE%E6%9C%BA&sa=fyb_news"
+        }
+      ],
+      "summary": "",
+      "url": "https://m.baidu.com/s?word=%E4%B8%AD%E5%9B%BD%E5%B8%82%E5%9C%BA%E4%B8%8D%E5%86%8D%E6%98%AFBBA%E7%9A%84%E6%8F%90%E6%AC%BE%E6%9C%BA&sa=fyb_news"
+    },
+    {
       "id": "evt-10gpt600",
       "title": "曝 10 万亿参数的 GPT-6 即将发布，10 万亿参数是什么水平？对此你有哪些期待？",
       "category": "society",
       "hotScore": 0.45,
-      "freshness": 0.9999,
-      "crossSource": 1,
-      "totalScore": 0.78,
+      "freshness": 1,
+      "crossSource": 0.6309,
+      "totalScore": 0.6693,
       "sources": [
         {
           "channel": "zhihu",
@@ -216,42 +241,42 @@
       "url": ""
     },
     {
-      "id": "evt-59800000",
-      "title": "中598万男子称保密是怕影响妻子孩子",
-      "category": "society",
-      "hotScore": 0.44,
-      "freshness": 1,
-      "crossSource": 1,
-      "totalScore": 0.776,
-      "sources": [
-        {
-          "channel": "baidu",
-          "rank": 10,
-          "hot": 0,
-          "url": "https://m.baidu.com/s?word=%E4%B8%AD598%E4%B8%87%E7%94%B7%E5%AD%90%E7%A7%B0%E4%BF%9D%E5%AF%86%E6%98%AF%E6%80%95%E5%BD%B1%E5%93%8D%E5%A6%BB%E5%AD%90%E5%AD%A9%E5%AD%90&sa=fyb_news"
-        }
-      ],
-      "summary": "",
-      "url": "https://m.baidu.com/s?word=%E4%B8%AD598%E4%B8%87%E7%94%B7%E5%AD%90%E7%A7%B0%E4%BF%9D%E5%AF%86%E6%98%AF%E6%80%95%E5%BD%B1%E5%93%8D%E5%A6%BB%E5%AD%90%E5%AD%A9%E5%AD%90&sa=fyb_news"
-    },
-    {
       "id": "evt-ai000000",
       "title": "AI科创润童心 网络安全伴成长",
       "category": "society",
       "hotScore": 0.425,
       "freshness": 0.9999,
-      "crossSource": 1,
-      "totalScore": 0.77,
+      "crossSource": 0.6309,
+      "totalScore": 0.6593,
       "sources": [
         {
           "channel": "toutiao",
           "rank": 11,
-          "hot": 6181965,
+          "hot": 7554638,
           "url": "https://www.toutiao.com/trending/7672213418782588964/"
         }
       ],
       "summary": "",
       "url": "https://www.toutiao.com/trending/7672213418782588964/"
+    },
+    {
+      "id": "evt-10000000",
+      "title": "连续两个月突破100万辆，我国汽车出口延续强劲增长态势",
+      "category": "society",
+      "hotScore": 0.425,
+      "freshness": 1,
+      "crossSource": 0.6309,
+      "totalScore": 0.6593,
+      "sources": [
+        {
+          "channel": "thepaper",
+          "rank": 11,
+          "hot": 0,
+          "url": "https://www.thepaper.cn/newsDetail_forward_33767366"
+        }
+      ],
+      "summary": "",
+      "url": "https://www.thepaper.cn/newsDetail_forward_33767366"
     }
   ]
 }
