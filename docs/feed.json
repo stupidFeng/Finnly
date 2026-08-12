@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-08-12T16:45:23.708Z",
+  "generatedAt": "2026-08-12T18:46:42.302Z",
   "fields": {
     "society": "社会",
     "economy": "经济",
@@ -11,14 +11,14 @@
       "title": "朱镕基同志逝世",
       "category": "society",
       "hotScore": 0.85,
-      "freshness": 1,
+      "freshness": 0.9999,
       "crossSource": 1,
       "totalScore": 0.94,
       "sources": [
         {
           "channel": "toutiao",
           "rank": 1,
-          "hot": 43395193,
+          "hot": 45465159,
           "url": "https://www.toutiao.com/trending/7672219414749793835/"
         },
         {
@@ -51,42 +51,42 @@
       "url": "https://www.thepaper.cn/newsDetail_forward_33765803"
     },
     {
-      "id": "evt-32700000",
-      "title": "上半年全国结婚登记327.5万对",
+      "id": "evt-deepseekpro",
+      "title": "DeepSeek Pro 正式版已经发布，如何评价该模型？",
       "category": "society",
-      "hotScore": 0.6375,
+      "hotScore": 0.7125,
       "freshness": 1,
       "crossSource": 0.6309,
-      "totalScore": 0.7443,
-      "sources": [
-        {
-          "channel": "toutiao",
-          "rank": 6,
-          "hot": 26320515,
-          "url": "https://www.toutiao.com/trending/7672315775647432723/"
-        }
-      ],
-      "summary": "",
-      "url": "https://www.toutiao.com/trending/7672315775647432723/"
-    },
-    {
-      "id": "evt-64000000",
-      "title": "赵一鸣牛肉干 64 元复称仅 17 元，店方称不知道为啥出错，暴露了哪些管理漏洞？消费者如何避免被坑？",
-      "category": "society",
-      "hotScore": 0.6375,
-      "freshness": 1,
-      "crossSource": 0.6309,
-      "totalScore": 0.7443,
+      "totalScore": 0.7743,
       "sources": [
         {
           "channel": "zhihu",
-          "rank": 4,
+          "rank": 2,
           "hot": 0,
           "url": ""
         }
       ],
       "summary": "",
       "url": ""
+    },
+    {
+      "id": "evt-32700000",
+      "title": "上半年全国结婚登记327.5万对",
+      "category": "society",
+      "hotScore": 0.6375,
+      "freshness": 0.9999,
+      "crossSource": 0.6309,
+      "totalScore": 0.7443,
+      "sources": [
+        {
+          "channel": "toutiao",
+          "rank": 6,
+          "hot": 27576013,
+          "url": "https://www.toutiao.com/trending/7672315775647432723/"
+        }
+      ],
+      "summary": "",
+      "url": "https://www.toutiao.com/trending/7672315775647432723/"
     },
     {
       "id": "evt-13500000",
@@ -108,8 +108,8 @@
       "url": "https://www.thepaper.cn/newsDetail_forward_33764096"
     },
     {
-      "id": "evt-deepseekpro",
-      "title": "DeepSeek Pro 正式版已经发布，如何评价该模型？",
+      "id": "evt-7su72100",
+      "title": "7 月小米 SU7 销量 21,044 辆，连续 4 个月位列 20 万以上轿车销量第一，如何评价？",
       "category": "society",
       "hotScore": 0.5625,
       "freshness": 1,
@@ -130,14 +130,14 @@
       "id": "evt-90000000",
       "title": "荣耀发布首款机器人手机 9999元起售",
       "category": "society",
-      "hotScore": 0.56,
+      "hotScore": 0.52,
       "freshness": 1,
       "crossSource": 0.6309,
-      "totalScore": 0.7133,
+      "totalScore": 0.6973,
       "sources": [
         {
           "channel": "baidu",
-          "rank": 7,
+          "rank": 8,
           "hot": 0,
           "url": "https://m.baidu.com/s?word=%E8%8D%A3%E8%80%80%E5%8F%91%E5%B8%83%E9%A6%96%E6%AC%BE%E6%9C%BA%E5%99%A8%E4%BA%BA%E6%89%8B%E6%9C%BA+9999%E5%85%83%E8%B5%B7%E5%94%AE&sa=fyb_news"
         }
@@ -149,58 +149,20 @@
       "id": "evt-10000000",
       "title": "连续两个月突破100万辆，我国汽车出口延续强劲增长态势",
       "category": "society",
-      "hotScore": 0.4675,
-      "freshness": 1,
-      "crossSource": 0.6309,
-      "totalScore": 0.6763,
-      "sources": [
-        {
-          "channel": "thepaper",
-          "rank": 10,
-          "hot": 0,
-          "url": "https://www.thepaper.cn/newsDetail_forward_33767366"
-        }
-      ],
-      "summary": "",
-      "url": "https://www.thepaper.cn/newsDetail_forward_33767366"
-    },
-    {
-      "id": "evt-7su72100",
-      "title": "7 月小米 SU7 销量 21,044 辆，连续 4 个月位列 20 万以上轿车销量第一，如何评价？",
-      "category": "society",
-      "hotScore": 0.45,
-      "freshness": 1,
-      "crossSource": 0.6309,
-      "totalScore": 0.6693,
-      "sources": [
-        {
-          "channel": "zhihu",
-          "rank": 9,
-          "hot": 0,
-          "url": ""
-        }
-      ],
-      "summary": "",
-      "url": ""
-    },
-    {
-      "id": "evt-19940000",
-      "title": "郭兰英1994年将演唱版权无偿捐国家",
-      "category": "society",
       "hotScore": 0.425,
       "freshness": 1,
       "crossSource": 0.6309,
       "totalScore": 0.6593,
       "sources": [
         {
-          "channel": "toutiao",
+          "channel": "thepaper",
           "rank": 11,
-          "hot": 15964199,
-          "url": "https://www.toutiao.com/trending/7672949387655400998/"
+          "hot": 0,
+          "url": "https://www.thepaper.cn/newsDetail_forward_33767366"
         }
       ],
       "summary": "",
-      "url": "https://www.toutiao.com/trending/7672949387655400998/"
+      "url": "https://www.thepaper.cn/newsDetail_forward_33767366"
     }
   ]
 }
