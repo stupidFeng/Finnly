@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-08-11T22:31:27.338Z",
+  "generatedAt": "2026-08-12T01:02:31.114Z",
   "fields": {
     "society": "社会",
     "economy": "经济",
@@ -7,96 +7,102 @@
   },
   "feed": [
     {
-      "id": "evt-80045000",
-      "title": "租金从800元降到450元房东决定不租了",
+      "id": "evt-00000000",
+      "title": "郭兰英逝世 享年97岁",
       "category": "society",
-      "hotScore": 0.8075,
+      "hotScore": 0.85,
       "freshness": 1,
       "crossSource": 1,
-      "totalScore": 0.923,
+      "totalScore": 0.94,
+      "sources": [
+        {
+          "channel": "thepaper",
+          "rank": 1,
+          "hot": 0,
+          "url": "https://www.thepaper.cn/newsDetail_forward_33763546"
+        },
+        {
+          "channel": "baidu",
+          "rank": 2,
+          "hot": 0,
+          "url": "https://m.baidu.com/s?word=%E9%83%AD%E5%85%B0%E8%8B%B1%E9%80%9D%E4%B8%96+%E4%BA%AB%E5%B9%B497%E5%B2%81&sa=fyb_news"
+        }
+      ],
+      "summary": "",
+      "url": "https://www.thepaper.cn/newsDetail_forward_33763546"
+    },
+    {
+      "id": "evt-46400000",
+      "title": "赵一鸣4块牛肉干64元复称仅17元",
+      "category": "society",
+      "hotScore": 0.64,
+      "freshness": 1,
+      "crossSource": 1,
+      "totalScore": 0.856,
       "sources": [
         {
           "channel": "toutiao",
-          "rank": 2,
-          "hot": 14342966,
-          "url": "https://www.toutiao.com/trending/7671617219173351460/"
+          "rank": 10,
+          "hot": 4995884,
+          "url": "https://www.toutiao.com/trending/7672915396164324873/"
         },
         {
           "channel": "baidu",
           "rank": 5,
           "hot": 0,
-          "url": "https://m.baidu.com/s?word=%E7%A7%9F%E9%87%91%E4%BB%8E800%E5%85%83%E9%99%8D%E5%88%B0450%E5%85%83%E6%88%BF%E4%B8%9C%E5%86%B3%E5%AE%9A%E4%B8%8D%E7%A7%9F%E4%BA%86&sa=fyb_news"
+          "url": "https://m.baidu.com/s?word=%E8%B5%B5%E4%B8%80%E9%B8%A34%E5%9D%97%E7%89%9B%E8%82%89%E5%B9%B264%E5%85%83%E5%A4%8D%E7%A7%B0%E4%BB%8517%E5%85%83&sa=fyb_news"
         }
       ],
       "summary": "",
-      "url": "https://www.toutiao.com/trending/7671617219173351460/"
+      "url": "https://www.toutiao.com/trending/7672915396164324873/"
     },
     {
-      "id": "evt-00000000",
-      "title": "文献纪录片《江泽民》播出",
+      "id": "evt-c0000000",
+      "title": "C罗晒照官宣完婚",
       "category": "society",
-      "hotScore": 0.76,
+      "hotScore": 0.6,
       "freshness": 1,
       "crossSource": 1,
-      "totalScore": 0.904,
+      "totalScore": 0.84,
       "sources": [
         {
           "channel": "toutiao",
-          "rank": 17,
-          "hot": 3200348,
-          "url": "https://www.toutiao.com/trending/7672736569466060846/"
+          "rank": 8,
+          "hot": 6101986,
+          "url": "https://www.toutiao.com/trending/7672634204827631654/"
         },
         {
           "channel": "baidu",
-          "rank": 2,
+          "rank": 6,
           "hot": 0,
-          "url": "https://m.baidu.com/s?word=%E6%96%87%E7%8C%AE%E7%BA%AA%E5%BD%95%E7%89%87%E3%80%8A%E6%B1%9F%E6%B3%BD%E6%B0%91%E3%80%8B%E6%92%AD%E5%87%BA&sa=fyb_news"
+          "url": "https://m.baidu.com/s?word=C%E7%BD%97%E6%99%92%E7%85%A7%E5%AE%98%E5%AE%A3%E5%AE%8C%E5%A9%9A&sa=fyb_news"
         }
       ],
       "summary": "",
-      "url": "https://www.toutiao.com/trending/7672736569466060846/"
+      "url": "https://www.toutiao.com/trending/7672634204827631654/"
     },
     {
-      "id": "evt-34000000",
-      "title": "女子3万全款购入宝鸡40平米住宅",
+      "id": "evt-30000000",
+      "title": "借用30多年 兰州拉面还给兰州了",
       "category": "society",
-      "hotScore": 0.85,
+      "hotScore": 0.72,
       "freshness": 1,
       "crossSource": 0.6309,
-      "totalScore": 0.8293,
+      "totalScore": 0.7773,
       "sources": [
         {
-          "channel": "toutiao",
-          "rank": 1,
-          "hot": 15851429,
-          "url": "https://www.toutiao.com/trending/7672677762373664804/"
-        }
-      ],
-      "summary": "",
-      "url": "https://www.toutiao.com/trending/7672677762373664804/"
-    },
-    {
-      "id": "evt-15000000",
-      "title": "睡车里被酒店收 150 元住宿费事件反转，媒体因报道呈现不够全面客观致歉，如何避免类似事件再次发生？",
-      "category": "society",
-      "hotScore": 0.7125,
-      "freshness": 1,
-      "crossSource": 0.6309,
-      "totalScore": 0.7743,
-      "sources": [
-        {
-          "channel": "zhihu",
-          "rank": 2,
+          "channel": "baidu",
+          "rank": 3,
           "hot": 0,
-          "url": ""
+          "url": "https://m.baidu.com/s?word=%E5%80%9F%E7%94%A830%E5%A4%9A%E5%B9%B4+%E5%85%B0%E5%B7%9E%E6%8B%89%E9%9D%A2%E8%BF%98%E7%BB%99%E5%85%B0%E5%B7%9E%E4%BA%86&sa=fyb_news"
         }
       ],
       "summary": "",
-      "url": ""
+      "url": "https://m.baidu.com/s?word=%E5%80%9F%E7%94%A830%E5%A4%9A%E5%B9%B4+%E5%85%B0%E5%B7%9E%E6%8B%89%E9%9D%A2%E8%BF%98%E7%BB%99%E5%85%B0%E5%B7%9E%E4%BA%86&sa=fyb_news"
     },
     {
-      "id": "evt-98450000",
-      "title": "984.5高校火了",
+      "id": "evt-10000000",
+      "title": "比亚迪闪充开抢10万级市场",
       "category": "society",
       "hotScore": 0.68,
       "freshness": 1,
@@ -106,12 +112,12 @@
         {
           "channel": "toutiao",
           "rank": 5,
-          "hot": 10625531,
-          "url": "https://www.toutiao.com/trending/7672196297356673087/"
+          "hot": 8236820,
+          "url": "https://www.toutiao.com/trending/7672812240134737444/"
         }
       ],
       "summary": "",
-      "url": "https://www.toutiao.com/trending/7672196297356673087/"
+      "url": "https://www.toutiao.com/trending/7672812240134737444/"
     },
     {
       "id": "evt-36ai0000",
@@ -152,8 +158,8 @@
       "url": ""
     },
     {
-      "id": "evt-ai000000",
-      "title": "城市竞争进入AI答案时代",
+      "id": "evt-deepseek",
+      "title": "怎么看 DeepSeek 注册 Harness 公众号并选用黑鲸鱼 logo ？",
       "category": "society",
       "hotScore": 0.6375,
       "freshness": 1,
@@ -161,18 +167,18 @@
       "totalScore": 0.7443,
       "sources": [
         {
-          "channel": "thepaper",
-          "rank": 6,
+          "channel": "zhihu",
+          "rank": 4,
           "hot": 0,
-          "url": "https://www.thepaper.cn/newsDetail_forward_33753662"
+          "url": ""
         }
       ],
       "summary": "",
-      "url": "https://www.thepaper.cn/newsDetail_forward_33753662"
+      "url": ""
     },
     {
-      "id": "evt-54000000",
-      "title": "5 万元以下微型车遇冷，40 万元以上新能源车热销，这说明了什么？",
+      "id": "evt-15000000",
+      "title": "睡车里被酒店收 150 元住宿费事件反转，媒体因报道呈现不够全面客观致歉，如何避免类似事件再次发生？",
       "category": "society",
       "hotScore": 0.5625,
       "freshness": 1,
@@ -190,23 +196,23 @@
       "url": ""
     },
     {
-      "id": "evt-44400000",
-      "title": "高考444分考生回应被殡葬专业录取",
+      "id": "evt-01000000",
+      "title": "男子直播淫秽内容获利0.1元被判刑",
       "category": "society",
-      "hotScore": 0.5525,
+      "hotScore": 0.56,
       "freshness": 1,
       "crossSource": 0.6309,
-      "totalScore": 0.7103,
+      "totalScore": 0.7133,
       "sources": [
         {
-          "channel": "toutiao",
-          "rank": 8,
-          "hot": 7871586,
-          "url": "https://www.toutiao.com/trending/7671994340315545642/"
+          "channel": "baidu",
+          "rank": 7,
+          "hot": 0,
+          "url": "https://m.baidu.com/s?word=%E7%94%B7%E5%AD%90%E7%9B%B4%E6%92%AD%E6%B7%AB%E7%A7%BD%E5%86%85%E5%AE%B9%E8%8E%B7%E5%88%A90.1%E5%85%83%E8%A2%AB%E5%88%A4%E5%88%91&sa=fyb_news"
         }
       ],
       "summary": "",
-      "url": "https://www.toutiao.com/trending/7671994340315545642/"
+      "url": "https://m.baidu.com/s?word=%E7%94%B7%E5%AD%90%E7%9B%B4%E6%92%AD%E6%B7%AB%E7%A7%BD%E5%86%85%E5%AE%B9%E8%8E%B7%E5%88%A90.1%E5%85%83%E8%A2%AB%E5%88%A4%E5%88%91&sa=fyb_news"
     },
     {
       "id": "evt-74000000",
@@ -228,8 +234,46 @@
       "url": "https://www.thepaper.cn/newsDetail_forward_33758007"
     },
     {
-      "id": "evt-70000000",
-      "title": "7月销量前十仅一款燃油车",
+      "id": "evt-40000000",
+      "title": "孕妇胎监异常被安排 4 天后手术结果胎儿死亡，医院 40 余次篡改病历，法院判医院赔偿 14 万，如何解读？",
+      "category": "society",
+      "hotScore": 0.525,
+      "freshness": 1,
+      "crossSource": 0.6309,
+      "totalScore": 0.6993,
+      "sources": [
+        {
+          "channel": "zhihu",
+          "rank": 7,
+          "hot": 0,
+          "url": ""
+        }
+      ],
+      "summary": "",
+      "url": ""
+    },
+    {
+      "id": "evt-19940000",
+      "title": "郭兰英1994年将演唱版权无偿捐国家",
+      "category": "society",
+      "hotScore": 0.52,
+      "freshness": 1,
+      "crossSource": 0.6309,
+      "totalScore": 0.6973,
+      "sources": [
+        {
+          "channel": "baidu",
+          "rank": 8,
+          "hot": 0,
+          "url": "https://m.baidu.com/s?word=%E9%83%AD%E5%85%B0%E8%8B%B11994%E5%B9%B4%E5%B0%86%E6%BC%94%E5%94%B1%E7%89%88%E6%9D%83%E6%97%A0%E5%81%BF%E6%8D%90%E5%9B%BD%E5%AE%B6&sa=fyb_news"
+        }
+      ],
+      "summary": "",
+      "url": "https://m.baidu.com/s?word=%E9%83%AD%E5%85%B0%E8%8B%B11994%E5%B9%B4%E5%B0%86%E6%BC%94%E5%94%B1%E7%89%88%E6%9D%83%E6%97%A0%E5%81%BF%E6%8D%90%E5%9B%BD%E5%AE%B6&sa=fyb_news"
+    },
+    {
+      "id": "evt-98450000",
+      "title": "984.5高校火了",
       "category": "society",
       "hotScore": 0.51,
       "freshness": 1,
@@ -239,16 +283,16 @@
         {
           "channel": "toutiao",
           "rank": 9,
-          "hot": 7122506,
-          "url": "https://www.toutiao.com/trending/7672231698684575807/"
+          "hot": 5521306,
+          "url": "https://www.toutiao.com/trending/7672196297356673087/"
         }
       ],
       "summary": "",
-      "url": "https://www.toutiao.com/trending/7672231698684575807/"
+      "url": "https://www.toutiao.com/trending/7672196297356673087/"
     },
     {
-      "id": "evt-30000000",
-      "title": "借用30多年 兰州拉面还给兰州了",
+      "id": "evt-50000000",
+      "title": "梁文锋跻身全球最富有50人之列",
       "category": "society",
       "hotScore": 0.48,
       "freshness": 1,
@@ -259,49 +303,11 @@
           "channel": "baidu",
           "rank": 9,
           "hot": 0,
-          "url": "https://m.baidu.com/s?word=%E5%80%9F%E7%94%A830%E5%A4%9A%E5%B9%B4+%E5%85%B0%E5%B7%9E%E6%8B%89%E9%9D%A2%E8%BF%98%E7%BB%99%E5%85%B0%E5%B7%9E%E4%BA%86&sa=fyb_news"
+          "url": "https://m.baidu.com/s?word=%E6%A2%81%E6%96%87%E9%94%8B%E8%B7%BB%E8%BA%AB%E5%85%A8%E7%90%83%E6%9C%80%E5%AF%8C%E6%9C%8950%E4%BA%BA%E4%B9%8B%E5%88%97&sa=fyb_news"
         }
       ],
       "summary": "",
-      "url": "https://m.baidu.com/s?word=%E5%80%9F%E7%94%A830%E5%A4%9A%E5%B9%B4+%E5%85%B0%E5%B7%9E%E6%8B%89%E9%9D%A2%E8%BF%98%E7%BB%99%E5%85%B0%E5%B7%9E%E4%BA%86&sa=fyb_news"
-    },
-    {
-      "id": "evt-deepseek",
-      "title": "怎么看 DeepSeek 注册 Harness 公众号并选用黑鲸鱼 logo ？",
-      "category": "society",
-      "hotScore": 0.45,
-      "freshness": 1,
-      "crossSource": 0.6309,
-      "totalScore": 0.6693,
-      "sources": [
-        {
-          "channel": "zhihu",
-          "rank": 9,
-          "hot": 0,
-          "url": ""
-        }
-      ],
-      "summary": "",
-      "url": ""
-    },
-    {
-      "id": "evt-22000000",
-      "title": "安徽安庆22岁女大学生被前男友杀害案二审宣判：维持死刑判决",
-      "category": "society",
-      "hotScore": 0.425,
-      "freshness": 1,
-      "crossSource": 0.6309,
-      "totalScore": 0.6593,
-      "sources": [
-        {
-          "channel": "thepaper",
-          "rank": 11,
-          "hot": 0,
-          "url": "https://www.thepaper.cn/newsDetail_forward_33759348"
-        }
-      ],
-      "summary": "",
-      "url": "https://www.thepaper.cn/newsDetail_forward_33759348"
+      "url": "https://m.baidu.com/s?word=%E6%A2%81%E6%96%87%E9%94%8B%E8%B7%BB%E8%BA%AB%E5%85%A8%E7%90%83%E6%9C%80%E5%AF%8C%E6%9C%8950%E4%BA%BA%E4%B9%8B%E5%88%97&sa=fyb_news"
     }
   ]
 }
