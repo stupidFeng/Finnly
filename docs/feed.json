@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-08-12T03:54:51.368Z",
+  "generatedAt": "2026-08-12T05:23:24.015Z",
   "fields": {
     "society": "社会",
     "economy": "经济",
@@ -8,47 +8,47 @@
   "feed": [
     {
       "id": "evt-00000000",
-      "title": "郭兰英逝世 享年97岁",
+      "title": "河南暴雨",
       "category": "society",
       "hotScore": 0.85,
-      "freshness": 1,
+      "freshness": 0.9999,
       "crossSource": 1,
       "totalScore": 0.94,
       "sources": [
         {
-          "channel": "thepaper",
+          "channel": "toutiao",
           "rank": 1,
-          "hot": 0,
-          "url": "https://www.thepaper.cn/newsDetail_forward_33763546"
+          "hot": 15382944,
+          "url": "https://www.toutiao.com/trending/7672919255847272454/"
         },
         {
           "channel": "baidu",
           "rank": 2,
           "hot": 0,
-          "url": "https://m.baidu.com/s?word=%E9%83%AD%E5%85%B0%E8%8B%B1%E9%80%9D%E4%B8%96+%E4%BA%AB%E5%B9%B497%E5%B2%81&sa=fyb_news"
+          "url": "https://m.baidu.com/s?word=%E6%B2%B3%E5%8D%97%E6%9A%B4%E9%9B%A8&sa=fyb_news"
         }
       ],
       "summary": "",
-      "url": "https://www.thepaper.cn/newsDetail_forward_33763546"
+      "url": "https://www.toutiao.com/trending/7672919255847272454/"
     },
     {
       "id": "evt-46400000",
       "title": "赵一鸣4块牛肉干64元复称仅17元",
       "category": "society",
-      "hotScore": 0.595,
+      "hotScore": 0.51,
       "freshness": 0.9999,
       "crossSource": 1,
-      "totalScore": 0.838,
+      "totalScore": 0.804,
       "sources": [
         {
           "channel": "toutiao",
-          "rank": 7,
-          "hot": 7841960,
+          "rank": 9,
+          "hot": 6912002,
           "url": "https://www.toutiao.com/trending/7672915396164324873/"
         },
         {
           "channel": "baidu",
-          "rank": 7,
+          "rank": 13,
           "hot": 0,
           "url": "https://m.baidu.com/s?word=%E8%B5%B5%E4%B8%80%E9%B8%A34%E5%9D%97%E7%89%9B%E8%82%89%E5%B9%B264%E5%85%83%E5%A4%8D%E7%A7%B0%E4%BB%8517%E5%85%83&sa=fyb_news"
         }
@@ -57,17 +57,55 @@
       "url": "https://www.toutiao.com/trending/7672915396164324873/"
     },
     {
+      "id": "evt-48000000",
+      "title": "48条活体蛇从鄂州花湖机场直飞美国",
+      "category": "society",
+      "hotScore": 0.6375,
+      "freshness": 0.9999,
+      "crossSource": 0.6309,
+      "totalScore": 0.7443,
+      "sources": [
+        {
+          "channel": "toutiao",
+          "rank": 6,
+          "hot": 9330227,
+          "url": "https://www.toutiao.com/trending/7672767656038203438/"
+        }
+      ],
+      "summary": "",
+      "url": "https://www.toutiao.com/trending/7672767656038203438/"
+    },
+    {
+      "id": "evt-19940000",
+      "title": "郭兰英1994年将演唱版权无偿捐国家",
+      "category": "society",
+      "hotScore": 0.595,
+      "freshness": 0.9999,
+      "crossSource": 0.6309,
+      "totalScore": 0.7273,
+      "sources": [
+        {
+          "channel": "toutiao",
+          "rank": 7,
+          "hot": 8442338,
+          "url": "https://www.toutiao.com/trending/7672949387655400998/"
+        }
+      ],
+      "summary": "",
+      "url": "https://www.toutiao.com/trending/7672949387655400998/"
+    },
+    {
       "id": "evt-deepseek",
       "title": "怎么看 DeepSeek 注册 Harness 公众号并选用黑鲸鱼 logo ？",
       "category": "society",
-      "hotScore": 0.7125,
-      "freshness": 1,
+      "hotScore": 0.5625,
+      "freshness": 0.9999,
       "crossSource": 0.6309,
-      "totalScore": 0.7743,
+      "totalScore": 0.7143,
       "sources": [
         {
           "channel": "zhihu",
-          "rank": 2,
+          "rank": 6,
           "hot": 0,
           "url": ""
         }
@@ -76,65 +114,8 @@
       "url": ""
     },
     {
-      "id": "evt-40000000",
-      "title": "出现4个信号说明你可能不是普通头痛",
-      "category": "society",
-      "hotScore": 0.68,
-      "freshness": 0.9999,
-      "crossSource": 0.6309,
-      "totalScore": 0.7613,
-      "sources": [
-        {
-          "channel": "toutiao",
-          "rank": 5,
-          "hot": 9578192,
-          "url": "https://www.toutiao.com/trending/7672659353308135487/"
-        }
-      ],
-      "summary": "",
-      "url": "https://www.toutiao.com/trending/7672659353308135487/"
-    },
-    {
-      "id": "evt-36ai0000",
-      "title": "每36秒上新一部！AI短剧狂飙，短剧江湖正在换主角",
-      "category": "society",
-      "hotScore": 0.6375,
-      "freshness": 1,
-      "crossSource": 0.6309,
-      "totalScore": 0.7443,
-      "sources": [
-        {
-          "channel": "thepaper",
-          "rank": 6,
-          "hot": 0,
-          "url": "https://www.thepaper.cn/newsDetail_forward_33710549"
-        }
-      ],
-      "summary": "",
-      "url": "https://www.thepaper.cn/newsDetail_forward_33710549"
-    },
-    {
-      "id": "evt-19940000",
-      "title": "郭兰英1994年将演唱版权无偿捐国家",
-      "category": "society",
-      "hotScore": 0.5525,
-      "freshness": 0.9999,
-      "crossSource": 0.6309,
-      "totalScore": 0.7103,
-      "sources": [
-        {
-          "channel": "toutiao",
-          "rank": 8,
-          "hot": 7095699,
-          "url": "https://www.toutiao.com/trending/7672949387655400998/"
-        }
-      ],
-      "summary": "",
-      "url": "https://www.toutiao.com/trending/7672949387655400998/"
-    },
-    {
-      "id": "evt-74000000",
-      "title": "一图世界｜哥伦比亚7.4级强震，震源深但灾情严重",
+      "id": "evt-22000000",
+      "title": "安徽安庆22岁女大学生被前男友杀害案二审宣判：维持死刑判决",
       "category": "society",
       "hotScore": 0.5525,
       "freshness": 1,
@@ -145,24 +126,43 @@
           "channel": "thepaper",
           "rank": 8,
           "hot": 0,
-          "url": "https://www.thepaper.cn/newsDetail_forward_33758007"
+          "url": "https://www.thepaper.cn/newsDetail_forward_33759348"
         }
       ],
       "summary": "",
-      "url": "https://www.thepaper.cn/newsDetail_forward_33758007"
+      "url": "https://www.thepaper.cn/newsDetail_forward_33759348"
+    },
+    {
+      "id": "evt-c9190000",
+      "title": "视频丨C919国产大飞机正式执飞国际商业航线",
+      "category": "society",
+      "hotScore": 0.4675,
+      "freshness": 1,
+      "crossSource": 0.6309,
+      "totalScore": 0.6763,
+      "sources": [
+        {
+          "channel": "thepaper",
+          "rank": 10,
+          "hot": 0,
+          "url": "https://www.thepaper.cn/newsDetail_forward_33765803"
+        }
+      ],
+      "summary": "",
+      "url": "https://www.thepaper.cn/newsDetail_forward_33765803"
     },
     {
       "id": "evt-53000000",
       "title": "深圳大学拟拿出 5.3 亿元，买下整栋商品房给学生当宿舍，背后有哪些考量？买商品房当宿舍会成为趋势吗？",
       "category": "society",
-      "hotScore": 0.525,
-      "freshness": 1,
+      "hotScore": 0.45,
+      "freshness": 0.9999,
       "crossSource": 0.6309,
-      "totalScore": 0.6993,
+      "totalScore": 0.6693,
       "sources": [
         {
           "channel": "zhihu",
-          "rank": 7,
+          "rank": 9,
           "hot": 0,
           "url": ""
         }
@@ -174,14 +174,14 @@
       "id": "evt-c5000000",
       "title": "C罗结婚5个孩子出席婚礼",
       "category": "society",
-      "hotScore": 0.52,
+      "hotScore": 0.44,
       "freshness": 1,
       "crossSource": 0.6309,
-      "totalScore": 0.6973,
+      "totalScore": 0.6653,
       "sources": [
         {
           "channel": "baidu",
-          "rank": 8,
+          "rank": 10,
           "hot": 0,
           "url": "https://m.baidu.com/s?word=C%E7%BD%97%E7%BB%93%E5%A9%9A5%E4%B8%AA%E5%AD%A9%E5%AD%90%E5%87%BA%E5%B8%AD%E5%A9%9A%E7%A4%BC&sa=fyb_news"
         }
@@ -190,30 +190,11 @@
       "url": "https://m.baidu.com/s?word=C%E7%BD%97%E7%BB%93%E5%A9%9A5%E4%B8%AA%E5%AD%A9%E5%AD%90%E5%87%BA%E5%B8%AD%E5%A9%9A%E7%A4%BC&sa=fyb_news"
     },
     {
-      "id": "evt-22000000",
-      "title": "安徽安庆22岁女大学生被前男友杀害案二审宣判：维持死刑判决",
-      "category": "society",
-      "hotScore": 0.4675,
-      "freshness": 1,
-      "crossSource": 0.6309,
-      "totalScore": 0.6763,
-      "sources": [
-        {
-          "channel": "thepaper",
-          "rank": 10,
-          "hot": 0,
-          "url": "https://www.thepaper.cn/newsDetail_forward_33759348"
-        }
-      ],
-      "summary": "",
-      "url": "https://www.thepaper.cn/newsDetail_forward_33759348"
-    },
-    {
       "id": "evt-10gpt600",
       "title": "曝 10 万亿参数的 GPT-6 即将发布，10 万亿参数是什么水平？对此你有哪些期待？",
       "category": "society",
       "hotScore": 0.4125,
-      "freshness": 1,
+      "freshness": 0.9999,
       "crossSource": 0.6309,
       "totalScore": 0.6543,
       "sources": [
