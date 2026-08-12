@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-08-12T18:46:42.302Z",
+  "generatedAt": "2026-08-12T20:32:38.479Z",
   "fields": {
     "society": "社会",
     "economy": "经济",
@@ -11,14 +11,14 @@
       "title": "朱镕基同志逝世",
       "category": "society",
       "hotScore": 0.85,
-      "freshness": 0.9999,
+      "freshness": 1,
       "crossSource": 1,
       "totalScore": 0.94,
       "sources": [
         {
           "channel": "toutiao",
           "rank": 1,
-          "hot": 45465159,
+          "hot": 46699991,
           "url": "https://www.toutiao.com/trending/7672219414749793835/"
         },
         {
@@ -35,14 +35,14 @@
       "id": "evt-c9190000",
       "title": "视频丨C919国产大飞机正式执飞国际商业航线",
       "category": "society",
-      "hotScore": 0.7225,
+      "hotScore": 0.765,
       "freshness": 1,
       "crossSource": 0.6309,
-      "totalScore": 0.7783,
+      "totalScore": 0.7953,
       "sources": [
         {
           "channel": "thepaper",
-          "rank": 4,
+          "rank": 3,
           "hot": 0,
           "url": "https://www.thepaper.cn/newsDetail_forward_33765803"
         }
@@ -74,14 +74,14 @@
       "title": "上半年全国结婚登记327.5万对",
       "category": "society",
       "hotScore": 0.6375,
-      "freshness": 0.9999,
+      "freshness": 1,
       "crossSource": 0.6309,
       "totalScore": 0.7443,
       "sources": [
         {
           "channel": "toutiao",
           "rank": 6,
-          "hot": 27576013,
+          "hot": 28324976,
           "url": "https://www.toutiao.com/trending/7672315775647432723/"
         }
       ],
@@ -92,14 +92,14 @@
       "id": "evt-13500000",
       "title": "135家私募打新宇树科技获配：头部量化扎堆入围 ，梁文锋旗下幻方、九章拿下私募最大份额",
       "category": "society",
-      "hotScore": 0.595,
+      "hotScore": 0.6375,
       "freshness": 1,
       "crossSource": 0.6309,
-      "totalScore": 0.7273,
+      "totalScore": 0.7443,
       "sources": [
         {
           "channel": "thepaper",
-          "rank": 7,
+          "rank": 6,
           "hot": 0,
           "url": "https://www.thepaper.cn/newsDetail_forward_33764096"
         }
@@ -127,42 +127,80 @@
       "url": ""
     },
     {
-      "id": "evt-90000000",
-      "title": "荣耀发布首款机器人手机 9999元起售",
+      "id": "evt-deepseek",
+      "title": "如何评价 Deepseek V4Pro 正式版（Deepseek-V4-Pro-0813）？",
       "category": "society",
-      "hotScore": 0.52,
+      "hotScore": 0.525,
       "freshness": 1,
       "crossSource": 0.6309,
-      "totalScore": 0.6973,
+      "totalScore": 0.6993,
       "sources": [
         {
-          "channel": "baidu",
-          "rank": 8,
+          "channel": "zhihu",
+          "rank": 7,
           "hot": 0,
-          "url": "https://m.baidu.com/s?word=%E8%8D%A3%E8%80%80%E5%8F%91%E5%B8%83%E9%A6%96%E6%AC%BE%E6%9C%BA%E5%99%A8%E4%BA%BA%E6%89%8B%E6%9C%BA+9999%E5%85%83%E8%B5%B7%E5%94%AE&sa=fyb_news"
+          "url": ""
         }
       ],
       "summary": "",
-      "url": "https://m.baidu.com/s?word=%E8%8D%A3%E8%80%80%E5%8F%91%E5%B8%83%E9%A6%96%E6%AC%BE%E6%9C%BA%E5%99%A8%E4%BA%BA%E6%89%8B%E6%9C%BA+9999%E5%85%83%E8%B5%B7%E5%94%AE&sa=fyb_news"
+      "url": ""
+    },
+    {
+      "id": "evt-60000000",
+      "title": "云南一民船侧翻6人落水 其中1人获救",
+      "category": "society",
+      "hotScore": 0.48,
+      "freshness": 1,
+      "crossSource": 0.6309,
+      "totalScore": 0.6813,
+      "sources": [
+        {
+          "channel": "baidu",
+          "rank": 9,
+          "hot": 0,
+          "url": "https://m.baidu.com/s?word=%E4%BA%91%E5%8D%97%E4%B8%80%E6%B0%91%E8%88%B9%E4%BE%A7%E7%BF%BB6%E4%BA%BA%E8%90%BD%E6%B0%B4+%E5%85%B6%E4%B8%AD1%E4%BA%BA%E8%8E%B7%E6%95%91&sa=fyb_news"
+        }
+      ],
+      "summary": "",
+      "url": "https://m.baidu.com/s?word=%E4%BA%91%E5%8D%97%E4%B8%80%E6%B0%91%E8%88%B9%E4%BE%A7%E7%BF%BB6%E4%BA%BA%E8%90%BD%E6%B0%B4+%E5%85%B6%E4%B8%AD1%E4%BA%BA%E8%8E%B7%E6%95%91&sa=fyb_news"
     },
     {
       "id": "evt-10000000",
       "title": "连续两个月突破100万辆，我国汽车出口延续强劲增长态势",
       "category": "society",
-      "hotScore": 0.425,
+      "hotScore": 0.4675,
       "freshness": 1,
       "crossSource": 0.6309,
-      "totalScore": 0.6593,
+      "totalScore": 0.6763,
       "sources": [
         {
           "channel": "thepaper",
-          "rank": 11,
+          "rank": 10,
           "hot": 0,
           "url": "https://www.thepaper.cn/newsDetail_forward_33767366"
         }
       ],
       "summary": "",
       "url": "https://www.thepaper.cn/newsDetail_forward_33767366"
+    },
+    {
+      "id": "evt-lpl20260",
+      "title": "LPL2026 赛季第三赛段组内赛 BLG 1:2 JDG，如何评价这场比赛？",
+      "category": "society",
+      "hotScore": 0.4125,
+      "freshness": 1,
+      "crossSource": 0.6309,
+      "totalScore": 0.6543,
+      "sources": [
+        {
+          "channel": "zhihu",
+          "rank": 10,
+          "hot": 0,
+          "url": ""
+        }
+      ],
+      "summary": "",
+      "url": ""
     }
   ]
 }
