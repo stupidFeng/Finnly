@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-08-12T12:43:04.250Z",
+  "generatedAt": "2026-08-12T14:49:51.228Z",
   "fields": {
     "society": "社会",
     "economy": "经济",
@@ -11,14 +11,14 @@
       "title": "朱镕基同志逝世",
       "category": "society",
       "hotScore": 0.85,
-      "freshness": 0.9999,
+      "freshness": 1,
       "crossSource": 1,
       "totalScore": 0.94,
       "sources": [
         {
           "channel": "toutiao",
           "rank": 1,
-          "hot": 24830235,
+          "hot": 37438936,
           "url": "https://www.toutiao.com/trending/7672219414749793835/"
         },
         {
@@ -36,7 +36,7 @@
       "title": "赵一鸣牛肉干 64 元复称仅 17 元，店方称不知道为啥出错，暴露了哪些管理漏洞？消费者如何避免被坑？",
       "category": "society",
       "hotScore": 0.7125,
-      "freshness": 0.9999,
+      "freshness": 1,
       "crossSource": 0.6309,
       "totalScore": 0.7743,
       "sources": [
@@ -51,36 +51,17 @@
       "url": ""
     },
     {
-      "id": "evt-32700000",
-      "title": "上半年全国结婚登记327.5万对",
-      "category": "society",
-      "hotScore": 0.595,
-      "freshness": 0.9999,
-      "crossSource": 0.6309,
-      "totalScore": 0.7273,
-      "sources": [
-        {
-          "channel": "toutiao",
-          "rank": 7,
-          "hot": 13627121,
-          "url": "https://www.toutiao.com/trending/7672315775647432723/"
-        }
-      ],
-      "summary": "",
-      "url": "https://www.toutiao.com/trending/7672315775647432723/"
-    },
-    {
       "id": "evt-c9190000",
       "title": "视频丨C919国产大飞机正式执飞国际商业航线",
       "category": "society",
-      "hotScore": 0.595,
+      "hotScore": 0.68,
       "freshness": 1,
       "crossSource": 0.6309,
-      "totalScore": 0.7273,
+      "totalScore": 0.7613,
       "sources": [
         {
           "channel": "thepaper",
-          "rank": 7,
+          "rank": 5,
           "hot": 0,
           "url": "https://www.thepaper.cn/newsDetail_forward_33765803"
         }
@@ -89,36 +70,61 @@
       "url": "https://www.thepaper.cn/newsDetail_forward_33765803"
     },
     {
-      "id": "evt-19940000",
-      "title": "郭兰英1994年将演唱版权无偿捐国家",
+      "id": "evt-32700000",
+      "title": "上半年全国结婚登记327.5万对",
       "category": "society",
-      "hotScore": 0.51,
-      "freshness": 0.9999,
+      "hotScore": 0.6375,
+      "freshness": 1,
       "crossSource": 0.6309,
-      "totalScore": 0.6933,
+      "totalScore": 0.7443,
       "sources": [
         {
           "channel": "toutiao",
-          "rank": 9,
-          "hot": 11156943,
-          "url": "https://www.toutiao.com/trending/7672949387655400998/"
+          "rank": 6,
+          "hot": 22707862,
+          "url": "https://www.toutiao.com/trending/7672315775647432723/"
         }
       ],
       "summary": "",
-      "url": "https://www.toutiao.com/trending/7672949387655400998/"
+      "url": "https://www.toutiao.com/trending/7672315775647432723/"
+    },
+    {
+      "id": "evt-88000000",
+      "title": "男子看病8天花8万治疗按分钟收费",
+      "category": "society",
+      "hotScore": 0.34,
+      "freshness": 1,
+      "crossSource": 1,
+      "totalScore": 0.736,
+      "sources": [
+        {
+          "channel": "toutiao",
+          "rank": 13,
+          "hot": 11276390,
+          "url": "https://www.toutiao.com/trending/7673054156569133119/"
+        },
+        {
+          "channel": "baidu",
+          "rank": 19,
+          "hot": 0,
+          "url": "https://m.baidu.com/s?word=%E7%94%B7%E5%AD%90%E7%9C%8B%E7%97%858%E5%A4%A9%E8%8A%B18%E4%B8%87%E6%B2%BB%E7%96%97%E6%8C%89%E5%88%86%E9%92%9F%E6%94%B6%E8%B4%B9&sa=fyb_news"
+        }
+      ],
+      "summary": "",
+      "url": "https://www.toutiao.com/trending/7673054156569133119/"
     },
     {
       "id": "evt-13500000",
       "title": "135家私募打新宇树科技获配：头部量化扎堆入围 ，梁文锋旗下幻方、九章拿下私募最大份额",
       "category": "society",
-      "hotScore": 0.51,
+      "hotScore": 0.595,
       "freshness": 1,
       "crossSource": 0.6309,
-      "totalScore": 0.6933,
+      "totalScore": 0.7273,
       "sources": [
         {
           "channel": "thepaper",
-          "rank": 9,
+          "rank": 7,
           "hot": 0,
           "url": "https://www.thepaper.cn/newsDetail_forward_33764096"
         }
@@ -127,8 +133,8 @@
       "url": "https://www.thepaper.cn/newsDetail_forward_33764096"
     },
     {
-      "id": "evt-bba00000",
-      "title": "中国市场不再是BBA的提款机",
+      "id": "evt-90000000",
+      "title": "荣耀发布首款机器人手机 9999元起售",
       "category": "society",
       "hotScore": 0.48,
       "freshness": 1,
@@ -139,30 +145,49 @@
           "channel": "baidu",
           "rank": 9,
           "hot": 0,
-          "url": "https://m.baidu.com/s?word=%E4%B8%AD%E5%9B%BD%E5%B8%82%E5%9C%BA%E4%B8%8D%E5%86%8D%E6%98%AFBBA%E7%9A%84%E6%8F%90%E6%AC%BE%E6%9C%BA&sa=fyb_news"
+          "url": "https://m.baidu.com/s?word=%E8%8D%A3%E8%80%80%E5%8F%91%E5%B8%83%E9%A6%96%E6%AC%BE%E6%9C%BA%E5%99%A8%E4%BA%BA%E6%89%8B%E6%9C%BA+9999%E5%85%83%E8%B5%B7%E5%94%AE&sa=fyb_news"
         }
       ],
       "summary": "",
-      "url": "https://m.baidu.com/s?word=%E4%B8%AD%E5%9B%BD%E5%B8%82%E5%9C%BA%E4%B8%8D%E5%86%8D%E6%98%AFBBA%E7%9A%84%E6%8F%90%E6%AC%BE%E6%9C%BA&sa=fyb_news"
+      "url": "https://m.baidu.com/s?word=%E8%8D%A3%E8%80%80%E5%8F%91%E5%B8%83%E9%A6%96%E6%AC%BE%E6%9C%BA%E5%99%A8%E4%BA%BA%E6%89%8B%E6%9C%BA+9999%E5%85%83%E8%B5%B7%E5%94%AE&sa=fyb_news"
     },
     {
-      "id": "evt-ai000000",
-      "title": "AI科创润童心 网络安全伴成长",
+      "id": "evt-e0000000",
+      "title": "昌小e系列短片丨破解网络谣言",
       "category": "society",
       "hotScore": 0.425,
-      "freshness": 0.9999,
+      "freshness": 1,
       "crossSource": 0.6309,
       "totalScore": 0.6593,
       "sources": [
         {
           "channel": "toutiao",
           "rank": 11,
-          "hot": 9134533,
-          "url": "https://www.toutiao.com/trending/7672213418782588964/"
+          "hot": 13773014,
+          "url": "https://www.toutiao.com/trending/7673130498504212530/"
         }
       ],
       "summary": "",
-      "url": "https://www.toutiao.com/trending/7672213418782588964/"
+      "url": "https://www.toutiao.com/trending/7673130498504212530/"
+    },
+    {
+      "id": "evt-10000000",
+      "title": "连续两个月突破100万辆，我国汽车出口延续强劲增长态势",
+      "category": "society",
+      "hotScore": 0.425,
+      "freshness": 1,
+      "crossSource": 0.6309,
+      "totalScore": 0.6593,
+      "sources": [
+        {
+          "channel": "thepaper",
+          "rank": 11,
+          "hot": 0,
+          "url": "https://www.thepaper.cn/newsDetail_forward_33767366"
+        }
+      ],
+      "summary": "",
+      "url": "https://www.thepaper.cn/newsDetail_forward_33767366"
     }
   ]
 }
