@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-08-13T18:47:33.079Z",
+  "generatedAt": "2026-08-13T20:30:11.488Z",
   "fields": {
     "society": "社会",
     "economy": "经济",
@@ -7,18 +7,37 @@
   },
   "feed": [
     {
-      "id": "evt-39000000",
-      "title": "39度高温管家喊话全楼关空调",
+      "id": "evt-00000000",
+      "title": "为什么胖东来关店比开店还可怕",
       "category": "society",
-      "hotScore": 0.6375,
-      "freshness": 0.9999,
-      "crossSource": 1,
-      "totalScore": 0.855,
+      "hotScore": 0.85,
+      "freshness": 1,
+      "crossSource": 0.6309,
+      "totalScore": 0.8293,
       "sources": [
         {
           "channel": "toutiao",
-          "rank": 6,
-          "hot": 5508597,
+          "rank": 1,
+          "hot": 9261187,
+          "url": "https://www.toutiao.com/trending/7673515574487748150/"
+        }
+      ],
+      "summary": "",
+      "url": "https://www.toutiao.com/trending/7673515574487748150/"
+    },
+    {
+      "id": "evt-39000000",
+      "title": "39度高温管家喊话全楼关空调",
+      "category": "society",
+      "hotScore": 0.56,
+      "freshness": 1,
+      "crossSource": 1,
+      "totalScore": 0.824,
+      "sources": [
+        {
+          "channel": "toutiao",
+          "rank": 16,
+          "hot": 2066450,
           "url": "https://www.toutiao.com/trending/7673436100526424115/"
         },
         {
@@ -30,25 +49,6 @@
       ],
       "summary": "",
       "url": "https://www.toutiao.com/trending/7673436100526424115/"
-    },
-    {
-      "id": "evt-00000000",
-      "title": "深圳高温达极端等级",
-      "category": "society",
-      "hotScore": 0.85,
-      "freshness": 0.9999,
-      "crossSource": 0.6309,
-      "totalScore": 0.8293,
-      "sources": [
-        {
-          "channel": "toutiao",
-          "rank": 1,
-          "hot": 9082141,
-          "url": "https://www.toutiao.com/trending/7673074360797839366/"
-        }
-      ],
-      "summary": "",
-      "url": "https://www.toutiao.com/trending/7673074360797839366/"
     },
     {
       "id": "evt-deepseek8",
@@ -89,25 +89,6 @@
       "url": ""
     },
     {
-      "id": "evt-10000000",
-      "title": "福建船厂爆炸致1名消防员牺牲",
-      "category": "society",
-      "hotScore": 0.68,
-      "freshness": 0.9999,
-      "crossSource": 0.6309,
-      "totalScore": 0.7613,
-      "sources": [
-        {
-          "channel": "toutiao",
-          "rank": 5,
-          "hot": 6087941,
-          "url": "https://www.toutiao.com/trending/7673528169298660905/"
-        }
-      ],
-      "summary": "",
-      "url": "https://www.toutiao.com/trending/7673528169298660905/"
-    },
-    {
       "id": "evt-45000000",
       "title": "45 岁邹市明宣布年底重返拳击赛场，怎样看待他的决定？他的复出能解决目前的财务困境吗？",
       "category": "society",
@@ -131,14 +112,14 @@
       "title": "史上最大IPO或将易主",
       "category": "society",
       "hotScore": 0.5525,
-      "freshness": 0.9999,
+      "freshness": 1,
       "crossSource": 0.6309,
       "totalScore": 0.7103,
       "sources": [
         {
           "channel": "toutiao",
           "rank": 8,
-          "hot": 4510058,
+          "hot": 4598969,
           "url": "https://www.toutiao.com/trending/7673140928302940196/"
         }
       ],
@@ -146,23 +127,23 @@
       "url": "https://www.toutiao.com/trending/7673140928302940196/"
     },
     {
-      "id": "evt-48000000",
-      "title": "花48万买事业编未成功中间人拒退款",
+      "id": "evt-70000000",
+      "title": "7月报告新增新冠确诊病例52.2万例",
       "category": "society",
-      "hotScore": 0.51,
-      "freshness": 0.9999,
+      "hotScore": 0.52,
+      "freshness": 1,
       "crossSource": 0.6309,
-      "totalScore": 0.6933,
+      "totalScore": 0.6973,
       "sources": [
         {
-          "channel": "toutiao",
-          "rank": 9,
-          "hot": 4080869,
-          "url": "https://www.toutiao.com/trending/7673410242014527494/"
+          "channel": "baidu",
+          "rank": 8,
+          "hot": 0,
+          "url": "https://m.baidu.com/s?word=7%E6%9C%88%E6%8A%A5%E5%91%8A%E6%96%B0%E5%A2%9E%E6%96%B0%E5%86%A0%E7%A1%AE%E8%AF%8A%E7%97%85%E4%BE%8B52.2%E4%B8%87%E4%BE%8B&sa=fyb_news"
         }
       ],
       "summary": "",
-      "url": "https://www.toutiao.com/trending/7673410242014527494/"
+      "url": "https://m.baidu.com/s?word=7%E6%9C%88%E6%8A%A5%E5%91%8A%E6%96%B0%E5%A2%9E%E6%96%B0%E5%86%A0%E7%A1%AE%E8%AF%8A%E7%97%85%E4%BE%8B52.2%E4%B8%87%E4%BE%8B&sa=fyb_news"
     },
     {
       "id": "evt-deepseekh",
@@ -184,8 +165,8 @@
       "url": ""
     },
     {
-      "id": "evt-deepseek",
-      "title": "如何看待 Deepseek Harness 发布？",
+      "id": "evt-10000000",
+      "title": "10 岁女孩每天「拼豆」三四小时，眼轴增长速度是正常的两倍，这对孩子视力的影响有多大？怎么缓解？",
       "category": "society",
       "hotScore": 0.45,
       "freshness": 1,
