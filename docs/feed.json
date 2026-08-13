@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-08-13T12:44:16.021Z",
+  "generatedAt": "2026-08-13T14:49:53.703Z",
   "fields": {
     "society": "社会",
     "economy": "经济",
@@ -8,32 +8,26 @@
   "feed": [
     {
       "id": "evt-00000000",
-      "title": "普京首次登上俄日争议岛屿",
+      "title": "深圳高温达极端等级",
       "category": "society",
-      "hotScore": 0.765,
+      "hotScore": 0.85,
       "freshness": 0.9999,
-      "crossSource": 1,
-      "totalScore": 0.906,
+      "crossSource": 0.6309,
+      "totalScore": 0.8293,
       "sources": [
         {
           "channel": "toutiao",
-          "rank": 16,
-          "hot": 22388439,
-          "url": "https://www.toutiao.com/trending/7673075229438427190/"
-        },
-        {
-          "channel": "thepaper",
-          "rank": 3,
-          "hot": 0,
-          "url": "https://www.thepaper.cn/newsDetail_forward_33775032"
+          "rank": 1,
+          "hot": 8139217,
+          "url": "https://www.toutiao.com/trending/7673074360797839366/"
         }
       ],
       "summary": "",
-      "url": "https://www.toutiao.com/trending/7673075229438427190/"
+      "url": "https://www.toutiao.com/trending/7673074360797839366/"
     },
     {
-      "id": "evt-30000000",
-      "title": "《江泽民》第3集《临危受命》",
+      "id": "evt-40000000",
+      "title": "《江泽民》第4集《重大突破》",
       "category": "society",
       "hotScore": 0.85,
       "freshness": 1,
@@ -44,6 +38,25 @@
           "channel": "thepaper",
           "rank": 1,
           "hot": 0,
+          "url": "https://www.thepaper.cn/newsDetail_forward_33770776"
+        }
+      ],
+      "summary": "",
+      "url": "https://www.thepaper.cn/newsDetail_forward_33770776"
+    },
+    {
+      "id": "evt-30000000",
+      "title": "《江泽民》第3集《临危受命》",
+      "category": "society",
+      "hotScore": 0.8075,
+      "freshness": 1,
+      "crossSource": 0.6309,
+      "totalScore": 0.8123,
+      "sources": [
+        {
+          "channel": "thepaper",
+          "rank": 2,
+          "hot": 0,
           "url": "https://www.thepaper.cn/newsDetail_forward_33770623"
         }
       ],
@@ -51,68 +64,93 @@
       "url": "https://www.thepaper.cn/newsDetail_forward_33770623"
     },
     {
-      "id": "evt-40000000",
-      "title": "4岁半女童“满头白发”确诊白癜风",
+      "id": "evt-18000000",
+      "title": "梁文锋打新宇树科技 1.8 亿获配 120 万股，账面浮盈或超 7.04 亿元，怎样解读他的这一布局？",
       "category": "society",
-      "hotScore": 0.8075,
+      "hotScore": 0.75,
       "freshness": 0.9999,
       "crossSource": 0.6309,
-      "totalScore": 0.8123,
+      "totalScore": 0.7893,
       "sources": [
         {
-          "channel": "toutiao",
-          "rank": 2,
-          "hot": 90789598,
-          "url": "https://www.toutiao.com/trending/7673449359346319370/"
+          "channel": "zhihu",
+          "rank": 1,
+          "hot": 0,
+          "url": ""
         }
       ],
       "summary": "",
-      "url": "https://www.toutiao.com/trending/7673449359346319370/"
+      "url": ""
     },
     {
-      "id": "evt-18000000",
-      "title": "18个月“速成车”",
-      "category": "society",
-      "hotScore": 0.76,
-      "freshness": 1,
+      "id": "evt-20268100",
+      "title": "如何看待 2026 年 8 月 13 日 A 股市场行情？跳空高开尾盘却突发跳水，发生了什么？",
+      "category": "economy",
+      "hotScore": 0.5625,
+      "freshness": 0.9999,
       "crossSource": 0.6309,
-      "totalScore": 0.7933,
+      "totalScore": 0.7143,
       "sources": [
+        {
+          "channel": "zhihu",
+          "rank": 6,
+          "hot": 0,
+          "url": ""
+        }
+      ],
+      "summary": "",
+      "url": ""
+    },
+    {
+      "id": "evt-max00000",
+      "title": "比亚迪秦MAX上市",
+      "category": "economy",
+      "hotScore": 0.5525,
+      "freshness": 0.9999,
+      "crossSource": 0.6309,
+      "totalScore": 0.7103,
+      "sources": [
+        {
+          "channel": "toutiao",
+          "rank": 8,
+          "hot": 4041815,
+          "url": "https://www.toutiao.com/trending/7673470363653341225/"
+        }
+      ],
+      "summary": "",
+      "url": "https://www.toutiao.com/trending/7673470363653341225/"
+    },
+    {
+      "id": "evt-87340000",
+      "title": "宇树科技遭弃购8734股",
+      "category": "society",
+      "hotScore": 0.4675,
+      "freshness": 0.9999,
+      "crossSource": 1,
+      "totalScore": 0.787,
+      "sources": [
+        {
+          "channel": "toutiao",
+          "rank": 10,
+          "hot": 3309158,
+          "url": "https://www.toutiao.com/trending/7673094694310805555/"
+        },
         {
           "channel": "baidu",
-          "rank": 2,
+          "rank": 15,
           "hot": 0,
-          "url": "https://m.baidu.com/s?word=18%E4%B8%AA%E6%9C%88%E2%80%9C%E9%80%9F%E6%88%90%E8%BD%A6%E2%80%9D&sa=fyb_news"
+          "url": "https://m.baidu.com/s?word=%E5%AE%87%E6%A0%91%E7%A7%91%E6%8A%80%E9%81%AD%E5%BC%83%E8%B4%AD8734%E8%82%A1&sa=fyb_news"
         }
       ],
       "summary": "",
-      "url": "https://m.baidu.com/s?word=18%E4%B8%AA%E6%9C%88%E2%80%9C%E9%80%9F%E6%88%90%E8%BD%A6%E2%80%9D&sa=fyb_news"
+      "url": "https://www.toutiao.com/trending/7673094694310805555/"
     },
     {
-      "id": "evt-6n100000",
-      "title": "轰-6N首度挂载惊雷-1为何能震动全球",
-      "category": "society",
-      "hotScore": 0.7225,
-      "freshness": 0.9999,
-      "crossSource": 0.6309,
-      "totalScore": 0.7783,
-      "sources": [
-        {
-          "channel": "toutiao",
-          "rank": 4,
-          "hot": 74332236,
-          "url": "https://www.toutiao.com/trending/7673471927301705235/"
-        }
-      ],
-      "summary": "",
-      "url": "https://www.toutiao.com/trending/7673471927301705235/"
-    },
-    {
-      "id": "evt-deepseek",
-      "title": "DeepSeek官宣涨价",
+      "id": "evt-50000000",
+      "title": "亏50万股民借钱缴款中签宇树",
       "category": "society",
       "hotScore": 0.72,
-      "freshness": 1,
+      "freshness": 0.9999,
       "crossSource": 0.6309,
       "totalScore": 0.7773,
       "sources": [
@@ -120,15 +158,53 @@
           "channel": "baidu",
           "rank": 3,
           "hot": 0,
-          "url": "https://m.baidu.com/s?word=DeepSeek%E5%AE%98%E5%AE%A3%E6%B6%A8%E4%BB%B7&sa=fyb_news"
+          "url": "https://m.baidu.com/s?word=%E4%BA%8F50%E4%B8%87%E8%82%A1%E6%B0%91%E5%80%9F%E9%92%B1%E7%BC%B4%E6%AC%BE%E4%B8%AD%E7%AD%BE%E5%AE%87%E6%A0%91&sa=fyb_news"
         }
       ],
       "summary": "",
-      "url": "https://m.baidu.com/s?word=DeepSeek%E5%AE%98%E5%AE%A3%E6%B6%A8%E4%BB%B7&sa=fyb_news"
+      "url": "https://m.baidu.com/s?word=%E4%BA%8F50%E4%B8%87%E8%82%A1%E6%B0%91%E5%80%9F%E9%92%B1%E7%BC%B4%E6%AC%BE%E4%B8%AD%E7%AD%BE%E5%AE%87%E6%A0%91&sa=fyb_news"
+    },
+    {
+      "id": "evt-45000000",
+      "title": "45 岁邹市明宣布年底重返拳击赛场，怎样看待他的决定？他的复出能解决目前的财务困境吗？",
+      "category": "society",
+      "hotScore": 0.675,
+      "freshness": 0.9999,
+      "crossSource": 0.6309,
+      "totalScore": 0.7593,
+      "sources": [
+        {
+          "channel": "zhihu",
+          "rank": 3,
+          "hot": 0,
+          "url": ""
+        }
+      ],
+      "summary": "",
+      "url": ""
     },
     {
       "id": "evt-ipo00000",
       "title": "史上最大IPO或将易主",
+      "category": "society",
+      "hotScore": 0.64,
+      "freshness": 0.9999,
+      "crossSource": 0.6309,
+      "totalScore": 0.7453,
+      "sources": [
+        {
+          "channel": "baidu",
+          "rank": 5,
+          "hot": 0,
+          "url": "https://m.baidu.com/s?word=%E5%8F%B2%E4%B8%8A%E6%9C%80%E5%A4%A7IPO%E6%88%96%E5%B0%86%E6%98%93%E4%B8%BB&sa=fyb_news"
+        }
+      ],
+      "summary": "",
+      "url": "https://m.baidu.com/s?word=%E5%8F%B2%E4%B8%8A%E6%9C%80%E5%A4%A7IPO%E6%88%96%E5%B0%86%E6%98%93%E4%B8%BB&sa=fyb_news"
+    },
+    {
+      "id": "evt-28000000",
+      "title": "28岁快递员突发大面积脑梗死",
       "category": "society",
       "hotScore": 0.6375,
       "freshness": 0.9999,
@@ -138,25 +214,25 @@
         {
           "channel": "toutiao",
           "rank": 6,
-          "hot": 60858087,
-          "url": "https://www.toutiao.com/trending/7673140928302940196/"
+          "hot": 4936684,
+          "url": "https://www.toutiao.com/trending/7673087242285498378/"
         }
       ],
       "summary": "",
-      "url": "https://www.toutiao.com/trending/7673140928302940196/"
+      "url": "https://www.toutiao.com/trending/7673087242285498378/"
     },
     {
       "id": "evt-wto00000",
       "title": "当年为加入 WTO 做出的让步，今天看来到底有多值？",
       "category": "society",
-      "hotScore": 0.6,
+      "hotScore": 0.6375,
       "freshness": 0.9999,
       "crossSource": 0.6309,
-      "totalScore": 0.7293,
+      "totalScore": 0.7443,
       "sources": [
         {
           "channel": "zhihu",
-          "rank": 5,
+          "rank": 4,
           "hot": 0,
           "url": ""
         }
@@ -165,42 +241,42 @@
       "url": ""
     },
     {
-      "id": "evt-a0000000",
-      "title": "专家：A股为何早盘冲高午后跳水翻绿",
+      "id": "evt-70000000",
+      "title": "暴雨过后这7类食物一口都别碰",
       "category": "society",
-      "hotScore": 0.5525,
+      "hotScore": 0.52,
       "freshness": 0.9999,
       "crossSource": 0.6309,
-      "totalScore": 0.7103,
-      "sources": [
-        {
-          "channel": "toutiao",
-          "rank": 8,
-          "hot": 49826388,
-          "url": "https://www.toutiao.com/trending/7673455893605780998/"
-        }
-      ],
-      "summary": "",
-      "url": "https://www.toutiao.com/trending/7673455893605780998/"
-    },
-    {
-      "id": "evt-87340000",
-      "title": "宇树科技遭弃购8734股",
-      "category": "society",
-      "hotScore": 0.48,
-      "freshness": 1,
-      "crossSource": 0.6309,
-      "totalScore": 0.6813,
+      "totalScore": 0.6973,
       "sources": [
         {
           "channel": "baidu",
-          "rank": 9,
+          "rank": 8,
           "hot": 0,
-          "url": "https://m.baidu.com/s?word=%E5%AE%87%E6%A0%91%E7%A7%91%E6%8A%80%E9%81%AD%E5%BC%83%E8%B4%AD8734%E8%82%A1&sa=fyb_news"
+          "url": "https://m.baidu.com/s?word=%E6%9A%B4%E9%9B%A8%E8%BF%87%E5%90%8E%E8%BF%997%E7%B1%BB%E9%A3%9F%E7%89%A9%E4%B8%80%E5%8F%A3%E9%83%BD%E5%88%AB%E7%A2%B0&sa=fyb_news"
         }
       ],
       "summary": "",
-      "url": "https://m.baidu.com/s?word=%E5%AE%87%E6%A0%91%E7%A7%91%E6%8A%80%E9%81%AD%E5%BC%83%E8%B4%AD8734%E8%82%A1&sa=fyb_news"
+      "url": "https://m.baidu.com/s?word=%E6%9A%B4%E9%9B%A8%E8%BF%87%E5%90%8E%E8%BF%997%E7%B1%BB%E9%A3%9F%E7%89%A9%E4%B8%80%E5%8F%A3%E9%83%BD%E5%88%AB%E7%A2%B0&sa=fyb_news"
+    },
+    {
+      "id": "evt-deepseek8",
+      "title": "怎么看 DeepSeek 8 月 17 日涨价后的价格，这个峰谷定价你接受吗？",
+      "category": "society",
+      "hotScore": 0.45,
+      "freshness": 0.9999,
+      "crossSource": 0.6309,
+      "totalScore": 0.6693,
+      "sources": [
+        {
+          "channel": "zhihu",
+          "rank": 9,
+          "hot": 0,
+          "url": ""
+        }
+      ],
+      "summary": "",
+      "url": ""
     }
   ]
 }
