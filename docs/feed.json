@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-08-13T05:41:44.988Z",
+  "generatedAt": "2026-08-13T07:11:11.891Z",
   "fields": {
     "society": "社会",
     "economy": "经济",
@@ -11,14 +11,14 @@
       "title": "朱镕基同志逝世",
       "category": "society",
       "hotScore": 0.85,
-      "freshness": 1,
+      "freshness": 0.9999,
       "crossSource": 1,
       "totalScore": 0.94,
       "sources": [
         {
           "channel": "toutiao",
           "rank": 1,
-          "hot": 78628259,
+          "hot": 83115225,
           "url": "https://www.toutiao.com/trending/7672219414749793835/"
         },
         {
@@ -36,7 +36,7 @@
       "title": "DeepSeek V4 Pro 正式版发布，如何评价该模型？",
       "category": "society",
       "hotScore": 0.7125,
-      "freshness": 1,
+      "freshness": 0.9999,
       "crossSource": 0.6309,
       "totalScore": 0.7743,
       "sources": [
@@ -70,23 +70,23 @@
       "url": "https://m.baidu.com/s?word=5%E5%B9%B410%E4%B8%87%E4%BA%BF%E5%85%83%E6%B6%88%E8%B4%B9%E5%A2%9E%E9%87%8F%E7%9B%AE%E6%A0%87%E6%80%8E%E6%A0%B7%E5%AE%9E%E7%8E%B0&sa=fyb_news"
     },
     {
-      "id": "evt-10000000",
-      "title": "连续两个月突破100万辆，我国汽车出口延续强劲增长态势",
+      "id": "evt-73000000",
+      "title": "73岁奶奶将成中国首批太空游客",
       "category": "society",
-      "hotScore": 0.595,
+      "hotScore": 0.64,
       "freshness": 1,
       "crossSource": 0.6309,
-      "totalScore": 0.7273,
+      "totalScore": 0.7453,
       "sources": [
         {
-          "channel": "thepaper",
-          "rank": 7,
+          "channel": "baidu",
+          "rank": 5,
           "hot": 0,
-          "url": "https://www.thepaper.cn/newsDetail_forward_33767366"
+          "url": "https://m.baidu.com/s?word=73%E5%B2%81%E5%A5%B6%E5%A5%B6%E5%B0%86%E6%88%90%E4%B8%AD%E5%9B%BD%E9%A6%96%E6%89%B9%E5%A4%AA%E7%A9%BA%E6%B8%B8%E5%AE%A2&sa=fyb_news"
         }
       ],
       "summary": "",
-      "url": "https://www.thepaper.cn/newsDetail_forward_33767366"
+      "url": "https://m.baidu.com/s?word=73%E5%B2%81%E5%A5%B6%E5%A5%B6%E5%B0%86%E6%88%90%E4%B8%AD%E5%9B%BD%E9%A6%96%E6%89%B9%E5%A4%AA%E7%A9%BA%E6%B8%B8%E5%AE%A2&sa=fyb_news"
     }
   ]
 }
