@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-08-13T20:30:11.488Z",
+  "generatedAt": "2026-08-13T22:30:37.419Z",
   "fields": {
     "society": "社会",
     "economy": "经济",
@@ -18,7 +18,7 @@
         {
           "channel": "toutiao",
           "rank": 1,
-          "hot": 9261187,
+          "hot": 9718570,
           "url": "https://www.toutiao.com/trending/7673515574487748150/"
         }
       ],
@@ -26,29 +26,42 @@
       "url": "https://www.toutiao.com/trending/7673515574487748150/"
     },
     {
-      "id": "evt-39000000",
-      "title": "39度高温管家喊话全楼关空调",
+      "id": "evt-50000000",
+      "title": "《江泽民》第5集《兴国方略》",
       "category": "society",
-      "hotScore": 0.56,
+      "hotScore": 0.85,
       "freshness": 1,
-      "crossSource": 1,
-      "totalScore": 0.824,
+      "crossSource": 0.6309,
+      "totalScore": 0.8293,
       "sources": [
         {
-          "channel": "toutiao",
-          "rank": 16,
-          "hot": 2066450,
-          "url": "https://www.toutiao.com/trending/7673436100526424115/"
-        },
-        {
-          "channel": "baidu",
-          "rank": 7,
+          "channel": "thepaper",
+          "rank": 1,
           "hot": 0,
-          "url": "https://m.baidu.com/s?word=39%E5%BA%A6%E9%AB%98%E6%B8%A9%E7%AE%A1%E5%AE%B6%E5%96%8A%E8%AF%9D%E5%85%A8%E6%A5%BC%E5%85%B3%E7%A9%BA%E8%B0%83&sa=fyb_news"
+          "url": "https://www.thepaper.cn/newsDetail_forward_33777855"
         }
       ],
       "summary": "",
-      "url": "https://www.toutiao.com/trending/7673436100526424115/"
+      "url": "https://www.thepaper.cn/newsDetail_forward_33777855"
+    },
+    {
+      "id": "evt-60000000",
+      "title": "《江泽民》第6集《统筹全局》",
+      "category": "society",
+      "hotScore": 0.8075,
+      "freshness": 1,
+      "crossSource": 0.6309,
+      "totalScore": 0.8123,
+      "sources": [
+        {
+          "channel": "thepaper",
+          "rank": 2,
+          "hot": 0,
+          "url": "https://www.thepaper.cn/newsDetail_forward_33778063"
+        }
+      ],
+      "summary": "",
+      "url": "https://www.thepaper.cn/newsDetail_forward_33778063"
     },
     {
       "id": "evt-deepseek8",
@@ -111,15 +124,15 @@
       "id": "evt-ipo00000",
       "title": "史上最大IPO或将易主",
       "category": "society",
-      "hotScore": 0.5525,
+      "hotScore": 0.595,
       "freshness": 1,
       "crossSource": 0.6309,
-      "totalScore": 0.7103,
+      "totalScore": 0.7273,
       "sources": [
         {
           "channel": "toutiao",
-          "rank": 8,
-          "hot": 4598969,
+          "rank": 7,
+          "hot": 5333664,
           "url": "https://www.toutiao.com/trending/7673140928302940196/"
         }
       ],
@@ -128,26 +141,26 @@
     },
     {
       "id": "evt-70000000",
-      "title": "7月报告新增新冠确诊病例52.2万例",
+      "title": "考生中考700分放弃重点高中读职校",
       "category": "society",
-      "hotScore": 0.52,
+      "hotScore": 0.51,
       "freshness": 1,
       "crossSource": 0.6309,
-      "totalScore": 0.6973,
+      "totalScore": 0.6933,
       "sources": [
         {
-          "channel": "baidu",
-          "rank": 8,
-          "hot": 0,
-          "url": "https://m.baidu.com/s?word=7%E6%9C%88%E6%8A%A5%E5%91%8A%E6%96%B0%E5%A2%9E%E6%96%B0%E5%86%A0%E7%A1%AE%E8%AF%8A%E7%97%85%E4%BE%8B52.2%E4%B8%87%E4%BE%8B&sa=fyb_news"
+          "channel": "toutiao",
+          "rank": 9,
+          "hot": 4366835,
+          "url": "https://www.toutiao.com/trending/7672305915246444553/"
         }
       ],
       "summary": "",
-      "url": "https://m.baidu.com/s?word=7%E6%9C%88%E6%8A%A5%E5%91%8A%E6%96%B0%E5%A2%9E%E6%96%B0%E5%86%A0%E7%A1%AE%E8%AF%8A%E7%97%85%E4%BE%8B52.2%E4%B8%87%E4%BE%8B&sa=fyb_news"
+      "url": "https://www.toutiao.com/trending/7672305915246444553/"
     },
     {
-      "id": "evt-deepseekh",
-      "title": "怎么看 DeepSeek  Harness 正式开源，采用一切皆插件的架构？",
+      "id": "evt-jeep0000",
+      "title": "铃木、雷诺、 Jeep 、三菱退出中国市场，如今雪佛兰也退出中国市场，说明了什么？",
       "category": "society",
       "hotScore": 0.4875,
       "freshness": 1,
