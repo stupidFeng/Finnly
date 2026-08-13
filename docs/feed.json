@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-08-13T01:04:05.657Z",
+  "generatedAt": "2026-08-13T03:59:55.430Z",
   "fields": {
     "society": "社会",
     "economy": "经济",
@@ -18,7 +18,7 @@
         {
           "channel": "toutiao",
           "rank": 1,
-          "hot": 59106433,
+          "hot": 71621917,
           "url": "https://www.toutiao.com/trending/7672219414749793835/"
         },
         {
@@ -30,25 +30,6 @@
       ],
       "summary": "",
       "url": "https://www.toutiao.com/trending/7672219414749793835/"
-    },
-    {
-      "id": "evt-c9190000",
-      "title": "视频丨C919国产大飞机正式执飞国际商业航线",
-      "category": "society",
-      "hotScore": 0.7225,
-      "freshness": 1,
-      "crossSource": 0.6309,
-      "totalScore": 0.7783,
-      "sources": [
-        {
-          "channel": "thepaper",
-          "rank": 4,
-          "hot": 0,
-          "url": "https://www.thepaper.cn/newsDetail_forward_33765803"
-        }
-      ],
-      "summary": "",
-      "url": "https://www.thepaper.cn/newsDetail_forward_33765803"
     },
     {
       "id": "evt-deepseekv4pr",
@@ -70,46 +51,27 @@
       "url": ""
     },
     {
-      "id": "evt-13500000",
-      "title": "135家私募打新宇树科技获配：头部量化扎堆入围 ，梁文锋旗下幻方、九章拿下私募最大份额",
+      "id": "evt-51000000",
+      "title": "5年10万亿元消费增量目标怎样实现",
       "category": "society",
-      "hotScore": 0.6375,
+      "hotScore": 0.68,
       "freshness": 1,
       "crossSource": 0.6309,
-      "totalScore": 0.7443,
-      "sources": [
-        {
-          "channel": "thepaper",
-          "rank": 6,
-          "hot": 0,
-          "url": "https://www.thepaper.cn/newsDetail_forward_33764096"
-        }
-      ],
-      "summary": "",
-      "url": "https://www.thepaper.cn/newsDetail_forward_33764096"
-    },
-    {
-      "id": "evt-26200000",
-      "title": "浙江一公司收到美国2.62亿元关税退税",
-      "category": "economy",
-      "hotScore": 0.44,
-      "freshness": 0.9999,
-      "crossSource": 0.6309,
-      "totalScore": 0.6653,
+      "totalScore": 0.7613,
       "sources": [
         {
           "channel": "baidu",
-          "rank": 10,
+          "rank": 4,
           "hot": 0,
-          "url": "https://m.baidu.com/s?word=%E6%B5%99%E6%B1%9F%E4%B8%80%E5%85%AC%E5%8F%B8%E6%94%B6%E5%88%B0%E7%BE%8E%E5%9B%BD2.62%E4%BA%BF%E5%85%83%E5%85%B3%E7%A8%8E%E9%80%80%E7%A8%8E&sa=fyb_news"
+          "url": "https://m.baidu.com/s?word=5%E5%B9%B410%E4%B8%87%E4%BA%BF%E5%85%83%E6%B6%88%E8%B4%B9%E5%A2%9E%E9%87%8F%E7%9B%AE%E6%A0%87%E6%80%8E%E6%A0%B7%E5%AE%9E%E7%8E%B0&sa=fyb_news"
         }
       ],
       "summary": "",
-      "url": "https://m.baidu.com/s?word=%E6%B5%99%E6%B1%9F%E4%B8%80%E5%85%AC%E5%8F%B8%E6%94%B6%E5%88%B0%E7%BE%8E%E5%9B%BD2.62%E4%BA%BF%E5%85%83%E5%85%B3%E7%A8%8E%E9%80%80%E7%A8%8E&sa=fyb_news"
+      "url": "https://m.baidu.com/s?word=5%E5%B9%B410%E4%B8%87%E4%BA%BF%E5%85%83%E6%B6%88%E8%B4%B9%E5%A2%9E%E9%87%8F%E7%9B%AE%E6%A0%87%E6%80%8E%E6%A0%B7%E5%AE%9E%E7%8E%B0&sa=fyb_news"
     },
     {
-      "id": "evt-7su72100",
-      "title": "7 月小米 SU7 销量 21,044 辆，连续 4 个月位列 20 万以上轿车销量第一，如何评价？",
+      "id": "evt-20000000",
+      "title": "男子双腿被绞断 20个月后恢复行走",
       "category": "society",
       "hotScore": 0.6,
       "freshness": 1,
@@ -117,65 +79,27 @@
       "totalScore": 0.7293,
       "sources": [
         {
-          "channel": "zhihu",
-          "rank": 5,
-          "hot": 0,
-          "url": ""
-        }
-      ],
-      "summary": "",
-      "url": ""
-    },
-    {
-      "id": "evt-19940000",
-      "title": "郭兰英1994年将演唱版权无偿捐国家",
-      "category": "society",
-      "hotScore": 0.595,
-      "freshness": 0.9999,
-      "crossSource": 0.6309,
-      "totalScore": 0.7273,
-      "sources": [
-        {
-          "channel": "toutiao",
-          "rank": 7,
-          "hot": 32438298,
-          "url": "https://www.toutiao.com/trending/7672949387655400998/"
-        }
-      ],
-      "summary": "",
-      "url": "https://www.toutiao.com/trending/7672949387655400998/"
-    },
-    {
-      "id": "evt-deepseek",
-      "title": "DeepSeek重磅更新 V4Pro正式版上线",
-      "category": "society",
-      "hotScore": 0.56,
-      "freshness": 0.9999,
-      "crossSource": 0.6309,
-      "totalScore": 0.7133,
-      "sources": [
-        {
           "channel": "baidu",
-          "rank": 7,
+          "rank": 6,
           "hot": 0,
-          "url": "https://m.baidu.com/s?word=DeepSeek%E9%87%8D%E7%A3%85%E6%9B%B4%E6%96%B0+V4Pro%E6%AD%A3%E5%BC%8F%E7%89%88%E4%B8%8A%E7%BA%BF&sa=fyb_news"
+          "url": "https://m.baidu.com/s?word=%E7%94%B7%E5%AD%90%E5%8F%8C%E8%85%BF%E8%A2%AB%E7%BB%9E%E6%96%AD+20%E4%B8%AA%E6%9C%88%E5%90%8E%E6%81%A2%E5%A4%8D%E8%A1%8C%E8%B5%B0&sa=fyb_news"
         }
       ],
       "summary": "",
-      "url": "https://m.baidu.com/s?word=DeepSeek%E9%87%8D%E7%A3%85%E6%9B%B4%E6%96%B0+V4Pro%E6%AD%A3%E5%BC%8F%E7%89%88%E4%B8%8A%E7%BA%BF&sa=fyb_news"
+      "url": "https://m.baidu.com/s?word=%E7%94%B7%E5%AD%90%E5%8F%8C%E8%85%BF%E8%A2%AB%E7%BB%9E%E6%96%AD+20%E4%B8%AA%E6%9C%88%E5%90%8E%E6%81%A2%E5%A4%8D%E8%A1%8C%E8%B5%B0&sa=fyb_news"
     },
     {
       "id": "evt-10000000",
       "title": "连续两个月突破100万辆，我国汽车出口延续强劲增长态势",
       "category": "society",
-      "hotScore": 0.51,
+      "hotScore": 0.595,
       "freshness": 1,
       "crossSource": 0.6309,
-      "totalScore": 0.6933,
+      "totalScore": 0.7273,
       "sources": [
         {
           "channel": "thepaper",
-          "rank": 9,
+          "rank": 7,
           "hot": 0,
           "url": "https://www.thepaper.cn/newsDetail_forward_33767366"
         }
@@ -184,23 +108,61 @@
       "url": "https://www.thepaper.cn/newsDetail_forward_33767366"
     },
     {
-      "id": "evt-12000000",
-      "title": "如何看待媒体曝沃尔特 120 亿美元出售湖人，创历史记录？",
+      "id": "evt-34000000",
+      "title": "3万全款买40平房是机会还是坑",
       "category": "society",
-      "hotScore": 0.45,
-      "freshness": 1,
+      "hotScore": 0.5525,
+      "freshness": 0.9999,
       "crossSource": 0.6309,
-      "totalScore": 0.6693,
+      "totalScore": 0.7103,
       "sources": [
         {
-          "channel": "zhihu",
-          "rank": 9,
-          "hot": 0,
-          "url": ""
+          "channel": "toutiao",
+          "rank": 8,
+          "hot": 35566391,
+          "url": "https://www.toutiao.com/trending/7673166892105731594/"
         }
       ],
       "summary": "",
-      "url": ""
+      "url": "https://www.toutiao.com/trending/7673166892105731594/"
+    },
+    {
+      "id": "evt-i0000000",
+      "title": "海底捞终于原谅i人了",
+      "category": "society",
+      "hotScore": 0.52,
+      "freshness": 1,
+      "crossSource": 0.6309,
+      "totalScore": 0.6973,
+      "sources": [
+        {
+          "channel": "baidu",
+          "rank": 8,
+          "hot": 0,
+          "url": "https://m.baidu.com/s?word=%E6%B5%B7%E5%BA%95%E6%8D%9E%E7%BB%88%E4%BA%8E%E5%8E%9F%E8%B0%85i%E4%BA%BA%E4%BA%86&sa=fyb_news"
+        }
+      ],
+      "summary": "",
+      "url": "https://m.baidu.com/s?word=%E6%B5%B7%E5%BA%95%E6%8D%9E%E7%BB%88%E4%BA%8E%E5%8E%9F%E8%B0%85i%E4%BA%BA%E4%BA%86&sa=fyb_news"
+    },
+    {
+      "id": "evt-17200000",
+      "title": "17岁少年徒步失联超2月 事发地有野兽",
+      "category": "society",
+      "hotScore": 0.44,
+      "freshness": 1,
+      "crossSource": 0.6309,
+      "totalScore": 0.6653,
+      "sources": [
+        {
+          "channel": "baidu",
+          "rank": 10,
+          "hot": 0,
+          "url": "https://m.baidu.com/s?word=17%E5%B2%81%E5%B0%91%E5%B9%B4%E5%BE%92%E6%AD%A5%E5%A4%B1%E8%81%94%E8%B6%852%E6%9C%88+%E4%BA%8B%E5%8F%91%E5%9C%B0%E6%9C%89%E9%87%8E%E5%85%BD&sa=fyb_news"
+        }
+      ],
+      "summary": "",
+      "url": "https://m.baidu.com/s?word=17%E5%B2%81%E5%B0%91%E5%B9%B4%E5%BE%92%E6%AD%A5%E5%A4%B1%E8%81%94%E8%B6%852%E6%9C%88+%E4%BA%8B%E5%8F%91%E5%9C%B0%E6%9C%89%E9%87%8E%E5%85%BD&sa=fyb_news"
     }
   ]
 }
