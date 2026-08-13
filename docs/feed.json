@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-08-12T22:29:34.231Z",
+  "generatedAt": "2026-08-13T01:04:05.657Z",
   "fields": {
     "society": "社会",
     "economy": "经济",
@@ -18,7 +18,7 @@
         {
           "channel": "toutiao",
           "rank": 1,
-          "hot": 49756678,
+          "hot": 59106433,
           "url": "https://www.toutiao.com/trending/7672219414749793835/"
         },
         {
@@ -51,8 +51,8 @@
       "url": "https://www.thepaper.cn/newsDetail_forward_33765803"
     },
     {
-      "id": "evt-deepseekpro",
-      "title": "DeepSeek Pro 正式版已经发布，如何评价该模型？",
+      "id": "evt-deepseekv4pr",
+      "title": "DeepSeek V4 Pro 正式版发布，如何评价该模型？",
       "category": "society",
       "hotScore": 0.7125,
       "freshness": 1,
@@ -70,55 +70,17 @@
       "url": ""
     },
     {
-      "id": "evt-32700000",
-      "title": "上半年全国结婚登记327.5万对",
-      "category": "society",
-      "hotScore": 0.6375,
-      "freshness": 0.9999,
-      "crossSource": 0.6309,
-      "totalScore": 0.7443,
-      "sources": [
-        {
-          "channel": "toutiao",
-          "rank": 6,
-          "hot": 30178950,
-          "url": "https://www.toutiao.com/trending/7672315775647432723/"
-        }
-      ],
-      "summary": "",
-      "url": "https://www.toutiao.com/trending/7672315775647432723/"
-    },
-    {
-      "id": "evt-7su72100",
-      "title": "7 月小米 SU7 销量 21,044 辆，连续 4 个月位列 20 万以上轿车销量第一，如何评价？",
-      "category": "society",
-      "hotScore": 0.6375,
-      "freshness": 1,
-      "crossSource": 0.6309,
-      "totalScore": 0.7443,
-      "sources": [
-        {
-          "channel": "zhihu",
-          "rank": 4,
-          "hot": 0,
-          "url": ""
-        }
-      ],
-      "summary": "",
-      "url": ""
-    },
-    {
       "id": "evt-13500000",
       "title": "135家私募打新宇树科技获配：头部量化扎堆入围 ，梁文锋旗下幻方、九章拿下私募最大份额",
       "category": "society",
-      "hotScore": 0.595,
+      "hotScore": 0.6375,
       "freshness": 1,
       "crossSource": 0.6309,
-      "totalScore": 0.7273,
+      "totalScore": 0.7443,
       "sources": [
         {
           "channel": "thepaper",
-          "rank": 7,
+          "rank": 6,
           "hot": 0,
           "url": "https://www.thepaper.cn/newsDetail_forward_33764096"
         }
@@ -127,17 +89,36 @@
       "url": "https://www.thepaper.cn/newsDetail_forward_33764096"
     },
     {
-      "id": "evt-12000000",
-      "title": "如何看待媒体曝沃尔特 120 亿美元出售湖人，创历史记录？",
+      "id": "evt-26200000",
+      "title": "浙江一公司收到美国2.62亿元关税退税",
+      "category": "economy",
+      "hotScore": 0.44,
+      "freshness": 0.9999,
+      "crossSource": 0.6309,
+      "totalScore": 0.6653,
+      "sources": [
+        {
+          "channel": "baidu",
+          "rank": 10,
+          "hot": 0,
+          "url": "https://m.baidu.com/s?word=%E6%B5%99%E6%B1%9F%E4%B8%80%E5%85%AC%E5%8F%B8%E6%94%B6%E5%88%B0%E7%BE%8E%E5%9B%BD2.62%E4%BA%BF%E5%85%83%E5%85%B3%E7%A8%8E%E9%80%80%E7%A8%8E&sa=fyb_news"
+        }
+      ],
+      "summary": "",
+      "url": "https://m.baidu.com/s?word=%E6%B5%99%E6%B1%9F%E4%B8%80%E5%85%AC%E5%8F%B8%E6%94%B6%E5%88%B0%E7%BE%8E%E5%9B%BD2.62%E4%BA%BF%E5%85%83%E5%85%B3%E7%A8%8E%E9%80%80%E7%A8%8E&sa=fyb_news"
+    },
+    {
+      "id": "evt-7su72100",
+      "title": "7 月小米 SU7 销量 21,044 辆，连续 4 个月位列 20 万以上轿车销量第一，如何评价？",
       "category": "society",
-      "hotScore": 0.5625,
+      "hotScore": 0.6,
       "freshness": 1,
       "crossSource": 0.6309,
-      "totalScore": 0.7143,
+      "totalScore": 0.7293,
       "sources": [
         {
           "channel": "zhihu",
-          "rank": 6,
+          "rank": 5,
           "hot": 0,
           "url": ""
         }
@@ -146,42 +127,80 @@
       "url": ""
     },
     {
-      "id": "evt-73100000",
-      "title": "731原队员证实日军曾在中国埋毒气弹",
+      "id": "evt-19940000",
+      "title": "郭兰英1994年将演唱版权无偿捐国家",
       "category": "society",
-      "hotScore": 0.52,
-      "freshness": 1,
+      "hotScore": 0.595,
+      "freshness": 0.9999,
       "crossSource": 0.6309,
-      "totalScore": 0.6973,
+      "totalScore": 0.7273,
       "sources": [
         {
-          "channel": "baidu",
-          "rank": 8,
-          "hot": 0,
-          "url": "https://m.baidu.com/s?word=731%E5%8E%9F%E9%98%9F%E5%91%98%E8%AF%81%E5%AE%9E%E6%97%A5%E5%86%9B%E6%9B%BE%E5%9C%A8%E4%B8%AD%E5%9B%BD%E5%9F%8B%E6%AF%92%E6%B0%94%E5%BC%B9&sa=fyb_news"
+          "channel": "toutiao",
+          "rank": 7,
+          "hot": 32438298,
+          "url": "https://www.toutiao.com/trending/7672949387655400998/"
         }
       ],
       "summary": "",
-      "url": "https://m.baidu.com/s?word=731%E5%8E%9F%E9%98%9F%E5%91%98%E8%AF%81%E5%AE%9E%E6%97%A5%E5%86%9B%E6%9B%BE%E5%9C%A8%E4%B8%AD%E5%9B%BD%E5%9F%8B%E6%AF%92%E6%B0%94%E5%BC%B9&sa=fyb_news"
+      "url": "https://www.toutiao.com/trending/7672949387655400998/"
+    },
+    {
+      "id": "evt-deepseek",
+      "title": "DeepSeek重磅更新 V4Pro正式版上线",
+      "category": "society",
+      "hotScore": 0.56,
+      "freshness": 0.9999,
+      "crossSource": 0.6309,
+      "totalScore": 0.7133,
+      "sources": [
+        {
+          "channel": "baidu",
+          "rank": 7,
+          "hot": 0,
+          "url": "https://m.baidu.com/s?word=DeepSeek%E9%87%8D%E7%A3%85%E6%9B%B4%E6%96%B0+V4Pro%E6%AD%A3%E5%BC%8F%E7%89%88%E4%B8%8A%E7%BA%BF&sa=fyb_news"
+        }
+      ],
+      "summary": "",
+      "url": "https://m.baidu.com/s?word=DeepSeek%E9%87%8D%E7%A3%85%E6%9B%B4%E6%96%B0+V4Pro%E6%AD%A3%E5%BC%8F%E7%89%88%E4%B8%8A%E7%BA%BF&sa=fyb_news"
     },
     {
       "id": "evt-10000000",
       "title": "连续两个月突破100万辆，我国汽车出口延续强劲增长态势",
       "category": "society",
-      "hotScore": 0.4675,
+      "hotScore": 0.51,
       "freshness": 1,
       "crossSource": 0.6309,
-      "totalScore": 0.6763,
+      "totalScore": 0.6933,
       "sources": [
         {
           "channel": "thepaper",
-          "rank": 10,
+          "rank": 9,
           "hot": 0,
           "url": "https://www.thepaper.cn/newsDetail_forward_33767366"
         }
       ],
       "summary": "",
       "url": "https://www.thepaper.cn/newsDetail_forward_33767366"
+    },
+    {
+      "id": "evt-12000000",
+      "title": "如何看待媒体曝沃尔特 120 亿美元出售湖人，创历史记录？",
+      "category": "society",
+      "hotScore": 0.45,
+      "freshness": 1,
+      "crossSource": 0.6309,
+      "totalScore": 0.6693,
+      "sources": [
+        {
+          "channel": "zhihu",
+          "rank": 9,
+          "hot": 0,
+          "url": ""
+        }
+      ],
+      "summary": "",
+      "url": ""
     }
   ]
 }
