@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-08-13T14:49:53.703Z",
+  "generatedAt": "2026-08-13T16:44:13.132Z",
   "fields": {
     "society": "社会",
     "economy": "经济",
@@ -18,7 +18,7 @@
         {
           "channel": "toutiao",
           "rank": 1,
-          "hot": 8139217,
+          "hot": 8832207,
           "url": "https://www.toutiao.com/trending/7673074360797839366/"
         }
       ],
@@ -26,49 +26,11 @@
       "url": "https://www.toutiao.com/trending/7673074360797839366/"
     },
     {
-      "id": "evt-40000000",
-      "title": "《江泽民》第4集《重大突破》",
-      "category": "society",
-      "hotScore": 0.85,
-      "freshness": 1,
-      "crossSource": 0.6309,
-      "totalScore": 0.8293,
-      "sources": [
-        {
-          "channel": "thepaper",
-          "rank": 1,
-          "hot": 0,
-          "url": "https://www.thepaper.cn/newsDetail_forward_33770776"
-        }
-      ],
-      "summary": "",
-      "url": "https://www.thepaper.cn/newsDetail_forward_33770776"
-    },
-    {
-      "id": "evt-30000000",
-      "title": "《江泽民》第3集《临危受命》",
-      "category": "society",
-      "hotScore": 0.8075,
-      "freshness": 1,
-      "crossSource": 0.6309,
-      "totalScore": 0.8123,
-      "sources": [
-        {
-          "channel": "thepaper",
-          "rank": 2,
-          "hot": 0,
-          "url": "https://www.thepaper.cn/newsDetail_forward_33770623"
-        }
-      ],
-      "summary": "",
-      "url": "https://www.thepaper.cn/newsDetail_forward_33770623"
-    },
-    {
-      "id": "evt-18000000",
-      "title": "梁文锋打新宇树科技 1.8 亿获配 120 万股，账面浮盈或超 7.04 亿元，怎样解读他的这一布局？",
+      "id": "evt-deepseek8",
+      "title": "怎么看 DeepSeek 8 月 17 日涨价后的价格，这个峰谷定价你接受吗？",
       "category": "society",
       "hotScore": 0.75,
-      "freshness": 0.9999,
+      "freshness": 1,
       "crossSource": 0.6309,
       "totalScore": 0.7893,
       "sources": [
@@ -83,17 +45,17 @@
       "url": ""
     },
     {
-      "id": "evt-20268100",
-      "title": "如何看待 2026 年 8 月 13 日 A 股市场行情？跳空高开尾盘却突发跳水，发生了什么？",
-      "category": "economy",
-      "hotScore": 0.5625,
-      "freshness": 0.9999,
+      "id": "evt-45000000",
+      "title": "45 岁邹市明宣布年底重返拳击赛场，怎样看待他的决定？他的复出能解决目前的财务困境吗？",
+      "category": "society",
+      "hotScore": 0.7125,
+      "freshness": 1,
       "crossSource": 0.6309,
-      "totalScore": 0.7143,
+      "totalScore": 0.7743,
       "sources": [
         {
           "channel": "zhihu",
-          "rank": 6,
+          "rank": 2,
           "hot": 0,
           "url": ""
         }
@@ -102,74 +64,11 @@
       "url": ""
     },
     {
-      "id": "evt-max00000",
-      "title": "比亚迪秦MAX上市",
-      "category": "economy",
-      "hotScore": 0.5525,
-      "freshness": 0.9999,
-      "crossSource": 0.6309,
-      "totalScore": 0.7103,
-      "sources": [
-        {
-          "channel": "toutiao",
-          "rank": 8,
-          "hot": 4041815,
-          "url": "https://www.toutiao.com/trending/7673470363653341225/"
-        }
-      ],
-      "summary": "",
-      "url": "https://www.toutiao.com/trending/7673470363653341225/"
-    },
-    {
-      "id": "evt-87340000",
-      "title": "宇树科技遭弃购8734股",
-      "category": "society",
-      "hotScore": 0.4675,
-      "freshness": 0.9999,
-      "crossSource": 1,
-      "totalScore": 0.787,
-      "sources": [
-        {
-          "channel": "toutiao",
-          "rank": 10,
-          "hot": 3309158,
-          "url": "https://www.toutiao.com/trending/7673094694310805555/"
-        },
-        {
-          "channel": "baidu",
-          "rank": 15,
-          "hot": 0,
-          "url": "https://m.baidu.com/s?word=%E5%AE%87%E6%A0%91%E7%A7%91%E6%8A%80%E9%81%AD%E5%BC%83%E8%B4%AD8734%E8%82%A1&sa=fyb_news"
-        }
-      ],
-      "summary": "",
-      "url": "https://www.toutiao.com/trending/7673094694310805555/"
-    },
-    {
-      "id": "evt-50000000",
-      "title": "亏50万股民借钱缴款中签宇树",
-      "category": "society",
-      "hotScore": 0.72,
-      "freshness": 0.9999,
-      "crossSource": 0.6309,
-      "totalScore": 0.7773,
-      "sources": [
-        {
-          "channel": "baidu",
-          "rank": 3,
-          "hot": 0,
-          "url": "https://m.baidu.com/s?word=%E4%BA%8F50%E4%B8%87%E8%82%A1%E6%B0%91%E5%80%9F%E9%92%B1%E7%BC%B4%E6%AC%BE%E4%B8%AD%E7%AD%BE%E5%AE%87%E6%A0%91&sa=fyb_news"
-        }
-      ],
-      "summary": "",
-      "url": "https://m.baidu.com/s?word=%E4%BA%8F50%E4%B8%87%E8%82%A1%E6%B0%91%E5%80%9F%E9%92%B1%E7%BC%B4%E6%AC%BE%E4%B8%AD%E7%AD%BE%E5%AE%87%E6%A0%91&sa=fyb_news"
-    },
-    {
-      "id": "evt-45000000",
-      "title": "45 岁邹市明宣布年底重返拳击赛场，怎样看待他的决定？他的复出能解决目前的财务困境吗？",
+      "id": "evt-81300000",
+      "title": "如何评价在 8 月 13 日发布的 DeepSeek Harness？",
       "category": "society",
       "hotScore": 0.675,
-      "freshness": 0.9999,
+      "freshness": 1,
       "crossSource": 0.6309,
       "totalScore": 0.7593,
       "sources": [
@@ -184,27 +83,27 @@
       "url": ""
     },
     {
-      "id": "evt-ipo00000",
-      "title": "史上最大IPO或将易主",
-      "category": "society",
-      "hotScore": 0.64,
+      "id": "evt-max00000",
+      "title": "比亚迪秦MAX上市",
+      "category": "economy",
+      "hotScore": 0.595,
       "freshness": 0.9999,
       "crossSource": 0.6309,
-      "totalScore": 0.7453,
+      "totalScore": 0.7273,
       "sources": [
         {
-          "channel": "baidu",
-          "rank": 5,
-          "hot": 0,
-          "url": "https://m.baidu.com/s?word=%E5%8F%B2%E4%B8%8A%E6%9C%80%E5%A4%A7IPO%E6%88%96%E5%B0%86%E6%98%93%E4%B8%BB&sa=fyb_news"
+          "channel": "toutiao",
+          "rank": 7,
+          "hot": 4847218,
+          "url": "https://www.toutiao.com/trending/7673470363653341225/"
         }
       ],
       "summary": "",
-      "url": "https://m.baidu.com/s?word=%E5%8F%B2%E4%B8%8A%E6%9C%80%E5%A4%A7IPO%E6%88%96%E5%B0%86%E6%98%93%E4%B8%BB&sa=fyb_news"
+      "url": "https://www.toutiao.com/trending/7673470363653341225/"
     },
     {
-      "id": "evt-28000000",
-      "title": "28岁快递员突发大面积脑梗死",
+      "id": "evt-70000000",
+      "title": "成都700名师生家长“家门口追星”",
       "category": "society",
       "hotScore": 0.6375,
       "freshness": 0.9999,
@@ -214,25 +113,25 @@
         {
           "channel": "toutiao",
           "rank": 6,
-          "hot": 4936684,
-          "url": "https://www.toutiao.com/trending/7673087242285498378/"
+          "hot": 5357004,
+          "url": "https://www.toutiao.com/trending/7673504132562010155/"
         }
       ],
       "summary": "",
-      "url": "https://www.toutiao.com/trending/7673087242285498378/"
+      "url": "https://www.toutiao.com/trending/7673504132562010155/"
     },
     {
-      "id": "evt-wto00000",
-      "title": "当年为加入 WTO 做出的让步，今天看来到底有多值？",
+      "id": "evt-18000000",
+      "title": "梁文锋打新宇树科技 1.8 亿获配 120 万股，账面浮盈或超 7.04 亿元，怎样解读他的这一布局？",
       "category": "society",
-      "hotScore": 0.6375,
-      "freshness": 0.9999,
+      "hotScore": 0.6,
+      "freshness": 1,
       "crossSource": 0.6309,
-      "totalScore": 0.7443,
+      "totalScore": 0.7293,
       "sources": [
         {
           "channel": "zhihu",
-          "rank": 4,
+          "rank": 5,
           "hot": 0,
           "url": ""
         }
@@ -241,30 +140,74 @@
       "url": ""
     },
     {
-      "id": "evt-70000000",
-      "title": "暴雨过后这7类食物一口都别碰",
+      "id": "evt-39000000",
+      "title": "39度高温管家喊话全楼关空调",
       "category": "society",
-      "hotScore": 0.52,
+      "hotScore": 0.32,
       "freshness": 0.9999,
-      "crossSource": 0.6309,
-      "totalScore": 0.6973,
+      "crossSource": 1,
+      "totalScore": 0.728,
       "sources": [
         {
+          "channel": "toutiao",
+          "rank": 14,
+          "hot": 2407057,
+          "url": "https://www.toutiao.com/trending/7673436100526424115/"
+        },
+        {
           "channel": "baidu",
-          "rank": 8,
+          "rank": 13,
           "hot": 0,
-          "url": "https://m.baidu.com/s?word=%E6%9A%B4%E9%9B%A8%E8%BF%87%E5%90%8E%E8%BF%997%E7%B1%BB%E9%A3%9F%E7%89%A9%E4%B8%80%E5%8F%A3%E9%83%BD%E5%88%AB%E7%A2%B0&sa=fyb_news"
+          "url": "https://m.baidu.com/s?word=39%E5%BA%A6%E9%AB%98%E6%B8%A9%E7%AE%A1%E5%AE%B6%E5%96%8A%E8%AF%9D%E5%85%A8%E6%A5%BC%E5%85%B3%E7%A9%BA%E8%B0%83&sa=fyb_news"
         }
       ],
       "summary": "",
-      "url": "https://m.baidu.com/s?word=%E6%9A%B4%E9%9B%A8%E8%BF%87%E5%90%8E%E8%BF%997%E7%B1%BB%E9%A3%9F%E7%89%A9%E4%B8%80%E5%8F%A3%E9%83%BD%E5%88%AB%E7%A2%B0&sa=fyb_news"
+      "url": "https://www.toutiao.com/trending/7673436100526424115/"
     },
     {
-      "id": "evt-deepseek8",
-      "title": "怎么看 DeepSeek 8 月 17 日涨价后的价格，这个峰谷定价你接受吗？",
+      "id": "evt-50000000",
+      "title": "亏50万股民借钱缴款中签宇树",
+      "category": "society",
+      "hotScore": 0.56,
+      "freshness": 1,
+      "crossSource": 0.6309,
+      "totalScore": 0.7133,
+      "sources": [
+        {
+          "channel": "baidu",
+          "rank": 7,
+          "hot": 0,
+          "url": "https://m.baidu.com/s?word=%E4%BA%8F50%E4%B8%87%E8%82%A1%E6%B0%91%E5%80%9F%E9%92%B1%E7%BC%B4%E6%AC%BE%E4%B8%AD%E7%AD%BE%E5%AE%87%E6%A0%91&sa=fyb_news"
+        }
+      ],
+      "summary": "",
+      "url": "https://m.baidu.com/s?word=%E4%BA%8F50%E4%B8%87%E8%82%A1%E6%B0%91%E5%80%9F%E9%92%B1%E7%BC%B4%E6%AC%BE%E4%B8%AD%E7%AD%BE%E5%AE%87%E6%A0%91&sa=fyb_news"
+    },
+    {
+      "id": "evt-wto00000",
+      "title": "当年为加入 WTO 做出的让步，今天看来到底有多值？",
+      "category": "society",
+      "hotScore": 0.525,
+      "freshness": 1,
+      "crossSource": 0.6309,
+      "totalScore": 0.6993,
+      "sources": [
+        {
+          "channel": "zhihu",
+          "rank": 7,
+          "hot": 0,
+          "url": ""
+        }
+      ],
+      "summary": "",
+      "url": ""
+    },
+    {
+      "id": "evt-10000000",
+      "title": "10 岁女孩每天「拼豆」三四小时，眼轴增长速度是正常的两倍，这对孩子视力的影响有多大？怎么缓解？",
       "category": "society",
       "hotScore": 0.45,
-      "freshness": 0.9999,
+      "freshness": 1,
       "crossSource": 0.6309,
       "totalScore": 0.6693,
       "sources": [
