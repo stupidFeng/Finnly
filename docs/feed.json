@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-08-13T03:59:55.430Z",
+  "generatedAt": "2026-08-13T05:41:44.988Z",
   "fields": {
     "society": "社会",
     "economy": "经济",
@@ -11,14 +11,14 @@
       "title": "朱镕基同志逝世",
       "category": "society",
       "hotScore": 0.85,
-      "freshness": 0.9999,
+      "freshness": 1,
       "crossSource": 1,
       "totalScore": 0.94,
       "sources": [
         {
           "channel": "toutiao",
           "rank": 1,
-          "hot": 71621917,
+          "hot": 78628259,
           "url": "https://www.toutiao.com/trending/7672219414749793835/"
         },
         {
@@ -70,25 +70,6 @@
       "url": "https://m.baidu.com/s?word=5%E5%B9%B410%E4%B8%87%E4%BA%BF%E5%85%83%E6%B6%88%E8%B4%B9%E5%A2%9E%E9%87%8F%E7%9B%AE%E6%A0%87%E6%80%8E%E6%A0%B7%E5%AE%9E%E7%8E%B0&sa=fyb_news"
     },
     {
-      "id": "evt-20000000",
-      "title": "男子双腿被绞断 20个月后恢复行走",
-      "category": "society",
-      "hotScore": 0.6,
-      "freshness": 1,
-      "crossSource": 0.6309,
-      "totalScore": 0.7293,
-      "sources": [
-        {
-          "channel": "baidu",
-          "rank": 6,
-          "hot": 0,
-          "url": "https://m.baidu.com/s?word=%E7%94%B7%E5%AD%90%E5%8F%8C%E8%85%BF%E8%A2%AB%E7%BB%9E%E6%96%AD+20%E4%B8%AA%E6%9C%88%E5%90%8E%E6%81%A2%E5%A4%8D%E8%A1%8C%E8%B5%B0&sa=fyb_news"
-        }
-      ],
-      "summary": "",
-      "url": "https://m.baidu.com/s?word=%E7%94%B7%E5%AD%90%E5%8F%8C%E8%85%BF%E8%A2%AB%E7%BB%9E%E6%96%AD+20%E4%B8%AA%E6%9C%88%E5%90%8E%E6%81%A2%E5%A4%8D%E8%A1%8C%E8%B5%B0&sa=fyb_news"
-    },
-    {
       "id": "evt-10000000",
       "title": "连续两个月突破100万辆，我国汽车出口延续强劲增长态势",
       "category": "society",
@@ -106,63 +87,6 @@
       ],
       "summary": "",
       "url": "https://www.thepaper.cn/newsDetail_forward_33767366"
-    },
-    {
-      "id": "evt-34000000",
-      "title": "3万全款买40平房是机会还是坑",
-      "category": "society",
-      "hotScore": 0.5525,
-      "freshness": 0.9999,
-      "crossSource": 0.6309,
-      "totalScore": 0.7103,
-      "sources": [
-        {
-          "channel": "toutiao",
-          "rank": 8,
-          "hot": 35566391,
-          "url": "https://www.toutiao.com/trending/7673166892105731594/"
-        }
-      ],
-      "summary": "",
-      "url": "https://www.toutiao.com/trending/7673166892105731594/"
-    },
-    {
-      "id": "evt-i0000000",
-      "title": "海底捞终于原谅i人了",
-      "category": "society",
-      "hotScore": 0.52,
-      "freshness": 1,
-      "crossSource": 0.6309,
-      "totalScore": 0.6973,
-      "sources": [
-        {
-          "channel": "baidu",
-          "rank": 8,
-          "hot": 0,
-          "url": "https://m.baidu.com/s?word=%E6%B5%B7%E5%BA%95%E6%8D%9E%E7%BB%88%E4%BA%8E%E5%8E%9F%E8%B0%85i%E4%BA%BA%E4%BA%86&sa=fyb_news"
-        }
-      ],
-      "summary": "",
-      "url": "https://m.baidu.com/s?word=%E6%B5%B7%E5%BA%95%E6%8D%9E%E7%BB%88%E4%BA%8E%E5%8E%9F%E8%B0%85i%E4%BA%BA%E4%BA%86&sa=fyb_news"
-    },
-    {
-      "id": "evt-17200000",
-      "title": "17岁少年徒步失联超2月 事发地有野兽",
-      "category": "society",
-      "hotScore": 0.44,
-      "freshness": 1,
-      "crossSource": 0.6309,
-      "totalScore": 0.6653,
-      "sources": [
-        {
-          "channel": "baidu",
-          "rank": 10,
-          "hot": 0,
-          "url": "https://m.baidu.com/s?word=17%E5%B2%81%E5%B0%91%E5%B9%B4%E5%BE%92%E6%AD%A5%E5%A4%B1%E8%81%94%E8%B6%852%E6%9C%88+%E4%BA%8B%E5%8F%91%E5%9C%B0%E6%9C%89%E9%87%8E%E5%85%BD&sa=fyb_news"
-        }
-      ],
-      "summary": "",
-      "url": "https://m.baidu.com/s?word=17%E5%B2%81%E5%B0%91%E5%B9%B4%E5%BE%92%E6%AD%A5%E5%A4%B1%E8%81%94%E8%B6%852%E6%9C%88+%E4%BA%8B%E5%8F%91%E5%9C%B0%E6%9C%89%E9%87%8E%E5%85%BD&sa=fyb_news"
     }
   ]
 }
