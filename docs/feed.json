@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-08-14T01:03:08.783Z",
+  "generatedAt": "2026-08-14T03:55:31.308Z",
   "fields": {
     "society": "社会",
     "economy": "经济",
@@ -8,7 +8,7 @@
   "feed": [
     {
       "id": "evt-00000000",
-      "title": "国内多晶硅市场连续两周无成交",
+      "title": "胖东来闭店一天整条街都没人出摊",
       "category": "society",
       "hotScore": 0.85,
       "freshness": 1,
@@ -18,12 +18,12 @@
         {
           "channel": "toutiao",
           "rank": 1,
-          "hot": 8013478,
-          "url": "https://www.toutiao.com/trending/7673453285441306675/"
+          "hot": 8155687,
+          "url": "https://www.toutiao.com/trending/7672658296595172927/"
         }
       ],
       "summary": "",
-      "url": "https://www.toutiao.com/trending/7673453285441306675/"
+      "url": "https://www.toutiao.com/trending/7672658296595172927/"
     },
     {
       "id": "evt-50000000",
@@ -64,8 +64,58 @@
       "url": "https://www.thepaper.cn/newsDetail_forward_33778063"
     },
     {
-      "id": "evt-17000000",
-      "title": "黄色预警！17省区市部分地区大到暴雨",
+      "id": "evt-95000000",
+      "title": "9岁姐姐带5岁弟弟雨中抢收车前草",
+      "category": "society",
+      "hotScore": 0.51,
+      "freshness": 1,
+      "crossSource": 1,
+      "totalScore": 0.804,
+      "sources": [
+        {
+          "channel": "toutiao",
+          "rank": 9,
+          "hot": 3664586,
+          "url": "https://www.toutiao.com/trending/7672897186086027302/"
+        },
+        {
+          "channel": "baidu",
+          "rank": 14,
+          "hot": 0,
+          "url": "https://m.baidu.com/s?word=9%E5%B2%81%E5%A7%90%E5%A7%90%E5%B8%A65%E5%B2%81%E5%BC%9F%E5%BC%9F%E9%9B%A8%E4%B8%AD%E6%8A%A2%E6%94%B6%E8%BD%A6%E5%89%8D%E8%8D%89&sa=fyb_news"
+        }
+      ],
+      "summary": "",
+      "url": "https://www.toutiao.com/trending/7672897186086027302/"
+    },
+    {
+      "id": "evt-97100000",
+      "title": "电影《牛来》上映9天票房7169元",
+      "category": "entertainment",
+      "hotScore": 0.72,
+      "freshness": 1,
+      "crossSource": 1,
+      "totalScore": 0.888,
+      "sources": [
+        {
+          "channel": "toutiao",
+          "rank": 6,
+          "hot": 4946674,
+          "url": "https://www.toutiao.com/trending/7673370504196685860/"
+        },
+        {
+          "channel": "baidu",
+          "rank": 3,
+          "hot": 0,
+          "url": "https://m.baidu.com/s?word=%E7%94%B5%E5%BD%B1%E3%80%8A%E7%89%9B%E6%9D%A5%E3%80%8B%E4%B8%8A%E6%98%A09%E5%A4%A9%E7%A5%A8%E6%88%BF7169%E5%85%83&sa=fyb_news"
+        }
+      ],
+      "summary": "",
+      "url": "https://www.toutiao.com/trending/7673370504196685860/"
+    },
+    {
+      "id": "evt-20000000",
+      "title": "一周2次道歉 浙江省博引争议",
       "category": "society",
       "hotScore": 0.76,
       "freshness": 1,
@@ -76,15 +126,15 @@
           "channel": "baidu",
           "rank": 2,
           "hot": 0,
-          "url": "https://m.baidu.com/s?word=%E9%BB%84%E8%89%B2%E9%A2%84%E8%AD%A6%EF%BC%8117%E7%9C%81%E5%8C%BA%E5%B8%82%E9%83%A8%E5%88%86%E5%9C%B0%E5%8C%BA%E5%A4%A7%E5%88%B0%E6%9A%B4%E9%9B%A8&sa=fyb_news"
+          "url": "https://m.baidu.com/s?word=%E4%B8%80%E5%91%A82%E6%AC%A1%E9%81%93%E6%AD%89+%E6%B5%99%E6%B1%9F%E7%9C%81%E5%8D%9A%E5%BC%95%E4%BA%89%E8%AE%AE&sa=fyb_news"
         }
       ],
       "summary": "",
-      "url": "https://m.baidu.com/s?word=%E9%BB%84%E8%89%B2%E9%A2%84%E8%AD%A6%EF%BC%8117%E7%9C%81%E5%8C%BA%E5%B8%82%E9%83%A8%E5%88%86%E5%9C%B0%E5%8C%BA%E5%A4%A7%E5%88%B0%E6%9A%B4%E9%9B%A8&sa=fyb_news"
+      "url": "https://m.baidu.com/s?word=%E4%B8%80%E5%91%A82%E6%AC%A1%E9%81%93%E6%AD%89+%E6%B5%99%E6%B1%9F%E7%9C%81%E5%8D%9A%E5%BC%95%E4%BA%89%E8%AE%AE&sa=fyb_news"
     },
     {
-      "id": "evt-81300000",
-      "title": "如何评价在 8 月 13 日发布的 DeepSeek Harness？",
+      "id": "evt-jeep0000",
+      "title": "铃木、雷诺、 Jeep 、三菱退出中国市场，如今雪佛兰也暂停在华新车销售，说明了什么？",
       "category": "society",
       "hotScore": 0.75,
       "freshness": 1,
@@ -102,8 +152,8 @@
       "url": ""
     },
     {
-      "id": "evt-deepseek",
-      "title": "为什么DeepSeek越涨价越是价格屠夫",
+      "id": "evt-75220000",
+      "title": "7月新增新冠确诊52.2万例 死亡1例",
       "category": "society",
       "hotScore": 0.7225,
       "freshness": 1,
@@ -113,16 +163,16 @@
         {
           "channel": "toutiao",
           "rank": 4,
-          "hot": 5936530,
-          "url": "https://www.toutiao.com/trending/7673637537293798953/"
+          "hot": 6041881,
+          "url": "https://www.toutiao.com/trending/7673677788989099583/"
         }
       ],
       "summary": "",
-      "url": "https://www.toutiao.com/trending/7673637537293798953/"
+      "url": "https://www.toutiao.com/trending/7673677788989099583/"
     },
     {
-      "id": "evt-deepseek8",
-      "title": "怎么看 DeepSeek 8 月 17 日涨价后的价格，这个峰谷定价你接受吗？",
+      "id": "evt-44000000",
+      "title": "如何看待 4 月 4 日清明出生、高考 444 分的考生被殡葬专业录取引发热议？殡葬专业真实就业前景如何？",
       "category": "society",
       "hotScore": 0.7125,
       "freshness": 1,
@@ -140,8 +190,8 @@
       "url": ""
     },
     {
-      "id": "evt-ipo00000",
-      "title": "史上最大IPO或将易主",
+      "id": "evt-30000000",
+      "title": "河南3地发生溃口",
       "category": "society",
       "hotScore": 0.68,
       "freshness": 1,
@@ -151,16 +201,16 @@
         {
           "channel": "toutiao",
           "rank": 5,
-          "hot": 5371595,
-          "url": "https://www.toutiao.com/trending/7673140928302940196/"
+          "hot": 5466920,
+          "url": "https://www.toutiao.com/trending/7673720112813182507/"
         }
       ],
       "summary": "",
-      "url": "https://www.toutiao.com/trending/7673140928302940196/"
+      "url": "https://www.toutiao.com/trending/7673720112813182507/"
     },
     {
-      "id": "evt-jeep0000",
-      "title": "铃木、雷诺、 Jeep 、三菱退出中国市场，如今雪佛兰也退出中国市场，说明了什么？",
+      "id": "evt-32000000",
+      "title": "亲戚 3200 卖给我的电脑，他说现在 2 手能卖 4000 多，能流畅运行生化危机 9 类型的游戏吗?",
       "category": "society",
       "hotScore": 0.675,
       "freshness": 1,
@@ -178,8 +228,8 @@
       "url": ""
     },
     {
-      "id": "evt-95000000",
-      "title": "9岁姐姐带5岁弟弟雨中抢收车前草",
+      "id": "evt-81300000",
+      "title": "如何评价在 8 月 13 日发布的 DeepSeek Harness？",
       "category": "society",
       "hotScore": 0.6375,
       "freshness": 1,
@@ -187,18 +237,18 @@
       "totalScore": 0.7443,
       "sources": [
         {
-          "channel": "toutiao",
-          "rank": 6,
-          "hot": 4860420,
-          "url": "https://www.toutiao.com/trending/7672897186086027302/"
+          "channel": "zhihu",
+          "rank": 4,
+          "hot": 0,
+          "url": ""
         }
       ],
       "summary": "",
-      "url": "https://www.toutiao.com/trending/7672897186086027302/"
+      "url": ""
     },
     {
-      "id": "evt-44000000",
-      "title": "如何看待 4 月 4 日清明出生、高考 444 分的考生被殡葬专业录取引发热议？殡葬专业真实就业前景如何？",
+      "id": "evt-17000000",
+      "title": "黄色预警！17省区市部分地区大到暴雨",
       "category": "society",
       "hotScore": 0.6,
       "freshness": 1,
@@ -206,90 +256,33 @@
       "totalScore": 0.7293,
       "sources": [
         {
-          "channel": "zhihu",
-          "rank": 5,
-          "hot": 0,
-          "url": ""
-        }
-      ],
-      "summary": "",
-      "url": ""
-    },
-    {
-      "id": "evt-13000000",
-      "title": "王艺迪/陈熠1-3不敌日本组合",
-      "category": "society",
-      "hotScore": 0.51,
-      "freshness": 1,
-      "crossSource": 0.6309,
-      "totalScore": 0.6933,
-      "sources": [
-        {
-          "channel": "toutiao",
-          "rank": 9,
-          "hot": 3600687,
-          "url": "https://www.toutiao.com/trending/7673667731744362027/"
-        }
-      ],
-      "summary": "",
-      "url": "https://www.toutiao.com/trending/7673667731744362027/"
-    },
-    {
-      "id": "evt-77200000",
-      "title": "如何评价《一人之下》第 772(826）话？",
-      "category": "society",
-      "hotScore": 0.4875,
-      "freshness": 1,
-      "crossSource": 0.6309,
-      "totalScore": 0.6843,
-      "sources": [
-        {
-          "channel": "zhihu",
-          "rank": 8,
-          "hot": 0,
-          "url": ""
-        }
-      ],
-      "summary": "",
-      "url": ""
-    },
-    {
-      "id": "evt-ti150000",
-      "title": "如何看待 TI15 首日中国战队 XG 、 VG 、 TR 状态不佳？有可能都在瑞士轮就被淘汰吗？",
-      "category": "society",
-      "hotScore": 0.45,
-      "freshness": 1,
-      "crossSource": 0.6309,
-      "totalScore": 0.6693,
-      "sources": [
-        {
-          "channel": "zhihu",
-          "rank": 9,
-          "hot": 0,
-          "url": ""
-        }
-      ],
-      "summary": "",
-      "url": ""
-    },
-    {
-      "id": "evt-39000000",
-      "title": "39度高温管家喊话全楼关空调",
-      "category": "society",
-      "hotScore": 0.44,
-      "freshness": 1,
-      "crossSource": 0.6309,
-      "totalScore": 0.6653,
-      "sources": [
-        {
           "channel": "baidu",
+          "rank": 6,
+          "hot": 0,
+          "url": "https://m.baidu.com/s?word=%E9%BB%84%E8%89%B2%E9%A2%84%E8%AD%A6%EF%BC%8117%E7%9C%81%E5%8C%BA%E5%B8%82%E9%83%A8%E5%88%86%E5%9C%B0%E5%8C%BA%E5%A4%A7%E5%88%B0%E6%9A%B4%E9%9B%A8&sa=fyb_news"
+        }
+      ],
+      "summary": "",
+      "url": "https://m.baidu.com/s?word=%E9%BB%84%E8%89%B2%E9%A2%84%E8%AD%A6%EF%BC%8117%E7%9C%81%E5%8C%BA%E5%B8%82%E9%83%A8%E5%88%86%E5%9C%B0%E5%8C%BA%E5%A4%A7%E5%88%B0%E6%9A%B4%E9%9B%A8&sa=fyb_news"
+    },
+    {
+      "id": "evt-27240000",
+      "title": "荐股骗局调查①丨2724人的炒股群除了自己全是托！骗子直播间设伏引流，假冒券商分析师上阵",
+      "category": "society",
+      "hotScore": 0.4675,
+      "freshness": 1,
+      "crossSource": 0.6309,
+      "totalScore": 0.6763,
+      "sources": [
+        {
+          "channel": "thepaper",
           "rank": 10,
           "hot": 0,
-          "url": "https://m.baidu.com/s?word=39%E5%BA%A6%E9%AB%98%E6%B8%A9%E7%AE%A1%E5%AE%B6%E5%96%8A%E8%AF%9D%E5%85%A8%E6%A5%BC%E5%85%B3%E7%A9%BA%E8%B0%83&sa=fyb_news"
+          "url": "https://www.thepaper.cn/newsDetail_forward_33694482"
         }
       ],
       "summary": "",
-      "url": "https://m.baidu.com/s?word=39%E5%BA%A6%E9%AB%98%E6%B8%A9%E7%AE%A1%E5%AE%B6%E5%96%8A%E8%AF%9D%E5%85%A8%E6%A5%BC%E5%85%B3%E7%A9%BA%E8%B0%83&sa=fyb_news"
+      "url": "https://www.thepaper.cn/newsDetail_forward_33694482"
     }
   ]
 }
