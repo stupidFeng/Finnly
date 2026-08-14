@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-08-14T05:24:48.727Z",
+  "generatedAt": "2026-08-14T07:07:58.246Z",
   "fields": {
     "society": "社会",
     "economy": "经济",
@@ -8,32 +8,7 @@
   "feed": [
     {
       "id": "evt-00000000",
-      "title": "河南多地堤坝溃口 直击封堵抢险",
-      "category": "society",
-      "hotScore": 0.68,
-      "freshness": 1,
-      "crossSource": 1,
-      "totalScore": 0.872,
-      "sources": [
-        {
-          "channel": "toutiao",
-          "rank": 5,
-          "hot": 5726443,
-          "url": "https://www.toutiao.com/trending/7672911942889131562/"
-        },
-        {
-          "channel": "baidu",
-          "rank": 7,
-          "hot": 0,
-          "url": "https://m.baidu.com/s?word=%E6%B2%B3%E5%8D%97%E5%A4%9A%E5%9C%B0%E5%A0%A4%E5%9D%9D%E6%BA%83%E5%8F%A3+%E7%9B%B4%E5%87%BB%E5%B0%81%E5%A0%B5%E6%8A%A2%E9%99%A9&sa=fyb_news"
-        }
-      ],
-      "summary": "",
-      "url": "https://www.toutiao.com/trending/7672911942889131562/"
-    },
-    {
-      "id": "evt-30000000",
-      "title": "河南3地发生溃口",
+      "title": "国乒男女双全军覆没",
       "category": "society",
       "hotScore": 0.85,
       "freshness": 1,
@@ -43,12 +18,12 @@
         {
           "channel": "toutiao",
           "rank": 1,
-          "hot": 8542849,
-          "url": "https://www.toutiao.com/trending/7673720112813182507/"
+          "hot": 7746690,
+          "url": "https://www.toutiao.com/trending/7673729998800293418/"
         }
       ],
       "summary": "",
-      "url": "https://www.toutiao.com/trending/7673720112813182507/"
+      "url": "https://www.toutiao.com/trending/7673729998800293418/"
     },
     {
       "id": "evt-50000000",
@@ -70,50 +45,6 @@
       "url": "https://www.thepaper.cn/newsDetail_forward_33777855"
     },
     {
-      "id": "evt-26000000",
-      "title": "广东河源发现翅展超26厘米蛇头蛾",
-      "category": "society",
-      "hotScore": 0.8075,
-      "freshness": 1,
-      "crossSource": 0.6309,
-      "totalScore": 0.8123,
-      "sources": [
-        {
-          "channel": "toutiao",
-          "rank": 2,
-          "hot": 7729889,
-          "url": "https://www.toutiao.com/trending/7673698236913696774/"
-        }
-      ],
-      "summary": "",
-      "url": "https://www.toutiao.com/trending/7673698236913696774/"
-    },
-    {
-      "id": "evt-97100000",
-      "title": "电影《牛来》上映9天票房7169元",
-      "category": "entertainment",
-      "hotScore": 0.76,
-      "freshness": 1,
-      "crossSource": 1,
-      "totalScore": 0.904,
-      "sources": [
-        {
-          "channel": "toutiao",
-          "rank": 13,
-          "hot": 2573056,
-          "url": "https://www.toutiao.com/trending/7673370504196685860/"
-        },
-        {
-          "channel": "baidu",
-          "rank": 2,
-          "hot": 0,
-          "url": "https://m.baidu.com/s?word=%E7%94%B5%E5%BD%B1%E3%80%8A%E7%89%9B%E6%9D%A5%E3%80%8B%E4%B8%8A%E6%98%A09%E5%A4%A9%E7%A5%A8%E6%88%BF7169%E5%85%83&sa=fyb_news"
-        }
-      ],
-      "summary": "",
-      "url": "https://www.toutiao.com/trending/7673370504196685860/"
-    },
-    {
       "id": "evt-60000000",
       "title": "《江泽民》第6集《统筹全局》",
       "category": "society",
@@ -133,27 +64,52 @@
       "url": "https://www.thepaper.cn/newsDetail_forward_33778063"
     },
     {
-      "id": "evt-32000000",
-      "title": "亲戚 3200 卖给我的电脑，他说现在 2 手能卖 4000 多，能流畅运行生化危机 9 类型的游戏吗?",
+      "id": "evt-26000000",
+      "title": "广东河源发现翅展超26厘米蛇头蛾",
       "category": "society",
-      "hotScore": 0.75,
+      "hotScore": 0.7225,
       "freshness": 1,
       "crossSource": 0.6309,
-      "totalScore": 0.7893,
+      "totalScore": 0.7783,
       "sources": [
         {
-          "channel": "zhihu",
-          "rank": 1,
-          "hot": 0,
-          "url": ""
+          "channel": "toutiao",
+          "rank": 4,
+          "hot": 5738889,
+          "url": "https://www.toutiao.com/trending/7673698236913696774/"
         }
       ],
       "summary": "",
-      "url": ""
+      "url": "https://www.toutiao.com/trending/7673698236913696774/"
     },
     {
-      "id": "evt-44000000",
-      "title": "如何看待 4 月 4 日清明出生、高考 444 分的考生被殡葬专业录取引发热议？殡葬专业真实就业前景如何？",
+      "id": "evt-97100000",
+      "title": "电影《牛来》上映9天票房7169元",
+      "category": "entertainment",
+      "hotScore": 0.76,
+      "freshness": 1,
+      "crossSource": 1,
+      "totalScore": 0.904,
+      "sources": [
+        {
+          "channel": "toutiao",
+          "rank": 7,
+          "hot": 4251473,
+          "url": "https://www.toutiao.com/trending/7673370504196685860/"
+        },
+        {
+          "channel": "baidu",
+          "rank": 2,
+          "hot": 0,
+          "url": "https://m.baidu.com/s?word=%E7%94%B5%E5%BD%B1%E3%80%8A%E7%89%9B%E6%9D%A5%E3%80%8B%E4%B8%8A%E6%98%A09%E5%A4%A9%E7%A5%A8%E6%88%BF7169%E5%85%83&sa=fyb_news"
+        }
+      ],
+      "summary": "",
+      "url": "https://www.toutiao.com/trending/7673370504196685860/"
+    },
+    {
+      "id": "evt-32000000",
+      "title": "亲戚 3200 卖给我的电脑，他说现在 2 手能卖 4000 多，能流畅运行生化危机 9 类型的游戏吗?",
       "category": "society",
       "hotScore": 0.7125,
       "freshness": 1,
@@ -174,14 +130,14 @@
       "id": "evt-deepseekv4",
       "title": "DeepSeek V4 大幅涨价后，现在谁才是你心中的大模型性价比之选？",
       "category": "society",
-      "hotScore": 0.6,
+      "hotScore": 0.675,
       "freshness": 1,
       "crossSource": 0.6309,
-      "totalScore": 0.7293,
+      "totalScore": 0.7593,
       "sources": [
         {
           "channel": "zhihu",
-          "rank": 5,
+          "rank": 3,
           "hot": 0,
           "url": ""
         }
@@ -190,42 +146,80 @@
       "url": ""
     },
     {
-      "id": "evt-75220000",
-      "title": "7月新增新冠确诊52.2万例 死亡1例",
+      "id": "evt-27240000",
+      "title": "2724人的炒股群除了自己全是托",
       "category": "society",
-      "hotScore": 0.595,
+      "hotScore": 0.64,
       "freshness": 1,
       "crossSource": 0.6309,
-      "totalScore": 0.7273,
+      "totalScore": 0.7453,
       "sources": [
         {
-          "channel": "toutiao",
-          "rank": 7,
-          "hot": 4688415,
-          "url": "https://www.toutiao.com/trending/7673677788989099583/"
+          "channel": "baidu",
+          "rank": 5,
+          "hot": 0,
+          "url": "https://m.baidu.com/s?word=2724%E4%BA%BA%E7%9A%84%E7%82%92%E8%82%A1%E7%BE%A4%E9%99%A4%E4%BA%86%E8%87%AA%E5%B7%B1%E5%85%A8%E6%98%AF%E6%89%98&sa=fyb_news"
         }
       ],
       "summary": "",
-      "url": "https://www.toutiao.com/trending/7673677788989099583/"
+      "url": "https://m.baidu.com/s?word=2724%E4%BA%BA%E7%9A%84%E7%82%92%E8%82%A1%E7%BE%A4%E9%99%A4%E4%BA%86%E8%87%AA%E5%B7%B1%E5%85%A8%E6%98%AF%E6%89%98&sa=fyb_news"
     },
     {
-      "id": "evt-27240000",
-      "title": "荐股骗局调查①丨2724人的炒股群除了自己全是托！骗子直播间设伏引流，假冒券商分析师上阵",
+      "id": "evt-14000000",
+      "title": "借给朋友140万 对方离世钱要不回来",
       "category": "society",
-      "hotScore": 0.595,
+      "hotScore": 0.56,
       "freshness": 1,
       "crossSource": 0.6309,
-      "totalScore": 0.7273,
+      "totalScore": 0.7133,
       "sources": [
         {
-          "channel": "thepaper",
+          "channel": "baidu",
           "rank": 7,
           "hot": 0,
-          "url": "https://www.thepaper.cn/newsDetail_forward_33694482"
+          "url": "https://m.baidu.com/s?word=%E5%80%9F%E7%BB%99%E6%9C%8B%E5%8F%8B140%E4%B8%87+%E5%AF%B9%E6%96%B9%E7%A6%BB%E4%B8%96%E9%92%B1%E8%A6%81%E4%B8%8D%E5%9B%9E%E6%9D%A5&sa=fyb_news"
         }
       ],
       "summary": "",
-      "url": "https://www.thepaper.cn/newsDetail_forward_33694482"
+      "url": "https://m.baidu.com/s?word=%E5%80%9F%E7%BB%99%E6%9C%8B%E5%8F%8B140%E4%B8%87+%E5%AF%B9%E6%96%B9%E7%A6%BB%E4%B8%96%E9%92%B1%E8%A6%81%E4%B8%8D%E5%9B%9E%E6%9D%A5&sa=fyb_news"
+    },
+    {
+      "id": "evt-gemini37",
+      "title": "谷歌推出 Gemini 3.7 Flash，有哪些亮点和创新？",
+      "category": "society",
+      "hotScore": 0.525,
+      "freshness": 1,
+      "crossSource": 0.6309,
+      "totalScore": 0.6993,
+      "sources": [
+        {
+          "channel": "zhihu",
+          "rank": 7,
+          "hot": 0,
+          "url": ""
+        }
+      ],
+      "summary": "",
+      "url": ""
+    },
+    {
+      "id": "evt-20261400",
+      "title": "2026 瑞满 1/4 男双林诗栋 / 温瑞博 0-3 艾尼克斯·勒布伦 / 菲尼克斯·勒布伦，如何看待这场比赛？",
+      "category": "society",
+      "hotScore": 0.45,
+      "freshness": 1,
+      "crossSource": 0.6309,
+      "totalScore": 0.6693,
+      "sources": [
+        {
+          "channel": "zhihu",
+          "rank": 9,
+          "hot": 0,
+          "url": ""
+        }
+      ],
+      "summary": "",
+      "url": ""
     }
   ]
 }
