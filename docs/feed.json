@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-08-13T22:30:37.419Z",
+  "generatedAt": "2026-08-14T01:03:08.783Z",
   "fields": {
     "society": "社会",
     "economy": "经济",
@@ -8,7 +8,7 @@
   "feed": [
     {
       "id": "evt-00000000",
-      "title": "为什么胖东来关店比开店还可怕",
+      "title": "国内多晶硅市场连续两周无成交",
       "category": "society",
       "hotScore": 0.85,
       "freshness": 1,
@@ -18,12 +18,12 @@
         {
           "channel": "toutiao",
           "rank": 1,
-          "hot": 9718570,
-          "url": "https://www.toutiao.com/trending/7673515574487748150/"
+          "hot": 8013478,
+          "url": "https://www.toutiao.com/trending/7673453285441306675/"
         }
       ],
       "summary": "",
-      "url": "https://www.toutiao.com/trending/7673515574487748150/"
+      "url": "https://www.toutiao.com/trending/7673453285441306675/"
     },
     {
       "id": "evt-50000000",
@@ -64,8 +64,27 @@
       "url": "https://www.thepaper.cn/newsDetail_forward_33778063"
     },
     {
-      "id": "evt-deepseek8",
-      "title": "怎么看 DeepSeek 8 月 17 日涨价后的价格，这个峰谷定价你接受吗？",
+      "id": "evt-17000000",
+      "title": "黄色预警！17省区市部分地区大到暴雨",
+      "category": "society",
+      "hotScore": 0.76,
+      "freshness": 1,
+      "crossSource": 0.6309,
+      "totalScore": 0.7933,
+      "sources": [
+        {
+          "channel": "baidu",
+          "rank": 2,
+          "hot": 0,
+          "url": "https://m.baidu.com/s?word=%E9%BB%84%E8%89%B2%E9%A2%84%E8%AD%A6%EF%BC%8117%E7%9C%81%E5%8C%BA%E5%B8%82%E9%83%A8%E5%88%86%E5%9C%B0%E5%8C%BA%E5%A4%A7%E5%88%B0%E6%9A%B4%E9%9B%A8&sa=fyb_news"
+        }
+      ],
+      "summary": "",
+      "url": "https://m.baidu.com/s?word=%E9%BB%84%E8%89%B2%E9%A2%84%E8%AD%A6%EF%BC%8117%E7%9C%81%E5%8C%BA%E5%B8%82%E9%83%A8%E5%88%86%E5%9C%B0%E5%8C%BA%E5%A4%A7%E5%88%B0%E6%9A%B4%E9%9B%A8&sa=fyb_news"
+    },
+    {
+      "id": "evt-81300000",
+      "title": "如何评价在 8 月 13 日发布的 DeepSeek Harness？",
       "category": "society",
       "hotScore": 0.75,
       "freshness": 1,
@@ -83,8 +102,27 @@
       "url": ""
     },
     {
-      "id": "evt-81300000",
-      "title": "如何评价在 8 月 13 日发布的 DeepSeek Harness？",
+      "id": "evt-deepseek",
+      "title": "为什么DeepSeek越涨价越是价格屠夫",
+      "category": "society",
+      "hotScore": 0.7225,
+      "freshness": 1,
+      "crossSource": 0.6309,
+      "totalScore": 0.7783,
+      "sources": [
+        {
+          "channel": "toutiao",
+          "rank": 4,
+          "hot": 5936530,
+          "url": "https://www.toutiao.com/trending/7673637537293798953/"
+        }
+      ],
+      "summary": "",
+      "url": "https://www.toutiao.com/trending/7673637537293798953/"
+    },
+    {
+      "id": "evt-deepseek8",
+      "title": "怎么看 DeepSeek 8 月 17 日涨价后的价格，这个峰谷定价你接受吗？",
       "category": "society",
       "hotScore": 0.7125,
       "freshness": 1,
@@ -102,8 +140,27 @@
       "url": ""
     },
     {
-      "id": "evt-45000000",
-      "title": "45 岁邹市明宣布年底重返拳击赛场，怎样看待他的决定？他的复出能解决目前的财务困境吗？",
+      "id": "evt-ipo00000",
+      "title": "史上最大IPO或将易主",
+      "category": "society",
+      "hotScore": 0.68,
+      "freshness": 1,
+      "crossSource": 0.6309,
+      "totalScore": 0.7613,
+      "sources": [
+        {
+          "channel": "toutiao",
+          "rank": 5,
+          "hot": 5371595,
+          "url": "https://www.toutiao.com/trending/7673140928302940196/"
+        }
+      ],
+      "summary": "",
+      "url": "https://www.toutiao.com/trending/7673140928302940196/"
+    },
+    {
+      "id": "evt-jeep0000",
+      "title": "铃木、雷诺、 Jeep 、三菱退出中国市场，如今雪佛兰也退出中国市场，说明了什么？",
       "category": "society",
       "hotScore": 0.675,
       "freshness": 1,
@@ -121,27 +178,46 @@
       "url": ""
     },
     {
-      "id": "evt-ipo00000",
-      "title": "史上最大IPO或将易主",
+      "id": "evt-95000000",
+      "title": "9岁姐姐带5岁弟弟雨中抢收车前草",
       "category": "society",
-      "hotScore": 0.595,
+      "hotScore": 0.6375,
       "freshness": 1,
       "crossSource": 0.6309,
-      "totalScore": 0.7273,
+      "totalScore": 0.7443,
       "sources": [
         {
           "channel": "toutiao",
-          "rank": 7,
-          "hot": 5333664,
-          "url": "https://www.toutiao.com/trending/7673140928302940196/"
+          "rank": 6,
+          "hot": 4860420,
+          "url": "https://www.toutiao.com/trending/7672897186086027302/"
         }
       ],
       "summary": "",
-      "url": "https://www.toutiao.com/trending/7673140928302940196/"
+      "url": "https://www.toutiao.com/trending/7672897186086027302/"
     },
     {
-      "id": "evt-70000000",
-      "title": "考生中考700分放弃重点高中读职校",
+      "id": "evt-44000000",
+      "title": "如何看待 4 月 4 日清明出生、高考 444 分的考生被殡葬专业录取引发热议？殡葬专业真实就业前景如何？",
+      "category": "society",
+      "hotScore": 0.6,
+      "freshness": 1,
+      "crossSource": 0.6309,
+      "totalScore": 0.7293,
+      "sources": [
+        {
+          "channel": "zhihu",
+          "rank": 5,
+          "hot": 0,
+          "url": ""
+        }
+      ],
+      "summary": "",
+      "url": ""
+    },
+    {
+      "id": "evt-13000000",
+      "title": "王艺迪/陈熠1-3不敌日本组合",
       "category": "society",
       "hotScore": 0.51,
       "freshness": 1,
@@ -151,16 +227,16 @@
         {
           "channel": "toutiao",
           "rank": 9,
-          "hot": 4366835,
-          "url": "https://www.toutiao.com/trending/7672305915246444553/"
+          "hot": 3600687,
+          "url": "https://www.toutiao.com/trending/7673667731744362027/"
         }
       ],
       "summary": "",
-      "url": "https://www.toutiao.com/trending/7672305915246444553/"
+      "url": "https://www.toutiao.com/trending/7673667731744362027/"
     },
     {
-      "id": "evt-jeep0000",
-      "title": "铃木、雷诺、 Jeep 、三菱退出中国市场，如今雪佛兰也退出中国市场，说明了什么？",
+      "id": "evt-77200000",
+      "title": "如何评价《一人之下》第 772(826）话？",
       "category": "society",
       "hotScore": 0.4875,
       "freshness": 1,
@@ -178,8 +254,8 @@
       "url": ""
     },
     {
-      "id": "evt-10000000",
-      "title": "10 岁女孩每天「拼豆」三四小时，眼轴增长速度是正常的两倍，这对孩子视力的影响有多大？怎么缓解？",
+      "id": "evt-ti150000",
+      "title": "如何看待 TI15 首日中国战队 XG 、 VG 、 TR 状态不佳？有可能都在瑞士轮就被淘汰吗？",
       "category": "society",
       "hotScore": 0.45,
       "freshness": 1,
@@ -195,6 +271,25 @@
       ],
       "summary": "",
       "url": ""
+    },
+    {
+      "id": "evt-39000000",
+      "title": "39度高温管家喊话全楼关空调",
+      "category": "society",
+      "hotScore": 0.44,
+      "freshness": 1,
+      "crossSource": 0.6309,
+      "totalScore": 0.6653,
+      "sources": [
+        {
+          "channel": "baidu",
+          "rank": 10,
+          "hot": 0,
+          "url": "https://m.baidu.com/s?word=39%E5%BA%A6%E9%AB%98%E6%B8%A9%E7%AE%A1%E5%AE%B6%E5%96%8A%E8%AF%9D%E5%85%A8%E6%A5%BC%E5%85%B3%E7%A9%BA%E8%B0%83&sa=fyb_news"
+        }
+      ],
+      "summary": "",
+      "url": "https://m.baidu.com/s?word=39%E5%BA%A6%E9%AB%98%E6%B8%A9%E7%AE%A1%E5%AE%B6%E5%96%8A%E8%AF%9D%E5%85%A8%E6%A5%BC%E5%85%B3%E7%A9%BA%E8%B0%83&sa=fyb_news"
     }
   ]
 }
