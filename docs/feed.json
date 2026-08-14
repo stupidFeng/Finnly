@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-08-14T10:48:15.640Z",
+  "generatedAt": "2026-08-14T12:39:57.721Z",
   "fields": {
     "society": "社会",
     "economy": "经济",
@@ -8,28 +8,28 @@
   "feed": [
     {
       "id": "evt-00000000",
-      "title": "甘肃省副省长程晓波主动投案被查",
+      "title": "郭德纲西安演出取消",
       "category": "society",
-      "hotScore": 0.8075,
+      "hotScore": 0.6375,
       "freshness": 1,
       "crossSource": 1,
-      "totalScore": 0.923,
+      "totalScore": 0.855,
       "sources": [
         {
           "channel": "toutiao",
-          "rank": 2,
-          "hot": 7894688,
-          "url": "https://www.toutiao.com/trending/7673793777727488010/"
+          "rank": 6,
+          "hot": 5879993,
+          "url": "https://www.toutiao.com/trending/7673748036275486774/"
         },
         {
           "channel": "baidu",
-          "rank": 19,
+          "rank": 8,
           "hot": 0,
-          "url": "https://m.baidu.com/s?word=%E7%94%98%E8%82%83%E7%9C%81%E5%89%AF%E7%9C%81%E9%95%BF%E7%A8%8B%E6%99%93%E6%B3%A2%E4%B8%BB%E5%8A%A8%E6%8A%95%E6%A1%88%E8%A2%AB%E6%9F%A5&sa=fyb_news"
+          "url": "https://m.baidu.com/s?word=%E9%83%AD%E5%BE%B7%E7%BA%B2%E8%A5%BF%E5%AE%89%E6%BC%94%E5%87%BA%E5%8F%96%E6%B6%88&sa=fyb_news"
         }
       ],
       "summary": "",
-      "url": "https://www.toutiao.com/trending/7673793777727488010/"
+      "url": "https://www.toutiao.com/trending/7673748036275486774/"
     },
     {
       "id": "evt-50000000",
@@ -70,90 +70,46 @@
       "url": "https://www.thepaper.cn/newsDetail_forward_33778063"
     },
     {
-      "id": "evt-20000000",
-      "title": "追觅卖出首台手机售价超20万元",
+      "id": "evt-14000000",
+      "title": "1400元罚款进了谁的口袋",
       "category": "society",
-      "hotScore": 0.51,
-      "freshness": 1,
-      "crossSource": 1,
-      "totalScore": 0.804,
-      "sources": [
-        {
-          "channel": "toutiao",
-          "rank": 9,
-          "hot": 3920386,
-          "url": "https://www.toutiao.com/trending/7673679213765181476/"
-        },
-        {
-          "channel": "baidu",
-          "rank": 10,
-          "hot": 0,
-          "url": "https://m.baidu.com/s?word=%E8%BF%BD%E8%A7%85%E5%8D%96%E5%87%BA%E9%A6%96%E5%8F%B0%E6%89%8B%E6%9C%BA%E5%94%AE%E4%BB%B7%E8%B6%8520%E4%B8%87%E5%85%83&sa=fyb_news"
-        }
-      ],
-      "summary": "",
-      "url": "https://www.toutiao.com/trending/7673679213765181476/"
-    },
-    {
-      "id": "evt-35000000",
-      "title": "多地要求3到5年社保全额实缴",
-      "category": "society",
-      "hotScore": 0.76,
+      "hotScore": 0.72,
       "freshness": 1,
       "crossSource": 0.6309,
-      "totalScore": 0.7933,
+      "totalScore": 0.7773,
       "sources": [
         {
           "channel": "baidu",
-          "rank": 2,
+          "rank": 3,
           "hot": 0,
-          "url": "https://m.baidu.com/s?word=%E5%A4%9A%E5%9C%B0%E8%A6%81%E6%B1%823%E5%88%B05%E5%B9%B4%E7%A4%BE%E4%BF%9D%E5%85%A8%E9%A2%9D%E5%AE%9E%E7%BC%B4&sa=fyb_news"
+          "url": "https://m.baidu.com/s?word=1400%E5%85%83%E7%BD%9A%E6%AC%BE%E8%BF%9B%E4%BA%86%E8%B0%81%E7%9A%84%E5%8F%A3%E8%A2%8B&sa=fyb_news"
         }
       ],
       "summary": "",
-      "url": "https://m.baidu.com/s?word=%E5%A4%9A%E5%9C%B0%E8%A6%81%E6%B1%823%E5%88%B05%E5%B9%B4%E7%A4%BE%E4%BF%9D%E5%85%A8%E9%A2%9D%E5%AE%9E%E7%BC%B4&sa=fyb_news"
+      "url": "https://m.baidu.com/s?word=1400%E5%85%83%E7%BD%9A%E6%AC%BE%E8%BF%9B%E4%BA%86%E8%B0%81%E7%9A%84%E5%8F%A3%E8%A2%8B&sa=fyb_news"
     },
     {
-      "id": "evt-46800000",
-      "title": "老人车祸离世 46.8万赔偿为何难兑现",
+      "id": "evt-70000000",
+      "title": "卖一台路虎亏7万 宝马狂降30万",
       "category": "society",
-      "hotScore": 0.68,
+      "hotScore": 0.64,
       "freshness": 1,
       "crossSource": 0.6309,
-      "totalScore": 0.7613,
+      "totalScore": 0.7453,
       "sources": [
         {
-          "channel": "toutiao",
+          "channel": "baidu",
           "rank": 5,
-          "hot": 5848528,
-          "url": "https://www.toutiao.com/trending/7673317474875523126/"
-        }
-      ],
-      "summary": "",
-      "url": "https://www.toutiao.com/trending/7673317474875523126/"
-    },
-    {
-      "id": "evt-32000000",
-      "title": "亲戚 3200 卖给我的电脑，他说现在 2 手能卖 4000 多，能流畅运行生化危机 9 类型的游戏吗?",
-      "category": "society",
-      "hotScore": 0.6375,
-      "freshness": 1,
-      "crossSource": 0.6309,
-      "totalScore": 0.7443,
-      "sources": [
-        {
-          "channel": "zhihu",
-          "rank": 4,
           "hot": 0,
-          "url": ""
+          "url": "https://m.baidu.com/s?word=%E5%8D%96%E4%B8%80%E5%8F%B0%E8%B7%AF%E8%99%8E%E4%BA%8F7%E4%B8%87+%E5%AE%9D%E9%A9%AC%E7%8B%82%E9%99%8D30%E4%B8%87&sa=fyb_news"
         }
       ],
       "summary": "",
-      "url": ""
+      "url": "https://m.baidu.com/s?word=%E5%8D%96%E4%B8%80%E5%8F%B0%E8%B7%AF%E8%99%8E%E4%BA%8F7%E4%B8%87+%E5%AE%9D%E9%A9%AC%E7%8B%82%E9%99%8D30%E4%B8%87&sa=fyb_news"
     },
     {
-      "id": "evt-glm53000",
-      "title": "智谱发布 GLM-5.3，如何评价前沿编程能力与涌现的网络安全能力?",
+      "id": "evt-41500000",
+      "title": "415亿换不来一座“影帝”奖杯吗",
       "category": "society",
       "hotScore": 0.6,
       "freshness": 1,
@@ -161,14 +117,14 @@
       "totalScore": 0.7293,
       "sources": [
         {
-          "channel": "zhihu",
-          "rank": 5,
+          "channel": "baidu",
+          "rank": 6,
           "hot": 0,
-          "url": ""
+          "url": "https://m.baidu.com/s?word=415%E4%BA%BF%E6%8D%A2%E4%B8%8D%E6%9D%A5%E4%B8%80%E5%BA%A7%E2%80%9C%E5%BD%B1%E5%B8%9D%E2%80%9D%E5%A5%96%E6%9D%AF%E5%90%97&sa=fyb_news"
         }
       ],
       "summary": "",
-      "url": ""
+      "url": "https://m.baidu.com/s?word=415%E4%BA%BF%E6%8D%A2%E4%B8%8D%E6%9D%A5%E4%B8%80%E5%BA%A7%E2%80%9C%E5%BD%B1%E5%B8%9D%E2%80%9D%E5%A5%96%E6%9D%AF%E5%90%97&sa=fyb_news"
     },
     {
       "id": "evt-27240000",
@@ -190,42 +146,61 @@
       "url": "https://www.thepaper.cn/newsDetail_forward_33694482"
     },
     {
-      "id": "evt-24000000",
-      "title": "胖东来许昌 24 年老店将关闭，对周边商户和商圈发展有哪些影响？",
+      "id": "evt-41000000",
+      "title": "女子连中4瓶1元换购商家拒兑换",
       "category": "society",
-      "hotScore": 0.525,
+      "hotScore": 0.51,
       "freshness": 1,
       "crossSource": 0.6309,
-      "totalScore": 0.6993,
+      "totalScore": 0.6933,
       "sources": [
         {
-          "channel": "zhihu",
-          "rank": 7,
-          "hot": 0,
-          "url": ""
+          "channel": "toutiao",
+          "rank": 9,
+          "hot": 4356006,
+          "url": "https://www.toutiao.com/trending/7673763584488456234/"
         }
       ],
       "summary": "",
-      "url": ""
+      "url": "https://www.toutiao.com/trending/7673763584488456234/"
     },
     {
-      "id": "evt-81200000",
-      "title": "如何评价原神 8 月 12 日更新的至冬新版本系列支线剧情「她的宫殿正坍塌向风雪」？",
+      "id": "evt-35000000",
+      "title": "多地要求3到5年社保全额实缴",
       "category": "society",
-      "hotScore": 0.45,
+      "hotScore": 0.48,
       "freshness": 1,
       "crossSource": 0.6309,
-      "totalScore": 0.6693,
+      "totalScore": 0.6813,
       "sources": [
         {
-          "channel": "zhihu",
+          "channel": "baidu",
           "rank": 9,
           "hot": 0,
-          "url": ""
+          "url": "https://m.baidu.com/s?word=%E5%A4%9A%E5%9C%B0%E8%A6%81%E6%B1%823%E5%88%B05%E5%B9%B4%E7%A4%BE%E4%BF%9D%E5%85%A8%E9%A2%9D%E5%AE%9E%E7%BC%B4&sa=fyb_news"
         }
       ],
       "summary": "",
-      "url": ""
+      "url": "https://m.baidu.com/s?word=%E5%A4%9A%E5%9C%B0%E8%A6%81%E6%B1%823%E5%88%B05%E5%B9%B4%E7%A4%BE%E4%BF%9D%E5%85%A8%E9%A2%9D%E5%AE%9E%E7%BC%B4&sa=fyb_news"
+    },
+    {
+      "id": "evt-c0000000",
+      "title": "C罗婚后首露面一头金发",
+      "category": "society",
+      "hotScore": 0.34,
+      "freshness": 1,
+      "crossSource": 0.6309,
+      "totalScore": 0.6253,
+      "sources": [
+        {
+          "channel": "toutiao",
+          "rank": 13,
+          "hot": 2919918,
+          "url": "https://www.toutiao.com/trending/7673727363691056676/"
+        }
+      ],
+      "summary": "",
+      "url": "https://www.toutiao.com/trending/7673727363691056676/"
     }
   ]
 }
