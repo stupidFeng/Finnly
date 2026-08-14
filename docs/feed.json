@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-08-14T08:57:47.281Z",
+  "generatedAt": "2026-08-14T10:48:15.640Z",
   "fields": {
     "society": "社会",
     "economy": "经济",
@@ -8,53 +8,28 @@
   "feed": [
     {
       "id": "evt-00000000",
-      "title": "中国“救援航母”奔赴河南溃口现场",
+      "title": "甘肃省副省长程晓波主动投案被查",
       "category": "society",
-      "hotScore": 0.6375,
-      "freshness": 0.9999,
+      "hotScore": 0.8075,
+      "freshness": 1,
       "crossSource": 1,
-      "totalScore": 0.855,
+      "totalScore": 0.923,
       "sources": [
         {
           "channel": "toutiao",
-          "rank": 6,
-          "hot": 5636343,
-          "url": "https://www.toutiao.com/trending/7673448207317319723/"
+          "rank": 2,
+          "hot": 7894688,
+          "url": "https://www.toutiao.com/trending/7673793777727488010/"
         },
         {
           "channel": "baidu",
-          "rank": 7,
+          "rank": 19,
           "hot": 0,
-          "url": "https://m.baidu.com/s?word=%E4%B8%AD%E5%9B%BD%E2%80%9C%E6%95%91%E6%8F%B4%E8%88%AA%E6%AF%8D%E2%80%9D%E5%A5%94%E8%B5%B4%E6%B2%B3%E5%8D%97%E6%BA%83%E5%8F%A3%E7%8E%B0%E5%9C%BA&sa=fyb_news"
+          "url": "https://m.baidu.com/s?word=%E7%94%98%E8%82%83%E7%9C%81%E5%89%AF%E7%9C%81%E9%95%BF%E7%A8%8B%E6%99%93%E6%B3%A2%E4%B8%BB%E5%8A%A8%E6%8A%95%E6%A1%88%E8%A2%AB%E6%9F%A5&sa=fyb_news"
         }
       ],
       "summary": "",
-      "url": "https://www.toutiao.com/trending/7673448207317319723/"
-    },
-    {
-      "id": "evt-20000000",
-      "title": "追觅卖出首台手机售价超20万元",
-      "category": "society",
-      "hotScore": 0.595,
-      "freshness": 0.9999,
-      "crossSource": 1,
-      "totalScore": 0.838,
-      "sources": [
-        {
-          "channel": "toutiao",
-          "rank": 7,
-          "hot": 5099974,
-          "url": "https://www.toutiao.com/trending/7673679213765181476/"
-        },
-        {
-          "channel": "baidu",
-          "rank": 16,
-          "hot": 0,
-          "url": "https://m.baidu.com/s?word=%E8%BF%BD%E8%A7%85%E5%8D%96%E5%87%BA%E9%A6%96%E5%8F%B0%E6%89%8B%E6%9C%BA%E5%94%AE%E4%BB%B7%E8%B6%8520%E4%B8%87%E5%85%83&sa=fyb_news"
-        }
-      ],
-      "summary": "",
-      "url": "https://www.toutiao.com/trending/7673679213765181476/"
+      "url": "https://www.toutiao.com/trending/7673793777727488010/"
     },
     {
       "id": "evt-50000000",
@@ -95,9 +70,34 @@
       "url": "https://www.thepaper.cn/newsDetail_forward_33778063"
     },
     {
-      "id": "evt-20260000",
-      "title": "2026年最“炸裂”电影",
-      "category": "entertainment",
+      "id": "evt-20000000",
+      "title": "追觅卖出首台手机售价超20万元",
+      "category": "society",
+      "hotScore": 0.51,
+      "freshness": 1,
+      "crossSource": 1,
+      "totalScore": 0.804,
+      "sources": [
+        {
+          "channel": "toutiao",
+          "rank": 9,
+          "hot": 3920386,
+          "url": "https://www.toutiao.com/trending/7673679213765181476/"
+        },
+        {
+          "channel": "baidu",
+          "rank": 10,
+          "hot": 0,
+          "url": "https://m.baidu.com/s?word=%E8%BF%BD%E8%A7%85%E5%8D%96%E5%87%BA%E9%A6%96%E5%8F%B0%E6%89%8B%E6%9C%BA%E5%94%AE%E4%BB%B7%E8%B6%8520%E4%B8%87%E5%85%83&sa=fyb_news"
+        }
+      ],
+      "summary": "",
+      "url": "https://www.toutiao.com/trending/7673679213765181476/"
+    },
+    {
+      "id": "evt-35000000",
+      "title": "多地要求3到5年社保全额实缴",
+      "category": "society",
       "hotScore": 0.76,
       "freshness": 1,
       "crossSource": 0.6309,
@@ -107,24 +107,43 @@
           "channel": "baidu",
           "rank": 2,
           "hot": 0,
-          "url": "https://m.baidu.com/s?word=2026%E5%B9%B4%E6%9C%80%E2%80%9C%E7%82%B8%E8%A3%82%E2%80%9D%E7%94%B5%E5%BD%B1&sa=fyb_news"
+          "url": "https://m.baidu.com/s?word=%E5%A4%9A%E5%9C%B0%E8%A6%81%E6%B1%823%E5%88%B05%E5%B9%B4%E7%A4%BE%E4%BF%9D%E5%85%A8%E9%A2%9D%E5%AE%9E%E7%BC%B4&sa=fyb_news"
         }
       ],
       "summary": "",
-      "url": "https://m.baidu.com/s?word=2026%E5%B9%B4%E6%9C%80%E2%80%9C%E7%82%B8%E8%A3%82%E2%80%9D%E7%94%B5%E5%BD%B1&sa=fyb_news"
+      "url": "https://m.baidu.com/s?word=%E5%A4%9A%E5%9C%B0%E8%A6%81%E6%B1%823%E5%88%B05%E5%B9%B4%E7%A4%BE%E4%BF%9D%E5%85%A8%E9%A2%9D%E5%AE%9E%E7%BC%B4&sa=fyb_news"
+    },
+    {
+      "id": "evt-46800000",
+      "title": "老人车祸离世 46.8万赔偿为何难兑现",
+      "category": "society",
+      "hotScore": 0.68,
+      "freshness": 1,
+      "crossSource": 0.6309,
+      "totalScore": 0.7613,
+      "sources": [
+        {
+          "channel": "toutiao",
+          "rank": 5,
+          "hot": 5848528,
+          "url": "https://www.toutiao.com/trending/7673317474875523126/"
+        }
+      ],
+      "summary": "",
+      "url": "https://www.toutiao.com/trending/7673317474875523126/"
     },
     {
       "id": "evt-32000000",
       "title": "亲戚 3200 卖给我的电脑，他说现在 2 手能卖 4000 多，能流畅运行生化危机 9 类型的游戏吗?",
       "category": "society",
-      "hotScore": 0.7125,
+      "hotScore": 0.6375,
       "freshness": 1,
       "crossSource": 0.6309,
-      "totalScore": 0.7743,
+      "totalScore": 0.7443,
       "sources": [
         {
           "channel": "zhihu",
-          "rank": 2,
+          "rank": 4,
           "hot": 0,
           "url": ""
         }
@@ -133,55 +152,36 @@
       "url": ""
     },
     {
-      "id": "evt-90000000",
-      "title": "加满一箱油将少花9元",
+      "id": "evt-glm53000",
+      "title": "智谱发布 GLM-5.3，如何评价前沿编程能力与涌现的网络安全能力?",
       "category": "society",
-      "hotScore": 0.68,
-      "freshness": 0.9999,
-      "crossSource": 0.6309,
-      "totalScore": 0.7613,
-      "sources": [
-        {
-          "channel": "toutiao",
-          "rank": 5,
-          "hot": 6229122,
-          "url": "https://www.toutiao.com/trending/7673779151563673115/"
-        }
-      ],
-      "summary": "",
-      "url": "https://www.toutiao.com/trending/7673779151563673115/"
-    },
-    {
-      "id": "evt-80000000",
-      "title": "五粮液不得低于800元抛售",
-      "category": "society",
-      "hotScore": 0.64,
+      "hotScore": 0.6,
       "freshness": 1,
       "crossSource": 0.6309,
-      "totalScore": 0.7453,
+      "totalScore": 0.7293,
       "sources": [
         {
-          "channel": "baidu",
+          "channel": "zhihu",
           "rank": 5,
           "hot": 0,
-          "url": "https://m.baidu.com/s?word=%E4%BA%94%E7%B2%AE%E6%B6%B2%E4%B8%8D%E5%BE%97%E4%BD%8E%E4%BA%8E800%E5%85%83%E6%8A%9B%E5%94%AE&sa=fyb_news"
+          "url": ""
         }
       ],
       "summary": "",
-      "url": "https://m.baidu.com/s?word=%E4%BA%94%E7%B2%AE%E6%B6%B2%E4%B8%8D%E5%BE%97%E4%BD%8E%E4%BA%8E800%E5%85%83%E6%8A%9B%E5%94%AE&sa=fyb_news"
+      "url": ""
     },
     {
       "id": "evt-27240000",
       "title": "荐股骗局调查①丨2724人的炒股群除了自己全是托！骗子直播间设伏引流，假冒券商分析师上阵",
       "category": "society",
-      "hotScore": 0.6375,
+      "hotScore": 0.595,
       "freshness": 1,
       "crossSource": 0.6309,
-      "totalScore": 0.7443,
+      "totalScore": 0.7273,
       "sources": [
         {
           "channel": "thepaper",
-          "rank": 6,
+          "rank": 7,
           "hot": 0,
           "url": "https://www.thepaper.cn/newsDetail_forward_33694482"
         }
@@ -192,25 +192,6 @@
     {
       "id": "evt-24000000",
       "title": "胖东来许昌 24 年老店将关闭，对周边商户和商圈发展有哪些影响？",
-      "category": "society",
-      "hotScore": 0.5625,
-      "freshness": 1,
-      "crossSource": 0.6309,
-      "totalScore": 0.7143,
-      "sources": [
-        {
-          "channel": "zhihu",
-          "rank": 6,
-          "hot": 0,
-          "url": ""
-        }
-      ],
-      "summary": "",
-      "url": ""
-    },
-    {
-      "id": "evt-deepseekv4",
-      "title": "DeepSeek V4 大幅涨价后，现在谁才是你心中的大模型性价比之选？",
       "category": "society",
       "hotScore": 0.525,
       "freshness": 1,
@@ -228,23 +209,23 @@
       "url": ""
     },
     {
-      "id": "evt-14000000",
-      "title": "借给朋友140万 对方离世钱要不回来",
+      "id": "evt-81200000",
+      "title": "如何评价原神 8 月 12 日更新的至冬新版本系列支线剧情「她的宫殿正坍塌向风雪」？",
       "category": "society",
-      "hotScore": 0.48,
+      "hotScore": 0.45,
       "freshness": 1,
       "crossSource": 0.6309,
-      "totalScore": 0.6813,
+      "totalScore": 0.6693,
       "sources": [
         {
-          "channel": "baidu",
+          "channel": "zhihu",
           "rank": 9,
           "hot": 0,
-          "url": "https://m.baidu.com/s?word=%E5%80%9F%E7%BB%99%E6%9C%8B%E5%8F%8B140%E4%B8%87+%E5%AF%B9%E6%96%B9%E7%A6%BB%E4%B8%96%E9%92%B1%E8%A6%81%E4%B8%8D%E5%9B%9E%E6%9D%A5&sa=fyb_news"
+          "url": ""
         }
       ],
       "summary": "",
-      "url": "https://m.baidu.com/s?word=%E5%80%9F%E7%BB%99%E6%9C%8B%E5%8F%8B140%E4%B8%87+%E5%AF%B9%E6%96%B9%E7%A6%BB%E4%B8%96%E9%92%B1%E8%A6%81%E4%B8%8D%E5%9B%9E%E6%9D%A5&sa=fyb_news"
+      "url": ""
     }
   ]
 }
