@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-08-14T20:21:24.642Z",
+  "generatedAt": "2026-08-14T22:12:15.915Z",
   "fields": {
     "society": "社会",
     "economy": "经济",
@@ -10,26 +10,45 @@
       "id": "evt-00000000",
       "title": "郭德纲西安演出取消",
       "category": "society",
-      "hotScore": 0.6375,
+      "hotScore": 0.595,
       "freshness": 0.9999,
       "crossSource": 1,
-      "totalScore": 0.855,
+      "totalScore": 0.838,
       "sources": [
         {
           "channel": "toutiao",
-          "rank": 6,
-          "hot": 7670561,
+          "rank": 7,
+          "hot": 7461218,
           "url": "https://www.toutiao.com/trending/7673748036275486774/"
         },
         {
           "channel": "baidu",
-          "rank": 9,
+          "rank": 7,
           "hot": 0,
           "url": "https://m.baidu.com/s?word=%E9%83%AD%E5%BE%B7%E7%BA%B2%E8%A5%BF%E5%AE%89%E6%BC%94%E5%87%BA%E5%8F%96%E6%B6%88&sa=fyb_news"
         }
       ],
       "summary": "",
       "url": "https://www.toutiao.com/trending/7673748036275486774/"
+    },
+    {
+      "id": "evt-80000000",
+      "title": "《江泽民》第8集《精兵新篇》",
+      "category": "society",
+      "hotScore": 0.85,
+      "freshness": 1,
+      "crossSource": 0.6309,
+      "totalScore": 0.8293,
+      "sources": [
+        {
+          "channel": "thepaper",
+          "rank": 1,
+          "hot": 0,
+          "url": "https://www.thepaper.cn/newsDetail_forward_33785626"
+        }
+      ],
+      "summary": "",
+      "url": "https://www.thepaper.cn/newsDetail_forward_33785626"
     },
     {
       "id": "evt-10000000",
@@ -43,7 +62,7 @@
         {
           "channel": "toutiao",
           "rank": 2,
-          "hot": 11443132,
+          "hot": 12301469,
           "url": "https://www.toutiao.com/trending/7673478082126741555/"
         }
       ],
@@ -51,8 +70,8 @@
       "url": "https://www.toutiao.com/trending/7673478082126741555/"
     },
     {
-      "id": "evt-27240000",
-      "title": "荐股骗局调查①丨2724人的炒股群除了自己全是托！骗子直播间设伏引流，假冒券商分析师上阵",
+      "id": "evt-70000000",
+      "title": "《江泽民》第7集《风云本色》",
       "category": "society",
       "hotScore": 0.8075,
       "freshness": 1,
@@ -63,49 +82,11 @@
           "channel": "thepaper",
           "rank": 2,
           "hot": 0,
-          "url": "https://www.thepaper.cn/newsDetail_forward_33694482"
+          "url": "https://www.thepaper.cn/newsDetail_forward_33785581"
         }
       ],
       "summary": "",
-      "url": "https://www.thepaper.cn/newsDetail_forward_33694482"
-    },
-    {
-      "id": "evt-40000000",
-      "title": "乌军为何能4小时摧毁俄装甲集群",
-      "category": "society",
-      "hotScore": 0.5525,
-      "freshness": 0.9999,
-      "crossSource": 0.6309,
-      "totalScore": 0.7103,
-      "sources": [
-        {
-          "channel": "toutiao",
-          "rank": 8,
-          "hot": 6280124,
-          "url": "https://www.toutiao.com/trending/7673711940689989163/"
-        }
-      ],
-      "summary": "",
-      "url": "https://www.toutiao.com/trending/7673711940689989163/"
-    },
-    {
-      "id": "evt-50000000",
-      "title": "5年定期存款利率为何逆势上升",
-      "category": "economy",
-      "hotScore": 0.51,
-      "freshness": 0.9999,
-      "crossSource": 0.6309,
-      "totalScore": 0.6933,
-      "sources": [
-        {
-          "channel": "toutiao",
-          "rank": 9,
-          "hot": 5682491,
-          "url": "https://www.toutiao.com/trending/7673804388325920262/"
-        }
-      ],
-      "summary": "",
-      "url": "https://www.toutiao.com/trending/7673804388325920262/"
+      "url": "https://www.thepaper.cn/newsDetail_forward_33785581"
     },
     {
       "id": "evt-19000000",
@@ -127,11 +108,49 @@
       "url": "https://m.baidu.com/s?word=%E7%8E%8B%E4%BC%A0%E5%90%9B19%E5%B9%B4%E5%89%8D%E5%B0%B1%E5%8F%82%E5%8A%A0%E8%BF%87%E9%80%89%E7%A7%80&sa=fyb_news"
     },
     {
-      "id": "evt-23000000",
-      "title": "纳斯达克即将开启 23 小时连续交易，对投资者是好事还是坏事？",
+      "id": "evt-27240000",
+      "title": "荐股骗局调查①丨2724人的炒股群除了自己全是托！骗子直播间设伏引流，假冒券商分析师上阵",
+      "category": "society",
+      "hotScore": 0.7225,
+      "freshness": 1,
+      "crossSource": 0.6309,
+      "totalScore": 0.7783,
+      "sources": [
+        {
+          "channel": "thepaper",
+          "rank": 4,
+          "hot": 0,
+          "url": "https://www.thepaper.cn/newsDetail_forward_33694482"
+        }
+      ],
+      "summary": "",
+      "url": "https://www.thepaper.cn/newsDetail_forward_33694482"
+    },
+    {
+      "id": "evt-40000000",
+      "title": "乌军为何能4小时摧毁俄装甲集群",
+      "category": "society",
+      "hotScore": 0.5525,
+      "freshness": 0.9999,
+      "crossSource": 0.6309,
+      "totalScore": 0.7103,
+      "sources": [
+        {
+          "channel": "toutiao",
+          "rank": 8,
+          "hot": 6751189,
+          "url": "https://www.toutiao.com/trending/7673711940689989163/"
+        }
+      ],
+      "summary": "",
+      "url": "https://www.toutiao.com/trending/7673711940689989163/"
+    },
+    {
+      "id": "evt-16200000",
+      "title": "《影之刃零》预售开启，162 万愿望单的它能复刻《黑神话：悟空》的奇迹吗？",
       "category": "society",
       "hotScore": 0.4875,
-      "freshness": 0.9999,
+      "freshness": 1,
       "crossSource": 0.6309,
       "totalScore": 0.6843,
       "sources": [
