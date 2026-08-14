@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-08-14T12:39:57.721Z",
+  "generatedAt": "2026-08-14T14:43:51.169Z",
   "fields": {
     "society": "社会",
     "economy": "经济",
@@ -10,20 +10,20 @@
       "id": "evt-00000000",
       "title": "郭德纲西安演出取消",
       "category": "society",
-      "hotScore": 0.6375,
+      "hotScore": 0.595,
       "freshness": 1,
       "crossSource": 1,
-      "totalScore": 0.855,
+      "totalScore": 0.838,
       "sources": [
         {
           "channel": "toutiao",
-          "rank": 6,
-          "hot": 5879993,
+          "rank": 7,
+          "hot": 6037229,
           "url": "https://www.toutiao.com/trending/7673748036275486774/"
         },
         {
           "channel": "baidu",
-          "rank": 8,
+          "rank": 11,
           "hot": 0,
           "url": "https://m.baidu.com/s?word=%E9%83%AD%E5%BE%B7%E7%BA%B2%E8%A5%BF%E5%AE%89%E6%BC%94%E5%87%BA%E5%8F%96%E6%B6%88&sa=fyb_news"
         }
@@ -32,8 +32,8 @@
       "url": "https://www.toutiao.com/trending/7673748036275486774/"
     },
     {
-      "id": "evt-50000000",
-      "title": "《江泽民》第5集《兴国方略》",
+      "id": "evt-60000000",
+      "title": "《江泽民》第6集《统筹全局》",
       "category": "society",
       "hotScore": 0.85,
       "freshness": 1,
@@ -44,25 +44,6 @@
           "channel": "thepaper",
           "rank": 1,
           "hot": 0,
-          "url": "https://www.thepaper.cn/newsDetail_forward_33777855"
-        }
-      ],
-      "summary": "",
-      "url": "https://www.thepaper.cn/newsDetail_forward_33777855"
-    },
-    {
-      "id": "evt-60000000",
-      "title": "《江泽民》第6集《统筹全局》",
-      "category": "society",
-      "hotScore": 0.8075,
-      "freshness": 1,
-      "crossSource": 0.6309,
-      "totalScore": 0.8123,
-      "sources": [
-        {
-          "channel": "thepaper",
-          "rank": 2,
-          "hot": 0,
           "url": "https://www.thepaper.cn/newsDetail_forward_33778063"
         }
       ],
@@ -70,46 +51,46 @@
       "url": "https://www.thepaper.cn/newsDetail_forward_33778063"
     },
     {
-      "id": "evt-14000000",
-      "title": "1400元罚款进了谁的口袋",
+      "id": "evt-10000000",
+      "title": "江泽民诞辰100周年纪念币将发行",
       "category": "society",
-      "hotScore": 0.72,
+      "hotScore": 0.8075,
       "freshness": 1,
       "crossSource": 0.6309,
-      "totalScore": 0.7773,
+      "totalScore": 0.8123,
       "sources": [
         {
-          "channel": "baidu",
-          "rank": 3,
-          "hot": 0,
-          "url": "https://m.baidu.com/s?word=1400%E5%85%83%E7%BD%9A%E6%AC%BE%E8%BF%9B%E4%BA%86%E8%B0%81%E7%9A%84%E5%8F%A3%E8%A2%8B&sa=fyb_news"
+          "channel": "toutiao",
+          "rank": 2,
+          "hot": 9953707,
+          "url": "https://www.toutiao.com/trending/7673478082126741555/"
         }
       ],
       "summary": "",
-      "url": "https://m.baidu.com/s?word=1400%E5%85%83%E7%BD%9A%E6%AC%BE%E8%BF%9B%E4%BA%86%E8%B0%81%E7%9A%84%E5%8F%A3%E8%A2%8B&sa=fyb_news"
+      "url": "https://www.toutiao.com/trending/7673478082126741555/"
     },
     {
-      "id": "evt-70000000",
-      "title": "卖一台路虎亏7万 宝马狂降30万",
+      "id": "evt-27240000",
+      "title": "荐股骗局调查①丨2724人的炒股群除了自己全是托！骗子直播间设伏引流，假冒券商分析师上阵",
       "category": "society",
-      "hotScore": 0.64,
+      "hotScore": 0.7225,
       "freshness": 1,
       "crossSource": 0.6309,
-      "totalScore": 0.7453,
+      "totalScore": 0.7783,
       "sources": [
         {
-          "channel": "baidu",
-          "rank": 5,
+          "channel": "thepaper",
+          "rank": 4,
           "hot": 0,
-          "url": "https://m.baidu.com/s?word=%E5%8D%96%E4%B8%80%E5%8F%B0%E8%B7%AF%E8%99%8E%E4%BA%8F7%E4%B8%87+%E5%AE%9D%E9%A9%AC%E7%8B%82%E9%99%8D30%E4%B8%87&sa=fyb_news"
+          "url": "https://www.thepaper.cn/newsDetail_forward_33694482"
         }
       ],
       "summary": "",
-      "url": "https://m.baidu.com/s?word=%E5%8D%96%E4%B8%80%E5%8F%B0%E8%B7%AF%E8%99%8E%E4%BA%8F7%E4%B8%87+%E5%AE%9D%E9%A9%AC%E7%8B%82%E9%99%8D30%E4%B8%87&sa=fyb_news"
+      "url": "https://www.thepaper.cn/newsDetail_forward_33694482"
     },
     {
-      "id": "evt-41500000",
-      "title": "415亿换不来一座“影帝”奖杯吗",
+      "id": "evt-11000000",
+      "title": "1桶半方便面的“1桶半”是商标",
       "category": "society",
       "hotScore": 0.6,
       "freshness": 1,
@@ -120,53 +101,53 @@
           "channel": "baidu",
           "rank": 6,
           "hot": 0,
-          "url": "https://m.baidu.com/s?word=415%E4%BA%BF%E6%8D%A2%E4%B8%8D%E6%9D%A5%E4%B8%80%E5%BA%A7%E2%80%9C%E5%BD%B1%E5%B8%9D%E2%80%9D%E5%A5%96%E6%9D%AF%E5%90%97&sa=fyb_news"
+          "url": "https://m.baidu.com/s?word=1%E6%A1%B6%E5%8D%8A%E6%96%B9%E4%BE%BF%E9%9D%A2%E7%9A%84%E2%80%9C1%E6%A1%B6%E5%8D%8A%E2%80%9D%E6%98%AF%E5%95%86%E6%A0%87&sa=fyb_news"
         }
       ],
       "summary": "",
-      "url": "https://m.baidu.com/s?word=415%E4%BA%BF%E6%8D%A2%E4%B8%8D%E6%9D%A5%E4%B8%80%E5%BA%A7%E2%80%9C%E5%BD%B1%E5%B8%9D%E2%80%9D%E5%A5%96%E6%9D%AF%E5%90%97&sa=fyb_news"
+      "url": "https://m.baidu.com/s?word=1%E6%A1%B6%E5%8D%8A%E6%96%B9%E4%BE%BF%E9%9D%A2%E7%9A%84%E2%80%9C1%E6%A1%B6%E5%8D%8A%E2%80%9D%E6%98%AF%E5%95%86%E6%A0%87&sa=fyb_news"
     },
     {
-      "id": "evt-27240000",
-      "title": "荐股骗局调查①丨2724人的炒股群除了自己全是托！骗子直播间设伏引流，假冒券商分析师上阵",
+      "id": "evt-glm53000",
+      "title": "智谱发布 GLM-5.3，如何评价前沿编程能力与涌现的网络安全能力?",
       "category": "society",
-      "hotScore": 0.595,
+      "hotScore": 0.6,
       "freshness": 1,
       "crossSource": 0.6309,
-      "totalScore": 0.7273,
+      "totalScore": 0.7293,
       "sources": [
         {
-          "channel": "thepaper",
-          "rank": 7,
+          "channel": "zhihu",
+          "rank": 5,
           "hot": 0,
-          "url": "https://www.thepaper.cn/newsDetail_forward_33694482"
+          "url": ""
         }
       ],
       "summary": "",
-      "url": "https://www.thepaper.cn/newsDetail_forward_33694482"
+      "url": ""
     },
     {
-      "id": "evt-41000000",
-      "title": "女子连中4瓶1元换购商家拒兑换",
+      "id": "evt-12300000",
+      "title": "孙楠体脂率12.3%",
       "category": "society",
-      "hotScore": 0.51,
+      "hotScore": 0.52,
       "freshness": 1,
       "crossSource": 0.6309,
-      "totalScore": 0.6933,
+      "totalScore": 0.6973,
       "sources": [
         {
-          "channel": "toutiao",
-          "rank": 9,
-          "hot": 4356006,
-          "url": "https://www.toutiao.com/trending/7673763584488456234/"
+          "channel": "baidu",
+          "rank": 8,
+          "hot": 0,
+          "url": "https://m.baidu.com/s?word=%E5%AD%99%E6%A5%A0%E4%BD%93%E8%84%82%E7%8E%8712.3%25&sa=fyb_news"
         }
       ],
       "summary": "",
-      "url": "https://www.toutiao.com/trending/7673763584488456234/"
+      "url": "https://m.baidu.com/s?word=%E5%AD%99%E6%A5%A0%E4%BD%93%E8%84%82%E7%8E%8712.3%25&sa=fyb_news"
     },
     {
-      "id": "evt-35000000",
-      "title": "多地要求3到5年社保全额实缴",
+      "id": "evt-41500000",
+      "title": "415亿换不来一座“影帝”奖杯吗",
       "category": "society",
       "hotScore": 0.48,
       "freshness": 1,
@@ -177,30 +158,49 @@
           "channel": "baidu",
           "rank": 9,
           "hot": 0,
-          "url": "https://m.baidu.com/s?word=%E5%A4%9A%E5%9C%B0%E8%A6%81%E6%B1%823%E5%88%B05%E5%B9%B4%E7%A4%BE%E4%BF%9D%E5%85%A8%E9%A2%9D%E5%AE%9E%E7%BC%B4&sa=fyb_news"
+          "url": "https://m.baidu.com/s?word=415%E4%BA%BF%E6%8D%A2%E4%B8%8D%E6%9D%A5%E4%B8%80%E5%BA%A7%E2%80%9C%E5%BD%B1%E5%B8%9D%E2%80%9D%E5%A5%96%E6%9D%AF%E5%90%97&sa=fyb_news"
         }
       ],
       "summary": "",
-      "url": "https://m.baidu.com/s?word=%E5%A4%9A%E5%9C%B0%E8%A6%81%E6%B1%823%E5%88%B05%E5%B9%B4%E7%A4%BE%E4%BF%9D%E5%85%A8%E9%A2%9D%E5%AE%9E%E7%BC%B4&sa=fyb_news"
+      "url": "https://m.baidu.com/s?word=415%E4%BA%BF%E6%8D%A2%E4%B8%8D%E6%9D%A5%E4%B8%80%E5%BA%A7%E2%80%9C%E5%BD%B1%E5%B8%9D%E2%80%9D%E5%A5%96%E6%9D%AF%E5%90%97&sa=fyb_news"
     },
     {
-      "id": "evt-c0000000",
-      "title": "C罗婚后首露面一头金发",
+      "id": "evt-23000000",
+      "title": "纳斯达克即将开启 23 小时连续交易，对投资者是好事还是坏事？",
       "category": "society",
-      "hotScore": 0.34,
+      "hotScore": 0.45,
       "freshness": 1,
       "crossSource": 0.6309,
-      "totalScore": 0.6253,
+      "totalScore": 0.6693,
       "sources": [
         {
-          "channel": "toutiao",
-          "rank": 13,
-          "hot": 2919918,
-          "url": "https://www.toutiao.com/trending/7673727363691056676/"
+          "channel": "zhihu",
+          "rank": 9,
+          "hot": 0,
+          "url": ""
         }
       ],
       "summary": "",
-      "url": "https://www.toutiao.com/trending/7673727363691056676/"
+      "url": ""
+    },
+    {
+      "id": "evt-50000000",
+      "title": "林诗栋苦战5局遭逆转无缘八强",
+      "category": "society",
+      "hotScore": 0.44,
+      "freshness": 1,
+      "crossSource": 0.6309,
+      "totalScore": 0.6653,
+      "sources": [
+        {
+          "channel": "baidu",
+          "rank": 10,
+          "hot": 0,
+          "url": "https://m.baidu.com/s?word=%E6%9E%97%E8%AF%97%E6%A0%8B%E8%8B%A6%E6%88%985%E5%B1%80%E9%81%AD%E9%80%86%E8%BD%AC%E6%97%A0%E7%BC%98%E5%85%AB%E5%BC%BA&sa=fyb_news"
+        }
+      ],
+      "summary": "",
+      "url": "https://m.baidu.com/s?word=%E6%9E%97%E8%AF%97%E6%A0%8B%E8%8B%A6%E6%88%985%E5%B1%80%E9%81%AD%E9%80%86%E8%BD%AC%E6%97%A0%E7%BC%98%E5%85%AB%E5%BC%BA&sa=fyb_news"
     }
   ]
 }
