@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-08-14T18:40:22.235Z",
+  "generatedAt": "2026-08-14T20:21:24.642Z",
   "fields": {
     "society": "社会",
     "economy": "经济",
@@ -11,19 +11,19 @@
       "title": "郭德纲西安演出取消",
       "category": "society",
       "hotScore": 0.6375,
-      "freshness": 1,
+      "freshness": 0.9999,
       "crossSource": 1,
       "totalScore": 0.855,
       "sources": [
         {
           "channel": "toutiao",
           "rank": 6,
-          "hot": 7449633,
+          "hot": 7670561,
           "url": "https://www.toutiao.com/trending/7673748036275486774/"
         },
         {
           "channel": "baidu",
-          "rank": 7,
+          "rank": 9,
           "hot": 0,
           "url": "https://m.baidu.com/s?word=%E9%83%AD%E5%BE%B7%E7%BA%B2%E8%A5%BF%E5%AE%89%E6%BC%94%E5%87%BA%E5%8F%96%E6%B6%88&sa=fyb_news"
         }
@@ -36,14 +36,14 @@
       "title": "江泽民诞辰100周年纪念币将发行",
       "category": "society",
       "hotScore": 0.8075,
-      "freshness": 1,
+      "freshness": 0.9999,
       "crossSource": 0.6309,
       "totalScore": 0.8123,
       "sources": [
         {
           "channel": "toutiao",
           "rank": 2,
-          "hot": 11113547,
+          "hot": 11443132,
           "url": "https://www.toutiao.com/trending/7673478082126741555/"
         }
       ],
@@ -70,37 +70,37 @@
       "url": "https://www.thepaper.cn/newsDetail_forward_33694482"
     },
     {
-      "id": "evt-23000000",
-      "title": "纳斯达克即将开启 23 小时连续交易，对投资者是好事还是坏事？",
+      "id": "evt-40000000",
+      "title": "乌军为何能4小时摧毁俄装甲集群",
       "category": "society",
-      "hotScore": 0.5625,
-      "freshness": 1,
-      "crossSource": 0.6309,
-      "totalScore": 0.7143,
-      "sources": [
-        {
-          "channel": "zhihu",
-          "rank": 6,
-          "hot": 0,
-          "url": ""
-        }
-      ],
-      "summary": "",
-      "url": ""
-    },
-    {
-      "id": "evt-50000000",
-      "title": "5年定期存款利率为何逆势上升",
-      "category": "economy",
       "hotScore": 0.5525,
-      "freshness": 1,
+      "freshness": 0.9999,
       "crossSource": 0.6309,
       "totalScore": 0.7103,
       "sources": [
         {
           "channel": "toutiao",
           "rank": 8,
-          "hot": 6099244,
+          "hot": 6280124,
+          "url": "https://www.toutiao.com/trending/7673711940689989163/"
+        }
+      ],
+      "summary": "",
+      "url": "https://www.toutiao.com/trending/7673711940689989163/"
+    },
+    {
+      "id": "evt-50000000",
+      "title": "5年定期存款利率为何逆势上升",
+      "category": "economy",
+      "hotScore": 0.51,
+      "freshness": 0.9999,
+      "crossSource": 0.6309,
+      "totalScore": 0.6933,
+      "sources": [
+        {
+          "channel": "toutiao",
+          "rank": 9,
+          "hot": 5682491,
           "url": "https://www.toutiao.com/trending/7673804388325920262/"
         }
       ],
@@ -127,55 +127,17 @@
       "url": "https://m.baidu.com/s?word=%E7%8E%8B%E4%BC%A0%E5%90%9B19%E5%B9%B4%E5%89%8D%E5%B0%B1%E5%8F%82%E5%8A%A0%E8%BF%87%E9%80%89%E7%A7%80&sa=fyb_news"
     },
     {
-      "id": "evt-24000000",
-      "title": "胖东来许昌 24 年老店将关闭，对周边商户和商圈发展有哪些影响？",
+      "id": "evt-23000000",
+      "title": "纳斯达克即将开启 23 小时连续交易，对投资者是好事还是坏事？",
       "category": "society",
       "hotScore": 0.4875,
-      "freshness": 1,
+      "freshness": 0.9999,
       "crossSource": 0.6309,
       "totalScore": 0.6843,
       "sources": [
         {
           "channel": "zhihu",
           "rank": 8,
-          "hot": 0,
-          "url": ""
-        }
-      ],
-      "summary": "",
-      "url": ""
-    },
-    {
-      "id": "evt-40000000",
-      "title": "乌军为何能4小时摧毁俄装甲集群",
-      "category": "society",
-      "hotScore": 0.4675,
-      "freshness": 1,
-      "crossSource": 0.6309,
-      "totalScore": 0.6763,
-      "sources": [
-        {
-          "channel": "toutiao",
-          "rank": 10,
-          "hot": 4993638,
-          "url": "https://www.toutiao.com/trending/7673711940689989163/"
-        }
-      ],
-      "summary": "",
-      "url": "https://www.toutiao.com/trending/7673711940689989163/"
-    },
-    {
-      "id": "evt-2026wtt0",
-      "title": "2026 WTT 瑞典大满贯，林诗栋 2-3 再次不敌艾利克斯·勒布伦，无缘 8 强，如何评价这场比赛？",
-      "category": "society",
-      "hotScore": 0.45,
-      "freshness": 1,
-      "crossSource": 0.6309,
-      "totalScore": 0.6693,
-      "sources": [
-        {
-          "channel": "zhihu",
-          "rank": 9,
           "hot": 0,
           "url": ""
         }
