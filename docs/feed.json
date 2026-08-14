@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-08-14T07:07:58.246Z",
+  "generatedAt": "2026-08-14T08:57:47.281Z",
   "fields": {
     "society": "社会",
     "economy": "经济",
@@ -8,22 +8,53 @@
   "feed": [
     {
       "id": "evt-00000000",
-      "title": "国乒男女双全军覆没",
+      "title": "中国“救援航母”奔赴河南溃口现场",
       "category": "society",
-      "hotScore": 0.85,
-      "freshness": 1,
-      "crossSource": 0.6309,
-      "totalScore": 0.8293,
+      "hotScore": 0.6375,
+      "freshness": 0.9999,
+      "crossSource": 1,
+      "totalScore": 0.855,
       "sources": [
         {
           "channel": "toutiao",
-          "rank": 1,
-          "hot": 7746690,
-          "url": "https://www.toutiao.com/trending/7673729998800293418/"
+          "rank": 6,
+          "hot": 5636343,
+          "url": "https://www.toutiao.com/trending/7673448207317319723/"
+        },
+        {
+          "channel": "baidu",
+          "rank": 7,
+          "hot": 0,
+          "url": "https://m.baidu.com/s?word=%E4%B8%AD%E5%9B%BD%E2%80%9C%E6%95%91%E6%8F%B4%E8%88%AA%E6%AF%8D%E2%80%9D%E5%A5%94%E8%B5%B4%E6%B2%B3%E5%8D%97%E6%BA%83%E5%8F%A3%E7%8E%B0%E5%9C%BA&sa=fyb_news"
         }
       ],
       "summary": "",
-      "url": "https://www.toutiao.com/trending/7673729998800293418/"
+      "url": "https://www.toutiao.com/trending/7673448207317319723/"
+    },
+    {
+      "id": "evt-20000000",
+      "title": "追觅卖出首台手机售价超20万元",
+      "category": "society",
+      "hotScore": 0.595,
+      "freshness": 0.9999,
+      "crossSource": 1,
+      "totalScore": 0.838,
+      "sources": [
+        {
+          "channel": "toutiao",
+          "rank": 7,
+          "hot": 5099974,
+          "url": "https://www.toutiao.com/trending/7673679213765181476/"
+        },
+        {
+          "channel": "baidu",
+          "rank": 16,
+          "hot": 0,
+          "url": "https://m.baidu.com/s?word=%E8%BF%BD%E8%A7%85%E5%8D%96%E5%87%BA%E9%A6%96%E5%8F%B0%E6%89%8B%E6%9C%BA%E5%94%AE%E4%BB%B7%E8%B6%8520%E4%B8%87%E5%85%83&sa=fyb_news"
+        }
+      ],
+      "summary": "",
+      "url": "https://www.toutiao.com/trending/7673679213765181476/"
     },
     {
       "id": "evt-50000000",
@@ -64,48 +95,23 @@
       "url": "https://www.thepaper.cn/newsDetail_forward_33778063"
     },
     {
-      "id": "evt-26000000",
-      "title": "广东河源发现翅展超26厘米蛇头蛾",
-      "category": "society",
-      "hotScore": 0.7225,
-      "freshness": 1,
-      "crossSource": 0.6309,
-      "totalScore": 0.7783,
-      "sources": [
-        {
-          "channel": "toutiao",
-          "rank": 4,
-          "hot": 5738889,
-          "url": "https://www.toutiao.com/trending/7673698236913696774/"
-        }
-      ],
-      "summary": "",
-      "url": "https://www.toutiao.com/trending/7673698236913696774/"
-    },
-    {
-      "id": "evt-97100000",
-      "title": "电影《牛来》上映9天票房7169元",
+      "id": "evt-20260000",
+      "title": "2026年最“炸裂”电影",
       "category": "entertainment",
       "hotScore": 0.76,
       "freshness": 1,
-      "crossSource": 1,
-      "totalScore": 0.904,
+      "crossSource": 0.6309,
+      "totalScore": 0.7933,
       "sources": [
-        {
-          "channel": "toutiao",
-          "rank": 7,
-          "hot": 4251473,
-          "url": "https://www.toutiao.com/trending/7673370504196685860/"
-        },
         {
           "channel": "baidu",
           "rank": 2,
           "hot": 0,
-          "url": "https://m.baidu.com/s?word=%E7%94%B5%E5%BD%B1%E3%80%8A%E7%89%9B%E6%9D%A5%E3%80%8B%E4%B8%8A%E6%98%A09%E5%A4%A9%E7%A5%A8%E6%88%BF7169%E5%85%83&sa=fyb_news"
+          "url": "https://m.baidu.com/s?word=2026%E5%B9%B4%E6%9C%80%E2%80%9C%E7%82%B8%E8%A3%82%E2%80%9D%E7%94%B5%E5%BD%B1&sa=fyb_news"
         }
       ],
       "summary": "",
-      "url": "https://www.toutiao.com/trending/7673370504196685860/"
+      "url": "https://m.baidu.com/s?word=2026%E5%B9%B4%E6%9C%80%E2%80%9C%E7%82%B8%E8%A3%82%E2%80%9D%E7%94%B5%E5%BD%B1&sa=fyb_news"
     },
     {
       "id": "evt-32000000",
@@ -127,27 +133,27 @@
       "url": ""
     },
     {
-      "id": "evt-deepseekv4",
-      "title": "DeepSeek V4 大幅涨价后，现在谁才是你心中的大模型性价比之选？",
+      "id": "evt-90000000",
+      "title": "加满一箱油将少花9元",
       "category": "society",
-      "hotScore": 0.675,
-      "freshness": 1,
+      "hotScore": 0.68,
+      "freshness": 0.9999,
       "crossSource": 0.6309,
-      "totalScore": 0.7593,
+      "totalScore": 0.7613,
       "sources": [
         {
-          "channel": "zhihu",
-          "rank": 3,
-          "hot": 0,
-          "url": ""
+          "channel": "toutiao",
+          "rank": 5,
+          "hot": 6229122,
+          "url": "https://www.toutiao.com/trending/7673779151563673115/"
         }
       ],
       "summary": "",
-      "url": ""
+      "url": "https://www.toutiao.com/trending/7673779151563673115/"
     },
     {
-      "id": "evt-27240000",
-      "title": "2724人的炒股群除了自己全是托",
+      "id": "evt-80000000",
+      "title": "五粮液不得低于800元抛售",
       "category": "society",
       "hotScore": 0.64,
       "freshness": 1,
@@ -158,34 +164,53 @@
           "channel": "baidu",
           "rank": 5,
           "hot": 0,
-          "url": "https://m.baidu.com/s?word=2724%E4%BA%BA%E7%9A%84%E7%82%92%E8%82%A1%E7%BE%A4%E9%99%A4%E4%BA%86%E8%87%AA%E5%B7%B1%E5%85%A8%E6%98%AF%E6%89%98&sa=fyb_news"
+          "url": "https://m.baidu.com/s?word=%E4%BA%94%E7%B2%AE%E6%B6%B2%E4%B8%8D%E5%BE%97%E4%BD%8E%E4%BA%8E800%E5%85%83%E6%8A%9B%E5%94%AE&sa=fyb_news"
         }
       ],
       "summary": "",
-      "url": "https://m.baidu.com/s?word=2724%E4%BA%BA%E7%9A%84%E7%82%92%E8%82%A1%E7%BE%A4%E9%99%A4%E4%BA%86%E8%87%AA%E5%B7%B1%E5%85%A8%E6%98%AF%E6%89%98&sa=fyb_news"
+      "url": "https://m.baidu.com/s?word=%E4%BA%94%E7%B2%AE%E6%B6%B2%E4%B8%8D%E5%BE%97%E4%BD%8E%E4%BA%8E800%E5%85%83%E6%8A%9B%E5%94%AE&sa=fyb_news"
     },
     {
-      "id": "evt-14000000",
-      "title": "借给朋友140万 对方离世钱要不回来",
+      "id": "evt-27240000",
+      "title": "荐股骗局调查①丨2724人的炒股群除了自己全是托！骗子直播间设伏引流，假冒券商分析师上阵",
       "category": "society",
-      "hotScore": 0.56,
+      "hotScore": 0.6375,
       "freshness": 1,
       "crossSource": 0.6309,
-      "totalScore": 0.7133,
+      "totalScore": 0.7443,
       "sources": [
         {
-          "channel": "baidu",
-          "rank": 7,
+          "channel": "thepaper",
+          "rank": 6,
           "hot": 0,
-          "url": "https://m.baidu.com/s?word=%E5%80%9F%E7%BB%99%E6%9C%8B%E5%8F%8B140%E4%B8%87+%E5%AF%B9%E6%96%B9%E7%A6%BB%E4%B8%96%E9%92%B1%E8%A6%81%E4%B8%8D%E5%9B%9E%E6%9D%A5&sa=fyb_news"
+          "url": "https://www.thepaper.cn/newsDetail_forward_33694482"
         }
       ],
       "summary": "",
-      "url": "https://m.baidu.com/s?word=%E5%80%9F%E7%BB%99%E6%9C%8B%E5%8F%8B140%E4%B8%87+%E5%AF%B9%E6%96%B9%E7%A6%BB%E4%B8%96%E9%92%B1%E8%A6%81%E4%B8%8D%E5%9B%9E%E6%9D%A5&sa=fyb_news"
+      "url": "https://www.thepaper.cn/newsDetail_forward_33694482"
     },
     {
-      "id": "evt-gemini37",
-      "title": "谷歌推出 Gemini 3.7 Flash，有哪些亮点和创新？",
+      "id": "evt-24000000",
+      "title": "胖东来许昌 24 年老店将关闭，对周边商户和商圈发展有哪些影响？",
+      "category": "society",
+      "hotScore": 0.5625,
+      "freshness": 1,
+      "crossSource": 0.6309,
+      "totalScore": 0.7143,
+      "sources": [
+        {
+          "channel": "zhihu",
+          "rank": 6,
+          "hot": 0,
+          "url": ""
+        }
+      ],
+      "summary": "",
+      "url": ""
+    },
+    {
+      "id": "evt-deepseekv4",
+      "title": "DeepSeek V4 大幅涨价后，现在谁才是你心中的大模型性价比之选？",
       "category": "society",
       "hotScore": 0.525,
       "freshness": 1,
@@ -203,23 +228,23 @@
       "url": ""
     },
     {
-      "id": "evt-20261400",
-      "title": "2026 瑞满 1/4 男双林诗栋 / 温瑞博 0-3 艾尼克斯·勒布伦 / 菲尼克斯·勒布伦，如何看待这场比赛？",
+      "id": "evt-14000000",
+      "title": "借给朋友140万 对方离世钱要不回来",
       "category": "society",
-      "hotScore": 0.45,
+      "hotScore": 0.48,
       "freshness": 1,
       "crossSource": 0.6309,
-      "totalScore": 0.6693,
+      "totalScore": 0.6813,
       "sources": [
         {
-          "channel": "zhihu",
+          "channel": "baidu",
           "rank": 9,
           "hot": 0,
-          "url": ""
+          "url": "https://m.baidu.com/s?word=%E5%80%9F%E7%BB%99%E6%9C%8B%E5%8F%8B140%E4%B8%87+%E5%AF%B9%E6%96%B9%E7%A6%BB%E4%B8%96%E9%92%B1%E8%A6%81%E4%B8%8D%E5%9B%9E%E6%9D%A5&sa=fyb_news"
         }
       ],
       "summary": "",
-      "url": ""
+      "url": "https://m.baidu.com/s?word=%E5%80%9F%E7%BB%99%E6%9C%8B%E5%8F%8B140%E4%B8%87+%E5%AF%B9%E6%96%B9%E7%A6%BB%E4%B8%96%E9%92%B1%E8%A6%81%E4%B8%8D%E5%9B%9E%E6%9D%A5&sa=fyb_news"
     }
   ]
 }
