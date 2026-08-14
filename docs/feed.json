@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-08-14T16:40:09.104Z",
+  "generatedAt": "2026-08-14T18:40:22.235Z",
   "fields": {
     "society": "社会",
     "economy": "经济",
@@ -18,12 +18,12 @@
         {
           "channel": "toutiao",
           "rank": 6,
-          "hot": 7208920,
+          "hot": 7449633,
           "url": "https://www.toutiao.com/trending/7673748036275486774/"
         },
         {
           "channel": "baidu",
-          "rank": 9,
+          "rank": 7,
           "hot": 0,
           "url": "https://m.baidu.com/s?word=%E9%83%AD%E5%BE%B7%E7%BA%B2%E8%A5%BF%E5%AE%89%E6%BC%94%E5%87%BA%E5%8F%96%E6%B6%88&sa=fyb_news"
         }
@@ -43,7 +43,7 @@
         {
           "channel": "toutiao",
           "rank": 2,
-          "hot": 10754445,
+          "hot": 11113547,
           "url": "https://www.toutiao.com/trending/7673478082126741555/"
         }
       ],
@@ -89,6 +89,25 @@
       "url": ""
     },
     {
+      "id": "evt-50000000",
+      "title": "5年定期存款利率为何逆势上升",
+      "category": "economy",
+      "hotScore": 0.5525,
+      "freshness": 1,
+      "crossSource": 0.6309,
+      "totalScore": 0.7103,
+      "sources": [
+        {
+          "channel": "toutiao",
+          "rank": 8,
+          "hot": 6099244,
+          "url": "https://www.toutiao.com/trending/7673804388325920262/"
+        }
+      ],
+      "summary": "",
+      "url": "https://www.toutiao.com/trending/7673804388325920262/"
+    },
+    {
       "id": "evt-19000000",
       "title": "王传君19年前就参加过选秀",
       "category": "entertainment",
@@ -127,8 +146,8 @@
       "url": ""
     },
     {
-      "id": "evt-20340000",
-      "title": "专访2034杯重庆足球小将团队",
+      "id": "evt-40000000",
+      "title": "乌军为何能4小时摧毁俄装甲集群",
       "category": "society",
       "hotScore": 0.4675,
       "freshness": 1,
@@ -138,31 +157,31 @@
         {
           "channel": "toutiao",
           "rank": 10,
-          "hot": 4832284,
-          "url": "https://www.toutiao.com/trending/7673151955581812790/"
+          "hot": 4993638,
+          "url": "https://www.toutiao.com/trending/7673711940689989163/"
         }
       ],
       "summary": "",
-      "url": "https://www.toutiao.com/trending/7673151955581812790/"
+      "url": "https://www.toutiao.com/trending/7673711940689989163/"
     },
     {
-      "id": "evt-20000000",
-      "title": "宁德福安一船厂发生火灾，23岁消防员池坷杰不幸牺牲",
+      "id": "evt-2026wtt0",
+      "title": "2026 WTT 瑞典大满贯，林诗栋 2-3 再次不敌艾利克斯·勒布伦，无缘 8 强，如何评价这场比赛？",
       "category": "society",
-      "hotScore": 0.425,
+      "hotScore": 0.45,
       "freshness": 1,
       "crossSource": 0.6309,
-      "totalScore": 0.6593,
+      "totalScore": 0.6693,
       "sources": [
         {
-          "channel": "thepaper",
-          "rank": 11,
+          "channel": "zhihu",
+          "rank": 9,
           "hot": 0,
-          "url": "https://www.thepaper.cn/newsDetail_forward_33780632"
+          "url": ""
         }
       ],
       "summary": "",
-      "url": "https://www.thepaper.cn/newsDetail_forward_33780632"
+      "url": ""
     }
   ]
 }
