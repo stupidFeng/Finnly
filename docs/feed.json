@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-08-15T14:12:14.669Z",
+  "generatedAt": "2026-08-15T16:12:05.161Z",
   "fields": {
     "society": "社会",
     "economy": "经济",
@@ -11,14 +11,14 @@
       "title": "纪念江泽民同志诞辰100周年大会",
       "category": "society",
       "hotScore": 0.85,
-      "freshness": 1,
+      "freshness": 0.9999,
       "crossSource": 1,
       "totalScore": 0.94,
       "sources": [
         {
           "channel": "toutiao",
           "rank": 1,
-          "hot": 16047495,
+          "hot": 16957086,
           "url": "https://www.toutiao.com/trending/7674226875460059142/"
         },
         {
@@ -32,71 +32,52 @@
       "url": "https://www.toutiao.com/trending/7674226875460059142/"
     },
     {
-      "id": "evt-40000000",
-      "title": "男童走失4天找回 父亲设宴200桌答谢",
+      "id": "evt-00000000",
+      "title": "王传君终于原谅《爱情公寓》了",
       "category": "society",
-      "hotScore": 0.8075,
-      "freshness": 1,
+      "hotScore": 0.56,
+      "freshness": 0.9999,
       "crossSource": 1,
-      "totalScore": 0.923,
+      "totalScore": 0.824,
       "sources": [
         {
           "channel": "toutiao",
-          "rank": 2,
-          "hot": 14520374,
-          "url": "https://www.toutiao.com/trending/7673461817784877098/"
+          "rank": 19,
+          "hot": 2802987,
+          "url": "https://www.toutiao.com/trending/7674255615633162276/"
         },
         {
           "channel": "baidu",
           "rank": 7,
           "hot": 0,
-          "url": "https://m.baidu.com/s?word=%E7%94%B7%E7%AB%A5%E8%B5%B0%E5%A4%B14%E5%A4%A9%E6%89%BE%E5%9B%9E+%E7%88%B6%E4%BA%B2%E8%AE%BE%E5%AE%B4200%E6%A1%8C%E7%AD%94%E8%B0%A2&sa=fyb_news"
+          "url": "https://m.baidu.com/s?word=%E7%8E%8B%E4%BC%A0%E5%90%9B%E7%BB%88%E4%BA%8E%E5%8E%9F%E8%B0%85%E3%80%8A%E7%88%B1%E6%83%85%E5%85%AC%E5%AF%93%E3%80%8B%E4%BA%86&sa=fyb_news"
         }
       ],
       "summary": "",
-      "url": "https://www.toutiao.com/trending/7673461817784877098/"
+      "url": "https://www.toutiao.com/trending/7674255615633162276/"
     },
     {
-      "id": "evt-90000000",
-      "title": "《江泽民》第9集《九州方圆》",
+      "id": "evt-11700000",
+      "title": "河南贾鲁河堤防117米溃口成功合龙",
       "category": "society",
       "hotScore": 0.8075,
-      "freshness": 1,
+      "freshness": 0.9999,
       "crossSource": 0.6309,
       "totalScore": 0.8123,
       "sources": [
         {
-          "channel": "thepaper",
+          "channel": "toutiao",
           "rank": 2,
-          "hot": 0,
-          "url": "https://www.thepaper.cn/newsDetail_forward_33790351"
+          "hot": 15343406,
+          "url": "https://www.toutiao.com/trending/7673089074458689572/"
         }
       ],
       "summary": "",
-      "url": "https://www.thepaper.cn/newsDetail_forward_33790351"
+      "url": "https://www.toutiao.com/trending/7673089074458689572/"
     },
     {
-      "id": "evt-00000000",
-      "title": "嘱托为笔 绘天地国色",
-      "category": "society",
-      "hotScore": 0.8,
-      "freshness": 1,
-      "crossSource": 0.6309,
-      "totalScore": 0.8093,
-      "sources": [
-        {
-          "channel": "baidu",
-          "rank": 1,
-          "hot": 0,
-          "url": "https://m.baidu.com/s?word=%E5%98%B1%E6%89%98%E4%B8%BA%E7%AC%94+%E7%BB%98%E5%A4%A9%E5%9C%B0%E5%9B%BD%E8%89%B2&sa=fyb_news"
-        }
-      ],
-      "summary": "",
-      "url": "https://m.baidu.com/s?word=%E5%98%B1%E6%89%98%E4%B8%BA%E7%AC%94+%E7%BB%98%E5%A4%A9%E5%9C%B0%E5%9B%BD%E8%89%B2&sa=fyb_news"
-    },
-    {
-      "id": "evt-80000000",
-      "title": "《江泽民》第8集《精兵新篇》",
+      "id": "evt-90000000",
+      "title": "《江泽民》第9集《九州方圆》",
       "category": "society",
       "hotScore": 0.765,
       "freshness": 1,
@@ -107,56 +88,18 @@
           "channel": "thepaper",
           "rank": 3,
           "hot": 0,
-          "url": "https://www.thepaper.cn/newsDetail_forward_33785626"
+          "url": "https://www.thepaper.cn/newsDetail_forward_33790351"
         }
       ],
       "summary": "",
-      "url": "https://www.thepaper.cn/newsDetail_forward_33785626"
+      "url": "https://www.thepaper.cn/newsDetail_forward_33790351"
     },
     {
-      "id": "evt-11700000",
-      "title": "河南贾鲁河堤防117米溃口成功合龙",
-      "category": "society",
-      "hotScore": 0.7225,
-      "freshness": 1,
-      "crossSource": 0.6309,
-      "totalScore": 0.7783,
-      "sources": [
-        {
-          "channel": "toutiao",
-          "rank": 4,
-          "hot": 11888277,
-          "url": "https://www.toutiao.com/trending/7673089074458689572/"
-        }
-      ],
-      "summary": "",
-      "url": "https://www.toutiao.com/trending/7673089074458689572/"
-    },
-    {
-      "id": "evt-70000000",
-      "title": "《江泽民》第7集《风云本色》",
-      "category": "society",
-      "hotScore": 0.7225,
-      "freshness": 1,
-      "crossSource": 0.6309,
-      "totalScore": 0.7783,
-      "sources": [
-        {
-          "channel": "thepaper",
-          "rank": 4,
-          "hot": 0,
-          "url": "https://www.thepaper.cn/newsDetail_forward_33785581"
-        }
-      ],
-      "summary": "",
-      "url": "https://www.thepaper.cn/newsDetail_forward_33785581"
-    },
-    {
-      "id": "evt-20000000",
-      "title": "全省仅招2人 俩人同年同月同日生",
+      "id": "evt-ai000000",
+      "title": "美国大模型帮日本对AI进行投毒",
       "category": "society",
       "hotScore": 0.72,
-      "freshness": 1,
+      "freshness": 0.9999,
       "crossSource": 0.6309,
       "totalScore": 0.7773,
       "sources": [
@@ -164,24 +107,43 @@
           "channel": "baidu",
           "rank": 3,
           "hot": 0,
-          "url": "https://m.baidu.com/s?word=%E5%85%A8%E7%9C%81%E4%BB%85%E6%8B%9B2%E4%BA%BA+%E4%BF%A9%E4%BA%BA%E5%90%8C%E5%B9%B4%E5%90%8C%E6%9C%88%E5%90%8C%E6%97%A5%E7%94%9F&sa=fyb_news"
+          "url": "https://m.baidu.com/s?word=%E7%BE%8E%E5%9B%BD%E5%A4%A7%E6%A8%A1%E5%9E%8B%E5%B8%AE%E6%97%A5%E6%9C%AC%E5%AF%B9AI%E8%BF%9B%E8%A1%8C%E6%8A%95%E6%AF%92&sa=fyb_news"
         }
       ],
       "summary": "",
-      "url": "https://m.baidu.com/s?word=%E5%85%A8%E7%9C%81%E4%BB%85%E6%8B%9B2%E4%BA%BA+%E4%BF%A9%E4%BA%BA%E5%90%8C%E5%B9%B4%E5%90%8C%E6%9C%88%E5%90%8C%E6%97%A5%E7%94%9F&sa=fyb_news"
+      "url": "https://m.baidu.com/s?word=%E7%BE%8E%E5%9B%BD%E5%A4%A7%E6%A8%A1%E5%9E%8B%E5%B8%AE%E6%97%A5%E6%9C%AC%E5%AF%B9AI%E8%BF%9B%E8%A1%8C%E6%8A%95%E6%AF%92&sa=fyb_news"
     },
     {
-      "id": "evt-send0000",
-      "title": "怎么看森多夫猜想（Sendov's Conjecture）已被 AI 、 Lech Mazur 、陶哲轩攻破？",
+      "id": "evt-28430000",
+      "title": "28岁男子和43岁女子领证结婚",
       "category": "society",
-      "hotScore": 0.525,
-      "freshness": 1,
+      "hotScore": 0.6375,
+      "freshness": 0.9999,
       "crossSource": 0.6309,
-      "totalScore": 0.6993,
+      "totalScore": 0.7443,
+      "sources": [
+        {
+          "channel": "toutiao",
+          "rank": 6,
+          "hot": 10284992,
+          "url": "https://www.toutiao.com/trending/7674151636219068466/"
+        }
+      ],
+      "summary": "",
+      "url": "https://www.toutiao.com/trending/7674151636219068466/"
+    },
+    {
+      "id": "evt-deepseekv4pr",
+      "title": "DeepSeek-V4-Pro-0813 已发布，体验下来怎么样？",
+      "category": "society",
+      "hotScore": 0.6375,
+      "freshness": 0.9999,
+      "crossSource": 0.6309,
+      "totalScore": 0.7443,
       "sources": [
         {
           "channel": "zhihu",
-          "rank": 7,
+          "rank": 4,
           "hot": 0,
           "url": ""
         }
@@ -190,42 +152,61 @@
       "url": ""
     },
     {
-      "id": "evt-56000000",
-      "title": "独闯南太行56岁男子遗体疑被找到",
+      "id": "evt-20000000",
+      "title": "《一饭封神 2》中谢霆锋直言「糖拌西红柿不能拿来比赛」，你认同吗？",
       "category": "society",
-      "hotScore": 0.4675,
-      "freshness": 1,
+      "hotScore": 0.5625,
+      "freshness": 0.9999,
       "crossSource": 0.6309,
-      "totalScore": 0.6763,
+      "totalScore": 0.7143,
       "sources": [
         {
-          "channel": "toutiao",
-          "rank": 10,
-          "hot": 6524424,
-          "url": "https://www.toutiao.com/trending/7673337984339001387/"
+          "channel": "zhihu",
+          "rank": 6,
+          "hot": 0,
+          "url": ""
         }
       ],
       "summary": "",
-      "url": "https://www.toutiao.com/trending/7673337984339001387/"
+      "url": ""
     },
     {
-      "id": "evt-59800000",
-      "title": "男子彩票中598万 没告诉妻儿父母",
+      "id": "evt-cr000000",
+      "title": "曾经爆火的洞洞鞋遇冷，Crocs 联合瑞幸推出近六百元洞洞鞋，二手平台半价出售，高价洞洞鞋卖不动了吗？",
       "category": "society",
-      "hotScore": 0.44,
-      "freshness": 1,
+      "hotScore": 0.4875,
+      "freshness": 0.9999,
       "crossSource": 0.6309,
-      "totalScore": 0.6653,
+      "totalScore": 0.6843,
+      "sources": [
+        {
+          "channel": "zhihu",
+          "rank": 8,
+          "hot": 0,
+          "url": ""
+        }
+      ],
+      "summary": "",
+      "url": ""
+    },
+    {
+      "id": "evt-40000000",
+      "title": "父子决裂40年亲生儿子仍继承9成遗产",
+      "category": "society",
+      "hotScore": 0.48,
+      "freshness": 0.9999,
+      "crossSource": 0.6309,
+      "totalScore": 0.6813,
       "sources": [
         {
           "channel": "baidu",
-          "rank": 10,
+          "rank": 9,
           "hot": 0,
-          "url": "https://m.baidu.com/s?word=%E7%94%B7%E5%AD%90%E5%BD%A9%E7%A5%A8%E4%B8%AD598%E4%B8%87+%E6%B2%A1%E5%91%8A%E8%AF%89%E5%A6%BB%E5%84%BF%E7%88%B6%E6%AF%8D&sa=fyb_news"
+          "url": "https://m.baidu.com/s?word=%E7%88%B6%E5%AD%90%E5%86%B3%E8%A3%8240%E5%B9%B4%E4%BA%B2%E7%94%9F%E5%84%BF%E5%AD%90%E4%BB%8D%E7%BB%A7%E6%89%BF9%E6%88%90%E9%81%97%E4%BA%A7&sa=fyb_news"
         }
       ],
       "summary": "",
-      "url": "https://m.baidu.com/s?word=%E7%94%B7%E5%AD%90%E5%BD%A9%E7%A5%A8%E4%B8%AD598%E4%B8%87+%E6%B2%A1%E5%91%8A%E8%AF%89%E5%A6%BB%E5%84%BF%E7%88%B6%E6%AF%8D&sa=fyb_news"
+      "url": "https://m.baidu.com/s?word=%E7%88%B6%E5%AD%90%E5%86%B3%E8%A3%8240%E5%B9%B4%E4%BA%B2%E7%94%9F%E5%84%BF%E5%AD%90%E4%BB%8D%E7%BB%A7%E6%89%BF9%E6%88%90%E9%81%97%E4%BA%A7&sa=fyb_news"
     }
   ]
 }
