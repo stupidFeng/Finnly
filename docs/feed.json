@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-08-15T12:16:49.099Z",
+  "generatedAt": "2026-08-15T14:12:14.669Z",
   "fields": {
     "society": "社会",
     "economy": "经济",
@@ -7,8 +7,8 @@
   },
   "feed": [
     {
-      "id": "evt-40000000",
-      "title": "男童走失4天找回 父亲设宴200桌答谢",
+      "id": "evt-10000000",
+      "title": "纪念江泽民同志诞辰100周年大会",
       "category": "society",
       "hotScore": 0.85,
       "freshness": 1,
@@ -18,12 +18,37 @@
         {
           "channel": "toutiao",
           "rank": 1,
-          "hot": 14603328,
+          "hot": 16047495,
+          "url": "https://www.toutiao.com/trending/7674226875460059142/"
+        },
+        {
+          "channel": "baidu",
+          "rank": 2,
+          "hot": 0,
+          "url": "https://m.baidu.com/s?word=%E7%BA%AA%E5%BF%B5%E6%B1%9F%E6%B3%BD%E6%B0%91%E5%90%8C%E5%BF%97%E8%AF%9E%E8%BE%B0100%E5%91%A8%E5%B9%B4%E5%A4%A7%E4%BC%9A&sa=fyb_news"
+        }
+      ],
+      "summary": "",
+      "url": "https://www.toutiao.com/trending/7674226875460059142/"
+    },
+    {
+      "id": "evt-40000000",
+      "title": "男童走失4天找回 父亲设宴200桌答谢",
+      "category": "society",
+      "hotScore": 0.8075,
+      "freshness": 1,
+      "crossSource": 1,
+      "totalScore": 0.923,
+      "sources": [
+        {
+          "channel": "toutiao",
+          "rank": 2,
+          "hot": 14520374,
           "url": "https://www.toutiao.com/trending/7673461817784877098/"
         },
         {
           "channel": "baidu",
-          "rank": 5,
+          "rank": 7,
           "hot": 0,
           "url": "https://m.baidu.com/s?word=%E7%94%B7%E7%AB%A5%E8%B5%B0%E5%A4%B14%E5%A4%A9%E6%89%BE%E5%9B%9E+%E7%88%B6%E4%BA%B2%E8%AE%BE%E5%AE%B4200%E6%A1%8C%E7%AD%94%E8%B0%A2&sa=fyb_news"
         }
@@ -32,52 +57,8 @@
       "url": "https://www.toutiao.com/trending/7673461817784877098/"
     },
     {
-      "id": "evt-00000000",
-      "title": "河南周口溃口封堵现场现“三蹦子”",
-      "category": "society",
-      "hotScore": 0.6375,
-      "freshness": 1,
-      "crossSource": 1,
-      "totalScore": 0.855,
-      "sources": [
-        {
-          "channel": "toutiao",
-          "rank": 6,
-          "hot": 8857366,
-          "url": "https://www.toutiao.com/trending/7673858215548911625/"
-        },
-        {
-          "channel": "baidu",
-          "rank": 15,
-          "hot": 0,
-          "url": "https://m.baidu.com/s?word=%E6%B2%B3%E5%8D%97%E5%91%A8%E5%8F%A3%E6%BA%83%E5%8F%A3%E5%B0%81%E5%A0%B5%E7%8E%B0%E5%9C%BA%E7%8E%B0%E2%80%9C%E4%B8%89%E8%B9%A6%E5%AD%90%E2%80%9D&sa=fyb_news"
-        }
-      ],
-      "summary": "",
-      "url": "https://www.toutiao.com/trending/7673858215548911625/"
-    },
-    {
-      "id": "evt-80000000",
-      "title": "《江泽民》第8集《精兵新篇》",
-      "category": "society",
-      "hotScore": 0.85,
-      "freshness": 1,
-      "crossSource": 0.6309,
-      "totalScore": 0.8293,
-      "sources": [
-        {
-          "channel": "thepaper",
-          "rank": 1,
-          "hot": 0,
-          "url": "https://www.thepaper.cn/newsDetail_forward_33785626"
-        }
-      ],
-      "summary": "",
-      "url": "https://www.thepaper.cn/newsDetail_forward_33785626"
-    },
-    {
-      "id": "evt-70000000",
-      "title": "《江泽民》第7集《风云本色》",
+      "id": "evt-90000000",
+      "title": "《江泽民》第9集《九州方圆》",
       "category": "society",
       "hotScore": 0.8075,
       "freshness": 1,
@@ -88,6 +69,82 @@
           "channel": "thepaper",
           "rank": 2,
           "hot": 0,
+          "url": "https://www.thepaper.cn/newsDetail_forward_33790351"
+        }
+      ],
+      "summary": "",
+      "url": "https://www.thepaper.cn/newsDetail_forward_33790351"
+    },
+    {
+      "id": "evt-00000000",
+      "title": "嘱托为笔 绘天地国色",
+      "category": "society",
+      "hotScore": 0.8,
+      "freshness": 1,
+      "crossSource": 0.6309,
+      "totalScore": 0.8093,
+      "sources": [
+        {
+          "channel": "baidu",
+          "rank": 1,
+          "hot": 0,
+          "url": "https://m.baidu.com/s?word=%E5%98%B1%E6%89%98%E4%B8%BA%E7%AC%94+%E7%BB%98%E5%A4%A9%E5%9C%B0%E5%9B%BD%E8%89%B2&sa=fyb_news"
+        }
+      ],
+      "summary": "",
+      "url": "https://m.baidu.com/s?word=%E5%98%B1%E6%89%98%E4%B8%BA%E7%AC%94+%E7%BB%98%E5%A4%A9%E5%9C%B0%E5%9B%BD%E8%89%B2&sa=fyb_news"
+    },
+    {
+      "id": "evt-80000000",
+      "title": "《江泽民》第8集《精兵新篇》",
+      "category": "society",
+      "hotScore": 0.765,
+      "freshness": 1,
+      "crossSource": 0.6309,
+      "totalScore": 0.7953,
+      "sources": [
+        {
+          "channel": "thepaper",
+          "rank": 3,
+          "hot": 0,
+          "url": "https://www.thepaper.cn/newsDetail_forward_33785626"
+        }
+      ],
+      "summary": "",
+      "url": "https://www.thepaper.cn/newsDetail_forward_33785626"
+    },
+    {
+      "id": "evt-11700000",
+      "title": "河南贾鲁河堤防117米溃口成功合龙",
+      "category": "society",
+      "hotScore": 0.7225,
+      "freshness": 1,
+      "crossSource": 0.6309,
+      "totalScore": 0.7783,
+      "sources": [
+        {
+          "channel": "toutiao",
+          "rank": 4,
+          "hot": 11888277,
+          "url": "https://www.toutiao.com/trending/7673089074458689572/"
+        }
+      ],
+      "summary": "",
+      "url": "https://www.toutiao.com/trending/7673089074458689572/"
+    },
+    {
+      "id": "evt-70000000",
+      "title": "《江泽民》第7集《风云本色》",
+      "category": "society",
+      "hotScore": 0.7225,
+      "freshness": 1,
+      "crossSource": 0.6309,
+      "totalScore": 0.7783,
+      "sources": [
+        {
+          "channel": "thepaper",
+          "rank": 4,
+          "hot": 0,
           "url": "https://www.thepaper.cn/newsDetail_forward_33785581"
         }
       ],
@@ -95,52 +152,8 @@
       "url": "https://www.thepaper.cn/newsDetail_forward_33785581"
     },
     {
-      "id": "evt-90000000",
-      "title": "比利时学生打工挖到900万欧元金库",
-      "category": "society",
-      "hotScore": 0.52,
-      "freshness": 1,
-      "crossSource": 1,
-      "totalScore": 0.808,
-      "sources": [
-        {
-          "channel": "toutiao",
-          "rank": 17,
-          "hot": 2948361,
-          "url": "https://www.toutiao.com/trending/7674018140262711342/"
-        },
-        {
-          "channel": "baidu",
-          "rank": 8,
-          "hot": 0,
-          "url": "https://m.baidu.com/s?word=%E6%AF%94%E5%88%A9%E6%97%B6%E5%AD%A6%E7%94%9F%E6%89%93%E5%B7%A5%E6%8C%96%E5%88%B0900%E4%B8%87%E6%AC%A7%E5%85%83%E9%87%91%E5%BA%93&sa=fyb_news"
-        }
-      ],
-      "summary": "",
-      "url": "https://www.toutiao.com/trending/7674018140262711342/"
-    },
-    {
-      "id": "evt-10000000",
-      "title": "纪念江泽民诞辰100周年大会17日举行",
-      "category": "society",
-      "hotScore": 0.76,
-      "freshness": 1,
-      "crossSource": 0.6309,
-      "totalScore": 0.7933,
-      "sources": [
-        {
-          "channel": "baidu",
-          "rank": 2,
-          "hot": 0,
-          "url": "https://m.baidu.com/s?word=%E7%BA%AA%E5%BF%B5%E6%B1%9F%E6%B3%BD%E6%B0%91%E8%AF%9E%E8%BE%B0100%E5%91%A8%E5%B9%B4%E5%A4%A7%E4%BC%9A17%E6%97%A5%E4%B8%BE%E8%A1%8C&sa=fyb_news"
-        }
-      ],
-      "summary": "",
-      "url": "https://m.baidu.com/s?word=%E7%BA%AA%E5%BF%B5%E6%B1%9F%E6%B3%BD%E6%B0%91%E8%AF%9E%E8%BE%B0100%E5%91%A8%E5%B9%B4%E5%A4%A7%E4%BC%9A17%E6%97%A5%E4%B8%BE%E8%A1%8C&sa=fyb_news"
-    },
-    {
-      "id": "evt-98450000",
-      "title": "什么是“984.5高校”",
+      "id": "evt-20000000",
+      "title": "全省仅招2人 俩人同年同月同日生",
       "category": "society",
       "hotScore": 0.72,
       "freshness": 1,
@@ -151,43 +164,24 @@
           "channel": "baidu",
           "rank": 3,
           "hot": 0,
-          "url": "https://m.baidu.com/s?word=%E4%BB%80%E4%B9%88%E6%98%AF%E2%80%9C984.5%E9%AB%98%E6%A0%A1%E2%80%9D&sa=fyb_news"
+          "url": "https://m.baidu.com/s?word=%E5%85%A8%E7%9C%81%E4%BB%85%E6%8B%9B2%E4%BA%BA+%E4%BF%A9%E4%BA%BA%E5%90%8C%E5%B9%B4%E5%90%8C%E6%9C%88%E5%90%8C%E6%97%A5%E7%94%9F&sa=fyb_news"
         }
       ],
       "summary": "",
-      "url": "https://m.baidu.com/s?word=%E4%BB%80%E4%B9%88%E6%98%AF%E2%80%9C984.5%E9%AB%98%E6%A0%A1%E2%80%9D&sa=fyb_news"
-    },
-    {
-      "id": "evt-20000000",
-      "title": "《一饭封神 2》中谢霆锋直言「糖拌西红柿不能拿来比赛」，你认同吗？",
-      "category": "society",
-      "hotScore": 0.7125,
-      "freshness": 1,
-      "crossSource": 0.6309,
-      "totalScore": 0.7743,
-      "sources": [
-        {
-          "channel": "zhihu",
-          "rank": 2,
-          "hot": 0,
-          "url": ""
-        }
-      ],
-      "summary": "",
-      "url": ""
+      "url": "https://m.baidu.com/s?word=%E5%85%A8%E7%9C%81%E4%BB%85%E6%8B%9B2%E4%BA%BA+%E4%BF%A9%E4%BA%BA%E5%90%8C%E5%B9%B4%E5%90%8C%E6%9C%88%E5%90%8C%E6%97%A5%E7%94%9F&sa=fyb_news"
     },
     {
       "id": "evt-send0000",
       "title": "怎么看森多夫猜想（Sendov's Conjecture）已被 AI 、 Lech Mazur 、陶哲轩攻破？",
       "category": "society",
-      "hotScore": 0.675,
+      "hotScore": 0.525,
       "freshness": 1,
       "crossSource": 0.6309,
-      "totalScore": 0.7593,
+      "totalScore": 0.6993,
       "sources": [
         {
           "channel": "zhihu",
-          "rank": 3,
+          "rank": 7,
           "hot": 0,
           "url": ""
         }
@@ -196,46 +190,27 @@
       "url": ""
     },
     {
-      "id": "evt-a0000000",
-      "title": "哆啦A梦和大雄开心大喊：日本战败了",
+      "id": "evt-56000000",
+      "title": "独闯南太行56岁男子遗体疑被找到",
       "category": "society",
-      "hotScore": 0.5525,
+      "hotScore": 0.4675,
       "freshness": 1,
       "crossSource": 0.6309,
-      "totalScore": 0.7103,
+      "totalScore": 0.6763,
       "sources": [
         {
           "channel": "toutiao",
-          "rank": 8,
-          "hot": 7251798,
-          "url": "https://www.toutiao.com/trending/7674091705016025107/"
+          "rank": 10,
+          "hot": 6524424,
+          "url": "https://www.toutiao.com/trending/7673337984339001387/"
         }
       ],
       "summary": "",
-      "url": "https://www.toutiao.com/trending/7674091705016025107/"
+      "url": "https://www.toutiao.com/trending/7673337984339001387/"
     },
     {
       "id": "evt-59800000",
       "title": "男子彩票中598万 没告诉妻儿父母",
-      "category": "society",
-      "hotScore": 0.48,
-      "freshness": 1,
-      "crossSource": 0.6309,
-      "totalScore": 0.6813,
-      "sources": [
-        {
-          "channel": "baidu",
-          "rank": 9,
-          "hot": 0,
-          "url": "https://m.baidu.com/s?word=%E7%94%B7%E5%AD%90%E5%BD%A9%E7%A5%A8%E4%B8%AD598%E4%B8%87+%E6%B2%A1%E5%91%8A%E8%AF%89%E5%A6%BB%E5%84%BF%E7%88%B6%E6%AF%8D&sa=fyb_news"
-        }
-      ],
-      "summary": "",
-      "url": "https://m.baidu.com/s?word=%E7%94%B7%E5%AD%90%E5%BD%A9%E7%A5%A8%E4%B8%AD598%E4%B8%87+%E6%B2%A1%E5%91%8A%E8%AF%89%E5%A6%BB%E5%84%BF%E7%88%B6%E6%AF%8D&sa=fyb_news"
-    },
-    {
-      "id": "evt-33000000",
-      "title": "四川一村有33对双胞胎 专家谈成因",
       "category": "society",
       "hotScore": 0.44,
       "freshness": 1,
@@ -246,11 +221,11 @@
           "channel": "baidu",
           "rank": 10,
           "hot": 0,
-          "url": "https://m.baidu.com/s?word=%E5%9B%9B%E5%B7%9D%E4%B8%80%E6%9D%91%E6%9C%8933%E5%AF%B9%E5%8F%8C%E8%83%9E%E8%83%8E+%E4%B8%93%E5%AE%B6%E8%B0%88%E6%88%90%E5%9B%A0&sa=fyb_news"
+          "url": "https://m.baidu.com/s?word=%E7%94%B7%E5%AD%90%E5%BD%A9%E7%A5%A8%E4%B8%AD598%E4%B8%87+%E6%B2%A1%E5%91%8A%E8%AF%89%E5%A6%BB%E5%84%BF%E7%88%B6%E6%AF%8D&sa=fyb_news"
         }
       ],
       "summary": "",
-      "url": "https://m.baidu.com/s?word=%E5%9B%9B%E5%B7%9D%E4%B8%80%E6%9D%91%E6%9C%8933%E5%AF%B9%E5%8F%8C%E8%83%9E%E8%83%8E+%E4%B8%93%E5%AE%B6%E8%B0%88%E6%88%90%E5%9B%A0&sa=fyb_news"
+      "url": "https://m.baidu.com/s?word=%E7%94%B7%E5%AD%90%E5%BD%A9%E7%A5%A8%E4%B8%AD598%E4%B8%87+%E6%B2%A1%E5%91%8A%E8%AF%89%E5%A6%BB%E5%84%BF%E7%88%B6%E6%AF%8D&sa=fyb_news"
     }
   ]
 }
