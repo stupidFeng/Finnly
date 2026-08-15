@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-08-15T04:20:08.803Z",
+  "generatedAt": "2026-08-15T06:19:48.588Z",
   "fields": {
     "society": "社会",
     "economy": "经济",
@@ -8,28 +8,28 @@
   "feed": [
     {
       "id": "evt-00000000",
-      "title": "高市早苗向靖国神社供奉“玉串料”",
+      "title": "年轻人回村“卷”起了自建房",
       "category": "society",
-      "hotScore": 0.595,
-      "freshness": 1,
+      "hotScore": 0.7225,
+      "freshness": 0.9999,
       "crossSource": 1,
-      "totalScore": 0.838,
+      "totalScore": 0.889,
       "sources": [
         {
           "channel": "toutiao",
-          "rank": 7,
-          "hot": 7404045,
-          "url": "https://www.toutiao.com/trending/7674032563689639487/"
+          "rank": 4,
+          "hot": 7524167,
+          "url": "https://www.toutiao.com/trending/7674070456131174427/"
         },
         {
           "channel": "baidu",
-          "rank": 18,
+          "rank": 6,
           "hot": 0,
-          "url": "https://m.baidu.com/s?word=%E9%AB%98%E5%B8%82%E6%97%A9%E8%8B%97%E5%90%91%E9%9D%96%E5%9B%BD%E7%A5%9E%E7%A4%BE%E4%BE%9B%E5%A5%89%E2%80%9C%E7%8E%89%E4%B8%B2%E6%96%99%E2%80%9D&sa=fyb_news"
+          "url": "https://m.baidu.com/s?word=%E5%B9%B4%E8%BD%BB%E4%BA%BA%E5%9B%9E%E6%9D%91%E2%80%9C%E5%8D%B7%E2%80%9D%E8%B5%B7%E4%BA%86%E8%87%AA%E5%BB%BA%E6%88%BF&sa=fyb_news"
         }
       ],
       "summary": "",
-      "url": "https://www.toutiao.com/trending/7674032563689639487/"
+      "url": "https://www.toutiao.com/trending/7674070456131174427/"
     },
     {
       "id": "evt-80000000",
@@ -70,8 +70,65 @@
       "url": "https://www.thepaper.cn/newsDetail_forward_33785581"
     },
     {
+      "id": "evt-30000000",
+      "title": "胖东来首批刑释职工30人无一离职",
+      "category": "society",
+      "hotScore": 0.76,
+      "freshness": 1,
+      "crossSource": 0.6309,
+      "totalScore": 0.7933,
+      "sources": [
+        {
+          "channel": "baidu",
+          "rank": 2,
+          "hot": 0,
+          "url": "https://m.baidu.com/s?word=%E8%83%96%E4%B8%9C%E6%9D%A5%E9%A6%96%E6%89%B9%E5%88%91%E9%87%8A%E8%81%8C%E5%B7%A530%E4%BA%BA%E6%97%A0%E4%B8%80%E7%A6%BB%E8%81%8C&sa=fyb_news"
+        }
+      ],
+      "summary": "",
+      "url": "https://m.baidu.com/s?word=%E8%83%96%E4%B8%9C%E6%9D%A5%E9%A6%96%E6%89%B9%E5%88%91%E9%87%8A%E8%81%8C%E5%B7%A530%E4%BA%BA%E6%97%A0%E4%B8%80%E7%A6%BB%E8%81%8C&sa=fyb_news"
+    },
+    {
+      "id": "evt-97700000",
+      "title": "《牛来》票房飙涨977% 影院紧急加场",
+      "category": "entertainment",
+      "hotScore": 0.64,
+      "freshness": 1,
+      "crossSource": 0.6309,
+      "totalScore": 0.7453,
+      "sources": [
+        {
+          "channel": "baidu",
+          "rank": 5,
+          "hot": 0,
+          "url": "https://m.baidu.com/s?word=%E3%80%8A%E7%89%9B%E6%9D%A5%E3%80%8B%E7%A5%A8%E6%88%BF%E9%A3%99%E6%B6%A8977%25+%E5%BD%B1%E9%99%A2%E7%B4%A7%E6%80%A5%E5%8A%A0%E5%9C%BA&sa=fyb_news"
+        }
+      ],
+      "summary": "",
+      "url": "https://m.baidu.com/s?word=%E3%80%8A%E7%89%9B%E6%9D%A5%E3%80%8B%E7%A5%A8%E6%88%BF%E9%A3%99%E6%B6%A8977%25+%E5%BD%B1%E9%99%A2%E7%B4%A7%E6%80%A5%E5%8A%A0%E5%9C%BA&sa=fyb_news"
+    },
+    {
       "id": "evt-10000000",
-      "title": "胖东来郑州店发公告招 100 名边防军人和 20 名刑释人员，企业兜底「社会融合」职能，是进步还是错位？",
+      "title": "《牛来》反向出圈，总票房怒破 10 万，前 10 天票房仅 7700 元，如何看待这一反转？你会去看吗？",
+      "category": "entertainment",
+      "hotScore": 0.6375,
+      "freshness": 1,
+      "crossSource": 0.6309,
+      "totalScore": 0.7443,
+      "sources": [
+        {
+          "channel": "zhihu",
+          "rank": 4,
+          "hot": 0,
+          "url": ""
+        }
+      ],
+      "summary": "",
+      "url": ""
+    },
+    {
+      "id": "evt-send0000",
+      "title": "怎么看森多夫猜想（Sendov's Conjecture）已被 AI 、 Lech Mazur 、陶哲轩攻破？",
       "category": "society",
       "hotScore": 0.675,
       "freshness": 1,
@@ -89,27 +146,8 @@
       "url": ""
     },
     {
-      "id": "evt-20340000",
-      "title": "专访2034杯重庆足球小将团队",
-      "category": "society",
-      "hotScore": 0.6375,
-      "freshness": 1,
-      "crossSource": 0.6309,
-      "totalScore": 0.7443,
-      "sources": [
-        {
-          "channel": "toutiao",
-          "rank": 6,
-          "hot": 8182736,
-          "url": "https://www.toutiao.com/trending/7673151955581812790/"
-        }
-      ],
-      "summary": "",
-      "url": "https://www.toutiao.com/trending/7673151955581812790/"
-    },
-    {
-      "id": "evt-30000000",
-      "title": "胖东来首批刑释职工30人无一离职",
+      "id": "evt-20000000",
+      "title": "《一饭封神 2》中谢霆锋直言「糖拌西红柿不能拿来比赛」，你认同吗？",
       "category": "society",
       "hotScore": 0.6,
       "freshness": 1,
@@ -117,27 +155,8 @@
       "totalScore": 0.7293,
       "sources": [
         {
-          "channel": "baidu",
-          "rank": 6,
-          "hot": 0,
-          "url": "https://m.baidu.com/s?word=%E8%83%96%E4%B8%9C%E6%9D%A5%E9%A6%96%E6%89%B9%E5%88%91%E9%87%8A%E8%81%8C%E5%B7%A530%E4%BA%BA%E6%97%A0%E4%B8%80%E7%A6%BB%E8%81%8C&sa=fyb_news"
-        }
-      ],
-      "summary": "",
-      "url": "https://m.baidu.com/s?word=%E8%83%96%E4%B8%9C%E6%9D%A5%E9%A6%96%E6%89%B9%E5%88%91%E9%87%8A%E8%81%8C%E5%B7%A530%E4%BA%BA%E6%97%A0%E4%B8%80%E7%A6%BB%E8%81%8C&sa=fyb_news"
-    },
-    {
-      "id": "evt-chi00000",
-      "title": "《明末：渊虚之羽》竟然在 China Joy 当选 2026 年度游戏，时过境迁，你对这游戏的看法有反转么？",
-      "category": "society",
-      "hotScore": 0.45,
-      "freshness": 1,
-      "crossSource": 0.6309,
-      "totalScore": 0.6693,
-      "sources": [
-        {
           "channel": "zhihu",
-          "rank": 9,
+          "rank": 5,
           "hot": 0,
           "url": ""
         }
@@ -146,23 +165,23 @@
       "url": ""
     },
     {
-      "id": "evt-77000000",
-      "title": "印尼发生7.7级强震",
+      "id": "evt-35a00000",
+      "title": "歼-35A有多强",
       "category": "society",
-      "hotScore": 0.425,
-      "freshness": 1,
+      "hotScore": 0.595,
+      "freshness": 0.9999,
       "crossSource": 0.6309,
-      "totalScore": 0.6593,
+      "totalScore": 0.7273,
       "sources": [
         {
           "channel": "toutiao",
-          "rank": 11,
-          "hot": 4963080,
-          "url": "https://www.toutiao.com/trending/7674031219033787914/"
+          "rank": 7,
+          "hot": 5574040,
+          "url": "https://www.toutiao.com/trending/7674108999725256202/"
         }
       ],
       "summary": "",
-      "url": "https://www.toutiao.com/trending/7674031219033787914/"
+      "url": "https://www.toutiao.com/trending/7674108999725256202/"
     }
   ]
 }
