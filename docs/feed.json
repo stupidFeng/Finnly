@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-08-15T06:19:48.588Z",
+  "generatedAt": "2026-08-15T08:15:29.074Z",
   "fields": {
     "society": "社会",
     "economy": "经济",
@@ -7,36 +7,11 @@
   },
   "feed": [
     {
-      "id": "evt-00000000",
-      "title": "年轻人回村“卷”起了自建房",
-      "category": "society",
-      "hotScore": 0.7225,
-      "freshness": 0.9999,
-      "crossSource": 1,
-      "totalScore": 0.889,
-      "sources": [
-        {
-          "channel": "toutiao",
-          "rank": 4,
-          "hot": 7524167,
-          "url": "https://www.toutiao.com/trending/7674070456131174427/"
-        },
-        {
-          "channel": "baidu",
-          "rank": 6,
-          "hot": 0,
-          "url": "https://m.baidu.com/s?word=%E5%B9%B4%E8%BD%BB%E4%BA%BA%E5%9B%9E%E6%9D%91%E2%80%9C%E5%8D%B7%E2%80%9D%E8%B5%B7%E4%BA%86%E8%87%AA%E5%BB%BA%E6%88%BF&sa=fyb_news"
-        }
-      ],
-      "summary": "",
-      "url": "https://www.toutiao.com/trending/7674070456131174427/"
-    },
-    {
       "id": "evt-80000000",
       "title": "《江泽民》第8集《精兵新篇》",
       "category": "society",
       "hotScore": 0.85,
-      "freshness": 1,
+      "freshness": 0.9999,
       "crossSource": 0.6309,
       "totalScore": 0.8293,
       "sources": [
@@ -51,11 +26,30 @@
       "url": "https://www.thepaper.cn/newsDetail_forward_33785626"
     },
     {
+      "id": "evt-00000000",
+      "title": "日本人战斗分队在乌成立 与俄军作战",
+      "category": "society",
+      "hotScore": 0.85,
+      "freshness": 0.9999,
+      "crossSource": 0.6309,
+      "totalScore": 0.8292,
+      "sources": [
+        {
+          "channel": "toutiao",
+          "rank": 1,
+          "hot": 11457040,
+          "url": "https://www.toutiao.com/trending/7673804938232922121/"
+        }
+      ],
+      "summary": "",
+      "url": "https://www.toutiao.com/trending/7673804938232922121/"
+    },
+    {
       "id": "evt-70000000",
       "title": "《江泽民》第7集《风云本色》",
       "category": "society",
       "hotScore": 0.8075,
-      "freshness": 1,
+      "freshness": 0.9999,
       "crossSource": 0.6309,
       "totalScore": 0.8123,
       "sources": [
@@ -70,51 +64,89 @@
       "url": "https://www.thepaper.cn/newsDetail_forward_33785581"
     },
     {
-      "id": "evt-30000000",
-      "title": "胖东来首批刑释职工30人无一离职",
+      "id": "evt-90000000",
+      "title": "比利时学生挖到价值900万欧元金库",
       "category": "society",
-      "hotScore": 0.76,
-      "freshness": 1,
+      "hotScore": 0.8075,
+      "freshness": 0.9999,
       "crossSource": 0.6309,
-      "totalScore": 0.7933,
+      "totalScore": 0.8122,
       "sources": [
         {
-          "channel": "baidu",
+          "channel": "toutiao",
           "rank": 2,
-          "hot": 0,
-          "url": "https://m.baidu.com/s?word=%E8%83%96%E4%B8%9C%E6%9D%A5%E9%A6%96%E6%89%B9%E5%88%91%E9%87%8A%E8%81%8C%E5%B7%A530%E4%BA%BA%E6%97%A0%E4%B8%80%E7%A6%BB%E8%81%8C&sa=fyb_news"
+          "hot": 10366759,
+          "url": "https://www.toutiao.com/trending/7674018140262711342/"
         }
       ],
       "summary": "",
-      "url": "https://m.baidu.com/s?word=%E8%83%96%E4%B8%9C%E6%9D%A5%E9%A6%96%E6%89%B9%E5%88%91%E9%87%8A%E8%81%8C%E5%B7%A530%E4%BA%BA%E6%97%A0%E4%B8%80%E7%A6%BB%E8%81%8C&sa=fyb_news"
-    },
-    {
-      "id": "evt-97700000",
-      "title": "《牛来》票房飙涨977% 影院紧急加场",
-      "category": "entertainment",
-      "hotScore": 0.64,
-      "freshness": 1,
-      "crossSource": 0.6309,
-      "totalScore": 0.7453,
-      "sources": [
-        {
-          "channel": "baidu",
-          "rank": 5,
-          "hot": 0,
-          "url": "https://m.baidu.com/s?word=%E3%80%8A%E7%89%9B%E6%9D%A5%E3%80%8B%E7%A5%A8%E6%88%BF%E9%A3%99%E6%B6%A8977%25+%E5%BD%B1%E9%99%A2%E7%B4%A7%E6%80%A5%E5%8A%A0%E5%9C%BA&sa=fyb_news"
-        }
-      ],
-      "summary": "",
-      "url": "https://m.baidu.com/s?word=%E3%80%8A%E7%89%9B%E6%9D%A5%E3%80%8B%E7%A5%A8%E6%88%BF%E9%A3%99%E6%B6%A8977%25+%E5%BD%B1%E9%99%A2%E7%B4%A7%E6%80%A5%E5%8A%A0%E5%9C%BA&sa=fyb_news"
+      "url": "https://www.toutiao.com/trending/7674018140262711342/"
     },
     {
       "id": "evt-10000000",
       "title": "《牛来》反向出圈，总票房怒破 10 万，前 10 天票房仅 7700 元，如何看待这一反转？你会去看吗？",
       "category": "entertainment",
-      "hotScore": 0.6375,
+      "hotScore": 0.7125,
+      "freshness": 0.9999,
+      "crossSource": 0.6309,
+      "totalScore": 0.7742,
+      "sources": [
+        {
+          "channel": "zhihu",
+          "rank": 2,
+          "hot": 0,
+          "url": ""
+        }
+      ],
+      "summary": "",
+      "url": ""
+    },
+    {
+      "id": "evt-15000000",
+      "title": "《牛来》票房暴涨1500倍",
+      "category": "entertainment",
+      "hotScore": 0.51,
+      "freshness": 0.9999,
+      "crossSource": 0.6309,
+      "totalScore": 0.6932,
+      "sources": [
+        {
+          "channel": "toutiao",
+          "rank": 9,
+          "hot": 5147980,
+          "url": "https://www.toutiao.com/trending/7673817279796170294/"
+        }
+      ],
+      "summary": "",
+      "url": "https://www.toutiao.com/trending/7673817279796170294/"
+    },
+    {
+      "id": "evt-60500000",
+      "title": "60后妈妈与儿子纯手搓5年做出《牛来》",
+      "category": "society",
+      "hotScore": 0.72,
       "freshness": 1,
       "crossSource": 0.6309,
-      "totalScore": 0.7443,
+      "totalScore": 0.7773,
+      "sources": [
+        {
+          "channel": "baidu",
+          "rank": 3,
+          "hot": 0,
+          "url": "https://m.baidu.com/s?word=60%E5%90%8E%E5%A6%88%E5%A6%88%E4%B8%8E%E5%84%BF%E5%AD%90%E7%BA%AF%E6%89%8B%E6%90%935%E5%B9%B4%E5%81%9A%E5%87%BA%E3%80%8A%E7%89%9B%E6%9D%A5%E3%80%8B&sa=fyb_news"
+        }
+      ],
+      "summary": "",
+      "url": "https://m.baidu.com/s?word=60%E5%90%8E%E5%A6%88%E5%A6%88%E4%B8%8E%E5%84%BF%E5%AD%90%E7%BA%AF%E6%89%8B%E6%90%935%E5%B9%B4%E5%81%9A%E5%87%BA%E3%80%8A%E7%89%9B%E6%9D%A5%E3%80%8B&sa=fyb_news"
+    },
+    {
+      "id": "evt-send0000",
+      "title": "怎么看森多夫猜想（Sendov's Conjecture）已被 AI 、 Lech Mazur 、陶哲轩攻破？",
+      "category": "society",
+      "hotScore": 0.6375,
+      "freshness": 0.9999,
+      "crossSource": 0.6309,
+      "totalScore": 0.7442,
       "sources": [
         {
           "channel": "zhihu",
@@ -127,61 +159,23 @@
       "url": ""
     },
     {
-      "id": "evt-send0000",
-      "title": "怎么看森多夫猜想（Sendov's Conjecture）已被 AI 、 Lech Mazur 、陶哲轩攻破？",
-      "category": "society",
-      "hotScore": 0.675,
-      "freshness": 1,
-      "crossSource": 0.6309,
-      "totalScore": 0.7593,
-      "sources": [
-        {
-          "channel": "zhihu",
-          "rank": 3,
-          "hot": 0,
-          "url": ""
-        }
-      ],
-      "summary": "",
-      "url": ""
-    },
-    {
       "id": "evt-20000000",
       "title": "《一饭封神 2》中谢霆锋直言「糖拌西红柿不能拿来比赛」，你认同吗？",
       "category": "society",
-      "hotScore": 0.6,
-      "freshness": 1,
+      "hotScore": 0.45,
+      "freshness": 0.9999,
       "crossSource": 0.6309,
-      "totalScore": 0.7293,
+      "totalScore": 0.6692,
       "sources": [
         {
           "channel": "zhihu",
-          "rank": 5,
+          "rank": 9,
           "hot": 0,
           "url": ""
         }
       ],
       "summary": "",
       "url": ""
-    },
-    {
-      "id": "evt-35a00000",
-      "title": "歼-35A有多强",
-      "category": "society",
-      "hotScore": 0.595,
-      "freshness": 0.9999,
-      "crossSource": 0.6309,
-      "totalScore": 0.7273,
-      "sources": [
-        {
-          "channel": "toutiao",
-          "rank": 7,
-          "hot": 5574040,
-          "url": "https://www.toutiao.com/trending/7674108999725256202/"
-        }
-      ],
-      "summary": "",
-      "url": "https://www.toutiao.com/trending/7674108999725256202/"
     }
   ]
 }
