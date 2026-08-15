@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-08-14T22:12:15.915Z",
+  "generatedAt": "2026-08-15T00:37:36.416Z",
   "fields": {
     "society": "社会",
     "economy": "经济",
@@ -8,28 +8,47 @@
   "feed": [
     {
       "id": "evt-00000000",
-      "title": "郭德纲西安演出取消",
+      "title": "高市早苗向靖国神社供奉“玉串料”",
       "category": "society",
-      "hotScore": 0.595,
+      "hotScore": 0.8075,
       "freshness": 0.9999,
       "crossSource": 1,
-      "totalScore": 0.838,
+      "totalScore": 0.923,
       "sources": [
         {
           "channel": "toutiao",
-          "rank": 7,
-          "hot": 7461218,
-          "url": "https://www.toutiao.com/trending/7673748036275486774/"
+          "rank": 2,
+          "hot": 13885832,
+          "url": "https://www.toutiao.com/trending/7674032563689639487/"
         },
         {
           "channel": "baidu",
-          "rank": 7,
+          "rank": 2,
           "hot": 0,
-          "url": "https://m.baidu.com/s?word=%E9%83%AD%E5%BE%B7%E7%BA%B2%E8%A5%BF%E5%AE%89%E6%BC%94%E5%87%BA%E5%8F%96%E6%B6%88&sa=fyb_news"
+          "url": "https://m.baidu.com/s?word=%E9%AB%98%E5%B8%82%E6%97%A9%E8%8B%97%E5%90%91%E9%9D%96%E5%9B%BD%E7%A5%9E%E7%A4%BE%E4%BE%9B%E5%A5%89%E2%80%9C%E7%8E%89%E4%B8%B2%E6%96%99%E2%80%9D&sa=fyb_news"
         }
       ],
       "summary": "",
-      "url": "https://www.toutiao.com/trending/7673748036275486774/"
+      "url": "https://www.toutiao.com/trending/7674032563689639487/"
+    },
+    {
+      "id": "evt-77000000",
+      "title": "印尼发生7.7级强震",
+      "category": "society",
+      "hotScore": 0.85,
+      "freshness": 0.9999,
+      "crossSource": 0.6309,
+      "totalScore": 0.8293,
+      "sources": [
+        {
+          "channel": "toutiao",
+          "rank": 1,
+          "hot": 15346217,
+          "url": "https://www.toutiao.com/trending/7674031219033787914/"
+        }
+      ],
+      "summary": "",
+      "url": "https://www.toutiao.com/trending/7674031219033787914/"
     },
     {
       "id": "evt-80000000",
@@ -51,25 +70,6 @@
       "url": "https://www.thepaper.cn/newsDetail_forward_33785626"
     },
     {
-      "id": "evt-10000000",
-      "title": "江泽民诞辰100周年纪念币将发行",
-      "category": "society",
-      "hotScore": 0.8075,
-      "freshness": 0.9999,
-      "crossSource": 0.6309,
-      "totalScore": 0.8123,
-      "sources": [
-        {
-          "channel": "toutiao",
-          "rank": 2,
-          "hot": 12301469,
-          "url": "https://www.toutiao.com/trending/7673478082126741555/"
-        }
-      ],
-      "summary": "",
-      "url": "https://www.toutiao.com/trending/7673478082126741555/"
-    },
-    {
       "id": "evt-70000000",
       "title": "《江泽民》第7集《风云本色》",
       "category": "society",
@@ -89,46 +89,8 @@
       "url": "https://www.thepaper.cn/newsDetail_forward_33785581"
     },
     {
-      "id": "evt-19000000",
-      "title": "王传君19年前就参加过选秀",
-      "category": "entertainment",
-      "hotScore": 0.44,
-      "freshness": 1,
-      "crossSource": 0.6309,
-      "totalScore": 0.6653,
-      "sources": [
-        {
-          "channel": "baidu",
-          "rank": 10,
-          "hot": 0,
-          "url": "https://m.baidu.com/s?word=%E7%8E%8B%E4%BC%A0%E5%90%9B19%E5%B9%B4%E5%89%8D%E5%B0%B1%E5%8F%82%E5%8A%A0%E8%BF%87%E9%80%89%E7%A7%80&sa=fyb_news"
-        }
-      ],
-      "summary": "",
-      "url": "https://m.baidu.com/s?word=%E7%8E%8B%E4%BC%A0%E5%90%9B19%E5%B9%B4%E5%89%8D%E5%B0%B1%E5%8F%82%E5%8A%A0%E8%BF%87%E9%80%89%E7%A7%80&sa=fyb_news"
-    },
-    {
-      "id": "evt-27240000",
-      "title": "荐股骗局调查①丨2724人的炒股群除了自己全是托！骗子直播间设伏引流，假冒券商分析师上阵",
-      "category": "society",
-      "hotScore": 0.7225,
-      "freshness": 1,
-      "crossSource": 0.6309,
-      "totalScore": 0.7783,
-      "sources": [
-        {
-          "channel": "thepaper",
-          "rank": 4,
-          "hot": 0,
-          "url": "https://www.thepaper.cn/newsDetail_forward_33694482"
-        }
-      ],
-      "summary": "",
-      "url": "https://www.thepaper.cn/newsDetail_forward_33694482"
-    },
-    {
-      "id": "evt-40000000",
-      "title": "乌军为何能4小时摧毁俄装甲集群",
+      "id": "evt-81000000",
+      "title": "日本投降81周年",
       "category": "society",
       "hotScore": 0.5525,
       "freshness": 0.9999,
@@ -138,25 +100,25 @@
         {
           "channel": "toutiao",
           "rank": 8,
-          "hot": 6751189,
-          "url": "https://www.toutiao.com/trending/7673711940689989163/"
+          "hot": 7620706,
+          "url": "https://www.toutiao.com/trending/7673620370825674793/"
         }
       ],
       "summary": "",
-      "url": "https://www.toutiao.com/trending/7673711940689989163/"
+      "url": "https://www.toutiao.com/trending/7673620370825674793/"
     },
     {
-      "id": "evt-16200000",
-      "title": "《影之刃零》预售开启，162 万愿望单的它能复刻《黑神话：悟空》的奇迹吗？",
+      "id": "evt-lpl00000",
+      "title": "如何看待有爆料称，LPL 登峰组有中单选手提出想要休息到季后赛的想法？",
       "category": "society",
-      "hotScore": 0.4875,
+      "hotScore": 0.45,
       "freshness": 1,
       "crossSource": 0.6309,
-      "totalScore": 0.6843,
+      "totalScore": 0.6693,
       "sources": [
         {
           "channel": "zhihu",
-          "rank": 8,
+          "rank": 9,
           "hot": 0,
           "url": ""
         }
