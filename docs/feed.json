@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-08-15T10:12:43.238Z",
+  "generatedAt": "2026-08-15T12:16:49.099Z",
   "fields": {
     "society": "社会",
     "economy": "经济",
@@ -7,29 +7,54 @@
   },
   "feed": [
     {
+      "id": "evt-40000000",
+      "title": "男童走失4天找回 父亲设宴200桌答谢",
+      "category": "society",
+      "hotScore": 0.85,
+      "freshness": 1,
+      "crossSource": 1,
+      "totalScore": 0.94,
+      "sources": [
+        {
+          "channel": "toutiao",
+          "rank": 1,
+          "hot": 14603328,
+          "url": "https://www.toutiao.com/trending/7673461817784877098/"
+        },
+        {
+          "channel": "baidu",
+          "rank": 5,
+          "hot": 0,
+          "url": "https://m.baidu.com/s?word=%E7%94%B7%E7%AB%A5%E8%B5%B0%E5%A4%B14%E5%A4%A9%E6%89%BE%E5%9B%9E+%E7%88%B6%E4%BA%B2%E8%AE%BE%E5%AE%B4200%E6%A1%8C%E7%AD%94%E8%B0%A2&sa=fyb_news"
+        }
+      ],
+      "summary": "",
+      "url": "https://www.toutiao.com/trending/7673461817784877098/"
+    },
+    {
       "id": "evt-00000000",
-      "title": "谁“杀死”了驾校",
+      "title": "河南周口溃口封堵现场现“三蹦子”",
       "category": "society",
       "hotScore": 0.6375,
-      "freshness": 0.9999,
+      "freshness": 1,
       "crossSource": 1,
       "totalScore": 0.855,
       "sources": [
         {
           "channel": "toutiao",
           "rank": 6,
-          "hot": 7964401,
-          "url": "https://www.toutiao.com/trending/7674102219520262182/"
+          "hot": 8857366,
+          "url": "https://www.toutiao.com/trending/7673858215548911625/"
         },
         {
           "channel": "baidu",
-          "rank": 13,
+          "rank": 15,
           "hot": 0,
-          "url": "https://m.baidu.com/s?word=%E8%B0%81%E2%80%9C%E6%9D%80%E6%AD%BB%E2%80%9D%E4%BA%86%E9%A9%BE%E6%A0%A1&sa=fyb_news"
+          "url": "https://m.baidu.com/s?word=%E6%B2%B3%E5%8D%97%E5%91%A8%E5%8F%A3%E6%BA%83%E5%8F%A3%E5%B0%81%E5%A0%B5%E7%8E%B0%E5%9C%BA%E7%8E%B0%E2%80%9C%E4%B8%89%E8%B9%A6%E5%AD%90%E2%80%9D&sa=fyb_news"
         }
       ],
       "summary": "",
-      "url": "https://www.toutiao.com/trending/7674102219520262182/"
+      "url": "https://www.toutiao.com/trending/7673858215548911625/"
     },
     {
       "id": "evt-80000000",
@@ -73,20 +98,20 @@
       "id": "evt-90000000",
       "title": "比利时学生打工挖到900万欧元金库",
       "category": "society",
-      "hotScore": 0.44,
-      "freshness": 0.9999,
+      "hotScore": 0.52,
+      "freshness": 1,
       "crossSource": 1,
-      "totalScore": 0.776,
+      "totalScore": 0.808,
       "sources": [
         {
           "channel": "toutiao",
-          "rank": 14,
-          "hot": 3578636,
+          "rank": 17,
+          "hot": 2948361,
           "url": "https://www.toutiao.com/trending/7674018140262711342/"
         },
         {
           "channel": "baidu",
-          "rank": 10,
+          "rank": 8,
           "hot": 0,
           "url": "https://m.baidu.com/s?word=%E6%AF%94%E5%88%A9%E6%97%B6%E5%AD%A6%E7%94%9F%E6%89%93%E5%B7%A5%E6%8C%96%E5%88%B0900%E4%B8%87%E6%AC%A7%E5%85%83%E9%87%91%E5%BA%93&sa=fyb_news"
         }
@@ -96,16 +121,54 @@
     },
     {
       "id": "evt-10000000",
-      "title": "《牛来》反向出圈，总票房怒破 10 万，前 10 天票房仅 7700 元，如何看待这一反转？你会去看吗？",
-      "category": "entertainment",
-      "hotScore": 0.75,
+      "title": "纪念江泽民诞辰100周年大会17日举行",
+      "category": "society",
+      "hotScore": 0.76,
       "freshness": 1,
       "crossSource": 0.6309,
-      "totalScore": 0.7893,
+      "totalScore": 0.7933,
+      "sources": [
+        {
+          "channel": "baidu",
+          "rank": 2,
+          "hot": 0,
+          "url": "https://m.baidu.com/s?word=%E7%BA%AA%E5%BF%B5%E6%B1%9F%E6%B3%BD%E6%B0%91%E8%AF%9E%E8%BE%B0100%E5%91%A8%E5%B9%B4%E5%A4%A7%E4%BC%9A17%E6%97%A5%E4%B8%BE%E8%A1%8C&sa=fyb_news"
+        }
+      ],
+      "summary": "",
+      "url": "https://m.baidu.com/s?word=%E7%BA%AA%E5%BF%B5%E6%B1%9F%E6%B3%BD%E6%B0%91%E8%AF%9E%E8%BE%B0100%E5%91%A8%E5%B9%B4%E5%A4%A7%E4%BC%9A17%E6%97%A5%E4%B8%BE%E8%A1%8C&sa=fyb_news"
+    },
+    {
+      "id": "evt-98450000",
+      "title": "什么是“984.5高校”",
+      "category": "society",
+      "hotScore": 0.72,
+      "freshness": 1,
+      "crossSource": 0.6309,
+      "totalScore": 0.7773,
+      "sources": [
+        {
+          "channel": "baidu",
+          "rank": 3,
+          "hot": 0,
+          "url": "https://m.baidu.com/s?word=%E4%BB%80%E4%B9%88%E6%98%AF%E2%80%9C984.5%E9%AB%98%E6%A0%A1%E2%80%9D&sa=fyb_news"
+        }
+      ],
+      "summary": "",
+      "url": "https://m.baidu.com/s?word=%E4%BB%80%E4%B9%88%E6%98%AF%E2%80%9C984.5%E9%AB%98%E6%A0%A1%E2%80%9D&sa=fyb_news"
+    },
+    {
+      "id": "evt-20000000",
+      "title": "《一饭封神 2》中谢霆锋直言「糖拌西红柿不能拿来比赛」，你认同吗？",
+      "category": "society",
+      "hotScore": 0.7125,
+      "freshness": 1,
+      "crossSource": 0.6309,
+      "totalScore": 0.7743,
       "sources": [
         {
           "channel": "zhihu",
-          "rank": 1,
+          "rank": 2,
           "hot": 0,
           "url": ""
         }
@@ -117,14 +180,14 @@
       "id": "evt-send0000",
       "title": "怎么看森多夫猜想（Sendov's Conjecture）已被 AI 、 Lech Mazur 、陶哲轩攻破？",
       "category": "society",
-      "hotScore": 0.6375,
+      "hotScore": 0.675,
       "freshness": 1,
       "crossSource": 0.6309,
-      "totalScore": 0.7443,
+      "totalScore": 0.7593,
       "sources": [
         {
           "channel": "zhihu",
-          "rank": 4,
+          "rank": 3,
           "hot": 0,
           "url": ""
         }
@@ -133,103 +196,27 @@
       "url": ""
     },
     {
-      "id": "evt-77000000",
-      "title": "印尼7.7级强震 海面出现巨大漩涡",
-      "category": "society",
-      "hotScore": 0.6,
-      "freshness": 1,
-      "crossSource": 0.6309,
-      "totalScore": 0.7293,
-      "sources": [
-        {
-          "channel": "baidu",
-          "rank": 6,
-          "hot": 0,
-          "url": "https://m.baidu.com/s?word=%E5%8D%B0%E5%B0%BC7.7%E7%BA%A7%E5%BC%BA%E9%9C%87+%E6%B5%B7%E9%9D%A2%E5%87%BA%E7%8E%B0%E5%B7%A8%E5%A4%A7%E6%BC%A9%E6%B6%A1&sa=fyb_news"
-        }
-      ],
-      "summary": "",
-      "url": "https://m.baidu.com/s?word=%E5%8D%B0%E5%B0%BC7.7%E7%BA%A7%E5%BC%BA%E9%9C%87+%E6%B5%B7%E9%9D%A2%E5%87%BA%E7%8E%B0%E5%B7%A8%E5%A4%A7%E6%BC%A9%E6%B6%A1&sa=fyb_news"
-    },
-    {
-      "id": "evt-20000000",
-      "title": "《一饭封神 2》中谢霆锋直言「糖拌西红柿不能拿来比赛」，你认同吗？",
-      "category": "society",
-      "hotScore": 0.6,
-      "freshness": 1,
-      "crossSource": 0.6309,
-      "totalScore": 0.7293,
-      "sources": [
-        {
-          "channel": "zhihu",
-          "rank": 5,
-          "hot": 0,
-          "url": ""
-        }
-      ],
-      "summary": "",
-      "url": ""
-    },
-    {
-      "id": "evt-30000000",
-      "title": "胖东来首批刑释职工30人无一离职",
-      "category": "society",
-      "hotScore": 0.56,
-      "freshness": 1,
-      "crossSource": 0.6309,
-      "totalScore": 0.7133,
-      "sources": [
-        {
-          "channel": "baidu",
-          "rank": 7,
-          "hot": 0,
-          "url": "https://m.baidu.com/s?word=%E8%83%96%E4%B8%9C%E6%9D%A5%E9%A6%96%E6%89%B9%E5%88%91%E9%87%8A%E8%81%8C%E5%B7%A530%E4%BA%BA%E6%97%A0%E4%B8%80%E7%A6%BB%E8%81%8C&sa=fyb_news"
-        }
-      ],
-      "summary": "",
-      "url": "https://m.baidu.com/s?word=%E8%83%96%E4%B8%9C%E6%9D%A5%E9%A6%96%E6%89%B9%E5%88%91%E9%87%8A%E8%81%8C%E5%B7%A530%E4%BA%BA%E6%97%A0%E4%B8%80%E7%A6%BB%E8%81%8C&sa=fyb_news"
-    },
-    {
-      "id": "evt-40000000",
-      "title": "男童走失4天找回 父亲设宴200桌答谢",
+      "id": "evt-a0000000",
+      "title": "哆啦A梦和大雄开心大喊：日本战败了",
       "category": "society",
       "hotScore": 0.5525,
-      "freshness": 0.9999,
+      "freshness": 1,
       "crossSource": 0.6309,
       "totalScore": 0.7103,
       "sources": [
         {
           "channel": "toutiao",
           "rank": 8,
-          "hot": 6520700,
-          "url": "https://www.toutiao.com/trending/7673461817784877098/"
+          "hot": 7251798,
+          "url": "https://www.toutiao.com/trending/7674091705016025107/"
         }
       ],
       "summary": "",
-      "url": "https://www.toutiao.com/trending/7673461817784877098/"
-    },
-    {
-      "id": "evt-98450000",
-      "title": "什么是“984.5高校”",
-      "category": "society",
-      "hotScore": 0.51,
-      "freshness": 0.9999,
-      "crossSource": 0.6309,
-      "totalScore": 0.6933,
-      "sources": [
-        {
-          "channel": "toutiao",
-          "rank": 9,
-          "hot": 5900173,
-          "url": "https://www.toutiao.com/trending/7673947653646696457/"
-        }
-      ],
-      "summary": "",
-      "url": "https://www.toutiao.com/trending/7673947653646696457/"
+      "url": "https://www.toutiao.com/trending/7674091705016025107/"
     },
     {
       "id": "evt-59800000",
-      "title": "男子彩票中598万 没告诉妻子孩子父母",
+      "title": "男子彩票中598万 没告诉妻儿父母",
       "category": "society",
       "hotScore": 0.48,
       "freshness": 1,
@@ -240,11 +227,30 @@
           "channel": "baidu",
           "rank": 9,
           "hot": 0,
-          "url": "https://m.baidu.com/s?word=%E7%94%B7%E5%AD%90%E5%BD%A9%E7%A5%A8%E4%B8%AD598%E4%B8%87+%E6%B2%A1%E5%91%8A%E8%AF%89%E5%A6%BB%E5%AD%90%E5%AD%A9%E5%AD%90%E7%88%B6%E6%AF%8D&sa=fyb_news"
+          "url": "https://m.baidu.com/s?word=%E7%94%B7%E5%AD%90%E5%BD%A9%E7%A5%A8%E4%B8%AD598%E4%B8%87+%E6%B2%A1%E5%91%8A%E8%AF%89%E5%A6%BB%E5%84%BF%E7%88%B6%E6%AF%8D&sa=fyb_news"
         }
       ],
       "summary": "",
-      "url": "https://m.baidu.com/s?word=%E7%94%B7%E5%AD%90%E5%BD%A9%E7%A5%A8%E4%B8%AD598%E4%B8%87+%E6%B2%A1%E5%91%8A%E8%AF%89%E5%A6%BB%E5%AD%90%E5%AD%A9%E5%AD%90%E7%88%B6%E6%AF%8D&sa=fyb_news"
+      "url": "https://m.baidu.com/s?word=%E7%94%B7%E5%AD%90%E5%BD%A9%E7%A5%A8%E4%B8%AD598%E4%B8%87+%E6%B2%A1%E5%91%8A%E8%AF%89%E5%A6%BB%E5%84%BF%E7%88%B6%E6%AF%8D&sa=fyb_news"
+    },
+    {
+      "id": "evt-33000000",
+      "title": "四川一村有33对双胞胎 专家谈成因",
+      "category": "society",
+      "hotScore": 0.44,
+      "freshness": 1,
+      "crossSource": 0.6309,
+      "totalScore": 0.6653,
+      "sources": [
+        {
+          "channel": "baidu",
+          "rank": 10,
+          "hot": 0,
+          "url": "https://m.baidu.com/s?word=%E5%9B%9B%E5%B7%9D%E4%B8%80%E6%9D%91%E6%9C%8933%E5%AF%B9%E5%8F%8C%E8%83%9E%E8%83%8E+%E4%B8%93%E5%AE%B6%E8%B0%88%E6%88%90%E5%9B%A0&sa=fyb_news"
+        }
+      ],
+      "summary": "",
+      "url": "https://m.baidu.com/s?word=%E5%9B%9B%E5%B7%9D%E4%B8%80%E6%9D%91%E6%9C%8933%E5%AF%B9%E5%8F%8C%E8%83%9E%E8%83%8E+%E4%B8%93%E5%AE%B6%E8%B0%88%E6%88%90%E5%9B%A0&sa=fyb_news"
     }
   ]
 }
