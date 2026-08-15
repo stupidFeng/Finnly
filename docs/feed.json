@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-08-15T20:10:45.654Z",
+  "generatedAt": "2026-08-15T22:10:33.881Z",
   "fields": {
     "society": "社会",
     "economy": "经济",
@@ -18,7 +18,7 @@
         {
           "channel": "toutiao",
           "rank": 1,
-          "hot": 17548869,
+          "hot": 18009766,
           "url": "https://www.toutiao.com/trending/7674226875460059142/"
         },
         {
@@ -43,7 +43,7 @@
         {
           "channel": "toutiao",
           "rank": 2,
-          "hot": 15878873,
+          "hot": 16295910,
           "url": "https://www.toutiao.com/trending/7673089074458689572/"
         }
       ],
@@ -89,6 +89,25 @@
       "url": "https://www.thepaper.cn/newsDetail_forward_33790351"
     },
     {
+      "id": "evt-deepseekv4pr",
+      "title": "DeepSeek-V4-Pro-0813 已发布，体验下来怎么样？",
+      "category": "society",
+      "hotScore": 0.75,
+      "freshness": 1,
+      "crossSource": 0.6309,
+      "totalScore": 0.7893,
+      "sources": [
+        {
+          "channel": "zhihu",
+          "rank": 1,
+          "hot": 0,
+          "url": ""
+        }
+      ],
+      "summary": "",
+      "url": ""
+    },
+    {
       "id": "evt-ai000000",
       "title": "美国大模型帮日本对AI进行投毒",
       "category": "society",
@@ -108,44 +127,6 @@
       "url": "https://m.baidu.com/s?word=%E7%BE%8E%E5%9B%BD%E5%A4%A7%E6%A8%A1%E5%9E%8B%E5%B8%AE%E6%97%A5%E6%9C%AC%E5%AF%B9AI%E8%BF%9B%E8%A1%8C%E6%8A%95%E6%AF%92&sa=fyb_news"
     },
     {
-      "id": "evt-deepseekv4pr",
-      "title": "DeepSeek-V4-Pro-0813 已发布，体验下来怎么样？",
-      "category": "society",
-      "hotScore": 0.7125,
-      "freshness": 1,
-      "crossSource": 0.6309,
-      "totalScore": 0.7743,
-      "sources": [
-        {
-          "channel": "zhihu",
-          "rank": 2,
-          "hot": 0,
-          "url": ""
-        }
-      ],
-      "summary": "",
-      "url": ""
-    },
-    {
-      "id": "evt-cr000000",
-      "title": "曾经爆火的洞洞鞋遇冷，Crocs 联合瑞幸推出近六百元洞洞鞋，二手平台半价出售，高价洞洞鞋卖不动了吗？",
-      "category": "society",
-      "hotScore": 0.675,
-      "freshness": 1,
-      "crossSource": 0.6309,
-      "totalScore": 0.7593,
-      "sources": [
-        {
-          "channel": "zhihu",
-          "rank": 3,
-          "hot": 0,
-          "url": ""
-        }
-      ],
-      "summary": "",
-      "url": ""
-    },
-    {
       "id": "evt-28430000",
       "title": "28岁男子和43岁女子领证结婚",
       "category": "society",
@@ -157,7 +138,7 @@
         {
           "channel": "toutiao",
           "rank": 6,
-          "hot": 10643927,
+          "hot": 10923475,
           "url": "https://www.toutiao.com/trending/7674151636219068466/"
         }
       ],
@@ -165,23 +146,99 @@
       "url": "https://www.toutiao.com/trending/7674151636219068466/"
     },
     {
+      "id": "evt-cr000000",
+      "title": "曾经爆火的洞洞鞋遇冷，Crocs 联合瑞幸推出近六百元洞洞鞋，二手平台半价出售，高价洞洞鞋卖不动了吗？",
+      "category": "society",
+      "hotScore": 0.6,
+      "freshness": 1,
+      "crossSource": 0.6309,
+      "totalScore": 0.7293,
+      "sources": [
+        {
+          "channel": "zhihu",
+          "rank": 5,
+          "hot": 0,
+          "url": ""
+        }
+      ],
+      "summary": "",
+      "url": ""
+    },
+    {
+      "id": "evt-20000000",
+      "title": "《一饭封神 2》中谢霆锋直言「糖拌西红柿不能拿来比赛」，你认同吗？",
+      "category": "society",
+      "hotScore": 0.525,
+      "freshness": 1,
+      "crossSource": 0.6309,
+      "totalScore": 0.6993,
+      "sources": [
+        {
+          "channel": "zhihu",
+          "rank": 7,
+          "hot": 0,
+          "url": ""
+        }
+      ],
+      "summary": "",
+      "url": ""
+    },
+    {
       "id": "evt-40000000",
       "title": "男童走失4天找回 父亲设宴200桌答谢",
       "category": "society",
-      "hotScore": 0.5525,
+      "hotScore": 0.51,
       "freshness": 1,
       "crossSource": 0.6309,
-      "totalScore": 0.7103,
+      "totalScore": 0.6933,
       "sources": [
         {
           "channel": "toutiao",
-          "rank": 8,
-          "hot": 8714510,
+          "rank": 9,
+          "hot": 8092309,
           "url": "https://www.toutiao.com/trending/7673461817784877098/"
         }
       ],
       "summary": "",
       "url": "https://www.toutiao.com/trending/7673461817784877098/"
+    },
+    {
+      "id": "evt-sk202000",
+      "title": "SK 集团崔泰源警告 2027 年大概率会是存储芯片供应缺口最大的一年，内存、硬盘还要持续涨价吗？",
+      "category": "society",
+      "hotScore": 0.4875,
+      "freshness": 1,
+      "crossSource": 0.6309,
+      "totalScore": 0.6843,
+      "sources": [
+        {
+          "channel": "zhihu",
+          "rank": 8,
+          "hot": 0,
+          "url": ""
+        }
+      ],
+      "summary": "",
+      "url": ""
+    },
+    {
+      "id": "evt-36000000",
+      "title": "婴儿在姑姑家失踪 36年后找到家人",
+      "category": "society",
+      "hotScore": 0.4675,
+      "freshness": 1,
+      "crossSource": 0.6309,
+      "totalScore": 0.6763,
+      "sources": [
+        {
+          "channel": "toutiao",
+          "rank": 10,
+          "hot": 7322224,
+          "url": "https://www.toutiao.com/trending/7674134403609526314/"
+        }
+      ],
+      "summary": "",
+      "url": "https://www.toutiao.com/trending/7674134403609526314/"
     }
   ]
 }
