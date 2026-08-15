@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-08-15T16:12:05.161Z",
+  "generatedAt": "2026-08-15T18:13:47.690Z",
   "fields": {
     "society": "社会",
     "economy": "经济",
@@ -11,14 +11,14 @@
       "title": "纪念江泽民同志诞辰100周年大会",
       "category": "society",
       "hotScore": 0.85,
-      "freshness": 0.9999,
+      "freshness": 1,
       "crossSource": 1,
       "totalScore": 0.94,
       "sources": [
         {
           "channel": "toutiao",
           "rank": 1,
-          "hot": 16957086,
+          "hot": 17317120,
           "url": "https://www.toutiao.com/trending/7674226875460059142/"
         },
         {
@@ -35,20 +35,20 @@
       "id": "evt-00000000",
       "title": "王传君终于原谅《爱情公寓》了",
       "category": "society",
-      "hotScore": 0.56,
-      "freshness": 0.9999,
+      "hotScore": 0.5525,
+      "freshness": 1,
       "crossSource": 1,
-      "totalScore": 0.824,
+      "totalScore": 0.821,
       "sources": [
         {
           "channel": "toutiao",
-          "rank": 19,
-          "hot": 2802987,
+          "rank": 8,
+          "hot": 8599427,
           "url": "https://www.toutiao.com/trending/7674255615633162276/"
         },
         {
           "channel": "baidu",
-          "rank": 7,
+          "rank": 15,
           "hot": 0,
           "url": "https://m.baidu.com/s?word=%E7%8E%8B%E4%BC%A0%E5%90%9B%E7%BB%88%E4%BA%8E%E5%8E%9F%E8%B0%85%E3%80%8A%E7%88%B1%E6%83%85%E5%85%AC%E5%AF%93%E3%80%8B%E4%BA%86&sa=fyb_news"
         }
@@ -61,14 +61,14 @@
       "title": "河南贾鲁河堤防117米溃口成功合龙",
       "category": "society",
       "hotScore": 0.8075,
-      "freshness": 0.9999,
+      "freshness": 1,
       "crossSource": 0.6309,
       "totalScore": 0.8123,
       "sources": [
         {
           "channel": "toutiao",
           "rank": 2,
-          "hot": 15343406,
+          "hot": 15669178,
           "url": "https://www.toutiao.com/trending/7673089074458689572/"
         }
       ],
@@ -99,7 +99,7 @@
       "title": "美国大模型帮日本对AI进行投毒",
       "category": "society",
       "hotScore": 0.72,
-      "freshness": 0.9999,
+      "freshness": 1,
       "crossSource": 0.6309,
       "totalScore": 0.7773,
       "sources": [
@@ -118,14 +118,14 @@
       "title": "28岁男子和43岁女子领证结婚",
       "category": "society",
       "hotScore": 0.6375,
-      "freshness": 0.9999,
+      "freshness": 1,
       "crossSource": 0.6309,
       "totalScore": 0.7443,
       "sources": [
         {
           "channel": "toutiao",
           "rank": 6,
-          "hot": 10284992,
+          "hot": 10503364,
           "url": "https://www.toutiao.com/trending/7674151636219068466/"
         }
       ],
@@ -137,7 +137,7 @@
       "title": "DeepSeek-V4-Pro-0813 已发布，体验下来怎么样？",
       "category": "society",
       "hotScore": 0.6375,
-      "freshness": 0.9999,
+      "freshness": 1,
       "crossSource": 0.6309,
       "totalScore": 0.7443,
       "sources": [
@@ -152,36 +152,17 @@
       "url": ""
     },
     {
-      "id": "evt-20000000",
-      "title": "《一饭封神 2》中谢霆锋直言「糖拌西红柿不能拿来比赛」，你认同吗？",
-      "category": "society",
-      "hotScore": 0.5625,
-      "freshness": 0.9999,
-      "crossSource": 0.6309,
-      "totalScore": 0.7143,
-      "sources": [
-        {
-          "channel": "zhihu",
-          "rank": 6,
-          "hot": 0,
-          "url": ""
-        }
-      ],
-      "summary": "",
-      "url": ""
-    },
-    {
       "id": "evt-cr000000",
       "title": "曾经爆火的洞洞鞋遇冷，Crocs 联合瑞幸推出近六百元洞洞鞋，二手平台半价出售，高价洞洞鞋卖不动了吗？",
       "category": "society",
-      "hotScore": 0.4875,
-      "freshness": 0.9999,
+      "hotScore": 0.525,
+      "freshness": 1,
       "crossSource": 0.6309,
-      "totalScore": 0.6843,
+      "totalScore": 0.6993,
       "sources": [
         {
           "channel": "zhihu",
-          "rank": 8,
+          "rank": 7,
           "hot": 0,
           "url": ""
         }
@@ -191,22 +172,22 @@
     },
     {
       "id": "evt-40000000",
-      "title": "父子决裂40年亲生儿子仍继承9成遗产",
+      "title": "男童走失4天找回 父亲设宴200桌答谢",
       "category": "society",
-      "hotScore": 0.48,
-      "freshness": 0.9999,
+      "hotScore": 0.51,
+      "freshness": 1,
       "crossSource": 0.6309,
-      "totalScore": 0.6813,
+      "totalScore": 0.6933,
       "sources": [
         {
-          "channel": "baidu",
+          "channel": "toutiao",
           "rank": 9,
-          "hot": 0,
-          "url": "https://m.baidu.com/s?word=%E7%88%B6%E5%AD%90%E5%86%B3%E8%A3%8240%E5%B9%B4%E4%BA%B2%E7%94%9F%E5%84%BF%E5%AD%90%E4%BB%8D%E7%BB%A7%E6%89%BF9%E6%88%90%E9%81%97%E4%BA%A7&sa=fyb_news"
+          "hot": 7781083,
+          "url": "https://www.toutiao.com/trending/7673461817784877098/"
         }
       ],
       "summary": "",
-      "url": "https://m.baidu.com/s?word=%E7%88%B6%E5%AD%90%E5%86%B3%E8%A3%8240%E5%B9%B4%E4%BA%B2%E7%94%9F%E5%84%BF%E5%AD%90%E4%BB%8D%E7%BB%A7%E6%89%BF9%E6%88%90%E9%81%97%E4%BA%A7&sa=fyb_news"
+      "url": "https://www.toutiao.com/trending/7673461817784877098/"
     }
   ]
 }
