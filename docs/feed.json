@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-08-16T16:12:41.010Z",
+  "generatedAt": "2026-08-16T18:14:11.385Z",
   "fields": {
     "society": "社会",
     "economy": "经济",
@@ -11,14 +11,14 @@
       "title": "朱镕基同志遗体18日火化",
       "category": "society",
       "hotScore": 0.85,
-      "freshness": 0.9998,
+      "freshness": 0.9999,
       "crossSource": 1,
-      "totalScore": 0.9399,
+      "totalScore": 0.94,
       "sources": [
         {
           "channel": "toutiao",
           "rank": 1,
-          "hot": 15531760,
+          "hot": 15988778,
           "url": "https://www.toutiao.com/trending/7673402891508908042/"
         },
         {
@@ -36,9 +36,9 @@
       "title": "《江泽民》第12集《大道行歌》",
       "category": "society",
       "hotScore": 0.85,
-      "freshness": 0.9998,
+      "freshness": 1,
       "crossSource": 0.6309,
-      "totalScore": 0.8292,
+      "totalScore": 0.8293,
       "sources": [
         {
           "channel": "thepaper",
@@ -51,38 +51,13 @@
       "url": "https://www.thepaper.cn/newsDetail_forward_33795275"
     },
     {
-      "id": "evt-17000000",
-      "title": "17岁少年确诊胃癌一个半月后离世",
-      "category": "society",
-      "hotScore": 0.56,
-      "freshness": 0.9998,
-      "crossSource": 1,
-      "totalScore": 0.8239,
-      "sources": [
-        {
-          "channel": "toutiao",
-          "rank": 10,
-          "hot": 6314742,
-          "url": "https://www.toutiao.com/trending/7674245924323901476/"
-        },
-        {
-          "channel": "baidu",
-          "rank": 7,
-          "hot": 0,
-          "url": "https://m.baidu.com/s?word=17%E5%B2%81%E5%B0%91%E5%B9%B4%E7%A1%AE%E8%AF%8A%E8%83%83%E7%99%8C%E4%B8%80%E4%B8%AA%E5%8D%8A%E6%9C%88%E5%90%8E%E7%A6%BB%E4%B8%96&sa=fyb_news"
-        }
-      ],
-      "summary": "",
-      "url": "https://www.toutiao.com/trending/7674245924323901476/"
-    },
-    {
       "id": "evt-11000000",
       "title": "《江泽民》第11集《人民情怀》",
       "category": "society",
       "hotScore": 0.8075,
-      "freshness": 0.9998,
+      "freshness": 1,
       "crossSource": 0.6309,
-      "totalScore": 0.8122,
+      "totalScore": 0.8123,
       "sources": [
         {
           "channel": "thepaper",
@@ -96,22 +71,22 @@
     },
     {
       "id": "evt-00000000",
-      "title": "问界儿童车即将上市",
-      "category": "economy",
-      "hotScore": 0.8075,
-      "freshness": 0.9998,
+      "title": "防灾减灾救灾 总书记强调三个到位",
+      "category": "society",
+      "hotScore": 0.8,
+      "freshness": 1,
       "crossSource": 0.6309,
-      "totalScore": 0.8122,
+      "totalScore": 0.8093,
       "sources": [
         {
-          "channel": "toutiao",
-          "rank": 2,
-          "hot": 14053718,
-          "url": "https://www.toutiao.com/trending/7674162628880518699/"
+          "channel": "baidu",
+          "rank": 1,
+          "hot": 0,
+          "url": "https://m.baidu.com/s?word=%E9%98%B2%E7%81%BE%E5%87%8F%E7%81%BE%E6%95%91%E7%81%BE+%E6%80%BB%E4%B9%A6%E8%AE%B0%E5%BC%BA%E8%B0%83%E4%B8%89%E4%B8%AA%E5%88%B0%E4%BD%8D&sa=fyb_news"
         }
       ],
       "summary": "",
-      "url": "https://www.toutiao.com/trending/7674162628880518699/"
+      "url": "https://m.baidu.com/s?word=%E9%98%B2%E7%81%BE%E5%87%8F%E7%81%BE%E6%95%91%E7%81%BE+%E6%80%BB%E4%B9%A6%E8%AE%B0%E5%BC%BA%E8%B0%83%E4%B8%89%E4%B8%AA%E5%88%B0%E4%BD%8D&sa=fyb_news"
     },
     {
       "id": "evt-m0000000",
@@ -137,14 +112,14 @@
       "title": "莫斯科遭乌方600架无人机袭击",
       "category": "society",
       "hotScore": 0.7225,
-      "freshness": 0.9998,
+      "freshness": 0.9999,
       "crossSource": 0.6309,
-      "totalScore": 0.7782,
+      "totalScore": 0.7783,
       "sources": [
         {
           "channel": "toutiao",
           "rank": 4,
-          "hot": 11506211,
+          "hot": 11844778,
           "url": "https://www.toutiao.com/trending/7674445226401890358/"
         }
       ],
@@ -152,32 +127,32 @@
       "url": "https://www.toutiao.com/trending/7674445226401890358/"
     },
     {
-      "id": "evt-69000000",
-      "title": "县委大院69间土坯房用了69年",
+      "id": "evt-16000000",
+      "title": "媒体：中方16问后菲防长路只剩一条",
       "category": "society",
       "hotScore": 0.68,
-      "freshness": 0.9998,
+      "freshness": 0.9999,
       "crossSource": 0.6309,
-      "totalScore": 0.7612,
+      "totalScore": 0.7613,
       "sources": [
         {
           "channel": "toutiao",
           "rank": 5,
-          "hot": 10411250,
-          "url": "https://www.toutiao.com/trending/7674557882335215652/"
+          "hot": 10717598,
+          "url": "https://www.toutiao.com/trending/7673937315869409343/"
         }
       ],
       "summary": "",
-      "url": "https://www.toutiao.com/trending/7674557882335215652/"
+      "url": "https://www.toutiao.com/trending/7673937315869409343/"
     },
     {
       "id": "evt-50000000",
       "title": "「马云给你 5 亿元花呗额度」和「马化腾给你 1 亿 Q 币」，只能要一个，你要哪个？",
       "category": "society",
       "hotScore": 0.675,
-      "freshness": 0.9998,
+      "freshness": 0.9999,
       "crossSource": 0.6309,
-      "totalScore": 0.7592,
+      "totalScore": 0.7593,
       "sources": [
         {
           "channel": "zhihu",
@@ -209,56 +184,18 @@
       "url": "https://m.baidu.com/s?word=%E5%A4%AE%E8%A7%86%E6%9B%9D%E5%85%89%E4%BD%8E%E4%BB%B7%E5%BE%92%E6%AD%A5%E5%9B%A2%EF%BC%9A3%E4%B8%AA%E9%A2%86%E9%98%9F%E5%B8%A6150%E4%BA%BA&sa=fyb_news"
     },
     {
-      "id": "evt-16000000",
-      "title": "媒体：中方16问后菲防长路只剩一条",
+      "id": "evt-15000000",
+      "title": "央视曝光近150人组团夜爬封禁山峰",
       "category": "society",
       "hotScore": 0.6375,
-      "freshness": 0.9998,
+      "freshness": 0.9999,
       "crossSource": 0.6309,
-      "totalScore": 0.7442,
+      "totalScore": 0.7443,
       "sources": [
         {
           "channel": "toutiao",
           "rank": 6,
-          "hot": 9420489,
-          "url": "https://www.toutiao.com/trending/7673937315869409343/"
-        }
-      ],
-      "summary": "",
-      "url": "https://www.toutiao.com/trending/7673937315869409343/"
-    },
-    {
-      "id": "evt-2026wtt0",
-      "title": "2026WTT 瑞典大满贯男单半决赛，张本智和 4 比 3 再胜松岛辉空，如何评价这场比赛？",
-      "category": "society",
-      "hotScore": 0.525,
-      "freshness": 0.9998,
-      "crossSource": 0.6309,
-      "totalScore": 0.6992,
-      "sources": [
-        {
-          "channel": "zhihu",
-          "rank": 7,
-          "hot": 0,
-          "url": ""
-        }
-      ],
-      "summary": "",
-      "url": ""
-    },
-    {
-      "id": "evt-15000000",
-      "title": "央视曝光近150人组团夜爬封禁山峰",
-      "category": "society",
-      "hotScore": 0.51,
-      "freshness": 0.9998,
-      "crossSource": 0.6309,
-      "totalScore": 0.6932,
-      "sources": [
-        {
-          "channel": "toutiao",
-          "rank": 9,
-          "hot": 6978869,
+          "hot": 9697684,
           "url": "https://www.toutiao.com/trending/7674494013226893362/"
         }
       ],
@@ -266,23 +203,61 @@
       "url": "https://www.toutiao.com/trending/7674494013226893362/"
     },
     {
-      "id": "evt-ima00000",
-      "title": "为什么国内无法观看 IMAX 70mm 胶片版《奥德赛》？",
+      "id": "evt-17000000",
+      "title": "17岁少年确诊胃癌一个半月后离世",
       "category": "society",
-      "hotScore": 0.45,
-      "freshness": 0.9998,
+      "hotScore": 0.56,
+      "freshness": 1,
       "crossSource": 0.6309,
-      "totalScore": 0.6692,
+      "totalScore": 0.7133,
       "sources": [
         {
-          "channel": "zhihu",
-          "rank": 9,
+          "channel": "baidu",
+          "rank": 7,
           "hot": 0,
-          "url": ""
+          "url": "https://m.baidu.com/s?word=17%E5%B2%81%E5%B0%91%E5%B9%B4%E7%A1%AE%E8%AF%8A%E8%83%83%E7%99%8C%E4%B8%80%E4%B8%AA%E5%8D%8A%E6%9C%88%E5%90%8E%E7%A6%BB%E4%B8%96&sa=fyb_news"
         }
       ],
       "summary": "",
-      "url": ""
+      "url": "https://m.baidu.com/s?word=17%E5%B2%81%E5%B0%91%E5%B9%B4%E7%A1%AE%E8%AF%8A%E8%83%83%E7%99%8C%E4%B8%80%E4%B8%AA%E5%8D%8A%E6%9C%88%E5%90%8E%E7%A6%BB%E4%B8%96&sa=fyb_news"
+    },
+    {
+      "id": "evt-31300000",
+      "title": "请3天假连休13天",
+      "category": "society",
+      "hotScore": 0.51,
+      "freshness": 0.9999,
+      "crossSource": 0.6309,
+      "totalScore": 0.6933,
+      "sources": [
+        {
+          "channel": "toutiao",
+          "rank": 9,
+          "hot": 7184221,
+          "url": "https://www.toutiao.com/trending/7673849414997671982/"
+        }
+      ],
+      "summary": "",
+      "url": "https://www.toutiao.com/trending/7673849414997671982/"
+    },
+    {
+      "id": "evt-28000000",
+      "title": "胖东来将闭门老店28个收银口排长龙",
+      "category": "society",
+      "hotScore": 0.4675,
+      "freshness": 0.9999,
+      "crossSource": 0.6309,
+      "totalScore": 0.6763,
+      "sources": [
+        {
+          "channel": "toutiao",
+          "rank": 10,
+          "hot": 6500552,
+          "url": "https://www.toutiao.com/trending/7674460027406798362/"
+        }
+      ],
+      "summary": "",
+      "url": "https://www.toutiao.com/trending/7674460027406798362/"
     },
     {
       "id": "evt-10000000",
@@ -302,6 +277,25 @@
       ],
       "summary": "",
       "url": "https://m.baidu.com/s?word=%E5%90%B4%E8%89%B3%E5%A6%AE%E5%8A%A0%E5%86%95%E5%85%A8%E9%94%A6%E8%B5%9B100%E7%B1%B3%E6%A0%8F%E5%85%AD%E5%86%A0%E7%8E%8B&sa=fyb_news"
+    },
+    {
+      "id": "evt-ima00000",
+      "title": "为什么国内无法观看 IMAX 70mm 胶片版《奥德赛》？",
+      "category": "society",
+      "hotScore": 0.4125,
+      "freshness": 0.9999,
+      "crossSource": 0.6309,
+      "totalScore": 0.6543,
+      "sources": [
+        {
+          "channel": "zhihu",
+          "rank": 10,
+          "hot": 0,
+          "url": ""
+        }
+      ],
+      "summary": "",
+      "url": ""
     }
   ]
 }
