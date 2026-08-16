@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-08-16T04:25:01.847Z",
+  "generatedAt": "2026-08-16T06:21:55.275Z",
   "fields": {
     "society": "社会",
     "economy": "经济",
@@ -7,73 +7,79 @@
   },
   "feed": [
     {
-      "id": "evt-00000000",
-      "title": "中国博主发布进入靖国神社视频",
+      "id": "evt-28000000",
+      "title": "胖东来将闭门老店28个收银口排长龙",
+      "category": "society",
+      "hotScore": 0.8075,
+      "freshness": 0.9999,
+      "crossSource": 1,
+      "totalScore": 0.923,
+      "sources": [
+        {
+          "channel": "toutiao",
+          "rank": 2,
+          "hot": 9349404,
+          "url": "https://www.toutiao.com/trending/7674460027406798362/"
+        },
+        {
+          "channel": "baidu",
+          "rank": 8,
+          "hot": 0,
+          "url": "https://m.baidu.com/s?word=%E8%83%96%E4%B8%9C%E6%9D%A5%E5%B0%86%E9%97%AD%E9%97%A8%E8%80%81%E5%BA%9728%E4%B8%AA%E6%94%B6%E9%93%B6%E5%8F%A3%E6%8E%92%E9%95%BF%E9%BE%99&sa=fyb_news"
+        }
+      ],
+      "summary": "",
+      "url": "https://www.toutiao.com/trending/7674460027406798362/"
+    },
+    {
+      "id": "evt-98500000",
+      "title": "孩子考上985 全家免三年物业费",
       "category": "society",
       "hotScore": 0.7225,
-      "freshness": 1,
+      "freshness": 0.9999,
       "crossSource": 1,
       "totalScore": 0.889,
       "sources": [
         {
           "channel": "toutiao",
           "rank": 4,
-          "hot": 10038195,
-          "url": "https://www.toutiao.com/trending/7674164987845820435/"
+          "hot": 7654645,
+          "url": "https://www.toutiao.com/trending/7673442960385556522/"
         },
         {
           "channel": "baidu",
-          "rank": 9,
-          "hot": 0,
-          "url": "https://m.baidu.com/s?word=%E4%B8%AD%E5%9B%BD%E5%8D%9A%E4%B8%BB%E5%8F%91%E5%B8%83%E8%BF%9B%E5%85%A5%E9%9D%96%E5%9B%BD%E7%A5%9E%E7%A4%BE%E8%A7%86%E9%A2%91&sa=fyb_news"
-        }
-      ],
-      "summary": "",
-      "url": "https://www.toutiao.com/trending/7674164987845820435/"
-    },
-    {
-      "id": "evt-38000000",
-      "title": "于东来打卡小饭店消费380硬要付600",
-      "category": "society",
-      "hotScore": 0.595,
-      "freshness": 1,
-      "crossSource": 1,
-      "totalScore": 0.838,
-      "sources": [
-        {
-          "channel": "toutiao",
           "rank": 7,
-          "hot": 7436477,
-          "url": "https://www.toutiao.com/trending/7673321999443443748/"
-        },
-        {
-          "channel": "baidu",
-          "rank": 11,
           "hot": 0,
-          "url": "https://m.baidu.com/s?word=%E4%BA%8E%E4%B8%9C%E6%9D%A5%E6%89%93%E5%8D%A1%E5%B0%8F%E9%A5%AD%E5%BA%97%E6%B6%88%E8%B4%B9380%E7%A1%AC%E8%A6%81%E4%BB%98600&sa=fyb_news"
+          "url": "https://m.baidu.com/s?word=%E5%AD%A9%E5%AD%90%E8%80%83%E4%B8%8A985+%E5%85%A8%E5%AE%B6%E5%85%8D%E4%B8%89%E5%B9%B4%E7%89%A9%E4%B8%9A%E8%B4%B9&sa=fyb_news"
         }
       ],
       "summary": "",
-      "url": "https://www.toutiao.com/trending/7673321999443443748/"
+      "url": "https://www.toutiao.com/trending/7673442960385556522/"
     },
     {
-      "id": "evt-28000000",
-      "title": "胖东来将闭门老店28个收银口排长龙",
+      "id": "evt-31300000",
+      "title": "请3天假连休13天",
       "category": "society",
-      "hotScore": 0.85,
-      "freshness": 1,
-      "crossSource": 0.6309,
-      "totalScore": 0.8293,
+      "hotScore": 0.68,
+      "freshness": 0.9999,
+      "crossSource": 1,
+      "totalScore": 0.872,
       "sources": [
         {
           "channel": "toutiao",
-          "rank": 1,
-          "hot": 13550146,
-          "url": "https://www.toutiao.com/trending/7674460027406798362/"
+          "rank": 5,
+          "hot": 6926209,
+          "url": "https://www.toutiao.com/trending/7673849414997671982/"
+        },
+        {
+          "channel": "baidu",
+          "rank": 5,
+          "hot": 0,
+          "url": "https://m.baidu.com/s?word=%E8%AF%B73%E5%A4%A9%E5%81%87%E8%BF%9E%E4%BC%9113%E5%A4%A9&sa=fyb_news"
         }
       ],
       "summary": "",
-      "url": "https://www.toutiao.com/trending/7674460027406798362/"
+      "url": "https://www.toutiao.com/trending/7673849414997671982/"
     },
     {
       "id": "evt-10000000",
@@ -95,23 +101,42 @@
       "url": "https://www.thepaper.cn/newsDetail_forward_33790071"
     },
     {
-      "id": "evt-78700000",
-      "title": "越南航空波音787航班慕尼黑紧急返航",
-      "category": "society",
-      "hotScore": 0.8075,
-      "freshness": 1,
+      "id": "evt-anthropicq2",
+      "title": "Anthropic Q2 营收逾 115 亿美元，同比增 14 倍，是何引爆了其业绩，大模型商业化成功了？",
+      "category": "economy",
+      "hotScore": 0.525,
+      "freshness": 0.9999,
       "crossSource": 0.6309,
-      "totalScore": 0.8123,
+      "totalScore": 0.6992,
       "sources": [
         {
-          "channel": "toutiao",
-          "rank": 2,
-          "hot": 12260679,
-          "url": "https://www.toutiao.com/trending/7674278414251048979/"
+          "channel": "zhihu",
+          "rank": 7,
+          "hot": 0,
+          "url": ""
         }
       ],
       "summary": "",
-      "url": "https://www.toutiao.com/trending/7674278414251048979/"
+      "url": ""
+    },
+    {
+      "id": "evt-00000000",
+      "title": "朱镕基遗体后天火化 天安门将下半旗",
+      "category": "society",
+      "hotScore": 0.85,
+      "freshness": 0.9999,
+      "crossSource": 0.6309,
+      "totalScore": 0.8292,
+      "sources": [
+        {
+          "channel": "toutiao",
+          "rank": 1,
+          "hot": 10332690,
+          "url": "https://www.toutiao.com/trending/7673402891508908042/"
+        }
+      ],
+      "summary": "",
+      "url": "https://www.toutiao.com/trending/7673402891508908042/"
     },
     {
       "id": "evt-90000000",
@@ -133,11 +158,11 @@
       "url": "https://www.thepaper.cn/newsDetail_forward_33790351"
     },
     {
-      "id": "evt-60000000",
-      "title": "市场占有率超6成！中国车发现新大陆",
+      "id": "evt-18000000",
+      "title": "朱镕基同志遗体18日火化",
       "category": "society",
       "hotScore": 0.76,
-      "freshness": 1,
+      "freshness": 0.9999,
       "crossSource": 0.6309,
       "totalScore": 0.7933,
       "sources": [
@@ -145,43 +170,62 @@
           "channel": "baidu",
           "rank": 2,
           "hot": 0,
-          "url": "https://m.baidu.com/s?word=%E5%B8%82%E5%9C%BA%E5%8D%A0%E6%9C%89%E7%8E%87%E8%B6%856%E6%88%90%EF%BC%81%E4%B8%AD%E5%9B%BD%E8%BD%A6%E5%8F%91%E7%8E%B0%E6%96%B0%E5%A4%A7%E9%99%86&sa=fyb_news"
+          "url": "https://m.baidu.com/s?word=%E6%9C%B1%E9%95%95%E5%9F%BA%E5%90%8C%E5%BF%97%E9%81%97%E4%BD%9318%E6%97%A5%E7%81%AB%E5%8C%96&sa=fyb_news"
         }
       ],
       "summary": "",
-      "url": "https://m.baidu.com/s?word=%E5%B8%82%E5%9C%BA%E5%8D%A0%E6%9C%89%E7%8E%87%E8%B6%856%E6%88%90%EF%BC%81%E4%B8%AD%E5%9B%BD%E8%BD%A6%E5%8F%91%E7%8E%B0%E6%96%B0%E5%A4%A7%E9%99%86&sa=fyb_news"
+      "url": "https://m.baidu.com/s?word=%E6%9C%B1%E9%95%95%E5%9F%BA%E5%90%8C%E5%BF%97%E9%81%97%E4%BD%9318%E6%97%A5%E7%81%AB%E5%8C%96&sa=fyb_news"
     },
     {
       "id": "evt-2026wtt0",
       "title": "2026 年 WTT 瑞典大满贯，张本美和 4-0 轻取陈熠晋级女单四强，怎么评价本场比赛？",
       "category": "society",
-      "hotScore": 0.7125,
-      "freshness": 1,
+      "hotScore": 0.675,
+      "freshness": 0.9999,
       "crossSource": 0.6309,
-      "totalScore": 0.7743,
+      "totalScore": 0.7592,
       "sources": [
         {
           "channel": "zhihu",
-          "rank": 2,
+          "rank": 3,
           "hot": 0,
           "url": ""
         }
       ],
       "summary": "",
       "url": ""
+    },
+    {
+      "id": "evt-40000000",
+      "title": "父子决裂40年儿子仍继承九成遗产",
+      "category": "society",
+      "hotScore": 0.6375,
+      "freshness": 0.9999,
+      "crossSource": 0.6309,
+      "totalScore": 0.7442,
+      "sources": [
+        {
+          "channel": "toutiao",
+          "rank": 6,
+          "hot": 6267093,
+          "url": "https://www.toutiao.com/trending/7673784898582511657/"
+        }
+      ],
+      "summary": "",
+      "url": "https://www.toutiao.com/trending/7673784898582511657/"
     },
     {
       "id": "evt-30000000",
       "title": "西安女子 3 万全款拿下宝鸡 40 平老房，你会入手这类「万元老破小」吗？这种低压力买房思路你认同吗？",
       "category": "society",
-      "hotScore": 0.6375,
-      "freshness": 1,
+      "hotScore": 0.6,
+      "freshness": 0.9999,
       "crossSource": 0.6309,
-      "totalScore": 0.7443,
+      "totalScore": 0.7292,
       "sources": [
         {
           "channel": "zhihu",
-          "rank": 4,
+          "rank": 5,
           "hot": 0,
           "url": ""
         }
@@ -190,32 +234,13 @@
       "url": ""
     },
     {
-      "id": "evt-70000000",
-      "title": "如何评价《原神》7.0 中的「楚古诺夫」？",
-      "category": "society",
-      "hotScore": 0.525,
-      "freshness": 1,
-      "crossSource": 0.6309,
-      "totalScore": 0.6993,
-      "sources": [
-        {
-          "channel": "zhihu",
-          "rank": 7,
-          "hot": 0,
-          "url": ""
-        }
-      ],
-      "summary": "",
-      "url": ""
-    },
-    {
-      "id": "evt-token000",
-      "title": "广东上线「Token 贷」，银行以企业 Token 消耗、业务订单等作为授信核心依据，如何看待这一创新模式？",
+      "id": "evt-ima00000",
+      "title": "为什么国内无法观看 IMAX 70mm 胶片版《奥德赛》？",
       "category": "society",
       "hotScore": 0.4875,
-      "freshness": 1,
+      "freshness": 0.9999,
       "crossSource": 0.6309,
-      "totalScore": 0.6843,
+      "totalScore": 0.6842,
       "sources": [
         {
           "channel": "zhihu",
@@ -226,6 +251,25 @@
       ],
       "summary": "",
       "url": ""
+    },
+    {
+      "id": "evt-15000000",
+      "title": "法国宪法法院否决15岁以下儿童社交媒体禁令",
+      "category": "society",
+      "hotScore": 0.425,
+      "freshness": 1,
+      "crossSource": 0.6309,
+      "totalScore": 0.6593,
+      "sources": [
+        {
+          "channel": "thepaper",
+          "rank": 11,
+          "hot": 0,
+          "url": "https://www.thepaper.cn/newsDetail_forward_33789573"
+        }
+      ],
+      "summary": "",
+      "url": "https://www.thepaper.cn/newsDetail_forward_33789573"
     }
   ]
 }
