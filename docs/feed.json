@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-08-16T08:16:26.543Z",
+  "generatedAt": "2026-08-16T10:12:45.800Z",
   "fields": {
     "society": "社会",
     "economy": "经济",
@@ -11,14 +11,14 @@
       "title": "朱镕基同志遗体18日火化",
       "category": "society",
       "hotScore": 0.85,
-      "freshness": 1,
+      "freshness": 0.9999,
       "crossSource": 1,
       "totalScore": 0.94,
       "sources": [
         {
           "channel": "toutiao",
           "rank": 1,
-          "hot": 10332690,
+          "hot": 11521514,
           "url": "https://www.toutiao.com/trending/7673402891508908042/"
         },
         {
@@ -35,20 +35,20 @@
       "id": "evt-00000000",
       "title": "新加坡老人轻拍小女孩头部被家长撂倒",
       "category": "society",
-      "hotScore": 0.8075,
-      "freshness": 1,
+      "hotScore": 0.7225,
+      "freshness": 0.9999,
       "crossSource": 1,
-      "totalScore": 0.923,
+      "totalScore": 0.889,
       "sources": [
         {
           "channel": "toutiao",
-          "rank": 2,
-          "hot": 9349404,
+          "rank": 4,
+          "hot": 8535348,
           "url": "https://www.toutiao.com/trending/7674458401706983460/"
         },
         {
           "channel": "baidu",
-          "rank": 5,
+          "rank": 10,
           "hot": 0,
           "url": "https://m.baidu.com/s?word=%E6%96%B0%E5%8A%A0%E5%9D%A1%E8%80%81%E4%BA%BA%E8%BD%BB%E6%8B%8D%E5%B0%8F%E5%A5%B3%E5%AD%A9%E5%A4%B4%E9%83%A8%E8%A2%AB%E5%AE%B6%E9%95%BF%E6%92%82%E5%80%92&sa=fyb_news"
         }
@@ -61,19 +61,19 @@
       "title": "胖东来将闭门老店28个收银口排长龙",
       "category": "society",
       "hotScore": 0.68,
-      "freshness": 1,
+      "freshness": 0.9999,
       "crossSource": 1,
       "totalScore": 0.872,
       "sources": [
         {
           "channel": "toutiao",
           "rank": 5,
-          "hot": 6926209,
+          "hot": 7723102,
           "url": "https://www.toutiao.com/trending/7674460027406798362/"
         },
         {
           "channel": "baidu",
-          "rank": 13,
+          "rank": 16,
           "hot": 0,
           "url": "https://m.baidu.com/s?word=%E8%83%96%E4%B8%9C%E6%9D%A5%E5%B0%86%E9%97%AD%E9%97%A8%E8%80%81%E5%BA%9728%E4%B8%AA%E6%94%B6%E9%93%B6%E5%8F%A3%E6%8E%92%E9%95%BF%E9%BE%99&sa=fyb_news"
         }
@@ -101,48 +101,23 @@
       "url": "https://www.thepaper.cn/newsDetail_forward_33790071"
     },
     {
-      "id": "evt-anthropicq2",
-      "title": "Anthropic Q2 营收逾 115 亿美元，同比增 14 倍，是何引爆了其业绩，大模型商业化成功了？",
-      "category": "economy",
-      "hotScore": 0.4875,
-      "freshness": 1,
-      "crossSource": 0.6309,
-      "totalScore": 0.6843,
-      "sources": [
-        {
-          "channel": "zhihu",
-          "rank": 8,
-          "hot": 0,
-          "url": ""
-        }
-      ],
-      "summary": "",
-      "url": ""
-    },
-    {
-      "id": "evt-31300000",
-      "title": "请3天假连休13天",
+      "id": "evt-15000000",
+      "title": "央视曝光近150人组团夜爬封禁山峰",
       "category": "society",
-      "hotScore": 0.56,
-      "freshness": 1,
-      "crossSource": 1,
-      "totalScore": 0.824,
+      "hotScore": 0.8075,
+      "freshness": 0.9999,
+      "crossSource": 0.6309,
+      "totalScore": 0.8123,
       "sources": [
         {
           "channel": "toutiao",
-          "rank": 16,
-          "hot": 2305534,
-          "url": "https://www.toutiao.com/trending/7673849414997671982/"
-        },
-        {
-          "channel": "baidu",
-          "rank": 7,
-          "hot": 0,
-          "url": "https://m.baidu.com/s?word=%E8%AF%B73%E5%A4%A9%E5%81%87%E8%BF%9E%E4%BC%9113%E5%A4%A9&sa=fyb_news"
+          "rank": 2,
+          "hot": 10425097,
+          "url": "https://www.toutiao.com/trending/7674494013226893362/"
         }
       ],
       "summary": "",
-      "url": "https://www.toutiao.com/trending/7673849414997671982/"
+      "url": "https://www.toutiao.com/trending/7674494013226893362/"
     },
     {
       "id": "evt-90000000",
@@ -168,7 +143,7 @@
       "title": "西安女子 3 万全款拿下宝鸡 40 平老房，你会入手这类「万元老破小」吗？这种低压力买房思路你认同吗？",
       "category": "society",
       "hotScore": 0.675,
-      "freshness": 1,
+      "freshness": 0.9999,
       "crossSource": 0.6309,
       "totalScore": 0.7593,
       "sources": [
@@ -183,61 +158,36 @@
       "url": ""
     },
     {
-      "id": "evt-39000000",
-      "title": "39岁儿科医生去世 多人缅怀",
+      "id": "evt-70000000",
+      "title": "学生暑假跑外卖 三天倒亏700元",
       "category": "society",
-      "hotScore": 0.6375,
+      "hotScore": 0.6,
       "freshness": 1,
       "crossSource": 0.6309,
-      "totalScore": 0.7443,
+      "totalScore": 0.7293,
       "sources": [
-        {
-          "channel": "toutiao",
-          "rank": 6,
-          "hot": 6267093,
-          "url": "https://www.toutiao.com/trending/7674528804517219891/"
-        }
-      ],
-      "summary": "",
-      "url": "https://www.toutiao.com/trending/7674528804517219891/"
-    },
-    {
-      "id": "evt-12800000",
-      "title": "孙楠回应体重只有128斤",
-      "category": "society",
-      "hotScore": 0.34,
-      "freshness": 1,
-      "crossSource": 1,
-      "totalScore": 0.736,
-      "sources": [
-        {
-          "channel": "toutiao",
-          "rank": 13,
-          "hot": 3112146,
-          "url": "https://www.toutiao.com/trending/7674436527586492470/"
-        },
         {
           "channel": "baidu",
-          "rank": 17,
+          "rank": 6,
           "hot": 0,
-          "url": "https://m.baidu.com/s?word=%E5%AD%99%E6%A5%A0%E5%9B%9E%E5%BA%94%E4%BD%93%E9%87%8D%E5%8F%AA%E6%9C%89128%E6%96%A4&sa=fyb_news"
+          "url": "https://m.baidu.com/s?word=%E5%AD%A6%E7%94%9F%E6%9A%91%E5%81%87%E8%B7%91%E5%A4%96%E5%8D%96+%E4%B8%89%E5%A4%A9%E5%80%92%E4%BA%8F700%E5%85%83&sa=fyb_news"
         }
       ],
       "summary": "",
-      "url": "https://www.toutiao.com/trending/7674436527586492470/"
+      "url": "https://m.baidu.com/s?word=%E5%AD%A6%E7%94%9F%E6%9A%91%E5%81%87%E8%B7%91%E5%A4%96%E5%8D%96+%E4%B8%89%E5%A4%A9%E5%80%92%E4%BA%8F700%E5%85%83&sa=fyb_news"
     },
     {
       "id": "evt-ima00000",
       "title": "为什么国内无法观看 IMAX 70mm 胶片版《奥德赛》？",
       "category": "society",
-      "hotScore": 0.5625,
-      "freshness": 1,
+      "hotScore": 0.6,
+      "freshness": 0.9999,
       "crossSource": 0.6309,
-      "totalScore": 0.7143,
+      "totalScore": 0.7293,
       "sources": [
         {
           "channel": "zhihu",
-          "rank": 6,
+          "rank": 5,
           "hot": 0,
           "url": ""
         }
@@ -246,29 +196,67 @@
       "url": ""
     },
     {
-      "id": "evt-98500000",
-      "title": "孩子考上985 全家免三年物业费",
+      "id": "evt-31300000",
+      "title": "请3天假连休13天",
       "category": "society",
-      "hotScore": 0.2,
-      "freshness": 1,
+      "hotScore": 0.32,
+      "freshness": 0.9999,
       "crossSource": 1,
-      "totalScore": 0.68,
+      "totalScore": 0.728,
       "sources": [
         {
           "channel": "toutiao",
-          "rank": 17,
-          "hot": 2086134,
-          "url": "https://www.toutiao.com/trending/7673442960385556522/"
+          "rank": 20,
+          "hot": 1723257,
+          "url": "https://www.toutiao.com/trending/7673849414997671982/"
         },
         {
           "channel": "baidu",
-          "rank": 16,
+          "rank": 13,
           "hot": 0,
-          "url": "https://m.baidu.com/s?word=%E5%AD%A9%E5%AD%90%E8%80%83%E4%B8%8A985+%E5%85%A8%E5%AE%B6%E5%85%8D%E4%B8%89%E5%B9%B4%E7%89%A9%E4%B8%9A%E8%B4%B9&sa=fyb_news"
+          "url": "https://m.baidu.com/s?word=%E8%AF%B73%E5%A4%A9%E5%81%87%E8%BF%9E%E4%BC%9113%E5%A4%A9&sa=fyb_news"
         }
       ],
       "summary": "",
-      "url": "https://www.toutiao.com/trending/7673442960385556522/"
+      "url": "https://www.toutiao.com/trending/7673849414997671982/"
+    },
+    {
+      "id": "evt-os400000",
+      "title": "怎么看澎湃 OS4 正式采用 Flutter + Rust  对系统进行性能和内存优化？",
+      "category": "society",
+      "hotScore": 0.4875,
+      "freshness": 0.9999,
+      "crossSource": 0.6309,
+      "totalScore": 0.6843,
+      "sources": [
+        {
+          "channel": "zhihu",
+          "rank": 8,
+          "hot": 0,
+          "url": ""
+        }
+      ],
+      "summary": "",
+      "url": ""
+    },
+    {
+      "id": "evt-ti202600",
+      "title": "如何看待 TI2026 小组赛瑞士轮三支中国队 XG 、 VG 、 TR 全部出局？",
+      "category": "society",
+      "hotScore": 0.4125,
+      "freshness": 0.9999,
+      "crossSource": 0.6309,
+      "totalScore": 0.6543,
+      "sources": [
+        {
+          "channel": "zhihu",
+          "rank": 10,
+          "hot": 0,
+          "url": ""
+        }
+      ],
+      "summary": "",
+      "url": ""
     }
   ]
 }
