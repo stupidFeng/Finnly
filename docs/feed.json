@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-08-16T06:21:55.275Z",
+  "generatedAt": "2026-08-16T08:16:26.543Z",
   "fields": {
     "society": "社会",
     "economy": "经济",
@@ -7,11 +7,36 @@
   },
   "feed": [
     {
-      "id": "evt-28000000",
-      "title": "胖东来将闭门老店28个收银口排长龙",
+      "id": "evt-18000000",
+      "title": "朱镕基同志遗体18日火化",
+      "category": "society",
+      "hotScore": 0.85,
+      "freshness": 1,
+      "crossSource": 1,
+      "totalScore": 0.94,
+      "sources": [
+        {
+          "channel": "toutiao",
+          "rank": 1,
+          "hot": 10332690,
+          "url": "https://www.toutiao.com/trending/7673402891508908042/"
+        },
+        {
+          "channel": "baidu",
+          "rank": 2,
+          "hot": 0,
+          "url": "https://m.baidu.com/s?word=%E6%9C%B1%E9%95%95%E5%9F%BA%E5%90%8C%E5%BF%97%E9%81%97%E4%BD%9318%E6%97%A5%E7%81%AB%E5%8C%96&sa=fyb_news"
+        }
+      ],
+      "summary": "",
+      "url": "https://www.toutiao.com/trending/7673402891508908042/"
+    },
+    {
+      "id": "evt-00000000",
+      "title": "新加坡老人轻拍小女孩头部被家长撂倒",
       "category": "society",
       "hotScore": 0.8075,
-      "freshness": 0.9999,
+      "freshness": 1,
       "crossSource": 1,
       "totalScore": 0.923,
       "sources": [
@@ -19,49 +44,24 @@
           "channel": "toutiao",
           "rank": 2,
           "hot": 9349404,
-          "url": "https://www.toutiao.com/trending/7674460027406798362/"
+          "url": "https://www.toutiao.com/trending/7674458401706983460/"
         },
         {
           "channel": "baidu",
-          "rank": 8,
+          "rank": 5,
           "hot": 0,
-          "url": "https://m.baidu.com/s?word=%E8%83%96%E4%B8%9C%E6%9D%A5%E5%B0%86%E9%97%AD%E9%97%A8%E8%80%81%E5%BA%9728%E4%B8%AA%E6%94%B6%E9%93%B6%E5%8F%A3%E6%8E%92%E9%95%BF%E9%BE%99&sa=fyb_news"
+          "url": "https://m.baidu.com/s?word=%E6%96%B0%E5%8A%A0%E5%9D%A1%E8%80%81%E4%BA%BA%E8%BD%BB%E6%8B%8D%E5%B0%8F%E5%A5%B3%E5%AD%A9%E5%A4%B4%E9%83%A8%E8%A2%AB%E5%AE%B6%E9%95%BF%E6%92%82%E5%80%92&sa=fyb_news"
         }
       ],
       "summary": "",
-      "url": "https://www.toutiao.com/trending/7674460027406798362/"
+      "url": "https://www.toutiao.com/trending/7674458401706983460/"
     },
     {
-      "id": "evt-98500000",
-      "title": "孩子考上985 全家免三年物业费",
-      "category": "society",
-      "hotScore": 0.7225,
-      "freshness": 0.9999,
-      "crossSource": 1,
-      "totalScore": 0.889,
-      "sources": [
-        {
-          "channel": "toutiao",
-          "rank": 4,
-          "hot": 7654645,
-          "url": "https://www.toutiao.com/trending/7673442960385556522/"
-        },
-        {
-          "channel": "baidu",
-          "rank": 7,
-          "hot": 0,
-          "url": "https://m.baidu.com/s?word=%E5%AD%A9%E5%AD%90%E8%80%83%E4%B8%8A985+%E5%85%A8%E5%AE%B6%E5%85%8D%E4%B8%89%E5%B9%B4%E7%89%A9%E4%B8%9A%E8%B4%B9&sa=fyb_news"
-        }
-      ],
-      "summary": "",
-      "url": "https://www.toutiao.com/trending/7673442960385556522/"
-    },
-    {
-      "id": "evt-31300000",
-      "title": "请3天假连休13天",
+      "id": "evt-28000000",
+      "title": "胖东来将闭门老店28个收银口排长龙",
       "category": "society",
       "hotScore": 0.68,
-      "freshness": 0.9999,
+      "freshness": 1,
       "crossSource": 1,
       "totalScore": 0.872,
       "sources": [
@@ -69,17 +69,17 @@
           "channel": "toutiao",
           "rank": 5,
           "hot": 6926209,
-          "url": "https://www.toutiao.com/trending/7673849414997671982/"
+          "url": "https://www.toutiao.com/trending/7674460027406798362/"
         },
         {
           "channel": "baidu",
-          "rank": 5,
+          "rank": 13,
           "hot": 0,
-          "url": "https://m.baidu.com/s?word=%E8%AF%B73%E5%A4%A9%E5%81%87%E8%BF%9E%E4%BC%9113%E5%A4%A9&sa=fyb_news"
+          "url": "https://m.baidu.com/s?word=%E8%83%96%E4%B8%9C%E6%9D%A5%E5%B0%86%E9%97%AD%E9%97%A8%E8%80%81%E5%BA%9728%E4%B8%AA%E6%94%B6%E9%93%B6%E5%8F%A3%E6%8E%92%E9%95%BF%E9%BE%99&sa=fyb_news"
         }
       ],
       "summary": "",
-      "url": "https://www.toutiao.com/trending/7673849414997671982/"
+      "url": "https://www.toutiao.com/trending/7674460027406798362/"
     },
     {
       "id": "evt-10000000",
@@ -104,14 +104,14 @@
       "id": "evt-anthropicq2",
       "title": "Anthropic Q2 营收逾 115 亿美元，同比增 14 倍，是何引爆了其业绩，大模型商业化成功了？",
       "category": "economy",
-      "hotScore": 0.525,
-      "freshness": 0.9999,
+      "hotScore": 0.4875,
+      "freshness": 1,
       "crossSource": 0.6309,
-      "totalScore": 0.6992,
+      "totalScore": 0.6843,
       "sources": [
         {
           "channel": "zhihu",
-          "rank": 7,
+          "rank": 8,
           "hot": 0,
           "url": ""
         }
@@ -120,23 +120,29 @@
       "url": ""
     },
     {
-      "id": "evt-00000000",
-      "title": "朱镕基遗体后天火化 天安门将下半旗",
+      "id": "evt-31300000",
+      "title": "请3天假连休13天",
       "category": "society",
-      "hotScore": 0.85,
-      "freshness": 0.9999,
-      "crossSource": 0.6309,
-      "totalScore": 0.8292,
+      "hotScore": 0.56,
+      "freshness": 1,
+      "crossSource": 1,
+      "totalScore": 0.824,
       "sources": [
         {
           "channel": "toutiao",
-          "rank": 1,
-          "hot": 10332690,
-          "url": "https://www.toutiao.com/trending/7673402891508908042/"
+          "rank": 16,
+          "hot": 2305534,
+          "url": "https://www.toutiao.com/trending/7673849414997671982/"
+        },
+        {
+          "channel": "baidu",
+          "rank": 7,
+          "hot": 0,
+          "url": "https://m.baidu.com/s?word=%E8%AF%B73%E5%A4%A9%E5%81%87%E8%BF%9E%E4%BC%9113%E5%A4%A9&sa=fyb_news"
         }
       ],
       "summary": "",
-      "url": "https://www.toutiao.com/trending/7673402891508908042/"
+      "url": "https://www.toutiao.com/trending/7673849414997671982/"
     },
     {
       "id": "evt-90000000",
@@ -158,32 +164,13 @@
       "url": "https://www.thepaper.cn/newsDetail_forward_33790351"
     },
     {
-      "id": "evt-18000000",
-      "title": "朱镕基同志遗体18日火化",
-      "category": "society",
-      "hotScore": 0.76,
-      "freshness": 0.9999,
-      "crossSource": 0.6309,
-      "totalScore": 0.7933,
-      "sources": [
-        {
-          "channel": "baidu",
-          "rank": 2,
-          "hot": 0,
-          "url": "https://m.baidu.com/s?word=%E6%9C%B1%E9%95%95%E5%9F%BA%E5%90%8C%E5%BF%97%E9%81%97%E4%BD%9318%E6%97%A5%E7%81%AB%E5%8C%96&sa=fyb_news"
-        }
-      ],
-      "summary": "",
-      "url": "https://m.baidu.com/s?word=%E6%9C%B1%E9%95%95%E5%9F%BA%E5%90%8C%E5%BF%97%E9%81%97%E4%BD%9318%E6%97%A5%E7%81%AB%E5%8C%96&sa=fyb_news"
-    },
-    {
-      "id": "evt-2026wtt0",
-      "title": "2026 年 WTT 瑞典大满贯，张本美和 4-0 轻取陈熠晋级女单四强，怎么评价本场比赛？",
+      "id": "evt-30000000",
+      "title": "西安女子 3 万全款拿下宝鸡 40 平老房，你会入手这类「万元老破小」吗？这种低压力买房思路你认同吗？",
       "category": "society",
       "hotScore": 0.675,
-      "freshness": 0.9999,
+      "freshness": 1,
       "crossSource": 0.6309,
-      "totalScore": 0.7592,
+      "totalScore": 0.7593,
       "sources": [
         {
           "channel": "zhihu",
@@ -196,55 +183,61 @@
       "url": ""
     },
     {
-      "id": "evt-40000000",
-      "title": "父子决裂40年儿子仍继承九成遗产",
+      "id": "evt-39000000",
+      "title": "39岁儿科医生去世 多人缅怀",
       "category": "society",
       "hotScore": 0.6375,
-      "freshness": 0.9999,
+      "freshness": 1,
       "crossSource": 0.6309,
-      "totalScore": 0.7442,
+      "totalScore": 0.7443,
       "sources": [
         {
           "channel": "toutiao",
           "rank": 6,
           "hot": 6267093,
-          "url": "https://www.toutiao.com/trending/7673784898582511657/"
+          "url": "https://www.toutiao.com/trending/7674528804517219891/"
         }
       ],
       "summary": "",
-      "url": "https://www.toutiao.com/trending/7673784898582511657/"
+      "url": "https://www.toutiao.com/trending/7674528804517219891/"
     },
     {
-      "id": "evt-30000000",
-      "title": "西安女子 3 万全款拿下宝鸡 40 平老房，你会入手这类「万元老破小」吗？这种低压力买房思路你认同吗？",
+      "id": "evt-12800000",
+      "title": "孙楠回应体重只有128斤",
       "category": "society",
-      "hotScore": 0.6,
-      "freshness": 0.9999,
-      "crossSource": 0.6309,
-      "totalScore": 0.7292,
+      "hotScore": 0.34,
+      "freshness": 1,
+      "crossSource": 1,
+      "totalScore": 0.736,
       "sources": [
         {
-          "channel": "zhihu",
-          "rank": 5,
+          "channel": "toutiao",
+          "rank": 13,
+          "hot": 3112146,
+          "url": "https://www.toutiao.com/trending/7674436527586492470/"
+        },
+        {
+          "channel": "baidu",
+          "rank": 17,
           "hot": 0,
-          "url": ""
+          "url": "https://m.baidu.com/s?word=%E5%AD%99%E6%A5%A0%E5%9B%9E%E5%BA%94%E4%BD%93%E9%87%8D%E5%8F%AA%E6%9C%89128%E6%96%A4&sa=fyb_news"
         }
       ],
       "summary": "",
-      "url": ""
+      "url": "https://www.toutiao.com/trending/7674436527586492470/"
     },
     {
       "id": "evt-ima00000",
       "title": "为什么国内无法观看 IMAX 70mm 胶片版《奥德赛》？",
       "category": "society",
-      "hotScore": 0.4875,
-      "freshness": 0.9999,
+      "hotScore": 0.5625,
+      "freshness": 1,
       "crossSource": 0.6309,
-      "totalScore": 0.6842,
+      "totalScore": 0.7143,
       "sources": [
         {
           "channel": "zhihu",
-          "rank": 8,
+          "rank": 6,
           "hot": 0,
           "url": ""
         }
@@ -253,23 +246,29 @@
       "url": ""
     },
     {
-      "id": "evt-15000000",
-      "title": "法国宪法法院否决15岁以下儿童社交媒体禁令",
+      "id": "evt-98500000",
+      "title": "孩子考上985 全家免三年物业费",
       "category": "society",
-      "hotScore": 0.425,
+      "hotScore": 0.2,
       "freshness": 1,
-      "crossSource": 0.6309,
-      "totalScore": 0.6593,
+      "crossSource": 1,
+      "totalScore": 0.68,
       "sources": [
         {
-          "channel": "thepaper",
-          "rank": 11,
+          "channel": "toutiao",
+          "rank": 17,
+          "hot": 2086134,
+          "url": "https://www.toutiao.com/trending/7673442960385556522/"
+        },
+        {
+          "channel": "baidu",
+          "rank": 16,
           "hot": 0,
-          "url": "https://www.thepaper.cn/newsDetail_forward_33789573"
+          "url": "https://m.baidu.com/s?word=%E5%AD%A9%E5%AD%90%E8%80%83%E4%B8%8A985+%E5%85%A8%E5%AE%B6%E5%85%8D%E4%B8%89%E5%B9%B4%E7%89%A9%E4%B8%9A%E8%B4%B9&sa=fyb_news"
         }
       ],
       "summary": "",
-      "url": "https://www.thepaper.cn/newsDetail_forward_33789573"
+      "url": "https://www.toutiao.com/trending/7673442960385556522/"
     }
   ]
 }
