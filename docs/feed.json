@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-08-16T02:51:39.811Z",
+  "generatedAt": "2026-08-16T04:25:01.847Z",
   "fields": {
     "society": "社会",
     "economy": "经济",
@@ -10,20 +10,20 @@
       "id": "evt-00000000",
       "title": "中国博主发布进入靖国神社视频",
       "category": "society",
-      "hotScore": 0.85,
+      "hotScore": 0.7225,
       "freshness": 1,
       "crossSource": 1,
-      "totalScore": 0.94,
+      "totalScore": 0.889,
       "sources": [
         {
           "channel": "toutiao",
-          "rank": 1,
-          "hot": 16814641,
+          "rank": 4,
+          "hot": 10038195,
           "url": "https://www.toutiao.com/trending/7674164987845820435/"
         },
         {
           "channel": "baidu",
-          "rank": 2,
+          "rank": 9,
           "hot": 0,
           "url": "https://m.baidu.com/s?word=%E4%B8%AD%E5%9B%BD%E5%8D%9A%E4%B8%BB%E5%8F%91%E5%B8%83%E8%BF%9B%E5%85%A5%E9%9D%96%E5%9B%BD%E7%A5%9E%E7%A4%BE%E8%A7%86%E9%A2%91&sa=fyb_news"
         }
@@ -35,26 +35,45 @@
       "id": "evt-38000000",
       "title": "于东来打卡小饭店消费380硬要付600",
       "category": "society",
-      "hotScore": 0.8075,
+      "hotScore": 0.595,
       "freshness": 1,
       "crossSource": 1,
-      "totalScore": 0.923,
+      "totalScore": 0.838,
       "sources": [
         {
           "channel": "toutiao",
-          "rank": 2,
-          "hot": 15214516,
+          "rank": 7,
+          "hot": 7436477,
           "url": "https://www.toutiao.com/trending/7673321999443443748/"
         },
         {
           "channel": "baidu",
-          "rank": 15,
+          "rank": 11,
           "hot": 0,
           "url": "https://m.baidu.com/s?word=%E4%BA%8E%E4%B8%9C%E6%9D%A5%E6%89%93%E5%8D%A1%E5%B0%8F%E9%A5%AD%E5%BA%97%E6%B6%88%E8%B4%B9380%E7%A1%AC%E8%A6%81%E4%BB%98600&sa=fyb_news"
         }
       ],
       "summary": "",
       "url": "https://www.toutiao.com/trending/7673321999443443748/"
+    },
+    {
+      "id": "evt-28000000",
+      "title": "胖东来将闭门老店28个收银口排长龙",
+      "category": "society",
+      "hotScore": 0.85,
+      "freshness": 1,
+      "crossSource": 0.6309,
+      "totalScore": 0.8293,
+      "sources": [
+        {
+          "channel": "toutiao",
+          "rank": 1,
+          "hot": 13550146,
+          "url": "https://www.toutiao.com/trending/7674460027406798362/"
+        }
+      ],
+      "summary": "",
+      "url": "https://www.toutiao.com/trending/7674460027406798362/"
     },
     {
       "id": "evt-10000000",
@@ -76,6 +95,25 @@
       "url": "https://www.thepaper.cn/newsDetail_forward_33790071"
     },
     {
+      "id": "evt-78700000",
+      "title": "越南航空波音787航班慕尼黑紧急返航",
+      "category": "society",
+      "hotScore": 0.8075,
+      "freshness": 1,
+      "crossSource": 0.6309,
+      "totalScore": 0.8123,
+      "sources": [
+        {
+          "channel": "toutiao",
+          "rank": 2,
+          "hot": 12260679,
+          "url": "https://www.toutiao.com/trending/7674278414251048979/"
+        }
+      ],
+      "summary": "",
+      "url": "https://www.toutiao.com/trending/7674278414251048979/"
+    },
+    {
       "id": "evt-90000000",
       "title": "《江泽民》第9集《九州方圆》",
       "category": "society",
@@ -95,66 +133,47 @@
       "url": "https://www.thepaper.cn/newsDetail_forward_33790351"
     },
     {
-      "id": "evt-ai000000",
-      "title": "美国大模型帮日本对AI进行投毒",
+      "id": "evt-60000000",
+      "title": "市场占有率超6成！中国车发现新大陆",
       "category": "society",
-      "hotScore": 0.7225,
+      "hotScore": 0.76,
       "freshness": 1,
       "crossSource": 0.6309,
-      "totalScore": 0.7783,
+      "totalScore": 0.7933,
       "sources": [
         {
-          "channel": "toutiao",
-          "rank": 4,
-          "hot": 12456592,
-          "url": "https://www.toutiao.com/trending/7673727363703639571/"
-        }
-      ],
-      "summary": "",
-      "url": "https://www.toutiao.com/trending/7673727363703639571/"
-    },
-    {
-      "id": "evt-deepseekv4pr",
-      "title": "DeepSeek-V4-Pro-0813 已发布，体验下来怎么样？",
-      "category": "society",
-      "hotScore": 0.675,
-      "freshness": 1,
-      "crossSource": 0.6309,
-      "totalScore": 0.7593,
-      "sources": [
-        {
-          "channel": "zhihu",
-          "rank": 3,
+          "channel": "baidu",
+          "rank": 2,
           "hot": 0,
-          "url": ""
+          "url": "https://m.baidu.com/s?word=%E5%B8%82%E5%9C%BA%E5%8D%A0%E6%9C%89%E7%8E%87%E8%B6%856%E6%88%90%EF%BC%81%E4%B8%AD%E5%9B%BD%E8%BD%A6%E5%8F%91%E7%8E%B0%E6%96%B0%E5%A4%A7%E9%99%86&sa=fyb_news"
         }
       ],
       "summary": "",
-      "url": ""
-    },
-    {
-      "id": "evt-11700000",
-      "title": "河南贾鲁河堤防117米溃口成功合龙",
-      "category": "society",
-      "hotScore": 0.6375,
-      "freshness": 1,
-      "crossSource": 0.6309,
-      "totalScore": 0.7443,
-      "sources": [
-        {
-          "channel": "toutiao",
-          "rank": 6,
-          "hot": 10198595,
-          "url": "https://www.toutiao.com/trending/7673089074458689572/"
-        }
-      ],
-      "summary": "",
-      "url": "https://www.toutiao.com/trending/7673089074458689572/"
+      "url": "https://m.baidu.com/s?word=%E5%B8%82%E5%9C%BA%E5%8D%A0%E6%9C%89%E7%8E%87%E8%B6%856%E6%88%90%EF%BC%81%E4%B8%AD%E5%9B%BD%E8%BD%A6%E5%8F%91%E7%8E%B0%E6%96%B0%E5%A4%A7%E9%99%86&sa=fyb_news"
     },
     {
       "id": "evt-2026wtt0",
       "title": "2026 年 WTT 瑞典大满贯，张本美和 4-0 轻取陈熠晋级女单四强，怎么评价本场比赛？",
       "category": "society",
+      "hotScore": 0.7125,
+      "freshness": 1,
+      "crossSource": 0.6309,
+      "totalScore": 0.7743,
+      "sources": [
+        {
+          "channel": "zhihu",
+          "rank": 2,
+          "hot": 0,
+          "url": ""
+        }
+      ],
+      "summary": "",
+      "url": ""
+    },
+    {
+      "id": "evt-30000000",
+      "title": "西安女子 3 万全款拿下宝鸡 40 平老房，你会入手这类「万元老破小」吗？这种低压力买房思路你认同吗？",
+      "category": "society",
       "hotScore": 0.6375,
       "freshness": 1,
       "crossSource": 0.6309,
@@ -171,8 +190,8 @@
       "url": ""
     },
     {
-      "id": "evt-28000000",
-      "title": "最多落后 28 分！中国男篮热身赛惨败乌拉圭，赵嘉义 17 分，李弘权 10+7，如何评价这场比赛？",
+      "id": "evt-70000000",
+      "title": "如何评价《原神》7.0 中的「楚古诺夫」？",
       "category": "society",
       "hotScore": 0.525,
       "freshness": 1,
