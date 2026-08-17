@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-08-17T08:31:19.212Z",
+  "generatedAt": "2026-08-17T10:21:17.961Z",
   "fields": {
     "society": "社会",
     "economy": "经济",
@@ -30,25 +30,6 @@
       ],
       "summary": "",
       "url": "https://www.thepaper.cn/newsDetail_forward_33790837"
-    },
-    {
-      "id": "evt-20000000",
-      "title": "宇树科技发布原地跳高2米的“超人”",
-      "category": "society",
-      "hotScore": 0.85,
-      "freshness": 1,
-      "crossSource": 0.6309,
-      "totalScore": 0.8293,
-      "sources": [
-        {
-          "channel": "toutiao",
-          "rank": 1,
-          "hot": 9135241,
-          "url": "https://www.toutiao.com/trending/7674877112751112198/"
-        }
-      ],
-      "summary": "",
-      "url": "https://www.toutiao.com/trending/7674877112751112198/"
     },
     {
       "id": "evt-11000000",
@@ -89,25 +70,6 @@
       "url": ""
     },
     {
-      "id": "evt-31050000",
-      "title": "3名男孩10.5元为倒闭便利店“融资”",
-      "category": "society",
-      "hotScore": 0.7225,
-      "freshness": 1,
-      "crossSource": 0.6309,
-      "totalScore": 0.7783,
-      "sources": [
-        {
-          "channel": "toutiao",
-          "rank": 4,
-          "hot": 6767553,
-          "url": "https://www.toutiao.com/trending/7673955758148550662/"
-        }
-      ],
-      "summary": "",
-      "url": "https://www.toutiao.com/trending/7673955758148550662/"
-    },
-    {
       "id": "evt-12000000",
       "title": "《江泽民》第12集《大道行歌》",
       "category": "society",
@@ -127,8 +89,8 @@
       "url": "https://www.thepaper.cn/newsDetail_forward_33795275"
     },
     {
-      "id": "evt-n0000000",
-      "title": "老外被中式美学硬控的N个瞬间",
+      "id": "evt-40000000",
+      "title": "暴雨天留心4个风险点",
       "category": "society",
       "hotScore": 0.68,
       "freshness": 1,
@@ -139,11 +101,11 @@
           "channel": "baidu",
           "rank": 4,
           "hot": 0,
-          "url": "https://m.baidu.com/s?word=%E8%80%81%E5%A4%96%E8%A2%AB%E4%B8%AD%E5%BC%8F%E7%BE%8E%E5%AD%A6%E7%A1%AC%E6%8E%A7%E7%9A%84N%E4%B8%AA%E7%9E%AC%E9%97%B4&sa=fyb_news"
+          "url": "https://m.baidu.com/s?word=%E6%9A%B4%E9%9B%A8%E5%A4%A9%E7%95%99%E5%BF%834%E4%B8%AA%E9%A3%8E%E9%99%A9%E7%82%B9&sa=fyb_news"
         }
       ],
       "summary": "",
-      "url": "https://m.baidu.com/s?word=%E8%80%81%E5%A4%96%E8%A2%AB%E4%B8%AD%E5%BC%8F%E7%BE%8E%E5%AD%A6%E7%A1%AC%E6%8E%A7%E7%9A%84N%E4%B8%AA%E7%9E%AC%E9%97%B4&sa=fyb_news"
+      "url": "https://m.baidu.com/s?word=%E6%9A%B4%E9%9B%A8%E5%A4%A9%E7%95%99%E5%BF%834%E4%B8%AA%E9%A3%8E%E9%99%A9%E7%82%B9&sa=fyb_news"
     },
     {
       "id": "evt-35600000",
@@ -165,23 +127,42 @@
       "url": ""
     },
     {
-      "id": "evt-40000000",
-      "title": "四川巴中警方为近4千万现金寻主",
+      "id": "evt-a0000000",
+      "title": "A股放量反弹 做多情绪全面回暖",
       "category": "society",
       "hotScore": 0.6375,
-      "freshness": 1,
+      "freshness": 0.9999,
       "crossSource": 0.6309,
       "totalScore": 0.7443,
       "sources": [
         {
           "channel": "toutiao",
           "rank": 6,
-          "hot": 5540804,
-          "url": "https://www.toutiao.com/trending/7674879250420465714/"
+          "hot": 6280348,
+          "url": "https://www.toutiao.com/trending/7674606352588816390/"
         }
       ],
       "summary": "",
-      "url": "https://www.toutiao.com/trending/7674879250420465714/"
+      "url": "https://www.toutiao.com/trending/7674606352588816390/"
+    },
+    {
+      "id": "evt-ai000000",
+      "title": "为什么才短短两三年，AI 就已经泛滥成灾，到了人人喊打、人嫌狗厌的境地？",
+      "category": "society",
+      "hotScore": 0.6,
+      "freshness": 1,
+      "crossSource": 0.6309,
+      "totalScore": 0.7293,
+      "sources": [
+        {
+          "channel": "zhihu",
+          "rank": 5,
+          "hot": 0,
+          "url": ""
+        }
+      ],
+      "summary": "",
+      "url": ""
     },
     {
       "id": "evt-90000000",
@@ -203,93 +184,17 @@
       "url": "https://www.thepaper.cn/newsDetail_forward_33795012"
     },
     {
-      "id": "evt-14000000",
-      "title": "爸爸带14岁厌学儿子三伏天送外卖",
-      "category": "society",
-      "hotScore": 0.56,
-      "freshness": 1,
-      "crossSource": 0.6309,
-      "totalScore": 0.7133,
-      "sources": [
-        {
-          "channel": "baidu",
-          "rank": 7,
-          "hot": 0,
-          "url": "https://m.baidu.com/s?word=%E7%88%B8%E7%88%B8%E5%B8%A614%E5%B2%81%E5%8E%8C%E5%AD%A6%E5%84%BF%E5%AD%90%E4%B8%89%E4%BC%8F%E5%A4%A9%E9%80%81%E5%A4%96%E5%8D%96&sa=fyb_news"
-        }
-      ],
-      "summary": "",
-      "url": "https://m.baidu.com/s?word=%E7%88%B8%E7%88%B8%E5%B8%A614%E5%B2%81%E5%8E%8C%E5%AD%A6%E5%84%BF%E5%AD%90%E4%B8%89%E4%BC%8F%E5%A4%A9%E9%80%81%E5%A4%96%E5%8D%96&sa=fyb_news"
-    },
-    {
-      "id": "evt-ai000000",
-      "title": "为什么才短短两三年，AI 就已经泛滥成灾，到了人人喊打、人嫌狗厌的境地？",
-      "category": "society",
-      "hotScore": 0.525,
-      "freshness": 1,
-      "crossSource": 0.6309,
-      "totalScore": 0.6993,
-      "sources": [
-        {
-          "channel": "zhihu",
-          "rank": 7,
-          "hot": 0,
-          "url": ""
-        }
-      ],
-      "summary": "",
-      "url": ""
-    },
-    {
-      "id": "evt-69250000",
-      "title": "名校父母劝692.5分女儿读中本贯通",
-      "category": "society",
-      "hotScore": 0.52,
-      "freshness": 1,
-      "crossSource": 0.6309,
-      "totalScore": 0.6973,
-      "sources": [
-        {
-          "channel": "baidu",
-          "rank": 8,
-          "hot": 0,
-          "url": "https://m.baidu.com/s?word=%E5%90%8D%E6%A0%A1%E7%88%B6%E6%AF%8D%E5%8A%9D692.5%E5%88%86%E5%A5%B3%E5%84%BF%E8%AF%BB%E4%B8%AD%E6%9C%AC%E8%B4%AF%E9%80%9A&sa=fyb_news"
-        }
-      ],
-      "summary": "",
-      "url": "https://m.baidu.com/s?word=%E5%90%8D%E6%A0%A1%E7%88%B6%E6%AF%8D%E5%8A%9D692.5%E5%88%86%E5%A5%B3%E5%84%BF%E8%AF%BB%E4%B8%AD%E6%9C%AC%E8%B4%AF%E9%80%9A&sa=fyb_news"
-    },
-    {
-      "id": "evt-wtt10000",
-      "title": "WTT1000+冠军榜王楚钦领跑男单",
-      "category": "society",
-      "hotScore": 0.4675,
-      "freshness": 1,
-      "crossSource": 0.6309,
-      "totalScore": 0.6763,
-      "sources": [
-        {
-          "channel": "toutiao",
-          "rank": 10,
-          "hot": 3714112,
-          "url": "https://www.toutiao.com/trending/7674777415361003566/"
-        }
-      ],
-      "summary": "",
-      "url": "https://www.toutiao.com/trending/7674777415361003566/"
-    },
-    {
       "id": "evt-deepseek",
       "title": "DeepSeek 新定价已生效，实际体验下来你的感受如何？跟你预想的差异大吗？",
       "category": "society",
-      "hotScore": 0.45,
+      "hotScore": 0.5625,
       "freshness": 1,
       "crossSource": 0.6309,
-      "totalScore": 0.6693,
+      "totalScore": 0.7143,
       "sources": [
         {
           "channel": "zhihu",
-          "rank": 9,
+          "rank": 6,
           "hot": 0,
           "url": ""
         }
