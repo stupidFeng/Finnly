@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-08-17T02:52:03.602Z",
+  "generatedAt": "2026-08-17T04:31:20.953Z",
   "fields": {
     "society": "社会",
     "economy": "经济",
@@ -7,42 +7,42 @@
   },
   "feed": [
     {
-      "id": "evt-10000000",
-      "title": "纪念江泽民同志诞辰100周年大会",
+      "id": "evt-00000000",
+      "title": "纪念江泽民同志诞辰100周年大会举行",
       "category": "society",
       "hotScore": 0.85,
-      "freshness": 1,
+      "freshness": 0.9999,
       "crossSource": 1,
       "totalScore": 0.94,
       "sources": [
         {
-          "channel": "toutiao",
-          "rank": 1,
-          "hot": 16402664,
-          "url": "https://www.toutiao.com/trending/7674814137238556211/"
-        },
-        {
-          "channel": "zhihu",
+          "channel": "thepaper",
           "rank": 1,
           "hot": 0,
-          "url": ""
+          "url": "https://www.thepaper.cn/newsDetail_forward_33790837"
+        },
+        {
+          "channel": "baidu",
+          "rank": 1,
+          "hot": 0,
+          "url": "https://m.baidu.com/s?word=%E7%BA%AA%E5%BF%B5%E6%B1%9F%E6%B3%BD%E6%B0%91%E5%90%8C%E5%BF%97%E8%AF%9E%E8%BE%B0100%E5%91%A8%E5%B9%B4%E5%A4%A7%E4%BC%9A%E4%B8%BE%E8%A1%8C&sa=fyb_news"
         }
       ],
       "summary": "",
-      "url": "https://www.toutiao.com/trending/7674814137238556211/"
+      "url": "https://www.thepaper.cn/newsDetail_forward_33790837"
     },
     {
       "id": "evt-12000000",
       "title": "《江泽民》第12集《大道行歌》",
       "category": "society",
-      "hotScore": 0.85,
-      "freshness": 1,
+      "hotScore": 0.8075,
+      "freshness": 0.9999,
       "crossSource": 0.6309,
-      "totalScore": 0.8293,
+      "totalScore": 0.8123,
       "sources": [
         {
           "channel": "thepaper",
-          "rank": 1,
+          "rank": 2,
           "hot": 0,
           "url": "https://www.thepaper.cn/newsDetail_forward_33795275"
         }
@@ -51,36 +51,17 @@
       "url": "https://www.thepaper.cn/newsDetail_forward_33795275"
     },
     {
-      "id": "evt-95000000",
-      "title": "四个儿子争着养95岁老母亲",
-      "category": "society",
-      "hotScore": 0.8075,
-      "freshness": 1,
-      "crossSource": 0.6309,
-      "totalScore": 0.8123,
-      "sources": [
-        {
-          "channel": "toutiao",
-          "rank": 2,
-          "hot": 14841744,
-          "url": "https://www.toutiao.com/trending/7674479072151765034/"
-        }
-      ],
-      "summary": "",
-      "url": "https://www.toutiao.com/trending/7674479072151765034/"
-    },
-    {
       "id": "evt-11000000",
       "title": "《江泽民》第11集《人民情怀》",
       "category": "society",
-      "hotScore": 0.8075,
-      "freshness": 1,
+      "hotScore": 0.765,
+      "freshness": 0.9999,
       "crossSource": 0.6309,
-      "totalScore": 0.8123,
+      "totalScore": 0.7953,
       "sources": [
         {
           "channel": "thepaper",
-          "rank": 2,
+          "rank": 3,
           "hot": 0,
           "url": "https://www.thepaper.cn/newsDetail_forward_33794969"
         }
@@ -89,36 +70,17 @@
       "url": "https://www.thepaper.cn/newsDetail_forward_33794969"
     },
     {
-      "id": "evt-00000000",
-      "title": "摩根大通警告明年或爆发全球粮食危机，食品通胀率将从 2.8% 升至 5%，粮价会大涨吗？会对国内有影响吗？",
-      "category": "economy",
-      "hotScore": 0.675,
-      "freshness": 1,
-      "crossSource": 0.6309,
-      "totalScore": 0.7593,
-      "sources": [
-        {
-          "channel": "zhihu",
-          "rank": 3,
-          "hot": 0,
-          "url": ""
-        }
-      ],
-      "summary": "",
-      "url": ""
-    },
-    {
       "id": "evt-18000000",
       "title": "朱镕基同志遗体18日火化，天安门等地将下半旗志哀",
       "category": "society",
-      "hotScore": 0.765,
-      "freshness": 1,
+      "hotScore": 0.7225,
+      "freshness": 0.9999,
       "crossSource": 0.6309,
-      "totalScore": 0.7953,
+      "totalScore": 0.7783,
       "sources": [
         {
           "channel": "thepaper",
-          "rank": 3,
+          "rank": 4,
           "hot": 0,
           "url": "https://www.thepaper.cn/newsDetail_forward_33793392"
         }
@@ -127,42 +89,42 @@
       "url": "https://www.thepaper.cn/newsDetail_forward_33793392"
     },
     {
-      "id": "evt-70000000",
-      "title": "女孩被困顺风车 服务区7分钟解救",
+      "id": "evt-7dm80000",
+      "title": "方程豹钛7 DM长续航版8月18日上市",
+      "category": "economy",
+      "hotScore": 0.6375,
+      "freshness": 0.9999,
+      "crossSource": 0.6309,
+      "totalScore": 0.7442,
+      "sources": [
+        {
+          "channel": "toutiao",
+          "rank": 6,
+          "hot": 9948718,
+          "url": "https://www.toutiao.com/trending/7674821543112871475/"
+        }
+      ],
+      "summary": "",
+      "url": "https://www.toutiao.com/trending/7674821543112871475/"
+    },
+    {
+      "id": "evt-95000000",
+      "title": "四个儿子争着养95岁老母亲",
       "category": "society",
       "hotScore": 0.7225,
-      "freshness": 1,
+      "freshness": 0.9999,
       "crossSource": 0.6309,
-      "totalScore": 0.7783,
+      "totalScore": 0.7782,
       "sources": [
         {
           "channel": "toutiao",
           "rank": 4,
           "hot": 12151392,
-          "url": "https://www.toutiao.com/trending/7674622297487949866/"
+          "url": "https://www.toutiao.com/trending/7674479072151765034/"
         }
       ],
       "summary": "",
-      "url": "https://www.toutiao.com/trending/7674622297487949866/"
-    },
-    {
-      "id": "evt-deepseek",
-      "title": "如何评价 DeepSeek 涨价后，OpenCode Go 套餐的 Flash 模型调用量削减 94%？",
-      "category": "society",
-      "hotScore": 0.7125,
-      "freshness": 1,
-      "crossSource": 0.6309,
-      "totalScore": 0.7743,
-      "sources": [
-        {
-          "channel": "zhihu",
-          "rank": 2,
-          "hot": 0,
-          "url": ""
-        }
-      ],
-      "summary": "",
-      "url": ""
+      "url": "https://www.toutiao.com/trending/7674479072151765034/"
     },
     {
       "id": "evt-n0000000",
@@ -184,27 +146,46 @@
       "url": "https://m.baidu.com/s?word=%E8%80%81%E5%A4%96%E8%A2%AB%E4%B8%AD%E5%BC%8F%E7%BE%8E%E5%AD%A6%E7%A1%AC%E6%8E%A7%E7%9A%84N%E4%B8%AA%E7%9E%AC%E9%97%B4&sa=fyb_news"
     },
     {
-      "id": "evt-99900000",
-      "title": "央视曝光999元低价游后云南连夜彻查",
+      "id": "evt-82824000",
+      "title": "8月28日24时油价调整",
       "category": "society",
       "hotScore": 0.68,
-      "freshness": 1,
+      "freshness": 0.9999,
       "crossSource": 0.6309,
-      "totalScore": 0.7613,
+      "totalScore": 0.7612,
       "sources": [
         {
           "channel": "toutiao",
           "rank": 5,
           "hot": 10995034,
-          "url": "https://www.toutiao.com/trending/7674570525910269993/"
+          "url": "https://www.toutiao.com/trending/7674459167604129819/"
         }
       ],
       "summary": "",
-      "url": "https://www.toutiao.com/trending/7674570525910269993/"
+      "url": "https://www.toutiao.com/trending/7674459167604129819/"
     },
     {
-      "id": "evt-v0000000",
-      "title": "影视圈“千万大V”被查",
+      "id": "evt-17000000",
+      "title": "东莞 17 亿元全额付款土地被无偿收回，官方公告称已解除出让合同，怎样从法律角度解读？",
+      "category": "society",
+      "hotScore": 0.675,
+      "freshness": 0.9999,
+      "crossSource": 0.6309,
+      "totalScore": 0.7593,
+      "sources": [
+        {
+          "channel": "zhihu",
+          "rank": 3,
+          "hot": 0,
+          "url": ""
+        }
+      ],
+      "summary": "",
+      "url": ""
+    },
+    {
+      "id": "evt-a0000000",
+      "title": "长鑫科技大涨！A股全线飘红",
       "category": "society",
       "hotScore": 0.64,
       "freshness": 1,
@@ -215,24 +196,24 @@
           "channel": "baidu",
           "rank": 5,
           "hot": 0,
-          "url": "https://m.baidu.com/s?word=%E5%BD%B1%E8%A7%86%E5%9C%88%E2%80%9C%E5%8D%83%E4%B8%87%E5%A4%A7V%E2%80%9D%E8%A2%AB%E6%9F%A5&sa=fyb_news"
+          "url": "https://m.baidu.com/s?word=%E9%95%BF%E9%91%AB%E7%A7%91%E6%8A%80%E5%A4%A7%E6%B6%A8%EF%BC%81A%E8%82%A1%E5%85%A8%E7%BA%BF%E9%A3%98%E7%BA%A2&sa=fyb_news"
         }
       ],
       "summary": "",
-      "url": "https://m.baidu.com/s?word=%E5%BD%B1%E8%A7%86%E5%9C%88%E2%80%9C%E5%8D%83%E4%B8%87%E5%A4%A7V%E2%80%9D%E8%A2%AB%E6%9F%A5&sa=fyb_news"
+      "url": "https://m.baidu.com/s?word=%E9%95%BF%E9%91%AB%E7%A7%91%E6%8A%80%E5%A4%A7%E6%B6%A8%EF%BC%81A%E8%82%A1%E5%85%A8%E7%BA%BF%E9%A3%98%E7%BA%A2&sa=fyb_news"
     },
     {
-      "id": "evt-2026wtt0",
-      "title": "2026 WTT 瑞典大满贯赛女单决赛，王曼昱 4-2 战胜王艺迪夺得女单冠军，如何评价这场比赛？",
+      "id": "evt-30000000",
+      "title": "网文作者文黛黛假死 3 年承认骗局，读者斥责其消费感情，从法律上看，这种行为是否构成欺诈？",
       "category": "society",
-      "hotScore": 0.6375,
-      "freshness": 1,
+      "hotScore": 0.6,
+      "freshness": 0.9999,
       "crossSource": 0.6309,
-      "totalScore": 0.7443,
+      "totalScore": 0.7293,
       "sources": [
         {
           "channel": "zhihu",
-          "rank": 4,
+          "rank": 5,
           "hot": 0,
           "url": ""
         }
@@ -244,14 +225,14 @@
       "id": "evt-90000000",
       "title": "央视财经曝光暑期游乱象：999元低价游，一段行程更换5家旅行社",
       "category": "society",
-      "hotScore": 0.6375,
-      "freshness": 1,
+      "hotScore": 0.595,
+      "freshness": 0.9999,
       "crossSource": 0.6309,
-      "totalScore": 0.7443,
+      "totalScore": 0.7273,
       "sources": [
         {
           "channel": "thepaper",
-          "rank": 6,
+          "rank": 7,
           "hot": 0,
           "url": "https://www.thepaper.cn/newsDetail_forward_33795012"
         }
@@ -263,25 +244,6 @@
       "id": "evt-76300000",
       "title": "居民存款7月又少了6300亿",
       "category": "society",
-      "hotScore": 0.6,
-      "freshness": 1,
-      "crossSource": 0.6309,
-      "totalScore": 0.7293,
-      "sources": [
-        {
-          "channel": "baidu",
-          "rank": 6,
-          "hot": 0,
-          "url": "https://m.baidu.com/s?word=%E5%B1%85%E6%B0%91%E5%AD%98%E6%AC%BE7%E6%9C%88%E5%8F%88%E5%B0%91%E4%BA%866300%E4%BA%BF&sa=fyb_news"
-        }
-      ],
-      "summary": "",
-      "url": "https://m.baidu.com/s?word=%E5%B1%85%E6%B0%91%E5%AD%98%E6%AC%BE7%E6%9C%88%E5%8F%88%E5%B0%91%E4%BA%866300%E4%BA%BF&sa=fyb_news"
-    },
-    {
-      "id": "evt-c0000000",
-      "title": "它是水果界的维C天花板",
-      "category": "society",
       "hotScore": 0.56,
       "freshness": 1,
       "crossSource": 0.6309,
@@ -291,11 +253,49 @@
           "channel": "baidu",
           "rank": 7,
           "hot": 0,
-          "url": "https://m.baidu.com/s?word=%E5%AE%83%E6%98%AF%E6%B0%B4%E6%9E%9C%E7%95%8C%E7%9A%84%E7%BB%B4C%E5%A4%A9%E8%8A%B1%E6%9D%BF&sa=fyb_news"
+          "url": "https://m.baidu.com/s?word=%E5%B1%85%E6%B0%91%E5%AD%98%E6%AC%BE7%E6%9C%88%E5%8F%88%E5%B0%91%E4%BA%866300%E4%BA%BF&sa=fyb_news"
         }
       ],
       "summary": "",
-      "url": "https://m.baidu.com/s?word=%E5%AE%83%E6%98%AF%E6%B0%B4%E6%9E%9C%E7%95%8C%E7%9A%84%E7%BB%B4C%E5%A4%A9%E8%8A%B1%E6%9D%BF&sa=fyb_news"
+      "url": "https://m.baidu.com/s?word=%E5%B1%85%E6%B0%91%E5%AD%98%E6%AC%BE7%E6%9C%88%E5%8F%88%E5%B0%91%E4%BA%866300%E4%BA%BF&sa=fyb_news"
+    },
+    {
+      "id": "evt-2026wtt0",
+      "title": "2026 WTT 瑞典大满贯，菲利克斯·勒布伦 4-1 击败张本智和，获得男单冠军，如何评价这场比赛？",
+      "category": "society",
+      "hotScore": 0.525,
+      "freshness": 0.9999,
+      "crossSource": 0.6309,
+      "totalScore": 0.6993,
+      "sources": [
+        {
+          "channel": "zhihu",
+          "rank": 7,
+          "hot": 0,
+          "url": ""
+        }
+      ],
+      "summary": "",
+      "url": ""
+    },
+    {
+      "id": "evt-35600000",
+      "title": "比亚迪国内销量骤降 35.6%，吉利重启销冠之争，如何看待新能源汽车市场竞争格局？",
+      "category": "society",
+      "hotScore": 0.4875,
+      "freshness": 0.9999,
+      "crossSource": 0.6309,
+      "totalScore": 0.6843,
+      "sources": [
+        {
+          "channel": "zhihu",
+          "rank": 8,
+          "hot": 0,
+          "url": ""
+        }
+      ],
+      "summary": "",
+      "url": ""
     }
   ]
 }
