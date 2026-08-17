@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-08-17T16:14:59.222Z",
+  "generatedAt": "2026-08-17T18:22:51.934Z",
   "fields": {
     "society": "社会",
     "economy": "经济",
@@ -7,43 +7,18 @@
   },
   "feed": [
     {
-      "id": "evt-bba50000",
-      "title": "BBA集体大降价：宝马5系跌至28万",
-      "category": "society",
-      "hotScore": 0.8075,
-      "freshness": 0.9999,
-      "crossSource": 1,
-      "totalScore": 0.923,
-      "sources": [
-        {
-          "channel": "toutiao",
-          "rank": 2,
-          "hot": 8906157,
-          "url": "https://www.toutiao.com/trending/7674820864836239396/"
-        },
-        {
-          "channel": "baidu",
-          "rank": 11,
-          "hot": 0,
-          "url": "https://m.baidu.com/s?word=BBA%E9%9B%86%E4%BD%93%E5%A4%A7%E9%99%8D%E4%BB%B7%EF%BC%9A%E5%AE%9D%E9%A9%AC5%E7%B3%BB%E8%B7%8C%E8%87%B328%E4%B8%87&sa=fyb_news"
-        }
-      ],
-      "summary": "",
-      "url": "https://www.toutiao.com/trending/7674820864836239396/"
-    },
-    {
       "id": "evt-00000000",
       "title": "中方回应上百中国公民在巴基斯坦被拘",
       "category": "society",
       "hotScore": 0.85,
-      "freshness": 0.9999,
+      "freshness": 0.9996,
       "crossSource": 0.6309,
-      "totalScore": 0.8293,
+      "totalScore": 0.8292,
       "sources": [
         {
           "channel": "toutiao",
           "rank": 1,
-          "hot": 9842825,
+          "hot": 10223684,
           "url": "https://www.toutiao.com/trending/7674494369386364969/"
         }
       ],
@@ -55,9 +30,9 @@
       "title": "纪念江泽民同志诞辰100周年大会在京隆重举行，习近平发表重要讲话",
       "category": "society",
       "hotScore": 0.85,
-      "freshness": 1,
+      "freshness": 0.9996,
       "crossSource": 0.6309,
-      "totalScore": 0.8293,
+      "totalScore": 0.8292,
       "sources": [
         {
           "channel": "thepaper",
@@ -70,13 +45,32 @@
       "url": "https://www.thepaper.cn/newsDetail_forward_33798526"
     },
     {
+      "id": "evt-bba50000",
+      "title": "BBA集体大降价：宝马5系跌至28万",
+      "category": "society",
+      "hotScore": 0.8075,
+      "freshness": 0.9996,
+      "crossSource": 0.6309,
+      "totalScore": 0.8122,
+      "sources": [
+        {
+          "channel": "toutiao",
+          "rank": 2,
+          "hot": 9250772,
+          "url": "https://www.toutiao.com/trending/7674820864836239396/"
+        }
+      ],
+      "summary": "",
+      "url": "https://www.toutiao.com/trending/7674820864836239396/"
+    },
+    {
       "id": "evt-16000000",
       "title": "周末两天入场人次近16万！都在感慨出版业“遇冷”，为何上海书展人山人海",
       "category": "society",
       "hotScore": 0.765,
-      "freshness": 1,
+      "freshness": 0.9996,
       "crossSource": 0.6309,
-      "totalScore": 0.7953,
+      "totalScore": 0.7952,
       "sources": [
         {
           "channel": "thepaper",
@@ -89,17 +83,17 @@
       "url": "https://www.thepaper.cn/newsDetail_forward_33794929"
     },
     {
-      "id": "evt-35600000",
-      "title": "比亚迪国内销量骤降 35.6%，吉利重启销冠之争，如何看待新能源汽车市场竞争格局？",
+      "id": "evt-qwe00000",
+      "title": "如何评价刚刚开源的 Qwen3.8-27B？",
       "category": "society",
-      "hotScore": 0.7125,
-      "freshness": 1,
+      "hotScore": 0.75,
+      "freshness": 0.9996,
       "crossSource": 0.6309,
-      "totalScore": 0.7743,
+      "totalScore": 0.7892,
       "sources": [
         {
           "channel": "zhihu",
-          "rank": 2,
+          "rank": 1,
           "hot": 0,
           "url": ""
         }
@@ -108,32 +102,76 @@
       "url": ""
     },
     {
-      "id": "evt-80000000",
-      "title": "一个每天要喝 8 杯血的吸血鬼，需要多大的贵族头衔与封地才能养活自己？",
+      "id": "evt-73000000",
+      "title": "谁贡献了俄罗斯上半年734亿美元顺差",
       "category": "society",
-      "hotScore": 0.6375,
-      "freshness": 1,
+      "hotScore": 0.68,
+      "freshness": 0.9996,
       "crossSource": 0.6309,
-      "totalScore": 0.7443,
+      "totalScore": 0.7612,
+      "sources": [
+        {
+          "channel": "toutiao",
+          "rank": 5,
+          "hot": 6853140,
+          "url": "https://www.toutiao.com/trending/7675008125698575918/"
+        }
+      ],
+      "summary": "",
+      "url": "https://www.toutiao.com/trending/7675008125698575918/"
+    },
+    {
+      "id": "evt-xiaohai0",
+      "title": "如何评价 Xiaohai（曾卓君）在 2026 美国 CEO 大赛《饿狼传说》项目中成功卫冕？",
+      "category": "society",
+      "hotScore": 0.675,
+      "freshness": 0.9996,
+      "crossSource": 0.6309,
+      "totalScore": 0.7592,
       "sources": [
         {
           "channel": "zhihu",
-          "rank": 4,
+          "rank": 3,
           "hot": 0,
           "url": ""
         }
       ],
       "summary": "",
       "url": ""
+    },
+    {
+      "id": "evt-78380000",
+      "title": "78岁老人养了头38岁的驴",
+      "category": "society",
+      "hotScore": 0.34,
+      "freshness": 0.9996,
+      "crossSource": 1,
+      "totalScore": 0.7359,
+      "sources": [
+        {
+          "channel": "toutiao",
+          "rank": 13,
+          "hot": 3079314,
+          "url": "https://www.toutiao.com/trending/7674828567618338852/"
+        },
+        {
+          "channel": "baidu",
+          "rank": 14,
+          "hot": 0,
+          "url": "https://m.baidu.com/s?word=78%E5%B2%81%E8%80%81%E4%BA%BA%E5%85%BB%E4%BA%86%E5%A4%B438%E5%B2%81%E7%9A%84%E9%A9%B4&sa=fyb_news"
+        }
+      ],
+      "summary": "",
+      "url": "https://www.toutiao.com/trending/7674828567618338852/"
     },
     {
       "id": "evt-c0000000",
       "title": "多地商场外墙广告“C位”让给科学家",
       "category": "society",
       "hotScore": 0.6,
-      "freshness": 1,
+      "freshness": 0.9996,
       "crossSource": 0.6309,
-      "totalScore": 0.7293,
+      "totalScore": 0.7292,
       "sources": [
         {
           "channel": "baidu",
@@ -146,32 +184,70 @@
       "url": "https://m.baidu.com/s?word=%E5%A4%9A%E5%9C%B0%E5%95%86%E5%9C%BA%E5%A4%96%E5%A2%99%E5%B9%BF%E5%91%8A%E2%80%9CC%E4%BD%8D%E2%80%9D%E8%AE%A9%E7%BB%99%E7%A7%91%E5%AD%A6%E5%AE%B6&sa=fyb_news"
     },
     {
-      "id": "evt-75000000",
-      "title": "75岁王石又创业了",
+      "id": "evt-harmonyo",
+      "title": "华为鸿蒙HarmonyOS 7.0.0.102SP8开推",
       "category": "society",
-      "hotScore": 0.48,
-      "freshness": 1,
+      "hotScore": 0.595,
+      "freshness": 0.9996,
       "crossSource": 0.6309,
-      "totalScore": 0.6813,
+      "totalScore": 0.7272,
       "sources": [
         {
-          "channel": "baidu",
-          "rank": 9,
-          "hot": 0,
-          "url": "https://m.baidu.com/s?word=75%E5%B2%81%E7%8E%8B%E7%9F%B3%E5%8F%88%E5%88%9B%E4%B8%9A%E4%BA%86&sa=fyb_news"
+          "channel": "toutiao",
+          "rank": 7,
+          "hot": 5610877,
+          "url": "https://www.toutiao.com/trending/7674194526411522067/"
         }
       ],
       "summary": "",
-      "url": "https://m.baidu.com/s?word=75%E5%B2%81%E7%8E%8B%E7%9F%B3%E5%8F%88%E5%88%9B%E4%B8%9A%E4%BA%86&sa=fyb_news"
+      "url": "https://www.toutiao.com/trending/7674194526411522067/"
     },
     {
-      "id": "evt-xiaohai0",
-      "title": "如何评价 Xiaohai（曾卓君）在 2026 美国 CEO 大赛《饿狼传说》项目中成功卫冕？",
+      "id": "evt-deepseekharn",
+      "title": "DeepSeek Harness 一下子涌现出那么多插件，有没有大佬给一下推荐？",
+      "category": "society",
+      "hotScore": 0.5625,
+      "freshness": 0.9996,
+      "crossSource": 0.6309,
+      "totalScore": 0.7142,
+      "sources": [
+        {
+          "channel": "zhihu",
+          "rank": 6,
+          "hot": 0,
+          "url": ""
+        }
+      ],
+      "summary": "",
+      "url": ""
+    },
+    {
+      "id": "evt-c9190000",
+      "title": "「世界容得下 C919 与波音、空客一起飞」，如何看待国产大飞机与国际巨头的市场竞争？",
+      "category": "society",
+      "hotScore": 0.525,
+      "freshness": 0.9996,
+      "crossSource": 0.6309,
+      "totalScore": 0.6992,
+      "sources": [
+        {
+          "channel": "zhihu",
+          "rank": 7,
+          "hot": 0,
+          "url": ""
+        }
+      ],
+      "summary": "",
+      "url": ""
+    },
+    {
+      "id": "evt-90000000",
+      "title": "9 岁女童确诊性早熟，骨龄超实际年龄近 3 岁，长期大量摄入高碳水、经常熬夜是主要原因吗？怎样预防性早熟？",
       "category": "society",
       "hotScore": 0.45,
-      "freshness": 1,
+      "freshness": 0.9996,
       "crossSource": 0.6309,
-      "totalScore": 0.6693,
+      "totalScore": 0.6692,
       "sources": [
         {
           "channel": "zhihu",
@@ -182,6 +258,25 @@
       ],
       "summary": "",
       "url": ""
+    },
+    {
+      "id": "evt-75000000",
+      "title": "75岁王石又创业了",
+      "category": "society",
+      "hotScore": 0.44,
+      "freshness": 0.9996,
+      "crossSource": 0.6309,
+      "totalScore": 0.6652,
+      "sources": [
+        {
+          "channel": "baidu",
+          "rank": 10,
+          "hot": 0,
+          "url": "https://m.baidu.com/s?word=75%E5%B2%81%E7%8E%8B%E7%9F%B3%E5%8F%88%E5%88%9B%E4%B8%9A%E4%BA%86&sa=fyb_news"
+        }
+      ],
+      "summary": "",
+      "url": "https://m.baidu.com/s?word=75%E5%B2%81%E7%8E%8B%E7%9F%B3%E5%8F%88%E5%88%9B%E4%B8%9A%E4%BA%86&sa=fyb_news"
     }
   ]
 }
