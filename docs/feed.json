@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-08-17T20:14:39.927Z",
+  "generatedAt": "2026-08-17T22:13:03.931Z",
   "fields": {
     "society": "社会",
     "economy": "经济",
@@ -7,29 +7,48 @@
   },
   "feed": [
     {
-      "id": "evt-00000000",
-      "title": "房企高管涉嫌酒局上伤害女性被免职",
+      "id": "evt-bba50000",
+      "title": "BBA集体大降价：宝马5系跌至28万",
       "category": "society",
-      "hotScore": 0.595,
-      "freshness": 0.9999,
+      "hotScore": 0.8075,
+      "freshness": 1,
       "crossSource": 1,
-      "totalScore": 0.838,
+      "totalScore": 0.923,
       "sources": [
         {
           "channel": "toutiao",
-          "rank": 7,
-          "hot": 5763953,
-          "url": "https://www.toutiao.com/trending/7674979381101465098/"
+          "rank": 2,
+          "hot": 10049618,
+          "url": "https://www.toutiao.com/trending/7674820864836239396/"
         },
         {
           "channel": "baidu",
-          "rank": 19,
+          "rank": 15,
           "hot": 0,
-          "url": "https://m.baidu.com/s?word=%E6%88%BF%E4%BC%81%E9%AB%98%E7%AE%A1%E6%B6%89%E5%AB%8C%E9%85%92%E5%B1%80%E4%B8%8A%E4%BC%A4%E5%AE%B3%E5%A5%B3%E6%80%A7%E8%A2%AB%E5%85%8D%E8%81%8C&sa=fyb_news"
+          "url": "https://m.baidu.com/s?word=BBA%E9%9B%86%E4%BD%93%E5%A4%A7%E9%99%8D%E4%BB%B7%EF%BC%9A%E5%AE%9D%E9%A9%AC5%E7%B3%BB%E8%B7%8C%E8%87%B328%E4%B8%87&sa=fyb_news"
         }
       ],
       "summary": "",
-      "url": "https://www.toutiao.com/trending/7674979381101465098/"
+      "url": "https://www.toutiao.com/trending/7674820864836239396/"
+    },
+    {
+      "id": "evt-00000000",
+      "title": "中方回应上百中国公民在巴基斯坦被拘",
+      "category": "society",
+      "hotScore": 0.85,
+      "freshness": 1,
+      "crossSource": 0.6309,
+      "totalScore": 0.8293,
+      "sources": [
+        {
+          "channel": "toutiao",
+          "rank": 1,
+          "hot": 11106546,
+          "url": "https://www.toutiao.com/trending/7674494369386364969/"
+        }
+      ],
+      "summary": "",
+      "url": "https://www.toutiao.com/trending/7674494369386364969/"
     },
     {
       "id": "evt-10000000",
@@ -51,49 +70,11 @@
       "url": "https://www.thepaper.cn/newsDetail_forward_33798526"
     },
     {
-      "id": "evt-bba50000",
-      "title": "BBA集体大降价：宝马5系跌至28万",
-      "category": "society",
-      "hotScore": 0.8075,
-      "freshness": 0.9999,
-      "crossSource": 0.6309,
-      "totalScore": 0.8123,
-      "sources": [
-        {
-          "channel": "toutiao",
-          "rank": 2,
-          "hot": 9503152,
-          "url": "https://www.toutiao.com/trending/7674820864836239396/"
-        }
-      ],
-      "summary": "",
-      "url": "https://www.toutiao.com/trending/7674820864836239396/"
-    },
-    {
-      "id": "evt-16000000",
-      "title": "周末两天入场人次近16万！都在感慨出版业“遇冷”，为何上海书展人山人海",
-      "category": "society",
-      "hotScore": 0.765,
-      "freshness": 1,
-      "crossSource": 0.6309,
-      "totalScore": 0.7953,
-      "sources": [
-        {
-          "channel": "thepaper",
-          "rank": 3,
-          "hot": 0,
-          "url": "https://www.thepaper.cn/newsDetail_forward_33794929"
-        }
-      ],
-      "summary": "",
-      "url": "https://www.thepaper.cn/newsDetail_forward_33794929"
-    },
-    {
       "id": "evt-qwe00000",
       "title": "如何评价刚刚开源的 Qwen3.8-27B？",
       "category": "society",
       "hotScore": 0.75,
-      "freshness": 0.9999,
+      "freshness": 1,
       "crossSource": 0.6309,
       "totalScore": 0.7893,
       "sources": [
@@ -111,15 +92,15 @@
       "id": "evt-73000000",
       "title": "谁贡献了俄罗斯上半年734亿美元顺差",
       "category": "society",
-      "hotScore": 0.6375,
-      "freshness": 0.9999,
+      "hotScore": 0.7225,
+      "freshness": 1,
       "crossSource": 0.6309,
-      "totalScore": 0.7443,
+      "totalScore": 0.7783,
       "sources": [
         {
           "channel": "toutiao",
-          "rank": 6,
-          "hot": 6370153,
+          "rank": 4,
+          "hot": 8227931,
           "url": "https://www.toutiao.com/trending/7675008125698575918/"
         }
       ],
@@ -127,11 +108,49 @@
       "url": "https://www.toutiao.com/trending/7675008125698575918/"
     },
     {
-      "id": "evt-xiaohai0",
-      "title": "如何评价 Xiaohai（曾卓君）在 2026 美国 CEO 大赛《饿狼传说》项目中成功卫冕？",
+      "id": "evt-16000000",
+      "title": "周末两天入场人次近16万！都在感慨出版业“遇冷”，为何上海书展人山人海",
+      "category": "society",
+      "hotScore": 0.7225,
+      "freshness": 1,
+      "crossSource": 0.6309,
+      "totalScore": 0.7783,
+      "sources": [
+        {
+          "channel": "thepaper",
+          "rank": 4,
+          "hot": 0,
+          "url": "https://www.thepaper.cn/newsDetail_forward_33794929"
+        }
+      ],
+      "summary": "",
+      "url": "https://www.thepaper.cn/newsDetail_forward_33794929"
+    },
+    {
+      "id": "evt-60000000",
+      "title": "美伊战争第 6 个月，为什么航母的水兵先撑不住了？",
+      "category": "society",
+      "hotScore": 0.675,
+      "freshness": 1,
+      "crossSource": 0.6309,
+      "totalScore": 0.7593,
+      "sources": [
+        {
+          "channel": "zhihu",
+          "rank": 3,
+          "hot": 0,
+          "url": ""
+        }
+      ],
+      "summary": "",
+      "url": ""
+    },
+    {
+      "id": "evt-35600000",
+      "title": "比亚迪国内销量骤降 35.6%，吉利重启销冠之争，如何看待新能源汽车市场竞争格局？",
       "category": "society",
       "hotScore": 0.6375,
-      "freshness": 0.9999,
+      "freshness": 1,
       "crossSource": 0.6309,
       "totalScore": 0.7443,
       "sources": [
@@ -144,6 +163,31 @@
       ],
       "summary": "",
       "url": ""
+    },
+    {
+      "id": "evt-78380000",
+      "title": "78岁老人养了头38岁的驴",
+      "category": "society",
+      "hotScore": 0.34,
+      "freshness": 1,
+      "crossSource": 1,
+      "totalScore": 0.736,
+      "sources": [
+        {
+          "channel": "toutiao",
+          "rank": 13,
+          "hot": 3345227,
+          "url": "https://www.toutiao.com/trending/7674828567618338852/"
+        },
+        {
+          "channel": "baidu",
+          "rank": 17,
+          "hot": 0,
+          "url": "https://m.baidu.com/s?word=78%E5%B2%81%E8%80%81%E4%BA%BA%E5%85%BB%E4%BA%86%E5%A4%B438%E5%B2%81%E7%9A%84%E9%A9%B4&sa=fyb_news"
+        }
+      ],
+      "summary": "",
+      "url": "https://www.toutiao.com/trending/7674828567618338852/"
     },
     {
       "id": "evt-c0000000",
@@ -165,17 +209,17 @@
       "url": "https://m.baidu.com/s?word=%E5%A4%9A%E5%9C%B0%E5%95%86%E5%9C%BA%E5%A4%96%E5%A2%99%E5%B9%BF%E5%91%8A%E2%80%9CC%E4%BD%8D%E2%80%9D%E8%AE%A9%E7%BB%99%E7%A7%91%E5%AD%A6%E5%AE%B6&sa=fyb_news"
     },
     {
-      "id": "evt-60000000",
-      "title": "美伊战争第 6 个月，为什么航母的水兵先撑不住了？",
+      "id": "evt-ai000000",
+      "title": "为什么才短短两三年，AI 就已经泛滥成灾，到了人人喊打、人嫌狗厌的境地？",
       "category": "society",
-      "hotScore": 0.6,
-      "freshness": 0.9999,
+      "hotScore": 0.525,
+      "freshness": 1,
       "crossSource": 0.6309,
-      "totalScore": 0.7293,
+      "totalScore": 0.6993,
       "sources": [
         {
           "channel": "zhihu",
-          "rank": 5,
+          "rank": 7,
           "hot": 0,
           "url": ""
         }
@@ -184,42 +228,17 @@
       "url": ""
     },
     {
-      "id": "evt-78380000",
-      "title": "78岁老人养了头38岁的驴",
+      "id": "evt-deepseekharn",
+      "title": "DeepSeek Harness 一下子涌现出那么多插件，有没有大佬给一下推荐？",
       "category": "society",
-      "hotScore": 0.2975,
-      "freshness": 0.9999,
-      "crossSource": 1,
-      "totalScore": 0.719,
-      "sources": [
-        {
-          "channel": "toutiao",
-          "rank": 14,
-          "hot": 2862294,
-          "url": "https://www.toutiao.com/trending/7674828567618338852/"
-        },
-        {
-          "channel": "baidu",
-          "rank": 14,
-          "hot": 0,
-          "url": "https://m.baidu.com/s?word=78%E5%B2%81%E8%80%81%E4%BA%BA%E5%85%BB%E4%BA%86%E5%A4%B438%E5%B2%81%E7%9A%84%E9%A9%B4&sa=fyb_news"
-        }
-      ],
-      "summary": "",
-      "url": "https://www.toutiao.com/trending/7674828567618338852/"
-    },
-    {
-      "id": "evt-35600000",
-      "title": "比亚迪国内销量骤降 35.6%，吉利重启销冠之争，如何看待新能源汽车市场竞争格局？",
-      "category": "society",
-      "hotScore": 0.525,
-      "freshness": 0.9999,
+      "hotScore": 0.4875,
+      "freshness": 1,
       "crossSource": 0.6309,
-      "totalScore": 0.6993,
+      "totalScore": 0.6843,
       "sources": [
         {
           "channel": "zhihu",
-          "rank": 7,
+          "rank": 8,
           "hot": 0,
           "url": ""
         }
