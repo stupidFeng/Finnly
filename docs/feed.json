@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-08-18T00:37:51.696Z",
+  "generatedAt": "2026-08-18T02:47:35.053Z",
   "fields": {
     "society": "社会",
     "economy": "经济",
@@ -8,24 +8,36 @@
   "feed": [
     {
       "id": "evt-00000000",
-      "title": "天安门下半旗悼念朱镕基同志逝世",
+      "title": "天安门下半旗悼念朱镕基同志",
       "category": "society",
       "hotScore": 0.85,
-      "freshness": 1,
+      "freshness": 0.9999,
       "crossSource": 1,
       "totalScore": 0.94,
       "sources": [
         {
           "channel": "toutiao",
           "rank": 1,
-          "hot": 8855719,
+          "hot": 12353822,
           "url": "https://www.toutiao.com/trending/7674420762769702954/"
+        },
+        {
+          "channel": "thepaper",
+          "rank": 2,
+          "hot": 0,
+          "url": "https://www.thepaper.cn/newsDetail_forward_33803521"
         },
         {
           "channel": "baidu",
           "rank": 2,
           "hot": 0,
-          "url": "https://m.baidu.com/s?word=%E5%A4%A9%E5%AE%89%E9%97%A8%E4%B8%8B%E5%8D%8A%E6%97%97%E6%82%BC%E5%BF%B5%E6%9C%B1%E9%95%95%E5%9F%BA%E5%90%8C%E5%BF%97%E9%80%9D%E4%B8%96&sa=fyb_news"
+          "url": "https://m.baidu.com/s?word=%E5%A4%A9%E5%AE%89%E9%97%A8%E4%B8%8B%E5%8D%8A%E6%97%97%E6%82%BC%E5%BF%B5%E6%9C%B1%E9%95%95%E5%9F%BA%E5%90%8C%E5%BF%97&sa=fyb_news"
+        },
+        {
+          "channel": "zhihu",
+          "rank": 1,
+          "hot": 0,
+          "url": ""
         }
       ],
       "summary": "",
@@ -37,8 +49,8 @@
       "category": "society",
       "hotScore": 0.85,
       "freshness": 1,
-      "crossSource": 0.6309,
-      "totalScore": 0.8293,
+      "crossSource": 0.4307,
+      "totalScore": 0.7692,
       "sources": [
         {
           "channel": "thepaper",
@@ -51,32 +63,13 @@
       "url": "https://www.thepaper.cn/newsDetail_forward_33798526"
     },
     {
-      "id": "evt-v0000000",
-      "title": "大V：特朗普“金蝉脱壳”是政治失算",
-      "category": "society",
-      "hotScore": 0.8075,
-      "freshness": 1,
-      "crossSource": 0.6309,
-      "totalScore": 0.8123,
-      "sources": [
-        {
-          "channel": "toutiao",
-          "rank": 2,
-          "hot": 8012986,
-          "url": "https://www.toutiao.com/trending/7675011910084857394/"
-        }
-      ],
-      "summary": "",
-      "url": "https://www.toutiao.com/trending/7675011910084857394/"
-    },
-    {
       "id": "evt-50000000",
       "title": "一线城市二手房价格连续5个月环比上涨",
       "category": "society",
       "hotScore": 0.765,
       "freshness": 1,
-      "crossSource": 0.6309,
-      "totalScore": 0.7953,
+      "crossSource": 0.4307,
+      "totalScore": 0.7352,
       "sources": [
         {
           "channel": "thepaper",
@@ -90,16 +83,35 @@
     },
     {
       "id": "evt-qwe00000",
-      "title": "如何评价刚刚开源的 Qwen3.8-27B？",
+      "title": "如何评价阿里开源的 Qwen3.8-27B？",
       "category": "society",
-      "hotScore": 0.75,
+      "hotScore": 0.7125,
       "freshness": 1,
-      "crossSource": 0.6309,
-      "totalScore": 0.7893,
+      "crossSource": 0.4307,
+      "totalScore": 0.7142,
       "sources": [
         {
           "channel": "zhihu",
-          "rank": 1,
+          "rank": 2,
+          "hot": 0,
+          "url": ""
+        }
+      ],
+      "summary": "",
+      "url": ""
+    },
+    {
+      "id": "evt-12345000",
+      "title": "有人打 12345 投诉夜间月光过亮影响睡觉，还有人要求政府联系明星给自己过生日，此类要求如何处理？",
+      "category": "entertainment",
+      "hotScore": 0.525,
+      "freshness": 1,
+      "crossSource": 0.4307,
+      "totalScore": 0.6392,
+      "sources": [
+        {
+          "channel": "zhihu",
+          "rank": 7,
           "hot": 0,
           "url": ""
         }
@@ -113,8 +125,8 @@
       "category": "society",
       "hotScore": 0.6375,
       "freshness": 1,
-      "crossSource": 0.6309,
-      "totalScore": 0.7443,
+      "crossSource": 0.4307,
+      "totalScore": 0.6842,
       "sources": [
         {
           "channel": "thepaper",
@@ -127,63 +139,13 @@
       "url": "https://www.thepaper.cn/newsDetail_forward_33799676"
     },
     {
-      "id": "evt-78380000",
-      "title": "78岁老人养了头38岁的驴",
-      "category": "society",
-      "hotScore": 0.34,
-      "freshness": 1,
-      "crossSource": 1,
-      "totalScore": 0.736,
-      "sources": [
-        {
-          "channel": "toutiao",
-          "rank": 13,
-          "hot": 2667291,
-          "url": "https://www.toutiao.com/trending/7674828567618338852/"
-        },
-        {
-          "channel": "baidu",
-          "rank": 17,
-          "hot": 0,
-          "url": "https://m.baidu.com/s?word=78%E5%B2%81%E8%80%81%E4%BA%BA%E5%85%BB%E4%BA%86%E5%A4%B438%E5%B2%81%E7%9A%84%E9%A9%B4&sa=fyb_news"
-        }
-      ],
-      "summary": "",
-      "url": "https://www.toutiao.com/trending/7674828567618338852/"
-    },
-    {
-      "id": "evt-3ai00000",
-      "title": "美股收盘：3大利好推动AI板块逆势走强",
-      "category": "society",
-      "hotScore": 0.32,
-      "freshness": 1,
-      "crossSource": 1,
-      "totalScore": 0.728,
-      "sources": [
-        {
-          "channel": "toutiao",
-          "rank": 18,
-          "hot": 1617794,
-          "url": "https://www.toutiao.com/trending/7675142828237786670/"
-        },
-        {
-          "channel": "baidu",
-          "rank": 13,
-          "hot": 0,
-          "url": "https://m.baidu.com/s?word=%E7%BE%8E%E8%82%A1%E6%94%B6%E7%9B%98%EF%BC%9A3%E5%A4%A7%E5%88%A9%E5%A5%BD%E6%8E%A8%E5%8A%A8AI%E6%9D%BF%E5%9D%97%E9%80%86%E5%8A%BF%E8%B5%B0%E5%BC%BA&sa=fyb_news"
-        }
-      ],
-      "summary": "",
-      "url": "https://www.toutiao.com/trending/7675142828237786670/"
-    },
-    {
-      "id": "evt-60000000",
-      "title": "美伊战争第 6 个月，为什么航母的水兵先撑不住了？",
+      "id": "evt-77800000",
+      "title": "男篮热身赛，中国队 77 比 84 不敌新西兰，如何评价本场比赛？男篮遭遇热身赛两连败，问题出在哪里？",
       "category": "society",
       "hotScore": 0.5625,
       "freshness": 1,
-      "crossSource": 0.6309,
-      "totalScore": 0.7143,
+      "crossSource": 0.4307,
+      "totalScore": 0.6542,
       "sources": [
         {
           "channel": "zhihu",
@@ -196,13 +158,13 @@
       "url": ""
     },
     {
-      "id": "evt-deepseekharn",
-      "title": "DeepSeek Harness 一下子涌现出那么多插件，有没有大佬给一下推荐？",
+      "id": "evt-60000000",
+      "title": "美伊战争第 6 个月，为什么航母的水兵先撑不住了？",
       "category": "society",
       "hotScore": 0.4875,
       "freshness": 1,
-      "crossSource": 0.6309,
-      "totalScore": 0.6843,
+      "crossSource": 0.4307,
+      "totalScore": 0.6242,
       "sources": [
         {
           "channel": "zhihu",
@@ -215,17 +177,17 @@
       "url": ""
     },
     {
-      "id": "evt-20260000",
-      "title": "2026 年羽毛球世锦赛，石宇奇 1：2 不敌阿尤什止步男单 64 强，怎么评价这一场对决？",
+      "id": "evt-deepseekharn",
+      "title": "DeepSeek Harness 一下子涌现出那么多插件，有没有大佬给一下推荐？",
       "category": "society",
-      "hotScore": 0.45,
+      "hotScore": 0.4125,
       "freshness": 1,
-      "crossSource": 0.6309,
-      "totalScore": 0.6693,
+      "crossSource": 0.4307,
+      "totalScore": 0.5942,
       "sources": [
         {
           "channel": "zhihu",
-          "rank": 9,
+          "rank": 10,
           "hot": 0,
           "url": ""
         }
