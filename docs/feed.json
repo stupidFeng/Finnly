@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-08-18T20:11:26.900Z",
+  "generatedAt": "2026-08-18T22:11:30.986Z",
   "fields": {
     "society": "社会",
     "economy": "经济",
@@ -11,14 +11,14 @@
       "title": "朱镕基同志生平",
       "category": "society",
       "hotScore": 0.85,
-      "freshness": 1,
+      "freshness": 0.9999,
       "crossSource": 1,
       "totalScore": 0.94,
       "sources": [
         {
           "channel": "toutiao",
           "rank": 1,
-          "hot": 55941171,
+          "hot": 56393491,
           "url": "https://www.toutiao.com/trending/7675264490950102571/"
         },
         {
@@ -36,14 +36,14 @@
       "title": "60万亿元，打开消费增长新空间",
       "category": "society",
       "hotScore": 0.765,
-      "freshness": 1,
+      "freshness": 0.9999,
       "crossSource": 0.6309,
       "totalScore": 0.7953,
       "sources": [
         {
           "channel": "toutiao",
           "rank": 3,
-          "hot": 45800757,
+          "hot": 46171086,
           "url": "https://www.toutiao.com/trending/7674980928562626611/"
         }
       ],
@@ -51,55 +51,93 @@
       "url": "https://www.toutiao.com/trending/7674980928562626611/"
     },
     {
-      "id": "evt-80460000",
-      "title": "中科院80后博士干出460亿激光器王国",
+      "id": "evt-90000000",
+      "title": "9部门发文活跃县域消费",
       "category": "society",
-      "hotScore": 0.68,
+      "hotScore": 0.595,
       "freshness": 1,
       "crossSource": 0.6309,
-      "totalScore": 0.7613,
+      "totalScore": 0.7273,
       "sources": [
         {
-          "channel": "toutiao",
-          "rank": 5,
-          "hot": 37498488,
-          "url": "https://www.toutiao.com/trending/7675296883291459123/"
+          "channel": "thepaper",
+          "rank": 7,
+          "hot": 0,
+          "url": "https://www.thepaper.cn/newsDetail_forward_33803518"
         }
       ],
       "summary": "",
-      "url": "https://www.toutiao.com/trending/7675296883291459123/"
+      "url": "https://www.thepaper.cn/newsDetail_forward_33803518"
     },
     {
-      "id": "evt-90000000",
-      "title": "方程豹钛9官宣成都车展全球首秀",
+      "id": "evt-41000000",
+      "title": "小熊电器净利暴跌 41%，那些曾风靡一时的网红小家电为何集体「吃灰」？大家的消费选择发生了怎样的变化？",
       "category": "society",
-      "hotScore": 0.6375,
+      "hotScore": 0.5625,
       "freshness": 1,
       "crossSource": 0.6309,
-      "totalScore": 0.7443,
+      "totalScore": 0.7143,
       "sources": [
         {
-          "channel": "toutiao",
+          "channel": "zhihu",
           "rank": 6,
-          "hot": 33930035,
-          "url": "https://www.toutiao.com/trending/7675312500044369454/"
+          "hot": 0,
+          "url": ""
         }
       ],
       "summary": "",
-      "url": "https://www.toutiao.com/trending/7675312500044369454/"
+      "url": ""
     },
     {
       "id": "evt-10000000",
       "title": "小米集团第二季度总收入 1089 亿元，经调整净利润 62 亿元，如何评价其业绩表现？",
       "category": "economy",
-      "hotScore": 0.6375,
+      "hotScore": 0.675,
       "freshness": 1,
       "crossSource": 0.6309,
-      "totalScore": 0.7443,
+      "totalScore": 0.7593,
       "sources": [
         {
           "channel": "zhihu",
-          "rank": 4,
+          "rank": 3,
+          "hot": 0,
+          "url": ""
+        }
+      ],
+      "summary": "",
+      "url": ""
+    },
+    {
+      "id": "evt-75000000",
+      "title": "75岁王石再创业",
+      "category": "society",
+      "hotScore": 0.5525,
+      "freshness": 0.9999,
+      "crossSource": 0.6309,
+      "totalScore": 0.7103,
+      "sources": [
+        {
+          "channel": "toutiao",
+          "rank": 8,
+          "hot": 28004179,
+          "url": "https://www.toutiao.com/trending/7674608437980024361/"
+        }
+      ],
+      "summary": "",
+      "url": "https://www.toutiao.com/trending/7674608437980024361/"
+    },
+    {
+      "id": "evt-80000000",
+      "title": "天蚕土豆新书更新 8 天吸流 1100 多万，这是成功了吗？",
+      "category": "society",
+      "hotScore": 0.4875,
+      "freshness": 1,
+      "crossSource": 0.6309,
+      "totalScore": 0.6843,
+      "sources": [
+        {
+          "channel": "zhihu",
+          "rank": 8,
           "hot": 0,
           "url": ""
         }
