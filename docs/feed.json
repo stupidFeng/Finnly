@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-08-18T10:17:18.872Z",
+  "generatedAt": "2026-08-18T12:22:58.821Z",
   "fields": {
     "society": "社会",
     "economy": "经济",
@@ -18,12 +18,12 @@
         {
           "channel": "toutiao",
           "rank": 1,
-          "hot": 37185461,
+          "hot": 46425277,
           "url": "https://www.toutiao.com/trending/7675264490950102571/"
         },
         {
           "channel": "thepaper",
-          "rank": 13,
+          "rank": 3,
           "hot": 0,
           "url": "https://www.thepaper.cn/newsDetail_forward_33804727"
         },
@@ -38,30 +38,11 @@
       "url": "https://www.toutiao.com/trending/7675264490950102571/"
     },
     {
-      "id": "evt-50000000",
-      "title": "一线城市二手房价格连续5个月环比上涨",
-      "category": "society",
-      "hotScore": 0.7225,
-      "freshness": 1,
-      "crossSource": 0.5,
-      "totalScore": 0.739,
-      "sources": [
-        {
-          "channel": "thepaper",
-          "rank": 4,
-          "hot": 0,
-          "url": "https://www.thepaper.cn/newsDetail_forward_33799536"
-        }
-      ],
-      "summary": "",
-      "url": "https://www.thepaper.cn/newsDetail_forward_33799536"
-    },
-    {
       "id": "evt-ti150000",
       "title": "博主爆料 TI15 已经日薪 280 元请人暖场，为什么享受纯粹高水平游戏较量的观众这么少？",
       "category": "society",
       "hotScore": 0.675,
-      "freshness": 1,
+      "freshness": 0.9999,
       "crossSource": 0.5,
       "totalScore": 0.72,
       "sources": [
@@ -76,8 +57,8 @@
       "url": ""
     },
     {
-      "id": "evt-deepseek",
-      "title": "DeepSeek招聘土木人才释放一个信号",
+      "id": "evt-10000000",
+      "title": "梭子蟹价格大跳水 10元能买两斤",
       "category": "society",
       "hotScore": 0.6,
       "freshness": 1,
@@ -88,119 +69,43 @@
           "channel": "baidu",
           "rank": 6,
           "hot": 0,
-          "url": "https://m.baidu.com/s?word=DeepSeek%E6%8B%9B%E8%81%98%E5%9C%9F%E6%9C%A8%E4%BA%BA%E6%89%8D%E9%87%8A%E6%94%BE%E4%B8%80%E4%B8%AA%E4%BF%A1%E5%8F%B7&sa=fyb_news"
+          "url": "https://m.baidu.com/s?word=%E6%A2%AD%E5%AD%90%E8%9F%B9%E4%BB%B7%E6%A0%BC%E5%A4%A7%E8%B7%B3%E6%B0%B4+10%E5%85%83%E8%83%BD%E4%B9%B0%E4%B8%A4%E6%96%A4&sa=fyb_news"
         }
       ],
       "summary": "",
-      "url": "https://m.baidu.com/s?word=DeepSeek%E6%8B%9B%E8%81%98%E5%9C%9F%E6%9C%A8%E4%BA%BA%E6%89%8D%E9%87%8A%E6%94%BE%E4%B8%80%E4%B8%AA%E4%BF%A1%E5%8F%B7&sa=fyb_news"
+      "url": "https://m.baidu.com/s?word=%E6%A2%AD%E5%AD%90%E8%9F%B9%E4%BB%B7%E6%A0%BC%E5%A4%A7%E8%B7%B3%E6%B0%B4+10%E5%85%83%E8%83%BD%E4%B9%B0%E4%B8%A4%E6%96%A4&sa=fyb_news"
     },
     {
-      "id": "evt-12345000",
-      "title": "有人打 12345 投诉夜间月光过亮影响睡觉，还有人要求政府联系明星给自己过生日，此类要求如何处理？",
-      "category": "entertainment",
-      "hotScore": 0.5625,
-      "freshness": 1,
-      "crossSource": 0.5,
-      "totalScore": 0.675,
-      "sources": [
-        {
-          "channel": "zhihu",
-          "rank": 6,
-          "hot": 0,
-          "url": ""
-        }
-      ],
-      "summary": "",
-      "url": ""
-    },
-    {
-      "id": "evt-bba50000",
-      "title": "BBA 集体大降价，宝马 5 系跌至 28 万、奔驰 E 级优惠超 10 万，传统豪华车的价格体系是如何走向瓦解的？",
+      "id": "evt-15000000",
+      "title": "程序员每日往返150公里通勤5小时",
       "category": "society",
-      "hotScore": 0.6,
-      "freshness": 1,
-      "crossSource": 0.5,
-      "totalScore": 0.69,
-      "sources": [
-        {
-          "channel": "zhihu",
-          "rank": 5,
-          "hot": 0,
-          "url": ""
-        }
-      ],
-      "summary": "",
-      "url": ""
-    },
-    {
-      "id": "evt-42000000",
-      "title": "许家印“崩”了东北富二代42亿",
-      "category": "society",
-      "hotScore": 0.595,
+      "hotScore": 0.5525,
       "freshness": 0.9999,
       "crossSource": 0.5,
-      "totalScore": 0.688,
+      "totalScore": 0.671,
       "sources": [
         {
           "channel": "toutiao",
-          "rank": 7,
-          "hot": 20407813,
-          "url": "https://www.toutiao.com/trending/7675282798793707058/"
+          "rank": 8,
+          "hot": 23054110,
+          "url": "https://www.toutiao.com/trending/7675286643554861119/"
         }
       ],
       "summary": "",
-      "url": "https://www.toutiao.com/trending/7675282798793707058/"
-    },
-    {
-      "id": "evt-c0000000",
-      "title": "商场外墙广告“C位”让给科学家：从山东开始，内蒙古、安徽多地跟进",
-      "category": "society",
-      "hotScore": 0.595,
-      "freshness": 1,
-      "crossSource": 0.5,
-      "totalScore": 0.688,
-      "sources": [
-        {
-          "channel": "thepaper",
-          "rank": 7,
-          "hot": 0,
-          "url": "https://www.thepaper.cn/newsDetail_forward_33799676"
-        }
-      ],
-      "summary": "",
-      "url": "https://www.thepaper.cn/newsDetail_forward_33799676"
-    },
-    {
-      "id": "evt-38000000",
-      "title": "“最爱发钱老板”现场资助380名学生",
-      "category": "society",
-      "hotScore": 0.48,
-      "freshness": 1,
-      "crossSource": 0.5,
-      "totalScore": 0.642,
-      "sources": [
-        {
-          "channel": "baidu",
-          "rank": 9,
-          "hot": 0,
-          "url": "https://m.baidu.com/s?word=%E2%80%9C%E6%9C%80%E7%88%B1%E5%8F%91%E9%92%B1%E8%80%81%E6%9D%BF%E2%80%9D%E7%8E%B0%E5%9C%BA%E8%B5%84%E5%8A%A9380%E5%90%8D%E5%AD%A6%E7%94%9F&sa=fyb_news"
-        }
-      ],
-      "summary": "",
-      "url": "https://m.baidu.com/s?word=%E2%80%9C%E6%9C%80%E7%88%B1%E5%8F%91%E9%92%B1%E8%80%81%E6%9D%BF%E2%80%9D%E7%8E%B0%E5%9C%BA%E8%B5%84%E5%8A%A9380%E5%90%8D%E5%AD%A6%E7%94%9F&sa=fyb_news"
+      "url": "https://www.toutiao.com/trending/7675286643554861119/"
     },
     {
       "id": "evt-90000000",
       "title": "9部门发文活跃县域消费",
       "category": "society",
-      "hotScore": 0.4675,
+      "hotScore": 0.51,
       "freshness": 1,
       "crossSource": 0.5,
-      "totalScore": 0.637,
+      "totalScore": 0.654,
       "sources": [
         {
           "channel": "thepaper",
-          "rank": 10,
+          "rank": 9,
           "hot": 0,
           "url": "https://www.thepaper.cn/newsDetail_forward_33803518"
         }
@@ -209,36 +114,36 @@
       "url": "https://www.thepaper.cn/newsDetail_forward_33803518"
     },
     {
-      "id": "evt-20000000",
-      "title": "《欢迎来龙餐馆》中徐福救下 23 个孩子这一桥段，是不是有点过于理想化了？",
+      "id": "evt-64500000",
+      "title": "全球约6.45亿人处于饥饿状态",
       "category": "society",
-      "hotScore": 0.4125,
+      "hotScore": 0.44,
       "freshness": 1,
       "crossSource": 0.5,
-      "totalScore": 0.615,
+      "totalScore": 0.626,
       "sources": [
         {
-          "channel": "zhihu",
+          "channel": "baidu",
           "rank": 10,
           "hot": 0,
-          "url": ""
+          "url": "https://m.baidu.com/s?word=%E5%85%A8%E7%90%83%E7%BA%A66.45%E4%BA%BF%E4%BA%BA%E5%A4%84%E4%BA%8E%E9%A5%A5%E9%A5%BF%E7%8A%B6%E6%80%81&sa=fyb_news"
         }
       ],
       "summary": "",
-      "url": ""
+      "url": "https://m.baidu.com/s?word=%E5%85%A8%E7%90%83%E7%BA%A66.45%E4%BA%BF%E4%BA%BA%E5%A4%84%E4%BA%8E%E9%A5%A5%E9%A5%BF%E7%8A%B6%E6%80%81&sa=fyb_news"
     },
     {
       "id": "evt-83000000",
       "title": "“男子结婚8年3孩均非亲生”案将择期宣判，男方：妻子当庭承认出轨，双方就孩子归女方达成共识",
       "category": "society",
-      "hotScore": 0.3825,
+      "hotScore": 0.425,
       "freshness": 1,
       "crossSource": 0.5,
-      "totalScore": 0.603,
+      "totalScore": 0.62,
       "sources": [
         {
           "channel": "thepaper",
-          "rank": 12,
+          "rank": 11,
           "hot": 0,
           "url": "https://www.thepaper.cn/newsDetail_forward_33800378"
         }
