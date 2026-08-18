@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-08-18T12:22:58.821Z",
+  "generatedAt": "2026-08-18T14:22:19.609Z",
   "fields": {
     "society": "社会",
     "economy": "经济",
@@ -8,17 +8,17 @@
   "feed": [
     {
       "id": "evt-00000000",
-      "title": "朱镕基同志生平照片",
+      "title": "朱镕基同志生平",
       "category": "society",
       "hotScore": 0.85,
-      "freshness": 0.9999,
+      "freshness": 1,
       "crossSource": 1,
       "totalScore": 0.94,
       "sources": [
         {
           "channel": "toutiao",
           "rank": 1,
-          "hot": 46425277,
+          "hot": 54078470,
           "url": "https://www.toutiao.com/trending/7675264490950102571/"
         },
         {
@@ -26,86 +26,61 @@
           "rank": 3,
           "hot": 0,
           "url": "https://www.thepaper.cn/newsDetail_forward_33804727"
-        },
-        {
-          "channel": "baidu",
-          "rank": 2,
-          "hot": 0,
-          "url": "https://m.baidu.com/s?word=%E6%9C%B1%E9%95%95%E5%9F%BA%E5%90%8C%E5%BF%97%E7%94%9F%E5%B9%B3%E7%85%A7%E7%89%87&sa=fyb_news"
         }
       ],
       "summary": "",
       "url": "https://www.toutiao.com/trending/7675264490950102571/"
     },
     {
-      "id": "evt-ti150000",
-      "title": "博主爆料 TI15 已经日薪 280 元请人暖场，为什么享受纯粹高水平游戏较量的观众这么少？",
+      "id": "evt-60000000",
+      "title": "60万亿元，打开消费增长新空间",
       "category": "society",
-      "hotScore": 0.675,
-      "freshness": 0.9999,
-      "crossSource": 0.5,
-      "totalScore": 0.72,
-      "sources": [
-        {
-          "channel": "zhihu",
-          "rank": 3,
-          "hot": 0,
-          "url": ""
-        }
-      ],
-      "summary": "",
-      "url": ""
-    },
-    {
-      "id": "evt-10000000",
-      "title": "梭子蟹价格大跳水 10元能买两斤",
-      "category": "society",
-      "hotScore": 0.6,
+      "hotScore": 0.765,
       "freshness": 1,
-      "crossSource": 0.5,
-      "totalScore": 0.69,
-      "sources": [
-        {
-          "channel": "baidu",
-          "rank": 6,
-          "hot": 0,
-          "url": "https://m.baidu.com/s?word=%E6%A2%AD%E5%AD%90%E8%9F%B9%E4%BB%B7%E6%A0%BC%E5%A4%A7%E8%B7%B3%E6%B0%B4+10%E5%85%83%E8%83%BD%E4%B9%B0%E4%B8%A4%E6%96%A4&sa=fyb_news"
-        }
-      ],
-      "summary": "",
-      "url": "https://m.baidu.com/s?word=%E6%A2%AD%E5%AD%90%E8%9F%B9%E4%BB%B7%E6%A0%BC%E5%A4%A7%E8%B7%B3%E6%B0%B4+10%E5%85%83%E8%83%BD%E4%B9%B0%E4%B8%A4%E6%96%A4&sa=fyb_news"
-    },
-    {
-      "id": "evt-15000000",
-      "title": "程序员每日往返150公里通勤5小时",
-      "category": "society",
-      "hotScore": 0.5525,
-      "freshness": 0.9999,
-      "crossSource": 0.5,
-      "totalScore": 0.671,
+      "crossSource": 0.6309,
+      "totalScore": 0.7953,
       "sources": [
         {
           "channel": "toutiao",
-          "rank": 8,
-          "hot": 23054110,
-          "url": "https://www.toutiao.com/trending/7675286643554861119/"
+          "rank": 3,
+          "hot": 44275707,
+          "url": "https://www.toutiao.com/trending/7674980928562626611/"
         }
       ],
       "summary": "",
-      "url": "https://www.toutiao.com/trending/7675286643554861119/"
+      "url": "https://www.toutiao.com/trending/7674980928562626611/"
+    },
+    {
+      "id": "evt-30000000",
+      "title": "章子怡套现3亿",
+      "category": "society",
+      "hotScore": 0.7225,
+      "freshness": 1,
+      "crossSource": 0.6309,
+      "totalScore": 0.7783,
+      "sources": [
+        {
+          "channel": "toutiao",
+          "rank": 4,
+          "hot": 40062316,
+          "url": "https://www.toutiao.com/trending/7674808450081263167/"
+        }
+      ],
+      "summary": "",
+      "url": "https://www.toutiao.com/trending/7674808450081263167/"
     },
     {
       "id": "evt-90000000",
       "title": "9部门发文活跃县域消费",
       "category": "society",
-      "hotScore": 0.51,
+      "hotScore": 0.5525,
       "freshness": 1,
-      "crossSource": 0.5,
-      "totalScore": 0.654,
+      "crossSource": 0.6309,
+      "totalScore": 0.7103,
       "sources": [
         {
           "channel": "thepaper",
-          "rank": 9,
+          "rank": 8,
           "hot": 0,
           "url": "https://www.thepaper.cn/newsDetail_forward_33803518"
         }
@@ -114,42 +89,61 @@
       "url": "https://www.thepaper.cn/newsDetail_forward_33803518"
     },
     {
-      "id": "evt-64500000",
-      "title": "全球约6.45亿人处于饥饿状态",
-      "category": "society",
-      "hotScore": 0.44,
+      "id": "evt-10000000",
+      "title": "小米集团第二季度总收入 1089 亿元，经调整净利润 62 亿元，如何评价其业绩表现？",
+      "category": "economy",
+      "hotScore": 0.6375,
       "freshness": 1,
-      "crossSource": 0.5,
-      "totalScore": 0.626,
+      "crossSource": 0.6309,
+      "totalScore": 0.7443,
       "sources": [
         {
-          "channel": "baidu",
-          "rank": 10,
+          "channel": "zhihu",
+          "rank": 4,
           "hot": 0,
-          "url": "https://m.baidu.com/s?word=%E5%85%A8%E7%90%83%E7%BA%A66.45%E4%BA%BF%E4%BA%BA%E5%A4%84%E4%BA%8E%E9%A5%A5%E9%A5%BF%E7%8A%B6%E6%80%81&sa=fyb_news"
+          "url": ""
         }
       ],
       "summary": "",
-      "url": "https://m.baidu.com/s?word=%E5%85%A8%E7%90%83%E7%BA%A66.45%E4%BA%BF%E4%BA%BA%E5%A4%84%E4%BA%8E%E9%A5%A5%E9%A5%BF%E7%8A%B6%E6%80%81&sa=fyb_news"
+      "url": ""
     },
     {
-      "id": "evt-83000000",
-      "title": "“男子结婚8年3孩均非亲生”案将择期宣判，男方：妻子当庭承认出轨，双方就孩子归女方达成共识",
+      "id": "evt-75000000",
+      "title": "75岁王石再创业",
       "category": "society",
-      "hotScore": 0.425,
+      "hotScore": 0.4675,
       "freshness": 1,
-      "crossSource": 0.5,
-      "totalScore": 0.62,
+      "crossSource": 0.6309,
+      "totalScore": 0.6763,
       "sources": [
         {
-          "channel": "thepaper",
-          "rank": 11,
-          "hot": 0,
-          "url": "https://www.thepaper.cn/newsDetail_forward_33800378"
+          "channel": "toutiao",
+          "rank": 10,
+          "hot": 21986665,
+          "url": "https://www.toutiao.com/trending/7674608437980024361/"
         }
       ],
       "summary": "",
-      "url": "https://www.thepaper.cn/newsDetail_forward_33800378"
+      "url": "https://www.toutiao.com/trending/7674608437980024361/"
+    },
+    {
+      "id": "evt-ti150000",
+      "title": "博主爆料 TI15 已经日薪 280 元请人暖场，为什么享受纯粹高水平游戏较量的观众这么少？",
+      "category": "society",
+      "hotScore": 0.4125,
+      "freshness": 1,
+      "crossSource": 0.6309,
+      "totalScore": 0.6543,
+      "sources": [
+        {
+          "channel": "zhihu",
+          "rank": 10,
+          "hot": 0,
+          "url": ""
+        }
+      ],
+      "summary": "",
+      "url": ""
     }
   ]
 }
