@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-08-18T06:24:10.636Z",
+  "generatedAt": "2026-08-18T08:22:44.123Z",
   "fields": {
     "society": "社会",
     "economy": "经济",
@@ -10,15 +10,15 @@
       "id": "evt-00000000",
       "title": "天安门下半旗悼念朱镕基同志",
       "category": "society",
-      "hotScore": 0.85,
+      "hotScore": 0.8075,
       "freshness": 0.9999,
       "crossSource": 1,
-      "totalScore": 0.94,
+      "totalScore": 0.923,
       "sources": [
         {
           "channel": "toutiao",
-          "rank": 1,
-          "hot": 17808494,
+          "rank": 2,
+          "hot": 24891878,
           "url": "https://www.toutiao.com/trending/7674420762769702954/"
         },
         {
@@ -32,63 +32,19 @@
           "rank": 2,
           "hot": 0,
           "url": "https://m.baidu.com/s?word=%E5%A4%A9%E5%AE%89%E9%97%A8%E4%B8%8B%E5%8D%8A%E6%97%97%E6%82%BC%E5%BF%B5%E6%9C%B1%E9%95%95%E5%9F%BA%E5%90%8C%E5%BF%97&sa=fyb_news"
-        },
-        {
-          "channel": "zhihu",
-          "rank": 1,
-          "hot": 0,
-          "url": ""
         }
       ],
       "summary": "",
       "url": "https://www.toutiao.com/trending/7674420762769702954/"
     },
     {
-      "id": "evt-10000000",
-      "title": "纪念江泽民同志诞辰100周年大会在京隆重举行，习近平发表重要讲话",
-      "category": "society",
-      "hotScore": 0.85,
-      "freshness": 0.9999,
-      "crossSource": 0.4307,
-      "totalScore": 0.7692,
-      "sources": [
-        {
-          "channel": "thepaper",
-          "rank": 1,
-          "hot": 0,
-          "url": "https://www.thepaper.cn/newsDetail_forward_33798526"
-        }
-      ],
-      "summary": "",
-      "url": "https://www.thepaper.cn/newsDetail_forward_33798526"
-    },
-    {
-      "id": "evt-71700000",
-      "title": "印度7名贫困矿工挖到17.96克拉钻石",
-      "category": "society",
-      "hotScore": 0.8075,
-      "freshness": 0.9999,
-      "crossSource": 0.4307,
-      "totalScore": 0.7522,
-      "sources": [
-        {
-          "channel": "toutiao",
-          "rank": 2,
-          "hot": 16113792,
-          "url": "https://www.toutiao.com/trending/7675145185189445651/"
-        }
-      ],
-      "summary": "",
-      "url": "https://www.toutiao.com/trending/7675145185189445651/"
-    },
-    {
       "id": "evt-50000000",
       "title": "一线城市二手房价格连续5个月环比上涨",
       "category": "society",
       "hotScore": 0.765,
-      "freshness": 0.9999,
-      "crossSource": 0.4307,
-      "totalScore": 0.7352,
+      "freshness": 1,
+      "crossSource": 0.5,
+      "totalScore": 0.756,
       "sources": [
         {
           "channel": "thepaper",
@@ -101,55 +57,36 @@
       "url": "https://www.thepaper.cn/newsDetail_forward_33799536"
     },
     {
-      "id": "evt-12345000",
-      "title": "有人打 12345 投诉夜间月光过亮影响睡觉，还有人要求政府联系明星给自己过生日，此类要求如何处理？",
-      "category": "entertainment",
-      "hotScore": 0.5625,
-      "freshness": 0.9999,
-      "crossSource": 0.4307,
-      "totalScore": 0.6542,
-      "sources": [
-        {
-          "channel": "zhihu",
-          "rank": 6,
-          "hot": 0,
-          "url": ""
-        }
-      ],
-      "summary": "",
-      "url": ""
-    },
-    {
-      "id": "evt-55700000",
-      "title": "人均557万 寒武纪员工大红包将到账",
+      "id": "evt-20000000",
+      "title": "折叠“三蹦子” 欧洲售价近2万人民币",
       "category": "society",
-      "hotScore": 0.7225,
-      "freshness": 0.9999,
-      "crossSource": 0.4307,
-      "totalScore": 0.7182,
+      "hotScore": 0.64,
+      "freshness": 1,
+      "crossSource": 0.5,
+      "totalScore": 0.706,
       "sources": [
         {
-          "channel": "toutiao",
-          "rank": 4,
-          "hot": 13192857,
-          "url": "https://www.toutiao.com/trending/7674162628880797227/"
+          "channel": "baidu",
+          "rank": 5,
+          "hot": 0,
+          "url": "https://m.baidu.com/s?word=%E6%8A%98%E5%8F%A0%E2%80%9C%E4%B8%89%E8%B9%A6%E5%AD%90%E2%80%9D+%E6%AC%A7%E6%B4%B2%E5%94%AE%E4%BB%B7%E8%BF%912%E4%B8%87%E4%BA%BA%E6%B0%91%E5%B8%81&sa=fyb_news"
         }
       ],
       "summary": "",
-      "url": "https://www.toutiao.com/trending/7674162628880797227/"
+      "url": "https://m.baidu.com/s?word=%E6%8A%98%E5%8F%A0%E2%80%9C%E4%B8%89%E8%B9%A6%E5%AD%90%E2%80%9D+%E6%AC%A7%E6%B4%B2%E5%94%AE%E4%BB%B7%E8%BF%912%E4%B8%87%E4%BA%BA%E6%B0%91%E5%B8%81&sa=fyb_news"
     },
     {
       "id": "evt-c0000000",
       "title": "商场外墙广告“C位”让给科学家：从山东开始，内蒙古、安徽多地跟进",
       "category": "society",
-      "hotScore": 0.595,
-      "freshness": 0.9999,
-      "crossSource": 0.4307,
-      "totalScore": 0.6672,
+      "hotScore": 0.6375,
+      "freshness": 1,
+      "crossSource": 0.5,
+      "totalScore": 0.705,
       "sources": [
         {
           "channel": "thepaper",
-          "rank": 7,
+          "rank": 6,
           "hot": 0,
           "url": "https://www.thepaper.cn/newsDetail_forward_33799676"
         }
@@ -158,36 +95,74 @@
       "url": "https://www.thepaper.cn/newsDetail_forward_33799676"
     },
     {
-      "id": "evt-30000000",
-      "title": "董明珠开技校 首届招300名初中毕业生",
-      "category": "society",
-      "hotScore": 0.51,
-      "freshness": 0.9999,
-      "crossSource": 0.4307,
-      "totalScore": 0.6332,
+      "id": "evt-12345000",
+      "title": "有人打 12345 投诉夜间月光过亮影响睡觉，还有人要求政府联系明星给自己过生日，此类要求如何处理？",
+      "category": "entertainment",
+      "hotScore": 0.45,
+      "freshness": 1,
+      "crossSource": 0.5,
+      "totalScore": 0.63,
       "sources": [
         {
-          "channel": "toutiao",
+          "channel": "zhihu",
           "rank": 9,
-          "hot": 8001872,
-          "url": "https://www.toutiao.com/trending/7674959270865797161/"
+          "hot": 0,
+          "url": ""
         }
       ],
       "summary": "",
-      "url": "https://www.toutiao.com/trending/7674959270865797161/"
+      "url": ""
+    },
+    {
+      "id": "evt-ti150000",
+      "title": "博主爆料 TI15 已经日薪 280 元请人暖场，为什么享受纯粹高水平游戏较量的观众这么少？",
+      "category": "society",
+      "hotScore": 0.6,
+      "freshness": 1,
+      "crossSource": 0.5,
+      "totalScore": 0.69,
+      "sources": [
+        {
+          "channel": "zhihu",
+          "rank": 5,
+          "hot": 0,
+          "url": ""
+        }
+      ],
+      "summary": "",
+      "url": ""
+    },
+    {
+      "id": "evt-38000000",
+      "title": "“最爱发钱老板”现场资助380名学生",
+      "category": "society",
+      "hotScore": 0.5525,
+      "freshness": 0.9999,
+      "crossSource": 0.5,
+      "totalScore": 0.671,
+      "sources": [
+        {
+          "channel": "toutiao",
+          "rank": 8,
+          "hot": 13660952,
+          "url": "https://www.toutiao.com/trending/7674509879948394506/"
+        }
+      ],
+      "summary": "",
+      "url": "https://www.toutiao.com/trending/7674509879948394506/"
     },
     {
       "id": "evt-90000000",
       "title": "9部门发文活跃县域消费",
       "category": "society",
-      "hotScore": 0.51,
-      "freshness": 0.9999,
-      "crossSource": 0.4307,
-      "totalScore": 0.6332,
+      "hotScore": 0.5525,
+      "freshness": 1,
+      "crossSource": 0.5,
+      "totalScore": 0.671,
       "sources": [
         {
           "channel": "thepaper",
-          "rank": 9,
+          "rank": 8,
           "hot": 0,
           "url": "https://www.thepaper.cn/newsDetail_forward_33803518"
         }
@@ -196,80 +171,61 @@
       "url": "https://www.thepaper.cn/newsDetail_forward_33803518"
     },
     {
-      "id": "evt-20000000",
-      "title": "《欢迎来龙餐馆》中徐福救下 23 个孩子这一桥段，是不是有点过于理想化了？",
+      "id": "evt-10000000",
+      "title": "俞敏洪要带队去北极 定价10.98万元起",
       "category": "society",
-      "hotScore": 0.4875,
-      "freshness": 0.9999,
-      "crossSource": 0.4307,
-      "totalScore": 0.6242,
-      "sources": [
-        {
-          "channel": "zhihu",
-          "rank": 8,
-          "hot": 0,
-          "url": ""
-        }
-      ],
-      "summary": "",
-      "url": ""
-    },
-    {
-      "id": "evt-22100000",
-      "title": "22岁辅警入职1个月救人牺牲",
-      "category": "society",
-      "hotScore": 0.48,
+      "hotScore": 0.52,
       "freshness": 1,
-      "crossSource": 0.4307,
-      "totalScore": 0.6212,
+      "crossSource": 0.5,
+      "totalScore": 0.658,
       "sources": [
         {
           "channel": "baidu",
-          "rank": 9,
+          "rank": 8,
           "hot": 0,
-          "url": "https://m.baidu.com/s?word=22%E5%B2%81%E8%BE%85%E8%AD%A6%E5%85%A5%E8%81%8C1%E4%B8%AA%E6%9C%88%E6%95%91%E4%BA%BA%E7%89%BA%E7%89%B2&sa=fyb_news"
+          "url": "https://m.baidu.com/s?word=%E4%BF%9E%E6%95%8F%E6%B4%AA%E8%A6%81%E5%B8%A6%E9%98%9F%E5%8E%BB%E5%8C%97%E6%9E%81+%E5%AE%9A%E4%BB%B710.98%E4%B8%87%E5%85%83%E8%B5%B7&sa=fyb_news"
         }
       ],
       "summary": "",
-      "url": "https://m.baidu.com/s?word=22%E5%B2%81%E8%BE%85%E8%AD%A6%E5%85%A5%E8%81%8C1%E4%B8%AA%E6%9C%88%E6%95%91%E4%BA%BA%E7%89%BA%E7%89%B2&sa=fyb_news"
-    },
-    {
-      "id": "evt-ti150000",
-      "title": "博主爆料 TI15 已经日薪 280 元请人暖场，为什么享受纯粹高水平游戏较量的观众这么少？",
-      "category": "society",
-      "hotScore": 0.45,
-      "freshness": 0.9999,
-      "crossSource": 0.4307,
-      "totalScore": 0.6092,
-      "sources": [
-        {
-          "channel": "zhihu",
-          "rank": 9,
-          "hot": 0,
-          "url": ""
-        }
-      ],
-      "summary": "",
-      "url": ""
+      "url": "https://m.baidu.com/s?word=%E4%BF%9E%E6%95%8F%E6%B4%AA%E8%A6%81%E5%B8%A6%E9%98%9F%E5%8E%BB%E5%8C%97%E6%9E%81+%E5%AE%9A%E4%BB%B710.98%E4%B8%87%E5%85%83%E8%B5%B7&sa=fyb_news"
     },
     {
       "id": "evt-83000000",
       "title": "“男子结婚8年3孩均非亲生”案将择期宣判，男方：妻子当庭承认出轨，双方就孩子归女方达成共识",
       "category": "society",
-      "hotScore": 0.425,
-      "freshness": 0.9999,
-      "crossSource": 0.4307,
-      "totalScore": 0.5992,
+      "hotScore": 0.4675,
+      "freshness": 1,
+      "crossSource": 0.5,
+      "totalScore": 0.637,
       "sources": [
         {
           "channel": "thepaper",
-          "rank": 11,
+          "rank": 10,
           "hot": 0,
           "url": "https://www.thepaper.cn/newsDetail_forward_33800378"
         }
       ],
       "summary": "",
       "url": "https://www.thepaper.cn/newsDetail_forward_33800378"
+    },
+    {
+      "id": "evt-70000000",
+      "title": "如何看待 7 月社会消费品零售总额同比增长 0.6%？",
+      "category": "society",
+      "hotScore": 0.4125,
+      "freshness": 1,
+      "crossSource": 0.5,
+      "totalScore": 0.615,
+      "sources": [
+        {
+          "channel": "zhihu",
+          "rank": 10,
+          "hot": 0,
+          "url": ""
+        }
+      ],
+      "summary": "",
+      "url": ""
     }
   ]
 }
