@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-08-18T16:19:02.375Z",
+  "generatedAt": "2026-08-18T18:21:42.937Z",
   "fields": {
     "society": "社会",
     "economy": "经济",
@@ -18,7 +18,7 @@
         {
           "channel": "toutiao",
           "rank": 1,
-          "hot": 55317038,
+          "hot": 55724383,
           "url": "https://www.toutiao.com/trending/7675264490950102571/"
         },
         {
@@ -38,12 +38,12 @@
       "hotScore": 0.765,
       "freshness": 0.9999,
       "crossSource": 0.6309,
-      "totalScore": 0.7953,
+      "totalScore": 0.7952,
       "sources": [
         {
           "channel": "toutiao",
           "rank": 3,
-          "hot": 45289760,
+          "hot": 45623266,
           "url": "https://www.toutiao.com/trending/7674980928562626611/"
         }
       ],
@@ -51,61 +51,61 @@
       "url": "https://www.toutiao.com/trending/7674980928562626611/"
     },
     {
-      "id": "evt-10000000",
-      "title": "墨西哥男子潜水捕鱼失踪15天后生还",
+      "id": "evt-90000000",
+      "title": "方程豹钛9官宣成都车展全球首秀",
       "category": "society",
-      "hotScore": 0.7225,
+      "hotScore": 0.6375,
       "freshness": 0.9999,
       "crossSource": 0.6309,
-      "totalScore": 0.7783,
+      "totalScore": 0.7442,
       "sources": [
         {
           "channel": "toutiao",
+          "rank": 6,
+          "hot": 33798547,
+          "url": "https://www.toutiao.com/trending/7675312500044369454/"
+        }
+      ],
+      "summary": "",
+      "url": "https://www.toutiao.com/trending/7675312500044369454/"
+    },
+    {
+      "id": "evt-75000000",
+      "title": "75岁王石再创业",
+      "category": "society",
+      "hotScore": 0.4675,
+      "freshness": 0.9999,
+      "crossSource": 0.6309,
+      "totalScore": 0.6762,
+      "sources": [
+        {
+          "channel": "toutiao",
+          "rank": 10,
+          "hot": 22655843,
+          "url": "https://www.toutiao.com/trending/7674608437980024361/"
+        }
+      ],
+      "summary": "",
+      "url": "https://www.toutiao.com/trending/7674608437980024361/"
+    },
+    {
+      "id": "evt-10000000",
+      "title": "小米集团第二季度总收入 1089 亿元，经调整净利润 62 亿元，如何评价其业绩表现？",
+      "category": "economy",
+      "hotScore": 0.6375,
+      "freshness": 0.9999,
+      "crossSource": 0.6309,
+      "totalScore": 0.7443,
+      "sources": [
+        {
+          "channel": "zhihu",
           "rank": 4,
-          "hot": 40979869,
-          "url": "https://www.toutiao.com/trending/7675244518295453705/"
-        }
-      ],
-      "summary": "",
-      "url": "https://www.toutiao.com/trending/7675244518295453705/"
-    },
-    {
-      "id": "evt-90000000",
-      "title": "9部门发文活跃县域消费",
-      "category": "society",
-      "hotScore": 0.595,
-      "freshness": 1,
-      "crossSource": 0.6309,
-      "totalScore": 0.7273,
-      "sources": [
-        {
-          "channel": "thepaper",
-          "rank": 7,
           "hot": 0,
-          "url": "https://www.thepaper.cn/newsDetail_forward_33803518"
+          "url": ""
         }
       ],
       "summary": "",
-      "url": "https://www.thepaper.cn/newsDetail_forward_33803518"
-    },
-    {
-      "id": "evt-15000000",
-      "title": "程序员每日往返150公里通勤5小时",
-      "category": "society",
-      "hotScore": 0.4,
-      "freshness": 1,
-      "crossSource": 0.6309,
-      "totalScore": 0.6493,
-      "sources": [
-        {
-          "channel": "baidu",
-          "rank": 11,
-          "hot": 0,
-          "url": "https://m.baidu.com/s?word=%E7%A8%8B%E5%BA%8F%E5%91%98%E6%AF%8F%E6%97%A5%E5%BE%80%E8%BF%94150%E5%85%AC%E9%87%8C%E9%80%9A%E5%8B%A45%E5%B0%8F%E6%97%B6&sa=fyb_news"
-        }
-      ],
-      "summary": "",
-      "url": "https://m.baidu.com/s?word=%E7%A8%8B%E5%BA%8F%E5%91%98%E6%AF%8F%E6%97%A5%E5%BE%80%E8%BF%94150%E5%85%AC%E9%87%8C%E9%80%9A%E5%8B%A45%E5%B0%8F%E6%97%B6&sa=fyb_news"
+      "url": ""
     }
   ]
 }
