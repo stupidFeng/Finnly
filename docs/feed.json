@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-08-19T12:22:53.652Z",
+  "generatedAt": "2026-08-19T14:22:42.602Z",
   "fields": {
     "society": "社会",
     "economy": "经济",
@@ -7,110 +7,148 @@
   },
   "feed": [
     {
+      "id": "evt-25000000",
+      "title": "25年前辽宁一处长被枪击案重启侦查",
+      "category": "society",
+      "hotScore": 0.6375,
+      "freshness": 1,
+      "crossSource": 1,
+      "totalScore": 0.855,
+      "sources": [
+        {
+          "channel": "toutiao",
+          "rank": 6,
+          "hot": 40173198,
+          "url": "https://www.toutiao.com/trending/7675678069261156361/"
+        },
+        {
+          "channel": "baidu",
+          "rank": 18,
+          "hot": 0,
+          "url": "https://m.baidu.com/s?word=25%E5%B9%B4%E5%89%8D%E8%BE%BD%E5%AE%81%E4%B8%80%E5%A4%84%E9%95%BF%E8%A2%AB%E6%9E%AA%E5%87%BB%E6%A1%88%E9%87%8D%E5%90%AF%E4%BE%A6%E6%9F%A5&sa=fyb_news"
+        }
+      ],
+      "summary": "",
+      "url": "https://www.toutiao.com/trending/7675678069261156361/"
+    },
+    {
       "id": "evt-00000000",
-      "title": "总台七夕晚会",
+      "title": "海军中将赵晓哲院士被工程院“除名”",
       "category": "society",
       "hotScore": 0.85,
       "freshness": 1,
-      "crossSource": 1,
-      "totalScore": 0.94,
+      "crossSource": 0.6309,
+      "totalScore": 0.8293,
       "sources": [
         {
           "channel": "toutiao",
           "rank": 1,
-          "hot": 57275688,
-          "url": "https://www.toutiao.com/trending/7675200351670796351/"
-        },
-        {
-          "channel": "baidu",
-          "rank": 11,
-          "hot": 0,
-          "url": "https://m.baidu.com/s?word=%E6%80%BB%E5%8F%B0%E4%B8%83%E5%A4%95%E6%99%9A%E4%BC%9A&sa=fyb_news"
+          "hot": 66234406,
+          "url": "https://www.toutiao.com/trending/7675682132752076297/"
         }
       ],
       "summary": "",
-      "url": "https://www.toutiao.com/trending/7675200351670796351/"
+      "url": "https://www.toutiao.com/trending/7675682132752076297/"
     },
     {
-      "id": "evt-84436000",
-      "title": "近844克黄金被扣押36年续：烟台中院驳回赔偿申请，当事人称将向山东高院申诉",
+      "id": "evt-98500000",
+      "title": "985大学开在县城 考进大山了",
       "category": "society",
-      "hotScore": 0.8075,
+      "hotScore": 0.76,
       "freshness": 1,
       "crossSource": 0.6309,
-      "totalScore": 0.8123,
+      "totalScore": 0.7933,
       "sources": [
         {
-          "channel": "thepaper",
+          "channel": "baidu",
           "rank": 2,
           "hot": 0,
-          "url": "https://www.thepaper.cn/newsDetail_forward_33805418"
+          "url": "https://m.baidu.com/s?word=985%E5%A4%A7%E5%AD%A6%E5%BC%80%E5%9C%A8%E5%8E%BF%E5%9F%8E+%E8%80%83%E8%BF%9B%E5%A4%A7%E5%B1%B1%E4%BA%86&sa=fyb_news"
         }
       ],
       "summary": "",
-      "url": "https://www.thepaper.cn/newsDetail_forward_33805418"
+      "url": "https://m.baidu.com/s?word=985%E5%A4%A7%E5%AD%A6%E5%BC%80%E5%9C%A8%E5%8E%BF%E5%9F%8E+%E8%80%83%E8%BF%9B%E5%A4%A7%E5%B1%B1%E4%BA%86&sa=fyb_news"
     },
     {
       "id": "evt-50000000",
-      "title": "未来5年，优化医保便民这么干",
+      "title": "5万以下的燃油车 正在被遗忘",
       "category": "society",
+      "hotScore": 0.72,
+      "freshness": 1,
+      "crossSource": 0.6309,
+      "totalScore": 0.7773,
+      "sources": [
+        {
+          "channel": "baidu",
+          "rank": 3,
+          "hot": 0,
+          "url": "https://m.baidu.com/s?word=5%E4%B8%87%E4%BB%A5%E4%B8%8B%E7%9A%84%E7%87%83%E6%B2%B9%E8%BD%A6+%E6%AD%A3%E5%9C%A8%E8%A2%AB%E9%81%97%E5%BF%98&sa=fyb_news"
+        }
+      ],
+      "summary": "",
+      "url": "https://m.baidu.com/s?word=5%E4%B8%87%E4%BB%A5%E4%B8%8B%E7%9A%84%E7%87%83%E6%B2%B9%E8%BD%A6+%E6%AD%A3%E5%9C%A8%E8%A2%AB%E9%81%97%E5%BF%98&sa=fyb_news"
+    },
+    {
+      "id": "evt-47460000",
+      "title": "中一签赚47.46万！宇树科技开盘暴涨629.44%，总市值4449亿元",
+      "category": "economy",
       "hotScore": 0.765,
       "freshness": 1,
       "crossSource": 0.6309,
       "totalScore": 0.7953,
       "sources": [
         {
-          "channel": "toutiao",
+          "channel": "thepaper",
           "rank": 3,
-          "hot": 46893367,
-          "url": "https://www.toutiao.com/trending/7675628132103376410/"
+          "hot": 0,
+          "url": "https://www.thepaper.cn/newsDetail_forward_33807884"
         }
       ],
       "summary": "",
-      "url": "https://www.toutiao.com/trending/7675628132103376410/"
+      "url": "https://www.thepaper.cn/newsDetail_forward_33807884"
     },
     {
-      "id": "evt-20260000",
-      "title": "上海 2026 社保基数下限调整为 7546 元 / 月，平均工资首次突破 12500 元大关，哪些信息值得关注？",
+      "id": "evt-34170000",
+      "title": "财晓得｜市值3417亿元，宇树撑得起吗？",
+      "category": "economy",
+      "hotScore": 0.51,
+      "freshness": 1,
+      "crossSource": 0.6309,
+      "totalScore": 0.6933,
+      "sources": [
+        {
+          "channel": "thepaper",
+          "rank": 9,
+          "hot": 0,
+          "url": "https://www.thepaper.cn/newsDetail_forward_33768776"
+        }
+      ],
+      "summary": "",
+      "url": "https://www.thepaper.cn/newsDetail_forward_33768776"
+    },
+    {
+      "id": "evt-a0000000",
+      "title": "博主：A股市场不应该跟着外围市场走",
+      "category": "economy",
+      "hotScore": 0.2975,
+      "freshness": 1,
+      "crossSource": 0.6309,
+      "totalScore": 0.6083,
+      "sources": [
+        {
+          "channel": "toutiao",
+          "rank": 14,
+          "hot": 18050981,
+          "url": "https://www.toutiao.com/trending/7675683040038751790/"
+        }
+      ],
+      "summary": "",
+      "url": "https://www.toutiao.com/trending/7675683040038751790/"
+    },
+    {
+      "id": "evt-28300000",
+      "title": "28家具身独角兽估值超3500亿元，谁是下一个宇树？",
       "category": "society",
-      "hotScore": 0.7125,
-      "freshness": 1,
-      "crossSource": 0.6309,
-      "totalScore": 0.7743,
-      "sources": [
-        {
-          "channel": "zhihu",
-          "rank": 2,
-          "hot": 0,
-          "url": ""
-        }
-      ],
-      "summary": "",
-      "url": ""
-    },
-    {
-      "id": "evt-46000000",
-      "title": "宇树科技上市首日收涨 460%，盘中一度暴涨 629%，市值突破 4400 亿，如何评价其市场表现？",
-      "category": "economy",
-      "hotScore": 0.75,
-      "freshness": 1,
-      "crossSource": 0.6309,
-      "totalScore": 0.7893,
-      "sources": [
-        {
-          "channel": "zhihu",
-          "rank": 1,
-          "hot": 0,
-          "url": ""
-        }
-      ],
-      "summary": "",
-      "url": ""
-    },
-    {
-      "id": "evt-47460000",
-      "title": "中一签赚47.46万！宇树科技开盘暴涨629.44%，总市值4449亿元",
-      "category": "economy",
       "hotScore": 0.6375,
       "freshness": 1,
       "crossSource": 0.6309,
@@ -120,87 +158,11 @@
           "channel": "thepaper",
           "rank": 6,
           "hot": 0,
-          "url": "https://www.thepaper.cn/newsDetail_forward_33807884"
+          "url": "https://www.thepaper.cn/newsDetail_forward_33591259"
         }
       ],
       "summary": "",
-      "url": "https://www.thepaper.cn/newsDetail_forward_33807884"
-    },
-    {
-      "id": "evt-a0000000",
-      "title": "博主：A股市场不应该跟着外围市场走",
-      "category": "economy",
-      "hotScore": 0.5525,
-      "freshness": 1,
-      "crossSource": 0.6309,
-      "totalScore": 0.7103,
-      "sources": [
-        {
-          "channel": "toutiao",
-          "rank": 8,
-          "hot": 28442265,
-          "url": "https://www.toutiao.com/trending/7675683040038751790/"
-        }
-      ],
-      "summary": "",
-      "url": "https://www.toutiao.com/trending/7675683040038751790/"
-    },
-    {
-      "id": "evt-10000000",
-      "title": "宇树上市后，创始人身家超 1300 亿成 90 后首富，23 名员工成千万富豪，如何看待宇树的造富神话？",
-      "category": "economy",
-      "hotScore": 0.4875,
-      "freshness": 1,
-      "crossSource": 0.6309,
-      "totalScore": 0.6843,
-      "sources": [
-        {
-          "channel": "zhihu",
-          "rank": 8,
-          "hot": 0,
-          "url": ""
-        }
-      ],
-      "summary": "",
-      "url": ""
-    },
-    {
-      "id": "evt-rtx50900",
-      "title": "转转回收 RTX5090 仅报 1.3 万元引网友热议，二手平台定价是否合理？",
-      "category": "society",
-      "hotScore": 0.6375,
-      "freshness": 1,
-      "crossSource": 0.6309,
-      "totalScore": 0.7443,
-      "sources": [
-        {
-          "channel": "zhihu",
-          "rank": 4,
-          "hot": 0,
-          "url": ""
-        }
-      ],
-      "summary": "",
-      "url": ""
-    },
-    {
-      "id": "evt-deepseekharn",
-      "title": "DeepSeek Harness 轻松破了 GitHub 记录，它能引发一场什么革命？",
-      "category": "society",
-      "hotScore": 0.6,
-      "freshness": 1,
-      "crossSource": 0.6309,
-      "totalScore": 0.7293,
-      "sources": [
-        {
-          "channel": "zhihu",
-          "rank": 5,
-          "hot": 0,
-          "url": ""
-        }
-      ],
-      "summary": "",
-      "url": ""
+      "url": "https://www.thepaper.cn/newsDetail_forward_33591259"
     },
     {
       "id": "evt-13500000",
@@ -222,42 +184,118 @@
       "url": "https://m.baidu.com/s?word=%E7%AC%94%E8%AF%95%E5%89%8D13%E5%90%8D%E5%85%A8%E6%B7%98%E6%B1%B0+%E5%80%92%E6%95%B05%E5%90%8D%E5%85%A8%E9%80%86%E8%A2%AD&sa=fyb_news"
     },
     {
-      "id": "evt-39000000",
-      "title": "千名群众手持鲜花送别39岁儿科医生",
+      "id": "evt-30000000",
+      "title": "石家庄居民楼坍塌致3死",
       "category": "society",
-      "hotScore": 0.4675,
+      "hotScore": 0.52,
       "freshness": 1,
       "crossSource": 0.6309,
-      "totalScore": 0.6763,
+      "totalScore": 0.6973,
+      "sources": [
+        {
+          "channel": "baidu",
+          "rank": 8,
+          "hot": 0,
+          "url": "https://m.baidu.com/s?word=%E7%9F%B3%E5%AE%B6%E5%BA%84%E5%B1%85%E6%B0%91%E6%A5%BC%E5%9D%8D%E5%A1%8C%E8%87%B43%E6%AD%BB&sa=fyb_news"
+        }
+      ],
+      "summary": "",
+      "url": "https://m.baidu.com/s?word=%E7%9F%B3%E5%AE%B6%E5%BA%84%E5%B1%85%E6%B0%91%E6%A5%BC%E5%9D%8D%E5%A1%8C%E8%87%B43%E6%AD%BB&sa=fyb_news"
+    },
+    {
+      "id": "evt-11000000",
+      "title": "广西一村庄为11名准大学生办升学礼",
+      "category": "society",
+      "hotScore": 0.51,
+      "freshness": 1,
+      "crossSource": 0.6309,
+      "totalScore": 0.6933,
       "sources": [
         {
           "channel": "toutiao",
-          "rank": 10,
-          "hot": 23286557,
-          "url": "https://www.toutiao.com/trending/7674935263122653190/"
+          "rank": 9,
+          "hot": 29761037,
+          "url": "https://www.toutiao.com/trending/7675396783292121131/"
         }
       ],
       "summary": "",
-      "url": "https://www.toutiao.com/trending/7674935263122653190/"
+      "url": "https://www.toutiao.com/trending/7675396783292121131/"
     },
     {
-      "id": "evt-28300000",
-      "title": "28家具身独角兽估值超3500亿元，谁是下一个宇树？",
+      "id": "evt-10000000",
+      "title": "公安部门悬赏100万元寻找石狮",
       "category": "society",
-      "hotScore": 0.4675,
+      "hotScore": 0.48,
       "freshness": 1,
       "crossSource": 0.6309,
-      "totalScore": 0.6763,
+      "totalScore": 0.6813,
+      "sources": [
+        {
+          "channel": "baidu",
+          "rank": 9,
+          "hot": 0,
+          "url": "https://m.baidu.com/s?word=%E5%85%AC%E5%AE%89%E9%83%A8%E9%97%A8%E6%82%AC%E8%B5%8F100%E4%B8%87%E5%85%83%E5%AF%BB%E6%89%BE%E7%9F%B3%E7%8B%AE&sa=fyb_news"
+        }
+      ],
+      "summary": "",
+      "url": "https://m.baidu.com/s?word=%E5%85%AC%E5%AE%89%E9%83%A8%E9%97%A8%E6%82%AC%E8%B5%8F100%E4%B8%87%E5%85%83%E5%AF%BB%E6%89%BE%E7%9F%B3%E7%8B%AE&sa=fyb_news"
+    },
+    {
+      "id": "evt-ai000000",
+      "title": "“AI剧像喂猪一样 实在吃不下了”",
+      "category": "society",
+      "hotScore": 0.44,
+      "freshness": 1,
+      "crossSource": 0.6309,
+      "totalScore": 0.6653,
+      "sources": [
+        {
+          "channel": "baidu",
+          "rank": 10,
+          "hot": 0,
+          "url": "https://m.baidu.com/s?word=%E2%80%9CAI%E5%89%A7%E5%83%8F%E5%96%82%E7%8C%AA%E4%B8%80%E6%A0%B7+%E5%AE%9E%E5%9C%A8%E5%90%83%E4%B8%8D%E4%B8%8B%E4%BA%86%E2%80%9D&sa=fyb_news"
+        }
+      ],
+      "summary": "",
+      "url": "https://m.baidu.com/s?word=%E2%80%9CAI%E5%89%A7%E5%83%8F%E5%96%82%E7%8C%AA%E4%B8%80%E6%A0%B7+%E5%AE%9E%E5%9C%A8%E5%90%83%E4%B8%8D%E4%B8%8B%E4%BA%86%E2%80%9D&sa=fyb_news"
+    },
+    {
+      "id": "evt-13000000",
+      "title": "教师招聘笔试前13名落选、后5名进体检名单？佛山通报",
+      "category": "society",
+      "hotScore": 0.425,
+      "freshness": 1,
+      "crossSource": 0.6309,
+      "totalScore": 0.6593,
       "sources": [
         {
           "channel": "thepaper",
-          "rank": 10,
+          "rank": 11,
           "hot": 0,
-          "url": "https://www.thepaper.cn/newsDetail_forward_33591259"
+          "url": "https://www.thepaper.cn/newsDetail_forward_33810219"
         }
       ],
       "summary": "",
-      "url": "https://www.thepaper.cn/newsDetail_forward_33591259"
+      "url": "https://www.thepaper.cn/newsDetail_forward_33810219"
+    },
+    {
+      "id": "evt-12000000",
+      "title": "12台大疆运动相机随火箭上天",
+      "category": "society",
+      "hotScore": 0.34,
+      "freshness": 1,
+      "crossSource": 0.6309,
+      "totalScore": 0.6253,
+      "sources": [
+        {
+          "channel": "toutiao",
+          "rank": 13,
+          "hot": 19949419,
+          "url": "https://www.toutiao.com/trending/7675569210765524998/"
+        }
+      ],
+      "summary": "",
+      "url": "https://www.toutiao.com/trending/7675569210765524998/"
     }
   ]
 }
