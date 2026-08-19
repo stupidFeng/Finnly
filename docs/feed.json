@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-08-19T02:49:02.805Z",
+  "generatedAt": "2026-08-19T04:26:20.644Z",
   "fields": {
     "society": "社会",
     "economy": "经济",
@@ -7,42 +7,48 @@
   },
   "feed": [
     {
-      "id": "evt-62940000",
-      "title": "宇树科技开盘暴涨629.44%",
+      "id": "evt-00000000",
+      "title": "陈新武当选重庆市市长",
       "category": "society",
-      "hotScore": 0.85,
+      "hotScore": 0.7225,
       "freshness": 1,
       "crossSource": 1,
-      "totalScore": 0.94,
+      "totalScore": 0.889,
       "sources": [
         {
           "channel": "toutiao",
-          "rank": 1,
-          "hot": 33792441,
-          "url": "https://www.toutiao.com/trending/7675549587779620379/"
+          "rank": 4,
+          "hot": 27898874,
+          "url": "https://www.toutiao.com/trending/7675582156069388351/"
+        },
+        {
+          "channel": "baidu",
+          "rank": 8,
+          "hot": 0,
+          "url": "https://m.baidu.com/s?word=%E9%99%88%E6%96%B0%E6%AD%A6%E5%BD%93%E9%80%89%E9%87%8D%E5%BA%86%E5%B8%82%E5%B8%82%E9%95%BF&sa=fyb_news"
         }
       ],
       "summary": "",
-      "url": "https://www.toutiao.com/trending/7675549587779620379/"
+      "url": "https://www.toutiao.com/trending/7675582156069388351/"
     },
     {
-      "id": "evt-00000000",
-      "title": "视频丨朱镕基同志遗体在京火化，习近平等到八宝山革命公墓送别",
+      "id": "evt-90000000",
+      "title": "王兴兴身家超千亿 拿下90后新首富",
       "category": "society",
-      "hotScore": 0.85,
+      "hotScore": 0.8075,
       "freshness": 1,
-      "crossSource": 1,
-      "totalScore": 0.94,
+      "crossSource": 0.6309,
+      "totalScore": 0.8123,
       "sources": [
         {
-          "channel": "thepaper",
-          "rank": 1,
-          "hot": 0,
-          "url": "https://www.thepaper.cn/newsDetail_forward_33805463"
+          "channel": "toutiao",
+          "rank": 2,
+          "hot": 34075762,
+          "url": "https://www.toutiao.com/trending/7674834691728621604/"
         }
       ],
       "summary": "",
-      "url": "https://www.thepaper.cn/newsDetail_forward_33805463"
+      "url": "https://www.toutiao.com/trending/7674834691728621604/"
     },
     {
       "id": "evt-10000000",
@@ -50,13 +56,13 @@
       "category": "society",
       "hotScore": 0.765,
       "freshness": 1,
-      "crossSource": 1,
-      "totalScore": 0.906,
+      "crossSource": 0.6309,
+      "totalScore": 0.7953,
       "sources": [
         {
           "channel": "toutiao",
           "rank": 3,
-          "hot": 27666910,
+          "hot": 30833024,
           "url": "https://www.toutiao.com/trending/7675319859924582454/"
         }
       ],
@@ -64,51 +70,13 @@
       "url": "https://www.toutiao.com/trending/7675319859924582454/"
     },
     {
-      "id": "evt-90000000",
-      "title": "王兴兴 90后新首富",
-      "category": "society",
-      "hotScore": 0.76,
-      "freshness": 1,
-      "crossSource": 1,
-      "totalScore": 0.904,
-      "sources": [
-        {
-          "channel": "baidu",
-          "rank": 2,
-          "hot": 0,
-          "url": "https://m.baidu.com/s?word=%E7%8E%8B%E5%85%B4%E5%85%B4+90%E5%90%8E%E6%96%B0%E9%A6%96%E5%AF%8C&sa=fyb_news"
-        }
-      ],
-      "summary": "",
-      "url": "https://m.baidu.com/s?word=%E7%8E%8B%E5%85%B4%E5%85%B4+90%E5%90%8E%E6%96%B0%E9%A6%96%E5%AF%8C&sa=fyb_news"
-    },
-    {
-      "id": "evt-62900000",
-      "title": "宇树科技高开629% 总市值达4449亿",
-      "category": "economy",
-      "hotScore": 0.72,
-      "freshness": 1,
-      "crossSource": 1,
-      "totalScore": 0.888,
-      "sources": [
-        {
-          "channel": "baidu",
-          "rank": 3,
-          "hot": 0,
-          "url": "https://m.baidu.com/s?word=%E5%AE%87%E6%A0%91%E7%A7%91%E6%8A%80%E9%AB%98%E5%BC%80629%25+%E6%80%BB%E5%B8%82%E5%80%BC%E8%BE%BE4449%E4%BA%BF&sa=fyb_news"
-        }
-      ],
-      "summary": "",
-      "url": "https://m.baidu.com/s?word=%E5%AE%87%E6%A0%91%E7%A7%91%E6%8A%80%E9%AB%98%E5%BC%80629%25+%E6%80%BB%E5%B8%82%E5%80%BC%E8%BE%BE4449%E4%BA%BF&sa=fyb_news"
-    },
-    {
       "id": "evt-84436000",
       "title": "近844克黄金被扣押36年续：烟台中院驳回赔偿申请，当事人称将向山东高院申诉",
       "category": "society",
       "hotScore": 0.7225,
       "freshness": 1,
-      "crossSource": 1,
-      "totalScore": 0.889,
+      "crossSource": 0.6309,
+      "totalScore": 0.7783,
       "sources": [
         {
           "channel": "thepaper",
@@ -121,13 +89,57 @@
       "url": "https://www.thepaper.cn/newsDetail_forward_33805418"
     },
     {
+      "id": "evt-15200000",
+      "title": "宇树上市 雷军赚了152亿",
+      "category": "economy",
+      "hotScore": 0.56,
+      "freshness": 1,
+      "crossSource": 1,
+      "totalScore": 0.824,
+      "sources": [
+        {
+          "channel": "toutiao",
+          "rank": 8,
+          "hot": 18701174,
+          "url": "https://www.toutiao.com/trending/7674808450081328703/"
+        },
+        {
+          "channel": "baidu",
+          "rank": 7,
+          "hot": 0,
+          "url": "https://m.baidu.com/s?word=%E5%AE%87%E6%A0%91%E4%B8%8A%E5%B8%82+%E9%9B%B7%E5%86%9B%E8%B5%9A%E4%BA%86152%E4%BA%BF&sa=fyb_news"
+        }
+      ],
+      "summary": "",
+      "url": "https://www.toutiao.com/trending/7674808450081328703/"
+    },
+    {
+      "id": "evt-62900000",
+      "title": "宇树科技上市，高开 629% ，总市值达 4449 亿，如何评价其市场表现？",
+      "category": "economy",
+      "hotScore": 0.675,
+      "freshness": 1,
+      "crossSource": 0.6309,
+      "totalScore": 0.7593,
+      "sources": [
+        {
+          "channel": "zhihu",
+          "rank": 3,
+          "hot": 0,
+          "url": ""
+        }
+      ],
+      "summary": "",
+      "url": ""
+    },
+    {
       "id": "evt-41000000",
       "title": "小熊电器净利暴跌 41%，那些曾风靡一时的网红小家电为何集体「吃灰」？大家的消费选择发生了怎样的变化？",
       "category": "society",
       "hotScore": 0.7125,
       "freshness": 1,
-      "crossSource": 1,
-      "totalScore": 0.885,
+      "crossSource": 0.6309,
+      "totalScore": 0.7743,
       "sources": [
         {
           "channel": "zhihu",
@@ -140,42 +152,61 @@
       "url": ""
     },
     {
-      "id": "evt-50000000",
-      "title": "四川一升学宴突发事故 5死17伤",
+      "id": "evt-30000000",
+      "title": "宇树中签投资者清仓净赚37.38万",
       "category": "society",
-      "hotScore": 0.6375,
+      "hotScore": 0.68,
       "freshness": 1,
-      "crossSource": 1,
-      "totalScore": 0.855,
+      "crossSource": 0.6309,
+      "totalScore": 0.7613,
       "sources": [
         {
           "channel": "toutiao",
-          "rank": 6,
-          "hot": 20496151,
-          "url": "https://www.toutiao.com/trending/7675462696459832875/"
+          "rank": 5,
+          "hot": 25243945,
+          "url": "https://www.toutiao.com/trending/7674841503378014254/"
         }
       ],
       "summary": "",
-      "url": "https://www.toutiao.com/trending/7675462696459832875/"
+      "url": "https://www.toutiao.com/trending/7674841503378014254/"
     },
     {
-      "id": "evt-99000000",
-      "title": "金枕榴莲也进入9.9元时代了",
+      "id": "evt-50000000",
+      "title": "村民讲述四川致5死升学宴事故原因",
       "category": "society",
-      "hotScore": 0.48,
+      "hotScore": 0.64,
       "freshness": 1,
-      "crossSource": 1,
-      "totalScore": 0.792,
+      "crossSource": 0.6309,
+      "totalScore": 0.7453,
       "sources": [
         {
           "channel": "baidu",
-          "rank": 9,
+          "rank": 5,
           "hot": 0,
-          "url": "https://m.baidu.com/s?word=%E9%87%91%E6%9E%95%E6%A6%B4%E8%8E%B2%E4%B9%9F%E8%BF%9B%E5%85%A59.9%E5%85%83%E6%97%B6%E4%BB%A3%E4%BA%86&sa=fyb_news"
+          "url": "https://m.baidu.com/s?word=%E6%9D%91%E6%B0%91%E8%AE%B2%E8%BF%B0%E5%9B%9B%E5%B7%9D%E8%87%B45%E6%AD%BB%E5%8D%87%E5%AD%A6%E5%AE%B4%E4%BA%8B%E6%95%85%E5%8E%9F%E5%9B%A0&sa=fyb_news"
         }
       ],
       "summary": "",
-      "url": "https://m.baidu.com/s?word=%E9%87%91%E6%9E%95%E6%A6%B4%E8%8E%B2%E4%B9%9F%E8%BF%9B%E5%85%A59.9%E5%85%83%E6%97%B6%E4%BB%A3%E4%BA%86&sa=fyb_news"
+      "url": "https://m.baidu.com/s?word=%E6%9D%91%E6%B0%91%E8%AE%B2%E8%BF%B0%E5%9B%9B%E5%B7%9D%E8%87%B45%E6%AD%BB%E5%8D%87%E5%AD%A6%E5%AE%B4%E4%BA%8B%E6%95%85%E5%8E%9F%E5%9B%A0&sa=fyb_news"
+    },
+    {
+      "id": "evt-10300000",
+      "title": "宇树天使投资人回报1035倍",
+      "category": "society",
+      "hotScore": 0.425,
+      "freshness": 1,
+      "crossSource": 0.6309,
+      "totalScore": 0.6593,
+      "sources": [
+        {
+          "channel": "toutiao",
+          "rank": 11,
+          "hot": 13854171,
+          "url": "https://www.toutiao.com/trending/7675570162396843547/"
+        }
+      ],
+      "summary": "",
+      "url": "https://www.toutiao.com/trending/7675570162396843547/"
     }
   ]
 }
