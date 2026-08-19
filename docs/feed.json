@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-08-19T20:14:59.637Z",
+  "generatedAt": "2026-08-19T22:13:47.310Z",
   "fields": {
     "society": "社会",
     "economy": "经济",
@@ -10,15 +10,15 @@
       "id": "evt-00000000",
       "title": "大学生一个月给多少生活费合适",
       "category": "society",
-      "hotScore": 0.64,
+      "hotScore": 0.68,
       "freshness": 1,
       "crossSource": 1,
-      "totalScore": 0.856,
+      "totalScore": 0.872,
       "sources": [
         {
           "channel": "toutiao",
-          "rank": 17,
-          "hot": 15092638,
+          "rank": 5,
+          "hot": 51690287,
           "url": "https://www.toutiao.com/trending/7675733233962631231/"
         },
         {
@@ -52,41 +52,41 @@
     },
     {
       "id": "evt-50000000",
-      "title": "佛山通报「教师招聘笔试后 5 名进体检」，区教育局局长、副局长被立案调查，将重新面试，哪些信息值得关注？",
+      "title": "5万以下的燃油车 正在被遗忘",
       "category": "society",
-      "hotScore": 0.75,
+      "hotScore": 0.72,
       "freshness": 1,
       "crossSource": 0.6309,
-      "totalScore": 0.7893,
+      "totalScore": 0.7773,
+      "sources": [
+        {
+          "channel": "baidu",
+          "rank": 3,
+          "hot": 0,
+          "url": "https://m.baidu.com/s?word=5%E4%B8%87%E4%BB%A5%E4%B8%8B%E7%9A%84%E7%87%83%E6%B2%B9%E8%BD%A6+%E6%AD%A3%E5%9C%A8%E8%A2%AB%E9%81%97%E5%BF%98&sa=fyb_news"
+        }
+      ],
+      "summary": "",
+      "url": "https://m.baidu.com/s?word=5%E4%B8%87%E4%BB%A5%E4%B8%8B%E7%9A%84%E7%87%83%E6%B2%B9%E8%BD%A6+%E6%AD%A3%E5%9C%A8%E8%A2%AB%E9%81%97%E5%BF%98&sa=fyb_news"
+    },
+    {
+      "id": "evt-10000000",
+      "title": "王星案跨境人口贩卖集团 17 名犯罪嫌疑人被提起公诉，涉嫌拐卖妇女罪、绑架罪等，他们将面临怎样的判罚？",
+      "category": "society",
+      "hotScore": 0.675,
+      "freshness": 1,
+      "crossSource": 0.6309,
+      "totalScore": 0.7593,
       "sources": [
         {
           "channel": "zhihu",
-          "rank": 1,
+          "rank": 3,
           "hot": 0,
           "url": ""
         }
       ],
       "summary": "",
       "url": ""
-    },
-    {
-      "id": "evt-40000000",
-      "title": "清华今年录取4000余名学生",
-      "category": "society",
-      "hotScore": 0.68,
-      "freshness": 1,
-      "crossSource": 0.6309,
-      "totalScore": 0.7613,
-      "sources": [
-        {
-          "channel": "toutiao",
-          "rank": 5,
-          "hot": 50109325,
-          "url": "https://www.toutiao.com/trending/7675615726199865398/"
-        }
-      ],
-      "summary": "",
-      "url": "https://www.toutiao.com/trending/7675615726199865398/"
     },
     {
       "id": "evt-47460000",
@@ -108,17 +108,36 @@
       "url": "https://www.thepaper.cn/newsDetail_forward_33807884"
     },
     {
-      "id": "evt-10000000",
-      "title": "宇树上市后，创始人身家超 1300 亿成 90 后首富，23 名员工成千万富豪，如何看待宇树的造富神话？",
-      "category": "economy",
-      "hotScore": 0.7125,
+      "id": "evt-13000000",
+      "title": "官方通报笔试前13名淘汰倒数5名逆袭",
+      "category": "society",
+      "hotScore": 0.6375,
       "freshness": 1,
       "crossSource": 0.6309,
-      "totalScore": 0.7743,
+      "totalScore": 0.7443,
+      "sources": [
+        {
+          "channel": "toutiao",
+          "rank": 6,
+          "hot": 46771306,
+          "url": "https://www.toutiao.com/trending/7675667566118833710/"
+        }
+      ],
+      "summary": "",
+      "url": "https://www.toutiao.com/trending/7675667566118833710/"
+    },
+    {
+      "id": "evt-30000000",
+      "title": "韩媒曝韩国足协曾性贿赂 3 名中国足协人士，中国足协回应已展开调查，哪些信息值得关注？",
+      "category": "society",
+      "hotScore": 0.6,
+      "freshness": 1,
+      "crossSource": 0.6309,
+      "totalScore": 0.7293,
       "sources": [
         {
           "channel": "zhihu",
-          "rank": 2,
+          "rank": 5,
           "hot": 0,
           "url": ""
         }
@@ -127,36 +146,17 @@
       "url": ""
     },
     {
-      "id": "evt-34170000",
-      "title": "财晓得｜市值3417亿元，宇树撑得起吗？",
-      "category": "economy",
-      "hotScore": 0.4675,
-      "freshness": 1,
-      "crossSource": 0.6309,
-      "totalScore": 0.6763,
-      "sources": [
-        {
-          "channel": "thepaper",
-          "rank": 10,
-          "hot": 0,
-          "url": "https://www.thepaper.cn/newsDetail_forward_33768776"
-        }
-      ],
-      "summary": "",
-      "url": "https://www.thepaper.cn/newsDetail_forward_33768776"
-    },
-    {
       "id": "evt-28300000",
       "title": "28家具身独角兽估值超3500亿元，谁是下一个宇树？",
       "category": "society",
-      "hotScore": 0.68,
+      "hotScore": 0.5525,
       "freshness": 1,
       "crossSource": 0.6309,
-      "totalScore": 0.7613,
+      "totalScore": 0.7103,
       "sources": [
         {
           "channel": "thepaper",
-          "rank": 5,
+          "rank": 8,
           "hot": 0,
           "url": "https://www.thepaper.cn/newsDetail_forward_33591259"
         }
@@ -165,46 +165,8 @@
       "url": "https://www.thepaper.cn/newsDetail_forward_33591259"
     },
     {
-      "id": "evt-30000000",
-      "title": "韩媒曝韩国足协曾性贿赂 3 名中国足协人士，中国足协回应已展开调查，哪些信息值得关注？",
-      "category": "society",
-      "hotScore": 0.675,
-      "freshness": 1,
-      "crossSource": 0.6309,
-      "totalScore": 0.7593,
-      "sources": [
-        {
-          "channel": "zhihu",
-          "rank": 3,
-          "hot": 0,
-          "url": ""
-        }
-      ],
-      "summary": "",
-      "url": ""
-    },
-    {
-      "id": "evt-deepseekharn",
-      "title": "DeepSeek Harness 轻松破了 GitHub 记录，它能引发一场什么革命？",
-      "category": "society",
-      "hotScore": 0.6375,
-      "freshness": 1,
-      "crossSource": 0.6309,
-      "totalScore": 0.7443,
-      "sources": [
-        {
-          "channel": "zhihu",
-          "rank": 4,
-          "hot": 0,
-          "url": ""
-        }
-      ],
-      "summary": "",
-      "url": ""
-    },
-    {
-      "id": "evt-13000000",
-      "title": "官方通报笔试前13名淘汰倒数5名逆袭",
+      "id": "evt-80000000",
+      "title": "人民日报：腐败案“两个80%”的警示",
       "category": "society",
       "hotScore": 0.51,
       "freshness": 1,
@@ -214,12 +176,31 @@
         {
           "channel": "toutiao",
           "rank": 9,
-          "hot": 33589285,
-          "url": "https://www.toutiao.com/trending/7675667566118833710/"
+          "hot": 34649036,
+          "url": "https://www.toutiao.com/trending/7675325636307664934/"
         }
       ],
       "summary": "",
-      "url": "https://www.toutiao.com/trending/7675667566118833710/"
+      "url": "https://www.toutiao.com/trending/7675325636307664934/"
+    },
+    {
+      "id": "evt-deepseekharn",
+      "title": "DeepSeek Harness 五天超越 151k star，它能引发一场什么革命？",
+      "category": "society",
+      "hotScore": 0.4875,
+      "freshness": 1,
+      "crossSource": 0.6309,
+      "totalScore": 0.6843,
+      "sources": [
+        {
+          "channel": "zhihu",
+          "rank": 8,
+          "hot": 0,
+          "url": ""
+        }
+      ],
+      "summary": "",
+      "url": ""
     }
   ]
 }
