@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-08-19T10:18:06.757Z",
+  "generatedAt": "2026-08-19T12:22:53.652Z",
   "fields": {
     "society": "社会",
     "economy": "经济",
@@ -7,67 +7,29 @@
   },
   "feed": [
     {
-      "id": "evt-17000000",
-      "title": "涉王星案17名嫌疑人被公诉",
+      "id": "evt-00000000",
+      "title": "总台七夕晚会",
       "category": "society",
-      "hotScore": 0.72,
+      "hotScore": 0.85,
       "freshness": 1,
       "crossSource": 1,
-      "totalScore": 0.888,
+      "totalScore": 0.94,
       "sources": [
         {
           "channel": "toutiao",
-          "rank": 8,
-          "hot": 23473911,
-          "url": "https://www.toutiao.com/trending/7675666539122822682/"
+          "rank": 1,
+          "hot": 57275688,
+          "url": "https://www.toutiao.com/trending/7675200351670796351/"
         },
         {
           "channel": "baidu",
-          "rank": 3,
+          "rank": 11,
           "hot": 0,
-          "url": "https://m.baidu.com/s?word=%E6%B6%89%E7%8E%8B%E6%98%9F%E6%A1%8817%E5%90%8D%E5%AB%8C%E7%96%91%E4%BA%BA%E8%A2%AB%E5%85%AC%E8%AF%89&sa=fyb_news"
+          "url": "https://m.baidu.com/s?word=%E6%80%BB%E5%8F%B0%E4%B8%83%E5%A4%95%E6%99%9A%E4%BC%9A&sa=fyb_news"
         }
       ],
       "summary": "",
-      "url": "https://www.toutiao.com/trending/7675666539122822682/"
-    },
-    {
-      "id": "evt-a0000000",
-      "title": "A股今日为何大跌",
-      "category": "society",
-      "hotScore": 0.85,
-      "freshness": 1,
-      "crossSource": 0.6309,
-      "totalScore": 0.8293,
-      "sources": [
-        {
-          "channel": "toutiao",
-          "rank": 1,
-          "hot": 47270652,
-          "url": "https://www.toutiao.com/trending/7675397721336348722/"
-        }
-      ],
-      "summary": "",
-      "url": "https://www.toutiao.com/trending/7675397721336348722/"
-    },
-    {
-      "id": "evt-00000000",
-      "title": "视频丨朱镕基同志遗体在京火化，习近平等到八宝山革命公墓送别",
-      "category": "society",
-      "hotScore": 0.85,
-      "freshness": 1,
-      "crossSource": 0.6309,
-      "totalScore": 0.8293,
-      "sources": [
-        {
-          "channel": "thepaper",
-          "rank": 1,
-          "hot": 0,
-          "url": "https://www.thepaper.cn/newsDetail_forward_33805463"
-        }
-      ],
-      "summary": "",
-      "url": "https://www.thepaper.cn/newsDetail_forward_33805463"
+      "url": "https://www.toutiao.com/trending/7675200351670796351/"
     },
     {
       "id": "evt-84436000",
@@ -87,6 +49,44 @@
       ],
       "summary": "",
       "url": "https://www.thepaper.cn/newsDetail_forward_33805418"
+    },
+    {
+      "id": "evt-50000000",
+      "title": "未来5年，优化医保便民这么干",
+      "category": "society",
+      "hotScore": 0.765,
+      "freshness": 1,
+      "crossSource": 0.6309,
+      "totalScore": 0.7953,
+      "sources": [
+        {
+          "channel": "toutiao",
+          "rank": 3,
+          "hot": 46893367,
+          "url": "https://www.toutiao.com/trending/7675628132103376410/"
+        }
+      ],
+      "summary": "",
+      "url": "https://www.toutiao.com/trending/7675628132103376410/"
+    },
+    {
+      "id": "evt-20260000",
+      "title": "上海 2026 社保基数下限调整为 7546 元 / 月，平均工资首次突破 12500 元大关，哪些信息值得关注？",
+      "category": "society",
+      "hotScore": 0.7125,
+      "freshness": 1,
+      "crossSource": 0.6309,
+      "totalScore": 0.7743,
+      "sources": [
+        {
+          "channel": "zhihu",
+          "rank": 2,
+          "hot": 0,
+          "url": ""
+        }
+      ],
+      "summary": "",
+      "url": ""
     },
     {
       "id": "evt-46000000",
@@ -127,65 +127,46 @@
       "url": "https://www.thepaper.cn/newsDetail_forward_33807884"
     },
     {
-      "id": "evt-50000000",
-      "title": "未来5年，优化医保便民这么干",
-      "category": "society",
-      "hotScore": 0.765,
+      "id": "evt-a0000000",
+      "title": "博主：A股市场不应该跟着外围市场走",
+      "category": "economy",
+      "hotScore": 0.5525,
       "freshness": 1,
       "crossSource": 0.6309,
-      "totalScore": 0.7953,
+      "totalScore": 0.7103,
       "sources": [
         {
           "channel": "toutiao",
-          "rank": 3,
-          "hot": 38701937,
-          "url": "https://www.toutiao.com/trending/7675628132103376410/"
+          "rank": 8,
+          "hot": 28442265,
+          "url": "https://www.toutiao.com/trending/7675683040038751790/"
         }
       ],
       "summary": "",
-      "url": "https://www.toutiao.com/trending/7675628132103376410/"
+      "url": "https://www.toutiao.com/trending/7675683040038751790/"
     },
     {
-      "id": "evt-13500000",
-      "title": "笔试前13名全淘汰 倒数5名全逆袭",
-      "category": "society",
-      "hotScore": 0.76,
+      "id": "evt-10000000",
+      "title": "宇树上市后，创始人身家超 1300 亿成 90 后首富，23 名员工成千万富豪，如何看待宇树的造富神话？",
+      "category": "economy",
+      "hotScore": 0.4875,
       "freshness": 1,
       "crossSource": 0.6309,
-      "totalScore": 0.7933,
+      "totalScore": 0.6843,
       "sources": [
         {
-          "channel": "baidu",
-          "rank": 2,
+          "channel": "zhihu",
+          "rank": 8,
           "hot": 0,
-          "url": "https://m.baidu.com/s?word=%E7%AC%94%E8%AF%95%E5%89%8D13%E5%90%8D%E5%85%A8%E6%B7%98%E6%B1%B0+%E5%80%92%E6%95%B05%E5%90%8D%E5%85%A8%E9%80%86%E8%A2%AD&sa=fyb_news"
+          "url": ""
         }
       ],
       "summary": "",
-      "url": "https://m.baidu.com/s?word=%E7%AC%94%E8%AF%95%E5%89%8D13%E5%90%8D%E5%85%A8%E6%B7%98%E6%B1%B0+%E5%80%92%E6%95%B05%E5%90%8D%E5%85%A8%E9%80%86%E8%A2%AD&sa=fyb_news"
+      "url": ""
     },
     {
-      "id": "evt-46030000",
-      "title": "宇树科技首日收涨460.34%",
-      "category": "society",
-      "hotScore": 0.68,
-      "freshness": 1,
-      "crossSource": 0.6309,
-      "totalScore": 0.7613,
-      "sources": [
-        {
-          "channel": "toutiao",
-          "rank": 5,
-          "hot": 31686466,
-          "url": "https://www.toutiao.com/trending/7675650435457224234/"
-        }
-      ],
-      "summary": "",
-      "url": "https://www.toutiao.com/trending/7675650435457224234/"
-    },
-    {
-      "id": "evt-20260000",
-      "title": "上海 2026 社保基数下限调整为 7546 元 / 月，平均工资首次突破 12500 元大关，哪些信息值得关注？",
+      "id": "evt-rtx50900",
+      "title": "转转回收 RTX5090 仅报 1.3 万元引网友热议，二手平台定价是否合理？",
       "category": "society",
       "hotScore": 0.6375,
       "freshness": 1,
@@ -203,8 +184,8 @@
       "url": ""
     },
     {
-      "id": "evt-rtx50900",
-      "title": "转转回收 RTX5090 仅报 1.3 万元引网友热议，二手平台定价是否合理？",
+      "id": "evt-deepseekharn",
+      "title": "DeepSeek Harness 轻松破了 GitHub 记录，它能引发一场什么革命？",
       "category": "society",
       "hotScore": 0.6,
       "freshness": 1,
@@ -222,80 +203,61 @@
       "url": ""
     },
     {
+      "id": "evt-13500000",
+      "title": "笔试前13名全淘汰 倒数5名全逆袭",
+      "category": "society",
+      "hotScore": 0.56,
+      "freshness": 1,
+      "crossSource": 0.6309,
+      "totalScore": 0.7133,
+      "sources": [
+        {
+          "channel": "baidu",
+          "rank": 7,
+          "hot": 0,
+          "url": "https://m.baidu.com/s?word=%E7%AC%94%E8%AF%95%E5%89%8D13%E5%90%8D%E5%85%A8%E6%B7%98%E6%B1%B0+%E5%80%92%E6%95%B05%E5%90%8D%E5%85%A8%E9%80%86%E8%A2%AD&sa=fyb_news"
+        }
+      ],
+      "summary": "",
+      "url": "https://m.baidu.com/s?word=%E7%AC%94%E8%AF%95%E5%89%8D13%E5%90%8D%E5%85%A8%E6%B7%98%E6%B1%B0+%E5%80%92%E6%95%B05%E5%90%8D%E5%85%A8%E9%80%86%E8%A2%AD&sa=fyb_news"
+    },
+    {
+      "id": "evt-39000000",
+      "title": "千名群众手持鲜花送别39岁儿科医生",
+      "category": "society",
+      "hotScore": 0.4675,
+      "freshness": 1,
+      "crossSource": 0.6309,
+      "totalScore": 0.6763,
+      "sources": [
+        {
+          "channel": "toutiao",
+          "rank": 10,
+          "hot": 23286557,
+          "url": "https://www.toutiao.com/trending/7674935263122653190/"
+        }
+      ],
+      "summary": "",
+      "url": "https://www.toutiao.com/trending/7674935263122653190/"
+    },
+    {
       "id": "evt-28300000",
       "title": "28家具身独角兽估值超3500亿元，谁是下一个宇树？",
       "category": "society",
-      "hotScore": 0.5525,
+      "hotScore": 0.4675,
       "freshness": 1,
       "crossSource": 0.6309,
-      "totalScore": 0.7103,
+      "totalScore": 0.6763,
       "sources": [
         {
           "channel": "thepaper",
-          "rank": 8,
+          "rank": 10,
           "hot": 0,
           "url": "https://www.thepaper.cn/newsDetail_forward_33591259"
         }
       ],
       "summary": "",
       "url": "https://www.thepaper.cn/newsDetail_forward_33591259"
-    },
-    {
-      "id": "evt-ai000000",
-      "title": "互联网大厂开始后悔搞 AI 了吗？",
-      "category": "society",
-      "hotScore": 0.525,
-      "freshness": 1,
-      "crossSource": 0.6309,
-      "totalScore": 0.6993,
-      "sources": [
-        {
-          "channel": "zhihu",
-          "rank": 7,
-          "hot": 0,
-          "url": ""
-        }
-      ],
-      "summary": "",
-      "url": ""
-    },
-    {
-      "id": "evt-90000000",
-      "title": "蟒蛇入户狂吃9只鸭子",
-      "category": "society",
-      "hotScore": 0.52,
-      "freshness": 1,
-      "crossSource": 0.6309,
-      "totalScore": 0.6973,
-      "sources": [
-        {
-          "channel": "baidu",
-          "rank": 8,
-          "hot": 0,
-          "url": "https://m.baidu.com/s?word=%E8%9F%92%E8%9B%87%E5%85%A5%E6%88%B7%E7%8B%82%E5%90%839%E5%8F%AA%E9%B8%AD%E5%AD%90&sa=fyb_news"
-        }
-      ],
-      "summary": "",
-      "url": "https://m.baidu.com/s?word=%E8%9F%92%E8%9B%87%E5%85%A5%E6%88%B7%E7%8B%82%E5%90%839%E5%8F%AA%E9%B8%AD%E5%AD%90&sa=fyb_news"
-    },
-    {
-      "id": "evt-03000000",
-      "title": "申花 0-3 国安后，一名身穿中国国家队武磊球衣的孩子与其父亲被极端申花球迷围住指责，你如何看待这件事情？",
-      "category": "society",
-      "hotScore": 0.4875,
-      "freshness": 1,
-      "crossSource": 0.6309,
-      "totalScore": 0.6843,
-      "sources": [
-        {
-          "channel": "zhihu",
-          "rank": 8,
-          "hot": 0,
-          "url": ""
-        }
-      ],
-      "summary": "",
-      "url": ""
     }
   ]
 }
