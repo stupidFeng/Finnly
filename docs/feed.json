@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-08-19T16:18:47.525Z",
+  "generatedAt": "2026-08-19T18:18:17.675Z",
   "fields": {
     "society": "社会",
     "economy": "经济",
@@ -10,15 +10,15 @@
       "id": "evt-00000000",
       "title": "大学生一个月给多少生活费合适",
       "category": "society",
-      "hotScore": 0.7225,
-      "freshness": 0.9999,
+      "hotScore": 0.64,
+      "freshness": 1,
       "crossSource": 1,
-      "totalScore": 0.889,
+      "totalScore": 0.856,
       "sources": [
         {
           "channel": "toutiao",
-          "rank": 4,
-          "hot": 53051693,
+          "rank": 17,
+          "hot": 14863415,
           "url": "https://www.toutiao.com/trending/7675733233962631231/"
         },
         {
@@ -70,30 +70,30 @@
       "url": "https://m.baidu.com/s?word=5%E4%B8%87%E4%BB%A5%E4%B8%8B%E7%9A%84%E7%87%83%E6%B2%B9%E8%BD%A6+%E6%AD%A3%E5%9C%A8%E8%A2%AB%E9%81%97%E5%BF%98&sa=fyb_news"
     },
     {
-      "id": "evt-20260000",
-      "title": "上海 2026 社保基数下限调整为 7546 元 / 月，平均工资首次突破 12500 元大关，哪些信息值得关注？",
+      "id": "evt-28300000",
+      "title": "28家具身独角兽估值超3500亿元，谁是下一个宇树？",
       "category": "society",
-      "hotScore": 0.7125,
-      "freshness": 0.9999,
+      "hotScore": 0.68,
+      "freshness": 1,
       "crossSource": 0.6309,
-      "totalScore": 0.7742,
+      "totalScore": 0.7613,
       "sources": [
         {
-          "channel": "zhihu",
-          "rank": 2,
+          "channel": "thepaper",
+          "rank": 5,
           "hot": 0,
-          "url": ""
+          "url": "https://www.thepaper.cn/newsDetail_forward_33591259"
         }
       ],
       "summary": "",
-      "url": ""
+      "url": "https://www.thepaper.cn/newsDetail_forward_33591259"
     },
     {
       "id": "evt-47460000",
       "title": "中一签赚47.46万！宇树科技开盘暴涨629.44%，总市值4449亿元",
       "category": "economy",
       "hotScore": 0.8075,
-      "freshness": 0.9999,
+      "freshness": 1,
       "crossSource": 0.6309,
       "totalScore": 0.8123,
       "sources": [
@@ -112,9 +112,9 @@
       "title": "宇树上市后，创始人身家超 1300 亿成 90 后首富，23 名员工成千万富豪，如何看待宇树的造富神话？",
       "category": "economy",
       "hotScore": 0.75,
-      "freshness": 0.9999,
+      "freshness": 1,
       "crossSource": 0.6309,
-      "totalScore": 0.7892,
+      "totalScore": 0.7893,
       "sources": [
         {
           "channel": "zhihu",
@@ -131,7 +131,7 @@
       "title": "财晓得｜市值3417亿元，宇树撑得起吗？",
       "category": "economy",
       "hotScore": 0.51,
-      "freshness": 0.9999,
+      "freshness": 1,
       "crossSource": 0.6309,
       "totalScore": 0.6933,
       "sources": [
@@ -146,32 +146,32 @@
       "url": "https://www.thepaper.cn/newsDetail_forward_33768776"
     },
     {
-      "id": "evt-28300000",
-      "title": "28家具身独角兽估值超3500亿元，谁是下一个宇树？",
-      "category": "society",
-      "hotScore": 0.68,
-      "freshness": 0.9999,
-      "crossSource": 0.6309,
-      "totalScore": 0.7613,
-      "sources": [
-        {
-          "channel": "thepaper",
-          "rank": 5,
-          "hot": 0,
-          "url": "https://www.thepaper.cn/newsDetail_forward_33591259"
-        }
-      ],
-      "summary": "",
-      "url": "https://www.thepaper.cn/newsDetail_forward_33591259"
-    },
-    {
       "id": "evt-deepseekharn",
       "title": "DeepSeek Harness 轻松破了 GitHub 记录，它能引发一场什么革命？",
       "category": "society",
-      "hotScore": 0.6375,
-      "freshness": 0.9999,
+      "hotScore": 0.675,
+      "freshness": 1,
       "crossSource": 0.6309,
-      "totalScore": 0.7442,
+      "totalScore": 0.7593,
+      "sources": [
+        {
+          "channel": "zhihu",
+          "rank": 3,
+          "hot": 0,
+          "url": ""
+        }
+      ],
+      "summary": "",
+      "url": ""
+    },
+    {
+      "id": "evt-30000000",
+      "title": "韩媒曝韩国足协曾性贿赂 3 名中国足协人士，中国足协回应已展开调查，哪些信息值得关注？",
+      "category": "society",
+      "hotScore": 0.6375,
+      "freshness": 1,
+      "crossSource": 0.6309,
+      "totalScore": 0.7443,
       "sources": [
         {
           "channel": "zhihu",
@@ -184,13 +184,13 @@
       "url": ""
     },
     {
-      "id": "evt-30000000",
-      "title": "韩媒曝韩国足协曾性贿赂 3 名中国足协人士，中国足协回应已展开调查，哪些信息值得关注？",
+      "id": "evt-20260000",
+      "title": "上海 2026 社保基数下限调整为 7546 元 / 月，平均工资首次突破 12500 元大关，哪些信息值得关注？",
       "category": "society",
       "hotScore": 0.6,
-      "freshness": 0.9999,
+      "freshness": 1,
       "crossSource": 0.6309,
-      "totalScore": 0.7292,
+      "totalScore": 0.7293,
       "sources": [
         {
           "channel": "zhihu",
@@ -207,7 +207,7 @@
       "title": "教师招聘笔试前13名落选、后5名进体检名单？佛山通报",
       "category": "society",
       "hotScore": 0.4675,
-      "freshness": 0.9999,
+      "freshness": 1,
       "crossSource": 0.6309,
       "totalScore": 0.6763,
       "sources": [
