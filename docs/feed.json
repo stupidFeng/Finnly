@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-08-18T22:11:30.986Z",
+  "generatedAt": "2026-08-19T00:37:58.227Z",
   "fields": {
     "society": "社会",
     "economy": "经济",
@@ -8,28 +8,28 @@
   "feed": [
     {
       "id": "evt-00000000",
-      "title": "朱镕基同志生平",
+      "title": "杭州酒局事件赵某峰郁某栋被刑拘",
       "category": "society",
-      "hotScore": 0.85,
+      "hotScore": 0.7225,
       "freshness": 0.9999,
       "crossSource": 1,
-      "totalScore": 0.94,
+      "totalScore": 0.889,
       "sources": [
         {
           "channel": "toutiao",
-          "rank": 1,
-          "hot": 56393491,
-          "url": "https://www.toutiao.com/trending/7675264490950102571/"
+          "rank": 11,
+          "hot": 10610268,
+          "url": "https://www.toutiao.com/trending/7674909815030120454/"
         },
         {
           "channel": "thepaper",
-          "rank": 3,
+          "rank": 4,
           "hot": 0,
-          "url": "https://www.thepaper.cn/newsDetail_forward_33804727"
+          "url": "https://www.thepaper.cn/newsDetail_forward_33804981"
         }
       ],
       "summary": "",
-      "url": "https://www.toutiao.com/trending/7675264490950102571/"
+      "url": "https://www.toutiao.com/trending/7674909815030120454/"
     },
     {
       "id": "evt-60000000",
@@ -43,7 +43,7 @@
         {
           "channel": "toutiao",
           "rank": 3,
-          "hot": 46171086,
+          "hot": 23613586,
           "url": "https://www.toutiao.com/trending/7674980928562626611/"
         }
       ],
@@ -51,36 +51,55 @@
       "url": "https://www.toutiao.com/trending/7674980928562626611/"
     },
     {
-      "id": "evt-90000000",
-      "title": "9部门发文活跃县域消费",
+      "id": "evt-40000000",
+      "title": "英国耗资4亿英镑新建“超级监狱”",
       "category": "society",
-      "hotScore": 0.595,
-      "freshness": 1,
+      "hotScore": 0.68,
+      "freshness": 0.9999,
       "crossSource": 0.6309,
-      "totalScore": 0.7273,
+      "totalScore": 0.7613,
       "sources": [
         {
-          "channel": "thepaper",
-          "rank": 7,
-          "hot": 0,
-          "url": "https://www.thepaper.cn/newsDetail_forward_33803518"
+          "channel": "toutiao",
+          "rank": 5,
+          "hot": 19333169,
+          "url": "https://www.toutiao.com/trending/7674246744843862052/"
         }
       ],
       "summary": "",
-      "url": "https://www.thepaper.cn/newsDetail_forward_33803518"
+      "url": "https://www.toutiao.com/trending/7674246744843862052/"
     },
     {
-      "id": "evt-41000000",
-      "title": "小熊电器净利暴跌 41%，那些曾风靡一时的网红小家电为何集体「吃灰」？大家的消费选择发生了怎样的变化？",
+      "id": "evt-84436000",
+      "title": "近844克黄金被扣押36年续：烟台中院驳回赔偿申请，当事人称将向山东高院申诉",
       "category": "society",
-      "hotScore": 0.5625,
+      "hotScore": 0.68,
       "freshness": 1,
       "crossSource": 0.6309,
-      "totalScore": 0.7143,
+      "totalScore": 0.7613,
+      "sources": [
+        {
+          "channel": "thepaper",
+          "rank": 5,
+          "hot": 0,
+          "url": "https://www.thepaper.cn/newsDetail_forward_33805418"
+        }
+      ],
+      "summary": "",
+      "url": "https://www.thepaper.cn/newsDetail_forward_33805418"
+    },
+    {
+      "id": "evt-10000000",
+      "title": "小米集团第二季度总收入 1089 亿元，经调整净利润 62 亿元，如何评价其业绩表现？",
+      "category": "economy",
+      "hotScore": 0.6,
+      "freshness": 0.9999,
+      "crossSource": 0.6309,
+      "totalScore": 0.7293,
       "sources": [
         {
           "channel": "zhihu",
-          "rank": 6,
+          "rank": 5,
           "hot": 0,
           "url": ""
         }
@@ -89,11 +108,30 @@
       "url": ""
     },
     {
-      "id": "evt-10000000",
-      "title": "小米集团第二季度总收入 1089 亿元，经调整净利润 62 亿元，如何评价其业绩表现？",
+      "id": "evt-25000000",
+      "title": "25 年来最贵美债横空出世，美联储没加息，市场却完成一轮「被动加息」，有何影响？美债收益率为何飙升？",
       "category": "economy",
+      "hotScore": 0.4875,
+      "freshness": 0.9999,
+      "crossSource": 0.6309,
+      "totalScore": 0.6843,
+      "sources": [
+        {
+          "channel": "zhihu",
+          "rank": 8,
+          "hot": 0,
+          "url": ""
+        }
+      ],
+      "summary": "",
+      "url": ""
+    },
+    {
+      "id": "evt-41000000",
+      "title": "小熊电器净利暴跌 41%，那些曾风靡一时的网红小家电为何集体「吃灰」？大家的消费选择发生了怎样的变化？",
+      "category": "society",
       "hotScore": 0.675,
-      "freshness": 1,
+      "freshness": 0.9999,
       "crossSource": 0.6309,
       "totalScore": 0.7593,
       "sources": [
@@ -108,36 +146,93 @@
       "url": ""
     },
     {
-      "id": "evt-75000000",
-      "title": "75岁王石再创业",
+      "id": "evt-52000000",
+      "title": "微信开放520大额红包 限时一天",
+      "category": "society",
+      "hotScore": 0.64,
+      "freshness": 1,
+      "crossSource": 0.6309,
+      "totalScore": 0.7453,
+      "sources": [
+        {
+          "channel": "baidu",
+          "rank": 5,
+          "hot": 0,
+          "url": "https://m.baidu.com/s?word=%E5%BE%AE%E4%BF%A1%E5%BC%80%E6%94%BE520%E5%A4%A7%E9%A2%9D%E7%BA%A2%E5%8C%85+%E9%99%90%E6%97%B6%E4%B8%80%E5%A4%A9&sa=fyb_news"
+        }
+      ],
+      "summary": "",
+      "url": "https://m.baidu.com/s?word=%E5%BE%AE%E4%BF%A1%E5%BC%80%E6%94%BE520%E5%A4%A7%E9%A2%9D%E7%BA%A2%E5%8C%85+%E9%99%90%E6%97%B6%E4%B8%80%E5%A4%A9&sa=fyb_news"
+    },
+    {
+      "id": "evt-37000000",
+      "title": "如何评价网传消息「3700 均订起点作者因使用 AI 被斩杀」？",
+      "category": "society",
+      "hotScore": 0.6375,
+      "freshness": 0.9999,
+      "crossSource": 0.6309,
+      "totalScore": 0.7443,
+      "sources": [
+        {
+          "channel": "zhihu",
+          "rank": 4,
+          "hot": 0,
+          "url": ""
+        }
+      ],
+      "summary": "",
+      "url": ""
+    },
+    {
+      "id": "evt-99000000",
+      "title": "金枕榴莲也进入9.9元时代了",
+      "category": "society",
+      "hotScore": 0.6,
+      "freshness": 1,
+      "crossSource": 0.6309,
+      "totalScore": 0.7293,
+      "sources": [
+        {
+          "channel": "baidu",
+          "rank": 6,
+          "hot": 0,
+          "url": "https://m.baidu.com/s?word=%E9%87%91%E6%9E%95%E6%A6%B4%E8%8E%B2%E4%B9%9F%E8%BF%9B%E5%85%A59.9%E5%85%83%E6%97%B6%E4%BB%A3%E4%BA%86&sa=fyb_news"
+        }
+      ],
+      "summary": "",
+      "url": "https://m.baidu.com/s?word=%E9%87%91%E6%9E%95%E6%A6%B4%E8%8E%B2%E4%B9%9F%E8%BF%9B%E5%85%A59.9%E5%85%83%E6%97%B6%E4%BB%A3%E4%BA%86&sa=fyb_news"
+    },
+    {
+      "id": "evt-90000000",
+      "title": "9部门发文活跃县域消费",
       "category": "society",
       "hotScore": 0.5525,
-      "freshness": 0.9999,
+      "freshness": 1,
       "crossSource": 0.6309,
       "totalScore": 0.7103,
       "sources": [
         {
-          "channel": "toutiao",
+          "channel": "thepaper",
           "rank": 8,
-          "hot": 28004179,
-          "url": "https://www.toutiao.com/trending/7674608437980024361/"
+          "hot": 0,
+          "url": "https://www.thepaper.cn/newsDetail_forward_33803518"
         }
       ],
       "summary": "",
-      "url": "https://www.toutiao.com/trending/7674608437980024361/"
+      "url": "https://www.thepaper.cn/newsDetail_forward_33803518"
     },
     {
       "id": "evt-80000000",
       "title": "天蚕土豆新书更新 8 天吸流 1100 多万，这是成功了吗？",
       "category": "society",
-      "hotScore": 0.4875,
-      "freshness": 1,
+      "hotScore": 0.45,
+      "freshness": 0.9999,
       "crossSource": 0.6309,
-      "totalScore": 0.6843,
+      "totalScore": 0.6693,
       "sources": [
         {
           "channel": "zhihu",
-          "rank": 8,
+          "rank": 9,
           "hot": 0,
           "url": ""
         }
