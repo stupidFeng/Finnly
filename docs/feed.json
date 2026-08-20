@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-08-20T04:26:15.118Z",
+  "generatedAt": "2026-08-20T06:26:08.716Z",
   "fields": {
     "society": "社会",
     "economy": "经济",
@@ -8,47 +8,28 @@
   "feed": [
     {
       "id": "evt-00000000",
-      "title": "恒大集团、恒大地产等案一审宣判，许家印被判处无期徒刑，哪些信息值得关注？",
-      "category": "society",
-      "hotScore": 0.6,
-      "freshness": 0.9999,
-      "crossSource": 1,
-      "totalScore": 0.84,
-      "sources": [
-        {
-          "channel": "thepaper",
-          "rank": 18,
-          "hot": 0,
-          "url": "https://www.thepaper.cn/newsDetail_forward_33816463"
-        },
-        {
-          "channel": "zhihu",
-          "rank": 5,
-          "hot": 0,
-          "url": ""
-        }
-      ],
-      "summary": "",
-      "url": "https://www.thepaper.cn/newsDetail_forward_33816463"
-    },
-    {
-      "id": "evt-13000000",
-      "title": "马上评｜淘汰笔试前13名，公平不能被“内部评议”架空",
+      "title": "金与正：日若军事扩张将遭毁灭性打击",
       "category": "society",
       "hotScore": 0.7225,
       "freshness": 0.9999,
-      "crossSource": 0.6309,
-      "totalScore": 0.7783,
+      "crossSource": 1,
+      "totalScore": 0.889,
       "sources": [
         {
-          "channel": "thepaper",
+          "channel": "toutiao",
           "rank": 4,
+          "hot": 61583161,
+          "url": "https://www.toutiao.com/trending/7675676310731702315/"
+        },
+        {
+          "channel": "baidu",
+          "rank": 8,
           "hot": 0,
-          "url": "https://www.thepaper.cn/newsDetail_forward_33812462"
+          "url": "https://m.baidu.com/s?word=%E9%87%91%E4%B8%8E%E6%AD%A3%EF%BC%9A%E6%97%A5%E8%8B%A5%E5%86%9B%E4%BA%8B%E6%89%A9%E5%BC%A0%E5%B0%86%E9%81%AD%E6%AF%81%E7%81%AD%E6%80%A7%E6%89%93%E5%87%BB&sa=fyb_news"
         }
       ],
       "summary": "",
-      "url": "https://www.thepaper.cn/newsDetail_forward_33812462"
+      "url": "https://www.toutiao.com/trending/7675676310731702315/"
     },
     {
       "id": "evt-15000000",
@@ -57,7 +38,7 @@
       "hotScore": 0.7125,
       "freshness": 0.9999,
       "crossSource": 0.6309,
-      "totalScore": 0.7743,
+      "totalScore": 0.7742,
       "sources": [
         {
           "channel": "zhihu",
@@ -70,36 +51,99 @@
       "url": ""
     },
     {
-      "id": "evt-12306230",
-      "title": "12306回应2人买3座是否有处置权",
+      "id": "evt-nfc00000",
+      "title": "一次性讲透NFC果汁选购误区",
+      "category": "society",
+      "hotScore": 0.425,
+      "freshness": 0.9999,
+      "crossSource": 1,
+      "totalScore": 0.77,
+      "sources": [
+        {
+          "channel": "toutiao",
+          "rank": 11,
+          "hot": 30581293,
+          "url": "https://www.toutiao.com/trending/7675283482893140031/"
+        },
+        {
+          "channel": "baidu",
+          "rank": 12,
+          "hot": 0,
+          "url": "https://m.baidu.com/s?word=%E4%B8%80%E6%AC%A1%E6%80%A7%E8%AE%B2%E9%80%8FNFC%E6%9E%9C%E6%B1%81%E9%80%89%E8%B4%AD%E8%AF%AF%E5%8C%BA&sa=fyb_news"
+        }
+      ],
+      "summary": "",
+      "url": "https://www.toutiao.com/trending/7675283482893140031/"
+    },
+    {
+      "id": "evt-13000000",
+      "title": "马上评｜淘汰笔试前13名，公平不能被“内部评议”架空",
       "category": "society",
       "hotScore": 0.6375,
-      "freshness": 0.9999,
+      "freshness": 1,
       "crossSource": 0.6309,
       "totalScore": 0.7443,
       "sources": [
         {
-          "channel": "toutiao",
+          "channel": "thepaper",
           "rank": 6,
-          "hot": 46859235,
-          "url": "https://www.toutiao.com/trending/7675642000821895187/"
+          "hot": 0,
+          "url": "https://www.thepaper.cn/newsDetail_forward_33812462"
         }
       ],
       "summary": "",
-      "url": "https://www.toutiao.com/trending/7675642000821895187/"
+      "url": "https://www.thepaper.cn/newsDetail_forward_33812462"
+    },
+    {
+      "id": "evt-20000000",
+      "title": "宇树上市第2天王兴兴最新发声",
+      "category": "economy",
+      "hotScore": 0.595,
+      "freshness": 0.9999,
+      "crossSource": 0.6309,
+      "totalScore": 0.7272,
+      "sources": [
+        {
+          "channel": "toutiao",
+          "rank": 7,
+          "hot": 45621928,
+          "url": "https://www.toutiao.com/trending/7675571296320258098/"
+        }
+      ],
+      "summary": "",
+      "url": "https://www.toutiao.com/trending/7675571296320258098/"
+    },
+    {
+      "id": "evt-moderna1",
+      "title": "Moderna 股价暴涨 177%，创三年半来新高，mRNA 癌症疫苗三期临床达成终点，本次突破含金量多大？",
+      "category": "economy",
+      "hotScore": 0.525,
+      "freshness": 0.9999,
+      "crossSource": 0.6309,
+      "totalScore": 0.6992,
+      "sources": [
+        {
+          "channel": "zhihu",
+          "rank": 7,
+          "hot": 0,
+          "url": ""
+        }
+      ],
+      "summary": "",
+      "url": ""
     },
     {
       "id": "evt-34170000",
       "title": "财晓得｜市值3417亿元，宇树撑得起吗？",
       "category": "economy",
-      "hotScore": 0.51,
-      "freshness": 0.9999,
+      "hotScore": 0.4675,
+      "freshness": 1,
       "crossSource": 0.6309,
-      "totalScore": 0.6933,
+      "totalScore": 0.6763,
       "sources": [
         {
           "channel": "thepaper",
-          "rank": 9,
+          "rank": 10,
           "hot": 0,
           "url": "https://www.thepaper.cn/newsDetail_forward_33768776"
         }
@@ -108,13 +152,32 @@
       "url": "https://www.thepaper.cn/newsDetail_forward_33768776"
     },
     {
-      "id": "evt-50000000",
-      "title": "武汉一程序员坚持 5 年远距离通勤，每日往返 150 公里通勤 5 小时，称想「多陪陪妻女」，你会这样选择吗？",
+      "id": "evt-70000000",
+      "title": "7岁小女孩两次给路过解放军送苹果",
       "category": "society",
       "hotScore": 0.6375,
       "freshness": 0.9999,
       "crossSource": 0.6309,
-      "totalScore": 0.7443,
+      "totalScore": 0.7442,
+      "sources": [
+        {
+          "channel": "toutiao",
+          "rank": 6,
+          "hot": 50420028,
+          "url": "https://www.toutiao.com/trending/7675322536968585279/"
+        }
+      ],
+      "summary": "",
+      "url": "https://www.toutiao.com/trending/7675322536968585279/"
+    },
+    {
+      "id": "evt-mr000000",
+      "title": "癌症疫苗真的来了？首个 mRNA 疫苗联合 K 药在黑色素瘤辅助治疗中优于 K 药单药，意味着什么？",
+      "category": "society",
+      "hotScore": 0.6375,
+      "freshness": 0.9999,
+      "crossSource": 0.6309,
+      "totalScore": 0.7442,
       "sources": [
         {
           "channel": "zhihu",
@@ -127,42 +190,42 @@
       "url": ""
     },
     {
-      "id": "evt-11000000",
-      "title": "1次出游误闯10余个直播间",
+      "id": "evt-12306230",
+      "title": "12306回应2人买3座是否有处置权",
       "category": "society",
-      "hotScore": 0.6,
-      "freshness": 1,
+      "hotScore": 0.51,
+      "freshness": 0.9999,
       "crossSource": 0.6309,
-      "totalScore": 0.7293,
+      "totalScore": 0.6932,
+      "sources": [
+        {
+          "channel": "toutiao",
+          "rank": 9,
+          "hot": 37352075,
+          "url": "https://www.toutiao.com/trending/7675642000821895187/"
+        }
+      ],
+      "summary": "",
+      "url": "https://www.toutiao.com/trending/7675642000821895187/"
+    },
+    {
+      "id": "evt-99000000",
+      "title": "宇树发布新产品 售价9900元起",
+      "category": "society",
+      "hotScore": 0.44,
+      "freshness": 0.9999,
+      "crossSource": 0.6309,
+      "totalScore": 0.6653,
       "sources": [
         {
           "channel": "baidu",
-          "rank": 6,
+          "rank": 10,
           "hot": 0,
-          "url": "https://m.baidu.com/s?word=1%E6%AC%A1%E5%87%BA%E6%B8%B8%E8%AF%AF%E9%97%AF10%E4%BD%99%E4%B8%AA%E7%9B%B4%E6%92%AD%E9%97%B4&sa=fyb_news"
+          "url": "https://m.baidu.com/s?word=%E5%AE%87%E6%A0%91%E5%8F%91%E5%B8%83%E6%96%B0%E4%BA%A7%E5%93%81+%E5%94%AE%E4%BB%B79900%E5%85%83%E8%B5%B7&sa=fyb_news"
         }
       ],
       "summary": "",
-      "url": "https://m.baidu.com/s?word=1%E6%AC%A1%E5%87%BA%E6%B8%B8%E8%AF%AF%E9%97%AF10%E4%BD%99%E4%B8%AA%E7%9B%B4%E6%92%AD%E9%97%B4&sa=fyb_news"
-    },
-    {
-      "id": "evt-d0000000",
-      "title": "那些把软件放 D 盘的人是出于什么目的考虑的？",
-      "category": "society",
-      "hotScore": 0.4875,
-      "freshness": 0.9999,
-      "crossSource": 0.6309,
-      "totalScore": 0.6843,
-      "sources": [
-        {
-          "channel": "zhihu",
-          "rank": 8,
-          "hot": 0,
-          "url": ""
-        }
-      ],
-      "summary": "",
-      "url": ""
+      "url": "https://m.baidu.com/s?word=%E5%AE%87%E6%A0%91%E5%8F%91%E5%B8%83%E6%96%B0%E4%BA%A7%E5%93%81+%E5%94%AE%E4%BB%B79900%E5%85%83%E8%B5%B7&sa=fyb_news"
     }
   ]
 }
