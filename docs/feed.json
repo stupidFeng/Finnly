@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-08-19T22:13:47.310Z",
+  "generatedAt": "2026-08-20T00:37:56.912Z",
   "fields": {
     "society": "社会",
     "economy": "经济",
@@ -8,35 +8,54 @@
   "feed": [
     {
       "id": "evt-00000000",
-      "title": "大学生一个月给多少生活费合适",
+      "title": "北大报到日校园满是扛床垫的爸",
       "category": "society",
-      "hotScore": 0.68,
-      "freshness": 1,
+      "hotScore": 0.64,
+      "freshness": 0.9999,
       "crossSource": 1,
-      "totalScore": 0.872,
+      "totalScore": 0.856,
       "sources": [
         {
           "channel": "toutiao",
-          "rank": 5,
-          "hot": 51690287,
-          "url": "https://www.toutiao.com/trending/7675733233962631231/"
+          "rank": 10,
+          "hot": 33846804,
+          "url": "https://www.toutiao.com/trending/7675285820756721707/"
         },
         {
           "channel": "baidu",
           "rank": 5,
           "hot": 0,
-          "url": "https://m.baidu.com/s?word=%E5%A4%A7%E5%AD%A6%E7%94%9F%E4%B8%80%E4%B8%AA%E6%9C%88%E7%BB%99%E5%A4%9A%E5%B0%91%E7%94%9F%E6%B4%BB%E8%B4%B9%E5%90%88%E9%80%82&sa=fyb_news"
+          "url": "https://m.baidu.com/s?word=%E5%8C%97%E5%A4%A7%E6%8A%A5%E5%88%B0%E6%97%A5%E6%A0%A1%E5%9B%AD%E6%BB%A1%E6%98%AF%E6%89%9B%E5%BA%8A%E5%9E%AB%E7%9A%84%E7%88%B8&sa=fyb_news"
         }
       ],
       "summary": "",
-      "url": "https://www.toutiao.com/trending/7675733233962631231/"
+      "url": "https://www.toutiao.com/trending/7675285820756721707/"
     },
     {
-      "id": "evt-98500000",
-      "title": "985大学开在县城 考进大山了",
+      "id": "evt-12306230",
+      "title": "12306回应2人买3座是否有处置权",
+      "category": "society",
+      "hotScore": 0.85,
+      "freshness": 0.9999,
+      "crossSource": 0.6309,
+      "totalScore": 0.8293,
+      "sources": [
+        {
+          "channel": "toutiao",
+          "rank": 1,
+          "hot": 83249704,
+          "url": "https://www.toutiao.com/trending/7675642000821895187/"
+        }
+      ],
+      "summary": "",
+      "url": "https://www.toutiao.com/trending/7675642000821895187/"
+    },
+    {
+      "id": "evt-12306000",
+      "title": "12306回应买票放零食这座位能让吗",
       "category": "society",
       "hotScore": 0.76,
-      "freshness": 1,
+      "freshness": 0.9999,
       "crossSource": 0.6309,
       "totalScore": 0.7933,
       "sources": [
@@ -44,43 +63,24 @@
           "channel": "baidu",
           "rank": 2,
           "hot": 0,
-          "url": "https://m.baidu.com/s?word=985%E5%A4%A7%E5%AD%A6%E5%BC%80%E5%9C%A8%E5%8E%BF%E5%9F%8E+%E8%80%83%E8%BF%9B%E5%A4%A7%E5%B1%B1%E4%BA%86&sa=fyb_news"
+          "url": "https://m.baidu.com/s?word=12306%E5%9B%9E%E5%BA%94%E4%B9%B0%E7%A5%A8%E6%94%BE%E9%9B%B6%E9%A3%9F%E8%BF%99%E5%BA%A7%E4%BD%8D%E8%83%BD%E8%AE%A9%E5%90%97&sa=fyb_news"
         }
       ],
       "summary": "",
-      "url": "https://m.baidu.com/s?word=985%E5%A4%A7%E5%AD%A6%E5%BC%80%E5%9C%A8%E5%8E%BF%E5%9F%8E+%E8%80%83%E8%BF%9B%E5%A4%A7%E5%B1%B1%E4%BA%86&sa=fyb_news"
-    },
-    {
-      "id": "evt-50000000",
-      "title": "5万以下的燃油车 正在被遗忘",
-      "category": "society",
-      "hotScore": 0.72,
-      "freshness": 1,
-      "crossSource": 0.6309,
-      "totalScore": 0.7773,
-      "sources": [
-        {
-          "channel": "baidu",
-          "rank": 3,
-          "hot": 0,
-          "url": "https://m.baidu.com/s?word=5%E4%B8%87%E4%BB%A5%E4%B8%8B%E7%9A%84%E7%87%83%E6%B2%B9%E8%BD%A6+%E6%AD%A3%E5%9C%A8%E8%A2%AB%E9%81%97%E5%BF%98&sa=fyb_news"
-        }
-      ],
-      "summary": "",
-      "url": "https://m.baidu.com/s?word=5%E4%B8%87%E4%BB%A5%E4%B8%8B%E7%9A%84%E7%87%83%E6%B2%B9%E8%BD%A6+%E6%AD%A3%E5%9C%A8%E8%A2%AB%E9%81%97%E5%BF%98&sa=fyb_news"
+      "url": "https://m.baidu.com/s?word=12306%E5%9B%9E%E5%BA%94%E4%B9%B0%E7%A5%A8%E6%94%BE%E9%9B%B6%E9%A3%9F%E8%BF%99%E5%BA%A7%E4%BD%8D%E8%83%BD%E8%AE%A9%E5%90%97&sa=fyb_news"
     },
     {
       "id": "evt-10000000",
       "title": "王星案跨境人口贩卖集团 17 名犯罪嫌疑人被提起公诉，涉嫌拐卖妇女罪、绑架罪等，他们将面临怎样的判罚？",
       "category": "society",
-      "hotScore": 0.675,
-      "freshness": 1,
+      "hotScore": 0.7125,
+      "freshness": 0.9999,
       "crossSource": 0.6309,
-      "totalScore": 0.7593,
+      "totalScore": 0.7743,
       "sources": [
         {
           "channel": "zhihu",
-          "rank": 3,
+          "rank": 2,
           "hot": 0,
           "url": ""
         }
@@ -92,14 +92,14 @@
       "id": "evt-47460000",
       "title": "中一签赚47.46万！宇树科技开盘暴涨629.44%，总市值4449亿元",
       "category": "economy",
-      "hotScore": 0.8075,
+      "hotScore": 0.765,
       "freshness": 1,
       "crossSource": 0.6309,
-      "totalScore": 0.8123,
+      "totalScore": 0.7953,
       "sources": [
         {
           "channel": "thepaper",
-          "rank": 2,
+          "rank": 3,
           "hot": 0,
           "url": "https://www.thepaper.cn/newsDetail_forward_33807884"
         }
@@ -108,36 +108,93 @@
       "url": "https://www.thepaper.cn/newsDetail_forward_33807884"
     },
     {
+      "id": "evt-34170000",
+      "title": "财晓得｜市值3417亿元，宇树撑得起吗？",
+      "category": "economy",
+      "hotScore": 0.425,
+      "freshness": 1,
+      "crossSource": 0.6309,
+      "totalScore": 0.6593,
+      "sources": [
+        {
+          "channel": "thepaper",
+          "rank": 11,
+          "hot": 0,
+          "url": "https://www.thepaper.cn/newsDetail_forward_33768776"
+        }
+      ],
+      "summary": "",
+      "url": "https://www.thepaper.cn/newsDetail_forward_33768776"
+    },
+    {
       "id": "evt-13000000",
-      "title": "官方通报笔试前13名淘汰倒数5名逆袭",
+      "title": "马上评｜淘汰笔试前13名，公平不能被“内部评议”架空",
+      "category": "society",
+      "hotScore": 0.68,
+      "freshness": 1,
+      "crossSource": 0.6309,
+      "totalScore": 0.7613,
+      "sources": [
+        {
+          "channel": "thepaper",
+          "rank": 5,
+          "hot": 0,
+          "url": "https://www.thepaper.cn/newsDetail_forward_33812462"
+        }
+      ],
+      "summary": "",
+      "url": "https://www.thepaper.cn/newsDetail_forward_33812462"
+    },
+    {
+      "id": "evt-81900000",
+      "title": "如何看待 8 月 19 日长江存储完成 IPO 辅导验收，「最快速度」冲刺 A 股？",
       "category": "society",
       "hotScore": 0.6375,
-      "freshness": 1,
+      "freshness": 0.9999,
       "crossSource": 0.6309,
       "totalScore": 0.7443,
       "sources": [
         {
-          "channel": "toutiao",
-          "rank": 6,
-          "hot": 46771306,
-          "url": "https://www.toutiao.com/trending/7675667566118833710/"
+          "channel": "zhihu",
+          "rank": 4,
+          "hot": 0,
+          "url": ""
         }
       ],
       "summary": "",
-      "url": "https://www.toutiao.com/trending/7675667566118833710/"
+      "url": ""
     },
     {
-      "id": "evt-30000000",
-      "title": "韩媒曝韩国足协曾性贿赂 3 名中国足协人士，中国足协回应已展开调查，哪些信息值得关注？",
+      "id": "evt-ipo00000",
+      "title": "宇树IPO盛宴背后",
       "category": "society",
-      "hotScore": 0.6,
-      "freshness": 1,
+      "hotScore": 0.595,
+      "freshness": 0.9999,
       "crossSource": 0.6309,
-      "totalScore": 0.7293,
+      "totalScore": 0.7273,
+      "sources": [
+        {
+          "channel": "toutiao",
+          "rank": 7,
+          "hot": 45688406,
+          "url": "https://www.toutiao.com/trending/7675852605368602118/"
+        }
+      ],
+      "summary": "",
+      "url": "https://www.toutiao.com/trending/7675852605368602118/"
+    },
+    {
+      "id": "evt-50000000",
+      "title": "武汉一程序员坚持 5 年远距离通勤，每日往返 150 公里通勤 5 小时，称想「多陪陪妻女」，你会这样选择吗？",
+      "category": "society",
+      "hotScore": 0.5625,
+      "freshness": 0.9999,
+      "crossSource": 0.6309,
+      "totalScore": 0.7143,
       "sources": [
         {
           "channel": "zhihu",
-          "rank": 5,
+          "rank": 6,
           "hot": 0,
           "url": ""
         }
@@ -163,44 +220,6 @@
       ],
       "summary": "",
       "url": "https://www.thepaper.cn/newsDetail_forward_33591259"
-    },
-    {
-      "id": "evt-80000000",
-      "title": "人民日报：腐败案“两个80%”的警示",
-      "category": "society",
-      "hotScore": 0.51,
-      "freshness": 1,
-      "crossSource": 0.6309,
-      "totalScore": 0.6933,
-      "sources": [
-        {
-          "channel": "toutiao",
-          "rank": 9,
-          "hot": 34649036,
-          "url": "https://www.toutiao.com/trending/7675325636307664934/"
-        }
-      ],
-      "summary": "",
-      "url": "https://www.toutiao.com/trending/7675325636307664934/"
-    },
-    {
-      "id": "evt-deepseekharn",
-      "title": "DeepSeek Harness 五天超越 151k star，它能引发一场什么革命？",
-      "category": "society",
-      "hotScore": 0.4875,
-      "freshness": 1,
-      "crossSource": 0.6309,
-      "totalScore": 0.6843,
-      "sources": [
-        {
-          "channel": "zhihu",
-          "rank": 8,
-          "hot": 0,
-          "url": ""
-        }
-      ],
-      "summary": "",
-      "url": ""
     }
   ]
 }
