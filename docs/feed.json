@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-08-20T06:26:08.716Z",
+  "generatedAt": "2026-08-20T08:25:09.718Z",
   "fields": {
     "society": "社会",
     "economy": "经济",
@@ -7,42 +7,55 @@
   },
   "feed": [
     {
-      "id": "evt-00000000",
-      "title": "金与正：日若军事扩张将遭毁灭性打击",
+      "id": "evt-10000000",
+      "title": "老人在胖东来买馒头少给1个赔200元",
       "category": "society",
-      "hotScore": 0.7225,
-      "freshness": 0.9999,
-      "crossSource": 1,
-      "totalScore": 0.889,
+      "hotScore": 0.85,
+      "freshness": 1,
+      "crossSource": 0.6309,
+      "totalScore": 0.8293,
       "sources": [
         {
           "channel": "toutiao",
-          "rank": 4,
-          "hot": 61583161,
-          "url": "https://www.toutiao.com/trending/7675676310731702315/"
-        },
-        {
-          "channel": "baidu",
-          "rank": 8,
-          "hot": 0,
-          "url": "https://m.baidu.com/s?word=%E9%87%91%E4%B8%8E%E6%AD%A3%EF%BC%9A%E6%97%A5%E8%8B%A5%E5%86%9B%E4%BA%8B%E6%89%A9%E5%BC%A0%E5%B0%86%E9%81%AD%E6%AF%81%E7%81%AD%E6%80%A7%E6%89%93%E5%87%BB&sa=fyb_news"
+          "rank": 1,
+          "hot": 58637716,
+          "url": "https://www.toutiao.com/trending/7674956653511098431/"
         }
       ],
       "summary": "",
-      "url": "https://www.toutiao.com/trending/7675676310731702315/"
+      "url": "https://www.toutiao.com/trending/7674956653511098431/"
+    },
+    {
+      "id": "evt-00000000",
+      "title": "接连有博物馆展览文字出错，国家文物局：即知即改、审核不得外包",
+      "category": "society",
+      "hotScore": 0.85,
+      "freshness": 1,
+      "crossSource": 0.6309,
+      "totalScore": 0.8293,
+      "sources": [
+        {
+          "channel": "thepaper",
+          "rank": 1,
+          "hot": 0,
+          "url": "https://www.thepaper.cn/newsDetail_forward_33812178"
+        }
+      ],
+      "summary": "",
+      "url": "https://www.thepaper.cn/newsDetail_forward_33812178"
     },
     {
       "id": "evt-15000000",
       "title": "《黑神话：钟馗》发布 15 分钟实机演示视频，有哪些细节设计值得关注？",
       "category": "society",
-      "hotScore": 0.7125,
-      "freshness": 0.9999,
+      "hotScore": 0.75,
+      "freshness": 1,
       "crossSource": 0.6309,
-      "totalScore": 0.7742,
+      "totalScore": 0.7893,
       "sources": [
         {
           "channel": "zhihu",
-          "rank": 2,
+          "rank": 1,
           "hot": 0,
           "url": ""
         }
@@ -51,18 +64,75 @@
       "url": ""
     },
     {
+      "id": "evt-13000000",
+      "title": "马上评｜淘汰笔试前13名，公平不能被“内部评议”架空",
+      "category": "society",
+      "hotScore": 0.7225,
+      "freshness": 1,
+      "crossSource": 0.6309,
+      "totalScore": 0.7783,
+      "sources": [
+        {
+          "channel": "thepaper",
+          "rank": 4,
+          "hot": 0,
+          "url": "https://www.thepaper.cn/newsDetail_forward_33812462"
+        }
+      ],
+      "summary": "",
+      "url": "https://www.thepaper.cn/newsDetail_forward_33812462"
+    },
+    {
+      "id": "evt-20000000",
+      "title": "宇树上市第2天王兴兴最新发声",
+      "category": "economy",
+      "hotScore": 0.8075,
+      "freshness": 1,
+      "crossSource": 0.6309,
+      "totalScore": 0.8123,
+      "sources": [
+        {
+          "channel": "toutiao",
+          "rank": 2,
+          "hot": 53057599,
+          "url": "https://www.toutiao.com/trending/7675571296320258098/"
+        }
+      ],
+      "summary": "",
+      "url": "https://www.toutiao.com/trending/7675571296320258098/"
+    },
+    {
+      "id": "evt-34170000",
+      "title": "财晓得｜市值3417亿元，宇树撑得起吗？",
+      "category": "economy",
+      "hotScore": 0.5525,
+      "freshness": 1,
+      "crossSource": 0.6309,
+      "totalScore": 0.7103,
+      "sources": [
+        {
+          "channel": "thepaper",
+          "rank": 8,
+          "hot": 0,
+          "url": "https://www.thepaper.cn/newsDetail_forward_33768776"
+        }
+      ],
+      "summary": "",
+      "url": "https://www.thepaper.cn/newsDetail_forward_33768776"
+    },
+    {
       "id": "evt-nfc00000",
       "title": "一次性讲透NFC果汁选购误区",
       "category": "society",
       "hotScore": 0.425,
-      "freshness": 0.9999,
+      "freshness": 1,
       "crossSource": 1,
       "totalScore": 0.77,
       "sources": [
         {
           "channel": "toutiao",
           "rank": 11,
-          "hot": 30581293,
+          "hot": 21571610,
           "url": "https://www.toutiao.com/trending/7675283482893140031/"
         },
         {
@@ -76,112 +146,36 @@
       "url": "https://www.toutiao.com/trending/7675283482893140031/"
     },
     {
-      "id": "evt-13000000",
-      "title": "马上评｜淘汰笔试前13名，公平不能被“内部评议”架空",
+      "id": "evt-18700000",
+      "title": "宇树科技收盘跌18.7%",
       "category": "society",
-      "hotScore": 0.6375,
+      "hotScore": 0.68,
       "freshness": 1,
       "crossSource": 0.6309,
-      "totalScore": 0.7443,
-      "sources": [
-        {
-          "channel": "thepaper",
-          "rank": 6,
-          "hot": 0,
-          "url": "https://www.thepaper.cn/newsDetail_forward_33812462"
-        }
-      ],
-      "summary": "",
-      "url": "https://www.thepaper.cn/newsDetail_forward_33812462"
-    },
-    {
-      "id": "evt-20000000",
-      "title": "宇树上市第2天王兴兴最新发声",
-      "category": "economy",
-      "hotScore": 0.595,
-      "freshness": 0.9999,
-      "crossSource": 0.6309,
-      "totalScore": 0.7272,
+      "totalScore": 0.7613,
       "sources": [
         {
           "channel": "toutiao",
-          "rank": 7,
-          "hot": 45621928,
-          "url": "https://www.toutiao.com/trending/7675571296320258098/"
+          "rank": 5,
+          "hot": 39306036,
+          "url": "https://www.toutiao.com/trending/7676009922215022086/"
         }
       ],
       "summary": "",
-      "url": "https://www.toutiao.com/trending/7675571296320258098/"
-    },
-    {
-      "id": "evt-moderna1",
-      "title": "Moderna 股价暴涨 177%，创三年半来新高，mRNA 癌症疫苗三期临床达成终点，本次突破含金量多大？",
-      "category": "economy",
-      "hotScore": 0.525,
-      "freshness": 0.9999,
-      "crossSource": 0.6309,
-      "totalScore": 0.6992,
-      "sources": [
-        {
-          "channel": "zhihu",
-          "rank": 7,
-          "hot": 0,
-          "url": ""
-        }
-      ],
-      "summary": "",
-      "url": ""
-    },
-    {
-      "id": "evt-34170000",
-      "title": "财晓得｜市值3417亿元，宇树撑得起吗？",
-      "category": "economy",
-      "hotScore": 0.4675,
-      "freshness": 1,
-      "crossSource": 0.6309,
-      "totalScore": 0.6763,
-      "sources": [
-        {
-          "channel": "thepaper",
-          "rank": 10,
-          "hot": 0,
-          "url": "https://www.thepaper.cn/newsDetail_forward_33768776"
-        }
-      ],
-      "summary": "",
-      "url": "https://www.thepaper.cn/newsDetail_forward_33768776"
-    },
-    {
-      "id": "evt-70000000",
-      "title": "7岁小女孩两次给路过解放军送苹果",
-      "category": "society",
-      "hotScore": 0.6375,
-      "freshness": 0.9999,
-      "crossSource": 0.6309,
-      "totalScore": 0.7442,
-      "sources": [
-        {
-          "channel": "toutiao",
-          "rank": 6,
-          "hot": 50420028,
-          "url": "https://www.toutiao.com/trending/7675322536968585279/"
-        }
-      ],
-      "summary": "",
-      "url": "https://www.toutiao.com/trending/7675322536968585279/"
+      "url": "https://www.toutiao.com/trending/7676009922215022086/"
     },
     {
       "id": "evt-mr000000",
       "title": "癌症疫苗真的来了？首个 mRNA 疫苗联合 K 药在黑色素瘤辅助治疗中优于 K 药单药，意味着什么？",
       "category": "society",
-      "hotScore": 0.6375,
-      "freshness": 0.9999,
+      "hotScore": 0.675,
+      "freshness": 1,
       "crossSource": 0.6309,
-      "totalScore": 0.7442,
+      "totalScore": 0.7593,
       "sources": [
         {
           "channel": "zhihu",
-          "rank": 4,
+          "rank": 3,
           "hot": 0,
           "url": ""
         }
@@ -190,42 +184,61 @@
       "url": ""
     },
     {
-      "id": "evt-12306230",
-      "title": "12306回应2人买3座是否有处置权",
+      "id": "evt-60000000",
+      "title": "男子划桨板时徒手拽出60斤大鱼",
       "category": "society",
-      "hotScore": 0.51,
-      "freshness": 0.9999,
+      "hotScore": 0.595,
+      "freshness": 1,
       "crossSource": 0.6309,
-      "totalScore": 0.6932,
+      "totalScore": 0.7273,
       "sources": [
         {
           "channel": "toutiao",
-          "rank": 9,
-          "hot": 37352075,
-          "url": "https://www.toutiao.com/trending/7675642000821895187/"
+          "rank": 7,
+          "hot": 32181060,
+          "url": "https://www.toutiao.com/trending/7675955296459571241/"
         }
       ],
       "summary": "",
-      "url": "https://www.toutiao.com/trending/7675642000821895187/"
+      "url": "https://www.toutiao.com/trending/7675955296459571241/"
     },
     {
-      "id": "evt-99000000",
-      "title": "宇树发布新产品 售价9900元起",
+      "id": "evt-d0000000",
+      "title": "那些把软件放 D 盘的人是出于什么目的考虑的？",
       "category": "society",
-      "hotScore": 0.44,
-      "freshness": 0.9999,
+      "hotScore": 0.5625,
+      "freshness": 1,
       "crossSource": 0.6309,
-      "totalScore": 0.6653,
+      "totalScore": 0.7143,
+      "sources": [
+        {
+          "channel": "zhihu",
+          "rank": 6,
+          "hot": 0,
+          "url": ""
+        }
+      ],
+      "summary": "",
+      "url": ""
+    },
+    {
+      "id": "evt-g9000000",
+      "title": "享界G9及鸿蒙智行新品发布会",
+      "category": "society",
+      "hotScore": 0.52,
+      "freshness": 1,
+      "crossSource": 0.6309,
+      "totalScore": 0.6973,
       "sources": [
         {
           "channel": "baidu",
-          "rank": 10,
+          "rank": 8,
           "hot": 0,
-          "url": "https://m.baidu.com/s?word=%E5%AE%87%E6%A0%91%E5%8F%91%E5%B8%83%E6%96%B0%E4%BA%A7%E5%93%81+%E5%94%AE%E4%BB%B79900%E5%85%83%E8%B5%B7&sa=fyb_news"
+          "url": "https://m.baidu.com/s?word=%E4%BA%AB%E7%95%8CG9%E5%8F%8A%E9%B8%BF%E8%92%99%E6%99%BA%E8%A1%8C%E6%96%B0%E5%93%81%E5%8F%91%E5%B8%83%E4%BC%9A&sa=fyb_news"
         }
       ],
       "summary": "",
-      "url": "https://m.baidu.com/s?word=%E5%AE%87%E6%A0%91%E5%8F%91%E5%B8%83%E6%96%B0%E4%BA%A7%E5%93%81+%E5%94%AE%E4%BB%B79900%E5%85%83%E8%B5%B7&sa=fyb_news"
+      "url": "https://m.baidu.com/s?word=%E4%BA%AB%E7%95%8CG9%E5%8F%8A%E9%B8%BF%E8%92%99%E6%99%BA%E8%A1%8C%E6%96%B0%E5%93%81%E5%8F%91%E5%B8%83%E4%BC%9A&sa=fyb_news"
     }
   ]
 }
