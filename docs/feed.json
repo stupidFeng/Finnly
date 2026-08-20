@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-08-20T08:25:09.718Z",
+  "generatedAt": "2026-08-20T10:19:19.527Z",
   "fields": {
     "society": "社会",
     "economy": "经济",
@@ -7,49 +7,55 @@
   },
   "feed": [
     {
-      "id": "evt-10000000",
-      "title": "老人在胖东来买馒头少给1个赔200元",
+      "id": "evt-00000000",
+      "title": "今年秋裤可能真的不用穿了",
       "category": "society",
       "hotScore": 0.85,
-      "freshness": 1,
-      "crossSource": 0.6309,
-      "totalScore": 0.8293,
+      "freshness": 0.9999,
+      "crossSource": 1,
+      "totalScore": 0.94,
       "sources": [
         {
           "channel": "toutiao",
           "rank": 1,
-          "hot": 58637716,
-          "url": "https://www.toutiao.com/trending/7674956653511098431/"
+          "hot": 41543094,
+          "url": "https://www.toutiao.com/trending/7676009976942300691/"
+        },
+        {
+          "channel": "baidu",
+          "rank": 7,
+          "hot": 0,
+          "url": "https://m.baidu.com/s?word=%E4%BB%8A%E5%B9%B4%E7%A7%8B%E8%A3%A4%E5%8F%AF%E8%83%BD%E7%9C%9F%E7%9A%84%E4%B8%8D%E7%94%A8%E7%A9%BF%E4%BA%86&sa=fyb_news"
         }
       ],
       "summary": "",
-      "url": "https://www.toutiao.com/trending/7674956653511098431/"
+      "url": "https://www.toutiao.com/trending/7676009976942300691/"
     },
     {
-      "id": "evt-00000000",
-      "title": "接连有博物馆展览文字出错，国家文物局：即知即改、审核不得外包",
+      "id": "evt-13000000",
+      "title": "马上评｜淘汰笔试前13名，公平不能被“内部评议”架空",
       "category": "society",
-      "hotScore": 0.85,
+      "hotScore": 0.765,
       "freshness": 1,
       "crossSource": 0.6309,
-      "totalScore": 0.8293,
+      "totalScore": 0.7953,
       "sources": [
         {
           "channel": "thepaper",
-          "rank": 1,
+          "rank": 3,
           "hot": 0,
-          "url": "https://www.thepaper.cn/newsDetail_forward_33812178"
+          "url": "https://www.thepaper.cn/newsDetail_forward_33812462"
         }
       ],
       "summary": "",
-      "url": "https://www.thepaper.cn/newsDetail_forward_33812178"
+      "url": "https://www.thepaper.cn/newsDetail_forward_33812462"
     },
     {
       "id": "evt-15000000",
       "title": "《黑神话：钟馗》发布 15 分钟实机演示视频，有哪些细节设计值得关注？",
       "category": "society",
       "hotScore": 0.75,
-      "freshness": 1,
+      "freshness": 0.9999,
       "crossSource": 0.6309,
       "totalScore": 0.7893,
       "sources": [
@@ -64,75 +70,37 @@
       "url": ""
     },
     {
-      "id": "evt-13000000",
-      "title": "马上评｜淘汰笔试前13名，公平不能被“内部评议”架空",
+      "id": "evt-19000000",
+      "title": "第19号台风紫檀有消息了",
       "category": "society",
-      "hotScore": 0.7225,
+      "hotScore": 0.72,
       "freshness": 1,
       "crossSource": 0.6309,
-      "totalScore": 0.7783,
+      "totalScore": 0.7773,
       "sources": [
         {
-          "channel": "thepaper",
-          "rank": 4,
+          "channel": "baidu",
+          "rank": 3,
           "hot": 0,
-          "url": "https://www.thepaper.cn/newsDetail_forward_33812462"
+          "url": "https://m.baidu.com/s?word=%E7%AC%AC19%E5%8F%B7%E5%8F%B0%E9%A3%8E%E7%B4%AB%E6%AA%80%E6%9C%89%E6%B6%88%E6%81%AF%E4%BA%86&sa=fyb_news"
         }
       ],
       "summary": "",
-      "url": "https://www.thepaper.cn/newsDetail_forward_33812462"
-    },
-    {
-      "id": "evt-20000000",
-      "title": "宇树上市第2天王兴兴最新发声",
-      "category": "economy",
-      "hotScore": 0.8075,
-      "freshness": 1,
-      "crossSource": 0.6309,
-      "totalScore": 0.8123,
-      "sources": [
-        {
-          "channel": "toutiao",
-          "rank": 2,
-          "hot": 53057599,
-          "url": "https://www.toutiao.com/trending/7675571296320258098/"
-        }
-      ],
-      "summary": "",
-      "url": "https://www.toutiao.com/trending/7675571296320258098/"
-    },
-    {
-      "id": "evt-34170000",
-      "title": "财晓得｜市值3417亿元，宇树撑得起吗？",
-      "category": "economy",
-      "hotScore": 0.5525,
-      "freshness": 1,
-      "crossSource": 0.6309,
-      "totalScore": 0.7103,
-      "sources": [
-        {
-          "channel": "thepaper",
-          "rank": 8,
-          "hot": 0,
-          "url": "https://www.thepaper.cn/newsDetail_forward_33768776"
-        }
-      ],
-      "summary": "",
-      "url": "https://www.thepaper.cn/newsDetail_forward_33768776"
+      "url": "https://m.baidu.com/s?word=%E7%AC%AC19%E5%8F%B7%E5%8F%B0%E9%A3%8E%E7%B4%AB%E6%AA%80%E6%9C%89%E6%B6%88%E6%81%AF%E4%BA%86&sa=fyb_news"
     },
     {
       "id": "evt-nfc00000",
       "title": "一次性讲透NFC果汁选购误区",
       "category": "society",
       "hotScore": 0.425,
-      "freshness": 1,
+      "freshness": 0.9999,
       "crossSource": 1,
       "totalScore": 0.77,
       "sources": [
         {
           "channel": "toutiao",
           "rank": 11,
-          "hot": 21571610,
+          "hot": 15282850,
           "url": "https://www.toutiao.com/trending/7675283482893140031/"
         },
         {
@@ -146,30 +114,11 @@
       "url": "https://www.toutiao.com/trending/7675283482893140031/"
     },
     {
-      "id": "evt-18700000",
-      "title": "宇树科技收盘跌18.7%",
-      "category": "society",
-      "hotScore": 0.68,
-      "freshness": 1,
-      "crossSource": 0.6309,
-      "totalScore": 0.7613,
-      "sources": [
-        {
-          "channel": "toutiao",
-          "rank": 5,
-          "hot": 39306036,
-          "url": "https://www.toutiao.com/trending/7676009922215022086/"
-        }
-      ],
-      "summary": "",
-      "url": "https://www.toutiao.com/trending/7676009922215022086/"
-    },
-    {
       "id": "evt-mr000000",
       "title": "癌症疫苗真的来了？首个 mRNA 疫苗联合 K 药在黑色素瘤辅助治疗中优于 K 药单药，意味着什么？",
       "category": "society",
       "hotScore": 0.675,
-      "freshness": 1,
+      "freshness": 0.9999,
       "crossSource": 0.6309,
       "totalScore": 0.7593,
       "sources": [
@@ -184,36 +133,36 @@
       "url": ""
     },
     {
-      "id": "evt-60000000",
-      "title": "男子划桨板时徒手拽出60斤大鱼",
+      "id": "evt-12400000",
+      "title": "青海1分钟内连发2次4级及以上地震",
       "category": "society",
-      "hotScore": 0.595,
-      "freshness": 1,
+      "hotScore": 0.5525,
+      "freshness": 0.9999,
       "crossSource": 0.6309,
-      "totalScore": 0.7273,
+      "totalScore": 0.7103,
       "sources": [
         {
           "channel": "toutiao",
-          "rank": 7,
-          "hot": 32181060,
-          "url": "https://www.toutiao.com/trending/7675955296459571241/"
+          "rank": 8,
+          "hot": 20629690,
+          "url": "https://www.toutiao.com/trending/7675500937263464489/"
         }
       ],
       "summary": "",
-      "url": "https://www.toutiao.com/trending/7675955296459571241/"
+      "url": "https://www.toutiao.com/trending/7675500937263464489/"
     },
     {
-      "id": "evt-d0000000",
-      "title": "那些把软件放 D 盘的人是出于什么目的考虑的？",
+      "id": "evt-25000000",
+      "title": "父亲打算每月给女儿 2500 大学生活费，自己出 1500，想让女儿用 10 万压岁钱出 1000 遭拒，你怎么看？",
       "category": "society",
-      "hotScore": 0.5625,
-      "freshness": 1,
+      "hotScore": 0.525,
+      "freshness": 0.9999,
       "crossSource": 0.6309,
-      "totalScore": 0.7143,
+      "totalScore": 0.6993,
       "sources": [
         {
           "channel": "zhihu",
-          "rank": 6,
+          "rank": 7,
           "hot": 0,
           "url": ""
         }
@@ -222,23 +171,61 @@
       "url": ""
     },
     {
-      "id": "evt-g9000000",
-      "title": "享界G9及鸿蒙智行新品发布会",
+      "id": "evt-nba00000",
+      "title": "詹姆斯NBA首秀门票拍卖拍出天价",
       "category": "society",
-      "hotScore": 0.52,
+      "hotScore": 0.48,
       "freshness": 1,
       "crossSource": 0.6309,
-      "totalScore": 0.6973,
+      "totalScore": 0.6813,
       "sources": [
         {
           "channel": "baidu",
-          "rank": 8,
+          "rank": 9,
           "hot": 0,
-          "url": "https://m.baidu.com/s?word=%E4%BA%AB%E7%95%8CG9%E5%8F%8A%E9%B8%BF%E8%92%99%E6%99%BA%E8%A1%8C%E6%96%B0%E5%93%81%E5%8F%91%E5%B8%83%E4%BC%9A&sa=fyb_news"
+          "url": "https://m.baidu.com/s?word=%E8%A9%B9%E5%A7%86%E6%96%AFNBA%E9%A6%96%E7%A7%80%E9%97%A8%E7%A5%A8%E6%8B%8D%E5%8D%96%E6%8B%8D%E5%87%BA%E5%A4%A9%E4%BB%B7&sa=fyb_news"
         }
       ],
       "summary": "",
-      "url": "https://m.baidu.com/s?word=%E4%BA%AB%E7%95%8CG9%E5%8F%8A%E9%B8%BF%E8%92%99%E6%99%BA%E8%A1%8C%E6%96%B0%E5%93%81%E5%8F%91%E5%B8%83%E4%BC%9A&sa=fyb_news"
+      "url": "https://m.baidu.com/s?word=%E8%A9%B9%E5%A7%86%E6%96%AFNBA%E9%A6%96%E7%A7%80%E9%97%A8%E7%A5%A8%E6%8B%8D%E5%8D%96%E6%8B%8D%E5%87%BA%E5%A4%A9%E4%BB%B7&sa=fyb_news"
+    },
+    {
+      "id": "evt-10000000",
+      "title": "老人在胖东来买馒头少给1个赔200元",
+      "category": "society",
+      "hotScore": 0.4675,
+      "freshness": 0.9999,
+      "crossSource": 0.6309,
+      "totalScore": 0.6763,
+      "sources": [
+        {
+          "channel": "toutiao",
+          "rank": 10,
+          "hot": 16890161,
+          "url": "https://www.toutiao.com/trending/7674956653511098431/"
+        }
+      ],
+      "summary": "",
+      "url": "https://www.toutiao.com/trending/7674956653511098431/"
+    },
+    {
+      "id": "evt-80000000",
+      "title": "顾客曝全季酒店敞房门 8 小时，20 万财产无人看管，片区主管称再追究下去对你我都不好，哪些问题值得关注？",
+      "category": "society",
+      "hotScore": 0.45,
+      "freshness": 0.9999,
+      "crossSource": 0.6309,
+      "totalScore": 0.6693,
+      "sources": [
+        {
+          "channel": "zhihu",
+          "rank": 9,
+          "hot": 0,
+          "url": ""
+        }
+      ],
+      "summary": "",
+      "url": ""
     }
   ]
 }
