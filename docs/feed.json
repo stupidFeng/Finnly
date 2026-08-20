@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-08-20T02:48:33.139Z",
+  "generatedAt": "2026-08-20T04:26:15.118Z",
   "fields": {
     "society": "社会",
     "economy": "经济",
@@ -7,106 +7,36 @@
   },
   "feed": [
     {
-      "id": "evt-12306230",
-      "title": "12306回应2人买3座是否有处置权",
-      "category": "society",
-      "hotScore": 0.85,
-      "freshness": 0.9999,
-      "crossSource": 0.6309,
-      "totalScore": 0.8293,
-      "sources": [
-        {
-          "channel": "toutiao",
-          "rank": 1,
-          "hot": 81093560,
-          "url": "https://www.toutiao.com/trending/7675642000821895187/"
-        }
-      ],
-      "summary": "",
-      "url": "https://www.toutiao.com/trending/7675642000821895187/"
-    },
-    {
       "id": "evt-00000000",
-      "title": "涉王星案！跨境人口贩卖集团17名犯罪嫌疑人被提起公诉",
+      "title": "恒大集团、恒大地产等案一审宣判，许家印被判处无期徒刑，哪些信息值得关注？",
       "category": "society",
-      "hotScore": 0.85,
-      "freshness": 1,
-      "crossSource": 0.6309,
-      "totalScore": 0.8293,
-      "sources": [
-        {
-          "channel": "thepaper",
-          "rank": 1,
-          "hot": 0,
-          "url": "https://www.thepaper.cn/newsDetail_forward_33809894"
-        }
-      ],
-      "summary": "",
-      "url": "https://www.thepaper.cn/newsDetail_forward_33809894"
-    },
-    {
-      "id": "evt-12306000",
-      "title": "12306回应买票放零食这座位能让吗",
-      "category": "society",
-      "hotScore": 0.76,
-      "freshness": 1,
-      "crossSource": 0.6309,
-      "totalScore": 0.7933,
-      "sources": [
-        {
-          "channel": "baidu",
-          "rank": 2,
-          "hot": 0,
-          "url": "https://m.baidu.com/s?word=12306%E5%9B%9E%E5%BA%94%E4%B9%B0%E7%A5%A8%E6%94%BE%E9%9B%B6%E9%A3%9F%E8%BF%99%E5%BA%A7%E4%BD%8D%E8%83%BD%E8%AE%A9%E5%90%97&sa=fyb_news"
-        }
-      ],
-      "summary": "",
-      "url": "https://m.baidu.com/s?word=12306%E5%9B%9E%E5%BA%94%E4%B9%B0%E7%A5%A8%E6%94%BE%E9%9B%B6%E9%A3%9F%E8%BF%99%E5%BA%A7%E4%BD%8D%E8%83%BD%E8%AE%A9%E5%90%97&sa=fyb_news"
-    },
-    {
-      "id": "evt-15000000",
-      "title": "长和向巴拿马索赔超15亿美元",
-      "category": "society",
-      "hotScore": 0.7225,
+      "hotScore": 0.6,
       "freshness": 0.9999,
-      "crossSource": 0.6309,
-      "totalScore": 0.7783,
-      "sources": [
-        {
-          "channel": "toutiao",
-          "rank": 4,
-          "hot": 60075587,
-          "url": "https://www.toutiao.com/trending/7674829388861407273/"
-        }
-      ],
-      "summary": "",
-      "url": "https://www.toutiao.com/trending/7674829388861407273/"
-    },
-    {
-      "id": "evt-34170000",
-      "title": "财晓得｜市值3417亿元，宇树撑得起吗？",
-      "category": "economy",
-      "hotScore": 0.4675,
-      "freshness": 1,
-      "crossSource": 0.6309,
-      "totalScore": 0.6763,
+      "crossSource": 1,
+      "totalScore": 0.84,
       "sources": [
         {
           "channel": "thepaper",
-          "rank": 10,
+          "rank": 18,
           "hot": 0,
-          "url": "https://www.thepaper.cn/newsDetail_forward_33768776"
+          "url": "https://www.thepaper.cn/newsDetail_forward_33816463"
+        },
+        {
+          "channel": "zhihu",
+          "rank": 5,
+          "hot": 0,
+          "url": ""
         }
       ],
       "summary": "",
-      "url": "https://www.thepaper.cn/newsDetail_forward_33768776"
+      "url": "https://www.thepaper.cn/newsDetail_forward_33816463"
     },
     {
       "id": "evt-13000000",
       "title": "马上评｜淘汰笔试前13名，公平不能被“内部评议”架空",
       "category": "society",
       "hotScore": 0.7225,
-      "freshness": 1,
+      "freshness": 0.9999,
       "crossSource": 0.6309,
       "totalScore": 0.7783,
       "sources": [
@@ -121,11 +51,11 @@
       "url": "https://www.thepaper.cn/newsDetail_forward_33812462"
     },
     {
-      "id": "evt-50000000",
-      "title": "武汉一程序员坚持 5 年远距离通勤，每日往返 150 公里通勤 5 小时，称想「多陪陪妻女」，你会这样选择吗？",
+      "id": "evt-15000000",
+      "title": "《黑神话：钟馗》发布 15 分钟实机演示视频，有哪些细节设计值得关注？",
       "category": "society",
       "hotScore": 0.7125,
-      "freshness": 1,
+      "freshness": 0.9999,
       "crossSource": 0.6309,
       "totalScore": 0.7743,
       "sources": [
@@ -140,8 +70,65 @@
       "url": ""
     },
     {
-      "id": "evt-12900000",
-      "title": "男子花1290万买精装豪宅竟是样板间",
+      "id": "evt-12306230",
+      "title": "12306回应2人买3座是否有处置权",
+      "category": "society",
+      "hotScore": 0.6375,
+      "freshness": 0.9999,
+      "crossSource": 0.6309,
+      "totalScore": 0.7443,
+      "sources": [
+        {
+          "channel": "toutiao",
+          "rank": 6,
+          "hot": 46859235,
+          "url": "https://www.toutiao.com/trending/7675642000821895187/"
+        }
+      ],
+      "summary": "",
+      "url": "https://www.toutiao.com/trending/7675642000821895187/"
+    },
+    {
+      "id": "evt-34170000",
+      "title": "财晓得｜市值3417亿元，宇树撑得起吗？",
+      "category": "economy",
+      "hotScore": 0.51,
+      "freshness": 0.9999,
+      "crossSource": 0.6309,
+      "totalScore": 0.6933,
+      "sources": [
+        {
+          "channel": "thepaper",
+          "rank": 9,
+          "hot": 0,
+          "url": "https://www.thepaper.cn/newsDetail_forward_33768776"
+        }
+      ],
+      "summary": "",
+      "url": "https://www.thepaper.cn/newsDetail_forward_33768776"
+    },
+    {
+      "id": "evt-50000000",
+      "title": "武汉一程序员坚持 5 年远距离通勤，每日往返 150 公里通勤 5 小时，称想「多陪陪妻女」，你会这样选择吗？",
+      "category": "society",
+      "hotScore": 0.6375,
+      "freshness": 0.9999,
+      "crossSource": 0.6309,
+      "totalScore": 0.7443,
+      "sources": [
+        {
+          "channel": "zhihu",
+          "rank": 4,
+          "hot": 0,
+          "url": ""
+        }
+      ],
+      "summary": "",
+      "url": ""
+    },
+    {
+      "id": "evt-11000000",
+      "title": "1次出游误闯10余个直播间",
       "category": "society",
       "hotScore": 0.6,
       "freshness": 1,
@@ -152,37 +139,18 @@
           "channel": "baidu",
           "rank": 6,
           "hot": 0,
-          "url": "https://m.baidu.com/s?word=%E7%94%B7%E5%AD%90%E8%8A%B11290%E4%B8%87%E4%B9%B0%E7%B2%BE%E8%A3%85%E8%B1%AA%E5%AE%85%E7%AB%9F%E6%98%AF%E6%A0%B7%E6%9D%BF%E9%97%B4&sa=fyb_news"
+          "url": "https://m.baidu.com/s?word=1%E6%AC%A1%E5%87%BA%E6%B8%B8%E8%AF%AF%E9%97%AF10%E4%BD%99%E4%B8%AA%E7%9B%B4%E6%92%AD%E9%97%B4&sa=fyb_news"
         }
       ],
       "summary": "",
-      "url": "https://m.baidu.com/s?word=%E7%94%B7%E5%AD%90%E8%8A%B11290%E4%B8%87%E4%B9%B0%E7%B2%BE%E8%A3%85%E8%B1%AA%E5%AE%85%E7%AB%9F%E6%98%AF%E6%A0%B7%E6%9D%BF%E9%97%B4&sa=fyb_news"
+      "url": "https://m.baidu.com/s?word=1%E6%AC%A1%E5%87%BA%E6%B8%B8%E8%AF%AF%E9%97%AF10%E4%BD%99%E4%B8%AA%E7%9B%B4%E6%92%AD%E9%97%B4&sa=fyb_news"
     },
     {
-      "id": "evt-28300000",
-      "title": "28家具身独角兽估值超3500亿元，谁是下一个宇树？",
-      "category": "society",
-      "hotScore": 0.5525,
-      "freshness": 1,
-      "crossSource": 0.6309,
-      "totalScore": 0.7103,
-      "sources": [
-        {
-          "channel": "thepaper",
-          "rank": 8,
-          "hot": 0,
-          "url": "https://www.thepaper.cn/newsDetail_forward_33591259"
-        }
-      ],
-      "summary": "",
-      "url": "https://www.thepaper.cn/newsDetail_forward_33591259"
-    },
-    {
-      "id": "evt-81900000",
-      "title": "如何看待 8 月 19 日长江存储完成 IPO 辅导验收，「最快速度」冲刺 A 股？",
+      "id": "evt-d0000000",
+      "title": "那些把软件放 D 盘的人是出于什么目的考虑的？",
       "category": "society",
       "hotScore": 0.4875,
-      "freshness": 1,
+      "freshness": 0.9999,
       "crossSource": 0.6309,
       "totalScore": 0.6843,
       "sources": [
@@ -195,44 +163,6 @@
       ],
       "summary": "",
       "url": ""
-    },
-    {
-      "id": "evt-a0000000",
-      "title": "A股主要指数集体高开 宇树跌超15%",
-      "category": "society",
-      "hotScore": 0.48,
-      "freshness": 1,
-      "crossSource": 0.6309,
-      "totalScore": 0.6813,
-      "sources": [
-        {
-          "channel": "baidu",
-          "rank": 9,
-          "hot": 0,
-          "url": "https://m.baidu.com/s?word=A%E8%82%A1%E4%B8%BB%E8%A6%81%E6%8C%87%E6%95%B0%E9%9B%86%E4%BD%93%E9%AB%98%E5%BC%80+%E5%AE%87%E6%A0%91%E8%B7%8C%E8%B6%8515%25&sa=fyb_news"
-        }
-      ],
-      "summary": "",
-      "url": "https://m.baidu.com/s?word=A%E8%82%A1%E4%B8%BB%E8%A6%81%E6%8C%87%E6%95%B0%E9%9B%86%E4%BD%93%E9%AB%98%E5%BC%80+%E5%AE%87%E6%A0%91%E8%B7%8C%E8%B6%8515%25&sa=fyb_news"
-    },
-    {
-      "id": "evt-moderna0",
-      "title": "Moderna的癌症疫苗突破意味着什么",
-      "category": "society",
-      "hotScore": 0.4675,
-      "freshness": 0.9999,
-      "crossSource": 0.6309,
-      "totalScore": 0.6763,
-      "sources": [
-        {
-          "channel": "toutiao",
-          "rank": 10,
-          "hot": 32970181,
-          "url": "https://www.toutiao.com/trending/7675931450331418121/"
-        }
-      ],
-      "summary": "",
-      "url": "https://www.toutiao.com/trending/7675931450331418121/"
     }
   ]
 }
