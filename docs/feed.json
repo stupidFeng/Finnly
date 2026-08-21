@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-08-21T00:40:44.055Z",
+  "generatedAt": "2026-08-21T02:54:16.834Z",
   "fields": {
     "society": "社会",
     "economy": "经济",
@@ -7,23 +7,29 @@
   },
   "feed": [
     {
-      "id": "evt-24000000",
-      "title": "湖北通城集中销毁24辆“炸街”车",
+      "id": "evt-00000000",
+      "title": "江苏盐城爆响",
       "category": "society",
       "hotScore": 0.85,
       "freshness": 1,
-      "crossSource": 0.6309,
-      "totalScore": 0.8293,
+      "crossSource": 1,
+      "totalScore": 0.94,
       "sources": [
         {
           "channel": "toutiao",
           "rank": 1,
-          "hot": 83534874,
-          "url": "https://www.toutiao.com/trending/7676080993283736074/"
+          "hot": 91627723,
+          "url": "https://www.toutiao.com/trending/7675285227778490409/"
+        },
+        {
+          "channel": "baidu",
+          "rank": 9,
+          "hot": 0,
+          "url": "https://m.baidu.com/s?word=%E6%B1%9F%E8%8B%8F%E7%9B%90%E5%9F%8E%E7%88%86%E5%93%8D&sa=fyb_news"
         }
       ],
       "summary": "",
-      "url": "https://www.toutiao.com/trending/7676080993283736074/"
+      "url": "https://www.toutiao.com/trending/7675285227778490409/"
     },
     {
       "id": "evt-27000000",
@@ -45,25 +51,6 @@
       "url": "https://www.thepaper.cn/newsDetail_forward_33818955"
     },
     {
-      "id": "evt-00000000",
-      "title": "余承东官宣行业首发无网通信",
-      "category": "society",
-      "hotScore": 0.8075,
-      "freshness": 1,
-      "crossSource": 0.6309,
-      "totalScore": 0.8123,
-      "sources": [
-        {
-          "channel": "toutiao",
-          "rank": 2,
-          "hot": 75585480,
-          "url": "https://www.toutiao.com/trending/7675557271434772530/"
-        }
-      ],
-      "summary": "",
-      "url": "https://www.toutiao.com/trending/7675557271434772530/"
-    },
-    {
       "id": "evt-70000000",
       "title": "加密货币大涨：比特币突破7.2万美元，超19万人爆仓",
       "category": "society",
@@ -83,99 +70,17 @@
       "url": "https://www.thepaper.cn/newsDetail_forward_33819275"
     },
     {
-      "id": "evt-24600000",
-      "title": "驾照体检色盲图24人仅6人答对",
+      "id": "evt-50000000",
+      "title": "孩子小学二年级，班主任为 51 个娃设 53 个官职，包括窗台管理员、前后门管理员等，如何评价此事？",
       "category": "society",
-      "hotScore": 0.76,
+      "hotScore": 0.675,
       "freshness": 1,
       "crossSource": 0.6309,
-      "totalScore": 0.7933,
-      "sources": [
-        {
-          "channel": "baidu",
-          "rank": 2,
-          "hot": 0,
-          "url": "https://m.baidu.com/s?word=%E9%A9%BE%E7%85%A7%E4%BD%93%E6%A3%80%E8%89%B2%E7%9B%B2%E5%9B%BE24%E4%BA%BA%E4%BB%856%E4%BA%BA%E7%AD%94%E5%AF%B9&sa=fyb_news"
-        }
-      ],
-      "summary": "",
-      "url": "https://m.baidu.com/s?word=%E9%A9%BE%E7%85%A7%E4%BD%93%E6%A3%80%E8%89%B2%E7%9B%B2%E5%9B%BE24%E4%BA%BA%E4%BB%856%E4%BA%BA%E7%AD%94%E5%AF%B9&sa=fyb_news"
-    },
-    {
-      "id": "evt-39700000",
-      "title": "哈登3年9700万美元续约骑士",
-      "category": "society",
-      "hotScore": 0.4,
-      "freshness": 1,
-      "crossSource": 1,
-      "totalScore": 0.76,
-      "sources": [
-        {
-          "channel": "toutiao",
-          "rank": 16,
-          "hot": 18639149,
-          "url": "https://www.toutiao.com/trending/7676251503794851370/"
-        },
-        {
-          "channel": "baidu",
-          "rank": 11,
-          "hot": 0,
-          "url": "https://m.baidu.com/s?word=%E5%93%88%E7%99%BB3%E5%B9%B49700%E4%B8%87%E7%BE%8E%E5%85%83%E7%BB%AD%E7%BA%A6%E9%AA%91%E5%A3%AB&sa=fyb_news"
-        }
-      ],
-      "summary": "",
-      "url": "https://www.toutiao.com/trending/7676251503794851370/"
-    },
-    {
-      "id": "evt-u1700000",
-      "title": "中国U17女足被抽签淘汰",
-      "category": "society",
-      "hotScore": 0.64,
-      "freshness": 1,
-      "crossSource": 0.6309,
-      "totalScore": 0.7453,
-      "sources": [
-        {
-          "channel": "baidu",
-          "rank": 5,
-          "hot": 0,
-          "url": "https://m.baidu.com/s?word=%E4%B8%AD%E5%9B%BDU17%E5%A5%B3%E8%B6%B3%E8%A2%AB%E6%8A%BD%E7%AD%BE%E6%B7%98%E6%B1%B0&sa=fyb_news"
-        }
-      ],
-      "summary": "",
-      "url": "https://m.baidu.com/s?word=%E4%B8%AD%E5%9B%BDU17%E5%A5%B3%E8%B6%B3%E8%A2%AB%E6%8A%BD%E7%AD%BE%E6%B7%98%E6%B1%B0&sa=fyb_news"
-    },
-    {
-      "id": "evt-20000000",
-      "title": "失业男子吃饼干扛20天后肾衰竭",
-      "category": "society",
-      "hotScore": 0.6,
-      "freshness": 1,
-      "crossSource": 0.6309,
-      "totalScore": 0.7293,
-      "sources": [
-        {
-          "channel": "baidu",
-          "rank": 6,
-          "hot": 0,
-          "url": "https://m.baidu.com/s?word=%E5%A4%B1%E4%B8%9A%E7%94%B7%E5%AD%90%E5%90%83%E9%A5%BC%E5%B9%B2%E6%89%9B20%E5%A4%A9%E5%90%8E%E8%82%BE%E8%A1%B0%E7%AB%AD&sa=fyb_news"
-        }
-      ],
-      "summary": "",
-      "url": "https://m.baidu.com/s?word=%E5%A4%B1%E4%B8%9A%E7%94%B7%E5%AD%90%E5%90%83%E9%A5%BC%E5%B9%B2%E6%89%9B20%E5%A4%A9%E5%90%8E%E8%82%BE%E8%A1%B0%E7%AB%AD&sa=fyb_news"
-    },
-    {
-      "id": "evt-deepseek",
-      "title": "Deepseek 涨价了，有哪些便宜的替代方案？",
-      "category": "society",
-      "hotScore": 0.5625,
-      "freshness": 1,
-      "crossSource": 0.6309,
-      "totalScore": 0.7143,
+      "totalScore": 0.7593,
       "sources": [
         {
           "channel": "zhihu",
-          "rank": 6,
+          "rank": 3,
           "hot": 0,
           "url": ""
         }
@@ -184,37 +89,56 @@
       "url": ""
     },
     {
-      "id": "evt-40000000",
-      "title": "月入4万大提琴老师回应转行卖馒头",
+      "id": "evt-icu00000",
+      "title": "女童遭海蜇蜇伤进 ICU 抢救，母亲称 5 米外救生员未施救，景区和救生员该担责吗？被海蜇蜇伤应怎样处理？",
       "category": "society",
-      "hotScore": 0.48,
+      "hotScore": 0.6,
       "freshness": 1,
       "crossSource": 0.6309,
-      "totalScore": 0.6813,
+      "totalScore": 0.7293,
       "sources": [
         {
-          "channel": "baidu",
-          "rank": 9,
+          "channel": "zhihu",
+          "rank": 5,
           "hot": 0,
-          "url": "https://m.baidu.com/s?word=%E6%9C%88%E5%85%A54%E4%B8%87%E5%A4%A7%E6%8F%90%E7%90%B4%E8%80%81%E5%B8%88%E5%9B%9E%E5%BA%94%E8%BD%AC%E8%A1%8C%E5%8D%96%E9%A6%92%E5%A4%B4&sa=fyb_news"
+          "url": ""
         }
       ],
       "summary": "",
-      "url": "https://m.baidu.com/s?word=%E6%9C%88%E5%85%A54%E4%B8%87%E5%A4%A7%E6%8F%90%E7%90%B4%E8%80%81%E5%B8%88%E5%9B%9E%E5%BA%94%E8%BD%AC%E8%A1%8C%E5%8D%96%E9%A6%92%E5%A4%B4&sa=fyb_news"
+      "url": ""
+    },
+    {
+      "id": "evt-46000000",
+      "title": "46岁小罗正式复出",
+      "category": "society",
+      "hotScore": 0.56,
+      "freshness": 1,
+      "crossSource": 0.6309,
+      "totalScore": 0.7133,
+      "sources": [
+        {
+          "channel": "baidu",
+          "rank": 7,
+          "hot": 0,
+          "url": "https://m.baidu.com/s?word=46%E5%B2%81%E5%B0%8F%E7%BD%97%E6%AD%A3%E5%BC%8F%E5%A4%8D%E5%87%BA&sa=fyb_news"
+        }
+      ],
+      "summary": "",
+      "url": "https://m.baidu.com/s?word=46%E5%B2%81%E5%B0%8F%E7%BD%97%E6%AD%A3%E5%BC%8F%E5%A4%8D%E5%87%BA&sa=fyb_news"
     },
     {
       "id": "evt-10000000",
       "title": "张本美和：对阵孙颖莎拿1分都侥幸",
       "category": "society",
-      "hotScore": 0.4675,
+      "hotScore": 0.5525,
       "freshness": 1,
       "crossSource": 0.6309,
-      "totalScore": 0.6763,
+      "totalScore": 0.7103,
       "sources": [
         {
           "channel": "toutiao",
-          "rank": 10,
-          "hot": 33962745,
+          "rank": 8,
+          "hot": 45500980,
           "url": "https://www.toutiao.com/trending/7675859953286168630/"
         }
       ],
@@ -222,23 +146,29 @@
       "url": "https://www.toutiao.com/trending/7675859953286168630/"
     },
     {
-      "id": "evt-30000000",
-      "title": "男子捡3根金条以为是假货随手扔了",
+      "id": "evt-60040000",
+      "title": "月租600电费400 租客不敢开空调",
       "category": "society",
-      "hotScore": 0.44,
+      "hotScore": 0.2,
       "freshness": 1,
-      "crossSource": 0.6309,
-      "totalScore": 0.6653,
+      "crossSource": 1,
+      "totalScore": 0.68,
       "sources": [
         {
+          "channel": "toutiao",
+          "rank": 17,
+          "hot": 18499318,
+          "url": "https://www.toutiao.com/trending/7675566474307682347/"
+        },
+        {
           "channel": "baidu",
-          "rank": 10,
+          "rank": 16,
           "hot": 0,
-          "url": "https://m.baidu.com/s?word=%E7%94%B7%E5%AD%90%E6%8D%A13%E6%A0%B9%E9%87%91%E6%9D%A1%E4%BB%A5%E4%B8%BA%E6%98%AF%E5%81%87%E8%B4%A7%E9%9A%8F%E6%89%8B%E6%89%94%E4%BA%86&sa=fyb_news"
+          "url": "https://m.baidu.com/s?word=%E6%9C%88%E7%A7%9F600%E7%94%B5%E8%B4%B9400+%E7%A7%9F%E5%AE%A2%E4%B8%8D%E6%95%A2%E5%BC%80%E7%A9%BA%E8%B0%83&sa=fyb_news"
         }
       ],
       "summary": "",
-      "url": "https://m.baidu.com/s?word=%E7%94%B7%E5%AD%90%E6%8D%A13%E6%A0%B9%E9%87%91%E6%9D%A1%E4%BB%A5%E4%B8%BA%E6%98%AF%E5%81%87%E8%B4%A7%E9%9A%8F%E6%89%8B%E6%89%94%E4%BA%86&sa=fyb_news"
+      "url": "https://www.toutiao.com/trending/7675566474307682347/"
     }
   ]
 }
