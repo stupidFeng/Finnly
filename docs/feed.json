@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-08-21T02:54:16.834Z",
+  "generatedAt": "2026-08-21T04:28:34.923Z",
   "fields": {
     "society": "社会",
     "economy": "经济",
@@ -7,29 +7,23 @@
   },
   "feed": [
     {
-      "id": "evt-00000000",
-      "title": "江苏盐城爆响",
+      "id": "evt-15900000",
+      "title": "台风美莎克致广西159死10失联",
       "category": "society",
       "hotScore": 0.85,
-      "freshness": 1,
-      "crossSource": 1,
-      "totalScore": 0.94,
+      "freshness": 0.9999,
+      "crossSource": 0.6309,
+      "totalScore": 0.8293,
       "sources": [
         {
           "channel": "toutiao",
           "rank": 1,
-          "hot": 91627723,
-          "url": "https://www.toutiao.com/trending/7675285227778490409/"
-        },
-        {
-          "channel": "baidu",
-          "rank": 9,
-          "hot": 0,
-          "url": "https://m.baidu.com/s?word=%E6%B1%9F%E8%8B%8F%E7%9B%90%E5%9F%8E%E7%88%86%E5%93%8D&sa=fyb_news"
+          "hot": 9660676,
+          "url": "https://www.toutiao.com/trending/7676329781219033142/"
         }
       ],
       "summary": "",
-      "url": "https://www.toutiao.com/trending/7675285227778490409/"
+      "url": "https://www.toutiao.com/trending/7676329781219033142/"
     },
     {
       "id": "evt-27000000",
@@ -51,6 +45,25 @@
       "url": "https://www.thepaper.cn/newsDetail_forward_33818955"
     },
     {
+      "id": "evt-00000000",
+      "title": "江苏盐城爆响",
+      "category": "society",
+      "hotScore": 0.8075,
+      "freshness": 0.9999,
+      "crossSource": 0.6309,
+      "totalScore": 0.8123,
+      "sources": [
+        {
+          "channel": "toutiao",
+          "rank": 2,
+          "hot": 8741341,
+          "url": "https://www.toutiao.com/trending/7675285227778490409/"
+        }
+      ],
+      "summary": "",
+      "url": "https://www.toutiao.com/trending/7675285227778490409/"
+    },
+    {
       "id": "evt-70000000",
       "title": "加密货币大涨：比特币突破7.2万美元，超19万人爆仓",
       "category": "society",
@@ -68,6 +81,107 @@
       ],
       "summary": "",
       "url": "https://www.thepaper.cn/newsDetail_forward_33819275"
+    },
+    {
+      "id": "evt-gdp00000",
+      "title": "GDP排名下滑印度经济怎么了",
+      "category": "economy",
+      "hotScore": 0.4675,
+      "freshness": 0.9999,
+      "crossSource": 0.6309,
+      "totalScore": 0.6763,
+      "sources": [
+        {
+          "channel": "toutiao",
+          "rank": 10,
+          "hot": 3927737,
+          "url": "https://www.toutiao.com/trending/7676249703709409326/"
+        }
+      ],
+      "summary": "",
+      "url": "https://www.toutiao.com/trending/7676249703709409326/"
+    },
+    {
+      "id": "evt-15000000",
+      "title": "台风美莎克致广西两地159人遇难",
+      "category": "society",
+      "hotScore": 0.76,
+      "freshness": 1,
+      "crossSource": 0.6309,
+      "totalScore": 0.7933,
+      "sources": [
+        {
+          "channel": "baidu",
+          "rank": 2,
+          "hot": 0,
+          "url": "https://m.baidu.com/s?word=%E5%8F%B0%E9%A3%8E%E7%BE%8E%E8%8E%8E%E5%85%8B%E8%87%B4%E5%B9%BF%E8%A5%BF%E4%B8%A4%E5%9C%B0159%E4%BA%BA%E9%81%87%E9%9A%BE&sa=fyb_news"
+        }
+      ],
+      "summary": "",
+      "url": "https://m.baidu.com/s?word=%E5%8F%B0%E9%A3%8E%E7%BE%8E%E8%8E%8E%E5%85%8B%E8%87%B4%E5%B9%BF%E8%A5%BF%E4%B8%A4%E5%9C%B0159%E4%BA%BA%E9%81%87%E9%9A%BE&sa=fyb_news"
+    },
+    {
+      "id": "evt-icu00000",
+      "title": "女童遭海蜇蜇伤进 ICU 抢救，母亲称 5 米外救生员未施救，景区和救生员该担责吗？被海蜇蜇伤应怎样处理？",
+      "category": "society",
+      "hotScore": 0.75,
+      "freshness": 1,
+      "crossSource": 0.6309,
+      "totalScore": 0.7893,
+      "sources": [
+        {
+          "channel": "zhihu",
+          "rank": 1,
+          "hot": 0,
+          "url": ""
+        }
+      ],
+      "summary": "",
+      "url": ""
+    },
+    {
+      "id": "evt-30200000",
+      "title": "30岁失业男子饿20天急性肾衰",
+      "category": "society",
+      "hotScore": 0.7225,
+      "freshness": 0.9999,
+      "crossSource": 0.6309,
+      "totalScore": 0.7783,
+      "sources": [
+        {
+          "channel": "toutiao",
+          "rank": 4,
+          "hot": 7156805,
+          "url": "https://www.toutiao.com/trending/7676254196098760714/"
+        }
+      ],
+      "summary": "",
+      "url": "https://www.toutiao.com/trending/7676254196098760714/"
+    },
+    {
+      "id": "evt-10000000",
+      "title": "唯谣言马首是瞻？马首第1个不同意",
+      "category": "society",
+      "hotScore": 0.425,
+      "freshness": 0.9999,
+      "crossSource": 1,
+      "totalScore": 0.77,
+      "sources": [
+        {
+          "channel": "toutiao",
+          "rank": 11,
+          "hot": 3553964,
+          "url": "https://www.toutiao.com/trending/7675298745776586771/"
+        },
+        {
+          "channel": "baidu",
+          "rank": 12,
+          "hot": 0,
+          "url": "https://m.baidu.com/s?word=%E5%94%AF%E8%B0%A3%E8%A8%80%E9%A9%AC%E9%A6%96%E6%98%AF%E7%9E%BB%EF%BC%9F%E9%A9%AC%E9%A6%96%E7%AC%AC1%E4%B8%AA%E4%B8%8D%E5%90%8C%E6%84%8F&sa=fyb_news"
+        }
+      ],
+      "summary": "",
+      "url": "https://www.toutiao.com/trending/7675298745776586771/"
     },
     {
       "id": "evt-50000000",
@@ -89,86 +203,23 @@
       "url": ""
     },
     {
-      "id": "evt-icu00000",
-      "title": "女童遭海蜇蜇伤进 ICU 抢救，母亲称 5 米外救生员未施救，景区和救生员该担责吗？被海蜇蜇伤应怎样处理？",
+      "id": "evt-ai000000",
+      "title": "柯洁称找到了破解围棋 AI 的方法，只需要装弱智哪怕让 AI 九子也能赢，这招可行吗？是什么原理？",
       "category": "society",
-      "hotScore": 0.6,
+      "hotScore": 0.525,
       "freshness": 1,
       "crossSource": 0.6309,
-      "totalScore": 0.7293,
+      "totalScore": 0.6993,
       "sources": [
         {
           "channel": "zhihu",
-          "rank": 5,
+          "rank": 7,
           "hot": 0,
           "url": ""
         }
       ],
       "summary": "",
       "url": ""
-    },
-    {
-      "id": "evt-46000000",
-      "title": "46岁小罗正式复出",
-      "category": "society",
-      "hotScore": 0.56,
-      "freshness": 1,
-      "crossSource": 0.6309,
-      "totalScore": 0.7133,
-      "sources": [
-        {
-          "channel": "baidu",
-          "rank": 7,
-          "hot": 0,
-          "url": "https://m.baidu.com/s?word=46%E5%B2%81%E5%B0%8F%E7%BD%97%E6%AD%A3%E5%BC%8F%E5%A4%8D%E5%87%BA&sa=fyb_news"
-        }
-      ],
-      "summary": "",
-      "url": "https://m.baidu.com/s?word=46%E5%B2%81%E5%B0%8F%E7%BD%97%E6%AD%A3%E5%BC%8F%E5%A4%8D%E5%87%BA&sa=fyb_news"
-    },
-    {
-      "id": "evt-10000000",
-      "title": "张本美和：对阵孙颖莎拿1分都侥幸",
-      "category": "society",
-      "hotScore": 0.5525,
-      "freshness": 1,
-      "crossSource": 0.6309,
-      "totalScore": 0.7103,
-      "sources": [
-        {
-          "channel": "toutiao",
-          "rank": 8,
-          "hot": 45500980,
-          "url": "https://www.toutiao.com/trending/7675859953286168630/"
-        }
-      ],
-      "summary": "",
-      "url": "https://www.toutiao.com/trending/7675859953286168630/"
-    },
-    {
-      "id": "evt-60040000",
-      "title": "月租600电费400 租客不敢开空调",
-      "category": "society",
-      "hotScore": 0.2,
-      "freshness": 1,
-      "crossSource": 1,
-      "totalScore": 0.68,
-      "sources": [
-        {
-          "channel": "toutiao",
-          "rank": 17,
-          "hot": 18499318,
-          "url": "https://www.toutiao.com/trending/7675566474307682347/"
-        },
-        {
-          "channel": "baidu",
-          "rank": 16,
-          "hot": 0,
-          "url": "https://m.baidu.com/s?word=%E6%9C%88%E7%A7%9F600%E7%94%B5%E8%B4%B9400+%E7%A7%9F%E5%AE%A2%E4%B8%8D%E6%95%A2%E5%BC%80%E7%A9%BA%E8%B0%83&sa=fyb_news"
-        }
-      ],
-      "summary": "",
-      "url": "https://www.toutiao.com/trending/7675566474307682347/"
     }
   ]
 }
