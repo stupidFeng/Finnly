@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-08-21T12:25:07.373Z",
+  "generatedAt": "2026-08-21T14:24:13.386Z",
   "fields": {
     "society": "社会",
     "economy": "经济",
@@ -7,20 +7,52 @@
   },
   "feed": [
     {
+      "id": "evt-00000000",
+      "title": "菲飞机侵入黄岩岛领空 解放军喊话警告",
+      "category": "society",
+      "hotScore": 0.85,
+      "freshness": 0.9999,
+      "crossSource": 0.6309,
+      "totalScore": 0.8293,
+      "sources": [
+        {
+          "channel": "toutiao",
+          "rank": 1,
+          "hot": 14893565,
+          "url": "https://www.toutiao.com/trending/7676397032990621737/"
+        }
+      ],
+      "summary": "",
+      "url": "https://www.toutiao.com/trending/7676397032990621737/"
+    },
+    {
+      "id": "evt-82000000",
+      "title": "曾经顶流｜82岁庞中华：仍在为硬笔书法“正名”",
+      "category": "society",
+      "hotScore": 0.8075,
+      "freshness": 1,
+      "crossSource": 0.6309,
+      "totalScore": 0.8123,
+      "sources": [
+        {
+          "channel": "thepaper",
+          "rank": 2,
+          "hot": 0,
+          "url": "https://www.thepaper.cn/newsDetail_forward_33762358"
+        }
+      ],
+      "summary": "",
+      "url": "https://www.thepaper.cn/newsDetail_forward_33762358"
+    },
+    {
       "id": "evt-25000000",
       "title": "影城推出午休服务 睡2.5小时仅1元多",
       "category": "society",
       "hotScore": 0.76,
       "freshness": 1,
-      "crossSource": 1,
-      "totalScore": 0.904,
+      "crossSource": 0.6309,
+      "totalScore": 0.7933,
       "sources": [
-        {
-          "channel": "toutiao",
-          "rank": 8,
-          "hot": 6603387,
-          "url": "https://www.toutiao.com/trending/7676345020651667497/"
-        },
         {
           "channel": "baidu",
           "rank": 2,
@@ -29,58 +61,58 @@
         }
       ],
       "summary": "",
-      "url": "https://www.toutiao.com/trending/7676345020651667497/"
+      "url": "https://m.baidu.com/s?word=%E5%BD%B1%E5%9F%8E%E6%8E%A8%E5%87%BA%E5%8D%88%E4%BC%91%E6%9C%8D%E5%8A%A1+%E7%9D%A12.5%E5%B0%8F%E6%97%B6%E4%BB%851%E5%85%83%E5%A4%9A&sa=fyb_news"
     },
     {
-      "id": "evt-00000000",
-      "title": "菲飞机侵入黄岩岛领空 解放军喊话警告",
+      "id": "evt-h3n20000",
+      "title": "近期甲型H3N2亚型流感病毒占比上升",
       "category": "society",
-      "hotScore": 0.85,
-      "freshness": 1,
+      "hotScore": 0.7225,
+      "freshness": 0.9999,
       "crossSource": 0.6309,
-      "totalScore": 0.8293,
+      "totalScore": 0.7783,
       "sources": [
         {
           "channel": "toutiao",
-          "rank": 1,
-          "hot": 13297588,
-          "url": "https://www.toutiao.com/trending/7676397032990621737/"
+          "rank": 4,
+          "hot": 11033424,
+          "url": "https://www.toutiao.com/trending/7676430088678359082/"
         }
       ],
       "summary": "",
-      "url": "https://www.toutiao.com/trending/7676397032990621737/"
+      "url": "https://www.toutiao.com/trending/7676430088678359082/"
     },
     {
-      "id": "evt-52800000",
-      "title": "宝马5系跌到28万？济南报价更低",
-      "category": "society",
-      "hotScore": 0.8075,
+      "id": "evt-39000000",
+      "title": "39岁员工厕所里猝死，因打卡后未到工位不被认定工伤？深圳涉事上市公司称将积极推进认定",
+      "category": "economy",
+      "hotScore": 0.51,
       "freshness": 1,
       "crossSource": 0.6309,
-      "totalScore": 0.8123,
+      "totalScore": 0.6933,
       "sources": [
         {
-          "channel": "toutiao",
-          "rank": 2,
-          "hot": 12032155,
-          "url": "https://www.toutiao.com/trending/7676312455009796132/"
+          "channel": "thepaper",
+          "rank": 9,
+          "hot": 0,
+          "url": "https://www.thepaper.cn/newsDetail_forward_33819961"
         }
       ],
       "summary": "",
-      "url": "https://www.toutiao.com/trending/7676312455009796132/"
+      "url": "https://www.thepaper.cn/newsDetail_forward_33819961"
     },
     {
-      "id": "evt-ai000000",
-      "title": "柯洁称找到了破解围棋 AI 的方法，只需要装弱智哪怕让 AI 九子也能赢，这招可行吗？是什么原理？",
+      "id": "evt-deepseek",
+      "title": "怎么评价 DeepSeek-V4-Flash-Vision-Exp 发布，多模态能力表现如何？",
       "category": "society",
-      "hotScore": 0.75,
+      "hotScore": 0.7125,
       "freshness": 1,
       "crossSource": 0.6309,
-      "totalScore": 0.7893,
+      "totalScore": 0.7743,
       "sources": [
         {
           "channel": "zhihu",
-          "rank": 1,
+          "rank": 2,
           "hot": 0,
           "url": ""
         }
@@ -89,37 +121,18 @@
       "url": ""
     },
     {
-      "id": "evt-44000000",
-      "title": "创历史新高！中国44名专家获奖",
-      "category": "society",
-      "hotScore": 0.72,
-      "freshness": 1,
-      "crossSource": 0.6309,
-      "totalScore": 0.7773,
-      "sources": [
-        {
-          "channel": "baidu",
-          "rank": 3,
-          "hot": 0,
-          "url": "https://m.baidu.com/s?word=%E5%88%9B%E5%8E%86%E5%8F%B2%E6%96%B0%E9%AB%98%EF%BC%81%E4%B8%AD%E5%9B%BD44%E5%90%8D%E4%B8%93%E5%AE%B6%E8%8E%B7%E5%A5%96&sa=fyb_news"
-        }
-      ],
-      "summary": "",
-      "url": "https://m.baidu.com/s?word=%E5%88%9B%E5%8E%86%E5%8F%B2%E6%96%B0%E9%AB%98%EF%BC%81%E4%B8%AD%E5%9B%BD44%E5%90%8D%E4%B8%93%E5%AE%B6%E8%8E%B7%E5%A5%96&sa=fyb_news"
-    },
-    {
       "id": "evt-10000000",
       "title": "湖北快递员被罚100元结束生命不实",
       "category": "society",
       "hotScore": 0.425,
-      "freshness": 1,
+      "freshness": 0.9999,
       "crossSource": 1,
       "totalScore": 0.77,
       "sources": [
         {
           "channel": "toutiao",
           "rank": 11,
-          "hot": 4891909,
+          "hot": 5479036,
           "url": "https://www.toutiao.com/trending/7676431490146779174/"
         },
         {
@@ -133,27 +146,8 @@
       "url": "https://www.toutiao.com/trending/7676431490146779174/"
     },
     {
-      "id": "evt-57000000",
-      "title": "特斯拉召回超570万辆国产及进口电车",
-      "category": "society",
-      "hotScore": 0.68,
-      "freshness": 1,
-      "crossSource": 0.6309,
-      "totalScore": 0.7613,
-      "sources": [
-        {
-          "channel": "toutiao",
-          "rank": 5,
-          "hot": 8913640,
-          "url": "https://www.toutiao.com/trending/7676427314149723711/"
-        }
-      ],
-      "summary": "",
-      "url": "https://www.toutiao.com/trending/7676427314149723711/"
-    },
-    {
-      "id": "evt-82000000",
-      "title": "曾经顶流｜82岁庞中华：仍在为硬笔书法“正名”",
+      "id": "evt-30000000",
+      "title": "菲律宾3架小型飞机非法侵入中国黄岩岛领空，南部战区空军新闻发言人回应",
       "category": "society",
       "hotScore": 0.68,
       "freshness": 1,
@@ -164,15 +158,15 @@
           "channel": "thepaper",
           "rank": 5,
           "hot": 0,
-          "url": "https://www.thepaper.cn/newsDetail_forward_33762358"
+          "url": "https://www.thepaper.cn/newsDetail_forward_33824976"
         }
       ],
       "summary": "",
-      "url": "https://www.thepaper.cn/newsDetail_forward_33762358"
+      "url": "https://www.thepaper.cn/newsDetail_forward_33824976"
     },
     {
-      "id": "evt-icu00000",
-      "title": "女童遭海蜇蜇伤进 ICU 抢救，母亲称 5 米外救生员未施救，景区和救生员该担责吗？被海蜇蜇伤应怎样处理？",
+      "id": "evt-ai000000",
+      "title": "柯洁称找到了破解围棋 AI 的方法，只需要装弱智哪怕让 AI 九子也能赢，这招可行吗？是什么原理？",
       "category": "society",
       "hotScore": 0.675,
       "freshness": 1,
@@ -190,27 +184,8 @@
       "url": ""
     },
     {
-      "id": "evt-90000000",
-      "title": "男子怀念时光给9名聚餐学生买单",
-      "category": "society",
-      "hotScore": 0.6375,
-      "freshness": 1,
-      "crossSource": 0.6309,
-      "totalScore": 0.7443,
-      "sources": [
-        {
-          "channel": "toutiao",
-          "rank": 6,
-          "hot": 8065395,
-          "url": "https://www.toutiao.com/trending/7676388881842831898/"
-        }
-      ],
-      "summary": "",
-      "url": "https://www.toutiao.com/trending/7676388881842831898/"
-    },
-    {
-      "id": "evt-deepseek",
-      "title": "怎么评价 DeepSeek-V4-Flash-Vision-Exp 发布，多模态能力表现如何？",
+      "id": "evt-15000000",
+      "title": "台风「美莎克」致广西两地 159 人遇难 10 人失联，哪些信息值得关注？",
       "category": "society",
       "hotScore": 0.6375,
       "freshness": 1,
@@ -228,18 +203,37 @@
       "url": ""
     },
     {
-      "id": "evt-16205000",
-      "title": "歼16运20空警500赴埃及演习有何意义",
+      "id": "evt-ix300000",
+      "title": "全新宝马iX3降价入场",
       "category": "society",
       "hotScore": 0.595,
-      "freshness": 1,
+      "freshness": 0.9999,
       "crossSource": 0.6309,
       "totalScore": 0.7273,
       "sources": [
         {
           "channel": "toutiao",
           "rank": 7,
-          "hot": 7297871,
+          "hot": 8173762,
+          "url": "https://www.toutiao.com/trending/7676449450742615579/"
+        }
+      ],
+      "summary": "",
+      "url": "https://www.toutiao.com/trending/7676449450742615579/"
+    },
+    {
+      "id": "evt-16205000",
+      "title": "歼16运20空警500赴埃及演习有何意义",
+      "category": "society",
+      "hotScore": 0.5525,
+      "freshness": 0.9999,
+      "crossSource": 0.6309,
+      "totalScore": 0.7103,
+      "sources": [
+        {
+          "channel": "toutiao",
+          "rank": 8,
+          "hot": 7395925,
           "url": "https://www.toutiao.com/trending/7676420386581384714/"
         }
       ],
@@ -247,61 +241,23 @@
       "url": "https://www.toutiao.com/trending/7676420386581384714/"
     },
     {
-      "id": "evt-23000000",
-      "title": "2 人买 3 个火车座位放零食拒让座，12306 称购票座位属购票人， 这种情况该让座吗？规则可如何完善？",
+      "id": "evt-ev000000",
+      "title": "大汉EV预售价贵不贵",
       "category": "society",
-      "hotScore": 0.525,
-      "freshness": 1,
+      "hotScore": 0.4675,
+      "freshness": 0.9999,
       "crossSource": 0.6309,
-      "totalScore": 0.6993,
+      "totalScore": 0.6763,
       "sources": [
         {
-          "channel": "zhihu",
-          "rank": 7,
-          "hot": 0,
-          "url": ""
+          "channel": "toutiao",
+          "rank": 10,
+          "hot": 6055271,
+          "url": "https://www.toutiao.com/trending/7676324223321849919/"
         }
       ],
       "summary": "",
-      "url": ""
-    },
-    {
-      "id": "evt-ktv00000",
-      "title": "男子在KTV包厢厕所殴打女子被刑拘",
-      "category": "society",
-      "hotScore": 0.48,
-      "freshness": 1,
-      "crossSource": 0.6309,
-      "totalScore": 0.6813,
-      "sources": [
-        {
-          "channel": "baidu",
-          "rank": 9,
-          "hot": 0,
-          "url": "https://m.baidu.com/s?word=%E7%94%B7%E5%AD%90%E5%9C%A8KTV%E5%8C%85%E5%8E%A2%E5%8E%95%E6%89%80%E6%AE%B4%E6%89%93%E5%A5%B3%E5%AD%90%E8%A2%AB%E5%88%91%E6%8B%98&sa=fyb_news"
-        }
-      ],
-      "summary": "",
-      "url": "https://m.baidu.com/s?word=%E7%94%B7%E5%AD%90%E5%9C%A8KTV%E5%8C%85%E5%8E%A2%E5%8E%95%E6%89%80%E6%AE%B4%E6%89%93%E5%A5%B3%E5%AD%90%E8%A2%AB%E5%88%91%E6%8B%98&sa=fyb_news"
-    },
-    {
-      "id": "evt-30000000",
-      "title": "菲律宾3架小型飞机非法侵入中国黄岩岛领空，南部战区空军新闻发言人回应",
-      "category": "society",
-      "hotScore": 0.425,
-      "freshness": 1,
-      "crossSource": 0.6309,
-      "totalScore": 0.6593,
-      "sources": [
-        {
-          "channel": "thepaper",
-          "rank": 11,
-          "hot": 0,
-          "url": "https://www.thepaper.cn/newsDetail_forward_33824976"
-        }
-      ],
-      "summary": "",
-      "url": "https://www.thepaper.cn/newsDetail_forward_33824976"
+      "url": "https://www.toutiao.com/trending/7676324223321849919/"
     }
   ]
 }
