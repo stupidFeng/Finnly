@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-08-21T08:26:43.730Z",
+  "generatedAt": "2026-08-21T10:19:21.677Z",
   "fields": {
     "society": "社会",
     "economy": "经济",
@@ -8,22 +8,22 @@
   "feed": [
     {
       "id": "evt-00000000",
-      "title": "扬州钓友钓鱼钓出一袋疑似公章",
+      "title": "菲飞机侵入黄岩岛领空 解放军喊话警告",
       "category": "society",
       "hotScore": 0.85,
-      "freshness": 0.9999,
-      "crossSource": 1,
-      "totalScore": 0.94,
+      "freshness": 1,
+      "crossSource": 0.6309,
+      "totalScore": 0.8293,
       "sources": [
         {
           "channel": "toutiao",
           "rank": 1,
-          "hot": 11845685,
-          "url": "https://www.toutiao.com/trending/7676365785212895278/"
+          "hot": 12563354,
+          "url": "https://www.toutiao.com/trending/7676397032990621737/"
         }
       ],
       "summary": "",
-      "url": "https://www.toutiao.com/trending/7676365785212895278/"
+      "url": "https://www.toutiao.com/trending/7676397032990621737/"
     },
     {
       "id": "evt-27000000",
@@ -31,8 +31,8 @@
       "category": "society",
       "hotScore": 0.85,
       "freshness": 1,
-      "crossSource": 1,
-      "totalScore": 0.94,
+      "crossSource": 0.6309,
+      "totalScore": 0.8293,
       "sources": [
         {
           "channel": "thepaper",
@@ -45,13 +45,38 @@
       "url": "https://www.thepaper.cn/newsDetail_forward_33818955"
     },
     {
+      "id": "evt-15800000",
+      "title": "问界儿童车预计定价15800元",
+      "category": "society",
+      "hotScore": 0.56,
+      "freshness": 1,
+      "crossSource": 1,
+      "totalScore": 0.824,
+      "sources": [
+        {
+          "channel": "toutiao",
+          "rank": 15,
+          "hot": 3098085,
+          "url": "https://www.toutiao.com/trending/7675947489971912747/"
+        },
+        {
+          "channel": "baidu",
+          "rank": 7,
+          "hot": 0,
+          "url": "https://m.baidu.com/s?word=%E9%97%AE%E7%95%8C%E5%84%BF%E7%AB%A5%E8%BD%A6%E9%A2%84%E8%AE%A1%E5%AE%9A%E4%BB%B715800%E5%85%83&sa=fyb_news"
+        }
+      ],
+      "summary": "",
+      "url": "https://www.toutiao.com/trending/7675947489971912747/"
+    },
+    {
       "id": "evt-70000000",
       "title": "加密货币大涨：比特币突破7.2万美元，超19万人爆仓",
       "category": "society",
       "hotScore": 0.765,
       "freshness": 1,
-      "crossSource": 1,
-      "totalScore": 0.906,
+      "crossSource": 0.6309,
+      "totalScore": 0.7953,
       "sources": [
         {
           "channel": "thepaper",
@@ -64,17 +89,36 @@
       "url": "https://www.thepaper.cn/newsDetail_forward_33819275"
     },
     {
+      "id": "evt-10000000",
+      "title": "外交部回应朝鲜发射10余枚弹道导弹",
+      "category": "society",
+      "hotScore": 0.7225,
+      "freshness": 1,
+      "crossSource": 0.6309,
+      "totalScore": 0.7783,
+      "sources": [
+        {
+          "channel": "toutiao",
+          "rank": 4,
+          "hot": 9307162,
+          "url": "https://www.toutiao.com/trending/7675626343611269163/"
+        }
+      ],
+      "summary": "",
+      "url": "https://www.toutiao.com/trending/7675626343611269163/"
+    },
+    {
       "id": "evt-25000000",
       "title": "影城推出午休服务 睡2.5小时仅1元多",
       "category": "society",
-      "hotScore": 0.76,
+      "hotScore": 0.72,
       "freshness": 1,
-      "crossSource": 1,
-      "totalScore": 0.904,
+      "crossSource": 0.6309,
+      "totalScore": 0.7773,
       "sources": [
         {
           "channel": "baidu",
-          "rank": 2,
+          "rank": 3,
           "hot": 0,
           "url": "https://m.baidu.com/s?word=%E5%BD%B1%E5%9F%8E%E6%8E%A8%E5%87%BA%E5%8D%88%E4%BC%91%E6%9C%8D%E5%8A%A1+%E7%9D%A12.5%E5%B0%8F%E6%97%B6%E4%BB%851%E5%85%83%E5%A4%9A&sa=fyb_news"
         }
@@ -83,32 +127,13 @@
       "url": "https://m.baidu.com/s?word=%E5%BD%B1%E5%9F%8E%E6%8E%A8%E5%87%BA%E5%8D%88%E4%BC%91%E6%9C%8D%E5%8A%A1+%E7%9D%A12.5%E5%B0%8F%E6%97%B6%E4%BB%851%E5%85%83%E5%A4%9A&sa=fyb_news"
     },
     {
-      "id": "evt-14000000",
-      "title": "老板半年被骗1400多万 6名演员被抓",
-      "category": "entertainment",
-      "hotScore": 0.72,
-      "freshness": 1,
-      "crossSource": 1,
-      "totalScore": 0.888,
-      "sources": [
-        {
-          "channel": "baidu",
-          "rank": 3,
-          "hot": 0,
-          "url": "https://m.baidu.com/s?word=%E8%80%81%E6%9D%BF%E5%8D%8A%E5%B9%B4%E8%A2%AB%E9%AA%971400%E5%A4%9A%E4%B8%87+6%E5%90%8D%E6%BC%94%E5%91%98%E8%A2%AB%E6%8A%93&sa=fyb_news"
-        }
-      ],
-      "summary": "",
-      "url": "https://m.baidu.com/s?word=%E8%80%81%E6%9D%BF%E5%8D%8A%E5%B9%B4%E8%A2%AB%E9%AA%971400%E5%A4%9A%E4%B8%87+6%E5%90%8D%E6%BC%94%E5%91%98%E8%A2%AB%E6%8A%93&sa=fyb_news"
-    },
-    {
       "id": "evt-icu00000",
       "title": "女童遭海蜇蜇伤进 ICU 抢救，母亲称 5 米外救生员未施救，景区和救生员该担责吗？被海蜇蜇伤应怎样处理？",
       "category": "society",
       "hotScore": 0.7125,
-      "freshness": 0.9999,
-      "crossSource": 1,
-      "totalScore": 0.885,
+      "freshness": 1,
+      "crossSource": 0.6309,
+      "totalScore": 0.7743,
       "sources": [
         {
           "channel": "zhihu",
@@ -121,32 +146,13 @@
       "url": ""
     },
     {
-      "id": "evt-30000000",
-      "title": "女子家中住进30窝燕子 每早开门放鸟",
-      "category": "society",
-      "hotScore": 0.68,
-      "freshness": 0.9999,
-      "crossSource": 1,
-      "totalScore": 0.872,
-      "sources": [
-        {
-          "channel": "toutiao",
-          "rank": 5,
-          "hot": 7940400,
-          "url": "https://www.toutiao.com/trending/7676224498085511214/"
-        }
-      ],
-      "summary": "",
-      "url": "https://www.toutiao.com/trending/7676224498085511214/"
-    },
-    {
       "id": "evt-ai000000",
       "title": "柯洁称找到了破解围棋 AI 的方法，只需要装弱智哪怕让 AI 九子也能赢，这招可行吗？是什么原理？",
       "category": "society",
       "hotScore": 0.675,
-      "freshness": 0.9999,
-      "crossSource": 1,
-      "totalScore": 0.87,
+      "freshness": 1,
+      "crossSource": 0.6309,
+      "totalScore": 0.7593,
       "sources": [
         {
           "channel": "zhihu",
@@ -162,14 +168,14 @@
       "id": "evt-50000000",
       "title": "公司把工位搬到50公里外逼员工辞职",
       "category": "society",
-      "hotScore": 0.64,
+      "hotScore": 0.6,
       "freshness": 1,
-      "crossSource": 1,
-      "totalScore": 0.856,
+      "crossSource": 0.6309,
+      "totalScore": 0.7293,
       "sources": [
         {
           "channel": "baidu",
-          "rank": 5,
+          "rank": 6,
           "hot": 0,
           "url": "https://m.baidu.com/s?word=%E5%85%AC%E5%8F%B8%E6%8A%8A%E5%B7%A5%E4%BD%8D%E6%90%AC%E5%88%B050%E5%85%AC%E9%87%8C%E5%A4%96%E9%80%BC%E5%91%98%E5%B7%A5%E8%BE%9E%E8%81%8C&sa=fyb_news"
         }
@@ -178,61 +184,23 @@
       "url": "https://m.baidu.com/s?word=%E5%85%AC%E5%8F%B8%E6%8A%8A%E5%B7%A5%E4%BD%8D%E6%90%AC%E5%88%B050%E5%85%AC%E9%87%8C%E5%A4%96%E9%80%BC%E5%91%98%E5%B7%A5%E8%BE%9E%E8%81%8C&sa=fyb_news"
     },
     {
-      "id": "evt-15800000",
-      "title": "问界儿童车预计定价15800元",
-      "category": "society",
-      "hotScore": 0.6,
-      "freshness": 1,
-      "crossSource": 1,
-      "totalScore": 0.84,
-      "sources": [
-        {
-          "channel": "baidu",
-          "rank": 6,
-          "hot": 0,
-          "url": "https://m.baidu.com/s?word=%E9%97%AE%E7%95%8C%E5%84%BF%E7%AB%A5%E8%BD%A6%E9%A2%84%E8%AE%A1%E5%AE%9A%E4%BB%B715800%E5%85%83&sa=fyb_news"
-        }
-      ],
-      "summary": "",
-      "url": "https://m.baidu.com/s?word=%E9%97%AE%E7%95%8C%E5%84%BF%E7%AB%A5%E8%BD%A6%E9%A2%84%E8%AE%A1%E5%AE%9A%E4%BB%B715800%E5%85%83&sa=fyb_news"
-    },
-    {
-      "id": "evt-m9ultimate",
-      "title": "问界M9 Ultimate亮相2026成都车展",
+      "id": "evt-60000000",
+      "title": "男子带6只烈犬上门撕咬邻居致其重伤",
       "category": "society",
       "hotScore": 0.595,
-      "freshness": 0.9999,
-      "crossSource": 1,
-      "totalScore": 0.838,
+      "freshness": 1,
+      "crossSource": 0.6309,
+      "totalScore": 0.7273,
       "sources": [
         {
           "channel": "toutiao",
           "rank": 7,
-          "hot": 6501050,
-          "url": "https://www.toutiao.com/trending/7676362860746001966/"
+          "hot": 6894915,
+          "url": "https://www.toutiao.com/trending/7676000789663547913/"
         }
       ],
       "summary": "",
-      "url": "https://www.toutiao.com/trending/7676362860746001966/"
-    },
-    {
-      "id": "evt-38000000",
-      "title": "3.8万买的老铺黄金 二手只能卖1.9万",
-      "category": "society",
-      "hotScore": 0.56,
-      "freshness": 1,
-      "crossSource": 1,
-      "totalScore": 0.824,
-      "sources": [
-        {
-          "channel": "baidu",
-          "rank": 7,
-          "hot": 0,
-          "url": "https://m.baidu.com/s?word=3.8%E4%B8%87%E4%B9%B0%E7%9A%84%E8%80%81%E9%93%BA%E9%BB%84%E9%87%91+%E4%BA%8C%E6%89%8B%E5%8F%AA%E8%83%BD%E5%8D%961.9%E4%B8%87&sa=fyb_news"
-        }
-      ],
-      "summary": "",
-      "url": "https://m.baidu.com/s?word=3.8%E4%B8%87%E4%B9%B0%E7%9A%84%E8%80%81%E9%93%BA%E9%BB%84%E9%87%91+%E4%BA%8C%E6%89%8B%E5%8F%AA%E8%83%BD%E5%8D%961.9%E4%B8%87&sa=fyb_news"
+      "url": "https://www.toutiao.com/trending/7676000789663547913/"
     },
     {
       "id": "evt-82000000",
@@ -240,8 +208,8 @@
       "category": "society",
       "hotScore": 0.5525,
       "freshness": 1,
-      "crossSource": 1,
-      "totalScore": 0.821,
+      "crossSource": 0.6309,
+      "totalScore": 0.7103,
       "sources": [
         {
           "channel": "thepaper",
@@ -252,6 +220,82 @@
       ],
       "summary": "",
       "url": "https://www.thepaper.cn/newsDetail_forward_33762358"
+    },
+    {
+      "id": "evt-20000000",
+      "title": "处长单位门口遭枪击 凶手25年未找到",
+      "category": "society",
+      "hotScore": 0.52,
+      "freshness": 1,
+      "crossSource": 0.6309,
+      "totalScore": 0.6973,
+      "sources": [
+        {
+          "channel": "baidu",
+          "rank": 8,
+          "hot": 0,
+          "url": "https://m.baidu.com/s?word=%E5%A4%84%E9%95%BF%E5%8D%95%E4%BD%8D%E9%97%A8%E5%8F%A3%E9%81%AD%E6%9E%AA%E5%87%BB+%E5%87%B6%E6%89%8B25%E5%B9%B4%E6%9C%AA%E6%89%BE%E5%88%B0&sa=fyb_news"
+        }
+      ],
+      "summary": "",
+      "url": "https://m.baidu.com/s?word=%E5%A4%84%E9%95%BF%E5%8D%95%E4%BD%8D%E9%97%A8%E5%8F%A3%E9%81%AD%E6%9E%AA%E5%87%BB+%E5%87%B6%E6%89%8B25%E5%B9%B4%E6%9C%AA%E6%89%BE%E5%88%B0&sa=fyb_news"
+    },
+    {
+      "id": "evt-ios00000",
+      "title": "微信按住转文字仅在iOS端测试",
+      "category": "society",
+      "hotScore": 0.51,
+      "freshness": 1,
+      "crossSource": 0.6309,
+      "totalScore": 0.6933,
+      "sources": [
+        {
+          "channel": "toutiao",
+          "rank": 9,
+          "hot": 5645079,
+          "url": "https://www.toutiao.com/trending/7675748976494280730/"
+        }
+      ],
+      "summary": "",
+      "url": "https://www.toutiao.com/trending/7675748976494280730/"
+    },
+    {
+      "id": "evt-23000000",
+      "title": "2 人买 3 个火车座位放零食拒让座，12306 称购票座位属购票人， 这种情况该让座吗？规则可如何完善？",
+      "category": "society",
+      "hotScore": 0.4875,
+      "freshness": 1,
+      "crossSource": 0.6309,
+      "totalScore": 0.6843,
+      "sources": [
+        {
+          "channel": "zhihu",
+          "rank": 8,
+          "hot": 0,
+          "url": ""
+        }
+      ],
+      "summary": "",
+      "url": ""
+    },
+    {
+      "id": "evt-80000000",
+      "title": "一架飞机在美坠毁 8人遇难",
+      "category": "society",
+      "hotScore": 0.48,
+      "freshness": 1,
+      "crossSource": 0.6309,
+      "totalScore": 0.6813,
+      "sources": [
+        {
+          "channel": "baidu",
+          "rank": 9,
+          "hot": 0,
+          "url": "https://m.baidu.com/s?word=%E4%B8%80%E6%9E%B6%E9%A3%9E%E6%9C%BA%E5%9C%A8%E7%BE%8E%E5%9D%A0%E6%AF%81+8%E4%BA%BA%E9%81%87%E9%9A%BE&sa=fyb_news"
+        }
+      ],
+      "summary": "",
+      "url": "https://m.baidu.com/s?word=%E4%B8%80%E6%9E%B6%E9%A3%9E%E6%9C%BA%E5%9C%A8%E7%BE%8E%E5%9D%A0%E6%AF%81+8%E4%BA%BA%E9%81%87%E9%9A%BE&sa=fyb_news"
     }
   ]
 }
