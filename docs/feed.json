@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-08-21T16:20:19.297Z",
+  "generatedAt": "2026-08-21T18:21:41.055Z",
   "fields": {
     "society": "社会",
     "economy": "经济",
@@ -18,7 +18,7 @@
         {
           "channel": "toutiao",
           "rank": 1,
-          "hot": 17228969,
+          "hot": 18273676,
           "url": "https://www.toutiao.com/trending/7676452916517703210/"
         }
       ],
@@ -64,63 +64,6 @@
       "url": "https://m.baidu.com/s?word=12.4%E4%B8%87%E4%BA%BF%E5%85%83%EF%BC%81%E5%85%B3%E4%B9%8E%E4%BD%A0%E7%9A%84%E8%A1%A3%E9%A3%9F%E4%BD%8F%E8%A1%8C&sa=fyb_news"
     },
     {
-      "id": "evt-30000000",
-      "title": "菲律宾3架小型飞机非法侵入中国黄岩岛领空，南部战区空军新闻发言人回应",
-      "category": "society",
-      "hotScore": 0.7225,
-      "freshness": 1,
-      "crossSource": 0.6309,
-      "totalScore": 0.7783,
-      "sources": [
-        {
-          "channel": "thepaper",
-          "rank": 4,
-          "hot": 0,
-          "url": "https://www.thepaper.cn/newsDetail_forward_33824976"
-        }
-      ],
-      "summary": "",
-      "url": "https://www.thepaper.cn/newsDetail_forward_33824976"
-    },
-    {
-      "id": "evt-39000000",
-      "title": "39岁员工厕所里猝死，因打卡后未到工位不被认定工伤？深圳涉事上市公司称将积极推进认定",
-      "category": "economy",
-      "hotScore": 0.68,
-      "freshness": 1,
-      "crossSource": 0.6309,
-      "totalScore": 0.7613,
-      "sources": [
-        {
-          "channel": "thepaper",
-          "rank": 5,
-          "hot": 0,
-          "url": "https://www.thepaper.cn/newsDetail_forward_33819961"
-        }
-      ],
-      "summary": "",
-      "url": "https://www.thepaper.cn/newsDetail_forward_33819961"
-    },
-    {
-      "id": "evt-deepseek",
-      "title": "怎么评价 DeepSeek-V4-Flash-Vision-Exp 发布，多模态能力表现如何？",
-      "category": "society",
-      "hotScore": 0.7125,
-      "freshness": 1,
-      "crossSource": 0.6309,
-      "totalScore": 0.7743,
-      "sources": [
-        {
-          "channel": "zhihu",
-          "rank": 2,
-          "hot": 0,
-          "url": ""
-        }
-      ],
-      "summary": "",
-      "url": ""
-    },
-    {
       "id": "evt-10000000",
       "title": "湖北快递员被罚100元结束生命不实",
       "category": "society",
@@ -132,7 +75,7 @@
         {
           "channel": "toutiao",
           "rank": 11,
-          "hot": 6338183,
+          "hot": 6722510,
           "url": "https://www.toutiao.com/trending/7676431490146779174/"
         },
         {
@@ -144,6 +87,44 @@
       ],
       "summary": "",
       "url": "https://www.toutiao.com/trending/7676431490146779174/"
+    },
+    {
+      "id": "evt-39000000",
+      "title": "39岁员工厕所里猝死，因打卡后未到工位不被认定工伤？深圳涉事上市公司称将积极推进认定",
+      "category": "economy",
+      "hotScore": 0.8075,
+      "freshness": 1,
+      "crossSource": 0.6309,
+      "totalScore": 0.8123,
+      "sources": [
+        {
+          "channel": "thepaper",
+          "rank": 2,
+          "hot": 0,
+          "url": "https://www.thepaper.cn/newsDetail_forward_33819961"
+        }
+      ],
+      "summary": "",
+      "url": "https://www.thepaper.cn/newsDetail_forward_33819961"
+    },
+    {
+      "id": "evt-deepseek",
+      "title": "怎么评价 DeepSeek-V4-Flash-Vision-Exp 发布，多模态能力表现如何？",
+      "category": "society",
+      "hotScore": 0.675,
+      "freshness": 1,
+      "crossSource": 0.6309,
+      "totalScore": 0.7593,
+      "sources": [
+        {
+          "channel": "zhihu",
+          "rank": 3,
+          "hot": 0,
+          "url": ""
+        }
+      ],
+      "summary": "",
+      "url": ""
     },
     {
       "id": "evt-25000000",
@@ -165,8 +146,8 @@
       "url": "https://m.baidu.com/s?word=%E5%BD%B1%E5%9F%8E%E6%8E%A8%E5%87%BA%E5%8D%88%E4%BC%91%E6%9C%8D%E5%8A%A1+%E7%9D%A12.5%E5%B0%8F%E6%97%B6%E4%BB%851%E5%85%83%E5%A4%9A&sa=fyb_news"
     },
     {
-      "id": "evt-b0000000",
-      "title": "成都车展：新势力低调卖车BBA重回C位",
+      "id": "evt-55000000",
+      "title": "女子55元捡漏万元奢侈品项链遭劝退款",
       "category": "society",
       "hotScore": 0.6375,
       "freshness": 1,
@@ -176,16 +157,16 @@
         {
           "channel": "toutiao",
           "rank": 6,
-          "hot": 10449898,
-          "url": "https://www.toutiao.com/trending/7676482314603351598/"
+          "hot": 11083545,
+          "url": "https://www.toutiao.com/trending/7676362381274464262/"
         }
       ],
       "summary": "",
-      "url": "https://www.toutiao.com/trending/7676482314603351598/"
+      "url": "https://www.toutiao.com/trending/7676362381274464262/"
     },
     {
-      "id": "evt-82100000",
-      "title": "如何看待 8 月 21 日市场监管总局公告 9 家车企（特斯拉，小米，小鹏等）因车门紧急拉手不醒目召回多款汽车？",
+      "id": "evt-30000000",
+      "title": "菲律宾3架小型飞机非法侵入中国黄岩岛领空，南部战区空军新闻发言人回应",
       "category": "society",
       "hotScore": 0.6375,
       "freshness": 1,
@@ -193,14 +174,14 @@
       "totalScore": 0.7443,
       "sources": [
         {
-          "channel": "zhihu",
-          "rank": 4,
+          "channel": "thepaper",
+          "rank": 6,
           "hot": 0,
-          "url": ""
+          "url": "https://www.thepaper.cn/newsDetail_forward_33824976"
         }
       ],
       "summary": "",
-      "url": ""
+      "url": "https://www.thepaper.cn/newsDetail_forward_33824976"
     },
     {
       "id": "evt-15000000",
@@ -222,25 +203,6 @@
       "url": ""
     },
     {
-      "id": "evt-52800000",
-      "title": "宝马5系跌到28万？济南报价更低",
-      "category": "society",
-      "hotScore": 0.595,
-      "freshness": 1,
-      "crossSource": 0.6309,
-      "totalScore": 0.7273,
-      "sources": [
-        {
-          "channel": "toutiao",
-          "rank": 7,
-          "hot": 9455458,
-          "url": "https://www.toutiao.com/trending/7676312455009796132/"
-        }
-      ],
-      "summary": "",
-      "url": "https://www.toutiao.com/trending/7676312455009796132/"
-    },
-    {
       "id": "evt-91550000",
       "title": "鸡蛋售价9天上涨15.5%",
       "category": "society",
@@ -260,8 +222,27 @@
       "url": "https://m.baidu.com/s?word=%E9%B8%A1%E8%9B%8B%E5%94%AE%E4%BB%B79%E5%A4%A9%E4%B8%8A%E6%B6%A815.5%25&sa=fyb_news"
     },
     {
-      "id": "evt-80000000",
-      "title": "大众插混中型轿车起售价8.99万元",
+      "id": "evt-mmorpg00",
+      "title": "MMORPG 游戏《诡秘之主》开服一小时同时在线破 70 万，这游戏玩起来怎么样？",
+      "category": "society",
+      "hotScore": 0.525,
+      "freshness": 1,
+      "crossSource": 0.6309,
+      "totalScore": 0.6993,
+      "sources": [
+        {
+          "channel": "zhihu",
+          "rank": 7,
+          "hot": 0,
+          "url": ""
+        }
+      ],
+      "summary": "",
+      "url": ""
+    },
+    {
+      "id": "evt-15800000",
+      "title": "问界儿童车售价15800元",
       "category": "society",
       "hotScore": 0.51,
       "freshness": 1,
@@ -271,12 +252,31 @@
         {
           "channel": "toutiao",
           "rank": 9,
-          "hot": 7741475,
-          "url": "https://www.toutiao.com/trending/7676469261136629274/"
+          "hot": 8210892,
+          "url": "https://www.toutiao.com/trending/7675947489971912747/"
         }
       ],
       "summary": "",
-      "url": "https://www.toutiao.com/trending/7676469261136629274/"
+      "url": "https://www.toutiao.com/trending/7675947489971912747/"
+    },
+    {
+      "id": "evt-ktv00000",
+      "title": "绍兴警方通报女子在KTV包厢厕所遭殴打：嫌疑人涉故意伤害罪被刑拘",
+      "category": "society",
+      "hotScore": 0.4675,
+      "freshness": 1,
+      "crossSource": 0.6309,
+      "totalScore": 0.6763,
+      "sources": [
+        {
+          "channel": "thepaper",
+          "rank": 10,
+          "hot": 0,
+          "url": "https://www.thepaper.cn/newsDetail_forward_33825639"
+        }
+      ],
+      "summary": "",
+      "url": "https://www.thepaper.cn/newsDetail_forward_33825639"
     },
     {
       "id": "evt-40000000",
