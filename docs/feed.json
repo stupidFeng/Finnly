@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-08-21T18:21:41.055Z",
+  "generatedAt": "2026-08-21T20:14:00.539Z",
   "fields": {
     "society": "社会",
     "economy": "经济",
@@ -18,7 +18,7 @@
         {
           "channel": "toutiao",
           "rank": 1,
-          "hot": 18273676,
+          "hot": 18874610,
           "url": "https://www.toutiao.com/trending/7676452916517703210/"
         }
       ],
@@ -75,7 +75,7 @@
         {
           "channel": "toutiao",
           "rank": 11,
-          "hot": 6722510,
+          "hot": 6943581,
           "url": "https://www.toutiao.com/trending/7676431490146779174/"
         },
         {
@@ -146,46 +146,8 @@
       "url": "https://m.baidu.com/s?word=%E5%BD%B1%E5%9F%8E%E6%8E%A8%E5%87%BA%E5%8D%88%E4%BC%91%E6%9C%8D%E5%8A%A1+%E7%9D%A12.5%E5%B0%8F%E6%97%B6%E4%BB%851%E5%85%83%E5%A4%9A&sa=fyb_news"
     },
     {
-      "id": "evt-55000000",
-      "title": "女子55元捡漏万元奢侈品项链遭劝退款",
-      "category": "society",
-      "hotScore": 0.6375,
-      "freshness": 1,
-      "crossSource": 0.6309,
-      "totalScore": 0.7443,
-      "sources": [
-        {
-          "channel": "toutiao",
-          "rank": 6,
-          "hot": 11083545,
-          "url": "https://www.toutiao.com/trending/7676362381274464262/"
-        }
-      ],
-      "summary": "",
-      "url": "https://www.toutiao.com/trending/7676362381274464262/"
-    },
-    {
       "id": "evt-30000000",
-      "title": "菲律宾3架小型飞机非法侵入中国黄岩岛领空，南部战区空军新闻发言人回应",
-      "category": "society",
-      "hotScore": 0.6375,
-      "freshness": 1,
-      "crossSource": 0.6309,
-      "totalScore": 0.7443,
-      "sources": [
-        {
-          "channel": "thepaper",
-          "rank": 6,
-          "hot": 0,
-          "url": "https://www.thepaper.cn/newsDetail_forward_33824976"
-        }
-      ],
-      "summary": "",
-      "url": "https://www.thepaper.cn/newsDetail_forward_33824976"
-    },
-    {
-      "id": "evt-15000000",
-      "title": "台风「美莎克」致广西两地 159 人遇难 10 人失联，哪些信息值得关注？",
+      "title": "30 岁男子失业后网贷缠身，饿 20 天急性肾衰入院确诊韦尼克脑病，这是一种什么病？与其生活习惯有多大关系？",
       "category": "society",
       "hotScore": 0.6,
       "freshness": 1,
@@ -195,6 +157,25 @@
         {
           "channel": "zhihu",
           "rank": 5,
+          "hot": 0,
+          "url": ""
+        }
+      ],
+      "summary": "",
+      "url": ""
+    },
+    {
+      "id": "evt-15000000",
+      "title": "台风「美莎克」致广西两地 159 人遇难 10 人失联，哪些信息值得关注？",
+      "category": "society",
+      "hotScore": 0.5625,
+      "freshness": 1,
+      "crossSource": 0.6309,
+      "totalScore": 0.7143,
+      "sources": [
+        {
+          "channel": "zhihu",
+          "rank": 6,
           "hot": 0,
           "url": ""
         }
@@ -222,6 +203,25 @@
       "url": "https://m.baidu.com/s?word=%E9%B8%A1%E8%9B%8B%E5%94%AE%E4%BB%B79%E5%A4%A9%E4%B8%8A%E6%B6%A815.5%25&sa=fyb_news"
     },
     {
+      "id": "evt-ktv00000",
+      "title": "绍兴警方通报女子在KTV包厢厕所遭殴打：嫌疑人涉故意伤害罪被刑拘",
+      "category": "society",
+      "hotScore": 0.5525,
+      "freshness": 1,
+      "crossSource": 0.6309,
+      "totalScore": 0.7103,
+      "sources": [
+        {
+          "channel": "thepaper",
+          "rank": 8,
+          "hot": 0,
+          "url": "https://www.thepaper.cn/newsDetail_forward_33825639"
+        }
+      ],
+      "summary": "",
+      "url": "https://www.thepaper.cn/newsDetail_forward_33825639"
+    },
+    {
       "id": "evt-mmorpg00",
       "title": "MMORPG 游戏《诡秘之主》开服一小时同时在线破 70 万，这游戏玩起来怎么样？",
       "category": "society",
@@ -241,27 +241,8 @@
       "url": ""
     },
     {
-      "id": "evt-15800000",
-      "title": "问界儿童车售价15800元",
-      "category": "society",
-      "hotScore": 0.51,
-      "freshness": 1,
-      "crossSource": 0.6309,
-      "totalScore": 0.6933,
-      "sources": [
-        {
-          "channel": "toutiao",
-          "rank": 9,
-          "hot": 8210892,
-          "url": "https://www.toutiao.com/trending/7675947489971912747/"
-        }
-      ],
-      "summary": "",
-      "url": "https://www.toutiao.com/trending/7675947489971912747/"
-    },
-    {
-      "id": "evt-ktv00000",
-      "title": "绍兴警方通报女子在KTV包厢厕所遭殴打：嫌疑人涉故意伤害罪被刑拘",
+      "id": "evt-55000000",
+      "title": "女子55元捡漏万元奢侈品项链遭劝退款",
       "category": "society",
       "hotScore": 0.4675,
       "freshness": 1,
@@ -269,14 +250,14 @@
       "totalScore": 0.6763,
       "sources": [
         {
-          "channel": "thepaper",
+          "channel": "toutiao",
           "rank": 10,
-          "hot": 0,
-          "url": "https://www.thepaper.cn/newsDetail_forward_33825639"
+          "hot": 7673843,
+          "url": "https://www.toutiao.com/trending/7676362381274464262/"
         }
       ],
       "summary": "",
-      "url": "https://www.thepaper.cn/newsDetail_forward_33825639"
+      "url": "https://www.toutiao.com/trending/7676362381274464262/"
     },
     {
       "id": "evt-40000000",
