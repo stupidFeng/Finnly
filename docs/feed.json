@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-08-22T10:12:58.885Z",
+  "generatedAt": "2026-08-22T12:17:56.399Z",
   "fields": {
     "society": "社会",
     "economy": "经济",
@@ -8,142 +8,104 @@
   "feed": [
     {
       "id": "evt-00000000",
-      "title": "男子患癌在车间自缢 公司赔20余万",
+      "title": "世界人形机器人运动会",
       "category": "society",
-      "hotScore": 0.595,
-      "freshness": 0.9999,
+      "hotScore": 0.6375,
+      "freshness": 1,
       "crossSource": 1,
-      "totalScore": 0.838,
+      "totalScore": 0.855,
       "sources": [
         {
           "channel": "toutiao",
-          "rank": 7,
-          "hot": 17753459,
-          "url": "https://www.toutiao.com/trending/7676481699853402131/"
+          "rank": 6,
+          "hot": 21566427,
+          "url": "https://www.toutiao.com/trending/7676818144995986970/"
         },
         {
           "channel": "baidu",
-          "rank": 18,
+          "rank": 8,
           "hot": 0,
-          "url": "https://m.baidu.com/s?word=%E7%94%B7%E5%AD%90%E6%82%A3%E7%99%8C%E5%9C%A8%E8%BD%A6%E9%97%B4%E8%87%AA%E7%BC%A2+%E5%85%AC%E5%8F%B8%E8%B5%9420%E4%BD%99%E4%B8%87&sa=fyb_news"
+          "url": "https://m.baidu.com/s?word=%E4%B8%96%E7%95%8C%E4%BA%BA%E5%BD%A2%E6%9C%BA%E5%99%A8%E4%BA%BA%E8%BF%90%E5%8A%A8%E4%BC%9A&sa=fyb_news"
+        },
+        {
+          "channel": "baidu",
+          "rank": 16,
+          "hot": 0,
+          "url": "https://m.baidu.com/s?word=%E4%B8%96%E7%95%8C%E4%BA%BA%E5%BD%A2%E6%9C%BA%E5%99%A8%E4%BA%BA%E8%BF%90%E5%8A%A8%E4%BC%9A%E8%B5%9B%E7%A8%8B&sa=fyb_news"
         }
       ],
       "summary": "",
-      "url": "https://www.toutiao.com/trending/7676481699853402131/"
+      "url": "https://www.toutiao.com/trending/7676818144995986970/"
     },
     {
-      "id": "evt-80000000",
-      "title": "女兵放弃本科从军8年后军士专升本",
+      "id": "evt-10000000",
+      "title": "女童被蛇咬伤 注射10支血清脱险",
       "category": "society",
       "hotScore": 0.8075,
-      "freshness": 0.9999,
+      "freshness": 1,
       "crossSource": 0.6309,
       "totalScore": 0.8123,
       "sources": [
         {
           "channel": "toutiao",
           "rank": 2,
-          "hot": 29270505,
-          "url": "https://www.toutiao.com/trending/7676723787777277958/"
+          "hot": 32173328,
+          "url": "https://www.toutiao.com/trending/7675894226512773183/"
         }
       ],
       "summary": "",
-      "url": "https://www.toutiao.com/trending/7676723787777277958/"
+      "url": "https://www.toutiao.com/trending/7675894226512773183/"
     },
     {
-      "id": "evt-93200000",
-      "title": "9秒32 机器人打破人类百米纪录",
+      "id": "evt-ebike000",
+      "title": "中国E-bike在国外爆火",
       "category": "society",
-      "hotScore": 0.52,
-      "freshness": 0.9999,
-      "crossSource": 1,
-      "totalScore": 0.808,
+      "hotScore": 0.76,
+      "freshness": 1,
+      "crossSource": 0.6309,
+      "totalScore": 0.7933,
       "sources": [
-        {
-          "channel": "toutiao",
-          "rank": 9,
-          "hot": 14535303,
-          "url": "https://www.toutiao.com/trending/7676228031299682310/"
-        },
         {
           "channel": "baidu",
-          "rank": 8,
+          "rank": 2,
           "hot": 0,
-          "url": "https://m.baidu.com/s?word=9%E7%A7%9232+%E6%9C%BA%E5%99%A8%E4%BA%BA%E6%89%93%E7%A0%B4%E4%BA%BA%E7%B1%BB%E7%99%BE%E7%B1%B3%E7%BA%AA%E5%BD%95&sa=fyb_news"
+          "url": "https://m.baidu.com/s?word=%E4%B8%AD%E5%9B%BDE-bike%E5%9C%A8%E5%9B%BD%E5%A4%96%E7%88%86%E7%81%AB&sa=fyb_news"
         }
       ],
       "summary": "",
-      "url": "https://www.toutiao.com/trending/7676228031299682310/"
+      "url": "https://m.baidu.com/s?word=%E4%B8%AD%E5%9B%BDE-bike%E5%9C%A8%E5%9B%BD%E5%A4%96%E7%88%86%E7%81%AB&sa=fyb_news"
     },
     {
-      "id": "evt-55141000",
-      "title": "55元捡漏1.41万项链女子获5元补偿",
+      "id": "evt-20780000",
+      "title": "男子20年省吃俭用攒789万6天被骗光",
       "category": "society",
       "hotScore": 0.7225,
-      "freshness": 0.9999,
+      "freshness": 1,
       "crossSource": 0.6309,
       "totalScore": 0.7783,
       "sources": [
         {
           "channel": "toutiao",
           "rank": 4,
-          "hot": 23964663,
-          "url": "https://www.toutiao.com/trending/7676401953496547370/"
+          "hot": 26341293,
+          "url": "https://www.toutiao.com/trending/7676788498724290614/"
         }
       ],
       "summary": "",
-      "url": "https://www.toutiao.com/trending/7676401953496547370/"
-    },
-    {
-      "id": "evt-30000000",
-      "title": "如何看待宇树科技上市 3 天回撤近 40%？",
-      "category": "economy",
-      "hotScore": 0.5625,
-      "freshness": 1,
-      "crossSource": 0.6309,
-      "totalScore": 0.7143,
-      "sources": [
-        {
-          "channel": "zhihu",
-          "rank": 6,
-          "hot": 0,
-          "url": ""
-        }
-      ],
-      "summary": "",
-      "url": ""
-    },
-    {
-      "id": "evt-ktv00000",
-      "title": "绍兴警方通报女子在KTV包厢厕所遭殴打：嫌疑人涉故意伤害罪被刑拘",
-      "category": "society",
-      "hotScore": 0.7225,
-      "freshness": 1,
-      "crossSource": 0.6309,
-      "totalScore": 0.7783,
-      "sources": [
-        {
-          "channel": "thepaper",
-          "rank": 4,
-          "hot": 0,
-          "url": "https://www.thepaper.cn/newsDetail_forward_33825639"
-        }
-      ],
-      "summary": "",
-      "url": "https://www.thepaper.cn/newsDetail_forward_33825639"
+      "url": "https://www.toutiao.com/trending/7676788498724290614/"
     },
     {
       "id": "evt-gta60000",
       "title": "《GTA6》遭大规模泄露：两段实机视频、一张完整地图，R 星紧急发起 DMCA 投诉，你怎么看？",
       "category": "society",
-      "hotScore": 0.6,
+      "hotScore": 0.7125,
       "freshness": 1,
       "crossSource": 0.6309,
-      "totalScore": 0.7293,
+      "totalScore": 0.7743,
       "sources": [
         {
           "channel": "zhihu",
-          "rank": 5,
+          "rank": 2,
           "hot": 0,
           "url": ""
         }
@@ -152,23 +114,61 @@
       "url": ""
     },
     {
-      "id": "evt-18000000",
-      "title": "如何评价《凡人修仙传》第 188 集？",
+      "id": "evt-40000000",
+      "title": "老人40多年的劳力士丢了 是老伴遗物",
       "category": "society",
-      "hotScore": 0.525,
+      "hotScore": 0.56,
       "freshness": 1,
       "crossSource": 0.6309,
-      "totalScore": 0.6993,
+      "totalScore": 0.7133,
       "sources": [
         {
-          "channel": "zhihu",
+          "channel": "baidu",
           "rank": 7,
           "hot": 0,
-          "url": ""
+          "url": "https://m.baidu.com/s?word=%E8%80%81%E4%BA%BA40%E5%A4%9A%E5%B9%B4%E7%9A%84%E5%8A%B3%E5%8A%9B%E5%A3%AB%E4%B8%A2%E4%BA%86+%E6%98%AF%E8%80%81%E4%BC%B4%E9%81%97%E7%89%A9&sa=fyb_news"
         }
       ],
       "summary": "",
-      "url": ""
+      "url": "https://m.baidu.com/s?word=%E8%80%81%E4%BA%BA40%E5%A4%9A%E5%B9%B4%E7%9A%84%E5%8A%B3%E5%8A%9B%E5%A3%AB%E4%B8%A2%E4%BA%86+%E6%98%AF%E8%80%81%E4%BC%B4%E9%81%97%E7%89%A9&sa=fyb_news"
+    },
+    {
+      "id": "evt-93900000",
+      "title": "9秒39！中国机器人打破博尔特百米成绩",
+      "category": "society",
+      "hotScore": 0.44,
+      "freshness": 1,
+      "crossSource": 0.6309,
+      "totalScore": 0.6653,
+      "sources": [
+        {
+          "channel": "baidu",
+          "rank": 10,
+          "hot": 0,
+          "url": "https://m.baidu.com/s?word=9%E7%A7%9239%EF%BC%81%E4%B8%AD%E5%9B%BD%E6%9C%BA%E5%99%A8%E4%BA%BA%E6%89%93%E7%A0%B4%E5%8D%9A%E5%B0%94%E7%89%B9%E7%99%BE%E7%B1%B3%E6%88%90%E7%BB%A9&sa=fyb_news"
+        }
+      ],
+      "summary": "",
+      "url": "https://m.baidu.com/s?word=9%E7%A7%9239%EF%BC%81%E4%B8%AD%E5%9B%BD%E6%9C%BA%E5%99%A8%E4%BA%BA%E6%89%93%E7%A0%B4%E5%8D%9A%E5%B0%94%E7%89%B9%E7%99%BE%E7%B1%B3%E6%88%90%E7%BB%A9&sa=fyb_news"
+    },
+    {
+      "id": "evt-15000000",
+      "title": "财晓得｜150年来最强厄尔尼诺正在成型：这次强在哪？影响有多大？",
+      "category": "society",
+      "hotScore": 0.425,
+      "freshness": 1,
+      "crossSource": 0.6309,
+      "totalScore": 0.6593,
+      "sources": [
+        {
+          "channel": "thepaper",
+          "rank": 11,
+          "hot": 0,
+          "url": "https://www.thepaper.cn/newsDetail_forward_33810439"
+        }
+      ],
+      "summary": "",
+      "url": "https://www.thepaper.cn/newsDetail_forward_33810439"
     }
   ]
 }
