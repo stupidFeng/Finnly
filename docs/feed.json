@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-08-22T00:37:41.570Z",
+  "generatedAt": "2026-08-22T02:45:42.520Z",
   "fields": {
     "society": "社会",
     "economy": "经济",
@@ -7,43 +7,18 @@
   },
   "feed": [
     {
-      "id": "evt-00000000",
-      "title": "世界杯决赛冲突处罚公布",
-      "category": "society",
-      "hotScore": 0.7225,
-      "freshness": 0.9999,
-      "crossSource": 1,
-      "totalScore": 0.889,
-      "sources": [
-        {
-          "channel": "toutiao",
-          "rank": 4,
-          "hot": 16877810,
-          "url": "https://www.toutiao.com/trending/7676625871456701971/"
-        },
-        {
-          "channel": "baidu",
-          "rank": 3,
-          "hot": 0,
-          "url": "https://m.baidu.com/s?word=%E4%B8%96%E7%95%8C%E6%9D%AF%E5%86%B3%E8%B5%9B%E5%86%B2%E7%AA%81%E5%A4%84%E7%BD%9A%E5%85%AC%E5%B8%83&sa=fyb_news"
-        }
-      ],
-      "summary": "",
-      "url": "https://www.toutiao.com/trending/7676625871456701971/"
-    },
-    {
       "id": "evt-72500000",
       "title": "美将向联合国支付7.25亿美元拖欠会费",
       "category": "society",
       "hotScore": 0.85,
-      "freshness": 0.9999,
-      "crossSource": 0.6309,
-      "totalScore": 0.8293,
+      "freshness": 1,
+      "crossSource": 1,
+      "totalScore": 0.94,
       "sources": [
         {
           "channel": "toutiao",
           "rank": 1,
-          "hot": 22782660,
+          "hot": 25219540,
           "url": "https://www.toutiao.com/trending/7676531554176451081/"
         }
       ],
@@ -51,17 +26,36 @@
       "url": "https://www.toutiao.com/trending/7676531554176451081/"
     },
     {
+      "id": "evt-00000000",
+      "title": "王毅当众点名美国 韩外长抿嘴点头",
+      "category": "society",
+      "hotScore": 0.8075,
+      "freshness": 1,
+      "crossSource": 1,
+      "totalScore": 0.923,
+      "sources": [
+        {
+          "channel": "toutiao",
+          "rank": 2,
+          "hot": 22819584,
+          "url": "https://www.toutiao.com/trending/7675697376681525286/"
+        }
+      ],
+      "summary": "",
+      "url": "https://www.toutiao.com/trending/7675697376681525286/"
+    },
+    {
       "id": "evt-30000000",
       "title": "30 岁男子失业后网贷缠身，饿 20 天急性肾衰入院确诊韦尼克脑病，这是一种什么病？与其生活习惯有多大关系？",
       "category": "society",
-      "hotScore": 0.7125,
+      "hotScore": 0.75,
       "freshness": 1,
-      "crossSource": 0.6309,
-      "totalScore": 0.7743,
+      "crossSource": 1,
+      "totalScore": 0.9,
       "sources": [
         {
           "channel": "zhihu",
-          "rank": 2,
+          "rank": 1,
           "hot": 0,
           "url": ""
         }
@@ -75,8 +69,8 @@
       "category": "society",
       "hotScore": 0.68,
       "freshness": 1,
-      "crossSource": 0.6309,
-      "totalScore": 0.7613,
+      "crossSource": 1,
+      "totalScore": 0.872,
       "sources": [
         {
           "channel": "thepaper",
@@ -94,8 +88,8 @@
       "category": "economy",
       "hotScore": 0.85,
       "freshness": 1,
-      "crossSource": 0.6309,
-      "totalScore": 0.8293,
+      "crossSource": 1,
+      "totalScore": 0.94,
       "sources": [
         {
           "channel": "thepaper",
@@ -108,80 +102,23 @@
       "url": "https://www.thepaper.cn/newsDetail_forward_33819961"
     },
     {
-      "id": "evt-mmorpg00",
-      "title": "MMORPG 游戏《诡秘之主》开服一小时同时在线破 70 万，这游戏玩起来怎么样？",
-      "category": "society",
-      "hotScore": 0.675,
-      "freshness": 1,
-      "crossSource": 0.6309,
-      "totalScore": 0.7593,
-      "sources": [
-        {
-          "channel": "zhihu",
-          "rank": 3,
-          "hot": 0,
-          "url": ""
-        }
-      ],
-      "summary": "",
-      "url": ""
-    },
-    {
-      "id": "evt-55000000",
-      "title": "女子55元捡漏一万四项链被要求退款",
+      "id": "evt-10000000",
+      "title": "这个电饭煲价值100000元",
       "category": "society",
       "hotScore": 0.6,
       "freshness": 1,
-      "crossSource": 0.6309,
-      "totalScore": 0.7293,
+      "crossSource": 1,
+      "totalScore": 0.84,
       "sources": [
         {
           "channel": "baidu",
           "rank": 6,
           "hot": 0,
-          "url": "https://m.baidu.com/s?word=%E5%A5%B3%E5%AD%9055%E5%85%83%E6%8D%A1%E6%BC%8F%E4%B8%80%E4%B8%87%E5%9B%9B%E9%A1%B9%E9%93%BE%E8%A2%AB%E8%A6%81%E6%B1%82%E9%80%80%E6%AC%BE&sa=fyb_news"
+          "url": "https://m.baidu.com/s?word=%E8%BF%99%E4%B8%AA%E7%94%B5%E9%A5%AD%E7%85%B2%E4%BB%B7%E5%80%BC100000%E5%85%83&sa=fyb_news"
         }
       ],
       "summary": "",
-      "url": "https://m.baidu.com/s?word=%E5%A5%B3%E5%AD%9055%E5%85%83%E6%8D%A1%E6%BC%8F%E4%B8%80%E4%B8%87%E5%9B%9B%E9%A1%B9%E9%93%BE%E8%A2%AB%E8%A6%81%E6%B1%82%E9%80%80%E6%AC%BE&sa=fyb_news"
-    },
-    {
-      "id": "evt-10000000",
-      "title": "问界儿童车开启预售，售价 15800，如何评价其市场竞争力？",
-      "category": "society",
-      "hotScore": 0.5625,
-      "freshness": 1,
-      "crossSource": 0.6309,
-      "totalScore": 0.7143,
-      "sources": [
-        {
-          "channel": "zhihu",
-          "rank": 6,
-          "hot": 0,
-          "url": ""
-        }
-      ],
-      "summary": "",
-      "url": ""
-    },
-    {
-      "id": "evt-fifa0000",
-      "title": "FIFA 公布世界杯决赛处罚，阿根廷队帕雷德斯禁赛 10 场、莫利纳禁 7 场，怎样看待这一结果？",
-      "category": "society",
-      "hotScore": 0.4875,
-      "freshness": 1,
-      "crossSource": 0.6309,
-      "totalScore": 0.6843,
-      "sources": [
-        {
-          "channel": "zhihu",
-          "rank": 8,
-          "hot": 0,
-          "url": ""
-        }
-      ],
-      "summary": "",
-      "url": ""
+      "url": "https://m.baidu.com/s?word=%E8%BF%99%E4%B8%AA%E7%94%B5%E9%A5%AD%E7%85%B2%E4%BB%B7%E5%80%BC100000%E5%85%83&sa=fyb_news"
     },
     {
       "id": "evt-62600000",
@@ -189,8 +126,8 @@
       "category": "society",
       "hotScore": 0.48,
       "freshness": 1,
-      "crossSource": 0.6309,
-      "totalScore": 0.6813,
+      "crossSource": 1,
+      "totalScore": 0.792,
       "sources": [
         {
           "channel": "baidu",
@@ -201,25 +138,6 @@
       ],
       "summary": "",
       "url": "https://m.baidu.com/s?word=62%E5%B2%81%E8%B6%85%E9%AB%98%E9%BE%84%E5%AD%95%E5%A6%87%E8%AF%9E%E4%B8%8B6%E6%96%A4%E9%87%8D%E7%94%B7%E5%A9%B4&sa=fyb_news"
-    },
-    {
-      "id": "evt-40000000",
-      "title": "男子4次恶意别车被罚 网友：罚得好",
-      "category": "society",
-      "hotScore": 0.44,
-      "freshness": 1,
-      "crossSource": 0.6309,
-      "totalScore": 0.6653,
-      "sources": [
-        {
-          "channel": "baidu",
-          "rank": 10,
-          "hot": 0,
-          "url": "https://m.baidu.com/s?word=%E7%94%B7%E5%AD%904%E6%AC%A1%E6%81%B6%E6%84%8F%E5%88%AB%E8%BD%A6%E8%A2%AB%E7%BD%9A+%E7%BD%91%E5%8F%8B%EF%BC%9A%E7%BD%9A%E5%BE%97%E5%A5%BD&sa=fyb_news"
-        }
-      ],
-      "summary": "",
-      "url": "https://m.baidu.com/s?word=%E7%94%B7%E5%AD%904%E6%AC%A1%E6%81%B6%E6%84%8F%E5%88%AB%E8%BD%A6%E8%A2%AB%E7%BD%9A+%E7%BD%91%E5%8F%8B%EF%BC%9A%E7%BD%9A%E5%BE%97%E5%A5%BD&sa=fyb_news"
     }
   ]
 }
