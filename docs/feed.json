@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-08-22T04:22:07.369Z",
+  "generatedAt": "2026-08-22T06:21:14.051Z",
   "fields": {
     "society": "社会",
     "economy": "经济",
@@ -8,36 +8,42 @@
   "feed": [
     {
       "id": "evt-00000000",
-      "title": "临沂王桥社区爆炸现场多楼受损严重",
+      "title": "蚊子正在悄悄扩张生存版图",
       "category": "society",
       "hotScore": 0.85,
-      "freshness": 0.9997,
+      "freshness": 0.9999,
       "crossSource": 1,
-      "totalScore": 0.9399,
+      "totalScore": 0.94,
       "sources": [
         {
           "channel": "toutiao",
           "rank": 1,
-          "hot": 26744701,
-          "url": "https://www.toutiao.com/trending/7676675836497366564/"
+          "hot": 25463740,
+          "url": "https://www.toutiao.com/trending/7676688594270650406/"
+        },
+        {
+          "channel": "baidu",
+          "rank": 18,
+          "hot": 0,
+          "url": "https://m.baidu.com/s?word=%E8%9A%8A%E5%AD%90%E6%AD%A3%E5%9C%A8%E6%82%84%E6%82%84%E6%89%A9%E5%BC%A0%E7%94%9F%E5%AD%98%E7%89%88%E5%9B%BE&sa=fyb_news"
         }
       ],
       "summary": "",
-      "url": "https://www.toutiao.com/trending/7676675836497366564/"
+      "url": "https://www.toutiao.com/trending/7676688594270650406/"
     },
     {
       "id": "evt-99000000",
       "title": "烧烤店推出9.9元一只清蒸梭子蟹走红",
       "category": "society",
       "hotScore": 0.8075,
-      "freshness": 0.9997,
-      "crossSource": 1,
-      "totalScore": 0.9229,
+      "freshness": 0.9999,
+      "crossSource": 0.6309,
+      "totalScore": 0.8123,
       "sources": [
         {
           "channel": "toutiao",
           "rank": 2,
-          "hot": 24199606,
+          "hot": 23040545,
           "url": "https://www.toutiao.com/trending/7676511768990072868/"
         }
       ],
@@ -49,9 +55,9 @@
       "title": "30 岁男子失业后网贷缠身，饿 20 天急性肾衰入院确诊韦尼克脑病，这是一种什么病？与其生活习惯有多大关系？",
       "category": "society",
       "hotScore": 0.75,
-      "freshness": 0.9998,
-      "crossSource": 1,
-      "totalScore": 0.8999,
+      "freshness": 1,
+      "crossSource": 0.6309,
+      "totalScore": 0.7893,
       "sources": [
         {
           "channel": "zhihu",
@@ -64,70 +70,13 @@
       "url": ""
     },
     {
-      "id": "evt-054a0000",
-      "title": "为何一艘054A护卫舰官宣引起军迷惊呼",
-      "category": "society",
-      "hotScore": 0.7225,
-      "freshness": 0.9997,
-      "crossSource": 1,
-      "totalScore": 0.8889,
-      "sources": [
-        {
-          "channel": "toutiao",
-          "rank": 4,
-          "hot": 19812962,
-          "url": "https://www.toutiao.com/trending/7676681218616672818/"
-        }
-      ],
-      "summary": "",
-      "url": "https://www.toutiao.com/trending/7676681218616672818/"
-    },
-    {
-      "id": "evt-39000000",
-      "title": "39岁员工厕所里猝死，因打卡后未到工位不被认定工伤？深圳涉事上市公司称将积极推进认定",
-      "category": "economy",
-      "hotScore": 0.85,
-      "freshness": 1,
-      "crossSource": 1,
-      "totalScore": 0.94,
-      "sources": [
-        {
-          "channel": "thepaper",
-          "rank": 1,
-          "hot": 0,
-          "url": "https://www.thepaper.cn/newsDetail_forward_33819961"
-        }
-      ],
-      "summary": "",
-      "url": "https://www.thepaper.cn/newsDetail_forward_33819961"
-    },
-    {
-      "id": "evt-13000000",
-      "title": "13个县的消费赶超一线城市",
-      "category": "society",
-      "hotScore": 0.72,
-      "freshness": 0.9998,
-      "crossSource": 1,
-      "totalScore": 0.888,
-      "sources": [
-        {
-          "channel": "baidu",
-          "rank": 3,
-          "hot": 0,
-          "url": "https://m.baidu.com/s?word=13%E4%B8%AA%E5%8E%BF%E7%9A%84%E6%B6%88%E8%B4%B9%E8%B5%B6%E8%B6%85%E4%B8%80%E7%BA%BF%E5%9F%8E%E5%B8%82&sa=fyb_news"
-        }
-      ],
-      "summary": "",
-      "url": "https://m.baidu.com/s?word=13%E4%B8%AA%E5%8E%BF%E7%9A%84%E6%B6%88%E8%B4%B9%E8%B5%B6%E8%B6%85%E4%B8%80%E7%BA%BF%E5%9F%8E%E5%B8%82&sa=fyb_news"
-    },
-    {
       "id": "evt-ktv00000",
       "title": "绍兴警方通报女子在KTV包厢厕所遭殴打：嫌疑人涉故意伤害罪被刑拘",
       "category": "society",
       "hotScore": 0.68,
       "freshness": 1,
-      "crossSource": 1,
-      "totalScore": 0.872,
+      "crossSource": 0.6309,
+      "totalScore": 0.7613,
       "sources": [
         {
           "channel": "thepaper",
@@ -140,42 +89,61 @@
       "url": "https://www.thepaper.cn/newsDetail_forward_33825639"
     },
     {
-      "id": "evt-72500000",
-      "title": "美将向联合国支付7.25亿美元拖欠会费",
+      "id": "evt-39000000",
+      "title": "39岁员工厕所里猝死，因打卡后未到工位不被认定工伤？深圳涉事上市公司称将积极推进认定",
+      "category": "economy",
+      "hotScore": 0.85,
+      "freshness": 1,
+      "crossSource": 0.6309,
+      "totalScore": 0.8293,
+      "sources": [
+        {
+          "channel": "thepaper",
+          "rank": 1,
+          "hot": 0,
+          "url": "https://www.thepaper.cn/newsDetail_forward_33819961"
+        }
+      ],
+      "summary": "",
+      "url": "https://www.thepaper.cn/newsDetail_forward_33819961"
+    },
+    {
+      "id": "evt-30080000",
+      "title": "格力技校招300人超8000人报名",
       "category": "society",
-      "hotScore": 0.68,
-      "freshness": 0.9997,
-      "crossSource": 1,
-      "totalScore": 0.8719,
+      "hotScore": 0.6,
+      "freshness": 1,
+      "crossSource": 0.6309,
+      "totalScore": 0.7293,
+      "sources": [
+        {
+          "channel": "baidu",
+          "rank": 6,
+          "hot": 0,
+          "url": "https://m.baidu.com/s?word=%E6%A0%BC%E5%8A%9B%E6%8A%80%E6%A0%A1%E6%8B%9B300%E4%BA%BA%E8%B6%858000%E4%BA%BA%E6%8A%A5%E5%90%8D&sa=fyb_news"
+        }
+      ],
+      "summary": "",
+      "url": "https://m.baidu.com/s?word=%E6%A0%BC%E5%8A%9B%E6%8A%80%E6%A0%A1%E6%8B%9B300%E4%BA%BA%E8%B6%858000%E4%BA%BA%E6%8A%A5%E5%90%8D&sa=fyb_news"
+    },
+    {
+      "id": "evt-054a0000",
+      "title": "为何一艘054A护卫舰官宣引起军迷惊呼",
+      "category": "society",
+      "hotScore": 0.51,
+      "freshness": 0.9999,
+      "crossSource": 0.6309,
+      "totalScore": 0.6933,
       "sources": [
         {
           "channel": "toutiao",
-          "rank": 5,
-          "hot": 17927509,
-          "url": "https://www.toutiao.com/trending/7676531554176451081/"
+          "rank": 9,
+          "hot": 11441596,
+          "url": "https://www.toutiao.com/trending/7676681218616672818/"
         }
       ],
       "summary": "",
-      "url": "https://www.toutiao.com/trending/7676531554176451081/"
-    },
-    {
-      "id": "evt-ipo00000",
-      "title": "长江存储 IPO 审核状态变更为「已受理」，其 IPO 前景如何？",
-      "category": "society",
-      "hotScore": 0.525,
-      "freshness": 0.9998,
-      "crossSource": 1,
-      "totalScore": 0.8099,
-      "sources": [
-        {
-          "channel": "zhihu",
-          "rank": 7,
-          "hot": 0,
-          "url": ""
-        }
-      ],
-      "summary": "",
-      "url": ""
+      "url": "https://www.toutiao.com/trending/7676681218616672818/"
     }
   ]
 }
