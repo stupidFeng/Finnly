@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-08-22T14:11:28.056Z",
+  "generatedAt": "2026-08-22T16:11:52.109Z",
   "fields": {
     "society": "社会",
     "economy": "经济",
@@ -7,8 +7,8 @@
   },
   "feed": [
     {
-      "id": "evt-65200000",
-      "title": "女孩652分考入军校 太爷爷是红军烈士",
+      "id": "evt-00000000",
+      "title": "实探追觅造车办公地：工位大片闲置",
       "category": "society",
       "hotScore": 0.85,
       "freshness": 0.9999,
@@ -18,50 +18,12 @@
         {
           "channel": "toutiao",
           "rank": 1,
-          "hot": 8569570,
-          "url": "https://www.toutiao.com/trending/7676750191861973046/"
+          "hot": 9846453,
+          "url": "https://www.toutiao.com/trending/7676837324298387977/"
         }
       ],
       "summary": "",
-      "url": "https://www.toutiao.com/trending/7676750191861973046/"
-    },
-    {
-      "id": "evt-00000000",
-      "title": "山东临沂一处独立平房院落发生爆炸，已致1人遇难2人失联",
-      "category": "society",
-      "hotScore": 0.85,
-      "freshness": 1,
-      "crossSource": 1,
-      "totalScore": 0.94,
-      "sources": [
-        {
-          "channel": "thepaper",
-          "rank": 1,
-          "hot": 0,
-          "url": "https://www.thepaper.cn/newsDetail_forward_33826090"
-        }
-      ],
-      "summary": "",
-      "url": "https://www.thepaper.cn/newsDetail_forward_33826090"
-    },
-    {
-      "id": "evt-80000000",
-      "title": "女兵放弃本科从军8年后军士专升本",
-      "category": "society",
-      "hotScore": 0.76,
-      "freshness": 1,
-      "crossSource": 1,
-      "totalScore": 0.904,
-      "sources": [
-        {
-          "channel": "baidu",
-          "rank": 2,
-          "hot": 0,
-          "url": "https://m.baidu.com/s?word=%E5%A5%B3%E5%85%B5%E6%94%BE%E5%BC%83%E6%9C%AC%E7%A7%91%E4%BB%8E%E5%86%9B8%E5%B9%B4%E5%90%8E%E5%86%9B%E5%A3%AB%E4%B8%93%E5%8D%87%E6%9C%AC&sa=fyb_news"
-        }
-      ],
-      "summary": "",
-      "url": "https://m.baidu.com/s?word=%E5%A5%B3%E5%85%B5%E6%94%BE%E5%BC%83%E6%9C%AC%E7%A7%91%E4%BB%8E%E5%86%9B8%E5%B9%B4%E5%90%8E%E5%86%9B%E5%A3%AB%E4%B8%93%E5%8D%87%E6%9C%AC&sa=fyb_news"
+      "url": "https://www.toutiao.com/trending/7676837324298387977/"
     },
     {
       "id": "evt-20780000",
@@ -75,7 +37,7 @@
         {
           "channel": "toutiao",
           "rank": 4,
-          "hot": 6348494,
+          "hot": 7294432,
           "url": "https://www.toutiao.com/trending/7676788498724290614/"
         }
       ],
@@ -84,7 +46,7 @@
     },
     {
       "id": "evt-20200000",
-      "title": "住破房穿20块衣服男子20年攒下789万",
+      "title": "住破房穿20块衣服男子20年攒789万",
       "category": "society",
       "hotScore": 0.72,
       "freshness": 1,
@@ -95,81 +57,138 @@
           "channel": "baidu",
           "rank": 3,
           "hot": 0,
-          "url": "https://m.baidu.com/s?word=%E4%BD%8F%E7%A0%B4%E6%88%BF%E7%A9%BF20%E5%9D%97%E8%A1%A3%E6%9C%8D%E7%94%B7%E5%AD%9020%E5%B9%B4%E6%94%92%E4%B8%8B789%E4%B8%87&sa=fyb_news"
+          "url": "https://m.baidu.com/s?word=%E4%BD%8F%E7%A0%B4%E6%88%BF%E7%A9%BF20%E5%9D%97%E8%A1%A3%E6%9C%8D%E7%94%B7%E5%AD%9020%E5%B9%B4%E6%94%92789%E4%B8%87&sa=fyb_news"
         }
       ],
       "summary": "",
-      "url": "https://m.baidu.com/s?word=%E4%BD%8F%E7%A0%B4%E6%88%BF%E7%A9%BF20%E5%9D%97%E8%A1%A3%E6%9C%8D%E7%94%B7%E5%AD%9020%E5%B9%B4%E6%94%92%E4%B8%8B789%E4%B8%87&sa=fyb_news"
+      "url": "https://m.baidu.com/s?word=%E4%BD%8F%E7%A0%B4%E6%88%BF%E7%A9%BF20%E5%9D%97%E8%A1%A3%E6%9C%8D%E7%94%B7%E5%AD%9020%E5%B9%B4%E6%94%92789%E4%B8%87&sa=fyb_news"
     },
     {
-      "id": "evt-93900000",
-      "title": "9秒39！中国机器人打破博尔特百米成绩",
+      "id": "evt-a0000000",
+      "title": "怎么看彭博社发布的「美国 AI 优势正在被中国迅速缩小」？",
       "category": "society",
-      "hotScore": 0.64,
+      "hotScore": 0.7125,
       "freshness": 1,
       "crossSource": 1,
-      "totalScore": 0.856,
+      "totalScore": 0.885,
       "sources": [
         {
-          "channel": "baidu",
-          "rank": 5,
+          "channel": "zhihu",
+          "rank": 2,
           "hot": 0,
-          "url": "https://m.baidu.com/s?word=9%E7%A7%9239%EF%BC%81%E4%B8%AD%E5%9B%BD%E6%9C%BA%E5%99%A8%E4%BA%BA%E6%89%93%E7%A0%B4%E5%8D%9A%E5%B0%94%E7%89%B9%E7%99%BE%E7%B1%B3%E6%88%90%E7%BB%A9&sa=fyb_news"
+          "url": ""
         }
       ],
       "summary": "",
-      "url": "https://m.baidu.com/s?word=9%E7%A7%9239%EF%BC%81%E4%B8%AD%E5%9B%BD%E6%9C%BA%E5%99%A8%E4%BA%BA%E6%89%93%E7%A0%B4%E5%8D%9A%E5%B0%94%E7%89%B9%E7%99%BE%E7%B1%B3%E6%88%90%E7%BB%A9&sa=fyb_news"
+      "url": ""
     },
     {
-      "id": "evt-c0000000",
-      "title": "机器人任意球破门 复刻C罗庆祝动作",
+      "id": "evt-gta60000",
+      "title": "《GTA6》遭大规模泄露：两段实机视频、一张完整地图，R 星紧急发起 DMCA 投诉，你怎么看？",
       "category": "society",
-      "hotScore": 0.52,
+      "hotScore": 0.675,
       "freshness": 1,
       "crossSource": 1,
-      "totalScore": 0.808,
+      "totalScore": 0.87,
       "sources": [
         {
-          "channel": "baidu",
-          "rank": 8,
+          "channel": "zhihu",
+          "rank": 3,
           "hot": 0,
-          "url": "https://m.baidu.com/s?word=%E6%9C%BA%E5%99%A8%E4%BA%BA%E4%BB%BB%E6%84%8F%E7%90%83%E7%A0%B4%E9%97%A8+%E5%A4%8D%E5%88%BBC%E7%BD%97%E5%BA%86%E7%A5%9D%E5%8A%A8%E4%BD%9C&sa=fyb_news"
+          "url": ""
         }
       ],
       "summary": "",
-      "url": "https://m.baidu.com/s?word=%E6%9C%BA%E5%99%A8%E4%BA%BA%E4%BB%BB%E6%84%8F%E7%90%83%E7%A0%B4%E9%97%A8+%E5%A4%8D%E5%88%BBC%E7%BD%97%E5%BA%86%E7%A5%9D%E5%8A%A8%E4%BD%9C&sa=fyb_news"
+      "url": ""
     },
     {
-      "id": "evt-10000000",
-      "title": "约1000家兰州拉面店完成门头更换",
+      "id": "evt-80000000",
+      "title": "80岁西班牙“狼孩”去世",
       "category": "society",
-      "hotScore": 0.51,
+      "hotScore": 0.6375,
       "freshness": 0.9999,
       "crossSource": 1,
-      "totalScore": 0.804,
+      "totalScore": 0.855,
       "sources": [
         {
           "channel": "toutiao",
-          "rank": 9,
-          "hot": 3850556,
-          "url": "https://www.toutiao.com/trending/7676024665728942116/"
+          "rank": 6,
+          "hot": 5972176,
+          "url": "https://www.toutiao.com/trending/7676779945427042354/"
         }
       ],
       "summary": "",
-      "url": "https://www.toutiao.com/trending/7676024665728942116/"
+      "url": "https://www.toutiao.com/trending/7676779945427042354/"
+    },
+    {
+      "id": "evt-lv000000",
+      "title": "奢侈品牌 LV 全国多地门店关闭，西南门店腰斩过半，为何收缩线下渠道？对中国奢侈品市场意味着什么？",
+      "category": "society",
+      "hotScore": 0.6,
+      "freshness": 1,
+      "crossSource": 1,
+      "totalScore": 0.84,
+      "sources": [
+        {
+          "channel": "zhihu",
+          "rank": 5,
+          "hot": 0,
+          "url": ""
+        }
+      ],
+      "summary": "",
+      "url": ""
+    },
+    {
+      "id": "evt-12000000",
+      "title": "曾被狼群抚养12年的西班牙狼孩去世",
+      "category": "society",
+      "hotScore": 0.56,
+      "freshness": 1,
+      "crossSource": 1,
+      "totalScore": 0.824,
+      "sources": [
+        {
+          "channel": "baidu",
+          "rank": 7,
+          "hot": 0,
+          "url": "https://m.baidu.com/s?word=%E6%9B%BE%E8%A2%AB%E7%8B%BC%E7%BE%A4%E6%8A%9A%E5%85%BB12%E5%B9%B4%E7%9A%84%E8%A5%BF%E7%8F%AD%E7%89%99%E7%8B%BC%E5%AD%A9%E5%8E%BB%E4%B8%96&sa=fyb_news"
+        }
+      ],
+      "summary": "",
+      "url": "https://m.baidu.com/s?word=%E6%9B%BE%E8%A2%AB%E7%8B%BC%E7%BE%A4%E6%8A%9A%E5%85%BB12%E5%B9%B4%E7%9A%84%E8%A5%BF%E7%8F%AD%E7%89%99%E7%8B%BC%E5%AD%A9%E5%8E%BB%E4%B8%96&sa=fyb_news"
+    },
+    {
+      "id": "evt-10000000",
+      "title": "一家10口齐上阵送女娃上军校",
+      "category": "society",
+      "hotScore": 0.5525,
+      "freshness": 0.9999,
+      "crossSource": 1,
+      "totalScore": 0.821,
+      "sources": [
+        {
+          "channel": "toutiao",
+          "rank": 8,
+          "hot": 4889604,
+          "url": "https://www.toutiao.com/trending/7676467255630138923/"
+        }
+      ],
+      "summary": "",
+      "url": "https://www.toutiao.com/trending/7676467255630138923/"
     },
     {
       "id": "evt-mrna0000",
       "title": "财晓得｜新里程碑！mRNA联手K药大败黑色素瘤，离攻克癌症还有多远",
       "category": "society",
-      "hotScore": 0.425,
+      "hotScore": 0.5525,
       "freshness": 1,
       "crossSource": 1,
-      "totalScore": 0.77,
+      "totalScore": 0.821,
       "sources": [
         {
           "channel": "thepaper",
-          "rank": 11,
+          "rank": 8,
           "hot": 0,
           "url": "https://www.thepaper.cn/newsDetail_forward_33824455"
         }
@@ -178,42 +197,42 @@
       "url": "https://www.thepaper.cn/newsDetail_forward_33824455"
     },
     {
-      "id": "evt-30000000",
-      "title": "湖南祁东3人迷晕孩童系谣言",
+      "id": "evt-opencode",
+      "title": "怎么看 OpenCode 找了很多供应商，都找不到 DeepSeek 涨价前原厂的价格？",
       "category": "society",
-      "hotScore": 0.36,
+      "hotScore": 0.525,
       "freshness": 1,
       "crossSource": 1,
-      "totalScore": 0.744,
+      "totalScore": 0.81,
       "sources": [
         {
-          "channel": "baidu",
-          "rank": 12,
+          "channel": "zhihu",
+          "rank": 7,
           "hot": 0,
-          "url": "https://m.baidu.com/s?word=%E6%B9%96%E5%8D%97%E7%A5%81%E4%B8%9C3%E4%BA%BA%E8%BF%B7%E6%99%95%E5%AD%A9%E7%AB%A5%E7%B3%BB%E8%B0%A3%E8%A8%80&sa=fyb_news"
+          "url": ""
         }
       ],
       "summary": "",
-      "url": "https://m.baidu.com/s?word=%E6%B9%96%E5%8D%97%E7%A5%81%E4%B8%9C3%E4%BA%BA%E8%BF%B7%E6%99%95%E5%AD%A9%E7%AB%A5%E7%B3%BB%E8%B0%A3%E8%A8%80&sa=fyb_news"
+      "url": ""
     },
     {
-      "id": "evt-20vala00",
-      "title": "你会花20多万买vala pro吗",
+      "id": "evt-c0000000",
+      "title": "观察丨具身智能还在等待“ChatGPT时刻”，产业链与生态成竞争关键",
       "category": "society",
-      "hotScore": 0.34,
-      "freshness": 0.9999,
+      "hotScore": 0.4675,
+      "freshness": 1,
       "crossSource": 1,
-      "totalScore": 0.736,
+      "totalScore": 0.787,
       "sources": [
         {
-          "channel": "toutiao",
-          "rank": 13,
-          "hot": 2581105,
-          "url": "https://www.toutiao.com/trending/7676796926431789082/"
+          "channel": "thepaper",
+          "rank": 10,
+          "hot": 0,
+          "url": "https://www.thepaper.cn/newsDetail_forward_33825848"
         }
       ],
       "summary": "",
-      "url": "https://www.toutiao.com/trending/7676796926431789082/"
+      "url": "https://www.thepaper.cn/newsDetail_forward_33825848"
     }
   ]
 }
