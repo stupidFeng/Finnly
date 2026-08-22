@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-08-22T02:45:42.520Z",
+  "generatedAt": "2026-08-22T04:22:07.369Z",
   "fields": {
     "society": "社会",
     "economy": "经济",
@@ -7,51 +7,51 @@
   },
   "feed": [
     {
-      "id": "evt-72500000",
-      "title": "美将向联合国支付7.25亿美元拖欠会费",
+      "id": "evt-00000000",
+      "title": "临沂王桥社区爆炸现场多楼受损严重",
       "category": "society",
       "hotScore": 0.85,
-      "freshness": 1,
+      "freshness": 0.9997,
       "crossSource": 1,
-      "totalScore": 0.94,
+      "totalScore": 0.9399,
       "sources": [
         {
           "channel": "toutiao",
           "rank": 1,
-          "hot": 25219540,
-          "url": "https://www.toutiao.com/trending/7676531554176451081/"
+          "hot": 26744701,
+          "url": "https://www.toutiao.com/trending/7676675836497366564/"
         }
       ],
       "summary": "",
-      "url": "https://www.toutiao.com/trending/7676531554176451081/"
+      "url": "https://www.toutiao.com/trending/7676675836497366564/"
     },
     {
-      "id": "evt-00000000",
-      "title": "王毅当众点名美国 韩外长抿嘴点头",
+      "id": "evt-99000000",
+      "title": "烧烤店推出9.9元一只清蒸梭子蟹走红",
       "category": "society",
       "hotScore": 0.8075,
-      "freshness": 1,
+      "freshness": 0.9997,
       "crossSource": 1,
-      "totalScore": 0.923,
+      "totalScore": 0.9229,
       "sources": [
         {
           "channel": "toutiao",
           "rank": 2,
-          "hot": 22819584,
-          "url": "https://www.toutiao.com/trending/7675697376681525286/"
+          "hot": 24199606,
+          "url": "https://www.toutiao.com/trending/7676511768990072868/"
         }
       ],
       "summary": "",
-      "url": "https://www.toutiao.com/trending/7675697376681525286/"
+      "url": "https://www.toutiao.com/trending/7676511768990072868/"
     },
     {
       "id": "evt-30000000",
       "title": "30 岁男子失业后网贷缠身，饿 20 天急性肾衰入院确诊韦尼克脑病，这是一种什么病？与其生活习惯有多大关系？",
       "category": "society",
       "hotScore": 0.75,
-      "freshness": 1,
+      "freshness": 0.9998,
       "crossSource": 1,
-      "totalScore": 0.9,
+      "totalScore": 0.8999,
       "sources": [
         {
           "channel": "zhihu",
@@ -64,23 +64,23 @@
       "url": ""
     },
     {
-      "id": "evt-ktv00000",
-      "title": "绍兴警方通报女子在KTV包厢厕所遭殴打：嫌疑人涉故意伤害罪被刑拘",
+      "id": "evt-054a0000",
+      "title": "为何一艘054A护卫舰官宣引起军迷惊呼",
       "category": "society",
-      "hotScore": 0.68,
-      "freshness": 1,
+      "hotScore": 0.7225,
+      "freshness": 0.9997,
       "crossSource": 1,
-      "totalScore": 0.872,
+      "totalScore": 0.8889,
       "sources": [
         {
-          "channel": "thepaper",
-          "rank": 5,
-          "hot": 0,
-          "url": "https://www.thepaper.cn/newsDetail_forward_33825639"
+          "channel": "toutiao",
+          "rank": 4,
+          "hot": 19812962,
+          "url": "https://www.toutiao.com/trending/7676681218616672818/"
         }
       ],
       "summary": "",
-      "url": "https://www.thepaper.cn/newsDetail_forward_33825639"
+      "url": "https://www.toutiao.com/trending/7676681218616672818/"
     },
     {
       "id": "evt-39000000",
@@ -102,42 +102,80 @@
       "url": "https://www.thepaper.cn/newsDetail_forward_33819961"
     },
     {
-      "id": "evt-10000000",
-      "title": "这个电饭煲价值100000元",
+      "id": "evt-13000000",
+      "title": "13个县的消费赶超一线城市",
       "category": "society",
-      "hotScore": 0.6,
-      "freshness": 1,
+      "hotScore": 0.72,
+      "freshness": 0.9998,
       "crossSource": 1,
-      "totalScore": 0.84,
+      "totalScore": 0.888,
       "sources": [
         {
           "channel": "baidu",
-          "rank": 6,
+          "rank": 3,
           "hot": 0,
-          "url": "https://m.baidu.com/s?word=%E8%BF%99%E4%B8%AA%E7%94%B5%E9%A5%AD%E7%85%B2%E4%BB%B7%E5%80%BC100000%E5%85%83&sa=fyb_news"
+          "url": "https://m.baidu.com/s?word=13%E4%B8%AA%E5%8E%BF%E7%9A%84%E6%B6%88%E8%B4%B9%E8%B5%B6%E8%B6%85%E4%B8%80%E7%BA%BF%E5%9F%8E%E5%B8%82&sa=fyb_news"
         }
       ],
       "summary": "",
-      "url": "https://m.baidu.com/s?word=%E8%BF%99%E4%B8%AA%E7%94%B5%E9%A5%AD%E7%85%B2%E4%BB%B7%E5%80%BC100000%E5%85%83&sa=fyb_news"
+      "url": "https://m.baidu.com/s?word=13%E4%B8%AA%E5%8E%BF%E7%9A%84%E6%B6%88%E8%B4%B9%E8%B5%B6%E8%B6%85%E4%B8%80%E7%BA%BF%E5%9F%8E%E5%B8%82&sa=fyb_news"
     },
     {
-      "id": "evt-62600000",
-      "title": "62岁超高龄孕妇诞下6斤重男婴",
+      "id": "evt-ktv00000",
+      "title": "绍兴警方通报女子在KTV包厢厕所遭殴打：嫌疑人涉故意伤害罪被刑拘",
       "category": "society",
-      "hotScore": 0.48,
+      "hotScore": 0.68,
       "freshness": 1,
       "crossSource": 1,
-      "totalScore": 0.792,
+      "totalScore": 0.872,
       "sources": [
         {
-          "channel": "baidu",
-          "rank": 9,
+          "channel": "thepaper",
+          "rank": 5,
           "hot": 0,
-          "url": "https://m.baidu.com/s?word=62%E5%B2%81%E8%B6%85%E9%AB%98%E9%BE%84%E5%AD%95%E5%A6%87%E8%AF%9E%E4%B8%8B6%E6%96%A4%E9%87%8D%E7%94%B7%E5%A9%B4&sa=fyb_news"
+          "url": "https://www.thepaper.cn/newsDetail_forward_33825639"
         }
       ],
       "summary": "",
-      "url": "https://m.baidu.com/s?word=62%E5%B2%81%E8%B6%85%E9%AB%98%E9%BE%84%E5%AD%95%E5%A6%87%E8%AF%9E%E4%B8%8B6%E6%96%A4%E9%87%8D%E7%94%B7%E5%A9%B4&sa=fyb_news"
+      "url": "https://www.thepaper.cn/newsDetail_forward_33825639"
+    },
+    {
+      "id": "evt-72500000",
+      "title": "美将向联合国支付7.25亿美元拖欠会费",
+      "category": "society",
+      "hotScore": 0.68,
+      "freshness": 0.9997,
+      "crossSource": 1,
+      "totalScore": 0.8719,
+      "sources": [
+        {
+          "channel": "toutiao",
+          "rank": 5,
+          "hot": 17927509,
+          "url": "https://www.toutiao.com/trending/7676531554176451081/"
+        }
+      ],
+      "summary": "",
+      "url": "https://www.toutiao.com/trending/7676531554176451081/"
+    },
+    {
+      "id": "evt-ipo00000",
+      "title": "长江存储 IPO 审核状态变更为「已受理」，其 IPO 前景如何？",
+      "category": "society",
+      "hotScore": 0.525,
+      "freshness": 0.9998,
+      "crossSource": 1,
+      "totalScore": 0.8099,
+      "sources": [
+        {
+          "channel": "zhihu",
+          "rank": 7,
+          "hot": 0,
+          "url": ""
+        }
+      ],
+      "summary": "",
+      "url": ""
     }
   ]
 }
