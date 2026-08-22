@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-08-22T08:16:44.909Z",
+  "generatedAt": "2026-08-22T10:12:58.885Z",
   "fields": {
     "society": "社会",
     "economy": "经济",
@@ -8,41 +8,72 @@
   "feed": [
     {
       "id": "evt-00000000",
-      "title": "花蚊子的活动版图是怎么扩大的",
+      "title": "男子患癌在车间自缢 公司赔20余万",
       "category": "society",
-      "hotScore": 0.85,
+      "hotScore": 0.595,
       "freshness": 0.9999,
-      "crossSource": 0.6309,
-      "totalScore": 0.8293,
+      "crossSource": 1,
+      "totalScore": 0.838,
       "sources": [
         {
           "channel": "toutiao",
-          "rank": 1,
-          "hot": 29099916,
-          "url": "https://www.toutiao.com/trending/7676716451717971995/"
+          "rank": 7,
+          "hot": 17753459,
+          "url": "https://www.toutiao.com/trending/7676481699853402131/"
+        },
+        {
+          "channel": "baidu",
+          "rank": 18,
+          "hot": 0,
+          "url": "https://m.baidu.com/s?word=%E7%94%B7%E5%AD%90%E6%82%A3%E7%99%8C%E5%9C%A8%E8%BD%A6%E9%97%B4%E8%87%AA%E7%BC%A2+%E5%85%AC%E5%8F%B8%E8%B5%9420%E4%BD%99%E4%B8%87&sa=fyb_news"
         }
       ],
       "summary": "",
-      "url": "https://www.toutiao.com/trending/7676716451717971995/"
+      "url": "https://www.toutiao.com/trending/7676481699853402131/"
     },
     {
-      "id": "evt-30000000",
-      "title": "30 岁男子失业后网贷缠身，饿 20 天急性肾衰入院确诊韦尼克脑病，这是一种什么病？与其生活习惯有多大关系？",
+      "id": "evt-80000000",
+      "title": "女兵放弃本科从军8年后军士专升本",
       "category": "society",
-      "hotScore": 0.75,
+      "hotScore": 0.8075,
       "freshness": 0.9999,
       "crossSource": 0.6309,
-      "totalScore": 0.7893,
+      "totalScore": 0.8123,
       "sources": [
         {
-          "channel": "zhihu",
-          "rank": 1,
-          "hot": 0,
-          "url": ""
+          "channel": "toutiao",
+          "rank": 2,
+          "hot": 29270505,
+          "url": "https://www.toutiao.com/trending/7676723787777277958/"
         }
       ],
       "summary": "",
-      "url": ""
+      "url": "https://www.toutiao.com/trending/7676723787777277958/"
+    },
+    {
+      "id": "evt-93200000",
+      "title": "9秒32 机器人打破人类百米纪录",
+      "category": "society",
+      "hotScore": 0.52,
+      "freshness": 0.9999,
+      "crossSource": 1,
+      "totalScore": 0.808,
+      "sources": [
+        {
+          "channel": "toutiao",
+          "rank": 9,
+          "hot": 14535303,
+          "url": "https://www.toutiao.com/trending/7676228031299682310/"
+        },
+        {
+          "channel": "baidu",
+          "rank": 8,
+          "hot": 0,
+          "url": "https://m.baidu.com/s?word=9%E7%A7%9232+%E6%9C%BA%E5%99%A8%E4%BA%BA%E6%89%93%E7%A0%B4%E4%BA%BA%E7%B1%BB%E7%99%BE%E7%B1%B3%E7%BA%AA%E5%BD%95&sa=fyb_news"
+        }
+      ],
+      "summary": "",
+      "url": "https://www.toutiao.com/trending/7676228031299682310/"
     },
     {
       "id": "evt-55141000",
@@ -56,7 +87,7 @@
         {
           "channel": "toutiao",
           "rank": 4,
-          "hot": 21557748,
+          "hot": 23964663,
           "url": "https://www.toutiao.com/trending/7676401953496547370/"
         }
       ],
@@ -64,55 +95,17 @@
       "url": "https://www.toutiao.com/trending/7676401953496547370/"
     },
     {
-      "id": "evt-ktv00000",
-      "title": "绍兴警方通报女子在KTV包厢厕所遭殴打：嫌疑人涉故意伤害罪被刑拘",
-      "category": "society",
-      "hotScore": 0.68,
-      "freshness": 1,
-      "crossSource": 0.6309,
-      "totalScore": 0.7613,
-      "sources": [
-        {
-          "channel": "thepaper",
-          "rank": 5,
-          "hot": 0,
-          "url": "https://www.thepaper.cn/newsDetail_forward_33825639"
-        }
-      ],
-      "summary": "",
-      "url": "https://www.thepaper.cn/newsDetail_forward_33825639"
-    },
-    {
-      "id": "evt-39000000",
-      "title": "39岁员工厕所里猝死，因打卡后未到工位不被认定工伤？深圳涉事上市公司称将积极推进认定",
+      "id": "evt-30000000",
+      "title": "如何看待宇树科技上市 3 天回撤近 40%？",
       "category": "economy",
-      "hotScore": 0.85,
+      "hotScore": 0.5625,
       "freshness": 1,
       "crossSource": 0.6309,
-      "totalScore": 0.8293,
-      "sources": [
-        {
-          "channel": "thepaper",
-          "rank": 1,
-          "hot": 0,
-          "url": "https://www.thepaper.cn/newsDetail_forward_33819961"
-        }
-      ],
-      "summary": "",
-      "url": "https://www.thepaper.cn/newsDetail_forward_33819961"
-    },
-    {
-      "id": "evt-18000000",
-      "title": "如何评价《凡人修仙传》第 188 集？",
-      "category": "society",
-      "hotScore": 0.6375,
-      "freshness": 0.9999,
-      "crossSource": 0.6309,
-      "totalScore": 0.7443,
+      "totalScore": 0.7143,
       "sources": [
         {
           "channel": "zhihu",
-          "rank": 4,
+          "rank": 6,
           "hot": 0,
           "url": ""
         }
@@ -121,8 +114,27 @@
       "url": ""
     },
     {
-      "id": "evt-93200000",
-      "title": "9秒32 机器人打破人类百米纪录",
+      "id": "evt-ktv00000",
+      "title": "绍兴警方通报女子在KTV包厢厕所遭殴打：嫌疑人涉故意伤害罪被刑拘",
+      "category": "society",
+      "hotScore": 0.7225,
+      "freshness": 1,
+      "crossSource": 0.6309,
+      "totalScore": 0.7783,
+      "sources": [
+        {
+          "channel": "thepaper",
+          "rank": 4,
+          "hot": 0,
+          "url": "https://www.thepaper.cn/newsDetail_forward_33825639"
+        }
+      ],
+      "summary": "",
+      "url": "https://www.thepaper.cn/newsDetail_forward_33825639"
+    },
+    {
+      "id": "evt-gta60000",
+      "title": "《GTA6》遭大规模泄露：两段实机视频、一张完整地图，R 星紧急发起 DMCA 投诉，你怎么看？",
       "category": "society",
       "hotScore": 0.6,
       "freshness": 1,
@@ -130,21 +142,21 @@
       "totalScore": 0.7293,
       "sources": [
         {
-          "channel": "baidu",
-          "rank": 6,
+          "channel": "zhihu",
+          "rank": 5,
           "hot": 0,
-          "url": "https://m.baidu.com/s?word=9%E7%A7%9232+%E6%9C%BA%E5%99%A8%E4%BA%BA%E6%89%93%E7%A0%B4%E4%BA%BA%E7%B1%BB%E7%99%BE%E7%B1%B3%E7%BA%AA%E5%BD%95&sa=fyb_news"
+          "url": ""
         }
       ],
       "summary": "",
-      "url": "https://m.baidu.com/s?word=9%E7%A7%9232+%E6%9C%BA%E5%99%A8%E4%BA%BA%E6%89%93%E7%A0%B4%E4%BA%BA%E7%B1%BB%E7%99%BE%E7%B1%B3%E7%BA%AA%E5%BD%95&sa=fyb_news"
+      "url": ""
     },
     {
-      "id": "evt-gta60000",
-      "title": "《GTA6》遭大规模泄露：两段实机视频、一张完整地图，R 星紧急发起 DMCA 投诉，你怎么看？",
+      "id": "evt-18000000",
+      "title": "如何评价《凡人修仙传》第 188 集？",
       "category": "society",
       "hotScore": 0.525,
-      "freshness": 0.9999,
+      "freshness": 1,
       "crossSource": 0.6309,
       "totalScore": 0.6993,
       "sources": [
@@ -157,44 +169,6 @@
       ],
       "summary": "",
       "url": ""
-    },
-    {
-      "id": "evt-67600000",
-      "title": "姑娘复读一年考676分圆梦军校",
-      "category": "society",
-      "hotScore": 0.51,
-      "freshness": 0.9999,
-      "crossSource": 0.6309,
-      "totalScore": 0.6933,
-      "sources": [
-        {
-          "channel": "toutiao",
-          "rank": 9,
-          "hot": 13075435,
-          "url": "https://www.toutiao.com/trending/7676342317922254891/"
-        }
-      ],
-      "summary": "",
-      "url": "https://www.toutiao.com/trending/7676342317922254891/"
-    },
-    {
-      "id": "evt-54530000",
-      "title": "群内54人 53个是骗子",
-      "category": "society",
-      "hotScore": 0.44,
-      "freshness": 1,
-      "crossSource": 0.6309,
-      "totalScore": 0.6653,
-      "sources": [
-        {
-          "channel": "baidu",
-          "rank": 10,
-          "hot": 0,
-          "url": "https://m.baidu.com/s?word=%E7%BE%A4%E5%86%8554%E4%BA%BA+53%E4%B8%AA%E6%98%AF%E9%AA%97%E5%AD%90&sa=fyb_news"
-        }
-      ],
-      "summary": "",
-      "url": "https://m.baidu.com/s?word=%E7%BE%A4%E5%86%8554%E4%BA%BA+53%E4%B8%AA%E6%98%AF%E9%AA%97%E5%AD%90&sa=fyb_news"
     }
   ]
 }
