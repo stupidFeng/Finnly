@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-08-22T16:11:52.109Z",
+  "generatedAt": "2026-08-22T18:14:22.829Z",
   "fields": {
     "society": "社会",
     "economy": "经济",
@@ -7,37 +7,56 @@
   },
   "feed": [
     {
-      "id": "evt-00000000",
-      "title": "实探追觅造车办公地：工位大片闲置",
+      "id": "evt-10000000",
+      "title": "约1000家兰州拉面店完成门头更换",
       "category": "society",
       "hotScore": 0.85,
-      "freshness": 0.9999,
+      "freshness": 1,
       "crossSource": 1,
       "totalScore": 0.94,
       "sources": [
         {
           "channel": "toutiao",
           "rank": 1,
-          "hot": 9846453,
-          "url": "https://www.toutiao.com/trending/7676837324298387977/"
+          "hot": 10576057,
+          "url": "https://www.toutiao.com/trending/7676024665728942116/"
         }
       ],
       "summary": "",
-      "url": "https://www.toutiao.com/trending/7676837324298387977/"
+      "url": "https://www.toutiao.com/trending/7676024665728942116/"
+    },
+    {
+      "id": "evt-00000000",
+      "title": "马上评｜一场占座大讨论，一次普及规则的契机",
+      "category": "society",
+      "hotScore": 0.85,
+      "freshness": 1,
+      "crossSource": 1,
+      "totalScore": 0.94,
+      "sources": [
+        {
+          "channel": "thepaper",
+          "rank": 1,
+          "hot": 0,
+          "url": "https://www.thepaper.cn/newsDetail_forward_33826561"
+        }
+      ],
+      "summary": "",
+      "url": "https://www.thepaper.cn/newsDetail_forward_33826561"
     },
     {
       "id": "evt-20780000",
       "title": "男子20年省吃俭用攒789万6天被骗光",
       "category": "society",
       "hotScore": 0.7225,
-      "freshness": 0.9999,
+      "freshness": 1,
       "crossSource": 1,
       "totalScore": 0.889,
       "sources": [
         {
           "channel": "toutiao",
           "rank": 4,
-          "hot": 7294432,
+          "hot": 7834935,
           "url": "https://www.toutiao.com/trending/7676788498724290614/"
         }
       ],
@@ -83,46 +102,8 @@
       "url": ""
     },
     {
-      "id": "evt-gta60000",
-      "title": "《GTA6》遭大规模泄露：两段实机视频、一张完整地图，R 星紧急发起 DMCA 投诉，你怎么看？",
-      "category": "society",
-      "hotScore": 0.675,
-      "freshness": 1,
-      "crossSource": 1,
-      "totalScore": 0.87,
-      "sources": [
-        {
-          "channel": "zhihu",
-          "rank": 3,
-          "hot": 0,
-          "url": ""
-        }
-      ],
-      "summary": "",
-      "url": ""
-    },
-    {
-      "id": "evt-80000000",
-      "title": "80岁西班牙“狼孩”去世",
-      "category": "society",
-      "hotScore": 0.6375,
-      "freshness": 0.9999,
-      "crossSource": 1,
-      "totalScore": 0.855,
-      "sources": [
-        {
-          "channel": "toutiao",
-          "rank": 6,
-          "hot": 5972176,
-          "url": "https://www.toutiao.com/trending/7676779945427042354/"
-        }
-      ],
-      "summary": "",
-      "url": "https://www.toutiao.com/trending/7676779945427042354/"
-    },
-    {
-      "id": "evt-lv000000",
-      "title": "奢侈品牌 LV 全国多地门店关闭，西南门店腰斩过半，为何收缩线下渠道？对中国奢侈品市场意味着什么？",
+      "id": "evt-deepseek8",
+      "title": "怎么看 DeepSeek 8 月 22 日再调整定价，周末全天统一按低谷价收费？",
       "category": "society",
       "hotScore": 0.6,
       "freshness": 1,
@@ -132,6 +113,25 @@
         {
           "channel": "zhihu",
           "rank": 5,
+          "hot": 0,
+          "url": ""
+        }
+      ],
+      "summary": "",
+      "url": ""
+    },
+    {
+      "id": "evt-lv000000",
+      "title": "奢侈品牌 LV 全国多地门店关闭，西南门店腰斩过半，为何收缩线下渠道？对中国奢侈品市场意味着什么？",
+      "category": "society",
+      "hotScore": 0.5625,
+      "freshness": 1,
+      "crossSource": 1,
+      "totalScore": 0.825,
+      "sources": [
+        {
+          "channel": "zhihu",
+          "rank": 6,
           "hot": 0,
           "url": ""
         }
@@ -159,25 +159,6 @@
       "url": "https://m.baidu.com/s?word=%E6%9B%BE%E8%A2%AB%E7%8B%BC%E7%BE%A4%E6%8A%9A%E5%85%BB12%E5%B9%B4%E7%9A%84%E8%A5%BF%E7%8F%AD%E7%89%99%E7%8B%BC%E5%AD%A9%E5%8E%BB%E4%B8%96&sa=fyb_news"
     },
     {
-      "id": "evt-10000000",
-      "title": "一家10口齐上阵送女娃上军校",
-      "category": "society",
-      "hotScore": 0.5525,
-      "freshness": 0.9999,
-      "crossSource": 1,
-      "totalScore": 0.821,
-      "sources": [
-        {
-          "channel": "toutiao",
-          "rank": 8,
-          "hot": 4889604,
-          "url": "https://www.toutiao.com/trending/7676467255630138923/"
-        }
-      ],
-      "summary": "",
-      "url": "https://www.toutiao.com/trending/7676467255630138923/"
-    },
-    {
       "id": "evt-mrna0000",
       "title": "财晓得｜新里程碑！mRNA联手K药大败黑色素瘤，离攻克癌症还有多远",
       "category": "society",
@@ -197,23 +178,23 @@
       "url": "https://www.thepaper.cn/newsDetail_forward_33824455"
     },
     {
-      "id": "evt-opencode",
-      "title": "怎么看 OpenCode 找了很多供应商，都找不到 DeepSeek 涨价前原厂的价格？",
+      "id": "evt-80000000",
+      "title": "女兵放弃本科从军8年后军士专升本",
       "category": "society",
-      "hotScore": 0.525,
+      "hotScore": 0.48,
       "freshness": 1,
       "crossSource": 1,
-      "totalScore": 0.81,
+      "totalScore": 0.792,
       "sources": [
         {
-          "channel": "zhihu",
-          "rank": 7,
+          "channel": "baidu",
+          "rank": 9,
           "hot": 0,
-          "url": ""
+          "url": "https://m.baidu.com/s?word=%E5%A5%B3%E5%85%B5%E6%94%BE%E5%BC%83%E6%9C%AC%E7%A7%91%E4%BB%8E%E5%86%9B8%E5%B9%B4%E5%90%8E%E5%86%9B%E5%A3%AB%E4%B8%93%E5%8D%87%E6%9C%AC&sa=fyb_news"
         }
       ],
       "summary": "",
-      "url": ""
+      "url": "https://m.baidu.com/s?word=%E5%A5%B3%E5%85%B5%E6%94%BE%E5%BC%83%E6%9C%AC%E7%A7%91%E4%BB%8E%E5%86%9B8%E5%B9%B4%E5%90%8E%E5%86%9B%E5%A3%AB%E4%B8%93%E5%8D%87%E6%9C%AC&sa=fyb_news"
     },
     {
       "id": "evt-c0000000",
