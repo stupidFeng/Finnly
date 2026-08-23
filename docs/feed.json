@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-08-23T06:22:42.442Z",
+  "generatedAt": "2026-08-23T08:17:38.478Z",
   "fields": {
     "society": "社会",
     "economy": "经济",
@@ -7,30 +7,36 @@
   },
   "feed": [
     {
-      "id": "evt-bbc00000",
-      "title": "BBC报道中国人形机器人运动会",
+      "id": "evt-00000000",
+      "title": "多名农民称莫名成法人 被贷千万元",
       "category": "society",
-      "hotScore": 0.85,
+      "hotScore": 0.64,
       "freshness": 0.9999,
-      "crossSource": 0.6309,
-      "totalScore": 0.8292,
+      "crossSource": 1,
+      "totalScore": 0.856,
       "sources": [
         {
           "channel": "toutiao",
-          "rank": 1,
-          "hot": 24056865,
-          "url": "https://www.toutiao.com/trending/7677085636570041906/"
+          "rank": 15,
+          "hot": 5965371,
+          "url": "https://www.toutiao.com/trending/7677010300457861683/"
+        },
+        {
+          "channel": "baidu",
+          "rank": 5,
+          "hot": 0,
+          "url": "https://m.baidu.com/s?word=%E5%A4%9A%E5%90%8D%E5%86%9C%E6%B0%91%E7%A7%B0%E8%8E%AB%E5%90%8D%E6%88%90%E6%B3%95%E4%BA%BA+%E8%A2%AB%E8%B4%B7%E5%8D%83%E4%B8%87%E5%85%83&sa=fyb_news"
         }
       ],
       "summary": "",
-      "url": "https://www.toutiao.com/trending/7677085636570041906/"
+      "url": "https://www.toutiao.com/trending/7677010300457861683/"
     },
     {
-      "id": "evt-00000000",
-      "title": "“准大学生”投诉寄档案被要求办卡，四川泸州邮政局称已督促整改",
+      "id": "evt-10093900",
+      "title": "100米9秒39打破人类纪录！世界人形机器人运动会开幕，宇树预赛小组垫底",
       "category": "society",
       "hotScore": 0.8075,
-      "freshness": 0.9999,
+      "freshness": 1,
       "crossSource": 0.6309,
       "totalScore": 0.8123,
       "sources": [
@@ -38,30 +44,11 @@
           "channel": "thepaper",
           "rank": 2,
           "hot": 0,
-          "url": "https://www.thepaper.cn/newsDetail_forward_33833681"
-        }
-      ],
-      "summary": "",
-      "url": "https://www.thepaper.cn/newsDetail_forward_33833681"
-    },
-    {
-      "id": "evt-10093900",
-      "title": "100米9秒39打破人类纪录！世界人形机器人运动会开幕，宇树预赛小组垫底",
-      "category": "society",
-      "hotScore": 0.765,
-      "freshness": 0.9999,
-      "crossSource": 0.6309,
-      "totalScore": 0.7953,
-      "sources": [
-        {
-          "channel": "thepaper",
-          "rank": 3,
-          "hot": 0,
           "url": "https://www.thepaper.cn/newsDetail_forward_33833753"
         },
         {
           "channel": "thepaper",
-          "rank": 13,
+          "rank": 11,
           "hot": 0,
           "url": "https://www.thepaper.cn/newsDetail_forward_33833775"
         }
@@ -70,152 +57,70 @@
       "url": "https://www.thepaper.cn/newsDetail_forward_33833753"
     },
     {
-      "id": "evt-deepseek8",
-      "title": "怎么看 DeepSeek 8 月 22 日再调整定价，周末全天统一按低谷价收费？",
+      "id": "evt-80000000",
+      "title": "8月鸡蛋因何涨价",
       "category": "society",
-      "hotScore": 0.75,
+      "hotScore": 0.76,
+      "freshness": 1,
+      "crossSource": 0.6309,
+      "totalScore": 0.7933,
+      "sources": [
+        {
+          "channel": "baidu",
+          "rank": 2,
+          "hot": 0,
+          "url": "https://m.baidu.com/s?word=8%E6%9C%88%E9%B8%A1%E8%9B%8B%E5%9B%A0%E4%BD%95%E6%B6%A8%E4%BB%B7&sa=fyb_news"
+        }
+      ],
+      "summary": "",
+      "url": "https://m.baidu.com/s?word=8%E6%9C%88%E9%B8%A1%E8%9B%8B%E5%9B%A0%E4%BD%95%E6%B6%A8%E4%BB%B7&sa=fyb_news"
+    },
+    {
+      "id": "evt-74859800",
+      "title": "7.48元成本卖到598 企业被罚没3.8亿",
+      "category": "society",
+      "hotScore": 0.7225,
       "freshness": 0.9999,
       "crossSource": 0.6309,
-      "totalScore": 0.7892,
+      "totalScore": 0.7783,
+      "sources": [
+        {
+          "channel": "toutiao",
+          "rank": 4,
+          "hot": 17920965,
+          "url": "https://www.toutiao.com/trending/7677109306596229147/"
+        }
+      ],
+      "summary": "",
+      "url": "https://www.toutiao.com/trending/7677109306596229147/"
+    },
+    {
+      "id": "evt-sc000000",
+      "title": "如何评价南信大团队在《Science》上发文「中国太阳能扩张政策导致鸟类生物多样性下降」？",
+      "category": "society",
+      "hotScore": 0.675,
+      "freshness": 1,
+      "crossSource": 0.6309,
+      "totalScore": 0.7593,
       "sources": [
         {
           "channel": "zhihu",
-          "rank": 1,
+          "rank": 3,
           "hot": 0,
           "url": ""
         }
       ],
       "summary": "",
       "url": ""
-    },
-    {
-      "id": "evt-cs000000",
-      "title": "机器人进任意球后学C罗Siu",
-      "category": "society",
-      "hotScore": 0.7225,
-      "freshness": 0.9999,
-      "crossSource": 0.6309,
-      "totalScore": 0.7782,
-      "sources": [
-        {
-          "channel": "toutiao",
-          "rank": 4,
-          "hot": 17821764,
-          "url": "https://www.toutiao.com/trending/7676692618839100947/"
-        }
-      ],
-      "summary": "",
-      "url": "https://www.toutiao.com/trending/7676692618839100947/"
-    },
-    {
-      "id": "evt-20000000",
-      "title": "宋丹丹穿20年前《家有儿女》衣服",
-      "category": "society",
-      "hotScore": 0.425,
-      "freshness": 0.9999,
-      "crossSource": 1,
-      "totalScore": 0.77,
-      "sources": [
-        {
-          "channel": "toutiao",
-          "rank": 11,
-          "hot": 8850026,
-          "url": "https://www.toutiao.com/trending/7676962272254607370/"
-        },
-        {
-          "channel": "baidu",
-          "rank": 13,
-          "hot": 0,
-          "url": "https://m.baidu.com/s?word=%E5%AE%8B%E4%B8%B9%E4%B8%B9%E7%A9%BF20%E5%B9%B4%E5%89%8D%E3%80%8A%E5%AE%B6%E6%9C%89%E5%84%BF%E5%A5%B3%E3%80%8B%E8%A1%A3%E6%9C%8D&sa=fyb_news"
-        }
-      ],
-      "summary": "",
-      "url": "https://www.toutiao.com/trending/7676962272254607370/"
-    },
-    {
-      "id": "evt-90000000",
-      "title": "9岁孩子课间撞断门牙 学校不赔偿",
-      "category": "society",
-      "hotScore": 0.64,
-      "freshness": 0.9999,
-      "crossSource": 0.6309,
-      "totalScore": 0.7453,
-      "sources": [
-        {
-          "channel": "baidu",
-          "rank": 5,
-          "hot": 0,
-          "url": "https://m.baidu.com/s?word=9%E5%B2%81%E5%AD%A9%E5%AD%90%E8%AF%BE%E9%97%B4%E6%92%9E%E6%96%AD%E9%97%A8%E7%89%99+%E5%AD%A6%E6%A0%A1%E4%B8%8D%E8%B5%94%E5%81%BF&sa=fyb_news"
-        }
-      ],
-      "summary": "",
-      "url": "https://m.baidu.com/s?word=9%E5%B2%81%E5%AD%A9%E5%AD%90%E8%AF%BE%E9%97%B4%E6%92%9E%E6%96%AD%E9%97%A8%E7%89%99+%E5%AD%A6%E6%A0%A1%E4%B8%8D%E8%B5%94%E5%81%BF&sa=fyb_news"
-    },
-    {
-      "id": "evt-puraxmax",
-      "title": "华为Pura X Max销量突破71万台",
-      "category": "society",
-      "hotScore": 0.6375,
-      "freshness": 0.9999,
-      "crossSource": 0.6309,
-      "totalScore": 0.7442,
-      "sources": [
-        {
-          "channel": "toutiao",
-          "rank": 6,
-          "hot": 14591226,
-          "url": "https://www.toutiao.com/trending/7676456915718717483/"
-        }
-      ],
-      "summary": "",
-      "url": "https://www.toutiao.com/trending/7676456915718717483/"
     },
     {
       "id": "evt-35000000",
       "title": "每隔 3~5 公里设置自然弯道是高速公路设计的常识，但是为啥我们经常看到美国国家公路直得像到天堂一样？",
       "category": "society",
-      "hotScore": 0.6375,
-      "freshness": 0.9999,
-      "crossSource": 0.6309,
-      "totalScore": 0.7442,
-      "sources": [
-        {
-          "channel": "zhihu",
-          "rank": 4,
-          "hot": 0,
-          "url": ""
-        }
-      ],
-      "summary": "",
-      "url": ""
-    },
-    {
-      "id": "evt-39800000",
-      "title": "韦东奕39.8元练习册已下架",
-      "category": "society",
       "hotScore": 0.6,
-      "freshness": 0.9999,
+      "freshness": 1,
       "crossSource": 0.6309,
       "totalScore": 0.7293,
-      "sources": [
-        {
-          "channel": "baidu",
-          "rank": 6,
-          "hot": 0,
-          "url": "https://m.baidu.com/s?word=%E9%9F%A6%E4%B8%9C%E5%A5%9539.8%E5%85%83%E7%BB%83%E4%B9%A0%E5%86%8C%E5%B7%B2%E4%B8%8B%E6%9E%B6&sa=fyb_news"
-        }
-      ],
-      "summary": "",
-      "url": "https://m.baidu.com/s?word=%E9%9F%A6%E4%B8%9C%E5%A5%9539.8%E5%85%83%E7%BB%83%E4%B9%A0%E5%86%8C%E5%B7%B2%E4%B8%8B%E6%9E%B6&sa=fyb_news"
-    },
-    {
-      "id": "evt-50000000",
-      "title": "如何看待顾客因平台漏洞 55 元捡漏 1.4 万元项链，商家补偿 5 元并要求主动退款？这种情况能要求发货吗？",
-      "category": "society",
-      "hotScore": 0.6,
-      "freshness": 0.9999,
-      "crossSource": 0.6309,
-      "totalScore": 0.7292,
       "sources": [
         {
           "channel": "zhihu",
@@ -228,42 +133,137 @@
       "url": ""
     },
     {
-      "id": "evt-12345000",
-      "title": "专家：12345应实名制",
+      "id": "evt-25000000",
+      "title": "乌25岁男子刺死军人或面临终身监禁",
       "category": "society",
-      "hotScore": 0.56,
+      "hotScore": 0.595,
       "freshness": 0.9999,
       "crossSource": 0.6309,
-      "totalScore": 0.7133,
+      "totalScore": 0.7273,
       "sources": [
         {
-          "channel": "baidu",
+          "channel": "toutiao",
           "rank": 7,
-          "hot": 0,
-          "url": "https://m.baidu.com/s?word=%E4%B8%93%E5%AE%B6%EF%BC%9A12345%E5%BA%94%E5%AE%9E%E5%90%8D%E5%88%B6&sa=fyb_news"
+          "hot": 13276177,
+          "url": "https://www.toutiao.com/trending/7676683453748543515/"
         }
       ],
       "summary": "",
-      "url": "https://m.baidu.com/s?word=%E4%B8%93%E5%AE%B6%EF%BC%9A12345%E5%BA%94%E5%AE%9E%E5%90%8D%E5%88%B6&sa=fyb_news"
+      "url": "https://www.toutiao.com/trending/7676683453748543515/"
     },
     {
       "id": "evt-15800000",
       "title": "1.58 万元的问界儿童车预售，车企为什么要给小孩「造车」？能将带娃家庭转化成潜在客户吗？",
       "category": "society",
-      "hotScore": 0.45,
-      "freshness": 0.9999,
+      "hotScore": 0.5625,
+      "freshness": 1,
       "crossSource": 0.6309,
-      "totalScore": 0.6692,
+      "totalScore": 0.7143,
       "sources": [
         {
           "channel": "zhihu",
-          "rank": 9,
+          "rank": 6,
           "hot": 0,
           "url": ""
         }
       ],
       "summary": "",
       "url": ""
+    },
+    {
+      "id": "evt-bbc00000",
+      "title": "BBC报道中国人形机器人运动会",
+      "category": "society",
+      "hotScore": 0.5525,
+      "freshness": 0.9999,
+      "crossSource": 0.6309,
+      "totalScore": 0.7103,
+      "sources": [
+        {
+          "channel": "toutiao",
+          "rank": 8,
+          "hot": 12012782,
+          "url": "https://www.toutiao.com/trending/7677085636570041906/"
+        }
+      ],
+      "summary": "",
+      "url": "https://www.toutiao.com/trending/7677085636570041906/"
+    },
+    {
+      "id": "evt-90000000",
+      "title": "荣耀机器人闪电百米跑出 9 秒 32，破人类百米纪录，这一成绩的含金量如何？有哪些意义？",
+      "category": "society",
+      "hotScore": 0.525,
+      "freshness": 1,
+      "crossSource": 0.6309,
+      "totalScore": 0.6993,
+      "sources": [
+        {
+          "channel": "zhihu",
+          "rank": 7,
+          "hot": 0,
+          "url": ""
+        }
+      ],
+      "summary": "",
+      "url": ""
+    },
+    {
+      "id": "evt-10000000",
+      "title": "如何评价《凡人修仙传》动画 188 集，黄龙山大战正式开始，但在线人数却依旧下跌，才十万左右？你怎么看？",
+      "category": "society",
+      "hotScore": 0.4875,
+      "freshness": 1,
+      "crossSource": 0.6309,
+      "totalScore": 0.6843,
+      "sources": [
+        {
+          "channel": "zhihu",
+          "rank": 8,
+          "hot": 0,
+          "url": ""
+        }
+      ],
+      "summary": "",
+      "url": ""
+    },
+    {
+      "id": "evt-70000000",
+      "title": "70后彭勇任湖北襄阳市委书记",
+      "category": "society",
+      "hotScore": 0.4675,
+      "freshness": 0.9999,
+      "crossSource": 0.6309,
+      "totalScore": 0.6763,
+      "sources": [
+        {
+          "channel": "toutiao",
+          "rank": 10,
+          "hot": 9835234,
+          "url": "https://www.toutiao.com/trending/7677115143175540260/"
+        }
+      ],
+      "summary": "",
+      "url": "https://www.toutiao.com/trending/7677115143175540260/"
+    },
+    {
+      "id": "evt-20000000",
+      "title": "合肥“跳预言家”的20年",
+      "category": "society",
+      "hotScore": 0.44,
+      "freshness": 1,
+      "crossSource": 0.6309,
+      "totalScore": 0.6653,
+      "sources": [
+        {
+          "channel": "baidu",
+          "rank": 10,
+          "hot": 0,
+          "url": "https://m.baidu.com/s?word=%E5%90%88%E8%82%A5%E2%80%9C%E8%B7%B3%E9%A2%84%E8%A8%80%E5%AE%B6%E2%80%9D%E7%9A%8420%E5%B9%B4&sa=fyb_news"
+        }
+      ],
+      "summary": "",
+      "url": "https://m.baidu.com/s?word=%E5%90%88%E8%82%A5%E2%80%9C%E8%B7%B3%E9%A2%84%E8%A8%80%E5%AE%B6%E2%80%9D%E7%9A%8420%E5%B9%B4&sa=fyb_news"
     }
   ]
 }
