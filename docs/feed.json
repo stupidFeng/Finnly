@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-08-22T22:10:57.823Z",
+  "generatedAt": "2026-08-23T00:40:46.014Z",
   "fields": {
     "society": "社会",
     "economy": "经济",
@@ -7,27 +7,8 @@
   },
   "feed": [
     {
-      "id": "evt-10000000",
-      "title": "约1000家兰州拉面店完成门头更换",
-      "category": "society",
-      "hotScore": 0.85,
-      "freshness": 0.9999,
-      "crossSource": 1,
-      "totalScore": 0.94,
-      "sources": [
-        {
-          "channel": "toutiao",
-          "rank": 1,
-          "hot": 12161920,
-          "url": "https://www.toutiao.com/trending/7676024665728942116/"
-        }
-      ],
-      "summary": "",
-      "url": "https://www.toutiao.com/trending/7676024665728942116/"
-    },
-    {
       "id": "evt-00000000",
-      "title": "马上评｜一场占座大讨论，一次普及规则的契机",
+      "title": "人民日报：处置甲醛白菜必须从速从严",
       "category": "society",
       "hotScore": 0.85,
       "freshness": 1,
@@ -35,65 +16,64 @@
       "totalScore": 0.94,
       "sources": [
         {
-          "channel": "thepaper",
-          "rank": 1,
-          "hot": 0,
-          "url": "https://www.thepaper.cn/newsDetail_forward_33826561"
-        }
-      ],
-      "summary": "",
-      "url": "https://www.thepaper.cn/newsDetail_forward_33826561"
-    },
-    {
-      "id": "evt-20780000",
-      "title": "男子20年省吃俭用攒789万6天被骗光",
-      "category": "society",
-      "hotScore": 0.7225,
-      "freshness": 0.9999,
-      "crossSource": 1,
-      "totalScore": 0.889,
-      "sources": [
-        {
           "channel": "toutiao",
-          "rank": 4,
-          "hot": 9009772,
-          "url": "https://www.toutiao.com/trending/7676788498724290614/"
-        }
-      ],
-      "summary": "",
-      "url": "https://www.toutiao.com/trending/7676788498724290614/"
-    },
-    {
-      "id": "evt-20200000",
-      "title": "住破房穿20块衣服男子20年攒789万",
-      "category": "society",
-      "hotScore": 0.72,
-      "freshness": 0.9999,
-      "crossSource": 1,
-      "totalScore": 0.888,
-      "sources": [
+          "rank": 1,
+          "hot": 15234035,
+          "url": "https://www.toutiao.com/trending/7676467255630204459/"
+        },
+        {
+          "channel": "thepaper",
+          "rank": 14,
+          "hot": 0,
+          "url": "https://www.thepaper.cn/newsDetail_forward_33833881"
+        },
         {
           "channel": "baidu",
-          "rank": 3,
+          "rank": 19,
           "hot": 0,
-          "url": "https://m.baidu.com/s?word=%E4%BD%8F%E7%A0%B4%E6%88%BF%E7%A9%BF20%E5%9D%97%E8%A1%A3%E6%9C%8D%E7%94%B7%E5%AD%9020%E5%B9%B4%E6%94%92789%E4%B8%87&sa=fyb_news"
+          "url": "https://m.baidu.com/s?word=%E4%BA%BA%E6%B0%91%E6%97%A5%E6%8A%A5%EF%BC%9A%E5%A4%84%E7%BD%AE%E7%94%B2%E9%86%9B%E7%99%BD%E8%8F%9C%E5%BF%85%E9%A1%BB%E4%BB%8E%E9%80%9F%E4%BB%8E%E4%B8%A5&sa=fyb_news"
         }
       ],
       "summary": "",
-      "url": "https://m.baidu.com/s?word=%E4%BD%8F%E7%A0%B4%E6%88%BF%E7%A9%BF20%E5%9D%97%E8%A1%A3%E6%9C%8D%E7%94%B7%E5%AD%9020%E5%B9%B4%E6%94%92789%E4%B8%87&sa=fyb_news"
+      "url": "https://www.toutiao.com/trending/7676467255630204459/"
+    },
+    {
+      "id": "evt-10093900",
+      "title": "100米9秒39打破人类纪录！世界人形机器人运动会开幕，宇树预赛小组垫底",
+      "category": "society",
+      "hotScore": 0.765,
+      "freshness": 1,
+      "crossSource": 0.5,
+      "totalScore": 0.756,
+      "sources": [
+        {
+          "channel": "thepaper",
+          "rank": 3,
+          "hot": 0,
+          "url": "https://www.thepaper.cn/newsDetail_forward_33833753"
+        },
+        {
+          "channel": "thepaper",
+          "rank": 13,
+          "hot": 0,
+          "url": "https://www.thepaper.cn/newsDetail_forward_33833775"
+        }
+      ],
+      "summary": "",
+      "url": "https://www.thepaper.cn/newsDetail_forward_33833753"
     },
     {
       "id": "evt-deepseek8",
       "title": "怎么看 DeepSeek 8 月 22 日再调整定价，周末全天统一按低谷价收费？",
       "category": "society",
-      "hotScore": 0.7125,
-      "freshness": 0.9999,
-      "crossSource": 1,
-      "totalScore": 0.885,
+      "hotScore": 0.75,
+      "freshness": 1,
+      "crossSource": 0.5,
+      "totalScore": 0.75,
       "sources": [
         {
           "channel": "zhihu",
-          "rank": 2,
+          "rank": 1,
           "hot": 0,
           "url": ""
         }
@@ -102,13 +82,13 @@
       "url": ""
     },
     {
-      "id": "evt-26270000",
-      "title": "26-27 赛季德甲乒乓球联赛，樊振东 3:1 贝塔斯迈尔，豪取杜塞尔多夫首秀胜利，如何评价本场比赛?",
+      "id": "evt-50000000",
+      "title": "如何看待顾客因平台漏洞 55 元捡漏 1.4 万元项链，商家补偿 5 元并要求主动退款？这种情况能要求发货吗？",
       "category": "society",
       "hotScore": 0.675,
-      "freshness": 0.9999,
-      "crossSource": 1,
-      "totalScore": 0.87,
+      "freshness": 1,
+      "crossSource": 0.5,
+      "totalScore": 0.72,
       "sources": [
         {
           "channel": "zhihu",
@@ -121,36 +101,17 @@
       "url": ""
     },
     {
-      "id": "evt-12000000",
-      "title": "曾被狼群抚养12年的西班牙狼孩去世",
+      "id": "evt-35000000",
+      "title": "每隔 3~5 公里设置自然弯道是高速公路设计的常识，但是为啥我们经常看到美国国家公路直的像到天堂一样？",
       "category": "society",
-      "hotScore": 0.56,
-      "freshness": 0.9999,
-      "crossSource": 1,
-      "totalScore": 0.824,
-      "sources": [
-        {
-          "channel": "baidu",
-          "rank": 7,
-          "hot": 0,
-          "url": "https://m.baidu.com/s?word=%E6%9B%BE%E8%A2%AB%E7%8B%BC%E7%BE%A4%E6%8A%9A%E5%85%BB12%E5%B9%B4%E7%9A%84%E8%A5%BF%E7%8F%AD%E7%89%99%E7%8B%BC%E5%AD%A9%E5%8E%BB%E4%B8%96&sa=fyb_news"
-        }
-      ],
-      "summary": "",
-      "url": "https://m.baidu.com/s?word=%E6%9B%BE%E8%A2%AB%E7%8B%BC%E7%BE%A4%E6%8A%9A%E5%85%BB12%E5%B9%B4%E7%9A%84%E8%A5%BF%E7%8F%AD%E7%89%99%E7%8B%BC%E5%AD%A9%E5%8E%BB%E4%B8%96&sa=fyb_news"
-    },
-    {
-      "id": "evt-50000000",
-      "title": "如何看待顾客因平台漏洞 55 元捡漏 1.4 万元项链，商家补偿 5 元并要求主动退款？这种情况能要求发货吗？",
-      "category": "society",
-      "hotScore": 0.525,
-      "freshness": 0.9999,
-      "crossSource": 1,
-      "totalScore": 0.81,
+      "hotScore": 0.6,
+      "freshness": 1,
+      "crossSource": 0.5,
+      "totalScore": 0.69,
       "sources": [
         {
           "channel": "zhihu",
-          "rank": 7,
+          "rank": 5,
           "hot": 0,
           "url": ""
         }
@@ -159,118 +120,80 @@
       "url": ""
     },
     {
-      "id": "evt-55141000",
-      "title": "55元捡漏1.41万项链女子获5元补偿",
+      "id": "evt-59818000",
+      "title": "女子59.8元买盆栽18天爬出4条蛇",
       "category": "society",
-      "hotScore": 0.51,
-      "freshness": 0.9999,
-      "crossSource": 1,
-      "totalScore": 0.804,
-      "sources": [
-        {
-          "channel": "toutiao",
-          "rank": 9,
-          "hot": 5464703,
-          "url": "https://www.toutiao.com/trending/7676401953496547370/"
-        }
-      ],
-      "summary": "",
-      "url": "https://www.toutiao.com/trending/7676401953496547370/"
-    },
-    {
-      "id": "evt-mrna0000",
-      "title": "财晓得｜新里程碑！mRNA联手K药大败黑色素瘤，离攻克癌症还有多远",
-      "category": "society",
-      "hotScore": 0.51,
+      "hotScore": 0.56,
       "freshness": 1,
-      "crossSource": 1,
-      "totalScore": 0.804,
-      "sources": [
-        {
-          "channel": "thepaper",
-          "rank": 9,
-          "hot": 0,
-          "url": "https://www.thepaper.cn/newsDetail_forward_33824455"
-        }
-      ],
-      "summary": "",
-      "url": "https://www.thepaper.cn/newsDetail_forward_33824455"
-    },
-    {
-      "id": "evt-25000000",
-      "title": "女主播被控诈骗2500万元",
-      "category": "society",
-      "hotScore": 0.48,
-      "freshness": 0.9999,
-      "crossSource": 1,
-      "totalScore": 0.792,
+      "crossSource": 0.5,
+      "totalScore": 0.674,
       "sources": [
         {
           "channel": "baidu",
-          "rank": 9,
+          "rank": 7,
           "hot": 0,
-          "url": "https://m.baidu.com/s?word=%E5%A5%B3%E4%B8%BB%E6%92%AD%E8%A2%AB%E6%8E%A7%E8%AF%88%E9%AA%972500%E4%B8%87%E5%85%83&sa=fyb_news"
+          "url": "https://m.baidu.com/s?word=%E5%A5%B3%E5%AD%9059.8%E5%85%83%E4%B9%B0%E7%9B%86%E6%A0%BD18%E5%A4%A9%E7%88%AC%E5%87%BA4%E6%9D%A1%E8%9B%87&sa=fyb_news"
         }
       ],
       "summary": "",
-      "url": "https://m.baidu.com/s?word=%E5%A5%B3%E4%B8%BB%E6%92%AD%E8%A2%AB%E6%8E%A7%E8%AF%88%E9%AA%972500%E4%B8%87%E5%85%83&sa=fyb_news"
+      "url": "https://m.baidu.com/s?word=%E5%A5%B3%E5%AD%9059.8%E5%85%83%E4%B9%B0%E7%9B%86%E6%A0%BD18%E5%A4%A9%E7%88%AC%E5%87%BA4%E6%9D%A1%E8%9B%87&sa=fyb_news"
     },
     {
-      "id": "evt-35000000",
-      "title": "男子自驾3500公里送儿子去新疆上学",
+      "id": "evt-30000000",
+      "title": "机器人跳高近3米刷新人类极限纪录",
       "category": "society",
-      "hotScore": 0.4675,
-      "freshness": 0.9999,
-      "crossSource": 1,
-      "totalScore": 0.787,
+      "hotScore": 0.5525,
+      "freshness": 1,
+      "crossSource": 0.5,
+      "totalScore": 0.671,
       "sources": [
         {
           "channel": "toutiao",
-          "rank": 10,
-          "hot": 4944667,
-          "url": "https://www.toutiao.com/trending/7676735671604101174/"
+          "rank": 8,
+          "hot": 7564998,
+          "url": "https://www.toutiao.com/trending/7676991068772060710/"
         }
       ],
       "summary": "",
-      "url": "https://www.toutiao.com/trending/7676735671604101174/"
+      "url": "https://www.toutiao.com/trending/7676991068772060710/"
     },
     {
-      "id": "evt-c0000000",
-      "title": "观察丨具身智能还在等待“ChatGPT时刻”，产业链与生态成竞争关键",
+      "id": "evt-59000000",
+      "title": "59岁交警回应“老父亲式”训诫骑行团：我儿子也骑车，真把他们当孩子",
       "category": "society",
       "hotScore": 0.4675,
       "freshness": 1,
-      "crossSource": 1,
-      "totalScore": 0.787,
+      "crossSource": 0.5,
+      "totalScore": 0.637,
       "sources": [
         {
           "channel": "thepaper",
           "rank": 10,
           "hot": 0,
-          "url": "https://www.thepaper.cn/newsDetail_forward_33825848"
+          "url": "https://www.thepaper.cn/newsDetail_forward_33826475"
         }
       ],
       "summary": "",
-      "url": "https://www.thepaper.cn/newsDetail_forward_33825848"
+      "url": "https://www.thepaper.cn/newsDetail_forward_33826475"
     },
     {
-      "id": "evt-20000000",
-      "title": "今年第20号台风简拉维生成",
+      "id": "evt-10000000",
+      "title": "宇树机器人100米预赛小组垫底",
       "category": "society",
       "hotScore": 0.44,
-      "freshness": 0.9999,
-      "crossSource": 1,
-      "totalScore": 0.776,
+      "freshness": 1,
+      "crossSource": 0.5,
+      "totalScore": 0.626,
       "sources": [
         {
           "channel": "baidu",
           "rank": 10,
           "hot": 0,
-          "url": "https://m.baidu.com/s?word=%E4%BB%8A%E5%B9%B4%E7%AC%AC20%E5%8F%B7%E5%8F%B0%E9%A3%8E%E7%AE%80%E6%8B%89%E7%BB%B4%E7%94%9F%E6%88%90&sa=fyb_news"
+          "url": "https://m.baidu.com/s?word=%E5%AE%87%E6%A0%91%E6%9C%BA%E5%99%A8%E4%BA%BA100%E7%B1%B3%E9%A2%84%E8%B5%9B%E5%B0%8F%E7%BB%84%E5%9E%AB%E5%BA%95&sa=fyb_news"
         }
       ],
       "summary": "",
-      "url": "https://m.baidu.com/s?word=%E4%BB%8A%E5%B9%B4%E7%AC%AC20%E5%8F%B7%E5%8F%B0%E9%A3%8E%E7%AE%80%E6%8B%89%E7%BB%B4%E7%94%9F%E6%88%90&sa=fyb_news"
+      "url": "https://m.baidu.com/s?word=%E5%AE%87%E6%A0%91%E6%9C%BA%E5%99%A8%E4%BA%BA100%E7%B1%B3%E9%A2%84%E8%B5%9B%E5%B0%8F%E7%BB%84%E5%9E%AB%E5%BA%95&sa=fyb_news"
     }
   ]
 }
