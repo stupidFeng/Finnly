@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-08-23T04:26:45.675Z",
+  "generatedAt": "2026-08-23T06:22:42.442Z",
   "fields": {
     "society": "社会",
     "economy": "经济",
@@ -7,30 +7,49 @@
   },
   "feed": [
     {
-      "id": "evt-00000000",
-      "title": "亲人离世存款查询难？三部门推广试点",
+      "id": "evt-bbc00000",
+      "title": "BBC报道中国人形机器人运动会",
       "category": "society",
       "hotScore": 0.85,
       "freshness": 0.9999,
       "crossSource": 0.6309,
-      "totalScore": 0.8293,
+      "totalScore": 0.8292,
       "sources": [
         {
           "channel": "toutiao",
           "rank": 1,
-          "hot": 21362211,
-          "url": "https://www.toutiao.com/trending/7676408846948139566/"
+          "hot": 24056865,
+          "url": "https://www.toutiao.com/trending/7677085636570041906/"
         }
       ],
       "summary": "",
-      "url": "https://www.toutiao.com/trending/7676408846948139566/"
+      "url": "https://www.toutiao.com/trending/7677085636570041906/"
+    },
+    {
+      "id": "evt-00000000",
+      "title": "“准大学生”投诉寄档案被要求办卡，四川泸州邮政局称已督促整改",
+      "category": "society",
+      "hotScore": 0.8075,
+      "freshness": 0.9999,
+      "crossSource": 0.6309,
+      "totalScore": 0.8123,
+      "sources": [
+        {
+          "channel": "thepaper",
+          "rank": 2,
+          "hot": 0,
+          "url": "https://www.thepaper.cn/newsDetail_forward_33833681"
+        }
+      ],
+      "summary": "",
+      "url": "https://www.thepaper.cn/newsDetail_forward_33833681"
     },
     {
       "id": "evt-10093900",
       "title": "100米9秒39打破人类纪录！世界人形机器人运动会开幕，宇树预赛小组垫底",
       "category": "society",
       "hotScore": 0.765,
-      "freshness": 1,
+      "freshness": 0.9999,
       "crossSource": 0.6309,
       "totalScore": 0.7953,
       "sources": [
@@ -42,7 +61,7 @@
         },
         {
           "channel": "thepaper",
-          "rank": 14,
+          "rank": 13,
           "hot": 0,
           "url": "https://www.thepaper.cn/newsDetail_forward_33833775"
         }
@@ -51,32 +70,13 @@
       "url": "https://www.thepaper.cn/newsDetail_forward_33833753"
     },
     {
-      "id": "evt-12345000",
-      "title": "专家：12345应实名制",
-      "category": "society",
-      "hotScore": 0.76,
-      "freshness": 1,
-      "crossSource": 0.6309,
-      "totalScore": 0.7933,
-      "sources": [
-        {
-          "channel": "baidu",
-          "rank": 2,
-          "hot": 0,
-          "url": "https://m.baidu.com/s?word=%E4%B8%93%E5%AE%B6%EF%BC%9A12345%E5%BA%94%E5%AE%9E%E5%90%8D%E5%88%B6&sa=fyb_news"
-        }
-      ],
-      "summary": "",
-      "url": "https://m.baidu.com/s?word=%E4%B8%93%E5%AE%B6%EF%BC%9A12345%E5%BA%94%E5%AE%9E%E5%90%8D%E5%88%B6&sa=fyb_news"
-    },
-    {
       "id": "evt-deepseek8",
       "title": "怎么看 DeepSeek 8 月 22 日再调整定价，周末全天统一按低谷价收费？",
       "category": "society",
       "hotScore": 0.75,
-      "freshness": 1,
+      "freshness": 0.9999,
       "crossSource": 0.6309,
-      "totalScore": 0.7893,
+      "totalScore": 0.7892,
       "sources": [
         {
           "channel": "zhihu",
@@ -89,51 +89,95 @@
       "url": ""
     },
     {
-      "id": "evt-14000000",
-      "title": "“甲醛白菜”手法14年前曾被曝光",
+      "id": "evt-cs000000",
+      "title": "机器人进任意球后学C罗Siu",
       "category": "society",
-      "hotScore": 0.72,
-      "freshness": 1,
+      "hotScore": 0.7225,
+      "freshness": 0.9999,
       "crossSource": 0.6309,
-      "totalScore": 0.7773,
+      "totalScore": 0.7782,
       "sources": [
         {
-          "channel": "baidu",
-          "rank": 3,
-          "hot": 0,
-          "url": "https://m.baidu.com/s?word=%E2%80%9C%E7%94%B2%E9%86%9B%E7%99%BD%E8%8F%9C%E2%80%9D%E6%89%8B%E6%B3%9514%E5%B9%B4%E5%89%8D%E6%9B%BE%E8%A2%AB%E6%9B%9D%E5%85%89&sa=fyb_news"
+          "channel": "toutiao",
+          "rank": 4,
+          "hot": 17821764,
+          "url": "https://www.toutiao.com/trending/7676692618839100947/"
         }
       ],
       "summary": "",
-      "url": "https://m.baidu.com/s?word=%E2%80%9C%E7%94%B2%E9%86%9B%E7%99%BD%E8%8F%9C%E2%80%9D%E6%89%8B%E6%B3%9514%E5%B9%B4%E5%89%8D%E6%9B%BE%E8%A2%AB%E6%9B%9D%E5%85%89&sa=fyb_news"
+      "url": "https://www.toutiao.com/trending/7676692618839100947/"
     },
     {
-      "id": "evt-27000000",
-      "title": "赛考斯27年后回中国用中文说回来了",
+      "id": "evt-20000000",
+      "title": "宋丹丹穿20年前《家有儿女》衣服",
+      "category": "society",
+      "hotScore": 0.425,
+      "freshness": 0.9999,
+      "crossSource": 1,
+      "totalScore": 0.77,
+      "sources": [
+        {
+          "channel": "toutiao",
+          "rank": 11,
+          "hot": 8850026,
+          "url": "https://www.toutiao.com/trending/7676962272254607370/"
+        },
+        {
+          "channel": "baidu",
+          "rank": 13,
+          "hot": 0,
+          "url": "https://m.baidu.com/s?word=%E5%AE%8B%E4%B8%B9%E4%B8%B9%E7%A9%BF20%E5%B9%B4%E5%89%8D%E3%80%8A%E5%AE%B6%E6%9C%89%E5%84%BF%E5%A5%B3%E3%80%8B%E8%A1%A3%E6%9C%8D&sa=fyb_news"
+        }
+      ],
+      "summary": "",
+      "url": "https://www.toutiao.com/trending/7676962272254607370/"
+    },
+    {
+      "id": "evt-90000000",
+      "title": "9岁孩子课间撞断门牙 学校不赔偿",
+      "category": "society",
+      "hotScore": 0.64,
+      "freshness": 0.9999,
+      "crossSource": 0.6309,
+      "totalScore": 0.7453,
+      "sources": [
+        {
+          "channel": "baidu",
+          "rank": 5,
+          "hot": 0,
+          "url": "https://m.baidu.com/s?word=9%E5%B2%81%E5%AD%A9%E5%AD%90%E8%AF%BE%E9%97%B4%E6%92%9E%E6%96%AD%E9%97%A8%E7%89%99+%E5%AD%A6%E6%A0%A1%E4%B8%8D%E8%B5%94%E5%81%BF&sa=fyb_news"
+        }
+      ],
+      "summary": "",
+      "url": "https://m.baidu.com/s?word=9%E5%B2%81%E5%AD%A9%E5%AD%90%E8%AF%BE%E9%97%B4%E6%92%9E%E6%96%AD%E9%97%A8%E7%89%99+%E5%AD%A6%E6%A0%A1%E4%B8%8D%E8%B5%94%E5%81%BF&sa=fyb_news"
+    },
+    {
+      "id": "evt-puraxmax",
+      "title": "华为Pura X Max销量突破71万台",
       "category": "society",
       "hotScore": 0.6375,
       "freshness": 0.9999,
       "crossSource": 0.6309,
-      "totalScore": 0.7443,
+      "totalScore": 0.7442,
       "sources": [
         {
           "channel": "toutiao",
           "rank": 6,
-          "hot": 12956835,
-          "url": "https://www.toutiao.com/trending/7676969146176802347/"
+          "hot": 14591226,
+          "url": "https://www.toutiao.com/trending/7676456915718717483/"
         }
       ],
       "summary": "",
-      "url": "https://www.toutiao.com/trending/7676969146176802347/"
+      "url": "https://www.toutiao.com/trending/7676456915718717483/"
     },
     {
-      "id": "evt-50000000",
-      "title": "如何看待顾客因平台漏洞 55 元捡漏 1.4 万元项链，商家补偿 5 元并要求主动退款？这种情况能要求发货吗？",
+      "id": "evt-35000000",
+      "title": "每隔 3~5 公里设置自然弯道是高速公路设计的常识，但是为啥我们经常看到美国国家公路直得像到天堂一样？",
       "category": "society",
       "hotScore": 0.6375,
-      "freshness": 1,
+      "freshness": 0.9999,
       "crossSource": 0.6309,
-      "totalScore": 0.7443,
+      "totalScore": 0.7442,
       "sources": [
         {
           "channel": "zhihu",
@@ -146,11 +190,11 @@
       "url": ""
     },
     {
-      "id": "evt-10800000",
-      "title": "身高1.08米男生被企业主动录用",
+      "id": "evt-39800000",
+      "title": "韦东奕39.8元练习册已下架",
       "category": "society",
       "hotScore": 0.6,
-      "freshness": 1,
+      "freshness": 0.9999,
       "crossSource": 0.6309,
       "totalScore": 0.7293,
       "sources": [
@@ -158,20 +202,20 @@
           "channel": "baidu",
           "rank": 6,
           "hot": 0,
-          "url": "https://m.baidu.com/s?word=%E8%BA%AB%E9%AB%981.08%E7%B1%B3%E7%94%B7%E7%94%9F%E8%A2%AB%E4%BC%81%E4%B8%9A%E4%B8%BB%E5%8A%A8%E5%BD%95%E7%94%A8&sa=fyb_news"
+          "url": "https://m.baidu.com/s?word=%E9%9F%A6%E4%B8%9C%E5%A5%9539.8%E5%85%83%E7%BB%83%E4%B9%A0%E5%86%8C%E5%B7%B2%E4%B8%8B%E6%9E%B6&sa=fyb_news"
         }
       ],
       "summary": "",
-      "url": "https://m.baidu.com/s?word=%E8%BA%AB%E9%AB%981.08%E7%B1%B3%E7%94%B7%E7%94%9F%E8%A2%AB%E4%BC%81%E4%B8%9A%E4%B8%BB%E5%8A%A8%E5%BD%95%E7%94%A8&sa=fyb_news"
+      "url": "https://m.baidu.com/s?word=%E9%9F%A6%E4%B8%9C%E5%A5%9539.8%E5%85%83%E7%BB%83%E4%B9%A0%E5%86%8C%E5%B7%B2%E4%B8%8B%E6%9E%B6&sa=fyb_news"
     },
     {
-      "id": "evt-35000000",
-      "title": "每隔 3~5 公里设置自然弯道是高速公路设计的常识，但是为啥我们经常看到美国国家公路直得像到天堂一样？",
+      "id": "evt-50000000",
+      "title": "如何看待顾客因平台漏洞 55 元捡漏 1.4 万元项链，商家补偿 5 元并要求主动退款？这种情况能要求发货吗？",
       "category": "society",
       "hotScore": 0.6,
-      "freshness": 1,
+      "freshness": 0.9999,
       "crossSource": 0.6309,
-      "totalScore": 0.7293,
+      "totalScore": 0.7292,
       "sources": [
         {
           "channel": "zhihu",
@@ -184,51 +228,32 @@
       "url": ""
     },
     {
-      "id": "evt-90000000",
-      "title": "荣耀机器人闪电百米跑出 9 秒 32，破人类百米纪录，这一成绩的含金量如何？有哪些意义？",
+      "id": "evt-12345000",
+      "title": "专家：12345应实名制",
       "category": "society",
-      "hotScore": 0.525,
-      "freshness": 1,
+      "hotScore": 0.56,
+      "freshness": 0.9999,
       "crossSource": 0.6309,
-      "totalScore": 0.6993,
+      "totalScore": 0.7133,
       "sources": [
         {
-          "channel": "zhihu",
+          "channel": "baidu",
           "rank": 7,
           "hot": 0,
-          "url": ""
+          "url": "https://m.baidu.com/s?word=%E4%B8%93%E5%AE%B6%EF%BC%9A12345%E5%BA%94%E5%AE%9E%E5%90%8D%E5%88%B6&sa=fyb_news"
         }
       ],
       "summary": "",
-      "url": ""
-    },
-    {
-      "id": "evt-59000000",
-      "title": "59岁交警回应“老父亲式”训诫骑行团：我儿子也骑车，真把他们当孩子",
-      "category": "society",
-      "hotScore": 0.51,
-      "freshness": 1,
-      "crossSource": 0.6309,
-      "totalScore": 0.6933,
-      "sources": [
-        {
-          "channel": "thepaper",
-          "rank": 9,
-          "hot": 0,
-          "url": "https://www.thepaper.cn/newsDetail_forward_33826475"
-        }
-      ],
-      "summary": "",
-      "url": "https://www.thepaper.cn/newsDetail_forward_33826475"
+      "url": "https://m.baidu.com/s?word=%E4%B8%93%E5%AE%B6%EF%BC%9A12345%E5%BA%94%E5%AE%9E%E5%90%8D%E5%88%B6&sa=fyb_news"
     },
     {
       "id": "evt-15800000",
       "title": "1.58 万元的问界儿童车预售，车企为什么要给小孩「造车」？能将带娃家庭转化成潜在客户吗？",
       "category": "society",
       "hotScore": 0.45,
-      "freshness": 1,
+      "freshness": 0.9999,
       "crossSource": 0.6309,
-      "totalScore": 0.6693,
+      "totalScore": 0.6692,
       "sources": [
         {
           "channel": "zhihu",
