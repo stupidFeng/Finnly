@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-08-24T06:35:56.825Z",
+  "generatedAt": "2026-08-24T08:36:03.821Z",
   "fields": {
     "society": "社会",
     "economy": "经济",
@@ -7,43 +7,43 @@
   },
   "feed": [
     {
-      "id": "evt-10000000",
-      "title": "扶老人被索赔10万店主称事情已处理好",
+      "id": "evt-00000000",
+      "title": "著名战地记者唐师曾逝世",
       "category": "society",
       "hotScore": 0.85,
-      "freshness": 1,
+      "freshness": 0.9999,
       "crossSource": 1,
       "totalScore": 0.94,
       "sources": [
         {
           "channel": "toutiao",
-          "rank": 1,
-          "hot": 18426775,
-          "url": "https://www.toutiao.com/trending/7677074481341972521/"
+          "rank": 7,
+          "hot": 6657383,
+          "url": "https://www.toutiao.com/trending/7676327249703993363/"
         },
         {
-          "channel": "baidu",
-          "rank": 6,
+          "channel": "thepaper",
+          "rank": 1,
           "hot": 0,
-          "url": "https://m.baidu.com/s?word=%E6%89%B6%E8%80%81%E4%BA%BA%E8%A2%AB%E7%B4%A2%E8%B5%9410%E4%B8%87%E5%BA%97%E4%B8%BB%E7%A7%B0%E4%BA%8B%E6%83%85%E5%B7%B2%E5%A4%84%E7%90%86%E5%A5%BD&sa=fyb_news"
+          "url": "https://www.thepaper.cn/newsDetail_forward_33836381"
         }
       ],
       "summary": "",
-      "url": "https://www.toutiao.com/trending/7677074481341972521/"
+      "url": "https://www.toutiao.com/trending/7676327249703993363/"
     },
     {
       "id": "evt-77000000",
       "title": "四川地震局：7.7级地震预警为冒名发布",
       "category": "society",
       "hotScore": 0.76,
-      "freshness": 1,
+      "freshness": 0.9999,
       "crossSource": 1,
       "totalScore": 0.904,
       "sources": [
         {
           "channel": "toutiao",
-          "rank": 6,
-          "hot": 11176404,
+          "rank": 4,
+          "hot": 8986527,
           "url": "https://www.toutiao.com/trending/7677450027001712169/"
         },
         {
@@ -57,80 +57,42 @@
       "url": "https://www.toutiao.com/trending/7677450027001712169/"
     },
     {
-      "id": "evt-00000000",
-      "title": "著名战地记者唐师曾逝世",
+      "id": "evt-40000000",
+      "title": "顾学明等4人被撤销全国政协委员资格",
       "category": "society",
-      "hotScore": 0.85,
-      "freshness": 1,
-      "crossSource": 0.6309,
-      "totalScore": 0.8293,
-      "sources": [
-        {
-          "channel": "thepaper",
-          "rank": 1,
-          "hot": 0,
-          "url": "https://www.thepaper.cn/newsDetail_forward_33836381"
-        }
-      ],
-      "summary": "",
-      "url": "https://www.thepaper.cn/newsDetail_forward_33836381"
-    },
-    {
-      "id": "evt-12306000",
-      "title": "12306回应无座票二等座同价",
-      "category": "society",
-      "hotScore": 0.56,
-      "freshness": 1,
+      "hotScore": 0.5525,
+      "freshness": 0.9999,
       "crossSource": 1,
-      "totalScore": 0.824,
+      "totalScore": 0.821,
       "sources": [
         {
           "channel": "toutiao",
-          "rank": 13,
-          "hot": 5550038,
-          "url": "https://www.toutiao.com/trending/7676446275948527658/"
+          "rank": 8,
+          "hot": 6023849,
+          "url": "https://www.toutiao.com/trending/7677468643659170330/"
         },
         {
           "channel": "baidu",
-          "rank": 7,
+          "rank": 18,
           "hot": 0,
-          "url": "https://m.baidu.com/s?word=12306%E5%9B%9E%E5%BA%94%E6%97%A0%E5%BA%A7%E7%A5%A8%E4%BA%8C%E7%AD%89%E5%BA%A7%E5%90%8C%E4%BB%B7&sa=fyb_news"
+          "url": "https://m.baidu.com/s?word=%E9%A1%BE%E5%AD%A6%E6%98%8E%E7%AD%894%E4%BA%BA%E8%A2%AB%E6%92%A4%E9%94%80%E5%85%A8%E5%9B%BD%E6%94%BF%E5%8D%8F%E5%A7%94%E5%91%98%E8%B5%84%E6%A0%BC&sa=fyb_news"
         }
       ],
       "summary": "",
-      "url": "https://www.toutiao.com/trending/7676446275948527658/"
+      "url": "https://www.toutiao.com/trending/7677468643659170330/"
     },
     {
-      "id": "evt-47000000",
-      "title": "上半年经济增长4.7%说明了什么",
-      "category": "economy",
-      "hotScore": 0.765,
-      "freshness": 1,
-      "crossSource": 0.6309,
-      "totalScore": 0.7953,
-      "sources": [
-        {
-          "channel": "toutiao",
-          "rank": 3,
-          "hot": 15086568,
-          "url": "https://www.toutiao.com/trending/7677169214817501226/"
-        }
-      ],
-      "summary": "",
-      "url": "https://www.toutiao.com/trending/7677169214817501226/"
-    },
-    {
-      "id": "evt-15000000",
-      "title": "本次 15 分钟实机演示后，你预估《黑神话：钟馗》的销量是多少？",
+      "id": "evt-levental",
+      "title": "如何看待 Levent Alpoge 发布的 S^6 的复结构构造的论文？",
       "category": "society",
-      "hotScore": 0.4875,
-      "freshness": 1,
+      "hotScore": 0.5625,
+      "freshness": 0.9999,
       "crossSource": 0.6309,
-      "totalScore": 0.6843,
+      "totalScore": 0.7143,
       "sources": [
         {
           "channel": "zhihu",
-          "rank": 8,
+          "rank": 6,
           "hot": 0,
           "url": ""
         }
@@ -139,11 +101,30 @@
       "url": ""
     },
     {
-      "id": "evt-20700000",
-      "title": "男子省吃俭用 20 年攒下 789 万，6 天被骗子全部转空，带来哪些警示？",
+      "id": "evt-12306000",
+      "title": "12306回应无座票二等座同价",
+      "category": "society",
+      "hotScore": 0.48,
+      "freshness": 1,
+      "crossSource": 0.6309,
+      "totalScore": 0.6813,
+      "sources": [
+        {
+          "channel": "baidu",
+          "rank": 9,
+          "hot": 0,
+          "url": "https://m.baidu.com/s?word=12306%E5%9B%9E%E5%BA%94%E6%97%A0%E5%BA%A7%E7%A5%A8%E4%BA%8C%E7%AD%89%E5%BA%A7%E5%90%8C%E4%BB%B7&sa=fyb_news"
+        }
+      ],
+      "summary": "",
+      "url": "https://m.baidu.com/s?word=12306%E5%9B%9E%E5%BA%94%E6%97%A0%E5%BA%A7%E7%A5%A8%E4%BA%8C%E7%AD%89%E5%BA%A7%E5%90%8C%E4%BB%B7&sa=fyb_news"
+    },
+    {
+      "id": "evt-15000000",
+      "title": "本次 15 分钟实机演示后，你预估《黑神话：钟馗》的销量是多少？",
       "category": "society",
       "hotScore": 0.4125,
-      "freshness": 1,
+      "freshness": 0.9999,
       "crossSource": 0.6309,
       "totalScore": 0.6543,
       "sources": [
