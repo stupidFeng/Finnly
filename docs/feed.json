@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-08-24T00:39:23.541Z",
+  "generatedAt": "2026-08-24T02:54:55.080Z",
   "fields": {
     "society": "社会",
     "economy": "经济",
@@ -7,20 +7,58 @@
   },
   "feed": [
     {
+      "id": "evt-47000000",
+      "title": "四川宜宾市长宁县发生4.7级地震",
+      "category": "society",
+      "hotScore": 0.7225,
+      "freshness": 1,
+      "crossSource": 1,
+      "totalScore": 0.889,
+      "sources": [
+        {
+          "channel": "toutiao",
+          "rank": 4,
+          "hot": 11356067,
+          "url": "https://www.toutiao.com/trending/7677389480302480902/"
+        },
+        {
+          "channel": "baidu",
+          "rank": 8,
+          "hot": 0,
+          "url": "https://m.baidu.com/s?word=%E5%9B%9B%E5%B7%9D%E5%AE%9C%E5%AE%BE%E5%B8%82%E9%95%BF%E5%AE%81%E5%8E%BF%E5%8F%91%E7%94%9F4.7%E7%BA%A7%E5%9C%B0%E9%9C%87&sa=fyb_news"
+        }
+      ],
+      "summary": "",
+      "url": "https://www.toutiao.com/trending/7677389480302480902/"
+    },
+    {
+      "id": "evt-77000000",
+      "title": "官方回应手机收到长宁7.7级地震预警",
+      "category": "society",
+      "hotScore": 0.85,
+      "freshness": 1,
+      "crossSource": 0.6309,
+      "totalScore": 0.8293,
+      "sources": [
+        {
+          "channel": "toutiao",
+          "rank": 1,
+          "hot": 15329087,
+          "url": "https://www.toutiao.com/trending/7677221953384693810/"
+        }
+      ],
+      "summary": "",
+      "url": "https://www.toutiao.com/trending/7677221953384693810/"
+    },
+    {
       "id": "evt-00000000",
       "title": "著名战地记者唐师曾逝世",
       "category": "society",
       "hotScore": 0.85,
-      "freshness": 0.9999,
-      "crossSource": 1,
-      "totalScore": 0.94,
+      "freshness": 1,
+      "crossSource": 0.6309,
+      "totalScore": 0.8293,
       "sources": [
-        {
-          "channel": "toutiao",
-          "rank": 20,
-          "hot": 1982792,
-          "url": "https://www.toutiao.com/trending/7676327249703993363/"
-        },
         {
           "channel": "thepaper",
           "rank": 1,
@@ -29,52 +67,14 @@
         }
       ],
       "summary": "",
-      "url": "https://www.toutiao.com/trending/7676327249703993363/"
+      "url": "https://www.thepaper.cn/newsDetail_forward_33836381"
     },
     {
-      "id": "evt-10000000",
-      "title": "法制阵风战机将与中方歼16联训",
-      "category": "society",
-      "hotScore": 0.85,
-      "freshness": 0.9999,
-      "crossSource": 0.6309,
-      "totalScore": 0.8293,
-      "sources": [
-        {
-          "channel": "toutiao",
-          "rank": 1,
-          "hot": 13256744,
-          "url": "https://www.toutiao.com/trending/7676397224947613739/"
-        }
-      ],
-      "summary": "",
-      "url": "https://www.toutiao.com/trending/7676397224947613739/"
-    },
-    {
-      "id": "evt-50000000",
-      "title": "暴雨黄色预警！5省部分地区有大暴雨",
-      "category": "society",
-      "hotScore": 0.76,
-      "freshness": 1,
-      "crossSource": 0.6309,
-      "totalScore": 0.7933,
-      "sources": [
-        {
-          "channel": "baidu",
-          "rank": 2,
-          "hot": 0,
-          "url": "https://m.baidu.com/s?word=%E6%9A%B4%E9%9B%A8%E9%BB%84%E8%89%B2%E9%A2%84%E8%AD%A6%EF%BC%815%E7%9C%81%E9%83%A8%E5%88%86%E5%9C%B0%E5%8C%BA%E6%9C%89%E5%A4%A7%E6%9A%B4%E9%9B%A8&sa=fyb_news"
-        }
-      ],
-      "summary": "",
-      "url": "https://m.baidu.com/s?word=%E6%9A%B4%E9%9B%A8%E9%BB%84%E8%89%B2%E9%A2%84%E8%AD%A6%EF%BC%815%E7%9C%81%E9%83%A8%E5%88%86%E5%9C%B0%E5%8C%BA%E6%9C%89%E5%A4%A7%E6%9A%B4%E9%9B%A8&sa=fyb_news"
-    },
-    {
-      "id": "evt-20789000",
-      "title": "男子 20 年攒下 789 万，这种极致节俭的财富积累方式在当下还可行吗？",
+      "id": "evt-20700000",
+      "title": "男子省吃俭用 20 年攒下 789 万，6 天被骗子全部转空，带来哪些警示？",
       "category": "society",
       "hotScore": 0.75,
-      "freshness": 0.9999,
+      "freshness": 1,
       "crossSource": 0.6309,
       "totalScore": 0.7893,
       "sources": [
@@ -87,107 +87,6 @@
       ],
       "summary": "",
       "url": ""
-    },
-    {
-      "id": "evt-42700000",
-      "title": "427万辆召回 没有一款油车",
-      "category": "society",
-      "hotScore": 0.6,
-      "freshness": 1,
-      "crossSource": 0.6309,
-      "totalScore": 0.7293,
-      "sources": [
-        {
-          "channel": "baidu",
-          "rank": 6,
-          "hot": 0,
-          "url": "https://m.baidu.com/s?word=427%E4%B8%87%E8%BE%86%E5%8F%AC%E5%9B%9E+%E6%B2%A1%E6%9C%89%E4%B8%80%E6%AC%BE%E6%B2%B9%E8%BD%A6&sa=fyb_news"
-        }
-      ],
-      "summary": "",
-      "url": "https://m.baidu.com/s?word=427%E4%B8%87%E8%BE%86%E5%8F%AC%E5%9B%9E+%E6%B2%A1%E6%9C%89%E4%B8%80%E6%AC%BE%E6%B2%B9%E8%BD%A6&sa=fyb_news"
-    },
-    {
-      "id": "evt-96000000",
-      "title": "96岁太爷爷独自到县城看望重孙",
-      "category": "society",
-      "hotScore": 0.595,
-      "freshness": 0.9999,
-      "crossSource": 0.6309,
-      "totalScore": 0.7273,
-      "sources": [
-        {
-          "channel": "toutiao",
-          "rank": 7,
-          "hot": 7275455,
-          "url": "https://www.toutiao.com/trending/7677138351937650739/"
-        }
-      ],
-      "summary": "",
-      "url": "https://www.toutiao.com/trending/7677138351937650739/"
-    },
-    {
-      "id": "evt-labubu00",
-      "title": "除了LABUBU和运气，泡泡玛特还有什么？",
-      "category": "society",
-      "hotScore": 0.5525,
-      "freshness": 0.9999,
-      "crossSource": 0.6309,
-      "totalScore": 0.7103,
-      "sources": [
-        {
-          "channel": "thepaper",
-          "rank": 8,
-          "hot": 0,
-          "url": "https://www.thepaper.cn/newsDetail_forward_33834864"
-        }
-      ],
-      "summary": "",
-      "url": "https://www.thepaper.cn/newsDetail_forward_33834864"
-    },
-    {
-      "id": "evt-u1800000",
-      "title": "中国队获U18男篮亚洲杯亚军",
-      "category": "society",
-      "hotScore": 0.24,
-      "freshness": 0.9999,
-      "crossSource": 1,
-      "totalScore": 0.696,
-      "sources": [
-        {
-          "channel": "toutiao",
-          "rank": 16,
-          "hot": 2957979,
-          "url": "https://www.toutiao.com/trending/7677241112164106762/"
-        },
-        {
-          "channel": "baidu",
-          "rank": 15,
-          "hot": 0,
-          "url": "https://m.baidu.com/s?word=%E4%B8%AD%E5%9B%BD%E9%98%9F%E8%8E%B7U18%E7%94%B7%E7%AF%AE%E4%BA%9A%E6%B4%B2%E6%9D%AF%E4%BA%9A%E5%86%9B&sa=fyb_news"
-        }
-      ],
-      "summary": "",
-      "url": "https://www.toutiao.com/trending/7677241112164106762/"
-    },
-    {
-      "id": "evt-59000000",
-      "title": "花5.9万养发被剃光头拔白发",
-      "category": "society",
-      "hotScore": 0.48,
-      "freshness": 1,
-      "crossSource": 0.6309,
-      "totalScore": 0.6813,
-      "sources": [
-        {
-          "channel": "baidu",
-          "rank": 9,
-          "hot": 0,
-          "url": "https://m.baidu.com/s?word=%E8%8A%B15.9%E4%B8%87%E5%85%BB%E5%8F%91%E8%A2%AB%E5%89%83%E5%85%89%E5%A4%B4%E6%8B%94%E7%99%BD%E5%8F%91&sa=fyb_news"
-        }
-      ],
-      "summary": "",
-      "url": "https://m.baidu.com/s?word=%E8%8A%B15.9%E4%B8%87%E5%85%BB%E5%8F%91%E8%A2%AB%E5%89%83%E5%85%89%E5%A4%B4%E6%8B%94%E7%99%BD%E5%8F%91&sa=fyb_news"
     }
   ]
 }
