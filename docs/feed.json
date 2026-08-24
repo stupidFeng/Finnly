@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-08-24T08:36:03.821Z",
+  "generatedAt": "2026-08-24T10:27:22.723Z",
   "fields": {
     "society": "社会",
     "economy": "经济",
@@ -8,7 +8,7 @@
   "feed": [
     {
       "id": "evt-00000000",
-      "title": "著名战地记者唐师曾逝世",
+      "title": "陈武同志逝世",
       "category": "society",
       "hotScore": 0.85,
       "freshness": 0.9999,
@@ -17,82 +17,83 @@
       "sources": [
         {
           "channel": "toutiao",
-          "rank": 7,
-          "hot": 6657383,
-          "url": "https://www.toutiao.com/trending/7676327249703993363/"
-        },
-        {
-          "channel": "thepaper",
           "rank": 1,
-          "hot": 0,
-          "url": "https://www.thepaper.cn/newsDetail_forward_33836381"
+          "hot": 13345145,
+          "url": "https://www.toutiao.com/trending/7677530742594735635/"
         }
       ],
       "summary": "",
-      "url": "https://www.toutiao.com/trending/7676327249703993363/"
+      "url": "https://www.toutiao.com/trending/7677530742594735635/"
+    },
+    {
+      "id": "evt-80000000",
+      "title": "北大原副校长任羽中获刑8年",
+      "category": "society",
+      "hotScore": 0.8075,
+      "freshness": 0.9999,
+      "crossSource": 1,
+      "totalScore": 0.923,
+      "sources": [
+        {
+          "channel": "toutiao",
+          "rank": 2,
+          "hot": 12075187,
+          "url": "https://www.toutiao.com/trending/7677513251337109555/"
+        }
+      ],
+      "summary": "",
+      "url": "https://www.toutiao.com/trending/7677513251337109555/"
     },
     {
       "id": "evt-77000000",
-      "title": "四川地震局：7.7级地震预警为冒名发布",
+      "title": "官方：7.7级地震预警为冒名发布",
       "category": "society",
-      "hotScore": 0.76,
+      "hotScore": 0.7225,
       "freshness": 0.9999,
       "crossSource": 1,
-      "totalScore": 0.904,
+      "totalScore": 0.889,
       "sources": [
         {
           "channel": "toutiao",
           "rank": 4,
-          "hot": 8986527,
+          "hot": 9886327,
           "url": "https://www.toutiao.com/trending/7677450027001712169/"
-        },
-        {
-          "channel": "baidu",
-          "rank": 2,
-          "hot": 0,
-          "url": "https://m.baidu.com/s?word=%E5%9B%9B%E5%B7%9D%E5%9C%B0%E9%9C%87%E5%B1%80%EF%BC%9A7.7%E7%BA%A7%E5%9C%B0%E9%9C%87%E9%A2%84%E8%AD%A6%E4%B8%BA%E5%86%92%E5%90%8D%E5%8F%91%E5%B8%83&sa=fyb_news"
         }
       ],
       "summary": "",
       "url": "https://www.toutiao.com/trending/7677450027001712169/"
     },
     {
-      "id": "evt-40000000",
-      "title": "顾学明等4人被撤销全国政协委员资格",
+      "id": "evt-23000000",
+      "title": "23点后睡的人“亏大了”",
       "category": "society",
-      "hotScore": 0.5525,
+      "hotScore": 0.56,
+      "freshness": 1,
+      "crossSource": 1,
+      "totalScore": 0.824,
+      "sources": [
+        {
+          "channel": "baidu",
+          "rank": 7,
+          "hot": 0,
+          "url": "https://m.baidu.com/s?word=23%E7%82%B9%E5%90%8E%E7%9D%A1%E7%9A%84%E4%BA%BA%E2%80%9C%E4%BA%8F%E5%A4%A7%E4%BA%86%E2%80%9D&sa=fyb_news"
+        }
+      ],
+      "summary": "",
+      "url": "https://m.baidu.com/s?word=23%E7%82%B9%E5%90%8E%E7%9D%A1%E7%9A%84%E4%BA%BA%E2%80%9C%E4%BA%8F%E5%A4%A7%E4%BA%86%E2%80%9D&sa=fyb_news"
+    },
+    {
+      "id": "evt-teamspir",
+      "title": "如何评价 Team Spirit 获得 TI15 冠军？",
+      "category": "society",
+      "hotScore": 0.525,
       "freshness": 0.9999,
       "crossSource": 1,
-      "totalScore": 0.821,
-      "sources": [
-        {
-          "channel": "toutiao",
-          "rank": 8,
-          "hot": 6023849,
-          "url": "https://www.toutiao.com/trending/7677468643659170330/"
-        },
-        {
-          "channel": "baidu",
-          "rank": 18,
-          "hot": 0,
-          "url": "https://m.baidu.com/s?word=%E9%A1%BE%E5%AD%A6%E6%98%8E%E7%AD%894%E4%BA%BA%E8%A2%AB%E6%92%A4%E9%94%80%E5%85%A8%E5%9B%BD%E6%94%BF%E5%8D%8F%E5%A7%94%E5%91%98%E8%B5%84%E6%A0%BC&sa=fyb_news"
-        }
-      ],
-      "summary": "",
-      "url": "https://www.toutiao.com/trending/7677468643659170330/"
-    },
-    {
-      "id": "evt-levental",
-      "title": "如何看待 Levent Alpoge 发布的 S^6 的复结构构造的论文？",
-      "category": "society",
-      "hotScore": 0.5625,
-      "freshness": 0.9999,
-      "crossSource": 0.6309,
-      "totalScore": 0.7143,
+      "totalScore": 0.81,
       "sources": [
         {
           "channel": "zhihu",
-          "rank": 6,
+          "rank": 7,
           "hot": 0,
           "url": ""
         }
@@ -101,42 +102,23 @@
       "url": ""
     },
     {
-      "id": "evt-12306000",
-      "title": "12306回应无座票二等座同价",
+      "id": "evt-40000000",
+      "title": "初中生4个账号养“恋人”",
       "category": "society",
-      "hotScore": 0.48,
+      "hotScore": 0.52,
       "freshness": 1,
-      "crossSource": 0.6309,
-      "totalScore": 0.6813,
+      "crossSource": 1,
+      "totalScore": 0.808,
       "sources": [
         {
           "channel": "baidu",
-          "rank": 9,
+          "rank": 8,
           "hot": 0,
-          "url": "https://m.baidu.com/s?word=12306%E5%9B%9E%E5%BA%94%E6%97%A0%E5%BA%A7%E7%A5%A8%E4%BA%8C%E7%AD%89%E5%BA%A7%E5%90%8C%E4%BB%B7&sa=fyb_news"
+          "url": "https://m.baidu.com/s?word=%E5%88%9D%E4%B8%AD%E7%94%9F4%E4%B8%AA%E8%B4%A6%E5%8F%B7%E5%85%BB%E2%80%9C%E6%81%8B%E4%BA%BA%E2%80%9D&sa=fyb_news"
         }
       ],
       "summary": "",
-      "url": "https://m.baidu.com/s?word=12306%E5%9B%9E%E5%BA%94%E6%97%A0%E5%BA%A7%E7%A5%A8%E4%BA%8C%E7%AD%89%E5%BA%A7%E5%90%8C%E4%BB%B7&sa=fyb_news"
-    },
-    {
-      "id": "evt-15000000",
-      "title": "本次 15 分钟实机演示后，你预估《黑神话：钟馗》的销量是多少？",
-      "category": "society",
-      "hotScore": 0.4125,
-      "freshness": 0.9999,
-      "crossSource": 0.6309,
-      "totalScore": 0.6543,
-      "sources": [
-        {
-          "channel": "zhihu",
-          "rank": 10,
-          "hot": 0,
-          "url": ""
-        }
-      ],
-      "summary": "",
-      "url": ""
+      "url": "https://m.baidu.com/s?word=%E5%88%9D%E4%B8%AD%E7%94%9F4%E4%B8%AA%E8%B4%A6%E5%8F%B7%E5%85%BB%E2%80%9C%E6%81%8B%E4%BA%BA%E2%80%9D&sa=fyb_news"
     }
   ]
 }
