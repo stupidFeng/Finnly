@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-08-24T04:34:57.889Z",
+  "generatedAt": "2026-08-24T06:35:56.825Z",
   "fields": {
     "society": "社会",
     "economy": "经济",
@@ -7,8 +7,8 @@
   },
   "feed": [
     {
-      "id": "evt-00000000",
-      "title": "著名战地记者唐师曾逝世",
+      "id": "evt-10000000",
+      "title": "扶老人被索赔10万店主称事情已处理好",
       "category": "society",
       "hotScore": 0.85,
       "freshness": 1,
@@ -17,10 +17,54 @@
       "sources": [
         {
           "channel": "toutiao",
-          "rank": 20,
-          "hot": 2519378,
-          "url": "https://www.toutiao.com/trending/7676327249703993363/"
+          "rank": 1,
+          "hot": 18426775,
+          "url": "https://www.toutiao.com/trending/7677074481341972521/"
         },
+        {
+          "channel": "baidu",
+          "rank": 6,
+          "hot": 0,
+          "url": "https://m.baidu.com/s?word=%E6%89%B6%E8%80%81%E4%BA%BA%E8%A2%AB%E7%B4%A2%E8%B5%9410%E4%B8%87%E5%BA%97%E4%B8%BB%E7%A7%B0%E4%BA%8B%E6%83%85%E5%B7%B2%E5%A4%84%E7%90%86%E5%A5%BD&sa=fyb_news"
+        }
+      ],
+      "summary": "",
+      "url": "https://www.toutiao.com/trending/7677074481341972521/"
+    },
+    {
+      "id": "evt-77000000",
+      "title": "四川地震局：7.7级地震预警为冒名发布",
+      "category": "society",
+      "hotScore": 0.76,
+      "freshness": 1,
+      "crossSource": 1,
+      "totalScore": 0.904,
+      "sources": [
+        {
+          "channel": "toutiao",
+          "rank": 6,
+          "hot": 11176404,
+          "url": "https://www.toutiao.com/trending/7677450027001712169/"
+        },
+        {
+          "channel": "baidu",
+          "rank": 2,
+          "hot": 0,
+          "url": "https://m.baidu.com/s?word=%E5%9B%9B%E5%B7%9D%E5%9C%B0%E9%9C%87%E5%B1%80%EF%BC%9A7.7%E7%BA%A7%E5%9C%B0%E9%9C%87%E9%A2%84%E8%AD%A6%E4%B8%BA%E5%86%92%E5%90%8D%E5%8F%91%E5%B8%83&sa=fyb_news"
+        }
+      ],
+      "summary": "",
+      "url": "https://www.toutiao.com/trending/7677450027001712169/"
+    },
+    {
+      "id": "evt-00000000",
+      "title": "著名战地记者唐师曾逝世",
+      "category": "society",
+      "hotScore": 0.85,
+      "freshness": 1,
+      "crossSource": 0.6309,
+      "totalScore": 0.8293,
+      "sources": [
         {
           "channel": "thepaper",
           "rank": 1,
@@ -29,70 +73,32 @@
         }
       ],
       "summary": "",
-      "url": "https://www.toutiao.com/trending/7676327249703993363/"
+      "url": "https://www.thepaper.cn/newsDetail_forward_33836381"
     },
     {
       "id": "evt-12306000",
       "title": "12306回应无座票二等座同价",
       "category": "society",
-      "hotScore": 0.8075,
+      "hotScore": 0.56,
       "freshness": 1,
       "crossSource": 1,
-      "totalScore": 0.923,
+      "totalScore": 0.824,
       "sources": [
         {
           "channel": "toutiao",
-          "rank": 2,
-          "hot": 15241354,
+          "rank": 13,
+          "hot": 5550038,
           "url": "https://www.toutiao.com/trending/7676446275948527658/"
         },
         {
           "channel": "baidu",
-          "rank": 5,
+          "rank": 7,
           "hot": 0,
           "url": "https://m.baidu.com/s?word=12306%E5%9B%9E%E5%BA%94%E6%97%A0%E5%BA%A7%E7%A5%A8%E4%BA%8C%E7%AD%89%E5%BA%A7%E5%90%8C%E4%BB%B7&sa=fyb_news"
         }
       ],
       "summary": "",
       "url": "https://www.toutiao.com/trending/7676446275948527658/"
-    },
-    {
-      "id": "evt-77000000",
-      "title": "官方回应手机收到长宁7.7级地震预警",
-      "category": "society",
-      "hotScore": 0.85,
-      "freshness": 1,
-      "crossSource": 0.6309,
-      "totalScore": 0.8293,
-      "sources": [
-        {
-          "channel": "toutiao",
-          "rank": 1,
-          "hot": 16844301,
-          "url": "https://www.toutiao.com/trending/7677221953384693810/"
-        }
-      ],
-      "summary": "",
-      "url": "https://www.toutiao.com/trending/7677221953384693810/"
-    },
-    {
-      "id": "evt-20700000",
-      "title": "男子省吃俭用 20 年攒下 789 万，6 天被骗子全部转空，带来哪些警示？",
-      "category": "society",
-      "hotScore": 0.75,
-      "freshness": 1,
-      "crossSource": 0.6309,
-      "totalScore": 0.7893,
-      "sources": [
-        {
-          "channel": "zhihu",
-          "rank": 1,
-          "hot": 0,
-          "url": ""
-        }
-      ],
-      "summary": "",
-      "url": ""
     },
     {
       "id": "evt-47000000",
@@ -106,7 +112,7 @@
         {
           "channel": "toutiao",
           "rank": 3,
-          "hot": 13790947,
+          "hot": 15086568,
           "url": "https://www.toutiao.com/trending/7677169214817501226/"
         }
       ],
@@ -114,55 +120,36 @@
       "url": "https://www.toutiao.com/trending/7677169214817501226/"
     },
     {
-      "id": "evt-35000000",
-      "title": "为什么建议35岁就开始控糖",
+      "id": "evt-15000000",
+      "title": "本次 15 分钟实机演示后，你预估《黑神话：钟馗》的销量是多少？",
       "category": "society",
-      "hotScore": 0.6375,
+      "hotScore": 0.4875,
       "freshness": 1,
       "crossSource": 0.6309,
-      "totalScore": 0.7443,
-      "sources": [
-        {
-          "channel": "toutiao",
-          "rank": 6,
-          "hot": 10216585,
-          "url": "https://www.toutiao.com/trending/7677392795565211691/"
-        }
-      ],
-      "summary": "",
-      "url": "https://www.toutiao.com/trending/7677392795565211691/"
-    },
-    {
-      "id": "evt-10000000",
-      "title": "派出所回应扶老人被索赔10万事件",
-      "category": "society",
-      "hotScore": 0.6,
-      "freshness": 1,
-      "crossSource": 0.6309,
-      "totalScore": 0.7293,
-      "sources": [
-        {
-          "channel": "baidu",
-          "rank": 6,
-          "hot": 0,
-          "url": "https://m.baidu.com/s?word=%E6%B4%BE%E5%87%BA%E6%89%80%E5%9B%9E%E5%BA%94%E6%89%B6%E8%80%81%E4%BA%BA%E8%A2%AB%E7%B4%A2%E8%B5%9410%E4%B8%87%E4%BA%8B%E4%BB%B6&sa=fyb_news"
-        }
-      ],
-      "summary": "",
-      "url": "https://m.baidu.com/s?word=%E6%B4%BE%E5%87%BA%E6%89%80%E5%9B%9E%E5%BA%94%E6%89%B6%E8%80%81%E4%BA%BA%E8%A2%AB%E7%B4%A2%E8%B5%9410%E4%B8%87%E4%BA%8B%E4%BB%B6&sa=fyb_news"
-    },
-    {
-      "id": "evt-40038000",
-      "title": "天工队 400 米决赛以 38.15 秒夺得本届机器人运动会首金，前三名均打破人类世界纪录，怎样评价这一成绩？",
-      "category": "society",
-      "hotScore": 0.45,
-      "freshness": 1,
-      "crossSource": 0.6309,
-      "totalScore": 0.6693,
+      "totalScore": 0.6843,
       "sources": [
         {
           "channel": "zhihu",
-          "rank": 9,
+          "rank": 8,
+          "hot": 0,
+          "url": ""
+        }
+      ],
+      "summary": "",
+      "url": ""
+    },
+    {
+      "id": "evt-20700000",
+      "title": "男子省吃俭用 20 年攒下 789 万，6 天被骗子全部转空，带来哪些警示？",
+      "category": "society",
+      "hotScore": 0.4125,
+      "freshness": 1,
+      "crossSource": 0.6309,
+      "totalScore": 0.6543,
+      "sources": [
+        {
+          "channel": "zhihu",
+          "rank": 10,
           "hot": 0,
           "url": ""
         }
