@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-08-25T10:21:13.225Z",
+  "generatedAt": "2026-08-25T12:26:24.837Z",
   "fields": {
     "society": "社会",
     "economy": "经济",
@@ -7,67 +7,48 @@
   },
   "feed": [
     {
-      "id": "evt-12000000",
-      "title": "女子称家中水改后12天用了400吨水",
+      "id": "evt-00000000",
+      "title": "官方：征集火箭军部队违规采购问题",
       "category": "society",
-      "hotScore": 0.6375,
+      "hotScore": 0.85,
       "freshness": 0.9999,
       "crossSource": 1,
-      "totalScore": 0.855,
+      "totalScore": 0.94,
       "sources": [
         {
           "channel": "toutiao",
-          "rank": 6,
-          "hot": 15897777,
-          "url": "https://www.toutiao.com/trending/7677766723621502995/"
+          "rank": 1,
+          "hot": 26604879,
+          "url": "https://www.toutiao.com/trending/7677908770965425670/"
         },
         {
           "channel": "baidu",
-          "rank": 14,
+          "rank": 2,
           "hot": 0,
-          "url": "https://m.baidu.com/s?word=%E5%A5%B3%E5%AD%90%E7%A7%B0%E5%AE%B6%E4%B8%AD%E6%B0%B4%E6%94%B9%E5%90%8E12%E5%A4%A9%E7%94%A8%E4%BA%86400%E5%90%A8%E6%B0%B4&sa=fyb_news"
+          "url": "https://m.baidu.com/s?word=%E5%AE%98%E6%96%B9%EF%BC%9A%E5%BE%81%E9%9B%86%E7%81%AB%E7%AE%AD%E5%86%9B%E9%83%A8%E9%98%9F%E8%BF%9D%E8%A7%84%E9%87%87%E8%B4%AD%E9%97%AE%E9%A2%98&sa=fyb_news"
         }
       ],
       "summary": "",
-      "url": "https://www.toutiao.com/trending/7677766723621502995/"
+      "url": "https://www.toutiao.com/trending/7677908770965425670/"
     },
     {
-      "id": "evt-80900000",
-      "title": "80、90、00后退休时间一览",
+      "id": "evt-60000000",
+      "title": "中国空军跨越6000公里参加联训，为何说意义非同一般",
       "category": "society",
-      "hotScore": 0.85,
-      "freshness": 0.9999,
+      "hotScore": 0.8075,
+      "freshness": 1,
       "crossSource": 0.6309,
-      "totalScore": 0.8292,
-      "sources": [
-        {
-          "channel": "toutiao",
-          "rank": 1,
-          "hot": 26211003,
-          "url": "https://www.toutiao.com/trending/7677752978062065670/"
-        }
-      ],
-      "summary": "",
-      "url": "https://www.toutiao.com/trending/7677752978062065670/"
-    },
-    {
-      "id": "evt-00000000",
-      "title": "对话中物联冷链委专家：蔬菜冷链运输综合成本比常温高30%~50%，但损耗率极低",
-      "category": "society",
-      "hotScore": 0.85,
-      "freshness": 0.9999,
-      "crossSource": 0.6309,
-      "totalScore": 0.8292,
+      "totalScore": 0.8123,
       "sources": [
         {
           "channel": "thepaper",
-          "rank": 1,
+          "rank": 2,
           "hot": 0,
-          "url": "https://www.thepaper.cn/newsDetail_forward_33839647"
+          "url": "https://www.thepaper.cn/newsDetail_forward_33840874"
         }
       ],
       "summary": "",
-      "url": "https://www.thepaper.cn/newsDetail_forward_33839647"
+      "url": "https://www.thepaper.cn/newsDetail_forward_33840874"
     },
     {
       "id": "evt-70000000",
@@ -81,7 +62,7 @@
         {
           "channel": "toutiao",
           "rank": 3,
-          "hot": 21459754,
+          "hot": 21782232,
           "url": "https://www.toutiao.com/trending/7677519846078726154/"
         }
       ],
@@ -89,55 +70,17 @@
       "url": "https://www.toutiao.com/trending/7677519846078726154/"
     },
     {
-      "id": "evt-app00000",
-      "title": "多款APP被通报",
-      "category": "society",
-      "hotScore": 0.76,
-      "freshness": 1,
-      "crossSource": 0.6309,
-      "totalScore": 0.7933,
-      "sources": [
-        {
-          "channel": "baidu",
-          "rank": 2,
-          "hot": 0,
-          "url": "https://m.baidu.com/s?word=%E5%A4%9A%E6%AC%BEAPP%E8%A2%AB%E9%80%9A%E6%8A%A5&sa=fyb_news"
-        }
-      ],
-      "summary": "",
-      "url": "https://m.baidu.com/s?word=%E5%A4%9A%E6%AC%BEAPP%E8%A2%AB%E9%80%9A%E6%8A%A5&sa=fyb_news"
-    },
-    {
-      "id": "evt-26000000",
-      "title": "北京2.6亿元四合院流拍",
-      "category": "society",
-      "hotScore": 0.68,
-      "freshness": 0.9999,
-      "crossSource": 0.6309,
-      "totalScore": 0.7612,
-      "sources": [
-        {
-          "channel": "toutiao",
-          "rank": 5,
-          "hot": 17569761,
-          "url": "https://www.toutiao.com/trending/7677857707513987098/"
-        }
-      ],
-      "summary": "",
-      "url": "https://www.toutiao.com/trending/7677857707513987098/"
-    },
-    {
       "id": "evt-10000000",
       "title": "网售新型避责术曝光：“100%蚕丝衫”无蚕丝，售假者玩“店铺矩阵”规避监管",
       "category": "society",
-      "hotScore": 0.68,
-      "freshness": 0.9999,
+      "hotScore": 0.6375,
+      "freshness": 1,
       "crossSource": 0.6309,
-      "totalScore": 0.7612,
+      "totalScore": 0.7443,
       "sources": [
         {
           "channel": "thepaper",
-          "rank": 5,
+          "rank": 6,
           "hot": 0,
           "url": "https://www.thepaper.cn/newsDetail_forward_33840657"
         }
@@ -146,17 +89,36 @@
       "url": "https://www.thepaper.cn/newsDetail_forward_33840657"
     },
     {
-      "id": "evt-20260000",
-      "title": "如何评价 2026 年科隆游戏展「最佳移动游戏」五项提名被国产游戏包揽？谁最有可能最终获奖？",
-      "category": "society",
-      "hotScore": 0.6375,
+      "id": "evt-92700000",
+      "title": "钟睒睒捐出9.27亿市值公司股份",
+      "category": "economy",
+      "hotScore": 0.64,
+      "freshness": 1,
+      "crossSource": 0.6309,
+      "totalScore": 0.7453,
+      "sources": [
+        {
+          "channel": "baidu",
+          "rank": 5,
+          "hot": 0,
+          "url": "https://m.baidu.com/s?word=%E9%92%9F%E7%9D%92%E7%9D%92%E6%8D%90%E5%87%BA9.27%E4%BA%BF%E5%B8%82%E5%80%BC%E5%85%AC%E5%8F%B8%E8%82%A1%E4%BB%BD&sa=fyb_news"
+        }
+      ],
+      "summary": "",
+      "url": "https://m.baidu.com/s?word=%E9%92%9F%E7%9D%92%E7%9D%92%E6%8D%90%E5%87%BA9.27%E4%BA%BF%E5%B8%82%E5%80%BC%E5%85%AC%E5%8F%B8%E8%82%A1%E4%BB%BD&sa=fyb_news"
+    },
+    {
+      "id": "evt-shein100",
+      "title": "Shein 上市估值从 1000 亿缩水到 270 亿美元，跨境电商快时尚的「黄金时代」是不是过去了？",
+      "category": "economy",
+      "hotScore": 0.45,
       "freshness": 0.9999,
       "crossSource": 0.6309,
-      "totalScore": 0.7442,
+      "totalScore": 0.6693,
       "sources": [
         {
           "channel": "zhihu",
-          "rank": 4,
+          "rank": 9,
           "hot": 0,
           "url": ""
         }
@@ -165,8 +127,27 @@
       "url": ""
     },
     {
-      "id": "evt-32000000",
-      "title": "吃一顿方便面需要花32天解毒？真的吗",
+      "id": "evt-80900000",
+      "title": "80、90、00后退休时间一览",
+      "category": "society",
+      "hotScore": 0.6375,
+      "freshness": 0.9999,
+      "crossSource": 0.6309,
+      "totalScore": 0.7442,
+      "sources": [
+        {
+          "channel": "toutiao",
+          "rank": 6,
+          "hot": 16136675,
+          "url": "https://www.toutiao.com/trending/7677752978062065670/"
+        }
+      ],
+      "summary": "",
+      "url": "https://www.toutiao.com/trending/7677752978062065670/"
+    },
+    {
+      "id": "evt-50000000",
+      "title": "50国发表反俄声明 美国未参与",
       "category": "society",
       "hotScore": 0.6,
       "freshness": 1,
@@ -177,77 +158,58 @@
           "channel": "baidu",
           "rank": 6,
           "hot": 0,
-          "url": "https://m.baidu.com/s?word=%E5%90%83%E4%B8%80%E9%A1%BF%E6%96%B9%E4%BE%BF%E9%9D%A2%E9%9C%80%E8%A6%81%E8%8A%B132%E5%A4%A9%E8%A7%A3%E6%AF%92%EF%BC%9F%E7%9C%9F%E7%9A%84%E5%90%97&sa=fyb_news"
+          "url": "https://m.baidu.com/s?word=50%E5%9B%BD%E5%8F%91%E8%A1%A8%E5%8F%8D%E4%BF%84%E5%A3%B0%E6%98%8E+%E7%BE%8E%E5%9B%BD%E6%9C%AA%E5%8F%82%E4%B8%8E&sa=fyb_news"
         }
       ],
       "summary": "",
-      "url": "https://m.baidu.com/s?word=%E5%90%83%E4%B8%80%E9%A1%BF%E6%96%B9%E4%BE%BF%E9%9D%A2%E9%9C%80%E8%A6%81%E8%8A%B132%E5%A4%A9%E8%A7%A3%E6%AF%92%EF%BC%9F%E7%9C%9F%E7%9A%84%E5%90%97&sa=fyb_news"
+      "url": "https://m.baidu.com/s?word=50%E5%9B%BD%E5%8F%91%E8%A1%A8%E5%8F%8D%E4%BF%84%E5%A3%B0%E6%98%8E+%E7%BE%8E%E5%9B%BD%E6%9C%AA%E5%8F%82%E4%B8%8E&sa=fyb_news"
     },
     {
-      "id": "evt-80000000",
-      "title": "比特币突破8万美元 加密货币涨势加速",
+      "id": "evt-20260000",
+      "title": "如何评价 2026 年科隆游戏展「最佳移动游戏」五项提名被国产游戏包揽？谁最有可能最终获奖？",
       "category": "society",
-      "hotScore": 0.5525,
+      "hotScore": 0.6,
       "freshness": 0.9999,
       "crossSource": 0.6309,
-      "totalScore": 0.7102,
+      "totalScore": 0.7293,
       "sources": [
         {
-          "channel": "toutiao",
-          "rank": 8,
-          "hot": 13015999,
-          "url": "https://www.toutiao.com/trending/7677845199539782153/"
+          "channel": "zhihu",
+          "rank": 5,
+          "hot": 0,
+          "url": ""
         }
       ],
       "summary": "",
-      "url": "https://www.toutiao.com/trending/7677845199539782153/"
+      "url": ""
     },
     {
-      "id": "evt-19000000",
-      "title": "19岁娃娃音女列车员说声音是天生的",
+      "id": "evt-88600000",
+      "title": "8.86秒！人形机器人百米再破纪录",
       "category": "society",
-      "hotScore": 0.51,
-      "freshness": 0.9999,
+      "hotScore": 0.48,
+      "freshness": 1,
       "crossSource": 0.6309,
-      "totalScore": 0.6932,
+      "totalScore": 0.6813,
       "sources": [
         {
-          "channel": "toutiao",
+          "channel": "baidu",
           "rank": 9,
-          "hot": 11777363,
-          "url": "https://www.toutiao.com/trending/7677871067079344138/"
+          "hot": 0,
+          "url": "https://m.baidu.com/s?word=8.86%E7%A7%92%EF%BC%81%E4%BA%BA%E5%BD%A2%E6%9C%BA%E5%99%A8%E4%BA%BA%E7%99%BE%E7%B1%B3%E5%86%8D%E7%A0%B4%E7%BA%AA%E5%BD%95&sa=fyb_news"
         }
       ],
       "summary": "",
-      "url": "https://www.toutiao.com/trending/7677871067079344138/"
-    },
-    {
-      "id": "evt-16000000",
-      "title": "歼-16和阵风战机相比有何优势",
-      "category": "society",
-      "hotScore": 0.4675,
-      "freshness": 0.9999,
-      "crossSource": 0.6309,
-      "totalScore": 0.6762,
-      "sources": [
-        {
-          "channel": "toutiao",
-          "rank": 10,
-          "hot": 10656598,
-          "url": "https://www.toutiao.com/trending/7677896044536925732/"
-        }
-      ],
-      "summary": "",
-      "url": "https://www.toutiao.com/trending/7677896044536925732/"
+      "url": "https://m.baidu.com/s?word=8.86%E7%A7%92%EF%BC%81%E4%BA%BA%E5%BD%A2%E6%9C%BA%E5%99%A8%E4%BA%BA%E7%99%BE%E7%B1%B3%E5%86%8D%E7%A0%B4%E7%BA%AA%E5%BD%95&sa=fyb_news"
     },
     {
       "id": "evt-20262000",
       "title": "2026鲁迅文学周丨2005年后出生的人如何理解鲁迅？",
       "category": "society",
       "hotScore": 0.4675,
-      "freshness": 0.9999,
+      "freshness": 1,
       "crossSource": 0.6309,
-      "totalScore": 0.6762,
+      "totalScore": 0.6763,
       "sources": [
         {
           "channel": "thepaper",
