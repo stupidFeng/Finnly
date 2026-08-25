@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-08-25T16:24:13.687Z",
+  "generatedAt": "2026-08-25T18:23:24.847Z",
   "fields": {
     "society": "社会",
     "economy": "经济",
@@ -11,14 +11,14 @@
       "title": "30多国宣布：准备向乌克兰派兵",
       "category": "society",
       "hotScore": 0.8075,
-      "freshness": 0.9999,
+      "freshness": 1,
       "crossSource": 1,
       "totalScore": 0.923,
       "sources": [
         {
           "channel": "toutiao",
           "rank": 2,
-          "hot": 17727919,
+          "hot": 18003127,
           "url": "https://www.toutiao.com/trending/7677267852270583859/"
         },
         {
@@ -33,29 +33,48 @@
     },
     {
       "id": "evt-00000000",
-      "title": "曾经顶流｜“广东雨神”卢大雨讲述这十年：我可能仍在梦里",
+      "title": "台风紫檀已登陆",
       "category": "society",
       "hotScore": 0.85,
-      "freshness": 0.9999,
+      "freshness": 1,
       "crossSource": 0.6309,
       "totalScore": 0.8293,
       "sources": [
         {
-          "channel": "thepaper",
+          "channel": "toutiao",
           "rank": 1,
-          "hot": 0,
-          "url": "https://www.thepaper.cn/newsDetail_forward_33749775"
+          "hot": 19896533,
+          "url": "https://www.toutiao.com/trending/7677060472058940964/"
         }
       ],
       "summary": "",
-      "url": "https://www.thepaper.cn/newsDetail_forward_33749775"
+      "url": "https://www.toutiao.com/trending/7677060472058940964/"
+    },
+    {
+      "id": "evt-23000000",
+      "title": "在韩遇害女生原计划23日回国入职",
+      "category": "society",
+      "hotScore": 0.7225,
+      "freshness": 1,
+      "crossSource": 0.6309,
+      "totalScore": 0.7783,
+      "sources": [
+        {
+          "channel": "toutiao",
+          "rank": 4,
+          "hot": 14739714,
+          "url": "https://www.toutiao.com/trending/7677937937215946793/"
+        }
+      ],
+      "summary": "",
+      "url": "https://www.toutiao.com/trending/7677937937215946793/"
     },
     {
       "id": "evt-10000000",
       "title": "网售新型避责术曝光：“100%蚕丝衫”无蚕丝，售假者玩“店铺矩阵”规避监管",
       "category": "society",
       "hotScore": 0.7225,
-      "freshness": 0.9999,
+      "freshness": 1,
       "crossSource": 0.6309,
       "totalScore": 0.7783,
       "sources": [
@@ -70,55 +89,17 @@
       "url": "https://www.thepaper.cn/newsDetail_forward_33840657"
     },
     {
-      "id": "evt-25000000",
-      "title": "在韩失联25岁中国女生已遇害",
-      "category": "society",
-      "hotScore": 0.72,
-      "freshness": 1,
-      "crossSource": 0.6309,
-      "totalScore": 0.7773,
-      "sources": [
-        {
-          "channel": "baidu",
-          "rank": 3,
-          "hot": 0,
-          "url": "https://m.baidu.com/s?word=%E5%9C%A8%E9%9F%A9%E5%A4%B1%E8%81%9425%E5%B2%81%E4%B8%AD%E5%9B%BD%E5%A5%B3%E7%94%9F%E5%B7%B2%E9%81%87%E5%AE%B3&sa=fyb_news"
-        }
-      ],
-      "summary": "",
-      "url": "https://m.baidu.com/s?word=%E5%9C%A8%E9%9F%A9%E5%A4%B1%E8%81%9425%E5%B2%81%E4%B8%AD%E5%9B%BD%E5%A5%B3%E7%94%9F%E5%B7%B2%E9%81%87%E5%AE%B3&sa=fyb_news"
-    },
-    {
-      "id": "evt-23000000",
-      "title": "在韩遇害女生原计划23日回国入职",
-      "category": "society",
-      "hotScore": 0.68,
-      "freshness": 0.9999,
-      "crossSource": 0.6309,
-      "totalScore": 0.7612,
-      "sources": [
-        {
-          "channel": "toutiao",
-          "rank": 5,
-          "hot": 13133165,
-          "url": "https://www.toutiao.com/trending/7677937937215946793/"
-        }
-      ],
-      "summary": "",
-      "url": "https://www.toutiao.com/trending/7677937937215946793/"
-    },
-    {
       "id": "evt-ai000000",
       "title": "大批 AI 博主集中停更，背后真实原因是什么，AI 内容赛道接下来会如何发展？",
       "category": "society",
-      "hotScore": 0.6,
-      "freshness": 0.9999,
+      "hotScore": 0.675,
+      "freshness": 1,
       "crossSource": 0.6309,
-      "totalScore": 0.7292,
+      "totalScore": 0.7593,
       "sources": [
         {
           "channel": "zhihu",
-          "rank": 5,
+          "rank": 3,
           "hot": 0,
           "url": ""
         }
@@ -127,42 +108,42 @@
       "url": ""
     },
     {
+      "id": "evt-a0000000",
+      "title": "A股连续迎来“大肉签”",
+      "category": "society",
+      "hotScore": 0.5525,
+      "freshness": 1,
+      "crossSource": 0.6309,
+      "totalScore": 0.7103,
+      "sources": [
+        {
+          "channel": "toutiao",
+          "rank": 8,
+          "hot": 9880326,
+          "url": "https://www.toutiao.com/trending/7677928888453988890/"
+        }
+      ],
+      "summary": "",
+      "url": "https://www.toutiao.com/trending/7677928888453988890/"
+    },
+    {
       "id": "evt-20262000",
       "title": "2026鲁迅文学周丨2005年后出生的人如何理解鲁迅？",
       "category": "society",
-      "hotScore": 0.595,
-      "freshness": 0.9999,
+      "hotScore": 0.5525,
+      "freshness": 1,
       "crossSource": 0.6309,
-      "totalScore": 0.7273,
+      "totalScore": 0.7103,
       "sources": [
         {
           "channel": "thepaper",
-          "rank": 7,
+          "rank": 8,
           "hot": 0,
           "url": "https://www.thepaper.cn/newsDetail_forward_33840474"
         }
       ],
       "summary": "",
       "url": "https://www.thepaper.cn/newsDetail_forward_33840474"
-    },
-    {
-      "id": "evt-80900000",
-      "title": "80、90、00后退休时间一览",
-      "category": "society",
-      "hotScore": 0.595,
-      "freshness": 0.9999,
-      "crossSource": 0.6309,
-      "totalScore": 0.7272,
-      "sources": [
-        {
-          "channel": "toutiao",
-          "rank": 7,
-          "hot": 10752526,
-          "url": "https://www.toutiao.com/trending/7677752978062065670/"
-        }
-      ],
-      "summary": "",
-      "url": "https://www.toutiao.com/trending/7677752978062065670/"
     },
     {
       "id": "evt-20000000",
@@ -184,23 +165,23 @@
       "url": "https://m.baidu.com/s?word=%E6%9C%88%E8%96%AA2%E4%B8%87%E5%9B%A0%E8%A3%81%E5%91%98%E7%84%A6%E8%99%91+%E6%AF%8F%E5%A4%A9%E5%AD%A6%E5%88%B0%E5%87%8C%E6%99%A85%E7%82%B9&sa=fyb_news"
     },
     {
-      "id": "evt-20260000",
-      "title": "2026 金鹰奖提名揭晓，于和伟王宝强胡歌争视帝，闫妮宋佳马伊俐杨紫争视后，杨幂掉提，你看好哪些获奖？",
+      "id": "evt-80900000",
+      "title": "80、90、00后退休时间一览",
       "category": "society",
-      "hotScore": 0.45,
-      "freshness": 0.9999,
+      "hotScore": 0.4675,
+      "freshness": 1,
       "crossSource": 0.6309,
-      "totalScore": 0.6692,
+      "totalScore": 0.6763,
       "sources": [
         {
-          "channel": "zhihu",
-          "rank": 9,
-          "hot": 0,
-          "url": ""
+          "channel": "toutiao",
+          "rank": 10,
+          "hot": 8089326,
+          "url": "https://www.toutiao.com/trending/7677752978062065670/"
         }
       ],
       "summary": "",
-      "url": ""
+      "url": "https://www.toutiao.com/trending/7677752978062065670/"
     }
   ]
 }
