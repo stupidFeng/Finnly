@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-08-25T14:34:14.878Z",
+  "generatedAt": "2026-08-25T16:24:13.687Z",
   "fields": {
     "society": "社会",
     "economy": "经济",
@@ -7,55 +7,55 @@
   },
   "feed": [
     {
-      "id": "evt-00000000",
-      "title": "外国游客对台警察说“你是中国人”",
+      "id": "evt-30000000",
+      "title": "30多国宣布：准备向乌克兰派兵",
       "category": "society",
-      "hotScore": 0.72,
-      "freshness": 1,
+      "hotScore": 0.8075,
+      "freshness": 0.9999,
       "crossSource": 1,
-      "totalScore": 0.888,
+      "totalScore": 0.923,
       "sources": [
         {
           "channel": "toutiao",
-          "rank": 20,
-          "hot": 2804575,
-          "url": "https://www.toutiao.com/trending/7677900644161782282/"
+          "rank": 2,
+          "hot": 17727919,
+          "url": "https://www.toutiao.com/trending/7677267852270583859/"
         },
         {
           "channel": "baidu",
-          "rank": 3,
+          "rank": 7,
           "hot": 0,
-          "url": "https://m.baidu.com/s?word=%E5%A4%96%E5%9B%BD%E6%B8%B8%E5%AE%A2%E5%AF%B9%E5%8F%B0%E8%AD%A6%E5%AF%9F%E8%AF%B4%E2%80%9C%E4%BD%A0%E6%98%AF%E4%B8%AD%E5%9B%BD%E4%BA%BA%E2%80%9D&sa=fyb_news"
+          "url": "https://m.baidu.com/s?word=30%E5%A4%9A%E5%9B%BD%E5%AE%A3%E5%B8%83%EF%BC%9A%E5%87%86%E5%A4%87%E5%90%91%E4%B9%8C%E5%85%8B%E5%85%B0%E6%B4%BE%E5%85%B5&sa=fyb_news"
         }
       ],
       "summary": "",
-      "url": "https://www.toutiao.com/trending/7677900644161782282/"
+      "url": "https://www.toutiao.com/trending/7677267852270583859/"
     },
     {
-      "id": "evt-25000000",
-      "title": "在韩失联25岁中国女生已遇害",
+      "id": "evt-00000000",
+      "title": "曾经顶流｜“广东雨神”卢大雨讲述这十年：我可能仍在梦里",
       "category": "society",
-      "hotScore": 0.76,
-      "freshness": 1,
+      "hotScore": 0.85,
+      "freshness": 0.9999,
       "crossSource": 0.6309,
-      "totalScore": 0.7933,
+      "totalScore": 0.8293,
       "sources": [
         {
-          "channel": "baidu",
-          "rank": 2,
+          "channel": "thepaper",
+          "rank": 1,
           "hot": 0,
-          "url": "https://m.baidu.com/s?word=%E5%9C%A8%E9%9F%A9%E5%A4%B1%E8%81%9425%E5%B2%81%E4%B8%AD%E5%9B%BD%E5%A5%B3%E7%94%9F%E5%B7%B2%E9%81%87%E5%AE%B3&sa=fyb_news"
+          "url": "https://www.thepaper.cn/newsDetail_forward_33749775"
         }
       ],
       "summary": "",
-      "url": "https://m.baidu.com/s?word=%E5%9C%A8%E9%9F%A9%E5%A4%B1%E8%81%9425%E5%B2%81%E4%B8%AD%E5%9B%BD%E5%A5%B3%E7%94%9F%E5%B7%B2%E9%81%87%E5%AE%B3&sa=fyb_news"
+      "url": "https://www.thepaper.cn/newsDetail_forward_33749775"
     },
     {
       "id": "evt-10000000",
       "title": "网售新型避责术曝光：“100%蚕丝衫”无蚕丝，售假者玩“店铺矩阵”规避监管",
       "category": "society",
       "hotScore": 0.7225,
-      "freshness": 1,
+      "freshness": 0.9999,
       "crossSource": 0.6309,
       "totalScore": 0.7783,
       "sources": [
@@ -70,74 +70,55 @@
       "url": "https://www.thepaper.cn/newsDetail_forward_33840657"
     },
     {
-      "id": "evt-30000000",
-      "title": "30多国宣布：准备向乌克兰派兵",
+      "id": "evt-25000000",
+      "title": "在韩失联25岁中国女生已遇害",
       "category": "society",
-      "hotScore": 0.64,
+      "hotScore": 0.72,
       "freshness": 1,
       "crossSource": 0.6309,
-      "totalScore": 0.7453,
+      "totalScore": 0.7773,
       "sources": [
         {
           "channel": "baidu",
-          "rank": 5,
+          "rank": 3,
           "hot": 0,
-          "url": "https://m.baidu.com/s?word=30%E5%A4%9A%E5%9B%BD%E5%AE%A3%E5%B8%83%EF%BC%9A%E5%87%86%E5%A4%87%E5%90%91%E4%B9%8C%E5%85%8B%E5%85%B0%E6%B4%BE%E5%85%B5&sa=fyb_news"
+          "url": "https://m.baidu.com/s?word=%E5%9C%A8%E9%9F%A9%E5%A4%B1%E8%81%9425%E5%B2%81%E4%B8%AD%E5%9B%BD%E5%A5%B3%E7%94%9F%E5%B7%B2%E9%81%87%E5%AE%B3&sa=fyb_news"
         }
       ],
       "summary": "",
-      "url": "https://m.baidu.com/s?word=30%E5%A4%9A%E5%9B%BD%E5%AE%A3%E5%B8%83%EF%BC%9A%E5%87%86%E5%A4%87%E5%90%91%E4%B9%8C%E5%85%8B%E5%85%B0%E6%B4%BE%E5%85%B5&sa=fyb_news"
+      "url": "https://m.baidu.com/s?word=%E5%9C%A8%E9%9F%A9%E5%A4%B1%E8%81%9425%E5%B2%81%E4%B8%AD%E5%9B%BD%E5%A5%B3%E7%94%9F%E5%B7%B2%E9%81%87%E5%AE%B3&sa=fyb_news"
     },
     {
-      "id": "evt-80900000",
-      "title": "80、90、00后退休时间一览",
+      "id": "evt-23000000",
+      "title": "在韩遇害女生原计划23日回国入职",
       "category": "society",
-      "hotScore": 0.5525,
-      "freshness": 1,
+      "hotScore": 0.68,
+      "freshness": 0.9999,
       "crossSource": 0.6309,
-      "totalScore": 0.7103,
+      "totalScore": 0.7612,
       "sources": [
         {
           "channel": "toutiao",
-          "rank": 8,
-          "hot": 9311519,
-          "url": "https://www.toutiao.com/trending/7677752978062065670/"
+          "rank": 5,
+          "hot": 13133165,
+          "url": "https://www.toutiao.com/trending/7677937937215946793/"
         }
       ],
       "summary": "",
-      "url": "https://www.toutiao.com/trending/7677752978062065670/"
-    },
-    {
-      "id": "evt-20262000",
-      "title": "2026鲁迅文学周丨2005年后出生的人如何理解鲁迅？",
-      "category": "society",
-      "hotScore": 0.5525,
-      "freshness": 1,
-      "crossSource": 0.6309,
-      "totalScore": 0.7103,
-      "sources": [
-        {
-          "channel": "thepaper",
-          "rank": 8,
-          "hot": 0,
-          "url": "https://www.thepaper.cn/newsDetail_forward_33840474"
-        }
-      ],
-      "summary": "",
-      "url": "https://www.thepaper.cn/newsDetail_forward_33840474"
+      "url": "https://www.toutiao.com/trending/7677937937215946793/"
     },
     {
       "id": "evt-ai000000",
       "title": "大批 AI 博主集中停更，背后真实原因是什么，AI 内容赛道接下来会如何发展？",
       "category": "society",
-      "hotScore": 0.525,
-      "freshness": 1,
+      "hotScore": 0.6,
+      "freshness": 0.9999,
       "crossSource": 0.6309,
-      "totalScore": 0.6993,
+      "totalScore": 0.7292,
       "sources": [
         {
           "channel": "zhihu",
-          "rank": 7,
+          "rank": 5,
           "hot": 0,
           "url": ""
         }
@@ -146,23 +127,80 @@
       "url": ""
     },
     {
+      "id": "evt-20262000",
+      "title": "2026鲁迅文学周丨2005年后出生的人如何理解鲁迅？",
+      "category": "society",
+      "hotScore": 0.595,
+      "freshness": 0.9999,
+      "crossSource": 0.6309,
+      "totalScore": 0.7273,
+      "sources": [
+        {
+          "channel": "thepaper",
+          "rank": 7,
+          "hot": 0,
+          "url": "https://www.thepaper.cn/newsDetail_forward_33840474"
+        }
+      ],
+      "summary": "",
+      "url": "https://www.thepaper.cn/newsDetail_forward_33840474"
+    },
+    {
+      "id": "evt-80900000",
+      "title": "80、90、00后退休时间一览",
+      "category": "society",
+      "hotScore": 0.595,
+      "freshness": 0.9999,
+      "crossSource": 0.6309,
+      "totalScore": 0.7272,
+      "sources": [
+        {
+          "channel": "toutiao",
+          "rank": 7,
+          "hot": 10752526,
+          "url": "https://www.toutiao.com/trending/7677752978062065670/"
+        }
+      ],
+      "summary": "",
+      "url": "https://www.toutiao.com/trending/7677752978062065670/"
+    },
+    {
       "id": "evt-20000000",
       "title": "月薪2万因裁员焦虑 每天学到凌晨5点",
       "category": "society",
-      "hotScore": 0.52,
+      "hotScore": 0.48,
       "freshness": 1,
       "crossSource": 0.6309,
-      "totalScore": 0.6973,
+      "totalScore": 0.6813,
       "sources": [
         {
           "channel": "baidu",
-          "rank": 8,
+          "rank": 9,
           "hot": 0,
           "url": "https://m.baidu.com/s?word=%E6%9C%88%E8%96%AA2%E4%B8%87%E5%9B%A0%E8%A3%81%E5%91%98%E7%84%A6%E8%99%91+%E6%AF%8F%E5%A4%A9%E5%AD%A6%E5%88%B0%E5%87%8C%E6%99%A85%E7%82%B9&sa=fyb_news"
         }
       ],
       "summary": "",
       "url": "https://m.baidu.com/s?word=%E6%9C%88%E8%96%AA2%E4%B8%87%E5%9B%A0%E8%A3%81%E5%91%98%E7%84%A6%E8%99%91+%E6%AF%8F%E5%A4%A9%E5%AD%A6%E5%88%B0%E5%87%8C%E6%99%A85%E7%82%B9&sa=fyb_news"
+    },
+    {
+      "id": "evt-20260000",
+      "title": "2026 金鹰奖提名揭晓，于和伟王宝强胡歌争视帝，闫妮宋佳马伊俐杨紫争视后，杨幂掉提，你看好哪些获奖？",
+      "category": "society",
+      "hotScore": 0.45,
+      "freshness": 0.9999,
+      "crossSource": 0.6309,
+      "totalScore": 0.6692,
+      "sources": [
+        {
+          "channel": "zhihu",
+          "rank": 9,
+          "hot": 0,
+          "url": ""
+        }
+      ],
+      "summary": "",
+      "url": ""
     }
   ]
 }
