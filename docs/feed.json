@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-08-25T20:16:49.626Z",
+  "generatedAt": "2026-08-25T22:15:32.128Z",
   "fields": {
     "society": "社会",
     "economy": "经济",
@@ -18,7 +18,7 @@
         {
           "channel": "toutiao",
           "rank": 2,
-          "hot": 18175931,
+          "hot": 18567289,
           "url": "https://www.toutiao.com/trending/7677267852270583859/"
         },
         {
@@ -43,7 +43,7 @@
         {
           "channel": "toutiao",
           "rank": 1,
-          "hot": 20087510,
+          "hot": 20520028,
           "url": "https://www.toutiao.com/trending/7677060472058940964/"
         }
       ],
@@ -54,15 +54,15 @@
       "id": "evt-23000000",
       "title": "在韩遇害女生原计划23日回国入职",
       "category": "society",
-      "hotScore": 0.7225,
+      "hotScore": 0.68,
       "freshness": 0.9999,
       "crossSource": 0.6309,
-      "totalScore": 0.7783,
+      "totalScore": 0.7613,
       "sources": [
         {
           "channel": "toutiao",
-          "rank": 4,
-          "hot": 14881194,
+          "rank": 5,
+          "hot": 13754986,
           "url": "https://www.toutiao.com/trending/7677937937215946793/"
         }
       ],
@@ -73,14 +73,14 @@
       "id": "evt-10000000",
       "title": "网售新型避责术曝光：“100%蚕丝衫”无蚕丝，售假者玩“店铺矩阵”规避监管",
       "category": "society",
-      "hotScore": 0.68,
+      "hotScore": 0.6375,
       "freshness": 1,
       "crossSource": 0.6309,
-      "totalScore": 0.7613,
+      "totalScore": 0.7443,
       "sources": [
         {
           "channel": "thepaper",
-          "rank": 5,
+          "rank": 6,
           "hot": 0,
           "url": "https://www.thepaper.cn/newsDetail_forward_33840657"
         }
@@ -92,14 +92,14 @@
       "id": "evt-ai000000",
       "title": "大批 AI 博主集中停更，背后真实原因是什么，AI 内容赛道接下来会如何发展？",
       "category": "society",
-      "hotScore": 0.675,
+      "hotScore": 0.6,
       "freshness": 1,
       "crossSource": 0.6309,
-      "totalScore": 0.7593,
+      "totalScore": 0.7293,
       "sources": [
         {
           "channel": "zhihu",
-          "rank": 3,
+          "rank": 5,
           "hot": 0,
           "url": ""
         }
@@ -108,8 +108,8 @@
       "url": ""
     },
     {
-      "id": "evt-a0000000",
-      "title": "A股连续迎来“大肉签”",
+      "id": "evt-80900000",
+      "title": "80、90、00后退休时间一览",
       "category": "society",
       "hotScore": 0.595,
       "freshness": 0.9999,
@@ -119,26 +119,7 @@
         {
           "channel": "toutiao",
           "rank": 7,
-          "hot": 11024259,
-          "url": "https://www.toutiao.com/trending/7677928888453988890/"
-        }
-      ],
-      "summary": "",
-      "url": "https://www.toutiao.com/trending/7677928888453988890/"
-    },
-    {
-      "id": "evt-80900000",
-      "title": "80、90、00后退休时间一览",
-      "category": "society",
-      "hotScore": 0.5525,
-      "freshness": 0.9999,
-      "crossSource": 0.6309,
-      "totalScore": 0.7103,
-      "sources": [
-        {
-          "channel": "toutiao",
-          "rank": 8,
-          "hot": 9975162,
+          "hot": 11261630,
           "url": "https://www.toutiao.com/trending/7677752978062065670/"
         }
       ],
@@ -146,23 +127,23 @@
       "url": "https://www.toutiao.com/trending/7677752978062065670/"
     },
     {
-      "id": "evt-20260000",
-      "title": "2026 金鹰奖提名揭晓，于和伟王宝强胡歌争视帝，闫妮宋佳马伊俐杨紫争视后，杨幂掉提，你看好哪些获奖？",
+      "id": "evt-a0000000",
+      "title": "A股连续迎来“大肉签”",
       "category": "society",
-      "hotScore": 0.4875,
-      "freshness": 1,
+      "hotScore": 0.51,
+      "freshness": 0.9999,
       "crossSource": 0.6309,
-      "totalScore": 0.6843,
+      "totalScore": 0.6933,
       "sources": [
         {
-          "channel": "zhihu",
-          "rank": 8,
-          "hot": 0,
-          "url": ""
+          "channel": "toutiao",
+          "rank": 9,
+          "hot": 9220243,
+          "url": "https://www.toutiao.com/trending/7677928888453988890/"
         }
       ],
       "summary": "",
-      "url": ""
+      "url": "https://www.toutiao.com/trending/7677928888453988890/"
     },
     {
       "id": "evt-20000000",
