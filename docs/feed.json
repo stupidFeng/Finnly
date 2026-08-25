@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-08-25T06:26:46.963Z",
+  "generatedAt": "2026-08-25T08:30:01.649Z",
   "fields": {
     "society": "社会",
     "economy": "经济",
@@ -7,13 +7,32 @@
   },
   "feed": [
     {
+      "id": "evt-12000000",
+      "title": "女子称家中水改后12天用了400吨水",
+      "category": "society",
+      "hotScore": 0.85,
+      "freshness": 1,
+      "crossSource": 1,
+      "totalScore": 0.94,
+      "sources": [
+        {
+          "channel": "toutiao",
+          "rank": 1,
+          "hot": 24416979,
+          "url": "https://www.toutiao.com/trending/7677766723621502995/"
+        }
+      ],
+      "summary": "",
+      "url": "https://www.toutiao.com/trending/7677766723621502995/"
+    },
+    {
       "id": "evt-00000000",
       "title": "青岛崂山警方再通报“一女子在公园被男子辱骂”",
       "category": "society",
       "hotScore": 0.85,
       "freshness": 1,
-      "crossSource": 0.6309,
-      "totalScore": 0.8293,
+      "crossSource": 1,
+      "totalScore": 0.94,
       "sources": [
         {
           "channel": "thepaper",
@@ -26,37 +45,18 @@
       "url": "https://www.thepaper.cn/newsDetail_forward_33840951"
     },
     {
-      "id": "evt-19000000",
-      "title": "扶老人被索赔店家1.9万获全额返还",
-      "category": "society",
-      "hotScore": 0.85,
-      "freshness": 0.9999,
-      "crossSource": 0.6309,
-      "totalScore": 0.8292,
-      "sources": [
-        {
-          "channel": "toutiao",
-          "rank": 1,
-          "hot": 20003196,
-          "url": "https://www.toutiao.com/trending/7677595939521560612/"
-        }
-      ],
-      "summary": "",
-      "url": "https://www.toutiao.com/trending/7677595939521560612/"
-    },
-    {
       "id": "evt-30000000",
       "title": "新加坡未来每名孩童可获32万元补助",
       "category": "society",
       "hotScore": 0.8075,
-      "freshness": 0.9999,
-      "crossSource": 0.6309,
-      "totalScore": 0.8122,
+      "freshness": 1,
+      "crossSource": 1,
+      "totalScore": 0.923,
       "sources": [
         {
           "channel": "toutiao",
           "rank": 2,
-          "hot": 18099640,
+          "hot": 22093397,
           "url": "https://www.toutiao.com/trending/7677411691894669375/"
         }
       ],
@@ -64,36 +64,74 @@
       "url": "https://www.toutiao.com/trending/7677411691894669375/"
     },
     {
-      "id": "evt-10000000",
-      "title": "扶老人被索赔店主支付的1.9万获返还",
+      "id": "evt-70000000",
+      "title": "前7月我国交通运输主要指标保持增长",
       "category": "society",
-      "hotScore": 0.76,
+      "hotScore": 0.765,
       "freshness": 1,
-      "crossSource": 0.6309,
-      "totalScore": 0.7933,
+      "crossSource": 1,
+      "totalScore": 0.906,
       "sources": [
         {
-          "channel": "baidu",
-          "rank": 2,
-          "hot": 0,
-          "url": "https://m.baidu.com/s?word=%E6%89%B6%E8%80%81%E4%BA%BA%E8%A2%AB%E7%B4%A2%E8%B5%94%E5%BA%97%E4%B8%BB%E6%94%AF%E4%BB%98%E7%9A%841.9%E4%B8%87%E8%8E%B7%E8%BF%94%E8%BF%98&sa=fyb_news"
+          "channel": "toutiao",
+          "rank": 3,
+          "hot": 19990932,
+          "url": "https://www.toutiao.com/trending/7677519846078726154/"
         }
       ],
       "summary": "",
-      "url": "https://m.baidu.com/s?word=%E6%89%B6%E8%80%81%E4%BA%BA%E8%A2%AB%E7%B4%A2%E8%B5%94%E5%BA%97%E4%B8%BB%E6%94%AF%E4%BB%98%E7%9A%841.9%E4%B8%87%E8%8E%B7%E8%BF%94%E8%BF%98&sa=fyb_news"
+      "url": "https://www.toutiao.com/trending/7677519846078726154/"
     },
     {
-      "id": "evt-75000000",
-      "title": "如何评价耗资 750 万投资的影游《恶校游戏》仅回血 50 万，发售 1 周后制作组宣布解散？",
+      "id": "evt-16000000",
+      "title": "埃及的阵风将对阵歼-16？博主解读",
       "category": "society",
-      "hotScore": 0.675,
-      "freshness": 0.9999,
-      "crossSource": 0.6309,
-      "totalScore": 0.7592,
+      "hotScore": 0.68,
+      "freshness": 1,
+      "crossSource": 1,
+      "totalScore": 0.872,
+      "sources": [
+        {
+          "channel": "toutiao",
+          "rank": 5,
+          "hot": 16367191,
+          "url": "https://www.toutiao.com/trending/7677814682958171684/"
+        }
+      ],
+      "summary": "",
+      "url": "https://www.toutiao.com/trending/7677814682958171684/"
+    },
+    {
+      "id": "evt-90000000",
+      "title": "9月工资发放时间金额或有变化",
+      "category": "society",
+      "hotScore": 0.6375,
+      "freshness": 1,
+      "crossSource": 1,
+      "totalScore": 0.855,
+      "sources": [
+        {
+          "channel": "toutiao",
+          "rank": 6,
+          "hot": 14809646,
+          "url": "https://www.toutiao.com/trending/7677778966694019630/"
+        }
+      ],
+      "summary": "",
+      "url": "https://www.toutiao.com/trending/7677778966694019630/"
+    },
+    {
+      "id": "evt-20260000",
+      "title": "如何评价 2026 年科隆游戏展「最佳移动游戏」五项提名被国产游戏包揽？谁最有可能最终获奖？",
+      "category": "society",
+      "hotScore": 0.6375,
+      "freshness": 1,
+      "crossSource": 1,
+      "totalScore": 0.855,
       "sources": [
         {
           "channel": "zhihu",
-          "rank": 3,
+          "rank": 4,
           "hot": 0,
           "url": ""
         }
@@ -107,8 +145,8 @@
       "category": "society",
       "hotScore": 0.6375,
       "freshness": 1,
-      "crossSource": 0.6309,
-      "totalScore": 0.7443,
+      "crossSource": 1,
+      "totalScore": 0.855,
       "sources": [
         {
           "channel": "thepaper",
@@ -121,80 +159,80 @@
       "url": "https://www.thepaper.cn/newsDetail_forward_33840219"
     },
     {
-      "id": "evt-90000000",
-      "title": "9月工资发放时间金额或有变化",
-      "category": "society",
-      "hotScore": 0.6375,
-      "freshness": 0.9999,
-      "crossSource": 0.6309,
-      "totalScore": 0.7442,
-      "sources": [
-        {
-          "channel": "toutiao",
-          "rank": 6,
-          "hot": 12132551,
-          "url": "https://www.toutiao.com/trending/7677778966694019630/"
-        }
-      ],
-      "summary": "",
-      "url": "https://www.toutiao.com/trending/7677778966694019630/"
-    },
-    {
-      "id": "evt-ai000000",
-      "title": "戚薇授权AI短剧 观众为什么坐不住了",
+      "id": "evt-50000000",
+      "title": "大众汽车拟裁员5万人 史上最大重组",
       "category": "society",
       "hotScore": 0.6,
       "freshness": 1,
-      "crossSource": 0.6309,
-      "totalScore": 0.7293,
+      "crossSource": 1,
+      "totalScore": 0.84,
       "sources": [
         {
           "channel": "baidu",
           "rank": 6,
           "hot": 0,
-          "url": "https://m.baidu.com/s?word=%E6%88%9A%E8%96%87%E6%8E%88%E6%9D%83AI%E7%9F%AD%E5%89%A7+%E8%A7%82%E4%BC%97%E4%B8%BA%E4%BB%80%E4%B9%88%E5%9D%90%E4%B8%8D%E4%BD%8F%E4%BA%86&sa=fyb_news"
+          "url": "https://m.baidu.com/s?word=%E5%A4%A7%E4%BC%97%E6%B1%BD%E8%BD%A6%E6%8B%9F%E8%A3%81%E5%91%985%E4%B8%87%E4%BA%BA+%E5%8F%B2%E4%B8%8A%E6%9C%80%E5%A4%A7%E9%87%8D%E7%BB%84&sa=fyb_news"
         }
       ],
       "summary": "",
-      "url": "https://m.baidu.com/s?word=%E6%88%9A%E8%96%87%E6%8E%88%E6%9D%83AI%E7%9F%AD%E5%89%A7+%E8%A7%82%E4%BC%97%E4%B8%BA%E4%BB%80%E4%B9%88%E5%9D%90%E4%B8%8D%E4%BD%8F%E4%BA%86&sa=fyb_news"
-    },
-    {
-      "id": "evt-16000000",
-      "title": "埃及的阵风将对阵歼-16？博主解读",
-      "category": "society",
-      "hotScore": 0.5525,
-      "freshness": 0.9999,
-      "crossSource": 0.6309,
-      "totalScore": 0.7102,
-      "sources": [
-        {
-          "channel": "toutiao",
-          "rank": 8,
-          "hot": 9933293,
-          "url": "https://www.toutiao.com/trending/7677814682958171684/"
-        }
-      ],
-      "summary": "",
-      "url": "https://www.toutiao.com/trending/7677814682958171684/"
+      "url": "https://m.baidu.com/s?word=%E5%A4%A7%E4%BC%97%E6%B1%BD%E8%BD%A6%E6%8B%9F%E8%A3%81%E5%91%985%E4%B8%87%E4%BA%BA+%E5%8F%B2%E4%B8%8A%E6%9C%80%E5%A4%A7%E9%87%8D%E7%BB%84&sa=fyb_news"
     },
     {
       "id": "evt-59910000",
       "title": "花599元买洞洞鞋 穿1个月鞋底磨平",
       "category": "society",
-      "hotScore": 0.44,
+      "hotScore": 0.52,
       "freshness": 1,
-      "crossSource": 0.6309,
-      "totalScore": 0.6653,
+      "crossSource": 1,
+      "totalScore": 0.808,
       "sources": [
         {
           "channel": "baidu",
-          "rank": 10,
+          "rank": 8,
           "hot": 0,
           "url": "https://m.baidu.com/s?word=%E8%8A%B1599%E5%85%83%E4%B9%B0%E6%B4%9E%E6%B4%9E%E9%9E%8B+%E7%A9%BF1%E4%B8%AA%E6%9C%88%E9%9E%8B%E5%BA%95%E7%A3%A8%E5%B9%B3&sa=fyb_news"
         }
       ],
       "summary": "",
       "url": "https://m.baidu.com/s?word=%E8%8A%B1599%E5%85%83%E4%B9%B0%E6%B4%9E%E6%B4%9E%E9%9E%8B+%E7%A9%BF1%E4%B8%AA%E6%9C%88%E9%9E%8B%E5%BA%95%E7%A3%A8%E5%B9%B3&sa=fyb_news"
+    },
+    {
+      "id": "evt-97000000",
+      "title": "华为新品发布会定档9月7日",
+      "category": "society",
+      "hotScore": 0.51,
+      "freshness": 1,
+      "crossSource": 1,
+      "totalScore": 0.804,
+      "sources": [
+        {
+          "channel": "toutiao",
+          "rank": 9,
+          "hot": 10971256,
+          "url": "https://www.toutiao.com/trending/7677609540397285418/"
+        }
+      ],
+      "summary": "",
+      "url": "https://www.toutiao.com/trending/7677609540397285418/"
+    },
+    {
+      "id": "evt-10000000",
+      "title": "网售新型避责术曝光：“100%蚕丝衫”无蚕丝，售假者玩“店铺矩阵”规避监管",
+      "category": "society",
+      "hotScore": 0.51,
+      "freshness": 1,
+      "crossSource": 1,
+      "totalScore": 0.804,
+      "sources": [
+        {
+          "channel": "thepaper",
+          "rank": 9,
+          "hot": 0,
+          "url": "https://www.thepaper.cn/newsDetail_forward_33840657"
+        }
+      ],
+      "summary": "",
+      "url": "https://www.thepaper.cn/newsDetail_forward_33840657"
     }
   ]
 }
