@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-08-25T08:30:01.649Z",
+  "generatedAt": "2026-08-25T10:21:13.225Z",
   "fields": {
     "society": "社会",
     "economy": "经济",
@@ -10,72 +10,78 @@
       "id": "evt-12000000",
       "title": "女子称家中水改后12天用了400吨水",
       "category": "society",
-      "hotScore": 0.85,
-      "freshness": 1,
+      "hotScore": 0.6375,
+      "freshness": 0.9999,
       "crossSource": 1,
-      "totalScore": 0.94,
+      "totalScore": 0.855,
       "sources": [
         {
           "channel": "toutiao",
-          "rank": 1,
-          "hot": 24416979,
+          "rank": 6,
+          "hot": 15897777,
           "url": "https://www.toutiao.com/trending/7677766723621502995/"
+        },
+        {
+          "channel": "baidu",
+          "rank": 14,
+          "hot": 0,
+          "url": "https://m.baidu.com/s?word=%E5%A5%B3%E5%AD%90%E7%A7%B0%E5%AE%B6%E4%B8%AD%E6%B0%B4%E6%94%B9%E5%90%8E12%E5%A4%A9%E7%94%A8%E4%BA%86400%E5%90%A8%E6%B0%B4&sa=fyb_news"
         }
       ],
       "summary": "",
       "url": "https://www.toutiao.com/trending/7677766723621502995/"
     },
     {
-      "id": "evt-00000000",
-      "title": "青岛崂山警方再通报“一女子在公园被男子辱骂”",
+      "id": "evt-80900000",
+      "title": "80、90、00后退休时间一览",
       "category": "society",
       "hotScore": 0.85,
-      "freshness": 1,
-      "crossSource": 1,
-      "totalScore": 0.94,
+      "freshness": 0.9999,
+      "crossSource": 0.6309,
+      "totalScore": 0.8292,
+      "sources": [
+        {
+          "channel": "toutiao",
+          "rank": 1,
+          "hot": 26211003,
+          "url": "https://www.toutiao.com/trending/7677752978062065670/"
+        }
+      ],
+      "summary": "",
+      "url": "https://www.toutiao.com/trending/7677752978062065670/"
+    },
+    {
+      "id": "evt-00000000",
+      "title": "对话中物联冷链委专家：蔬菜冷链运输综合成本比常温高30%~50%，但损耗率极低",
+      "category": "society",
+      "hotScore": 0.85,
+      "freshness": 0.9999,
+      "crossSource": 0.6309,
+      "totalScore": 0.8292,
       "sources": [
         {
           "channel": "thepaper",
           "rank": 1,
           "hot": 0,
-          "url": "https://www.thepaper.cn/newsDetail_forward_33840951"
+          "url": "https://www.thepaper.cn/newsDetail_forward_33839647"
         }
       ],
       "summary": "",
-      "url": "https://www.thepaper.cn/newsDetail_forward_33840951"
-    },
-    {
-      "id": "evt-30000000",
-      "title": "新加坡未来每名孩童可获32万元补助",
-      "category": "society",
-      "hotScore": 0.8075,
-      "freshness": 1,
-      "crossSource": 1,
-      "totalScore": 0.923,
-      "sources": [
-        {
-          "channel": "toutiao",
-          "rank": 2,
-          "hot": 22093397,
-          "url": "https://www.toutiao.com/trending/7677411691894669375/"
-        }
-      ],
-      "summary": "",
-      "url": "https://www.toutiao.com/trending/7677411691894669375/"
+      "url": "https://www.thepaper.cn/newsDetail_forward_33839647"
     },
     {
       "id": "evt-70000000",
       "title": "前7月我国交通运输主要指标保持增长",
       "category": "society",
       "hotScore": 0.765,
-      "freshness": 1,
-      "crossSource": 1,
-      "totalScore": 0.906,
+      "freshness": 0.9999,
+      "crossSource": 0.6309,
+      "totalScore": 0.7952,
       "sources": [
         {
           "channel": "toutiao",
           "rank": 3,
-          "hot": 19990932,
+          "hot": 21459754,
           "url": "https://www.toutiao.com/trending/7677519846078726154/"
         }
       ],
@@ -83,51 +89,70 @@
       "url": "https://www.toutiao.com/trending/7677519846078726154/"
     },
     {
-      "id": "evt-16000000",
-      "title": "埃及的阵风将对阵歼-16？博主解读",
+      "id": "evt-app00000",
+      "title": "多款APP被通报",
+      "category": "society",
+      "hotScore": 0.76,
+      "freshness": 1,
+      "crossSource": 0.6309,
+      "totalScore": 0.7933,
+      "sources": [
+        {
+          "channel": "baidu",
+          "rank": 2,
+          "hot": 0,
+          "url": "https://m.baidu.com/s?word=%E5%A4%9A%E6%AC%BEAPP%E8%A2%AB%E9%80%9A%E6%8A%A5&sa=fyb_news"
+        }
+      ],
+      "summary": "",
+      "url": "https://m.baidu.com/s?word=%E5%A4%9A%E6%AC%BEAPP%E8%A2%AB%E9%80%9A%E6%8A%A5&sa=fyb_news"
+    },
+    {
+      "id": "evt-26000000",
+      "title": "北京2.6亿元四合院流拍",
       "category": "society",
       "hotScore": 0.68,
-      "freshness": 1,
-      "crossSource": 1,
-      "totalScore": 0.872,
+      "freshness": 0.9999,
+      "crossSource": 0.6309,
+      "totalScore": 0.7612,
       "sources": [
         {
           "channel": "toutiao",
           "rank": 5,
-          "hot": 16367191,
-          "url": "https://www.toutiao.com/trending/7677814682958171684/"
+          "hot": 17569761,
+          "url": "https://www.toutiao.com/trending/7677857707513987098/"
         }
       ],
       "summary": "",
-      "url": "https://www.toutiao.com/trending/7677814682958171684/"
+      "url": "https://www.toutiao.com/trending/7677857707513987098/"
     },
     {
-      "id": "evt-90000000",
-      "title": "9月工资发放时间金额或有变化",
+      "id": "evt-10000000",
+      "title": "网售新型避责术曝光：“100%蚕丝衫”无蚕丝，售假者玩“店铺矩阵”规避监管",
       "category": "society",
-      "hotScore": 0.6375,
-      "freshness": 1,
-      "crossSource": 1,
-      "totalScore": 0.855,
+      "hotScore": 0.68,
+      "freshness": 0.9999,
+      "crossSource": 0.6309,
+      "totalScore": 0.7612,
       "sources": [
         {
-          "channel": "toutiao",
-          "rank": 6,
-          "hot": 14809646,
-          "url": "https://www.toutiao.com/trending/7677778966694019630/"
+          "channel": "thepaper",
+          "rank": 5,
+          "hot": 0,
+          "url": "https://www.thepaper.cn/newsDetail_forward_33840657"
         }
       ],
       "summary": "",
-      "url": "https://www.toutiao.com/trending/7677778966694019630/"
+      "url": "https://www.thepaper.cn/newsDetail_forward_33840657"
     },
     {
       "id": "evt-20260000",
       "title": "如何评价 2026 年科隆游戏展「最佳移动游戏」五项提名被国产游戏包揽？谁最有可能最终获奖？",
       "category": "society",
       "hotScore": 0.6375,
-      "freshness": 1,
-      "crossSource": 1,
-      "totalScore": 0.855,
+      "freshness": 0.9999,
+      "crossSource": 0.6309,
+      "totalScore": 0.7442,
       "sources": [
         {
           "channel": "zhihu",
@@ -140,99 +165,99 @@
       "url": ""
     },
     {
-      "id": "evt-31950000",
-      "title": "受贿3195万余元，北京大学原副校长任羽中一审被判8年",
-      "category": "society",
-      "hotScore": 0.6375,
-      "freshness": 1,
-      "crossSource": 1,
-      "totalScore": 0.855,
-      "sources": [
-        {
-          "channel": "thepaper",
-          "rank": 6,
-          "hot": 0,
-          "url": "https://www.thepaper.cn/newsDetail_forward_33840219"
-        }
-      ],
-      "summary": "",
-      "url": "https://www.thepaper.cn/newsDetail_forward_33840219"
-    },
-    {
-      "id": "evt-50000000",
-      "title": "大众汽车拟裁员5万人 史上最大重组",
+      "id": "evt-32000000",
+      "title": "吃一顿方便面需要花32天解毒？真的吗",
       "category": "society",
       "hotScore": 0.6,
       "freshness": 1,
-      "crossSource": 1,
-      "totalScore": 0.84,
+      "crossSource": 0.6309,
+      "totalScore": 0.7293,
       "sources": [
         {
           "channel": "baidu",
           "rank": 6,
           "hot": 0,
-          "url": "https://m.baidu.com/s?word=%E5%A4%A7%E4%BC%97%E6%B1%BD%E8%BD%A6%E6%8B%9F%E8%A3%81%E5%91%985%E4%B8%87%E4%BA%BA+%E5%8F%B2%E4%B8%8A%E6%9C%80%E5%A4%A7%E9%87%8D%E7%BB%84&sa=fyb_news"
+          "url": "https://m.baidu.com/s?word=%E5%90%83%E4%B8%80%E9%A1%BF%E6%96%B9%E4%BE%BF%E9%9D%A2%E9%9C%80%E8%A6%81%E8%8A%B132%E5%A4%A9%E8%A7%A3%E6%AF%92%EF%BC%9F%E7%9C%9F%E7%9A%84%E5%90%97&sa=fyb_news"
         }
       ],
       "summary": "",
-      "url": "https://m.baidu.com/s?word=%E5%A4%A7%E4%BC%97%E6%B1%BD%E8%BD%A6%E6%8B%9F%E8%A3%81%E5%91%985%E4%B8%87%E4%BA%BA+%E5%8F%B2%E4%B8%8A%E6%9C%80%E5%A4%A7%E9%87%8D%E7%BB%84&sa=fyb_news"
+      "url": "https://m.baidu.com/s?word=%E5%90%83%E4%B8%80%E9%A1%BF%E6%96%B9%E4%BE%BF%E9%9D%A2%E9%9C%80%E8%A6%81%E8%8A%B132%E5%A4%A9%E8%A7%A3%E6%AF%92%EF%BC%9F%E7%9C%9F%E7%9A%84%E5%90%97&sa=fyb_news"
     },
     {
-      "id": "evt-59910000",
-      "title": "花599元买洞洞鞋 穿1个月鞋底磨平",
+      "id": "evt-80000000",
+      "title": "比特币突破8万美元 加密货币涨势加速",
       "category": "society",
-      "hotScore": 0.52,
-      "freshness": 1,
-      "crossSource": 1,
-      "totalScore": 0.808,
+      "hotScore": 0.5525,
+      "freshness": 0.9999,
+      "crossSource": 0.6309,
+      "totalScore": 0.7102,
       "sources": [
         {
-          "channel": "baidu",
+          "channel": "toutiao",
           "rank": 8,
-          "hot": 0,
-          "url": "https://m.baidu.com/s?word=%E8%8A%B1599%E5%85%83%E4%B9%B0%E6%B4%9E%E6%B4%9E%E9%9E%8B+%E7%A9%BF1%E4%B8%AA%E6%9C%88%E9%9E%8B%E5%BA%95%E7%A3%A8%E5%B9%B3&sa=fyb_news"
+          "hot": 13015999,
+          "url": "https://www.toutiao.com/trending/7677845199539782153/"
         }
       ],
       "summary": "",
-      "url": "https://m.baidu.com/s?word=%E8%8A%B1599%E5%85%83%E4%B9%B0%E6%B4%9E%E6%B4%9E%E9%9E%8B+%E7%A9%BF1%E4%B8%AA%E6%9C%88%E9%9E%8B%E5%BA%95%E7%A3%A8%E5%B9%B3&sa=fyb_news"
+      "url": "https://www.toutiao.com/trending/7677845199539782153/"
     },
     {
-      "id": "evt-97000000",
-      "title": "华为新品发布会定档9月7日",
+      "id": "evt-19000000",
+      "title": "19岁娃娃音女列车员说声音是天生的",
       "category": "society",
       "hotScore": 0.51,
-      "freshness": 1,
-      "crossSource": 1,
-      "totalScore": 0.804,
+      "freshness": 0.9999,
+      "crossSource": 0.6309,
+      "totalScore": 0.6932,
       "sources": [
         {
           "channel": "toutiao",
           "rank": 9,
-          "hot": 10971256,
-          "url": "https://www.toutiao.com/trending/7677609540397285418/"
+          "hot": 11777363,
+          "url": "https://www.toutiao.com/trending/7677871067079344138/"
         }
       ],
       "summary": "",
-      "url": "https://www.toutiao.com/trending/7677609540397285418/"
+      "url": "https://www.toutiao.com/trending/7677871067079344138/"
     },
     {
-      "id": "evt-10000000",
-      "title": "网售新型避责术曝光：“100%蚕丝衫”无蚕丝，售假者玩“店铺矩阵”规避监管",
+      "id": "evt-16000000",
+      "title": "歼-16和阵风战机相比有何优势",
       "category": "society",
-      "hotScore": 0.51,
-      "freshness": 1,
-      "crossSource": 1,
-      "totalScore": 0.804,
+      "hotScore": 0.4675,
+      "freshness": 0.9999,
+      "crossSource": 0.6309,
+      "totalScore": 0.6762,
+      "sources": [
+        {
+          "channel": "toutiao",
+          "rank": 10,
+          "hot": 10656598,
+          "url": "https://www.toutiao.com/trending/7677896044536925732/"
+        }
+      ],
+      "summary": "",
+      "url": "https://www.toutiao.com/trending/7677896044536925732/"
+    },
+    {
+      "id": "evt-20262000",
+      "title": "2026鲁迅文学周丨2005年后出生的人如何理解鲁迅？",
+      "category": "society",
+      "hotScore": 0.4675,
+      "freshness": 0.9999,
+      "crossSource": 0.6309,
+      "totalScore": 0.6762,
       "sources": [
         {
           "channel": "thepaper",
-          "rank": 9,
+          "rank": 10,
           "hot": 0,
-          "url": "https://www.thepaper.cn/newsDetail_forward_33840657"
+          "url": "https://www.thepaper.cn/newsDetail_forward_33840474"
         }
       ],
       "summary": "",
-      "url": "https://www.thepaper.cn/newsDetail_forward_33840657"
+      "url": "https://www.thepaper.cn/newsDetail_forward_33840474"
     }
   ]
 }
