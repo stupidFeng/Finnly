@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-08-25T02:50:31.729Z",
+  "generatedAt": "2026-08-25T04:29:10.756Z",
   "fields": {
     "society": "社会",
     "economy": "经济",
@@ -8,35 +8,79 @@
   "feed": [
     {
       "id": "evt-00000000",
-      "title": "央媒评扶老人被索赔：法律不能和稀泥",
+      "title": "“扶老人被索赔”事件 完整监控视频",
+      "category": "society",
+      "hotScore": 0.595,
+      "freshness": 1,
+      "crossSource": 1,
+      "totalScore": 0.838,
+      "sources": [
+        {
+          "channel": "toutiao",
+          "rank": 7,
+          "hot": 17552728,
+          "url": "https://www.toutiao.com/trending/7677797941087637002/"
+        },
+        {
+          "channel": "baidu",
+          "rank": 18,
+          "hot": 0,
+          "url": "https://m.baidu.com/s?word=%E2%80%9C%E6%89%B6%E8%80%81%E4%BA%BA%E8%A2%AB%E7%B4%A2%E8%B5%94%E2%80%9D%E4%BA%8B%E4%BB%B6+%E5%AE%8C%E6%95%B4%E7%9B%91%E6%8E%A7%E8%A7%86%E9%A2%91&sa=fyb_news"
+        }
+      ],
+      "summary": "",
+      "url": "https://www.toutiao.com/trending/7677797941087637002/"
+    },
+    {
+      "id": "evt-19000000",
+      "title": "扶老人被索赔店家1.9万获全额返还",
       "category": "society",
       "hotScore": 0.85,
-      "freshness": 0.9999,
+      "freshness": 1,
       "crossSource": 0.6309,
       "totalScore": 0.8293,
       "sources": [
         {
           "channel": "toutiao",
           "rank": 1,
-          "hot": 26347987,
-          "url": "https://www.toutiao.com/trending/7677511845232459782/"
+          "hot": 31983157,
+          "url": "https://www.toutiao.com/trending/7677595939521560612/"
         }
       ],
       "summary": "",
-      "url": "https://www.toutiao.com/trending/7677511845232459782/"
+      "url": "https://www.toutiao.com/trending/7677595939521560612/"
+    },
+    {
+      "id": "evt-10000000",
+      "title": "扶老人被索赔店主支付的1.9万获返还",
+      "category": "society",
+      "hotScore": 0.76,
+      "freshness": 1,
+      "crossSource": 0.6309,
+      "totalScore": 0.7933,
+      "sources": [
+        {
+          "channel": "baidu",
+          "rank": 2,
+          "hot": 0,
+          "url": "https://m.baidu.com/s?word=%E6%89%B6%E8%80%81%E4%BA%BA%E8%A2%AB%E7%B4%A2%E8%B5%94%E5%BA%97%E4%B8%BB%E6%94%AF%E4%BB%98%E7%9A%841.9%E4%B8%87%E8%8E%B7%E8%BF%94%E8%BF%98&sa=fyb_news"
+        }
+      ],
+      "summary": "",
+      "url": "https://m.baidu.com/s?word=%E6%89%B6%E8%80%81%E4%BA%BA%E8%A2%AB%E7%B4%A2%E8%B5%94%E5%BA%97%E4%B8%BB%E6%94%AF%E4%BB%98%E7%9A%841.9%E4%B8%87%E8%8E%B7%E8%BF%94%E8%BF%98&sa=fyb_news"
     },
     {
       "id": "evt-75000000",
       "title": "如何评价耗资 750 万投资的影游《恶校游戏》仅回血 50 万，发售 1 周后制作组宣布解散？",
       "category": "society",
-      "hotScore": 0.675,
+      "hotScore": 0.7125,
       "freshness": 1,
       "crossSource": 0.6309,
-      "totalScore": 0.7593,
+      "totalScore": 0.7743,
       "sources": [
         {
           "channel": "zhihu",
-          "rank": 3,
+          "rank": 2,
           "hot": 0,
           "url": ""
         }
@@ -45,29 +89,61 @@
       "url": ""
     },
     {
-      "id": "evt-15000000",
-      "title": "中美1.5轨对话今天在北京举行",
+      "id": "evt-ai100000",
+      "title": "AI短剧《非妖哉》导演：1集成本1万",
       "category": "society",
-      "hotScore": 0.3825,
-      "freshness": 0.9999,
-      "crossSource": 1,
-      "totalScore": 0.753,
+      "hotScore": 0.64,
+      "freshness": 1,
+      "crossSource": 0.6309,
+      "totalScore": 0.7453,
       "sources": [
         {
-          "channel": "toutiao",
-          "rank": 12,
-          "hot": 8770483,
-          "url": "https://www.toutiao.com/trending/7677555572066467866/"
-        },
-        {
           "channel": "baidu",
-          "rank": 14,
+          "rank": 5,
           "hot": 0,
-          "url": "https://m.baidu.com/s?word=%E4%B8%AD%E7%BE%8E1.5%E8%BD%A8%E5%AF%B9%E8%AF%9D%E4%BB%8A%E5%A4%A9%E5%9C%A8%E5%8C%97%E4%BA%AC%E4%B8%BE%E8%A1%8C&sa=fyb_news"
+          "url": "https://m.baidu.com/s?word=AI%E7%9F%AD%E5%89%A7%E3%80%8A%E9%9D%9E%E5%A6%96%E5%93%89%E3%80%8B%E5%AF%BC%E6%BC%94%EF%BC%9A1%E9%9B%86%E6%88%90%E6%9C%AC1%E4%B8%87&sa=fyb_news"
         }
       ],
       "summary": "",
-      "url": "https://www.toutiao.com/trending/7677555572066467866/"
+      "url": "https://m.baidu.com/s?word=AI%E7%9F%AD%E5%89%A7%E3%80%8A%E9%9D%9E%E5%A6%96%E5%93%89%E3%80%8B%E5%AF%BC%E6%BC%94%EF%BC%9A1%E9%9B%86%E6%88%90%E6%9C%AC1%E4%B8%87&sa=fyb_news"
+    },
+    {
+      "id": "evt-90000000",
+      "title": "9月工资发放时间金额或有变化",
+      "category": "society",
+      "hotScore": 0.6375,
+      "freshness": 1,
+      "crossSource": 0.6309,
+      "totalScore": 0.7443,
+      "sources": [
+        {
+          "channel": "toutiao",
+          "rank": 6,
+          "hot": 19398765,
+          "url": "https://www.toutiao.com/trending/7677778966694019630/"
+        }
+      ],
+      "summary": "",
+      "url": "https://www.toutiao.com/trending/7677778966694019630/"
+    },
+    {
+      "id": "evt-ai000000",
+      "title": "字节办公 AI 产品「豆包工作」正式发布，将 TRAE 、扣子并入豆包，如何看待这次调整？整合后会更好用吗？",
+      "category": "society",
+      "hotScore": 0.6,
+      "freshness": 1,
+      "crossSource": 0.6309,
+      "totalScore": 0.7293,
+      "sources": [
+        {
+          "channel": "zhihu",
+          "rank": 5,
+          "hot": 0,
+          "url": ""
+        }
+      ],
+      "summary": "",
+      "url": ""
     },
     {
       "id": "evt-31950000",
@@ -89,42 +165,23 @@
       "url": "https://www.thepaper.cn/newsDetail_forward_33840219"
     },
     {
-      "id": "evt-aim42400",
-      "title": "美军公开 AIM-424 超远程空空导弹，将如何改变未来空战模式？",
+      "id": "evt-40000000",
+      "title": "二婚夫妇意外去世 4个子女争遗产",
       "category": "society",
-      "hotScore": 0.5625,
+      "hotScore": 0.425,
       "freshness": 1,
       "crossSource": 0.6309,
-      "totalScore": 0.7143,
-      "sources": [
-        {
-          "channel": "zhihu",
-          "rank": 6,
-          "hot": 0,
-          "url": ""
-        }
-      ],
-      "summary": "",
-      "url": ""
-    },
-    {
-      "id": "evt-19000000",
-      "title": "大学生1.9万买电脑遇涨价2月没发货",
-      "category": "society",
-      "hotScore": 0.51,
-      "freshness": 0.9999,
-      "crossSource": 0.6309,
-      "totalScore": 0.6933,
+      "totalScore": 0.6593,
       "sources": [
         {
           "channel": "toutiao",
-          "rank": 9,
-          "hot": 11838913,
-          "url": "https://www.toutiao.com/trending/7677567393573404681/"
+          "rank": 11,
+          "hot": 11765945,
+          "url": "https://www.toutiao.com/trending/7677609166010220580/"
         }
       ],
       "summary": "",
-      "url": "https://www.toutiao.com/trending/7677567393573404681/"
+      "url": "https://www.toutiao.com/trending/7677609166010220580/"
     }
   ]
 }
