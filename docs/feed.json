@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-08-25T12:26:24.837Z",
+  "generatedAt": "2026-08-25T14:34:14.878Z",
   "fields": {
     "society": "社会",
     "economy": "经济",
@@ -8,79 +8,60 @@
   "feed": [
     {
       "id": "evt-00000000",
-      "title": "官方：征集火箭军部队违规采购问题",
+      "title": "外国游客对台警察说“你是中国人”",
       "category": "society",
-      "hotScore": 0.85,
-      "freshness": 0.9999,
+      "hotScore": 0.72,
+      "freshness": 1,
       "crossSource": 1,
-      "totalScore": 0.94,
+      "totalScore": 0.888,
       "sources": [
         {
           "channel": "toutiao",
-          "rank": 1,
-          "hot": 26604879,
-          "url": "https://www.toutiao.com/trending/7677908770965425670/"
+          "rank": 20,
+          "hot": 2804575,
+          "url": "https://www.toutiao.com/trending/7677900644161782282/"
         },
+        {
+          "channel": "baidu",
+          "rank": 3,
+          "hot": 0,
+          "url": "https://m.baidu.com/s?word=%E5%A4%96%E5%9B%BD%E6%B8%B8%E5%AE%A2%E5%AF%B9%E5%8F%B0%E8%AD%A6%E5%AF%9F%E8%AF%B4%E2%80%9C%E4%BD%A0%E6%98%AF%E4%B8%AD%E5%9B%BD%E4%BA%BA%E2%80%9D&sa=fyb_news"
+        }
+      ],
+      "summary": "",
+      "url": "https://www.toutiao.com/trending/7677900644161782282/"
+    },
+    {
+      "id": "evt-25000000",
+      "title": "在韩失联25岁中国女生已遇害",
+      "category": "society",
+      "hotScore": 0.76,
+      "freshness": 1,
+      "crossSource": 0.6309,
+      "totalScore": 0.7933,
+      "sources": [
         {
           "channel": "baidu",
           "rank": 2,
           "hot": 0,
-          "url": "https://m.baidu.com/s?word=%E5%AE%98%E6%96%B9%EF%BC%9A%E5%BE%81%E9%9B%86%E7%81%AB%E7%AE%AD%E5%86%9B%E9%83%A8%E9%98%9F%E8%BF%9D%E8%A7%84%E9%87%87%E8%B4%AD%E9%97%AE%E9%A2%98&sa=fyb_news"
+          "url": "https://m.baidu.com/s?word=%E5%9C%A8%E9%9F%A9%E5%A4%B1%E8%81%9425%E5%B2%81%E4%B8%AD%E5%9B%BD%E5%A5%B3%E7%94%9F%E5%B7%B2%E9%81%87%E5%AE%B3&sa=fyb_news"
         }
       ],
       "summary": "",
-      "url": "https://www.toutiao.com/trending/7677908770965425670/"
-    },
-    {
-      "id": "evt-60000000",
-      "title": "中国空军跨越6000公里参加联训，为何说意义非同一般",
-      "category": "society",
-      "hotScore": 0.8075,
-      "freshness": 1,
-      "crossSource": 0.6309,
-      "totalScore": 0.8123,
-      "sources": [
-        {
-          "channel": "thepaper",
-          "rank": 2,
-          "hot": 0,
-          "url": "https://www.thepaper.cn/newsDetail_forward_33840874"
-        }
-      ],
-      "summary": "",
-      "url": "https://www.thepaper.cn/newsDetail_forward_33840874"
-    },
-    {
-      "id": "evt-70000000",
-      "title": "前7月我国交通运输主要指标保持增长",
-      "category": "society",
-      "hotScore": 0.765,
-      "freshness": 0.9999,
-      "crossSource": 0.6309,
-      "totalScore": 0.7952,
-      "sources": [
-        {
-          "channel": "toutiao",
-          "rank": 3,
-          "hot": 21782232,
-          "url": "https://www.toutiao.com/trending/7677519846078726154/"
-        }
-      ],
-      "summary": "",
-      "url": "https://www.toutiao.com/trending/7677519846078726154/"
+      "url": "https://m.baidu.com/s?word=%E5%9C%A8%E9%9F%A9%E5%A4%B1%E8%81%9425%E5%B2%81%E4%B8%AD%E5%9B%BD%E5%A5%B3%E7%94%9F%E5%B7%B2%E9%81%87%E5%AE%B3&sa=fyb_news"
     },
     {
       "id": "evt-10000000",
       "title": "网售新型避责术曝光：“100%蚕丝衫”无蚕丝，售假者玩“店铺矩阵”规避监管",
       "category": "society",
-      "hotScore": 0.6375,
+      "hotScore": 0.7225,
       "freshness": 1,
       "crossSource": 0.6309,
-      "totalScore": 0.7443,
+      "totalScore": 0.7783,
       "sources": [
         {
           "channel": "thepaper",
-          "rank": 6,
+          "rank": 4,
           "hot": 0,
           "url": "https://www.thepaper.cn/newsDetail_forward_33840657"
         }
@@ -89,9 +70,9 @@
       "url": "https://www.thepaper.cn/newsDetail_forward_33840657"
     },
     {
-      "id": "evt-92700000",
-      "title": "钟睒睒捐出9.27亿市值公司股份",
-      "category": "economy",
+      "id": "evt-30000000",
+      "title": "30多国宣布：准备向乌克兰派兵",
+      "category": "society",
       "hotScore": 0.64,
       "freshness": 1,
       "crossSource": 0.6309,
@@ -101,44 +82,25 @@
           "channel": "baidu",
           "rank": 5,
           "hot": 0,
-          "url": "https://m.baidu.com/s?word=%E9%92%9F%E7%9D%92%E7%9D%92%E6%8D%90%E5%87%BA9.27%E4%BA%BF%E5%B8%82%E5%80%BC%E5%85%AC%E5%8F%B8%E8%82%A1%E4%BB%BD&sa=fyb_news"
+          "url": "https://m.baidu.com/s?word=30%E5%A4%9A%E5%9B%BD%E5%AE%A3%E5%B8%83%EF%BC%9A%E5%87%86%E5%A4%87%E5%90%91%E4%B9%8C%E5%85%8B%E5%85%B0%E6%B4%BE%E5%85%B5&sa=fyb_news"
         }
       ],
       "summary": "",
-      "url": "https://m.baidu.com/s?word=%E9%92%9F%E7%9D%92%E7%9D%92%E6%8D%90%E5%87%BA9.27%E4%BA%BF%E5%B8%82%E5%80%BC%E5%85%AC%E5%8F%B8%E8%82%A1%E4%BB%BD&sa=fyb_news"
-    },
-    {
-      "id": "evt-shein100",
-      "title": "Shein 上市估值从 1000 亿缩水到 270 亿美元，跨境电商快时尚的「黄金时代」是不是过去了？",
-      "category": "economy",
-      "hotScore": 0.45,
-      "freshness": 0.9999,
-      "crossSource": 0.6309,
-      "totalScore": 0.6693,
-      "sources": [
-        {
-          "channel": "zhihu",
-          "rank": 9,
-          "hot": 0,
-          "url": ""
-        }
-      ],
-      "summary": "",
-      "url": ""
+      "url": "https://m.baidu.com/s?word=30%E5%A4%9A%E5%9B%BD%E5%AE%A3%E5%B8%83%EF%BC%9A%E5%87%86%E5%A4%87%E5%90%91%E4%B9%8C%E5%85%8B%E5%85%B0%E6%B4%BE%E5%85%B5&sa=fyb_news"
     },
     {
       "id": "evt-80900000",
       "title": "80、90、00后退休时间一览",
       "category": "society",
-      "hotScore": 0.6375,
-      "freshness": 0.9999,
+      "hotScore": 0.5525,
+      "freshness": 1,
       "crossSource": 0.6309,
-      "totalScore": 0.7442,
+      "totalScore": 0.7103,
       "sources": [
         {
           "channel": "toutiao",
-          "rank": 6,
-          "hot": 16136675,
+          "rank": 8,
+          "hot": 9311519,
           "url": "https://www.toutiao.com/trending/7677752978062065670/"
         }
       ],
@@ -146,36 +108,36 @@
       "url": "https://www.toutiao.com/trending/7677752978062065670/"
     },
     {
-      "id": "evt-50000000",
-      "title": "50国发表反俄声明 美国未参与",
+      "id": "evt-20262000",
+      "title": "2026鲁迅文学周丨2005年后出生的人如何理解鲁迅？",
       "category": "society",
-      "hotScore": 0.6,
+      "hotScore": 0.5525,
       "freshness": 1,
       "crossSource": 0.6309,
-      "totalScore": 0.7293,
+      "totalScore": 0.7103,
       "sources": [
         {
-          "channel": "baidu",
-          "rank": 6,
+          "channel": "thepaper",
+          "rank": 8,
           "hot": 0,
-          "url": "https://m.baidu.com/s?word=50%E5%9B%BD%E5%8F%91%E8%A1%A8%E5%8F%8D%E4%BF%84%E5%A3%B0%E6%98%8E+%E7%BE%8E%E5%9B%BD%E6%9C%AA%E5%8F%82%E4%B8%8E&sa=fyb_news"
+          "url": "https://www.thepaper.cn/newsDetail_forward_33840474"
         }
       ],
       "summary": "",
-      "url": "https://m.baidu.com/s?word=50%E5%9B%BD%E5%8F%91%E8%A1%A8%E5%8F%8D%E4%BF%84%E5%A3%B0%E6%98%8E+%E7%BE%8E%E5%9B%BD%E6%9C%AA%E5%8F%82%E4%B8%8E&sa=fyb_news"
+      "url": "https://www.thepaper.cn/newsDetail_forward_33840474"
     },
     {
-      "id": "evt-20260000",
-      "title": "如何评价 2026 年科隆游戏展「最佳移动游戏」五项提名被国产游戏包揽？谁最有可能最终获奖？",
+      "id": "evt-ai000000",
+      "title": "大批 AI 博主集中停更，背后真实原因是什么，AI 内容赛道接下来会如何发展？",
       "category": "society",
-      "hotScore": 0.6,
-      "freshness": 0.9999,
+      "hotScore": 0.525,
+      "freshness": 1,
       "crossSource": 0.6309,
-      "totalScore": 0.7293,
+      "totalScore": 0.6993,
       "sources": [
         {
           "channel": "zhihu",
-          "rank": 5,
+          "rank": 7,
           "hot": 0,
           "url": ""
         }
@@ -184,42 +146,23 @@
       "url": ""
     },
     {
-      "id": "evt-88600000",
-      "title": "8.86秒！人形机器人百米再破纪录",
+      "id": "evt-20000000",
+      "title": "月薪2万因裁员焦虑 每天学到凌晨5点",
       "category": "society",
-      "hotScore": 0.48,
+      "hotScore": 0.52,
       "freshness": 1,
       "crossSource": 0.6309,
-      "totalScore": 0.6813,
+      "totalScore": 0.6973,
       "sources": [
         {
           "channel": "baidu",
-          "rank": 9,
+          "rank": 8,
           "hot": 0,
-          "url": "https://m.baidu.com/s?word=8.86%E7%A7%92%EF%BC%81%E4%BA%BA%E5%BD%A2%E6%9C%BA%E5%99%A8%E4%BA%BA%E7%99%BE%E7%B1%B3%E5%86%8D%E7%A0%B4%E7%BA%AA%E5%BD%95&sa=fyb_news"
+          "url": "https://m.baidu.com/s?word=%E6%9C%88%E8%96%AA2%E4%B8%87%E5%9B%A0%E8%A3%81%E5%91%98%E7%84%A6%E8%99%91+%E6%AF%8F%E5%A4%A9%E5%AD%A6%E5%88%B0%E5%87%8C%E6%99%A85%E7%82%B9&sa=fyb_news"
         }
       ],
       "summary": "",
-      "url": "https://m.baidu.com/s?word=8.86%E7%A7%92%EF%BC%81%E4%BA%BA%E5%BD%A2%E6%9C%BA%E5%99%A8%E4%BA%BA%E7%99%BE%E7%B1%B3%E5%86%8D%E7%A0%B4%E7%BA%AA%E5%BD%95&sa=fyb_news"
-    },
-    {
-      "id": "evt-20262000",
-      "title": "2026鲁迅文学周丨2005年后出生的人如何理解鲁迅？",
-      "category": "society",
-      "hotScore": 0.4675,
-      "freshness": 1,
-      "crossSource": 0.6309,
-      "totalScore": 0.6763,
-      "sources": [
-        {
-          "channel": "thepaper",
-          "rank": 10,
-          "hot": 0,
-          "url": "https://www.thepaper.cn/newsDetail_forward_33840474"
-        }
-      ],
-      "summary": "",
-      "url": "https://www.thepaper.cn/newsDetail_forward_33840474"
+      "url": "https://m.baidu.com/s?word=%E6%9C%88%E8%96%AA2%E4%B8%87%E5%9B%A0%E8%A3%81%E5%91%98%E7%84%A6%E8%99%91+%E6%AF%8F%E5%A4%A9%E5%AD%A6%E5%88%B0%E5%87%8C%E6%99%A85%E7%82%B9&sa=fyb_news"
     }
   ]
 }
