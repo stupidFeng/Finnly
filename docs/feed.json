@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-08-26T12:29:01.471Z",
+  "generatedAt": "2026-08-26T14:34:05.233Z",
   "fields": {
     "society": "社会",
     "economy": "经济",
@@ -7,23 +7,73 @@
   },
   "feed": [
     {
-      "id": "evt-50000000",
-      "title": "癌症疫苗预计近50万美元1针",
+      "id": "evt-97000000",
+      "title": "尼泊尔称已找到97具山洪遇难者遗体",
       "category": "society",
-      "hotScore": 0.76,
+      "hotScore": 0.8075,
       "freshness": 0.9999,
       "crossSource": 1,
-      "totalScore": 0.904,
+      "totalScore": 0.923,
       "sources": [
         {
           "channel": "toutiao",
+          "rank": 2,
+          "hot": 31899004,
+          "url": "https://www.toutiao.com/trending/7678291485267070514/"
+        },
+        {
+          "channel": "baidu",
           "rank": 5,
-          "hot": 16748247,
+          "hot": 0,
+          "url": "https://m.baidu.com/s?word=%E5%B0%BC%E6%B3%8A%E5%B0%94%E7%A7%B0%E5%B7%B2%E6%89%BE%E5%88%B097%E5%85%B7%E5%B1%B1%E6%B4%AA%E9%81%87%E9%9A%BE%E8%80%85%E9%81%97%E4%BD%93&sa=fyb_news"
+        }
+      ],
+      "summary": "",
+      "url": "https://www.toutiao.com/trending/7678291485267070514/"
+    },
+    {
+      "id": "evt-00000000",
+      "title": "上海体育局回应刘翔退役安置工作",
+      "category": "society",
+      "hotScore": 0.7225,
+      "freshness": 0.9999,
+      "crossSource": 1,
+      "totalScore": 0.889,
+      "sources": [
+        {
+          "channel": "toutiao",
+          "rank": 4,
+          "hot": 26116696,
+          "url": "https://www.toutiao.com/trending/7677572404999028786/"
+        },
+        {
+          "channel": "baidu",
+          "rank": 13,
+          "hot": 0,
+          "url": "https://m.baidu.com/s?word=%E4%B8%8A%E6%B5%B7%E4%BD%93%E8%82%B2%E5%B1%80%E5%9B%9E%E5%BA%94%E5%88%98%E7%BF%94%E9%80%80%E5%BD%B9%E5%AE%89%E7%BD%AE%E5%B7%A5%E4%BD%9C&sa=fyb_news"
+        }
+      ],
+      "summary": "",
+      "url": "https://www.toutiao.com/trending/7677572404999028786/"
+    },
+    {
+      "id": "evt-50000000",
+      "title": "癌症疫苗预计近50万美元1针",
+      "category": "society",
+      "hotScore": 0.5525,
+      "freshness": 0.9999,
+      "crossSource": 1,
+      "totalScore": 0.821,
+      "sources": [
+        {
+          "channel": "toutiao",
+          "rank": 8,
+          "hot": 17506545,
           "url": "https://www.toutiao.com/trending/7677088857683394603/"
         },
         {
           "channel": "baidu",
-          "rank": 2,
+          "rank": 17,
           "hot": 0,
           "url": "https://m.baidu.com/s?word=%E7%99%8C%E7%97%87%E7%96%AB%E8%8B%97%E9%A2%84%E8%AE%A1%E8%BF%9150%E4%B8%87%E7%BE%8E%E5%85%831%E9%92%88&sa=fyb_news"
         }
@@ -32,42 +82,42 @@
       "url": "https://www.toutiao.com/trending/7677088857683394603/"
     },
     {
-      "id": "evt-00000000",
-      "title": "泥石流致西藏吉隆重大人员伤亡失联",
+      "id": "evt-16pk0000",
+      "title": "视频丨歼-16PK“阵风”，中国新锐军机扎堆亮相非洲",
       "category": "society",
-      "hotScore": 0.85,
-      "freshness": 0.9999,
+      "hotScore": 0.765,
+      "freshness": 1,
       "crossSource": 0.6309,
-      "totalScore": 0.8293,
+      "totalScore": 0.7953,
       "sources": [
         {
-          "channel": "toutiao",
-          "rank": 1,
-          "hot": 24985449,
-          "url": "https://www.toutiao.com/trending/7678222410843243034/"
+          "channel": "thepaper",
+          "rank": 3,
+          "hot": 0,
+          "url": "https://www.thepaper.cn/newsDetail_forward_33847447"
         }
       ],
       "summary": "",
-      "url": "https://www.toutiao.com/trending/7678222410843243034/"
+      "url": "https://www.thepaper.cn/newsDetail_forward_33847447"
     },
     {
-      "id": "evt-16384000",
-      "title": "尼泊尔山洪致16死384名游客失联",
+      "id": "evt-82000000",
+      "title": "82岁中国老人在韩夺得跨栏世界冠军",
       "category": "society",
-      "hotScore": 0.7225,
+      "hotScore": 0.68,
       "freshness": 0.9999,
       "crossSource": 0.6309,
-      "totalScore": 0.7783,
+      "totalScore": 0.7613,
       "sources": [
         {
           "channel": "toutiao",
-          "rank": 4,
-          "hot": 18509675,
-          "url": "https://www.toutiao.com/trending/7678291485267070514/"
+          "rank": 5,
+          "hot": 23631364,
+          "url": "https://www.toutiao.com/trending/7678272334884700723/"
         }
       ],
       "summary": "",
-      "url": "https://www.toutiao.com/trending/7678291485267070514/"
+      "url": "https://www.toutiao.com/trending/7678272334884700723/"
     },
     {
       "id": "evt-80000000",
@@ -81,7 +131,7 @@
         {
           "channel": "toutiao",
           "rank": 12,
-          "hot": 8316933,
+          "hot": 11734988,
           "url": "https://www.toutiao.com/trending/7677197841206837258/"
         },
         {
@@ -95,8 +145,8 @@
       "url": "https://www.toutiao.com/trending/7677197841206837258/"
     },
     {
-      "id": "evt-16pk0000",
-      "title": "视频丨歼-16PK“阵风”，中国新锐军机扎堆亮相非洲",
+      "id": "evt-40500000",
+      "title": "405年历史的广西左江斜塔被洪水包围，景区：目前淹至第二层，水退后会有文物专家勘察",
       "category": "society",
       "hotScore": 0.6375,
       "freshness": 1,
@@ -107,11 +157,11 @@
           "channel": "thepaper",
           "rank": 6,
           "hot": 0,
-          "url": "https://www.thepaper.cn/newsDetail_forward_33847447"
+          "url": "https://www.thepaper.cn/newsDetail_forward_33852149"
         }
       ],
       "summary": "",
-      "url": "https://www.thepaper.cn/newsDetail_forward_33847447"
+      "url": "https://www.thepaper.cn/newsDetail_forward_33852149"
     },
     {
       "id": "evt-90000000",
@@ -125,7 +175,7 @@
         {
           "channel": "toutiao",
           "rank": 7,
-          "hot": 13712305,
+          "hot": 19347724,
           "url": "https://www.toutiao.com/trending/7678115105061634111/"
         }
       ],
@@ -133,46 +183,8 @@
       "url": "https://www.toutiao.com/trending/7678115105061634111/"
     },
     {
-      "id": "evt-16000000",
-      "title": "尼泊尔北部山洪致16死 数百游客失联",
-      "category": "society",
-      "hotScore": 0.56,
-      "freshness": 1,
-      "crossSource": 0.6309,
-      "totalScore": 0.7133,
-      "sources": [
-        {
-          "channel": "baidu",
-          "rank": 7,
-          "hot": 0,
-          "url": "https://m.baidu.com/s?word=%E5%B0%BC%E6%B3%8A%E5%B0%94%E5%8C%97%E9%83%A8%E5%B1%B1%E6%B4%AA%E8%87%B416%E6%AD%BB+%E6%95%B0%E7%99%BE%E6%B8%B8%E5%AE%A2%E5%A4%B1%E8%81%94&sa=fyb_news"
-        }
-      ],
-      "summary": "",
-      "url": "https://m.baidu.com/s?word=%E5%B0%BC%E6%B3%8A%E5%B0%94%E5%8C%97%E9%83%A8%E5%B1%B1%E6%B4%AA%E8%87%B416%E6%AD%BB+%E6%95%B0%E7%99%BE%E6%B8%B8%E5%AE%A2%E5%A4%B1%E8%81%94&sa=fyb_news"
-    },
-    {
-      "id": "evt-60000000",
-      "title": "俄罗斯火灾致中国公民6死9失联",
-      "category": "society",
-      "hotScore": 0.51,
-      "freshness": 0.9999,
-      "crossSource": 0.6309,
-      "totalScore": 0.6933,
-      "sources": [
-        {
-          "channel": "toutiao",
-          "rank": 9,
-          "hot": 11226685,
-          "url": "https://www.toutiao.com/trending/7678253212859633193/"
-        }
-      ],
-      "summary": "",
-      "url": "https://www.toutiao.com/trending/7678253212859633193/"
-    },
-    {
-      "id": "evt-vs000000",
-      "title": "赵心童vs霍金斯",
+      "id": "evt-deepsee0",
+      "title": "钟睒睒投了DeepSeek",
       "category": "society",
       "hotScore": 0.48,
       "freshness": 1,
@@ -183,25 +195,25 @@
           "channel": "baidu",
           "rank": 9,
           "hot": 0,
-          "url": "https://m.baidu.com/s?word=%E8%B5%B5%E5%BF%83%E7%AB%A5vs%E9%9C%8D%E9%87%91%E6%96%AF&sa=fyb_news"
+          "url": "https://m.baidu.com/s?word=%E9%92%9F%E7%9D%92%E7%9D%92%E6%8A%95%E4%BA%86DeepSeek&sa=fyb_news"
         }
       ],
       "summary": "",
-      "url": "https://m.baidu.com/s?word=%E8%B5%B5%E5%BF%83%E7%AB%A5vs%E9%9C%8D%E9%87%91%E6%96%AF&sa=fyb_news"
+      "url": "https://m.baidu.com/s?word=%E9%92%9F%E7%9D%92%E7%9D%92%E6%8A%95%E4%BA%86DeepSeek&sa=fyb_news"
     },
     {
       "id": "evt-30000000",
       "title": "三部门向西藏调拨3万件中央救灾物资",
       "category": "society",
-      "hotScore": 0.425,
+      "hotScore": 0.4675,
       "freshness": 0.9999,
       "crossSource": 0.6309,
-      "totalScore": 0.6593,
+      "totalScore": 0.6763,
       "sources": [
         {
           "channel": "toutiao",
-          "rank": 11,
-          "hot": 9191633,
+          "rank": 10,
+          "hot": 14333146,
           "url": "https://www.toutiao.com/trending/7678268094054891563/"
         }
       ],
