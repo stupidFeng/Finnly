@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-08-26T10:23:59.986Z",
+  "generatedAt": "2026-08-26T12:29:01.471Z",
   "fields": {
     "society": "社会",
     "economy": "经济",
@@ -7,48 +7,23 @@
   },
   "feed": [
     {
-      "id": "evt-00000000",
-      "title": "西藏吉隆县泥石流致重大人员伤亡失联",
-      "category": "society",
-      "hotScore": 0.85,
-      "freshness": 0.9999,
-      "crossSource": 1,
-      "totalScore": 0.94,
-      "sources": [
-        {
-          "channel": "toutiao",
-          "rank": 1,
-          "hot": 15361071,
-          "url": "https://www.toutiao.com/trending/7678222410843243034/"
-        },
-        {
-          "channel": "baidu",
-          "rank": 5,
-          "hot": 0,
-          "url": "https://m.baidu.com/s?word=%E8%A5%BF%E8%97%8F%E5%90%89%E9%9A%86%E5%8E%BF%E6%B3%A5%E7%9F%B3%E6%B5%81%E8%87%B4%E9%87%8D%E5%A4%A7%E4%BA%BA%E5%91%98%E4%BC%A4%E4%BA%A1%E5%A4%B1%E8%81%94&sa=fyb_news"
-        }
-      ],
-      "summary": "",
-      "url": "https://www.toutiao.com/trending/7678222410843243034/"
-    },
-    {
       "id": "evt-50000000",
       "title": "癌症疫苗预计近50万美元1针",
       "category": "society",
-      "hotScore": 0.68,
+      "hotScore": 0.76,
       "freshness": 0.9999,
       "crossSource": 1,
-      "totalScore": 0.872,
+      "totalScore": 0.904,
       "sources": [
         {
           "channel": "toutiao",
           "rank": 5,
-          "hot": 10296834,
+          "hot": 16748247,
           "url": "https://www.toutiao.com/trending/7677088857683394603/"
         },
         {
           "channel": "baidu",
-          "rank": 15,
+          "rank": 2,
           "hot": 0,
           "url": "https://m.baidu.com/s?word=%E7%99%8C%E7%97%87%E7%96%AB%E8%8B%97%E9%A2%84%E8%AE%A1%E8%BF%9150%E4%B8%87%E7%BE%8E%E5%85%831%E9%92%88&sa=fyb_news"
         }
@@ -57,89 +32,76 @@
       "url": "https://www.toutiao.com/trending/7677088857683394603/"
     },
     {
-      "id": "evt-20260000",
-      "title": "2026 国自然已经放榜，批准项目近 7 万项创历史新高，你的申请通过了吗？",
+      "id": "evt-00000000",
+      "title": "泥石流致西藏吉隆重大人员伤亡失联",
       "category": "society",
-      "hotScore": 0.675,
+      "hotScore": 0.85,
       "freshness": 0.9999,
       "crossSource": 0.6309,
-      "totalScore": 0.7592,
-      "sources": [
-        {
-          "channel": "zhihu",
-          "rank": 3,
-          "hot": 0,
-          "url": ""
-        }
-      ],
-      "summary": "",
-      "url": ""
-    },
-    {
-      "id": "evt-60000000",
-      "title": "俄罗斯火灾致中国公民6死9失联",
-      "category": "society",
-      "hotScore": 0.6375,
-      "freshness": 0.9999,
-      "crossSource": 0.6309,
-      "totalScore": 0.7442,
+      "totalScore": 0.8293,
       "sources": [
         {
           "channel": "toutiao",
-          "rank": 6,
-          "hot": 9316960,
-          "url": "https://www.toutiao.com/trending/7678253212859633193/"
+          "rank": 1,
+          "hot": 24985449,
+          "url": "https://www.toutiao.com/trending/7678222410843243034/"
         }
       ],
       "summary": "",
-      "url": "https://www.toutiao.com/trending/7678253212859633193/"
+      "url": "https://www.toutiao.com/trending/7678222410843243034/"
     },
     {
-      "id": "evt-20000000",
-      "title": "宇树科技市值缩水近2000亿",
-      "category": "economy",
-      "hotScore": 0.5525,
+      "id": "evt-16384000",
+      "title": "尼泊尔山洪致16死384名游客失联",
+      "category": "society",
+      "hotScore": 0.7225,
       "freshness": 0.9999,
       "crossSource": 0.6309,
-      "totalScore": 0.7102,
+      "totalScore": 0.7783,
       "sources": [
         {
           "channel": "toutiao",
-          "rank": 8,
-          "hot": 7628082,
-          "url": "https://www.toutiao.com/trending/7677419283135610890/"
-        }
-      ],
-      "summary": "",
-      "url": "https://www.toutiao.com/trending/7677419283135610890/"
-    },
-    {
-      "id": "evt-lks00000",
-      "title": "如何看待博主 -Lks- 的新视频《员工要陪老板演戏吗？我真去影视飓风上班了…》？",
-      "category": "society",
-      "hotScore": 0.6375,
-      "freshness": 0.9999,
-      "crossSource": 0.6309,
-      "totalScore": 0.7442,
-      "sources": [
-        {
-          "channel": "zhihu",
           "rank": 4,
-          "hot": 0,
-          "url": ""
+          "hot": 18509675,
+          "url": "https://www.toutiao.com/trending/7678291485267070514/"
         }
       ],
       "summary": "",
-      "url": ""
+      "url": "https://www.toutiao.com/trending/7678291485267070514/"
+    },
+    {
+      "id": "evt-80000000",
+      "title": "网传“8月新冠有变异毒株”不实",
+      "category": "society",
+      "hotScore": 0.3825,
+      "freshness": 0.9999,
+      "crossSource": 1,
+      "totalScore": 0.753,
+      "sources": [
+        {
+          "channel": "toutiao",
+          "rank": 12,
+          "hot": 8316933,
+          "url": "https://www.toutiao.com/trending/7677197841206837258/"
+        },
+        {
+          "channel": "baidu",
+          "rank": 12,
+          "hot": 0,
+          "url": "https://m.baidu.com/s?word=%E7%BD%91%E4%BC%A0%E2%80%9C8%E6%9C%88%E6%96%B0%E5%86%A0%E6%9C%89%E5%8F%98%E5%BC%82%E6%AF%92%E6%A0%AA%E2%80%9D%E4%B8%8D%E5%AE%9E&sa=fyb_news"
+        }
+      ],
+      "summary": "",
+      "url": "https://www.toutiao.com/trending/7677197841206837258/"
     },
     {
       "id": "evt-16pk0000",
       "title": "视频丨歼-16PK“阵风”，中国新锐军机扎堆亮相非洲",
       "category": "society",
       "hotScore": 0.6375,
-      "freshness": 0.9999,
+      "freshness": 1,
       "crossSource": 0.6309,
-      "totalScore": 0.7442,
+      "totalScore": 0.7443,
       "sources": [
         {
           "channel": "thepaper",
@@ -152,61 +114,99 @@
       "url": "https://www.thepaper.cn/newsDetail_forward_33847447"
     },
     {
-      "id": "evt-u7000000",
-      "title": "仰望U7驾驶者大会",
+      "id": "evt-90000000",
+      "title": "办事大厅被曝9点没人上班后禁带手机",
       "category": "society",
-      "hotScore": 0.52,
-      "freshness": 1,
+      "hotScore": 0.595,
+      "freshness": 0.9999,
       "crossSource": 0.6309,
-      "totalScore": 0.6973,
+      "totalScore": 0.7273,
       "sources": [
         {
-          "channel": "baidu",
-          "rank": 8,
-          "hot": 0,
-          "url": "https://m.baidu.com/s?word=%E4%BB%B0%E6%9C%9BU7%E9%A9%BE%E9%A9%B6%E8%80%85%E5%A4%A7%E4%BC%9A&sa=fyb_news"
+          "channel": "toutiao",
+          "rank": 7,
+          "hot": 13712305,
+          "url": "https://www.toutiao.com/trending/7678115105061634111/"
         }
       ],
       "summary": "",
-      "url": "https://m.baidu.com/s?word=%E4%BB%B0%E6%9C%9BU7%E9%A9%BE%E9%A9%B6%E8%80%85%E5%A4%A7%E4%BC%9A&sa=fyb_news"
+      "url": "https://www.toutiao.com/trending/7678115105061634111/"
     },
     {
-      "id": "evt-80000000",
-      "title": "获救船员称万吨货轮倾斜8分钟沉没",
+      "id": "evt-16000000",
+      "title": "尼泊尔北部山洪致16死 数百游客失联",
+      "category": "society",
+      "hotScore": 0.56,
+      "freshness": 1,
+      "crossSource": 0.6309,
+      "totalScore": 0.7133,
+      "sources": [
+        {
+          "channel": "baidu",
+          "rank": 7,
+          "hot": 0,
+          "url": "https://m.baidu.com/s?word=%E5%B0%BC%E6%B3%8A%E5%B0%94%E5%8C%97%E9%83%A8%E5%B1%B1%E6%B4%AA%E8%87%B416%E6%AD%BB+%E6%95%B0%E7%99%BE%E6%B8%B8%E5%AE%A2%E5%A4%B1%E8%81%94&sa=fyb_news"
+        }
+      ],
+      "summary": "",
+      "url": "https://m.baidu.com/s?word=%E5%B0%BC%E6%B3%8A%E5%B0%94%E5%8C%97%E9%83%A8%E5%B1%B1%E6%B4%AA%E8%87%B416%E6%AD%BB+%E6%95%B0%E7%99%BE%E6%B8%B8%E5%AE%A2%E5%A4%B1%E8%81%94&sa=fyb_news"
+    },
+    {
+      "id": "evt-60000000",
+      "title": "俄罗斯火灾致中国公民6死9失联",
       "category": "society",
       "hotScore": 0.51,
       "freshness": 0.9999,
       "crossSource": 0.6309,
-      "totalScore": 0.6932,
+      "totalScore": 0.6933,
       "sources": [
         {
           "channel": "toutiao",
           "rank": 9,
-          "hot": 6902174,
-          "url": "https://www.toutiao.com/trending/7677732876624035849/"
+          "hot": 11226685,
+          "url": "https://www.toutiao.com/trending/7678253212859633193/"
         }
       ],
       "summary": "",
-      "url": "https://www.toutiao.com/trending/7677732876624035849/"
+      "url": "https://www.toutiao.com/trending/7678253212859633193/"
     },
     {
-      "id": "evt-90000000",
-      "title": "9月起微信发早安图片要收费系谣言",
+      "id": "evt-vs000000",
+      "title": "赵心童vs霍金斯",
+      "category": "society",
+      "hotScore": 0.48,
+      "freshness": 1,
+      "crossSource": 0.6309,
+      "totalScore": 0.6813,
+      "sources": [
+        {
+          "channel": "baidu",
+          "rank": 9,
+          "hot": 0,
+          "url": "https://m.baidu.com/s?word=%E8%B5%B5%E5%BF%83%E7%AB%A5vs%E9%9C%8D%E9%87%91%E6%96%AF&sa=fyb_news"
+        }
+      ],
+      "summary": "",
+      "url": "https://m.baidu.com/s?word=%E8%B5%B5%E5%BF%83%E7%AB%A5vs%E9%9C%8D%E9%87%91%E6%96%AF&sa=fyb_news"
+    },
+    {
+      "id": "evt-30000000",
+      "title": "三部门向西藏调拨3万件中央救灾物资",
       "category": "society",
       "hotScore": 0.425,
       "freshness": 0.9999,
       "crossSource": 0.6309,
-      "totalScore": 0.6592,
+      "totalScore": 0.6593,
       "sources": [
         {
           "channel": "toutiao",
           "rank": 11,
-          "hot": 5651022,
-          "url": "https://www.toutiao.com/trending/7678194892392464425/"
+          "hot": 9191633,
+          "url": "https://www.toutiao.com/trending/7678268094054891563/"
         }
       ],
       "summary": "",
-      "url": "https://www.toutiao.com/trending/7678194892392464425/"
+      "url": "https://www.toutiao.com/trending/7678268094054891563/"
     }
   ]
 }
