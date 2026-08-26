@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-08-26T08:30:25.322Z",
+  "generatedAt": "2026-08-26T10:23:59.986Z",
   "fields": {
     "society": "社会",
     "economy": "经济",
@@ -8,60 +8,66 @@
   "feed": [
     {
       "id": "evt-00000000",
-      "title": "西藏吉隆口岸发生泥石流",
+      "title": "西藏吉隆县泥石流致重大人员伤亡失联",
       "category": "society",
       "hotScore": 0.85,
-      "freshness": 1,
+      "freshness": 0.9999,
       "crossSource": 1,
       "totalScore": 0.94,
       "sources": [
         {
           "channel": "toutiao",
           "rank": 1,
-          "hot": 15955593,
+          "hot": 15361071,
           "url": "https://www.toutiao.com/trending/7678222410843243034/"
         },
         {
           "channel": "baidu",
-          "rank": 3,
+          "rank": 5,
           "hot": 0,
-          "url": "https://m.baidu.com/s?word=%E8%A5%BF%E8%97%8F%E5%90%89%E9%9A%86%E5%8F%A3%E5%B2%B8%E5%8F%91%E7%94%9F%E6%B3%A5%E7%9F%B3%E6%B5%81&sa=fyb_news"
+          "url": "https://m.baidu.com/s?word=%E8%A5%BF%E8%97%8F%E5%90%89%E9%9A%86%E5%8E%BF%E6%B3%A5%E7%9F%B3%E6%B5%81%E8%87%B4%E9%87%8D%E5%A4%A7%E4%BA%BA%E5%91%98%E4%BC%A4%E4%BA%A1%E5%A4%B1%E8%81%94&sa=fyb_news"
         }
       ],
       "summary": "",
       "url": "https://www.toutiao.com/trending/7678222410843243034/"
     },
     {
-      "id": "evt-10314400",
-      "title": "1.03亿恒大债权包14.41万成交",
+      "id": "evt-50000000",
+      "title": "癌症疫苗预计近50万美元1针",
       "category": "society",
-      "hotScore": 0.8075,
-      "freshness": 1,
-      "crossSource": 0.6309,
-      "totalScore": 0.8123,
+      "hotScore": 0.68,
+      "freshness": 0.9999,
+      "crossSource": 1,
+      "totalScore": 0.872,
       "sources": [
         {
           "channel": "toutiao",
-          "rank": 2,
-          "hot": 14437218,
-          "url": "https://www.toutiao.com/trending/7678176590991360558/"
+          "rank": 5,
+          "hot": 10296834,
+          "url": "https://www.toutiao.com/trending/7677088857683394603/"
+        },
+        {
+          "channel": "baidu",
+          "rank": 15,
+          "hot": 0,
+          "url": "https://m.baidu.com/s?word=%E7%99%8C%E7%97%87%E7%96%AB%E8%8B%97%E9%A2%84%E8%AE%A1%E8%BF%9150%E4%B8%87%E7%BE%8E%E5%85%831%E9%92%88&sa=fyb_news"
         }
       ],
       "summary": "",
-      "url": "https://www.toutiao.com/trending/7678176590991360558/"
+      "url": "https://www.toutiao.com/trending/7677088857683394603/"
     },
     {
       "id": "evt-20260000",
       "title": "2026 国自然已经放榜，批准项目近 7 万项创历史新高，你的申请通过了吗？",
       "category": "society",
-      "hotScore": 0.7125,
-      "freshness": 1,
+      "hotScore": 0.675,
+      "freshness": 0.9999,
       "crossSource": 0.6309,
-      "totalScore": 0.7743,
+      "totalScore": 0.7592,
       "sources": [
         {
           "channel": "zhihu",
-          "rank": 2,
+          "rank": 3,
           "hot": 0,
           "url": ""
         }
@@ -70,17 +76,55 @@
       "url": ""
     },
     {
+      "id": "evt-60000000",
+      "title": "俄罗斯火灾致中国公民6死9失联",
+      "category": "society",
+      "hotScore": 0.6375,
+      "freshness": 0.9999,
+      "crossSource": 0.6309,
+      "totalScore": 0.7442,
+      "sources": [
+        {
+          "channel": "toutiao",
+          "rank": 6,
+          "hot": 9316960,
+          "url": "https://www.toutiao.com/trending/7678253212859633193/"
+        }
+      ],
+      "summary": "",
+      "url": "https://www.toutiao.com/trending/7678253212859633193/"
+    },
+    {
+      "id": "evt-20000000",
+      "title": "宇树科技市值缩水近2000亿",
+      "category": "economy",
+      "hotScore": 0.5525,
+      "freshness": 0.9999,
+      "crossSource": 0.6309,
+      "totalScore": 0.7102,
+      "sources": [
+        {
+          "channel": "toutiao",
+          "rank": 8,
+          "hot": 7628082,
+          "url": "https://www.toutiao.com/trending/7677419283135610890/"
+        }
+      ],
+      "summary": "",
+      "url": "https://www.toutiao.com/trending/7677419283135610890/"
+    },
+    {
       "id": "evt-lks00000",
       "title": "如何看待博主 -Lks- 的新视频《员工要陪老板演戏吗？我真去影视飓风上班了…》？",
       "category": "society",
-      "hotScore": 0.675,
-      "freshness": 1,
+      "hotScore": 0.6375,
+      "freshness": 0.9999,
       "crossSource": 0.6309,
-      "totalScore": 0.7593,
+      "totalScore": 0.7442,
       "sources": [
         {
           "channel": "zhihu",
-          "rank": 3,
+          "rank": 4,
           "hot": 0,
           "url": ""
         }
@@ -93,9 +137,9 @@
       "title": "视频丨歼-16PK“阵风”，中国新锐军机扎堆亮相非洲",
       "category": "society",
       "hotScore": 0.6375,
-      "freshness": 1,
+      "freshness": 0.9999,
       "crossSource": 0.6309,
-      "totalScore": 0.7443,
+      "totalScore": 0.7442,
       "sources": [
         {
           "channel": "thepaper",
@@ -108,65 +152,8 @@
       "url": "https://www.thepaper.cn/newsDetail_forward_33847447"
     },
     {
-      "id": "evt-15000000",
-      "title": "《琅琊榜》权谋比《大明王朝 1566》差这么多，为什么评分还高达 9.4？",
-      "category": "society",
-      "hotScore": 0.6,
-      "freshness": 1,
-      "crossSource": 0.6309,
-      "totalScore": 0.7293,
-      "sources": [
-        {
-          "channel": "zhihu",
-          "rank": 5,
-          "hot": 0,
-          "url": ""
-        }
-      ],
-      "summary": "",
-      "url": ""
-    },
-    {
-      "id": "evt-10200000",
-      "title": "102岁网红“兰家奶奶”离世",
-      "category": "society",
-      "hotScore": 0.56,
-      "freshness": 1,
-      "crossSource": 0.6309,
-      "totalScore": 0.7133,
-      "sources": [
-        {
-          "channel": "baidu",
-          "rank": 7,
-          "hot": 0,
-          "url": "https://m.baidu.com/s?word=102%E5%B2%81%E7%BD%91%E7%BA%A2%E2%80%9C%E5%85%B0%E5%AE%B6%E5%A5%B6%E5%A5%B6%E2%80%9D%E7%A6%BB%E4%B8%96&sa=fyb_news"
-        }
-      ],
-      "summary": "",
-      "url": "https://m.baidu.com/s?word=102%E5%B2%81%E7%BD%91%E7%BA%A2%E2%80%9C%E5%85%B0%E5%AE%B6%E5%A5%B6%E5%A5%B6%E2%80%9D%E7%A6%BB%E4%B8%96&sa=fyb_news"
-    },
-    {
-      "id": "evt-50000000",
-      "title": "癌症疫苗预计近50万美元1针",
-      "category": "society",
-      "hotScore": 0.5525,
-      "freshness": 1,
-      "crossSource": 0.6309,
-      "totalScore": 0.7103,
-      "sources": [
-        {
-          "channel": "toutiao",
-          "rank": 8,
-          "hot": 7923313,
-          "url": "https://www.toutiao.com/trending/7677088857683394603/"
-        }
-      ],
-      "summary": "",
-      "url": "https://www.toutiao.com/trending/7677088857683394603/"
-    },
-    {
-      "id": "evt-12000000",
-      "title": "爸爸拉1200多斤西瓜带女儿进藏自驾游",
+      "id": "evt-u7000000",
+      "title": "仰望U7驾驶者大会",
       "category": "society",
       "hotScore": 0.52,
       "freshness": 1,
@@ -177,82 +164,44 @@
           "channel": "baidu",
           "rank": 8,
           "hot": 0,
-          "url": "https://m.baidu.com/s?word=%E7%88%B8%E7%88%B8%E6%8B%891200%E5%A4%9A%E6%96%A4%E8%A5%BF%E7%93%9C%E5%B8%A6%E5%A5%B3%E5%84%BF%E8%BF%9B%E8%97%8F%E8%87%AA%E9%A9%BE%E6%B8%B8&sa=fyb_news"
+          "url": "https://m.baidu.com/s?word=%E4%BB%B0%E6%9C%9BU7%E9%A9%BE%E9%A9%B6%E8%80%85%E5%A4%A7%E4%BC%9A&sa=fyb_news"
         }
       ],
       "summary": "",
-      "url": "https://m.baidu.com/s?word=%E7%88%B8%E7%88%B8%E6%8B%891200%E5%A4%9A%E6%96%A4%E8%A5%BF%E7%93%9C%E5%B8%A6%E5%A5%B3%E5%84%BF%E8%BF%9B%E8%97%8F%E8%87%AA%E9%A9%BE%E6%B8%B8&sa=fyb_news"
+      "url": "https://m.baidu.com/s?word=%E4%BB%B0%E6%9C%9BU7%E9%A9%BE%E9%A9%B6%E8%80%85%E5%A4%A7%E4%BC%9A&sa=fyb_news"
     },
     {
-      "id": "evt-13ai1000",
-      "title": "13岁女孩三天靠AI赚1.8万",
+      "id": "evt-80000000",
+      "title": "获救船员称万吨货轮倾斜8分钟沉没",
       "category": "society",
       "hotScore": 0.51,
-      "freshness": 1,
+      "freshness": 0.9999,
       "crossSource": 0.6309,
-      "totalScore": 0.6933,
+      "totalScore": 0.6932,
       "sources": [
         {
           "channel": "toutiao",
           "rank": 9,
-          "hot": 7169310,
-          "url": "https://www.toutiao.com/trending/7677929697972043822/"
+          "hot": 6902174,
+          "url": "https://www.toutiao.com/trending/7677732876624035849/"
         }
       ],
       "summary": "",
-      "url": "https://www.toutiao.com/trending/7677929697972043822/"
-    },
-    {
-      "id": "evt-30000000",
-      "title": "小伙等3小时无人挪车直接叫叉车抬走",
-      "category": "society",
-      "hotScore": 0.4675,
-      "freshness": 1,
-      "crossSource": 0.6309,
-      "totalScore": 0.6763,
-      "sources": [
-        {
-          "channel": "toutiao",
-          "rank": 10,
-          "hot": 6487060,
-          "url": "https://www.toutiao.com/trending/7678174519395368966/"
-        }
-      ],
-      "summary": "",
-      "url": "https://www.toutiao.com/trending/7678174519395368966/"
-    },
-    {
-      "id": "evt-macmin00",
-      "title": "苹果发布新款 Mac mini 、 Mac Studio，mini 或配 M6 芯片，有哪些亮点值得关注？",
-      "category": "society",
-      "hotScore": 0.45,
-      "freshness": 1,
-      "crossSource": 0.6309,
-      "totalScore": 0.6693,
-      "sources": [
-        {
-          "channel": "zhihu",
-          "rank": 9,
-          "hot": 0,
-          "url": ""
-        }
-      ],
-      "summary": "",
-      "url": ""
+      "url": "https://www.toutiao.com/trending/7677732876624035849/"
     },
     {
       "id": "evt-90000000",
       "title": "9月起微信发早安图片要收费系谣言",
       "category": "society",
       "hotScore": 0.425,
-      "freshness": 1,
+      "freshness": 0.9999,
       "crossSource": 0.6309,
-      "totalScore": 0.6593,
+      "totalScore": 0.6592,
       "sources": [
         {
           "channel": "toutiao",
           "rank": 11,
-          "hot": 5869734,
+          "hot": 5651022,
           "url": "https://www.toutiao.com/trending/7678194892392464425/"
         }
       ],
