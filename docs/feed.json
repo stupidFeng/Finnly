@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-08-26T14:34:05.233Z",
+  "generatedAt": "2026-08-26T16:41:03.772Z",
   "fields": {
     "society": "社会",
     "economy": "经济",
@@ -7,83 +7,52 @@
   },
   "feed": [
     {
-      "id": "evt-97000000",
-      "title": "尼泊尔称已找到97具山洪遇难者遗体",
+      "id": "evt-30000000",
+      "title": "西藏泥石流已致3人遇难265人失联",
       "category": "society",
-      "hotScore": 0.8075,
-      "freshness": 0.9999,
+      "hotScore": 0.85,
+      "freshness": 1,
       "crossSource": 1,
-      "totalScore": 0.923,
+      "totalScore": 0.94,
       "sources": [
         {
           "channel": "toutiao",
-          "rank": 2,
-          "hot": 31899004,
-          "url": "https://www.toutiao.com/trending/7678291485267070514/"
+          "rank": 1,
+          "hot": 45254078,
+          "url": "https://www.toutiao.com/trending/7678251470793362985/"
         },
         {
           "channel": "baidu",
-          "rank": 5,
+          "rank": 2,
           "hot": 0,
-          "url": "https://m.baidu.com/s?word=%E5%B0%BC%E6%B3%8A%E5%B0%94%E7%A7%B0%E5%B7%B2%E6%89%BE%E5%88%B097%E5%85%B7%E5%B1%B1%E6%B4%AA%E9%81%87%E9%9A%BE%E8%80%85%E9%81%97%E4%BD%93&sa=fyb_news"
+          "url": "https://m.baidu.com/s?word=%E8%A5%BF%E8%97%8F%E6%B3%A5%E7%9F%B3%E6%B5%81%E5%B7%B2%E8%87%B43%E4%BA%BA%E9%81%87%E9%9A%BE265%E4%BA%BA%E5%A4%B1%E8%81%94&sa=fyb_news"
         }
       ],
       "summary": "",
-      "url": "https://www.toutiao.com/trending/7678291485267070514/"
+      "url": "https://www.toutiao.com/trending/7678251470793362985/"
     },
     {
       "id": "evt-00000000",
-      "title": "上海体育局回应刘翔退役安置工作",
+      "title": "为什么《欢迎来龙餐馆》让台湾同胞如此有感？",
       "category": "society",
-      "hotScore": 0.7225,
-      "freshness": 0.9999,
-      "crossSource": 1,
-      "totalScore": 0.889,
+      "hotScore": 0.85,
+      "freshness": 1,
+      "crossSource": 0.6309,
+      "totalScore": 0.8293,
       "sources": [
         {
-          "channel": "toutiao",
-          "rank": 4,
-          "hot": 26116696,
-          "url": "https://www.toutiao.com/trending/7677572404999028786/"
-        },
-        {
-          "channel": "baidu",
-          "rank": 13,
+          "channel": "thepaper",
+          "rank": 1,
           "hot": 0,
-          "url": "https://m.baidu.com/s?word=%E4%B8%8A%E6%B5%B7%E4%BD%93%E8%82%B2%E5%B1%80%E5%9B%9E%E5%BA%94%E5%88%98%E7%BF%94%E9%80%80%E5%BD%B9%E5%AE%89%E7%BD%AE%E5%B7%A5%E4%BD%9C&sa=fyb_news"
+          "url": "https://www.thepaper.cn/newsDetail_forward_33851362"
         }
       ],
       "summary": "",
-      "url": "https://www.toutiao.com/trending/7677572404999028786/"
+      "url": "https://www.thepaper.cn/newsDetail_forward_33851362"
     },
     {
-      "id": "evt-50000000",
-      "title": "癌症疫苗预计近50万美元1针",
-      "category": "society",
-      "hotScore": 0.5525,
-      "freshness": 0.9999,
-      "crossSource": 1,
-      "totalScore": 0.821,
-      "sources": [
-        {
-          "channel": "toutiao",
-          "rank": 8,
-          "hot": 17506545,
-          "url": "https://www.toutiao.com/trending/7677088857683394603/"
-        },
-        {
-          "channel": "baidu",
-          "rank": 17,
-          "hot": 0,
-          "url": "https://m.baidu.com/s?word=%E7%99%8C%E7%97%87%E7%96%AB%E8%8B%97%E9%A2%84%E8%AE%A1%E8%BF%9150%E4%B8%87%E7%BE%8E%E5%85%831%E9%92%88&sa=fyb_news"
-        }
-      ],
-      "summary": "",
-      "url": "https://www.toutiao.com/trending/7677088857683394603/"
-    },
-    {
-      "id": "evt-16pk0000",
-      "title": "视频丨歼-16PK“阵风”，中国新锐军机扎堆亮相非洲",
+      "id": "evt-40500000",
+      "title": "405年历史的广西左江斜塔被洪水包围，景区：目前淹至第二层，水退后会有文物专家勘察",
       "category": "society",
       "hotScore": 0.765,
       "freshness": 1,
@@ -94,44 +63,63 @@
           "channel": "thepaper",
           "rank": 3,
           "hot": 0,
-          "url": "https://www.thepaper.cn/newsDetail_forward_33847447"
+          "url": "https://www.thepaper.cn/newsDetail_forward_33852149"
         }
       ],
       "summary": "",
-      "url": "https://www.thepaper.cn/newsDetail_forward_33847447"
+      "url": "https://www.thepaper.cn/newsDetail_forward_33852149"
     },
     {
-      "id": "evt-82000000",
-      "title": "82岁中国老人在韩夺得跨栏世界冠军",
+      "id": "evt-50000000",
+      "title": "癌症疫苗预计近50万美元1针",
+      "category": "society",
+      "hotScore": 0.7225,
+      "freshness": 1,
+      "crossSource": 0.6309,
+      "totalScore": 0.7783,
+      "sources": [
+        {
+          "channel": "toutiao",
+          "rank": 4,
+          "hot": 33525046,
+          "url": "https://www.toutiao.com/trending/7677088857683394603/"
+        }
+      ],
+      "summary": "",
+      "url": "https://www.toutiao.com/trending/7677088857683394603/"
+    },
+    {
+      "id": "evt-90000000",
+      "title": "办事大厅被曝9点没人上班后禁带手机",
       "category": "society",
       "hotScore": 0.68,
-      "freshness": 0.9999,
+      "freshness": 1,
       "crossSource": 0.6309,
       "totalScore": 0.7613,
       "sources": [
         {
           "channel": "toutiao",
           "rank": 5,
-          "hot": 23631364,
-          "url": "https://www.toutiao.com/trending/7678272334884700723/"
+          "hot": 30334716,
+          "url": "https://www.toutiao.com/trending/7678115105061634111/"
         }
       ],
       "summary": "",
-      "url": "https://www.toutiao.com/trending/7678272334884700723/"
+      "url": "https://www.toutiao.com/trending/7678115105061634111/"
     },
     {
       "id": "evt-80000000",
       "title": "网传“8月新冠有变异毒株”不实",
       "category": "society",
       "hotScore": 0.3825,
-      "freshness": 0.9999,
+      "freshness": 1,
       "crossSource": 1,
       "totalScore": 0.753,
       "sources": [
         {
           "channel": "toutiao",
           "rank": 12,
-          "hot": 11734988,
+          "hot": 15063774,
           "url": "https://www.toutiao.com/trending/7677197841206837258/"
         },
         {
@@ -145,8 +133,8 @@
       "url": "https://www.toutiao.com/trending/7677197841206837258/"
     },
     {
-      "id": "evt-40500000",
-      "title": "405年历史的广西左江斜塔被洪水包围，景区：目前淹至第二层，水退后会有文物专家勘察",
+      "id": "evt-glm53flas",
+      "title": "怎么看 GLM-5.3-Flash 发布，有什么值得关注的？",
       "category": "society",
       "hotScore": 0.6375,
       "freshness": 1,
@@ -154,71 +142,71 @@
       "totalScore": 0.7443,
       "sources": [
         {
-          "channel": "thepaper",
-          "rank": 6,
+          "channel": "zhihu",
+          "rank": 4,
           "hot": 0,
-          "url": "https://www.thepaper.cn/newsDetail_forward_33852149"
+          "url": ""
         }
       ],
       "summary": "",
-      "url": "https://www.thepaper.cn/newsDetail_forward_33852149"
+      "url": ""
     },
     {
-      "id": "evt-90000000",
-      "title": "办事大厅被曝9点没人上班后禁带手机",
+      "id": "evt-app00000",
+      "title": "央视曝光政务App让数千万“打水漂”",
       "category": "society",
-      "hotScore": 0.595,
-      "freshness": 0.9999,
-      "crossSource": 0.6309,
-      "totalScore": 0.7273,
-      "sources": [
-        {
-          "channel": "toutiao",
-          "rank": 7,
-          "hot": 19347724,
-          "url": "https://www.toutiao.com/trending/7678115105061634111/"
-        }
-      ],
-      "summary": "",
-      "url": "https://www.toutiao.com/trending/7678115105061634111/"
-    },
-    {
-      "id": "evt-deepsee0",
-      "title": "钟睒睒投了DeepSeek",
-      "category": "society",
-      "hotScore": 0.48,
+      "hotScore": 0.56,
       "freshness": 1,
       "crossSource": 0.6309,
-      "totalScore": 0.6813,
+      "totalScore": 0.7133,
       "sources": [
         {
           "channel": "baidu",
-          "rank": 9,
+          "rank": 7,
           "hot": 0,
-          "url": "https://m.baidu.com/s?word=%E9%92%9F%E7%9D%92%E7%9D%92%E6%8A%95%E4%BA%86DeepSeek&sa=fyb_news"
+          "url": "https://m.baidu.com/s?word=%E5%A4%AE%E8%A7%86%E6%9B%9D%E5%85%89%E6%94%BF%E5%8A%A1App%E8%AE%A9%E6%95%B0%E5%8D%83%E4%B8%87%E2%80%9C%E6%89%93%E6%B0%B4%E6%BC%82%E2%80%9D&sa=fyb_news"
         }
       ],
       "summary": "",
-      "url": "https://m.baidu.com/s?word=%E9%92%9F%E7%9D%92%E7%9D%92%E6%8A%95%E4%BA%86DeepSeek&sa=fyb_news"
+      "url": "https://m.baidu.com/s?word=%E5%A4%AE%E8%A7%86%E6%9B%9D%E5%85%89%E6%94%BF%E5%8A%A1App%E8%AE%A9%E6%95%B0%E5%8D%83%E4%B8%87%E2%80%9C%E6%89%93%E6%B0%B4%E6%BC%82%E2%80%9D&sa=fyb_news"
     },
     {
-      "id": "evt-30000000",
-      "title": "三部门向西藏调拨3万件中央救灾物资",
+      "id": "evt-13ai1000",
+      "title": "13岁女孩三天靠AI赚1.8万",
       "category": "society",
       "hotScore": 0.4675,
-      "freshness": 0.9999,
+      "freshness": 1,
       "crossSource": 0.6309,
       "totalScore": 0.6763,
       "sources": [
         {
           "channel": "toutiao",
           "rank": 10,
-          "hot": 14333146,
-          "url": "https://www.toutiao.com/trending/7678268094054891563/"
+          "hot": 18398935,
+          "url": "https://www.toutiao.com/trending/7677929697972043822/"
         }
       ],
       "summary": "",
-      "url": "https://www.toutiao.com/trending/7678268094054891563/"
+      "url": "https://www.toutiao.com/trending/7677929697972043822/"
+    },
+    {
+      "id": "evt-deepseek",
+      "title": "网传 DeepSeek 深度思考模式会偷偷给用户取外号，这是真的吗？为什么会出现这种情况？",
+      "category": "society",
+      "hotScore": 0.45,
+      "freshness": 1,
+      "crossSource": 0.6309,
+      "totalScore": 0.6693,
+      "sources": [
+        {
+          "channel": "zhihu",
+          "rank": 9,
+          "hot": 0,
+          "url": ""
+        }
+      ],
+      "summary": "",
+      "url": ""
     }
   ]
 }
