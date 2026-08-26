@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-08-25T22:15:32.128Z",
+  "generatedAt": "2026-08-26T00:40:00.069Z",
   "fields": {
     "society": "社会",
     "economy": "经济",
@@ -7,93 +7,49 @@
   },
   "feed": [
     {
-      "id": "evt-30000000",
-      "title": "30多国宣布：准备向乌克兰派兵",
-      "category": "society",
-      "hotScore": 0.8075,
-      "freshness": 0.9999,
-      "crossSource": 1,
-      "totalScore": 0.923,
-      "sources": [
-        {
-          "channel": "toutiao",
-          "rank": 2,
-          "hot": 18567289,
-          "url": "https://www.toutiao.com/trending/7677267852270583859/"
-        },
-        {
-          "channel": "baidu",
-          "rank": 7,
-          "hot": 0,
-          "url": "https://m.baidu.com/s?word=30%E5%A4%9A%E5%9B%BD%E5%AE%A3%E5%B8%83%EF%BC%9A%E5%87%86%E5%A4%87%E5%90%91%E4%B9%8C%E5%85%8B%E5%85%B0%E6%B4%BE%E5%85%B5&sa=fyb_news"
-        }
-      ],
-      "summary": "",
-      "url": "https://www.toutiao.com/trending/7677267852270583859/"
-    },
-    {
       "id": "evt-00000000",
-      "title": "台风紫檀已登陆",
+      "title": "实地调查“甲醛白菜”背后生意经：收购商用甲醛省下打冷费，一车能省2万元",
       "category": "society",
       "hotScore": 0.85,
-      "freshness": 0.9999,
+      "freshness": 1,
       "crossSource": 0.6309,
       "totalScore": 0.8293,
       "sources": [
         {
-          "channel": "toutiao",
+          "channel": "thepaper",
           "rank": 1,
-          "hot": 20520028,
-          "url": "https://www.toutiao.com/trending/7677060472058940964/"
+          "hot": 0,
+          "url": "https://www.thepaper.cn/newsDetail_forward_33847324"
         }
       ],
       "summary": "",
-      "url": "https://www.toutiao.com/trending/7677060472058940964/"
+      "url": "https://www.thepaper.cn/newsDetail_forward_33847324"
     },
     {
-      "id": "evt-23000000",
-      "title": "在韩遇害女生原计划23日回国入职",
+      "id": "evt-dna00000",
+      "title": "外卖员车祸去世 DNA鉴定儿子非亲生",
       "category": "society",
-      "hotScore": 0.68,
+      "hotScore": 0.64,
       "freshness": 0.9999,
       "crossSource": 0.6309,
-      "totalScore": 0.7613,
+      "totalScore": 0.7453,
       "sources": [
         {
-          "channel": "toutiao",
+          "channel": "baidu",
           "rank": 5,
-          "hot": 13754986,
-          "url": "https://www.toutiao.com/trending/7677937937215946793/"
-        }
-      ],
-      "summary": "",
-      "url": "https://www.toutiao.com/trending/7677937937215946793/"
-    },
-    {
-      "id": "evt-10000000",
-      "title": "网售新型避责术曝光：“100%蚕丝衫”无蚕丝，售假者玩“店铺矩阵”规避监管",
-      "category": "society",
-      "hotScore": 0.6375,
-      "freshness": 1,
-      "crossSource": 0.6309,
-      "totalScore": 0.7443,
-      "sources": [
-        {
-          "channel": "thepaper",
-          "rank": 6,
           "hot": 0,
-          "url": "https://www.thepaper.cn/newsDetail_forward_33840657"
+          "url": "https://m.baidu.com/s?word=%E5%A4%96%E5%8D%96%E5%91%98%E8%BD%A6%E7%A5%B8%E5%8E%BB%E4%B8%96+DNA%E9%89%B4%E5%AE%9A%E5%84%BF%E5%AD%90%E9%9D%9E%E4%BA%B2%E7%94%9F&sa=fyb_news"
         }
       ],
       "summary": "",
-      "url": "https://www.thepaper.cn/newsDetail_forward_33840657"
+      "url": "https://m.baidu.com/s?word=%E5%A4%96%E5%8D%96%E5%91%98%E8%BD%A6%E7%A5%B8%E5%8E%BB%E4%B8%96+DNA%E9%89%B4%E5%AE%9A%E5%84%BF%E5%AD%90%E9%9D%9E%E4%BA%B2%E7%94%9F&sa=fyb_news"
     },
     {
-      "id": "evt-ai000000",
-      "title": "大批 AI 博主集中停更，背后真实原因是什么，AI 内容赛道接下来会如何发展？",
+      "id": "evt-mac00000",
+      "title": "怎么看苹果发布全新 Mac mini/Mac Studio ，M6 芯片下 AI 性能暴涨 4 倍？",
       "category": "society",
       "hotScore": 0.6,
-      "freshness": 1,
+      "freshness": 0.9999,
       "crossSource": 0.6309,
       "totalScore": 0.7293,
       "sources": [
@@ -108,93 +64,74 @@
       "url": ""
     },
     {
-      "id": "evt-80900000",
-      "title": "80、90、00后退休时间一览",
+      "id": "evt-31300000",
+      "title": "请3天假休13天 机票搜索热度大涨",
       "category": "society",
-      "hotScore": 0.595,
+      "hotScore": 0.56,
       "freshness": 0.9999,
       "crossSource": 0.6309,
-      "totalScore": 0.7273,
+      "totalScore": 0.7133,
       "sources": [
         {
-          "channel": "toutiao",
+          "channel": "baidu",
           "rank": 7,
-          "hot": 11261630,
-          "url": "https://www.toutiao.com/trending/7677752978062065670/"
+          "hot": 0,
+          "url": "https://m.baidu.com/s?word=%E8%AF%B73%E5%A4%A9%E5%81%87%E4%BC%9113%E5%A4%A9+%E6%9C%BA%E7%A5%A8%E6%90%9C%E7%B4%A2%E7%83%AD%E5%BA%A6%E5%A4%A7%E6%B6%A8&sa=fyb_news"
         }
       ],
       "summary": "",
-      "url": "https://www.toutiao.com/trending/7677752978062065670/"
+      "url": "https://m.baidu.com/s?word=%E8%AF%B73%E5%A4%A9%E5%81%87%E4%BC%9113%E5%A4%A9+%E6%9C%BA%E7%A5%A8%E6%90%9C%E7%B4%A2%E7%83%AD%E5%BA%A6%E5%A4%A7%E6%B6%A8&sa=fyb_news"
     },
     {
-      "id": "evt-a0000000",
-      "title": "A股连续迎来“大肉签”",
+      "id": "evt-80000000",
+      "title": "获救船员称万吨货轮倾斜8分钟沉没",
+      "category": "society",
+      "hotScore": 0.5525,
+      "freshness": 0.9999,
+      "crossSource": 0.6309,
+      "totalScore": 0.7102,
+      "sources": [
+        {
+          "channel": "toutiao",
+          "rank": 8,
+          "hot": 10851218,
+          "url": "https://www.toutiao.com/trending/7677732876624035849/"
+        }
+      ],
+      "summary": "",
+      "url": "https://www.toutiao.com/trending/7677732876624035849/"
+    },
+    {
+      "id": "evt-20000000",
+      "title": "女骑手高速狂飙时速超200公里玩手机",
       "category": "society",
       "hotScore": 0.51,
       "freshness": 0.9999,
       "crossSource": 0.6309,
-      "totalScore": 0.6933,
+      "totalScore": 0.6932,
       "sources": [
         {
           "channel": "toutiao",
           "rank": 9,
-          "hot": 9220243,
-          "url": "https://www.toutiao.com/trending/7677928888453988890/"
+          "hot": 9818588,
+          "url": "https://www.toutiao.com/trending/7677894387942195758/"
         }
       ],
       "summary": "",
-      "url": "https://www.toutiao.com/trending/7677928888453988890/"
+      "url": "https://www.toutiao.com/trending/7677894387942195758/"
     },
     {
-      "id": "evt-20000000",
-      "title": "月薪2万因裁员焦虑 每天学到凌晨5点",
+      "id": "evt-10000000",
+      "title": "美国或用近 1 万亿美元国库账户干预市场，美元、美债、美股三大定价市场持续波动，黄金上涨，你怎么看？",
       "category": "society",
-      "hotScore": 0.48,
-      "freshness": 1,
+      "hotScore": 0.4875,
+      "freshness": 0.9999,
       "crossSource": 0.6309,
-      "totalScore": 0.6813,
-      "sources": [
-        {
-          "channel": "baidu",
-          "rank": 9,
-          "hot": 0,
-          "url": "https://m.baidu.com/s?word=%E6%9C%88%E8%96%AA2%E4%B8%87%E5%9B%A0%E8%A3%81%E5%91%98%E7%84%A6%E8%99%91+%E6%AF%8F%E5%A4%A9%E5%AD%A6%E5%88%B0%E5%87%8C%E6%99%A85%E7%82%B9&sa=fyb_news"
-        }
-      ],
-      "summary": "",
-      "url": "https://m.baidu.com/s?word=%E6%9C%88%E8%96%AA2%E4%B8%87%E5%9B%A0%E8%A3%81%E5%91%98%E7%84%A6%E8%99%91+%E6%AF%8F%E5%A4%A9%E5%AD%A6%E5%88%B0%E5%87%8C%E6%99%A85%E7%82%B9&sa=fyb_news"
-    },
-    {
-      "id": "evt-20262000",
-      "title": "2026鲁迅文学周丨2005年后出生的人如何理解鲁迅？",
-      "category": "society",
-      "hotScore": 0.4675,
-      "freshness": 1,
-      "crossSource": 0.6309,
-      "totalScore": 0.6763,
-      "sources": [
-        {
-          "channel": "thepaper",
-          "rank": 10,
-          "hot": 0,
-          "url": "https://www.thepaper.cn/newsDetail_forward_33840474"
-        }
-      ],
-      "summary": "",
-      "url": "https://www.thepaper.cn/newsDetail_forward_33840474"
-    },
-    {
-      "id": "evt-gptpl000",
-      "title": "GPT 为什么会单独给 Plus 订阅增加 5 小时限额？",
-      "category": "society",
-      "hotScore": 0.45,
-      "freshness": 1,
-      "crossSource": 0.6309,
-      "totalScore": 0.6693,
+      "totalScore": 0.6843,
       "sources": [
         {
           "channel": "zhihu",
-          "rank": 9,
+          "rank": 8,
           "hot": 0,
           "url": ""
         }
