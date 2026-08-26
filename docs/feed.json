@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-08-26T16:41:03.772Z",
+  "generatedAt": "2026-08-26T19:29:58.911Z",
   "fields": {
     "society": "社会",
     "economy": "经济",
@@ -11,14 +11,14 @@
       "title": "西藏泥石流已致3人遇难265人失联",
       "category": "society",
       "hotScore": 0.85,
-      "freshness": 1,
+      "freshness": 0.9999,
       "crossSource": 1,
       "totalScore": 0.94,
       "sources": [
         {
           "channel": "toutiao",
           "rank": 1,
-          "hot": 45254078,
+          "hot": 48882018,
           "url": "https://www.toutiao.com/trending/7678251470793362985/"
         },
         {
@@ -36,7 +36,7 @@
       "title": "为什么《欢迎来龙餐馆》让台湾同胞如此有感？",
       "category": "society",
       "hotScore": 0.85,
-      "freshness": 1,
+      "freshness": 0.9999,
       "crossSource": 0.6309,
       "totalScore": 0.8293,
       "sources": [
@@ -51,11 +51,30 @@
       "url": "https://www.thepaper.cn/newsDetail_forward_33851362"
     },
     {
+      "id": "evt-13ai1000",
+      "title": "13岁女孩三天靠AI赚1.8万",
+      "category": "society",
+      "hotScore": 0.8075,
+      "freshness": 0.9999,
+      "crossSource": 0.6309,
+      "totalScore": 0.8122,
+      "sources": [
+        {
+          "channel": "toutiao",
+          "rank": 2,
+          "hot": 44230279,
+          "url": "https://www.toutiao.com/trending/7677929697972043822/"
+        }
+      ],
+      "summary": "",
+      "url": "https://www.toutiao.com/trending/7677929697972043822/"
+    },
+    {
       "id": "evt-40500000",
       "title": "405年历史的广西左江斜塔被洪水包围，景区：目前淹至第二层，水退后会有文物专家勘察",
       "category": "society",
       "hotScore": 0.765,
-      "freshness": 1,
+      "freshness": 0.9999,
       "crossSource": 0.6309,
       "totalScore": 0.7953,
       "sources": [
@@ -74,14 +93,14 @@
       "title": "癌症疫苗预计近50万美元1针",
       "category": "society",
       "hotScore": 0.7225,
-      "freshness": 1,
+      "freshness": 0.9999,
       "crossSource": 0.6309,
-      "totalScore": 0.7783,
+      "totalScore": 0.7782,
       "sources": [
         {
           "channel": "toutiao",
           "rank": 4,
-          "hot": 33525046,
+          "hot": 36212690,
           "url": "https://www.toutiao.com/trending/7677088857683394603/"
         }
       ],
@@ -89,37 +108,18 @@
       "url": "https://www.toutiao.com/trending/7677088857683394603/"
     },
     {
-      "id": "evt-90000000",
-      "title": "办事大厅被曝9点没人上班后禁带手机",
-      "category": "society",
-      "hotScore": 0.68,
-      "freshness": 1,
-      "crossSource": 0.6309,
-      "totalScore": 0.7613,
-      "sources": [
-        {
-          "channel": "toutiao",
-          "rank": 5,
-          "hot": 30334716,
-          "url": "https://www.toutiao.com/trending/7678115105061634111/"
-        }
-      ],
-      "summary": "",
-      "url": "https://www.toutiao.com/trending/7678115105061634111/"
-    },
-    {
       "id": "evt-80000000",
       "title": "网传“8月新冠有变异毒株”不实",
       "category": "society",
       "hotScore": 0.3825,
-      "freshness": 1,
+      "freshness": 0.9999,
       "crossSource": 1,
       "totalScore": 0.753,
       "sources": [
         {
           "channel": "toutiao",
           "rank": 12,
-          "hot": 15063774,
+          "hot": 16271410,
           "url": "https://www.toutiao.com/trending/7677197841206837258/"
         },
         {
@@ -137,7 +137,7 @@
       "title": "怎么看 GLM-5.3-Flash 发布，有什么值得关注的？",
       "category": "society",
       "hotScore": 0.6375,
-      "freshness": 1,
+      "freshness": 0.9999,
       "crossSource": 0.6309,
       "totalScore": 0.7443,
       "sources": [
@@ -150,6 +150,25 @@
       ],
       "summary": "",
       "url": ""
+    },
+    {
+      "id": "evt-90000000",
+      "title": "办事大厅被曝9点没人上班后禁带手机",
+      "category": "society",
+      "hotScore": 0.595,
+      "freshness": 0.9999,
+      "crossSource": 0.6309,
+      "totalScore": 0.7272,
+      "sources": [
+        {
+          "channel": "toutiao",
+          "rank": 7,
+          "hot": 26827020,
+          "url": "https://www.toutiao.com/trending/7678115105061634111/"
+        }
+      ],
+      "summary": "",
+      "url": "https://www.toutiao.com/trending/7678115105061634111/"
     },
     {
       "id": "evt-app00000",
@@ -171,30 +190,11 @@
       "url": "https://m.baidu.com/s?word=%E5%A4%AE%E8%A7%86%E6%9B%9D%E5%85%89%E6%94%BF%E5%8A%A1App%E8%AE%A9%E6%95%B0%E5%8D%83%E4%B8%87%E2%80%9C%E6%89%93%E6%B0%B4%E6%BC%82%E2%80%9D&sa=fyb_news"
     },
     {
-      "id": "evt-13ai1000",
-      "title": "13岁女孩三天靠AI赚1.8万",
-      "category": "society",
-      "hotScore": 0.4675,
-      "freshness": 1,
-      "crossSource": 0.6309,
-      "totalScore": 0.6763,
-      "sources": [
-        {
-          "channel": "toutiao",
-          "rank": 10,
-          "hot": 18398935,
-          "url": "https://www.toutiao.com/trending/7677929697972043822/"
-        }
-      ],
-      "summary": "",
-      "url": "https://www.toutiao.com/trending/7677929697972043822/"
-    },
-    {
       "id": "evt-deepseek",
       "title": "网传 DeepSeek 深度思考模式会偷偷给用户取外号，这是真的吗？为什么会出现这种情况？",
       "category": "society",
       "hotScore": 0.45,
-      "freshness": 1,
+      "freshness": 0.9999,
       "crossSource": 0.6309,
       "totalScore": 0.6693,
       "sources": [
