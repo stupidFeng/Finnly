@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-08-26T02:56:21.240Z",
+  "generatedAt": "2026-08-26T04:29:21.400Z",
   "fields": {
     "society": "社会",
     "economy": "经济",
@@ -8,7 +8,7 @@
   "feed": [
     {
       "id": "evt-00000000",
-      "title": "美军以视察为由欲进入在菲中资钢铁厂",
+      "title": "杀害在韩女生嫌疑人被捕时低头沉默",
       "category": "society",
       "hotScore": 0.85,
       "freshness": 0.9999,
@@ -18,22 +18,47 @@
         {
           "channel": "toutiao",
           "rank": 1,
-          "hot": 23154880,
-          "url": "https://www.toutiao.com/trending/7678110377216934450/"
+          "hot": 14880919,
+          "url": "https://www.toutiao.com/trending/7677965635020570630/"
         },
         {
           "channel": "baidu",
-          "rank": 11,
+          "rank": 3,
           "hot": 0,
-          "url": "https://m.baidu.com/s?word=%E7%BE%8E%E5%86%9B%E4%BB%A5%E8%A7%86%E5%AF%9F%E4%B8%BA%E7%94%B1%E6%AC%B2%E8%BF%9B%E5%85%A5%E5%9C%A8%E8%8F%B2%E4%B8%AD%E8%B5%84%E9%92%A2%E9%93%81%E5%8E%82&sa=fyb_news"
+          "url": "https://m.baidu.com/s?word=%E6%9D%80%E5%AE%B3%E5%9C%A8%E9%9F%A9%E5%A5%B3%E7%94%9F%E5%AB%8C%E7%96%91%E4%BA%BA%E8%A2%AB%E6%8D%95%E6%97%B6%E4%BD%8E%E5%A4%B4%E6%B2%89%E9%BB%98&sa=fyb_news"
         }
       ],
       "summary": "",
-      "url": "https://www.toutiao.com/trending/7678110377216934450/"
+      "url": "https://www.toutiao.com/trending/7677965635020570630/"
     },
     {
       "id": "evt-10200000",
       "title": "102岁网红“兰家奶奶”离世",
+      "category": "society",
+      "hotScore": 0.7225,
+      "freshness": 0.9999,
+      "crossSource": 1,
+      "totalScore": 0.889,
+      "sources": [
+        {
+          "channel": "toutiao",
+          "rank": 4,
+          "hot": 11024056,
+          "url": "https://www.toutiao.com/trending/7677994167817502739/"
+        },
+        {
+          "channel": "baidu",
+          "rank": 5,
+          "hot": 0,
+          "url": "https://m.baidu.com/s?word=102%E5%B2%81%E7%BD%91%E7%BA%A2%E2%80%9C%E5%85%B0%E5%AE%B6%E5%A5%B6%E5%A5%B6%E2%80%9D%E7%A6%BB%E4%B8%96&sa=fyb_news"
+        }
+      ],
+      "summary": "",
+      "url": "https://www.toutiao.com/trending/7677994167817502739/"
+    },
+    {
+      "id": "evt-13ai1000",
+      "title": "13岁女孩三天靠AI赚1.8万",
       "category": "society",
       "hotScore": 0.8075,
       "freshness": 0.9999,
@@ -43,54 +68,54 @@
         {
           "channel": "toutiao",
           "rank": 2,
-          "hot": 20951402,
-          "url": "https://www.toutiao.com/trending/7677994167817502739/"
+          "hot": 13464812,
+          "url": "https://www.toutiao.com/trending/7677929697972043822/"
         }
       ],
       "summary": "",
-      "url": "https://www.toutiao.com/trending/7677994167817502739/"
+      "url": "https://www.toutiao.com/trending/7677929697972043822/"
     },
     {
-      "id": "evt-20000000",
-      "title": "骑手高速狂飙时速超200公里玩手机",
+      "id": "evt-80000000",
+      "title": "获救船员称万吨货轮倾斜8分钟沉没",
       "category": "society",
-      "hotScore": 0.7225,
+      "hotScore": 0.68,
       "freshness": 0.9999,
       "crossSource": 0.6309,
-      "totalScore": 0.7783,
+      "totalScore": 0.7613,
       "sources": [
         {
           "channel": "toutiao",
-          "rank": 4,
-          "hot": 17153557,
-          "url": "https://www.toutiao.com/trending/7677894387942195758/"
+          "rank": 5,
+          "hot": 9974978,
+          "url": "https://www.toutiao.com/trending/7677732876624035849/"
         }
       ],
       "summary": "",
-      "url": "https://www.toutiao.com/trending/7677894387942195758/"
+      "url": "https://www.toutiao.com/trending/7677732876624035849/"
     },
     {
-      "id": "evt-mac00000",
-      "title": "怎么看苹果发布全新 Mac mini/Mac Studio ，M6 芯片下 AI 性能暴涨 4 倍？",
+      "id": "evt-19550000",
+      "title": "广西崇左发生1955年以来实测最大洪水",
       "category": "society",
       "hotScore": 0.6375,
-      "freshness": 1,
+      "freshness": 0.9999,
       "crossSource": 0.6309,
       "totalScore": 0.7443,
       "sources": [
         {
-          "channel": "zhihu",
-          "rank": 4,
-          "hot": 0,
-          "url": ""
+          "channel": "toutiao",
+          "rank": 6,
+          "hot": 9025733,
+          "url": "https://www.toutiao.com/trending/7678175071185161770/"
         }
       ],
       "summary": "",
-      "url": ""
+      "url": "https://www.toutiao.com/trending/7678175071185161770/"
     },
     {
-      "id": "evt-70000000",
-      "title": "中国地震局回应四川误报7.7级地震",
+      "id": "evt-60400000",
+      "title": "60平房子配40平阳台 真的好住吗",
       "category": "society",
       "hotScore": 0.6,
       "freshness": 1,
@@ -101,15 +126,34 @@
           "channel": "baidu",
           "rank": 6,
           "hot": 0,
-          "url": "https://m.baidu.com/s?word=%E4%B8%AD%E5%9B%BD%E5%9C%B0%E9%9C%87%E5%B1%80%E5%9B%9E%E5%BA%94%E5%9B%9B%E5%B7%9D%E8%AF%AF%E6%8A%A57.7%E7%BA%A7%E5%9C%B0%E9%9C%87&sa=fyb_news"
+          "url": "https://m.baidu.com/s?word=60%E5%B9%B3%E6%88%BF%E5%AD%90%E9%85%8D40%E5%B9%B3%E9%98%B3%E5%8F%B0+%E7%9C%9F%E7%9A%84%E5%A5%BD%E4%BD%8F%E5%90%97&sa=fyb_news"
         }
       ],
       "summary": "",
-      "url": "https://m.baidu.com/s?word=%E4%B8%AD%E5%9B%BD%E5%9C%B0%E9%9C%87%E5%B1%80%E5%9B%9E%E5%BA%94%E5%9B%9B%E5%B7%9D%E8%AF%AF%E6%8A%A57.7%E7%BA%A7%E5%9C%B0%E9%9C%87&sa=fyb_news"
+      "url": "https://m.baidu.com/s?word=60%E5%B9%B3%E6%88%BF%E5%AD%90%E9%85%8D40%E5%B9%B3%E9%98%B3%E5%8F%B0+%E7%9C%9F%E7%9A%84%E5%A5%BD%E4%BD%8F%E5%90%97&sa=fyb_news"
     },
     {
-      "id": "evt-60400000",
-      "title": "60平房子配40平阳台 真的好住吗",
+      "id": "evt-dna00000",
+      "title": "外卖员去世DNA鉴定儿子非亲生",
+      "category": "society",
+      "hotScore": 0.595,
+      "freshness": 0.9999,
+      "crossSource": 0.6309,
+      "totalScore": 0.7273,
+      "sources": [
+        {
+          "channel": "toutiao",
+          "rank": 7,
+          "hot": 8166821,
+          "url": "https://www.toutiao.com/trending/7677443318053096996/"
+        }
+      ],
+      "summary": "",
+      "url": "https://www.toutiao.com/trending/7677443318053096996/"
+    },
+    {
+      "id": "evt-pk000000",
+      "title": "小米要与苹果正面PK了",
       "category": "society",
       "hotScore": 0.52,
       "freshness": 1,
@@ -120,49 +164,68 @@
           "channel": "baidu",
           "rank": 8,
           "hot": 0,
-          "url": "https://m.baidu.com/s?word=60%E5%B9%B3%E6%88%BF%E5%AD%90%E9%85%8D40%E5%B9%B3%E9%98%B3%E5%8F%B0+%E7%9C%9F%E7%9A%84%E5%A5%BD%E4%BD%8F%E5%90%97&sa=fyb_news"
+          "url": "https://m.baidu.com/s?word=%E5%B0%8F%E7%B1%B3%E8%A6%81%E4%B8%8E%E8%8B%B9%E6%9E%9C%E6%AD%A3%E9%9D%A2PK%E4%BA%86&sa=fyb_news"
         }
       ],
       "summary": "",
-      "url": "https://m.baidu.com/s?word=60%E5%B9%B3%E6%88%BF%E5%AD%90%E9%85%8D40%E5%B9%B3%E9%98%B3%E5%8F%B0+%E7%9C%9F%E7%9A%84%E5%A5%BD%E4%BD%8F%E5%90%97&sa=fyb_news"
+      "url": "https://m.baidu.com/s?word=%E5%B0%8F%E7%B1%B3%E8%A6%81%E4%B8%8E%E8%8B%B9%E6%9E%9C%E6%AD%A3%E9%9D%A2PK%E4%BA%86&sa=fyb_news"
     },
     {
-      "id": "evt-15000000",
-      "title": "《琅琊榜》权谋比《大明王朝 1566》差这么多，为什么评分还高达 9.4？",
+      "id": "evt-16000000",
+      "title": "印媒为何关注歼16短暂停留巴基斯坦",
       "category": "society",
-      "hotScore": 0.4875,
-      "freshness": 1,
+      "hotScore": 0.51,
+      "freshness": 0.9999,
       "crossSource": 0.6309,
-      "totalScore": 0.6843,
+      "totalScore": 0.6933,
       "sources": [
         {
-          "channel": "zhihu",
-          "rank": 8,
-          "hot": 0,
-          "url": ""
-        }
-      ],
-      "summary": "",
-      "url": ""
-    },
-    {
-      "id": "evt-10000000",
-      "title": "美国或用近 1 万亿美元国库账户干预市场，美元、美债、美股三大定价市场持续波动，黄金上涨，你怎么看？",
-      "category": "society",
-      "hotScore": 0.45,
-      "freshness": 1,
-      "crossSource": 0.6309,
-      "totalScore": 0.6693,
-      "sources": [
-        {
-          "channel": "zhihu",
+          "channel": "toutiao",
           "rank": 9,
-          "hot": 0,
-          "url": ""
+          "hot": 6686427,
+          "url": "https://www.toutiao.com/trending/7678170828336270874/"
         }
       ],
       "summary": "",
-      "url": ""
+      "url": "https://www.toutiao.com/trending/7678170828336270874/"
+    },
+    {
+      "id": "evt-32000000",
+      "title": "吃一顿方便面需要花32天解毒？谣言",
+      "category": "society",
+      "hotScore": 0.425,
+      "freshness": 0.9999,
+      "crossSource": 0.6309,
+      "totalScore": 0.6593,
+      "sources": [
+        {
+          "channel": "toutiao",
+          "rank": 11,
+          "hot": 5474384,
+          "url": "https://www.toutiao.com/trending/7677862242847817791/"
+        }
+      ],
+      "summary": "",
+      "url": "https://www.toutiao.com/trending/7677862242847817791/"
+    },
+    {
+      "id": "evt-62000000",
+      "title": "薛之谦连发62个问号为扶老人店主发声",
+      "category": "society",
+      "hotScore": 0.3825,
+      "freshness": 0.9999,
+      "crossSource": 0.6309,
+      "totalScore": 0.6423,
+      "sources": [
+        {
+          "channel": "toutiao",
+          "rank": 12,
+          "hot": 4953427,
+          "url": "https://www.toutiao.com/trending/7677778814076272646/"
+        }
+      ],
+      "summary": "",
+      "url": "https://www.toutiao.com/trending/7677778814076272646/"
     }
   ]
 }
