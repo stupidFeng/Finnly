@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-08-28T01:53:25.123Z",
+  "generatedAt": "2026-08-28T13:31:38.258Z",
   "fields": {
     "society": "社会",
     "economy": "经济",
@@ -7,86 +7,80 @@
   },
   "feed": [
     {
-      "id": "evt-00000000",
-      "title": "赵心童回应登顶世界第一",
-      "category": "society",
-      "hotScore": 0.8075,
-      "freshness": 0.9999,
-      "crossSource": 1,
-      "totalScore": 0.923,
-      "sources": [
-        {
-          "channel": "toutiao",
-          "rank": 2,
-          "hot": 66363474,
-          "url": "https://www.toutiao.com/trending/7678713250501889546/"
-        },
-        {
-          "channel": "baidu",
-          "rank": 8,
-          "hot": 0,
-          "url": "https://m.baidu.com/s?word=%E8%B5%B5%E5%BF%83%E7%AB%A5%E5%9B%9E%E5%BA%94%E7%99%BB%E9%A1%B6%E4%B8%96%E7%95%8C%E7%AC%AC%E4%B8%80&sa=fyb_news"
-        },
-        {
-          "channel": "baidu",
-          "rank": 9,
-          "hot": 0,
-          "url": "https://m.baidu.com/s?word=%E8%B5%B5%E5%BF%83%E7%AB%A5%E7%99%BB%E9%A1%B6%E4%B8%96%E7%95%8C%E7%AC%AC%E4%B8%80&sa=fyb_news"
-        }
-      ],
-      "summary": "",
-      "url": "https://www.toutiao.com/trending/7678713250501889546/"
-    },
-    {
-      "id": "evt-13200000",
-      "title": "女子追讨13年前2万元开店“保证金”一审败诉，被告称系管理费",
+      "id": "evt-74600000",
+      "title": "蒋超良受贿7.46亿余元被判死缓",
       "category": "society",
       "hotScore": 0.765,
-      "freshness": 0.9999,
-      "crossSource": 0.6309,
-      "totalScore": 0.7952,
+      "freshness": 1,
+      "crossSource": 1,
+      "totalScore": 0.906,
       "sources": [
         {
           "channel": "thepaper",
           "rank": 3,
           "hot": 0,
-          "url": "https://www.thepaper.cn/newsDetail_forward_33958484"
+          "url": "https://www.thepaper.cn/newsDetail_forward_33967455"
+        },
+        {
+          "channel": "baidu",
+          "rank": 15,
+          "hot": 0,
+          "url": "https://m.baidu.com/s?word=%E8%92%8B%E8%B6%85%E8%89%AF%E5%8F%97%E8%B4%BF7.46%E4%BA%BF%E4%BD%99%E5%85%83%E8%A2%AB%E5%88%A4%E6%AD%BB%E7%BC%93&sa=fyb_news"
         }
       ],
       "summary": "",
-      "url": "https://www.thepaper.cn/newsDetail_forward_33958484"
+      "url": "https://www.thepaper.cn/newsDetail_forward_33967455"
     },
     {
-      "id": "evt-90000000",
-      "title": "沙德尔在浙江登陆 将波及9省区",
+      "id": "evt-00000000",
+      "title": "李强：西藏泥石流灾害令人十分痛心",
       "category": "society",
-      "hotScore": 0.72,
+      "hotScore": 0.85,
       "freshness": 1,
       "crossSource": 0.6309,
-      "totalScore": 0.7773,
+      "totalScore": 0.8293,
+      "sources": [
+        {
+          "channel": "toutiao",
+          "rank": 1,
+          "hot": 72580811,
+          "url": "https://www.toutiao.com/trending/7678988020976242222/"
+        }
+      ],
+      "summary": "",
+      "url": "https://www.toutiao.com/trending/7678988020976242222/"
+    },
+    {
+      "id": "evt-20257900",
+      "title": "2025年中国新生儿792万",
+      "category": "society",
+      "hotScore": 0.76,
+      "freshness": 1,
+      "crossSource": 0.6309,
+      "totalScore": 0.7933,
       "sources": [
         {
           "channel": "baidu",
-          "rank": 3,
+          "rank": 2,
           "hot": 0,
-          "url": "https://m.baidu.com/s?word=%E6%B2%99%E5%BE%B7%E5%B0%94%E5%9C%A8%E6%B5%99%E6%B1%9F%E7%99%BB%E9%99%86+%E5%B0%86%E6%B3%A2%E5%8F%8A9%E7%9C%81%E5%8C%BA&sa=fyb_news"
+          "url": "https://m.baidu.com/s?word=2025%E5%B9%B4%E4%B8%AD%E5%9B%BD%E6%96%B0%E7%94%9F%E5%84%BF792%E4%B8%87&sa=fyb_news"
         }
       ],
       "summary": "",
-      "url": "https://m.baidu.com/s?word=%E6%B2%99%E5%BE%B7%E5%B0%94%E5%9C%A8%E6%B5%99%E6%B1%9F%E7%99%BB%E9%99%86+%E5%B0%86%E6%B3%A2%E5%8F%8A9%E7%9C%81%E5%8C%BA&sa=fyb_news"
+      "url": "https://m.baidu.com/s?word=2025%E5%B9%B4%E4%B8%AD%E5%9B%BD%E6%96%B0%E7%94%9F%E5%84%BF792%E4%B8%87&sa=fyb_news"
     },
     {
-      "id": "evt-70000000",
-      "title": "7 万吨级货轮在印度洋发生沉船事故，18 名中国籍船员失联，目前情况如何？",
+      "id": "evt-50000000",
+      "title": "西藏吉隆泥石流致 5 人遇难 558 人失联，上游堰塞湖出现溢流，目前救援进展如何？",
       "category": "society",
-      "hotScore": 0.6,
-      "freshness": 0.9999,
+      "hotScore": 0.75,
+      "freshness": 1,
       "crossSource": 0.6309,
-      "totalScore": 0.7292,
+      "totalScore": 0.7893,
       "sources": [
         {
           "channel": "zhihu",
-          "rank": 5,
+          "rank": 1,
           "hot": 0,
           "url": ""
         }
@@ -95,32 +89,51 @@
       "url": ""
     },
     {
-      "id": "evt-91000000",
-      "title": "毛主席纪念堂9月1日起恢复对外开放",
+      "id": "evt-20000000",
+      "title": "汕头一酒店房间平时售价 280 元，国庆期间标价 5850 元，门店称并非最终价格，这样的涨价幅度合理吗？",
       "category": "society",
-      "hotScore": 0.595,
-      "freshness": 0.9999,
+      "hotScore": 0.675,
+      "freshness": 1,
       "crossSource": 0.6309,
-      "totalScore": 0.7272,
+      "totalScore": 0.7593,
       "sources": [
         {
-          "channel": "toutiao",
-          "rank": 7,
-          "hot": 40251482,
-          "url": "https://www.toutiao.com/trending/7678826814382358582/"
+          "channel": "zhihu",
+          "rank": 3,
+          "hot": 0,
+          "url": ""
         }
       ],
       "summary": "",
-      "url": "https://www.toutiao.com/trending/7678826814382358582/"
+      "url": ""
     },
     {
-      "id": "evt-gta62700",
-      "title": "如何评价《GTA6》27 分钟加长版实机预告片？",
+      "id": "evt-5g000000",
+      "title": "5G 商用七年了，除了手机右上角多 5G 标识，网速体验和 4G 没差别，信号甚至更差，我该如何反驳这种观点？",
+      "category": "society",
+      "hotScore": 0.6375,
+      "freshness": 1,
+      "crossSource": 0.6309,
+      "totalScore": 0.7443,
+      "sources": [
+        {
+          "channel": "zhihu",
+          "rank": 4,
+          "hot": 0,
+          "url": ""
+        }
+      ],
+      "summary": "",
+      "url": ""
+    },
+    {
+      "id": "evt-steam000",
+      "title": "如何评价育碧在 Steam 上架《英雄无敌 3》却忘记发游戏文件，玩家仅下载到 23KB 占位符？",
       "category": "society",
       "hotScore": 0.5625,
-      "freshness": 0.9999,
+      "freshness": 1,
       "crossSource": 0.6309,
-      "totalScore": 0.7142,
+      "totalScore": 0.7143,
       "sources": [
         {
           "channel": "zhihu",
@@ -133,32 +146,13 @@
       "url": ""
     },
     {
-      "id": "evt-29500000",
-      "title": "父母公证赠女儿295万 离婚时女婿要分",
-      "category": "society",
-      "hotScore": 0.56,
-      "freshness": 1,
-      "crossSource": 0.6309,
-      "totalScore": 0.7133,
-      "sources": [
-        {
-          "channel": "baidu",
-          "rank": 7,
-          "hot": 0,
-          "url": "https://m.baidu.com/s?word=%E7%88%B6%E6%AF%8D%E5%85%AC%E8%AF%81%E8%B5%A0%E5%A5%B3%E5%84%BF295%E4%B8%87+%E7%A6%BB%E5%A9%9A%E6%97%B6%E5%A5%B3%E5%A9%BF%E8%A6%81%E5%88%86&sa=fyb_news"
-        }
-      ],
-      "summary": "",
-      "url": "https://m.baidu.com/s?word=%E7%88%B6%E6%AF%8D%E5%85%AC%E8%AF%81%E8%B5%A0%E5%A5%B3%E5%84%BF295%E4%B8%87+%E7%A6%BB%E5%A9%9A%E6%97%B6%E5%A5%B3%E5%A9%BF%E8%A6%81%E5%88%86&sa=fyb_news"
-    },
-    {
-      "id": "evt-c0000000",
-      "title": "C 罗上半场两球落后，不满摘下队长袖标，这一举动可能意味着什么？",
+      "id": "evt-92000000",
+      "title": "上海 92% 班主任不愿任职，年轻教师用诊断书回避，背后原因是什么？",
       "category": "society",
       "hotScore": 0.525,
-      "freshness": 0.9999,
+      "freshness": 1,
       "crossSource": 0.6309,
-      "totalScore": 0.6992,
+      "totalScore": 0.6993,
       "sources": [
         {
           "channel": "zhihu",
@@ -171,23 +165,23 @@
       "url": ""
     },
     {
-      "id": "evt-39000000",
-      "title": "员工替领导打卡 39 次，被公司以违纪开除，法院判定解雇合法，如何看待该判决？领导要求代打卡该怎么办？",
+      "id": "evt-60000000",
+      "title": "近600万法拍别墅收房一片废墟",
       "category": "society",
-      "hotScore": 0.45,
-      "freshness": 0.9999,
+      "hotScore": 0.4675,
+      "freshness": 1,
       "crossSource": 0.6309,
-      "totalScore": 0.6692,
+      "totalScore": 0.6763,
       "sources": [
         {
-          "channel": "zhihu",
-          "rank": 9,
-          "hot": 0,
-          "url": ""
+          "channel": "toutiao",
+          "rank": 10,
+          "hot": 29509155,
+          "url": "https://www.toutiao.com/trending/7678894213518704646/"
         }
       ],
       "summary": "",
-      "url": ""
+      "url": "https://www.toutiao.com/trending/7678894213518704646/"
     }
   ]
 }
