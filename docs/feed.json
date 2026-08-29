@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-08-29T20:08:57.904Z",
+  "generatedAt": "2026-08-29T23:41:27.679Z",
   "fields": {
     "society": "社会",
     "economy": "经济",
@@ -8,7 +8,7 @@
   "feed": [
     {
       "id": "evt-00000000",
-      "title": "刘诗雯、金克霍尔向国际乒联汇报运动员委员会工作，刘国梁、瓦希德等执委参加会议",
+      "title": "吉隆口岸大楼只剩钢筋骨架",
       "category": "society",
       "hotScore": 0.85,
       "freshness": 0.9999,
@@ -16,58 +16,14 @@
       "totalScore": 0.8293,
       "sources": [
         {
-          "channel": "thepaper",
+          "channel": "toutiao",
           "rank": 1,
-          "hot": 0,
-          "url": "https://www.thepaper.cn/newsDetail_forward_33972915"
+          "hot": 46775123,
+          "url": "https://www.toutiao.com/trending/7679072449947123731/"
         }
       ],
       "summary": "",
-      "url": "https://www.thepaper.cn/newsDetail_forward_33972915"
-    },
-    {
-      "id": "evt-30000000",
-      "title": "尼泊尔一重灾区3天仅挖通道路50米",
-      "category": "society",
-      "hotScore": 0.8075,
-      "freshness": 0.9999,
-      "crossSource": 0.6309,
-      "totalScore": 0.8122,
-      "sources": [
-        {
-          "channel": "toutiao",
-          "rank": 2,
-          "hot": 38327211,
-          "url": "https://www.toutiao.com/trending/7678730994773704730/"
-        }
-      ],
-      "summary": "",
-      "url": "https://www.toutiao.com/trending/7678730994773704730/"
-    },
-    {
-      "id": "evt-80000000",
-      "title": "樊振东无缘德国杯8强",
-      "category": "society",
-      "hotScore": 0.51,
-      "freshness": 0.9999,
-      "crossSource": 1,
-      "totalScore": 0.804,
-      "sources": [
-        {
-          "channel": "toutiao",
-          "rank": 9,
-          "hot": 19032730,
-          "url": "https://www.toutiao.com/trending/7678642685917544491/"
-        },
-        {
-          "channel": "baidu",
-          "rank": 11,
-          "hot": 0,
-          "url": "https://m.baidu.com/s?word=%E6%A8%8A%E6%8C%AF%E4%B8%9C%E6%97%A0%E7%BC%98%E5%BE%B7%E5%9B%BD%E6%9D%AF8%E5%BC%BA&sa=fyb_news"
-        }
-      ],
-      "summary": "",
-      "url": "https://www.toutiao.com/trending/7678642685917544491/"
+      "url": "https://www.toutiao.com/trending/7679072449947123731/"
     },
     {
       "id": "evt-11130000",
@@ -76,11 +32,68 @@
       "hotScore": 0.75,
       "freshness": 0.9999,
       "crossSource": 0.6309,
-      "totalScore": 0.7892,
+      "totalScore": 0.7893,
       "sources": [
         {
           "channel": "zhihu",
           "rank": 1,
+          "hot": 0,
+          "url": ""
+        }
+      ],
+      "summary": "",
+      "url": ""
+    },
+    {
+      "id": "evt-30000000",
+      "title": "尼泊尔一重灾区3天仅挖通道路50米",
+      "category": "society",
+      "hotScore": 0.7225,
+      "freshness": 0.9999,
+      "crossSource": 0.6309,
+      "totalScore": 0.7783,
+      "sources": [
+        {
+          "channel": "toutiao",
+          "rank": 4,
+          "hot": 34651863,
+          "url": "https://www.toutiao.com/trending/7678730994773704730/"
+        }
+      ],
+      "summary": "",
+      "url": "https://www.toutiao.com/trending/7678730994773704730/"
+    },
+    {
+      "id": "evt-dq000000",
+      "title": "DQ冰激凌机器人员工比人慢4分钟",
+      "category": "society",
+      "hotScore": 0.68,
+      "freshness": 0.9999,
+      "crossSource": 0.6309,
+      "totalScore": 0.7613,
+      "sources": [
+        {
+          "channel": "toutiao",
+          "rank": 5,
+          "hot": 31354302,
+          "url": "https://www.toutiao.com/trending/7678617811622743593/"
+        }
+      ],
+      "summary": "",
+      "url": "https://www.toutiao.com/trending/7678617811622743593/"
+    },
+    {
+      "id": "evt-80000000",
+      "title": "一家三口候补车票，8 岁小孩被分到不同车厢致无奈退票，怎样能避免这种情况？购票机制还有哪些优化空间？",
+      "category": "society",
+      "hotScore": 0.675,
+      "freshness": 0.9999,
+      "crossSource": 0.6309,
+      "totalScore": 0.7593,
+      "sources": [
+        {
+          "channel": "zhihu",
+          "rank": 3,
           "hot": 0,
           "url": ""
         }
@@ -127,8 +140,71 @@
       "url": "https://m.baidu.com/s?word=%E5%B8%B8%E5%86%B0%E7%8E%8910-7%E5%87%BB%E8%B4%A5%E4%B8%96%E7%95%8C%E7%AC%AC%E4%B8%80%E8%B5%B5%E5%BF%83%E7%AB%A5%E5%A4%BA%E5%86%A0&sa=fyb_news"
     },
     {
+      "id": "evt-s0000000",
+      "title": "吉隆救援队驾冲锋舟穿S弯急流探路",
+      "category": "society",
+      "hotScore": 0.32,
+      "freshness": 0.9999,
+      "crossSource": 1,
+      "totalScore": 0.728,
+      "sources": [
+        {
+          "channel": "toutiao",
+          "rank": 14,
+          "hot": 12747708,
+          "url": "https://www.toutiao.com/trending/7679591005171011099/"
+        },
+        {
+          "channel": "baidu",
+          "rank": 13,
+          "hot": 0,
+          "url": "https://m.baidu.com/s?word=%E5%90%89%E9%9A%86%E6%95%91%E6%8F%B4%E9%98%9F%E9%A9%BE%E5%86%B2%E9%94%8B%E8%88%9F%E7%A9%BFS%E5%BC%AF%E6%80%A5%E6%B5%81%E6%8E%A2%E8%B7%AF&sa=fyb_news"
+        }
+      ],
+      "summary": "",
+      "url": "https://www.toutiao.com/trending/7679591005171011099/"
+    },
+    {
       "id": "evt-15000000",
       "title": "15岁少年手臂大面积文身无法入学",
+      "category": "society",
+      "hotScore": 0.56,
+      "freshness": 1,
+      "crossSource": 0.6309,
+      "totalScore": 0.7133,
+      "sources": [
+        {
+          "channel": "baidu",
+          "rank": 7,
+          "hot": 0,
+          "url": "https://m.baidu.com/s?word=15%E5%B2%81%E5%B0%91%E5%B9%B4%E6%89%8B%E8%87%82%E5%A4%A7%E9%9D%A2%E7%A7%AF%E6%96%87%E8%BA%AB%E6%97%A0%E6%B3%95%E5%85%A5%E5%AD%A6&sa=fyb_news"
+        }
+      ],
+      "summary": "",
+      "url": "https://m.baidu.com/s?word=15%E5%B2%81%E5%B0%91%E5%B9%B4%E6%89%8B%E8%87%82%E5%A4%A7%E9%9D%A2%E7%A7%AF%E6%96%87%E8%BA%AB%E6%97%A0%E6%B3%95%E5%85%A5%E5%AD%A6&sa=fyb_news"
+    },
+    {
+      "id": "evt-10000000",
+      "title": "白岩松谈企业违规解约107名应届生",
+      "category": "society",
+      "hotScore": 0.5525,
+      "freshness": 0.9999,
+      "crossSource": 0.6309,
+      "totalScore": 0.7103,
+      "sources": [
+        {
+          "channel": "toutiao",
+          "rank": 8,
+          "hot": 23227838,
+          "url": "https://www.toutiao.com/trending/7678666176289521683/"
+        }
+      ],
+      "summary": "",
+      "url": "https://www.toutiao.com/trending/7678666176289521683/"
+    },
+    {
+      "id": "evt-60000000",
+      "title": "这6类食物生吃更抗炎",
       "category": "society",
       "hotScore": 0.52,
       "freshness": 1,
@@ -139,11 +215,30 @@
           "channel": "baidu",
           "rank": 8,
           "hot": 0,
-          "url": "https://m.baidu.com/s?word=15%E5%B2%81%E5%B0%91%E5%B9%B4%E6%89%8B%E8%87%82%E5%A4%A7%E9%9D%A2%E7%A7%AF%E6%96%87%E8%BA%AB%E6%97%A0%E6%B3%95%E5%85%A5%E5%AD%A6&sa=fyb_news"
+          "url": "https://m.baidu.com/s?word=%E8%BF%996%E7%B1%BB%E9%A3%9F%E7%89%A9%E7%94%9F%E5%90%83%E6%9B%B4%E6%8A%97%E7%82%8E&sa=fyb_news"
         }
       ],
       "summary": "",
-      "url": "https://m.baidu.com/s?word=15%E5%B2%81%E5%B0%91%E5%B9%B4%E6%89%8B%E8%87%82%E5%A4%A7%E9%9D%A2%E7%A7%AF%E6%96%87%E8%BA%AB%E6%97%A0%E6%B3%95%E5%85%A5%E5%AD%A6&sa=fyb_news"
+      "url": "https://m.baidu.com/s?word=%E8%BF%996%E7%B1%BB%E9%A3%9F%E7%89%A9%E7%94%9F%E5%90%83%E6%9B%B4%E6%8A%97%E7%82%8E&sa=fyb_news"
+    },
+    {
+      "id": "evt-23000000",
+      "title": "23点后才睡错过的不只是美容觉",
+      "category": "society",
+      "hotScore": 0.51,
+      "freshness": 0.9999,
+      "crossSource": 0.6309,
+      "totalScore": 0.6933,
+      "sources": [
+        {
+          "channel": "toutiao",
+          "rank": 9,
+          "hot": 21017417,
+          "url": "https://www.toutiao.com/trending/7679429862331367474/"
+        }
+      ],
+      "summary": "",
+      "url": "https://www.toutiao.com/trending/7679429862331367474/"
     }
   ]
 }
