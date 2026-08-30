@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-08-30T09:33:52.593Z",
+  "generatedAt": "2026-08-30T14:34:05.640Z",
   "fields": {
     "society": "社会",
     "economy": "经济",
@@ -7,181 +7,99 @@
   },
   "feed": [
     {
-      "id": "evt-00000000",
-      "title": "尼泊尔冰崩是因为全球变暖吗",
-      "category": "society",
-      "hotScore": 0.8075,
-      "freshness": 1,
-      "crossSource": 1,
-      "totalScore": 0.923,
-      "sources": [
-        {
-          "channel": "toutiao",
-          "rank": 2,
-          "hot": 22404537,
-          "url": "https://www.toutiao.com/trending/7679218383044333119/"
-        },
-        {
-          "channel": "baidu",
-          "rank": 15,
-          "hot": 0,
-          "url": "https://m.baidu.com/s?word=%E5%B0%BC%E6%B3%8A%E5%B0%94%E5%86%B0%E5%B4%A9%E6%98%AF%E5%9B%A0%E4%B8%BA%E5%85%A8%E7%90%83%E5%8F%98%E6%9A%96%E5%90%97&sa=fyb_news"
-        }
-      ],
-      "summary": "",
-      "url": "https://www.toutiao.com/trending/7679218383044333119/"
-    },
-    {
-      "id": "evt-60000000",
-      "title": "敌敌畏消杀事件6人被刑拘",
+      "id": "evt-20000000",
+      "title": "吉隆泥石流痕迹近20层楼高",
       "category": "society",
       "hotScore": 0.7225,
-      "freshness": 1,
+      "freshness": 0.9999,
       "crossSource": 1,
       "totalScore": 0.889,
       "sources": [
         {
           "channel": "toutiao",
           "rank": 4,
-          "hot": 18343283,
-          "url": "https://www.toutiao.com/trending/7679748783978057257/"
+          "hot": 19364819,
+          "url": "https://www.toutiao.com/trending/7679218383044447807/"
         },
         {
           "channel": "baidu",
-          "rank": 11,
+          "rank": 3,
           "hot": 0,
-          "url": "https://m.baidu.com/s?word=%E6%95%8C%E6%95%8C%E7%95%8F%E6%B6%88%E6%9D%80%E4%BA%8B%E4%BB%B66%E4%BA%BA%E8%A2%AB%E5%88%91%E6%8B%98&sa=fyb_news"
+          "url": "https://m.baidu.com/s?word=%E5%90%89%E9%9A%86%E6%B3%A5%E7%9F%B3%E6%B5%81%E7%97%95%E8%BF%B9%E8%BF%9120%E5%B1%82%E6%A5%BC%E9%AB%98&sa=fyb_news"
         }
       ],
       "summary": "",
-      "url": "https://www.toutiao.com/trending/7679748783978057257/"
+      "url": "https://www.toutiao.com/trending/7679218383044447807/"
     },
     {
-      "id": "evt-20260000",
-      "title": "习近平离京出席2026年上合组织峰会",
+      "id": "evt-00000000",
+      "title": "西藏吉隆有挖掘机意外坠河",
       "category": "society",
-      "hotScore": 0.8,
+      "hotScore": 0.85,
+      "freshness": 0.9999,
+      "crossSource": 0.6309,
+      "totalScore": 0.8293,
+      "sources": [
+        {
+          "channel": "toutiao",
+          "rank": 1,
+          "hot": 26139771,
+          "url": "https://www.toutiao.com/trending/7679388457596387379/"
+        }
+      ],
+      "summary": "",
+      "url": "https://www.toutiao.com/trending/7679388457596387379/"
+    },
+    {
+      "id": "evt-40000000",
+      "title": "中国从月球传照片4分钟缩到12秒",
+      "category": "society",
+      "hotScore": 0.64,
       "freshness": 1,
       "crossSource": 0.6309,
-      "totalScore": 0.8093,
+      "totalScore": 0.7453,
       "sources": [
         {
           "channel": "baidu",
-          "rank": 1,
+          "rank": 5,
           "hot": 0,
-          "url": "https://m.baidu.com/s?word=%E4%B9%A0%E8%BF%91%E5%B9%B3%E7%A6%BB%E4%BA%AC%E5%87%BA%E5%B8%AD2026%E5%B9%B4%E4%B8%8A%E5%90%88%E7%BB%84%E7%BB%87%E5%B3%B0%E4%BC%9A&sa=fyb_news"
+          "url": "https://m.baidu.com/s?word=%E4%B8%AD%E5%9B%BD%E4%BB%8E%E6%9C%88%E7%90%83%E4%BC%A0%E7%85%A7%E7%89%874%E5%88%86%E9%92%9F%E7%BC%A9%E5%88%B012%E7%A7%92&sa=fyb_news"
         }
       ],
       "summary": "",
-      "url": "https://m.baidu.com/s?word=%E4%B9%A0%E8%BF%91%E5%B9%B3%E7%A6%BB%E4%BA%AC%E5%87%BA%E5%B8%AD2026%E5%B9%B4%E4%B8%8A%E5%90%88%E7%BB%84%E7%BB%87%E5%B3%B0%E4%BC%9A&sa=fyb_news"
+      "url": "https://m.baidu.com/s?word=%E4%B8%AD%E5%9B%BD%E4%BB%8E%E6%9C%88%E7%90%83%E4%BC%A0%E7%85%A7%E7%89%874%E5%88%86%E9%92%9F%E7%BC%A9%E5%88%B012%E7%A7%92&sa=fyb_news"
     },
     {
-      "id": "evt-16540000",
-      "title": "西藏泥石流已致 16 死 546 失联，泥石流灾害系因尼泊尔一条冰川断裂发生冰岩崩，还有哪些信息值得关注？",
-      "category": "society",
-      "hotScore": 0.75,
-      "freshness": 1,
-      "crossSource": 0.6309,
-      "totalScore": 0.7893,
-      "sources": [
-        {
-          "channel": "zhihu",
-          "rank": 1,
-          "hot": 0,
-          "url": ""
-        }
-      ],
-      "summary": "",
-      "url": ""
-    },
-    {
-      "id": "evt-80000000",
-      "title": "一家三口候补车票，8 岁小孩被分到不同车厢致无奈退票，怎样能避免这种情况？购票机制还有哪些优化空间？",
-      "category": "society",
-      "hotScore": 0.7125,
-      "freshness": 1,
-      "crossSource": 0.6309,
-      "totalScore": 0.7743,
-      "sources": [
-        {
-          "channel": "zhihu",
-          "rank": 2,
-          "hot": 0,
-          "url": ""
-        }
-      ],
-      "summary": "",
-      "url": ""
-    },
-    {
-      "id": "evt-20000000",
-      "title": "运20载中方首批援助物资抵达尼泊尔",
+      "id": "evt-etc00000",
+      "title": "官方回应“取消ETC”读懂车主真诉求",
       "category": "society",
       "hotScore": 0.6375,
-      "freshness": 1,
+      "freshness": 0.9999,
       "crossSource": 0.6309,
       "totalScore": 0.7443,
       "sources": [
         {
           "channel": "toutiao",
           "rank": 6,
-          "hot": 15018210,
-          "url": "https://www.toutiao.com/trending/7679672623885828132/"
+          "hot": 15854573,
+          "url": "https://www.toutiao.com/trending/7679090762579001386/"
         }
       ],
       "summary": "",
-      "url": "https://www.toutiao.com/trending/7679672623885828132/"
+      "url": "https://www.toutiao.com/trending/7679090762579001386/"
     },
     {
-      "id": "evt-50000000",
-      "title": "河南5人吃生鱼片全部确诊肝吸虫病",
-      "category": "society",
-      "hotScore": 0.56,
-      "freshness": 1,
+      "id": "evt-31000000",
+      "title": "国家自然基金委通报 31 个项目并追回资助，这暴露出我国科研管理存在哪些问题？",
+      "category": "economy",
+      "hotScore": 0.525,
+      "freshness": 0.9999,
       "crossSource": 0.6309,
-      "totalScore": 0.7133,
-      "sources": [
-        {
-          "channel": "baidu",
-          "rank": 7,
-          "hot": 0,
-          "url": "https://m.baidu.com/s?word=%E6%B2%B3%E5%8D%975%E4%BA%BA%E5%90%83%E7%94%9F%E9%B1%BC%E7%89%87%E5%85%A8%E9%83%A8%E7%A1%AE%E8%AF%8A%E8%82%9D%E5%90%B8%E8%99%AB%E7%97%85&sa=fyb_news"
-        }
-      ],
-      "summary": "",
-      "url": "https://m.baidu.com/s?word=%E6%B2%B3%E5%8D%975%E4%BA%BA%E5%90%83%E7%94%9F%E9%B1%BC%E7%89%87%E5%85%A8%E9%83%A8%E7%A1%AE%E8%AF%8A%E8%82%9D%E5%90%B8%E8%99%AB%E7%97%85&sa=fyb_news"
-    },
-    {
-      "id": "evt-etc00000",
-      "title": "网友建议“取消ETC设备使用，采用车牌感应支付”，交通运输部回复",
-      "category": "society",
-      "hotScore": 0.51,
-      "freshness": 1,
-      "crossSource": 0.6309,
-      "totalScore": 0.6933,
-      "sources": [
-        {
-          "channel": "thepaper",
-          "rank": 9,
-          "hot": 0,
-          "url": "https://www.thepaper.cn/newsDetail_forward_33973354"
-        }
-      ],
-      "summary": "",
-      "url": "https://www.thepaper.cn/newsDetail_forward_33973354"
-    },
-    {
-      "id": "evt-18000000",
-      "title": "客观评价《凡人修仙传》第 189 集，是否封神？",
-      "category": "society",
-      "hotScore": 0.4875,
-      "freshness": 1,
-      "crossSource": 0.6309,
-      "totalScore": 0.6843,
+      "totalScore": 0.6993,
       "sources": [
         {
           "channel": "zhihu",
-          "rank": 8,
+          "rank": 7,
           "hot": 0,
           "url": ""
         }
@@ -190,30 +108,49 @@
       "url": ""
     },
     {
-      "id": "evt-52700000",
-      "title": "宝马5系 不到27万了",
-      "category": "society",
-      "hotScore": 0.48,
+      "id": "evt-11000000",
+      "title": "在德国杯1胜1负的樊振东，扛下了当日超百万票房",
+      "category": "entertainment",
+      "hotScore": 0.425,
       "freshness": 1,
       "crossSource": 0.6309,
-      "totalScore": 0.6813,
+      "totalScore": 0.6593,
       "sources": [
         {
-          "channel": "baidu",
-          "rank": 9,
+          "channel": "thepaper",
+          "rank": 11,
           "hot": 0,
-          "url": "https://m.baidu.com/s?word=%E5%AE%9D%E9%A9%AC5%E7%B3%BB+%E4%B8%8D%E5%88%B027%E4%B8%87%E4%BA%86&sa=fyb_news"
+          "url": "https://www.thepaper.cn/newsDetail_forward_33973917"
         }
       ],
       "summary": "",
-      "url": "https://m.baidu.com/s?word=%E5%AE%9D%E9%A9%AC5%E7%B3%BB+%E4%B8%8D%E5%88%B027%E4%B8%87%E4%BA%86&sa=fyb_news"
+      "url": "https://www.thepaper.cn/newsDetail_forward_33973917"
     },
     {
       "id": "evt-ahdm0000",
       "title": "轻薄本疯狂砍掉 A 口、 HDMI，全靠 Type‑C，为轻薄牺牲接口，到底是进步还是对普通用户不负责任？",
       "category": "society",
+      "hotScore": 0.5625,
+      "freshness": 0.9999,
+      "crossSource": 0.6309,
+      "totalScore": 0.7143,
+      "sources": [
+        {
+          "channel": "zhihu",
+          "rank": 6,
+          "hot": 0,
+          "url": ""
+        }
+      ],
+      "summary": "",
+      "url": ""
+    },
+    {
+      "id": "evt-20260000",
+      "title": "2026 年乒乓球德国杯，樊振东 2：3 不敌户上隼辅，怎么评价本次赛事杜塞尔多夫俱乐部止步 16 强的表现？",
+      "category": "society",
       "hotScore": 0.45,
-      "freshness": 1,
+      "freshness": 0.9999,
       "crossSource": 0.6309,
       "totalScore": 0.6693,
       "sources": [
@@ -226,6 +163,25 @@
       ],
       "summary": "",
       "url": ""
+    },
+    {
+      "id": "evt-22000000",
+      "title": "赛考斯感慨中国已进入22世纪",
+      "category": "society",
+      "hotScore": 0.44,
+      "freshness": 1,
+      "crossSource": 0.6309,
+      "totalScore": 0.6653,
+      "sources": [
+        {
+          "channel": "baidu",
+          "rank": 10,
+          "hot": 0,
+          "url": "https://m.baidu.com/s?word=%E8%B5%9B%E8%80%83%E6%96%AF%E6%84%9F%E6%85%A8%E4%B8%AD%E5%9B%BD%E5%B7%B2%E8%BF%9B%E5%85%A522%E4%B8%96%E7%BA%AA&sa=fyb_news"
+        }
+      ],
+      "summary": "",
+      "url": "https://m.baidu.com/s?word=%E8%B5%9B%E8%80%83%E6%96%AF%E6%84%9F%E6%85%A8%E4%B8%AD%E5%9B%BD%E5%B7%B2%E8%BF%9B%E5%85%A522%E4%B8%96%E7%BA%AA&sa=fyb_news"
     }
   ]
 }
