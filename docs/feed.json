@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-08-30T18:55:26.185Z",
+  "generatedAt": "2026-08-30T22:13:19.261Z",
   "fields": {
     "society": "社会",
     "economy": "经济",
@@ -7,18 +7,43 @@
   },
   "feed": [
     {
+      "id": "evt-00000000",
+      "title": "西藏吉隆有挖掘机意外坠河",
+      "category": "society",
+      "hotScore": 0.85,
+      "freshness": 1,
+      "crossSource": 1,
+      "totalScore": 0.94,
+      "sources": [
+        {
+          "channel": "toutiao",
+          "rank": 1,
+          "hot": 31359970,
+          "url": "https://www.toutiao.com/trending/7679388457596387379/"
+        },
+        {
+          "channel": "baidu",
+          "rank": 19,
+          "hot": 0,
+          "url": "https://m.baidu.com/s?word=%E8%A5%BF%E8%97%8F%E5%90%89%E9%9A%86%E6%9C%89%E6%8C%96%E6%8E%98%E6%9C%BA%E6%84%8F%E5%A4%96%E5%9D%A0%E6%B2%B3&sa=fyb_news"
+        }
+      ],
+      "summary": "",
+      "url": "https://www.toutiao.com/trending/7679388457596387379/"
+    },
+    {
       "id": "evt-20000000",
       "title": "吉隆泥石流痕迹近20层楼高",
       "category": "society",
       "hotScore": 0.7225,
-      "freshness": 0.9999,
+      "freshness": 1,
       "crossSource": 1,
       "totalScore": 0.889,
       "sources": [
         {
           "channel": "toutiao",
           "rank": 4,
-          "hot": 22162436,
+          "hot": 23232037,
           "url": "https://www.toutiao.com/trending/7679218383044447807/"
         },
         {
@@ -32,30 +57,36 @@
       "url": "https://www.toutiao.com/trending/7679218383044447807/"
     },
     {
-      "id": "evt-00000000",
-      "title": "厦门通报“一公司使用敌敌畏为餐饮门店消杀问题”：6人被刑拘",
+      "id": "evt-23000000",
+      "title": "梅艳芳遗产争夺案23年后大结局",
       "category": "society",
-      "hotScore": 0.85,
+      "hotScore": 0.3825,
       "freshness": 1,
-      "crossSource": 0.6309,
-      "totalScore": 0.8293,
+      "crossSource": 1,
+      "totalScore": 0.753,
       "sources": [
         {
-          "channel": "thepaper",
-          "rank": 1,
+          "channel": "toutiao",
+          "rank": 12,
+          "hot": 10438827,
+          "url": "https://www.toutiao.com/trending/7679792761658228774/"
+        },
+        {
+          "channel": "baidu",
+          "rank": 17,
           "hot": 0,
-          "url": "https://www.thepaper.cn/newsDetail_forward_33975502"
+          "url": "https://m.baidu.com/s?word=%E6%A2%85%E8%89%B3%E8%8A%B3%E9%81%97%E4%BA%A7%E4%BA%89%E5%A4%BA%E6%A1%8823%E5%B9%B4%E5%90%8E%E5%A4%A7%E7%BB%93%E5%B1%80&sa=fyb_news"
         }
       ],
       "summary": "",
-      "url": "https://www.thepaper.cn/newsDetail_forward_33975502"
+      "url": "https://www.toutiao.com/trending/7679792761658228774/"
     },
     {
       "id": "evt-22000000",
       "title": "赛考斯感慨中国已进入22世纪",
       "category": "society",
       "hotScore": 0.64,
-      "freshness": 0.9999,
+      "freshness": 1,
       "crossSource": 0.6309,
       "totalScore": 0.7453,
       "sources": [
@@ -70,37 +101,18 @@
       "url": "https://m.baidu.com/s?word=%E8%B5%9B%E8%80%83%E6%96%AF%E6%84%9F%E6%85%A8%E4%B8%AD%E5%9B%BD%E5%B7%B2%E8%BF%9B%E5%85%A522%E4%B8%96%E7%BA%AA&sa=fyb_news"
     },
     {
-      "id": "evt-20260000",
-      "title": "2026 女排亚锦赛决赛，中国女排 2 比 3 不敌泰国女排，无缘直通奥运，如何评价这场比赛？",
-      "category": "society",
-      "hotScore": 0.6375,
-      "freshness": 0.9999,
-      "crossSource": 0.6309,
-      "totalScore": 0.7443,
-      "sources": [
-        {
-          "channel": "zhihu",
-          "rank": 4,
-          "hot": 0,
-          "url": ""
-        }
-      ],
-      "summary": "",
-      "url": ""
-    },
-    {
       "id": "evt-etc00000",
       "title": "官方回应“取消ETC”读懂车主真诉求",
       "category": "society",
       "hotScore": 0.6375,
-      "freshness": 0.9999,
+      "freshness": 1,
       "crossSource": 0.6309,
-      "totalScore": 0.7442,
+      "totalScore": 0.7443,
       "sources": [
         {
           "channel": "toutiao",
           "rank": 6,
-          "hot": 18145068,
+          "hot": 19020783,
           "url": "https://www.toutiao.com/trending/7679090762579001386/"
         }
       ],
@@ -112,7 +124,7 @@
       "title": "760元一粒的片仔癀卖不动了",
       "category": "society",
       "hotScore": 0.6,
-      "freshness": 0.9999,
+      "freshness": 1,
       "crossSource": 0.6309,
       "totalScore": 0.7293,
       "sources": [
@@ -127,30 +139,11 @@
       "url": "https://m.baidu.com/s?word=760%E5%85%83%E4%B8%80%E7%B2%92%E7%9A%84%E7%89%87%E4%BB%94%E7%99%80%E5%8D%96%E4%B8%8D%E5%8A%A8%E4%BA%86&sa=fyb_news"
     },
     {
-      "id": "evt-dlss5000",
-      "title": "DLSS5 意外泄露，从目前泄露版表现来看你觉得实际效果如何？对业界会有什么影响？",
-      "category": "society",
-      "hotScore": 0.5625,
-      "freshness": 0.9999,
-      "crossSource": 0.6309,
-      "totalScore": 0.7143,
-      "sources": [
-        {
-          "channel": "zhihu",
-          "rank": 6,
-          "hot": 0,
-          "url": ""
-        }
-      ],
-      "summary": "",
-      "url": ""
-    },
-    {
       "id": "evt-55840000",
       "title": "半月工资55元 被踢出845个工作群",
       "category": "society",
       "hotScore": 0.56,
-      "freshness": 0.9999,
+      "freshness": 1,
       "crossSource": 0.6309,
       "totalScore": 0.7133,
       "sources": [
@@ -168,15 +161,15 @@
       "id": "evt-49980000",
       "title": "中国海洋大学4998名本科新生报到",
       "category": "society",
-      "hotScore": 0.51,
-      "freshness": 0.9999,
+      "hotScore": 0.5525,
+      "freshness": 1,
       "crossSource": 0.6309,
-      "totalScore": 0.6932,
+      "totalScore": 0.7103,
       "sources": [
         {
           "channel": "toutiao",
-          "rank": 9,
-          "hot": 13442197,
+          "rank": 8,
+          "hot": 15572900,
           "url": "https://www.toutiao.com/trending/7679757949467902003/"
         }
       ],
@@ -184,42 +177,42 @@
       "url": "https://www.toutiao.com/trending/7679757949467902003/"
     },
     {
-      "id": "evt-50000000",
-      "title": "河南5人吃生淡水鱼片全部确诊肝吸虫病，中疾控发布调查报告",
+      "id": "evt-20260000",
+      "title": "2026 女排亚锦赛决赛，中国女排 2 比 3 不敌泰国女排，无缘直通奥运，如何评价这场比赛？",
       "category": "society",
-      "hotScore": 0.4675,
+      "hotScore": 0.525,
       "freshness": 1,
       "crossSource": 0.6309,
-      "totalScore": 0.6763,
+      "totalScore": 0.6993,
       "sources": [
         {
-          "channel": "thepaper",
-          "rank": 10,
+          "channel": "zhihu",
+          "rank": 7,
           "hot": 0,
-          "url": "https://www.thepaper.cn/newsDetail_forward_33975119"
+          "url": ""
         }
       ],
       "summary": "",
-      "url": "https://www.thepaper.cn/newsDetail_forward_33975119"
+      "url": ""
     },
     {
-      "id": "evt-81000000",
-      "title": "旅客携带81支人血粪便样本入境被查",
+      "id": "evt-dlss5000",
+      "title": "DLSS5 意外泄露，从目前泄露版表现来看你觉得实际效果如何？对业界会有什么影响？",
       "category": "society",
-      "hotScore": 0.4675,
-      "freshness": 0.9999,
+      "hotScore": 0.45,
+      "freshness": 1,
       "crossSource": 0.6309,
-      "totalScore": 0.6762,
+      "totalScore": 0.6693,
       "sources": [
         {
-          "channel": "toutiao",
-          "rank": 10,
-          "hot": 12163002,
-          "url": "https://www.toutiao.com/trending/7679327703380607026/"
+          "channel": "zhihu",
+          "rank": 9,
+          "hot": 0,
+          "url": ""
         }
       ],
       "summary": "",
-      "url": "https://www.toutiao.com/trending/7679327703380607026/"
+      "url": ""
     }
   ]
 }
