@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-08-31T02:16:20.647Z",
+  "generatedAt": "2026-08-31T10:14:38.410Z",
   "fields": {
     "society": "社会",
     "economy": "经济",
@@ -8,117 +8,85 @@
   "feed": [
     {
       "id": "evt-00000000",
-      "title": "网友意外拍到泥石流暴发瞬间",
+      "title": "多所高校宣布中秋、国庆连放13天",
       "category": "society",
-      "hotScore": 0.76,
+      "hotScore": 0.85,
       "freshness": 0.9999,
       "crossSource": 1,
-      "totalScore": 0.904,
+      "totalScore": 0.94,
       "sources": [
         {
           "channel": "toutiao",
-          "rank": 8,
-          "hot": 11609795,
-          "url": "https://www.toutiao.com/trending/7679390702224051775/"
+          "rank": 1,
+          "hot": 36000154,
+          "url": "https://www.toutiao.com/trending/7680071067902296114/"
         },
         {
           "channel": "baidu",
           "rank": 2,
           "hot": 0,
-          "url": "https://m.baidu.com/s?word=%E7%BD%91%E5%8F%8B%E6%84%8F%E5%A4%96%E6%8B%8D%E5%88%B0%E6%B3%A5%E7%9F%B3%E6%B5%81%E6%9A%B4%E5%8F%91%E7%9E%AC%E9%97%B4&sa=fyb_news"
+          "url": "https://m.baidu.com/s?word=%E5%A4%9A%E6%89%80%E9%AB%98%E6%A0%A1%E5%AE%A3%E5%B8%83%E4%B8%AD%E7%A7%8B%E3%80%81%E5%9B%BD%E5%BA%86%E8%BF%9E%E6%94%BE13%E5%A4%A9&sa=fyb_news"
         }
       ],
       "summary": "",
-      "url": "https://www.toutiao.com/trending/7679390702224051775/"
+      "url": "https://www.toutiao.com/trending/7680071067902296114/"
     },
     {
       "id": "evt-10000000",
-      "title": "泰国女排主帅称中国队100%晋级奥运会",
-      "category": "society",
-      "hotScore": 0.85,
-      "freshness": 0.9999,
-      "crossSource": 0.6309,
-      "totalScore": 0.8292,
-      "sources": [
-        {
-          "channel": "toutiao",
-          "rank": 1,
-          "hot": 23379257,
-          "url": "https://www.toutiao.com/trending/7678855925746171923/"
-        }
-      ],
-      "summary": "",
-      "url": "https://www.toutiao.com/trending/7678855925746171923/"
-    },
-    {
-      "id": "evt-20000000",
-      "title": "吉隆口岸泥石流痕迹有 20 层楼高，救援人员已把 4 万平的区域搜寻了两遍，目前救援还有哪些难点？",
-      "category": "society",
-      "hotScore": 0.75,
-      "freshness": 0.9999,
-      "crossSource": 0.6309,
-      "totalScore": 0.7892,
-      "sources": [
-        {
-          "channel": "zhihu",
-          "rank": 1,
-          "hot": 0,
-          "url": ""
-        }
-      ],
-      "summary": "",
-      "url": ""
-    },
-    {
-      "id": "evt-84500000",
-      "title": "女孩被踢出845个工作群无奈离职",
+      "title": "网警公布10起涉吉隆泥石流谣言案",
       "category": "society",
       "hotScore": 0.7225,
       "freshness": 0.9999,
-      "crossSource": 0.6309,
-      "totalScore": 0.7782,
+      "crossSource": 1,
+      "totalScore": 0.889,
       "sources": [
         {
           "channel": "toutiao",
           "rank": 4,
-          "hot": 17319780,
-          "url": "https://www.toutiao.com/trending/7679973221122231818/"
+          "hot": 26669570,
+          "url": "https://www.toutiao.com/trending/7680013126582111790/"
+        },
+        {
+          "channel": "baidu",
+          "rank": 5,
+          "hot": 0,
+          "url": "https://m.baidu.com/s?word=%E7%BD%91%E8%AD%A6%E5%85%AC%E5%B8%8310%E8%B5%B7%E6%B6%89%E5%90%89%E9%9A%86%E6%B3%A5%E7%9F%B3%E6%B5%81%E8%B0%A3%E8%A8%80%E6%A1%88&sa=fyb_news"
         }
       ],
       "summary": "",
-      "url": "https://www.toutiao.com/trending/7679973221122231818/"
+      "url": "https://www.toutiao.com/trending/7680013126582111790/"
     },
     {
-      "id": "evt-20260000",
-      "title": "2026 国家自然科学基金变容易了还是更难了？",
-      "category": "economy",
-      "hotScore": 0.45,
+      "id": "evt-25000000",
+      "title": "同行25载 带你读懂上合之“合”",
+      "category": "society",
+      "hotScore": 0.765,
       "freshness": 0.9999,
       "crossSource": 0.6309,
-      "totalScore": 0.6692,
+      "totalScore": 0.7953,
       "sources": [
         {
-          "channel": "zhihu",
-          "rank": 9,
-          "hot": 0,
-          "url": ""
+          "channel": "toutiao",
+          "rank": 3,
+          "hot": 29474433,
+          "url": "https://www.toutiao.com/trending/7679787633061855238/"
         }
       ],
       "summary": "",
-      "url": ""
+      "url": "https://www.toutiao.com/trending/7679787633061855238/"
     },
     {
       "id": "evt-99000000",
       "title": "央视曝光纪念币骗局：99元“稀缺珍品”，实为10元纪念币加个壳",
       "category": "society",
-      "hotScore": 0.68,
-      "freshness": 0.9999,
+      "hotScore": 0.765,
+      "freshness": 1,
       "crossSource": 0.6309,
-      "totalScore": 0.7613,
+      "totalScore": 0.7953,
       "sources": [
         {
           "channel": "thepaper",
-          "rank": 5,
+          "rank": 3,
           "hot": 0,
           "url": "https://www.thepaper.cn/newsDetail_forward_33975949"
         }
@@ -127,13 +95,51 @@
       "url": "https://www.thepaper.cn/newsDetail_forward_33975949"
     },
     {
-      "id": "evt-ceo00000",
-      "title": "英伟达 CEO 黄仁勋称在很多任务上已实现 AGI，并认为该里程碑已无意义，如何看待？",
+      "id": "evt-20260000",
+      "title": "新版《国防动员法》2026 年 10 月 1 日实施，哪些信息值得关注？会带来什么影响？",
+      "category": "society",
+      "hotScore": 0.75,
+      "freshness": 0.9999,
+      "crossSource": 0.6309,
+      "totalScore": 0.7893,
+      "sources": [
+        {
+          "channel": "zhihu",
+          "rank": 1,
+          "hot": 0,
+          "url": ""
+        }
+      ],
+      "summary": "",
+      "url": ""
+    },
+    {
+      "id": "evt-27000000",
+      "title": "2.7万公里 “黄金大外环”如何赋能",
+      "category": "society",
+      "hotScore": 0.68,
+      "freshness": 1,
+      "crossSource": 0.6309,
+      "totalScore": 0.7613,
+      "sources": [
+        {
+          "channel": "baidu",
+          "rank": 4,
+          "hot": 0,
+          "url": "https://m.baidu.com/s?word=2.7%E4%B8%87%E5%85%AC%E9%87%8C+%E2%80%9C%E9%BB%84%E9%87%91%E5%A4%A7%E5%A4%96%E7%8E%AF%E2%80%9D%E5%A6%82%E4%BD%95%E8%B5%8B%E8%83%BD&sa=fyb_news"
+        }
+      ],
+      "summary": "",
+      "url": "https://m.baidu.com/s?word=2.7%E4%B8%87%E5%85%AC%E9%87%8C+%E2%80%9C%E9%BB%84%E9%87%91%E5%A4%A7%E5%A4%96%E7%8E%AF%E2%80%9D%E5%A6%82%E4%BD%95%E8%B5%8B%E8%83%BD&sa=fyb_news"
+    },
+    {
+      "id": "evt-60000000",
+      "title": "年薪 60+ 万，一手提拔我的领导跟公司大老板有分歧，要我辞职跟他去创业，我该怎么办？",
       "category": "society",
       "hotScore": 0.5625,
       "freshness": 0.9999,
       "crossSource": 0.6309,
-      "totalScore": 0.7142,
+      "totalScore": 0.7143,
       "sources": [
         {
           "channel": "zhihu",
@@ -146,17 +152,74 @@
       "url": ""
     },
     {
-      "id": "evt-winui000",
-      "title": "如何看待 WinUI 开源了？",
+      "id": "evt-35000000",
+      "title": "为什么建议35岁就开始控糖",
       "category": "society",
-      "hotScore": 0.525,
+      "hotScore": 0.5525,
       "freshness": 0.9999,
       "crossSource": 0.6309,
-      "totalScore": 0.6992,
+      "totalScore": 0.7103,
+      "sources": [
+        {
+          "channel": "toutiao",
+          "rank": 8,
+          "hot": 17877147,
+          "url": "https://www.toutiao.com/trending/7679793017007472650/"
+        }
+      ],
+      "summary": "",
+      "url": "https://www.toutiao.com/trending/7679793017007472650/"
+    },
+    {
+      "id": "evt-26500000",
+      "title": "面对面丨26年前他捐出5000美元种树，如今沙子变成土壤",
+      "category": "society",
+      "hotScore": 0.5525,
+      "freshness": 1,
+      "crossSource": 0.6309,
+      "totalScore": 0.7103,
+      "sources": [
+        {
+          "channel": "thepaper",
+          "rank": 8,
+          "hot": 0,
+          "url": "https://www.thepaper.cn/newsDetail_forward_33976856"
+        }
+      ],
+      "summary": "",
+      "url": "https://www.thepaper.cn/newsDetail_forward_33976856"
+    },
+    {
+      "id": "evt-66200000",
+      "title": "662分考生高考出分后和父亲实地探校",
+      "category": "society",
+      "hotScore": 0.4675,
+      "freshness": 0.9999,
+      "crossSource": 0.6309,
+      "totalScore": 0.6763,
+      "sources": [
+        {
+          "channel": "toutiao",
+          "rank": 10,
+          "hot": 14636570,
+          "url": "https://www.toutiao.com/trending/7680101161253371955/"
+        }
+      ],
+      "summary": "",
+      "url": "https://www.toutiao.com/trending/7680101161253371955/"
+    },
+    {
+      "id": "evt-openai00",
+      "title": "为什么在 OpenAI 之后，美国的创业公司只有 Anthropic 拿出了一线的大模型？",
+      "category": "society",
+      "hotScore": 0.45,
+      "freshness": 0.9999,
+      "crossSource": 0.6309,
+      "totalScore": 0.6693,
       "sources": [
         {
           "channel": "zhihu",
-          "rank": 7,
+          "rank": 9,
           "hot": 0,
           "url": ""
         }
@@ -165,27 +228,8 @@
       "url": ""
     },
     {
-      "id": "evt-58000000",
-      "title": "留学生频繁回国索要58万 父母报警",
-      "category": "society",
-      "hotScore": 0.52,
-      "freshness": 1,
-      "crossSource": 0.6309,
-      "totalScore": 0.6973,
-      "sources": [
-        {
-          "channel": "baidu",
-          "rank": 8,
-          "hot": 0,
-          "url": "https://m.baidu.com/s?word=%E7%95%99%E5%AD%A6%E7%94%9F%E9%A2%91%E7%B9%81%E5%9B%9E%E5%9B%BD%E7%B4%A2%E8%A6%8158%E4%B8%87+%E7%88%B6%E6%AF%8D%E6%8A%A5%E8%AD%A6&sa=fyb_news"
-        }
-      ],
-      "summary": "",
-      "url": "https://m.baidu.com/s?word=%E7%95%99%E5%AD%A6%E7%94%9F%E9%A2%91%E7%B9%81%E5%9B%9E%E5%9B%BD%E7%B4%A2%E8%A6%8158%E4%B8%87+%E7%88%B6%E6%AF%8D%E6%8A%A5%E8%AD%A6&sa=fyb_news"
-    },
-    {
-      "id": "evt-50000000",
-      "title": "河南5人吃生淡水鱼片全部确诊肝吸虫病，中疾控发布调查报告",
+      "id": "evt-80000000",
+      "title": "8月“科学”流言榜发布",
       "category": "society",
       "hotScore": 0.425,
       "freshness": 0.9999,
@@ -193,14 +237,14 @@
       "totalScore": 0.6593,
       "sources": [
         {
-          "channel": "thepaper",
+          "channel": "toutiao",
           "rank": 11,
-          "hot": 0,
-          "url": "https://www.thepaper.cn/newsDetail_forward_33975119"
+          "hot": 13243716,
+          "url": "https://www.toutiao.com/trending/7680005760529170458/"
         }
       ],
       "summary": "",
-      "url": "https://www.thepaper.cn/newsDetail_forward_33975119"
+      "url": "https://www.toutiao.com/trending/7680005760529170458/"
     }
   ]
 }
