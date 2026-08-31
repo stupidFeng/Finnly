@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-08-31T10:14:38.410Z",
+  "generatedAt": "2026-08-31T18:24:29.186Z",
   "fields": {
     "society": "社会",
     "economy": "经济",
@@ -8,91 +8,28 @@
   "feed": [
     {
       "id": "evt-00000000",
-      "title": "多所高校宣布中秋、国庆连放13天",
+      "title": "吉隆口岸核心区现存建筑仅剩水塔",
       "category": "society",
-      "hotScore": 0.85,
+      "hotScore": 0.76,
       "freshness": 0.9999,
       "crossSource": 1,
-      "totalScore": 0.94,
+      "totalScore": 0.904,
       "sources": [
         {
           "channel": "toutiao",
-          "rank": 1,
-          "hot": 36000154,
-          "url": "https://www.toutiao.com/trending/7680071067902296114/"
+          "rank": 9,
+          "hot": 6499578,
+          "url": "https://www.toutiao.com/trending/7679429995109990436/"
         },
         {
           "channel": "baidu",
           "rank": 2,
           "hot": 0,
-          "url": "https://m.baidu.com/s?word=%E5%A4%9A%E6%89%80%E9%AB%98%E6%A0%A1%E5%AE%A3%E5%B8%83%E4%B8%AD%E7%A7%8B%E3%80%81%E5%9B%BD%E5%BA%86%E8%BF%9E%E6%94%BE13%E5%A4%A9&sa=fyb_news"
+          "url": "https://m.baidu.com/s?word=%E5%90%89%E9%9A%86%E5%8F%A3%E5%B2%B8%E6%A0%B8%E5%BF%83%E5%8C%BA%E7%8E%B0%E5%AD%98%E5%BB%BA%E7%AD%91%E4%BB%85%E5%89%A9%E6%B0%B4%E5%A1%94&sa=fyb_news"
         }
       ],
       "summary": "",
-      "url": "https://www.toutiao.com/trending/7680071067902296114/"
-    },
-    {
-      "id": "evt-10000000",
-      "title": "网警公布10起涉吉隆泥石流谣言案",
-      "category": "society",
-      "hotScore": 0.7225,
-      "freshness": 0.9999,
-      "crossSource": 1,
-      "totalScore": 0.889,
-      "sources": [
-        {
-          "channel": "toutiao",
-          "rank": 4,
-          "hot": 26669570,
-          "url": "https://www.toutiao.com/trending/7680013126582111790/"
-        },
-        {
-          "channel": "baidu",
-          "rank": 5,
-          "hot": 0,
-          "url": "https://m.baidu.com/s?word=%E7%BD%91%E8%AD%A6%E5%85%AC%E5%B8%8310%E8%B5%B7%E6%B6%89%E5%90%89%E9%9A%86%E6%B3%A5%E7%9F%B3%E6%B5%81%E8%B0%A3%E8%A8%80%E6%A1%88&sa=fyb_news"
-        }
-      ],
-      "summary": "",
-      "url": "https://www.toutiao.com/trending/7680013126582111790/"
-    },
-    {
-      "id": "evt-25000000",
-      "title": "同行25载 带你读懂上合之“合”",
-      "category": "society",
-      "hotScore": 0.765,
-      "freshness": 0.9999,
-      "crossSource": 0.6309,
-      "totalScore": 0.7953,
-      "sources": [
-        {
-          "channel": "toutiao",
-          "rank": 3,
-          "hot": 29474433,
-          "url": "https://www.toutiao.com/trending/7679787633061855238/"
-        }
-      ],
-      "summary": "",
-      "url": "https://www.toutiao.com/trending/7679787633061855238/"
-    },
-    {
-      "id": "evt-99000000",
-      "title": "央视曝光纪念币骗局：99元“稀缺珍品”，实为10元纪念币加个壳",
-      "category": "society",
-      "hotScore": 0.765,
-      "freshness": 1,
-      "crossSource": 0.6309,
-      "totalScore": 0.7953,
-      "sources": [
-        {
-          "channel": "thepaper",
-          "rank": 3,
-          "hot": 0,
-          "url": "https://www.thepaper.cn/newsDetail_forward_33975949"
-        }
-      ],
-      "summary": "",
-      "url": "https://www.thepaper.cn/newsDetail_forward_33975949"
+      "url": "https://www.toutiao.com/trending/7679429995109990436/"
     },
     {
       "id": "evt-20260000",
@@ -114,8 +51,27 @@
       "url": ""
     },
     {
-      "id": "evt-27000000",
-      "title": "2.7万公里 “黄金大外环”如何赋能",
+      "id": "evt-14500000",
+      "title": "情侣住酒店145天将房间变成垃圾场",
+      "category": "society",
+      "hotScore": 0.7225,
+      "freshness": 0.9999,
+      "crossSource": 0.6309,
+      "totalScore": 0.7782,
+      "sources": [
+        {
+          "channel": "toutiao",
+          "rank": 4,
+          "hot": 10715993,
+          "url": "https://www.toutiao.com/trending/7680035430733824019/"
+        }
+      ],
+      "summary": "",
+      "url": "https://www.toutiao.com/trending/7680035430733824019/"
+    },
+    {
+      "id": "evt-26500000",
+      "title": "面对面丨26年前他捐出5000美元种树，如今沙子变成土壤",
       "category": "society",
       "hotScore": 0.68,
       "freshness": 1,
@@ -123,19 +79,19 @@
       "totalScore": 0.7613,
       "sources": [
         {
-          "channel": "baidu",
-          "rank": 4,
+          "channel": "thepaper",
+          "rank": 5,
           "hot": 0,
-          "url": "https://m.baidu.com/s?word=2.7%E4%B8%87%E5%85%AC%E9%87%8C+%E2%80%9C%E9%BB%84%E9%87%91%E5%A4%A7%E5%A4%96%E7%8E%AF%E2%80%9D%E5%A6%82%E4%BD%95%E8%B5%8B%E8%83%BD&sa=fyb_news"
+          "url": "https://www.thepaper.cn/newsDetail_forward_33976856"
         }
       ],
       "summary": "",
-      "url": "https://m.baidu.com/s?word=2.7%E4%B8%87%E5%85%AC%E9%87%8C+%E2%80%9C%E9%BB%84%E9%87%91%E5%A4%A7%E5%A4%96%E7%8E%AF%E2%80%9D%E5%A6%82%E4%BD%95%E8%B5%8B%E8%83%BD&sa=fyb_news"
+      "url": "https://www.thepaper.cn/newsDetail_forward_33976856"
     },
     {
-      "id": "evt-60000000",
-      "title": "年薪 60+ 万，一手提拔我的领导跟公司大老板有分歧，要我辞职跟他去创业，我该怎么办？",
-      "category": "society",
+      "id": "evt-11000000",
+      "title": "宇树股价「腰斩」从 1100 跌至 555 元，机器人第一股 2200 亿蒸发，有哪些原因和影响？",
+      "category": "economy",
       "hotScore": 0.5625,
       "freshness": 0.9999,
       "crossSource": 0.6309,
@@ -152,65 +108,65 @@
       "url": ""
     },
     {
-      "id": "evt-35000000",
-      "title": "为什么建议35岁就开始控糖",
+      "id": "evt-91000000",
+      "title": "山姆9个月卖了100万个会员",
       "category": "society",
-      "hotScore": 0.5525,
-      "freshness": 0.9999,
+      "hotScore": 0.64,
+      "freshness": 1,
       "crossSource": 0.6309,
-      "totalScore": 0.7103,
+      "totalScore": 0.7453,
       "sources": [
         {
-          "channel": "toutiao",
-          "rank": 8,
-          "hot": 17877147,
-          "url": "https://www.toutiao.com/trending/7679793017007472650/"
+          "channel": "baidu",
+          "rank": 5,
+          "hot": 0,
+          "url": "https://m.baidu.com/s?word=%E5%B1%B1%E5%A7%869%E4%B8%AA%E6%9C%88%E5%8D%96%E4%BA%86100%E4%B8%87%E4%B8%AA%E4%BC%9A%E5%91%98&sa=fyb_news"
         }
       ],
       "summary": "",
-      "url": "https://www.toutiao.com/trending/7679793017007472650/"
+      "url": "https://m.baidu.com/s?word=%E5%B1%B1%E5%A7%869%E4%B8%AA%E6%9C%88%E5%8D%96%E4%BA%86100%E4%B8%87%E4%B8%AA%E4%BC%9A%E5%91%98&sa=fyb_news"
     },
     {
-      "id": "evt-26500000",
-      "title": "面对面丨26年前他捐出5000美元种树，如今沙子变成土壤",
+      "id": "evt-openaico",
+      "title": "怎么看 OpenAI 的 Codex 将取消上下文压缩，换成「硬切窗口 」和「外部记忆」？",
       "category": "society",
-      "hotScore": 0.5525,
+      "hotScore": 0.6,
+      "freshness": 0.9999,
+      "crossSource": 0.6309,
+      "totalScore": 0.7293,
+      "sources": [
+        {
+          "channel": "zhihu",
+          "rank": 5,
+          "hot": 0,
+          "url": ""
+        }
+      ],
+      "summary": "",
+      "url": ""
+    },
+    {
+      "id": "evt-21540000",
+      "title": "“三桶油”上半年净赚2154亿元，中国石油、中国海油盈利刷新纪录",
+      "category": "society",
+      "hotScore": 0.595,
       "freshness": 1,
       "crossSource": 0.6309,
-      "totalScore": 0.7103,
+      "totalScore": 0.7273,
       "sources": [
         {
           "channel": "thepaper",
-          "rank": 8,
+          "rank": 7,
           "hot": 0,
-          "url": "https://www.thepaper.cn/newsDetail_forward_33976856"
+          "url": "https://www.thepaper.cn/newsDetail_forward_33976911"
         }
       ],
       "summary": "",
-      "url": "https://www.thepaper.cn/newsDetail_forward_33976856"
+      "url": "https://www.thepaper.cn/newsDetail_forward_33976911"
     },
     {
-      "id": "evt-66200000",
-      "title": "662分考生高考出分后和父亲实地探校",
-      "category": "society",
-      "hotScore": 0.4675,
-      "freshness": 0.9999,
-      "crossSource": 0.6309,
-      "totalScore": 0.6763,
-      "sources": [
-        {
-          "channel": "toutiao",
-          "rank": 10,
-          "hot": 14636570,
-          "url": "https://www.toutiao.com/trending/7680101161253371955/"
-        }
-      ],
-      "summary": "",
-      "url": "https://www.toutiao.com/trending/7680101161253371955/"
-    },
-    {
-      "id": "evt-openai00",
-      "title": "为什么在 OpenAI 之后，美国的创业公司只有 Anthropic 拿出了一线的大模型？",
+      "id": "evt-60000000",
+      "title": "年薪 60+ 万，一手提拔我的领导跟公司大老板有分歧，要我辞职跟他去创业，我该怎么办？",
       "category": "society",
       "hotScore": 0.45,
       "freshness": 0.9999,
@@ -228,23 +184,23 @@
       "url": ""
     },
     {
-      "id": "evt-80000000",
-      "title": "8月“科学”流言榜发布",
+      "id": "evt-36000000",
+      "title": "索要36万“带孙费” 她把儿子告了",
       "category": "society",
-      "hotScore": 0.425,
-      "freshness": 0.9999,
+      "hotScore": 0.44,
+      "freshness": 1,
       "crossSource": 0.6309,
-      "totalScore": 0.6593,
+      "totalScore": 0.6653,
       "sources": [
         {
-          "channel": "toutiao",
-          "rank": 11,
-          "hot": 13243716,
-          "url": "https://www.toutiao.com/trending/7680005760529170458/"
+          "channel": "baidu",
+          "rank": 10,
+          "hot": 0,
+          "url": "https://m.baidu.com/s?word=%E7%B4%A2%E8%A6%8136%E4%B8%87%E2%80%9C%E5%B8%A6%E5%AD%99%E8%B4%B9%E2%80%9D+%E5%A5%B9%E6%8A%8A%E5%84%BF%E5%AD%90%E5%91%8A%E4%BA%86&sa=fyb_news"
         }
       ],
       "summary": "",
-      "url": "https://www.toutiao.com/trending/7680005760529170458/"
+      "url": "https://m.baidu.com/s?word=%E7%B4%A2%E8%A6%8136%E4%B8%87%E2%80%9C%E5%B8%A6%E5%AD%99%E8%B4%B9%E2%80%9D+%E5%A5%B9%E6%8A%8A%E5%84%BF%E5%AD%90%E5%91%8A%E4%BA%86&sa=fyb_news"
     }
   ]
 }
