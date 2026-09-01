@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-09-01T14:23:16.906Z",
+  "generatedAt": "2026-09-01T18:58:50.992Z",
   "fields": {
     "society": "社会",
     "economy": "经济",
@@ -7,65 +7,90 @@
   },
   "feed": [
     {
-      "id": "evt-45000000",
-      "title": "大爷遛鱼4小时钓起50斤大青鱼",
+      "id": "evt-00000000",
+      "title": "女子携儿子闺蜜出游 酒后跳河失联",
       "category": "society",
-      "hotScore": 0.85,
-      "freshness": 1,
-      "crossSource": 0.6309,
-      "totalScore": 0.8293,
+      "hotScore": 0.68,
+      "freshness": 0.9999,
+      "crossSource": 1,
+      "totalScore": 0.872,
       "sources": [
         {
           "channel": "toutiao",
-          "rank": 1,
-          "hot": 20382310,
-          "url": "https://www.toutiao.com/trending/7679782788736155690/"
+          "rank": 5,
+          "hot": 15367254,
+          "url": "https://www.toutiao.com/trending/7680526092690063370/"
+        },
+        {
+          "channel": "baidu",
+          "rank": 19,
+          "hot": 0,
+          "url": "https://m.baidu.com/s?word=%E5%A5%B3%E5%AD%90%E6%90%BA%E5%84%BF%E5%AD%90%E9%97%BA%E8%9C%9C%E5%87%BA%E6%B8%B8+%E9%85%92%E5%90%8E%E8%B7%B3%E6%B2%B3%E5%A4%B1%E8%81%94&sa=fyb_news"
         }
       ],
       "summary": "",
-      "url": "https://www.toutiao.com/trending/7679782788736155690/"
+      "url": "https://www.toutiao.com/trending/7680526092690063370/"
     },
     {
-      "id": "evt-00000000",
-      "title": "梅西宣布从阿根廷国家队退役",
+      "id": "evt-39000000",
+      "title": "39岁抗癌博主“芳芳”离世",
       "category": "society",
-      "hotScore": 0.85,
+      "hotScore": 0.8075,
+      "freshness": 0.9999,
+      "crossSource": 0.6309,
+      "totalScore": 0.8123,
+      "sources": [
+        {
+          "channel": "toutiao",
+          "rank": 2,
+          "hot": 20743624,
+          "url": "https://www.toutiao.com/trending/7680063177883877385/"
+        }
+      ],
+      "summary": "",
+      "url": "https://www.toutiao.com/trending/7680063177883877385/"
+    },
+    {
+      "id": "evt-10000000",
+      "title": "100元报销需王兴兴亲自审批？宇树科技回应：很多内容不实，切勿当真",
+      "category": "society",
+      "hotScore": 0.8075,
       "freshness": 1,
       "crossSource": 0.6309,
-      "totalScore": 0.8293,
+      "totalScore": 0.8123,
       "sources": [
         {
           "channel": "thepaper",
-          "rank": 1,
+          "rank": 2,
           "hot": 0,
-          "url": "https://www.thepaper.cn/newsDetail_forward_33979736"
+          "url": "https://www.thepaper.cn/newsDetail_forward_33983507"
         }
       ],
       "summary": "",
-      "url": "https://www.thepaper.cn/newsDetail_forward_33979736"
+      "url": "https://www.thepaper.cn/newsDetail_forward_33983507"
     },
     {
-      "id": "evt-20260000",
-      "title": "习近平出席2026年上合峰会",
+      "id": "evt-ai987000",
+      "title": "AI短剧98.7%未回本，今日施行的《微短剧发展管理办法》要管哪些？",
       "category": "society",
-      "hotScore": 0.8,
+      "hotScore": 0.765,
       "freshness": 1,
       "crossSource": 0.6309,
-      "totalScore": 0.8093,
+      "totalScore": 0.7953,
       "sources": [
         {
-          "channel": "baidu",
-          "rank": 1,
+          "channel": "thepaper",
+          "rank": 3,
           "hot": 0,
-          "url": "https://m.baidu.com/s?word=%E4%B9%A0%E8%BF%91%E5%B9%B3%E5%87%BA%E5%B8%AD2026%E5%B9%B4%E4%B8%8A%E5%90%88%E5%B3%B0%E4%BC%9A&sa=fyb_news"
+          "url": "https://www.thepaper.cn/newsDetail_forward_33967164"
         }
       ],
       "summary": "",
-      "url": "https://m.baidu.com/s?word=%E4%B9%A0%E8%BF%91%E5%B9%B3%E5%87%BA%E5%B8%AD2026%E5%B9%B4%E4%B8%8A%E5%90%88%E5%B3%B0%E4%BC%9A&sa=fyb_news"
+      "url": "https://www.thepaper.cn/newsDetail_forward_33967164"
     },
     {
-      "id": "evt-84500000",
-      "title": "官方通报女子被踢出 845 个群被迫离职，用人单位已履行判决，事件中暴露的问题该如何有效解决？",
+      "id": "evt-91000000",
+      "title": "9 月 1 日起外籍个人从外商投资企业取得股息红利不再免征个税，如何解读？会带来多大规模的税收增量？",
       "category": "society",
       "hotScore": 0.7125,
       "freshness": 1,
@@ -83,56 +108,18 @@
       "url": ""
     },
     {
-      "id": "evt-90000000",
-      "title": "苏州一学校初一超90个班",
-      "category": "society",
-      "hotScore": 0.68,
-      "freshness": 1,
-      "crossSource": 0.6309,
-      "totalScore": 0.7613,
-      "sources": [
-        {
-          "channel": "toutiao",
-          "rank": 5,
-          "hot": 13662671,
-          "url": "https://www.toutiao.com/trending/7680436897470267428/"
-        }
-      ],
-      "summary": "",
-      "url": "https://www.toutiao.com/trending/7680436897470267428/"
-    },
-    {
-      "id": "evt-ai987000",
-      "title": "AI短剧98.7%未回本，今日施行的《微短剧发展管理办法》要管哪些？",
-      "category": "society",
-      "hotScore": 0.68,
-      "freshness": 1,
-      "crossSource": 0.6309,
-      "totalScore": 0.7613,
-      "sources": [
-        {
-          "channel": "thepaper",
-          "rank": 5,
-          "hot": 0,
-          "url": "https://www.thepaper.cn/newsDetail_forward_33967164"
-        }
-      ],
-      "summary": "",
-      "url": "https://www.thepaper.cn/newsDetail_forward_33967164"
-    },
-    {
       "id": "evt-12000000",
       "title": "云南文山12级台风致人伤亡系谣言",
       "category": "society",
       "hotScore": 0.3825,
-      "freshness": 1,
+      "freshness": 0.9999,
       "crossSource": 1,
       "totalScore": 0.753,
       "sources": [
         {
           "channel": "toutiao",
           "rank": 12,
-          "hot": 6784681,
+          "hot": 7631152,
           "url": "https://www.toutiao.com/trending/7680500950401990683/"
         },
         {
@@ -146,36 +133,55 @@
       "url": "https://www.toutiao.com/trending/7680500950401990683/"
     },
     {
-      "id": "evt-38000000",
-      "title": "手握3.8万亿的“国家队”赚了3900亿",
-      "category": "society",
-      "hotScore": 0.64,
-      "freshness": 1,
-      "crossSource": 0.6309,
-      "totalScore": 0.7453,
-      "sources": [
-        {
-          "channel": "baidu",
-          "rank": 5,
-          "hot": 0,
-          "url": "https://m.baidu.com/s?word=%E6%89%8B%E6%8F%A13.8%E4%B8%87%E4%BA%BF%E7%9A%84%E2%80%9C%E5%9B%BD%E5%AE%B6%E9%98%9F%E2%80%9D%E8%B5%9A%E4%BA%863900%E4%BA%BF&sa=fyb_news"
-        }
-      ],
-      "summary": "",
-      "url": "https://m.baidu.com/s?word=%E6%89%8B%E6%8F%A13.8%E4%B8%87%E4%BA%BF%E7%9A%84%E2%80%9C%E5%9B%BD%E5%AE%B6%E9%98%9F%E2%80%9D%E8%B5%9A%E4%BA%863900%E4%BA%BF&sa=fyb_news"
-    },
-    {
-      "id": "evt-91000000",
-      "title": "9 月 1 日起外籍个人从外商投资企业取得股息红利不再免征个税，如何解读？会带来多大规模的税收增量？",
+      "id": "evt-20710000",
+      "title": "老人买20多年彩票中712万大奖",
       "category": "society",
       "hotScore": 0.6375,
-      "freshness": 1,
+      "freshness": 0.9999,
       "crossSource": 0.6309,
       "totalScore": 0.7443,
       "sources": [
         {
+          "channel": "toutiao",
+          "rank": 6,
+          "hot": 13904867,
+          "url": "https://www.toutiao.com/trending/7680349746104795187/"
+        }
+      ],
+      "summary": "",
+      "url": "https://www.toutiao.com/trending/7680349746104795187/"
+    },
+    {
+      "id": "evt-40300000",
+      "title": "有银行称办40年房贷需35岁以下",
+      "category": "society",
+      "hotScore": 0.595,
+      "freshness": 0.9999,
+      "crossSource": 0.6309,
+      "totalScore": 0.7273,
+      "sources": [
+        {
+          "channel": "toutiao",
+          "rank": 7,
+          "hot": 12581644,
+          "url": "https://www.toutiao.com/trending/7680397088559562806/"
+        }
+      ],
+      "summary": "",
+      "url": "https://www.toutiao.com/trending/7680397088559562806/"
+    },
+    {
+      "id": "evt-rgta6000",
+      "title": "R 星确认 GTA6 每个房间都手工打造，连 NPC 喝什么、桌上留什么痕迹都精心设计，你看好这种细节投入吗？",
+      "category": "society",
+      "hotScore": 0.5625,
+      "freshness": 1,
+      "crossSource": 0.6309,
+      "totalScore": 0.7143,
+      "sources": [
+        {
           "channel": "zhihu",
-          "rank": 4,
+          "rank": 6,
           "hot": 0,
           "url": ""
         }
@@ -184,56 +190,18 @@
       "url": ""
     },
     {
-      "id": "evt-40300000",
-      "title": "有银行称办40年房贷需35岁以下",
-      "category": "society",
-      "hotScore": 0.595,
-      "freshness": 1,
-      "crossSource": 0.6309,
-      "totalScore": 0.7273,
-      "sources": [
-        {
-          "channel": "toutiao",
-          "rank": 7,
-          "hot": 11186048,
-          "url": "https://www.toutiao.com/trending/7680397088559562806/"
-        }
-      ],
-      "summary": "",
-      "url": "https://www.toutiao.com/trending/7680397088559562806/"
-    },
-    {
-      "id": "evt-10000000",
-      "title": "最高涨幅1000元！华为、小米、荣耀多款手机调价，机构预计压力延续至明年",
-      "category": "society",
-      "hotScore": 0.595,
-      "freshness": 1,
-      "crossSource": 0.6309,
-      "totalScore": 0.7273,
-      "sources": [
-        {
-          "channel": "thepaper",
-          "rank": 7,
-          "hot": 0,
-          "url": "https://www.thepaper.cn/newsDetail_forward_33982253"
-        }
-      ],
-      "summary": "",
-      "url": "https://www.thepaper.cn/newsDetail_forward_33982253"
-    },
-    {
       "id": "evt-20000000",
       "title": "20后入学家长年龄相差近30岁",
       "category": "society",
-      "hotScore": 0.51,
-      "freshness": 1,
+      "hotScore": 0.5525,
+      "freshness": 0.9999,
       "crossSource": 0.6309,
-      "totalScore": 0.6933,
+      "totalScore": 0.7103,
       "sources": [
         {
           "channel": "toutiao",
-          "rank": 9,
-          "hot": 9158362,
+          "rank": 8,
+          "hot": 11384342,
           "url": "https://www.toutiao.com/trending/7680415989095468553/"
         }
       ],
@@ -241,17 +209,17 @@
       "url": "https://www.toutiao.com/trending/7680415989095468553/"
     },
     {
-      "id": "evt-50000000",
-      "title": "河南 5 人聚餐吃生鱼片确诊肝吸血虫病，如何避免该病？是否有扩散的风险？",
+      "id": "evt-zlangv00",
+      "title": "国产编程语言 zlangv0.12.2.0 发布，支持中文编程，这意味着什么？",
       "category": "society",
-      "hotScore": 0.45,
+      "hotScore": 0.525,
       "freshness": 1,
       "crossSource": 0.6309,
-      "totalScore": 0.6693,
+      "totalScore": 0.6993,
       "sources": [
         {
           "channel": "zhihu",
-          "rank": 9,
+          "rank": 7,
           "hot": 0,
           "url": ""
         }
@@ -263,14 +231,14 @@
       "id": "evt-18000000",
       "title": "校方回应1个班级超80人",
       "category": "society",
-      "hotScore": 0.44,
+      "hotScore": 0.52,
       "freshness": 1,
       "crossSource": 0.6309,
-      "totalScore": 0.6653,
+      "totalScore": 0.6973,
       "sources": [
         {
           "channel": "baidu",
-          "rank": 10,
+          "rank": 8,
           "hot": 0,
           "url": "https://m.baidu.com/s?word=%E6%A0%A1%E6%96%B9%E5%9B%9E%E5%BA%941%E4%B8%AA%E7%8F%AD%E7%BA%A7%E8%B6%8580%E4%BA%BA&sa=fyb_news"
         }
