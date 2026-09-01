@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-08-31T23:29:32.944Z",
+  "generatedAt": "2026-09-01T02:34:28.477Z",
   "fields": {
     "society": "社会",
     "economy": "经济",
@@ -7,55 +7,36 @@
   },
   "feed": [
     {
-      "id": "evt-16000000",
-      "title": "一家16口包中巴送新生上大学",
+      "id": "evt-00000000",
+      "title": "吉隆口岸国门所在地仅剩地基",
       "category": "society",
       "hotScore": 0.85,
-      "freshness": 1,
+      "freshness": 0.9999,
       "crossSource": 0.6309,
       "totalScore": 0.8293,
       "sources": [
         {
           "channel": "toutiao",
           "rank": 1,
-          "hot": 15215869,
-          "url": "https://www.toutiao.com/trending/7679413743537078318/"
+          "hot": 21634410,
+          "url": "https://www.toutiao.com/trending/7680331672210132507/"
         }
       ],
       "summary": "",
-      "url": "https://www.toutiao.com/trending/7679413743537078318/"
-    },
-    {
-      "id": "evt-00000000",
-      "title": "梅西宣布从阿根廷国家队退役",
-      "category": "society",
-      "hotScore": 0.85,
-      "freshness": 1,
-      "crossSource": 0.6309,
-      "totalScore": 0.8293,
-      "sources": [
-        {
-          "channel": "thepaper",
-          "rank": 1,
-          "hot": 0,
-          "url": "https://www.thepaper.cn/newsDetail_forward_33979736"
-        }
-      ],
-      "summary": "",
-      "url": "https://www.thepaper.cn/newsDetail_forward_33979736"
+      "url": "https://www.toutiao.com/trending/7680331672210132507/"
     },
     {
       "id": "evt-90000000",
       "title": "上海医保新政：9月起个人账户结余可抵“分类自负”费用",
       "category": "society",
-      "hotScore": 0.765,
+      "hotScore": 0.8075,
       "freshness": 1,
       "crossSource": 0.6309,
-      "totalScore": 0.7953,
+      "totalScore": 0.8123,
       "sources": [
         {
           "channel": "thepaper",
-          "rank": 3,
+          "rank": 2,
           "hot": 0,
           "url": "https://www.thepaper.cn/newsDetail_forward_33979511"
         }
@@ -64,36 +45,61 @@
       "url": "https://www.thepaper.cn/newsDetail_forward_33979511"
     },
     {
-      "id": "evt-45700000",
-      "title": "郑钦文时隔457天再取大满贯正赛胜利",
+      "id": "evt-84500000",
+      "title": "女子被踢845个群被迫离职 当地通报",
       "category": "society",
-      "hotScore": 0.7225,
-      "freshness": 1,
-      "crossSource": 0.6309,
-      "totalScore": 0.7783,
+      "hotScore": 0.51,
+      "freshness": 0.9999,
+      "crossSource": 1,
+      "totalScore": 0.804,
       "sources": [
         {
           "channel": "toutiao",
-          "rank": 4,
-          "hot": 11272193,
-          "url": "https://www.toutiao.com/trending/7679371252512669737/"
+          "rank": 9,
+          "hot": 9720967,
+          "url": "https://www.toutiao.com/trending/7680253002297049114/"
+        },
+        {
+          "channel": "baidu",
+          "rank": 9,
+          "hot": 0,
+          "url": "https://m.baidu.com/s?word=%E5%A5%B3%E5%AD%90%E8%A2%AB%E8%B8%A2845%E4%B8%AA%E7%BE%A4%E8%A2%AB%E8%BF%AB%E7%A6%BB%E8%81%8C+%E5%BD%93%E5%9C%B0%E9%80%9A%E6%8A%A5&sa=fyb_news"
         }
       ],
       "summary": "",
-      "url": "https://www.toutiao.com/trending/7679371252512669737/"
+      "url": "https://www.toutiao.com/trending/7680253002297049114/"
+    },
+    {
+      "id": "evt-50000000",
+      "title": "六大行房贷余额少了5000多亿",
+      "category": "society",
+      "hotScore": 0.72,
+      "freshness": 1,
+      "crossSource": 0.6309,
+      "totalScore": 0.7773,
+      "sources": [
+        {
+          "channel": "baidu",
+          "rank": 3,
+          "hot": 0,
+          "url": "https://m.baidu.com/s?word=%E5%85%AD%E5%A4%A7%E8%A1%8C%E6%88%BF%E8%B4%B7%E4%BD%99%E9%A2%9D%E5%B0%91%E4%BA%865000%E5%A4%9A%E4%BA%BF&sa=fyb_news"
+        }
+      ],
+      "summary": "",
+      "url": "https://m.baidu.com/s?word=%E5%85%AD%E5%A4%A7%E8%A1%8C%E6%88%BF%E8%B4%B7%E4%BD%99%E9%A2%9D%E5%B0%91%E4%BA%865000%E5%A4%9A%E4%BA%BF&sa=fyb_news"
     },
     {
       "id": "evt-46780000",
       "title": "华为上半年营收 4678 亿元，归母净利润 234.28 亿元，如何看待其业绩表现？",
       "category": "economy",
-      "hotScore": 0.75,
+      "hotScore": 0.675,
       "freshness": 1,
       "crossSource": 0.6309,
-      "totalScore": 0.7893,
+      "totalScore": 0.7593,
       "sources": [
         {
           "channel": "zhihu",
-          "rank": 1,
+          "rank": 3,
           "hot": 0,
           "url": ""
         }
@@ -102,27 +108,8 @@
       "url": ""
     },
     {
-      "id": "evt-11000000",
-      "title": "宇树股价「腰斩」从 1100 跌至 555 元，机器人第一股 2200 亿蒸发，有哪些原因和影响？",
-      "category": "economy",
-      "hotScore": 0.5625,
-      "freshness": 1,
-      "crossSource": 0.6309,
-      "totalScore": 0.7143,
-      "sources": [
-        {
-          "channel": "zhihu",
-          "rank": 6,
-          "hot": 0,
-          "url": ""
-        }
-      ],
-      "summary": "",
-      "url": ""
-    },
-    {
-      "id": "evt-91000000",
-      "title": "山姆9个月卖了100万个会员",
+      "id": "evt-65000000",
+      "title": "喜马拉雅冰川消融加速65%",
       "category": "society",
       "hotScore": 0.64,
       "freshness": 1,
@@ -133,15 +120,15 @@
           "channel": "baidu",
           "rank": 5,
           "hot": 0,
-          "url": "https://m.baidu.com/s?word=%E5%B1%B1%E5%A7%869%E4%B8%AA%E6%9C%88%E5%8D%96%E4%BA%86100%E4%B8%87%E4%B8%AA%E4%BC%9A%E5%91%98&sa=fyb_news"
+          "url": "https://m.baidu.com/s?word=%E5%96%9C%E9%A9%AC%E6%8B%89%E9%9B%85%E5%86%B0%E5%B7%9D%E6%B6%88%E8%9E%8D%E5%8A%A0%E9%80%9F65%25&sa=fyb_news"
         }
       ],
       "summary": "",
-      "url": "https://m.baidu.com/s?word=%E5%B1%B1%E5%A7%869%E4%B8%AA%E6%9C%88%E5%8D%96%E4%BA%86100%E4%B8%87%E4%B8%AA%E4%BC%9A%E5%91%98&sa=fyb_news"
+      "url": "https://m.baidu.com/s?word=%E5%96%9C%E9%A9%AC%E6%8B%89%E9%9B%85%E5%86%B0%E5%B7%9D%E6%B6%88%E8%9E%8D%E5%8A%A0%E9%80%9F65%25&sa=fyb_news"
     },
     {
-      "id": "evt-21000000",
-      "title": "郑钦文2-1逆转柳托娃",
+      "id": "evt-18900000",
+      "title": "如何评价凡人修仙传 189 集争议巨大，对比 177 集还愿意改片，这次官方零公开回应、不修改成片、冷处理？",
       "category": "society",
       "hotScore": 0.6375,
       "freshness": 1,
@@ -149,18 +136,37 @@
       "totalScore": 0.7443,
       "sources": [
         {
-          "channel": "toutiao",
-          "rank": 6,
-          "hot": 9228891,
-          "url": "https://www.toutiao.com/trending/7680333827226471990/"
+          "channel": "zhihu",
+          "rank": 4,
+          "hot": 0,
+          "url": ""
         }
       ],
       "summary": "",
-      "url": "https://www.toutiao.com/trending/7680333827226471990/"
+      "url": ""
     },
     {
-      "id": "evt-18900000",
-      "title": "如何评价凡人修仙传 189 集争议巨大，对比 177 集还愿意改片，这次官方零公开回应，不修改成片，冷处理？",
+      "id": "evt-16000000",
+      "title": "一家16口包中巴送新生上大学",
+      "category": "society",
+      "hotScore": 0.6,
+      "freshness": 1,
+      "crossSource": 0.6309,
+      "totalScore": 0.7293,
+      "sources": [
+        {
+          "channel": "baidu",
+          "rank": 6,
+          "hot": 0,
+          "url": "https://m.baidu.com/s?word=%E4%B8%80%E5%AE%B616%E5%8F%A3%E5%8C%85%E4%B8%AD%E5%B7%B4%E9%80%81%E6%96%B0%E7%94%9F%E4%B8%8A%E5%A4%A7%E5%AD%A6&sa=fyb_news"
+        }
+      ],
+      "summary": "",
+      "url": "https://m.baidu.com/s?word=%E4%B8%80%E5%AE%B616%E5%8F%A3%E5%8C%85%E4%B8%AD%E5%B7%B4%E9%80%81%E6%96%B0%E7%94%9F%E4%B8%8A%E5%A4%A7%E5%AD%A6&sa=fyb_news"
+    },
+    {
+      "id": "evt-aigc0000",
+      "title": "国内首部 AIGC 长剧《后西游记》开播，登陆湖南卫视黄金档，好看吗？会对影视行业有怎样的影响？",
       "category": "society",
       "hotScore": 0.6,
       "freshness": 1,
@@ -178,8 +184,27 @@
       "url": ""
     },
     {
-      "id": "evt-14500000",
-      "title": "情侣住酒店145天将房间变成垃圾场",
+      "id": "evt-45700000",
+      "title": "郑钦文时隔457天再取大满贯正赛胜利",
+      "category": "society",
+      "hotScore": 0.595,
+      "freshness": 0.9999,
+      "crossSource": 0.6309,
+      "totalScore": 0.7273,
+      "sources": [
+        {
+          "channel": "toutiao",
+          "rank": 7,
+          "hot": 11873216,
+          "url": "https://www.toutiao.com/trending/7679371252512669737/"
+        }
+      ],
+      "summary": "",
+      "url": "https://www.toutiao.com/trending/7679371252512669737/"
+    },
+    {
+      "id": "evt-ai987000",
+      "title": "AI短剧98.7%未回本，今日施行的《微短剧发展管理办法》要管哪些？",
       "category": "society",
       "hotScore": 0.5525,
       "freshness": 1,
@@ -187,33 +212,52 @@
       "totalScore": 0.7103,
       "sources": [
         {
-          "channel": "toutiao",
+          "channel": "thepaper",
           "rank": 8,
-          "hot": 7555977,
-          "url": "https://www.toutiao.com/trending/7680035430733824019/"
+          "hot": 0,
+          "url": "https://www.thepaper.cn/newsDetail_forward_33967164"
         }
       ],
       "summary": "",
-      "url": "https://www.toutiao.com/trending/7680035430733824019/"
+      "url": "https://www.thepaper.cn/newsDetail_forward_33967164"
     },
     {
-      "id": "evt-aigc0000",
-      "title": "国内首部 AIGC 长剧《后西游记》开播，登陆湖南卫视黄金档，好看吗？会对影视行业有怎样的影响？",
+      "id": "evt-openaico",
+      "title": "怎么看 OpenAI 的 Codex 将取消上下文压缩，换成「硬切窗口 」和「外部记忆」？",
       "category": "society",
-      "hotScore": 0.45,
+      "hotScore": 0.4875,
       "freshness": 1,
       "crossSource": 0.6309,
-      "totalScore": 0.6693,
+      "totalScore": 0.6843,
       "sources": [
         {
           "channel": "zhihu",
-          "rank": 9,
+          "rank": 8,
           "hot": 0,
           "url": ""
         }
       ],
       "summary": "",
       "url": ""
+    },
+    {
+      "id": "evt-22000000",
+      "title": "一中学要收220元“入校门禁费”？四川平昌县教科局：正调查核实",
+      "category": "society",
+      "hotScore": 0.4675,
+      "freshness": 1,
+      "crossSource": 0.6309,
+      "totalScore": 0.6763,
+      "sources": [
+        {
+          "channel": "thepaper",
+          "rank": 10,
+          "hot": 0,
+          "url": "https://www.thepaper.cn/newsDetail_forward_33978679"
+        }
+      ],
+      "summary": "",
+      "url": "https://www.thepaper.cn/newsDetail_forward_33978679"
     }
   ]
 }
