@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-09-01T02:34:28.477Z",
+  "generatedAt": "2026-09-01T08:59:40.699Z",
   "fields": {
     "society": "社会",
     "economy": "经济",
@@ -8,31 +8,50 @@
   "feed": [
     {
       "id": "evt-00000000",
-      "title": "吉隆口岸国门所在地仅剩地基",
+      "title": "梅西宣布从阿根廷国家队退役",
       "category": "society",
       "hotScore": 0.85,
       "freshness": 0.9999,
-      "crossSource": 0.6309,
-      "totalScore": 0.8293,
+      "crossSource": 1,
+      "totalScore": 0.94,
+      "sources": [
+        {
+          "channel": "thepaper",
+          "rank": 1,
+          "hot": 0,
+          "url": "https://www.thepaper.cn/newsDetail_forward_33979736"
+        }
+      ],
+      "summary": "",
+      "url": "https://www.thepaper.cn/newsDetail_forward_33979736"
+    },
+    {
+      "id": "evt-26000000",
+      "title": "女子赢2600万后质疑律师费过高",
+      "category": "society",
+      "hotScore": 0.85,
+      "freshness": 0.9998,
+      "crossSource": 1,
+      "totalScore": 0.9399,
       "sources": [
         {
           "channel": "toutiao",
           "rank": 1,
-          "hot": 21634410,
-          "url": "https://www.toutiao.com/trending/7680331672210132507/"
+          "hot": 16070389,
+          "url": "https://www.toutiao.com/trending/7680121832695939135/"
         }
       ],
       "summary": "",
-      "url": "https://www.toutiao.com/trending/7680331672210132507/"
+      "url": "https://www.toutiao.com/trending/7680121832695939135/"
     },
     {
       "id": "evt-90000000",
       "title": "上海医保新政：9月起个人账户结余可抵“分类自负”费用",
       "category": "society",
       "hotScore": 0.8075,
-      "freshness": 1,
-      "crossSource": 0.6309,
-      "totalScore": 0.8123,
+      "freshness": 0.9999,
+      "crossSource": 1,
+      "totalScore": 0.923,
       "sources": [
         {
           "channel": "thepaper",
@@ -45,61 +64,55 @@
       "url": "https://www.thepaper.cn/newsDetail_forward_33979511"
     },
     {
-      "id": "evt-84500000",
-      "title": "女子被踢845个群被迫离职 当地通报",
+      "id": "evt-20260000",
+      "title": "习近平出席2026年上合峰会",
       "category": "society",
-      "hotScore": 0.51,
-      "freshness": 0.9999,
+      "hotScore": 0.8,
+      "freshness": 1,
       "crossSource": 1,
-      "totalScore": 0.804,
+      "totalScore": 0.92,
       "sources": [
         {
-          "channel": "toutiao",
-          "rank": 9,
-          "hot": 9720967,
-          "url": "https://www.toutiao.com/trending/7680253002297049114/"
-        },
-        {
           "channel": "baidu",
-          "rank": 9,
+          "rank": 1,
           "hot": 0,
-          "url": "https://m.baidu.com/s?word=%E5%A5%B3%E5%AD%90%E8%A2%AB%E8%B8%A2845%E4%B8%AA%E7%BE%A4%E8%A2%AB%E8%BF%AB%E7%A6%BB%E8%81%8C+%E5%BD%93%E5%9C%B0%E9%80%9A%E6%8A%A5&sa=fyb_news"
+          "url": "https://m.baidu.com/s?word=%E4%B9%A0%E8%BF%91%E5%B9%B3%E5%87%BA%E5%B8%AD2026%E5%B9%B4%E4%B8%8A%E5%90%88%E5%B3%B0%E4%BC%9A&sa=fyb_news"
         }
       ],
       "summary": "",
-      "url": "https://www.toutiao.com/trending/7680253002297049114/"
+      "url": "https://m.baidu.com/s?word=%E4%B9%A0%E8%BF%91%E5%B9%B3%E5%87%BA%E5%B8%AD2026%E5%B9%B4%E4%B8%8A%E5%90%88%E5%B3%B0%E4%BC%9A&sa=fyb_news"
     },
     {
-      "id": "evt-50000000",
-      "title": "六大行房贷余额少了5000多亿",
+      "id": "evt-70800000",
+      "title": "新生家长群已集齐70、80、90、00后",
       "category": "society",
-      "hotScore": 0.72,
+      "hotScore": 0.76,
       "freshness": 1,
-      "crossSource": 0.6309,
-      "totalScore": 0.7773,
+      "crossSource": 1,
+      "totalScore": 0.904,
       "sources": [
         {
           "channel": "baidu",
-          "rank": 3,
+          "rank": 2,
           "hot": 0,
-          "url": "https://m.baidu.com/s?word=%E5%85%AD%E5%A4%A7%E8%A1%8C%E6%88%BF%E8%B4%B7%E4%BD%99%E9%A2%9D%E5%B0%91%E4%BA%865000%E5%A4%9A%E4%BA%BF&sa=fyb_news"
+          "url": "https://m.baidu.com/s?word=%E6%96%B0%E7%94%9F%E5%AE%B6%E9%95%BF%E7%BE%A4%E5%B7%B2%E9%9B%86%E9%BD%9070%E3%80%8180%E3%80%8190%E3%80%8100%E5%90%8E&sa=fyb_news"
         }
       ],
       "summary": "",
-      "url": "https://m.baidu.com/s?word=%E5%85%AD%E5%A4%A7%E8%A1%8C%E6%88%BF%E8%B4%B7%E4%BD%99%E9%A2%9D%E5%B0%91%E4%BA%865000%E5%A4%9A%E4%BA%BF&sa=fyb_news"
+      "url": "https://m.baidu.com/s?word=%E6%96%B0%E7%94%9F%E5%AE%B6%E9%95%BF%E7%BE%A4%E5%B7%B2%E9%9B%86%E9%BD%9070%E3%80%8180%E3%80%8190%E3%80%8100%E5%90%8E&sa=fyb_news"
     },
     {
-      "id": "evt-46780000",
-      "title": "华为上半年营收 4678 亿元，归母净利润 234.28 亿元，如何看待其业绩表现？",
-      "category": "economy",
-      "hotScore": 0.675,
-      "freshness": 1,
-      "crossSource": 0.6309,
-      "totalScore": 0.7593,
+      "id": "evt-84500000",
+      "title": "官方通报女子被踢出 845 个群被迫离职，用人单位已履行判决，事件中暴露的问题该如何有效解决？",
+      "category": "society",
+      "hotScore": 0.75,
+      "freshness": 0.9998,
+      "crossSource": 1,
+      "totalScore": 0.9,
       "sources": [
         {
           "channel": "zhihu",
-          "rank": 3,
+          "rank": 1,
           "hot": 0,
           "url": ""
         }
@@ -108,32 +121,32 @@
       "url": ""
     },
     {
-      "id": "evt-65000000",
-      "title": "喜马拉雅冰川消融加速65%",
+      "id": "evt-25500000",
+      "title": "“25块钱就能举报别人500次”",
       "category": "society",
       "hotScore": 0.64,
       "freshness": 1,
-      "crossSource": 0.6309,
-      "totalScore": 0.7453,
+      "crossSource": 1,
+      "totalScore": 0.856,
       "sources": [
         {
           "channel": "baidu",
           "rank": 5,
           "hot": 0,
-          "url": "https://m.baidu.com/s?word=%E5%96%9C%E9%A9%AC%E6%8B%89%E9%9B%85%E5%86%B0%E5%B7%9D%E6%B6%88%E8%9E%8D%E5%8A%A0%E9%80%9F65%25&sa=fyb_news"
+          "url": "https://m.baidu.com/s?word=%E2%80%9C25%E5%9D%97%E9%92%B1%E5%B0%B1%E8%83%BD%E4%B8%BE%E6%8A%A5%E5%88%AB%E4%BA%BA500%E6%AC%A1%E2%80%9D&sa=fyb_news"
         }
       ],
       "summary": "",
-      "url": "https://m.baidu.com/s?word=%E5%96%9C%E9%A9%AC%E6%8B%89%E9%9B%85%E5%86%B0%E5%B7%9D%E6%B6%88%E8%9E%8D%E5%8A%A0%E9%80%9F65%25&sa=fyb_news"
+      "url": "https://m.baidu.com/s?word=%E2%80%9C25%E5%9D%97%E9%92%B1%E5%B0%B1%E8%83%BD%E4%B8%BE%E6%8A%A5%E5%88%AB%E4%BA%BA500%E6%AC%A1%E2%80%9D&sa=fyb_news"
     },
     {
-      "id": "evt-18900000",
-      "title": "如何评价凡人修仙传 189 集争议巨大，对比 177 集还愿意改片，这次官方零公开回应、不修改成片、冷处理？",
+      "id": "evt-aigc0000",
+      "title": "国内首部 AIGC 长剧《后西游记》开播，登陆湖南卫视黄金档，好看吗？会对影视行业有怎样的影响？",
       "category": "society",
       "hotScore": 0.6375,
-      "freshness": 1,
-      "crossSource": 0.6309,
-      "totalScore": 0.7443,
+      "freshness": 0.9998,
+      "crossSource": 1,
+      "totalScore": 0.855,
       "sources": [
         {
           "channel": "zhihu",
@@ -146,36 +159,36 @@
       "url": ""
     },
     {
-      "id": "evt-16000000",
-      "title": "一家16口包中巴送新生上大学",
+      "id": "evt-20000000",
+      "title": "20后入学家长年龄相差近30岁",
       "category": "society",
-      "hotScore": 0.6,
-      "freshness": 1,
-      "crossSource": 0.6309,
-      "totalScore": 0.7293,
+      "hotScore": 0.6375,
+      "freshness": 0.9998,
+      "crossSource": 1,
+      "totalScore": 0.8549,
       "sources": [
         {
-          "channel": "baidu",
+          "channel": "toutiao",
           "rank": 6,
-          "hot": 0,
-          "url": "https://m.baidu.com/s?word=%E4%B8%80%E5%AE%B616%E5%8F%A3%E5%8C%85%E4%B8%AD%E5%B7%B4%E9%80%81%E6%96%B0%E7%94%9F%E4%B8%8A%E5%A4%A7%E5%AD%A6&sa=fyb_news"
+          "hot": 9747184,
+          "url": "https://www.toutiao.com/trending/7680415989095468553/"
         }
       ],
       "summary": "",
-      "url": "https://m.baidu.com/s?word=%E4%B8%80%E5%AE%B616%E5%8F%A3%E5%8C%85%E4%B8%AD%E5%B7%B4%E9%80%81%E6%96%B0%E7%94%9F%E4%B8%8A%E5%A4%A7%E5%AD%A6&sa=fyb_news"
+      "url": "https://www.toutiao.com/trending/7680415989095468553/"
     },
     {
-      "id": "evt-aigc0000",
-      "title": "国内首部 AIGC 长剧《后西游记》开播，登陆湖南卫视黄金档，好看吗？会对影视行业有怎样的影响？",
+      "id": "evt-18900000",
+      "title": "如何评价《凡人修仙传》189 集争议巨大，对比 177 集还愿意改片，这次官方零公开回应、不修改成片、冷处理？",
       "category": "society",
-      "hotScore": 0.6,
-      "freshness": 1,
-      "crossSource": 0.6309,
-      "totalScore": 0.7293,
+      "hotScore": 0.5625,
+      "freshness": 0.9998,
+      "crossSource": 1,
+      "totalScore": 0.825,
       "sources": [
         {
           "channel": "zhihu",
-          "rank": 5,
+          "rank": 6,
           "hot": 0,
           "url": ""
         }
@@ -184,36 +197,36 @@
       "url": ""
     },
     {
-      "id": "evt-45700000",
-      "title": "郑钦文时隔457天再取大满贯正赛胜利",
+      "id": "evt-58000000",
+      "title": "约580名中国香港运动员将出战亚运会",
       "category": "society",
-      "hotScore": 0.595,
-      "freshness": 0.9999,
-      "crossSource": 0.6309,
-      "totalScore": 0.7273,
+      "hotScore": 0.5525,
+      "freshness": 0.9998,
+      "crossSource": 1,
+      "totalScore": 0.8209,
       "sources": [
         {
           "channel": "toutiao",
-          "rank": 7,
-          "hot": 11873216,
-          "url": "https://www.toutiao.com/trending/7679371252512669737/"
+          "rank": 8,
+          "hot": 7980319,
+          "url": "https://www.toutiao.com/trending/7680355271235043364/"
         }
       ],
       "summary": "",
-      "url": "https://www.toutiao.com/trending/7679371252512669737/"
+      "url": "https://www.toutiao.com/trending/7680355271235043364/"
     },
     {
       "id": "evt-ai987000",
       "title": "AI短剧98.7%未回本，今日施行的《微短剧发展管理办法》要管哪些？",
       "category": "society",
-      "hotScore": 0.5525,
-      "freshness": 1,
-      "crossSource": 0.6309,
-      "totalScore": 0.7103,
+      "hotScore": 0.4675,
+      "freshness": 0.9999,
+      "crossSource": 1,
+      "totalScore": 0.787,
       "sources": [
         {
           "channel": "thepaper",
-          "rank": 8,
+          "rank": 10,
           "hot": 0,
           "url": "https://www.thepaper.cn/newsDetail_forward_33967164"
         }
@@ -222,42 +235,23 @@
       "url": "https://www.thepaper.cn/newsDetail_forward_33967164"
     },
     {
-      "id": "evt-openaico",
-      "title": "怎么看 OpenAI 的 Codex 将取消上下文压缩，换成「硬切窗口 」和「外部记忆」？",
+      "id": "evt-10000000",
+      "title": "第1天送宝宝去幼儿园 爸爸哭成泪人",
       "category": "society",
-      "hotScore": 0.4875,
+      "hotScore": 0.44,
       "freshness": 1,
-      "crossSource": 0.6309,
-      "totalScore": 0.6843,
+      "crossSource": 1,
+      "totalScore": 0.776,
       "sources": [
         {
-          "channel": "zhihu",
-          "rank": 8,
-          "hot": 0,
-          "url": ""
-        }
-      ],
-      "summary": "",
-      "url": ""
-    },
-    {
-      "id": "evt-22000000",
-      "title": "一中学要收220元“入校门禁费”？四川平昌县教科局：正调查核实",
-      "category": "society",
-      "hotScore": 0.4675,
-      "freshness": 1,
-      "crossSource": 0.6309,
-      "totalScore": 0.6763,
-      "sources": [
-        {
-          "channel": "thepaper",
+          "channel": "baidu",
           "rank": 10,
           "hot": 0,
-          "url": "https://www.thepaper.cn/newsDetail_forward_33978679"
+          "url": "https://m.baidu.com/s?word=%E7%AC%AC1%E5%A4%A9%E9%80%81%E5%AE%9D%E5%AE%9D%E5%8E%BB%E5%B9%BC%E5%84%BF%E5%9B%AD+%E7%88%B8%E7%88%B8%E5%93%AD%E6%88%90%E6%B3%AA%E4%BA%BA&sa=fyb_news"
         }
       ],
       "summary": "",
-      "url": "https://www.thepaper.cn/newsDetail_forward_33978679"
+      "url": "https://m.baidu.com/s?word=%E7%AC%AC1%E5%A4%A9%E9%80%81%E5%AE%9D%E5%AE%9D%E5%8E%BB%E5%B9%BC%E5%84%BF%E5%9B%AD+%E7%88%B8%E7%88%B8%E5%93%AD%E6%88%90%E6%B3%AA%E4%BA%BA&sa=fyb_news"
     }
   ]
 }
