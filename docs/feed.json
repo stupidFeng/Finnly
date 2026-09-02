@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-09-02T20:16:01.560Z",
+  "generatedAt": "2026-09-02T23:40:57.798Z",
   "fields": {
     "society": "社会",
     "economy": "经济",
@@ -8,53 +8,72 @@
   "feed": [
     {
       "id": "evt-00000000",
-      "title": "吉隆泥石流致21人遇难541人失联",
+      "title": "台风沙德尔在福建漳州第三次登陆",
       "category": "society",
-      "hotScore": 0.68,
-      "freshness": 1,
+      "hotScore": 0.85,
+      "freshness": 0.9999,
       "crossSource": 1,
-      "totalScore": 0.872,
+      "totalScore": 0.94,
       "sources": [
         {
           "channel": "toutiao",
-          "rank": 5,
-          "hot": 15170147,
-          "url": "https://www.toutiao.com/trending/7680492476662054954/"
-        },
-        {
-          "channel": "thepaper",
-          "rank": 16,
-          "hot": 0,
-          "url": "https://www.thepaper.cn/newsDetail_forward_33995013"
-        }
-      ],
-      "summary": "",
-      "url": "https://www.toutiao.com/trending/7680492476662054954/"
-    },
-    {
-      "id": "evt-50000000",
-      "title": "印5名特种兵从直升机跳入河中2人失踪",
-      "category": "society",
-      "hotScore": 0.6375,
-      "freshness": 1,
-      "crossSource": 1,
-      "totalScore": 0.855,
-      "sources": [
-        {
-          "channel": "toutiao",
-          "rank": 6,
-          "hot": 13726517,
-          "url": "https://www.toutiao.com/trending/7680508955814379561/"
+          "rank": 1,
+          "hot": 18391148,
+          "url": "https://www.toutiao.com/trending/7679981656719556627/"
         },
         {
           "channel": "baidu",
-          "rank": 14,
+          "rank": 11,
           "hot": 0,
-          "url": "https://m.baidu.com/s?word=%E5%8D%B05%E5%90%8D%E7%89%B9%E7%A7%8D%E5%85%B5%E4%BB%8E%E7%9B%B4%E5%8D%87%E6%9C%BA%E8%B7%B3%E5%85%A5%E6%B2%B3%E4%B8%AD2%E4%BA%BA%E5%A4%B1%E8%B8%AA&sa=fyb_news"
+          "url": "https://m.baidu.com/s?word=%E5%8F%B0%E9%A3%8E%E6%B2%99%E5%BE%B7%E5%B0%94%E5%9C%A8%E7%A6%8F%E5%BB%BA%E6%BC%B3%E5%B7%9E%E7%AC%AC%E4%B8%89%E6%AC%A1%E7%99%BB%E9%99%86&sa=fyb_news"
         }
       ],
       "summary": "",
-      "url": "https://www.toutiao.com/trending/7680508955814379561/"
+      "url": "https://www.toutiao.com/trending/7679981656719556627/"
+    },
+    {
+      "id": "evt-80000000",
+      "title": "吉隆泥石流灾害发现遗物847件",
+      "category": "society",
+      "hotScore": 0.56,
+      "freshness": 0.9999,
+      "crossSource": 1,
+      "totalScore": 0.824,
+      "sources": [
+        {
+          "channel": "toutiao",
+          "rank": 10,
+          "hot": 7477282,
+          "url": "https://www.toutiao.com/trending/7681076144464252466/"
+        },
+        {
+          "channel": "baidu",
+          "rank": 7,
+          "hot": 0,
+          "url": "https://m.baidu.com/s?word=%E5%90%89%E9%9A%86%E6%B3%A5%E7%9F%B3%E6%B5%81%E7%81%BE%E5%AE%B3%E5%8F%91%E7%8E%B0%E9%81%97%E7%89%A9847%E4%BB%B6&sa=fyb_news"
+        }
+      ],
+      "summary": "",
+      "url": "https://www.toutiao.com/trending/7681076144464252466/"
+    },
+    {
+      "id": "evt-20000000",
+      "title": "一企业付20万律师见证费后项目搁浅要求退还：律所主任称未收款，律协已介入",
+      "category": "society",
+      "hotScore": 0.8075,
+      "freshness": 1,
+      "crossSource": 0.6309,
+      "totalScore": 0.8123,
+      "sources": [
+        {
+          "channel": "thepaper",
+          "rank": 2,
+          "hot": 0,
+          "url": "https://www.thepaper.cn/newsDetail_forward_33993806"
+        }
+      ],
+      "summary": "",
+      "url": "https://www.thepaper.cn/newsDetail_forward_33993806"
     },
     {
       "id": "evt-21540000",
@@ -95,99 +114,80 @@
       "url": "https://m.baidu.com/s?word=%E8%AF%BB%E6%87%82%E8%BF%99%E4%B8%AA%E2%80%9C50.9%25%E2%80%9D%E7%9A%84%E5%88%86%E9%87%8F&sa=fyb_news"
     },
     {
-      "id": "evt-20000000",
-      "title": "一企业付20万律师见证费后项目搁浅要求退还：律所主任称未收款，律协已介入",
+      "id": "evt-22990000",
+      "title": "如何评价 22.99 万起售的比亚迪海狮 08？有哪些亮点值得关注？",
+      "category": "society",
+      "hotScore": 0.675,
+      "freshness": 1,
+      "crossSource": 0.6309,
+      "totalScore": 0.7593,
+      "sources": [
+        {
+          "channel": "zhihu",
+          "rank": 3,
+          "hot": 0,
+          "url": ""
+        }
+      ],
+      "summary": "",
+      "url": ""
+    },
+    {
+      "id": "evt-30000000",
+      "title": "鱼塘成食堂 老板出3万征集驱鸟点子",
       "category": "society",
       "hotScore": 0.6375,
-      "freshness": 1,
+      "freshness": 0.9999,
       "crossSource": 0.6309,
       "totalScore": 0.7443,
       "sources": [
         {
-          "channel": "thepaper",
+          "channel": "toutiao",
           "rank": 6,
-          "hot": 0,
-          "url": "https://www.thepaper.cn/newsDetail_forward_33993806"
+          "hot": 11154795,
+          "url": "https://www.toutiao.com/trending/7681076161753173555/"
         }
       ],
       "summary": "",
-      "url": "https://www.thepaper.cn/newsDetail_forward_33993806"
+      "url": "https://www.toutiao.com/trending/7681076161753173555/"
     },
     {
-      "id": "evt-80000000",
-      "title": "吉隆泥石流灾害发现遗物847件",
+      "id": "evt-95000000",
+      "title": "95后特警抡锤猛砸护栏泄洪",
       "category": "society",
-      "hotScore": 0.56,
-      "freshness": 1,
+      "hotScore": 0.5525,
+      "freshness": 0.9999,
       "crossSource": 0.6309,
-      "totalScore": 0.7133,
-      "sources": [
-        {
-          "channel": "baidu",
-          "rank": 7,
-          "hot": 0,
-          "url": "https://m.baidu.com/s?word=%E5%90%89%E9%9A%86%E6%B3%A5%E7%9F%B3%E6%B5%81%E7%81%BE%E5%AE%B3%E5%8F%91%E7%8E%B0%E9%81%97%E7%89%A9847%E4%BB%B6&sa=fyb_news"
-        }
-      ],
-      "summary": "",
-      "url": "https://m.baidu.com/s?word=%E5%90%89%E9%9A%86%E6%B3%A5%E7%9F%B3%E6%B5%81%E7%81%BE%E5%AE%B3%E5%8F%91%E7%8E%B0%E9%81%97%E7%89%A9847%E4%BB%B6&sa=fyb_news"
-    },
-    {
-      "id": "evt-22990000",
-      "title": "如何评价 22.99 万起售的比亚迪海狮 08？有哪些亮点值得关注？",
-      "category": "society",
-      "hotScore": 0.4875,
-      "freshness": 1,
-      "crossSource": 0.6309,
-      "totalScore": 0.6843,
-      "sources": [
-        {
-          "channel": "zhihu",
-          "rank": 8,
-          "hot": 0,
-          "url": ""
-        }
-      ],
-      "summary": "",
-      "url": ""
-    },
-    {
-      "id": "evt-11900000",
-      "title": "市民打119后上传火警视频遇开屏广告",
-      "category": "society",
-      "hotScore": 0.4675,
-      "freshness": 1,
-      "crossSource": 0.6309,
-      "totalScore": 0.6763,
+      "totalScore": 0.7103,
       "sources": [
         {
           "channel": "toutiao",
-          "rank": 10,
-          "hot": 9201159,
-          "url": "https://www.toutiao.com/trending/7680832075146559542/"
+          "rank": 8,
+          "hot": 9132773,
+          "url": "https://www.toutiao.com/trending/7681078738750328370/"
         }
       ],
       "summary": "",
-      "url": "https://www.toutiao.com/trending/7680832075146559542/"
+      "url": "https://www.toutiao.com/trending/7681078738750328370/"
     },
     {
-      "id": "evt-gemini38flas",
-      "title": "Gemini 3.8 Flash 发布，有什么值得关注的？",
+      "id": "evt-81000000",
+      "title": "中国人民抗日战争胜利81周年纪念日",
       "category": "society",
-      "hotScore": 0.45,
+      "hotScore": 0.52,
       "freshness": 1,
       "crossSource": 0.6309,
-      "totalScore": 0.6693,
+      "totalScore": 0.6973,
       "sources": [
         {
-          "channel": "zhihu",
-          "rank": 9,
+          "channel": "baidu",
+          "rank": 8,
           "hot": 0,
-          "url": ""
+          "url": "https://m.baidu.com/s?word=%E4%B8%AD%E5%9B%BD%E4%BA%BA%E6%B0%91%E6%8A%97%E6%97%A5%E6%88%98%E4%BA%89%E8%83%9C%E5%88%A981%E5%91%A8%E5%B9%B4%E7%BA%AA%E5%BF%B5%E6%97%A5&sa=fyb_news"
         }
       ],
       "summary": "",
-      "url": ""
+      "url": "https://m.baidu.com/s?word=%E4%B8%AD%E5%9B%BD%E4%BA%BA%E6%B0%91%E6%8A%97%E6%97%A5%E6%88%98%E4%BA%89%E8%83%9C%E5%88%A981%E5%91%A8%E5%B9%B4%E7%BA%AA%E5%BF%B5%E6%97%A5&sa=fyb_news"
     },
     {
       "id": "evt-97000000",
