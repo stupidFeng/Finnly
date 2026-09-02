@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-09-02T12:22:32.945Z",
+  "generatedAt": "2026-09-02T17:29:58.497Z",
   "fields": {
     "society": "社会",
     "economy": "经济",
@@ -7,20 +7,39 @@
   },
   "feed": [
     {
-      "id": "evt-50900000",
-      "title": "读懂这个“50.9%”的分量",
+      "id": "evt-00000000",
+      "title": "吉隆泥石流致21人遇难541人失联",
       "category": "society",
-      "hotScore": 0.765,
+      "hotScore": 0.68,
       "freshness": 1,
       "crossSource": 1,
-      "totalScore": 0.906,
+      "totalScore": 0.872,
       "sources": [
         {
           "channel": "toutiao",
-          "rank": 3,
-          "hot": 11193116,
-          "url": "https://www.toutiao.com/trending/7680696073110831154/"
+          "rank": 5,
+          "hot": 14705492,
+          "url": "https://www.toutiao.com/trending/7680492476662054954/"
         },
+        {
+          "channel": "thepaper",
+          "rank": 17,
+          "hot": 0,
+          "url": "https://www.thepaper.cn/newsDetail_forward_33995013"
+        }
+      ],
+      "summary": "",
+      "url": "https://www.toutiao.com/trending/7680492476662054954/"
+    },
+    {
+      "id": "evt-50900000",
+      "title": "读懂这个“50.9%”的分量",
+      "category": "society",
+      "hotScore": 0.68,
+      "freshness": 1,
+      "crossSource": 0.6309,
+      "totalScore": 0.7613,
+      "sources": [
         {
           "channel": "baidu",
           "rank": 4,
@@ -29,30 +48,11 @@
         }
       ],
       "summary": "",
-      "url": "https://www.toutiao.com/trending/7680696073110831154/"
+      "url": "https://m.baidu.com/s?word=%E8%AF%BB%E6%87%82%E8%BF%99%E4%B8%AA%E2%80%9C50.9%25%E2%80%9D%E7%9A%84%E5%88%86%E9%87%8F&sa=fyb_news"
     },
     {
-      "id": "evt-00000000",
-      "title": "家长上午送娃入园下午学校停办了",
-      "category": "society",
-      "hotScore": 0.85,
-      "freshness": 1,
-      "crossSource": 0.6309,
-      "totalScore": 0.8293,
-      "sources": [
-        {
-          "channel": "toutiao",
-          "rank": 1,
-          "hot": 13671302,
-          "url": "https://www.toutiao.com/trending/7680877897015542299/"
-        }
-      ],
-      "summary": "",
-      "url": "https://www.toutiao.com/trending/7680877897015542299/"
-    },
-    {
-      "id": "evt-lpl00000",
-      "title": "LPL 解说管泽元被曝处罚严重，因不满处罚主动停工，这对他个人发展及 LPL 会有何影响？",
+      "id": "evt-21540000",
+      "title": "西藏泥石流已致 21 死 541 失联，发现遗物 847 件，有哪些信息值得关注？",
       "category": "society",
       "hotScore": 0.675,
       "freshness": 1,
@@ -70,8 +70,8 @@
       "url": ""
     },
     {
-      "id": "evt-60000000",
-      "title": "家长提议班级收 600 元请保洁，有家长反对被禁言，如何看待此事？小学生参与班级劳动家长该不该插手？",
+      "id": "evt-hpv00000",
+      "title": "专家：抓住HPV疫苗接种“黄金窗口”",
       "category": "society",
       "hotScore": 0.6375,
       "freshness": 1,
@@ -79,18 +79,18 @@
       "totalScore": 0.7443,
       "sources": [
         {
-          "channel": "zhihu",
-          "rank": 4,
-          "hot": 0,
-          "url": ""
+          "channel": "toutiao",
+          "rank": 6,
+          "hot": 13306079,
+          "url": "https://www.toutiao.com/trending/7680160806004850738/"
         }
       ],
       "summary": "",
-      "url": ""
+      "url": "https://www.toutiao.com/trending/7680160806004850738/"
     },
     {
-      "id": "evt-20000000",
-      "title": "2人骑电动车紧跟大挂车“破风”",
+      "id": "evt-a0000000",
+      "title": "业内：大A正从互联网大厂偷偷挖公关",
       "category": "society",
       "hotScore": 0.595,
       "freshness": 1,
@@ -100,69 +100,69 @@
         {
           "channel": "toutiao",
           "rank": 7,
-          "hot": 7502970,
-          "url": "https://www.toutiao.com/trending/7680826586307936299/"
+          "hot": 12039838,
+          "url": "https://www.toutiao.com/trending/7680936255873355283/"
         }
       ],
       "summary": "",
-      "url": "https://www.toutiao.com/trending/7680826586307936299/"
+      "url": "https://www.toutiao.com/trending/7680936255873355283/"
     },
     {
-      "id": "evt-27200000",
-      "title": "海上漂了272天的美国水兵登陆了",
+      "id": "evt-80000000",
+      "title": "吉隆泥石流灾害发现遗物847件",
       "category": "society",
-      "hotScore": 0.52,
+      "hotScore": 0.56,
       "freshness": 1,
       "crossSource": 0.6309,
-      "totalScore": 0.6973,
+      "totalScore": 0.7133,
       "sources": [
         {
           "channel": "baidu",
-          "rank": 8,
+          "rank": 7,
           "hot": 0,
-          "url": "https://m.baidu.com/s?word=%E6%B5%B7%E4%B8%8A%E6%BC%82%E4%BA%86272%E5%A4%A9%E7%9A%84%E7%BE%8E%E5%9B%BD%E6%B0%B4%E5%85%B5%E7%99%BB%E9%99%86%E4%BA%86&sa=fyb_news"
+          "url": "https://m.baidu.com/s?word=%E5%90%89%E9%9A%86%E6%B3%A5%E7%9F%B3%E6%B5%81%E7%81%BE%E5%AE%B3%E5%8F%91%E7%8E%B0%E9%81%97%E7%89%A9847%E4%BB%B6&sa=fyb_news"
         }
       ],
       "summary": "",
-      "url": "https://m.baidu.com/s?word=%E6%B5%B7%E4%B8%8A%E6%BC%82%E4%BA%86272%E5%A4%A9%E7%9A%84%E7%BE%8E%E5%9B%BD%E6%B0%B4%E5%85%B5%E7%99%BB%E9%99%86%E4%BA%86&sa=fyb_news"
+      "url": "https://m.baidu.com/s?word=%E5%90%89%E9%9A%86%E6%B3%A5%E7%9F%B3%E6%B5%81%E7%81%BE%E5%AE%B3%E5%8F%91%E7%8E%B0%E9%81%97%E7%89%A9847%E4%BB%B6&sa=fyb_news"
     },
     {
-      "id": "evt-21100000",
-      "title": "为什么 211 越来越不被人当成名校了？",
+      "id": "evt-20000000",
+      "title": "一企业付20万律师见证费后项目搁浅要求退还：律所主任称未收款，律协已介入",
       "category": "society",
-      "hotScore": 0.4875,
+      "hotScore": 0.4675,
       "freshness": 1,
       "crossSource": 0.6309,
-      "totalScore": 0.6843,
+      "totalScore": 0.6763,
+      "sources": [
+        {
+          "channel": "thepaper",
+          "rank": 10,
+          "hot": 0,
+          "url": "https://www.thepaper.cn/newsDetail_forward_33993806"
+        }
+      ],
+      "summary": "",
+      "url": "https://www.thepaper.cn/newsDetail_forward_33993806"
+    },
+    {
+      "id": "evt-20268000",
+      "title": "比亚迪 2026 年 8 月销量超过 44 万台，同比增长 17.84%，如何评价这一成绩？",
+      "category": "society",
+      "hotScore": 0.45,
+      "freshness": 1,
+      "crossSource": 0.6309,
+      "totalScore": 0.6693,
       "sources": [
         {
           "channel": "zhihu",
-          "rank": 8,
+          "rank": 9,
           "hot": 0,
           "url": ""
         }
       ],
       "summary": "",
       "url": ""
-    },
-    {
-      "id": "evt-g2000000",
-      "title": "中方对G20会议未发表公报深表遗憾",
-      "category": "society",
-      "hotScore": 0.44,
-      "freshness": 1,
-      "crossSource": 0.6309,
-      "totalScore": 0.6653,
-      "sources": [
-        {
-          "channel": "baidu",
-          "rank": 10,
-          "hot": 0,
-          "url": "https://m.baidu.com/s?word=%E4%B8%AD%E6%96%B9%E5%AF%B9G20%E4%BC%9A%E8%AE%AE%E6%9C%AA%E5%8F%91%E8%A1%A8%E5%85%AC%E6%8A%A5%E6%B7%B1%E8%A1%A8%E9%81%97%E6%86%BE&sa=fyb_news"
-        }
-      ],
-      "summary": "",
-      "url": "https://m.baidu.com/s?word=%E4%B8%AD%E6%96%B9%E5%AF%B9G20%E4%BC%9A%E8%AE%AE%E6%9C%AA%E5%8F%91%E8%A1%A8%E5%85%AC%E6%8A%A5%E6%B7%B1%E8%A1%A8%E9%81%97%E6%86%BE&sa=fyb_news"
     }
   ]
 }
