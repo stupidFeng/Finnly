@@ -1,30 +1,11 @@
 {
-  "generatedAt": "2026-09-01T22:10:50.001Z",
+  "generatedAt": "2026-09-02T01:55:42.759Z",
   "fields": {
     "society": "社会",
     "economy": "经济",
     "entertainment": "娱乐"
   },
   "feed": [
-    {
-      "id": "evt-00000000",
-      "title": "华东地区发现特大铜金矿有何影响",
-      "category": "society",
-      "hotScore": 0.85,
-      "freshness": 1,
-      "crossSource": 0.6309,
-      "totalScore": 0.8293,
-      "sources": [
-        {
-          "channel": "toutiao",
-          "rank": 1,
-          "hot": 23876693,
-          "url": "https://www.toutiao.com/trending/7680480074214166059/"
-        }
-      ],
-      "summary": "",
-      "url": "https://www.toutiao.com/trending/7680480074214166059/"
-    },
     {
       "id": "evt-10000000",
       "title": "100元报销需王兴兴亲自审批？宇树科技回应：很多内容不实，切勿当真",
@@ -45,8 +26,27 @@
       "url": "https://www.thepaper.cn/newsDetail_forward_33983507"
     },
     {
-      "id": "evt-10660000",
-      "title": "尼泊尔泥石流已致1066人死亡",
+      "id": "evt-12000000",
+      "title": "怀孕妻子迎参军12年小伙退伍回家",
+      "category": "society",
+      "hotScore": 0.85,
+      "freshness": 0.9999,
+      "crossSource": 0.6309,
+      "totalScore": 0.8292,
+      "sources": [
+        {
+          "channel": "toutiao",
+          "rank": 1,
+          "hot": 17971779,
+          "url": "https://www.toutiao.com/trending/7680071437759221311/"
+        }
+      ],
+      "summary": "",
+      "url": "https://www.toutiao.com/trending/7680071437759221311/"
+    },
+    {
+      "id": "evt-00000000",
+      "title": "众多“香港大药房”网店被国家中医药管理局通报后下架，仍有商家更名再营业",
       "category": "society",
       "hotScore": 0.8075,
       "freshness": 1,
@@ -54,40 +54,21 @@
       "totalScore": 0.8123,
       "sources": [
         {
-          "channel": "toutiao",
-          "rank": 2,
-          "hot": 21604525,
-          "url": "https://www.toutiao.com/trending/7680503269885546030/"
-        }
-      ],
-      "summary": "",
-      "url": "https://www.toutiao.com/trending/7680503269885546030/"
-    },
-    {
-      "id": "evt-ai987000",
-      "title": "AI短剧98.7%未回本，今日施行的《微短剧发展管理办法》要管哪些？",
-      "category": "society",
-      "hotScore": 0.765,
-      "freshness": 1,
-      "crossSource": 0.6309,
-      "totalScore": 0.7953,
-      "sources": [
-        {
           "channel": "thepaper",
-          "rank": 3,
+          "rank": 2,
           "hot": 0,
-          "url": "https://www.thepaper.cn/newsDetail_forward_33967164"
+          "url": "https://www.thepaper.cn/newsDetail_forward_33983612"
         }
       ],
       "summary": "",
-      "url": "https://www.thepaper.cn/newsDetail_forward_33967164"
+      "url": "https://www.thepaper.cn/newsDetail_forward_33983612"
     },
     {
-      "id": "evt-91000000",
-      "title": "9 月 1 日起外籍个人从外商投资企业取得股息红利不再免征个税，如何解读？会带来多大规模的税收增量？",
+      "id": "evt-84200000",
+      "title": "8 月鸿蒙智行交付 4.2 万余台，小米汽车持续交付超 3 万台，如何评价各家车企 8 月交付表现？",
       "category": "society",
       "hotScore": 0.75,
-      "freshness": 1,
+      "freshness": 0.9999,
       "crossSource": 0.6309,
       "totalScore": 0.7893,
       "sources": [
@@ -102,80 +83,17 @@
       "url": ""
     },
     {
-      "id": "evt-45000000",
-      "title": "大爷遛鱼4小时钓起50斤大青鱼",
+      "id": "evt-91ce0000",
+      "title": "库克 9 月 1 日卸任苹果 CEO，由苹果硬件工程负责人特努斯接棒，苹果接下来将发生哪些变化？",
       "category": "society",
-      "hotScore": 0.7225,
-      "freshness": 1,
+      "hotScore": 0.7125,
+      "freshness": 0.9999,
       "crossSource": 0.6309,
-      "totalScore": 0.7783,
-      "sources": [
-        {
-          "channel": "toutiao",
-          "rank": 4,
-          "hot": 17688289,
-          "url": "https://www.toutiao.com/trending/7679782788736155690/"
-        }
-      ],
-      "summary": "",
-      "url": "https://www.toutiao.com/trending/7679782788736155690/"
-    },
-    {
-      "id": "evt-12000000",
-      "title": "云南文山12级台风致人伤亡系谣言",
-      "category": "society",
-      "hotScore": 0.3825,
-      "freshness": 1,
-      "crossSource": 1,
-      "totalScore": 0.753,
-      "sources": [
-        {
-          "channel": "toutiao",
-          "rank": 12,
-          "hot": 7947860,
-          "url": "https://www.toutiao.com/trending/7680500950401990683/"
-        },
-        {
-          "channel": "baidu",
-          "rank": 12,
-          "hot": 0,
-          "url": "https://m.baidu.com/s?word=%E4%BA%91%E5%8D%97%E6%96%87%E5%B1%B112%E7%BA%A7%E5%8F%B0%E9%A3%8E%E8%87%B4%E4%BA%BA%E4%BC%A4%E4%BA%A1%E7%B3%BB%E8%B0%A3%E8%A8%80&sa=fyb_news"
-        }
-      ],
-      "summary": "",
-      "url": "https://www.toutiao.com/trending/7680500950401990683/"
-    },
-    {
-      "id": "evt-40300000",
-      "title": "有银行称办40年房贷需35岁以下",
-      "category": "society",
-      "hotScore": 0.595,
-      "freshness": 1,
-      "crossSource": 0.6309,
-      "totalScore": 0.7273,
-      "sources": [
-        {
-          "channel": "toutiao",
-          "rank": 7,
-          "hot": 13103807,
-          "url": "https://www.toutiao.com/trending/7680397088559562806/"
-        }
-      ],
-      "summary": "",
-      "url": "https://www.toutiao.com/trending/7680397088559562806/"
-    },
-    {
-      "id": "evt-12300000",
-      "title": "高铁二等座变无座，12306 称临时调整无赔偿，此规定合理吗？",
-      "category": "society",
-      "hotScore": 0.525,
-      "freshness": 1,
-      "crossSource": 0.6309,
-      "totalScore": 0.6993,
+      "totalScore": 0.7743,
       "sources": [
         {
           "channel": "zhihu",
-          "rank": 7,
+          "rank": 2,
           "hot": 0,
           "url": ""
         }
@@ -184,37 +102,18 @@
       "url": ""
     },
     {
-      "id": "evt-18000000",
-      "title": "校方回应1个班级超80人",
-      "category": "society",
-      "hotScore": 0.52,
-      "freshness": 1,
-      "crossSource": 0.6309,
-      "totalScore": 0.6973,
-      "sources": [
-        {
-          "channel": "baidu",
-          "rank": 8,
-          "hot": 0,
-          "url": "https://m.baidu.com/s?word=%E6%A0%A1%E6%96%B9%E5%9B%9E%E5%BA%941%E4%B8%AA%E7%8F%AD%E7%BA%A7%E8%B6%8580%E4%BA%BA&sa=fyb_news"
-        }
-      ],
-      "summary": "",
-      "url": "https://m.baidu.com/s?word=%E6%A0%A1%E6%96%B9%E5%9B%9E%E5%BA%941%E4%B8%AA%E7%8F%AD%E7%BA%A7%E8%B6%8580%E4%BA%BA&sa=fyb_news"
-    },
-    {
       "id": "evt-20000000",
       "title": "20后入学家长年龄相差近30岁",
       "category": "society",
-      "hotScore": 0.51,
-      "freshness": 1,
+      "hotScore": 0.68,
+      "freshness": 0.9999,
       "crossSource": 0.6309,
-      "totalScore": 0.6933,
+      "totalScore": 0.7612,
       "sources": [
         {
           "channel": "toutiao",
-          "rank": 9,
-          "hot": 10728489,
+          "rank": 5,
+          "hot": 12046843,
           "url": "https://www.toutiao.com/trending/7680415989095468553/"
         }
       ],
@@ -222,17 +121,74 @@
       "url": "https://www.toutiao.com/trending/7680415989095468553/"
     },
     {
-      "id": "evt-zlangv00",
-      "title": "国产编程语言 zlangv0.12.2.0 发布，支持中文编程，这意味着什么？",
+      "id": "evt-26000000",
+      "title": "大叔2600元买空调发现是8年前产品",
       "category": "society",
-      "hotScore": 0.4875,
-      "freshness": 1,
+      "hotScore": 0.6375,
+      "freshness": 0.9999,
       "crossSource": 0.6309,
-      "totalScore": 0.6843,
+      "totalScore": 0.7442,
+      "sources": [
+        {
+          "channel": "toutiao",
+          "rank": 6,
+          "hot": 10900435,
+          "url": "https://www.toutiao.com/trending/7679731603392577542/"
+        }
+      ],
+      "summary": "",
+      "url": "https://www.toutiao.com/trending/7679731603392577542/"
+    },
+    {
+      "id": "evt-29240000",
+      "title": "找了29年的人已离世24年男子崩溃大哭",
+      "category": "society",
+      "hotScore": 0.56,
+      "freshness": 0.9999,
+      "crossSource": 0.6309,
+      "totalScore": 0.7133,
+      "sources": [
+        {
+          "channel": "baidu",
+          "rank": 7,
+          "hot": 0,
+          "url": "https://m.baidu.com/s?word=%E6%89%BE%E4%BA%8629%E5%B9%B4%E7%9A%84%E4%BA%BA%E5%B7%B2%E7%A6%BB%E4%B8%9624%E5%B9%B4%E7%94%B7%E5%AD%90%E5%B4%A9%E6%BA%83%E5%A4%A7%E5%93%AD&sa=fyb_news"
+        }
+      ],
+      "summary": "",
+      "url": "https://m.baidu.com/s?word=%E6%89%BE%E4%BA%8629%E5%B9%B4%E7%9A%84%E4%BA%BA%E5%B7%B2%E7%A6%BB%E4%B8%9624%E5%B9%B4%E7%94%B7%E5%AD%90%E5%B4%A9%E6%BA%83%E5%A4%A7%E5%93%AD&sa=fyb_news"
+    },
+    {
+      "id": "evt-92700000",
+      "title": "离家9年27岁退伍女兵向妈妈敬礼",
+      "category": "society",
+      "hotScore": 0.5525,
+      "freshness": 0.9999,
+      "crossSource": 0.6309,
+      "totalScore": 0.7102,
+      "sources": [
+        {
+          "channel": "toutiao",
+          "rank": 8,
+          "hot": 8924521,
+          "url": "https://www.toutiao.com/trending/7679681198297366578/"
+        }
+      ],
+      "summary": "",
+      "url": "https://www.toutiao.com/trending/7679681198297366578/"
+    },
+    {
+      "id": "evt-vp000000",
+      "title": "报道称美国银行某部门 VP 艾琳·皮亚琴蒂据称在时代广场被刺身亡，哪些信息值得关注？",
+      "category": "society",
+      "hotScore": 0.525,
+      "freshness": 0.9999,
+      "crossSource": 0.6309,
+      "totalScore": 0.6993,
       "sources": [
         {
           "channel": "zhihu",
-          "rank": 8,
+          "rank": 7,
           "hot": 0,
           "url": ""
         }
