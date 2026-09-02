@@ -1,11 +1,61 @@
 {
-  "generatedAt": "2026-09-02T01:55:42.759Z",
+  "generatedAt": "2026-09-02T06:38:56.822Z",
   "fields": {
     "society": "社会",
     "economy": "经济",
     "entertainment": "娱乐"
   },
   "feed": [
+    {
+      "id": "evt-11180000",
+      "title": "尼泊尔泥石流已致1118死4858失联",
+      "category": "society",
+      "hotScore": 0.85,
+      "freshness": 0.9999,
+      "crossSource": 1,
+      "totalScore": 0.94,
+      "sources": [
+        {
+          "channel": "toutiao",
+          "rank": 1,
+          "hot": 7471873,
+          "url": "https://www.toutiao.com/trending/7680811771950534170/"
+        },
+        {
+          "channel": "baidu",
+          "rank": 7,
+          "hot": 0,
+          "url": "https://m.baidu.com/s?word=%E5%B0%BC%E6%B3%8A%E5%B0%94%E6%B3%A5%E7%9F%B3%E6%B5%81%E5%B7%B2%E8%87%B41118%E6%AD%BB4858%E5%A4%B1%E8%81%94&sa=fyb_news"
+        }
+      ],
+      "summary": "",
+      "url": "https://www.toutiao.com/trending/7680811771950534170/"
+    },
+    {
+      "id": "evt-00000000",
+      "title": "全国小学初中已全部替换新教材",
+      "category": "society",
+      "hotScore": 0.595,
+      "freshness": 0.9999,
+      "crossSource": 1,
+      "totalScore": 0.838,
+      "sources": [
+        {
+          "channel": "toutiao",
+          "rank": 7,
+          "hot": 4100651,
+          "url": "https://www.toutiao.com/trending/7680071437759254079/"
+        },
+        {
+          "channel": "baidu",
+          "rank": 19,
+          "hot": 0,
+          "url": "https://m.baidu.com/s?word=%E5%85%A8%E5%9B%BD%E5%B0%8F%E5%AD%A6%E5%88%9D%E4%B8%AD%E5%B7%B2%E5%85%A8%E9%83%A8%E6%9B%BF%E6%8D%A2%E6%96%B0%E6%95%99%E6%9D%90&sa=fyb_news"
+        }
+      ],
+      "summary": "",
+      "url": "https://www.toutiao.com/trending/7680071437759254079/"
+    },
     {
       "id": "evt-10000000",
       "title": "100元报销需王兴兴亲自审批？宇树科技回应：很多内容不实，切勿当真",
@@ -26,46 +76,8 @@
       "url": "https://www.thepaper.cn/newsDetail_forward_33983507"
     },
     {
-      "id": "evt-12000000",
-      "title": "怀孕妻子迎参军12年小伙退伍回家",
-      "category": "society",
-      "hotScore": 0.85,
-      "freshness": 0.9999,
-      "crossSource": 0.6309,
-      "totalScore": 0.8292,
-      "sources": [
-        {
-          "channel": "toutiao",
-          "rank": 1,
-          "hot": 17971779,
-          "url": "https://www.toutiao.com/trending/7680071437759221311/"
-        }
-      ],
-      "summary": "",
-      "url": "https://www.toutiao.com/trending/7680071437759221311/"
-    },
-    {
-      "id": "evt-00000000",
-      "title": "众多“香港大药房”网店被国家中医药管理局通报后下架，仍有商家更名再营业",
-      "category": "society",
-      "hotScore": 0.8075,
-      "freshness": 1,
-      "crossSource": 0.6309,
-      "totalScore": 0.8123,
-      "sources": [
-        {
-          "channel": "thepaper",
-          "rank": 2,
-          "hot": 0,
-          "url": "https://www.thepaper.cn/newsDetail_forward_33983612"
-        }
-      ],
-      "summary": "",
-      "url": "https://www.thepaper.cn/newsDetail_forward_33983612"
-    },
-    {
-      "id": "evt-84200000",
-      "title": "8 月鸿蒙智行交付 4.2 万余台，小米汽车持续交付超 3 万台，如何评价各家车企 8 月交付表现？",
+      "id": "evt-90000000",
+      "title": "皮鞋大王奥康国际四年亏 9 亿，红蜻蜓连年亏损，为啥中国男人不爱买皮鞋了？",
       "category": "society",
       "hotScore": 0.75,
       "freshness": 0.9999,
@@ -83,17 +95,36 @@
       "url": ""
     },
     {
-      "id": "evt-91ce0000",
-      "title": "库克 9 月 1 日卸任苹果 CEO，由苹果硬件工程负责人特努斯接棒，苹果接下来将发生哪些变化？",
+      "id": "evt-26000000",
+      "title": "不满舍友排名2600 排名260学生要退学",
       "category": "society",
-      "hotScore": 0.7125,
+      "hotScore": 0.72,
+      "freshness": 1,
+      "crossSource": 0.6309,
+      "totalScore": 0.7773,
+      "sources": [
+        {
+          "channel": "baidu",
+          "rank": 3,
+          "hot": 0,
+          "url": "https://m.baidu.com/s?word=%E4%B8%8D%E6%BB%A1%E8%88%8D%E5%8F%8B%E6%8E%92%E5%90%8D2600+%E6%8E%92%E5%90%8D260%E5%AD%A6%E7%94%9F%E8%A6%81%E9%80%80%E5%AD%A6&sa=fyb_news"
+        }
+      ],
+      "summary": "",
+      "url": "https://m.baidu.com/s?word=%E4%B8%8D%E6%BB%A1%E8%88%8D%E5%8F%8B%E6%8E%92%E5%90%8D2600+%E6%8E%92%E5%90%8D260%E5%AD%A6%E7%94%9F%E8%A6%81%E9%80%80%E5%AD%A6&sa=fyb_news"
+    },
+    {
+      "id": "evt-21100000",
+      "title": "为什么 211 越来越不被人当成名校了？",
+      "category": "society",
+      "hotScore": 0.4875,
       "freshness": 0.9999,
       "crossSource": 0.6309,
-      "totalScore": 0.7743,
+      "totalScore": 0.6843,
       "sources": [
         {
           "channel": "zhihu",
-          "rank": 2,
+          "rank": 8,
           "hot": 0,
           "url": ""
         }
@@ -103,98 +134,22 @@
     },
     {
       "id": "evt-20000000",
-      "title": "20后入学家长年龄相差近30岁",
+      "title": "微信新增2个功能",
       "category": "society",
-      "hotScore": 0.68,
-      "freshness": 0.9999,
+      "hotScore": 0.48,
+      "freshness": 1,
       "crossSource": 0.6309,
-      "totalScore": 0.7612,
-      "sources": [
-        {
-          "channel": "toutiao",
-          "rank": 5,
-          "hot": 12046843,
-          "url": "https://www.toutiao.com/trending/7680415989095468553/"
-        }
-      ],
-      "summary": "",
-      "url": "https://www.toutiao.com/trending/7680415989095468553/"
-    },
-    {
-      "id": "evt-26000000",
-      "title": "大叔2600元买空调发现是8年前产品",
-      "category": "society",
-      "hotScore": 0.6375,
-      "freshness": 0.9999,
-      "crossSource": 0.6309,
-      "totalScore": 0.7442,
-      "sources": [
-        {
-          "channel": "toutiao",
-          "rank": 6,
-          "hot": 10900435,
-          "url": "https://www.toutiao.com/trending/7679731603392577542/"
-        }
-      ],
-      "summary": "",
-      "url": "https://www.toutiao.com/trending/7679731603392577542/"
-    },
-    {
-      "id": "evt-29240000",
-      "title": "找了29年的人已离世24年男子崩溃大哭",
-      "category": "society",
-      "hotScore": 0.56,
-      "freshness": 0.9999,
-      "crossSource": 0.6309,
-      "totalScore": 0.7133,
+      "totalScore": 0.6813,
       "sources": [
         {
           "channel": "baidu",
-          "rank": 7,
+          "rank": 9,
           "hot": 0,
-          "url": "https://m.baidu.com/s?word=%E6%89%BE%E4%BA%8629%E5%B9%B4%E7%9A%84%E4%BA%BA%E5%B7%B2%E7%A6%BB%E4%B8%9624%E5%B9%B4%E7%94%B7%E5%AD%90%E5%B4%A9%E6%BA%83%E5%A4%A7%E5%93%AD&sa=fyb_news"
+          "url": "https://m.baidu.com/s?word=%E5%BE%AE%E4%BF%A1%E6%96%B0%E5%A2%9E2%E4%B8%AA%E5%8A%9F%E8%83%BD&sa=fyb_news"
         }
       ],
       "summary": "",
-      "url": "https://m.baidu.com/s?word=%E6%89%BE%E4%BA%8629%E5%B9%B4%E7%9A%84%E4%BA%BA%E5%B7%B2%E7%A6%BB%E4%B8%9624%E5%B9%B4%E7%94%B7%E5%AD%90%E5%B4%A9%E6%BA%83%E5%A4%A7%E5%93%AD&sa=fyb_news"
-    },
-    {
-      "id": "evt-92700000",
-      "title": "离家9年27岁退伍女兵向妈妈敬礼",
-      "category": "society",
-      "hotScore": 0.5525,
-      "freshness": 0.9999,
-      "crossSource": 0.6309,
-      "totalScore": 0.7102,
-      "sources": [
-        {
-          "channel": "toutiao",
-          "rank": 8,
-          "hot": 8924521,
-          "url": "https://www.toutiao.com/trending/7679681198297366578/"
-        }
-      ],
-      "summary": "",
-      "url": "https://www.toutiao.com/trending/7679681198297366578/"
-    },
-    {
-      "id": "evt-vp000000",
-      "title": "报道称美国银行某部门 VP 艾琳·皮亚琴蒂据称在时代广场被刺身亡，哪些信息值得关注？",
-      "category": "society",
-      "hotScore": 0.525,
-      "freshness": 0.9999,
-      "crossSource": 0.6309,
-      "totalScore": 0.6993,
-      "sources": [
-        {
-          "channel": "zhihu",
-          "rank": 7,
-          "hot": 0,
-          "url": ""
-        }
-      ],
-      "summary": "",
-      "url": ""
+      "url": "https://m.baidu.com/s?word=%E5%BE%AE%E4%BF%A1%E6%96%B0%E5%A2%9E2%E4%B8%AA%E5%8A%9F%E8%83%BD&sa=fyb_news"
     }
   ]
 }
