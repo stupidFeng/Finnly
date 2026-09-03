@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-09-03T17:33:34.836Z",
+  "generatedAt": "2026-09-03T20:16:18.748Z",
   "fields": {
     "society": "社会",
     "economy": "经济",
@@ -8,32 +8,32 @@
   "feed": [
     {
       "id": "evt-00000000",
-      "title": "世界已进入极端天气危险区",
+      "title": "中国房子迎来真正的分水岭",
       "category": "society",
-      "hotScore": 0.8075,
-      "freshness": 0.9999,
+      "hotScore": 0.85,
+      "freshness": 1,
       "crossSource": 1,
-      "totalScore": 0.923,
+      "totalScore": 0.94,
       "sources": [
         {
           "channel": "toutiao",
-          "rank": 2,
-          "hot": 12184476,
-          "url": "https://www.toutiao.com/trending/7681291803198243374/"
+          "rank": 1,
+          "hot": 13667003,
+          "url": "https://www.toutiao.com/trending/7680823899399651347/"
         },
         {
           "channel": "baidu",
-          "rank": 3,
+          "rank": 7,
           "hot": 0,
-          "url": "https://m.baidu.com/s?word=%E4%B8%96%E7%95%8C%E5%B7%B2%E8%BF%9B%E5%85%A5%E6%9E%81%E7%AB%AF%E5%A4%A9%E6%B0%94%E5%8D%B1%E9%99%A9%E5%8C%BA&sa=fyb_news"
+          "url": "https://m.baidu.com/s?word=%E4%B8%AD%E5%9B%BD%E6%88%BF%E5%AD%90%E8%BF%8E%E6%9D%A5%E7%9C%9F%E6%AD%A3%E7%9A%84%E5%88%86%E6%B0%B4%E5%B2%AD&sa=fyb_news"
         }
       ],
       "summary": "",
-      "url": "https://www.toutiao.com/trending/7681291803198243374/"
+      "url": "https://www.toutiao.com/trending/7680823899399651347/"
     },
     {
-      "id": "evt-10000000",
-      "title": "男子充值 1000 元账户误到账 26419933 亿，疯狂消费后拒不退还，该男子需要承担法律责任吗？",
+      "id": "evt-93chatgpt",
+      "title": "9 月 3 日晚 ChatGPT 、 Grok 、 Claude 、 Cursor 集体突发故障，怎么回事？带来哪些影响？",
       "category": "society",
       "hotScore": 0.75,
       "freshness": 1,
@@ -51,36 +51,55 @@
       "url": ""
     },
     {
-      "id": "evt-52000000",
-      "title": "52岁黄渤骑车摔倒骨折住院",
+      "id": "evt-10002640",
+      "title": "充值1000误到账26419933亿元",
       "category": "society",
-      "hotScore": 0.6375,
-      "freshness": 0.9999,
+      "hotScore": 0.68,
+      "freshness": 1,
       "crossSource": 0.6309,
-      "totalScore": 0.7443,
+      "totalScore": 0.7613,
       "sources": [
         {
           "channel": "toutiao",
-          "rank": 6,
-          "hot": 8167498,
-          "url": "https://www.toutiao.com/trending/7681239957582938662/"
+          "rank": 5,
+          "hot": 9161266,
+          "url": "https://www.toutiao.com/trending/7680846287596290075/"
         }
       ],
       "summary": "",
-      "url": "https://www.toutiao.com/trending/7681239957582938662/"
+      "url": "https://www.toutiao.com/trending/7680846287596290075/"
     },
     {
-      "id": "evt-93chatgpt",
-      "title": "9 月 3 日晚 ChatGPT 、 Grok 、 Claude 、 Cursor 集体突发故障，怎么回事？带来哪些影响？",
+      "id": "evt-86000000",
+      "title": "武汉大学通报“一教授遭86页PDF长文举报”：学校纪委已启动调查",
       "category": "society",
-      "hotScore": 0.6375,
+      "hotScore": 0.68,
       "freshness": 1,
       "crossSource": 0.6309,
-      "totalScore": 0.7443,
+      "totalScore": 0.7613,
+      "sources": [
+        {
+          "channel": "thepaper",
+          "rank": 5,
+          "hot": 0,
+          "url": "https://www.thepaper.cn/newsDetail_forward_34002675"
+        }
+      ],
+      "summary": "",
+      "url": "https://www.thepaper.cn/newsDetail_forward_34002675"
+    },
+    {
+      "id": "evt-10000000",
+      "title": "从小沉迷游戏的父亲不给 10 岁女儿买 NS2，被一句「你当年还不是打游戏」怼到沉默，你怎么看？",
+      "category": "society",
+      "hotScore": 0.675,
+      "freshness": 1,
+      "crossSource": 0.6309,
+      "totalScore": 0.7593,
       "sources": [
         {
           "channel": "zhihu",
-          "rank": 4,
+          "rank": 3,
           "hot": 0,
           "url": ""
         }
@@ -92,20 +111,39 @@
       "id": "evt-25050000",
       "title": "男子花250元被5位大妈按摩按到发红",
       "category": "society",
+      "hotScore": 0.6375,
+      "freshness": 1,
+      "crossSource": 0.6309,
+      "totalScore": 0.7443,
+      "sources": [
+        {
+          "channel": "toutiao",
+          "rank": 6,
+          "hot": 8289456,
+          "url": "https://www.toutiao.com/trending/7681237420928155658/"
+        }
+      ],
+      "summary": "",
+      "url": "https://www.toutiao.com/trending/7681237420928155658/"
+    },
+    {
+      "id": "evt-52000000",
+      "title": "52岁黄渤骑车摔倒骨折住院",
+      "category": "society",
       "hotScore": 0.595,
-      "freshness": 0.9999,
+      "freshness": 1,
       "crossSource": 0.6309,
       "totalScore": 0.7273,
       "sources": [
         {
           "channel": "toutiao",
           "rank": 7,
-          "hot": 7390258,
-          "url": "https://www.toutiao.com/trending/7681237420928155658/"
+          "hot": 7500610,
+          "url": "https://www.toutiao.com/trending/7681239957582938662/"
         }
       ],
       "summary": "",
-      "url": "https://www.toutiao.com/trending/7681237420928155658/"
+      "url": "https://www.toutiao.com/trending/7681239957582938662/"
     },
     {
       "id": "evt-19910000",
@@ -127,27 +165,8 @@
       "url": ""
     },
     {
-      "id": "evt-app00000",
-      "title": "人人影视APP上线",
-      "category": "society",
-      "hotScore": 0.5525,
-      "freshness": 0.9999,
-      "crossSource": 0.6309,
-      "totalScore": 0.7103,
-      "sources": [
-        {
-          "channel": "toutiao",
-          "rank": 8,
-          "hot": 6686982,
-          "url": "https://www.toutiao.com/trending/7681230022966935594/"
-        }
-      ],
-      "summary": "",
-      "url": "https://www.toutiao.com/trending/7681230022966935594/"
-    },
-    {
-      "id": "evt-25000000",
-      "title": "2元矿泉水在公园卖5元，公园的商品一定要比外面贵这么多吗？",
+      "id": "evt-40000000",
+      "title": "上海多家银行：办40年房贷需35岁以下",
       "category": "society",
       "hotScore": 0.5525,
       "freshness": 1,
@@ -155,14 +174,14 @@
       "totalScore": 0.7103,
       "sources": [
         {
-          "channel": "thepaper",
+          "channel": "toutiao",
           "rank": 8,
-          "hot": 0,
-          "url": "https://www.thepaper.cn/newsDetail_forward_33999055"
+          "hot": 6786833,
+          "url": "https://www.toutiao.com/trending/7680703592528875071/"
         }
       ],
       "summary": "",
-      "url": "https://www.thepaper.cn/newsDetail_forward_33999055"
+      "url": "https://www.toutiao.com/trending/7680703592528875071/"
     },
     {
       "id": "evt-23000000",
@@ -184,23 +203,42 @@
       "url": "https://m.baidu.com/s?word=%E3%80%8A%E5%90%8E%E8%A5%BF%E6%B8%B8%E8%AE%B0%E3%80%8B%E6%AF%8F%E9%9B%86%E6%88%90%E6%9C%AC%E4%BB%852-3%E4%B8%87&sa=fyb_news"
     },
     {
-      "id": "evt-80000000",
-      "title": "纽约禁止8年级以下学生使用生成式AI，“保护批判性思维能力”",
+      "id": "evt-25000000",
+      "title": "2元矿泉水在公园卖5元，公园的商品一定要比外面贵这么多吗？",
       "category": "society",
-      "hotScore": 0.425,
+      "hotScore": 0.51,
       "freshness": 1,
       "crossSource": 0.6309,
-      "totalScore": 0.6593,
+      "totalScore": 0.6933,
       "sources": [
         {
           "channel": "thepaper",
-          "rank": 11,
+          "rank": 9,
           "hot": 0,
-          "url": "https://www.thepaper.cn/newsDetail_forward_33999597"
+          "url": "https://www.thepaper.cn/newsDetail_forward_33999055"
         }
       ],
       "summary": "",
-      "url": "https://www.thepaper.cn/newsDetail_forward_33999597"
+      "url": "https://www.thepaper.cn/newsDetail_forward_33999055"
+    },
+    {
+      "id": "evt-ppt00000",
+      "title": "上海交大内部 PPT 曝光高校 AI 教育困局，课程迭代远落后技术发展，学生反超老师成常态，该怎样破解？",
+      "category": "society",
+      "hotScore": 0.4125,
+      "freshness": 1,
+      "crossSource": 0.6309,
+      "totalScore": 0.6543,
+      "sources": [
+        {
+          "channel": "zhihu",
+          "rank": 10,
+          "hot": 0,
+          "url": ""
+        }
+      ],
+      "summary": "",
+      "url": ""
     }
   ]
 }
