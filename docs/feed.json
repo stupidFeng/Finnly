@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-09-03T13:59:10.553Z",
+  "generatedAt": "2026-09-03T17:33:34.836Z",
   "fields": {
     "society": "社会",
     "economy": "经济",
@@ -8,127 +8,70 @@
   "feed": [
     {
       "id": "evt-00000000",
-      "title": "梅姨年龄首次曝光",
+      "title": "世界已进入极端天气危险区",
       "category": "society",
-      "hotScore": 0.595,
-      "freshness": 1,
+      "hotScore": 0.8075,
+      "freshness": 0.9999,
       "crossSource": 1,
-      "totalScore": 0.838,
+      "totalScore": 0.923,
       "sources": [
         {
           "channel": "toutiao",
-          "rank": 7,
-          "hot": 6785844,
-          "url": "https://www.toutiao.com/trending/7680925897902538802/"
+          "rank": 2,
+          "hot": 12184476,
+          "url": "https://www.toutiao.com/trending/7681291803198243374/"
         },
         {
           "channel": "baidu",
-          "rank": 7,
+          "rank": 3,
           "hot": 0,
-          "url": "https://m.baidu.com/s?word=%E6%A2%85%E5%A7%A8%E5%B9%B4%E9%BE%84%E9%A6%96%E6%AC%A1%E6%9B%9D%E5%85%89&sa=fyb_news"
+          "url": "https://m.baidu.com/s?word=%E4%B8%96%E7%95%8C%E5%B7%B2%E8%BF%9B%E5%85%A5%E6%9E%81%E7%AB%AF%E5%A4%A9%E6%B0%94%E5%8D%B1%E9%99%A9%E5%8C%BA&sa=fyb_news"
         }
       ],
       "summary": "",
-      "url": "https://www.toutiao.com/trending/7680925897902538802/"
-    },
-    {
-      "id": "evt-app00000",
-      "title": "人人影视APP上线",
-      "category": "society",
-      "hotScore": 0.8075,
-      "freshness": 1,
-      "crossSource": 0.6309,
-      "totalScore": 0.8123,
-      "sources": [
-        {
-          "channel": "toutiao",
-          "rank": 2,
-          "hot": 11187965,
-          "url": "https://www.toutiao.com/trending/7681230022966935594/"
-        }
-      ],
-      "summary": "",
-      "url": "https://www.toutiao.com/trending/7681230022966935594/"
-    },
-    {
-      "id": "evt-20000000",
-      "title": "“20后”小学生的古风名来了",
-      "category": "society",
-      "hotScore": 0.76,
-      "freshness": 1,
-      "crossSource": 0.6309,
-      "totalScore": 0.7933,
-      "sources": [
-        {
-          "channel": "baidu",
-          "rank": 2,
-          "hot": 0,
-          "url": "https://m.baidu.com/s?word=%E2%80%9C20%E5%90%8E%E2%80%9D%E5%B0%8F%E5%AD%A6%E7%94%9F%E7%9A%84%E5%8F%A4%E9%A3%8E%E5%90%8D%E6%9D%A5%E4%BA%86&sa=fyb_news"
-        }
-      ],
-      "summary": "",
-      "url": "https://m.baidu.com/s?word=%E2%80%9C20%E5%90%8E%E2%80%9D%E5%B0%8F%E5%AD%A6%E7%94%9F%E7%9A%84%E5%8F%A4%E9%A3%8E%E5%90%8D%E6%9D%A5%E4%BA%86&sa=fyb_news"
+      "url": "https://www.toutiao.com/trending/7681291803198243374/"
     },
     {
       "id": "evt-10000000",
       "title": "男子充值 1000 元账户误到账 26419933 亿，疯狂消费后拒不退还，该男子需要承担法律责任吗？",
       "category": "society",
-      "hotScore": 0.7125,
+      "hotScore": 0.75,
       "freshness": 1,
       "crossSource": 0.6309,
-      "totalScore": 0.7743,
+      "totalScore": 0.7893,
       "sources": [
         {
           "channel": "zhihu",
-          "rank": 2,
+          "rank": 1,
           "hot": 0,
           "url": ""
         }
       ],
       "summary": "",
       "url": ""
-    },
-    {
-      "id": "evt-3d000000",
-      "title": "为什么近两年 3D 电影消失了？",
-      "category": "entertainment",
-      "hotScore": 0.6,
-      "freshness": 1,
-      "crossSource": 0.6309,
-      "totalScore": 0.7293,
-      "sources": [
-        {
-          "channel": "zhihu",
-          "rank": 5,
-          "hot": 0,
-          "url": ""
-        }
-      ],
-      "summary": "",
-      "url": ""
-    },
-    {
-      "id": "evt-25000000",
-      "title": "2小时推进不到5米 抢通为何这么难",
-      "category": "society",
-      "hotScore": 0.64,
-      "freshness": 1,
-      "crossSource": 0.6309,
-      "totalScore": 0.7453,
-      "sources": [
-        {
-          "channel": "baidu",
-          "rank": 5,
-          "hot": 0,
-          "url": "https://m.baidu.com/s?word=2%E5%B0%8F%E6%97%B6%E6%8E%A8%E8%BF%9B%E4%B8%8D%E5%88%B05%E7%B1%B3+%E6%8A%A2%E9%80%9A%E4%B8%BA%E4%BD%95%E8%BF%99%E4%B9%88%E9%9A%BE&sa=fyb_news"
-        }
-      ],
-      "summary": "",
-      "url": "https://m.baidu.com/s?word=2%E5%B0%8F%E6%97%B6%E6%8E%A8%E8%BF%9B%E4%B8%8D%E5%88%B05%E7%B1%B3+%E6%8A%A2%E9%80%9A%E4%B8%BA%E4%BD%95%E8%BF%99%E4%B9%88%E9%9A%BE&sa=fyb_news"
     },
     {
       "id": "evt-52000000",
       "title": "52岁黄渤骑车摔倒骨折住院",
+      "category": "society",
+      "hotScore": 0.6375,
+      "freshness": 0.9999,
+      "crossSource": 0.6309,
+      "totalScore": 0.7443,
+      "sources": [
+        {
+          "channel": "toutiao",
+          "rank": 6,
+          "hot": 8167498,
+          "url": "https://www.toutiao.com/trending/7681239957582938662/"
+        }
+      ],
+      "summary": "",
+      "url": "https://www.toutiao.com/trending/7681239957582938662/"
+    },
+    {
+      "id": "evt-93chatgpt",
+      "title": "9 月 3 日晚 ChatGPT 、 Grok 、 Claude 、 Cursor 集体突发故障，怎么回事？带来哪些影响？",
       "category": "society",
       "hotScore": 0.6375,
       "freshness": 1,
@@ -136,14 +79,33 @@
       "totalScore": 0.7443,
       "sources": [
         {
-          "channel": "toutiao",
-          "rank": 6,
-          "hot": 7499517,
-          "url": "https://www.toutiao.com/trending/7681239957582938662/"
+          "channel": "zhihu",
+          "rank": 4,
+          "hot": 0,
+          "url": ""
         }
       ],
       "summary": "",
-      "url": "https://www.toutiao.com/trending/7681239957582938662/"
+      "url": ""
+    },
+    {
+      "id": "evt-25050000",
+      "title": "男子花250元被5位大妈按摩按到发红",
+      "category": "society",
+      "hotScore": 0.595,
+      "freshness": 0.9999,
+      "crossSource": 0.6309,
+      "totalScore": 0.7273,
+      "sources": [
+        {
+          "channel": "toutiao",
+          "rank": 7,
+          "hot": 7390258,
+          "url": "https://www.toutiao.com/trending/7681237420928155658/"
+        }
+      ],
+      "summary": "",
+      "url": "https://www.toutiao.com/trending/7681237420928155658/"
     },
     {
       "id": "evt-19910000",
@@ -165,65 +127,65 @@
       "url": ""
     },
     {
-      "id": "evt-93app000",
-      "title": "9 月 3 日淘宝 App 突发大面积服务器故障，大量用户无法查看订单，可能是什么原因导致的？你遇到了吗？",
+      "id": "evt-app00000",
+      "title": "人人影视APP上线",
       "category": "society",
-      "hotScore": 0.4875,
-      "freshness": 1,
+      "hotScore": 0.5525,
+      "freshness": 0.9999,
       "crossSource": 0.6309,
-      "totalScore": 0.6843,
-      "sources": [
-        {
-          "channel": "zhihu",
-          "rank": 8,
-          "hot": 0,
-          "url": ""
-        }
-      ],
-      "summary": "",
-      "url": ""
-    },
-    {
-      "id": "evt-53200000",
-      "title": "存5年3年2年利息不如存1年",
-      "category": "society",
-      "hotScore": 0.48,
-      "freshness": 1,
-      "crossSource": 0.6309,
-      "totalScore": 0.6813,
-      "sources": [
-        {
-          "channel": "baidu",
-          "rank": 9,
-          "hot": 0,
-          "url": "https://m.baidu.com/s?word=%E5%AD%985%E5%B9%B43%E5%B9%B42%E5%B9%B4%E5%88%A9%E6%81%AF%E4%B8%8D%E5%A6%82%E5%AD%981%E5%B9%B4&sa=fyb_news"
-        }
-      ],
-      "summary": "",
-      "url": "https://m.baidu.com/s?word=%E5%AD%985%E5%B9%B43%E5%B9%B42%E5%B9%B4%E5%88%A9%E6%81%AF%E4%B8%8D%E5%A6%82%E5%AD%981%E5%B9%B4&sa=fyb_news"
-    },
-    {
-      "id": "evt-cybercab",
-      "title": "特斯拉Cybercab开启内部测试",
-      "category": "society",
-      "hotScore": 0.4675,
-      "freshness": 1,
-      "crossSource": 0.6309,
-      "totalScore": 0.6763,
+      "totalScore": 0.7103,
       "sources": [
         {
           "channel": "toutiao",
-          "rank": 10,
-          "hot": 5027076,
-          "url": "https://www.toutiao.com/trending/7680462063421227050/"
+          "rank": 8,
+          "hot": 6686982,
+          "url": "https://www.toutiao.com/trending/7681230022966935594/"
         }
       ],
       "summary": "",
-      "url": "https://www.toutiao.com/trending/7680462063421227050/"
+      "url": "https://www.toutiao.com/trending/7681230022966935594/"
     },
     {
-      "id": "evt-48000000",
-      "title": "四川绵阳北川县发生4.8级地震",
+      "id": "evt-25000000",
+      "title": "2元矿泉水在公园卖5元，公园的商品一定要比外面贵这么多吗？",
+      "category": "society",
+      "hotScore": 0.5525,
+      "freshness": 1,
+      "crossSource": 0.6309,
+      "totalScore": 0.7103,
+      "sources": [
+        {
+          "channel": "thepaper",
+          "rank": 8,
+          "hot": 0,
+          "url": "https://www.thepaper.cn/newsDetail_forward_33999055"
+        }
+      ],
+      "summary": "",
+      "url": "https://www.thepaper.cn/newsDetail_forward_33999055"
+    },
+    {
+      "id": "evt-23000000",
+      "title": "《后西游记》每集成本仅2-3万",
+      "category": "society",
+      "hotScore": 0.52,
+      "freshness": 1,
+      "crossSource": 0.6309,
+      "totalScore": 0.6973,
+      "sources": [
+        {
+          "channel": "baidu",
+          "rank": 8,
+          "hot": 0,
+          "url": "https://m.baidu.com/s?word=%E3%80%8A%E5%90%8E%E8%A5%BF%E6%B8%B8%E8%AE%B0%E3%80%8B%E6%AF%8F%E9%9B%86%E6%88%90%E6%9C%AC%E4%BB%852-3%E4%B8%87&sa=fyb_news"
+        }
+      ],
+      "summary": "",
+      "url": "https://m.baidu.com/s?word=%E3%80%8A%E5%90%8E%E8%A5%BF%E6%B8%B8%E8%AE%B0%E3%80%8B%E6%AF%8F%E9%9B%86%E6%88%90%E6%9C%AC%E4%BB%852-3%E4%B8%87&sa=fyb_news"
+    },
+    {
+      "id": "evt-80000000",
+      "title": "纽约禁止8年级以下学生使用生成式AI，“保护批判性思维能力”",
       "category": "society",
       "hotScore": 0.425,
       "freshness": 1,
@@ -231,14 +193,14 @@
       "totalScore": 0.6593,
       "sources": [
         {
-          "channel": "toutiao",
+          "channel": "thepaper",
           "rank": 11,
-          "hot": 4548687,
-          "url": "https://www.toutiao.com/trending/7680858923076567081/"
+          "hot": 0,
+          "url": "https://www.thepaper.cn/newsDetail_forward_33999597"
         }
       ],
       "summary": "",
-      "url": "https://www.toutiao.com/trending/7680858923076567081/"
+      "url": "https://www.thepaper.cn/newsDetail_forward_33999597"
     }
   ]
 }
