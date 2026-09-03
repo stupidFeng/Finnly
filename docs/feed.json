@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-09-03T08:22:43.206Z",
+  "generatedAt": "2026-09-03T13:59:10.553Z",
   "fields": {
     "society": "社会",
     "economy": "经济",
@@ -8,76 +8,51 @@
   "feed": [
     {
       "id": "evt-00000000",
-      "title": "淘宝崩了",
+      "title": "梅姨年龄首次曝光",
       "category": "society",
-      "hotScore": 0.8075,
-      "freshness": 0.9999,
+      "hotScore": 0.595,
+      "freshness": 1,
       "crossSource": 1,
-      "totalScore": 0.923,
+      "totalScore": 0.838,
       "sources": [
         {
           "channel": "toutiao",
-          "rank": 2,
-          "hot": 8935569,
-          "url": "https://www.toutiao.com/trending/7681167668874841610/"
-        },
-        {
-          "channel": "baidu",
-          "rank": 15,
-          "hot": 0,
-          "url": "https://m.baidu.com/s?word=%E6%B7%98%E5%AE%9D%E5%B4%A9%E4%BA%86&sa=fyb_news"
-        }
-      ],
-      "summary": "",
-      "url": "https://www.toutiao.com/trending/7681167668874841610/"
-    },
-    {
-      "id": "evt-10002640",
-      "title": "充值1000误到账26419933亿元",
-      "category": "society",
-      "hotScore": 0.56,
-      "freshness": 0.9999,
-      "crossSource": 1,
-      "totalScore": 0.824,
-      "sources": [
-        {
-          "channel": "toutiao",
-          "rank": 14,
-          "hot": 2691341,
-          "url": "https://www.toutiao.com/trending/7680846287596290075/"
+          "rank": 7,
+          "hot": 6785844,
+          "url": "https://www.toutiao.com/trending/7680925897902538802/"
         },
         {
           "channel": "baidu",
           "rank": 7,
           "hot": 0,
-          "url": "https://m.baidu.com/s?word=%E5%85%85%E5%80%BC1000%E8%AF%AF%E5%88%B0%E8%B4%A626419933%E4%BA%BF%E5%85%83&sa=fyb_news"
+          "url": "https://m.baidu.com/s?word=%E6%A2%85%E5%A7%A8%E5%B9%B4%E9%BE%84%E9%A6%96%E6%AC%A1%E6%9B%9D%E5%85%89&sa=fyb_news"
         }
       ],
       "summary": "",
-      "url": "https://www.toutiao.com/trending/7680846287596290075/"
+      "url": "https://www.toutiao.com/trending/7680925897902538802/"
+    },
+    {
+      "id": "evt-app00000",
+      "title": "人人影视APP上线",
+      "category": "society",
+      "hotScore": 0.8075,
+      "freshness": 1,
+      "crossSource": 0.6309,
+      "totalScore": 0.8123,
+      "sources": [
+        {
+          "channel": "toutiao",
+          "rank": 2,
+          "hot": 11187965,
+          "url": "https://www.toutiao.com/trending/7681230022966935594/"
+        }
+      ],
+      "summary": "",
+      "url": "https://www.toutiao.com/trending/7681230022966935594/"
     },
     {
       "id": "evt-20000000",
-      "title": "一企业付20万律师见证费后项目搁浅要求退还：律所主任称未收款，律协已介入",
-      "category": "society",
-      "hotScore": 0.765,
-      "freshness": 0.9999,
-      "crossSource": 0.6309,
-      "totalScore": 0.7953,
-      "sources": [
-        {
-          "channel": "thepaper",
-          "rank": 3,
-          "hot": 0,
-          "url": "https://www.thepaper.cn/newsDetail_forward_33993806"
-        }
-      ],
-      "summary": "",
-      "url": "https://www.thepaper.cn/newsDetail_forward_33993806"
-    },
-    {
-      "id": "evt-etc00000",
-      "title": "建议取消ETC 热议核心是什么",
+      "title": "“20后”小学生的古风名来了",
       "category": "society",
       "hotScore": 0.76,
       "freshness": 1,
@@ -88,106 +63,182 @@
           "channel": "baidu",
           "rank": 2,
           "hot": 0,
-          "url": "https://m.baidu.com/s?word=%E5%BB%BA%E8%AE%AE%E5%8F%96%E6%B6%88ETC+%E7%83%AD%E8%AE%AE%E6%A0%B8%E5%BF%83%E6%98%AF%E4%BB%80%E4%B9%88&sa=fyb_news"
+          "url": "https://m.baidu.com/s?word=%E2%80%9C20%E5%90%8E%E2%80%9D%E5%B0%8F%E5%AD%A6%E7%94%9F%E7%9A%84%E5%8F%A4%E9%A3%8E%E5%90%8D%E6%9D%A5%E4%BA%86&sa=fyb_news"
         }
       ],
       "summary": "",
-      "url": "https://m.baidu.com/s?word=%E5%BB%BA%E8%AE%AE%E5%8F%96%E6%B6%88ETC+%E7%83%AD%E8%AE%AE%E6%A0%B8%E5%BF%83%E6%98%AF%E4%BB%80%E4%B9%88&sa=fyb_news"
+      "url": "https://m.baidu.com/s?word=%E2%80%9C20%E5%90%8E%E2%80%9D%E5%B0%8F%E5%AD%A6%E7%94%9F%E7%9A%84%E5%8F%A4%E9%A3%8E%E5%90%8D%E6%9D%A5%E4%BA%86&sa=fyb_news"
     },
     {
-      "id": "evt-81000000",
-      "title": "81年 山河记得我们记得",
+      "id": "evt-10000000",
+      "title": "男子充值 1000 元账户误到账 26419933 亿，疯狂消费后拒不退还，该男子需要承担法律责任吗？",
       "category": "society",
-      "hotScore": 0.68,
+      "hotScore": 0.7125,
       "freshness": 1,
       "crossSource": 0.6309,
-      "totalScore": 0.7613,
+      "totalScore": 0.7743,
       "sources": [
         {
-          "channel": "baidu",
-          "rank": 4,
+          "channel": "zhihu",
+          "rank": 2,
           "hot": 0,
-          "url": "https://m.baidu.com/s?word=81%E5%B9%B4+%E5%B1%B1%E6%B2%B3%E8%AE%B0%E5%BE%97%E6%88%91%E4%BB%AC%E8%AE%B0%E5%BE%97&sa=fyb_news"
+          "url": ""
         }
       ],
       "summary": "",
-      "url": "https://m.baidu.com/s?word=81%E5%B9%B4+%E5%B1%B1%E6%B2%B3%E8%AE%B0%E5%BE%97%E6%88%91%E4%BB%AC%E8%AE%B0%E5%BE%97&sa=fyb_news"
+      "url": ""
     },
     {
-      "id": "evt-16000000",
-      "title": "16岁高中女生握力超强令人惊叹",
-      "category": "society",
-      "hotScore": 0.6375,
-      "freshness": 0.9999,
-      "crossSource": 0.6309,
-      "totalScore": 0.7443,
-      "sources": [
-        {
-          "channel": "toutiao",
-          "rank": 6,
-          "hot": 5989691,
-          "url": "https://www.toutiao.com/trending/7680946586067386378/"
-        }
-      ],
-      "summary": "",
-      "url": "https://www.toutiao.com/trending/7680946586067386378/"
-    },
-    {
-      "id": "evt-3a000000",
-      "title": "3A景区成孩子噩梦 实地探访如是书院",
-      "category": "society",
+      "id": "evt-3d000000",
+      "title": "为什么近两年 3D 电影消失了？",
+      "category": "entertainment",
       "hotScore": 0.6,
       "freshness": 1,
       "crossSource": 0.6309,
       "totalScore": 0.7293,
       "sources": [
         {
-          "channel": "baidu",
-          "rank": 6,
+          "channel": "zhihu",
+          "rank": 5,
           "hot": 0,
-          "url": "https://m.baidu.com/s?word=3A%E6%99%AF%E5%8C%BA%E6%88%90%E5%AD%A9%E5%AD%90%E5%99%A9%E6%A2%A6+%E5%AE%9E%E5%9C%B0%E6%8E%A2%E8%AE%BF%E5%A6%82%E6%98%AF%E4%B9%A6%E9%99%A2&sa=fyb_news"
+          "url": ""
         }
       ],
       "summary": "",
-      "url": "https://m.baidu.com/s?word=3A%E6%99%AF%E5%8C%BA%E6%88%90%E5%AD%A9%E5%AD%90%E5%99%A9%E6%A2%A6+%E5%AE%9E%E5%9C%B0%E6%8E%A2%E8%AE%BF%E5%A6%82%E6%98%AF%E4%B9%A6%E9%99%A2&sa=fyb_news"
+      "url": ""
     },
     {
-      "id": "evt-19914000",
-      "title": "“1991年前出生不能办40年房贷”",
+      "id": "evt-25000000",
+      "title": "2小时推进不到5米 抢通为何这么难",
       "category": "society",
-      "hotScore": 0.52,
+      "hotScore": 0.64,
       "freshness": 1,
       "crossSource": 0.6309,
-      "totalScore": 0.6973,
+      "totalScore": 0.7453,
       "sources": [
         {
           "channel": "baidu",
-          "rank": 8,
+          "rank": 5,
           "hot": 0,
-          "url": "https://m.baidu.com/s?word=%E2%80%9C1991%E5%B9%B4%E5%89%8D%E5%87%BA%E7%94%9F%E4%B8%8D%E8%83%BD%E5%8A%9E40%E5%B9%B4%E6%88%BF%E8%B4%B7%E2%80%9D&sa=fyb_news"
+          "url": "https://m.baidu.com/s?word=2%E5%B0%8F%E6%97%B6%E6%8E%A8%E8%BF%9B%E4%B8%8D%E5%88%B05%E7%B1%B3+%E6%8A%A2%E9%80%9A%E4%B8%BA%E4%BD%95%E8%BF%99%E4%B9%88%E9%9A%BE&sa=fyb_news"
         }
       ],
       "summary": "",
-      "url": "https://m.baidu.com/s?word=%E2%80%9C1991%E5%B9%B4%E5%89%8D%E5%87%BA%E7%94%9F%E4%B8%8D%E8%83%BD%E5%8A%9E40%E5%B9%B4%E6%88%BF%E8%B4%B7%E2%80%9D&sa=fyb_news"
+      "url": "https://m.baidu.com/s?word=2%E5%B0%8F%E6%97%B6%E6%8E%A8%E8%BF%9B%E4%B8%8D%E5%88%B05%E7%B1%B3+%E6%8A%A2%E9%80%9A%E4%B8%BA%E4%BD%95%E8%BF%99%E4%B9%88%E9%9A%BE&sa=fyb_news"
     },
     {
-      "id": "evt-21000000",
-      "title": "教授夫妇21楼坠下床上摆180万？谣言",
+      "id": "evt-52000000",
+      "title": "52岁黄渤骑车摔倒骨折住院",
       "category": "society",
-      "hotScore": 0.3825,
-      "freshness": 0.9999,
+      "hotScore": 0.6375,
+      "freshness": 1,
       "crossSource": 0.6309,
-      "totalScore": 0.6423,
+      "totalScore": 0.7443,
       "sources": [
         {
           "channel": "toutiao",
-          "rank": 12,
-          "hot": 3287212,
-          "url": "https://www.toutiao.com/trending/7680387918352515108/"
+          "rank": 6,
+          "hot": 7499517,
+          "url": "https://www.toutiao.com/trending/7681239957582938662/"
         }
       ],
       "summary": "",
-      "url": "https://www.toutiao.com/trending/7680387918352515108/"
+      "url": "https://www.toutiao.com/trending/7681239957582938662/"
+    },
+    {
+      "id": "evt-19910000",
+      "title": "上海多家银行明确，1991 年以前出生的人不能新办理 40 年期个人房贷，如何看待这一标准？",
+      "category": "society",
+      "hotScore": 0.5625,
+      "freshness": 1,
+      "crossSource": 0.6309,
+      "totalScore": 0.7143,
+      "sources": [
+        {
+          "channel": "zhihu",
+          "rank": 6,
+          "hot": 0,
+          "url": ""
+        }
+      ],
+      "summary": "",
+      "url": ""
+    },
+    {
+      "id": "evt-93app000",
+      "title": "9 月 3 日淘宝 App 突发大面积服务器故障，大量用户无法查看订单，可能是什么原因导致的？你遇到了吗？",
+      "category": "society",
+      "hotScore": 0.4875,
+      "freshness": 1,
+      "crossSource": 0.6309,
+      "totalScore": 0.6843,
+      "sources": [
+        {
+          "channel": "zhihu",
+          "rank": 8,
+          "hot": 0,
+          "url": ""
+        }
+      ],
+      "summary": "",
+      "url": ""
+    },
+    {
+      "id": "evt-53200000",
+      "title": "存5年3年2年利息不如存1年",
+      "category": "society",
+      "hotScore": 0.48,
+      "freshness": 1,
+      "crossSource": 0.6309,
+      "totalScore": 0.6813,
+      "sources": [
+        {
+          "channel": "baidu",
+          "rank": 9,
+          "hot": 0,
+          "url": "https://m.baidu.com/s?word=%E5%AD%985%E5%B9%B43%E5%B9%B42%E5%B9%B4%E5%88%A9%E6%81%AF%E4%B8%8D%E5%A6%82%E5%AD%981%E5%B9%B4&sa=fyb_news"
+        }
+      ],
+      "summary": "",
+      "url": "https://m.baidu.com/s?word=%E5%AD%985%E5%B9%B43%E5%B9%B42%E5%B9%B4%E5%88%A9%E6%81%AF%E4%B8%8D%E5%A6%82%E5%AD%981%E5%B9%B4&sa=fyb_news"
+    },
+    {
+      "id": "evt-cybercab",
+      "title": "特斯拉Cybercab开启内部测试",
+      "category": "society",
+      "hotScore": 0.4675,
+      "freshness": 1,
+      "crossSource": 0.6309,
+      "totalScore": 0.6763,
+      "sources": [
+        {
+          "channel": "toutiao",
+          "rank": 10,
+          "hot": 5027076,
+          "url": "https://www.toutiao.com/trending/7680462063421227050/"
+        }
+      ],
+      "summary": "",
+      "url": "https://www.toutiao.com/trending/7680462063421227050/"
+    },
+    {
+      "id": "evt-48000000",
+      "title": "四川绵阳北川县发生4.8级地震",
+      "category": "society",
+      "hotScore": 0.425,
+      "freshness": 1,
+      "crossSource": 0.6309,
+      "totalScore": 0.6593,
+      "sources": [
+        {
+          "channel": "toutiao",
+          "rank": 11,
+          "hot": 4548687,
+          "url": "https://www.toutiao.com/trending/7680858923076567081/"
+        }
+      ],
+      "summary": "",
+      "url": "https://www.toutiao.com/trending/7680858923076567081/"
     }
   ]
 }
