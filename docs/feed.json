@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-09-04T01:56:40.775Z",
+  "generatedAt": "2026-09-04T06:49:59.678Z",
   "fields": {
     "society": "社会",
     "economy": "经济",
@@ -8,22 +8,28 @@
   "feed": [
     {
       "id": "evt-00000000",
-      "title": "尼泊尔不向中国寻求气候正义赔偿",
+      "title": "山东省委书记、省长带头捐款",
       "category": "society",
       "hotScore": 0.85,
-      "freshness": 1,
+      "freshness": 0.9999,
       "crossSource": 1,
       "totalScore": 0.94,
       "sources": [
         {
           "channel": "toutiao",
           "rank": 1,
-          "hot": 13842885,
-          "url": "https://www.toutiao.com/trending/7681464092917255686/"
+          "hot": 12860350,
+          "url": "https://www.toutiao.com/trending/7681501367286251562/"
+        },
+        {
+          "channel": "baidu",
+          "rank": 8,
+          "hot": 0,
+          "url": "https://m.baidu.com/s?word=%E5%B1%B1%E4%B8%9C%E7%9C%81%E5%A7%94%E4%B9%A6%E8%AE%B0%E3%80%81%E7%9C%81%E9%95%BF%E5%B8%A6%E5%A4%B4%E6%8D%90%E6%AC%BE&sa=fyb_news"
         }
       ],
       "summary": "",
-      "url": "https://www.toutiao.com/trending/7681464092917255686/"
+      "url": "https://www.toutiao.com/trending/7681501367286251562/"
     },
     {
       "id": "evt-86000000",
@@ -31,8 +37,8 @@
       "category": "society",
       "hotScore": 0.85,
       "freshness": 1,
-      "crossSource": 1,
-      "totalScore": 0.94,
+      "crossSource": 0.6309,
+      "totalScore": 0.8293,
       "sources": [
         {
           "channel": "thepaper",
@@ -45,70 +51,32 @@
       "url": "https://www.thepaper.cn/newsDetail_forward_34002675"
     },
     {
-      "id": "evt-token000",
-      "title": "“Token贷”火出圈",
+      "id": "evt-70000000",
+      "title": "梅姨真实年龄曝光，在 70 岁左右，不到 71 周岁，律师称可以适用无期徒刑和死刑，哪些信息值得关注？",
       "category": "society",
-      "hotScore": 0.76,
-      "freshness": 1,
-      "crossSource": 1,
-      "totalScore": 0.904,
+      "hotScore": 0.7125,
+      "freshness": 0.9999,
+      "crossSource": 0.6309,
+      "totalScore": 0.7743,
       "sources": [
         {
-          "channel": "baidu",
+          "channel": "zhihu",
           "rank": 2,
           "hot": 0,
-          "url": "https://m.baidu.com/s?word=%E2%80%9CToken%E8%B4%B7%E2%80%9D%E7%81%AB%E5%87%BA%E5%9C%88&sa=fyb_news"
+          "url": ""
         }
       ],
       "summary": "",
-      "url": "https://m.baidu.com/s?word=%E2%80%9CToken%E8%B4%B7%E2%80%9D%E7%81%AB%E5%87%BA%E5%9C%88&sa=fyb_news"
+      "url": ""
     },
     {
-      "id": "evt-openaiag",
-      "title": "OpenAI：欢迎来到AGI时代",
-      "category": "society",
-      "hotScore": 0.72,
-      "freshness": 1,
-      "crossSource": 1,
-      "totalScore": 0.888,
-      "sources": [
-        {
-          "channel": "baidu",
-          "rank": 3,
-          "hot": 0,
-          "url": "https://m.baidu.com/s?word=OpenAI%EF%BC%9A%E6%AC%A2%E8%BF%8E%E6%9D%A5%E5%88%B0AGI%E6%97%B6%E4%BB%A3&sa=fyb_news"
-        }
-      ],
-      "summary": "",
-      "url": "https://m.baidu.com/s?word=OpenAI%EF%BC%9A%E6%AC%A2%E8%BF%8E%E6%9D%A5%E5%88%B0AGI%E6%97%B6%E4%BB%A3&sa=fyb_news"
-    },
-    {
-      "id": "evt-21100000",
-      "title": "全国唯一有两所211高校县级市迎新生",
-      "category": "society",
-      "hotScore": 0.68,
-      "freshness": 1,
-      "crossSource": 1,
-      "totalScore": 0.872,
-      "sources": [
-        {
-          "channel": "toutiao",
-          "rank": 5,
-          "hot": 9279163,
-          "url": "https://www.toutiao.com/trending/7680914423784751158/"
-        }
-      ],
-      "summary": "",
-      "url": "https://www.toutiao.com/trending/7680914423784751158/"
-    },
-    {
-      "id": "evt-29600000",
-      "title": "字节跳动将获约 296 亿美元银团贷款，全年最高 700 亿美元 AI 资本开支，字节正在变成一家「基建公司」吗？",
+      "id": "evt-cybercab",
+      "title": "特斯拉 Cybercab 在美投入运营，取消方向盘和踏板，纯视觉技术路线无人车型，会颠覆美国网约车行业吗？",
       "category": "society",
       "hotScore": 0.675,
-      "freshness": 1,
-      "crossSource": 1,
-      "totalScore": 0.87,
+      "freshness": 0.9999,
+      "crossSource": 0.6309,
+      "totalScore": 0.7593,
       "sources": [
         {
           "channel": "zhihu",
@@ -119,171 +87,114 @@
       ],
       "summary": "",
       "url": ""
-    },
-    {
-      "id": "evt-12345000",
-      "title": "人民日报：12345不是饭圈“掐架”平台",
-      "category": "society",
-      "hotScore": 0.64,
-      "freshness": 1,
-      "crossSource": 1,
-      "totalScore": 0.856,
-      "sources": [
-        {
-          "channel": "baidu",
-          "rank": 5,
-          "hot": 0,
-          "url": "https://m.baidu.com/s?word=%E4%BA%BA%E6%B0%91%E6%97%A5%E6%8A%A5%EF%BC%9A12345%E4%B8%8D%E6%98%AF%E9%A5%AD%E5%9C%88%E2%80%9C%E6%8E%90%E6%9E%B6%E2%80%9D%E5%B9%B3%E5%8F%B0&sa=fyb_news"
-        }
-      ],
-      "summary": "",
-      "url": "https://m.baidu.com/s?word=%E4%BA%BA%E6%B0%91%E6%97%A5%E6%8A%A5%EF%BC%9A12345%E4%B8%8D%E6%98%AF%E9%A5%AD%E5%9C%88%E2%80%9C%E6%8E%90%E6%9E%B6%E2%80%9D%E5%B9%B3%E5%8F%B0&sa=fyb_news"
     },
     {
       "id": "evt-12300000",
-      "title": "人民日报批饭圈刷爆12345",
-      "category": "society",
-      "hotScore": 0.6375,
-      "freshness": 1,
-      "crossSource": 1,
-      "totalScore": 0.855,
-      "sources": [
-        {
-          "channel": "toutiao",
-          "rank": 6,
-          "hot": 8396134,
-          "url": "https://www.toutiao.com/trending/7680674050754183222/"
-        }
-      ],
-      "summary": "",
-      "url": "https://www.toutiao.com/trending/7680674050754183222/"
-    },
-    {
-      "id": "evt-ign00000",
-      "title": "IGN 中国给《鬼武者：剑之道》打 8 分，《黑神话：悟空》10 分，与 IGN 的评分正好相反，对此你怎么看？",
-      "category": "society",
-      "hotScore": 0.6,
-      "freshness": 1,
-      "crossSource": 1,
-      "totalScore": 0.84,
-      "sources": [
-        {
-          "channel": "zhihu",
-          "rank": 5,
-          "hot": 0,
-          "url": ""
-        }
-      ],
-      "summary": "",
-      "url": ""
-    },
-    {
-      "id": "evt-ai000000",
-      "title": "深夜突发！美国AI大宕机",
-      "category": "society",
-      "hotScore": 0.56,
-      "freshness": 1,
-      "crossSource": 1,
-      "totalScore": 0.824,
-      "sources": [
-        {
-          "channel": "baidu",
-          "rank": 7,
-          "hot": 0,
-          "url": "https://m.baidu.com/s?word=%E6%B7%B1%E5%A4%9C%E7%AA%81%E5%8F%91%EF%BC%81%E7%BE%8E%E5%9B%BDAI%E5%A4%A7%E5%AE%95%E6%9C%BA&sa=fyb_news"
-        }
-      ],
-      "summary": "",
-      "url": "https://m.baidu.com/s?word=%E6%B7%B1%E5%A4%9C%E7%AA%81%E5%8F%91%EF%BC%81%E7%BE%8E%E5%9B%BDAI%E5%A4%A7%E5%AE%95%E6%9C%BA&sa=fyb_news"
-    },
-    {
-      "id": "evt-20770000",
-      "title": "赛博朋克 2077 世界观中人们只能吃合成食物吗？",
-      "category": "society",
-      "hotScore": 0.525,
-      "freshness": 1,
-      "crossSource": 1,
-      "totalScore": 0.81,
-      "sources": [
-        {
-          "channel": "zhihu",
-          "rank": 7,
-          "hot": 0,
-          "url": ""
-        }
-      ],
-      "summary": "",
-      "url": ""
-    },
-    {
-      "id": "evt-openaigpt6",
-      "title": "OpenAI发布GPT-6 Astra",
-      "category": "society",
-      "hotScore": 0.52,
-      "freshness": 1,
-      "crossSource": 1,
-      "totalScore": 0.808,
-      "sources": [
-        {
-          "channel": "baidu",
-          "rank": 8,
-          "hot": 0,
-          "url": "https://m.baidu.com/s?word=OpenAI%E5%8F%91%E5%B8%83GPT-6+Astra&sa=fyb_news"
-        }
-      ],
-      "summary": "",
-      "url": "https://m.baidu.com/s?word=OpenAI%E5%8F%91%E5%B8%83GPT-6+Astra&sa=fyb_news"
-    },
-    {
-      "id": "evt-40000000",
-      "title": "400万兰博基尼停小区地库被拆成空壳",
-      "category": "society",
-      "hotScore": 0.51,
-      "freshness": 1,
-      "crossSource": 1,
-      "totalScore": 0.804,
-      "sources": [
-        {
-          "channel": "toutiao",
-          "rank": 9,
-          "hot": 6220009,
-          "url": "https://www.toutiao.com/trending/7681228402954616895/"
-        }
-      ],
-      "summary": "",
-      "url": "https://www.toutiao.com/trending/7681228402954616895/"
-    },
-    {
-      "id": "evt-25000000",
-      "title": "2元矿泉水在公园卖5元，公园的商品一定要比外面贵这么多吗？",
-      "category": "society",
+      "title": "某男团开演唱会徐州12345被打爆，律师：不能把公共资源变成粉圈内斗的筹码",
+      "category": "entertainment",
       "hotScore": 0.4675,
       "freshness": 1,
-      "crossSource": 1,
-      "totalScore": 0.787,
+      "crossSource": 0.6309,
+      "totalScore": 0.6763,
       "sources": [
         {
           "channel": "thepaper",
           "rank": 10,
           "hot": 0,
-          "url": "https://www.thepaper.cn/newsDetail_forward_33999055"
+          "url": "https://www.thepaper.cn/newsDetail_forward_34006243"
         }
       ],
       "summary": "",
-      "url": "https://www.thepaper.cn/newsDetail_forward_33999055"
+      "url": "https://www.thepaper.cn/newsDetail_forward_34006243"
     },
     {
-      "id": "evt-19910000",
-      "title": "上海多家银行明确，1991 年以前出生的人不能新办理 40 年期个人房贷，如何看待这一标准？",
+      "id": "evt-50001030",
+      "title": "借5000万还了1.03亿 还要还2千多万",
       "category": "society",
-      "hotScore": 0.45,
+      "hotScore": 0.595,
+      "freshness": 0.9999,
+      "crossSource": 0.6309,
+      "totalScore": 0.7273,
+      "sources": [
+        {
+          "channel": "toutiao",
+          "rank": 7,
+          "hot": 7057909,
+          "url": "https://www.toutiao.com/trending/7680750140533801002/"
+        }
+      ],
+      "summary": "",
+      "url": "https://www.toutiao.com/trending/7680750140533801002/"
+    },
+    {
+      "id": "evt-shui0000",
+      "title": "乡音无改鬓毛shuāi远上寒山石径xié",
+      "category": "society",
+      "hotScore": 0.56,
       "freshness": 1,
-      "crossSource": 1,
-      "totalScore": 0.78,
+      "crossSource": 0.6309,
+      "totalScore": 0.7133,
+      "sources": [
+        {
+          "channel": "baidu",
+          "rank": 7,
+          "hot": 0,
+          "url": "https://m.baidu.com/s?word=%E4%B9%A1%E9%9F%B3%E6%97%A0%E6%94%B9%E9%AC%93%E6%AF%9Bshu%C4%81i%E8%BF%9C%E4%B8%8A%E5%AF%92%E5%B1%B1%E7%9F%B3%E5%BE%84xi%C3%A9&sa=fyb_news"
+        }
+      ],
+      "summary": "",
+      "url": "https://m.baidu.com/s?word=%E4%B9%A1%E9%9F%B3%E6%97%A0%E6%94%B9%E9%AC%93%E6%AF%9Bshu%C4%81i%E8%BF%9C%E4%B8%8A%E5%AF%92%E5%B1%B1%E7%9F%B3%E5%BE%84xi%C3%A9&sa=fyb_news"
+    },
+    {
+      "id": "evt-navix000",
+      "title": "「豆包手机」努比亚 NaviX Ultra 完成大模型备案与入网许可，计划 9 月开售，哪些信息值得关注？",
+      "category": "society",
+      "hotScore": 0.525,
+      "freshness": 0.9999,
+      "crossSource": 0.6309,
+      "totalScore": 0.6993,
       "sources": [
         {
           "channel": "zhihu",
+          "rank": 7,
+          "hot": 0,
+          "url": ""
+        }
+      ],
+      "summary": "",
+      "url": ""
+    },
+    {
+      "id": "evt-40000000",
+      "title": "上海多家银行：办40年房贷需35岁以下",
+      "category": "society",
+      "hotScore": 0.51,
+      "freshness": 0.9999,
+      "crossSource": 0.6309,
+      "totalScore": 0.6933,
+      "sources": [
+        {
+          "channel": "toutiao",
           "rank": 9,
+          "hot": 5778527,
+          "url": "https://www.toutiao.com/trending/7680703592528875071/"
+        }
+      ],
+      "summary": "",
+      "url": "https://www.toutiao.com/trending/7680703592528875071/"
+    },
+    {
+      "id": "evt-29600000",
+      "title": "字节跳动将获约 296 亿美元银团贷款，全年最高 700 亿美元 AI 资本开支，字节正在变成一家「基建公司」吗？",
+      "category": "society",
+      "hotScore": 0.4875,
+      "freshness": 0.9999,
+      "crossSource": 0.6309,
+      "totalScore": 0.6843,
+      "sources": [
+        {
+          "channel": "zhihu",
+          "rank": 8,
           "hot": 0,
           "url": ""
         }
