@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-09-04T12:20:59.045Z",
+  "generatedAt": "2026-09-04T17:15:40.035Z",
   "fields": {
     "society": "社会",
     "economy": "经济",
@@ -7,87 +7,43 @@
   },
   "feed": [
     {
-      "id": "evt-31000000",
-      "title": "西藏泥石流已致31人遇难531人失联",
+      "id": "evt-25500000",
+      "title": "证监会开出2.55亿巨额罚单",
+      "category": "society",
+      "hotScore": 0.8075,
+      "freshness": 1,
+      "crossSource": 1,
+      "totalScore": 0.923,
+      "sources": [
+        {
+          "channel": "toutiao",
+          "rank": 2,
+          "hot": 12828357,
+          "url": "https://www.toutiao.com/trending/7681610244372120073/"
+        },
+        {
+          "channel": "baidu",
+          "rank": 8,
+          "hot": 0,
+          "url": "https://m.baidu.com/s?word=%E8%AF%81%E7%9B%91%E4%BC%9A%E5%BC%80%E5%87%BA2.55%E4%BA%BF%E5%B7%A8%E9%A2%9D%E7%BD%9A%E5%8D%95&sa=fyb_news"
+        }
+      ],
+      "summary": "",
+      "url": "https://www.toutiao.com/trending/7681610244372120073/"
+    },
+    {
+      "id": "evt-00000000",
+      "title": "中国女篮不敌美国女篮",
       "category": "society",
       "hotScore": 0.85,
-      "freshness": 0.9997,
-      "crossSource": 1,
-      "totalScore": 0.9399,
+      "freshness": 1,
+      "crossSource": 0.6309,
+      "totalScore": 0.8293,
       "sources": [
         {
           "channel": "toutiao",
           "rank": 1,
-          "hot": 10179298,
-          "url": "https://www.toutiao.com/trending/7681141012961529398/"
-        },
-        {
-          "channel": "baidu",
-          "rank": 3,
-          "hot": 0,
-          "url": "https://m.baidu.com/s?word=%E8%A5%BF%E8%97%8F%E6%B3%A5%E7%9F%B3%E6%B5%81%E5%B7%B2%E8%87%B431%E4%BA%BA%E9%81%87%E9%9A%BE531%E4%BA%BA%E5%A4%B1%E8%81%94&sa=fyb_news"
-        }
-      ],
-      "summary": "",
-      "url": "https://www.toutiao.com/trending/7681141012961529398/"
-    },
-    {
-      "id": "evt-00000000",
-      "title": "解放军将派出兵力赴俄参加实兵演习",
-      "category": "society",
-      "hotScore": 0.8075,
-      "freshness": 0.9997,
-      "crossSource": 1,
-      "totalScore": 0.9229,
-      "sources": [
-        {
-          "channel": "toutiao",
-          "rank": 2,
-          "hot": 9210610,
-          "url": "https://www.toutiao.com/trending/7681573232828235782/"
-        },
-        {
-          "channel": "baidu",
-          "rank": 2,
-          "hot": 0,
-          "url": "https://m.baidu.com/s?word=%E8%A7%A3%E6%94%BE%E5%86%9B%E5%B0%86%E6%B4%BE%E5%87%BA%E5%85%B5%E5%8A%9B%E8%B5%B4%E4%BF%84%E5%8F%82%E5%8A%A0%E5%AE%9E%E5%85%B5%E6%BC%94%E4%B9%A0&sa=fyb_news"
-        }
-      ],
-      "summary": "",
-      "url": "https://www.toutiao.com/trending/7681573232828235782/"
-    },
-    {
-      "id": "evt-86000000",
-      "title": "武汉大学通报“一教授遭86页PDF长文举报”：学校纪委已启动调查",
-      "category": "society",
-      "hotScore": 0.8075,
-      "freshness": 0.9998,
-      "crossSource": 0.6309,
-      "totalScore": 0.8122,
-      "sources": [
-        {
-          "channel": "thepaper",
-          "rank": 2,
-          "hot": 0,
-          "url": "https://www.thepaper.cn/newsDetail_forward_34002675"
-        }
-      ],
-      "summary": "",
-      "url": "https://www.thepaper.cn/newsDetail_forward_34002675"
-    },
-    {
-      "id": "evt-vs000000",
-      "title": "女篮世界杯中国vs美国",
-      "category": "society",
-      "hotScore": 0.7225,
-      "freshness": 0.9997,
-      "crossSource": 0.6309,
-      "totalScore": 0.7782,
-      "sources": [
-        {
-          "channel": "toutiao",
-          "rank": 4,
-          "hot": 7541009,
+          "hot": 14177528,
           "url": "https://www.toutiao.com/trending/7681646221273943578/"
         }
       ],
@@ -95,17 +51,74 @@
       "url": "https://www.toutiao.com/trending/7681646221273943578/"
     },
     {
+      "id": "evt-10000000",
+      "title": "“张雪机车”再夺第1名",
+      "category": "society",
+      "hotScore": 0.76,
+      "freshness": 1,
+      "crossSource": 0.6309,
+      "totalScore": 0.7933,
+      "sources": [
+        {
+          "channel": "baidu",
+          "rank": 2,
+          "hot": 0,
+          "url": "https://m.baidu.com/s?word=%E2%80%9C%E5%BC%A0%E9%9B%AA%E6%9C%BA%E8%BD%A6%E2%80%9D%E5%86%8D%E5%A4%BA%E7%AC%AC1%E5%90%8D&sa=fyb_news"
+        }
+      ],
+      "summary": "",
+      "url": "https://m.baidu.com/s?word=%E2%80%9C%E5%BC%A0%E9%9B%AA%E6%9C%BA%E8%BD%A6%E2%80%9D%E5%86%8D%E5%A4%BA%E7%AC%AC1%E5%90%8D&sa=fyb_news"
+    },
+    {
+      "id": "evt-98256000",
+      "title": "98岁老人25年捐款近6000万元",
+      "category": "society",
+      "hotScore": 0.64,
+      "freshness": 1,
+      "crossSource": 0.6309,
+      "totalScore": 0.7453,
+      "sources": [
+        {
+          "channel": "baidu",
+          "rank": 5,
+          "hot": 0,
+          "url": "https://m.baidu.com/s?word=98%E5%B2%81%E8%80%81%E4%BA%BA25%E5%B9%B4%E6%8D%90%E6%AC%BE%E8%BF%916000%E4%B8%87%E5%85%83&sa=fyb_news"
+        }
+      ],
+      "summary": "",
+      "url": "https://m.baidu.com/s?word=98%E5%B2%81%E8%80%81%E4%BA%BA25%E5%B9%B4%E6%8D%90%E6%AC%BE%E8%BF%916000%E4%B8%87%E5%85%83&sa=fyb_news"
+    },
+    {
+      "id": "evt-90000000",
+      "title": "美联储9月加息预期升温",
+      "category": "economy",
+      "hotScore": 0.68,
+      "freshness": 1,
+      "crossSource": 0.6309,
+      "totalScore": 0.7613,
+      "sources": [
+        {
+          "channel": "toutiao",
+          "rank": 5,
+          "hot": 9503481,
+          "url": "https://www.toutiao.com/trending/7681667132089699890/"
+        }
+      ],
+      "summary": "",
+      "url": "https://www.toutiao.com/trending/7681667132089699890/"
+    },
+    {
       "id": "evt-12300000",
       "title": "某男团开演唱会徐州12345被打爆，律师：不能把公共资源变成粉圈内斗的筹码",
       "category": "entertainment",
-      "hotScore": 0.4675,
-      "freshness": 0.9998,
+      "hotScore": 0.68,
+      "freshness": 1,
       "crossSource": 0.6309,
-      "totalScore": 0.6762,
+      "totalScore": 0.7613,
       "sources": [
         {
           "channel": "thepaper",
-          "rank": 10,
+          "rank": 5,
           "hot": 0,
           "url": "https://www.thepaper.cn/newsDetail_forward_34006243"
         }
@@ -114,61 +127,80 @@
       "url": "https://www.thepaper.cn/newsDetail_forward_34006243"
     },
     {
-      "id": "evt-33000000",
-      "title": "33岁抗癌博主唐豆豆离世",
+      "id": "evt-95000000",
+      "title": "河水暴涨 95后特警抡锤猛砸护栏泄洪",
       "category": "society",
-      "hotScore": 0.68,
-      "freshness": 0.9997,
+      "hotScore": 0.6,
+      "freshness": 1,
       "crossSource": 0.6309,
-      "totalScore": 0.7612,
+      "totalScore": 0.7293,
       "sources": [
         {
-          "channel": "toutiao",
-          "rank": 5,
-          "hot": 6823387,
-          "url": "https://www.toutiao.com/trending/7681591874440921098/"
+          "channel": "baidu",
+          "rank": 6,
+          "hot": 0,
+          "url": "https://m.baidu.com/s?word=%E6%B2%B3%E6%B0%B4%E6%9A%B4%E6%B6%A8+95%E5%90%8E%E7%89%B9%E8%AD%A6%E6%8A%A1%E9%94%A4%E7%8C%9B%E7%A0%B8%E6%8A%A4%E6%A0%8F%E6%B3%84%E6%B4%AA&sa=fyb_news"
         }
       ],
       "summary": "",
-      "url": "https://www.toutiao.com/trending/7681591874440921098/"
+      "url": "https://m.baidu.com/s?word=%E6%B2%B3%E6%B0%B4%E6%9A%B4%E6%B6%A8+95%E5%90%8E%E7%89%B9%E8%AD%A6%E6%8A%A1%E9%94%A4%E7%8C%9B%E7%A0%B8%E6%8A%A4%E6%A0%8F%E6%B3%84%E6%B4%AA&sa=fyb_news"
     },
     {
-      "id": "evt-18700000",
-      "title": "我国目前有1870万名教师",
+      "id": "evt-10200000",
+      "title": "大学养的 10 只鸡和 2 只鹅被校内工人偷走，施工方赔 7000 元，如何看待处罚结果？应承担哪些责任？",
       "category": "society",
-      "hotScore": 0.5525,
-      "freshness": 0.9997,
+      "hotScore": 0.5625,
+      "freshness": 1,
       "crossSource": 0.6309,
-      "totalScore": 0.7102,
+      "totalScore": 0.7143,
       "sources": [
         {
-          "channel": "toutiao",
-          "rank": 8,
-          "hot": 5054890,
-          "url": "https://www.toutiao.com/trending/7681520696856215602/"
+          "channel": "zhihu",
+          "rank": 6,
+          "hot": 0,
+          "url": ""
         }
       ],
       "summary": "",
-      "url": "https://www.toutiao.com/trending/7681520696856215602/"
+      "url": ""
     },
     {
-      "id": "evt-10297000",
-      "title": "日本女篮102-97险胜马里",
+      "id": "evt-70000000",
+      "title": "以右翼部长抛出“7年清空”计划：让186万巴勒斯坦人“自愿移民”",
       "category": "society",
-      "hotScore": 0.4675,
-      "freshness": 0.9997,
+      "hotScore": 0.51,
+      "freshness": 1,
       "crossSource": 0.6309,
-      "totalScore": 0.6762,
+      "totalScore": 0.6933,
       "sources": [
         {
-          "channel": "toutiao",
-          "rank": 10,
-          "hot": 4138593,
-          "url": "https://www.toutiao.com/trending/7681462354719277106/"
+          "channel": "thepaper",
+          "rank": 9,
+          "hot": 0,
+          "url": "https://www.thepaper.cn/newsDetail_forward_34006519"
         }
       ],
       "summary": "",
-      "url": "https://www.toutiao.com/trending/7681462354719277106/"
+      "url": "https://www.thepaper.cn/newsDetail_forward_34006519"
+    },
+    {
+      "id": "evt-ai000000",
+      "title": "用AI审核游戏：从“删词”到“读心”，谁来定义“毒性”？",
+      "category": "society",
+      "hotScore": 0.425,
+      "freshness": 1,
+      "crossSource": 0.6309,
+      "totalScore": 0.6593,
+      "sources": [
+        {
+          "channel": "thepaper",
+          "rank": 11,
+          "hot": 0,
+          "url": "https://www.thepaper.cn/newsDetail_forward_34003038"
+        }
+      ],
+      "summary": "",
+      "url": "https://www.thepaper.cn/newsDetail_forward_34003038"
     }
   ]
 }
