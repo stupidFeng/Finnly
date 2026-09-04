@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-09-04T20:01:01.406Z",
+  "generatedAt": "2026-09-04T23:32:57.212Z",
   "fields": {
     "society": "社会",
     "economy": "经济",
@@ -7,33 +7,8 @@
   },
   "feed": [
     {
-      "id": "evt-25500000",
-      "title": "证监会开出2.55亿巨额罚单",
-      "category": "society",
-      "hotScore": 0.8075,
-      "freshness": 1,
-      "crossSource": 1,
-      "totalScore": 0.923,
-      "sources": [
-        {
-          "channel": "toutiao",
-          "rank": 2,
-          "hot": 13221873,
-          "url": "https://www.toutiao.com/trending/7681610244372120073/"
-        },
-        {
-          "channel": "baidu",
-          "rank": 8,
-          "hot": 0,
-          "url": "https://m.baidu.com/s?word=%E8%AF%81%E7%9B%91%E4%BC%9A%E5%BC%80%E5%87%BA2.55%E4%BA%BF%E5%B7%A8%E9%A2%9D%E7%BD%9A%E5%8D%95&sa=fyb_news"
-        }
-      ],
-      "summary": "",
-      "url": "https://www.toutiao.com/trending/7681610244372120073/"
-    },
-    {
       "id": "evt-00000000",
-      "title": "中国女篮不敌美国女篮",
+      "title": "如是书院学员辟谷一天只喝水吃5个枣",
       "category": "society",
       "hotScore": 0.85,
       "freshness": 1,
@@ -43,12 +18,31 @@
         {
           "channel": "toutiao",
           "rank": 1,
-          "hot": 14612429,
-          "url": "https://www.toutiao.com/trending/7681646221273943578/"
+          "hot": 15973548,
+          "url": "https://www.toutiao.com/trending/7681815465399897651/"
         }
       ],
       "summary": "",
-      "url": "https://www.toutiao.com/trending/7681646221273943578/"
+      "url": "https://www.toutiao.com/trending/7681815465399897651/"
+    },
+    {
+      "id": "evt-52000000",
+      "title": "新加坡谈52人在广西涉案被扣",
+      "category": "society",
+      "hotScore": 0.8075,
+      "freshness": 1,
+      "crossSource": 0.6309,
+      "totalScore": 0.8123,
+      "sources": [
+        {
+          "channel": "toutiao",
+          "rank": 2,
+          "hot": 14453464,
+          "url": "https://www.toutiao.com/trending/7681815752973798921/"
+        }
+      ],
+      "summary": "",
+      "url": "https://www.toutiao.com/trending/7681815752973798921/"
     },
     {
       "id": "evt-10000000",
@@ -70,6 +64,44 @@
       "url": "https://m.baidu.com/s?word=%E2%80%9C%E5%BC%A0%E9%9B%AA%E6%9C%BA%E8%BD%A6%E2%80%9D%E5%86%8D%E5%A4%BA%E7%AC%AC1%E5%90%8D&sa=fyb_news"
     },
     {
+      "id": "evt-15000000",
+      "title": "赵心童1-5不敌特鲁姆普无缘半决赛",
+      "category": "society",
+      "hotScore": 0.68,
+      "freshness": 1,
+      "crossSource": 0.6309,
+      "totalScore": 0.7613,
+      "sources": [
+        {
+          "channel": "toutiao",
+          "rank": 5,
+          "hot": 10707389,
+          "url": "https://www.toutiao.com/trending/7681817645825412614/"
+        }
+      ],
+      "summary": "",
+      "url": "https://www.toutiao.com/trending/7681817645825412614/"
+    },
+    {
+      "id": "evt-12300000",
+      "title": "某男团开演唱会徐州12345被打爆，律师：不能把公共资源变成粉圈内斗的筹码",
+      "category": "entertainment",
+      "hotScore": 0.595,
+      "freshness": 1,
+      "crossSource": 0.6309,
+      "totalScore": 0.7273,
+      "sources": [
+        {
+          "channel": "thepaper",
+          "rank": 7,
+          "hot": 0,
+          "url": "https://www.thepaper.cn/newsDetail_forward_34006243"
+        }
+      ],
+      "summary": "",
+      "url": "https://www.thepaper.cn/newsDetail_forward_34006243"
+    },
+    {
       "id": "evt-98256000",
       "title": "98岁老人25年捐款近6000万元",
       "category": "society",
@@ -89,46 +121,8 @@
       "url": "https://m.baidu.com/s?word=98%E5%B2%81%E8%80%81%E4%BA%BA25%E5%B9%B4%E6%8D%90%E6%AC%BE%E8%BF%916000%E4%B8%87%E5%85%83&sa=fyb_news"
     },
     {
-      "id": "evt-90000000",
-      "title": "美联储9月加息预期升温",
-      "category": "economy",
-      "hotScore": 0.68,
-      "freshness": 1,
-      "crossSource": 0.6309,
-      "totalScore": 0.7613,
-      "sources": [
-        {
-          "channel": "toutiao",
-          "rank": 5,
-          "hot": 9795004,
-          "url": "https://www.toutiao.com/trending/7681667132089699890/"
-        }
-      ],
-      "summary": "",
-      "url": "https://www.toutiao.com/trending/7681667132089699890/"
-    },
-    {
-      "id": "evt-12300000",
-      "title": "某男团开演唱会徐州12345被打爆，律师：不能把公共资源变成粉圈内斗的筹码",
-      "category": "entertainment",
-      "hotScore": 0.68,
-      "freshness": 1,
-      "crossSource": 0.6309,
-      "totalScore": 0.7613,
-      "sources": [
-        {
-          "channel": "thepaper",
-          "rank": 5,
-          "hot": 0,
-          "url": "https://www.thepaper.cn/newsDetail_forward_34006243"
-        }
-      ],
-      "summary": "",
-      "url": "https://www.thepaper.cn/newsDetail_forward_34006243"
-    },
-    {
-      "id": "evt-95000000",
-      "title": "河水暴涨 95后特警抡锤猛砸护栏泄洪",
+      "id": "evt-spacex00",
+      "title": "对标SpaceX 西安这家公司出手了",
       "category": "society",
       "hotScore": 0.6,
       "freshness": 1,
@@ -139,15 +133,15 @@
           "channel": "baidu",
           "rank": 6,
           "hot": 0,
-          "url": "https://m.baidu.com/s?word=%E6%B2%B3%E6%B0%B4%E6%9A%B4%E6%B6%A8+95%E5%90%8E%E7%89%B9%E8%AD%A6%E6%8A%A1%E9%94%A4%E7%8C%9B%E7%A0%B8%E6%8A%A4%E6%A0%8F%E6%B3%84%E6%B4%AA&sa=fyb_news"
+          "url": "https://m.baidu.com/s?word=%E5%AF%B9%E6%A0%87SpaceX+%E8%A5%BF%E5%AE%89%E8%BF%99%E5%AE%B6%E5%85%AC%E5%8F%B8%E5%87%BA%E6%89%8B%E4%BA%86&sa=fyb_news"
         }
       ],
       "summary": "",
-      "url": "https://m.baidu.com/s?word=%E6%B2%B3%E6%B0%B4%E6%9A%B4%E6%B6%A8+95%E5%90%8E%E7%89%B9%E8%AD%A6%E6%8A%A1%E9%94%A4%E7%8C%9B%E7%A0%B8%E6%8A%A4%E6%A0%8F%E6%B3%84%E6%B4%AA&sa=fyb_news"
+      "url": "https://m.baidu.com/s?word=%E5%AF%B9%E6%A0%87SpaceX+%E8%A5%BF%E5%AE%89%E8%BF%99%E5%AE%B6%E5%85%AC%E5%8F%B8%E5%87%BA%E6%89%8B%E4%BA%86&sa=fyb_news"
     },
     {
-      "id": "evt-gpt6astr",
-      "title": "如何评价 GPT-6Astra，是目前智能程度最高的模型吗？",
+      "id": "evt-10200000",
+      "title": "大学养的 10 只鸡和 2 只鹅被校内工人偷走，施工方赔 7000 元，如何看待处罚结果？应承担哪些责任？",
       "category": "society",
       "hotScore": 0.6,
       "freshness": 1,
@@ -165,65 +159,46 @@
       "url": ""
     },
     {
-      "id": "evt-10200000",
-      "title": "大学养的 10 只鸡和 2 只鹅被校内工人偷走，施工方赔 7000 元，如何看待处罚结果？应承担哪些责任？",
+      "id": "evt-32000000",
+      "title": "吴易昺止步美网32强",
       "category": "society",
-      "hotScore": 0.525,
+      "hotScore": 0.52,
       "freshness": 1,
       "crossSource": 0.6309,
-      "totalScore": 0.6993,
+      "totalScore": 0.6973,
       "sources": [
         {
-          "channel": "zhihu",
-          "rank": 7,
+          "channel": "baidu",
+          "rank": 8,
           "hot": 0,
-          "url": ""
+          "url": "https://m.baidu.com/s?word=%E5%90%B4%E6%98%93%E6%98%BA%E6%AD%A2%E6%AD%A5%E7%BE%8E%E7%BD%9132%E5%BC%BA&sa=fyb_news"
         }
       ],
       "summary": "",
-      "url": ""
+      "url": "https://m.baidu.com/s?word=%E5%90%B4%E6%98%93%E6%98%BA%E6%AD%A2%E6%AD%A5%E7%BE%8E%E7%BD%9132%E5%BC%BA&sa=fyb_news"
     },
     {
-      "id": "evt-70000000",
-      "title": "以右翼部长抛出“7年清空”计划：让186万巴勒斯坦人“自愿移民”",
+      "id": "evt-40000000",
+      "title": "福建老城墙秒变防洪堤隔40公分洪水",
       "category": "society",
-      "hotScore": 0.51,
+      "hotScore": 0.4675,
       "freshness": 1,
       "crossSource": 0.6309,
-      "totalScore": 0.6933,
+      "totalScore": 0.6763,
       "sources": [
         {
-          "channel": "thepaper",
-          "rank": 9,
-          "hot": 0,
-          "url": "https://www.thepaper.cn/newsDetail_forward_34006519"
+          "channel": "toutiao",
+          "rank": 10,
+          "hot": 6494360,
+          "url": "https://www.toutiao.com/trending/7681815465399864883/"
         }
       ],
       "summary": "",
-      "url": "https://www.thepaper.cn/newsDetail_forward_34006519"
+      "url": "https://www.toutiao.com/trending/7681815465399864883/"
     },
     {
-      "id": "evt-10900000",
-      "title": "尼泊尔校长 10 秒内撤离 900 学生，对学校灾害应急预案有何借鉴意义？",
-      "category": "society",
-      "hotScore": 0.45,
-      "freshness": 1,
-      "crossSource": 0.6309,
-      "totalScore": 0.6693,
-      "sources": [
-        {
-          "channel": "zhihu",
-          "rank": 9,
-          "hot": 0,
-          "url": ""
-        }
-      ],
-      "summary": "",
-      "url": ""
-    },
-    {
-      "id": "evt-61940000",
-      "title": "中国女篮61比94美国女篮",
+      "id": "evt-24000000",
+      "title": "抗癌博主小詹去世 年仅24岁",
       "category": "society",
       "hotScore": 0.44,
       "freshness": 1,
@@ -234,30 +209,11 @@
           "channel": "baidu",
           "rank": 10,
           "hot": 0,
-          "url": "https://m.baidu.com/s?word=%E4%B8%AD%E5%9B%BD%E5%A5%B3%E7%AF%AE61%E6%AF%9494%E7%BE%8E%E5%9B%BD%E5%A5%B3%E7%AF%AE&sa=fyb_news"
+          "url": "https://m.baidu.com/s?word=%E6%8A%97%E7%99%8C%E5%8D%9A%E4%B8%BB%E5%B0%8F%E8%A9%B9%E5%8E%BB%E4%B8%96+%E5%B9%B4%E4%BB%8524%E5%B2%81&sa=fyb_news"
         }
       ],
       "summary": "",
-      "url": "https://m.baidu.com/s?word=%E4%B8%AD%E5%9B%BD%E5%A5%B3%E7%AF%AE61%E6%AF%9494%E7%BE%8E%E5%9B%BD%E5%A5%B3%E7%AF%AE&sa=fyb_news"
-    },
-    {
-      "id": "evt-ai000000",
-      "title": "用AI审核游戏：从“删词”到“读心”，谁来定义“毒性”？",
-      "category": "society",
-      "hotScore": 0.425,
-      "freshness": 1,
-      "crossSource": 0.6309,
-      "totalScore": 0.6593,
-      "sources": [
-        {
-          "channel": "thepaper",
-          "rank": 11,
-          "hot": 0,
-          "url": "https://www.thepaper.cn/newsDetail_forward_34003038"
-        }
-      ],
-      "summary": "",
-      "url": "https://www.thepaper.cn/newsDetail_forward_34003038"
+      "url": "https://m.baidu.com/s?word=%E6%8A%97%E7%99%8C%E5%8D%9A%E4%B8%BB%E5%B0%8F%E8%A9%B9%E5%8E%BB%E4%B8%96+%E5%B9%B4%E4%BB%8524%E5%B2%81&sa=fyb_news"
     }
   ]
 }
