@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-09-03T23:40:23.645Z",
+  "generatedAt": "2026-09-04T01:56:40.775Z",
   "fields": {
     "society": "社会",
     "economy": "经济",
@@ -7,13 +7,32 @@
   },
   "feed": [
     {
+      "id": "evt-00000000",
+      "title": "尼泊尔不向中国寻求气候正义赔偿",
+      "category": "society",
+      "hotScore": 0.85,
+      "freshness": 1,
+      "crossSource": 1,
+      "totalScore": 0.94,
+      "sources": [
+        {
+          "channel": "toutiao",
+          "rank": 1,
+          "hot": 13842885,
+          "url": "https://www.toutiao.com/trending/7681464092917255686/"
+        }
+      ],
+      "summary": "",
+      "url": "https://www.toutiao.com/trending/7681464092917255686/"
+    },
+    {
       "id": "evt-86000000",
       "title": "武汉大学通报“一教授遭86页PDF长文举报”：学校纪委已启动调查",
       "category": "society",
       "hotScore": 0.85,
       "freshness": 1,
-      "crossSource": 0.6309,
-      "totalScore": 0.8293,
+      "crossSource": 1,
+      "totalScore": 0.94,
       "sources": [
         {
           "channel": "thepaper",
@@ -26,55 +45,74 @@
       "url": "https://www.thepaper.cn/newsDetail_forward_34002675"
     },
     {
-      "id": "evt-00000000",
-      "title": "俄方称支持全面恢复与美方的关系",
+      "id": "evt-token000",
+      "title": "“Token贷”火出圈",
       "category": "society",
-      "hotScore": 0.85,
-      "freshness": 0.9999,
-      "crossSource": 0.6309,
-      "totalScore": 0.8292,
+      "hotScore": 0.76,
+      "freshness": 1,
+      "crossSource": 1,
+      "totalScore": 0.904,
       "sources": [
         {
-          "channel": "toutiao",
-          "rank": 1,
-          "hot": 14586777,
-          "url": "https://www.toutiao.com/trending/7681445907535285806/"
-        }
-      ],
-      "summary": "",
-      "url": "https://www.toutiao.com/trending/7681445907535285806/"
-    },
-    {
-      "id": "evt-20000000",
-      "title": "广场20多个音响齐轰严重影响小学上课",
-      "category": "society",
-      "hotScore": 0.8075,
-      "freshness": 0.9999,
-      "crossSource": 0.6309,
-      "totalScore": 0.8122,
-      "sources": [
-        {
-          "channel": "toutiao",
+          "channel": "baidu",
           "rank": 2,
-          "hot": 13198662,
-          "url": "https://www.toutiao.com/trending/7681248980579500038/"
+          "hot": 0,
+          "url": "https://m.baidu.com/s?word=%E2%80%9CToken%E8%B4%B7%E2%80%9D%E7%81%AB%E5%87%BA%E5%9C%88&sa=fyb_news"
         }
       ],
       "summary": "",
-      "url": "https://www.toutiao.com/trending/7681248980579500038/"
+      "url": "https://m.baidu.com/s?word=%E2%80%9CToken%E8%B4%B7%E2%80%9D%E7%81%AB%E5%87%BA%E5%9C%88&sa=fyb_news"
     },
     {
-      "id": "evt-93chatgpt",
-      "title": "9 月 3 日晚 ChatGPT 、 Grok 、 Claude 、 Cursor 集体突发故障，怎么回事？带来哪些影响？",
+      "id": "evt-openaiag",
+      "title": "OpenAI：欢迎来到AGI时代",
       "category": "society",
-      "hotScore": 0.75,
-      "freshness": 0.9999,
-      "crossSource": 0.6309,
-      "totalScore": 0.7893,
+      "hotScore": 0.72,
+      "freshness": 1,
+      "crossSource": 1,
+      "totalScore": 0.888,
+      "sources": [
+        {
+          "channel": "baidu",
+          "rank": 3,
+          "hot": 0,
+          "url": "https://m.baidu.com/s?word=OpenAI%EF%BC%9A%E6%AC%A2%E8%BF%8E%E6%9D%A5%E5%88%B0AGI%E6%97%B6%E4%BB%A3&sa=fyb_news"
+        }
+      ],
+      "summary": "",
+      "url": "https://m.baidu.com/s?word=OpenAI%EF%BC%9A%E6%AC%A2%E8%BF%8E%E6%9D%A5%E5%88%B0AGI%E6%97%B6%E4%BB%A3&sa=fyb_news"
+    },
+    {
+      "id": "evt-21100000",
+      "title": "全国唯一有两所211高校县级市迎新生",
+      "category": "society",
+      "hotScore": 0.68,
+      "freshness": 1,
+      "crossSource": 1,
+      "totalScore": 0.872,
+      "sources": [
+        {
+          "channel": "toutiao",
+          "rank": 5,
+          "hot": 9279163,
+          "url": "https://www.toutiao.com/trending/7680914423784751158/"
+        }
+      ],
+      "summary": "",
+      "url": "https://www.toutiao.com/trending/7680914423784751158/"
+    },
+    {
+      "id": "evt-29600000",
+      "title": "字节跳动将获约 296 亿美元银团贷款，全年最高 700 亿美元 AI 资本开支，字节正在变成一家「基建公司」吗？",
+      "category": "society",
+      "hotScore": 0.675,
+      "freshness": 1,
+      "crossSource": 1,
+      "totalScore": 0.87,
       "sources": [
         {
           "channel": "zhihu",
-          "rank": 1,
+          "rank": 3,
           "hot": 0,
           "url": ""
         }
@@ -83,75 +121,37 @@
       "url": ""
     },
     {
-      "id": "evt-21100000",
-      "title": "全国唯一有两所211高校县级市迎新生",
+      "id": "evt-12345000",
+      "title": "人民日报：12345不是饭圈“掐架”平台",
       "category": "society",
-      "hotScore": 0.7225,
-      "freshness": 0.9999,
-      "crossSource": 0.6309,
-      "totalScore": 0.7782,
-      "sources": [
-        {
-          "channel": "toutiao",
-          "rank": 4,
-          "hot": 10806150,
-          "url": "https://www.toutiao.com/trending/7680914423784751158/"
-        }
-      ],
-      "summary": "",
-      "url": "https://www.toutiao.com/trending/7680914423784751158/"
-    },
-    {
-      "id": "evt-10000000",
-      "title": "1名中国公民在菲被羁押期间离世",
-      "category": "society",
-      "hotScore": 0.72,
-      "freshness": 0.9999,
-      "crossSource": 0.6309,
-      "totalScore": 0.7773,
+      "hotScore": 0.64,
+      "freshness": 1,
+      "crossSource": 1,
+      "totalScore": 0.856,
       "sources": [
         {
           "channel": "baidu",
-          "rank": 3,
-          "hot": 0,
-          "url": "https://m.baidu.com/s?word=1%E5%90%8D%E4%B8%AD%E5%9B%BD%E5%85%AC%E6%B0%91%E5%9C%A8%E8%8F%B2%E8%A2%AB%E7%BE%81%E6%8A%BC%E6%9C%9F%E9%97%B4%E7%A6%BB%E4%B8%96&sa=fyb_news"
-        }
-      ],
-      "summary": "",
-      "url": "https://m.baidu.com/s?word=1%E5%90%8D%E4%B8%AD%E5%9B%BD%E5%85%AC%E6%B0%91%E5%9C%A8%E8%8F%B2%E8%A2%AB%E7%BE%81%E6%8A%BC%E6%9C%9F%E9%97%B4%E7%A6%BB%E4%B8%96&sa=fyb_news"
-    },
-    {
-      "id": "evt-21000000",
-      "title": "郑钦文2-1普丁塞娃晋级美网32强",
-      "category": "society",
-      "hotScore": 0.68,
-      "freshness": 0.9999,
-      "crossSource": 0.6309,
-      "totalScore": 0.7612,
-      "sources": [
-        {
-          "channel": "toutiao",
           "rank": 5,
-          "hot": 9777809,
-          "url": "https://www.toutiao.com/trending/7681443736152198699/"
+          "hot": 0,
+          "url": "https://m.baidu.com/s?word=%E4%BA%BA%E6%B0%91%E6%97%A5%E6%8A%A5%EF%BC%9A12345%E4%B8%8D%E6%98%AF%E9%A5%AD%E5%9C%88%E2%80%9C%E6%8E%90%E6%9E%B6%E2%80%9D%E5%B9%B3%E5%8F%B0&sa=fyb_news"
         }
       ],
       "summary": "",
-      "url": "https://www.toutiao.com/trending/7681443736152198699/"
+      "url": "https://m.baidu.com/s?word=%E4%BA%BA%E6%B0%91%E6%97%A5%E6%8A%A5%EF%BC%9A12345%E4%B8%8D%E6%98%AF%E9%A5%AD%E5%9C%88%E2%80%9C%E6%8E%90%E6%9E%B6%E2%80%9D%E5%B9%B3%E5%8F%B0&sa=fyb_news"
     },
     {
       "id": "evt-12300000",
       "title": "人民日报批饭圈刷爆12345",
       "category": "society",
       "hotScore": 0.6375,
-      "freshness": 0.9999,
-      "crossSource": 0.6309,
-      "totalScore": 0.7442,
+      "freshness": 1,
+      "crossSource": 1,
+      "totalScore": 0.855,
       "sources": [
         {
           "channel": "toutiao",
           "rank": 6,
-          "hot": 8847327,
+          "hot": 8396134,
           "url": "https://www.toutiao.com/trending/7680674050754183222/"
         }
       ],
@@ -159,89 +159,127 @@
       "url": "https://www.toutiao.com/trending/7680674050754183222/"
     },
     {
-      "id": "evt-tokencs0",
-      "title": "“没有Token的CS学生 应立即退学”",
+      "id": "evt-ign00000",
+      "title": "IGN 中国给《鬼武者：剑之道》打 8 分，《黑神话：悟空》10 分，与 IGN 的评分正好相反，对此你怎么看？",
       "category": "society",
       "hotScore": 0.6,
-      "freshness": 0.9999,
-      "crossSource": 0.6309,
-      "totalScore": 0.7293,
+      "freshness": 1,
+      "crossSource": 1,
+      "totalScore": 0.84,
       "sources": [
         {
-          "channel": "baidu",
-          "rank": 6,
+          "channel": "zhihu",
+          "rank": 5,
           "hot": 0,
-          "url": "https://m.baidu.com/s?word=%E2%80%9C%E6%B2%A1%E6%9C%89Token%E7%9A%84CS%E5%AD%A6%E7%94%9F+%E5%BA%94%E7%AB%8B%E5%8D%B3%E9%80%80%E5%AD%A6%E2%80%9D&sa=fyb_news"
+          "url": ""
         }
       ],
       "summary": "",
-      "url": "https://m.baidu.com/s?word=%E2%80%9C%E6%B2%A1%E6%9C%89Token%E7%9A%84CS%E5%AD%A6%E7%94%9F+%E5%BA%94%E7%AB%8B%E5%8D%B3%E9%80%80%E5%AD%A6%E2%80%9D&sa=fyb_news"
+      "url": ""
+    },
+    {
+      "id": "evt-ai000000",
+      "title": "深夜突发！美国AI大宕机",
+      "category": "society",
+      "hotScore": 0.56,
+      "freshness": 1,
+      "crossSource": 1,
+      "totalScore": 0.824,
+      "sources": [
+        {
+          "channel": "baidu",
+          "rank": 7,
+          "hot": 0,
+          "url": "https://m.baidu.com/s?word=%E6%B7%B1%E5%A4%9C%E7%AA%81%E5%8F%91%EF%BC%81%E7%BE%8E%E5%9B%BDAI%E5%A4%A7%E5%AE%95%E6%9C%BA&sa=fyb_news"
+        }
+      ],
+      "summary": "",
+      "url": "https://m.baidu.com/s?word=%E6%B7%B1%E5%A4%9C%E7%AA%81%E5%8F%91%EF%BC%81%E7%BE%8E%E5%9B%BDAI%E5%A4%A7%E5%AE%95%E6%9C%BA&sa=fyb_news"
+    },
+    {
+      "id": "evt-20770000",
+      "title": "赛博朋克 2077 世界观中人们只能吃合成食物吗？",
+      "category": "society",
+      "hotScore": 0.525,
+      "freshness": 1,
+      "crossSource": 1,
+      "totalScore": 0.81,
+      "sources": [
+        {
+          "channel": "zhihu",
+          "rank": 7,
+          "hot": 0,
+          "url": ""
+        }
+      ],
+      "summary": "",
+      "url": ""
     },
     {
       "id": "evt-openaigpt6",
       "title": "OpenAI发布GPT-6 Astra",
       "category": "society",
-      "hotScore": 0.5525,
-      "freshness": 0.9999,
-      "crossSource": 0.6309,
-      "totalScore": 0.7102,
+      "hotScore": 0.52,
+      "freshness": 1,
+      "crossSource": 1,
+      "totalScore": 0.808,
       "sources": [
         {
-          "channel": "toutiao",
+          "channel": "baidu",
           "rank": 8,
-          "hot": 7243579,
-          "url": "https://www.toutiao.com/trending/7681446687688117803/"
+          "hot": 0,
+          "url": "https://m.baidu.com/s?word=OpenAI%E5%8F%91%E5%B8%83GPT-6+Astra&sa=fyb_news"
         }
       ],
       "summary": "",
-      "url": "https://www.toutiao.com/trending/7681446687688117803/"
+      "url": "https://m.baidu.com/s?word=OpenAI%E5%8F%91%E5%B8%83GPT-6+Astra&sa=fyb_news"
     },
     {
-      "id": "evt-25050000",
-      "title": "男子花250元被5位大妈按摩按到发红",
+      "id": "evt-40000000",
+      "title": "400万兰博基尼停小区地库被拆成空壳",
       "category": "society",
       "hotScore": 0.51,
-      "freshness": 0.9999,
-      "crossSource": 0.6309,
-      "totalScore": 0.6932,
+      "freshness": 1,
+      "crossSource": 1,
+      "totalScore": 0.804,
       "sources": [
         {
           "channel": "toutiao",
           "rank": 9,
-          "hot": 6554261,
-          "url": "https://www.toutiao.com/trending/7681237420928155658/"
+          "hot": 6220009,
+          "url": "https://www.toutiao.com/trending/7681228402954616895/"
         }
       ],
       "summary": "",
-      "url": "https://www.toutiao.com/trending/7681237420928155658/"
+      "url": "https://www.toutiao.com/trending/7681228402954616895/"
     },
     {
-      "id": "evt-40000000",
-      "title": "上海多家银行：办40年房贷需35岁以下",
+      "id": "evt-25000000",
+      "title": "2元矿泉水在公园卖5元，公园的商品一定要比外面贵这么多吗？",
       "category": "society",
       "hotScore": 0.4675,
-      "freshness": 0.9999,
-      "crossSource": 0.6309,
-      "totalScore": 0.6762,
+      "freshness": 1,
+      "crossSource": 1,
+      "totalScore": 0.787,
       "sources": [
         {
-          "channel": "toutiao",
+          "channel": "thepaper",
           "rank": 10,
-          "hot": 5930541,
-          "url": "https://www.toutiao.com/trending/7680703592528875071/"
+          "hot": 0,
+          "url": "https://www.thepaper.cn/newsDetail_forward_33999055"
         }
       ],
       "summary": "",
-      "url": "https://www.toutiao.com/trending/7680703592528875071/"
+      "url": "https://www.thepaper.cn/newsDetail_forward_33999055"
     },
     {
-      "id": "evt-29600000",
-      "title": "字节跳动将获约 296 亿美元银团贷款，全年最高 700 亿美元 AI 资本开支，字节正在变成一家「基建公司」吗？",
+      "id": "evt-19910000",
+      "title": "上海多家银行明确，1991 年以前出生的人不能新办理 40 年期个人房贷，如何看待这一标准？",
       "category": "society",
       "hotScore": 0.45,
-      "freshness": 0.9999,
-      "crossSource": 0.6309,
-      "totalScore": 0.6693,
+      "freshness": 1,
+      "crossSource": 1,
+      "totalScore": 0.78,
       "sources": [
         {
           "channel": "zhihu",
