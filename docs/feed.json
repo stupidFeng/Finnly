@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-09-04T17:15:40.035Z",
+  "generatedAt": "2026-09-04T20:01:01.406Z",
   "fields": {
     "society": "社会",
     "economy": "经济",
@@ -18,7 +18,7 @@
         {
           "channel": "toutiao",
           "rank": 2,
-          "hot": 12828357,
+          "hot": 13221873,
           "url": "https://www.toutiao.com/trending/7681610244372120073/"
         },
         {
@@ -43,7 +43,7 @@
         {
           "channel": "toutiao",
           "rank": 1,
-          "hot": 14177528,
+          "hot": 14612429,
           "url": "https://www.toutiao.com/trending/7681646221273943578/"
         }
       ],
@@ -100,7 +100,7 @@
         {
           "channel": "toutiao",
           "rank": 5,
-          "hot": 9503481,
+          "hot": 9795004,
           "url": "https://www.toutiao.com/trending/7681667132089699890/"
         }
       ],
@@ -146,17 +146,36 @@
       "url": "https://m.baidu.com/s?word=%E6%B2%B3%E6%B0%B4%E6%9A%B4%E6%B6%A8+95%E5%90%8E%E7%89%B9%E8%AD%A6%E6%8A%A1%E9%94%A4%E7%8C%9B%E7%A0%B8%E6%8A%A4%E6%A0%8F%E6%B3%84%E6%B4%AA&sa=fyb_news"
     },
     {
-      "id": "evt-10200000",
-      "title": "大学养的 10 只鸡和 2 只鹅被校内工人偷走，施工方赔 7000 元，如何看待处罚结果？应承担哪些责任？",
+      "id": "evt-gpt6astr",
+      "title": "如何评价 GPT-6Astra，是目前智能程度最高的模型吗？",
       "category": "society",
-      "hotScore": 0.5625,
+      "hotScore": 0.6,
       "freshness": 1,
       "crossSource": 0.6309,
-      "totalScore": 0.7143,
+      "totalScore": 0.7293,
       "sources": [
         {
           "channel": "zhihu",
-          "rank": 6,
+          "rank": 5,
+          "hot": 0,
+          "url": ""
+        }
+      ],
+      "summary": "",
+      "url": ""
+    },
+    {
+      "id": "evt-10200000",
+      "title": "大学养的 10 只鸡和 2 只鹅被校内工人偷走，施工方赔 7000 元，如何看待处罚结果？应承担哪些责任？",
+      "category": "society",
+      "hotScore": 0.525,
+      "freshness": 1,
+      "crossSource": 0.6309,
+      "totalScore": 0.6993,
+      "sources": [
+        {
+          "channel": "zhihu",
+          "rank": 7,
           "hot": 0,
           "url": ""
         }
@@ -182,6 +201,44 @@
       ],
       "summary": "",
       "url": "https://www.thepaper.cn/newsDetail_forward_34006519"
+    },
+    {
+      "id": "evt-10900000",
+      "title": "尼泊尔校长 10 秒内撤离 900 学生，对学校灾害应急预案有何借鉴意义？",
+      "category": "society",
+      "hotScore": 0.45,
+      "freshness": 1,
+      "crossSource": 0.6309,
+      "totalScore": 0.6693,
+      "sources": [
+        {
+          "channel": "zhihu",
+          "rank": 9,
+          "hot": 0,
+          "url": ""
+        }
+      ],
+      "summary": "",
+      "url": ""
+    },
+    {
+      "id": "evt-61940000",
+      "title": "中国女篮61比94美国女篮",
+      "category": "society",
+      "hotScore": 0.44,
+      "freshness": 1,
+      "crossSource": 0.6309,
+      "totalScore": 0.6653,
+      "sources": [
+        {
+          "channel": "baidu",
+          "rank": 10,
+          "hot": 0,
+          "url": "https://m.baidu.com/s?word=%E4%B8%AD%E5%9B%BD%E5%A5%B3%E7%AF%AE61%E6%AF%9494%E7%BE%8E%E5%9B%BD%E5%A5%B3%E7%AF%AE&sa=fyb_news"
+        }
+      ],
+      "summary": "",
+      "url": "https://m.baidu.com/s?word=%E4%B8%AD%E5%9B%BD%E5%A5%B3%E7%AF%AE61%E6%AF%9494%E7%BE%8E%E5%9B%BD%E5%A5%B3%E7%AF%AE&sa=fyb_news"
     },
     {
       "id": "evt-ai000000",
