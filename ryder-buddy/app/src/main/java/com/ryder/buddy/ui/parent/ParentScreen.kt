@@ -288,7 +288,7 @@ private fun ProfileForm(initial: MemoryProfile, onSave: (MemoryProfile) -> Unit)
         mutableStateOf(initial.comfortKit.joinToString("\n"))
     }
 
-    listOf(
+    val fields: List<Pair<String, Pair<String, (String) -> Unit>>> = listOf(
         "小名" to (nickname to { nickname = it }),
         "出生日期（如 2024-03-15）" to (birthDate to { birthDate = it }),
         "身高体重" to (heightWeight to { heightWeight = it }),
@@ -296,7 +296,8 @@ private fun ProfileForm(initial: MemoryProfile, onSave: (MemoryProfile) -> Unit)
         "害怕（如打雷、吸尘器）" to (fears to { fears = it }),
         "作息（如 21:00 睡觉）" to (routine to { routine = it }),
         "家人称呼（如 爸爸、妈妈、阿婆）" to (familyTitles to { familyTitles = it }),
-    ).forEach { (label, pair) ->
+    )
+    fields.forEach { (label, pair) ->
         val (value, setter) = pair
         OutlinedTextField(
             value = value,

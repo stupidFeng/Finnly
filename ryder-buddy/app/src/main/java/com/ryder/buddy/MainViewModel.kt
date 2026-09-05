@@ -34,6 +34,7 @@ import kotlinx.coroutines.flow.first
 import kotlinx.coroutines.flow.stateIn
 import kotlinx.coroutines.launch
 import kotlinx.coroutines.withTimeoutOrNull
+import kotlinx.serialization.encodeToString
 
 /** 对话状态机：空闲 → 聆听 → 思考 → 说话 → 空闲 */
 enum class TalkState { Idle, Listening, Thinking, Speaking }

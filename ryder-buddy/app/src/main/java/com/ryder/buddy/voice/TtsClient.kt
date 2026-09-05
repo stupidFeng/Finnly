@@ -54,7 +54,7 @@ class AndroidTtsClient(context: Context) : TtsClient {
         override fun onError(utteranceId: String?) = settle()
     }
 
-    private val tts = TextToSpeech(context.applicationContext) { status ->
+    private val tts: TextToSpeech = TextToSpeech(context.applicationContext) { status ->
         if (status == TextToSpeech.SUCCESS) {
             val result = tts.setLanguage(Locale.SIMPLIFIED_CHINESE)
             val ok = result != TextToSpeech.LANG_MISSING_DATA &&
