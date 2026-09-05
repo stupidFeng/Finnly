@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-09-05T17:47:37.039Z",
+  "generatedAt": "2026-09-05T19:41:37.354Z",
   "fields": {
     "society": "社会",
     "economy": "经济",
@@ -11,14 +11,14 @@
       "title": "葫芦娃爷爷爆火“蛇精”来打卡",
       "category": "society",
       "hotScore": 0.85,
-      "freshness": 0.9999,
+      "freshness": 0.9998,
       "crossSource": 0.6309,
-      "totalScore": 0.8293,
+      "totalScore": 0.8292,
       "sources": [
         {
           "channel": "toutiao",
           "rank": 1,
-          "hot": 10765730,
+          "hot": 10927989,
           "url": "https://www.toutiao.com/trending/7681201594172244031/"
         }
       ],
@@ -26,42 +26,42 @@
       "url": "https://www.toutiao.com/trending/7681201594172244031/"
     },
     {
+      "id": "evt-iphone18",
+      "title": "iPhone 18系列售价曝光",
+      "category": "society",
+      "hotScore": 0.8075,
+      "freshness": 0.9998,
+      "crossSource": 0.6309,
+      "totalScore": 0.8122,
+      "sources": [
+        {
+          "channel": "toutiao",
+          "rank": 2,
+          "hot": 9888054,
+          "url": "https://www.toutiao.com/trending/7681968641067450930/"
+        }
+      ],
+      "summary": "",
+      "url": "https://www.toutiao.com/trending/7681968641067450930/"
+    },
+    {
       "id": "evt-10000000",
       "title": "超1万册永乐大典副本下落不明",
       "category": "society",
       "hotScore": 0.7225,
-      "freshness": 0.9999,
+      "freshness": 0.9998,
       "crossSource": 0.6309,
-      "totalScore": 0.7783,
+      "totalScore": 0.7782,
       "sources": [
         {
           "channel": "toutiao",
           "rank": 4,
-          "hot": 7975449,
+          "hot": 8095653,
           "url": "https://www.toutiao.com/trending/7681856234014326826/"
         }
       ],
       "summary": "",
       "url": "https://www.toutiao.com/trending/7681856234014326826/"
-    },
-    {
-      "id": "evt-30000000",
-      "title": "德甲第四轮，樊振东第一盘 3-0 胜鲁伊斯，第四盘 3-0 胜杜达锁定胜局，如何评价本场比赛？",
-      "category": "society",
-      "hotScore": 0.675,
-      "freshness": 0.9999,
-      "crossSource": 0.6309,
-      "totalScore": 0.7593,
-      "sources": [
-        {
-          "channel": "zhihu",
-          "rank": 3,
-          "hot": 0,
-          "url": ""
-        }
-      ],
-      "summary": "",
-      "url": ""
     },
     {
       "id": "evt-15200000",
@@ -83,51 +83,13 @@
       "url": "https://m.baidu.com/s?word=%E8%8A%B115%E5%85%83%E4%B9%B0%E4%BA%862%E6%96%A4%E8%9B%A4%E8%9C%8A%E5%90%83%E5%87%BA3%E9%A2%97%E7%8F%8D%E7%8F%A0&sa=fyb_news"
     },
     {
-      "id": "evt-60000000",
-      "title": "特斯拉市值一夜蒸发超6000亿",
-      "category": "economy",
-      "hotScore": 0.68,
-      "freshness": 0.9999,
-      "crossSource": 0.6309,
-      "totalScore": 0.7613,
-      "sources": [
-        {
-          "channel": "toutiao",
-          "rank": 5,
-          "hot": 7216485,
-          "url": "https://www.toutiao.com/trending/7681750930408226870/"
-        }
-      ],
-      "summary": "",
-      "url": "https://www.toutiao.com/trending/7681750930408226870/"
-    },
-    {
-      "id": "evt-iphone18",
-      "title": "iPhone 18系列售价曝光",
-      "category": "society",
-      "hotScore": 0.6375,
-      "freshness": 0.9999,
-      "crossSource": 0.6309,
-      "totalScore": 0.7443,
-      "sources": [
-        {
-          "channel": "toutiao",
-          "rank": 6,
-          "hot": 6529745,
-          "url": "https://www.toutiao.com/trending/7681968641067450930/"
-        }
-      ],
-      "summary": "",
-      "url": "https://www.toutiao.com/trending/7681968641067450930/"
-    },
-    {
-      "id": "evt-lpl20260",
-      "title": "LPL2026 赛季季后赛 iG 鏖战五局淘汰 TES，如何评价这场比赛？",
+      "id": "evt-15000000",
+      "title": "联合国警告称升温 1.5℃已无法避免，能做的只有压低超额升温，这是否意味着变暖要失控了？",
       "category": "society",
       "hotScore": 0.6,
-      "freshness": 0.9999,
+      "freshness": 0.9998,
       "crossSource": 0.6309,
-      "totalScore": 0.7293,
+      "totalScore": 0.7292,
       "sources": [
         {
           "channel": "zhihu",
@@ -144,9 +106,9 @@
       "title": "马上评｜给5岁小女孩标注“刁蛮”？患者人格不容贬损",
       "category": "society",
       "hotScore": 0.595,
-      "freshness": 1,
+      "freshness": 0.9999,
       "crossSource": 0.6309,
-      "totalScore": 0.7273,
+      "totalScore": 0.7272,
       "sources": [
         {
           "channel": "thepaper",
@@ -162,20 +124,20 @@
       "id": "evt-23000000",
       "title": "吉隆泥石流发生23分钟后航拍首次公开",
       "category": "society",
-      "hotScore": 0.28,
-      "freshness": 0.9999,
+      "hotScore": 0.2975,
+      "freshness": 0.9998,
       "crossSource": 1,
-      "totalScore": 0.712,
+      "totalScore": 0.7189,
       "sources": [
         {
           "channel": "toutiao",
-          "rank": 17,
-          "hot": 2173563,
+          "rank": 14,
+          "hot": 2978224,
           "url": "https://www.toutiao.com/trending/7681120394372300846/"
         },
         {
           "channel": "baidu",
-          "rank": 14,
+          "rank": 15,
           "hot": 0,
           "url": "https://m.baidu.com/s?word=%E5%90%89%E9%9A%86%E6%B3%A5%E7%9F%B3%E6%B5%81%E5%8F%91%E7%94%9F23%E5%88%86%E9%92%9F%E5%90%8E%E8%88%AA%E6%8B%8D%E9%A6%96%E6%AC%A1%E5%85%AC%E5%BC%80&sa=fyb_news"
         }
@@ -184,23 +146,42 @@
       "url": "https://www.toutiao.com/trending/7681120394372300846/"
     },
     {
-      "id": "evt-11200000",
-      "title": "1岁裸体男童沙漠走失12小时被找到",
+      "id": "evt-deepseek",
+      "title": "DeepSeek被曝将采购16万颗华为芯片",
       "category": "society",
       "hotScore": 0.5525,
-      "freshness": 0.9999,
+      "freshness": 0.9998,
       "crossSource": 0.6309,
-      "totalScore": 0.7103,
+      "totalScore": 0.7102,
       "sources": [
         {
           "channel": "toutiao",
           "rank": 8,
-          "hot": 5346103,
-          "url": "https://www.toutiao.com/trending/7681897189991337498/"
+          "hot": 5426679,
+          "url": "https://www.toutiao.com/trending/7681981085961424425/"
         }
       ],
       "summary": "",
-      "url": "https://www.toutiao.com/trending/7681897189991337498/"
+      "url": "https://www.toutiao.com/trending/7681981085961424425/"
+    },
+    {
+      "id": "evt-30000000",
+      "title": "普京下令暂停打击基辅3天",
+      "category": "society",
+      "hotScore": 0.5525,
+      "freshness": 0.9999,
+      "crossSource": 0.6309,
+      "totalScore": 0.7102,
+      "sources": [
+        {
+          "channel": "thepaper",
+          "rank": 8,
+          "hot": 0,
+          "url": "https://www.thepaper.cn/newsDetail_forward_34016496"
+        }
+      ],
+      "summary": "",
+      "url": "https://www.thepaper.cn/newsDetail_forward_34016496"
     },
     {
       "id": "evt-20000000",
