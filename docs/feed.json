@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-09-05T11:28:12.277Z",
+  "generatedAt": "2026-09-05T14:12:14.364Z",
   "fields": {
     "society": "社会",
     "economy": "经济",
@@ -8,74 +8,67 @@
   "feed": [
     {
       "id": "evt-00000000",
-      "title": "深圳校服上“热搜”：家长称好多年前就这样，教育局解密20多年探索经验",
-      "category": "society",
-      "hotScore": 0.85,
-      "freshness": 1,
-      "crossSource": 1,
-      "totalScore": 0.94,
-      "sources": [
-        {
-          "channel": "thepaper",
-          "rank": 1,
-          "hot": 0,
-          "url": "https://www.thepaper.cn/newsDetail_forward_34011443"
-        }
-      ],
-      "summary": "",
-      "url": "https://www.thepaper.cn/newsDetail_forward_34011443"
-    },
-    {
-      "id": "evt-ca000000",
-      "title": "临床入组患者死亡，“神药”CAR-T祛魅：“临床试验”风险有多大？有无充分告知患者？",
+      "title": "泥石流获救中国公民：一度不敢相信",
       "category": "society",
       "hotScore": 0.8075,
-      "freshness": 1,
+      "freshness": 0.9999,
       "crossSource": 1,
       "totalScore": 0.923,
       "sources": [
         {
-          "channel": "thepaper",
+          "channel": "toutiao",
           "rank": 2,
+          "hot": 7952533,
+          "url": "https://www.toutiao.com/trending/7681681028965285897/"
+        },
+        {
+          "channel": "baidu",
+          "rank": 17,
           "hot": 0,
-          "url": "https://www.thepaper.cn/newsDetail_forward_34003035"
+          "url": "https://m.baidu.com/s?word=%E6%B3%A5%E7%9F%B3%E6%B5%81%E8%8E%B7%E6%95%91%E4%B8%AD%E5%9B%BD%E5%85%AC%E6%B0%91%EF%BC%9A%E4%B8%80%E5%BA%A6%E4%B8%8D%E6%95%A2%E7%9B%B8%E4%BF%A1&sa=fyb_news"
         }
       ],
       "summary": "",
-      "url": "https://www.thepaper.cn/newsDetail_forward_34003035"
+      "url": "https://www.toutiao.com/trending/7681681028965285897/"
     },
     {
-      "id": "evt-80000000",
-      "title": "8月中国物流需求保持扩张",
+      "id": "evt-23000000",
+      "title": "吉隆泥石流发生23分钟后航拍首次公开",
       "category": "society",
-      "hotScore": 0.765,
+      "hotScore": 0.76,
       "freshness": 0.9999,
       "crossSource": 1,
-      "totalScore": 0.906,
+      "totalScore": 0.904,
       "sources": [
         {
           "channel": "toutiao",
-          "rank": 3,
-          "hot": 5107909,
-          "url": "https://www.toutiao.com/trending/7681830037582364735/"
+          "rank": 8,
+          "hot": 4364442,
+          "url": "https://www.toutiao.com/trending/7681120394372300846/"
+        },
+        {
+          "channel": "baidu",
+          "rank": 2,
+          "hot": 0,
+          "url": "https://m.baidu.com/s?word=%E5%90%89%E9%9A%86%E6%B3%A5%E7%9F%B3%E6%B5%81%E5%8F%91%E7%94%9F23%E5%88%86%E9%92%9F%E5%90%8E%E8%88%AA%E6%8B%8D%E9%A6%96%E6%AC%A1%E5%85%AC%E5%BC%80&sa=fyb_news"
         }
       ],
       "summary": "",
-      "url": "https://www.toutiao.com/trending/7681830037582364735/"
+      "url": "https://www.toutiao.com/trending/7681120394372300846/"
     },
     {
       "id": "evt-10000000",
       "title": "超1万册永乐大典副本下落不明",
       "category": "society",
-      "hotScore": 0.7225,
+      "hotScore": 0.68,
       "freshness": 0.9999,
-      "crossSource": 1,
-      "totalScore": 0.889,
+      "crossSource": 0.6309,
+      "totalScore": 0.7612,
       "sources": [
         {
           "channel": "toutiao",
-          "rank": 4,
-          "hot": 4621827,
+          "rank": 5,
+          "hot": 5891381,
           "url": "https://www.toutiao.com/trending/7681856234014326826/"
         }
       ],
@@ -83,55 +76,36 @@
       "url": "https://www.toutiao.com/trending/7681856234014326826/"
     },
     {
-      "id": "evt-60000000",
-      "title": "特斯拉市值一夜蒸发超6000亿",
-      "category": "economy",
-      "hotScore": 0.85,
+      "id": "evt-13810000",
+      "title": "张家齐13岁赚了81万",
+      "category": "society",
+      "hotScore": 0.6375,
       "freshness": 0.9999,
-      "crossSource": 1,
-      "totalScore": 0.94,
+      "crossSource": 0.6309,
+      "totalScore": 0.7442,
       "sources": [
         {
           "channel": "toutiao",
-          "rank": 1,
-          "hot": 6238814,
-          "url": "https://www.toutiao.com/trending/7681750930408226870/"
+          "rank": 6,
+          "hot": 5330742,
+          "url": "https://www.toutiao.com/trending/7681900387439263798/"
         }
       ],
       "summary": "",
-      "url": "https://www.toutiao.com/trending/7681750930408226870/"
-    },
-    {
-      "id": "evt-11360000",
-      "title": "男子看视频1年赚136元还提现失败",
-      "category": "society",
-      "hotScore": 0.64,
-      "freshness": 1,
-      "crossSource": 1,
-      "totalScore": 0.856,
-      "sources": [
-        {
-          "channel": "baidu",
-          "rank": 5,
-          "hot": 0,
-          "url": "https://m.baidu.com/s?word=%E7%94%B7%E5%AD%90%E7%9C%8B%E8%A7%86%E9%A2%911%E5%B9%B4%E8%B5%9A136%E5%85%83%E8%BF%98%E6%8F%90%E7%8E%B0%E5%A4%B1%E8%B4%A5&sa=fyb_news"
-        }
-      ],
-      "summary": "",
-      "url": "https://m.baidu.com/s?word=%E7%94%B7%E5%AD%90%E7%9C%8B%E8%A7%86%E9%A2%911%E5%B9%B4%E8%B5%9A136%E5%85%83%E8%BF%98%E6%8F%90%E7%8E%B0%E5%A4%B1%E8%B4%A5&sa=fyb_news"
+      "url": "https://www.toutiao.com/trending/7681900387439263798/"
     },
     {
       "id": "evt-lpl20260",
       "title": "LPL2026 赛季季后赛 iG 鏖战五局淘汰 TES，如何评价这场比赛？",
       "category": "society",
-      "hotScore": 0.525,
+      "hotScore": 0.6,
       "freshness": 0.9999,
-      "crossSource": 1,
-      "totalScore": 0.81,
+      "crossSource": 0.6309,
+      "totalScore": 0.7292,
       "sources": [
         {
           "channel": "zhihu",
-          "rank": 7,
+          "rank": 5,
           "hot": 0,
           "url": ""
         }
@@ -140,42 +114,80 @@
       "url": ""
     },
     {
-      "id": "evt-92000000",
-      "title": "92岁正是拼的年纪",
+      "id": "evt-iphone18",
+      "title": "iPhone 18系列售价曝光",
       "category": "society",
-      "hotScore": 0.48,
-      "freshness": 1,
-      "crossSource": 1,
-      "totalScore": 0.792,
+      "hotScore": 0.595,
+      "freshness": 0.9999,
+      "crossSource": 0.6309,
+      "totalScore": 0.7272,
       "sources": [
         {
-          "channel": "baidu",
-          "rank": 9,
-          "hot": 0,
-          "url": "https://m.baidu.com/s?word=92%E5%B2%81%E6%AD%A3%E6%98%AF%E6%8B%BC%E7%9A%84%E5%B9%B4%E7%BA%AA&sa=fyb_news"
+          "channel": "toutiao",
+          "rank": 7,
+          "hot": 4823455,
+          "url": "https://www.toutiao.com/trending/7681968641067450930/"
         }
       ],
       "summary": "",
-      "url": "https://m.baidu.com/s?word=92%E5%B2%81%E6%AD%A3%E6%98%AF%E6%8B%BC%E7%9A%84%E5%B9%B4%E7%BA%AA&sa=fyb_news"
+      "url": "https://www.toutiao.com/trending/7681968641067450930/"
     },
     {
       "id": "evt-50000000",
       "title": "马上评｜给5岁小女孩标注“刁蛮”？患者人格不容贬损",
       "category": "society",
-      "hotScore": 0.4675,
-      "freshness": 1,
-      "crossSource": 1,
-      "totalScore": 0.787,
+      "hotScore": 0.51,
+      "freshness": 0.9999,
+      "crossSource": 0.6309,
+      "totalScore": 0.6933,
       "sources": [
         {
           "channel": "thepaper",
-          "rank": 10,
+          "rank": 9,
           "hot": 0,
           "url": "https://www.thepaper.cn/newsDetail_forward_34014113"
         }
       ],
       "summary": "",
       "url": "https://www.thepaper.cn/newsDetail_forward_34014113"
+    },
+    {
+      "id": "evt-30000000",
+      "title": "普京宣布停止打击基辅3天",
+      "category": "society",
+      "hotScore": 0.51,
+      "freshness": 0.9999,
+      "crossSource": 0.6309,
+      "totalScore": 0.6932,
+      "sources": [
+        {
+          "channel": "toutiao",
+          "rank": 9,
+          "hot": 3949111,
+          "url": "https://www.toutiao.com/trending/7682018301953707561/"
+        }
+      ],
+      "summary": "",
+      "url": "https://www.toutiao.com/trending/7682018301953707561/"
+    },
+    {
+      "id": "evt-80000000",
+      "title": "“8个鸡蛋”少年上大学前当了老师",
+      "category": "society",
+      "hotScore": 0.48,
+      "freshness": 1,
+      "crossSource": 0.6309,
+      "totalScore": 0.6813,
+      "sources": [
+        {
+          "channel": "baidu",
+          "rank": 9,
+          "hot": 0,
+          "url": "https://m.baidu.com/s?word=%E2%80%9C8%E4%B8%AA%E9%B8%A1%E8%9B%8B%E2%80%9D%E5%B0%91%E5%B9%B4%E4%B8%8A%E5%A4%A7%E5%AD%A6%E5%89%8D%E5%BD%93%E4%BA%86%E8%80%81%E5%B8%88&sa=fyb_news"
+        }
+      ],
+      "summary": "",
+      "url": "https://m.baidu.com/s?word=%E2%80%9C8%E4%B8%AA%E9%B8%A1%E8%9B%8B%E2%80%9D%E5%B0%91%E5%B9%B4%E4%B8%8A%E5%A4%A7%E5%AD%A6%E5%89%8D%E5%BD%93%E4%BA%86%E8%80%81%E5%B8%88&sa=fyb_news"
     }
   ]
 }
