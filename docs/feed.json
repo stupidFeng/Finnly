@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-09-04T23:32:57.212Z",
+  "generatedAt": "2026-09-05T01:57:14.813Z",
   "fields": {
     "society": "社会",
     "economy": "经济",
@@ -8,7 +8,7 @@
   "feed": [
     {
       "id": "evt-00000000",
-      "title": "如是书院学员辟谷一天只喝水吃5个枣",
+      "title": "男子试药死亡药企董事怒怼记者滚开",
       "category": "society",
       "hotScore": 0.85,
       "freshness": 1,
@@ -18,82 +18,82 @@
         {
           "channel": "toutiao",
           "rank": 1,
-          "hot": 15973548,
-          "url": "https://www.toutiao.com/trending/7681815465399897651/"
+          "hot": 17249840,
+          "url": "https://www.toutiao.com/trending/7681464092917485062/"
         }
       ],
       "summary": "",
-      "url": "https://www.toutiao.com/trending/7681815465399897651/"
+      "url": "https://www.toutiao.com/trending/7681464092917485062/"
     },
     {
-      "id": "evt-52000000",
-      "title": "新加坡谈52人在广西涉案被扣",
+      "id": "evt-80000000",
+      "title": "8月大宗商品市场运行向好",
       "category": "society",
-      "hotScore": 0.8075,
+      "hotScore": 0.765,
       "freshness": 1,
       "crossSource": 0.6309,
-      "totalScore": 0.8123,
+      "totalScore": 0.7953,
       "sources": [
         {
           "channel": "toutiao",
-          "rank": 2,
-          "hot": 14453464,
-          "url": "https://www.toutiao.com/trending/7681815752973798921/"
+          "rank": 3,
+          "hot": 14122974,
+          "url": "https://www.toutiao.com/trending/7681141012961594934/"
         }
       ],
       "summary": "",
-      "url": "https://www.toutiao.com/trending/7681815752973798921/"
+      "url": "https://www.toutiao.com/trending/7681141012961594934/"
     },
     {
-      "id": "evt-10000000",
-      "title": "“张雪机车”再夺第1名",
+      "id": "evt-13420000",
+      "title": "尼泊尔泥石流已致1342人遇难",
       "category": "society",
-      "hotScore": 0.76,
+      "hotScore": 0.7225,
       "freshness": 1,
       "crossSource": 0.6309,
-      "totalScore": 0.7933,
+      "totalScore": 0.7783,
       "sources": [
         {
-          "channel": "baidu",
-          "rank": 2,
+          "channel": "toutiao",
+          "rank": 4,
+          "hot": 12778995,
+          "url": "https://www.toutiao.com/trending/7681853089523109422/"
+        }
+      ],
+      "summary": "",
+      "url": "https://www.toutiao.com/trending/7681853089523109422/"
+    },
+    {
+      "id": "evt-ca000000",
+      "title": "临床入组患者死亡，“神药”CAR-T祛魅：“临床试验”风险有多大？有无充分告知患者？",
+      "category": "society",
+      "hotScore": 0.7225,
+      "freshness": 1,
+      "crossSource": 0.6309,
+      "totalScore": 0.7783,
+      "sources": [
+        {
+          "channel": "thepaper",
+          "rank": 4,
           "hot": 0,
-          "url": "https://m.baidu.com/s?word=%E2%80%9C%E5%BC%A0%E9%9B%AA%E6%9C%BA%E8%BD%A6%E2%80%9D%E5%86%8D%E5%A4%BA%E7%AC%AC1%E5%90%8D&sa=fyb_news"
+          "url": "https://www.thepaper.cn/newsDetail_forward_34003035"
         }
       ],
       "summary": "",
-      "url": "https://m.baidu.com/s?word=%E2%80%9C%E5%BC%A0%E9%9B%AA%E6%9C%BA%E8%BD%A6%E2%80%9D%E5%86%8D%E5%A4%BA%E7%AC%AC1%E5%90%8D&sa=fyb_news"
-    },
-    {
-      "id": "evt-15000000",
-      "title": "赵心童1-5不敌特鲁姆普无缘半决赛",
-      "category": "society",
-      "hotScore": 0.68,
-      "freshness": 1,
-      "crossSource": 0.6309,
-      "totalScore": 0.7613,
-      "sources": [
-        {
-          "channel": "toutiao",
-          "rank": 5,
-          "hot": 10707389,
-          "url": "https://www.toutiao.com/trending/7681817645825412614/"
-        }
-      ],
-      "summary": "",
-      "url": "https://www.toutiao.com/trending/7681817645825412614/"
+      "url": "https://www.thepaper.cn/newsDetail_forward_34003035"
     },
     {
       "id": "evt-12300000",
       "title": "某男团开演唱会徐州12345被打爆，律师：不能把公共资源变成粉圈内斗的筹码",
       "category": "entertainment",
-      "hotScore": 0.595,
+      "hotScore": 0.5525,
       "freshness": 1,
       "crossSource": 0.6309,
-      "totalScore": 0.7273,
+      "totalScore": 0.7103,
       "sources": [
         {
           "channel": "thepaper",
-          "rank": 7,
+          "rank": 8,
           "hot": 0,
           "url": "https://www.thepaper.cn/newsDetail_forward_34006243"
         }
@@ -102,46 +102,27 @@
       "url": "https://www.thepaper.cn/newsDetail_forward_34006243"
     },
     {
-      "id": "evt-98256000",
-      "title": "98岁老人25年捐款近6000万元",
+      "id": "evt-10000000",
+      "title": "女子吃甜虾后肚子痛 10 多天，肠道发现寄生虫，人们常说海水里的生鲜没有寄生虫靠谱吗？怎样吃才安全？",
       "category": "society",
-      "hotScore": 0.64,
+      "hotScore": 0.675,
       "freshness": 1,
       "crossSource": 0.6309,
-      "totalScore": 0.7453,
+      "totalScore": 0.7593,
       "sources": [
         {
-          "channel": "baidu",
-          "rank": 5,
+          "channel": "zhihu",
+          "rank": 3,
           "hot": 0,
-          "url": "https://m.baidu.com/s?word=98%E5%B2%81%E8%80%81%E4%BA%BA25%E5%B9%B4%E6%8D%90%E6%AC%BE%E8%BF%916000%E4%B8%87%E5%85%83&sa=fyb_news"
+          "url": ""
         }
       ],
       "summary": "",
-      "url": "https://m.baidu.com/s?word=98%E5%B2%81%E8%80%81%E4%BA%BA25%E5%B9%B4%E6%8D%90%E6%AC%BE%E8%BF%916000%E4%B8%87%E5%85%83&sa=fyb_news"
+      "url": ""
     },
     {
-      "id": "evt-spacex00",
-      "title": "对标SpaceX 西安这家公司出手了",
-      "category": "society",
-      "hotScore": 0.6,
-      "freshness": 1,
-      "crossSource": 0.6309,
-      "totalScore": 0.7293,
-      "sources": [
-        {
-          "channel": "baidu",
-          "rank": 6,
-          "hot": 0,
-          "url": "https://m.baidu.com/s?word=%E5%AF%B9%E6%A0%87SpaceX+%E8%A5%BF%E5%AE%89%E8%BF%99%E5%AE%B6%E5%85%AC%E5%8F%B8%E5%87%BA%E6%89%8B%E4%BA%86&sa=fyb_news"
-        }
-      ],
-      "summary": "",
-      "url": "https://m.baidu.com/s?word=%E5%AF%B9%E6%A0%87SpaceX+%E8%A5%BF%E5%AE%89%E8%BF%99%E5%AE%B6%E5%85%AC%E5%8F%B8%E5%87%BA%E6%89%8B%E4%BA%86&sa=fyb_news"
-    },
-    {
-      "id": "evt-10200000",
-      "title": "大学养的 10 只鸡和 2 只鹅被校内工人偷走，施工方赔 7000 元，如何看待处罚结果？应承担哪些责任？",
+      "id": "evt-26270000",
+      "title": "2627 赛季西甲联赛西甲第 4 轮皇家贝蒂斯 1:0 皇家马德里，如何评价这场比赛？",
       "category": "society",
       "hotScore": 0.6,
       "freshness": 1,
@@ -159,61 +140,23 @@
       "url": ""
     },
     {
-      "id": "evt-32000000",
-      "title": "吴易昺止步美网32强",
-      "category": "society",
-      "hotScore": 0.52,
-      "freshness": 1,
-      "crossSource": 0.6309,
-      "totalScore": 0.6973,
-      "sources": [
-        {
-          "channel": "baidu",
-          "rank": 8,
-          "hot": 0,
-          "url": "https://m.baidu.com/s?word=%E5%90%B4%E6%98%93%E6%98%BA%E6%AD%A2%E6%AD%A5%E7%BE%8E%E7%BD%9132%E5%BC%BA&sa=fyb_news"
-        }
-      ],
-      "summary": "",
-      "url": "https://m.baidu.com/s?word=%E5%90%B4%E6%98%93%E6%98%BA%E6%AD%A2%E6%AD%A5%E7%BE%8E%E7%BD%9132%E5%BC%BA&sa=fyb_news"
-    },
-    {
       "id": "evt-40000000",
       "title": "福建老城墙秒变防洪堤隔40公分洪水",
       "category": "society",
-      "hotScore": 0.4675,
+      "hotScore": 0.51,
       "freshness": 1,
       "crossSource": 0.6309,
-      "totalScore": 0.6763,
+      "totalScore": 0.6933,
       "sources": [
         {
           "channel": "toutiao",
-          "rank": 10,
-          "hot": 6494360,
+          "rank": 9,
+          "hot": 7750852,
           "url": "https://www.toutiao.com/trending/7681815465399864883/"
         }
       ],
       "summary": "",
       "url": "https://www.toutiao.com/trending/7681815465399864883/"
-    },
-    {
-      "id": "evt-24000000",
-      "title": "抗癌博主小詹去世 年仅24岁",
-      "category": "society",
-      "hotScore": 0.44,
-      "freshness": 1,
-      "crossSource": 0.6309,
-      "totalScore": 0.6653,
-      "sources": [
-        {
-          "channel": "baidu",
-          "rank": 10,
-          "hot": 0,
-          "url": "https://m.baidu.com/s?word=%E6%8A%97%E7%99%8C%E5%8D%9A%E4%B8%BB%E5%B0%8F%E8%A9%B9%E5%8E%BB%E4%B8%96+%E5%B9%B4%E4%BB%8524%E5%B2%81&sa=fyb_news"
-        }
-      ],
-      "summary": "",
-      "url": "https://m.baidu.com/s?word=%E6%8A%97%E7%99%8C%E5%8D%9A%E4%B8%BB%E5%B0%8F%E8%A9%B9%E5%8E%BB%E4%B8%96+%E5%B9%B4%E4%BB%8524%E5%B2%81&sa=fyb_news"
     }
   ]
 }
