@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-09-05T14:12:14.364Z",
+  "generatedAt": "2026-09-05T17:47:37.039Z",
   "fields": {
     "society": "社会",
     "economy": "经济",
@@ -8,67 +8,36 @@
   "feed": [
     {
       "id": "evt-00000000",
-      "title": "泥石流获救中国公民：一度不敢相信",
+      "title": "葫芦娃爷爷爆火“蛇精”来打卡",
       "category": "society",
-      "hotScore": 0.8075,
+      "hotScore": 0.85,
       "freshness": 0.9999,
-      "crossSource": 1,
-      "totalScore": 0.923,
+      "crossSource": 0.6309,
+      "totalScore": 0.8293,
       "sources": [
         {
           "channel": "toutiao",
-          "rank": 2,
-          "hot": 7952533,
-          "url": "https://www.toutiao.com/trending/7681681028965285897/"
-        },
-        {
-          "channel": "baidu",
-          "rank": 17,
-          "hot": 0,
-          "url": "https://m.baidu.com/s?word=%E6%B3%A5%E7%9F%B3%E6%B5%81%E8%8E%B7%E6%95%91%E4%B8%AD%E5%9B%BD%E5%85%AC%E6%B0%91%EF%BC%9A%E4%B8%80%E5%BA%A6%E4%B8%8D%E6%95%A2%E7%9B%B8%E4%BF%A1&sa=fyb_news"
+          "rank": 1,
+          "hot": 10765730,
+          "url": "https://www.toutiao.com/trending/7681201594172244031/"
         }
       ],
       "summary": "",
-      "url": "https://www.toutiao.com/trending/7681681028965285897/"
-    },
-    {
-      "id": "evt-23000000",
-      "title": "吉隆泥石流发生23分钟后航拍首次公开",
-      "category": "society",
-      "hotScore": 0.76,
-      "freshness": 0.9999,
-      "crossSource": 1,
-      "totalScore": 0.904,
-      "sources": [
-        {
-          "channel": "toutiao",
-          "rank": 8,
-          "hot": 4364442,
-          "url": "https://www.toutiao.com/trending/7681120394372300846/"
-        },
-        {
-          "channel": "baidu",
-          "rank": 2,
-          "hot": 0,
-          "url": "https://m.baidu.com/s?word=%E5%90%89%E9%9A%86%E6%B3%A5%E7%9F%B3%E6%B5%81%E5%8F%91%E7%94%9F23%E5%88%86%E9%92%9F%E5%90%8E%E8%88%AA%E6%8B%8D%E9%A6%96%E6%AC%A1%E5%85%AC%E5%BC%80&sa=fyb_news"
-        }
-      ],
-      "summary": "",
-      "url": "https://www.toutiao.com/trending/7681120394372300846/"
+      "url": "https://www.toutiao.com/trending/7681201594172244031/"
     },
     {
       "id": "evt-10000000",
       "title": "超1万册永乐大典副本下落不明",
       "category": "society",
-      "hotScore": 0.68,
+      "hotScore": 0.7225,
       "freshness": 0.9999,
       "crossSource": 0.6309,
-      "totalScore": 0.7612,
+      "totalScore": 0.7783,
       "sources": [
         {
           "channel": "toutiao",
-          "rank": 5,
-          "hot": 5891381,
+          "rank": 4,
+          "hot": 7975449,
           "url": "https://www.toutiao.com/trending/7681856234014326826/"
         }
       ],
@@ -76,23 +45,80 @@
       "url": "https://www.toutiao.com/trending/7681856234014326826/"
     },
     {
-      "id": "evt-13810000",
-      "title": "张家齐13岁赚了81万",
+      "id": "evt-30000000",
+      "title": "德甲第四轮，樊振东第一盘 3-0 胜鲁伊斯，第四盘 3-0 胜杜达锁定胜局，如何评价本场比赛？",
+      "category": "society",
+      "hotScore": 0.675,
+      "freshness": 0.9999,
+      "crossSource": 0.6309,
+      "totalScore": 0.7593,
+      "sources": [
+        {
+          "channel": "zhihu",
+          "rank": 3,
+          "hot": 0,
+          "url": ""
+        }
+      ],
+      "summary": "",
+      "url": ""
+    },
+    {
+      "id": "evt-15200000",
+      "title": "花15元买了2斤蛤蜊吃出3颗珍珠",
+      "category": "society",
+      "hotScore": 0.64,
+      "freshness": 1,
+      "crossSource": 0.6309,
+      "totalScore": 0.7453,
+      "sources": [
+        {
+          "channel": "baidu",
+          "rank": 5,
+          "hot": 0,
+          "url": "https://m.baidu.com/s?word=%E8%8A%B115%E5%85%83%E4%B9%B0%E4%BA%862%E6%96%A4%E8%9B%A4%E8%9C%8A%E5%90%83%E5%87%BA3%E9%A2%97%E7%8F%8D%E7%8F%A0&sa=fyb_news"
+        }
+      ],
+      "summary": "",
+      "url": "https://m.baidu.com/s?word=%E8%8A%B115%E5%85%83%E4%B9%B0%E4%BA%862%E6%96%A4%E8%9B%A4%E8%9C%8A%E5%90%83%E5%87%BA3%E9%A2%97%E7%8F%8D%E7%8F%A0&sa=fyb_news"
+    },
+    {
+      "id": "evt-60000000",
+      "title": "特斯拉市值一夜蒸发超6000亿",
+      "category": "economy",
+      "hotScore": 0.68,
+      "freshness": 0.9999,
+      "crossSource": 0.6309,
+      "totalScore": 0.7613,
+      "sources": [
+        {
+          "channel": "toutiao",
+          "rank": 5,
+          "hot": 7216485,
+          "url": "https://www.toutiao.com/trending/7681750930408226870/"
+        }
+      ],
+      "summary": "",
+      "url": "https://www.toutiao.com/trending/7681750930408226870/"
+    },
+    {
+      "id": "evt-iphone18",
+      "title": "iPhone 18系列售价曝光",
       "category": "society",
       "hotScore": 0.6375,
       "freshness": 0.9999,
       "crossSource": 0.6309,
-      "totalScore": 0.7442,
+      "totalScore": 0.7443,
       "sources": [
         {
           "channel": "toutiao",
           "rank": 6,
-          "hot": 5330742,
-          "url": "https://www.toutiao.com/trending/7681900387439263798/"
+          "hot": 6529745,
+          "url": "https://www.toutiao.com/trending/7681968641067450930/"
         }
       ],
       "summary": "",
-      "url": "https://www.toutiao.com/trending/7681900387439263798/"
+      "url": "https://www.toutiao.com/trending/7681968641067450930/"
     },
     {
       "id": "evt-lpl20260",
@@ -101,7 +127,7 @@
       "hotScore": 0.6,
       "freshness": 0.9999,
       "crossSource": 0.6309,
-      "totalScore": 0.7292,
+      "totalScore": 0.7293,
       "sources": [
         {
           "channel": "zhihu",
@@ -114,36 +140,17 @@
       "url": ""
     },
     {
-      "id": "evt-iphone18",
-      "title": "iPhone 18系列售价曝光",
-      "category": "society",
-      "hotScore": 0.595,
-      "freshness": 0.9999,
-      "crossSource": 0.6309,
-      "totalScore": 0.7272,
-      "sources": [
-        {
-          "channel": "toutiao",
-          "rank": 7,
-          "hot": 4823455,
-          "url": "https://www.toutiao.com/trending/7681968641067450930/"
-        }
-      ],
-      "summary": "",
-      "url": "https://www.toutiao.com/trending/7681968641067450930/"
-    },
-    {
       "id": "evt-50000000",
       "title": "马上评｜给5岁小女孩标注“刁蛮”？患者人格不容贬损",
       "category": "society",
-      "hotScore": 0.51,
-      "freshness": 0.9999,
+      "hotScore": 0.595,
+      "freshness": 1,
       "crossSource": 0.6309,
-      "totalScore": 0.6933,
+      "totalScore": 0.7273,
       "sources": [
         {
           "channel": "thepaper",
-          "rank": 9,
+          "rank": 7,
           "hot": 0,
           "url": "https://www.thepaper.cn/newsDetail_forward_34014113"
         }
@@ -152,27 +159,52 @@
       "url": "https://www.thepaper.cn/newsDetail_forward_34014113"
     },
     {
-      "id": "evt-30000000",
-      "title": "普京宣布停止打击基辅3天",
+      "id": "evt-23000000",
+      "title": "吉隆泥石流发生23分钟后航拍首次公开",
       "category": "society",
-      "hotScore": 0.51,
+      "hotScore": 0.28,
       "freshness": 0.9999,
-      "crossSource": 0.6309,
-      "totalScore": 0.6932,
+      "crossSource": 1,
+      "totalScore": 0.712,
       "sources": [
         {
           "channel": "toutiao",
-          "rank": 9,
-          "hot": 3949111,
-          "url": "https://www.toutiao.com/trending/7682018301953707561/"
+          "rank": 17,
+          "hot": 2173563,
+          "url": "https://www.toutiao.com/trending/7681120394372300846/"
+        },
+        {
+          "channel": "baidu",
+          "rank": 14,
+          "hot": 0,
+          "url": "https://m.baidu.com/s?word=%E5%90%89%E9%9A%86%E6%B3%A5%E7%9F%B3%E6%B5%81%E5%8F%91%E7%94%9F23%E5%88%86%E9%92%9F%E5%90%8E%E8%88%AA%E6%8B%8D%E9%A6%96%E6%AC%A1%E5%85%AC%E5%BC%80&sa=fyb_news"
         }
       ],
       "summary": "",
-      "url": "https://www.toutiao.com/trending/7682018301953707561/"
+      "url": "https://www.toutiao.com/trending/7681120394372300846/"
     },
     {
-      "id": "evt-80000000",
-      "title": "“8个鸡蛋”少年上大学前当了老师",
+      "id": "evt-11200000",
+      "title": "1岁裸体男童沙漠走失12小时被找到",
+      "category": "society",
+      "hotScore": 0.5525,
+      "freshness": 0.9999,
+      "crossSource": 0.6309,
+      "totalScore": 0.7103,
+      "sources": [
+        {
+          "channel": "toutiao",
+          "rank": 8,
+          "hot": 5346103,
+          "url": "https://www.toutiao.com/trending/7681897189991337498/"
+        }
+      ],
+      "summary": "",
+      "url": "https://www.toutiao.com/trending/7681897189991337498/"
+    },
+    {
+      "id": "evt-20000000",
+      "title": "保洁上门打扫每次偷2万到3万现金",
       "category": "society",
       "hotScore": 0.48,
       "freshness": 1,
@@ -183,11 +215,11 @@
           "channel": "baidu",
           "rank": 9,
           "hot": 0,
-          "url": "https://m.baidu.com/s?word=%E2%80%9C8%E4%B8%AA%E9%B8%A1%E8%9B%8B%E2%80%9D%E5%B0%91%E5%B9%B4%E4%B8%8A%E5%A4%A7%E5%AD%A6%E5%89%8D%E5%BD%93%E4%BA%86%E8%80%81%E5%B8%88&sa=fyb_news"
+          "url": "https://m.baidu.com/s?word=%E4%BF%9D%E6%B4%81%E4%B8%8A%E9%97%A8%E6%89%93%E6%89%AB%E6%AF%8F%E6%AC%A1%E5%81%B72%E4%B8%87%E5%88%B03%E4%B8%87%E7%8E%B0%E9%87%91&sa=fyb_news"
         }
       ],
       "summary": "",
-      "url": "https://m.baidu.com/s?word=%E2%80%9C8%E4%B8%AA%E9%B8%A1%E8%9B%8B%E2%80%9D%E5%B0%91%E5%B9%B4%E4%B8%8A%E5%A4%A7%E5%AD%A6%E5%89%8D%E5%BD%93%E4%BA%86%E8%80%81%E5%B8%88&sa=fyb_news"
+      "url": "https://m.baidu.com/s?word=%E4%BF%9D%E6%B4%81%E4%B8%8A%E9%97%A8%E6%89%93%E6%89%AB%E6%AF%8F%E6%AC%A1%E5%81%B72%E4%B8%87%E5%88%B03%E4%B8%87%E7%8E%B0%E9%87%91&sa=fyb_news"
     }
   ]
 }
