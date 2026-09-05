@@ -447,6 +447,7 @@ private fun ProviderKeyEditor(
 
         var baseUrl by remember(provider) { mutableStateOf(current?.base_url ?: "") }
         var model by remember(provider) { mutableStateOf(current?.model ?: "") }
+        var voice by remember(provider) { mutableStateOf(current?.voice ?: "") }
         var apiKey by remember(provider) { mutableStateOf("") }
 
         OutlinedTextField(
@@ -459,6 +460,13 @@ private fun ProviderKeyEditor(
             label = { Text("模型 ID") },
             modifier = Modifier.fillMaxWidth(), singleLine = true,
         )
+        if (provider == "tts") {
+            OutlinedTextField(
+                value = voice, onValueChange = { voice = it },
+                label = { Text("音色（克隆音色 URI，如 speech:xxx）") },
+                modifier = Modifier.fillMaxWidth(), singleLine = true,
+            )
+        }
         OutlinedTextField(
             value = apiKey, onValueChange = { apiKey = it },
             label = { Text(if (current == null) "API Key" else "新 API Key（留空不换）") },
@@ -472,6 +480,7 @@ private fun ProviderKeyEditor(
                         provider = provider,
                         base_url = baseUrl.trim(),
                         model = model.trim(),
+                        voice = voice.trim(),
                         // 只在填了新 Key 时上送；留空 = 服务器保留旧 Key
                         api_key_masked = apiKey.trim(),
                     )

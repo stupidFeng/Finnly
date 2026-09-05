@@ -58,6 +58,7 @@ class ProviderKeyRequest(BaseModel):
     base_url: str = ""
     model: str = ""
     api_key: str = ""
+    voice: str = ""  # TTS 音色：克隆音色 URI 或预设音色名
 
 
 class ProviderKeyMasked(BaseModel):
@@ -65,6 +66,7 @@ class ProviderKeyMasked(BaseModel):
     base_url: str
     model: str
     api_key_masked: str
+    voice: str = ""
     updated_at: datetime
 
 

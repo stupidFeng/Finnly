@@ -82,6 +82,7 @@ async def put_key(
             session.add(existing)
         existing.base_url = req.base_url
         existing.model = req.model
+        existing.voice = req.voice
         # api_key 留空表示"只改地址/模型，不换 Key"——App 端从不回传真实 Key
         if req.api_key:
             existing.api_key = req.api_key
@@ -100,6 +101,7 @@ async def list_keys(member: Member = Depends(require_father)):
                 base_url=r.base_url,
                 model=r.model,
                 api_key_masked=mask(r.api_key),
+                voice=r.voice,
                 updated_at=r.updated_at,
             )
             for r in rows

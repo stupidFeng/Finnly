@@ -65,6 +65,7 @@ class ProviderKey(Base):
     base_url: Mapped[str] = mapped_column(String(256), default="")
     model: Mapped[str] = mapped_column(String(64), default="")
     api_key: Mapped[str] = mapped_column(String(256))
+    voice: Mapped[str] = mapped_column(String(128), default="")  # TTS 音色（克隆音色 URI / 预设音色名）
     updated_at: Mapped[datetime] = mapped_column(server_default=func.now(), onupdate=utcnow)
 
 

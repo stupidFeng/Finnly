@@ -41,6 +41,7 @@ data class BffKeyMasked(
     val base_url: String = "",
     val model: String = "",
     val api_key_masked: String = "",
+    val voice: String = "",   // TTS 音色：克隆音色 URI / 预设音色名
 )
 
 @Serializable
@@ -151,6 +152,7 @@ class BffClient(private var baseUrl: String) {
             put("base_url", key.base_url)
             put("model", key.model)
             put("api_key", key.api_key_masked) // 复用字段名传真实 Key
+            put("voice", key.voice)
         },
     ).let { }
 
