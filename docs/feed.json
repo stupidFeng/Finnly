@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-09-05T06:37:06.360Z",
+  "generatedAt": "2026-09-05T11:28:12.277Z",
   "fields": {
     "society": "社会",
     "economy": "经济",
@@ -7,63 +7,13 @@
   },
   "feed": [
     {
-      "id": "evt-11200000",
-      "title": "1岁裸体男童沙漠走失12小时被找到",
-      "category": "society",
-      "hotScore": 0.8075,
-      "freshness": 0.9999,
-      "crossSource": 1,
-      "totalScore": 0.923,
-      "sources": [
-        {
-          "channel": "toutiao",
-          "rank": 2,
-          "hot": 19246164,
-          "url": "https://www.toutiao.com/trending/7681897189991337498/"
-        },
-        {
-          "channel": "baidu",
-          "rank": 15,
-          "hot": 0,
-          "url": "https://m.baidu.com/s?word=1%E5%B2%81%E8%A3%B8%E4%BD%93%E7%94%B7%E7%AB%A5%E6%B2%99%E6%BC%A0%E8%B5%B0%E5%A4%B112%E5%B0%8F%E6%97%B6%E8%A2%AB%E6%89%BE%E5%88%B0&sa=fyb_news"
-        }
-      ],
-      "summary": "",
-      "url": "https://www.toutiao.com/trending/7681897189991337498/"
-    },
-    {
-      "id": "evt-11000000",
-      "title": "工人因赊1碗面后连续吃121天",
-      "category": "society",
-      "hotScore": 0.68,
-      "freshness": 0.9999,
-      "crossSource": 1,
-      "totalScore": 0.872,
-      "sources": [
-        {
-          "channel": "toutiao",
-          "rank": 5,
-          "hot": 14257909,
-          "url": "https://www.toutiao.com/trending/7681281957405802547/"
-        },
-        {
-          "channel": "baidu",
-          "rank": 10,
-          "hot": 0,
-          "url": "https://m.baidu.com/s?word=%E5%B7%A5%E4%BA%BA%E5%9B%A0%E8%B5%8A1%E7%A2%97%E9%9D%A2%E5%90%8E%E8%BF%9E%E7%BB%AD%E5%90%83121%E5%A4%A9&sa=fyb_news"
-        }
-      ],
-      "summary": "",
-      "url": "https://www.toutiao.com/trending/7681281957405802547/"
-    },
-    {
       "id": "evt-00000000",
       "title": "深圳校服上“热搜”：家长称好多年前就这样，教育局解密20多年探索经验",
       "category": "society",
       "hotScore": 0.85,
-      "freshness": 0.9999,
-      "crossSource": 0.6309,
-      "totalScore": 0.8293,
+      "freshness": 1,
+      "crossSource": 1,
+      "totalScore": 0.94,
       "sources": [
         {
           "channel": "thepaper",
@@ -76,32 +26,13 @@
       "url": "https://www.thepaper.cn/newsDetail_forward_34011443"
     },
     {
-      "id": "evt-10000000",
-      "title": "超1万册永乐大典副本下落不明",
-      "category": "society",
-      "hotScore": 0.85,
-      "freshness": 0.9999,
-      "crossSource": 0.6309,
-      "totalScore": 0.8292,
-      "sources": [
-        {
-          "channel": "toutiao",
-          "rank": 1,
-          "hot": 21270301,
-          "url": "https://www.toutiao.com/trending/7681856234014326826/"
-        }
-      ],
-      "summary": "",
-      "url": "https://www.toutiao.com/trending/7681856234014326826/"
-    },
-    {
       "id": "evt-ca000000",
       "title": "临床入组患者死亡，“神药”CAR-T祛魅：“临床试验”风险有多大？有无充分告知患者？",
       "category": "society",
       "hotScore": 0.8075,
-      "freshness": 0.9999,
-      "crossSource": 0.6309,
-      "totalScore": 0.8123,
+      "freshness": 1,
+      "crossSource": 1,
+      "totalScore": 0.923,
       "sources": [
         {
           "channel": "thepaper",
@@ -115,54 +46,92 @@
     },
     {
       "id": "evt-80000000",
-      "title": "8月大宗商品市场运行向好",
+      "title": "8月中国物流需求保持扩张",
       "category": "society",
       "hotScore": 0.765,
       "freshness": 0.9999,
-      "crossSource": 0.6309,
-      "totalScore": 0.7952,
+      "crossSource": 1,
+      "totalScore": 0.906,
       "sources": [
         {
           "channel": "toutiao",
           "rank": 3,
-          "hot": 17414649,
-          "url": "https://www.toutiao.com/trending/7681141012961594934/"
+          "hot": 5107909,
+          "url": "https://www.toutiao.com/trending/7681830037582364735/"
         }
       ],
       "summary": "",
-      "url": "https://www.toutiao.com/trending/7681141012961594934/"
+      "url": "https://www.toutiao.com/trending/7681830037582364735/"
     },
     {
-      "id": "evt-34900000",
-      "title": "小学回应家长自费买349元一套桌椅",
+      "id": "evt-10000000",
+      "title": "超1万册永乐大典副本下落不明",
       "category": "society",
-      "hotScore": 0.76,
+      "hotScore": 0.7225,
+      "freshness": 0.9999,
+      "crossSource": 1,
+      "totalScore": 0.889,
+      "sources": [
+        {
+          "channel": "toutiao",
+          "rank": 4,
+          "hot": 4621827,
+          "url": "https://www.toutiao.com/trending/7681856234014326826/"
+        }
+      ],
+      "summary": "",
+      "url": "https://www.toutiao.com/trending/7681856234014326826/"
+    },
+    {
+      "id": "evt-60000000",
+      "title": "特斯拉市值一夜蒸发超6000亿",
+      "category": "economy",
+      "hotScore": 0.85,
+      "freshness": 0.9999,
+      "crossSource": 1,
+      "totalScore": 0.94,
+      "sources": [
+        {
+          "channel": "toutiao",
+          "rank": 1,
+          "hot": 6238814,
+          "url": "https://www.toutiao.com/trending/7681750930408226870/"
+        }
+      ],
+      "summary": "",
+      "url": "https://www.toutiao.com/trending/7681750930408226870/"
+    },
+    {
+      "id": "evt-11360000",
+      "title": "男子看视频1年赚136元还提现失败",
+      "category": "society",
+      "hotScore": 0.64,
       "freshness": 1,
-      "crossSource": 0.6309,
-      "totalScore": 0.7933,
+      "crossSource": 1,
+      "totalScore": 0.856,
       "sources": [
         {
           "channel": "baidu",
-          "rank": 2,
+          "rank": 5,
           "hot": 0,
-          "url": "https://m.baidu.com/s?word=%E5%B0%8F%E5%AD%A6%E5%9B%9E%E5%BA%94%E5%AE%B6%E9%95%BF%E8%87%AA%E8%B4%B9%E4%B9%B0349%E5%85%83%E4%B8%80%E5%A5%97%E6%A1%8C%E6%A4%85&sa=fyb_news"
+          "url": "https://m.baidu.com/s?word=%E7%94%B7%E5%AD%90%E7%9C%8B%E8%A7%86%E9%A2%911%E5%B9%B4%E8%B5%9A136%E5%85%83%E8%BF%98%E6%8F%90%E7%8E%B0%E5%A4%B1%E8%B4%A5&sa=fyb_news"
         }
       ],
       "summary": "",
-      "url": "https://m.baidu.com/s?word=%E5%B0%8F%E5%AD%A6%E5%9B%9E%E5%BA%94%E5%AE%B6%E9%95%BF%E8%87%AA%E8%B4%B9%E4%B9%B0349%E5%85%83%E4%B8%80%E5%A5%97%E6%A1%8C%E6%A4%85&sa=fyb_news"
+      "url": "https://m.baidu.com/s?word=%E7%94%B7%E5%AD%90%E7%9C%8B%E8%A7%86%E9%A2%911%E5%B9%B4%E8%B5%9A136%E5%85%83%E8%BF%98%E6%8F%90%E7%8E%B0%E5%A4%B1%E8%B4%A5&sa=fyb_news"
     },
     {
-      "id": "evt-xxxx0000",
-      "title": "有什么 XX 把 XX 带到了不属于它高度的鲜活例子？",
+      "id": "evt-lpl20260",
+      "title": "LPL2026 赛季季后赛 iG 鏖战五局淘汰 TES，如何评价这场比赛？",
       "category": "society",
-      "hotScore": 0.6375,
+      "hotScore": 0.525,
       "freshness": 0.9999,
-      "crossSource": 0.6309,
-      "totalScore": 0.7443,
+      "crossSource": 1,
+      "totalScore": 0.81,
       "sources": [
         {
           "channel": "zhihu",
-          "rank": 4,
+          "rank": 7,
           "hot": 0,
           "url": ""
         }
@@ -171,23 +140,42 @@
       "url": ""
     },
     {
-      "id": "evt-91200000",
-      "title": "校长回应“9个老师守着12个娃”",
+      "id": "evt-92000000",
+      "title": "92岁正是拼的年纪",
       "category": "society",
-      "hotScore": 0.51,
-      "freshness": 0.9999,
-      "crossSource": 0.6309,
-      "totalScore": 0.6932,
+      "hotScore": 0.48,
+      "freshness": 1,
+      "crossSource": 1,
+      "totalScore": 0.792,
       "sources": [
         {
-          "channel": "toutiao",
+          "channel": "baidu",
           "rank": 9,
-          "hot": 9557362,
-          "url": "https://www.toutiao.com/trending/7681120415211405348/"
+          "hot": 0,
+          "url": "https://m.baidu.com/s?word=92%E5%B2%81%E6%AD%A3%E6%98%AF%E6%8B%BC%E7%9A%84%E5%B9%B4%E7%BA%AA&sa=fyb_news"
         }
       ],
       "summary": "",
-      "url": "https://www.toutiao.com/trending/7681120415211405348/"
+      "url": "https://m.baidu.com/s?word=92%E5%B2%81%E6%AD%A3%E6%98%AF%E6%8B%BC%E7%9A%84%E5%B9%B4%E7%BA%AA&sa=fyb_news"
+    },
+    {
+      "id": "evt-50000000",
+      "title": "马上评｜给5岁小女孩标注“刁蛮”？患者人格不容贬损",
+      "category": "society",
+      "hotScore": 0.4675,
+      "freshness": 1,
+      "crossSource": 1,
+      "totalScore": 0.787,
+      "sources": [
+        {
+          "channel": "thepaper",
+          "rank": 10,
+          "hot": 0,
+          "url": "https://www.thepaper.cn/newsDetail_forward_34014113"
+        }
+      ],
+      "summary": "",
+      "url": "https://www.thepaper.cn/newsDetail_forward_34014113"
     }
   ]
 }
