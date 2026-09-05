@@ -1,0 +1,36 @@
+services:
+  server:
+    build: .
+    container_name: ryder-server
+    restart: unless-stopped
+    ports:
+      - "8000:8000"
+    environment:
+      # 生产必改：openssl rand -hex 32 生成
+      JWT_SECRET: ${JWT_SECRET:-please-change-me}
+      DATABASE_URL: postgresql+asyncpg://ryder:${DB_PASSWORD:-ryder-pass}@db/ryder
+      # 管理员引导账号（首次启动创建；改完密码重启即可）
+      FATHER_USERNAME: ${FATHER_USERNAME:-papa}
+      FATHER_PASSWORD: ${FATHER_PASSWORD:-ryder2026}
+    depends_on:
+      db:
+        condition: service_healthy
+
+  db:
+    image: postgres:16-alpine
+    container_name: ryder-db
+    restart: unless-stopped
+    environment:
+      POSTGRES_USER: ryder
+      POSTGRES_PASSWORD: ${DB_PASSWORD:-ryder-pass}
+      POSTGRES_DB: ryder
+    volumes:
+      - pgdata:/var/lib/postgresql/data
+    healthcheck:
+      test: ["CMD-SHELL", "pg_isready -U ryder"]
+      interval: 5s
+      timeout: 3s
+      retries: 10
+
+volumes:
+  pgdata:

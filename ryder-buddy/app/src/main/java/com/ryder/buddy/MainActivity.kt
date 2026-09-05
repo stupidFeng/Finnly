@@ -9,6 +9,7 @@ import androidx.navigation.compose.NavHost
 import androidx.navigation.compose.composable
 import androidx.navigation.compose.rememberNavController
 import com.ryder.buddy.ui.kid.KidScreen
+import com.ryder.buddy.ui.parent.FamilyHistoryScreen
 import com.ryder.buddy.ui.parent.ParentScreen
 import com.ryder.buddy.ui.theme.RyderBuddyTheme
 
@@ -34,7 +35,14 @@ fun RyderBuddyApp() {
             KidScreen(vm = vm, onOpenParent = { navController.navigate("parent") })
         }
         composable("parent") {
-            ParentScreen(vm = vm, onBack = { navController.popBackStack() })
+            ParentScreen(
+                vm = vm,
+                onOpenHistory = { navController.navigate("history") },
+                onBack = { navController.popBackStack() },
+            )
+        }
+        composable("history") {
+            FamilyHistoryScreen(vm = vm, onBack = { navController.popBackStack() })
         }
     }
 }
