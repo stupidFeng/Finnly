@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-09-05T01:57:14.813Z",
+  "generatedAt": "2026-09-05T06:37:06.360Z",
   "fields": {
     "society": "社会",
     "economy": "经济",
@@ -7,74 +7,105 @@
   },
   "feed": [
     {
+      "id": "evt-11200000",
+      "title": "1岁裸体男童沙漠走失12小时被找到",
+      "category": "society",
+      "hotScore": 0.8075,
+      "freshness": 0.9999,
+      "crossSource": 1,
+      "totalScore": 0.923,
+      "sources": [
+        {
+          "channel": "toutiao",
+          "rank": 2,
+          "hot": 19246164,
+          "url": "https://www.toutiao.com/trending/7681897189991337498/"
+        },
+        {
+          "channel": "baidu",
+          "rank": 15,
+          "hot": 0,
+          "url": "https://m.baidu.com/s?word=1%E5%B2%81%E8%A3%B8%E4%BD%93%E7%94%B7%E7%AB%A5%E6%B2%99%E6%BC%A0%E8%B5%B0%E5%A4%B112%E5%B0%8F%E6%97%B6%E8%A2%AB%E6%89%BE%E5%88%B0&sa=fyb_news"
+        }
+      ],
+      "summary": "",
+      "url": "https://www.toutiao.com/trending/7681897189991337498/"
+    },
+    {
+      "id": "evt-11000000",
+      "title": "工人因赊1碗面后连续吃121天",
+      "category": "society",
+      "hotScore": 0.68,
+      "freshness": 0.9999,
+      "crossSource": 1,
+      "totalScore": 0.872,
+      "sources": [
+        {
+          "channel": "toutiao",
+          "rank": 5,
+          "hot": 14257909,
+          "url": "https://www.toutiao.com/trending/7681281957405802547/"
+        },
+        {
+          "channel": "baidu",
+          "rank": 10,
+          "hot": 0,
+          "url": "https://m.baidu.com/s?word=%E5%B7%A5%E4%BA%BA%E5%9B%A0%E8%B5%8A1%E7%A2%97%E9%9D%A2%E5%90%8E%E8%BF%9E%E7%BB%AD%E5%90%83121%E5%A4%A9&sa=fyb_news"
+        }
+      ],
+      "summary": "",
+      "url": "https://www.toutiao.com/trending/7681281957405802547/"
+    },
+    {
       "id": "evt-00000000",
-      "title": "男子试药死亡药企董事怒怼记者滚开",
+      "title": "深圳校服上“热搜”：家长称好多年前就这样，教育局解密20多年探索经验",
       "category": "society",
       "hotScore": 0.85,
-      "freshness": 1,
+      "freshness": 0.9999,
       "crossSource": 0.6309,
       "totalScore": 0.8293,
       "sources": [
         {
+          "channel": "thepaper",
+          "rank": 1,
+          "hot": 0,
+          "url": "https://www.thepaper.cn/newsDetail_forward_34011443"
+        }
+      ],
+      "summary": "",
+      "url": "https://www.thepaper.cn/newsDetail_forward_34011443"
+    },
+    {
+      "id": "evt-10000000",
+      "title": "超1万册永乐大典副本下落不明",
+      "category": "society",
+      "hotScore": 0.85,
+      "freshness": 0.9999,
+      "crossSource": 0.6309,
+      "totalScore": 0.8292,
+      "sources": [
+        {
           "channel": "toutiao",
           "rank": 1,
-          "hot": 17249840,
-          "url": "https://www.toutiao.com/trending/7681464092917485062/"
+          "hot": 21270301,
+          "url": "https://www.toutiao.com/trending/7681856234014326826/"
         }
       ],
       "summary": "",
-      "url": "https://www.toutiao.com/trending/7681464092917485062/"
-    },
-    {
-      "id": "evt-80000000",
-      "title": "8月大宗商品市场运行向好",
-      "category": "society",
-      "hotScore": 0.765,
-      "freshness": 1,
-      "crossSource": 0.6309,
-      "totalScore": 0.7953,
-      "sources": [
-        {
-          "channel": "toutiao",
-          "rank": 3,
-          "hot": 14122974,
-          "url": "https://www.toutiao.com/trending/7681141012961594934/"
-        }
-      ],
-      "summary": "",
-      "url": "https://www.toutiao.com/trending/7681141012961594934/"
-    },
-    {
-      "id": "evt-13420000",
-      "title": "尼泊尔泥石流已致1342人遇难",
-      "category": "society",
-      "hotScore": 0.7225,
-      "freshness": 1,
-      "crossSource": 0.6309,
-      "totalScore": 0.7783,
-      "sources": [
-        {
-          "channel": "toutiao",
-          "rank": 4,
-          "hot": 12778995,
-          "url": "https://www.toutiao.com/trending/7681853089523109422/"
-        }
-      ],
-      "summary": "",
-      "url": "https://www.toutiao.com/trending/7681853089523109422/"
+      "url": "https://www.toutiao.com/trending/7681856234014326826/"
     },
     {
       "id": "evt-ca000000",
       "title": "临床入组患者死亡，“神药”CAR-T祛魅：“临床试验”风险有多大？有无充分告知患者？",
       "category": "society",
-      "hotScore": 0.7225,
-      "freshness": 1,
+      "hotScore": 0.8075,
+      "freshness": 0.9999,
       "crossSource": 0.6309,
-      "totalScore": 0.7783,
+      "totalScore": 0.8123,
       "sources": [
         {
           "channel": "thepaper",
-          "rank": 4,
+          "rank": 2,
           "hot": 0,
           "url": "https://www.thepaper.cn/newsDetail_forward_34003035"
         }
@@ -83,55 +114,55 @@
       "url": "https://www.thepaper.cn/newsDetail_forward_34003035"
     },
     {
-      "id": "evt-12300000",
-      "title": "某男团开演唱会徐州12345被打爆，律师：不能把公共资源变成粉圈内斗的筹码",
-      "category": "entertainment",
-      "hotScore": 0.5525,
-      "freshness": 1,
-      "crossSource": 0.6309,
-      "totalScore": 0.7103,
-      "sources": [
-        {
-          "channel": "thepaper",
-          "rank": 8,
-          "hot": 0,
-          "url": "https://www.thepaper.cn/newsDetail_forward_34006243"
-        }
-      ],
-      "summary": "",
-      "url": "https://www.thepaper.cn/newsDetail_forward_34006243"
-    },
-    {
-      "id": "evt-10000000",
-      "title": "女子吃甜虾后肚子痛 10 多天，肠道发现寄生虫，人们常说海水里的生鲜没有寄生虫靠谱吗？怎样吃才安全？",
+      "id": "evt-80000000",
+      "title": "8月大宗商品市场运行向好",
       "category": "society",
-      "hotScore": 0.675,
-      "freshness": 1,
+      "hotScore": 0.765,
+      "freshness": 0.9999,
       "crossSource": 0.6309,
-      "totalScore": 0.7593,
+      "totalScore": 0.7952,
       "sources": [
         {
-          "channel": "zhihu",
+          "channel": "toutiao",
           "rank": 3,
-          "hot": 0,
-          "url": ""
+          "hot": 17414649,
+          "url": "https://www.toutiao.com/trending/7681141012961594934/"
         }
       ],
       "summary": "",
-      "url": ""
+      "url": "https://www.toutiao.com/trending/7681141012961594934/"
     },
     {
-      "id": "evt-26270000",
-      "title": "2627 赛季西甲联赛西甲第 4 轮皇家贝蒂斯 1:0 皇家马德里，如何评价这场比赛？",
+      "id": "evt-34900000",
+      "title": "小学回应家长自费买349元一套桌椅",
       "category": "society",
-      "hotScore": 0.6,
+      "hotScore": 0.76,
       "freshness": 1,
       "crossSource": 0.6309,
-      "totalScore": 0.7293,
+      "totalScore": 0.7933,
+      "sources": [
+        {
+          "channel": "baidu",
+          "rank": 2,
+          "hot": 0,
+          "url": "https://m.baidu.com/s?word=%E5%B0%8F%E5%AD%A6%E5%9B%9E%E5%BA%94%E5%AE%B6%E9%95%BF%E8%87%AA%E8%B4%B9%E4%B9%B0349%E5%85%83%E4%B8%80%E5%A5%97%E6%A1%8C%E6%A4%85&sa=fyb_news"
+        }
+      ],
+      "summary": "",
+      "url": "https://m.baidu.com/s?word=%E5%B0%8F%E5%AD%A6%E5%9B%9E%E5%BA%94%E5%AE%B6%E9%95%BF%E8%87%AA%E8%B4%B9%E4%B9%B0349%E5%85%83%E4%B8%80%E5%A5%97%E6%A1%8C%E6%A4%85&sa=fyb_news"
+    },
+    {
+      "id": "evt-xxxx0000",
+      "title": "有什么 XX 把 XX 带到了不属于它高度的鲜活例子？",
+      "category": "society",
+      "hotScore": 0.6375,
+      "freshness": 0.9999,
+      "crossSource": 0.6309,
+      "totalScore": 0.7443,
       "sources": [
         {
           "channel": "zhihu",
-          "rank": 5,
+          "rank": 4,
           "hot": 0,
           "url": ""
         }
@@ -140,23 +171,23 @@
       "url": ""
     },
     {
-      "id": "evt-40000000",
-      "title": "福建老城墙秒变防洪堤隔40公分洪水",
+      "id": "evt-91200000",
+      "title": "校长回应“9个老师守着12个娃”",
       "category": "society",
       "hotScore": 0.51,
-      "freshness": 1,
+      "freshness": 0.9999,
       "crossSource": 0.6309,
-      "totalScore": 0.6933,
+      "totalScore": 0.6932,
       "sources": [
         {
           "channel": "toutiao",
           "rank": 9,
-          "hot": 7750852,
-          "url": "https://www.toutiao.com/trending/7681815465399864883/"
+          "hot": 9557362,
+          "url": "https://www.toutiao.com/trending/7681120415211405348/"
         }
       ],
       "summary": "",
-      "url": "https://www.toutiao.com/trending/7681815465399864883/"
+      "url": "https://www.toutiao.com/trending/7681120415211405348/"
     }
   ]
 }
