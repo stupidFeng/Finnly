@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-09-05T19:41:37.354Z",
+  "generatedAt": "2026-09-05T21:46:36.199Z",
   "fields": {
     "society": "社会",
     "economy": "经济",
@@ -7,18 +7,43 @@
   },
   "feed": [
     {
+      "id": "evt-40200000",
+      "title": "女子40万租房2年退租被要求换新家具",
+      "category": "society",
+      "hotScore": 0.68,
+      "freshness": 1,
+      "crossSource": 1,
+      "totalScore": 0.872,
+      "sources": [
+        {
+          "channel": "toutiao",
+          "rank": 5,
+          "hot": 7450652,
+          "url": "https://www.toutiao.com/trending/7681949885624746027/"
+        },
+        {
+          "channel": "baidu",
+          "rank": 15,
+          "hot": 0,
+          "url": "https://m.baidu.com/s?word=%E5%A5%B3%E5%AD%9040%E4%B8%87%E7%A7%9F%E6%88%BF2%E5%B9%B4%E9%80%80%E7%A7%9F%E8%A2%AB%E8%A6%81%E6%B1%82%E6%8D%A2%E6%96%B0%E5%AE%B6%E5%85%B7&sa=fyb_news"
+        }
+      ],
+      "summary": "",
+      "url": "https://www.toutiao.com/trending/7681949885624746027/"
+    },
+    {
       "id": "evt-00000000",
       "title": "葫芦娃爷爷爆火“蛇精”来打卡",
       "category": "society",
       "hotScore": 0.85,
-      "freshness": 0.9998,
+      "freshness": 1,
       "crossSource": 0.6309,
-      "totalScore": 0.8292,
+      "totalScore": 0.8293,
       "sources": [
         {
           "channel": "toutiao",
           "rank": 1,
-          "hot": 10927989,
+          "hot": 11115067,
           "url": "https://www.toutiao.com/trending/7681201594172244031/"
         }
       ],
@@ -26,42 +51,61 @@
       "url": "https://www.toutiao.com/trending/7681201594172244031/"
     },
     {
-      "id": "evt-iphone18",
-      "title": "iPhone 18系列售价曝光",
+      "id": "evt-15000000",
+      "title": "联合国警告称升温 1.5℃已无法避免，能做的只有压低超额升温，这是否意味着变暖要失控了？",
       "category": "society",
-      "hotScore": 0.8075,
-      "freshness": 0.9998,
+      "hotScore": 0.75,
+      "freshness": 1,
       "crossSource": 0.6309,
-      "totalScore": 0.8122,
+      "totalScore": 0.7893,
       "sources": [
         {
-          "channel": "toutiao",
-          "rank": 2,
-          "hot": 9888054,
-          "url": "https://www.toutiao.com/trending/7681968641067450930/"
+          "channel": "zhihu",
+          "rank": 1,
+          "hot": 0,
+          "url": ""
         }
       ],
       "summary": "",
-      "url": "https://www.toutiao.com/trending/7681968641067450930/"
+      "url": ""
     },
     {
       "id": "evt-10000000",
       "title": "超1万册永乐大典副本下落不明",
       "category": "society",
       "hotScore": 0.7225,
-      "freshness": 0.9998,
+      "freshness": 1,
       "crossSource": 0.6309,
-      "totalScore": 0.7782,
+      "totalScore": 0.7783,
       "sources": [
         {
           "channel": "toutiao",
           "rank": 4,
-          "hot": 8095653,
+          "hot": 8234244,
           "url": "https://www.toutiao.com/trending/7681856234014326826/"
         }
       ],
       "summary": "",
       "url": "https://www.toutiao.com/trending/7681856234014326826/"
+    },
+    {
+      "id": "evt-dc000000",
+      "title": "盖尔·加朵确认 DC 未计划她继续出演神奇女侠，这对于 DC 新电影宇宙意味着什么？",
+      "category": "entertainment",
+      "hotScore": 0.525,
+      "freshness": 1,
+      "crossSource": 0.6309,
+      "totalScore": 0.6993,
+      "sources": [
+        {
+          "channel": "zhihu",
+          "rank": 7,
+          "hot": 0,
+          "url": ""
+        }
+      ],
+      "summary": "",
+      "url": ""
     },
     {
       "id": "evt-15200000",
@@ -83,32 +127,51 @@
       "url": "https://m.baidu.com/s?word=%E8%8A%B115%E5%85%83%E4%B9%B0%E4%BA%862%E6%96%A4%E8%9B%A4%E8%9C%8A%E5%90%83%E5%87%BA3%E9%A2%97%E7%8F%8D%E7%8F%A0&sa=fyb_news"
     },
     {
-      "id": "evt-15000000",
-      "title": "联合国警告称升温 1.5℃已无法避免，能做的只有压低超额升温，这是否意味着变暖要失控了？",
+      "id": "evt-iphone18",
+      "title": "iPhone 18系列售价曝光",
       "category": "society",
-      "hotScore": 0.6,
-      "freshness": 0.9998,
+      "hotScore": 0.6375,
+      "freshness": 1,
       "crossSource": 0.6309,
-      "totalScore": 0.7292,
+      "totalScore": 0.7443,
       "sources": [
         {
-          "channel": "zhihu",
-          "rank": 5,
-          "hot": 0,
-          "url": ""
+          "channel": "toutiao",
+          "rank": 6,
+          "hot": 6741628,
+          "url": "https://www.toutiao.com/trending/7681968641067450930/"
         }
       ],
       "summary": "",
-      "url": ""
+      "url": "https://www.toutiao.com/trending/7681968641067450930/"
+    },
+    {
+      "id": "evt-11200000",
+      "title": "1岁裸体男童沙漠走失12小时被找到",
+      "category": "society",
+      "hotScore": 0.595,
+      "freshness": 1,
+      "crossSource": 0.6309,
+      "totalScore": 0.7273,
+      "sources": [
+        {
+          "channel": "toutiao",
+          "rank": 7,
+          "hot": 6100078,
+          "url": "https://www.toutiao.com/trending/7681897189991337498/"
+        }
+      ],
+      "summary": "",
+      "url": "https://www.toutiao.com/trending/7681897189991337498/"
     },
     {
       "id": "evt-50000000",
       "title": "马上评｜给5岁小女孩标注“刁蛮”？患者人格不容贬损",
       "category": "society",
       "hotScore": 0.595,
-      "freshness": 0.9999,
+      "freshness": 1,
       "crossSource": 0.6309,
-      "totalScore": 0.7272,
+      "totalScore": 0.7273,
       "sources": [
         {
           "channel": "thepaper",
@@ -121,57 +184,32 @@
       "url": "https://www.thepaper.cn/newsDetail_forward_34014113"
     },
     {
-      "id": "evt-23000000",
-      "title": "吉隆泥石流发生23分钟后航拍首次公开",
+      "id": "evt-21100000",
+      "title": "郑钦文 2-1 凯斯，晋级美网 16 强，决胜局 0-5 落后上演超级大逆转，如何评价她的表现？",
       "category": "society",
-      "hotScore": 0.2975,
-      "freshness": 0.9998,
-      "crossSource": 1,
-      "totalScore": 0.7189,
-      "sources": [
-        {
-          "channel": "toutiao",
-          "rank": 14,
-          "hot": 2978224,
-          "url": "https://www.toutiao.com/trending/7681120394372300846/"
-        },
-        {
-          "channel": "baidu",
-          "rank": 15,
-          "hot": 0,
-          "url": "https://m.baidu.com/s?word=%E5%90%89%E9%9A%86%E6%B3%A5%E7%9F%B3%E6%B5%81%E5%8F%91%E7%94%9F23%E5%88%86%E9%92%9F%E5%90%8E%E8%88%AA%E6%8B%8D%E9%A6%96%E6%AC%A1%E5%85%AC%E5%BC%80&sa=fyb_news"
-        }
-      ],
-      "summary": "",
-      "url": "https://www.toutiao.com/trending/7681120394372300846/"
-    },
-    {
-      "id": "evt-deepseek",
-      "title": "DeepSeek被曝将采购16万颗华为芯片",
-      "category": "society",
-      "hotScore": 0.5525,
-      "freshness": 0.9998,
+      "hotScore": 0.5625,
+      "freshness": 1,
       "crossSource": 0.6309,
-      "totalScore": 0.7102,
+      "totalScore": 0.7143,
       "sources": [
         {
-          "channel": "toutiao",
-          "rank": 8,
-          "hot": 5426679,
-          "url": "https://www.toutiao.com/trending/7681981085961424425/"
+          "channel": "zhihu",
+          "rank": 6,
+          "hot": 0,
+          "url": ""
         }
       ],
       "summary": "",
-      "url": "https://www.toutiao.com/trending/7681981085961424425/"
+      "url": ""
     },
     {
       "id": "evt-30000000",
       "title": "普京下令暂停打击基辅3天",
       "category": "society",
       "hotScore": 0.5525,
-      "freshness": 0.9999,
+      "freshness": 1,
       "crossSource": 0.6309,
-      "totalScore": 0.7102,
+      "totalScore": 0.7103,
       "sources": [
         {
           "channel": "thepaper",
