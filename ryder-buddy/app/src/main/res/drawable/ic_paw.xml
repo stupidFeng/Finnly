@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="utf-8"?>
+<vector xmlns:android="http://schemas.android.com/apk/res/android"
+    android:width="48dp"
+    android:height="48dp"
+    android:viewportWidth="48"
+    android:viewportHeight="48">
+    <!-- 掌垫 -->
+    <path
+        android:fillColor="#FFFFFF"
+        android:fillAlpha="0.25"
+        android:pathData="M24,28 m-9,0 a9,7 0 1,0 18,0 a9,7 0 1,0 -18,0" />
+    <!-- 四个趾垫 -->
+    <path
+        android:fillColor="#FFFFFF"
+        android:fillAlpha="0.25"
+        android:pathData="M10,20 m-4,0 a4,5 0 1,0 8,0 a4,5 0 1,0 -8,0" />
+    <path
+        android:fillColor="#FFFFFF"
+        android:fillAlpha="0.25"
+        android:pathData="M18,14 m-4,0 a4,5 0 1,0 8,0 a4,5 0 1,0 -8,0" />
+    <path
+        android:fillColor="#FFFFFF"
+        android:fillAlpha="0.25"
+        android:pathData="M30,14 m-4,0 a4,5 0 1,0 8,0 a4,5 0 1,0 -8,0" />
+    <path
+        android:fillColor="#FFFFFF"
+        android:fillAlpha="0.25"
+        android:pathData="M38,20 m-4,0 a4,5 0 1,0 8,0 a4,5 0 1,0 -8,0" />
+</vector>

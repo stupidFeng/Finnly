@@ -9,14 +9,19 @@ import androidx.compose.animation.core.animateFloatAsState
 import androidx.compose.animation.core.infiniteRepeatable
 import androidx.compose.animation.core.rememberInfiniteTransition
 import androidx.compose.animation.core.tween
+import androidx.compose.foundation.Image
 import androidx.compose.foundation.background
+import androidx.compose.foundation.border
 import androidx.compose.foundation.gestures.detectTapGestures
+import androidx.compose.foundation.layout.Arrangement
 import androidx.compose.foundation.layout.Box
 import androidx.compose.foundation.layout.Column
+import androidx.compose.foundation.layout.Row
 import androidx.compose.foundation.layout.Spacer
 import androidx.compose.foundation.layout.fillMaxSize
 import androidx.compose.foundation.layout.fillMaxWidth
 import androidx.compose.foundation.layout.height
+import androidx.compose.foundation.layout.offset
 import androidx.compose.foundation.layout.padding
 import androidx.compose.foundation.layout.size
 import androidx.compose.foundation.shape.CircleShape
@@ -40,22 +45,26 @@ import androidx.compose.ui.Alignment
 import androidx.compose.ui.Modifier
 import androidx.compose.ui.draw.alpha
 import androidx.compose.ui.draw.clip
+import androidx.compose.ui.draw.rotate
 import androidx.compose.ui.draw.scale
 import androidx.compose.ui.draw.shadow
 import androidx.compose.ui.graphics.Color
 import androidx.compose.ui.input.pointer.pointerInput
+import androidx.compose.ui.layout.ContentScale
 import androidx.compose.ui.platform.LocalContext
+import androidx.compose.ui.res.painterResource
 import androidx.compose.ui.text.font.FontWeight
 import androidx.compose.ui.text.style.TextAlign
 import androidx.compose.ui.unit.dp
 import androidx.compose.ui.unit.sp
 import androidx.core.content.ContextCompat
 import com.ryder.buddy.MainViewModel
+import com.ryder.buddy.R
 import com.ryder.buddy.TalkState
 
 /**
- * 孩子主界面：一个超大"按住说话"按钮，按状态变色。
- * 界面元素极简——不到三岁的孩子不需要读懂任何文字。
+ * 孩子主界面：莱德头像 + 超大"按住说话"按钮 + 气泡式对话。
+ * 界面文字极简——不到三岁的孩子主要通过颜色和图标理解状态。
  */
 @Composable
 fun KidScreen(vm: MainViewModel, onOpenParent: () -> Unit) {
@@ -84,88 +93,177 @@ fun KidScreen(vm: MainViewModel, onOpenParent: () -> Unit) {
             .fillMaxSize()
             .background(Color(0xFFEAF3FF))
     ) {
-        // 家长入口：藏在角落的小齿轮，孩子不易误触
+        // ---------- 背景装饰：半透明狗爪印 ----------
+        PawDecoration(Rotation = -15f, modifier = Modifier.align(Alignment.TopStart).offset(x = 8.dp, y = 60.dp))
+        PawDecoration(Rotation = 20f, modifier = Modifier.align(Alignment.TopEnd).offset(x = (-8).dp, y = 120.dp))
+        PawDecoration(Rotation = -25f, modifier = Modifier.align(Alignment.BottomStart).offset(x = 16.dp, y = (-40).dp))
+        PawDecoration(Rotation = 10f, modifier = Modifier.align(Alignment.BottomEnd).offset(x = (-12).dp, y = (-80).dp))
+
+        // ---------- 家长入口：藏在角落的小齿轮 ----------
         IconButton(
             onClick = onOpenParent,
             modifier = Modifier
                 .align(Alignment.TopEnd)
-                .padding(12.dp)
+                .padding(8.dp)
         ) {
             Icon(Icons.Filled.Settings, contentDescription = "家长设置", tint = Color(0xFF7A8BA6))
         }
 
+        // ---------- 主体内容 ----------
         Column(
             Modifier.align(Alignment.Center),
             horizontalAlignment = Alignment.CenterHorizontally
         ) {
-            Text(
-                text = "莱德队长",
-                fontSize = 34.sp,
-                fontWeight = FontWeight.Black,
-                color = Color(0xFF16233A)
-            )
-            Spacer(Modifier.height(4.dp))
+            // 莱德头像（圆形裁剪 + 白色描边）
+            Box(
+                modifier = Modifier
+                    .size(120.dp)
+                    .shadow(8.dp, CircleShape)
+                    .clip(CircleShape)
+                    .border(4.dp, Color.White, CircleShape)
+            ) {
+                Image(
+                    painter = painterResource(R.drawable.ic_ryder_avatar),
+                    contentDescription = "莱德队长",
+                    modifier = Modifier.fillMaxSize(),
+                    contentScale = ContentScale.Crop
+                )
+            }
+
+            Spacer(Modifier.height(8.dp))
+
+            // 状态文字（大字、少字，孩子靠颜色区分）
             Text(
                 text = statusLabel(talkState),
-                fontSize = 18.sp,
-                color = Color(0xFF48586F)
-            )
-            Spacer(Modifier.height(36.dp))
-
-            BigTalkButton(
-                state = talkState,
-                onPressStart = {
-                    if (!hasMicPermission) {
-                        permissionLauncher.launch(Manifest.permission.RECORD_AUDIO)
-                    } else {
-                        vm.startListening()
-                    }
-                },
-                onPressEnd = { vm.stopListening() }
+                fontSize = 28.sp,
+                fontWeight = FontWeight.Black,
+                color = statusColor(talkState)
             )
 
-            Spacer(Modifier.height(28.dp))
+            Spacer(Modifier.height(24.dp))
+
+            // 超大按钮 + 毛毛头像装饰
+            Box(contentAlignment = Alignment.Center) {
+                BigTalkButton(
+                    state = talkState,
+                    onPressStart = {
+                        if (!hasMicPermission) {
+                            permissionLauncher.launch(Manifest.permission.RECORD_AUDIO)
+                        } else {
+                            vm.startListening()
+                        }
+                    },
+                    onPressEnd = { vm.stopListening() }
+                )
+                // 毛毛头像在按钮右下角探出
+                Box(
+                    modifier = Modifier
+                        .align(Alignment.BottomEnd)
+                        .offset(x = 8.dp, y = 8.dp)
+                        .size(56.dp)
+                        .shadow(6.dp, CircleShape)
+                        .clip(CircleShape)
+                        .border(3.dp, Color.White, CircleShape)
+                ) {
+                    Image(
+                        painter = painterResource(R.drawable.ic_marshall_avatar),
+                        contentDescription = "毛毛",
+                        modifier = Modifier.fillMaxSize(),
+                        contentScale = ContentScale.Crop
+                    )
+                }
+            }
+
+            Spacer(Modifier.height(20.dp))
+
+            // 听到的内容 / 提示文字
             Text(
                 text = when {
-                    talkState == TalkState.Listening && heard.isNotBlank() -> "“$heard”"
-                    !hasMicPermission -> "需要麦克风权限，才能和莱德说话哦"
-                    else -> "按住大按钮，和莱德说话吧！"
+                    talkState == TalkState.Listening && heard.isNotBlank() -> "「$heard」"
+                    !hasMicPermission -> "点这里，允许录音哦"
+                    else -> "按住大按钮，和莱德说话！"
                 },
-                fontSize = 16.sp,
+                fontSize = 18.sp,
                 color = Color(0xFF48586F),
                 textAlign = TextAlign.Center,
                 modifier = Modifier.padding(horizontal = 32.dp)
             )
         }
 
-        // 莱德最近说的话（也给家长看）
+        // ---------- 底部：莱德说的话（气泡式卡片） ----------
         if (lastReply.isNotBlank() && talkState != TalkState.Listening) {
             Card(
-                shape = RoundedCornerShape(20.dp),
+                shape = RoundedCornerShape(24.dp),
                 colors = CardDefaults.cardColors(containerColor = Color.White),
-                elevation = CardDefaults.cardElevation(defaultElevation = 2.dp),
+                elevation = CardDefaults.cardElevation(defaultElevation = 3.dp),
                 modifier = Modifier
                     .align(Alignment.BottomCenter)
-                    .padding(20.dp)
+                    .padding(16.dp)
                     .fillMaxWidth()
             ) {
-                Text(
-                    text = lastReply,
-                    fontSize = 18.sp,
-                    lineHeight = 28.sp,
-                    color = Color(0xFF16233A),
-                    modifier = Modifier.padding(20.dp)
-                )
+                Row(
+                    modifier = Modifier.padding(16.dp),
+                    verticalAlignment = Alignment.Top
+                ) {
+                    // 小莱德头像
+                    Box(
+                        modifier = Modifier
+                            .size(40.dp)
+                            .clip(CircleShape)
+                            .border(2.dp, Color(0xFFEAF3FF), CircleShape)
+                    ) {
+                        Image(
+                            painter = painterResource(R.drawable.ic_ryder_avatar),
+                            contentDescription = null,
+                            modifier = Modifier.fillMaxSize(),
+                            contentScale = ContentScale.Crop
+                        )
+                    }
+                    Spacer(Modifier.size(12.dp))
+                    Text(
+                        text = lastReply,
+                        fontSize = 18.sp,
+                        lineHeight = 28.sp,
+                        color = Color(0xFF16233A),
+                        modifier = Modifier.weight(1f)
+                    )
+                }
             }
         }
     }
 }
 
+/** 状态文字（极简，孩子靠颜色和图标理解） */
 private fun statusLabel(state: TalkState): String = when (state) {
-    TalkState.Idle -> "我在等你哦"
-    TalkState.Listening -> "莱德正在听…"
-    TalkState.Thinking -> "莱德正在想…"
+    TalkState.Idle -> "和莱德说话"
+    TalkState.Listening -> "莱德在听…"
+    TalkState.Thinking -> "莱德在想…"
     TalkState.Speaking -> "莱德在说话！"
+}
+
+/** 状态颜色 */
+private fun statusColor(state: TalkState): Color = when (state) {
+    TalkState.Idle -> Color(0xFF16233A)
+    TalkState.Listening -> Color(0xFFEF6C52)
+    TalkState.Thinking -> Color(0xFFF5A623)
+    TalkState.Speaking -> Color(0xFF35B46A)
+}
+
+/** 背景狗爪装饰 */
+@Composable
+private fun PawDecoration(
+    Rotation: Float,
+    modifier: Modifier = Modifier
+) {
+    Icon(
+        painter = painterResource(R.drawable.ic_paw),
+        contentDescription = null,
+        tint = Color(0xFF2E7CF6),
+        modifier = modifier
+            .size(64.dp)
+            .alpha(0.1f)
+            .rotate(Rotation)
+    )
 }
 
 /** 超大圆形按住说话按钮：按下聆听（脉冲呼吸），松开发送；颜色随状态变化 */
@@ -198,7 +296,7 @@ private fun BigTalkButton(
 
     Box(
         modifier = Modifier
-            .size(230.dp)
+            .size(220.dp)
             .scale(scale)
             .alpha(alpha)
             .shadow(10.dp, CircleShape)
@@ -222,7 +320,7 @@ private fun BigTalkButton(
                 Icons.Filled.Mic,
                 contentDescription = null,
                 tint = Color.White,
-                modifier = Modifier.size(60.dp)
+                modifier = Modifier.size(56.dp)
             )
             Text(
                 text = label,
