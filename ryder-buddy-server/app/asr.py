@@ -14,7 +14,7 @@ async def transcribe(
     api_key: str,
     model: str,
     audio_bytes: bytes,
-    filename: str = "audio.m4a",
+    filename: str = "audio.wav",
 ) -> str:
     url = base_url.rstrip("/") + "/audio/transcriptions"
     headers = {"Authorization": f"Bearer {api_key}"}
