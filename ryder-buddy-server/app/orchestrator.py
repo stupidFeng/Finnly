@@ -9,6 +9,7 @@
 import asyncio
 import base64
 import json
+import time
 
 from . import llm as llm_mod
 from . import tts as tts_mod
@@ -18,6 +19,11 @@ from .persona import build_system_prompt
 settings = get_settings()
 
 SENTENCE_END = "。！？!?；;\n"
+
+
+def clean_sentence(sentence: str) -> str:
+    """去掉 Markdown 符号；清洗后为空表示跳过该句。"""
+    return sentence.replace("*", "").replace("#", " ").strip()
 
 
 class Orchestrator:
@@ -47,37 +53,84 @@ class Orchestrator:
             yield done_event(full)
             return
 
+        t0 = time.monotonic()
+        t_first: float | None = None
         pending = ""
         full_parts: list[str] = []
+        tts_tasks: list[asyncio.Task] = []  # 按句序；多句 TTS 并行合成，按序收发
+        n_sentences = 0
 
         try:
-            async for delta in llm_mod.stream_chat(
-                self.llm_cfg.get("base_url", ""),
-                self.llm_cfg["api_key"],
-                self.llm_cfg["model"],
-                system_prompt,
-                history,
-            ):
-                full_parts.append(delta)
-                pending += delta
-                # 把缓冲区里所有完整句子立刻发出去
-                while True:
-                    idx = next((i for i, ch in enumerate(pending) if ch in SENTENCE_END), -1)
-                    if idx < 0:
-                        break
-                    sentence = pending[: idx + 1]
-                    pending = pending[idx + 1:]
-                    async for event in self._emit_sentence(sentence, tts_ready):
-                        yield event
-        except Exception as e:  # noqa: BLE001 —— 任何厂商异常都转成 SSE error 事件
-            print(f"[orchestrator] LLM 失败: {e}", flush=True)
-            yield error_event(f"莱德的大脑连接不上：{e}")
-            return
+            try:
+                async for delta in llm_mod.stream_chat(
+                    self.llm_cfg.get("base_url", ""),
+                    self.llm_cfg["api_key"],
+                    self.llm_cfg["model"],
+                    system_prompt,
+                    history,
+                ):
+                    if t_first is None:
+                        t_first = time.monotonic() - t0
+                    full_parts.append(delta)
+                    pending += delta
+                    # 完整句子立刻发 reply，同时为它开一个 TTS 任务（不等前一句合成完）
+                    while True:
+                        idx = next((i for i, ch in enumerate(pending) if ch in SENTENCE_END), -1)
+                        if idx < 0:
+                            break
+                        sentence = clean_sentence(pending[: idx + 1])
+                        pending = pending[idx + 1:]
+                        if not sentence:
+                            continue
+                        n_sentences += 1
+                        yield {"type": "reply", "text": sentence}
+                        if tts_ready:
+                            tts_tasks.append(self._start_tts(sentence))
+                    # 已合完的音频按序发出（不阻塞 LLM 消费）
+                    while tts_tasks and tts_tasks[0].done() and not tts_tasks[0].cancelled():
+                        for event in _task_events(tts_tasks.pop(0)):
+                            yield event
+            except Exception as e:  # noqa: BLE001 —— 任何厂商异常都转成 SSE error 事件
+                print(f"[orchestrator] LLM 失败: {e}", flush=True)
+                yield error_event(f"莱德的大脑连接不上：{e}")
+                return
 
-        if pending.strip():
-            async for event in self._emit_sentence(pending, tts_ready):
-                yield event
-        yield done_event("".join(full_parts))
+            if pending.strip():
+                sentence = clean_sentence(pending)
+                if sentence:
+                    n_sentences += 1
+                    yield {"type": "reply", "text": sentence}
+                    if tts_ready:
+                        tts_tasks.append(self._start_tts(sentence))
+
+            # LLM 结束：按句序等完剩余音频
+            while tts_tasks:
+                task = tts_tasks.pop(0)
+                try:
+                    await task
+                except Exception:  # noqa: BLE001 —— 失败细节由 _task_events 统一记录
+                    pass
+                for event in _task_events(task):
+                    yield event
+
+            dt = time.monotonic() - t0
+            first = f"首字 {t_first:.2f}s，" if t_first is not None else ""
+            print(f"[orchestrator] 整轮完成 {dt:.2f}s（{first}共{n_sentences}句）", flush=True)
+            yield done_event("".join(full_parts))
+        finally:
+            for t in tts_tasks:
+                t.cancel()
+
+    def _start_tts(self, sentence: str) -> asyncio.Task:
+        return asyncio.create_task(
+            tts_mod.synthesize(
+                self.tts_cfg.get("base_url", ""),
+                self.tts_cfg["api_key"],
+                self.tts_cfg["model"],
+                sentence,
+                self.tts_cfg.get("model_voice", ""),
+            )
+        )
 
     async def _emit_by_sentence(self, text: str, tts_ready: bool):
         start = 0
@@ -91,7 +144,7 @@ class Orchestrator:
                 yield event
 
     async def _emit_sentence(self, sentence: str, tts_ready: bool):
-        cleaned = sentence.replace("*", "").replace("#", " ").strip()
+        cleaned = clean_sentence(sentence)
         if not cleaned:
             return
         yield {"type": "reply", "text": cleaned}
@@ -120,6 +173,18 @@ def done_event(reply: str) -> dict:
 
 def error_event(message: str) -> dict:
     return {"type": "error", "message": message}
+
+
+def _task_events(task: asyncio.Task) -> list[dict]:
+    """已完成的 TTS 任务 → SSE 事件（音频或错误）。"""
+    try:
+        audio = task.result()
+    except Exception as e:  # noqa: BLE001
+        print(f"[orchestrator] TTS 失败: {e}", flush=True)
+        return [error_event(f"莱德的声音服务出了点问题：{e}")]
+    if audio:
+        return [{"type": "audio", "data": base64.b64encode(audio).decode("ascii")}]
+    return []
 
 
 def sse(obj: dict) -> str:

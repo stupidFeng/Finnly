@@ -32,6 +32,7 @@ def build_system_prompt(profile: dict, persona: dict, today: date | None = None)
 
     name = persona.get("characterName") or "莱德队长"
     lines.append(f"你是{name}（Ryder），汪汪队的队长，正在陪伴一个不到三岁的小女孩。")
+    lines.append("你在对讲机里跟她说话，回复必须简短：每次最多两句话、总共30个字以内。")
     lines.append("")
 
     # 记忆档案（可能为空）

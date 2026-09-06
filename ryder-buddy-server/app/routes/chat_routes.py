@@ -7,6 +7,7 @@
 """
 import asyncio
 import json
+import time
 
 from fastapi import APIRouter, Depends, UploadFile
 from fastapi.responses import StreamingResponse
@@ -127,6 +128,7 @@ async def chat_audio(
     """云端兜底 ASR：先转写，再走同一条编排链。"""
     audio_bytes = await file.read()
     if not audio_bytes:
+        print("[chat/audio] 收到 0 字节音频（App 没录到声音，或上传被打断）", flush=True)
         return sse_response(_wrap(sse(error_event("没有收到声音，再试一次好不好？"))))
 
     async def stream():
@@ -141,6 +143,7 @@ async def chat_audio(
         if key is None or not key.api_key or not key.model:
             yield sse(error_event("云端耳朵还没配置好，请爸爸到管理面板设置 ASR"))
             return
+        t_asr = time.monotonic()
         try:
             text = await transcribe(
                 key.base_url, key.api_key, key.model, audio_bytes,
@@ -148,11 +151,13 @@ async def chat_audio(
             )
         except AsrError as e:
             print(f"[chat/audio] ASR 失败（{len(audio_bytes)} 字节 ≈ "
-                  f"{max(0.0, (len(audio_bytes) - 44) / 32000):.1f} 秒）: {e}", flush=True)
+                  f"{max(0.0, (len(audio_bytes) - 44) / 32000):.1f} 秒，"
+                  f"耗时 {time.monotonic() - t_asr:.2f}s）: {e}", flush=True)
             yield sse(error_event(f"云端听写失败：{e}"))
             return
         print(f"[chat/audio] ASR 结果（{len(audio_bytes)} 字节 ≈ "
-              f"{max(0.0, (len(audio_bytes) - 44) / 32000):.1f} 秒）: {text!r}", flush=True)
+              f"{max(0.0, (len(audio_bytes) - 44) / 32000):.1f} 秒，"
+              f"耗时 {time.monotonic() - t_asr:.2f}s）: {text!r}", flush=True)
         if not text:
             yield sse(error_event("莱德还是没听清，再大声说一次好不好？"))
             return
