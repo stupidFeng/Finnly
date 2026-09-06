@@ -70,6 +70,7 @@ class Orchestrator:
                     async for event in self._emit_sentence(sentence, tts_ready):
                         yield event
         except Exception as e:  # noqa: BLE001 —— 任何厂商异常都转成 SSE error 事件
+            print(f"[orchestrator] LLM 失败: {e}", flush=True)
             yield error_event(f"莱德的大脑连接不上：{e}")
             return
 
@@ -109,6 +110,7 @@ class Orchestrator:
                         "data": base64.b64encode(audio).decode("ascii"),
                     }
             except Exception as e:  # noqa: BLE001 —— TTS 失败不致命，App 用本地 TTS 兜底
+                print(f"[orchestrator] TTS 失败: {e}", flush=True)
                 yield error_event(f"莱德的声音服务出了点问题：{e}")
 
 

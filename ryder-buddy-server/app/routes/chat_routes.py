@@ -147,8 +147,12 @@ async def chat_audio(
                 filename=file.filename or "audio.wav",
             )
         except AsrError as e:
+            print(f"[chat/audio] ASR 失败（{len(audio_bytes)} 字节 ≈ "
+                  f"{max(0.0, (len(audio_bytes) - 44) / 32000):.1f} 秒）: {e}", flush=True)
             yield sse(error_event(f"云端听写失败：{e}"))
             return
+        print(f"[chat/audio] ASR 结果（{len(audio_bytes)} 字节 ≈ "
+              f"{max(0.0, (len(audio_bytes) - 44) / 32000):.1f} 秒）: {text!r}", flush=True)
         if not text:
             yield sse(error_event("莱德还是没听清，再大声说一次好不好？"))
             return

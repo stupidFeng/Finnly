@@ -223,38 +223,49 @@ class BffClient(private var baseUrl: String) {
 
     private suspend fun sseChat(request: Request, onEvent: (BffEvent) -> Unit): String =
         withContext(Dispatchers.IO) {
-            client.newCall(request).execute().use { response ->
-                if (!response.isSuccessful) {
-                    throw IOException("服务器 HTTP ${response.code}")
-                }
-                val source = response.body?.source() ?: throw IOException("空响应")
-                var fullReply = ""
-                while (!source.exhausted()) {
-                    currentCoroutineContext().ensureActive()
-                    val line = source.readUtf8Line() ?: break
-                    if (!line.startsWith("data:")) continue // 跳过心跳 ": ping"
-                    val data = line.removePrefix("data:").trim()
-                    if (data.isEmpty()) continue
-                    val obj = runCatching { json.parseToJsonElement(data).jsonObject }
-                        .getOrNull() ?: continue
-                    when (obj.str("type")) {
-                        "meta" -> onEvent(BffEvent.Meta(obj["tts"]?.jsonPrimitive?.booleanOrNull ?: false))
-                        "asr" -> onEvent(BffEvent.Asr(obj.str("text")))
-                        "reply" -> onEvent(BffEvent.Reply(obj.str("text")))
-                        "audio" -> runCatching {
-                            android.util.Base64.decode(
-                                obj.str("data"), android.util.Base64.DEFAULT,
-                            )
-                        }.getOrNull()?.let { onEvent(BffEvent.Audio(it)) }
-                        "done" -> {
-                            fullReply = obj.str("reply")
-                            onEvent(BffEvent.Done(fullReply))
+            var lastError: IOException? = null
+            repeat(2) { // 连接级瞬时故障（复用到服务器刚关闭的旧连接/网络抖动）自动重试一次
+                var receivedAny = false
+                try {
+                    client.newCall(request).execute().use { response ->
+                        if (!response.isSuccessful) {
+                            throw IOException("服务器 HTTP ${response.code}")
                         }
-                        "error" -> onEvent(BffEvent.Error(obj.str("message")))
+                        val source = response.body?.source() ?: throw IOException("空响应")
+                        var fullReply = ""
+                        while (!source.exhausted()) {
+                            currentCoroutineContext().ensureActive()
+                            val line = source.readUtf8Line() ?: break
+                            if (!line.startsWith("data:")) continue // 跳过心跳 ": ping"
+                            val data = line.removePrefix("data:").trim()
+                            if (data.isEmpty()) continue
+                            val obj = runCatching { json.parseToJsonElement(data).jsonObject }
+                                .getOrNull() ?: continue
+                            receivedAny = true
+                            when (obj.str("type")) {
+                                "meta" -> onEvent(BffEvent.Meta(obj["tts"]?.jsonPrimitive?.booleanOrNull ?: false))
+                                "asr" -> onEvent(BffEvent.Asr(obj.str("text")))
+                                "reply" -> onEvent(BffEvent.Reply(obj.str("text")))
+                                "audio" -> runCatching {
+                                    android.util.Base64.decode(
+                                        obj.str("data"), android.util.Base64.DEFAULT,
+                                    )
+                                }.getOrNull()?.let { onEvent(BffEvent.Audio(it)) }
+                                "done" -> {
+                                    fullReply = obj.str("reply")
+                                    onEvent(BffEvent.Done(fullReply))
+                                }
+                                "error" -> onEvent(BffEvent.Error(obj.str("message")))
+                            }
+                        }
+                        return@withContext fullReply
                     }
+                } catch (e: IOException) {
+                    if (receivedAny) throw e // 已开始播报，重试会导致莱德重复说话
+                    lastError = e
                 }
-                fullReply
             }
+            throw lastError ?: IOException("未知错误")
         }
 
     // ---------- 内部工具 ----------
