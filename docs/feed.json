@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-09-06T11:49:19.305Z",
+  "generatedAt": "2026-09-06T14:35:36.617Z",
   "fields": {
     "society": "社会",
     "economy": "经济",
@@ -7,105 +7,17 @@
   },
   "feed": [
     {
-      "id": "evt-chinagt0",
-      "title": "China GT就碰撞起火事故致歉",
-      "category": "society",
-      "hotScore": 0.8075,
-      "freshness": 1,
-      "crossSource": 1,
-      "totalScore": 0.923,
-      "sources": [
-        {
-          "channel": "toutiao",
-          "rank": 2,
-          "hot": 15840904,
-          "url": "https://www.toutiao.com/trending/7682303566215695898/"
-        },
-        {
-          "channel": "baidu",
-          "rank": 8,
-          "hot": 0,
-          "url": "https://m.baidu.com/s?word=China+GT%E5%B0%B1%E7%A2%B0%E6%92%9E%E8%B5%B7%E7%81%AB%E4%BA%8B%E6%95%85%E8%87%B4%E6%AD%89&sa=fyb_news"
-        }
-      ],
-      "summary": "",
-      "url": "https://www.toutiao.com/trending/7682303566215695898/"
-    },
-    {
-      "id": "evt-70000000",
-      "title": "财政部将向中国太平注资70亿",
-      "category": "society",
-      "hotScore": 0.85,
-      "freshness": 1,
-      "crossSource": 0.6309,
-      "totalScore": 0.8293,
-      "sources": [
-        {
-          "channel": "toutiao",
-          "rank": 1,
-          "hot": 17506906,
-          "url": "https://www.toutiao.com/trending/7682330411086660106/"
-        }
-      ],
-      "summary": "",
-      "url": "https://www.toutiao.com/trending/7682330411086660106/"
-    },
-    {
-      "id": "evt-00000000",
-      "title": "印尼野火毒霾席卷东南亚：厄尔尼诺与泥炭地退化成双重推手",
-      "category": "society",
-      "hotScore": 0.85,
-      "freshness": 1,
-      "crossSource": 0.6309,
-      "totalScore": 0.8293,
-      "sources": [
-        {
-          "channel": "thepaper",
-          "rank": 1,
-          "hot": 0,
-          "url": "https://www.thepaper.cn/newsDetail_forward_34014788"
-        }
-      ],
-      "summary": "",
-      "url": "https://www.thepaper.cn/newsDetail_forward_34014788"
-    },
-    {
-      "id": "evt-57000000",
-      "title": "财政部570亿增资三家保险公司",
-      "category": "society",
-      "hotScore": 0.5525,
-      "freshness": 1,
-      "crossSource": 1,
-      "totalScore": 0.821,
-      "sources": [
-        {
-          "channel": "toutiao",
-          "rank": 8,
-          "hot": 8693672,
-          "url": "https://www.toutiao.com/trending/7682257618565595162/"
-        },
-        {
-          "channel": "baidu",
-          "rank": 14,
-          "hot": 0,
-          "url": "https://m.baidu.com/s?word=%E8%B4%A2%E6%94%BF%E9%83%A8570%E4%BA%BF%E5%A2%9E%E8%B5%84%E4%B8%89%E5%AE%B6%E4%BF%9D%E9%99%A9%E5%85%AC%E5%8F%B8&sa=fyb_news"
-        }
-      ],
-      "summary": "",
-      "url": "https://www.toutiao.com/trending/7682257618565595162/"
-    },
-    {
       "id": "evt-11000000",
       "title": "被困11天，中国一工人在尼泊尔获救：“看到灯光就使劲喊，一度以为没希望了”",
       "category": "society",
-      "hotScore": 0.765,
+      "hotScore": 0.85,
       "freshness": 1,
       "crossSource": 0.6309,
-      "totalScore": 0.7953,
+      "totalScore": 0.8293,
       "sources": [
         {
           "channel": "thepaper",
-          "rank": 3,
+          "rank": 1,
           "hot": 0,
           "url": "https://www.thepaper.cn/newsDetail_forward_34017169"
         }
@@ -114,55 +26,36 @@
       "url": "https://www.thepaper.cn/newsDetail_forward_34017169"
     },
     {
-      "id": "evt-36008000",
-      "title": "3600亿元！8家中央金融企业大动作",
+      "id": "evt-00000000",
+      "title": "多地严查赵一鸣等零食品牌",
       "category": "society",
-      "hotScore": 0.76,
-      "freshness": 1,
+      "hotScore": 0.85,
+      "freshness": 0.9998,
       "crossSource": 0.6309,
-      "totalScore": 0.7933,
-      "sources": [
-        {
-          "channel": "baidu",
-          "rank": 2,
-          "hot": 0,
-          "url": "https://m.baidu.com/s?word=3600%E4%BA%BF%E5%85%83%EF%BC%818%E5%AE%B6%E4%B8%AD%E5%A4%AE%E9%87%91%E8%9E%8D%E4%BC%81%E4%B8%9A%E5%A4%A7%E5%8A%A8%E4%BD%9C&sa=fyb_news"
-        }
-      ],
-      "summary": "",
-      "url": "https://m.baidu.com/s?word=3600%E4%BA%BF%E5%85%83%EF%BC%818%E5%AE%B6%E4%B8%AD%E5%A4%AE%E9%87%91%E8%9E%8D%E4%BC%81%E4%B8%9A%E5%A4%A7%E5%8A%A8%E4%BD%9C&sa=fyb_news"
-    },
-    {
-      "id": "evt-10000000",
-      "title": "工行农行拟分别募资1000亿和1600亿",
-      "category": "society",
-      "hotScore": 0.7225,
-      "freshness": 1,
-      "crossSource": 0.6309,
-      "totalScore": 0.7783,
+      "totalScore": 0.8292,
       "sources": [
         {
           "channel": "toutiao",
-          "rank": 4,
-          "hot": 12969435,
-          "url": "https://www.toutiao.com/trending/7682319883182277129/"
+          "rank": 1,
+          "hot": 15766918,
+          "url": "https://www.toutiao.com/trending/7682073467651227691/"
         }
       ],
       "summary": "",
-      "url": "https://www.toutiao.com/trending/7682319883182277129/"
+      "url": "https://www.toutiao.com/trending/7682073467651227691/"
     },
     {
       "id": "evt-50000000",
       "title": "当地回应5岁女孩病历被标注“刁蛮”：已修正病历，对涉事医生立案调查",
       "category": "society",
-      "hotScore": 0.7225,
+      "hotScore": 0.8075,
       "freshness": 1,
       "crossSource": 0.6309,
-      "totalScore": 0.7783,
+      "totalScore": 0.8123,
       "sources": [
         {
           "channel": "thepaper",
-          "rank": 4,
+          "rank": 2,
           "hot": 0,
           "url": "https://www.thepaper.cn/newsDetail_forward_34017446"
         }
@@ -171,61 +64,156 @@
       "url": "https://www.thepaper.cn/newsDetail_forward_34017446"
     },
     {
-      "id": "evt-43510000",
-      "title": "西藏泥石流43人遇难519人失联",
+      "id": "evt-82600000",
+      "title": "西藏吉隆“8·26”泥石流灾害造成43人遇难、519人失联",
       "category": "society",
-      "hotScore": 0.68,
+      "hotScore": 0.7225,
       "freshness": 1,
       "crossSource": 0.6309,
-      "totalScore": 0.7613,
-      "sources": [
-        {
-          "channel": "toutiao",
-          "rank": 5,
-          "hot": 11735230,
-          "url": "https://www.toutiao.com/trending/7682189960509738502/"
-        }
-      ],
-      "summary": "",
-      "url": "https://www.toutiao.com/trending/7682189960509738502/"
-    },
-    {
-      "id": "evt-30000000",
-      "title": "普京下令暂停打击基辅3天",
-      "category": "society",
-      "hotScore": 0.68,
-      "freshness": 1,
-      "crossSource": 0.6309,
-      "totalScore": 0.7613,
+      "totalScore": 0.7783,
       "sources": [
         {
           "channel": "thepaper",
-          "rank": 5,
+          "rank": 4,
           "hot": 0,
-          "url": "https://www.thepaper.cn/newsDetail_forward_34016496"
+          "url": "https://www.thepaper.cn/newsDetail_forward_34020192"
         }
       ],
       "summary": "",
-      "url": "https://www.thepaper.cn/newsDetail_forward_34016496"
+      "url": "https://www.thepaper.cn/newsDetail_forward_34020192"
     },
     {
-      "id": "evt-nsa00000",
-      "title": "如何评价 N-S 方程疑似被 AI 解决？",
+      "id": "evt-chinagt0",
+      "title": "如何看待 China GT 上海站赛车起火，车手放弃比赛救人，车队要求调查？赛事应急救援存在哪些漏洞？",
       "category": "society",
-      "hotScore": 0.675,
-      "freshness": 1,
+      "hotScore": 0.7125,
+      "freshness": 0.9998,
       "crossSource": 0.6309,
-      "totalScore": 0.7593,
+      "totalScore": 0.7742,
       "sources": [
         {
           "channel": "zhihu",
-          "rank": 3,
+          "rank": 2,
           "hot": 0,
           "url": ""
         }
       ],
       "summary": "",
       "url": ""
+    },
+    {
+      "id": "evt-70000000",
+      "title": "财政部将向中国太平注资70亿",
+      "category": "society",
+      "hotScore": 0.68,
+      "freshness": 0.9998,
+      "crossSource": 0.6309,
+      "totalScore": 0.7612,
+      "sources": [
+        {
+          "channel": "toutiao",
+          "rank": 5,
+          "hot": 10568881,
+          "url": "https://www.toutiao.com/trending/7682330411086660106/"
+        }
+      ],
+      "summary": "",
+      "url": "https://www.toutiao.com/trending/7682330411086660106/"
+    },
+    {
+      "id": "evt-10000000",
+      "title": "微塑料 10大日用品",
+      "category": "society",
+      "hotScore": 0.64,
+      "freshness": 0.9998,
+      "crossSource": 0.6309,
+      "totalScore": 0.7452,
+      "sources": [
+        {
+          "channel": "baidu",
+          "rank": 5,
+          "hot": 0,
+          "url": "https://m.baidu.com/s?word=%E5%BE%AE%E5%A1%91%E6%96%99+10%E5%A4%A7%E6%97%A5%E7%94%A8%E5%93%81&sa=fyb_news"
+        }
+      ],
+      "summary": "",
+      "url": "https://m.baidu.com/s?word=%E5%BE%AE%E5%A1%91%E6%96%99+10%E5%A4%A7%E6%97%A5%E7%94%A8%E5%93%81&sa=fyb_news"
+    },
+    {
+      "id": "evt-40000000",
+      "title": "男子对着英烈墙上4个同名烈士叫爷爷",
+      "category": "society",
+      "hotScore": 0.6375,
+      "freshness": 0.9998,
+      "crossSource": 0.6309,
+      "totalScore": 0.7442,
+      "sources": [
+        {
+          "channel": "toutiao",
+          "rank": 6,
+          "hot": 9563119,
+          "url": "https://www.toutiao.com/trending/7682344786523914278/"
+        }
+      ],
+      "summary": "",
+      "url": "https://www.toutiao.com/trending/7682344786523914278/"
+    },
+    {
+      "id": "evt-nsa00000",
+      "title": "如何评价 N-S 方程疑似被 AI 解决？",
+      "category": "society",
+      "hotScore": 0.6,
+      "freshness": 0.9998,
+      "crossSource": 0.6309,
+      "totalScore": 0.7292,
+      "sources": [
+        {
+          "channel": "zhihu",
+          "rank": 5,
+          "hot": 0,
+          "url": ""
+        }
+      ],
+      "summary": "",
+      "url": ""
+    },
+    {
+      "id": "evt-80000000",
+      "title": "女子怀孕后工资从8000调到3000",
+      "category": "society",
+      "hotScore": 0.5525,
+      "freshness": 0.9998,
+      "crossSource": 0.6309,
+      "totalScore": 0.7102,
+      "sources": [
+        {
+          "channel": "toutiao",
+          "rank": 8,
+          "hot": 7829620,
+          "url": "https://www.toutiao.com/trending/7681226790446628915/"
+        }
+      ],
+      "summary": "",
+      "url": "https://www.toutiao.com/trending/7681226790446628915/"
+    },
+    {
+      "id": "evt-36000000",
+      "title": "怎么看财政部3600亿注资金融机构",
+      "category": "society",
+      "hotScore": 0.51,
+      "freshness": 0.9998,
+      "crossSource": 0.6309,
+      "totalScore": 0.6932,
+      "sources": [
+        {
+          "channel": "toutiao",
+          "rank": 9,
+          "hot": 7084533,
+          "url": "https://www.toutiao.com/trending/7682416998315200006/"
+        }
+      ],
+      "summary": "",
+      "url": "https://www.toutiao.com/trending/7682416998315200006/"
     }
   ]
 }
