@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8"?>
+<vector xmlns:android="http://schemas.android.com/apk/res/android"
+    android:width="48dp"
+    android:height="48dp"
+    android:viewportWidth="48"
+    android:viewportHeight="48">
+    <!-- 中间连接杆 -->
+    <path
+        android:fillColor="#FFFFFF"
+        android:pathData="M14,22 h20 v5 h-20 z" />
+    <!-- 四个骨节 -->
+    <path
+        android:fillColor="#FFFFFF"
+        android:pathData="M14,18 m-6.5,0 a6.5,6.5 0 1,0 13,0 a6.5,6.5 0 1,0 -13,0" />
+    <path
+        android:fillColor="#FFFFFF"
+        android:pathData="M14,31 m-6.5,0 a6.5,6.5 0 1,0 13,0 a6.5,6.5 0 1,0 -13,0" />
+    <path
+        android:fillColor="#FFFFFF"
+        android:pathData="M34,18 m-6.5,0 a6.5,6.5 0 1,0 13,0 a6.5,6.5 0 1,0 -13,0" />
+    <path
+        android:fillColor="#FFFFFF"
+        android:pathData="M34,31 m-6.5,0 a6.5,6.5 0 1,0 13,0 a6.5,6.5 0 1,0 -13,0" />
+</vector>

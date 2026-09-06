@@ -49,6 +49,7 @@ import androidx.compose.ui.draw.clip
 import androidx.compose.ui.draw.rotate
 import androidx.compose.ui.draw.scale
 import androidx.compose.ui.draw.shadow
+import androidx.compose.ui.graphics.Brush
 import androidx.compose.ui.graphics.Color
 import androidx.compose.ui.input.pointer.pointerInput
 import androidx.compose.ui.layout.ContentScale
@@ -56,6 +57,7 @@ import androidx.compose.ui.platform.LocalContext
 import androidx.compose.ui.res.painterResource
 import androidx.compose.ui.text.font.FontWeight
 import androidx.compose.ui.text.style.TextAlign
+import androidx.compose.ui.unit.Dp
 import androidx.compose.ui.unit.dp
 import androidx.compose.ui.unit.sp
 import androidx.core.content.ContextCompat
@@ -92,13 +94,34 @@ fun KidScreen(vm: MainViewModel, onOpenParent: () -> Unit) {
     Box(
         Modifier
             .fillMaxSize()
-            .background(Color(0xFFEAF3FF))
+            .background(
+                Brush.verticalGradient(
+                    colors = listOf(
+                        Color(0xFF9FD6FF), // 天空蓝
+                        Color(0xFFD9EEFF), // 云隙浅蓝
+                        Color(0xFFE3F4E6), // 草地浅绿
+                    )
+                )
+            )
     ) {
-        // ---------- 背景装饰：半透明狗爪印 ----------
-        PawDecoration(Rotation = -15f, modifier = Modifier.align(Alignment.TopStart).offset(x = 8.dp, y = 60.dp))
-        PawDecoration(Rotation = 20f, modifier = Modifier.align(Alignment.TopEnd).offset(x = (-8).dp, y = 120.dp))
-        PawDecoration(Rotation = -25f, modifier = Modifier.align(Alignment.BottomStart).offset(x = 16.dp, y = (-40).dp))
-        PawDecoration(Rotation = 10f, modifier = Modifier.align(Alignment.BottomEnd).offset(x = (-12).dp, y = (-80).dp))
+        // ---------- 背景装饰：云朵 + 六犬代表色狗爪 + 骨头 ----------
+        CloudDecoration(modifier = Modifier.align(Alignment.TopStart).offset(x = (-14).dp, y = 26.dp), size = 96.dp)
+        CloudDecoration(modifier = Modifier.align(Alignment.TopEnd).offset(x = (-6).dp, y = 104.dp), size = 64.dp)
+
+        // 各队员代表色的爪印
+        PawDecoration(Rotation = -18f, color = Color(0xFF2E5FA3), modifier = Modifier.align(Alignment.TopStart).offset(x = 26.dp, y = 240.dp))   // 阿奇·警蓝
+        PawDecoration(Rotation = 14f, color = Color(0xFFE63946), modifier = Modifier.align(Alignment.TopEnd).offset(x = (-30).dp, y = 220.dp))   // 毛毛·红
+        PawDecoration(Rotation = 32f, color = Color(0xFFFFFFFF), modifier = Modifier.align(Alignment.TopStart).offset(x = 4.dp, y = 150.dp))     // 白爪
+        PawDecoration(Rotation = -8f, color = Color(0xFF43A047), modifier = Modifier.align(Alignment.TopEnd).offset(x = (-8).dp, y = 350.dp))    // 灰灰·绿
+        PawDecoration(Rotation = 12f, color = Color(0xFFF06292), modifier = Modifier.align(Alignment.TopStart).offset(x = 40.dp, y = 400.dp))    // 天天·粉
+        PawDecoration(Rotation = 18f, color = Color(0xFFF57C00), modifier = Modifier.align(Alignment.BottomStart).offset(x = 40.dp, y = (-200).dp))  // 路马·橙
+        PawDecoration(Rotation = -14f, color = Color(0xFFF9A825), modifier = Modifier.align(Alignment.BottomEnd).offset(x = (-36).dp, y = (-210).dp)) // 小砾·黄
+        PawDecoration(Rotation = 25f, color = Color(0xFFFFFFFF), modifier = Modifier.align(Alignment.BottomEnd).offset(x = (-10).dp, y = (-150).dp))  // 白爪
+
+        // 散落的骨头
+        BoneDecoration(Rotation = -15f, modifier = Modifier.align(Alignment.TopStart).offset(x = 62.dp, y = 190.dp))
+        BoneDecoration(Rotation = 20f, modifier = Modifier.align(Alignment.TopEnd).offset(x = (-70).dp, y = 320.dp))
+        BoneDecoration(Rotation = -10f, modifier = Modifier.align(Alignment.BottomStart).offset(x = 16.dp, y = (-230).dp))
 
         // ---------- 家长入口：藏在角落的小齿轮 ----------
         IconButton(
@@ -255,20 +278,54 @@ private fun statusColor(state: TalkState): Color = when (state) {
     TalkState.Speaking -> Color(0xFF35B46A)
 }
 
-/** 背景狗爪装饰 */
+/** 背景狗爪装饰（可指定队员代表色） */
 @Composable
 private fun PawDecoration(
     Rotation: Float,
-    modifier: Modifier = Modifier
+    color: Color,
+    modifier: Modifier = Modifier,
 ) {
     Icon(
         painter = painterResource(R.drawable.ic_paw),
         contentDescription = null,
-        tint = Color(0xFF2E7CF6),
+        tint = color,
         modifier = modifier
             .size(64.dp)
-            .alpha(0.1f)
+            .alpha(0.16f)
             .rotate(Rotation)
+    )
+}
+
+/** 背景骨头装饰 */
+@Composable
+private fun BoneDecoration(
+    Rotation: Float,
+    modifier: Modifier = Modifier,
+) {
+    Icon(
+        painter = painterResource(R.drawable.ic_bone),
+        contentDescription = null,
+        tint = Color(0xFFFFFDF5),
+        modifier = modifier
+            .size(46.dp)
+            .alpha(0.55f)
+            .rotate(Rotation)
+    )
+}
+
+/** 背景云朵装饰 */
+@Composable
+private fun CloudDecoration(
+    modifier: Modifier = Modifier,
+    size: Dp = 96.dp,
+) {
+    Icon(
+        painter = painterResource(R.drawable.ic_cloud),
+        contentDescription = null,
+        tint = Color.White,
+        modifier = modifier
+            .size(size)
+            .alpha(0.85f)
     )
 }
 
