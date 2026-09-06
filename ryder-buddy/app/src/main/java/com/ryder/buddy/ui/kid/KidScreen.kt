@@ -22,8 +22,10 @@ import androidx.compose.foundation.layout.Spacer
 import androidx.compose.foundation.layout.fillMaxSize
 import androidx.compose.foundation.layout.fillMaxWidth
 import androidx.compose.foundation.layout.height
+import androidx.compose.foundation.layout.navigationBarsPadding
 import androidx.compose.foundation.layout.offset
 import androidx.compose.foundation.layout.padding
+import androidx.compose.foundation.layout.statusBarsPadding
 import androidx.compose.foundation.layout.size
 import androidx.compose.foundation.shape.CircleShape
 import androidx.compose.foundation.shape.RoundedCornerShape
@@ -123,11 +125,12 @@ fun KidScreen(vm: MainViewModel, onOpenParent: () -> Unit) {
         BoneDecoration(Rotation = 20f, modifier = Modifier.align(Alignment.TopEnd).offset(x = (-70).dp, y = 320.dp))
         BoneDecoration(Rotation = -10f, modifier = Modifier.align(Alignment.BottomStart).offset(x = 16.dp, y = (-230).dp))
 
-        // ---------- 家长入口：藏在角落的小齿轮 ----------
+        // ---------- 家长入口：藏在角落的小齿轮（避开状态栏） ----------
         IconButton(
             onClick = onOpenParent,
             modifier = Modifier
                 .align(Alignment.TopEnd)
+                .statusBarsPadding()
                 .padding(8.dp)
         ) {
             Icon(Icons.Filled.Settings, contentDescription = "家长设置", tint = Color(0xFF7A8BA6))
@@ -219,7 +222,7 @@ fun KidScreen(vm: MainViewModel, onOpenParent: () -> Unit) {
             PawPatrolTeamRow(talkState = talkState)
         }
 
-        // ---------- 底部：莱德说的话（气泡式卡片） ----------
+        // ---------- 底部：莱德说的话（气泡式卡片，避开导航栏） ----------
         if (lastReply.isNotBlank() && talkState != TalkState.Listening) {
             Card(
                 shape = RoundedCornerShape(24.dp),
@@ -227,6 +230,7 @@ fun KidScreen(vm: MainViewModel, onOpenParent: () -> Unit) {
                 elevation = CardDefaults.cardElevation(defaultElevation = 3.dp),
                 modifier = Modifier
                     .align(Alignment.BottomCenter)
+                    .navigationBarsPadding()
                     .padding(16.dp)
                     .fillMaxWidth()
             ) {

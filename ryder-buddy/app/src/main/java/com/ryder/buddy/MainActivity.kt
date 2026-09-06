@@ -1,8 +1,11 @@
 package com.ryder.buddy
 
+import android.graphics.Color
 import android.os.Bundle
 import androidx.activity.ComponentActivity
+import androidx.activity.SystemBarStyle
 import androidx.activity.compose.setContent
+import androidx.activity.enableEdgeToEdge
 import androidx.compose.runtime.Composable
 import androidx.lifecycle.viewmodel.compose.viewModel
 import androidx.navigation.compose.NavHost
@@ -15,6 +18,15 @@ import com.ryder.buddy.ui.theme.RyderBuddyTheme
 
 class MainActivity : ComponentActivity() {
     override fun onCreate(savedInstanceState: Bundle?) {
+        // 全屏沉浸：画面延伸到状态栏/导航栏底下，图标用深色（App 是浅色背景）
+        enableEdgeToEdge(
+            statusBarStyle = SystemBarStyle.light(
+                Color.TRANSPARENT, Color.TRANSPARENT
+            ),
+            navigationBarStyle = SystemBarStyle.light(
+                Color.TRANSPARENT, Color.TRANSPARENT
+            ),
+        )
         super.onCreate(savedInstanceState)
         setContent {
             RyderBuddyTheme {
