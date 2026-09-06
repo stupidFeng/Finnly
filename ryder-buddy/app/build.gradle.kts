@@ -17,9 +17,23 @@ android {
         versionName = "0.1.0"
     }
 
+    // 固定签名：避免每次 CI 构建签名不同导致必须卸载旧 APK 才能安装
+    signingConfigs {
+        create("shared") {
+            storeFile = file("ryder.keystore")
+            storePassword = "ryder123"
+            keyAlias = "ryder"
+            keyPassword = "ryder123"
+        }
+    }
+
     buildTypes {
+        debug {
+            signingConfig = signingConfigs.getByName("shared")
+        }
         release {
             isMinifyEnabled = false
+            signingConfig = signingConfigs.getByName("shared")
             proguardFiles(getDefaultProguardFile("proguard-android-optimize.txt"), "proguard-rules.pro")
         }
     }
