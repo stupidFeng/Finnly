@@ -7,6 +7,7 @@ import androidx.activity.result.contract.ActivityResultContracts
 import androidx.compose.animation.core.animateFloat
 import androidx.compose.animation.core.animateFloatAsState
 import androidx.compose.animation.core.infiniteRepeatable
+import androidx.compose.animation.core.RepeatMode
 import androidx.compose.animation.core.rememberInfiniteTransition
 import androidx.compose.animation.core.tween
 import androidx.compose.foundation.Image
@@ -117,7 +118,7 @@ fun KidScreen(vm: MainViewModel, onOpenParent: () -> Unit) {
             // 莱德头像（圆形裁剪 + 白色描边）
             Box(
                 modifier = Modifier
-                    .size(120.dp)
+                    .size(96.dp)
                     .shadow(8.dp, CircleShape)
                     .clip(CircleShape)
                     .border(4.dp, Color.White, CircleShape)
@@ -130,17 +131,17 @@ fun KidScreen(vm: MainViewModel, onOpenParent: () -> Unit) {
                 )
             }
 
-            Spacer(Modifier.height(8.dp))
+            Spacer(Modifier.height(6.dp))
 
             // 状态文字（大字、少字，孩子靠颜色区分）
             Text(
                 text = statusLabel(talkState),
-                fontSize = 28.sp,
+                fontSize = 26.sp,
                 fontWeight = FontWeight.Black,
                 color = statusColor(talkState)
             )
 
-            Spacer(Modifier.height(24.dp))
+            Spacer(Modifier.height(18.dp))
 
             // 超大按钮 + 毛毛头像装饰
             Box(contentAlignment = Alignment.Center) {
@@ -159,8 +160,8 @@ fun KidScreen(vm: MainViewModel, onOpenParent: () -> Unit) {
                 Box(
                     modifier = Modifier
                         .align(Alignment.BottomEnd)
-                        .offset(x = 8.dp, y = 8.dp)
-                        .size(56.dp)
+                        .offset(x = 6.dp, y = 6.dp)
+                        .size(52.dp)
                         .shadow(6.dp, CircleShape)
                         .clip(CircleShape)
                         .border(3.dp, Color.White, CircleShape)
@@ -174,7 +175,7 @@ fun KidScreen(vm: MainViewModel, onOpenParent: () -> Unit) {
                 }
             }
 
-            Spacer(Modifier.height(20.dp))
+            Spacer(Modifier.height(14.dp))
 
             // 听到的内容 / 提示文字
             Text(
@@ -183,11 +184,16 @@ fun KidScreen(vm: MainViewModel, onOpenParent: () -> Unit) {
                     !hasMicPermission -> "点这里，允许录音哦"
                     else -> "按住大按钮，和莱德说话！"
                 },
-                fontSize = 18.sp,
+                fontSize = 17.sp,
                 color = Color(0xFF48586F),
                 textAlign = TextAlign.Center,
                 modifier = Modifier.padding(horizontal = 32.dp)
             )
+
+            Spacer(Modifier.height(14.dp))
+
+            // ---------- 汪汪队全员集合 ----------
+            PawPatrolTeamRow(talkState = talkState)
         }
 
         // ---------- 底部：莱德说的话（气泡式卡片） ----------
@@ -264,6 +270,60 @@ private fun PawDecoration(
             .alpha(0.1f)
             .rotate(Rotation)
     )
+}
+
+/** 汪汪队全员集合栏：六只狗狗小头像；莱德说话时集体"欢呼"跳动 */
+@Composable
+private fun PawPatrolTeamRow(talkState: TalkState) {
+    val cheering = talkState == TalkState.Speaking
+    Row(
+        horizontalArrangement = Arrangement.spacedBy(10.dp),
+        verticalAlignment = Alignment.Bottom,
+    ) {
+        TeamDogAvatar(R.drawable.ic_chase_avatar, "阿奇", cheering, index = 0)
+        TeamDogAvatar(R.drawable.ic_marshall_avatar, "毛毛", cheering, index = 1)
+        TeamDogAvatar(R.drawable.ic_skye_avatar, "天天", cheering, index = 2)
+        TeamDogAvatar(R.drawable.ic_rocky_avatar, "灰灰", cheering, index = 3)
+        TeamDogAvatar(R.drawable.ic_zuma_avatar, "路马", cheering, index = 4)
+        TeamDogAvatar(R.drawable.ic_rubble_avatar, "小砾", cheering, index = 5)
+    }
+}
+
+/** 单只狗狗头像：cheering 时错峰上下跳动，像啦啦队 */
+@Composable
+private fun TeamDogAvatar(
+    resId: Int,
+    name: String,
+    cheering: Boolean,
+    index: Int,
+) {
+    val transition = rememberInfiniteTransition(label = name)
+    val bounce by transition.animateFloat(
+        initialValue = 0f,
+        targetValue = 1f,
+        animationSpec = infiniteRepeatable(
+            animation = tween(450, delayMillis = index * 80),
+            repeatMode = RepeatMode.Reverse
+        ),
+        label = "bounce$name"
+    )
+    val offsetY = if (cheering) (-7f * bounce).dp else 0.dp
+
+    Box(
+        modifier = Modifier
+            .offset(y = offsetY)
+            .size(40.dp)
+            .shadow(3.dp, CircleShape)
+            .clip(CircleShape)
+            .border(2.dp, Color.White, CircleShape)
+    ) {
+        Image(
+            painter = painterResource(resId),
+            contentDescription = name,
+            modifier = Modifier.fillMaxSize(),
+            contentScale = ContentScale.Crop
+        )
+    }
 }
 
 /** 超大圆形按住说话按钮：按下聆听（脉冲呼吸），松开发送；颜色随状态变化 */
