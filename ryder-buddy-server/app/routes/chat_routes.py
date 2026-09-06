@@ -142,7 +142,10 @@ async def chat_audio(
             yield sse(error_event("云端耳朵还没配置好，请爸爸到管理面板设置 ASR"))
             return
         try:
-            text = await transcribe(key.base_url, key.api_key, key.model, audio_bytes)
+            text = await transcribe(
+                key.base_url, key.api_key, key.model, audio_bytes,
+                filename=file.filename or "audio.wav",
+            )
         except AsrError as e:
             yield sse(error_event(f"云端听写失败：{e}"))
             return

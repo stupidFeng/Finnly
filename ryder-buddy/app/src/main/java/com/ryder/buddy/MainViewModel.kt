@@ -92,19 +92,30 @@ class MainViewModel(application: Application) : AndroidViewModel(application) {
             ) != PackageManager.PERMISSION_GRANTED
         ) return
 
-        if (!asr.isAvailable) {
-            speakRyder("哎呀，莱德的对讲机还没装好，请爸爸妈妈到家长面板看看吧！")
-            return
-        }
-
         talkJob?.cancel()
         speakJob?.cancel()
         tts.stop()
         cloudAudio.stop()
         _heard.value = ""
         _talkState.value = TalkState.Listening
-        // 并行录音：本地识别失败时把这份音频传给云端"再听一遍"
-        recorder.start()
+
+        // 无本地语音引擎且未连服务器：语音确实无法进行（离线模式无云端兜底）
+        if (!asr.isAvailable && !isServerMode()) {
+            _talkState.value = TalkState.Idle
+            speakRyder("哎呀，莱德的对讲机还没装好，请爸爸妈妈到家长面板看看吧！")
+            return
+        }
+
+        // 录音始终并行：本地识别失败或无本地引擎时，这份音频交给云端识别
+        val recording = recorder.start()
+        if (!asr.isAvailable) {
+            // 纯云端模式：只录音，松开按钮后上传云端 ASR（不依赖设备语音服务）
+            if (!recording) {
+                _talkState.value = TalkState.Idle
+                speakRyder("哎呀，对讲机出了点小问题，再试一次吧！")
+            }
+            return
+        }
         asr.startListening(
             onPartial = { _heard.value = it },
             onFinal = { text ->
@@ -124,7 +135,19 @@ class MainViewModel(application: Application) : AndroidViewModel(application) {
     }
 
     fun stopListening() {
-        if (_talkState.value == TalkState.Listening) asr.stopListening()
+        if (_talkState.value != TalkState.Listening) return
+        if (asr.isAvailable) {
+            asr.stopListening()
+        } else {
+            // 纯云端模式：停止录音并上传云端 ASR
+            val wav = recorder.stop()
+            if (wav != null && isServerMode()) {
+                respondWithAudio(wav, hint = "（莱德在认真听…）")
+            } else {
+                _talkState.value = TalkState.Idle
+                speakRyder("莱德没有听清，再大声说一次好不好？")
+            }
+        }
     }
 
     private fun isServerMode(): Boolean =
@@ -175,11 +198,11 @@ class MainViewModel(application: Application) : AndroidViewModel(application) {
         }
     }
 
-    /** 服务器模式：本地识别失败，上传录音走云端 ASR 兜底 */
-    private fun respondWithAudio(wav: ByteArray) {
+    /** 服务器模式：上传录音走云端 ASR（本地识别失败的兜底 / 无本地引擎时的主路径） */
+    private fun respondWithAudio(wav: ByteArray, hint: String = "（让云端再听一遍…）") {
         val config = serverConfig.value ?: return
         _talkState.value = TalkState.Thinking
-        _heard.value = "（让云端再听一遍…）"
+        _heard.value = hint
 
         talkJob = viewModelScope.launch {
             try {
