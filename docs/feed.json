@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-09-06T14:35:36.617Z",
+  "generatedAt": "2026-09-06T17:52:14.854Z",
   "fields": {
     "society": "社会",
     "economy": "经济",
@@ -7,37 +7,18 @@
   },
   "feed": [
     {
-      "id": "evt-11000000",
-      "title": "被困11天，中国一工人在尼泊尔获救：“看到灯光就使劲喊，一度以为没希望了”",
-      "category": "society",
-      "hotScore": 0.85,
-      "freshness": 1,
-      "crossSource": 0.6309,
-      "totalScore": 0.8293,
-      "sources": [
-        {
-          "channel": "thepaper",
-          "rank": 1,
-          "hot": 0,
-          "url": "https://www.thepaper.cn/newsDetail_forward_34017169"
-        }
-      ],
-      "summary": "",
-      "url": "https://www.thepaper.cn/newsDetail_forward_34017169"
-    },
-    {
       "id": "evt-00000000",
       "title": "多地严查赵一鸣等零食品牌",
       "category": "society",
       "hotScore": 0.85,
-      "freshness": 0.9998,
+      "freshness": 0.9999,
       "crossSource": 0.6309,
-      "totalScore": 0.8292,
+      "totalScore": 0.8293,
       "sources": [
         {
           "channel": "toutiao",
           "rank": 1,
-          "hot": 15766918,
+          "hot": 16824078,
           "url": "https://www.toutiao.com/trending/7682073467651227691/"
         }
       ],
@@ -45,8 +26,8 @@
       "url": "https://www.toutiao.com/trending/7682073467651227691/"
     },
     {
-      "id": "evt-50000000",
-      "title": "当地回应5岁女孩病历被标注“刁蛮”：已修正病历，对涉事医生立案调查",
+      "id": "evt-82600000",
+      "title": "西藏吉隆“8·26”泥石流灾害造成43人遇难、519人失联",
       "category": "society",
       "hotScore": 0.8075,
       "freshness": 1,
@@ -57,25 +38,6 @@
           "channel": "thepaper",
           "rank": 2,
           "hot": 0,
-          "url": "https://www.thepaper.cn/newsDetail_forward_34017446"
-        }
-      ],
-      "summary": "",
-      "url": "https://www.thepaper.cn/newsDetail_forward_34017446"
-    },
-    {
-      "id": "evt-82600000",
-      "title": "西藏吉隆“8·26”泥石流灾害造成43人遇难、519人失联",
-      "category": "society",
-      "hotScore": 0.7225,
-      "freshness": 1,
-      "crossSource": 0.6309,
-      "totalScore": 0.7783,
-      "sources": [
-        {
-          "channel": "thepaper",
-          "rank": 4,
-          "hot": 0,
           "url": "https://www.thepaper.cn/newsDetail_forward_34020192"
         }
       ],
@@ -83,37 +45,18 @@
       "url": "https://www.thepaper.cn/newsDetail_forward_34020192"
     },
     {
-      "id": "evt-chinagt0",
-      "title": "如何看待 China GT 上海站赛车起火，车手放弃比赛救人，车队要求调查？赛事应急救援存在哪些漏洞？",
-      "category": "society",
-      "hotScore": 0.7125,
-      "freshness": 0.9998,
-      "crossSource": 0.6309,
-      "totalScore": 0.7742,
-      "sources": [
-        {
-          "channel": "zhihu",
-          "rank": 2,
-          "hot": 0,
-          "url": ""
-        }
-      ],
-      "summary": "",
-      "url": ""
-    },
-    {
       "id": "evt-70000000",
       "title": "财政部将向中国太平注资70亿",
       "category": "society",
-      "hotScore": 0.68,
-      "freshness": 0.9998,
+      "hotScore": 0.7225,
+      "freshness": 0.9999,
       "crossSource": 0.6309,
-      "totalScore": 0.7612,
+      "totalScore": 0.7783,
       "sources": [
         {
           "channel": "toutiao",
-          "rank": 5,
-          "hot": 10568881,
+          "rank": 4,
+          "hot": 12463583,
           "url": "https://www.toutiao.com/trending/7682330411086660106/"
         }
       ],
@@ -121,51 +64,95 @@
       "url": "https://www.toutiao.com/trending/7682330411086660106/"
     },
     {
-      "id": "evt-10000000",
-      "title": "微塑料 10大日用品",
+      "id": "evt-chinagt0",
+      "title": "CHINA GT就碰撞起火事故致歉",
       "category": "society",
-      "hotScore": 0.64,
-      "freshness": 0.9998,
-      "crossSource": 0.6309,
-      "totalScore": 0.7452,
+      "hotScore": 0.425,
+      "freshness": 0.9999,
+      "crossSource": 1,
+      "totalScore": 0.77,
       "sources": [
         {
-          "channel": "baidu",
-          "rank": 5,
+          "channel": "toutiao",
+          "rank": 17,
+          "hot": 3396722,
+          "url": "https://www.toutiao.com/trending/7682303566215695898/"
+        },
+        {
+          "channel": "thepaper",
+          "rank": 11,
           "hot": 0,
-          "url": "https://m.baidu.com/s?word=%E5%BE%AE%E5%A1%91%E6%96%99+10%E5%A4%A7%E6%97%A5%E7%94%A8%E5%93%81&sa=fyb_news"
+          "url": "https://www.thepaper.cn/newsDetail_forward_34019796"
         }
       ],
       "summary": "",
-      "url": "https://m.baidu.com/s?word=%E5%BE%AE%E5%A1%91%E6%96%99+10%E5%A4%A7%E6%97%A5%E7%94%A8%E5%93%81&sa=fyb_news"
+      "url": "https://www.toutiao.com/trending/7682303566215695898/"
     },
     {
-      "id": "evt-40000000",
-      "title": "男子对着英烈墙上4个同名烈士叫爷爷",
+      "id": "evt-20000000",
+      "title": "《花儿与少年 2》被誉为内娱综艺史上无法超越的巅峰，如何评价其历史地位？",
+      "category": "entertainment",
+      "hotScore": 0.45,
+      "freshness": 0.9999,
+      "crossSource": 0.6309,
+      "totalScore": 0.6693,
+      "sources": [
+        {
+          "channel": "zhihu",
+          "rank": 9,
+          "hot": 0,
+          "url": ""
+        }
+      ],
+      "summary": "",
+      "url": ""
+    },
+    {
+      "id": "evt-50000000",
+      "title": "毛泽东同志逝世50周年纪念日，纪念堂上下午均安排开放时段",
+      "category": "society",
+      "hotScore": 0.68,
+      "freshness": 1,
+      "crossSource": 0.6309,
+      "totalScore": 0.7613,
+      "sources": [
+        {
+          "channel": "thepaper",
+          "rank": 5,
+          "hot": 0,
+          "url": "https://www.thepaper.cn/newsDetail_forward_34019209"
+        }
+      ],
+      "summary": "",
+      "url": "https://www.thepaper.cn/newsDetail_forward_34019209"
+    },
+    {
+      "id": "evt-80000000",
+      "title": "女子怀孕后工资从8000调到3000",
       "category": "society",
       "hotScore": 0.6375,
-      "freshness": 0.9998,
+      "freshness": 0.9999,
       "crossSource": 0.6309,
-      "totalScore": 0.7442,
+      "totalScore": 0.7443,
       "sources": [
         {
           "channel": "toutiao",
           "rank": 6,
-          "hot": 9563119,
-          "url": "https://www.toutiao.com/trending/7682344786523914278/"
+          "hot": 10204319,
+          "url": "https://www.toutiao.com/trending/7681226790446628915/"
         }
       ],
       "summary": "",
-      "url": "https://www.toutiao.com/trending/7682344786523914278/"
+      "url": "https://www.toutiao.com/trending/7681226790446628915/"
     },
     {
       "id": "evt-nsa00000",
       "title": "如何评价 N-S 方程疑似被 AI 解决？",
       "category": "society",
       "hotScore": 0.6,
-      "freshness": 0.9998,
+      "freshness": 0.9999,
       "crossSource": 0.6309,
-      "totalScore": 0.7292,
+      "totalScore": 0.7293,
       "sources": [
         {
           "channel": "zhihu",
@@ -178,42 +165,23 @@
       "url": ""
     },
     {
-      "id": "evt-80000000",
-      "title": "女子怀孕后工资从8000调到3000",
-      "category": "society",
-      "hotScore": 0.5525,
-      "freshness": 0.9998,
-      "crossSource": 0.6309,
-      "totalScore": 0.7102,
-      "sources": [
-        {
-          "channel": "toutiao",
-          "rank": 8,
-          "hot": 7829620,
-          "url": "https://www.toutiao.com/trending/7681226790446628915/"
-        }
-      ],
-      "summary": "",
-      "url": "https://www.toutiao.com/trending/7681226790446628915/"
-    },
-    {
-      "id": "evt-36000000",
-      "title": "怎么看财政部3600亿注资金融机构",
+      "id": "evt-30000000",
+      "title": "财政部将向中国人寿注资350亿",
       "category": "society",
       "hotScore": 0.51,
-      "freshness": 0.9998,
+      "freshness": 0.9999,
       "crossSource": 0.6309,
-      "totalScore": 0.6932,
+      "totalScore": 0.6933,
       "sources": [
         {
           "channel": "toutiao",
           "rank": 9,
-          "hot": 7084533,
-          "url": "https://www.toutiao.com/trending/7682416998315200006/"
+          "hot": 7559545,
+          "url": "https://www.toutiao.com/trending/7681940225756548651/"
         }
       ],
       "summary": "",
-      "url": "https://www.toutiao.com/trending/7682416998315200006/"
+      "url": "https://www.toutiao.com/trending/7681940225756548651/"
     }
   ]
 }
