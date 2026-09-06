@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-09-05T23:26:34.843Z",
+  "generatedAt": "2026-09-06T01:52:04.557Z",
   "fields": {
     "society": "社会",
     "economy": "经济",
@@ -8,31 +8,31 @@
   "feed": [
     {
       "id": "evt-00000000",
-      "title": "郑钦文决胜盘惊天大逆转",
+      "title": "葫芦娃爷爷提前剪掉葫芦称需要休息",
       "category": "society",
       "hotScore": 0.85,
       "freshness": 0.9999,
-      "crossSource": 1,
-      "totalScore": 0.94,
+      "crossSource": 0.6309,
+      "totalScore": 0.8293,
       "sources": [
         {
           "channel": "toutiao",
           "rank": 1,
-          "hot": 11559582,
-          "url": "https://www.toutiao.com/trending/7681603717224730155/"
+          "hot": 8869329,
+          "url": "https://www.toutiao.com/trending/7682187352927915530/"
         }
       ],
       "summary": "",
-      "url": "https://www.toutiao.com/trending/7681603717224730155/"
+      "url": "https://www.toutiao.com/trending/7682187352927915530/"
     },
     {
-      "id": "evt-15000000",
-      "title": "联合国警告称升温 1.5℃已无法避免，能做的只有压低超额升温，这是否意味着变暖要失控了？",
+      "id": "evt-20260000",
+      "title": "2026 搞笑诺贝尔奖来了，「蟑螂奶」获化学奖，其能量据称是牛奶 4 倍，还有哪些看点？",
       "category": "society",
       "hotScore": 0.75,
       "freshness": 0.9999,
-      "crossSource": 1,
-      "totalScore": 0.9,
+      "crossSource": 0.6309,
+      "totalScore": 0.7893,
       "sources": [
         {
           "channel": "zhihu",
@@ -45,17 +45,74 @@
       "url": ""
     },
     {
-      "id": "evt-20260000",
-      "title": "2026 搞笑诺贝尔奖来了，「蟑螂奶」获化学奖，其能量据称是牛奶 4 倍，还有哪些看点？",
+      "id": "evt-70000000",
+      "title": "“葫芦娃爷爷”连夜剪下阳台7个葫芦",
       "category": "society",
-      "hotScore": 0.7125,
+      "hotScore": 0.72,
+      "freshness": 1,
+      "crossSource": 0.6309,
+      "totalScore": 0.7773,
+      "sources": [
+        {
+          "channel": "baidu",
+          "rank": 3,
+          "hot": 0,
+          "url": "https://m.baidu.com/s?word=%E2%80%9C%E8%91%AB%E8%8A%A6%E5%A8%83%E7%88%B7%E7%88%B7%E2%80%9D%E8%BF%9E%E5%A4%9C%E5%89%AA%E4%B8%8B%E9%98%B3%E5%8F%B07%E4%B8%AA%E8%91%AB%E8%8A%A6&sa=fyb_news"
+        }
+      ],
+      "summary": "",
+      "url": "https://m.baidu.com/s?word=%E2%80%9C%E8%91%AB%E8%8A%A6%E5%A8%83%E7%88%B7%E7%88%B7%E2%80%9D%E8%BF%9E%E5%A4%9C%E5%89%AA%E4%B8%8B%E9%98%B3%E5%8F%B07%E4%B8%AA%E8%91%AB%E8%8A%A6&sa=fyb_news"
+    },
+    {
+      "id": "evt-50000000",
+      "title": "当地回应5岁女孩病历被标注“刁蛮”：已修正病历，对涉事医生立案调查",
+      "category": "society",
+      "hotScore": 0.68,
+      "freshness": 1,
+      "crossSource": 0.6309,
+      "totalScore": 0.7613,
+      "sources": [
+        {
+          "channel": "thepaper",
+          "rank": 5,
+          "hot": 0,
+          "url": "https://www.thepaper.cn/newsDetail_forward_34017446"
+        }
+      ],
+      "summary": "",
+      "url": "https://www.thepaper.cn/newsDetail_forward_34017446"
+    },
+    {
+      "id": "evt-dc000000",
+      "title": "盖尔·加朵确认 DC 未计划她继续出演神奇女侠，这对于 DC 新电影宇宙意味着什么？",
+      "category": "entertainment",
+      "hotScore": 0.6,
       "freshness": 0.9999,
-      "crossSource": 1,
-      "totalScore": 0.885,
+      "crossSource": 0.6309,
+      "totalScore": 0.7293,
       "sources": [
         {
           "channel": "zhihu",
-          "rank": 2,
+          "rank": 5,
+          "hot": 0,
+          "url": ""
+        }
+      ],
+      "summary": "",
+      "url": ""
+    },
+    {
+      "id": "evt-57000000",
+      "title": "摇滚歌手何勇病逝，年仅 57 岁，长期精神疾病会怎样影响一个人的健康状况和寿命？",
+      "category": "entertainment",
+      "hotScore": 0.45,
+      "freshness": 0.9999,
+      "crossSource": 0.6309,
+      "totalScore": 0.6693,
+      "sources": [
+        {
+          "channel": "zhihu",
+          "rank": 9,
           "hot": 0,
           "url": ""
         }
@@ -69,8 +126,8 @@
       "category": "society",
       "hotScore": 0.675,
       "freshness": 0.9999,
-      "crossSource": 1,
-      "totalScore": 0.87,
+      "crossSource": 0.6309,
+      "totalScore": 0.7593,
       "sources": [
         {
           "channel": "zhihu",
@@ -83,17 +140,36 @@
       "url": ""
     },
     {
-      "id": "evt-dc000000",
-      "title": "盖尔·加朵确认 DC 未计划她继续出演神奇女侠，这对于 DC 新电影宇宙意味着什么？",
-      "category": "entertainment",
-      "hotScore": 0.6,
+      "id": "evt-10000000",
+      "title": "超1万册永乐大典副本下落不明",
+      "category": "society",
+      "hotScore": 0.6375,
       "freshness": 0.9999,
-      "crossSource": 1,
-      "totalScore": 0.84,
+      "crossSource": 0.6309,
+      "totalScore": 0.7443,
+      "sources": [
+        {
+          "channel": "toutiao",
+          "rank": 6,
+          "hot": 5379520,
+          "url": "https://www.toutiao.com/trending/7681856234014326826/"
+        }
+      ],
+      "summary": "",
+      "url": "https://www.toutiao.com/trending/7681856234014326826/"
+    },
+    {
+      "id": "evt-15000000",
+      "title": "联合国警告称升温 1.5℃已无法避免，能做的只有压低超额升温，这是否意味着变暖要失控了？",
+      "category": "society",
+      "hotScore": 0.6375,
+      "freshness": 0.9999,
+      "crossSource": 0.6309,
+      "totalScore": 0.7443,
       "sources": [
         {
           "channel": "zhihu",
-          "rank": 5,
+          "rank": 4,
           "hot": 0,
           "url": ""
         }
@@ -102,80 +178,23 @@
       "url": ""
     },
     {
-      "id": "evt-15200000",
-      "title": "花15元买了2斤蛤蜊吃出3颗珍珠",
+      "id": "evt-12400000",
+      "title": "学生卖黄金到账12.4万账户被冻结",
       "category": "society",
-      "hotScore": 0.64,
-      "freshness": 1,
-      "crossSource": 1,
-      "totalScore": 0.856,
-      "sources": [
-        {
-          "channel": "baidu",
-          "rank": 5,
-          "hot": 0,
-          "url": "https://m.baidu.com/s?word=%E8%8A%B115%E5%85%83%E4%B9%B0%E4%BA%862%E6%96%A4%E8%9B%A4%E8%9C%8A%E5%90%83%E5%87%BA3%E9%A2%97%E7%8F%8D%E7%8F%A0&sa=fyb_news"
-        }
-      ],
-      "summary": "",
-      "url": "https://m.baidu.com/s?word=%E8%8A%B115%E5%85%83%E4%B9%B0%E4%BA%862%E6%96%A4%E8%9B%A4%E8%9C%8A%E5%90%83%E5%87%BA3%E9%A2%97%E7%8F%8D%E7%8F%A0&sa=fyb_news"
-    },
-    {
-      "id": "evt-50000000",
-      "title": "当地回应5岁女孩病历被标注“刁蛮”：已修正病历，对涉事医生立案调查",
-      "category": "society",
-      "hotScore": 0.6375,
-      "freshness": 1,
-      "crossSource": 1,
-      "totalScore": 0.855,
-      "sources": [
-        {
-          "channel": "thepaper",
-          "rank": 6,
-          "hot": 0,
-          "url": "https://www.thepaper.cn/newsDetail_forward_34017446"
-        }
-      ],
-      "summary": "",
-      "url": "https://www.thepaper.cn/newsDetail_forward_34017446"
-    },
-    {
-      "id": "evt-10000000",
-      "title": "超1万册永乐大典副本下落不明",
-      "category": "society",
-      "hotScore": 0.5525,
+      "hotScore": 0.595,
       "freshness": 0.9999,
-      "crossSource": 1,
-      "totalScore": 0.821,
+      "crossSource": 0.6309,
+      "totalScore": 0.7273,
       "sources": [
         {
           "channel": "toutiao",
-          "rank": 8,
-          "hot": 5740318,
-          "url": "https://www.toutiao.com/trending/7681856234014326826/"
+          "rank": 7,
+          "hot": 4867590,
+          "url": "https://www.toutiao.com/trending/7681887241534423103/"
         }
       ],
       "summary": "",
-      "url": "https://www.toutiao.com/trending/7681856234014326826/"
-    },
-    {
-      "id": "evt-80000000",
-      "title": "8月辟谣榜",
-      "category": "society",
-      "hotScore": 0.425,
-      "freshness": 0.9999,
-      "crossSource": 1,
-      "totalScore": 0.77,
-      "sources": [
-        {
-          "channel": "toutiao",
-          "rank": 11,
-          "hot": 4252532,
-          "url": "https://www.toutiao.com/trending/7682191482006048307/"
-        }
-      ],
-      "summary": "",
-      "url": "https://www.toutiao.com/trending/7682191482006048307/"
+      "url": "https://www.toutiao.com/trending/7681887241534423103/"
     }
   ]
 }
