@@ -155,6 +155,11 @@ async def chat_audio(
                   f"耗时 {time.monotonic() - t_asr:.2f}s）: {e}", flush=True)
             yield sse(error_event(f"云端听写失败：{e}"))
             return
+        except Exception as e:  # noqa: BLE001 —— 任何异常都不能击穿 SSE 流（会直接炸掉 App 的连接）
+            print(f"[chat/audio] ASR 未预期异常（耗时 {time.monotonic() - t_asr:.2f}s）: {e!r}",
+                  flush=True)
+            yield sse(error_event("莱德的耳朵打瞌睡了，等一下再试一次好不好？"))
+            return
         print(f"[chat/audio] ASR 结果（{len(audio_bytes)} 字节 ≈ "
               f"{max(0.0, (len(audio_bytes) - 44) / 32000):.1f} 秒，"
               f"耗时 {time.monotonic() - t_asr:.2f}s）: {text!r}", flush=True)
