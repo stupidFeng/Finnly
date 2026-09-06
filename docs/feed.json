@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-09-06T17:52:14.854Z",
+  "generatedAt": "2026-09-06T19:44:27.645Z",
   "fields": {
     "society": "社会",
     "economy": "经济",
@@ -11,19 +11,38 @@
       "title": "多地严查赵一鸣等零食品牌",
       "category": "society",
       "hotScore": 0.85,
-      "freshness": 0.9999,
+      "freshness": 1,
       "crossSource": 0.6309,
       "totalScore": 0.8293,
       "sources": [
         {
           "channel": "toutiao",
           "rank": 1,
-          "hot": 16824078,
+          "hot": 16991252,
           "url": "https://www.toutiao.com/trending/7682073467651227691/"
         }
       ],
       "summary": "",
       "url": "https://www.toutiao.com/trending/7682073467651227691/"
+    },
+    {
+      "id": "evt-70000000",
+      "title": "财政部将向中国太平注资70亿",
+      "category": "society",
+      "hotScore": 0.8075,
+      "freshness": 1,
+      "crossSource": 0.6309,
+      "totalScore": 0.8123,
+      "sources": [
+        {
+          "channel": "toutiao",
+          "rank": 2,
+          "hot": 15374321,
+          "url": "https://www.toutiao.com/trending/7682330411086660106/"
+        }
+      ],
+      "summary": "",
+      "url": "https://www.toutiao.com/trending/7682330411086660106/"
     },
     {
       "id": "evt-82600000",
@@ -45,42 +64,61 @@
       "url": "https://www.thepaper.cn/newsDetail_forward_34020192"
     },
     {
-      "id": "evt-70000000",
-      "title": "财政部将向中国太平注资70亿",
+      "id": "evt-10000000",
+      "title": "福鼎市茶叶协会回应近10吨“泡水茶”被销毁：亏钱也绝不亏口碑",
       "category": "society",
-      "hotScore": 0.7225,
-      "freshness": 0.9999,
+      "hotScore": 0.68,
+      "freshness": 1,
       "crossSource": 0.6309,
-      "totalScore": 0.7783,
+      "totalScore": 0.7613,
       "sources": [
         {
-          "channel": "toutiao",
-          "rank": 4,
-          "hot": 12463583,
-          "url": "https://www.toutiao.com/trending/7682330411086660106/"
+          "channel": "thepaper",
+          "rank": 5,
+          "hot": 0,
+          "url": "https://www.thepaper.cn/newsDetail_forward_34020894"
         }
       ],
       "summary": "",
-      "url": "https://www.toutiao.com/trending/7682330411086660106/"
+      "url": "https://www.thepaper.cn/newsDetail_forward_34020894"
+    },
+    {
+      "id": "evt-20000000",
+      "title": "《花儿与少年 2》被誉为内娱综艺史上无法超越的巅峰，如何评价其历史地位？",
+      "category": "entertainment",
+      "hotScore": 0.4875,
+      "freshness": 1,
+      "crossSource": 0.6309,
+      "totalScore": 0.6843,
+      "sources": [
+        {
+          "channel": "zhihu",
+          "rank": 8,
+          "hot": 0,
+          "url": ""
+        }
+      ],
+      "summary": "",
+      "url": ""
     },
     {
       "id": "evt-chinagt0",
       "title": "CHINA GT就碰撞起火事故致歉",
       "category": "society",
-      "hotScore": 0.425,
-      "freshness": 0.9999,
+      "hotScore": 0.3825,
+      "freshness": 1,
       "crossSource": 1,
-      "totalScore": 0.77,
+      "totalScore": 0.753,
       "sources": [
         {
           "channel": "toutiao",
-          "rank": 17,
-          "hot": 3396722,
+          "rank": 20,
+          "hot": 2541358,
           "url": "https://www.toutiao.com/trending/7682303566215695898/"
         },
         {
           "channel": "thepaper",
-          "rank": 11,
+          "rank": 12,
           "hot": 0,
           "url": "https://www.thepaper.cn/newsDetail_forward_34019796"
         }
@@ -89,11 +127,68 @@
       "url": "https://www.toutiao.com/trending/7682303566215695898/"
     },
     {
-      "id": "evt-20000000",
-      "title": "《花儿与少年 2》被誉为内娱综艺史上无法超越的巅峰，如何评价其历史地位？",
-      "category": "entertainment",
+      "id": "evt-50000000",
+      "title": "毛泽东同志逝世50周年纪念日，纪念堂上下午均安排开放时段",
+      "category": "society",
+      "hotScore": 0.6375,
+      "freshness": 1,
+      "crossSource": 0.6309,
+      "totalScore": 0.7443,
+      "sources": [
+        {
+          "channel": "thepaper",
+          "rank": 6,
+          "hot": 0,
+          "url": "https://www.thepaper.cn/newsDetail_forward_34019209"
+        }
+      ],
+      "summary": "",
+      "url": "https://www.thepaper.cn/newsDetail_forward_34019209"
+    },
+    {
+      "id": "evt-30000000",
+      "title": "财政部将向中国人寿注资350亿",
+      "category": "society",
+      "hotScore": 0.5525,
+      "freshness": 1,
+      "crossSource": 0.6309,
+      "totalScore": 0.7103,
+      "sources": [
+        {
+          "channel": "toutiao",
+          "rank": 8,
+          "hot": 8437606,
+          "url": "https://www.toutiao.com/trending/7681940225756548651/"
+        }
+      ],
+      "summary": "",
+      "url": "https://www.toutiao.com/trending/7681940225756548651/"
+    },
+    {
+      "id": "evt-16400000",
+      "title": "一张地图何以引发164比1的国际对峙",
+      "category": "society",
+      "hotScore": 0.51,
+      "freshness": 1,
+      "crossSource": 0.6309,
+      "totalScore": 0.6933,
+      "sources": [
+        {
+          "channel": "toutiao",
+          "rank": 9,
+          "hot": 7634662,
+          "url": "https://www.toutiao.com/trending/7682406988101193279/"
+        }
+      ],
+      "summary": "",
+      "url": "https://www.toutiao.com/trending/7682406988101193279/"
+    },
+    {
+      "id": "evt-iphone00",
+      "title": "如何评价据传 iPhone 18 Pro 9999 元起，Ultra 14999 元起，新增红色和蓝色款？",
+      "category": "society",
       "hotScore": 0.45,
-      "freshness": 0.9999,
+      "freshness": 1,
       "crossSource": 0.6309,
       "totalScore": 0.6693,
       "sources": [
@@ -106,82 +201,6 @@
       ],
       "summary": "",
       "url": ""
-    },
-    {
-      "id": "evt-50000000",
-      "title": "毛泽东同志逝世50周年纪念日，纪念堂上下午均安排开放时段",
-      "category": "society",
-      "hotScore": 0.68,
-      "freshness": 1,
-      "crossSource": 0.6309,
-      "totalScore": 0.7613,
-      "sources": [
-        {
-          "channel": "thepaper",
-          "rank": 5,
-          "hot": 0,
-          "url": "https://www.thepaper.cn/newsDetail_forward_34019209"
-        }
-      ],
-      "summary": "",
-      "url": "https://www.thepaper.cn/newsDetail_forward_34019209"
-    },
-    {
-      "id": "evt-80000000",
-      "title": "女子怀孕后工资从8000调到3000",
-      "category": "society",
-      "hotScore": 0.6375,
-      "freshness": 0.9999,
-      "crossSource": 0.6309,
-      "totalScore": 0.7443,
-      "sources": [
-        {
-          "channel": "toutiao",
-          "rank": 6,
-          "hot": 10204319,
-          "url": "https://www.toutiao.com/trending/7681226790446628915/"
-        }
-      ],
-      "summary": "",
-      "url": "https://www.toutiao.com/trending/7681226790446628915/"
-    },
-    {
-      "id": "evt-nsa00000",
-      "title": "如何评价 N-S 方程疑似被 AI 解决？",
-      "category": "society",
-      "hotScore": 0.6,
-      "freshness": 0.9999,
-      "crossSource": 0.6309,
-      "totalScore": 0.7293,
-      "sources": [
-        {
-          "channel": "zhihu",
-          "rank": 5,
-          "hot": 0,
-          "url": ""
-        }
-      ],
-      "summary": "",
-      "url": ""
-    },
-    {
-      "id": "evt-30000000",
-      "title": "财政部将向中国人寿注资350亿",
-      "category": "society",
-      "hotScore": 0.51,
-      "freshness": 0.9999,
-      "crossSource": 0.6309,
-      "totalScore": 0.6933,
-      "sources": [
-        {
-          "channel": "toutiao",
-          "rank": 9,
-          "hot": 7559545,
-          "url": "https://www.toutiao.com/trending/7681940225756548651/"
-        }
-      ],
-      "summary": "",
-      "url": "https://www.toutiao.com/trending/7681940225756548651/"
     }
   ]
 }
