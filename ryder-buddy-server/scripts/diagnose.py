@@ -37,14 +37,20 @@ def info(msg: str) -> None:
 def check_code() -> None:
     print("\n=== 1. 运行中的代码版本 ===")
     try:
-        src = open("/srv/app/routes/chat_routes.py", encoding="utf-8").read()
+        chat_src = open("/srv/app/routes/chat_routes.py", encoding="utf-8").read()
+        llm_src = open("/srv/app/llm.py", encoding="utf-8").read()
     except OSError as e:
         bad(f"读不到源码: {e}")
         return
-    if 'filename=file.filename or "audio.wav"' in src:
+    if 'filename=file.filename or "audio.wav"' in chat_src:
         ok("新代码：ASR 文件名透传修复已生效")
     else:
         bad("旧代码还在跑！App 上传的 WAV 被当成 m4a 发给识别服务，必然识别失败")
+        info("修复方法：cd ryder-buddy-server && docker compose up -d --build")
+    if "enable_thinking" in llm_src and "_strip_think" in llm_src:
+        ok("新代码：思维链过滤已生效（</think> 不会再漏给孩子）")
+    else:
+        bad("llm.py 还是旧代码！推理模型的思考内容会被念给孩子听")
         info("修复方法：cd ryder-buddy-server && docker compose up -d --build")
 
 
