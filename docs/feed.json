@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-09-06T06:38:21.944Z",
+  "generatedAt": "2026-09-06T11:49:19.305Z",
   "fields": {
     "society": "社会",
     "economy": "经济",
@@ -7,23 +7,149 @@
   },
   "feed": [
     {
-      "id": "evt-00000000",
-      "title": "伊朗革命卫队称打击了美航母和驱逐舰",
+      "id": "evt-chinagt0",
+      "title": "China GT就碰撞起火事故致歉",
+      "category": "society",
+      "hotScore": 0.8075,
+      "freshness": 1,
+      "crossSource": 1,
+      "totalScore": 0.923,
+      "sources": [
+        {
+          "channel": "toutiao",
+          "rank": 2,
+          "hot": 15840904,
+          "url": "https://www.toutiao.com/trending/7682303566215695898/"
+        },
+        {
+          "channel": "baidu",
+          "rank": 8,
+          "hot": 0,
+          "url": "https://m.baidu.com/s?word=China+GT%E5%B0%B1%E7%A2%B0%E6%92%9E%E8%B5%B7%E7%81%AB%E4%BA%8B%E6%95%85%E8%87%B4%E6%AD%89&sa=fyb_news"
+        }
+      ],
+      "summary": "",
+      "url": "https://www.toutiao.com/trending/7682303566215695898/"
+    },
+    {
+      "id": "evt-70000000",
+      "title": "财政部将向中国太平注资70亿",
       "category": "society",
       "hotScore": 0.85,
-      "freshness": 0.9999,
-      "crossSource": 1,
-      "totalScore": 0.94,
+      "freshness": 1,
+      "crossSource": 0.6309,
+      "totalScore": 0.8293,
       "sources": [
         {
           "channel": "toutiao",
           "rank": 1,
-          "hot": 12870791,
-          "url": "https://www.toutiao.com/trending/7682247365662608950/"
+          "hot": 17506906,
+          "url": "https://www.toutiao.com/trending/7682330411086660106/"
         }
       ],
       "summary": "",
-      "url": "https://www.toutiao.com/trending/7682247365662608950/"
+      "url": "https://www.toutiao.com/trending/7682330411086660106/"
+    },
+    {
+      "id": "evt-00000000",
+      "title": "印尼野火毒霾席卷东南亚：厄尔尼诺与泥炭地退化成双重推手",
+      "category": "society",
+      "hotScore": 0.85,
+      "freshness": 1,
+      "crossSource": 0.6309,
+      "totalScore": 0.8293,
+      "sources": [
+        {
+          "channel": "thepaper",
+          "rank": 1,
+          "hot": 0,
+          "url": "https://www.thepaper.cn/newsDetail_forward_34014788"
+        }
+      ],
+      "summary": "",
+      "url": "https://www.thepaper.cn/newsDetail_forward_34014788"
+    },
+    {
+      "id": "evt-57000000",
+      "title": "财政部570亿增资三家保险公司",
+      "category": "society",
+      "hotScore": 0.5525,
+      "freshness": 1,
+      "crossSource": 1,
+      "totalScore": 0.821,
+      "sources": [
+        {
+          "channel": "toutiao",
+          "rank": 8,
+          "hot": 8693672,
+          "url": "https://www.toutiao.com/trending/7682257618565595162/"
+        },
+        {
+          "channel": "baidu",
+          "rank": 14,
+          "hot": 0,
+          "url": "https://m.baidu.com/s?word=%E8%B4%A2%E6%94%BF%E9%83%A8570%E4%BA%BF%E5%A2%9E%E8%B5%84%E4%B8%89%E5%AE%B6%E4%BF%9D%E9%99%A9%E5%85%AC%E5%8F%B8&sa=fyb_news"
+        }
+      ],
+      "summary": "",
+      "url": "https://www.toutiao.com/trending/7682257618565595162/"
+    },
+    {
+      "id": "evt-11000000",
+      "title": "被困11天，中国一工人在尼泊尔获救：“看到灯光就使劲喊，一度以为没希望了”",
+      "category": "society",
+      "hotScore": 0.765,
+      "freshness": 1,
+      "crossSource": 0.6309,
+      "totalScore": 0.7953,
+      "sources": [
+        {
+          "channel": "thepaper",
+          "rank": 3,
+          "hot": 0,
+          "url": "https://www.thepaper.cn/newsDetail_forward_34017169"
+        }
+      ],
+      "summary": "",
+      "url": "https://www.thepaper.cn/newsDetail_forward_34017169"
+    },
+    {
+      "id": "evt-36008000",
+      "title": "3600亿元！8家中央金融企业大动作",
+      "category": "society",
+      "hotScore": 0.76,
+      "freshness": 1,
+      "crossSource": 0.6309,
+      "totalScore": 0.7933,
+      "sources": [
+        {
+          "channel": "baidu",
+          "rank": 2,
+          "hot": 0,
+          "url": "https://m.baidu.com/s?word=3600%E4%BA%BF%E5%85%83%EF%BC%818%E5%AE%B6%E4%B8%AD%E5%A4%AE%E9%87%91%E8%9E%8D%E4%BC%81%E4%B8%9A%E5%A4%A7%E5%8A%A8%E4%BD%9C&sa=fyb_news"
+        }
+      ],
+      "summary": "",
+      "url": "https://m.baidu.com/s?word=3600%E4%BA%BF%E5%85%83%EF%BC%818%E5%AE%B6%E4%B8%AD%E5%A4%AE%E9%87%91%E8%9E%8D%E4%BC%81%E4%B8%9A%E5%A4%A7%E5%8A%A8%E4%BD%9C&sa=fyb_news"
+    },
+    {
+      "id": "evt-10000000",
+      "title": "工行农行拟分别募资1000亿和1600亿",
+      "category": "society",
+      "hotScore": 0.7225,
+      "freshness": 1,
+      "crossSource": 0.6309,
+      "totalScore": 0.7783,
+      "sources": [
+        {
+          "channel": "toutiao",
+          "rank": 4,
+          "hot": 12969435,
+          "url": "https://www.toutiao.com/trending/7682319883182277129/"
+        }
+      ],
+      "summary": "",
+      "url": "https://www.toutiao.com/trending/7682319883182277129/"
     },
     {
       "id": "evt-50000000",
@@ -31,8 +157,8 @@
       "category": "society",
       "hotScore": 0.7225,
       "freshness": 1,
-      "crossSource": 1,
-      "totalScore": 0.889,
+      "crossSource": 0.6309,
+      "totalScore": 0.7783,
       "sources": [
         {
           "channel": "thepaper",
@@ -45,13 +171,51 @@
       "url": "https://www.thepaper.cn/newsDetail_forward_34017446"
     },
     {
-      "id": "evt-20260000",
-      "title": "2026 搞笑诺贝尔奖来了，「蟑螂奶」获化学奖，其能量据称是牛奶 4 倍，还有哪些看点？",
+      "id": "evt-43510000",
+      "title": "西藏泥石流43人遇难519人失联",
+      "category": "society",
+      "hotScore": 0.68,
+      "freshness": 1,
+      "crossSource": 0.6309,
+      "totalScore": 0.7613,
+      "sources": [
+        {
+          "channel": "toutiao",
+          "rank": 5,
+          "hot": 11735230,
+          "url": "https://www.toutiao.com/trending/7682189960509738502/"
+        }
+      ],
+      "summary": "",
+      "url": "https://www.toutiao.com/trending/7682189960509738502/"
+    },
+    {
+      "id": "evt-30000000",
+      "title": "普京下令暂停打击基辅3天",
+      "category": "society",
+      "hotScore": 0.68,
+      "freshness": 1,
+      "crossSource": 0.6309,
+      "totalScore": 0.7613,
+      "sources": [
+        {
+          "channel": "thepaper",
+          "rank": 5,
+          "hot": 0,
+          "url": "https://www.thepaper.cn/newsDetail_forward_34016496"
+        }
+      ],
+      "summary": "",
+      "url": "https://www.thepaper.cn/newsDetail_forward_34016496"
+    },
+    {
+      "id": "evt-nsa00000",
+      "title": "如何评价 N-S 方程疑似被 AI 解决？",
       "category": "society",
       "hotScore": 0.675,
       "freshness": 1,
-      "crossSource": 1,
-      "totalScore": 0.87,
+      "crossSource": 0.6309,
+      "totalScore": 0.7593,
       "sources": [
         {
           "channel": "zhihu",
@@ -62,63 +226,6 @@
       ],
       "summary": "",
       "url": ""
-    },
-    {
-      "id": "evt-30000000",
-      "title": "普京下令暂停打击基辅3天",
-      "category": "society",
-      "hotScore": 0.5525,
-      "freshness": 1,
-      "crossSource": 1,
-      "totalScore": 0.821,
-      "sources": [
-        {
-          "channel": "thepaper",
-          "rank": 8,
-          "hot": 0,
-          "url": "https://www.thepaper.cn/newsDetail_forward_34016496"
-        }
-      ],
-      "summary": "",
-      "url": "https://www.thepaper.cn/newsDetail_forward_34016496"
-    },
-    {
-      "id": "evt-wsbk0000",
-      "title": "WSBK 法国站第一回合，德比斯驾驶「张雪机车」，发生撞车后仍跑到第三，如何评价这场比赛？",
-      "category": "society",
-      "hotScore": 0.525,
-      "freshness": 1,
-      "crossSource": 1,
-      "totalScore": 0.81,
-      "sources": [
-        {
-          "channel": "zhihu",
-          "rank": 7,
-          "hot": 0,
-          "url": ""
-        }
-      ],
-      "summary": "",
-      "url": ""
-    },
-    {
-      "id": "evt-80000000",
-      "title": "8月辟谣榜",
-      "category": "society",
-      "hotScore": 0.425,
-      "freshness": 0.9999,
-      "crossSource": 1,
-      "totalScore": 0.77,
-      "sources": [
-        {
-          "channel": "toutiao",
-          "rank": 11,
-          "hot": 4734899,
-          "url": "https://www.toutiao.com/trending/7682191482006048307/"
-        }
-      ],
-      "summary": "",
-      "url": "https://www.toutiao.com/trending/7682191482006048307/"
     }
   ]
 }
