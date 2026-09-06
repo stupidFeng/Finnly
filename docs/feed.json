@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-09-06T21:49:55.770Z",
+  "generatedAt": "2026-09-06T23:20:01.778Z",
   "fields": {
     "society": "社会",
     "economy": "经济",
@@ -11,14 +11,14 @@
       "title": "多地严查赵一鸣等零食品牌",
       "category": "society",
       "hotScore": 0.85,
-      "freshness": 0.9999,
-      "crossSource": 0.6309,
-      "totalScore": 0.8293,
+      "freshness": 1,
+      "crossSource": 1,
+      "totalScore": 0.94,
       "sources": [
         {
           "channel": "toutiao",
           "rank": 1,
-          "hot": 17260500,
+          "hot": 16956982,
           "url": "https://www.toutiao.com/trending/7682073467651227691/"
         }
       ],
@@ -26,36 +26,17 @@
       "url": "https://www.toutiao.com/trending/7682073467651227691/"
     },
     {
-      "id": "evt-82600000",
-      "title": "西藏吉隆“8·26”泥石流灾害造成43人遇难、519人失联",
-      "category": "society",
-      "hotScore": 0.8075,
-      "freshness": 1,
-      "crossSource": 0.6309,
-      "totalScore": 0.8123,
-      "sources": [
-        {
-          "channel": "thepaper",
-          "rank": 2,
-          "hot": 0,
-          "url": "https://www.thepaper.cn/newsDetail_forward_34020192"
-        }
-      ],
-      "summary": "",
-      "url": "https://www.thepaper.cn/newsDetail_forward_34020192"
-    },
-    {
       "id": "evt-10000000",
       "title": "福鼎市茶叶协会回应近10吨“泡水茶”被销毁：亏钱也绝不亏口碑",
       "category": "society",
-      "hotScore": 0.68,
+      "hotScore": 0.765,
       "freshness": 1,
-      "crossSource": 0.6309,
-      "totalScore": 0.7613,
+      "crossSource": 1,
+      "totalScore": 0.906,
       "sources": [
         {
           "channel": "thepaper",
-          "rank": 5,
+          "rank": 3,
           "hot": 0,
           "url": "https://www.thepaper.cn/newsDetail_forward_34020894"
         }
@@ -64,51 +45,51 @@
       "url": "https://www.thepaper.cn/newsDetail_forward_34020894"
     },
     {
-      "id": "evt-50000000",
-      "title": "毛泽东同志逝世50周年纪念日，纪念堂上下午均安排开放时段",
+      "id": "evt-40000000",
+      "title": "400元买块“塑料砖头”戒手机",
+      "category": "society",
+      "hotScore": 0.72,
+      "freshness": 1,
+      "crossSource": 1,
+      "totalScore": 0.888,
+      "sources": [
+        {
+          "channel": "baidu",
+          "rank": 3,
+          "hot": 0,
+          "url": "https://m.baidu.com/s?word=400%E5%85%83%E4%B9%B0%E5%9D%97%E2%80%9C%E5%A1%91%E6%96%99%E7%A0%96%E5%A4%B4%E2%80%9D%E6%88%92%E6%89%8B%E6%9C%BA&sa=fyb_news"
+        }
+      ],
+      "summary": "",
+      "url": "https://m.baidu.com/s?word=400%E5%85%83%E4%B9%B0%E5%9D%97%E2%80%9C%E5%A1%91%E6%96%99%E7%A0%96%E5%A4%B4%E2%80%9D%E6%88%92%E6%89%8B%E6%9C%BA&sa=fyb_news"
+    },
+    {
+      "id": "evt-82600000",
+      "title": "西藏吉隆“8·26”泥石流灾害造成43人遇难、519人失联",
       "category": "society",
       "hotScore": 0.6375,
       "freshness": 1,
-      "crossSource": 0.6309,
-      "totalScore": 0.7443,
+      "crossSource": 1,
+      "totalScore": 0.855,
       "sources": [
         {
           "channel": "thepaper",
           "rank": 6,
           "hot": 0,
-          "url": "https://www.thepaper.cn/newsDetail_forward_34019209"
+          "url": "https://www.thepaper.cn/newsDetail_forward_34020192"
         }
       ],
       "summary": "",
-      "url": "https://www.thepaper.cn/newsDetail_forward_34019209"
-    },
-    {
-      "id": "evt-20000000",
-      "title": "《花儿与少年 2》被誉为内娱综艺史上无法超越的巅峰，如何评价其历史地位？",
-      "category": "entertainment",
-      "hotScore": 0.45,
-      "freshness": 0.9999,
-      "crossSource": 0.6309,
-      "totalScore": 0.6693,
-      "sources": [
-        {
-          "channel": "zhihu",
-          "rank": 9,
-          "hot": 0,
-          "url": ""
-        }
-      ],
-      "summary": "",
-      "url": ""
+      "url": "https://www.thepaper.cn/newsDetail_forward_34020192"
     },
     {
       "id": "evt-iphone00",
       "title": "如何评价据传 iPhone 18 Pro 9999 元起，Ultra 14999 元起，新增红色和蓝色款？",
       "category": "society",
       "hotScore": 0.6,
-      "freshness": 0.9999,
-      "crossSource": 0.6309,
-      "totalScore": 0.7293,
+      "freshness": 1,
+      "crossSource": 1,
+      "totalScore": 0.84,
       "sources": [
         {
           "channel": "zhihu",
@@ -121,18 +102,56 @@
       "url": ""
     },
     {
-      "id": "evt-etc00000",
-      "title": "ETC该不该取消",
+      "id": "evt-80000000",
+      "title": "女子怀孕后工资从8000调到3000",
       "category": "society",
-      "hotScore": 0.51,
-      "freshness": 0.9999,
-      "crossSource": 0.6309,
-      "totalScore": 0.6933,
+      "hotScore": 0.5525,
+      "freshness": 1,
+      "crossSource": 1,
+      "totalScore": 0.821,
       "sources": [
         {
           "channel": "toutiao",
+          "rank": 8,
+          "hot": 8420588,
+          "url": "https://www.toutiao.com/trending/7681226790446628915/"
+        }
+      ],
+      "summary": "",
+      "url": "https://www.toutiao.com/trending/7681226790446628915/"
+    },
+    {
+      "id": "evt-50000000",
+      "title": "毛泽东同志逝世50周年纪念日，纪念堂上下午均安排开放时段",
+      "category": "society",
+      "hotScore": 0.51,
+      "freshness": 1,
+      "crossSource": 1,
+      "totalScore": 0.804,
+      "sources": [
+        {
+          "channel": "thepaper",
           "rank": 9,
-          "hot": 7755642,
+          "hot": 0,
+          "url": "https://www.thepaper.cn/newsDetail_forward_34019209"
+        }
+      ],
+      "summary": "",
+      "url": "https://www.thepaper.cn/newsDetail_forward_34019209"
+    },
+    {
+      "id": "evt-etc00000",
+      "title": "ETC该不该取消",
+      "category": "society",
+      "hotScore": 0.4675,
+      "freshness": 1,
+      "crossSource": 1,
+      "totalScore": 0.787,
+      "sources": [
+        {
+          "channel": "toutiao",
+          "rank": 10,
+          "hot": 6894194,
           "url": "https://www.toutiao.com/trending/7681255757301170185/"
         }
       ],
