@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-09-07T01:49:50.259Z",
+  "generatedAt": "2026-09-07T06:46:28.113Z",
   "fields": {
     "society": "社会",
     "economy": "经济",
@@ -7,33 +7,27 @@
   },
   "feed": [
     {
-      "id": "evt-00000000",
-      "title": "女子月捐数年无人问 停捐后遭催捐",
+      "id": "evt-44400000",
+      "title": "高考444分被殡葬专业录取男孩已入学",
       "category": "society",
-      "hotScore": 0.68,
-      "freshness": 1,
-      "crossSource": 1,
-      "totalScore": 0.872,
+      "hotScore": 0.85,
+      "freshness": 0.9999,
+      "crossSource": 0.6309,
+      "totalScore": 0.8293,
       "sources": [
         {
           "channel": "toutiao",
-          "rank": 5,
-          "hot": 12118024,
-          "url": "https://www.toutiao.com/trending/7682391746976055332/"
-        },
-        {
-          "channel": "baidu",
-          "rank": 6,
-          "hot": 0,
-          "url": "https://m.baidu.com/s?word=%E5%A5%B3%E5%AD%90%E6%9C%88%E6%8D%90%E6%95%B0%E5%B9%B4%E6%97%A0%E4%BA%BA%E9%97%AE+%E5%81%9C%E6%8D%90%E5%90%8E%E9%81%AD%E5%82%AC%E6%8D%90&sa=fyb_news"
+          "rank": 1,
+          "hot": 20476356,
+          "url": "https://www.toutiao.com/trending/7682442446395031598/"
         }
       ],
       "summary": "",
-      "url": "https://www.toutiao.com/trending/7682391746976055332/"
+      "url": "https://www.toutiao.com/trending/7682442446395031598/"
     },
     {
-      "id": "evt-70000000",
-      "title": "“葫芦娃爷爷”隔壁阳台挂起7个葫芦",
+      "id": "evt-00000000",
+      "title": "西藏日喀则：将深入研究口岸功能恢复等事宜",
       "category": "society",
       "hotScore": 0.85,
       "freshness": 1,
@@ -41,33 +35,33 @@
       "totalScore": 0.8293,
       "sources": [
         {
-          "channel": "toutiao",
+          "channel": "thepaper",
           "rank": 1,
-          "hot": 18077968,
-          "url": "https://www.toutiao.com/trending/7682558659959721510/"
+          "hot": 0,
+          "url": "https://www.thepaper.cn/newsDetail_forward_34020471"
         }
       ],
       "summary": "",
-      "url": "https://www.toutiao.com/trending/7682558659959721510/"
+      "url": "https://www.thepaper.cn/newsDetail_forward_34020471"
     },
     {
-      "id": "evt-30000000",
-      "title": "贵州3名未成年女孩接连失联最小12岁",
+      "id": "evt-40000000",
+      "title": "星宇总经理等4名管理人员被处理",
       "category": "society",
       "hotScore": 0.8075,
-      "freshness": 1,
+      "freshness": 0.9999,
       "crossSource": 0.6309,
       "totalScore": 0.8123,
       "sources": [
         {
           "channel": "toutiao",
           "rank": 2,
-          "hot": 16357622,
-          "url": "https://www.toutiao.com/trending/7682587839762009619/"
+          "hot": 18527773,
+          "url": "https://www.toutiao.com/trending/7682149350450757673/"
         }
       ],
       "summary": "",
-      "url": "https://www.toutiao.com/trending/7682587839762009619/"
+      "url": "https://www.toutiao.com/trending/7682149350450757673/"
     },
     {
       "id": "evt-10000000",
@@ -89,46 +83,122 @@
       "url": "https://www.thepaper.cn/newsDetail_forward_34020894"
     },
     {
-      "id": "evt-50000000",
-      "title": "林肯号驶离泰国 停靠5天消费1亿泰铢",
-      "category": "society",
-      "hotScore": 0.72,
-      "freshness": 1,
+      "id": "evt-80000000",
+      "title": "8月经济发展看点有哪些",
+      "category": "economy",
+      "hotScore": 0.765,
+      "freshness": 0.9999,
       "crossSource": 0.6309,
-      "totalScore": 0.7773,
+      "totalScore": 0.7953,
       "sources": [
         {
-          "channel": "baidu",
+          "channel": "toutiao",
           "rank": 3,
-          "hot": 0,
-          "url": "https://m.baidu.com/s?word=%E6%9E%97%E8%82%AF%E5%8F%B7%E9%A9%B6%E7%A6%BB%E6%B3%B0%E5%9B%BD+%E5%81%9C%E9%9D%A05%E5%A4%A9%E6%B6%88%E8%B4%B91%E4%BA%BF%E6%B3%B0%E9%93%A2&sa=fyb_news"
+          "hot": 16764622,
+          "url": "https://www.toutiao.com/trending/7682576896169050118/"
         }
       ],
       "summary": "",
-      "url": "https://m.baidu.com/s?word=%E6%9E%97%E8%82%AF%E5%8F%B7%E9%A9%B6%E7%A6%BB%E6%B3%B0%E5%9B%BD+%E5%81%9C%E9%9D%A05%E5%A4%A9%E6%B6%88%E8%B4%B91%E4%BA%BF%E6%B3%B0%E9%93%A2&sa=fyb_news"
+      "url": "https://www.toutiao.com/trending/7682576896169050118/"
     },
     {
-      "id": "evt-82600000",
-      "title": "西藏吉隆“8·26”泥石流灾害造成43人遇难、519人失联",
+      "id": "evt-16000000",
+      "title": "零食店1天涌入6万人堪比演唱会",
+      "category": "entertainment",
+      "hotScore": 0.64,
+      "freshness": 1,
+      "crossSource": 0.6309,
+      "totalScore": 0.7453,
+      "sources": [
+        {
+          "channel": "baidu",
+          "rank": 5,
+          "hot": 0,
+          "url": "https://m.baidu.com/s?word=%E9%9B%B6%E9%A3%9F%E5%BA%971%E5%A4%A9%E6%B6%8C%E5%85%A56%E4%B8%87%E4%BA%BA%E5%A0%AA%E6%AF%94%E6%BC%94%E5%94%B1%E4%BC%9A&sa=fyb_news"
+        }
+      ],
+      "summary": "",
+      "url": "https://m.baidu.com/s?word=%E9%9B%B6%E9%A3%9F%E5%BA%971%E5%A4%A9%E6%B6%8C%E5%85%A56%E4%B8%87%E4%BA%BA%E5%A0%AA%E6%AF%94%E6%BC%94%E5%94%B1%E4%BC%9A&sa=fyb_news"
+    },
+    {
+      "id": "evt-12000000",
+      "title": "星宇股份总经理扣薪 12 个月，人力资源总监免职，能平息此次风波吗？带来哪些深思？",
+      "category": "society",
+      "hotScore": 0.75,
+      "freshness": 1,
+      "crossSource": 0.6309,
+      "totalScore": 0.7893,
+      "sources": [
+        {
+          "channel": "zhihu",
+          "rank": 1,
+          "hot": 0,
+          "url": ""
+        }
+      ],
+      "summary": "",
+      "url": ""
+    },
+    {
+      "id": "evt-50000000",
+      "title": "美林肯号航母官兵5天消费1亿泰铢",
+      "category": "society",
+      "hotScore": 0.7225,
+      "freshness": 0.9999,
+      "crossSource": 0.6309,
+      "totalScore": 0.7783,
+      "sources": [
+        {
+          "channel": "toutiao",
+          "rank": 4,
+          "hot": 15169258,
+          "url": "https://www.toutiao.com/trending/7681940225756630571/"
+        }
+      ],
+      "summary": "",
+      "url": "https://www.toutiao.com/trending/7681940225756630571/"
+    },
+    {
+      "id": "evt-30000000",
+      "title": "中秋放假3天不调休高速不免费",
       "category": "society",
       "hotScore": 0.68,
-      "freshness": 1,
+      "freshness": 0.9999,
       "crossSource": 0.6309,
       "totalScore": 0.7613,
       "sources": [
         {
-          "channel": "thepaper",
+          "channel": "toutiao",
           "rank": 5,
-          "hot": 0,
-          "url": "https://www.thepaper.cn/newsDetail_forward_34020192"
+          "hot": 13725712,
+          "url": "https://www.toutiao.com/trending/7682277914222133290/"
         }
       ],
       "summary": "",
-      "url": "https://www.thepaper.cn/newsDetail_forward_34020192"
+      "url": "https://www.toutiao.com/trending/7682277914222133290/"
     },
     {
       "id": "evt-12400000",
       "title": "研究生卖黄金所得 12.4 万被跨省冻结，为啥两地警方认定会产生分歧？账户为何迟迟无法解冻？",
+      "category": "society",
+      "hotScore": 0.675,
+      "freshness": 1,
+      "crossSource": 0.6309,
+      "totalScore": 0.7593,
+      "sources": [
+        {
+          "channel": "zhihu",
+          "rank": 3,
+          "hot": 0,
+          "url": ""
+        }
+      ],
+      "summary": "",
+      "url": ""
+    },
+    {
+      "id": "evt-workbuddy",
+      "title": "腾讯 WorkBuddy 快速登顶国内 AI 办公智能体市场，其成功背后的关键因素有哪些？",
       "category": "society",
       "hotScore": 0.6,
       "freshness": 1,
@@ -146,17 +216,36 @@
       "url": ""
     },
     {
-      "id": "evt-16000000",
-      "title": "农行拟募资不超过 1600 亿元，工行拟募资不超过 1000 亿元，均用于补充资本，如何解读？",
+      "id": "evt-82600000",
+      "title": "西藏吉隆“8·26”泥石流灾害造成43人遇难、519人失联",
       "category": "society",
-      "hotScore": 0.5625,
+      "hotScore": 0.595,
       "freshness": 1,
       "crossSource": 0.6309,
-      "totalScore": 0.7143,
+      "totalScore": 0.7273,
+      "sources": [
+        {
+          "channel": "thepaper",
+          "rank": 7,
+          "hot": 0,
+          "url": "https://www.thepaper.cn/newsDetail_forward_34020192"
+        }
+      ],
+      "summary": "",
+      "url": "https://www.thepaper.cn/newsDetail_forward_34020192"
+    },
+    {
+      "id": "evt-60000000",
+      "title": "家长反对交 600 元请保洁扫教室被禁言，这暴露出什么问题？现在的学生连打扫教室都不会了吗？",
+      "category": "society",
+      "hotScore": 0.4875,
+      "freshness": 1,
+      "crossSource": 0.6309,
+      "totalScore": 0.6843,
       "sources": [
         {
           "channel": "zhihu",
-          "rank": 6,
+          "rank": 8,
           "hot": 0,
           "url": ""
         }
@@ -166,22 +255,41 @@
     },
     {
       "id": "evt-chinagt0",
-      "title": "ChinaGT碰撞事件调查：王一博无责",
+      "title": "CHINA GT就碰撞起火事故致歉：将进一步复盘和调查",
       "category": "society",
-      "hotScore": 0.56,
+      "hotScore": 0.4675,
       "freshness": 1,
       "crossSource": 0.6309,
-      "totalScore": 0.7133,
+      "totalScore": 0.6763,
       "sources": [
         {
-          "channel": "baidu",
-          "rank": 7,
+          "channel": "thepaper",
+          "rank": 10,
           "hot": 0,
-          "url": "https://m.baidu.com/s?word=ChinaGT%E7%A2%B0%E6%92%9E%E4%BA%8B%E4%BB%B6%E8%B0%83%E6%9F%A5%EF%BC%9A%E7%8E%8B%E4%B8%80%E5%8D%9A%E6%97%A0%E8%B4%A3&sa=fyb_news"
+          "url": "https://www.thepaper.cn/newsDetail_forward_34019796"
         }
       ],
       "summary": "",
-      "url": "https://m.baidu.com/s?word=ChinaGT%E7%A2%B0%E6%92%9E%E4%BA%8B%E4%BB%B6%E8%B0%83%E6%9F%A5%EF%BC%9A%E7%8E%8B%E4%B8%80%E5%8D%9A%E6%97%A0%E8%B4%A3&sa=fyb_news"
+      "url": "https://www.thepaper.cn/newsDetail_forward_34019796"
+    },
+    {
+      "id": "evt-miumiu10",
+      "title": "MiuMiu新品1个针织包标价5950元",
+      "category": "society",
+      "hotScore": 0.44,
+      "freshness": 1,
+      "crossSource": 0.6309,
+      "totalScore": 0.6653,
+      "sources": [
+        {
+          "channel": "baidu",
+          "rank": 10,
+          "hot": 0,
+          "url": "https://m.baidu.com/s?word=MiuMiu%E6%96%B0%E5%93%811%E4%B8%AA%E9%92%88%E7%BB%87%E5%8C%85%E6%A0%87%E4%BB%B75950%E5%85%83&sa=fyb_news"
+        }
+      ],
+      "summary": "",
+      "url": "https://m.baidu.com/s?word=MiuMiu%E6%96%B0%E5%93%811%E4%B8%AA%E9%92%88%E7%BB%87%E5%8C%85%E6%A0%87%E4%BB%B75950%E5%85%83&sa=fyb_news"
     }
   ]
 }
