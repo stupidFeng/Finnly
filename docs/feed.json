@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-09-07T13:47:04.424Z",
+  "generatedAt": "2026-09-07T18:28:29.210Z",
   "fields": {
     "society": "社会",
     "economy": "经济",
@@ -8,32 +8,32 @@
   "feed": [
     {
       "id": "evt-00000000",
-      "title": "英国政府要求民众提前存粮存水",
+      "title": "雷军展示“折叠机的坟场”",
       "category": "society",
-      "hotScore": 0.7225,
+      "hotScore": 0.8075,
       "freshness": 0.9999,
       "crossSource": 1,
-      "totalScore": 0.889,
+      "totalScore": 0.923,
       "sources": [
         {
           "channel": "toutiao",
-          "rank": 4,
-          "hot": 11777444,
-          "url": "https://www.toutiao.com/trending/7682556605699326015/"
+          "rank": 2,
+          "hot": 18252255,
+          "url": "https://www.toutiao.com/trending/7682740873169109035/"
         },
         {
           "channel": "baidu",
           "rank": 9,
           "hot": 0,
-          "url": "https://m.baidu.com/s?word=%E8%8B%B1%E5%9B%BD%E6%94%BF%E5%BA%9C%E8%A6%81%E6%B1%82%E6%B0%91%E4%BC%97%E6%8F%90%E5%89%8D%E5%AD%98%E7%B2%AE%E5%AD%98%E6%B0%B4&sa=fyb_news"
+          "url": "https://m.baidu.com/s?word=%E9%9B%B7%E5%86%9B%E5%B1%95%E7%A4%BA%E2%80%9C%E6%8A%98%E5%8F%A0%E6%9C%BA%E7%9A%84%E5%9D%9F%E5%9C%BA%E2%80%9D&sa=fyb_news"
         }
       ],
       "summary": "",
-      "url": "https://www.toutiao.com/trending/7682556605699326015/"
+      "url": "https://www.toutiao.com/trending/7682740873169109035/"
     },
     {
-      "id": "evt-18fold10",
-      "title": "小米18 Fold售价10999元起",
+      "id": "evt-suv00000",
+      "title": "小米澎程SUV售价公布",
       "category": "society",
       "hotScore": 0.85,
       "freshness": 0.9999,
@@ -43,82 +43,44 @@
         {
           "channel": "toutiao",
           "rank": 1,
-          "hot": 15897887,
-          "url": "https://www.toutiao.com/trending/7682757061695770163/"
+          "hot": 20171862,
+          "url": "https://www.toutiao.com/trending/7682779977015627307/"
         }
       ],
       "summary": "",
-      "url": "https://www.toutiao.com/trending/7682757061695770163/"
+      "url": "https://www.toutiao.com/trending/7682779977015627307/"
     },
     {
-      "id": "evt-10000000",
-      "title": "福鼎市茶叶协会回应近10吨“泡水茶”被销毁：亏钱也绝不亏口碑",
+      "id": "evt-20000000",
+      "title": "郑钦文2比0斯瓦泰克晋级八强",
       "category": "society",
-      "hotScore": 0.85,
+      "hotScore": 0.76,
       "freshness": 1,
       "crossSource": 0.6309,
-      "totalScore": 0.8293,
-      "sources": [
-        {
-          "channel": "thepaper",
-          "rank": 1,
-          "hot": 0,
-          "url": "https://www.thepaper.cn/newsDetail_forward_34020894"
-        }
-      ],
-      "summary": "",
-      "url": "https://www.thepaper.cn/newsDetail_forward_34020894"
-    },
-    {
-      "id": "evt-30000000",
-      "title": "郑钦文美网大逆转已锁定322万奖金",
-      "category": "society",
-      "hotScore": 0.8075,
-      "freshness": 0.9999,
-      "crossSource": 0.6309,
-      "totalScore": 0.8123,
-      "sources": [
-        {
-          "channel": "toutiao",
-          "rank": 2,
-          "hot": 14385003,
-          "url": "https://www.toutiao.com/trending/7682759563925261870/"
-        }
-      ],
-      "summary": "",
-      "url": "https://www.toutiao.com/trending/7682759563925261870/"
-    },
-    {
-      "id": "evt-n70pro00",
-      "title": "小米澎程N70 Pro版售价20.99万",
-      "category": "society",
-      "hotScore": 0.72,
-      "freshness": 1,
-      "crossSource": 0.6309,
-      "totalScore": 0.7773,
+      "totalScore": 0.7933,
       "sources": [
         {
           "channel": "baidu",
-          "rank": 3,
+          "rank": 2,
           "hot": 0,
-          "url": "https://m.baidu.com/s?word=%E5%B0%8F%E7%B1%B3%E6%BE%8E%E7%A8%8BN70+Pro%E7%89%88%E5%94%AE%E4%BB%B720.99%E4%B8%87&sa=fyb_news"
+          "url": "https://m.baidu.com/s?word=%E9%83%91%E9%92%A6%E6%96%872%E6%AF%940%E6%96%AF%E7%93%A6%E6%B3%B0%E5%85%8B%E6%99%8B%E7%BA%A7%E5%85%AB%E5%BC%BA&sa=fyb_news"
         }
       ],
       "summary": "",
-      "url": "https://m.baidu.com/s?word=%E5%B0%8F%E7%B1%B3%E6%BE%8E%E7%A8%8BN70+Pro%E7%89%88%E5%94%AE%E4%BB%B720.99%E4%B8%87&sa=fyb_news"
+      "url": "https://m.baidu.com/s?word=%E9%83%91%E9%92%A6%E6%96%872%E6%AF%940%E6%96%AF%E7%93%A6%E6%B3%B0%E5%85%8B%E6%99%8B%E7%BA%A7%E5%85%AB%E5%BC%BA&sa=fyb_news"
     },
     {
-      "id": "evt-97000000",
-      "title": "如何评价华为 9 月 7 日全球直播的新品发布会？有哪些信息值得关注？",
+      "id": "evt-n70s0000",
+      "title": "小米澎程 N70 系列增程 SUV 发布，售价 20.99 万元起，怎样看待这一定价？竞争力有多强？",
       "category": "society",
-      "hotScore": 0.675,
-      "freshness": 0.9999,
+      "hotScore": 0.75,
+      "freshness": 1,
       "crossSource": 0.6309,
-      "totalScore": 0.7593,
+      "totalScore": 0.7893,
       "sources": [
         {
           "channel": "zhihu",
-          "rank": 3,
+          "rank": 1,
           "hot": 0,
           "url": ""
         }
@@ -127,61 +89,118 @@
       "url": ""
     },
     {
-      "id": "evt-50000000",
-      "title": "小米推出5个内存版本平板电脑",
-      "category": "society",
-      "hotScore": 0.595,
-      "freshness": 0.9999,
-      "crossSource": 0.6309,
-      "totalScore": 0.7273,
-      "sources": [
-        {
-          "channel": "toutiao",
-          "rank": 7,
-          "hot": 8724945,
-          "url": "https://www.toutiao.com/trending/7682607634084118564/"
-        }
-      ],
-      "summary": "",
-      "url": "https://www.toutiao.com/trending/7682607634084118564/"
-    },
-    {
-      "id": "evt-10400000",
-      "title": "浙江104岁老人每天睡觉18个小时",
-      "category": "society",
-      "hotScore": 0.52,
+      "id": "evt-10000000",
+      "title": "耐克将被移出标普 100 指数，市值五年累计缩水约 79%，耐克怎么了？",
+      "category": "economy",
+      "hotScore": 0.6375,
       "freshness": 1,
       "crossSource": 0.6309,
-      "totalScore": 0.6973,
+      "totalScore": 0.7443,
       "sources": [
         {
-          "channel": "baidu",
-          "rank": 8,
+          "channel": "zhihu",
+          "rank": 4,
           "hot": 0,
-          "url": "https://m.baidu.com/s?word=%E6%B5%99%E6%B1%9F104%E5%B2%81%E8%80%81%E4%BA%BA%E6%AF%8F%E5%A4%A9%E7%9D%A1%E8%A7%8918%E4%B8%AA%E5%B0%8F%E6%97%B6&sa=fyb_news"
+          "url": ""
         }
       ],
       "summary": "",
-      "url": "https://m.baidu.com/s?word=%E6%B5%99%E6%B1%9F104%E5%B2%81%E8%80%81%E4%BA%BA%E6%AF%8F%E5%A4%A9%E7%9D%A1%E8%A7%8918%E4%B8%AA%E5%B0%8F%E6%97%B6&sa=fyb_news"
+      "url": ""
     },
     {
       "id": "evt-90000000",
       "title": "9月起你的工资有变",
       "category": "society",
-      "hotScore": 0.51,
+      "hotScore": 0.6375,
       "freshness": 0.9999,
       "crossSource": 0.6309,
-      "totalScore": 0.6933,
+      "totalScore": 0.7443,
       "sources": [
         {
           "channel": "toutiao",
-          "rank": 9,
-          "hot": 7143381,
+          "rank": 6,
+          "hot": 12234852,
           "url": "https://www.toutiao.com/trending/7682691547518845450/"
         }
       ],
       "summary": "",
       "url": "https://www.toutiao.com/trending/7682691547518845450/"
+    },
+    {
+      "id": "evt-97000000",
+      "title": "如何评价 9 月 7 日发布的小米澎程 SUV？",
+      "category": "society",
+      "hotScore": 0.6,
+      "freshness": 1,
+      "crossSource": 0.6309,
+      "totalScore": 0.7293,
+      "sources": [
+        {
+          "channel": "zhihu",
+          "rank": 5,
+          "hot": 0,
+          "url": ""
+        }
+      ],
+      "summary": "",
+      "url": ""
+    },
+    {
+      "id": "evt-30000000",
+      "title": "河南一女子外出喝酒致 3 岁儿子反锁屋内身亡，被判过失致人死亡罪，如何从法律角度解读？类似悲剧能如何避免？",
+      "category": "society",
+      "hotScore": 0.5625,
+      "freshness": 1,
+      "crossSource": 0.6309,
+      "totalScore": 0.7143,
+      "sources": [
+        {
+          "channel": "zhihu",
+          "rank": 6,
+          "hot": 0,
+          "url": ""
+        }
+      ],
+      "summary": "",
+      "url": ""
+    },
+    {
+      "id": "evt-ai000000",
+      "title": "湖南卫视一只“AI猴子”闹出133亿",
+      "category": "society",
+      "hotScore": 0.56,
+      "freshness": 1,
+      "crossSource": 0.6309,
+      "totalScore": 0.7133,
+      "sources": [
+        {
+          "channel": "baidu",
+          "rank": 7,
+          "hot": 0,
+          "url": "https://m.baidu.com/s?word=%E6%B9%96%E5%8D%97%E5%8D%AB%E8%A7%86%E4%B8%80%E5%8F%AA%E2%80%9CAI%E7%8C%B4%E5%AD%90%E2%80%9D%E9%97%B9%E5%87%BA133%E4%BA%BF&sa=fyb_news"
+        }
+      ],
+      "summary": "",
+      "url": "https://m.baidu.com/s?word=%E6%B9%96%E5%8D%97%E5%8D%AB%E8%A7%86%E4%B8%80%E5%8F%AA%E2%80%9CAI%E7%8C%B4%E5%AD%90%E2%80%9D%E9%97%B9%E5%87%BA133%E4%BA%BF&sa=fyb_news"
+    },
+    {
+      "id": "evt-hr000000",
+      "title": "星宇事件后培训HR“如何依法合规体面优化”，律所合伙人自称：没有对错，只是探讨",
+      "category": "society",
+      "hotScore": 0.5525,
+      "freshness": 1,
+      "crossSource": 0.6309,
+      "totalScore": 0.7103,
+      "sources": [
+        {
+          "channel": "thepaper",
+          "rank": 8,
+          "hot": 0,
+          "url": "https://www.thepaper.cn/newsDetail_forward_34024835"
+        }
+      ],
+      "summary": "",
+      "url": "https://www.thepaper.cn/newsDetail_forward_34024835"
     }
   ]
 }
