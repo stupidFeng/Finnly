@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-09-07T06:46:28.113Z",
+  "generatedAt": "2026-09-07T13:47:04.424Z",
   "fields": {
     "society": "社会",
     "economy": "经济",
@@ -7,8 +7,33 @@
   },
   "feed": [
     {
-      "id": "evt-44400000",
-      "title": "高考444分被殡葬专业录取男孩已入学",
+      "id": "evt-00000000",
+      "title": "英国政府要求民众提前存粮存水",
+      "category": "society",
+      "hotScore": 0.7225,
+      "freshness": 0.9999,
+      "crossSource": 1,
+      "totalScore": 0.889,
+      "sources": [
+        {
+          "channel": "toutiao",
+          "rank": 4,
+          "hot": 11777444,
+          "url": "https://www.toutiao.com/trending/7682556605699326015/"
+        },
+        {
+          "channel": "baidu",
+          "rank": 9,
+          "hot": 0,
+          "url": "https://m.baidu.com/s?word=%E8%8B%B1%E5%9B%BD%E6%94%BF%E5%BA%9C%E8%A6%81%E6%B1%82%E6%B0%91%E4%BC%97%E6%8F%90%E5%89%8D%E5%AD%98%E7%B2%AE%E5%AD%98%E6%B0%B4&sa=fyb_news"
+        }
+      ],
+      "summary": "",
+      "url": "https://www.toutiao.com/trending/7682556605699326015/"
+    },
+    {
+      "id": "evt-18fold10",
+      "title": "小米18 Fold售价10999元起",
       "category": "society",
       "hotScore": 0.85,
       "freshness": 0.9999,
@@ -18,16 +43,16 @@
         {
           "channel": "toutiao",
           "rank": 1,
-          "hot": 20476356,
-          "url": "https://www.toutiao.com/trending/7682442446395031598/"
+          "hot": 15897887,
+          "url": "https://www.toutiao.com/trending/7682757061695770163/"
         }
       ],
       "summary": "",
-      "url": "https://www.toutiao.com/trending/7682442446395031598/"
+      "url": "https://www.toutiao.com/trending/7682757061695770163/"
     },
     {
-      "id": "evt-00000000",
-      "title": "西藏日喀则：将深入研究口岸功能恢复等事宜",
+      "id": "evt-10000000",
+      "title": "福鼎市茶叶协会回应近10吨“泡水茶”被销毁：亏钱也绝不亏口碑",
       "category": "society",
       "hotScore": 0.85,
       "freshness": 1,
@@ -38,15 +63,15 @@
           "channel": "thepaper",
           "rank": 1,
           "hot": 0,
-          "url": "https://www.thepaper.cn/newsDetail_forward_34020471"
+          "url": "https://www.thepaper.cn/newsDetail_forward_34020894"
         }
       ],
       "summary": "",
-      "url": "https://www.thepaper.cn/newsDetail_forward_34020471"
+      "url": "https://www.thepaper.cn/newsDetail_forward_34020894"
     },
     {
-      "id": "evt-40000000",
-      "title": "星宇总经理等4名管理人员被处理",
+      "id": "evt-30000000",
+      "title": "郑钦文美网大逆转已锁定322万奖金",
       "category": "society",
       "hotScore": 0.8075,
       "freshness": 0.9999,
@@ -56,133 +81,38 @@
         {
           "channel": "toutiao",
           "rank": 2,
-          "hot": 18527773,
-          "url": "https://www.toutiao.com/trending/7682149350450757673/"
+          "hot": 14385003,
+          "url": "https://www.toutiao.com/trending/7682759563925261870/"
         }
       ],
       "summary": "",
-      "url": "https://www.toutiao.com/trending/7682149350450757673/"
+      "url": "https://www.toutiao.com/trending/7682759563925261870/"
     },
     {
-      "id": "evt-10000000",
-      "title": "福鼎市茶叶协会回应近10吨“泡水茶”被销毁：亏钱也绝不亏口碑",
+      "id": "evt-n70pro00",
+      "title": "小米澎程N70 Pro版售价20.99万",
       "category": "society",
-      "hotScore": 0.765,
+      "hotScore": 0.72,
       "freshness": 1,
       "crossSource": 0.6309,
-      "totalScore": 0.7953,
-      "sources": [
-        {
-          "channel": "thepaper",
-          "rank": 3,
-          "hot": 0,
-          "url": "https://www.thepaper.cn/newsDetail_forward_34020894"
-        }
-      ],
-      "summary": "",
-      "url": "https://www.thepaper.cn/newsDetail_forward_34020894"
-    },
-    {
-      "id": "evt-80000000",
-      "title": "8月经济发展看点有哪些",
-      "category": "economy",
-      "hotScore": 0.765,
-      "freshness": 0.9999,
-      "crossSource": 0.6309,
-      "totalScore": 0.7953,
-      "sources": [
-        {
-          "channel": "toutiao",
-          "rank": 3,
-          "hot": 16764622,
-          "url": "https://www.toutiao.com/trending/7682576896169050118/"
-        }
-      ],
-      "summary": "",
-      "url": "https://www.toutiao.com/trending/7682576896169050118/"
-    },
-    {
-      "id": "evt-16000000",
-      "title": "零食店1天涌入6万人堪比演唱会",
-      "category": "entertainment",
-      "hotScore": 0.64,
-      "freshness": 1,
-      "crossSource": 0.6309,
-      "totalScore": 0.7453,
+      "totalScore": 0.7773,
       "sources": [
         {
           "channel": "baidu",
-          "rank": 5,
+          "rank": 3,
           "hot": 0,
-          "url": "https://m.baidu.com/s?word=%E9%9B%B6%E9%A3%9F%E5%BA%971%E5%A4%A9%E6%B6%8C%E5%85%A56%E4%B8%87%E4%BA%BA%E5%A0%AA%E6%AF%94%E6%BC%94%E5%94%B1%E4%BC%9A&sa=fyb_news"
+          "url": "https://m.baidu.com/s?word=%E5%B0%8F%E7%B1%B3%E6%BE%8E%E7%A8%8BN70+Pro%E7%89%88%E5%94%AE%E4%BB%B720.99%E4%B8%87&sa=fyb_news"
         }
       ],
       "summary": "",
-      "url": "https://m.baidu.com/s?word=%E9%9B%B6%E9%A3%9F%E5%BA%971%E5%A4%A9%E6%B6%8C%E5%85%A56%E4%B8%87%E4%BA%BA%E5%A0%AA%E6%AF%94%E6%BC%94%E5%94%B1%E4%BC%9A&sa=fyb_news"
+      "url": "https://m.baidu.com/s?word=%E5%B0%8F%E7%B1%B3%E6%BE%8E%E7%A8%8BN70+Pro%E7%89%88%E5%94%AE%E4%BB%B720.99%E4%B8%87&sa=fyb_news"
     },
     {
-      "id": "evt-12000000",
-      "title": "星宇股份总经理扣薪 12 个月，人力资源总监免职，能平息此次风波吗？带来哪些深思？",
-      "category": "society",
-      "hotScore": 0.75,
-      "freshness": 1,
-      "crossSource": 0.6309,
-      "totalScore": 0.7893,
-      "sources": [
-        {
-          "channel": "zhihu",
-          "rank": 1,
-          "hot": 0,
-          "url": ""
-        }
-      ],
-      "summary": "",
-      "url": ""
-    },
-    {
-      "id": "evt-50000000",
-      "title": "美林肯号航母官兵5天消费1亿泰铢",
-      "category": "society",
-      "hotScore": 0.7225,
-      "freshness": 0.9999,
-      "crossSource": 0.6309,
-      "totalScore": 0.7783,
-      "sources": [
-        {
-          "channel": "toutiao",
-          "rank": 4,
-          "hot": 15169258,
-          "url": "https://www.toutiao.com/trending/7681940225756630571/"
-        }
-      ],
-      "summary": "",
-      "url": "https://www.toutiao.com/trending/7681940225756630571/"
-    },
-    {
-      "id": "evt-30000000",
-      "title": "中秋放假3天不调休高速不免费",
-      "category": "society",
-      "hotScore": 0.68,
-      "freshness": 0.9999,
-      "crossSource": 0.6309,
-      "totalScore": 0.7613,
-      "sources": [
-        {
-          "channel": "toutiao",
-          "rank": 5,
-          "hot": 13725712,
-          "url": "https://www.toutiao.com/trending/7682277914222133290/"
-        }
-      ],
-      "summary": "",
-      "url": "https://www.toutiao.com/trending/7682277914222133290/"
-    },
-    {
-      "id": "evt-12400000",
-      "title": "研究生卖黄金所得 12.4 万被跨省冻结，为啥两地警方认定会产生分歧？账户为何迟迟无法解冻？",
+      "id": "evt-97000000",
+      "title": "如何评价华为 9 月 7 日全球直播的新品发布会？有哪些信息值得关注？",
       "category": "society",
       "hotScore": 0.675,
-      "freshness": 1,
+      "freshness": 0.9999,
       "crossSource": 0.6309,
       "totalScore": 0.7593,
       "sources": [
@@ -197,99 +127,61 @@
       "url": ""
     },
     {
-      "id": "evt-workbuddy",
-      "title": "腾讯 WorkBuddy 快速登顶国内 AI 办公智能体市场，其成功背后的关键因素有哪些？",
-      "category": "society",
-      "hotScore": 0.6,
-      "freshness": 1,
-      "crossSource": 0.6309,
-      "totalScore": 0.7293,
-      "sources": [
-        {
-          "channel": "zhihu",
-          "rank": 5,
-          "hot": 0,
-          "url": ""
-        }
-      ],
-      "summary": "",
-      "url": ""
-    },
-    {
-      "id": "evt-82600000",
-      "title": "西藏吉隆“8·26”泥石流灾害造成43人遇难、519人失联",
+      "id": "evt-50000000",
+      "title": "小米推出5个内存版本平板电脑",
       "category": "society",
       "hotScore": 0.595,
-      "freshness": 1,
+      "freshness": 0.9999,
       "crossSource": 0.6309,
       "totalScore": 0.7273,
       "sources": [
         {
-          "channel": "thepaper",
+          "channel": "toutiao",
           "rank": 7,
-          "hot": 0,
-          "url": "https://www.thepaper.cn/newsDetail_forward_34020192"
+          "hot": 8724945,
+          "url": "https://www.toutiao.com/trending/7682607634084118564/"
         }
       ],
       "summary": "",
-      "url": "https://www.thepaper.cn/newsDetail_forward_34020192"
+      "url": "https://www.toutiao.com/trending/7682607634084118564/"
     },
     {
-      "id": "evt-60000000",
-      "title": "家长反对交 600 元请保洁扫教室被禁言，这暴露出什么问题？现在的学生连打扫教室都不会了吗？",
+      "id": "evt-10400000",
+      "title": "浙江104岁老人每天睡觉18个小时",
       "category": "society",
-      "hotScore": 0.4875,
+      "hotScore": 0.52,
       "freshness": 1,
       "crossSource": 0.6309,
-      "totalScore": 0.6843,
-      "sources": [
-        {
-          "channel": "zhihu",
-          "rank": 8,
-          "hot": 0,
-          "url": ""
-        }
-      ],
-      "summary": "",
-      "url": ""
-    },
-    {
-      "id": "evt-chinagt0",
-      "title": "CHINA GT就碰撞起火事故致歉：将进一步复盘和调查",
-      "category": "society",
-      "hotScore": 0.4675,
-      "freshness": 1,
-      "crossSource": 0.6309,
-      "totalScore": 0.6763,
-      "sources": [
-        {
-          "channel": "thepaper",
-          "rank": 10,
-          "hot": 0,
-          "url": "https://www.thepaper.cn/newsDetail_forward_34019796"
-        }
-      ],
-      "summary": "",
-      "url": "https://www.thepaper.cn/newsDetail_forward_34019796"
-    },
-    {
-      "id": "evt-miumiu10",
-      "title": "MiuMiu新品1个针织包标价5950元",
-      "category": "society",
-      "hotScore": 0.44,
-      "freshness": 1,
-      "crossSource": 0.6309,
-      "totalScore": 0.6653,
+      "totalScore": 0.6973,
       "sources": [
         {
           "channel": "baidu",
-          "rank": 10,
+          "rank": 8,
           "hot": 0,
-          "url": "https://m.baidu.com/s?word=MiuMiu%E6%96%B0%E5%93%811%E4%B8%AA%E9%92%88%E7%BB%87%E5%8C%85%E6%A0%87%E4%BB%B75950%E5%85%83&sa=fyb_news"
+          "url": "https://m.baidu.com/s?word=%E6%B5%99%E6%B1%9F104%E5%B2%81%E8%80%81%E4%BA%BA%E6%AF%8F%E5%A4%A9%E7%9D%A1%E8%A7%8918%E4%B8%AA%E5%B0%8F%E6%97%B6&sa=fyb_news"
         }
       ],
       "summary": "",
-      "url": "https://m.baidu.com/s?word=MiuMiu%E6%96%B0%E5%93%811%E4%B8%AA%E9%92%88%E7%BB%87%E5%8C%85%E6%A0%87%E4%BB%B75950%E5%85%83&sa=fyb_news"
+      "url": "https://m.baidu.com/s?word=%E6%B5%99%E6%B1%9F104%E5%B2%81%E8%80%81%E4%BA%BA%E6%AF%8F%E5%A4%A9%E7%9D%A1%E8%A7%8918%E4%B8%AA%E5%B0%8F%E6%97%B6&sa=fyb_news"
+    },
+    {
+      "id": "evt-90000000",
+      "title": "9月起你的工资有变",
+      "category": "society",
+      "hotScore": 0.51,
+      "freshness": 0.9999,
+      "crossSource": 0.6309,
+      "totalScore": 0.6933,
+      "sources": [
+        {
+          "channel": "toutiao",
+          "rank": 9,
+          "hot": 7143381,
+          "url": "https://www.toutiao.com/trending/7682691547518845450/"
+        }
+      ],
+      "summary": "",
+      "url": "https://www.toutiao.com/trending/7682691547518845450/"
     }
   ]
 }
