@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-09-07T22:22:32.462Z",
+  "generatedAt": "2026-09-08T02:00:18.346Z",
   "fields": {
     "society": "社会",
     "economy": "经济",
@@ -8,47 +8,60 @@
   "feed": [
     {
       "id": "evt-00000000",
-      "title": "刘德华幽默带货：三折叠不好用找余总",
+      "title": "男子偷拍未公开战机刚发布就被查",
+      "category": "society",
+      "hotScore": 0.85,
+      "freshness": 1,
+      "crossSource": 0.6309,
+      "totalScore": 0.8293,
+      "sources": [
+        {
+          "channel": "toutiao",
+          "rank": 1,
+          "hot": 25786054,
+          "url": "https://www.toutiao.com/trending/7682939878635503659/"
+        }
+      ],
+      "summary": "",
+      "url": "https://www.toutiao.com/trending/7682939878635503659/"
+    },
+    {
+      "id": "evt-57000000",
+      "title": "郑钦文让5追7时隔两年重返美网8强",
       "category": "society",
       "hotScore": 0.8075,
-      "freshness": 0.9999,
-      "crossSource": 1,
-      "totalScore": 0.923,
+      "freshness": 1,
+      "crossSource": 0.6309,
+      "totalScore": 0.8123,
       "sources": [
         {
           "channel": "toutiao",
           "rank": 2,
-          "hot": 20000674,
-          "url": "https://www.toutiao.com/trending/7681943644320268307/"
-        },
-        {
-          "channel": "baidu",
-          "rank": 6,
-          "hot": 0,
-          "url": "https://m.baidu.com/s?word=%E5%88%98%E5%BE%B7%E5%8D%8E%E5%B9%BD%E9%BB%98%E5%B8%A6%E8%B4%A7%EF%BC%9A%E4%B8%89%E6%8A%98%E5%8F%A0%E4%B8%8D%E5%A5%BD%E7%94%A8%E6%89%BE%E4%BD%99%E6%80%BB&sa=fyb_news"
+          "hot": 23332186,
+          "url": "https://www.toutiao.com/trending/7682751076462854180/"
         }
       ],
       "summary": "",
-      "url": "https://www.toutiao.com/trending/7681943644320268307/"
+      "url": "https://www.toutiao.com/trending/7682751076462854180/"
     },
     {
-      "id": "evt-20000000",
-      "title": "郑钦文2比0斯瓦泰克晋级八强",
+      "id": "evt-18fol000",
+      "title": "起售价过万！小米18 Fold发布，雷军谈造芯：只要开始追赶，小米就走在赢的路上",
       "category": "society",
-      "hotScore": 0.76,
+      "hotScore": 0.8075,
       "freshness": 1,
       "crossSource": 0.6309,
-      "totalScore": 0.7933,
+      "totalScore": 0.8123,
       "sources": [
         {
-          "channel": "baidu",
+          "channel": "thepaper",
           "rank": 2,
           "hot": 0,
-          "url": "https://m.baidu.com/s?word=%E9%83%91%E9%92%A6%E6%96%872%E6%AF%940%E6%96%AF%E7%93%A6%E6%B3%B0%E5%85%8B%E6%99%8B%E7%BA%A7%E5%85%AB%E5%BC%BA&sa=fyb_news"
+          "url": "https://www.thepaper.cn/newsDetail_forward_34025436"
         }
       ],
       "summary": "",
-      "url": "https://m.baidu.com/s?word=%E9%83%91%E9%92%A6%E6%96%872%E6%AF%940%E6%96%AF%E7%93%A6%E6%B3%B0%E5%85%8B%E6%99%8B%E7%BA%A7%E5%85%AB%E5%BC%BA&sa=fyb_news"
+      "url": "https://www.thepaper.cn/newsDetail_forward_34025436"
     },
     {
       "id": "evt-n70s0000",
@@ -70,131 +83,36 @@
       "url": ""
     },
     {
-      "id": "evt-18fol000",
-      "title": "起售价过万！小米18 Fold发布，雷军谈造芯：只要开始追赶，小米就走在赢的路上",
-      "category": "society",
-      "hotScore": 0.7225,
-      "freshness": 1,
-      "crossSource": 0.6309,
-      "totalScore": 0.7783,
-      "sources": [
-        {
-          "channel": "thepaper",
-          "rank": 4,
-          "hot": 0,
-          "url": "https://www.thepaper.cn/newsDetail_forward_34025436"
-        }
-      ],
-      "summary": "",
-      "url": "https://www.thepaper.cn/newsDetail_forward_34025436"
-    },
-    {
-      "id": "evt-90000000",
-      "title": "9月起你的工资有变",
+      "id": "evt-40000000",
+      "title": "小米澎程系列4分钟锁单破万",
       "category": "society",
       "hotScore": 0.68,
-      "freshness": 0.9999,
+      "freshness": 1,
       "crossSource": 0.6309,
       "totalScore": 0.7613,
       "sources": [
         {
           "channel": "toutiao",
           "rank": 5,
-          "hot": 14816863,
-          "url": "https://www.toutiao.com/trending/7682691547518845450/"
+          "hot": 17284909,
+          "url": "https://www.toutiao.com/trending/7682327244861132324/"
         }
       ],
       "summary": "",
-      "url": "https://www.toutiao.com/trending/7682691547518845450/"
+      "url": "https://www.toutiao.com/trending/7682327244861132324/"
     },
     {
-      "id": "evt-05750000",
-      "title": "郑钦文0-5落后又7-5逆转",
+      "id": "evt-20000000",
+      "title": "美网女单第四轮，郑钦文 2-0 斯瓦泰克挺进 8 强，如何评价本场比赛？",
       "category": "society",
-      "hotScore": 0.56,
+      "hotScore": 0.675,
       "freshness": 1,
       "crossSource": 0.6309,
-      "totalScore": 0.7133,
-      "sources": [
-        {
-          "channel": "baidu",
-          "rank": 7,
-          "hot": 0,
-          "url": "https://m.baidu.com/s?word=%E9%83%91%E9%92%A6%E6%96%870-5%E8%90%BD%E5%90%8E%E5%8F%887-5%E9%80%86%E8%BD%AC&sa=fyb_news"
-        }
-      ],
-      "summary": "",
-      "url": "https://m.baidu.com/s?word=%E9%83%91%E9%92%A6%E6%96%870-5%E8%90%BD%E5%90%8E%E5%8F%887-5%E9%80%86%E8%BD%AC&sa=fyb_news"
-    },
-    {
-      "id": "evt-30000000",
-      "title": "中秋放假3天不调休高速不免费",
-      "category": "society",
-      "hotScore": 0.5525,
-      "freshness": 0.9999,
-      "crossSource": 0.6309,
-      "totalScore": 0.7103,
-      "sources": [
-        {
-          "channel": "toutiao",
-          "rank": 8,
-          "hot": 10976602,
-          "url": "https://www.toutiao.com/trending/7682277914222133290/"
-        }
-      ],
-      "summary": "",
-      "url": "https://www.toutiao.com/trending/7682277914222133290/"
-    },
-    {
-      "id": "evt-16000000",
-      "title": "16岁抗癌博主何国强离世",
-      "category": "society",
-      "hotScore": 0.51,
-      "freshness": 0.9999,
-      "crossSource": 0.6309,
-      "totalScore": 0.6933,
-      "sources": [
-        {
-          "channel": "toutiao",
-          "rank": 9,
-          "hot": 9932040,
-          "url": "https://www.toutiao.com/trending/7682553653831467049/"
-        }
-      ],
-      "summary": "",
-      "url": "https://www.toutiao.com/trending/7682553653831467049/"
-    },
-    {
-      "id": "evt-hr000000",
-      "title": "星宇事件后培训HR“如何依法合规体面优化”，律所合伙人自称：没有对错，只是探讨",
-      "category": "society",
-      "hotScore": 0.51,
-      "freshness": 1,
-      "crossSource": 0.6309,
-      "totalScore": 0.6933,
-      "sources": [
-        {
-          "channel": "thepaper",
-          "rank": 9,
-          "hot": 0,
-          "url": "https://www.thepaper.cn/newsDetail_forward_34024835"
-        }
-      ],
-      "summary": "",
-      "url": "https://www.thepaper.cn/newsDetail_forward_34024835"
-    },
-    {
-      "id": "evt-97000000",
-      "title": "如何评价 9 月 7 日发布的小米澎程 SUV？",
-      "category": "society",
-      "hotScore": 0.4875,
-      "freshness": 1,
-      "crossSource": 0.6309,
-      "totalScore": 0.6843,
+      "totalScore": 0.7593,
       "sources": [
         {
           "channel": "zhihu",
-          "rank": 8,
+          "rank": 3,
           "hot": 0,
           "url": ""
         }
@@ -203,42 +121,42 @@
       "url": ""
     },
     {
-      "id": "evt-10000000",
-      "title": "华为新款折叠屏手机售价19999元起",
+      "id": "evt-hr000000",
+      "title": "星宇事件后培训HR“如何依法合规体面优化”，律所合伙人自称：没有对错，只是探讨",
       "category": "society",
       "hotScore": 0.4675,
-      "freshness": 0.9999,
+      "freshness": 1,
       "crossSource": 0.6309,
       "totalScore": 0.6763,
       "sources": [
         {
-          "channel": "toutiao",
-          "rank": 10,
-          "hot": 8986882,
-          "url": "https://www.toutiao.com/trending/7682279563775033394/"
-        }
-      ],
-      "summary": "",
-      "url": "https://www.toutiao.com/trending/7682279563775033394/"
-    },
-    {
-      "id": "evt-ai000000",
-      "title": "湖南卫视一只“AI猴子”闹出133亿",
-      "category": "society",
-      "hotScore": 0.44,
-      "freshness": 1,
-      "crossSource": 0.6309,
-      "totalScore": 0.6653,
-      "sources": [
-        {
-          "channel": "baidu",
+          "channel": "thepaper",
           "rank": 10,
           "hot": 0,
-          "url": "https://m.baidu.com/s?word=%E6%B9%96%E5%8D%97%E5%8D%AB%E8%A7%86%E4%B8%80%E5%8F%AA%E2%80%9CAI%E7%8C%B4%E5%AD%90%E2%80%9D%E9%97%B9%E5%87%BA133%E4%BA%BF&sa=fyb_news"
+          "url": "https://www.thepaper.cn/newsDetail_forward_34024835"
         }
       ],
       "summary": "",
-      "url": "https://m.baidu.com/s?word=%E6%B9%96%E5%8D%97%E5%8D%AB%E8%A7%86%E4%B8%80%E5%8F%AA%E2%80%9CAI%E7%8C%B4%E5%AD%90%E2%80%9D%E9%97%B9%E5%87%BA133%E4%BA%BF&sa=fyb_news"
+      "url": "https://www.thepaper.cn/newsDetail_forward_34024835"
+    },
+    {
+      "id": "evt-20260000",
+      "title": "2026 女篮世界杯小组赛，中国女篮 71-51 意大利女篮 ，如何评价本场比赛？",
+      "category": "society",
+      "hotScore": 0.45,
+      "freshness": 1,
+      "crossSource": 0.6309,
+      "totalScore": 0.6693,
+      "sources": [
+        {
+          "channel": "zhihu",
+          "rank": 9,
+          "hot": 0,
+          "url": ""
+        }
+      ],
+      "summary": "",
+      "url": ""
     }
   ]
 }
