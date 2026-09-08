@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-09-08T13:58:39.374Z",
+  "generatedAt": "2026-09-08T17:45:32.863Z",
   "fields": {
     "society": "社会",
     "economy": "经济",
@@ -8,85 +8,41 @@
   "feed": [
     {
       "id": "evt-00000000",
-      "title": "母亲为去世儿子销户民警含泪拥抱安慰",
+      "title": "这样的吃播该全面叫停了",
       "category": "society",
       "hotScore": 0.72,
-      "freshness": 0.9999,
+      "freshness": 1,
       "crossSource": 1,
       "totalScore": 0.888,
       "sources": [
         {
-          "channel": "toutiao",
-          "rank": 18,
-          "hot": 4565083,
-          "url": "https://www.toutiao.com/trending/7682989897691103282/"
+          "channel": "thepaper",
+          "rank": 5,
+          "hot": 0,
+          "url": "https://www.thepaper.cn/newsDetail_forward_34029259"
         },
         {
           "channel": "baidu",
           "rank": 3,
           "hot": 0,
-          "url": "https://m.baidu.com/s?word=%E6%AF%8D%E4%BA%B2%E4%B8%BA%E5%8E%BB%E4%B8%96%E5%84%BF%E5%AD%90%E9%94%80%E6%88%B7%E6%B0%91%E8%AD%A6%E5%90%AB%E6%B3%AA%E6%8B%A5%E6%8A%B1%E5%AE%89%E6%85%B0&sa=fyb_news"
+          "url": "https://m.baidu.com/s?word=%E8%BF%99%E6%A0%B7%E7%9A%84%E5%90%83%E6%92%AD%E8%AF%A5%E5%85%A8%E9%9D%A2%E5%8F%AB%E5%81%9C%E4%BA%86&sa=fyb_news"
         }
       ],
       "summary": "",
-      "url": "https://www.toutiao.com/trending/7682989897691103282/"
-    },
-    {
-      "id": "evt-12000000",
-      "title": "江西遂川泥石流已致12人遇难",
-      "category": "society",
-      "hotScore": 0.595,
-      "freshness": 0.9999,
-      "crossSource": 1,
-      "totalScore": 0.838,
-      "sources": [
-        {
-          "channel": "toutiao",
-          "rank": 7,
-          "hot": 13714267,
-          "url": "https://www.toutiao.com/trending/7682250305240186923/"
-        },
-        {
-          "channel": "baidu",
-          "rank": 13,
-          "hot": 0,
-          "url": "https://m.baidu.com/s?word=%E6%B1%9F%E8%A5%BF%E9%81%82%E5%B7%9D%E6%B3%A5%E7%9F%B3%E6%B5%81%E5%B7%B2%E8%87%B412%E4%BA%BA%E9%81%87%E9%9A%BE&sa=fyb_news"
-        }
-      ],
-      "summary": "",
-      "url": "https://www.toutiao.com/trending/7682250305240186923/"
-    },
-    {
-      "id": "evt-18fol000",
-      "title": "起售价过万！小米18 Fold发布，雷军谈造芯：只要开始追赶，小米就走在赢的路上",
-      "category": "society",
-      "hotScore": 0.85,
-      "freshness": 1,
-      "crossSource": 0.6309,
-      "totalScore": 0.8293,
-      "sources": [
-        {
-          "channel": "thepaper",
-          "rank": 1,
-          "hot": 0,
-          "url": "https://www.thepaper.cn/newsDetail_forward_34025436"
-        }
-      ],
-      "summary": "",
-      "url": "https://www.thepaper.cn/newsDetail_forward_34025436"
+      "url": "https://www.thepaper.cn/newsDetail_forward_34029259"
     },
     {
       "id": "evt-05000000",
       "title": "连续上演0比5落后逆转！郑钦文：我一直相信自己能重回巅峰",
       "category": "society",
-      "hotScore": 0.765,
+      "hotScore": 0.8075,
       "freshness": 1,
       "crossSource": 0.6309,
-      "totalScore": 0.7953,
+      "totalScore": 0.8123,
       "sources": [
         {
           "channel": "thepaper",
-          "rank": 3,
+          "rank": 2,
           "hot": 0,
           "url": "https://www.thepaper.cn/newsDetail_forward_34027725"
         }
@@ -95,37 +51,18 @@
       "url": "https://www.thepaper.cn/newsDetail_forward_34027725"
     },
     {
-      "id": "evt-36600000",
-      "title": "浙江一公司收到美国3.66亿元关税退税",
-      "category": "economy",
-      "hotScore": 0.8075,
-      "freshness": 0.9999,
-      "crossSource": 0.6309,
-      "totalScore": 0.8122,
-      "sources": [
-        {
-          "channel": "toutiao",
-          "rank": 2,
-          "hot": 22611005,
-          "url": "https://www.toutiao.com/trending/7682709811246400038/"
-        }
-      ],
-      "summary": "",
-      "url": "https://www.toutiao.com/trending/7682709811246400038/"
-    },
-    {
       "id": "evt-40000000",
       "title": "我国进出口连续4个月保持两位数增长",
       "category": "society",
       "hotScore": 0.765,
       "freshness": 0.9999,
       "crossSource": 0.6309,
-      "totalScore": 0.7952,
+      "totalScore": 0.7953,
       "sources": [
         {
           "channel": "toutiao",
           "rank": 3,
-          "hot": 20459283,
+          "hot": 22725148,
           "url": "https://www.toutiao.com/trending/7682369162227944979/"
         }
       ],
@@ -152,36 +89,42 @@
       "url": "https://m.baidu.com/s?word=%E4%B8%8A%E6%B5%B7%EF%BC%9A10%E6%9C%881%E6%97%A5%E8%B5%B7%E7%94%9F%E5%A8%83%E4%B8%AA%E4%BA%BA%E2%80%9C%E4%B8%8D%E8%8A%B1%E9%92%B1%E2%80%9D&sa=fyb_news"
     },
     {
-      "id": "evt-15000000",
-      "title": "郑钦文一年狂赚1.5亿元",
-      "category": "society",
-      "hotScore": 0.68,
+      "id": "evt-36600000",
+      "title": "浙江一公司收到美国3.66亿元关税退税",
+      "category": "economy",
+      "hotScore": 0.7225,
       "freshness": 0.9999,
-      "crossSource": 0.6309,
-      "totalScore": 0.7612,
+      "crossSource": 1,
+      "totalScore": 0.889,
       "sources": [
         {
           "channel": "toutiao",
-          "rank": 5,
-          "hot": 16750644,
-          "url": "https://www.toutiao.com/trending/7682909008822337542/"
+          "rank": 4,
+          "hot": 20562564,
+          "url": "https://www.toutiao.com/trending/7682709811246400038/"
+        },
+        {
+          "channel": "baidu",
+          "rank": 15,
+          "hot": 0,
+          "url": "https://m.baidu.com/s?word=%E6%B5%99%E6%B1%9F%E4%B8%80%E5%85%AC%E5%8F%B8%E6%94%B6%E5%88%B0%E7%BE%8E%E5%9B%BD3.66%E4%BA%BF%E5%85%83%E5%85%B3%E7%A8%8E%E9%80%80%E7%A8%8E&sa=fyb_news"
         }
       ],
       "summary": "",
-      "url": "https://www.toutiao.com/trending/7682909008822337542/"
+      "url": "https://www.toutiao.com/trending/7682709811246400038/"
     },
     {
       "id": "evt-buckmast",
       "title": "如何看待 Buckmaster 披露 OpenAI 在 NS 方程突破中的学术掠夺与威胁言论？",
       "category": "society",
-      "hotScore": 0.6375,
-      "freshness": 0.9999,
+      "hotScore": 0.675,
+      "freshness": 1,
       "crossSource": 0.6309,
-      "totalScore": 0.7443,
+      "totalScore": 0.7593,
       "sources": [
         {
           "channel": "zhihu",
-          "rank": 4,
+          "rank": 3,
           "hot": 0,
           "url": ""
         }
@@ -190,23 +133,118 @@
       "url": ""
     },
     {
-      "id": "evt-iph00000",
-      "title": "苹果即将发布三款新iPhone",
+      "id": "evt-15000000",
+      "title": "郑钦文一年狂赚1.5亿元",
       "category": "society",
       "hotScore": 0.6375,
       "freshness": 0.9999,
       "crossSource": 0.6309,
-      "totalScore": 0.7442,
+      "totalScore": 0.7443,
       "sources": [
         {
           "channel": "toutiao",
           "rank": 6,
-          "hot": 15156609,
-          "url": "https://www.toutiao.com/trending/7682282269948264511/"
+          "hot": 16835204,
+          "url": "https://www.toutiao.com/trending/7682909008822337542/"
         }
       ],
       "summary": "",
-      "url": "https://www.toutiao.com/trending/7682282269948264511/"
+      "url": "https://www.toutiao.com/trending/7682909008822337542/"
+    },
+    {
+      "id": "evt-80000000",
+      "title": "8月汽车销量前十已无燃油车",
+      "category": "society",
+      "hotScore": 0.595,
+      "freshness": 0.9999,
+      "crossSource": 0.6309,
+      "totalScore": 0.7273,
+      "sources": [
+        {
+          "channel": "toutiao",
+          "rank": 7,
+          "hot": 15233122,
+          "url": "https://www.toutiao.com/trending/7682813189238702118/"
+        }
+      ],
+      "summary": "",
+      "url": "https://www.toutiao.com/trending/7682813189238702118/"
+    },
+    {
+      "id": "evt-30000000",
+      "title": "卤米松原研药从30元涨到800元",
+      "category": "society",
+      "hotScore": 0.52,
+      "freshness": 1,
+      "crossSource": 0.6309,
+      "totalScore": 0.6973,
+      "sources": [
+        {
+          "channel": "baidu",
+          "rank": 8,
+          "hot": 0,
+          "url": "https://m.baidu.com/s?word=%E5%8D%A4%E7%B1%B3%E6%9D%BE%E5%8E%9F%E7%A0%94%E8%8D%AF%E4%BB%8E30%E5%85%83%E6%B6%A8%E5%88%B0800%E5%85%83&sa=fyb_news"
+        }
+      ],
+      "summary": "",
+      "url": "https://m.baidu.com/s?word=%E5%8D%A4%E7%B1%B3%E6%9D%BE%E5%8E%9F%E7%A0%94%E8%8D%AF%E4%BB%8E30%E5%85%83%E6%B6%A8%E5%88%B0800%E5%85%83&sa=fyb_news"
+    },
+    {
+      "id": "evt-mag00000",
+      "title": "有理儿有面：谁杀死了MAGA周边",
+      "category": "society",
+      "hotScore": 0.51,
+      "freshness": 0.9999,
+      "crossSource": 0.6309,
+      "totalScore": 0.6933,
+      "sources": [
+        {
+          "channel": "toutiao",
+          "rank": 9,
+          "hot": 12471825,
+          "url": "https://www.toutiao.com/trending/7683156498469359123/"
+        }
+      ],
+      "summary": "",
+      "url": "https://www.toutiao.com/trending/7683156498469359123/"
+    },
+    {
+      "id": "evt-lpl20260",
+      "title": "LPL 2026 赛季季后赛 iG 3:0 淘汰 LGD 距离晋级决赛仅一步之遥，如何评价这场比赛？",
+      "category": "society",
+      "hotScore": 0.4875,
+      "freshness": 1,
+      "crossSource": 0.6309,
+      "totalScore": 0.6843,
+      "sources": [
+        {
+          "channel": "zhihu",
+          "rank": 8,
+          "hot": 0,
+          "url": ""
+        }
+      ],
+      "summary": "",
+      "url": ""
+    },
+    {
+      "id": "evt-deepse00",
+      "title": "深度求索发布 DeepSeek V4.1 Flash 的中间版本内测，该模型体验如何?",
+      "category": "society",
+      "hotScore": 0.45,
+      "freshness": 1,
+      "crossSource": 0.6309,
+      "totalScore": 0.6693,
+      "sources": [
+        {
+          "channel": "zhihu",
+          "rank": 9,
+          "hot": 0,
+          "url": ""
+        }
+      ],
+      "summary": "",
+      "url": ""
     }
   ]
 }
