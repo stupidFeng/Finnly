@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-09-08T20:28:04.132Z",
+  "generatedAt": "2026-09-08T23:44:53.398Z",
   "fields": {
     "society": "社会",
     "economy": "经济",
@@ -10,20 +10,20 @@
       "id": "evt-00000000",
       "title": "这样的吃播该全面叫停了",
       "category": "society",
-      "hotScore": 0.7225,
+      "hotScore": 0.6375,
       "freshness": 0.9999,
       "crossSource": 1,
-      "totalScore": 0.889,
+      "totalScore": 0.855,
       "sources": [
         {
           "channel": "thepaper",
-          "rank": 4,
+          "rank": 6,
           "hot": 0,
           "url": "https://www.thepaper.cn/newsDetail_forward_34029259"
         },
         {
           "channel": "baidu",
-          "rank": 3,
+          "rank": 7,
           "hot": 0,
           "url": "https://m.baidu.com/s?word=%E8%BF%99%E6%A0%B7%E7%9A%84%E5%90%83%E6%92%AD%E8%AF%A5%E5%85%A8%E9%9D%A2%E5%8F%AB%E5%81%9C%E4%BA%86&sa=fyb_news"
         }
@@ -32,86 +32,23 @@
       "url": "https://www.thepaper.cn/newsDetail_forward_34029259"
     },
     {
-      "id": "evt-05000000",
-      "title": "连续上演0比5落后逆转！郑钦文：我一直相信自己能重回巅峰",
-      "category": "society",
-      "hotScore": 0.8075,
-      "freshness": 1,
-      "crossSource": 0.6309,
-      "totalScore": 0.8123,
-      "sources": [
-        {
-          "channel": "thepaper",
-          "rank": 2,
-          "hot": 0,
-          "url": "https://www.thepaper.cn/newsDetail_forward_34027725"
-        }
-      ],
-      "summary": "",
-      "url": "https://www.thepaper.cn/newsDetail_forward_34027725"
-    },
-    {
       "id": "evt-40000000",
       "title": "我国进出口连续4个月保持两位数增长",
       "category": "society",
       "hotScore": 0.765,
       "freshness": 0.9999,
       "crossSource": 0.6309,
-      "totalScore": 0.7952,
+      "totalScore": 0.7953,
       "sources": [
         {
           "channel": "toutiao",
           "rank": 3,
-          "hot": 23219284,
+          "hot": 20090742,
           "url": "https://www.toutiao.com/trending/7682369162227944979/"
         }
       ],
       "summary": "",
       "url": "https://www.toutiao.com/trending/7682369162227944979/"
-    },
-    {
-      "id": "evt-10100000",
-      "title": "上海：10月1日起生娃个人“不花钱”",
-      "category": "society",
-      "hotScore": 0.76,
-      "freshness": 0.9999,
-      "crossSource": 0.6309,
-      "totalScore": 0.7933,
-      "sources": [
-        {
-          "channel": "baidu",
-          "rank": 2,
-          "hot": 0,
-          "url": "https://m.baidu.com/s?word=%E4%B8%8A%E6%B5%B7%EF%BC%9A10%E6%9C%881%E6%97%A5%E8%B5%B7%E7%94%9F%E5%A8%83%E4%B8%AA%E4%BA%BA%E2%80%9C%E4%B8%8D%E8%8A%B1%E9%92%B1%E2%80%9D&sa=fyb_news"
-        }
-      ],
-      "summary": "",
-      "url": "https://m.baidu.com/s?word=%E4%B8%8A%E6%B5%B7%EF%BC%9A10%E6%9C%881%E6%97%A5%E8%B5%B7%E7%94%9F%E5%A8%83%E4%B8%AA%E4%BA%BA%E2%80%9C%E4%B8%8D%E8%8A%B1%E9%92%B1%E2%80%9D&sa=fyb_news"
-    },
-    {
-      "id": "evt-36600000",
-      "title": "浙江一公司收到美国3.66亿元关税退税",
-      "category": "economy",
-      "hotScore": 0.7225,
-      "freshness": 0.9999,
-      "crossSource": 1,
-      "totalScore": 0.889,
-      "sources": [
-        {
-          "channel": "toutiao",
-          "rank": 4,
-          "hot": 21009677,
-          "url": "https://www.toutiao.com/trending/7682709811246400038/"
-        },
-        {
-          "channel": "baidu",
-          "rank": 13,
-          "hot": 0,
-          "url": "https://m.baidu.com/s?word=%E6%B5%99%E6%B1%9F%E4%B8%80%E5%85%AC%E5%8F%B8%E6%94%B6%E5%88%B0%E7%BE%8E%E5%9B%BD3.66%E4%BA%BF%E5%85%83%E5%85%B3%E7%A8%8E%E9%80%80%E7%A8%8E&sa=fyb_news"
-        }
-      ],
-      "summary": "",
-      "url": "https://www.toutiao.com/trending/7682709811246400038/"
     },
     {
       "id": "evt-buckmast",
@@ -133,27 +70,90 @@
       "url": ""
     },
     {
-      "id": "evt-15000000",
-      "title": "郑钦文一年狂赚1.5亿元",
+      "id": "evt-05000000",
+      "title": "连续上演0比5落后逆转！郑钦文：我一直相信自己能重回巅峰",
       "category": "society",
-      "hotScore": 0.68,
-      "freshness": 0.9999,
+      "hotScore": 0.7225,
+      "freshness": 1,
       "crossSource": 0.6309,
-      "totalScore": 0.7612,
+      "totalScore": 0.7783,
       "sources": [
         {
-          "channel": "toutiao",
-          "rank": 5,
-          "hot": 19010342,
-          "url": "https://www.toutiao.com/trending/7682909008822337542/"
+          "channel": "thepaper",
+          "rank": 4,
+          "hot": 0,
+          "url": "https://www.thepaper.cn/newsDetail_forward_34027725"
         }
       ],
       "summary": "",
-      "url": "https://www.toutiao.com/trending/7682909008822337542/"
+      "url": "https://www.thepaper.cn/newsDetail_forward_34027725"
     },
     {
-      "id": "evt-openaina",
-      "title": "怎么看  OpenAI 在 Navier–Stokes 数学难题上取得的进展反而出现争议？",
+      "id": "evt-36600000",
+      "title": "浙江一公司收到美国3.66亿元关税退税",
+      "category": "economy",
+      "hotScore": 0.595,
+      "freshness": 0.9999,
+      "crossSource": 1,
+      "totalScore": 0.838,
+      "sources": [
+        {
+          "channel": "toutiao",
+          "rank": 7,
+          "hot": 13467227,
+          "url": "https://www.toutiao.com/trending/7682709811246400038/"
+        },
+        {
+          "channel": "baidu",
+          "rank": 9,
+          "hot": 0,
+          "url": "https://m.baidu.com/s?word=%E6%B5%99%E6%B1%9F%E4%B8%80%E5%85%AC%E5%8F%B8%E6%94%B6%E5%88%B0%E7%BE%8E%E5%9B%BD3.66%E4%BA%BF%E5%85%83%E5%85%B3%E7%A8%8E%E9%80%80%E7%A8%8E&sa=fyb_news"
+        }
+      ],
+      "summary": "",
+      "url": "https://www.toutiao.com/trending/7682709811246400038/"
+    },
+    {
+      "id": "evt-10100000",
+      "title": "上海 10 月 1 日起生娃个人「不花钱」，产检超额费用全兜底，住院分娩政策内费用全报销，新政会带来哪些利好？",
+      "category": "society",
+      "hotScore": 0.7125,
+      "freshness": 0.9999,
+      "crossSource": 0.6309,
+      "totalScore": 0.7743,
+      "sources": [
+        {
+          "channel": "zhihu",
+          "rank": 2,
+          "hot": 0,
+          "url": ""
+        }
+      ],
+      "summary": "",
+      "url": ""
+    },
+    {
+      "id": "evt-20000000",
+      "title": "曼城2-0波尔图 哈兰德双响",
+      "category": "society",
+      "hotScore": 0.64,
+      "freshness": 0.9999,
+      "crossSource": 0.6309,
+      "totalScore": 0.7453,
+      "sources": [
+        {
+          "channel": "baidu",
+          "rank": 5,
+          "hot": 0,
+          "url": "https://m.baidu.com/s?word=%E6%9B%BC%E5%9F%8E2-0%E6%B3%A2%E5%B0%94%E5%9B%BE+%E5%93%88%E5%85%B0%E5%BE%B7%E5%8F%8C%E5%93%8D&sa=fyb_news"
+        }
+      ],
+      "summary": "",
+      "url": "https://m.baidu.com/s?word=%E6%9B%BC%E5%9F%8E2-0%E6%B3%A2%E5%B0%94%E5%9B%BE+%E5%93%88%E5%85%B0%E5%BE%B7%E5%8F%8C%E5%93%8D&sa=fyb_news"
+    },
+    {
+      "id": "evt-gpt6astra",
+      "title": "都说 GPT-6-Astra 强，有没有实际点的应用案例？",
       "category": "society",
       "hotScore": 0.6375,
       "freshness": 0.9999,
@@ -171,61 +171,42 @@
       "url": ""
     },
     {
-      "id": "evt-90000000",
-      "title": "小伙看奶奶路上坠亡9天后奶奶去世",
-      "category": "society",
-      "hotScore": 0.6375,
-      "freshness": 0.9999,
-      "crossSource": 0.6309,
-      "totalScore": 0.7442,
-      "sources": [
-        {
-          "channel": "toutiao",
-          "rank": 6,
-          "hot": 17201269,
-          "url": "https://www.toutiao.com/trending/7682296070734970906/"
-        }
-      ],
-      "summary": "",
-      "url": "https://www.toutiao.com/trending/7682296070734970906/"
-    },
-    {
-      "id": "evt-80000000",
-      "title": "8月汽车销量前十已无燃油车",
-      "category": "society",
-      "hotScore": 0.5525,
-      "freshness": 0.9999,
-      "crossSource": 0.6309,
-      "totalScore": 0.7102,
-      "sources": [
-        {
-          "channel": "toutiao",
-          "rank": 8,
-          "hot": 14083208,
-          "url": "https://www.toutiao.com/trending/7682813189238702118/"
-        }
-      ],
-      "summary": "",
-      "url": "https://www.toutiao.com/trending/7682813189238702118/"
-    },
-    {
       "id": "evt-30000000",
-      "title": "卤米松原研药从30元涨到800元",
+      "title": "金球奖公布30人候选",
       "category": "society",
-      "hotScore": 0.52,
+      "hotScore": 0.44,
       "freshness": 0.9999,
       "crossSource": 0.6309,
-      "totalScore": 0.6973,
+      "totalScore": 0.6653,
       "sources": [
         {
           "channel": "baidu",
-          "rank": 8,
+          "rank": 10,
           "hot": 0,
-          "url": "https://m.baidu.com/s?word=%E5%8D%A4%E7%B1%B3%E6%9D%BE%E5%8E%9F%E7%A0%94%E8%8D%AF%E4%BB%8E30%E5%85%83%E6%B6%A8%E5%88%B0800%E5%85%83&sa=fyb_news"
+          "url": "https://m.baidu.com/s?word=%E9%87%91%E7%90%83%E5%A5%96%E5%85%AC%E5%B8%8330%E4%BA%BA%E5%80%99%E9%80%89&sa=fyb_news"
         }
       ],
       "summary": "",
-      "url": "https://m.baidu.com/s?word=%E5%8D%A4%E7%B1%B3%E6%9D%BE%E5%8E%9F%E7%A0%94%E8%8D%AF%E4%BB%8E30%E5%85%83%E6%B6%A8%E5%88%B0800%E5%85%83&sa=fyb_news"
+      "url": "https://m.baidu.com/s?word=%E9%87%91%E7%90%83%E5%A5%96%E5%85%AC%E5%B8%8330%E4%BA%BA%E5%80%99%E9%80%89&sa=fyb_news"
+    },
+    {
+      "id": "evt-21000000",
+      "title": "皇马2-1国米 姆巴佩破门",
+      "category": "society",
+      "hotScore": 0.425,
+      "freshness": 0.9999,
+      "crossSource": 0.6309,
+      "totalScore": 0.6593,
+      "sources": [
+        {
+          "channel": "toutiao",
+          "rank": 11,
+          "hot": 9027352,
+          "url": "https://www.toutiao.com/trending/7683306068738313764/"
+        }
+      ],
+      "summary": "",
+      "url": "https://www.toutiao.com/trending/7683306068738313764/"
     }
   ]
 }
