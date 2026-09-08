@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-09-08T17:45:32.863Z",
+  "generatedAt": "2026-09-08T20:28:04.132Z",
   "fields": {
     "society": "社会",
     "economy": "经济",
@@ -10,14 +10,14 @@
       "id": "evt-00000000",
       "title": "这样的吃播该全面叫停了",
       "category": "society",
-      "hotScore": 0.72,
-      "freshness": 1,
+      "hotScore": 0.7225,
+      "freshness": 0.9999,
       "crossSource": 1,
-      "totalScore": 0.888,
+      "totalScore": 0.889,
       "sources": [
         {
           "channel": "thepaper",
-          "rank": 5,
+          "rank": 4,
           "hot": 0,
           "url": "https://www.thepaper.cn/newsDetail_forward_34029259"
         },
@@ -57,12 +57,12 @@
       "hotScore": 0.765,
       "freshness": 0.9999,
       "crossSource": 0.6309,
-      "totalScore": 0.7953,
+      "totalScore": 0.7952,
       "sources": [
         {
           "channel": "toutiao",
           "rank": 3,
-          "hot": 22725148,
+          "hot": 23219284,
           "url": "https://www.toutiao.com/trending/7682369162227944979/"
         }
       ],
@@ -74,7 +74,7 @@
       "title": "上海：10月1日起生娃个人“不花钱”",
       "category": "society",
       "hotScore": 0.76,
-      "freshness": 1,
+      "freshness": 0.9999,
       "crossSource": 0.6309,
       "totalScore": 0.7933,
       "sources": [
@@ -100,12 +100,12 @@
         {
           "channel": "toutiao",
           "rank": 4,
-          "hot": 20562564,
+          "hot": 21009677,
           "url": "https://www.toutiao.com/trending/7682709811246400038/"
         },
         {
           "channel": "baidu",
-          "rank": 15,
+          "rank": 13,
           "hot": 0,
           "url": "https://m.baidu.com/s?word=%E6%B5%99%E6%B1%9F%E4%B8%80%E5%85%AC%E5%8F%B8%E6%94%B6%E5%88%B0%E7%BE%8E%E5%9B%BD3.66%E4%BA%BF%E5%85%83%E5%85%B3%E7%A8%8E%E9%80%80%E7%A8%8E&sa=fyb_news"
         }
@@ -117,14 +117,14 @@
       "id": "evt-buckmast",
       "title": "如何看待 Buckmaster 披露 OpenAI 在 NS 方程突破中的学术掠夺与威胁言论？",
       "category": "society",
-      "hotScore": 0.675,
-      "freshness": 1,
+      "hotScore": 0.75,
+      "freshness": 0.9999,
       "crossSource": 0.6309,
-      "totalScore": 0.7593,
+      "totalScore": 0.7893,
       "sources": [
         {
           "channel": "zhihu",
-          "rank": 3,
+          "rank": 1,
           "hot": 0,
           "url": ""
         }
@@ -136,15 +136,15 @@
       "id": "evt-15000000",
       "title": "郑钦文一年狂赚1.5亿元",
       "category": "society",
-      "hotScore": 0.6375,
+      "hotScore": 0.68,
       "freshness": 0.9999,
       "crossSource": 0.6309,
-      "totalScore": 0.7443,
+      "totalScore": 0.7612,
       "sources": [
         {
           "channel": "toutiao",
-          "rank": 6,
-          "hot": 16835204,
+          "rank": 5,
+          "hot": 19010342,
           "url": "https://www.toutiao.com/trending/7682909008822337542/"
         }
       ],
@@ -152,18 +152,56 @@
       "url": "https://www.toutiao.com/trending/7682909008822337542/"
     },
     {
-      "id": "evt-80000000",
-      "title": "8月汽车销量前十已无燃油车",
+      "id": "evt-openaina",
+      "title": "怎么看  OpenAI 在 Navier–Stokes 数学难题上取得的进展反而出现争议？",
       "category": "society",
-      "hotScore": 0.595,
+      "hotScore": 0.6375,
       "freshness": 0.9999,
       "crossSource": 0.6309,
-      "totalScore": 0.7273,
+      "totalScore": 0.7443,
+      "sources": [
+        {
+          "channel": "zhihu",
+          "rank": 4,
+          "hot": 0,
+          "url": ""
+        }
+      ],
+      "summary": "",
+      "url": ""
+    },
+    {
+      "id": "evt-90000000",
+      "title": "小伙看奶奶路上坠亡9天后奶奶去世",
+      "category": "society",
+      "hotScore": 0.6375,
+      "freshness": 0.9999,
+      "crossSource": 0.6309,
+      "totalScore": 0.7442,
       "sources": [
         {
           "channel": "toutiao",
-          "rank": 7,
-          "hot": 15233122,
+          "rank": 6,
+          "hot": 17201269,
+          "url": "https://www.toutiao.com/trending/7682296070734970906/"
+        }
+      ],
+      "summary": "",
+      "url": "https://www.toutiao.com/trending/7682296070734970906/"
+    },
+    {
+      "id": "evt-80000000",
+      "title": "8月汽车销量前十已无燃油车",
+      "category": "society",
+      "hotScore": 0.5525,
+      "freshness": 0.9999,
+      "crossSource": 0.6309,
+      "totalScore": 0.7102,
+      "sources": [
+        {
+          "channel": "toutiao",
+          "rank": 8,
+          "hot": 14083208,
           "url": "https://www.toutiao.com/trending/7682813189238702118/"
         }
       ],
@@ -175,7 +213,7 @@
       "title": "卤米松原研药从30元涨到800元",
       "category": "society",
       "hotScore": 0.52,
-      "freshness": 1,
+      "freshness": 0.9999,
       "crossSource": 0.6309,
       "totalScore": 0.6973,
       "sources": [
@@ -188,63 +226,6 @@
       ],
       "summary": "",
       "url": "https://m.baidu.com/s?word=%E5%8D%A4%E7%B1%B3%E6%9D%BE%E5%8E%9F%E7%A0%94%E8%8D%AF%E4%BB%8E30%E5%85%83%E6%B6%A8%E5%88%B0800%E5%85%83&sa=fyb_news"
-    },
-    {
-      "id": "evt-mag00000",
-      "title": "有理儿有面：谁杀死了MAGA周边",
-      "category": "society",
-      "hotScore": 0.51,
-      "freshness": 0.9999,
-      "crossSource": 0.6309,
-      "totalScore": 0.6933,
-      "sources": [
-        {
-          "channel": "toutiao",
-          "rank": 9,
-          "hot": 12471825,
-          "url": "https://www.toutiao.com/trending/7683156498469359123/"
-        }
-      ],
-      "summary": "",
-      "url": "https://www.toutiao.com/trending/7683156498469359123/"
-    },
-    {
-      "id": "evt-lpl20260",
-      "title": "LPL 2026 赛季季后赛 iG 3:0 淘汰 LGD 距离晋级决赛仅一步之遥，如何评价这场比赛？",
-      "category": "society",
-      "hotScore": 0.4875,
-      "freshness": 1,
-      "crossSource": 0.6309,
-      "totalScore": 0.6843,
-      "sources": [
-        {
-          "channel": "zhihu",
-          "rank": 8,
-          "hot": 0,
-          "url": ""
-        }
-      ],
-      "summary": "",
-      "url": ""
-    },
-    {
-      "id": "evt-deepse00",
-      "title": "深度求索发布 DeepSeek V4.1 Flash 的中间版本内测，该模型体验如何?",
-      "category": "society",
-      "hotScore": 0.45,
-      "freshness": 1,
-      "crossSource": 0.6309,
-      "totalScore": 0.6693,
-      "sources": [
-        {
-          "channel": "zhihu",
-          "rank": 9,
-          "hot": 0,
-          "url": ""
-        }
-      ],
-      "summary": "",
-      "url": ""
     }
   ]
 }
