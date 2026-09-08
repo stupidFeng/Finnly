@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-09-08T08:25:06.536Z",
+  "generatedAt": "2026-09-08T13:58:39.374Z",
   "fields": {
     "society": "社会",
     "economy": "经济",
@@ -8,85 +8,66 @@
   "feed": [
     {
       "id": "evt-00000000",
-      "title": "太子奶创始人李途纯逝世",
+      "title": "母亲为去世儿子销户民警含泪拥抱安慰",
       "category": "society",
-      "hotScore": 0.7225,
+      "hotScore": 0.72,
       "freshness": 0.9999,
       "crossSource": 1,
-      "totalScore": 0.889,
+      "totalScore": 0.888,
       "sources": [
         {
           "channel": "toutiao",
-          "rank": 4,
-          "hot": 22628993,
-          "url": "https://www.toutiao.com/trending/7683069040877142058/"
+          "rank": 18,
+          "hot": 4565083,
+          "url": "https://www.toutiao.com/trending/7682989897691103282/"
         },
         {
           "channel": "baidu",
-          "rank": 5,
+          "rank": 3,
           "hot": 0,
-          "url": "https://m.baidu.com/s?word=%E5%A4%AA%E5%AD%90%E5%A5%B6%E5%88%9B%E5%A7%8B%E4%BA%BA%E6%9D%8E%E9%80%94%E7%BA%AF%E9%80%9D%E4%B8%96&sa=fyb_news"
+          "url": "https://m.baidu.com/s?word=%E6%AF%8D%E4%BA%B2%E4%B8%BA%E5%8E%BB%E4%B8%96%E5%84%BF%E5%AD%90%E9%94%80%E6%88%B7%E6%B0%91%E8%AD%A6%E5%90%AB%E6%B3%AA%E6%8B%A5%E6%8A%B1%E5%AE%89%E6%85%B0&sa=fyb_news"
         }
       ],
       "summary": "",
-      "url": "https://www.toutiao.com/trending/7683069040877142058/"
+      "url": "https://www.toutiao.com/trending/7682989897691103282/"
     },
     {
-      "id": "evt-60000000",
-      "title": "申军良称“梅姨”真实年龄为65岁",
+      "id": "evt-12000000",
+      "title": "江西遂川泥石流已致12人遇难",
       "category": "society",
-      "hotScore": 0.5525,
+      "hotScore": 0.595,
       "freshness": 0.9999,
       "crossSource": 1,
-      "totalScore": 0.821,
+      "totalScore": 0.838,
       "sources": [
         {
           "channel": "toutiao",
-          "rank": 8,
-          "hot": 15168667,
-          "url": "https://www.toutiao.com/trending/7683064108844846633/"
+          "rank": 7,
+          "hot": 13714267,
+          "url": "https://www.toutiao.com/trending/7682250305240186923/"
         },
         {
           "channel": "baidu",
-          "rank": 11,
+          "rank": 13,
           "hot": 0,
-          "url": "https://m.baidu.com/s?word=%E7%94%B3%E5%86%9B%E8%89%AF%E7%A7%B0%E2%80%9C%E6%A2%85%E5%A7%A8%E2%80%9D%E7%9C%9F%E5%AE%9E%E5%B9%B4%E9%BE%84%E4%B8%BA65%E5%B2%81&sa=fyb_news"
+          "url": "https://m.baidu.com/s?word=%E6%B1%9F%E8%A5%BF%E9%81%82%E5%B7%9D%E6%B3%A5%E7%9F%B3%E6%B5%81%E5%B7%B2%E8%87%B412%E4%BA%BA%E9%81%87%E9%9A%BE&sa=fyb_news"
         }
       ],
       "summary": "",
-      "url": "https://www.toutiao.com/trending/7683064108844846633/"
-    },
-    {
-      "id": "evt-90000000",
-      "title": "小伙看奶奶路上坠亡9天后奶奶去世",
-      "category": "society",
-      "hotScore": 0.8075,
-      "freshness": 0.9999,
-      "crossSource": 0.6309,
-      "totalScore": 0.8123,
-      "sources": [
-        {
-          "channel": "toutiao",
-          "rank": 2,
-          "hot": 27639114,
-          "url": "https://www.toutiao.com/trending/7682296070734970906/"
-        }
-      ],
-      "summary": "",
-      "url": "https://www.toutiao.com/trending/7682296070734970906/"
+      "url": "https://www.toutiao.com/trending/7682250305240186923/"
     },
     {
       "id": "evt-18fol000",
       "title": "起售价过万！小米18 Fold发布，雷军谈造芯：只要开始追赶，小米就走在赢的路上",
       "category": "society",
-      "hotScore": 0.8075,
-      "freshness": 0.9999,
+      "hotScore": 0.85,
+      "freshness": 1,
       "crossSource": 0.6309,
-      "totalScore": 0.8123,
+      "totalScore": 0.8293,
       "sources": [
         {
           "channel": "thepaper",
-          "rank": 2,
+          "rank": 1,
           "hot": 0,
           "url": "https://www.thepaper.cn/newsDetail_forward_34025436"
         }
@@ -95,150 +76,17 @@
       "url": "https://www.thepaper.cn/newsDetail_forward_34025436"
     },
     {
-      "id": "evt-80000000",
-      "title": "数据拆解我国前8个月外贸成绩单",
-      "category": "society",
-      "hotScore": 0.765,
-      "freshness": 0.9999,
-      "crossSource": 0.6309,
-      "totalScore": 0.7953,
-      "sources": [
-        {
-          "channel": "toutiao",
-          "rank": 3,
-          "hot": 25008905,
-          "url": "https://www.toutiao.com/trending/7682246355314442283/"
-        }
-      ],
-      "summary": "",
-      "url": "https://www.toutiao.com/trending/7682246355314442283/"
-    },
-    {
-      "id": "evt-34000000",
-      "title": "起乘价3元还是4元？计次票规则如何完善？记者直击上海轨交票价机制听证会",
-      "category": "society",
-      "hotScore": 0.765,
-      "freshness": 0.9999,
-      "crossSource": 0.6309,
-      "totalScore": 0.7953,
-      "sources": [
-        {
-          "channel": "thepaper",
-          "rank": 3,
-          "hot": 0,
-          "url": "https://www.thepaper.cn/newsDetail_forward_34025122"
-        }
-      ],
-      "summary": "",
-      "url": "https://www.thepaper.cn/newsDetail_forward_34025122"
-    },
-    {
-      "id": "evt-6g000000",
-      "title": "6G手机要来了",
-      "category": "society",
-      "hotScore": 0.68,
-      "freshness": 1,
-      "crossSource": 0.6309,
-      "totalScore": 0.7613,
-      "sources": [
-        {
-          "channel": "baidu",
-          "rank": 4,
-          "hot": 0,
-          "url": "https://m.baidu.com/s?word=6G%E6%89%8B%E6%9C%BA%E8%A6%81%E6%9D%A5%E4%BA%86&sa=fyb_news"
-        }
-      ],
-      "summary": "",
-      "url": "https://m.baidu.com/s?word=6G%E6%89%8B%E6%9C%BA%E8%A6%81%E6%9D%A5%E4%BA%86&sa=fyb_news"
-    },
-    {
-      "id": "evt-20000000",
-      "title": "第一批「20 后」正式上小学了，送学家长横跨 70 后、 80 后、 90 后、 00 后，你如何看待这种「时代错位」？",
-      "category": "society",
-      "hotScore": 0.6,
-      "freshness": 0.9999,
-      "crossSource": 0.6309,
-      "totalScore": 0.7293,
-      "sources": [
-        {
-          "channel": "zhihu",
-          "rank": 5,
-          "hot": 0,
-          "url": ""
-        }
-      ],
-      "summary": "",
-      "url": ""
-    },
-    {
-      "id": "evt-30000000",
-      "title": "贵州3名失联女孩均已找到",
-      "category": "society",
-      "hotScore": 0.56,
-      "freshness": 1,
-      "crossSource": 0.6309,
-      "totalScore": 0.7133,
-      "sources": [
-        {
-          "channel": "baidu",
-          "rank": 7,
-          "hot": 0,
-          "url": "https://m.baidu.com/s?word=%E8%B4%B5%E5%B7%9E3%E5%90%8D%E5%A4%B1%E8%81%94%E5%A5%B3%E5%AD%A9%E5%9D%87%E5%B7%B2%E6%89%BE%E5%88%B0&sa=fyb_news"
-        }
-      ],
-      "summary": "",
-      "url": "https://m.baidu.com/s?word=%E8%B4%B5%E5%B7%9E3%E5%90%8D%E5%A4%B1%E8%81%94%E5%A5%B3%E5%AD%A9%E5%9D%87%E5%B7%B2%E6%89%BE%E5%88%B0&sa=fyb_news"
-    },
-    {
-      "id": "evt-hr000000",
-      "title": "星宇事件后培训HR“如何依法合规体面优化”，律所合伙人自称：没有对错，只是探讨",
-      "category": "society",
-      "hotScore": 0.5525,
-      "freshness": 0.9999,
-      "crossSource": 0.6309,
-      "totalScore": 0.7103,
-      "sources": [
-        {
-          "channel": "thepaper",
-          "rank": 8,
-          "hot": 0,
-          "url": "https://www.thepaper.cn/newsDetail_forward_34024835"
-        }
-      ],
-      "summary": "",
-      "url": "https://www.thepaper.cn/newsDetail_forward_34024835"
-    },
-    {
-      "id": "evt-45000000",
-      "title": "三位学者虚构 4500 份简历，投递发现海归面试概率比本土求职者低 16.2%，海归学历不再吃香了吗？",
-      "category": "society",
-      "hotScore": 0.4875,
-      "freshness": 0.9999,
-      "crossSource": 0.6309,
-      "totalScore": 0.6843,
-      "sources": [
-        {
-          "channel": "zhihu",
-          "rank": 8,
-          "hot": 0,
-          "url": ""
-        }
-      ],
-      "summary": "",
-      "url": ""
-    },
-    {
       "id": "evt-05000000",
       "title": "连续上演0比5落后逆转！郑钦文：我一直相信自己能重回巅峰",
       "category": "society",
-      "hotScore": 0.4675,
-      "freshness": 0.9999,
+      "hotScore": 0.765,
+      "freshness": 1,
       "crossSource": 0.6309,
-      "totalScore": 0.6763,
+      "totalScore": 0.7953,
       "sources": [
         {
           "channel": "thepaper",
-          "rank": 10,
+          "rank": 3,
           "hot": 0,
           "url": "https://www.thepaper.cn/newsDetail_forward_34027725"
         }
@@ -247,23 +95,118 @@
       "url": "https://www.thepaper.cn/newsDetail_forward_34027725"
     },
     {
-      "id": "evt-11000000",
-      "title": "手铐失灵无法解开 110求助119",
-      "category": "society",
-      "hotScore": 0.44,
-      "freshness": 1,
+      "id": "evt-36600000",
+      "title": "浙江一公司收到美国3.66亿元关税退税",
+      "category": "economy",
+      "hotScore": 0.8075,
+      "freshness": 0.9999,
       "crossSource": 0.6309,
-      "totalScore": 0.6653,
+      "totalScore": 0.8122,
       "sources": [
         {
-          "channel": "baidu",
-          "rank": 10,
-          "hot": 0,
-          "url": "https://m.baidu.com/s?word=%E6%89%8B%E9%93%90%E5%A4%B1%E7%81%B5%E6%97%A0%E6%B3%95%E8%A7%A3%E5%BC%80+110%E6%B1%82%E5%8A%A9119&sa=fyb_news"
+          "channel": "toutiao",
+          "rank": 2,
+          "hot": 22611005,
+          "url": "https://www.toutiao.com/trending/7682709811246400038/"
         }
       ],
       "summary": "",
-      "url": "https://m.baidu.com/s?word=%E6%89%8B%E9%93%90%E5%A4%B1%E7%81%B5%E6%97%A0%E6%B3%95%E8%A7%A3%E5%BC%80+110%E6%B1%82%E5%8A%A9119&sa=fyb_news"
+      "url": "https://www.toutiao.com/trending/7682709811246400038/"
+    },
+    {
+      "id": "evt-40000000",
+      "title": "我国进出口连续4个月保持两位数增长",
+      "category": "society",
+      "hotScore": 0.765,
+      "freshness": 0.9999,
+      "crossSource": 0.6309,
+      "totalScore": 0.7952,
+      "sources": [
+        {
+          "channel": "toutiao",
+          "rank": 3,
+          "hot": 20459283,
+          "url": "https://www.toutiao.com/trending/7682369162227944979/"
+        }
+      ],
+      "summary": "",
+      "url": "https://www.toutiao.com/trending/7682369162227944979/"
+    },
+    {
+      "id": "evt-10100000",
+      "title": "上海：10月1日起生娃个人“不花钱”",
+      "category": "society",
+      "hotScore": 0.76,
+      "freshness": 1,
+      "crossSource": 0.6309,
+      "totalScore": 0.7933,
+      "sources": [
+        {
+          "channel": "baidu",
+          "rank": 2,
+          "hot": 0,
+          "url": "https://m.baidu.com/s?word=%E4%B8%8A%E6%B5%B7%EF%BC%9A10%E6%9C%881%E6%97%A5%E8%B5%B7%E7%94%9F%E5%A8%83%E4%B8%AA%E4%BA%BA%E2%80%9C%E4%B8%8D%E8%8A%B1%E9%92%B1%E2%80%9D&sa=fyb_news"
+        }
+      ],
+      "summary": "",
+      "url": "https://m.baidu.com/s?word=%E4%B8%8A%E6%B5%B7%EF%BC%9A10%E6%9C%881%E6%97%A5%E8%B5%B7%E7%94%9F%E5%A8%83%E4%B8%AA%E4%BA%BA%E2%80%9C%E4%B8%8D%E8%8A%B1%E9%92%B1%E2%80%9D&sa=fyb_news"
+    },
+    {
+      "id": "evt-15000000",
+      "title": "郑钦文一年狂赚1.5亿元",
+      "category": "society",
+      "hotScore": 0.68,
+      "freshness": 0.9999,
+      "crossSource": 0.6309,
+      "totalScore": 0.7612,
+      "sources": [
+        {
+          "channel": "toutiao",
+          "rank": 5,
+          "hot": 16750644,
+          "url": "https://www.toutiao.com/trending/7682909008822337542/"
+        }
+      ],
+      "summary": "",
+      "url": "https://www.toutiao.com/trending/7682909008822337542/"
+    },
+    {
+      "id": "evt-buckmast",
+      "title": "如何看待 Buckmaster 披露 OpenAI 在 NS 方程突破中的学术掠夺与威胁言论？",
+      "category": "society",
+      "hotScore": 0.6375,
+      "freshness": 0.9999,
+      "crossSource": 0.6309,
+      "totalScore": 0.7443,
+      "sources": [
+        {
+          "channel": "zhihu",
+          "rank": 4,
+          "hot": 0,
+          "url": ""
+        }
+      ],
+      "summary": "",
+      "url": ""
+    },
+    {
+      "id": "evt-iph00000",
+      "title": "苹果即将发布三款新iPhone",
+      "category": "society",
+      "hotScore": 0.6375,
+      "freshness": 0.9999,
+      "crossSource": 0.6309,
+      "totalScore": 0.7442,
+      "sources": [
+        {
+          "channel": "toutiao",
+          "rank": 6,
+          "hot": 15156609,
+          "url": "https://www.toutiao.com/trending/7682282269948264511/"
+        }
+      ],
+      "summary": "",
+      "url": "https://www.toutiao.com/trending/7682282269948264511/"
     }
   ]
 }
