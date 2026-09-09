@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-09-09T14:01:18.352Z",
+  "generatedAt": "2026-09-09T18:55:29.239Z",
   "fields": {
     "society": "社会",
     "economy": "经济",
@@ -8,51 +8,26 @@
   "feed": [
     {
       "id": "evt-00000000",
-      "title": "“梅姨”微信朋友圈曝光",
+      "title": "资助者回应大二女生被取消资助",
       "category": "society",
-      "hotScore": 0.7225,
+      "hotScore": 0.85,
       "freshness": 1,
-      "crossSource": 1,
-      "totalScore": 0.889,
+      "crossSource": 0.6309,
+      "totalScore": 0.8293,
       "sources": [
         {
           "channel": "toutiao",
-          "rank": 4,
-          "hot": 16857173,
-          "url": "https://www.toutiao.com/trending/7683057305700535814/"
-        },
-        {
-          "channel": "baidu",
-          "rank": 19,
-          "hot": 0,
-          "url": "https://m.baidu.com/s?word=%E2%80%9C%E6%A2%85%E5%A7%A8%E2%80%9D%E5%BE%AE%E4%BF%A1%E6%9C%8B%E5%8F%8B%E5%9C%88%E6%9B%9D%E5%85%89&sa=fyb_news"
+          "rank": 1,
+          "hot": 22754804,
+          "url": "https://www.toutiao.com/trending/7683177865940860947/"
         }
       ],
       "summary": "",
-      "url": "https://www.toutiao.com/trending/7683057305700535814/"
+      "url": "https://www.toutiao.com/trending/7683177865940860947/"
     },
     {
       "id": "evt-39000000",
       "title": "起底“神药”直播间①｜年售3.9亿的“养生局”：假专家、假神药，卖货全靠演",
-      "category": "society",
-      "hotScore": 0.8075,
-      "freshness": 1,
-      "crossSource": 0.6309,
-      "totalScore": 0.8123,
-      "sources": [
-        {
-          "channel": "thepaper",
-          "rank": 2,
-          "hot": 0,
-          "url": "https://www.thepaper.cn/newsDetail_forward_34024472"
-        }
-      ],
-      "summary": "",
-      "url": "https://www.thepaper.cn/newsDetail_forward_34024472"
-    },
-    {
-      "id": "evt-10000000",
-      "title": "焦点访谈丨1公里国道扎堆近20家，黑加油点为何屡禁不绝",
       "category": "society",
       "hotScore": 0.765,
       "freshness": 1,
@@ -63,15 +38,15 @@
           "channel": "thepaper",
           "rank": 3,
           "hot": 0,
-          "url": "https://www.thepaper.cn/newsDetail_forward_34031790"
+          "url": "https://www.thepaper.cn/newsDetail_forward_34024472"
         }
       ],
       "summary": "",
-      "url": "https://www.thepaper.cn/newsDetail_forward_34031790"
+      "url": "https://www.thepaper.cn/newsDetail_forward_34024472"
     },
     {
-      "id": "evt-81005000",
-      "title": "8 月新能源车零售 100.5 万辆，同比下降 10.1%，燃油车零售 54 万辆，同比下降 40%，如何解读？",
+      "id": "evt-20260000",
+      "title": "如何评价 2026 苹果秋季发布会？哪些亮点值得关注？",
       "category": "society",
       "hotScore": 0.75,
       "freshness": 1,
@@ -89,42 +64,42 @@
       "url": ""
     },
     {
-      "id": "evt-gdp00000",
-      "title": "特稿｜塔利班执政五年：GDP涨了，阿富汗人的日子更难了",
-      "category": "economy",
+      "id": "evt-20500000",
+      "title": "全球癌症病例2050年可能激增67%",
+      "category": "society",
       "hotScore": 0.7225,
       "freshness": 1,
       "crossSource": 0.6309,
       "totalScore": 0.7783,
       "sources": [
         {
-          "channel": "thepaper",
+          "channel": "toutiao",
           "rank": 4,
+          "hot": 16857173,
+          "url": "https://www.toutiao.com/trending/7683014604494159878/"
+        }
+      ],
+      "summary": "",
+      "url": "https://www.toutiao.com/trending/7683014604494159878/"
+    },
+    {
+      "id": "evt-gdp00000",
+      "title": "特稿｜塔利班执政五年：GDP涨了，阿富汗人的日子更难了",
+      "category": "economy",
+      "hotScore": 0.6375,
+      "freshness": 1,
+      "crossSource": 0.6309,
+      "totalScore": 0.7443,
+      "sources": [
+        {
+          "channel": "thepaper",
+          "rank": 6,
           "hot": 0,
           "url": "https://www.thepaper.cn/newsDetail_forward_34030816"
         }
       ],
       "summary": "",
       "url": "https://www.thepaper.cn/newsDetail_forward_34030816"
-    },
-    {
-      "id": "evt-13200000",
-      "title": "高考数学132入学考试0分 大学回应",
-      "category": "society",
-      "hotScore": 0.72,
-      "freshness": 1,
-      "crossSource": 0.6309,
-      "totalScore": 0.7773,
-      "sources": [
-        {
-          "channel": "baidu",
-          "rank": 3,
-          "hot": 0,
-          "url": "https://m.baidu.com/s?word=%E9%AB%98%E8%80%83%E6%95%B0%E5%AD%A6132%E5%85%A5%E5%AD%A6%E8%80%83%E8%AF%950%E5%88%86+%E5%A4%A7%E5%AD%A6%E5%9B%9E%E5%BA%94&sa=fyb_news"
-        }
-      ],
-      "summary": "",
-      "url": "https://m.baidu.com/s?word=%E9%AB%98%E8%80%83%E6%95%B0%E5%AD%A6132%E5%85%A5%E5%AD%A6%E8%80%83%E8%AF%950%E5%88%86+%E5%A4%A7%E5%AD%A6%E5%9B%9E%E5%BA%94&sa=fyb_news"
     },
     {
       "id": "evt-deepseek",
@@ -149,20 +124,140 @@
       "id": "evt-80000000",
       "title": "早高峰一路口红灯要等8分钟？记者实测发现时间更久",
       "category": "society",
-      "hotScore": 0.595,
+      "hotScore": 0.68,
       "freshness": 1,
       "crossSource": 0.6309,
-      "totalScore": 0.7273,
+      "totalScore": 0.7613,
       "sources": [
         {
           "channel": "thepaper",
-          "rank": 7,
+          "rank": 5,
           "hot": 0,
           "url": "https://www.thepaper.cn/newsDetail_forward_34009369"
         }
       ],
       "summary": "",
       "url": "https://www.thepaper.cn/newsDetail_forward_34009369"
+    },
+    {
+      "id": "evt-30000000",
+      "title": "中国女篮3分险胜 晋级世界杯八强",
+      "category": "society",
+      "hotScore": 0.64,
+      "freshness": 1,
+      "crossSource": 0.6309,
+      "totalScore": 0.7453,
+      "sources": [
+        {
+          "channel": "baidu",
+          "rank": 5,
+          "hot": 0,
+          "url": "https://m.baidu.com/s?word=%E4%B8%AD%E5%9B%BD%E5%A5%B3%E7%AF%AE3%E5%88%86%E9%99%A9%E8%83%9C+%E6%99%8B%E7%BA%A7%E4%B8%96%E7%95%8C%E6%9D%AF%E5%85%AB%E5%BC%BA&sa=fyb_news"
+        }
+      ],
+      "summary": "",
+      "url": "https://m.baidu.com/s?word=%E4%B8%AD%E5%9B%BD%E5%A5%B3%E7%AF%AE3%E5%88%86%E9%99%A9%E8%83%9C+%E6%99%8B%E7%BA%A7%E4%B8%96%E7%95%8C%E6%9D%AF%E5%85%AB%E5%BC%BA&sa=fyb_news"
+    },
+    {
+      "id": "evt-openai00",
+      "title": "OpenAI 首席科学家称已造出「异星心智」，并警告「全人类都要刹车」，这意味着什么？",
+      "category": "society",
+      "hotScore": 0.6375,
+      "freshness": 1,
+      "crossSource": 0.6309,
+      "totalScore": 0.7443,
+      "sources": [
+        {
+          "channel": "zhihu",
+          "rank": 4,
+          "hot": 0,
+          "url": ""
+        }
+      ],
+      "summary": "",
+      "url": ""
+    },
+    {
+      "id": "evt-iphone18pr",
+      "title": "苹果iPhone 18 Pro/Max 售价",
+      "category": "society",
+      "hotScore": 0.6,
+      "freshness": 1,
+      "crossSource": 0.6309,
+      "totalScore": 0.7293,
+      "sources": [
+        {
+          "channel": "baidu",
+          "rank": 6,
+          "hot": 0,
+          "url": "https://m.baidu.com/s?word=%E8%8B%B9%E6%9E%9CiPhone+18+Pro%2FMax+%E5%94%AE%E4%BB%B7&sa=fyb_news"
+        },
+        {
+          "channel": "baidu",
+          "rank": 15,
+          "hot": 0,
+          "url": "https://m.baidu.com/s?word=%E8%8B%B9%E6%9E%9C%E5%8F%91%E5%B8%83iPhone+18+Pro%2FMax&sa=fyb_news"
+        }
+      ],
+      "summary": "",
+      "url": "https://m.baidu.com/s?word=%E8%8B%B9%E6%9E%9CiPhone+18+Pro%2FMax+%E5%94%AE%E4%BB%B7&sa=fyb_news"
+    },
+    {
+      "id": "evt-iphoneduo",
+      "title": "iPhone Duo 售价公布",
+      "category": "society",
+      "hotScore": 0.56,
+      "freshness": 1,
+      "crossSource": 0.6309,
+      "totalScore": 0.7133,
+      "sources": [
+        {
+          "channel": "baidu",
+          "rank": 7,
+          "hot": 0,
+          "url": "https://m.baidu.com/s?word=iPhone+Duo+%E5%94%AE%E4%BB%B7%E5%85%AC%E5%B8%83&sa=fyb_news"
+        }
+      ],
+      "summary": "",
+      "url": "https://m.baidu.com/s?word=iPhone+Duo+%E5%94%AE%E4%BB%B7%E5%85%AC%E5%B8%83&sa=fyb_news"
+    },
+    {
+      "id": "evt-13200000",
+      "title": "高考数学132分开学考只有12分",
+      "category": "society",
+      "hotScore": 0.5525,
+      "freshness": 1,
+      "crossSource": 0.6309,
+      "totalScore": 0.7103,
+      "sources": [
+        {
+          "channel": "toutiao",
+          "rank": 8,
+          "hot": 11299701,
+          "url": "https://www.toutiao.com/trending/7682369162227977747/"
+        }
+      ],
+      "summary": "",
+      "url": "https://www.toutiao.com/trending/7682369162227977747/"
+    },
+    {
+      "id": "evt-iphone1780",
+      "title": "iPhone 17涨价800元",
+      "category": "society",
+      "hotScore": 0.52,
+      "freshness": 1,
+      "crossSource": 0.6309,
+      "totalScore": 0.6973,
+      "sources": [
+        {
+          "channel": "baidu",
+          "rank": 8,
+          "hot": 0,
+          "url": "https://m.baidu.com/s?word=iPhone+17%E6%B6%A8%E4%BB%B7800%E5%85%83&sa=fyb_news"
+        }
+      ],
+      "summary": "",
+      "url": "https://m.baidu.com/s?word=iPhone+17%E6%B6%A8%E4%BB%B7800%E5%85%83&sa=fyb_news"
     },
     {
       "id": "evt-ai000000",
@@ -184,8 +279,8 @@
       "url": "https://www.thepaper.cn/newsDetail_forward_34037416"
     },
     {
-      "id": "evt-12000000",
-      "title": "轿车停大榕树下12年被树根“吞掉”",
+      "id": "evt-iphone18pro",
+      "title": "iPhone 18 Pro 可变光圈",
       "category": "society",
       "hotScore": 0.48,
       "freshness": 1,
@@ -196,49 +291,11 @@
           "channel": "baidu",
           "rank": 9,
           "hot": 0,
-          "url": "https://m.baidu.com/s?word=%E8%BD%BF%E8%BD%A6%E5%81%9C%E5%A4%A7%E6%A6%95%E6%A0%91%E4%B8%8B12%E5%B9%B4%E8%A2%AB%E6%A0%91%E6%A0%B9%E2%80%9C%E5%90%9E%E6%8E%89%E2%80%9D&sa=fyb_news"
+          "url": "https://m.baidu.com/s?word=iPhone+18+Pro+%E5%8F%AF%E5%8F%98%E5%85%89%E5%9C%88&sa=fyb_news"
         }
       ],
       "summary": "",
-      "url": "https://m.baidu.com/s?word=%E8%BD%BF%E8%BD%A6%E5%81%9C%E5%A4%A7%E6%A6%95%E6%A0%91%E4%B8%8B12%E5%B9%B4%E8%A2%AB%E6%A0%91%E6%A0%B9%E2%80%9C%E5%90%9E%E6%8E%89%E2%80%9D&sa=fyb_news"
-    },
-    {
-      "id": "evt-70000000",
-      "title": "宁夏 7 人假意应聘，借居住条件差等理由「软暴力」向工方勒索共 16 起，最高被判七年，如何从法律角度解读？",
-      "category": "society",
-      "hotScore": 0.45,
-      "freshness": 1,
-      "crossSource": 0.6309,
-      "totalScore": 0.6693,
-      "sources": [
-        {
-          "channel": "zhihu",
-          "rank": 9,
-          "hot": 0,
-          "url": ""
-        }
-      ],
-      "summary": "",
-      "url": ""
-    },
-    {
-      "id": "evt-a0000000",
-      "title": "孩子还没来得及下载反诈app就吃饱了",
-      "category": "society",
-      "hotScore": 0.44,
-      "freshness": 1,
-      "crossSource": 0.6309,
-      "totalScore": 0.6653,
-      "sources": [
-        {
-          "channel": "baidu",
-          "rank": 10,
-          "hot": 0,
-          "url": "https://m.baidu.com/s?word=%E5%AD%A9%E5%AD%90%E8%BF%98%E6%B2%A1%E6%9D%A5%E5%BE%97%E5%8F%8A%E4%B8%8B%E8%BD%BD%E5%8F%8D%E8%AF%88app%E5%B0%B1%E5%90%83%E9%A5%B1%E4%BA%86&sa=fyb_news"
-        }
-      ],
-      "summary": "",
-      "url": "https://m.baidu.com/s?word=%E5%AD%A9%E5%AD%90%E8%BF%98%E6%B2%A1%E6%9D%A5%E5%BE%97%E5%8F%8A%E4%B8%8B%E8%BD%BD%E5%8F%8D%E8%AF%88app%E5%B0%B1%E5%90%83%E9%A5%B1%E4%BA%86&sa=fyb_news"
+      "url": "https://m.baidu.com/s?word=iPhone+18+Pro+%E5%8F%AF%E5%8F%98%E5%85%89%E5%9C%88&sa=fyb_news"
     }
   ]
 }
