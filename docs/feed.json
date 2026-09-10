@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-09-10T13:56:12.142Z",
+  "generatedAt": "2026-09-10T17:25:09.685Z",
   "fields": {
     "society": "社会",
     "economy": "经济",
@@ -11,14 +11,14 @@
       "title": "青岛货轮火灾事故致25人遇难",
       "category": "society",
       "hotScore": 0.85,
-      "freshness": 0.9999,
+      "freshness": 1,
       "crossSource": 1,
       "totalScore": 0.94,
       "sources": [
         {
           "channel": "toutiao",
           "rank": 1,
-          "hot": 27385478,
+          "hot": 30058875,
           "url": "https://www.toutiao.com/trending/7683415450185220150/"
         },
         {
@@ -32,8 +32,8 @@
       "url": "https://www.toutiao.com/trending/7683415450185220150/"
     },
     {
-      "id": "evt-10000000",
-      "title": "全球七年共卖出1亿台，苹果会带火折叠屏手机吗",
+      "id": "evt-00000000",
+      "title": "习近平对山东青岛市北海造船厂一货轮火灾事故作出重要指示",
       "category": "society",
       "hotScore": 0.85,
       "freshness": 1,
@@ -44,34 +44,15 @@
           "channel": "thepaper",
           "rank": 1,
           "hot": 0,
-          "url": "https://www.thepaper.cn/newsDetail_forward_34028065"
+          "url": "https://www.thepaper.cn/newsDetail_forward_34044991"
         }
       ],
       "summary": "",
-      "url": "https://www.thepaper.cn/newsDetail_forward_34028065"
+      "url": "https://www.thepaper.cn/newsDetail_forward_34044991"
     },
     {
-      "id": "evt-00000000",
-      "title": "“宇宙最大医院”连续三任院长落马",
-      "category": "society",
-      "hotScore": 0.8075,
-      "freshness": 0.9999,
-      "crossSource": 0.6309,
-      "totalScore": 0.8123,
-      "sources": [
-        {
-          "channel": "toutiao",
-          "rank": 2,
-          "hot": 24779405,
-          "url": "https://www.toutiao.com/trending/7683751435984749106/"
-        }
-      ],
-      "summary": "",
-      "url": "https://www.toutiao.com/trending/7683751435984749106/"
-    },
-    {
-      "id": "evt-ai000000",
-      "title": "商务部回应美方所谓AI蒸馏指控：于事无凭、于法无据，典型双重标准",
+      "id": "evt-40000000",
+      "title": "中国女篮无缘世界杯4强",
       "category": "society",
       "hotScore": 0.8075,
       "freshness": 1,
@@ -79,28 +60,28 @@
       "totalScore": 0.8123,
       "sources": [
         {
-          "channel": "thepaper",
+          "channel": "toutiao",
           "rank": 2,
-          "hot": 0,
-          "url": "https://www.thepaper.cn/newsDetail_forward_34039639"
+          "hot": 27198395,
+          "url": "https://www.toutiao.com/trending/7682919114865197066/"
         }
       ],
       "summary": "",
-      "url": "https://www.thepaper.cn/newsDetail_forward_34039639"
+      "url": "https://www.toutiao.com/trending/7682919114865197066/"
     },
     {
       "id": "evt-80000000",
       "title": "从8月物价数据看消费提质扩容",
       "category": "society",
       "hotScore": 0.765,
-      "freshness": 0.9999,
+      "freshness": 1,
       "crossSource": 0.6309,
       "totalScore": 0.7953,
       "sources": [
         {
           "channel": "toutiao",
           "rank": 3,
-          "hot": 22421333,
+          "hot": 24610125,
           "url": "https://www.toutiao.com/trending/7683354900104740902/"
         }
       ],
@@ -108,17 +89,55 @@
       "url": "https://www.toutiao.com/trending/7683354900104740902/"
     },
     {
-      "id": "evt-15999000",
-      "title": "15999元起售！苹果首款折叠屏手机iPhone Duo亮相，10月下旬开卖",
-      "category": "society",
-      "hotScore": 0.68,
+      "id": "evt-ai000000",
+      "title": "经纬度：从外滩大会，看“AI新经济”走进生活",
+      "category": "economy",
+      "hotScore": 0.51,
       "freshness": 1,
       "crossSource": 0.6309,
-      "totalScore": 0.7613,
+      "totalScore": 0.6933,
       "sources": [
         {
           "channel": "thepaper",
-          "rank": 5,
+          "rank": 9,
+          "hot": 0,
+          "url": "https://www.thepaper.cn/newsDetail_forward_34043592"
+        }
+      ],
+      "summary": "",
+      "url": "https://www.thepaper.cn/newsDetail_forward_34043592"
+    },
+    {
+      "id": "evt-72000000",
+      "title": "菲律宾政坛72小时局势反转",
+      "category": "society",
+      "hotScore": 0.7225,
+      "freshness": 1,
+      "crossSource": 0.6309,
+      "totalScore": 0.7783,
+      "sources": [
+        {
+          "channel": "toutiao",
+          "rank": 4,
+          "hot": 22268162,
+          "url": "https://www.toutiao.com/trending/7683890089427996170/"
+        }
+      ],
+      "summary": "",
+      "url": "https://www.toutiao.com/trending/7683890089427996170/"
+    },
+    {
+      "id": "evt-15999000",
+      "title": "15999元起售！苹果首款折叠屏手机iPhone Duo亮相，10月下旬开卖",
+      "category": "society",
+      "hotScore": 0.7225,
+      "freshness": 1,
+      "crossSource": 0.6309,
+      "totalScore": 0.7783,
+      "sources": [
+        {
+          "channel": "thepaper",
+          "rank": 4,
           "hot": 0,
           "url": "https://www.thepaper.cn/newsDetail_forward_34041836"
         }
@@ -127,55 +146,36 @@
       "url": "https://www.thepaper.cn/newsDetail_forward_34041836"
     },
     {
-      "id": "evt-50000000",
-      "title": "泰安50岁“仙女姐姐”老师火了",
+      "id": "evt-20270000",
+      "title": "为什么说2027年是新能源车真正起点",
       "category": "society",
       "hotScore": 0.6375,
-      "freshness": 0.9999,
+      "freshness": 1,
       "crossSource": 0.6309,
       "totalScore": 0.7443,
       "sources": [
         {
           "channel": "toutiao",
           "rank": 6,
-          "hot": 16610132,
-          "url": "https://www.toutiao.com/trending/7683713726092148755/"
+          "hot": 18231629,
+          "url": "https://www.toutiao.com/trending/7683071413893103679/"
         }
       ],
       "summary": "",
-      "url": "https://www.toutiao.com/trending/7683713726092148755/"
+      "url": "https://www.toutiao.com/trending/7683071413893103679/"
     },
     {
-      "id": "evt-iphoneduo",
-      "title": "iPhone Duo发布市场为什么没鼓掌",
+      "id": "evt-20261400",
+      "title": "2026 女篮世界杯 1/4 决赛，中国女篮 61 比 90 不敌法国女篮，止步八强，如何评价本场比赛？",
       "category": "society",
-      "hotScore": 0.595,
-      "freshness": 0.9999,
-      "crossSource": 0.6309,
-      "totalScore": 0.7273,
-      "sources": [
-        {
-          "channel": "toutiao",
-          "rank": 7,
-          "hot": 15029469,
-          "url": "https://www.toutiao.com/trending/7683871717537615414/"
-        }
-      ],
-      "summary": "",
-      "url": "https://www.toutiao.com/trending/7683871717537615414/"
-    },
-    {
-      "id": "evt-anthropi",
-      "title": "如何看待 Anthropic 研究员 Jacob 离职，称 AI 公司正「拿全人类的命运下注」？",
-      "category": "society",
-      "hotScore": 0.5625,
+      "hotScore": 0.4875,
       "freshness": 1,
       "crossSource": 0.6309,
-      "totalScore": 0.7143,
+      "totalScore": 0.6843,
       "sources": [
         {
           "channel": "zhihu",
-          "rank": 6,
+          "rank": 8,
           "hot": 0,
           "url": ""
         }
@@ -184,23 +184,80 @@
       "url": ""
     },
     {
-      "id": "evt-a0000000",
-      "title": "年内中长期资金净买入A股超6000亿元",
+      "id": "evt-48400000",
+      "title": "老师把4.8万奖金平分给400多名学生",
       "category": "society",
-      "hotScore": 0.51,
-      "freshness": 0.9999,
+      "hotScore": 0.4675,
+      "freshness": 1,
       "crossSource": 0.6309,
-      "totalScore": 0.6933,
+      "totalScore": 0.6763,
       "sources": [
         {
           "channel": "toutiao",
-          "rank": 9,
-          "hot": 12305088,
-          "url": "https://www.toutiao.com/trending/7683820715346428443/"
+          "rank": 10,
+          "hot": 12221026,
+          "url": "https://www.toutiao.com/trending/7683847391716147236/"
         }
       ],
       "summary": "",
-      "url": "https://www.toutiao.com/trending/7683820715346428443/"
+      "url": "https://www.toutiao.com/trending/7683847391716147236/"
+    },
+    {
+      "id": "evt-npc00000",
+      "title": "喷水活体雕塑NPC火了",
+      "category": "society",
+      "hotScore": 0.44,
+      "freshness": 1,
+      "crossSource": 0.6309,
+      "totalScore": 0.6653,
+      "sources": [
+        {
+          "channel": "baidu",
+          "rank": 10,
+          "hot": 0,
+          "url": "https://m.baidu.com/s?word=%E5%96%B7%E6%B0%B4%E6%B4%BB%E4%BD%93%E9%9B%95%E5%A1%91NPC%E7%81%AB%E4%BA%86&sa=fyb_news"
+        }
+      ],
+      "summary": "",
+      "url": "https://m.baidu.com/s?word=%E5%96%B7%E6%B0%B4%E6%B4%BB%E4%BD%93%E9%9B%95%E5%A1%91NPC%E7%81%AB%E4%BA%86&sa=fyb_news"
+    },
+    {
+      "id": "evt-60000000",
+      "title": "西藏网警通报6起涉泥石流灾害谣言",
+      "category": "society",
+      "hotScore": 0.425,
+      "freshness": 1,
+      "crossSource": 0.6309,
+      "totalScore": 0.6593,
+      "sources": [
+        {
+          "channel": "toutiao",
+          "rank": 11,
+          "hot": 11058042,
+          "url": "https://www.toutiao.com/trending/7683772924012822570/"
+        }
+      ],
+      "summary": "",
+      "url": "https://www.toutiao.com/trending/7683772924012822570/"
+    },
+    {
+      "id": "evt-iphoneduo",
+      "title": "iPhone Duo不支持实体SIM卡，对中国消费者有何影响？",
+      "category": "society",
+      "hotScore": 0.425,
+      "freshness": 1,
+      "crossSource": 0.6309,
+      "totalScore": 0.6593,
+      "sources": [
+        {
+          "channel": "thepaper",
+          "rank": 11,
+          "hot": 0,
+          "url": "https://www.thepaper.cn/newsDetail_forward_34044865"
+        }
+      ],
+      "summary": "",
+      "url": "https://www.thepaper.cn/newsDetail_forward_34044865"
     }
   ]
 }
