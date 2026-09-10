@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-09-10T20:12:52.829Z",
+  "generatedAt": "2026-09-10T23:32:52.971Z",
   "fields": {
     "society": "社会",
     "economy": "经济",
@@ -18,7 +18,7 @@
         {
           "channel": "toutiao",
           "rank": 1,
-          "hot": 30552906,
+          "hot": 32411505,
           "url": "https://www.toutiao.com/trending/7683415450185220150/"
         },
         {
@@ -33,26 +33,32 @@
     },
     {
       "id": "evt-00000000",
-      "title": "习近平对山东青岛市北海造船厂一货轮火灾事故作出重要指示",
+      "title": "山东青岛北海造船厂一货轮火灾事故已造成 25 人遇难，目前情况如何？",
       "category": "society",
-      "hotScore": 0.85,
+      "hotScore": 0.765,
       "freshness": 1,
-      "crossSource": 0.6309,
-      "totalScore": 0.8293,
+      "crossSource": 1,
+      "totalScore": 0.906,
       "sources": [
         {
           "channel": "thepaper",
-          "rank": 1,
+          "rank": 3,
           "hot": 0,
-          "url": "https://www.thepaper.cn/newsDetail_forward_34044991"
+          "url": "https://www.thepaper.cn/newsDetail_forward_34045992"
+        },
+        {
+          "channel": "zhihu",
+          "rank": 2,
+          "hot": 0,
+          "url": ""
         }
       ],
       "summary": "",
-      "url": "https://www.thepaper.cn/newsDetail_forward_34044991"
+      "url": "https://www.thepaper.cn/newsDetail_forward_34045992"
     },
     {
-      "id": "evt-40000000",
-      "title": "中国女篮无缘世界杯4强",
+      "id": "evt-72000000",
+      "title": "菲律宾政坛72小时局势反转",
       "category": "society",
       "hotScore": 0.8075,
       "freshness": 1,
@@ -62,12 +68,12 @@
         {
           "channel": "toutiao",
           "rank": 2,
-          "hot": 27645413,
-          "url": "https://www.toutiao.com/trending/7682919114865197066/"
+          "hot": 29327143,
+          "url": "https://www.toutiao.com/trending/7683890089427996170/"
         }
       ],
       "summary": "",
-      "url": "https://www.toutiao.com/trending/7682919114865197066/"
+      "url": "https://www.toutiao.com/trending/7683890089427996170/"
     },
     {
       "id": "evt-80000000",
@@ -81,7 +87,7 @@
         {
           "channel": "toutiao",
           "rank": 3,
-          "hot": 25014604,
+          "hot": 26536296,
           "url": "https://www.toutiao.com/trending/7683354900104740902/"
         }
       ],
@@ -89,17 +95,36 @@
       "url": "https://www.toutiao.com/trending/7683354900104740902/"
     },
     {
-      "id": "evt-ai000000",
-      "title": "经纬度：从外滩大会，看“AI新经济”走进生活",
+      "id": "evt-10agentto",
+      "title": "人均10个Agent，Token是新一代“茅台”，外滩大会热议AI新经济",
       "category": "economy",
-      "hotScore": 0.4675,
+      "hotScore": 0.7225,
       "freshness": 1,
       "crossSource": 0.6309,
-      "totalScore": 0.6763,
+      "totalScore": 0.7783,
       "sources": [
         {
           "channel": "thepaper",
-          "rank": 10,
+          "rank": 4,
+          "hot": 0,
+          "url": "https://www.thepaper.cn/newsDetail_forward_34045224"
+        }
+      ],
+      "summary": "",
+      "url": "https://www.thepaper.cn/newsDetail_forward_34045224"
+    },
+    {
+      "id": "evt-ai000000",
+      "title": "经纬度：从外滩大会，看“AI新经济”走进生活",
+      "category": "economy",
+      "hotScore": 0.425,
+      "freshness": 1,
+      "crossSource": 0.6309,
+      "totalScore": 0.6593,
+      "sources": [
+        {
+          "channel": "thepaper",
+          "rank": 11,
           "hot": 0,
           "url": "https://www.thepaper.cn/newsDetail_forward_34043592"
         }
@@ -108,65 +133,46 @@
       "url": "https://www.thepaper.cn/newsDetail_forward_34043592"
     },
     {
-      "id": "evt-72000000",
-      "title": "菲律宾政坛72小时局势反转",
+      "id": "evt-40000000",
+      "title": "中国女篮无缘世界杯4强",
       "category": "society",
-      "hotScore": 0.7225,
+      "hotScore": 0.6375,
       "freshness": 1,
       "crossSource": 0.6309,
-      "totalScore": 0.7783,
+      "totalScore": 0.7443,
       "sources": [
         {
           "channel": "toutiao",
-          "rank": 4,
-          "hot": 22634149,
-          "url": "https://www.toutiao.com/trending/7683890089427996170/"
+          "rank": 6,
+          "hot": 19658571,
+          "url": "https://www.toutiao.com/trending/7682919114865197066/"
         }
       ],
       "summary": "",
-      "url": "https://www.toutiao.com/trending/7683890089427996170/"
+      "url": "https://www.toutiao.com/trending/7682919114865197066/"
     },
     {
-      "id": "evt-15999000",
-      "title": "15999元起售！苹果首款折叠屏手机iPhone Duo亮相，10月下旬开卖",
+      "id": "evt-10000000",
+      "title": "汽修店老板海姆立克救回1岁窒息幼童",
       "category": "society",
-      "hotScore": 0.7225,
+      "hotScore": 0.595,
       "freshness": 1,
       "crossSource": 0.6309,
-      "totalScore": 0.7783,
-      "sources": [
-        {
-          "channel": "thepaper",
-          "rank": 4,
-          "hot": 0,
-          "url": "https://www.thepaper.cn/newsDetail_forward_34041836"
-        }
-      ],
-      "summary": "",
-      "url": "https://www.thepaper.cn/newsDetail_forward_34041836"
-    },
-    {
-      "id": "evt-20000000",
-      "title": "烟台2人因涉嫌失火罪被刑拘",
-      "category": "society",
-      "hotScore": 0.68,
-      "freshness": 1,
-      "crossSource": 0.6309,
-      "totalScore": 0.7613,
+      "totalScore": 0.7273,
       "sources": [
         {
           "channel": "toutiao",
-          "rank": 5,
-          "hot": 20480225,
-          "url": "https://www.toutiao.com/trending/7682947092507131950/"
+          "rank": 7,
+          "hot": 17787811,
+          "url": "https://www.toutiao.com/trending/7683065313961017371/"
         }
       ],
       "summary": "",
-      "url": "https://www.toutiao.com/trending/7682947092507131950/"
+      "url": "https://www.toutiao.com/trending/7683065313961017371/"
     },
     {
-      "id": "evt-20270000",
-      "title": "为什么说2027年是新能源车真正起点",
+      "id": "evt-48400000",
+      "title": "老师把4.8万奖金平分给400多名学生",
       "category": "society",
       "hotScore": 0.5525,
       "freshness": 1,
@@ -176,12 +182,12 @@
         {
           "channel": "toutiao",
           "rank": 8,
-          "hot": 15172124,
-          "url": "https://www.toutiao.com/trending/7683071413893103679/"
+          "hot": 16095077,
+          "url": "https://www.toutiao.com/trending/7683847391716147236/"
         }
       ],
       "summary": "",
-      "url": "https://www.toutiao.com/trending/7683071413893103679/"
+      "url": "https://www.toutiao.com/trending/7683847391716147236/"
     },
     {
       "id": "evt-20261400",
@@ -203,42 +209,23 @@
       "url": ""
     },
     {
-      "id": "evt-a0000000",
-      "title": "A股成交量创年度新低意味着什么",
+      "id": "evt-20000000",
+      "title": "曝《三体 2》蒋奇明饰演罗辑，你对这一选角有何期待？",
       "category": "society",
-      "hotScore": 0.4675,
+      "hotScore": 0.45,
       "freshness": 1,
       "crossSource": 0.6309,
-      "totalScore": 0.6763,
+      "totalScore": 0.6693,
       "sources": [
         {
-          "channel": "toutiao",
-          "rank": 10,
-          "hot": 12421884,
-          "url": "https://www.toutiao.com/trending/7683891099873578523/"
-        }
-      ],
-      "summary": "",
-      "url": "https://www.toutiao.com/trending/7683891099873578523/"
-    },
-    {
-      "id": "evt-npc00000",
-      "title": "喷水活体雕塑NPC火了",
-      "category": "society",
-      "hotScore": 0.44,
-      "freshness": 1,
-      "crossSource": 0.6309,
-      "totalScore": 0.6653,
-      "sources": [
-        {
-          "channel": "baidu",
-          "rank": 10,
+          "channel": "zhihu",
+          "rank": 9,
           "hot": 0,
-          "url": "https://m.baidu.com/s?word=%E5%96%B7%E6%B0%B4%E6%B4%BB%E4%BD%93%E9%9B%95%E5%A1%91NPC%E7%81%AB%E4%BA%86&sa=fyb_news"
+          "url": ""
         }
       ],
       "summary": "",
-      "url": "https://m.baidu.com/s?word=%E5%96%B7%E6%B0%B4%E6%B4%BB%E4%BD%93%E9%9B%95%E5%A1%91NPC%E7%81%AB%E4%BA%86&sa=fyb_news"
+      "url": ""
     },
     {
       "id": "evt-60000000",
@@ -252,7 +239,7 @@
         {
           "channel": "toutiao",
           "rank": 11,
-          "hot": 11239786,
+          "hot": 11923526,
           "url": "https://www.toutiao.com/trending/7683772924012822570/"
         }
       ],
