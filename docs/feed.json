@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-09-10T08:29:15.829Z",
+  "generatedAt": "2026-09-10T13:56:12.142Z",
   "fields": {
     "society": "社会",
     "economy": "经济",
@@ -7,33 +7,33 @@
   },
   "feed": [
     {
-      "id": "evt-28140000",
-      "title": "2万多买8箱白酒放14年部分变空瓶",
+      "id": "evt-25000000",
+      "title": "青岛货轮火灾事故致25人遇难",
       "category": "society",
-      "hotScore": 0.8075,
-      "freshness": 1,
+      "hotScore": 0.85,
+      "freshness": 0.9999,
       "crossSource": 1,
-      "totalScore": 0.923,
+      "totalScore": 0.94,
       "sources": [
         {
           "channel": "toutiao",
-          "rank": 2,
-          "hot": 18435688,
-          "url": "https://www.toutiao.com/trending/7683382259529695241/"
+          "rank": 1,
+          "hot": 27385478,
+          "url": "https://www.toutiao.com/trending/7683415450185220150/"
         },
         {
           "channel": "baidu",
-          "rank": 13,
+          "rank": 2,
           "hot": 0,
-          "url": "https://m.baidu.com/s?word=2%E4%B8%87%E5%A4%9A%E4%B9%B08%E7%AE%B1%E7%99%BD%E9%85%92%E6%94%BE14%E5%B9%B4%E9%83%A8%E5%88%86%E5%8F%98%E7%A9%BA%E7%93%B6&sa=fyb_news"
+          "url": "https://m.baidu.com/s?word=%E9%9D%92%E5%B2%9B%E8%B4%A7%E8%BD%AE%E7%81%AB%E7%81%BE%E4%BA%8B%E6%95%85%E8%87%B425%E4%BA%BA%E9%81%87%E9%9A%BE&sa=fyb_news"
         }
       ],
       "summary": "",
-      "url": "https://www.toutiao.com/trending/7683382259529695241/"
+      "url": "https://www.toutiao.com/trending/7683415450185220150/"
     },
     {
-      "id": "evt-00000000",
-      "title": "上海市体育局：尊重刘翔选择自主择业",
+      "id": "evt-10000000",
+      "title": "全球七年共卖出1亿台，苹果会带火折叠屏手机吗",
       "category": "society",
       "hotScore": 0.85,
       "freshness": 1,
@@ -41,122 +41,8 @@
       "totalScore": 0.8293,
       "sources": [
         {
-          "channel": "toutiao",
-          "rank": 1,
-          "hot": 20374587,
-          "url": "https://www.toutiao.com/trending/7683056771690303017/"
-        }
-      ],
-      "summary": "",
-      "url": "https://www.toutiao.com/trending/7683056771690303017/"
-    },
-    {
-      "id": "evt-i0000000",
-      "title": "如何评价苹果折叠屏手机 iPhone Duo？国行售价 15999 元起值得入手吗？",
-      "category": "society",
-      "hotScore": 0.75,
-      "freshness": 1,
-      "crossSource": 0.6309,
-      "totalScore": 0.7893,
-      "sources": [
-        {
-          "channel": "zhihu",
-          "rank": 1,
-          "hot": 0,
-          "url": ""
-        }
-      ],
-      "summary": "",
-      "url": ""
-    },
-    {
-      "id": "evt-iphone00",
-      "title": "iPhone 买新还是买旧",
-      "category": "society",
-      "hotScore": 0.72,
-      "freshness": 1,
-      "crossSource": 0.6309,
-      "totalScore": 0.7773,
-      "sources": [
-        {
-          "channel": "baidu",
-          "rank": 3,
-          "hot": 0,
-          "url": "https://m.baidu.com/s?word=iPhone+%E4%B9%B0%E6%96%B0%E8%BF%98%E6%98%AF%E4%B9%B0%E6%97%A7&sa=fyb_news"
-        }
-      ],
-      "summary": "",
-      "url": "https://m.baidu.com/s?word=iPhone+%E4%B9%B0%E6%96%B0%E8%BF%98%E6%98%AF%E4%B9%B0%E6%97%A7&sa=fyb_news"
-    },
-    {
-      "id": "evt-a0000000",
-      "title": "证监会：将A股打造为境内企业上市首选",
-      "category": "economy",
-      "hotScore": 0.6,
-      "freshness": 1,
-      "crossSource": 0.6309,
-      "totalScore": 0.7293,
-      "sources": [
-        {
-          "channel": "baidu",
-          "rank": 6,
-          "hot": 0,
-          "url": "https://m.baidu.com/s?word=%E8%AF%81%E7%9B%91%E4%BC%9A%EF%BC%9A%E5%B0%86A%E8%82%A1%E6%89%93%E9%80%A0%E4%B8%BA%E5%A2%83%E5%86%85%E4%BC%81%E4%B8%9A%E4%B8%8A%E5%B8%82%E9%A6%96%E9%80%89&sa=fyb_news"
-        }
-      ],
-      "summary": "",
-      "url": "https://m.baidu.com/s?word=%E8%AF%81%E7%9B%91%E4%BC%9A%EF%BC%9A%E5%B0%86A%E8%82%A1%E6%89%93%E9%80%A0%E4%B8%BA%E5%A2%83%E5%86%85%E4%BC%81%E4%B8%9A%E4%B8%8A%E5%B8%82%E9%A6%96%E9%80%89&sa=fyb_news"
-    },
-    {
-      "id": "evt-80000000",
-      "title": "为什么成龙的 8 分动作片有 12 亿票房，而周星驰的 6 分喜剧片却有 23 亿票房？是喜剧片市场远大于动作片吗？",
-      "category": "entertainment",
-      "hotScore": 0.4875,
-      "freshness": 1,
-      "crossSource": 0.6309,
-      "totalScore": 0.6843,
-      "sources": [
-        {
-          "channel": "zhihu",
-          "rank": 8,
-          "hot": 0,
-          "url": ""
-        }
-      ],
-      "summary": "",
-      "url": ""
-    },
-    {
-      "id": "evt-40000000",
-      "title": "结婚40年丈夫把第三者藏家里储藏室",
-      "category": "society",
-      "hotScore": 0.68,
-      "freshness": 1,
-      "crossSource": 0.6309,
-      "totalScore": 0.7613,
-      "sources": [
-        {
-          "channel": "toutiao",
-          "rank": 5,
-          "hot": 13657494,
-          "url": "https://www.toutiao.com/trending/7683460342710943798/"
-        }
-      ],
-      "summary": "",
-      "url": "https://www.toutiao.com/trending/7683460342710943798/"
-    },
-    {
-      "id": "evt-10000000",
-      "title": "全球七年共卖出1亿台，苹果会带火折叠屏手机吗",
-      "category": "society",
-      "hotScore": 0.68,
-      "freshness": 1,
-      "crossSource": 0.6309,
-      "totalScore": 0.7613,
-      "sources": [
-        {
           "channel": "thepaper",
-          "rank": 5,
+          "rank": 1,
           "hot": 0,
           "url": "https://www.thepaper.cn/newsDetail_forward_34028065"
         }
@@ -165,17 +51,36 @@
       "url": "https://www.thepaper.cn/newsDetail_forward_34028065"
     },
     {
+      "id": "evt-00000000",
+      "title": "“宇宙最大医院”连续三任院长落马",
+      "category": "society",
+      "hotScore": 0.8075,
+      "freshness": 0.9999,
+      "crossSource": 0.6309,
+      "totalScore": 0.8123,
+      "sources": [
+        {
+          "channel": "toutiao",
+          "rank": 2,
+          "hot": 24779405,
+          "url": "https://www.toutiao.com/trending/7683751435984749106/"
+        }
+      ],
+      "summary": "",
+      "url": "https://www.toutiao.com/trending/7683751435984749106/"
+    },
+    {
       "id": "evt-ai000000",
       "title": "商务部回应美方所谓AI蒸馏指控：于事无凭、于法无据，典型双重标准",
       "category": "society",
-      "hotScore": 0.6375,
+      "hotScore": 0.8075,
       "freshness": 1,
       "crossSource": 0.6309,
-      "totalScore": 0.7443,
+      "totalScore": 0.8123,
       "sources": [
         {
           "channel": "thepaper",
-          "rank": 6,
+          "rank": 2,
           "hot": 0,
           "url": "https://www.thepaper.cn/newsDetail_forward_34039639"
         }
@@ -184,36 +89,36 @@
       "url": "https://www.thepaper.cn/newsDetail_forward_34039639"
     },
     {
-      "id": "evt-18000000",
-      "title": "18岁女孩被包办婚姻强制辍学",
+      "id": "evt-80000000",
+      "title": "从8月物价数据看消费提质扩容",
       "category": "society",
-      "hotScore": 0.5525,
-      "freshness": 1,
+      "hotScore": 0.765,
+      "freshness": 0.9999,
       "crossSource": 0.6309,
-      "totalScore": 0.7103,
+      "totalScore": 0.7953,
       "sources": [
         {
           "channel": "toutiao",
-          "rank": 8,
-          "hot": 10117720,
-          "url": "https://www.toutiao.com/trending/7683377507525066794/"
+          "rank": 3,
+          "hot": 22421333,
+          "url": "https://www.toutiao.com/trending/7683354900104740902/"
         }
       ],
       "summary": "",
-      "url": "https://www.toutiao.com/trending/7683377507525066794/"
+      "url": "https://www.toutiao.com/trending/7683354900104740902/"
     },
     {
       "id": "evt-15999000",
       "title": "15999元起售！苹果首款折叠屏手机iPhone Duo亮相，10月下旬开卖",
       "category": "society",
-      "hotScore": 0.5525,
+      "hotScore": 0.68,
       "freshness": 1,
       "crossSource": 0.6309,
-      "totalScore": 0.7103,
+      "totalScore": 0.7613,
       "sources": [
         {
           "channel": "thepaper",
-          "rank": 8,
+          "rank": 5,
           "hot": 0,
           "url": "https://www.thepaper.cn/newsDetail_forward_34041836"
         }
@@ -222,17 +127,55 @@
       "url": "https://www.thepaper.cn/newsDetail_forward_34041836"
     },
     {
-      "id": "evt-12000000",
-      "title": "荷马《奥德赛》中 12 名女奴被处死的情节，为什么被诺兰删掉了？这一改编有什么用意？",
+      "id": "evt-50000000",
+      "title": "泰安50岁“仙女姐姐”老师火了",
       "category": "society",
-      "hotScore": 0.525,
+      "hotScore": 0.6375,
+      "freshness": 0.9999,
+      "crossSource": 0.6309,
+      "totalScore": 0.7443,
+      "sources": [
+        {
+          "channel": "toutiao",
+          "rank": 6,
+          "hot": 16610132,
+          "url": "https://www.toutiao.com/trending/7683713726092148755/"
+        }
+      ],
+      "summary": "",
+      "url": "https://www.toutiao.com/trending/7683713726092148755/"
+    },
+    {
+      "id": "evt-iphoneduo",
+      "title": "iPhone Duo发布市场为什么没鼓掌",
+      "category": "society",
+      "hotScore": 0.595,
+      "freshness": 0.9999,
+      "crossSource": 0.6309,
+      "totalScore": 0.7273,
+      "sources": [
+        {
+          "channel": "toutiao",
+          "rank": 7,
+          "hot": 15029469,
+          "url": "https://www.toutiao.com/trending/7683871717537615414/"
+        }
+      ],
+      "summary": "",
+      "url": "https://www.toutiao.com/trending/7683871717537615414/"
+    },
+    {
+      "id": "evt-anthropi",
+      "title": "如何看待 Anthropic 研究员 Jacob 离职，称 AI 公司正「拿全人类的命运下注」？",
+      "category": "society",
+      "hotScore": 0.5625,
       "freshness": 1,
       "crossSource": 0.6309,
-      "totalScore": 0.6993,
+      "totalScore": 0.7143,
       "sources": [
         {
           "channel": "zhihu",
-          "rank": 7,
+          "rank": 6,
           "hot": 0,
           "url": ""
         }
@@ -241,23 +184,23 @@
       "url": ""
     },
     {
-      "id": "evt-50000000",
-      "title": "硬蹭《狂飙》卖酒 被判赔偿500万",
+      "id": "evt-a0000000",
+      "title": "年内中长期资金净买入A股超6000亿元",
       "category": "society",
-      "hotScore": 0.48,
-      "freshness": 1,
+      "hotScore": 0.51,
+      "freshness": 0.9999,
       "crossSource": 0.6309,
-      "totalScore": 0.6813,
+      "totalScore": 0.6933,
       "sources": [
         {
-          "channel": "baidu",
+          "channel": "toutiao",
           "rank": 9,
-          "hot": 0,
-          "url": "https://m.baidu.com/s?word=%E7%A1%AC%E8%B9%AD%E3%80%8A%E7%8B%82%E9%A3%99%E3%80%8B%E5%8D%96%E9%85%92+%E8%A2%AB%E5%88%A4%E8%B5%94%E5%81%BF500%E4%B8%87&sa=fyb_news"
+          "hot": 12305088,
+          "url": "https://www.toutiao.com/trending/7683820715346428443/"
         }
       ],
       "summary": "",
-      "url": "https://m.baidu.com/s?word=%E7%A1%AC%E8%B9%AD%E3%80%8A%E7%8B%82%E9%A3%99%E3%80%8B%E5%8D%96%E9%85%92+%E8%A2%AB%E5%88%A4%E8%B5%94%E5%81%BF500%E4%B8%87&sa=fyb_news"
+      "url": "https://www.toutiao.com/trending/7683820715346428443/"
     }
   ]
 }
