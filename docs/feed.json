@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-09-10T17:25:09.685Z",
+  "generatedAt": "2026-09-10T20:12:52.829Z",
   "fields": {
     "society": "社会",
     "economy": "经济",
@@ -18,7 +18,7 @@
         {
           "channel": "toutiao",
           "rank": 1,
-          "hot": 30058875,
+          "hot": 30552906,
           "url": "https://www.toutiao.com/trending/7683415450185220150/"
         },
         {
@@ -62,7 +62,7 @@
         {
           "channel": "toutiao",
           "rank": 2,
-          "hot": 27198395,
+          "hot": 27645413,
           "url": "https://www.toutiao.com/trending/7682919114865197066/"
         }
       ],
@@ -81,7 +81,7 @@
         {
           "channel": "toutiao",
           "rank": 3,
-          "hot": 24610125,
+          "hot": 25014604,
           "url": "https://www.toutiao.com/trending/7683354900104740902/"
         }
       ],
@@ -92,14 +92,14 @@
       "id": "evt-ai000000",
       "title": "经纬度：从外滩大会，看“AI新经济”走进生活",
       "category": "economy",
-      "hotScore": 0.51,
+      "hotScore": 0.4675,
       "freshness": 1,
       "crossSource": 0.6309,
-      "totalScore": 0.6933,
+      "totalScore": 0.6763,
       "sources": [
         {
           "channel": "thepaper",
-          "rank": 9,
+          "rank": 10,
           "hot": 0,
           "url": "https://www.thepaper.cn/newsDetail_forward_34043592"
         }
@@ -119,7 +119,7 @@
         {
           "channel": "toutiao",
           "rank": 4,
-          "hot": 22268162,
+          "hot": 22634149,
           "url": "https://www.toutiao.com/trending/7683890089427996170/"
         }
       ],
@@ -146,18 +146,37 @@
       "url": "https://www.thepaper.cn/newsDetail_forward_34041836"
     },
     {
-      "id": "evt-20270000",
-      "title": "为什么说2027年是新能源车真正起点",
+      "id": "evt-20000000",
+      "title": "烟台2人因涉嫌失火罪被刑拘",
       "category": "society",
-      "hotScore": 0.6375,
+      "hotScore": 0.68,
       "freshness": 1,
       "crossSource": 0.6309,
-      "totalScore": 0.7443,
+      "totalScore": 0.7613,
       "sources": [
         {
           "channel": "toutiao",
-          "rank": 6,
-          "hot": 18231629,
+          "rank": 5,
+          "hot": 20480225,
+          "url": "https://www.toutiao.com/trending/7682947092507131950/"
+        }
+      ],
+      "summary": "",
+      "url": "https://www.toutiao.com/trending/7682947092507131950/"
+    },
+    {
+      "id": "evt-20270000",
+      "title": "为什么说2027年是新能源车真正起点",
+      "category": "society",
+      "hotScore": 0.5525,
+      "freshness": 1,
+      "crossSource": 0.6309,
+      "totalScore": 0.7103,
+      "sources": [
+        {
+          "channel": "toutiao",
+          "rank": 8,
+          "hot": 15172124,
           "url": "https://www.toutiao.com/trending/7683071413893103679/"
         }
       ],
@@ -184,8 +203,8 @@
       "url": ""
     },
     {
-      "id": "evt-48400000",
-      "title": "老师把4.8万奖金平分给400多名学生",
+      "id": "evt-a0000000",
+      "title": "A股成交量创年度新低意味着什么",
       "category": "society",
       "hotScore": 0.4675,
       "freshness": 1,
@@ -195,12 +214,12 @@
         {
           "channel": "toutiao",
           "rank": 10,
-          "hot": 12221026,
-          "url": "https://www.toutiao.com/trending/7683847391716147236/"
+          "hot": 12421884,
+          "url": "https://www.toutiao.com/trending/7683891099873578523/"
         }
       ],
       "summary": "",
-      "url": "https://www.toutiao.com/trending/7683847391716147236/"
+      "url": "https://www.toutiao.com/trending/7683891099873578523/"
     },
     {
       "id": "evt-npc00000",
@@ -233,31 +252,12 @@
         {
           "channel": "toutiao",
           "rank": 11,
-          "hot": 11058042,
+          "hot": 11239786,
           "url": "https://www.toutiao.com/trending/7683772924012822570/"
         }
       ],
       "summary": "",
       "url": "https://www.toutiao.com/trending/7683772924012822570/"
-    },
-    {
-      "id": "evt-iphoneduo",
-      "title": "iPhone Duo不支持实体SIM卡，对中国消费者有何影响？",
-      "category": "society",
-      "hotScore": 0.425,
-      "freshness": 1,
-      "crossSource": 0.6309,
-      "totalScore": 0.6593,
-      "sources": [
-        {
-          "channel": "thepaper",
-          "rank": 11,
-          "hot": 0,
-          "url": "https://www.thepaper.cn/newsDetail_forward_34044865"
-        }
-      ],
-      "summary": "",
-      "url": "https://www.thepaper.cn/newsDetail_forward_34044865"
     }
   ]
 }
