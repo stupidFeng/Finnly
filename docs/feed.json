@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-09-11T17:25:55.215Z",
+  "generatedAt": "2026-09-11T20:12:00.037Z",
   "fields": {
     "society": "社会",
     "economy": "经济",
@@ -18,12 +18,12 @@
         {
           "channel": "toutiao",
           "rank": 2,
-          "hot": 8960327,
+          "hot": 9286184,
           "url": "https://www.toutiao.com/trending/7684220300552195622/"
         },
         {
           "channel": "baidu",
-          "rank": 9,
+          "rank": 16,
           "hot": 0,
           "url": "https://m.baidu.com/s?word=%E6%89%93%E5%81%87%E7%BD%91%E7%BA%A2%E9%93%81%E5%A4%B4%E8%8E%B7%E5%88%918%E5%B9%B4&sa=fyb_news"
         }
@@ -43,7 +43,7 @@
         {
           "channel": "toutiao",
           "rank": 1,
-          "hot": 9902692,
+          "hot": 10262821,
           "url": "https://www.toutiao.com/trending/7684236026994282011/"
         }
       ],
@@ -70,6 +70,25 @@
       "url": "https://m.baidu.com/s?word=%E4%B8%80%E5%A4%A9%E5%B7%B2%E7%BB%8F%E4%B8%8D%E8%B6%B324%E5%B0%8F%E6%97%B6%E4%BA%86&sa=fyb_news"
     },
     {
+      "id": "evt-40000000",
+      "title": "丈夫肥胖久坐致妻子4次怀孕全流产",
+      "category": "society",
+      "hotScore": 0.7225,
+      "freshness": 0.9999,
+      "crossSource": 0.6309,
+      "totalScore": 0.7783,
+      "sources": [
+        {
+          "channel": "toutiao",
+          "rank": 4,
+          "hot": 7602884,
+          "url": "https://www.toutiao.com/trending/7683489262865170483/"
+        }
+      ],
+      "summary": "",
+      "url": "https://www.toutiao.com/trending/7683489262865170483/"
+    },
+    {
       "id": "evt-10100000",
       "title": "“10台手机卖不出1台折叠屏”",
       "category": "society",
@@ -87,25 +106,6 @@
       ],
       "summary": "",
       "url": "https://m.baidu.com/s?word=%E2%80%9C10%E5%8F%B0%E6%89%8B%E6%9C%BA%E5%8D%96%E4%B8%8D%E5%87%BA1%E5%8F%B0%E6%8A%98%E5%8F%A0%E5%B1%8F%E2%80%9D&sa=fyb_news"
-    },
-    {
-      "id": "evt-8cpi3000",
-      "title": "美国 8 月 CPI 同比增长 3.4%，市场预期到年底前美联储将加息两次，如何解读？",
-      "category": "economy",
-      "hotScore": 0.6,
-      "freshness": 0.9999,
-      "crossSource": 0.6309,
-      "totalScore": 0.7293,
-      "sources": [
-        {
-          "channel": "zhihu",
-          "rank": 5,
-          "hot": 0,
-          "url": ""
-        }
-      ],
-      "summary": "",
-      "url": ""
     },
     {
       "id": "evt-20300000",
@@ -146,18 +146,56 @@
       "url": "https://m.baidu.com/s?word=%E5%85%AC%E5%8F%B8%E4%B8%AD%E7%A7%8B%E5%9B%BD%E5%BA%86%E8%BF%9E%E6%94%BE13.5%E5%A4%A9%E5%8F%912000%E5%85%83&sa=fyb_news"
     },
     {
+      "id": "evt-kimik28p",
+      "title": "月之暗面 Kimi K2.8 Preview 模型 9 月 11 日上线 kimi code，如何评价其表现？",
+      "category": "society",
+      "hotScore": 0.525,
+      "freshness": 0.9999,
+      "crossSource": 0.6309,
+      "totalScore": 0.6993,
+      "sources": [
+        {
+          "channel": "zhihu",
+          "rank": 7,
+          "hot": 0,
+          "url": ""
+        }
+      ],
+      "summary": "",
+      "url": ""
+    },
+    {
+      "id": "evt-98300000",
+      "title": "河南一高校奖了老师983万",
+      "category": "society",
+      "hotScore": 0.52,
+      "freshness": 1,
+      "crossSource": 0.6309,
+      "totalScore": 0.6973,
+      "sources": [
+        {
+          "channel": "baidu",
+          "rank": 8,
+          "hot": 0,
+          "url": "https://m.baidu.com/s?word=%E6%B2%B3%E5%8D%97%E4%B8%80%E9%AB%98%E6%A0%A1%E5%A5%96%E4%BA%86%E8%80%81%E5%B8%88983%E4%B8%87&sa=fyb_news"
+        }
+      ],
+      "summary": "",
+      "url": "https://m.baidu.com/s?word=%E6%B2%B3%E5%8D%97%E4%B8%80%E9%AB%98%E6%A0%A1%E5%A5%96%E4%BA%86%E8%80%81%E5%B8%88983%E4%B8%87&sa=fyb_news"
+    },
+    {
       "id": "evt-91100000",
       "title": "9·11主谋为何至今未被审判",
       "category": "society",
-      "hotScore": 0.4675,
+      "hotScore": 0.51,
       "freshness": 0.9999,
       "crossSource": 0.6309,
-      "totalScore": 0.6763,
+      "totalScore": 0.6933,
       "sources": [
         {
           "channel": "toutiao",
-          "rank": 10,
-          "hot": 4026134,
+          "rank": 9,
+          "hot": 4611382,
           "url": "https://www.toutiao.com/trending/7683943546142871103/"
         }
       ],
@@ -169,7 +207,7 @@
       "title": "央媒聚焦AI客服转人工难：降本增效不能算偏“服务账”，国标落地立规明界",
       "category": "society",
       "hotScore": 0.4675,
-      "freshness": 0.9999,
+      "freshness": 1,
       "crossSource": 0.6309,
       "totalScore": 0.6763,
       "sources": [
@@ -182,25 +220,6 @@
       ],
       "summary": "",
       "url": "https://www.thepaper.cn/newsDetail_forward_34048749"
-    },
-    {
-      "id": "evt-kimik28p",
-      "title": "月之暗面 Kimi K2.8 Preview 模型 9 月 11 日上线 kimi code，如何评价其表现？",
-      "category": "society",
-      "hotScore": 0.4125,
-      "freshness": 0.9999,
-      "crossSource": 0.6309,
-      "totalScore": 0.6543,
-      "sources": [
-        {
-          "channel": "zhihu",
-          "rank": 10,
-          "hot": 0,
-          "url": ""
-        }
-      ],
-      "summary": "",
-      "url": ""
     }
   ]
 }
