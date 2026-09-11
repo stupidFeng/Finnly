@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-09-11T20:12:00.037Z",
+  "generatedAt": "2026-09-11T23:40:44.908Z",
   "fields": {
     "society": "社会",
     "economy": "经济",
@@ -7,33 +7,8 @@
   },
   "feed": [
     {
-      "id": "evt-80000000",
-      "title": "打假网红铁头获刑8年",
-      "category": "society",
-      "hotScore": 0.8075,
-      "freshness": 0.9999,
-      "crossSource": 1,
-      "totalScore": 0.923,
-      "sources": [
-        {
-          "channel": "toutiao",
-          "rank": 2,
-          "hot": 9286184,
-          "url": "https://www.toutiao.com/trending/7684220300552195622/"
-        },
-        {
-          "channel": "baidu",
-          "rank": 16,
-          "hot": 0,
-          "url": "https://m.baidu.com/s?word=%E6%89%93%E5%81%87%E7%BD%91%E7%BA%A2%E9%93%81%E5%A4%B4%E8%8E%B7%E5%88%918%E5%B9%B4&sa=fyb_news"
-        }
-      ],
-      "summary": "",
-      "url": "https://www.toutiao.com/trending/7684220300552195622/"
-    },
-    {
-      "id": "evt-00000000",
-      "title": "中方正告美方立即停止对华间谍活动",
+      "id": "evt-95400000",
+      "title": "胡塞称9天攻占5400平方公里地区",
       "category": "society",
       "hotScore": 0.85,
       "freshness": 0.9999,
@@ -43,19 +18,82 @@
         {
           "channel": "toutiao",
           "rank": 1,
-          "hot": 10262821,
-          "url": "https://www.toutiao.com/trending/7684236026994282011/"
+          "hot": 11205367,
+          "url": "https://www.toutiao.com/trending/7684242138590088767/"
         }
       ],
       "summary": "",
-      "url": "https://www.toutiao.com/trending/7684236026994282011/"
+      "url": "https://www.toutiao.com/trending/7684242138590088767/"
+    },
+    {
+      "id": "evt-00000000",
+      "title": "男子虚构伪造“停止资助后遭威胁”，甘肃嘉峪关警方发布通报",
+      "category": "society",
+      "hotScore": 0.85,
+      "freshness": 1,
+      "crossSource": 0.6309,
+      "totalScore": 0.8293,
+      "sources": [
+        {
+          "channel": "thepaper",
+          "rank": 1,
+          "hot": 0,
+          "url": "https://www.thepaper.cn/newsDetail_forward_34052214"
+        }
+      ],
+      "summary": "",
+      "url": "https://www.thepaper.cn/newsDetail_forward_34052214"
+    },
+    {
+      "id": "evt-80000000",
+      "title": "打假网红铁头一审获刑8年",
+      "category": "society",
+      "hotScore": 0.8075,
+      "freshness": 0.9999,
+      "crossSource": 0.6309,
+      "totalScore": 0.8123,
+      "sources": [
+        {
+          "channel": "toutiao",
+          "rank": 2,
+          "hot": 10139035,
+          "url": "https://www.toutiao.com/trending/7684220300552195622/"
+        }
+      ],
+      "summary": "",
+      "url": "https://www.toutiao.com/trending/7684220300552195622/"
+    },
+    {
+      "id": "evt-13500000",
+      "title": "公司中秋国庆连放13.5天发2000元",
+      "category": "society",
+      "hotScore": 0.51,
+      "freshness": 0.9999,
+      "crossSource": 1,
+      "totalScore": 0.804,
+      "sources": [
+        {
+          "channel": "toutiao",
+          "rank": 9,
+          "hot": 5034896,
+          "url": "https://www.toutiao.com/trending/7683415572282343487/"
+        },
+        {
+          "channel": "baidu",
+          "rank": 16,
+          "hot": 0,
+          "url": "https://m.baidu.com/s?word=%E5%85%AC%E5%8F%B8%E4%B8%AD%E7%A7%8B%E5%9B%BD%E5%BA%86%E8%BF%9E%E6%94%BE13.5%E5%A4%A9%E5%8F%912000%E5%85%83&sa=fyb_news"
+        }
+      ],
+      "summary": "",
+      "url": "https://www.toutiao.com/trending/7683415572282343487/"
     },
     {
       "id": "evt-24000000",
       "title": "一天已经不足24小时了",
       "category": "society",
       "hotScore": 0.76,
-      "freshness": 1,
+      "freshness": 0.9999,
       "crossSource": 0.6309,
       "totalScore": 0.7933,
       "sources": [
@@ -70,49 +108,30 @@
       "url": "https://m.baidu.com/s?word=%E4%B8%80%E5%A4%A9%E5%B7%B2%E7%BB%8F%E4%B8%8D%E8%B6%B324%E5%B0%8F%E6%97%B6%E4%BA%86&sa=fyb_news"
     },
     {
-      "id": "evt-40000000",
-      "title": "丈夫肥胖久坐致妻子4次怀孕全流产",
+      "id": "evt-91125000",
+      "title": "“9·11”25周年后，美国为何又陷入战争泥潭？",
       "category": "society",
       "hotScore": 0.7225,
-      "freshness": 0.9999,
+      "freshness": 1,
       "crossSource": 0.6309,
       "totalScore": 0.7783,
       "sources": [
         {
-          "channel": "toutiao",
+          "channel": "thepaper",
           "rank": 4,
-          "hot": 7602884,
-          "url": "https://www.toutiao.com/trending/7683489262865170483/"
-        }
-      ],
-      "summary": "",
-      "url": "https://www.toutiao.com/trending/7683489262865170483/"
-    },
-    {
-      "id": "evt-10100000",
-      "title": "“10台手机卖不出1台折叠屏”",
-      "category": "society",
-      "hotScore": 0.72,
-      "freshness": 1,
-      "crossSource": 0.6309,
-      "totalScore": 0.7773,
-      "sources": [
-        {
-          "channel": "baidu",
-          "rank": 3,
           "hot": 0,
-          "url": "https://m.baidu.com/s?word=%E2%80%9C10%E5%8F%B0%E6%89%8B%E6%9C%BA%E5%8D%96%E4%B8%8D%E5%87%BA1%E5%8F%B0%E6%8A%98%E5%8F%A0%E5%B1%8F%E2%80%9D&sa=fyb_news"
+          "url": "https://www.thepaper.cn/newsDetail_forward_34050948"
         }
       ],
       "summary": "",
-      "url": "https://m.baidu.com/s?word=%E2%80%9C10%E5%8F%B0%E6%89%8B%E6%9C%BA%E5%8D%96%E4%B8%8D%E5%87%BA1%E5%8F%B0%E6%8A%98%E5%8F%A0%E5%B1%8F%E2%80%9D&sa=fyb_news"
+      "url": "https://www.thepaper.cn/newsDetail_forward_34050948"
     },
     {
       "id": "evt-20300000",
       "title": "2030年进入世界汽车强国行列",
       "category": "society",
       "hotScore": 0.68,
-      "freshness": 1,
+      "freshness": 0.9999,
       "crossSource": 0.6309,
       "totalScore": 0.7613,
       "sources": [
@@ -127,11 +146,11 @@
       "url": "https://m.baidu.com/s?word=2030%E5%B9%B4%E8%BF%9B%E5%85%A5%E4%B8%96%E7%95%8C%E6%B1%BD%E8%BD%A6%E5%BC%BA%E5%9B%BD%E8%A1%8C%E5%88%97&sa=fyb_news"
     },
     {
-      "id": "evt-13500000",
-      "title": "公司中秋国庆连放13.5天发2000元",
+      "id": "evt-50000000",
+      "title": "河南一高中为50余名教师发180万奖金",
       "category": "society",
       "hotScore": 0.64,
-      "freshness": 1,
+      "freshness": 0.9999,
       "crossSource": 0.6309,
       "totalScore": 0.7453,
       "sources": [
@@ -139,87 +158,68 @@
           "channel": "baidu",
           "rank": 5,
           "hot": 0,
-          "url": "https://m.baidu.com/s?word=%E5%85%AC%E5%8F%B8%E4%B8%AD%E7%A7%8B%E5%9B%BD%E5%BA%86%E8%BF%9E%E6%94%BE13.5%E5%A4%A9%E5%8F%912000%E5%85%83&sa=fyb_news"
+          "url": "https://m.baidu.com/s?word=%E6%B2%B3%E5%8D%97%E4%B8%80%E9%AB%98%E4%B8%AD%E4%B8%BA50%E4%BD%99%E5%90%8D%E6%95%99%E5%B8%88%E5%8F%91180%E4%B8%87%E5%A5%96%E9%87%91&sa=fyb_news"
         }
       ],
       "summary": "",
-      "url": "https://m.baidu.com/s?word=%E5%85%AC%E5%8F%B8%E4%B8%AD%E7%A7%8B%E5%9B%BD%E5%BA%86%E8%BF%9E%E6%94%BE13.5%E5%A4%A9%E5%8F%912000%E5%85%83&sa=fyb_news"
+      "url": "https://m.baidu.com/s?word=%E6%B2%B3%E5%8D%97%E4%B8%80%E9%AB%98%E4%B8%AD%E4%B8%BA50%E4%BD%99%E5%90%8D%E6%95%99%E5%B8%88%E5%8F%91180%E4%B8%87%E5%A5%96%E9%87%91&sa=fyb_news"
+    },
+    {
+      "id": "evt-40000000",
+      "title": "起床后这4个表现提示你血脂可能超标",
+      "category": "society",
+      "hotScore": 0.6375,
+      "freshness": 0.9999,
+      "crossSource": 0.6309,
+      "totalScore": 0.7443,
+      "sources": [
+        {
+          "channel": "toutiao",
+          "rank": 6,
+          "hot": 6796398,
+          "url": "https://www.toutiao.com/trending/7684097757912875062/"
+        }
+      ],
+      "summary": "",
+      "url": "https://www.toutiao.com/trending/7684097757912875062/"
+    },
+    {
+      "id": "evt-10100000",
+      "title": "“10台手机卖不出1台折叠屏”",
+      "category": "society",
+      "hotScore": 0.6,
+      "freshness": 0.9999,
+      "crossSource": 0.6309,
+      "totalScore": 0.7293,
+      "sources": [
+        {
+          "channel": "baidu",
+          "rank": 6,
+          "hot": 0,
+          "url": "https://m.baidu.com/s?word=%E2%80%9C10%E5%8F%B0%E6%89%8B%E6%9C%BA%E5%8D%96%E4%B8%8D%E5%87%BA1%E5%8F%B0%E6%8A%98%E5%8F%A0%E5%B1%8F%E2%80%9D&sa=fyb_news"
+        }
+      ],
+      "summary": "",
+      "url": "https://m.baidu.com/s?word=%E2%80%9C10%E5%8F%B0%E6%89%8B%E6%9C%BA%E5%8D%96%E4%B8%8D%E5%87%BA1%E5%8F%B0%E6%8A%98%E5%8F%A0%E5%B1%8F%E2%80%9D&sa=fyb_news"
     },
     {
       "id": "evt-kimik28p",
       "title": "月之暗面 Kimi K2.8 Preview 模型 9 月 11 日上线 kimi code，如何评价其表现？",
       "category": "society",
-      "hotScore": 0.525,
+      "hotScore": 0.5625,
       "freshness": 0.9999,
       "crossSource": 0.6309,
-      "totalScore": 0.6993,
+      "totalScore": 0.7143,
       "sources": [
         {
           "channel": "zhihu",
-          "rank": 7,
+          "rank": 6,
           "hot": 0,
           "url": ""
         }
       ],
       "summary": "",
       "url": ""
-    },
-    {
-      "id": "evt-98300000",
-      "title": "河南一高校奖了老师983万",
-      "category": "society",
-      "hotScore": 0.52,
-      "freshness": 1,
-      "crossSource": 0.6309,
-      "totalScore": 0.6973,
-      "sources": [
-        {
-          "channel": "baidu",
-          "rank": 8,
-          "hot": 0,
-          "url": "https://m.baidu.com/s?word=%E6%B2%B3%E5%8D%97%E4%B8%80%E9%AB%98%E6%A0%A1%E5%A5%96%E4%BA%86%E8%80%81%E5%B8%88983%E4%B8%87&sa=fyb_news"
-        }
-      ],
-      "summary": "",
-      "url": "https://m.baidu.com/s?word=%E6%B2%B3%E5%8D%97%E4%B8%80%E9%AB%98%E6%A0%A1%E5%A5%96%E4%BA%86%E8%80%81%E5%B8%88983%E4%B8%87&sa=fyb_news"
-    },
-    {
-      "id": "evt-91100000",
-      "title": "9·11主谋为何至今未被审判",
-      "category": "society",
-      "hotScore": 0.51,
-      "freshness": 0.9999,
-      "crossSource": 0.6309,
-      "totalScore": 0.6933,
-      "sources": [
-        {
-          "channel": "toutiao",
-          "rank": 9,
-          "hot": 4611382,
-          "url": "https://www.toutiao.com/trending/7683943546142871103/"
-        }
-      ],
-      "summary": "",
-      "url": "https://www.toutiao.com/trending/7683943546142871103/"
-    },
-    {
-      "id": "evt-ai000000",
-      "title": "央媒聚焦AI客服转人工难：降本增效不能算偏“服务账”，国标落地立规明界",
-      "category": "society",
-      "hotScore": 0.4675,
-      "freshness": 1,
-      "crossSource": 0.6309,
-      "totalScore": 0.6763,
-      "sources": [
-        {
-          "channel": "thepaper",
-          "rank": 10,
-          "hot": 0,
-          "url": "https://www.thepaper.cn/newsDetail_forward_34048749"
-        }
-      ],
-      "summary": "",
-      "url": "https://www.thepaper.cn/newsDetail_forward_34048749"
     }
   ]
 }
