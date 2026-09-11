@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-09-11T08:23:52.868Z",
+  "generatedAt": "2026-09-11T13:56:00.818Z",
   "fields": {
     "society": "社会",
     "economy": "经济",
@@ -7,112 +7,99 @@
   },
   "feed": [
     {
-      "id": "evt-00000000",
-      "title": "中方：调整对日签证规费",
+      "id": "evt-80000000",
+      "title": "打假网红铁头获刑8年",
       "category": "society",
-      "hotScore": 0.85,
-      "freshness": 0.9999,
+      "hotScore": 0.8075,
+      "freshness": 1,
       "crossSource": 1,
-      "totalScore": 0.94,
+      "totalScore": 0.923,
       "sources": [
         {
           "channel": "toutiao",
-          "rank": 1,
-          "hot": 14632649,
-          "url": "https://www.toutiao.com/trending/7683057305700781574/"
+          "rank": 2,
+          "hot": 8113545,
+          "url": "https://www.toutiao.com/trending/7684220300552195622/"
         },
         {
           "channel": "baidu",
-          "rank": 14,
+          "rank": 11,
           "hot": 0,
-          "url": "https://m.baidu.com/s?word=%E4%B8%AD%E6%96%B9%EF%BC%9A%E8%B0%83%E6%95%B4%E5%AF%B9%E6%97%A5%E7%AD%BE%E8%AF%81%E8%A7%84%E8%B4%B9&sa=fyb_news"
+          "url": "https://m.baidu.com/s?word=%E6%89%93%E5%81%87%E7%BD%91%E7%BA%A2%E9%93%81%E5%A4%B4%E8%8E%B7%E5%88%918%E5%B9%B4&sa=fyb_news"
         }
       ],
       "summary": "",
-      "url": "https://www.toutiao.com/trending/7683057305700781574/"
+      "url": "https://www.toutiao.com/trending/7684220300552195622/"
     },
     {
-      "id": "evt-12000000",
-      "title": "老人心梗 老伴打120时被广告卡住",
+      "id": "evt-00000000",
+      "title": "手机厂商不能把用户逼向险境",
       "category": "society",
       "hotScore": 0.76,
       "freshness": 1,
-      "crossSource": 0.6309,
-      "totalScore": 0.7933,
+      "crossSource": 1,
+      "totalScore": 0.904,
       "sources": [
+        {
+          "channel": "toutiao",
+          "rank": 5,
+          "hot": 6010662,
+          "url": "https://www.toutiao.com/trending/7684222280172060698/"
+        },
         {
           "channel": "baidu",
           "rank": 2,
           "hot": 0,
-          "url": "https://m.baidu.com/s?word=%E8%80%81%E4%BA%BA%E5%BF%83%E6%A2%97+%E8%80%81%E4%BC%B4%E6%89%93120%E6%97%B6%E8%A2%AB%E5%B9%BF%E5%91%8A%E5%8D%A1%E4%BD%8F&sa=fyb_news"
+          "url": "https://m.baidu.com/s?word=%E6%89%8B%E6%9C%BA%E5%8E%82%E5%95%86%E4%B8%8D%E8%83%BD%E6%8A%8A%E7%94%A8%E6%88%B7%E9%80%BC%E5%90%91%E9%99%A9%E5%A2%83&sa=fyb_news"
         }
       ],
       "summary": "",
-      "url": "https://m.baidu.com/s?word=%E8%80%81%E4%BA%BA%E5%BF%83%E6%A2%97+%E8%80%81%E4%BC%B4%E6%89%93120%E6%97%B6%E8%A2%AB%E5%B9%BF%E5%91%8A%E5%8D%A1%E4%BD%8F&sa=fyb_news"
+      "url": "https://www.toutiao.com/trending/7684222280172060698/"
     },
     {
-      "id": "evt-ip000000",
-      "title": "影视飓风给全员发万元 iPhone Duo，连实习生都有且代缴个税，你怎么看这种「别人家的公司」？",
+      "id": "evt-14000000",
+      "title": "年销量预计1400万台！机构看好苹果折叠屏手机，但取决于产能和组装良率",
       "category": "society",
-      "hotScore": 0.5625,
-      "freshness": 0.9999,
-      "crossSource": 0.6309,
-      "totalScore": 0.7143,
-      "sources": [
-        {
-          "channel": "zhihu",
-          "rank": 6,
-          "hot": 0,
-          "url": ""
-        }
-      ],
-      "summary": "",
-      "url": ""
-    },
-    {
-      "id": "evt-iphone00",
-      "title": "折叠屏iPhone发布 真果粉买不买",
-      "category": "society",
-      "hotScore": 0.56,
+      "hotScore": 0.765,
       "freshness": 1,
       "crossSource": 0.6309,
-      "totalScore": 0.7133,
+      "totalScore": 0.7953,
       "sources": [
         {
-          "channel": "baidu",
-          "rank": 7,
+          "channel": "thepaper",
+          "rank": 3,
           "hot": 0,
-          "url": "https://m.baidu.com/s?word=%E6%8A%98%E5%8F%A0%E5%B1%8FiPhone%E5%8F%91%E5%B8%83+%E7%9C%9F%E6%9E%9C%E7%B2%89%E4%B9%B0%E4%B8%8D%E4%B9%B0&sa=fyb_news"
+          "url": "https://www.thepaper.cn/newsDetail_forward_34046420"
         }
       ],
       "summary": "",
-      "url": "https://m.baidu.com/s?word=%E6%8A%98%E5%8F%A0%E5%B1%8FiPhone%E5%8F%91%E5%B8%83+%E7%9C%9F%E6%9E%9C%E7%B2%89%E4%B9%B0%E4%B8%8D%E4%B9%B0&sa=fyb_news"
+      "url": "https://www.thepaper.cn/newsDetail_forward_34046420"
     },
     {
-      "id": "evt-10agentto",
-      "title": "人均10个Agent，Token是新一代“茅台”，外滩大会热议AI新经济",
-      "category": "economy",
+      "id": "evt-20300000",
+      "title": "2030年进入世界汽车强国行列",
+      "category": "society",
       "hotScore": 0.68,
       "freshness": 1,
       "crossSource": 0.6309,
       "totalScore": 0.7613,
       "sources": [
         {
-          "channel": "thepaper",
-          "rank": 5,
+          "channel": "baidu",
+          "rank": 4,
           "hot": 0,
-          "url": "https://www.thepaper.cn/newsDetail_forward_34045224"
+          "url": "https://m.baidu.com/s?word=2030%E5%B9%B4%E8%BF%9B%E5%85%A5%E4%B8%96%E7%95%8C%E6%B1%BD%E8%BD%A6%E5%BC%BA%E5%9B%BD%E8%A1%8C%E5%88%97&sa=fyb_news"
         }
       ],
       "summary": "",
-      "url": "https://www.thepaper.cn/newsDetail_forward_34045224"
+      "url": "https://m.baidu.com/s?word=2030%E5%B9%B4%E8%BF%9B%E5%85%A5%E4%B8%96%E7%95%8C%E6%B1%BD%E8%BD%A6%E5%BC%BA%E5%9B%BD%E8%A1%8C%E5%88%97&sa=fyb_news"
     },
     {
       "id": "evt-16000000",
       "title": "如何看待红果短剧日活 1.68 亿已超「爱优腾芒」四家总和？为啥大众会在影视娱乐上出现这么强烈的偏好转变？",
       "category": "entertainment",
       "hotScore": 0.675,
-      "freshness": 0.9999,
+      "freshness": 1,
       "crossSource": 0.6309,
       "totalScore": 0.7593,
       "sources": [
@@ -127,27 +114,65 @@
       "url": ""
     },
     {
-      "id": "evt-14000000",
-      "title": "年销量预计1400万台！机构看好苹果折叠屏手机，但取决于产能和组装良率",
+      "id": "evt-12000000",
+      "title": "老人拨打 120 误触手机「魔法画报」功能难退出，家属质疑退出设计隐蔽影响紧急呼救，实际情况如何？",
       "category": "society",
-      "hotScore": 0.5525,
+      "hotScore": 0.525,
       "freshness": 1,
       "crossSource": 0.6309,
-      "totalScore": 0.7103,
+      "totalScore": 0.6993,
       "sources": [
         {
-          "channel": "thepaper",
-          "rank": 8,
+          "channel": "zhihu",
+          "rank": 7,
           "hot": 0,
-          "url": "https://www.thepaper.cn/newsDetail_forward_34046420"
+          "url": ""
         }
       ],
       "summary": "",
-      "url": "https://www.thepaper.cn/newsDetail_forward_34046420"
+      "url": ""
     },
     {
-      "id": "evt-ai000000",
-      "title": "李立群吐槽AI短剧“害人”",
+      "id": "evt-iphoneduo",
+      "title": "iPhone Duo代购成交价涨幅达150%",
+      "category": "society",
+      "hotScore": 0.52,
+      "freshness": 1,
+      "crossSource": 0.6309,
+      "totalScore": 0.6973,
+      "sources": [
+        {
+          "channel": "baidu",
+          "rank": 8,
+          "hot": 0,
+          "url": "https://m.baidu.com/s?word=iPhone+Duo%E4%BB%A3%E8%B4%AD%E6%88%90%E4%BA%A4%E4%BB%B7%E6%B6%A8%E5%B9%85%E8%BE%BE150%25&sa=fyb_news"
+        }
+      ],
+      "summary": "",
+      "url": "https://m.baidu.com/s?word=iPhone+Duo%E4%BB%A3%E8%B4%AD%E6%88%90%E4%BA%A4%E4%BB%B7%E6%B6%A8%E5%B9%85%E8%BE%BE150%25&sa=fyb_news"
+    },
+    {
+      "id": "evt-10000000",
+      "title": "“文物失踪”举报人店铺被查15次",
+      "category": "society",
+      "hotScore": 0.51,
+      "freshness": 1,
+      "crossSource": 0.6309,
+      "totalScore": 0.6933,
+      "sources": [
+        {
+          "channel": "toutiao",
+          "rank": 9,
+          "hot": 4029067,
+          "url": "https://www.toutiao.com/trending/7684246375840219155/"
+        }
+      ],
+      "summary": "",
+      "url": "https://www.toutiao.com/trending/7684246375840219155/"
+    },
+    {
+      "id": "evt-11000000",
+      "title": "爱马仕上新1.1万元宠物拾便袋收纳包",
       "category": "society",
       "hotScore": 0.48,
       "freshness": 1,
@@ -158,68 +183,30 @@
           "channel": "baidu",
           "rank": 9,
           "hot": 0,
-          "url": "https://m.baidu.com/s?word=%E6%9D%8E%E7%AB%8B%E7%BE%A4%E5%90%90%E6%A7%BDAI%E7%9F%AD%E5%89%A7%E2%80%9C%E5%AE%B3%E4%BA%BA%E2%80%9D&sa=fyb_news"
+          "url": "https://m.baidu.com/s?word=%E7%88%B1%E9%A9%AC%E4%BB%95%E4%B8%8A%E6%96%B01.1%E4%B8%87%E5%85%83%E5%AE%A0%E7%89%A9%E6%8B%BE%E4%BE%BF%E8%A2%8B%E6%94%B6%E7%BA%B3%E5%8C%85&sa=fyb_news"
         }
       ],
       "summary": "",
-      "url": "https://m.baidu.com/s?word=%E6%9D%8E%E7%AB%8B%E7%BE%A4%E5%90%90%E6%A7%BDAI%E7%9F%AD%E5%89%A7%E2%80%9C%E5%AE%B3%E4%BA%BA%E2%80%9D&sa=fyb_news"
+      "url": "https://m.baidu.com/s?word=%E7%88%B1%E9%A9%AC%E4%BB%95%E4%B8%8A%E6%96%B01.1%E4%B8%87%E5%85%83%E5%AE%A0%E7%89%A9%E6%8B%BE%E4%BE%BF%E8%A2%8B%E6%94%B6%E7%BA%B3%E5%8C%85&sa=fyb_news"
     },
     {
-      "id": "evt-11000000",
-      "title": "普京与莫迪11天连见两次有何意味",
+      "id": "evt-91100000",
+      "title": "9·11主谋为何至今未被审判",
       "category": "society",
       "hotScore": 0.4675,
-      "freshness": 0.9999,
+      "freshness": 1,
       "crossSource": 0.6309,
       "totalScore": 0.6763,
       "sources": [
         {
           "channel": "toutiao",
           "rank": 10,
-          "hot": 5949191,
-          "url": "https://www.toutiao.com/trending/7683300982688546857/"
+          "hot": 3645650,
+          "url": "https://www.toutiao.com/trending/7683943546142871103/"
         }
       ],
       "summary": "",
-      "url": "https://www.toutiao.com/trending/7683300982688546857/"
-    },
-    {
-      "id": "evt-iphoneduo",
-      "title": "iPhone Duo不支持实体SIM卡，对中国消费者有何影响？",
-      "category": "society",
-      "hotScore": 0.4675,
-      "freshness": 1,
-      "crossSource": 0.6309,
-      "totalScore": 0.6763,
-      "sources": [
-        {
-          "channel": "thepaper",
-          "rank": 10,
-          "hot": 0,
-          "url": "https://www.thepaper.cn/newsDetail_forward_34044865"
-        }
-      ],
-      "summary": "",
-      "url": "https://www.thepaper.cn/newsDetail_forward_34044865"
-    },
-    {
-      "id": "evt-72000000",
-      "title": "7.2万元一枚的徽章现在按斤卖",
-      "category": "society",
-      "hotScore": 0.44,
-      "freshness": 1,
-      "crossSource": 0.6309,
-      "totalScore": 0.6653,
-      "sources": [
-        {
-          "channel": "baidu",
-          "rank": 10,
-          "hot": 0,
-          "url": "https://m.baidu.com/s?word=7.2%E4%B8%87%E5%85%83%E4%B8%80%E6%9E%9A%E7%9A%84%E5%BE%BD%E7%AB%A0%E7%8E%B0%E5%9C%A8%E6%8C%89%E6%96%A4%E5%8D%96&sa=fyb_news"
-        }
-      ],
-      "summary": "",
-      "url": "https://m.baidu.com/s?word=7.2%E4%B8%87%E5%85%83%E4%B8%80%E6%9E%9A%E7%9A%84%E5%BE%BD%E7%AB%A0%E7%8E%B0%E5%9C%A8%E6%8C%89%E6%96%A4%E5%8D%96&sa=fyb_news"
+      "url": "https://www.toutiao.com/trending/7683943546142871103/"
     }
   ]
 }
