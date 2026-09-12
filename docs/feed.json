@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-09-12T13:13:50.240Z",
+  "generatedAt": "2026-09-12T16:37:11.117Z",
   "fields": {
     "society": "社会",
     "economy": "经济",
@@ -8,7 +8,7 @@
   "feed": [
     {
       "id": "evt-00000000",
-      "title": "宜宾一镇干部否认推女子入厕强奸，警方复核称“有犯罪事实”",
+      "title": "“红通人员”曾能贵被引渡回国",
       "category": "society",
       "hotScore": 0.85,
       "freshness": 0.9999,
@@ -19,11 +19,11 @@
           "channel": "thepaper",
           "rank": 1,
           "hot": 0,
-          "url": "https://www.thepaper.cn/newsDetail_forward_34052333"
+          "url": "https://www.thepaper.cn/newsDetail_forward_34057588"
         }
       ],
       "summary": "",
-      "url": "https://www.thepaper.cn/newsDetail_forward_34052333"
+      "url": "https://www.thepaper.cn/newsDetail_forward_34057588"
     },
     {
       "id": "evt-20270000",
@@ -37,7 +37,7 @@
         {
           "channel": "toutiao",
           "rank": 1,
-          "hot": 7402773,
+          "hot": 9260873,
           "url": "https://www.toutiao.com/trending/7684437120370851883/"
         }
       ],
@@ -45,70 +45,13 @@
       "url": "https://www.toutiao.com/trending/7684437120370851883/"
     },
     {
-      "id": "evt-330n0000",
-      "title": "330万粉丝的“恩佳N”直播间“神操作”：荒唐鼓吹抑菌泡腾片能让人年轻15岁",
-      "category": "society",
-      "hotScore": 0.7225,
-      "freshness": 0.9999,
-      "crossSource": 0.6309,
-      "totalScore": 0.7783,
-      "sources": [
-        {
-          "channel": "thepaper",
-          "rank": 4,
-          "hot": 0,
-          "url": "https://www.thepaper.cn/newsDetail_forward_34044915"
-        }
-      ],
-      "summary": "",
-      "url": "https://www.thepaper.cn/newsDetail_forward_34044915"
-    },
-    {
-      "id": "evt-18000000",
-      "title": "支付宝回应1.8元可伪造上亿转账截图",
-      "category": "society",
-      "hotScore": 0.7225,
-      "freshness": 0.9999,
-      "crossSource": 0.6309,
-      "totalScore": 0.7782,
-      "sources": [
-        {
-          "channel": "toutiao",
-          "rank": 4,
-          "hot": 5484109,
-          "url": "https://www.toutiao.com/trending/7684278945483997193/"
-        }
-      ],
-      "summary": "",
-      "url": "https://www.toutiao.com/trending/7684278945483997193/"
-    },
-    {
-      "id": "evt-90000000",
-      "title": "钟南山：超过90%的肺结节都属良性",
-      "category": "society",
-      "hotScore": 0.72,
-      "freshness": 1,
-      "crossSource": 0.6309,
-      "totalScore": 0.7773,
-      "sources": [
-        {
-          "channel": "baidu",
-          "rank": 3,
-          "hot": 0,
-          "url": "https://m.baidu.com/s?word=%E9%92%9F%E5%8D%97%E5%B1%B1%EF%BC%9A%E8%B6%85%E8%BF%8790%25%E7%9A%84%E8%82%BA%E7%BB%93%E8%8A%82%E9%83%BD%E5%B1%9E%E8%89%AF%E6%80%A7&sa=fyb_news"
-        }
-      ],
-      "summary": "",
-      "url": "https://m.baidu.com/s?word=%E9%92%9F%E5%8D%97%E5%B1%B1%EF%BC%9A%E8%B6%85%E8%BF%8790%25%E7%9A%84%E8%82%BA%E7%BB%93%E8%8A%82%E9%83%BD%E5%B1%9E%E8%89%AF%E6%80%A7&sa=fyb_news"
-    },
-    {
-      "id": "evt-chi00000",
-      "title": "多车队宣布永久退出 China GT，上海站赛车起火救援不力带来的影响有多大？业内怎么看？",
+      "id": "evt-lpl20260",
+      "title": "LPL 2026 赛季败者组决赛 AL 3:2 淘汰 iG 晋级总决赛，如何评价这场比赛？",
       "category": "society",
       "hotScore": 0.7125,
       "freshness": 0.9999,
       "crossSource": 0.6309,
-      "totalScore": 0.7742,
+      "totalScore": 0.7743,
       "sources": [
         {
           "channel": "zhihu",
@@ -121,8 +64,27 @@
       "url": ""
     },
     {
-      "id": "evt-10000000",
-      "title": "“永乐大典”1元起拍：未鉴定真伪",
+      "id": "evt-330n0000",
+      "title": "330万粉丝的“恩佳N”直播间“神操作”：荒唐鼓吹抑菌泡腾片能让人年轻15岁",
+      "category": "society",
+      "hotScore": 0.68,
+      "freshness": 0.9999,
+      "crossSource": 0.6309,
+      "totalScore": 0.7613,
+      "sources": [
+        {
+          "channel": "thepaper",
+          "rank": 5,
+          "hot": 0,
+          "url": "https://www.thepaper.cn/newsDetail_forward_34044915"
+        }
+      ],
+      "summary": "",
+      "url": "https://www.thepaper.cn/newsDetail_forward_34044915"
+    },
+    {
+      "id": "evt-13001000",
+      "title": "1300张票1000张黄牛 罗永浩吐槽",
       "category": "society",
       "hotScore": 0.64,
       "freshness": 1,
@@ -133,58 +95,20 @@
           "channel": "baidu",
           "rank": 5,
           "hot": 0,
-          "url": "https://m.baidu.com/s?word=%E2%80%9C%E6%B0%B8%E4%B9%90%E5%A4%A7%E5%85%B8%E2%80%9D1%E5%85%83%E8%B5%B7%E6%8B%8D%EF%BC%9A%E6%9C%AA%E9%89%B4%E5%AE%9A%E7%9C%9F%E4%BC%AA&sa=fyb_news"
+          "url": "https://m.baidu.com/s?word=1300%E5%BC%A0%E7%A5%A81000%E5%BC%A0%E9%BB%84%E7%89%9B+%E7%BD%97%E6%B0%B8%E6%B5%A9%E5%90%90%E6%A7%BD&sa=fyb_news"
         }
       ],
       "summary": "",
-      "url": "https://m.baidu.com/s?word=%E2%80%9C%E6%B0%B8%E4%B9%90%E5%A4%A7%E5%85%B8%E2%80%9D1%E5%85%83%E8%B5%B7%E6%8B%8D%EF%BC%9A%E6%9C%AA%E9%89%B4%E5%AE%9A%E7%9C%9F%E4%BC%AA&sa=fyb_news"
+      "url": "https://m.baidu.com/s?word=1300%E5%BC%A0%E7%A5%A81000%E5%BC%A0%E9%BB%84%E7%89%9B+%E7%BD%97%E6%B0%B8%E6%B5%A9%E5%90%90%E6%A7%BD&sa=fyb_news"
     },
     {
-      "id": "evt-70000000",
-      "title": "男生捐全身器官救7人 遗体今日火化",
-      "category": "society",
-      "hotScore": 0.6375,
-      "freshness": 0.9999,
-      "crossSource": 0.6309,
-      "totalScore": 0.7442,
-      "sources": [
-        {
-          "channel": "toutiao",
-          "rank": 6,
-          "hot": 4490009,
-          "url": "https://www.toutiao.com/trending/7683498077277831195/"
-        }
-      ],
-      "summary": "",
-      "url": "https://www.toutiao.com/trending/7683498077277831195/"
-    },
-    {
-      "id": "evt-g2000000",
-      "title": "泽连斯基希望在G20见普京",
-      "category": "society",
-      "hotScore": 0.5525,
-      "freshness": 0.9999,
-      "crossSource": 0.6309,
-      "totalScore": 0.7102,
-      "sources": [
-        {
-          "channel": "toutiao",
-          "rank": 8,
-          "hot": 3676108,
-          "url": "https://www.toutiao.com/trending/7684602701904088630/"
-        }
-      ],
-      "summary": "",
-      "url": "https://www.toutiao.com/trending/7684602701904088630/"
-    },
-    {
-      "id": "evt-20000000",
-      "title": "家长花 20 万买房车陪读上高中儿子，称比租房划算，这笔账该怎么算？这种陪读方式值得吗？",
+      "id": "evt-20269000",
+      "title": "如何评价 2026 年 9 月米哈游《原神》7.1 版本前瞻直播【往冥府的安魂歌】？",
       "category": "society",
       "hotScore": 0.525,
       "freshness": 0.9999,
       "crossSource": 0.6309,
-      "totalScore": 0.6992,
+      "totalScore": 0.6993,
       "sources": [
         {
           "channel": "zhihu",
@@ -197,8 +121,46 @@
       "url": ""
     },
     {
-      "id": "evt-15300000",
-      "title": "15人合买彩票中3000万港元起纠纷",
+      "id": "evt-iphone18pro",
+      "title": "iPhone18Pro以旧换新政策",
+      "category": "society",
+      "hotScore": 0.52,
+      "freshness": 1,
+      "crossSource": 0.6309,
+      "totalScore": 0.6973,
+      "sources": [
+        {
+          "channel": "baidu",
+          "rank": 8,
+          "hot": 0,
+          "url": "https://m.baidu.com/s?word=iPhone18Pro%E4%BB%A5%E6%97%A7%E6%8D%A2%E6%96%B0%E6%94%BF%E7%AD%96&sa=fyb_news"
+        }
+      ],
+      "summary": "",
+      "url": "https://m.baidu.com/s?word=iPhone18Pro%E4%BB%A5%E6%97%A7%E6%8D%A2%E6%96%B0%E6%94%BF%E7%AD%96&sa=fyb_news"
+    },
+    {
+      "id": "evt-25000000",
+      "title": "马上评｜烧烤店2月内被5部门检查15次？这件事一定要查清",
+      "category": "society",
+      "hotScore": 0.51,
+      "freshness": 0.9999,
+      "crossSource": 0.6309,
+      "totalScore": 0.6933,
+      "sources": [
+        {
+          "channel": "thepaper",
+          "rank": 9,
+          "hot": 0,
+          "url": "https://www.thepaper.cn/newsDetail_forward_34056831"
+        }
+      ],
+      "summary": "",
+      "url": "https://www.thepaper.cn/newsDetail_forward_34056831"
+    },
+    {
+      "id": "evt-18000000",
+      "title": "支付宝回应1.8元可伪造上亿转账截图",
       "category": "society",
       "hotScore": 0.51,
       "freshness": 0.9999,
@@ -208,40 +170,21 @@
         {
           "channel": "toutiao",
           "rank": 9,
-          "hot": 3326280,
-          "url": "https://www.toutiao.com/trending/7684586058570337843/"
+          "hot": 4161178,
+          "url": "https://www.toutiao.com/trending/7684278945483997193/"
         }
       ],
       "summary": "",
-      "url": "https://www.toutiao.com/trending/7684586058570337843/"
-    },
-    {
-      "id": "evt-25000000",
-      "title": "马上评｜烧烤店2月内被5部门检查15次？这件事一定要查清",
-      "category": "society",
-      "hotScore": 0.4675,
-      "freshness": 0.9999,
-      "crossSource": 0.6309,
-      "totalScore": 0.6763,
-      "sources": [
-        {
-          "channel": "thepaper",
-          "rank": 10,
-          "hot": 0,
-          "url": "https://www.thepaper.cn/newsDetail_forward_34056831"
-        }
-      ],
-      "summary": "",
-      "url": "https://www.thepaper.cn/newsDetail_forward_34056831"
+      "url": "https://www.toutiao.com/trending/7684278945483997193/"
     },
     {
       "id": "evt-deepseek",
-      "title": "如何看待 DeepSeek V4 PRO 9 月 14 日之后继续提供服务？",
+      "title": "如何评价 DeepSeek 灰度测试语音对话，意味着什么？",
       "category": "society",
       "hotScore": 0.45,
       "freshness": 0.9999,
       "crossSource": 0.6309,
-      "totalScore": 0.6692,
+      "totalScore": 0.6693,
       "sources": [
         {
           "channel": "zhihu",
@@ -252,25 +195,6 @@
       ],
       "summary": "",
       "url": ""
-    },
-    {
-      "id": "evt-13001000",
-      "title": "1300张票1000张黄牛 罗永浩吐槽",
-      "category": "society",
-      "hotScore": 0.44,
-      "freshness": 1,
-      "crossSource": 0.6309,
-      "totalScore": 0.6653,
-      "sources": [
-        {
-          "channel": "baidu",
-          "rank": 10,
-          "hot": 0,
-          "url": "https://m.baidu.com/s?word=1300%E5%BC%A0%E7%A5%A81000%E5%BC%A0%E9%BB%84%E7%89%9B+%E7%BD%97%E6%B0%B8%E6%B5%A9%E5%90%90%E6%A7%BD&sa=fyb_news"
-        }
-      ],
-      "summary": "",
-      "url": "https://m.baidu.com/s?word=1300%E5%BC%A0%E7%A5%A81000%E5%BC%A0%E9%BB%84%E7%89%9B+%E7%BD%97%E6%B0%B8%E6%B5%A9%E5%90%90%E6%A7%BD&sa=fyb_news"
     }
   ]
 }
