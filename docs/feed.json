@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-09-12T19:51:04.845Z",
+  "generatedAt": "2026-09-12T21:48:20.543Z",
   "fields": {
     "society": "社会",
     "economy": "经济",
@@ -18,7 +18,7 @@
         {
           "channel": "toutiao",
           "rank": 1,
-          "hot": 9430034,
+          "hot": 10330686,
           "url": "https://www.toutiao.com/trending/7684437120370851883/"
         }
       ],
@@ -48,14 +48,14 @@
       "id": "evt-lpl20260",
       "title": "LPL 2026 赛季败者组决赛 AL 3:2 淘汰 iG 晋级总决赛，如何评价这场比赛？",
       "category": "society",
-      "hotScore": 0.7125,
+      "hotScore": 0.75,
       "freshness": 1,
       "crossSource": 0.6309,
-      "totalScore": 0.7743,
+      "totalScore": 0.7893,
       "sources": [
         {
           "channel": "zhihu",
-          "rank": 2,
+          "rank": 1,
           "hot": 0,
           "url": ""
         }
@@ -81,6 +81,25 @@
       ],
       "summary": "",
       "url": "https://www.thepaper.cn/newsDetail_forward_34044915"
+    },
+    {
+      "id": "evt-13000000",
+      "title": "网友爆料付航脱口秀 1300 张门票有一千张黄牛票，检票时强实名导致 80% 观众进不了，反映了哪些市场乱象？",
+      "category": "society",
+      "hotScore": 0.675,
+      "freshness": 1,
+      "crossSource": 0.6309,
+      "totalScore": 0.7593,
+      "sources": [
+        {
+          "channel": "zhihu",
+          "rank": 3,
+          "hot": 0,
+          "url": ""
+        }
+      ],
+      "summary": "",
+      "url": ""
     },
     {
       "id": "evt-13001000",
@@ -113,7 +132,7 @@
         {
           "channel": "toutiao",
           "rank": 7,
-          "hot": 5175312,
+          "hot": 5669601,
           "url": "https://www.toutiao.com/trending/7684516216882335275/"
         }
       ],
@@ -121,17 +140,17 @@
       "url": "https://www.toutiao.com/trending/7684516216882335275/"
     },
     {
-      "id": "evt-deepseek",
-      "title": "如何评价 DeepSeek 灰度测试语音对话，意味着什么？",
+      "id": "evt-20000000",
+      "title": "世卫预警全球癌症病例 2050 年可能激增 67%，将上升至近 3500 万例，这意味着什么？有哪些预防措施？",
       "category": "society",
-      "hotScore": 0.525,
+      "hotScore": 0.5625,
       "freshness": 1,
       "crossSource": 0.6309,
-      "totalScore": 0.6993,
+      "totalScore": 0.7143,
       "sources": [
         {
           "channel": "zhihu",
-          "rank": 7,
+          "rank": 6,
           "hot": 0,
           "url": ""
         }
@@ -143,14 +162,14 @@
       "id": "evt-iphone18pro",
       "title": "iPhone18Pro以旧换新政策",
       "category": "society",
-      "hotScore": 0.52,
+      "hotScore": 0.56,
       "freshness": 1,
       "crossSource": 0.6309,
-      "totalScore": 0.6973,
+      "totalScore": 0.7133,
       "sources": [
         {
           "channel": "baidu",
-          "rank": 8,
+          "rank": 7,
           "hot": 0,
           "url": "https://m.baidu.com/s?word=iPhone18Pro%E4%BB%A5%E6%97%A7%E6%8D%A2%E6%96%B0%E6%94%BF%E7%AD%96&sa=fyb_news"
         }
@@ -178,8 +197,8 @@
       "url": "https://www.thepaper.cn/newsDetail_forward_34056831"
     },
     {
-      "id": "evt-20000000",
-      "title": "世卫预警全球癌症病例 2050 年可能激增 67%，将上升至近 3500 万例，这意味着什么？有哪些预防措施？",
+      "id": "evt-deepseek",
+      "title": "如何评价 DeepSeek 灰度测试语音对话，意味着什么？",
       "category": "society",
       "hotScore": 0.4875,
       "freshness": 1,
@@ -195,50 +214,6 @@
       ],
       "summary": "",
       "url": ""
-    },
-    {
-      "id": "evt-iphoneduo9",
-      "title": "iPhone Duo炒到9万 黄牛贷款欲囤货",
-      "category": "society",
-      "hotScore": 0.2,
-      "freshness": 0.9999,
-      "crossSource": 1,
-      "totalScore": 0.68,
-      "sources": [
-        {
-          "channel": "toutiao",
-          "rank": 18,
-          "hot": 1722711,
-          "url": "https://www.toutiao.com/trending/7684612108125736484/"
-        },
-        {
-          "channel": "baidu",
-          "rank": 16,
-          "hot": 0,
-          "url": "https://m.baidu.com/s?word=iPhone+Duo%E7%82%92%E5%88%B09%E4%B8%87+%E9%BB%84%E7%89%9B%E8%B4%B7%E6%AC%BE%E6%AC%B2%E5%9B%A4%E8%B4%A7&sa=fyb_news"
-        }
-      ],
-      "summary": "",
-      "url": "https://www.toutiao.com/trending/7684612108125736484/"
-    },
-    {
-      "id": "evt-18000000",
-      "title": "支付宝回应1.8元可伪造上亿转账截图",
-      "category": "society",
-      "hotScore": 0.4675,
-      "freshness": 0.9999,
-      "crossSource": 0.6309,
-      "totalScore": 0.6763,
-      "sources": [
-        {
-          "channel": "toutiao",
-          "rank": 10,
-          "hot": 3833966,
-          "url": "https://www.toutiao.com/trending/7684278945483997193/"
-        }
-      ],
-      "summary": "",
-      "url": "https://www.toutiao.com/trending/7684278945483997193/"
     }
   ]
 }
