@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-09-12T02:05:27.818Z",
+  "generatedAt": "2026-09-12T08:12:40.143Z",
   "fields": {
     "society": "社会",
     "economy": "经济",
@@ -7,8 +7,8 @@
   },
   "feed": [
     {
-      "id": "evt-13500000",
-      "title": "公司中秋国庆连放13.5天发2000元",
+      "id": "evt-00000000",
+      "title": "北大硕士因本科非北大年薪被降5万",
       "category": "society",
       "hotScore": 0.85,
       "freshness": 0.9999,
@@ -18,56 +18,37 @@
         {
           "channel": "toutiao",
           "rank": 1,
-          "hot": 12278132,
-          "url": "https://www.toutiao.com/trending/7683415572282343487/"
+          "hot": 10852262,
+          "url": "https://www.toutiao.com/trending/7684481010802016292/"
         },
         {
           "channel": "baidu",
-          "rank": 18,
+          "rank": 16,
           "hot": 0,
-          "url": "https://m.baidu.com/s?word=%E5%85%AC%E5%8F%B8%E4%B8%AD%E7%A7%8B%E5%9B%BD%E5%BA%86%E8%BF%9E%E6%94%BE13.5%E5%A4%A9%E5%8F%912000%E5%85%83&sa=fyb_news"
+          "url": "https://m.baidu.com/s?word=%E5%8C%97%E5%A4%A7%E7%A1%95%E5%A3%AB%E5%9B%A0%E6%9C%AC%E7%A7%91%E9%9D%9E%E5%8C%97%E5%A4%A7%E5%B9%B4%E8%96%AA%E8%A2%AB%E9%99%8D5%E4%B8%87&sa=fyb_news"
         }
       ],
       "summary": "",
-      "url": "https://www.toutiao.com/trending/7683415572282343487/"
+      "url": "https://www.toutiao.com/trending/7684481010802016292/"
     },
     {
-      "id": "evt-00000000",
-      "title": "男子虚构伪造“停止资助后遭威胁”，甘肃嘉峪关警方发布通报",
+      "id": "evt-81000000",
+      "title": "中国每8个新生儿就有1个在广东",
       "category": "society",
-      "hotScore": 0.85,
+      "hotScore": 0.76,
       "freshness": 1,
       "crossSource": 0.6309,
-      "totalScore": 0.8293,
+      "totalScore": 0.7933,
       "sources": [
         {
-          "channel": "thepaper",
-          "rank": 1,
-          "hot": 0,
-          "url": "https://www.thepaper.cn/newsDetail_forward_34052214"
-        }
-      ],
-      "summary": "",
-      "url": "https://www.thepaper.cn/newsDetail_forward_34052214"
-    },
-    {
-      "id": "evt-80000000",
-      "title": "打假网红铁头一审获刑8年",
-      "category": "society",
-      "hotScore": 0.8075,
-      "freshness": 0.9999,
-      "crossSource": 0.6309,
-      "totalScore": 0.8123,
-      "sources": [
-        {
-          "channel": "toutiao",
+          "channel": "baidu",
           "rank": 2,
-          "hot": 11109713,
-          "url": "https://www.toutiao.com/trending/7684220300552195622/"
+          "hot": 0,
+          "url": "https://m.baidu.com/s?word=%E4%B8%AD%E5%9B%BD%E6%AF%8F8%E4%B8%AA%E6%96%B0%E7%94%9F%E5%84%BF%E5%B0%B1%E6%9C%891%E4%B8%AA%E5%9C%A8%E5%B9%BF%E4%B8%9C&sa=fyb_news"
         }
       ],
       "summary": "",
-      "url": "https://www.toutiao.com/trending/7684220300552195622/"
+      "url": "https://m.baidu.com/s?word=%E4%B8%AD%E5%9B%BD%E6%AF%8F8%E4%B8%AA%E6%96%B0%E7%94%9F%E5%84%BF%E5%B0%B1%E6%9C%891%E4%B8%AA%E5%9C%A8%E5%B9%BF%E4%B8%9C&sa=fyb_news"
     },
     {
       "id": "evt-91125000",
@@ -89,55 +70,17 @@
       "url": "https://www.thepaper.cn/newsDetail_forward_34050948"
     },
     {
-      "id": "evt-deepseek",
-      "title": "DeepSeek 开口说话",
+      "id": "evt-ai000000",
+      "title": "陶哲轩发文称「AI 正杀死数学百年开放传统」，你如何看待这一观点？",
       "category": "society",
-      "hotScore": 0.72,
-      "freshness": 0.9999,
+      "hotScore": 0.5625,
+      "freshness": 1,
       "crossSource": 0.6309,
-      "totalScore": 0.7773,
-      "sources": [
-        {
-          "channel": "baidu",
-          "rank": 3,
-          "hot": 0,
-          "url": "https://m.baidu.com/s?word=DeepSeek+%E5%BC%80%E5%8F%A3%E8%AF%B4%E8%AF%9D&sa=fyb_news"
-        }
-      ],
-      "summary": "",
-      "url": "https://m.baidu.com/s?word=DeepSeek+%E5%BC%80%E5%8F%A3%E8%AF%B4%E8%AF%9D&sa=fyb_news"
-    },
-    {
-      "id": "evt-20300000",
-      "title": "2030年进入世界汽车强国行列",
-      "category": "society",
-      "hotScore": 0.68,
-      "freshness": 0.9999,
-      "crossSource": 0.6309,
-      "totalScore": 0.7613,
-      "sources": [
-        {
-          "channel": "baidu",
-          "rank": 4,
-          "hot": 0,
-          "url": "https://m.baidu.com/s?word=2030%E5%B9%B4%E8%BF%9B%E5%85%A5%E4%B8%96%E7%95%8C%E6%B1%BD%E8%BD%A6%E5%BC%BA%E5%9B%BD%E8%A1%8C%E5%88%97&sa=fyb_news"
-        }
-      ],
-      "summary": "",
-      "url": "https://m.baidu.com/s?word=2030%E5%B9%B4%E8%BF%9B%E5%85%A5%E4%B8%96%E7%95%8C%E6%B1%BD%E8%BD%A6%E5%BC%BA%E5%9B%BD%E8%A1%8C%E5%88%97&sa=fyb_news"
-    },
-    {
-      "id": "evt-90000000",
-      "title": "如何看待华为麒麟芯片 9050pro？",
-      "category": "society",
-      "hotScore": 0.6375,
-      "freshness": 0.9999,
-      "crossSource": 0.6309,
-      "totalScore": 0.7443,
+      "totalScore": 0.7143,
       "sources": [
         {
           "channel": "zhihu",
-          "rank": 4,
+          "rank": 6,
           "hot": 0,
           "url": ""
         }
@@ -146,11 +89,11 @@
       "url": ""
     },
     {
-      "id": "evt-10100000",
-      "title": "“10台手机卖不出1台折叠屏”",
+      "id": "evt-20000000",
+      "title": "女子花20万买房车陪读上高中儿子",
       "category": "society",
       "hotScore": 0.56,
-      "freshness": 0.9999,
+      "freshness": 1,
       "crossSource": 0.6309,
       "totalScore": 0.7133,
       "sources": [
@@ -158,43 +101,81 @@
           "channel": "baidu",
           "rank": 7,
           "hot": 0,
-          "url": "https://m.baidu.com/s?word=%E2%80%9C10%E5%8F%B0%E6%89%8B%E6%9C%BA%E5%8D%96%E4%B8%8D%E5%87%BA1%E5%8F%B0%E6%8A%98%E5%8F%A0%E5%B1%8F%E2%80%9D&sa=fyb_news"
+          "url": "https://m.baidu.com/s?word=%E5%A5%B3%E5%AD%90%E8%8A%B120%E4%B8%87%E4%B9%B0%E6%88%BF%E8%BD%A6%E9%99%AA%E8%AF%BB%E4%B8%8A%E9%AB%98%E4%B8%AD%E5%84%BF%E5%AD%90&sa=fyb_news"
         }
       ],
       "summary": "",
-      "url": "https://m.baidu.com/s?word=%E2%80%9C10%E5%8F%B0%E6%89%8B%E6%9C%BA%E5%8D%96%E4%B8%8D%E5%87%BA1%E5%8F%B0%E6%8A%98%E5%8F%A0%E5%B1%8F%E2%80%9D&sa=fyb_news"
+      "url": "https://m.baidu.com/s?word=%E5%A5%B3%E5%AD%90%E8%8A%B120%E4%B8%87%E4%B9%B0%E6%88%BF%E8%BD%A6%E9%99%AA%E8%AF%BB%E4%B8%8A%E9%AB%98%E4%B8%AD%E5%84%BF%E5%AD%90&sa=fyb_news"
     },
     {
-      "id": "evt-20000000",
-      "title": "2千块的手机要彻底消失了吗",
+      "id": "evt-app00000",
+      "title": "支付宝回应出现假App",
       "category": "society",
-      "hotScore": 0.4675,
+      "hotScore": 0.5525,
       "freshness": 0.9999,
       "crossSource": 0.6309,
-      "totalScore": 0.6763,
+      "totalScore": 0.7103,
       "sources": [
         {
           "channel": "toutiao",
-          "rank": 10,
-          "hot": 4991916,
-          "url": "https://www.toutiao.com/trending/7684275052006608427/"
+          "rank": 8,
+          "hot": 5389073,
+          "url": "https://www.toutiao.com/trending/7684242138590252607/"
         }
       ],
       "summary": "",
-      "url": "https://www.toutiao.com/trending/7684275052006608427/"
+      "url": "https://www.toutiao.com/trending/7684242138590252607/"
     },
     {
-      "id": "evt-f1000000",
-      "title": "为什么 F1 的马修是志愿工作却可以保质保量，中国赛车比赛能模仿这种「志愿」模式，而不是层层转包吗？",
+      "id": "evt-19100000",
+      "title": "凡人修仙传动漫 191 集观众满意吗？",
       "category": "society",
-      "hotScore": 0.45,
-      "freshness": 0.9999,
+      "hotScore": 0.525,
+      "freshness": 1,
       "crossSource": 0.6309,
-      "totalScore": 0.6693,
+      "totalScore": 0.6993,
       "sources": [
         {
           "channel": "zhihu",
+          "rank": 7,
+          "hot": 0,
+          "url": ""
+        }
+      ],
+      "summary": "",
+      "url": ""
+    },
+    {
+      "id": "evt-330n0000",
+      "title": "330万粉丝的“恩佳N”直播间“神操作”：荒唐鼓吹抑菌泡腾片能让人年轻15岁",
+      "category": "society",
+      "hotScore": 0.51,
+      "freshness": 1,
+      "crossSource": 0.6309,
+      "totalScore": 0.6933,
+      "sources": [
+        {
+          "channel": "thepaper",
           "rank": 9,
+          "hot": 0,
+          "url": "https://www.thepaper.cn/newsDetail_forward_34044915"
+        }
+      ],
+      "summary": "",
+      "url": "https://www.thepaper.cn/newsDetail_forward_34044915"
+    },
+    {
+      "id": "evt-50000000",
+      "title": "河南一高中为 50 名教师发 180 万高考奖励资金，对教师积极性和教育质量带来哪些影响？值得推广吗？",
+      "category": "society",
+      "hotScore": 0.4875,
+      "freshness": 1,
+      "crossSource": 0.6309,
+      "totalScore": 0.6843,
+      "sources": [
+        {
+          "channel": "zhihu",
+          "rank": 8,
           "hot": 0,
           "url": ""
         }
