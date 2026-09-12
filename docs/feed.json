@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-09-11T23:40:44.908Z",
+  "generatedAt": "2026-09-12T02:05:27.818Z",
   "fields": {
     "society": "社会",
     "economy": "经济",
@@ -7,23 +7,29 @@
   },
   "feed": [
     {
-      "id": "evt-95400000",
-      "title": "胡塞称9天攻占5400平方公里地区",
+      "id": "evt-13500000",
+      "title": "公司中秋国庆连放13.5天发2000元",
       "category": "society",
       "hotScore": 0.85,
       "freshness": 0.9999,
-      "crossSource": 0.6309,
-      "totalScore": 0.8293,
+      "crossSource": 1,
+      "totalScore": 0.94,
       "sources": [
         {
           "channel": "toutiao",
           "rank": 1,
-          "hot": 11205367,
-          "url": "https://www.toutiao.com/trending/7684242138590088767/"
+          "hot": 12278132,
+          "url": "https://www.toutiao.com/trending/7683415572282343487/"
+        },
+        {
+          "channel": "baidu",
+          "rank": 18,
+          "hot": 0,
+          "url": "https://m.baidu.com/s?word=%E5%85%AC%E5%8F%B8%E4%B8%AD%E7%A7%8B%E5%9B%BD%E5%BA%86%E8%BF%9E%E6%94%BE13.5%E5%A4%A9%E5%8F%912000%E5%85%83&sa=fyb_news"
         }
       ],
       "summary": "",
-      "url": "https://www.toutiao.com/trending/7684242138590088767/"
+      "url": "https://www.toutiao.com/trending/7683415572282343487/"
     },
     {
       "id": "evt-00000000",
@@ -56,56 +62,12 @@
         {
           "channel": "toutiao",
           "rank": 2,
-          "hot": 10139035,
+          "hot": 11109713,
           "url": "https://www.toutiao.com/trending/7684220300552195622/"
         }
       ],
       "summary": "",
       "url": "https://www.toutiao.com/trending/7684220300552195622/"
-    },
-    {
-      "id": "evt-13500000",
-      "title": "公司中秋国庆连放13.5天发2000元",
-      "category": "society",
-      "hotScore": 0.51,
-      "freshness": 0.9999,
-      "crossSource": 1,
-      "totalScore": 0.804,
-      "sources": [
-        {
-          "channel": "toutiao",
-          "rank": 9,
-          "hot": 5034896,
-          "url": "https://www.toutiao.com/trending/7683415572282343487/"
-        },
-        {
-          "channel": "baidu",
-          "rank": 16,
-          "hot": 0,
-          "url": "https://m.baidu.com/s?word=%E5%85%AC%E5%8F%B8%E4%B8%AD%E7%A7%8B%E5%9B%BD%E5%BA%86%E8%BF%9E%E6%94%BE13.5%E5%A4%A9%E5%8F%912000%E5%85%83&sa=fyb_news"
-        }
-      ],
-      "summary": "",
-      "url": "https://www.toutiao.com/trending/7683415572282343487/"
-    },
-    {
-      "id": "evt-24000000",
-      "title": "一天已经不足24小时了",
-      "category": "society",
-      "hotScore": 0.76,
-      "freshness": 0.9999,
-      "crossSource": 0.6309,
-      "totalScore": 0.7933,
-      "sources": [
-        {
-          "channel": "baidu",
-          "rank": 2,
-          "hot": 0,
-          "url": "https://m.baidu.com/s?word=%E4%B8%80%E5%A4%A9%E5%B7%B2%E7%BB%8F%E4%B8%8D%E8%B6%B324%E5%B0%8F%E6%97%B6%E4%BA%86&sa=fyb_news"
-        }
-      ],
-      "summary": "",
-      "url": "https://m.baidu.com/s?word=%E4%B8%80%E5%A4%A9%E5%B7%B2%E7%BB%8F%E4%B8%8D%E8%B6%B324%E5%B0%8F%E6%97%B6%E4%BA%86&sa=fyb_news"
     },
     {
       "id": "evt-91125000",
@@ -127,6 +89,25 @@
       "url": "https://www.thepaper.cn/newsDetail_forward_34050948"
     },
     {
+      "id": "evt-deepseek",
+      "title": "DeepSeek 开口说话",
+      "category": "society",
+      "hotScore": 0.72,
+      "freshness": 0.9999,
+      "crossSource": 0.6309,
+      "totalScore": 0.7773,
+      "sources": [
+        {
+          "channel": "baidu",
+          "rank": 3,
+          "hot": 0,
+          "url": "https://m.baidu.com/s?word=DeepSeek+%E5%BC%80%E5%8F%A3%E8%AF%B4%E8%AF%9D&sa=fyb_news"
+        }
+      ],
+      "summary": "",
+      "url": "https://m.baidu.com/s?word=DeepSeek+%E5%BC%80%E5%8F%A3%E8%AF%B4%E8%AF%9D&sa=fyb_news"
+    },
+    {
       "id": "evt-20300000",
       "title": "2030年进入世界汽车强国行列",
       "category": "society",
@@ -146,27 +127,8 @@
       "url": "https://m.baidu.com/s?word=2030%E5%B9%B4%E8%BF%9B%E5%85%A5%E4%B8%96%E7%95%8C%E6%B1%BD%E8%BD%A6%E5%BC%BA%E5%9B%BD%E8%A1%8C%E5%88%97&sa=fyb_news"
     },
     {
-      "id": "evt-50000000",
-      "title": "河南一高中为50余名教师发180万奖金",
-      "category": "society",
-      "hotScore": 0.64,
-      "freshness": 0.9999,
-      "crossSource": 0.6309,
-      "totalScore": 0.7453,
-      "sources": [
-        {
-          "channel": "baidu",
-          "rank": 5,
-          "hot": 0,
-          "url": "https://m.baidu.com/s?word=%E6%B2%B3%E5%8D%97%E4%B8%80%E9%AB%98%E4%B8%AD%E4%B8%BA50%E4%BD%99%E5%90%8D%E6%95%99%E5%B8%88%E5%8F%91180%E4%B8%87%E5%A5%96%E9%87%91&sa=fyb_news"
-        }
-      ],
-      "summary": "",
-      "url": "https://m.baidu.com/s?word=%E6%B2%B3%E5%8D%97%E4%B8%80%E9%AB%98%E4%B8%AD%E4%B8%BA50%E4%BD%99%E5%90%8D%E6%95%99%E5%B8%88%E5%8F%91180%E4%B8%87%E5%A5%96%E9%87%91&sa=fyb_news"
-    },
-    {
-      "id": "evt-40000000",
-      "title": "起床后这4个表现提示你血脂可能超标",
+      "id": "evt-90000000",
+      "title": "如何看待华为麒麟芯片 9050pro？",
       "category": "society",
       "hotScore": 0.6375,
       "freshness": 0.9999,
@@ -174,27 +136,27 @@
       "totalScore": 0.7443,
       "sources": [
         {
-          "channel": "toutiao",
-          "rank": 6,
-          "hot": 6796398,
-          "url": "https://www.toutiao.com/trending/7684097757912875062/"
+          "channel": "zhihu",
+          "rank": 4,
+          "hot": 0,
+          "url": ""
         }
       ],
       "summary": "",
-      "url": "https://www.toutiao.com/trending/7684097757912875062/"
+      "url": ""
     },
     {
       "id": "evt-10100000",
       "title": "“10台手机卖不出1台折叠屏”",
       "category": "society",
-      "hotScore": 0.6,
+      "hotScore": 0.56,
       "freshness": 0.9999,
       "crossSource": 0.6309,
-      "totalScore": 0.7293,
+      "totalScore": 0.7133,
       "sources": [
         {
           "channel": "baidu",
-          "rank": 6,
+          "rank": 7,
           "hot": 0,
           "url": "https://m.baidu.com/s?word=%E2%80%9C10%E5%8F%B0%E6%89%8B%E6%9C%BA%E5%8D%96%E4%B8%8D%E5%87%BA1%E5%8F%B0%E6%8A%98%E5%8F%A0%E5%B1%8F%E2%80%9D&sa=fyb_news"
         }
@@ -203,17 +165,36 @@
       "url": "https://m.baidu.com/s?word=%E2%80%9C10%E5%8F%B0%E6%89%8B%E6%9C%BA%E5%8D%96%E4%B8%8D%E5%87%BA1%E5%8F%B0%E6%8A%98%E5%8F%A0%E5%B1%8F%E2%80%9D&sa=fyb_news"
     },
     {
-      "id": "evt-kimik28p",
-      "title": "月之暗面 Kimi K2.8 Preview 模型 9 月 11 日上线 kimi code，如何评价其表现？",
+      "id": "evt-20000000",
+      "title": "2千块的手机要彻底消失了吗",
       "category": "society",
-      "hotScore": 0.5625,
+      "hotScore": 0.4675,
       "freshness": 0.9999,
       "crossSource": 0.6309,
-      "totalScore": 0.7143,
+      "totalScore": 0.6763,
+      "sources": [
+        {
+          "channel": "toutiao",
+          "rank": 10,
+          "hot": 4991916,
+          "url": "https://www.toutiao.com/trending/7684275052006608427/"
+        }
+      ],
+      "summary": "",
+      "url": "https://www.toutiao.com/trending/7684275052006608427/"
+    },
+    {
+      "id": "evt-f1000000",
+      "title": "为什么 F1 的马修是志愿工作却可以保质保量，中国赛车比赛能模仿这种「志愿」模式，而不是层层转包吗？",
+      "category": "society",
+      "hotScore": 0.45,
+      "freshness": 0.9999,
+      "crossSource": 0.6309,
+      "totalScore": 0.6693,
       "sources": [
         {
           "channel": "zhihu",
-          "rank": 6,
+          "rank": 9,
           "hot": 0,
           "url": ""
         }
