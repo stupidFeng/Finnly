@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-09-13T08:37:06.835Z",
+  "generatedAt": "2026-09-13T13:58:03.545Z",
   "fields": {
     "society": "社会",
     "economy": "经济",
@@ -8,73 +8,136 @@
   "feed": [
     {
       "id": "evt-00000000",
-      "title": "胖东来新招工准则：合同四年、不续签",
+      "title": "央视知名主持人敬一丹去世",
       "category": "society",
-      "hotScore": 0.8075,
+      "hotScore": 0.765,
       "freshness": 0.9999,
       "crossSource": 1,
-      "totalScore": 0.923,
+      "totalScore": 0.906,
       "sources": [
         {
           "channel": "toutiao",
-          "rank": 2,
-          "hot": 63057977,
-          "url": "https://www.toutiao.com/trending/7684433436123316267/"
+          "rank": 20,
+          "hot": 14389673,
+          "url": "https://www.toutiao.com/trending/7684800838530809897/"
+        },
+        {
+          "channel": "thepaper",
+          "rank": 3,
+          "hot": 0,
+          "url": "https://www.thepaper.cn/newsDetail_forward_34059886"
+        }
+      ],
+      "summary": "",
+      "url": "https://www.toutiao.com/trending/7684800838530809897/"
+    },
+    {
+      "id": "evt-15100000",
+      "title": "烧烤店被检查15次：系1人投诉116次",
+      "category": "society",
+      "hotScore": 0.72,
+      "freshness": 0.9999,
+      "crossSource": 1,
+      "totalScore": 0.888,
+      "sources": [
+        {
+          "channel": "toutiao",
+          "rank": 5,
+          "hot": 64490044,
+          "url": "https://www.toutiao.com/trending/7684515215014199338/"
         },
         {
           "channel": "baidu",
           "rank": 3,
           "hot": 0,
-          "url": "https://m.baidu.com/s?word=%E8%83%96%E4%B8%9C%E6%9D%A5%E6%96%B0%E6%8B%9B%E5%B7%A5%E5%87%86%E5%88%99%EF%BC%9A%E5%90%88%E5%90%8C%E5%9B%9B%E5%B9%B4%E3%80%81%E4%B8%8D%E7%BB%AD%E7%AD%BE&sa=fyb_news"
+          "url": "https://m.baidu.com/s?word=%E7%83%A7%E7%83%A4%E5%BA%97%E8%A2%AB%E6%A3%80%E6%9F%A515%E6%AC%A1%EF%BC%9A%E7%B3%BB1%E4%BA%BA%E6%8A%95%E8%AF%89116%E6%AC%A1&sa=fyb_news"
+        }
+      ],
+      "summary": "",
+      "url": "https://www.toutiao.com/trending/7684515215014199338/"
+    },
+    {
+      "id": "evt-40000000",
+      "title": "胖东来新招工准则：合同4年不续签",
+      "category": "society",
+      "hotScore": 0.8075,
+      "freshness": 0.9999,
+      "crossSource": 0.6309,
+      "totalScore": 0.8123,
+      "sources": [
+        {
+          "channel": "toutiao",
+          "rank": 2,
+          "hot": 87052454,
+          "url": "https://www.toutiao.com/trending/7684433436123316267/"
         }
       ],
       "summary": "",
       "url": "https://www.toutiao.com/trending/7684433436123316267/"
     },
     {
-      "id": "evt-20000000",
-      "title": "高校校长公布自己用了20年的手机号",
+      "id": "evt-iphone18pr",
+      "title": "苹果iPhone 18 Pro系列预售：首日到店取货名额迅速抢光，冰川蓝配色最受欢迎",
       "category": "society",
-      "hotScore": 0.76,
+      "hotScore": 0.7225,
       "freshness": 1,
       "crossSource": 0.6309,
-      "totalScore": 0.7933,
-      "sources": [
-        {
-          "channel": "baidu",
-          "rank": 2,
-          "hot": 0,
-          "url": "https://m.baidu.com/s?word=%E9%AB%98%E6%A0%A1%E6%A0%A1%E9%95%BF%E5%85%AC%E5%B8%83%E8%87%AA%E5%B7%B1%E7%94%A8%E4%BA%8620%E5%B9%B4%E7%9A%84%E6%89%8B%E6%9C%BA%E5%8F%B7&sa=fyb_news"
-        }
-      ],
-      "summary": "",
-      "url": "https://m.baidu.com/s?word=%E9%AB%98%E6%A0%A1%E6%A0%A1%E9%95%BF%E5%85%AC%E5%B8%83%E8%87%AA%E5%B7%B1%E7%94%A8%E4%BA%8620%E5%B9%B4%E7%9A%84%E6%89%8B%E6%9C%BA%E5%8F%B7&sa=fyb_news"
-    },
-    {
-      "id": "evt-60000000",
-      "title": "张雪金句频出：儿子考60分就很好！年轻人要努力搬砖！",
-      "category": "society",
-      "hotScore": 0.68,
-      "freshness": 0.9999,
-      "crossSource": 0.6309,
-      "totalScore": 0.7613,
+      "totalScore": 0.7783,
       "sources": [
         {
           "channel": "thepaper",
-          "rank": 5,
+          "rank": 4,
           "hot": 0,
-          "url": "https://www.thepaper.cn/newsDetail_forward_34057697"
+          "url": "https://www.thepaper.cn/newsDetail_forward_34058192"
         }
       ],
       "summary": "",
-      "url": "https://www.thepaper.cn/newsDetail_forward_34057697"
+      "url": "https://www.thepaper.cn/newsDetail_forward_34058192"
     },
     {
-      "id": "evt-51000000",
-      "title": "关于脑出血 这5个信号有1个就要警惕",
+      "id": "evt-15000000",
+      "title": "伊朗股市单日大涨逾15万点",
+      "category": "economy",
+      "hotScore": 0.7225,
+      "freshness": 0.9999,
+      "crossSource": 0.6309,
+      "totalScore": 0.7783,
+      "sources": [
+        {
+          "channel": "toutiao",
+          "rank": 4,
+          "hot": 71272521,
+          "url": "https://www.toutiao.com/trending/7684952072471363627/"
+        }
+      ],
+      "summary": "",
+      "url": "https://www.toutiao.com/trending/7684952072471363627/"
+    },
+    {
+      "id": "evt-hyrox000",
+      "title": "HYROX 北京站比赛选手失禁仍完成比赛，比赛规则和卫生安全引争议，如何看待此事？",
+      "category": "society",
+      "hotScore": 0.7125,
+      "freshness": 0.9999,
+      "crossSource": 0.6309,
+      "totalScore": 0.7743,
+      "sources": [
+        {
+          "channel": "zhihu",
+          "rank": 2,
+          "hot": 0,
+          "url": ""
+        }
+      ],
+      "summary": "",
+      "url": ""
+    },
+    {
+      "id": "evt-ai000000",
+      "title": "一夜之间 多家顶级AI公司想踩刹车",
       "category": "society",
       "hotScore": 0.64,
-      "freshness": 1,
+      "freshness": 0.9999,
       "crossSource": 0.6309,
       "totalScore": 0.7453,
       "sources": [
@@ -82,15 +145,15 @@
           "channel": "baidu",
           "rank": 5,
           "hot": 0,
-          "url": "https://m.baidu.com/s?word=%E5%85%B3%E4%BA%8E%E8%84%91%E5%87%BA%E8%A1%80+%E8%BF%995%E4%B8%AA%E4%BF%A1%E5%8F%B7%E6%9C%891%E4%B8%AA%E5%B0%B1%E8%A6%81%E8%AD%A6%E6%83%95&sa=fyb_news"
+          "url": "https://m.baidu.com/s?word=%E4%B8%80%E5%A4%9C%E4%B9%8B%E9%97%B4+%E5%A4%9A%E5%AE%B6%E9%A1%B6%E7%BA%A7AI%E5%85%AC%E5%8F%B8%E6%83%B3%E8%B8%A9%E5%88%B9%E8%BD%A6&sa=fyb_news"
         }
       ],
       "summary": "",
-      "url": "https://m.baidu.com/s?word=%E5%85%B3%E4%BA%8E%E8%84%91%E5%87%BA%E8%A1%80+%E8%BF%995%E4%B8%AA%E4%BF%A1%E5%8F%B7%E6%9C%891%E4%B8%AA%E5%B0%B1%E8%A6%81%E8%AD%A6%E6%83%95&sa=fyb_news"
+      "url": "https://m.baidu.com/s?word=%E4%B8%80%E5%A4%9C%E4%B9%8B%E9%97%B4+%E5%A4%9A%E5%AE%B6%E9%A1%B6%E7%BA%A7AI%E5%85%AC%E5%8F%B8%E6%83%B3%E8%B8%A9%E5%88%B9%E8%BD%A6&sa=fyb_news"
     },
     {
-      "id": "evt-anthropic",
-      "title": "Anthropic 掌门人呼吁放缓 AI 模型迭代，马斯克、奥尔特曼响应，此举背后出于哪些考量？",
+      "id": "evt-14000000",
+      "title": "清朝人口为何从 1400 万迅速长到 4 亿？呈现爆发式增长，是何原因？",
       "category": "society",
       "hotScore": 0.6375,
       "freshness": 0.9999,
@@ -108,11 +171,11 @@
       "url": ""
     },
     {
-      "id": "evt-50000000",
-      "title": "全球最窄汽车 宽仅50厘米",
+      "id": "evt-60000000",
+      "title": "高校摆600余桌宴席请新生家长吃饭",
       "category": "society",
       "hotScore": 0.6,
-      "freshness": 1,
+      "freshness": 0.9999,
       "crossSource": 0.6309,
       "totalScore": 0.7293,
       "sources": [
@@ -120,87 +183,24 @@
           "channel": "baidu",
           "rank": 6,
           "hot": 0,
-          "url": "https://m.baidu.com/s?word=%E5%85%A8%E7%90%83%E6%9C%80%E7%AA%84%E6%B1%BD%E8%BD%A6+%E5%AE%BD%E4%BB%8550%E5%8E%98%E7%B1%B3&sa=fyb_news"
+          "url": "https://m.baidu.com/s?word=%E9%AB%98%E6%A0%A1%E6%91%86600%E4%BD%99%E6%A1%8C%E5%AE%B4%E5%B8%AD%E8%AF%B7%E6%96%B0%E7%94%9F%E5%AE%B6%E9%95%BF%E5%90%83%E9%A5%AD&sa=fyb_news"
         }
       ],
       "summary": "",
-      "url": "https://m.baidu.com/s?word=%E5%85%A8%E7%90%83%E6%9C%80%E7%AA%84%E6%B1%BD%E8%BD%A6+%E5%AE%BD%E4%BB%8550%E5%8E%98%E7%B1%B3&sa=fyb_news"
+      "url": "https://m.baidu.com/s?word=%E9%AB%98%E6%A0%A1%E6%91%86600%E4%BD%99%E6%A1%8C%E5%AE%B4%E5%B8%AD%E8%AF%B7%E6%96%B0%E7%94%9F%E5%AE%B6%E9%95%BF%E5%90%83%E9%A5%AD&sa=fyb_news"
     },
     {
-      "id": "evt-iphone18pr",
-      "title": "苹果iPhone 18 Pro系列预售：首日到店取货名额迅速抢光，冰川蓝配色最受欢迎",
+      "id": "evt-lpl20260",
+      "title": "LPL 2026 赛季季后赛总决赛 AL 3:1 击败 BLG 夺得总冠军，如何评价这场比赛？",
       "category": "society",
-      "hotScore": 0.595,
+      "hotScore": 0.5625,
       "freshness": 0.9999,
       "crossSource": 0.6309,
-      "totalScore": 0.7273,
-      "sources": [
-        {
-          "channel": "thepaper",
-          "rank": 7,
-          "hot": 0,
-          "url": "https://www.thepaper.cn/newsDetail_forward_34058192"
-        }
-      ],
-      "summary": "",
-      "url": "https://www.thepaper.cn/newsDetail_forward_34058192"
-    },
-    {
-      "id": "evt-46000000",
-      "title": "河北医大二院收贿46次涉1.84亿",
-      "category": "society",
-      "hotScore": 0.255,
-      "freshness": 0.9999,
-      "crossSource": 1,
-      "totalScore": 0.702,
-      "sources": [
-        {
-          "channel": "toutiao",
-          "rank": 15,
-          "hot": 17185303,
-          "url": "https://www.toutiao.com/trending/7684808085232108059/"
-        },
-        {
-          "channel": "baidu",
-          "rank": 16,
-          "hot": 0,
-          "url": "https://m.baidu.com/s?word=%E6%B2%B3%E5%8C%97%E5%8C%BB%E5%A4%A7%E4%BA%8C%E9%99%A2%E6%94%B6%E8%B4%BF46%E6%AC%A1%E6%B6%891.84%E4%BA%BF&sa=fyb_news"
-        }
-      ],
-      "summary": "",
-      "url": "https://www.toutiao.com/trending/7684808085232108059/"
-    },
-    {
-      "id": "evt-40000000",
-      "title": "黄山4岁男孩揽客走红：明天上我家吃呀",
-      "category": "society",
-      "hotScore": 0.52,
-      "freshness": 1,
-      "crossSource": 0.6309,
-      "totalScore": 0.6973,
-      "sources": [
-        {
-          "channel": "baidu",
-          "rank": 8,
-          "hot": 0,
-          "url": "https://m.baidu.com/s?word=%E9%BB%84%E5%B1%B14%E5%B2%81%E7%94%B7%E5%AD%A9%E6%8F%BD%E5%AE%A2%E8%B5%B0%E7%BA%A2%EF%BC%9A%E6%98%8E%E5%A4%A9%E4%B8%8A%E6%88%91%E5%AE%B6%E5%90%83%E5%91%80&sa=fyb_news"
-        }
-      ],
-      "summary": "",
-      "url": "https://m.baidu.com/s?word=%E9%BB%84%E5%B1%B14%E5%B2%81%E7%94%B7%E5%AD%A9%E6%8F%BD%E5%AE%A2%E8%B5%B0%E7%BA%A2%EF%BC%9A%E6%98%8E%E5%A4%A9%E4%B8%8A%E6%88%91%E5%AE%B6%E5%90%83%E5%91%80&sa=fyb_news"
-    },
-    {
-      "id": "evt-hyrox000",
-      "title": "HYROX 北京站比赛选手失禁仍完成比赛，比赛规则和卫生安全引争议，如何看待此事？",
-      "category": "society",
-      "hotScore": 0.4875,
-      "freshness": 0.9999,
-      "crossSource": 0.6309,
-      "totalScore": 0.6843,
+      "totalScore": 0.7143,
       "sources": [
         {
           "channel": "zhihu",
-          "rank": 8,
+          "rank": 6,
           "hot": 0,
           "url": ""
         }
@@ -210,10 +210,86 @@
     },
     {
       "id": "evt-10000000",
-      "title": "大学生的1个问题 敬一丹改变退休安排",
+      "title": "“打塔人”在10层楼高树上打松塔",
+      "category": "society",
+      "hotScore": 0.5525,
+      "freshness": 0.9999,
+      "crossSource": 0.6309,
+      "totalScore": 0.7103,
+      "sources": [
+        {
+          "channel": "toutiao",
+          "rank": 8,
+          "hot": 47775399,
+          "url": "https://www.toutiao.com/trending/7684647926891347974/"
+        }
+      ],
+      "summary": "",
+      "url": "https://www.toutiao.com/trending/7684647926891347974/"
+    },
+    {
+      "id": "evt-22190000",
+      "title": "22岁侄子扛行李送19岁叔叔上大学",
+      "category": "society",
+      "hotScore": 0.52,
+      "freshness": 0.9999,
+      "crossSource": 0.6309,
+      "totalScore": 0.6973,
+      "sources": [
+        {
+          "channel": "baidu",
+          "rank": 8,
+          "hot": 0,
+          "url": "https://m.baidu.com/s?word=22%E5%B2%81%E4%BE%84%E5%AD%90%E6%89%9B%E8%A1%8C%E6%9D%8E%E9%80%8119%E5%B2%81%E5%8F%94%E5%8F%94%E4%B8%8A%E5%A4%A7%E5%AD%A6&sa=fyb_news"
+        }
+      ],
+      "summary": "",
+      "url": "https://m.baidu.com/s?word=22%E5%B2%81%E4%BE%84%E5%AD%90%E6%89%9B%E8%A1%8C%E6%9D%8E%E9%80%8119%E5%B2%81%E5%8F%94%E5%8F%94%E4%B8%8A%E5%A4%A7%E5%AD%A6&sa=fyb_news"
+    },
+    {
+      "id": "evt-30000000",
+      "title": "央视30秒视频悼念敬一丹",
+      "category": "society",
+      "hotScore": 0.51,
+      "freshness": 0.9999,
+      "crossSource": 0.6309,
+      "totalScore": 0.6933,
+      "sources": [
+        {
+          "channel": "toutiao",
+          "rank": 9,
+          "hot": 43228969,
+          "url": "https://www.toutiao.com/trending/7684914989651512873/"
+        }
+      ],
+      "summary": "",
+      "url": "https://www.toutiao.com/trending/7684914989651512873/"
+    },
+    {
+      "id": "evt-45000000",
+      "title": "45岁后体检别省这项 能保命",
+      "category": "society",
+      "hotScore": 0.48,
+      "freshness": 0.9999,
+      "crossSource": 0.6309,
+      "totalScore": 0.6813,
+      "sources": [
+        {
+          "channel": "baidu",
+          "rank": 9,
+          "hot": 0,
+          "url": "https://m.baidu.com/s?word=45%E5%B2%81%E5%90%8E%E4%BD%93%E6%A3%80%E5%88%AB%E7%9C%81%E8%BF%99%E9%A1%B9+%E8%83%BD%E4%BF%9D%E5%91%BD&sa=fyb_news"
+        }
+      ],
+      "summary": "",
+      "url": "https://m.baidu.com/s?word=45%E5%B2%81%E5%90%8E%E4%BD%93%E6%A3%80%E5%88%AB%E7%9C%81%E8%BF%99%E9%A1%B9+%E8%83%BD%E4%BF%9D%E5%91%BD&sa=fyb_news"
+    },
+    {
+      "id": "evt-al2026lpl",
+      "title": "AL夺2026LPL总冠军",
       "category": "society",
       "hotScore": 0.44,
-      "freshness": 1,
+      "freshness": 0.9999,
       "crossSource": 0.6309,
       "totalScore": 0.6653,
       "sources": [
@@ -221,11 +297,11 @@
           "channel": "baidu",
           "rank": 10,
           "hot": 0,
-          "url": "https://m.baidu.com/s?word=%E5%A4%A7%E5%AD%A6%E7%94%9F%E7%9A%841%E4%B8%AA%E9%97%AE%E9%A2%98+%E6%95%AC%E4%B8%80%E4%B8%B9%E6%94%B9%E5%8F%98%E9%80%80%E4%BC%91%E5%AE%89%E6%8E%92&sa=fyb_news"
+          "url": "https://m.baidu.com/s?word=AL%E5%A4%BA2026LPL%E6%80%BB%E5%86%A0%E5%86%9B&sa=fyb_news"
         }
       ],
       "summary": "",
-      "url": "https://m.baidu.com/s?word=%E5%A4%A7%E5%AD%A6%E7%94%9F%E7%9A%841%E4%B8%AA%E9%97%AE%E9%A2%98+%E6%95%AC%E4%B8%80%E4%B8%B9%E6%94%B9%E5%8F%98%E9%80%80%E4%BC%91%E5%AE%89%E6%8E%92&sa=fyb_news"
+      "url": "https://m.baidu.com/s?word=AL%E5%A4%BA2026LPL%E6%80%BB%E5%86%A0%E5%86%9B&sa=fyb_news"
     }
   ]
 }
