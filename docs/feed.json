@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-09-13T19:59:33.062Z",
+  "generatedAt": "2026-09-13T22:11:32.007Z",
   "fields": {
     "society": "社会",
     "economy": "经济",
@@ -18,7 +18,7 @@
         {
           "channel": "toutiao",
           "rank": 9,
-          "hot": 48000702,
+          "hot": 49485988,
           "url": "https://www.toutiao.com/trending/7684800838530809897/"
         },
         {
@@ -43,7 +43,7 @@
         {
           "channel": "toutiao",
           "rank": 2,
-          "hot": 96661543,
+          "hot": 99652543,
           "url": "https://www.toutiao.com/trending/7684515215014199338/"
         }
       ],
@@ -62,7 +62,7 @@
         {
           "channel": "toutiao",
           "rank": 4,
-          "hot": 79139778,
+          "hot": 81588602,
           "url": "https://www.toutiao.com/trending/7684433436123316267/"
         }
       ],
@@ -89,11 +89,30 @@
       "url": "https://m.baidu.com/s?word=%E6%B8%94%E6%B0%91%E8%90%BD%E6%B0%B411%E5%A4%A9%E5%90%8E%E4%BA%8B%E9%83%BD%E5%8A%9E%E4%BA%86+%E4%BA%BA%E5%9B%9E%E6%9D%A5%E4%BA%86&sa=fyb_news"
     },
     {
+      "id": "evt-npc00000",
+      "title": "明星扎堆“入职”景区NPC",
+      "category": "entertainment",
+      "hotScore": 0.48,
+      "freshness": 1,
+      "crossSource": 0.6309,
+      "totalScore": 0.6813,
+      "sources": [
+        {
+          "channel": "baidu",
+          "rank": 9,
+          "hot": 0,
+          "url": "https://m.baidu.com/s?word=%E6%98%8E%E6%98%9F%E6%89%8E%E5%A0%86%E2%80%9C%E5%85%A5%E8%81%8C%E2%80%9D%E6%99%AF%E5%8C%BANPC&sa=fyb_news"
+        }
+      ],
+      "summary": "",
+      "url": "https://m.baidu.com/s?word=%E6%98%8E%E6%98%9F%E6%89%8E%E5%A0%86%E2%80%9C%E5%85%A5%E8%81%8C%E2%80%9D%E6%99%AF%E5%8C%BANPC&sa=fyb_news"
+    },
+    {
       "id": "evt-np000000",
       "title": "媒体：明星扎堆“入职”景区NPC，如何跳出短期引流噱头？",
       "category": "entertainment",
       "hotScore": 0.4675,
-      "freshness": 1,
+      "freshness": 0.9999,
       "crossSource": 0.6309,
       "totalScore": 0.6763,
       "sources": [
@@ -108,17 +127,17 @@
       "url": "https://www.thepaper.cn/newsDetail_forward_34059812"
     },
     {
-      "id": "evt-lpl20260",
-      "title": "LPL 2026 赛季季后赛总决赛 AL 3:1 击败 BLG 夺得总冠军，如何评价这场比赛？",
+      "id": "evt-30000000",
+      "title": "浙江太乙圣莲拟 30 亿元入主哪吒汽车，将如何影响其未来战略布局？",
       "category": "society",
-      "hotScore": 0.675,
+      "hotScore": 0.7125,
       "freshness": 0.9999,
       "crossSource": 0.6309,
-      "totalScore": 0.7593,
+      "totalScore": 0.7743,
       "sources": [
         {
           "channel": "zhihu",
-          "rank": 3,
+          "rank": 2,
           "hot": 0,
           "url": ""
         }
@@ -146,8 +165,8 @@
       "url": "https://m.baidu.com/s?word=%E5%9B%9B%E5%A4%A7%E5%9B%BD%E6%9C%89%E8%A1%8C%E4%BB%8A%E5%B9%B4%E7%BC%A9%E6%8B%9B7000%E4%BD%99%E4%BA%BA&sa=fyb_news"
     },
     {
-      "id": "evt-30000000",
-      "title": "浙江太乙圣莲拟 30 亿元入主哪吒汽车，将如何影响其未来战略布局？",
+      "id": "evt-lpl20260",
+      "title": "LPL 2026 赛季季后赛总决赛 AL 3:1 击败 BLG 夺得总冠军，如何评价这场比赛？",
       "category": "society",
       "hotScore": 0.6375,
       "freshness": 0.9999,
@@ -165,8 +184,8 @@
       "url": ""
     },
     {
-      "id": "evt-hyrox000",
-      "title": "HYROX 北京站比赛选手失禁仍完成比赛，比赛规则和卫生安全引争议，如何看待此事？",
+      "id": "evt-anthropi",
+      "title": "如何看待 Anthropic 、马斯克等顶级 AI 公司呼吁控制前沿 AI 发展节奏？为啥在此时喊减速？",
       "category": "society",
       "hotScore": 0.5625,
       "freshness": 0.9999,
@@ -203,25 +222,6 @@
       "url": "https://m.baidu.com/s?word=iPhone+17%E5%A4%A7%E9%99%8D%E4%BB%B7&sa=fyb_news"
     },
     {
-      "id": "evt-14000000",
-      "title": "清朝人口为何从 1400 万迅速长到 4 亿？呈现爆发式增长，是何原因？",
-      "category": "society",
-      "hotScore": 0.525,
-      "freshness": 0.9999,
-      "crossSource": 0.6309,
-      "totalScore": 0.6993,
-      "sources": [
-        {
-          "channel": "zhihu",
-          "rank": 7,
-          "hot": 0,
-          "url": ""
-        }
-      ],
-      "summary": "",
-      "url": ""
-    },
-    {
       "id": "evt-50000000",
       "title": "借5万盘下小店面 如今企业年产值3亿",
       "category": "society",
@@ -245,7 +245,7 @@
       "title": "释疑｜为能源多花1000亿美元？美伊冲突半年如何冲击美国人的账单",
       "category": "society",
       "hotScore": 0.51,
-      "freshness": 1,
+      "freshness": 0.9999,
       "crossSource": 0.6309,
       "totalScore": 0.6933,
       "sources": [
@@ -258,6 +258,25 @@
       ],
       "summary": "",
       "url": "https://www.thepaper.cn/newsDetail_forward_34053719"
+    },
+    {
+      "id": "evt-16000000",
+      "title": "16 岁中国小将孙心然夺得美网青少年组女单冠军，怎样评价她的表现？她未来的潜力如何？",
+      "category": "society",
+      "hotScore": 0.45,
+      "freshness": 0.9999,
+      "crossSource": 0.6309,
+      "totalScore": 0.6693,
+      "sources": [
+        {
+          "channel": "zhihu",
+          "rank": 9,
+          "hot": 0,
+          "url": ""
+        }
+      ],
+      "summary": "",
+      "url": ""
     }
   ]
 }
