@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-09-14T09:21:59.123Z",
+  "generatedAt": "2026-09-14T16:02:44.136Z",
   "fields": {
     "society": "社会",
     "economy": "经济",
@@ -7,80 +7,30 @@
   },
   "feed": [
     {
-      "id": "evt-12600000",
-      "title": "中国有1.26亿只“毛孩子”",
-      "category": "society",
-      "hotScore": 0.8075,
-      "freshness": 0.9998,
-      "crossSource": 1,
-      "totalScore": 0.923,
-      "sources": [
-        {
-          "channel": "toutiao",
-          "rank": 2,
-          "hot": 54294354,
-          "url": "https://www.toutiao.com/trending/7685150835596656646/"
-        },
-        {
-          "channel": "baidu",
-          "rank": 13,
-          "hot": 0,
-          "url": "https://m.baidu.com/s?word=%E4%B8%AD%E5%9B%BD%E6%9C%891.26%E4%BA%BF%E5%8F%AA%E2%80%9C%E6%AF%9B%E5%AD%A9%E5%AD%90%E2%80%9D&sa=fyb_news"
-        }
-      ],
-      "summary": "",
-      "url": "https://www.toutiao.com/trending/7685150835596656646/"
-    },
-    {
       "id": "evt-00000000",
-      "title": "国家卫健委：我国人口大国基本面没变",
-      "category": "society",
-      "hotScore": 0.68,
-      "freshness": 0.9998,
-      "crossSource": 1,
-      "totalScore": 0.872,
-      "sources": [
-        {
-          "channel": "toutiao",
-          "rank": 5,
-          "hot": 40222246,
-          "url": "https://www.toutiao.com/trending/7685227024306733119/"
-        },
-        {
-          "channel": "thepaper",
-          "rank": 14,
-          "hot": 0,
-          "url": "https://www.thepaper.cn/newsDetail_forward_34065847"
-        }
-      ],
-      "summary": "",
-      "url": "https://www.toutiao.com/trending/7685227024306733119/"
-    },
-    {
-      "id": "evt-92424000",
-      "title": "油价将在9月24日24时调整",
+      "title": "英国三地为何突然闹“脱英”",
       "category": "society",
       "hotScore": 0.85,
-      "freshness": 0.9998,
+      "freshness": 0.9999,
       "crossSource": 0.6309,
-      "totalScore": 0.8292,
+      "totalScore": 0.8293,
       "sources": [
         {
           "channel": "toutiao",
           "rank": 1,
-          "hot": 60004541,
-          "url": "https://www.toutiao.com/trending/7685209779324666418/"
+          "hot": 25931917,
+          "url": "https://www.toutiao.com/trending/7684916355036348452/"
         }
       ],
       "summary": "",
-      "url": "https://www.toutiao.com/trending/7685209779324666418/"
+      "url": "https://www.toutiao.com/trending/7684916355036348452/"
     },
     {
       "id": "evt-30000000",
       "title": "30年过去，话剧《商鞅》依然一票难求",
       "category": "society",
       "hotScore": 0.8075,
-      "freshness": 1,
+      "freshness": 0.9999,
       "crossSource": 0.6309,
       "totalScore": 0.8123,
       "sources": [
@@ -95,131 +45,36 @@
       "url": "https://www.thepaper.cn/newsDetail_forward_34060480"
     },
     {
-      "id": "evt-51533700",
-      "title": "上5休1上5休3上3休7上3休1",
+      "id": "evt-a0000000",
+      "title": "十大券商看后市｜A股短期胜率和赔率均提升，保持信心和冷静",
       "category": "society",
-      "hotScore": 0.7225,
-      "freshness": 0.9998,
-      "crossSource": 0.6309,
-      "totalScore": 0.7782,
-      "sources": [
-        {
-          "channel": "toutiao",
-          "rank": 4,
-          "hot": 44452457,
-          "url": "https://www.toutiao.com/trending/7684573230690140179/"
-        }
-      ],
-      "summary": "",
-      "url": "https://www.toutiao.com/trending/7684573230690140179/"
-    },
-    {
-      "id": "evt-xx000000",
-      "title": "终于不再是“我在xx很想你”",
-      "category": "society",
-      "hotScore": 0.64,
+      "hotScore": 0.68,
       "freshness": 0.9999,
       "crossSource": 0.6309,
-      "totalScore": 0.7453,
-      "sources": [
-        {
-          "channel": "baidu",
-          "rank": 5,
-          "hot": 0,
-          "url": "https://m.baidu.com/s?word=%E7%BB%88%E4%BA%8E%E4%B8%8D%E5%86%8D%E6%98%AF%E2%80%9C%E6%88%91%E5%9C%A8xx%E5%BE%88%E6%83%B3%E4%BD%A0%E2%80%9D&sa=fyb_news"
-        }
-      ],
-      "summary": "",
-      "url": "https://m.baidu.com/s?word=%E7%BB%88%E4%BA%8E%E4%B8%8D%E5%86%8D%E6%98%AF%E2%80%9C%E6%88%91%E5%9C%A8xx%E5%BE%88%E6%83%B3%E4%BD%A0%E2%80%9D&sa=fyb_news"
-    },
-    {
-      "id": "evt-iphone17",
-      "title": "iPhone 17降价后囤货商家割肉出货",
-      "category": "society",
-      "hotScore": 0.6375,
-      "freshness": 0.9998,
-      "crossSource": 0.6309,
-      "totalScore": 0.7442,
-      "sources": [
-        {
-          "channel": "toutiao",
-          "rank": 6,
-          "hot": 36394593,
-          "url": "https://www.toutiao.com/trending/7684234416511959083/"
-        }
-      ],
-      "summary": "",
-      "url": "https://www.toutiao.com/trending/7684234416511959083/"
-    },
-    {
-      "id": "evt-iphone18pro",
-      "title": "iPhone 18 Pro价格被打下来了",
-      "category": "society",
-      "hotScore": 0.6,
-      "freshness": 0.9999,
-      "crossSource": 0.6309,
-      "totalScore": 0.7293,
-      "sources": [
-        {
-          "channel": "baidu",
-          "rank": 6,
-          "hot": 0,
-          "url": "https://m.baidu.com/s?word=iPhone+18+Pro%E4%BB%B7%E6%A0%BC%E8%A2%AB%E6%89%93%E4%B8%8B%E6%9D%A5%E4%BA%86&sa=fyb_news"
-        }
-      ],
-      "summary": "",
-      "url": "https://m.baidu.com/s?word=iPhone+18+Pro%E4%BB%B7%E6%A0%BC%E8%A2%AB%E6%89%93%E4%B8%8B%E6%9D%A5%E4%BA%86&sa=fyb_news"
-    },
-    {
-      "id": "evt-20000000",
-      "title": "央视曝光农村治污乱象：近200万建成污水处理站，村民一天没用还收费",
-      "category": "society",
-      "hotScore": 0.595,
-      "freshness": 1,
-      "crossSource": 0.6309,
-      "totalScore": 0.7273,
+      "totalScore": 0.7613,
       "sources": [
         {
           "channel": "thepaper",
-          "rank": 7,
+          "rank": 5,
           "hot": 0,
-          "url": "https://www.thepaper.cn/newsDetail_forward_34062116"
+          "url": "https://www.thepaper.cn/newsDetail_forward_34064560"
         }
       ],
       "summary": "",
-      "url": "https://www.thepaper.cn/newsDetail_forward_34062116"
+      "url": "https://www.thepaper.cn/newsDetail_forward_34064560"
     },
     {
-      "id": "evt-ai000000",
-      "title": "何毅：“AI要减速”是美国人的阴谋",
+      "id": "evt-17000000",
+      "title": "程序员为干私活腾空间 17 小时删光公司 89TB 数据，获刑五年十个月，暴露出哪些问题？",
       "category": "society",
-      "hotScore": 0.5525,
-      "freshness": 0.9998,
-      "crossSource": 0.6309,
-      "totalScore": 0.7102,
-      "sources": [
-        {
-          "channel": "toutiao",
-          "rank": 8,
-          "hot": 29797373,
-          "url": "https://www.toutiao.com/trending/7685283765207174683/"
-        }
-      ],
-      "summary": "",
-      "url": "https://www.toutiao.com/trending/7685283765207174683/"
-    },
-    {
-      "id": "evt-hyrox000",
-      "title": "HYROX 回应外国选手失禁完赛，称不可预见情况并严查网暴，为何仍遭质疑？这场争议的核心问题到底出在哪？",
-      "category": "society",
-      "hotScore": 0.525,
+      "hotScore": 0.675,
       "freshness": 0.9999,
       "crossSource": 0.6309,
-      "totalScore": 0.6992,
+      "totalScore": 0.7593,
       "sources": [
         {
           "channel": "zhihu",
-          "rank": 7,
+          "rank": 3,
           "hot": 0,
           "url": ""
         }
@@ -228,11 +83,30 @@
       "url": ""
     },
     {
-      "id": "evt-19300000",
-      "title": "出租屋花盆里搜出1930克黄金",
+      "id": "evt-31260000",
+      "title": "财晓得｜一年花掉3126亿！猫猫狗狗这碗饭，市场有多大？",
+      "category": "society",
+      "hotScore": 0.5525,
+      "freshness": 0.9999,
+      "crossSource": 0.6309,
+      "totalScore": 0.7103,
+      "sources": [
+        {
+          "channel": "thepaper",
+          "rank": 8,
+          "hot": 0,
+          "url": "https://www.thepaper.cn/newsDetail_forward_34037867"
+        }
+      ],
+      "summary": "",
+      "url": "https://www.thepaper.cn/newsDetail_forward_34037867"
+    },
+    {
+      "id": "evt-20000000",
+      "title": "妈妈吃无碘盐致女儿2岁多不会说话",
       "category": "society",
       "hotScore": 0.52,
-      "freshness": 0.9999,
+      "freshness": 1,
       "crossSource": 0.6309,
       "totalScore": 0.6973,
       "sources": [
@@ -240,30 +114,30 @@
           "channel": "baidu",
           "rank": 8,
           "hot": 0,
-          "url": "https://m.baidu.com/s?word=%E5%87%BA%E7%A7%9F%E5%B1%8B%E8%8A%B1%E7%9B%86%E9%87%8C%E6%90%9C%E5%87%BA1930%E5%85%8B%E9%BB%84%E9%87%91&sa=fyb_news"
+          "url": "https://m.baidu.com/s?word=%E5%A6%88%E5%A6%88%E5%90%83%E6%97%A0%E7%A2%98%E7%9B%90%E8%87%B4%E5%A5%B3%E5%84%BF2%E5%B2%81%E5%A4%9A%E4%B8%8D%E4%BC%9A%E8%AF%B4%E8%AF%9D&sa=fyb_news"
         }
       ],
       "summary": "",
-      "url": "https://m.baidu.com/s?word=%E5%87%BA%E7%A7%9F%E5%B1%8B%E8%8A%B1%E7%9B%86%E9%87%8C%E6%90%9C%E5%87%BA1930%E5%85%8B%E9%BB%84%E9%87%91&sa=fyb_news"
+      "url": "https://m.baidu.com/s?word=%E5%A6%88%E5%A6%88%E5%90%83%E6%97%A0%E7%A2%98%E7%9B%90%E8%87%B4%E5%A5%B3%E5%84%BF2%E5%B2%81%E5%A4%9A%E4%B8%8D%E4%BC%9A%E8%AF%B4%E8%AF%9D&sa=fyb_news"
     },
     {
-      "id": "evt-10000000",
-      "title": "南太行野线徒步一年半超 10 起事故，一名 200 斤驴友被挤下悬崖，这一事件反映了哪些户外安全问题？",
+      "id": "evt-80000000",
+      "title": "广州现8米高巨型“哈基米”",
       "category": "society",
-      "hotScore": 0.4875,
+      "hotScore": 0.51,
       "freshness": 0.9999,
       "crossSource": 0.6309,
-      "totalScore": 0.6842,
+      "totalScore": 0.6933,
       "sources": [
         {
-          "channel": "zhihu",
-          "rank": 8,
-          "hot": 0,
-          "url": ""
+          "channel": "toutiao",
+          "rank": 9,
+          "hot": 11651961,
+          "url": "https://www.toutiao.com/trending/7685325386846355494/"
         }
       ],
       "summary": "",
-      "url": ""
+      "url": "https://www.toutiao.com/trending/7685325386846355494/"
     }
   ]
 }
