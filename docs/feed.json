@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-09-14T02:18:21.649Z",
+  "generatedAt": "2026-09-14T09:21:59.123Z",
   "fields": {
     "society": "社会",
     "economy": "经济",
@@ -7,42 +7,86 @@
   },
   "feed": [
     {
+      "id": "evt-12600000",
+      "title": "中国有1.26亿只“毛孩子”",
+      "category": "society",
+      "hotScore": 0.8075,
+      "freshness": 0.9998,
+      "crossSource": 1,
+      "totalScore": 0.923,
+      "sources": [
+        {
+          "channel": "toutiao",
+          "rank": 2,
+          "hot": 54294354,
+          "url": "https://www.toutiao.com/trending/7685150835596656646/"
+        },
+        {
+          "channel": "baidu",
+          "rank": 13,
+          "hot": 0,
+          "url": "https://m.baidu.com/s?word=%E4%B8%AD%E5%9B%BD%E6%9C%891.26%E4%BA%BF%E5%8F%AA%E2%80%9C%E6%AF%9B%E5%AD%A9%E5%AD%90%E2%80%9D&sa=fyb_news"
+        }
+      ],
+      "summary": "",
+      "url": "https://www.toutiao.com/trending/7685150835596656646/"
+    },
+    {
       "id": "evt-00000000",
-      "title": "中国足球小将西班牙捧杯",
+      "title": "国家卫健委：我国人口大国基本面没变",
+      "category": "society",
+      "hotScore": 0.68,
+      "freshness": 0.9998,
+      "crossSource": 1,
+      "totalScore": 0.872,
+      "sources": [
+        {
+          "channel": "toutiao",
+          "rank": 5,
+          "hot": 40222246,
+          "url": "https://www.toutiao.com/trending/7685227024306733119/"
+        },
+        {
+          "channel": "thepaper",
+          "rank": 14,
+          "hot": 0,
+          "url": "https://www.thepaper.cn/newsDetail_forward_34065847"
+        }
+      ],
+      "summary": "",
+      "url": "https://www.toutiao.com/trending/7685227024306733119/"
+    },
+    {
+      "id": "evt-92424000",
+      "title": "油价将在9月24日24时调整",
       "category": "society",
       "hotScore": 0.85,
-      "freshness": 0.9999,
-      "crossSource": 1,
-      "totalScore": 0.94,
+      "freshness": 0.9998,
+      "crossSource": 0.6309,
+      "totalScore": 0.8292,
       "sources": [
         {
           "channel": "toutiao",
           "rank": 1,
-          "hot": 70998631,
-          "url": "https://www.toutiao.com/trending/7684800478262149139/"
-        },
-        {
-          "channel": "baidu",
-          "rank": 7,
-          "hot": 0,
-          "url": "https://m.baidu.com/s?word=%E4%B8%AD%E5%9B%BD%E8%B6%B3%E7%90%83%E5%B0%8F%E5%B0%86%E8%A5%BF%E7%8F%AD%E7%89%99%E6%8D%A7%E6%9D%AF&sa=fyb_news"
+          "hot": 60004541,
+          "url": "https://www.toutiao.com/trending/7685209779324666418/"
         }
       ],
       "summary": "",
-      "url": "https://www.toutiao.com/trending/7684800478262149139/"
+      "url": "https://www.toutiao.com/trending/7685209779324666418/"
     },
     {
       "id": "evt-30000000",
       "title": "30年过去，话剧《商鞅》依然一票难求",
       "category": "society",
-      "hotScore": 0.85,
+      "hotScore": 0.8075,
       "freshness": 1,
       "crossSource": 0.6309,
-      "totalScore": 0.8293,
+      "totalScore": 0.8123,
       "sources": [
         {
           "channel": "thepaper",
-          "rank": 1,
+          "rank": 2,
           "hot": 0,
           "url": "https://www.thepaper.cn/newsDetail_forward_34060480"
         }
@@ -51,30 +95,30 @@
       "url": "https://www.thepaper.cn/newsDetail_forward_34060480"
     },
     {
-      "id": "evt-40000000",
-      "title": "胖东来新招工准则：合同4年不续签",
+      "id": "evt-51533700",
+      "title": "上5休1上5休3上3休7上3休1",
       "category": "society",
-      "hotScore": 0.68,
-      "freshness": 0.9999,
+      "hotScore": 0.7225,
+      "freshness": 0.9998,
       "crossSource": 0.6309,
-      "totalScore": 0.7613,
+      "totalScore": 0.7782,
       "sources": [
         {
           "channel": "toutiao",
-          "rank": 5,
-          "hot": 47591805,
-          "url": "https://www.toutiao.com/trending/7684433436123316267/"
+          "rank": 4,
+          "hot": 44452457,
+          "url": "https://www.toutiao.com/trending/7684573230690140179/"
         }
       ],
       "summary": "",
-      "url": "https://www.toutiao.com/trending/7684433436123316267/"
+      "url": "https://www.toutiao.com/trending/7684573230690140179/"
     },
     {
-      "id": "evt-ai000000",
-      "title": "出现这种感觉 说明你AI成瘾了",
+      "id": "evt-xx000000",
+      "title": "终于不再是“我在xx很想你”",
       "category": "society",
       "hotScore": 0.64,
-      "freshness": 1,
+      "freshness": 0.9999,
       "crossSource": 0.6309,
       "totalScore": 0.7453,
       "sources": [
@@ -82,39 +126,96 @@
           "channel": "baidu",
           "rank": 5,
           "hot": 0,
-          "url": "https://m.baidu.com/s?word=%E5%87%BA%E7%8E%B0%E8%BF%99%E7%A7%8D%E6%84%9F%E8%A7%89+%E8%AF%B4%E6%98%8E%E4%BD%A0AI%E6%88%90%E7%98%BE%E4%BA%86&sa=fyb_news"
+          "url": "https://m.baidu.com/s?word=%E7%BB%88%E4%BA%8E%E4%B8%8D%E5%86%8D%E6%98%AF%E2%80%9C%E6%88%91%E5%9C%A8xx%E5%BE%88%E6%83%B3%E4%BD%A0%E2%80%9D&sa=fyb_news"
         }
       ],
       "summary": "",
-      "url": "https://m.baidu.com/s?word=%E5%87%BA%E7%8E%B0%E8%BF%99%E7%A7%8D%E6%84%9F%E8%A7%89+%E8%AF%B4%E6%98%8E%E4%BD%A0AI%E6%88%90%E7%98%BE%E4%BA%86&sa=fyb_news"
+      "url": "https://m.baidu.com/s?word=%E7%BB%88%E4%BA%8E%E4%B8%8D%E5%86%8D%E6%98%AF%E2%80%9C%E6%88%91%E5%9C%A8xx%E5%BE%88%E6%83%B3%E4%BD%A0%E2%80%9D&sa=fyb_news"
+    },
+    {
+      "id": "evt-iphone17",
+      "title": "iPhone 17降价后囤货商家割肉出货",
+      "category": "society",
+      "hotScore": 0.6375,
+      "freshness": 0.9998,
+      "crossSource": 0.6309,
+      "totalScore": 0.7442,
+      "sources": [
+        {
+          "channel": "toutiao",
+          "rank": 6,
+          "hot": 36394593,
+          "url": "https://www.toutiao.com/trending/7684234416511959083/"
+        }
+      ],
+      "summary": "",
+      "url": "https://www.toutiao.com/trending/7684234416511959083/"
+    },
+    {
+      "id": "evt-iphone18pro",
+      "title": "iPhone 18 Pro价格被打下来了",
+      "category": "society",
+      "hotScore": 0.6,
+      "freshness": 0.9999,
+      "crossSource": 0.6309,
+      "totalScore": 0.7293,
+      "sources": [
+        {
+          "channel": "baidu",
+          "rank": 6,
+          "hot": 0,
+          "url": "https://m.baidu.com/s?word=iPhone+18+Pro%E4%BB%B7%E6%A0%BC%E8%A2%AB%E6%89%93%E4%B8%8B%E6%9D%A5%E4%BA%86&sa=fyb_news"
+        }
+      ],
+      "summary": "",
+      "url": "https://m.baidu.com/s?word=iPhone+18+Pro%E4%BB%B7%E6%A0%BC%E8%A2%AB%E6%89%93%E4%B8%8B%E6%9D%A5%E4%BA%86&sa=fyb_news"
     },
     {
       "id": "evt-20000000",
-      "title": "比亚迪将在高速上建成2000座闪充站",
+      "title": "央视曝光农村治污乱象：近200万建成污水处理站，村民一天没用还收费",
+      "category": "society",
+      "hotScore": 0.595,
+      "freshness": 1,
+      "crossSource": 0.6309,
+      "totalScore": 0.7273,
+      "sources": [
+        {
+          "channel": "thepaper",
+          "rank": 7,
+          "hot": 0,
+          "url": "https://www.thepaper.cn/newsDetail_forward_34062116"
+        }
+      ],
+      "summary": "",
+      "url": "https://www.thepaper.cn/newsDetail_forward_34062116"
+    },
+    {
+      "id": "evt-ai000000",
+      "title": "何毅：“AI要减速”是美国人的阴谋",
       "category": "society",
       "hotScore": 0.5525,
-      "freshness": 0.9999,
+      "freshness": 0.9998,
       "crossSource": 0.6309,
-      "totalScore": 0.7103,
+      "totalScore": 0.7102,
       "sources": [
         {
           "channel": "toutiao",
           "rank": 8,
-          "hot": 35256876,
-          "url": "https://www.toutiao.com/trending/7685110374051545610/"
+          "hot": 29797373,
+          "url": "https://www.toutiao.com/trending/7685283765207174683/"
         }
       ],
       "summary": "",
-      "url": "https://www.toutiao.com/trending/7685110374051545610/"
+      "url": "https://www.toutiao.com/trending/7685283765207174683/"
     },
     {
-      "id": "evt-12345000",
-      "title": "媒体称 12345 话务员多为外包，是真的吗？会影响政务服务质量与效率吗？如何保障诉求被真正解决？",
+      "id": "evt-hyrox000",
+      "title": "HYROX 回应外国选手失禁完赛，称不可预见情况并严查网暴，为何仍遭质疑？这场争议的核心问题到底出在哪？",
       "category": "society",
       "hotScore": 0.525,
-      "freshness": 1,
+      "freshness": 0.9999,
       "crossSource": 0.6309,
-      "totalScore": 0.6993,
+      "totalScore": 0.6992,
       "sources": [
         {
           "channel": "zhihu",
@@ -127,11 +228,11 @@
       "url": ""
     },
     {
-      "id": "evt-11000000",
-      "title": "渔民落水11天后事都办了 人回来了",
+      "id": "evt-19300000",
+      "title": "出租屋花盆里搜出1930克黄金",
       "category": "society",
       "hotScore": 0.52,
-      "freshness": 1,
+      "freshness": 0.9999,
       "crossSource": 0.6309,
       "totalScore": 0.6973,
       "sources": [
@@ -139,62 +240,24 @@
           "channel": "baidu",
           "rank": 8,
           "hot": 0,
-          "url": "https://m.baidu.com/s?word=%E6%B8%94%E6%B0%91%E8%90%BD%E6%B0%B411%E5%A4%A9%E5%90%8E%E4%BA%8B%E9%83%BD%E5%8A%9E%E4%BA%86+%E4%BA%BA%E5%9B%9E%E6%9D%A5%E4%BA%86&sa=fyb_news"
+          "url": "https://m.baidu.com/s?word=%E5%87%BA%E7%A7%9F%E5%B1%8B%E8%8A%B1%E7%9B%86%E9%87%8C%E6%90%9C%E5%87%BA1930%E5%85%8B%E9%BB%84%E9%87%91&sa=fyb_news"
         }
       ],
       "summary": "",
-      "url": "https://m.baidu.com/s?word=%E6%B8%94%E6%B0%91%E8%90%BD%E6%B0%B411%E5%A4%A9%E5%90%8E%E4%BA%8B%E9%83%BD%E5%8A%9E%E4%BA%86+%E4%BA%BA%E5%9B%9E%E6%9D%A5%E4%BA%86&sa=fyb_news"
+      "url": "https://m.baidu.com/s?word=%E5%87%BA%E7%A7%9F%E5%B1%8B%E8%8A%B1%E7%9B%86%E9%87%8C%E6%90%9C%E5%87%BA1930%E5%85%8B%E9%BB%84%E9%87%91&sa=fyb_news"
     },
     {
-      "id": "evt-75000000",
-      "title": "在读75万 中国博士真的过剩了吗",
+      "id": "evt-10000000",
+      "title": "南太行野线徒步一年半超 10 起事故，一名 200 斤驴友被挤下悬崖，这一事件反映了哪些户外安全问题？",
       "category": "society",
-      "hotScore": 0.48,
-      "freshness": 1,
-      "crossSource": 0.6309,
-      "totalScore": 0.6813,
-      "sources": [
-        {
-          "channel": "baidu",
-          "rank": 9,
-          "hot": 0,
-          "url": "https://m.baidu.com/s?word=%E5%9C%A8%E8%AF%BB75%E4%B8%87+%E4%B8%AD%E5%9B%BD%E5%8D%9A%E5%A3%AB%E7%9C%9F%E7%9A%84%E8%BF%87%E5%89%A9%E4%BA%86%E5%90%97&sa=fyb_news"
-        }
-      ],
-      "summary": "",
-      "url": "https://m.baidu.com/s?word=%E5%9C%A8%E8%AF%BB75%E4%B8%87+%E4%B8%AD%E5%9B%BD%E5%8D%9A%E5%A3%AB%E7%9C%9F%E7%9A%84%E8%BF%87%E5%89%A9%E4%BA%86%E5%90%97&sa=fyb_news"
-    },
-    {
-      "id": "evt-60000000",
-      "title": "斑海豹娜娜耗时6天独自游回大长山岛",
-      "category": "society",
-      "hotScore": 0.4675,
+      "hotScore": 0.4875,
       "freshness": 0.9999,
       "crossSource": 0.6309,
-      "totalScore": 0.6763,
-      "sources": [
-        {
-          "channel": "toutiao",
-          "rank": 10,
-          "hot": 28865889,
-          "url": "https://www.toutiao.com/trending/7684538827096326170/"
-        }
-      ],
-      "summary": "",
-      "url": "https://www.toutiao.com/trending/7684538827096326170/"
-    },
-    {
-      "id": "evt-anthropi",
-      "title": "如何看待 Anthropic 、马斯克等顶级 AI 公司呼吁控制前沿 AI 发展节奏？为啥在此时喊减速？",
-      "category": "society",
-      "hotScore": 0.45,
-      "freshness": 1,
-      "crossSource": 0.6309,
-      "totalScore": 0.6693,
+      "totalScore": 0.6842,
       "sources": [
         {
           "channel": "zhihu",
-          "rank": 9,
+          "rank": 8,
           "hot": 0,
           "url": ""
         }
