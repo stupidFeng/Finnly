@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-09-14T21:09:55.947Z",
+  "generatedAt": "2026-09-15T00:04:32.294Z",
   "fields": {
     "society": "社会",
     "economy": "经济",
@@ -7,8 +7,8 @@
   },
   "feed": [
     {
-      "id": "evt-72000000",
-      "title": "饮用水报告：72%成年人未达适宜摄入量",
+      "id": "evt-00000000",
+      "title": "全键盘版“阔直板”手机爆火",
       "category": "society",
       "hotScore": 0.85,
       "freshness": 0.9999,
@@ -18,25 +18,44 @@
         {
           "channel": "toutiao",
           "rank": 1,
-          "hot": 27370231,
-          "url": "https://www.toutiao.com/trending/7685231197416472582/"
+          "hot": 22241716,
+          "url": "https://www.toutiao.com/trending/7684950705249583123/"
         }
       ],
       "summary": "",
-      "url": "https://www.toutiao.com/trending/7685231197416472582/"
+      "url": "https://www.toutiao.com/trending/7684950705249583123/"
+    },
+    {
+      "id": "evt-a0000000",
+      "title": "A股持续震荡，韧性从何而来？五大券商首席发声：多重积极因素已形成支撑",
+      "category": "society",
+      "hotScore": 0.8075,
+      "freshness": 1,
+      "crossSource": 0.6309,
+      "totalScore": 0.8123,
+      "sources": [
+        {
+          "channel": "thepaper",
+          "rank": 2,
+          "hot": 0,
+          "url": "https://www.thepaper.cn/newsDetail_forward_34067660"
+        }
+      ],
+      "summary": "",
+      "url": "https://www.thepaper.cn/newsDetail_forward_34067660"
     },
     {
       "id": "evt-30000000",
       "title": "游客在距离市区约30公里的泸州东站下车后建议更改站名，官方答复",
       "category": "society",
-      "hotScore": 0.85,
+      "hotScore": 0.68,
       "freshness": 1,
       "crossSource": 0.6309,
-      "totalScore": 0.8293,
+      "totalScore": 0.7613,
       "sources": [
         {
           "channel": "thepaper",
-          "rank": 1,
+          "rank": 5,
           "hot": 0,
           "url": "https://www.thepaper.cn/newsDetail_forward_34064772"
         }
@@ -45,74 +64,36 @@
       "url": "https://www.thepaper.cn/newsDetail_forward_34064772"
     },
     {
-      "id": "evt-12600000",
-      "title": "中国有1.26亿只“毛孩子”",
+      "id": "evt-20000000",
+      "title": "月饼200元以上不好卖了",
       "category": "society",
-      "hotScore": 0.8075,
-      "freshness": 0.9999,
-      "crossSource": 0.6309,
-      "totalScore": 0.8123,
-      "sources": [
-        {
-          "channel": "toutiao",
-          "rank": 2,
-          "hot": 24765609,
-          "url": "https://www.toutiao.com/trending/7685150835596656646/"
-        }
-      ],
-      "summary": "",
-      "url": "https://www.toutiao.com/trending/7685150835596656646/"
-    },
-    {
-      "id": "evt-00000000",
-      "title": "始终把人民生命安全放在首位",
-      "category": "society",
-      "hotScore": 0.8,
+      "hotScore": 0.64,
       "freshness": 1,
       "crossSource": 0.6309,
-      "totalScore": 0.8093,
+      "totalScore": 0.7453,
       "sources": [
         {
           "channel": "baidu",
-          "rank": 1,
+          "rank": 5,
           "hot": 0,
-          "url": "https://m.baidu.com/s?word=%E5%A7%8B%E7%BB%88%E6%8A%8A%E4%BA%BA%E6%B0%91%E7%94%9F%E5%91%BD%E5%AE%89%E5%85%A8%E6%94%BE%E5%9C%A8%E9%A6%96%E4%BD%8D&sa=fyb_news"
+          "url": "https://m.baidu.com/s?word=%E6%9C%88%E9%A5%BC200%E5%85%83%E4%BB%A5%E4%B8%8A%E4%B8%8D%E5%A5%BD%E5%8D%96%E4%BA%86&sa=fyb_news"
         }
       ],
       "summary": "",
-      "url": "https://m.baidu.com/s?word=%E5%A7%8B%E7%BB%88%E6%8A%8A%E4%BA%BA%E6%B0%91%E7%94%9F%E5%91%BD%E5%AE%89%E5%85%A8%E6%94%BE%E5%9C%A8%E9%A6%96%E4%BD%8D&sa=fyb_news"
+      "url": "https://m.baidu.com/s?word=%E6%9C%88%E9%A5%BC200%E5%85%83%E4%BB%A5%E4%B8%8A%E4%B8%8D%E5%A5%BD%E5%8D%96%E4%BA%86&sa=fyb_news"
     },
     {
-      "id": "evt-a0000000",
-      "title": "十大券商看后市｜A股短期胜率和赔率均提升，保持信心和冷静",
+      "id": "evt-hyrox000",
+      "title": "HYROX 外国选手比赛中失禁，主办方未叫停比赛、未进行罚时等处罚，对其他选手公平吗？怎样处理更合理？",
       "category": "society",
-      "hotScore": 0.765,
+      "hotScore": 0.6375,
       "freshness": 1,
       "crossSource": 0.6309,
-      "totalScore": 0.7953,
-      "sources": [
-        {
-          "channel": "thepaper",
-          "rank": 3,
-          "hot": 0,
-          "url": "https://www.thepaper.cn/newsDetail_forward_34064560"
-        }
-      ],
-      "summary": "",
-      "url": "https://www.thepaper.cn/newsDetail_forward_34064560"
-    },
-    {
-      "id": "evt-17000000",
-      "title": "程序员为干私活腾空间 17 小时删光公司 89TB 数据，获刑五年十个月，暴露出哪些问题？",
-      "category": "society",
-      "hotScore": 0.7125,
-      "freshness": 1,
-      "crossSource": 0.6309,
-      "totalScore": 0.7743,
+      "totalScore": 0.7443,
       "sources": [
         {
           "channel": "zhihu",
-          "rank": 2,
+          "rank": 4,
           "hot": 0,
           "url": ""
         }
@@ -122,60 +103,22 @@
     },
     {
       "id": "evt-ai000000",
-      "title": "怎么看马斯克对中国AI的评价",
+      "title": "AI降速呼声重挫芯片股",
       "category": "society",
-      "hotScore": 0.68,
-      "freshness": 0.9999,
-      "crossSource": 0.6309,
-      "totalScore": 0.7613,
-      "sources": [
-        {
-          "channel": "toutiao",
-          "rank": 5,
-          "hot": 18346814,
-          "url": "https://www.toutiao.com/trending/7685401559496166953/"
-        }
-      ],
-      "summary": "",
-      "url": "https://www.toutiao.com/trending/7685401559496166953/"
-    },
-    {
-      "id": "evt-92424000",
-      "title": "油价将在9月24日24时调整",
-      "category": "society",
-      "hotScore": 0.6375,
-      "freshness": 0.9999,
-      "crossSource": 0.6309,
-      "totalScore": 0.7443,
-      "sources": [
-        {
-          "channel": "toutiao",
-          "rank": 6,
-          "hot": 16600884,
-          "url": "https://www.toutiao.com/trending/7685209779324666418/"
-        }
-      ],
-      "summary": "",
-      "url": "https://www.toutiao.com/trending/7685209779324666418/"
-    },
-    {
-      "id": "evt-31260000",
-      "title": "财晓得｜一年花掉3126亿！猫猫狗狗这碗饭，市场有多大？",
-      "category": "society",
-      "hotScore": 0.595,
+      "hotScore": 0.6,
       "freshness": 1,
       "crossSource": 0.6309,
-      "totalScore": 0.7273,
+      "totalScore": 0.7293,
       "sources": [
         {
-          "channel": "thepaper",
-          "rank": 7,
+          "channel": "baidu",
+          "rank": 6,
           "hot": 0,
-          "url": "https://www.thepaper.cn/newsDetail_forward_34037867"
+          "url": "https://m.baidu.com/s?word=AI%E9%99%8D%E9%80%9F%E5%91%BC%E5%A3%B0%E9%87%8D%E6%8C%AB%E8%8A%AF%E7%89%87%E8%82%A1&sa=fyb_news"
         }
       ],
       "summary": "",
-      "url": "https://www.thepaper.cn/newsDetail_forward_34037867"
+      "url": "https://m.baidu.com/s?word=AI%E9%99%8D%E9%80%9F%E5%91%BC%E5%A3%B0%E9%87%8D%E6%8C%AB%E8%8A%AF%E7%89%87%E8%82%A1&sa=fyb_news"
     },
     {
       "id": "evt-51533700",
@@ -189,7 +132,7 @@
         {
           "channel": "toutiao",
           "rank": 8,
-          "hot": 13591654,
+          "hot": 11044909,
           "url": "https://www.toutiao.com/trending/7684573230690140179/"
         }
       ],
@@ -197,61 +140,42 @@
       "url": "https://www.toutiao.com/trending/7684573230690140179/"
     },
     {
-      "id": "evt-iphone18",
-      "title": "苹果回应iPhone18Pro破发",
+      "id": "evt-17000000",
+      "title": "程序员为干私活腾空间 17 小时删光公司 89TB 数据，获刑五年十个月，暴露出哪些问题？",
       "category": "society",
-      "hotScore": 0.52,
+      "hotScore": 0.525,
       "freshness": 1,
       "crossSource": 0.6309,
-      "totalScore": 0.6973,
+      "totalScore": 0.6993,
       "sources": [
         {
-          "channel": "baidu",
-          "rank": 8,
+          "channel": "zhihu",
+          "rank": 7,
           "hot": 0,
-          "url": "https://m.baidu.com/s?word=%E8%8B%B9%E6%9E%9C%E5%9B%9E%E5%BA%94iPhone18Pro%E7%A0%B4%E5%8F%91&sa=fyb_news"
+          "url": ""
         }
       ],
       "summary": "",
-      "url": "https://m.baidu.com/s?word=%E8%8B%B9%E6%9E%9C%E5%9B%9E%E5%BA%94iPhone18Pro%E7%A0%B4%E5%8F%91&sa=fyb_news"
+      "url": ""
     },
     {
-      "id": "evt-hyr00000",
-      "title": "马上评｜赢了就是赢了？HYROX要守住体面和健康底线",
+      "id": "evt-80000000",
+      "title": "李一桐用8公斤水杯喝水",
       "category": "society",
-      "hotScore": 0.51,
-      "freshness": 1,
+      "hotScore": 0.425,
+      "freshness": 0.9999,
       "crossSource": 0.6309,
-      "totalScore": 0.6933,
+      "totalScore": 0.6593,
       "sources": [
         {
-          "channel": "thepaper",
-          "rank": 9,
-          "hot": 0,
-          "url": "https://www.thepaper.cn/newsDetail_forward_34067056"
+          "channel": "toutiao",
+          "rank": 11,
+          "hot": 8182270,
+          "url": "https://www.toutiao.com/trending/7684830462695702537/"
         }
       ],
       "summary": "",
-      "url": "https://www.thepaper.cn/newsDetail_forward_34067056"
-    },
-    {
-      "id": "evt-20000000",
-      "title": "近20省份公布社保缴费新基数",
-      "category": "society",
-      "hotScore": 0.48,
-      "freshness": 1,
-      "crossSource": 0.6309,
-      "totalScore": 0.6813,
-      "sources": [
-        {
-          "channel": "baidu",
-          "rank": 9,
-          "hot": 0,
-          "url": "https://m.baidu.com/s?word=%E8%BF%9120%E7%9C%81%E4%BB%BD%E5%85%AC%E5%B8%83%E7%A4%BE%E4%BF%9D%E7%BC%B4%E8%B4%B9%E6%96%B0%E5%9F%BA%E6%95%B0&sa=fyb_news"
-        }
-      ],
-      "summary": "",
-      "url": "https://m.baidu.com/s?word=%E8%BF%9120%E7%9C%81%E4%BB%BD%E5%85%AC%E5%B8%83%E7%A4%BE%E4%BF%9D%E7%BC%B4%E8%B4%B9%E6%96%B0%E5%9F%BA%E6%95%B0&sa=fyb_news"
+      "url": "https://www.toutiao.com/trending/7684830462695702537/"
     }
   ]
 }
