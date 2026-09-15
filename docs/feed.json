@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-09-15T00:04:32.294Z",
+  "generatedAt": "2026-09-15T06:56:40.437Z",
   "fields": {
     "society": "社会",
     "economy": "经济",
@@ -7,8 +7,8 @@
   },
   "feed": [
     {
-      "id": "evt-00000000",
-      "title": "全键盘版“阔直板”手机爆火",
+      "id": "evt-10000000",
+      "title": "10后学生流行起“呆毛”发型",
       "category": "society",
       "hotScore": 0.85,
       "freshness": 0.9999,
@@ -18,19 +18,38 @@
         {
           "channel": "toutiao",
           "rank": 1,
-          "hot": 22241716,
-          "url": "https://www.toutiao.com/trending/7684950705249583123/"
+          "hot": 13871932,
+          "url": "https://www.toutiao.com/trending/7685028726287089718/"
         }
       ],
       "summary": "",
-      "url": "https://www.toutiao.com/trending/7684950705249583123/"
+      "url": "https://www.toutiao.com/trending/7685028726287089718/"
+    },
+    {
+      "id": "evt-00000000",
+      "title": "上海楼市“金九”成色足：二手房13天网签已破万套，新盘陆续收回折扣",
+      "category": "society",
+      "hotScore": 0.85,
+      "freshness": 0.9999,
+      "crossSource": 0.6309,
+      "totalScore": 0.8293,
+      "sources": [
+        {
+          "channel": "thepaper",
+          "rank": 1,
+          "hot": 0,
+          "url": "https://www.thepaper.cn/newsDetail_forward_34067831"
+        }
+      ],
+      "summary": "",
+      "url": "https://www.thepaper.cn/newsDetail_forward_34067831"
     },
     {
       "id": "evt-a0000000",
       "title": "A股持续震荡，韧性从何而来？五大券商首席发声：多重积极因素已形成支撑",
       "category": "society",
       "hotScore": 0.8075,
-      "freshness": 1,
+      "freshness": 0.9999,
       "crossSource": 0.6309,
       "totalScore": 0.8123,
       "sources": [
@@ -45,65 +64,27 @@
       "url": "https://www.thepaper.cn/newsDetail_forward_34067660"
     },
     {
-      "id": "evt-30000000",
-      "title": "游客在距离市区约30公里的泸州东站下车后建议更改站名，官方答复",
+      "id": "evt-11800000",
+      "title": "男子苦钓三天钓起118斤大青鱼",
       "category": "society",
       "hotScore": 0.68,
-      "freshness": 1,
+      "freshness": 0.9999,
       "crossSource": 0.6309,
       "totalScore": 0.7613,
       "sources": [
         {
-          "channel": "thepaper",
+          "channel": "toutiao",
           "rank": 5,
-          "hot": 0,
-          "url": "https://www.thepaper.cn/newsDetail_forward_34064772"
+          "hot": 9298634,
+          "url": "https://www.toutiao.com/trending/7684587585252835391/"
         }
       ],
       "summary": "",
-      "url": "https://www.thepaper.cn/newsDetail_forward_34064772"
+      "url": "https://www.toutiao.com/trending/7684587585252835391/"
     },
     {
-      "id": "evt-20000000",
-      "title": "月饼200元以上不好卖了",
-      "category": "society",
-      "hotScore": 0.64,
-      "freshness": 1,
-      "crossSource": 0.6309,
-      "totalScore": 0.7453,
-      "sources": [
-        {
-          "channel": "baidu",
-          "rank": 5,
-          "hot": 0,
-          "url": "https://m.baidu.com/s?word=%E6%9C%88%E9%A5%BC200%E5%85%83%E4%BB%A5%E4%B8%8A%E4%B8%8D%E5%A5%BD%E5%8D%96%E4%BA%86&sa=fyb_news"
-        }
-      ],
-      "summary": "",
-      "url": "https://m.baidu.com/s?word=%E6%9C%88%E9%A5%BC200%E5%85%83%E4%BB%A5%E4%B8%8A%E4%B8%8D%E5%A5%BD%E5%8D%96%E4%BA%86&sa=fyb_news"
-    },
-    {
-      "id": "evt-hyrox000",
-      "title": "HYROX 外国选手比赛中失禁，主办方未叫停比赛、未进行罚时等处罚，对其他选手公平吗？怎样处理更合理？",
-      "category": "society",
-      "hotScore": 0.6375,
-      "freshness": 1,
-      "crossSource": 0.6309,
-      "totalScore": 0.7443,
-      "sources": [
-        {
-          "channel": "zhihu",
-          "rank": 4,
-          "hot": 0,
-          "url": ""
-        }
-      ],
-      "summary": "",
-      "url": ""
-    },
-    {
-      "id": "evt-ai000000",
-      "title": "AI降速呼声重挫芯片股",
+      "id": "evt-deepseek",
+      "title": "如何看待 DeepSeek 刘胜与的《我不得不把才华埋葬在昨天》？",
       "category": "society",
       "hotScore": 0.6,
       "freshness": 1,
@@ -111,46 +92,8 @@
       "totalScore": 0.7293,
       "sources": [
         {
-          "channel": "baidu",
-          "rank": 6,
-          "hot": 0,
-          "url": "https://m.baidu.com/s?word=AI%E9%99%8D%E9%80%9F%E5%91%BC%E5%A3%B0%E9%87%8D%E6%8C%AB%E8%8A%AF%E7%89%87%E8%82%A1&sa=fyb_news"
-        }
-      ],
-      "summary": "",
-      "url": "https://m.baidu.com/s?word=AI%E9%99%8D%E9%80%9F%E5%91%BC%E5%A3%B0%E9%87%8D%E6%8C%AB%E8%8A%AF%E7%89%87%E8%82%A1&sa=fyb_news"
-    },
-    {
-      "id": "evt-51533700",
-      "title": "上5休1上5休3上3休7上3休1",
-      "category": "society",
-      "hotScore": 0.5525,
-      "freshness": 0.9999,
-      "crossSource": 0.6309,
-      "totalScore": 0.7103,
-      "sources": [
-        {
-          "channel": "toutiao",
-          "rank": 8,
-          "hot": 11044909,
-          "url": "https://www.toutiao.com/trending/7684573230690140179/"
-        }
-      ],
-      "summary": "",
-      "url": "https://www.toutiao.com/trending/7684573230690140179/"
-    },
-    {
-      "id": "evt-17000000",
-      "title": "程序员为干私活腾空间 17 小时删光公司 89TB 数据，获刑五年十个月，暴露出哪些问题？",
-      "category": "society",
-      "hotScore": 0.525,
-      "freshness": 1,
-      "crossSource": 0.6309,
-      "totalScore": 0.6993,
-      "sources": [
-        {
           "channel": "zhihu",
-          "rank": 7,
+          "rank": 5,
           "hot": 0,
           "url": ""
         }
@@ -159,8 +102,27 @@
       "url": ""
     },
     {
-      "id": "evt-80000000",
-      "title": "李一桐用8公斤水杯喝水",
+      "id": "evt-12306000",
+      "title": "12306回应男子高铁喝白酒",
+      "category": "society",
+      "hotScore": 0.52,
+      "freshness": 0.9999,
+      "crossSource": 0.6309,
+      "totalScore": 0.6973,
+      "sources": [
+        {
+          "channel": "baidu",
+          "rank": 8,
+          "hot": 0,
+          "url": "https://m.baidu.com/s?word=12306%E5%9B%9E%E5%BA%94%E7%94%B7%E5%AD%90%E9%AB%98%E9%93%81%E5%96%9D%E7%99%BD%E9%85%92&sa=fyb_news"
+        }
+      ],
+      "summary": "",
+      "url": "https://m.baidu.com/s?word=12306%E5%9B%9E%E5%BA%94%E7%94%B7%E5%AD%90%E9%AB%98%E9%93%81%E5%96%9D%E7%99%BD%E9%85%92&sa=fyb_news"
+    },
+    {
+      "id": "evt-13000000",
+      "title": "四川所有高校不许连放13天？不实",
       "category": "society",
       "hotScore": 0.425,
       "freshness": 0.9999,
@@ -170,12 +132,31 @@
         {
           "channel": "toutiao",
           "rank": 11,
-          "hot": 8182270,
-          "url": "https://www.toutiao.com/trending/7684830462695702537/"
+          "hot": 5103198,
+          "url": "https://www.toutiao.com/trending/7684268397026397759/"
         }
       ],
       "summary": "",
-      "url": "https://www.toutiao.com/trending/7684830462695702537/"
+      "url": "https://www.toutiao.com/trending/7684268397026397759/"
+    },
+    {
+      "id": "evt-hyr00000",
+      "title": "马上评｜赢了就是赢了？HYROX要守住体面和健康底线",
+      "category": "society",
+      "hotScore": 0.425,
+      "freshness": 0.9999,
+      "crossSource": 0.6309,
+      "totalScore": 0.6593,
+      "sources": [
+        {
+          "channel": "thepaper",
+          "rank": 11,
+          "hot": 0,
+          "url": "https://www.thepaper.cn/newsDetail_forward_34067056"
+        }
+      ],
+      "summary": "",
+      "url": "https://www.thepaper.cn/newsDetail_forward_34067056"
     }
   ]
 }
