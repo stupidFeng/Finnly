@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-09-15T06:56:40.437Z",
+  "generatedAt": "2026-09-15T12:58:40.284Z",
   "fields": {
     "society": "社会",
     "economy": "经济",
@@ -7,27 +7,33 @@
   },
   "feed": [
     {
-      "id": "evt-10000000",
-      "title": "10后学生流行起“呆毛”发型",
+      "id": "evt-a0000000",
+      "title": "李大霄：A股牛市已经告一段落",
       "category": "society",
-      "hotScore": 0.85,
+      "hotScore": 0.7225,
       "freshness": 0.9999,
-      "crossSource": 0.6309,
-      "totalScore": 0.8293,
+      "crossSource": 1,
+      "totalScore": 0.889,
       "sources": [
         {
           "channel": "toutiao",
-          "rank": 1,
-          "hot": 13871932,
-          "url": "https://www.toutiao.com/trending/7685028726287089718/"
+          "rank": 4,
+          "hot": 4035678,
+          "url": "https://www.toutiao.com/trending/7685669070485720614/"
+        },
+        {
+          "channel": "baidu",
+          "rank": 15,
+          "hot": 0,
+          "url": "https://m.baidu.com/s?word=%E6%9D%8E%E5%A4%A7%E9%9C%84%EF%BC%9AA%E8%82%A1%E7%89%9B%E5%B8%82%E5%B7%B2%E7%BB%8F%E5%91%8A%E4%B8%80%E6%AE%B5%E8%90%BD&sa=fyb_news"
         }
       ],
       "summary": "",
-      "url": "https://www.toutiao.com/trending/7685028726287089718/"
+      "url": "https://www.toutiao.com/trending/7685669070485720614/"
     },
     {
       "id": "evt-00000000",
-      "title": "上海楼市“金九”成色足：二手房13天网签已破万套，新盘陆续收回折扣",
+      "title": "一线城市房价涨了",
       "category": "society",
       "hotScore": 0.85,
       "freshness": 0.9999,
@@ -35,59 +41,97 @@
       "totalScore": 0.8293,
       "sources": [
         {
-          "channel": "thepaper",
+          "channel": "toutiao",
+          "rank": 1,
+          "hot": 5447595,
+          "url": "https://www.toutiao.com/trending/7685663412193447470/"
+        }
+      ],
+      "summary": "",
+      "url": "https://www.toutiao.com/trending/7685663412193447470/"
+    },
+    {
+      "id": "evt-10000000",
+      "title": "100秒看习近平南亚之行三大成果",
+      "category": "society",
+      "hotScore": 0.8,
+      "freshness": 1,
+      "crossSource": 0.6309,
+      "totalScore": 0.8093,
+      "sources": [
+        {
+          "channel": "baidu",
           "rank": 1,
           "hot": 0,
-          "url": "https://www.thepaper.cn/newsDetail_forward_34067831"
+          "url": "https://m.baidu.com/s?word=100%E7%A7%92%E7%9C%8B%E4%B9%A0%E8%BF%91%E5%B9%B3%E5%8D%97%E4%BA%9A%E4%B9%8B%E8%A1%8C%E4%B8%89%E5%A4%A7%E6%88%90%E6%9E%9C&sa=fyb_news"
         }
       ],
       "summary": "",
-      "url": "https://www.thepaper.cn/newsDetail_forward_34067831"
-    },
-    {
-      "id": "evt-a0000000",
-      "title": "A股持续震荡，韧性从何而来？五大券商首席发声：多重积极因素已形成支撑",
-      "category": "society",
-      "hotScore": 0.8075,
-      "freshness": 0.9999,
-      "crossSource": 0.6309,
-      "totalScore": 0.8123,
-      "sources": [
-        {
-          "channel": "thepaper",
-          "rank": 2,
-          "hot": 0,
-          "url": "https://www.thepaper.cn/newsDetail_forward_34067660"
-        }
-      ],
-      "summary": "",
-      "url": "https://www.thepaper.cn/newsDetail_forward_34067660"
-    },
-    {
-      "id": "evt-11800000",
-      "title": "男子苦钓三天钓起118斤大青鱼",
-      "category": "society",
-      "hotScore": 0.68,
-      "freshness": 0.9999,
-      "crossSource": 0.6309,
-      "totalScore": 0.7613,
-      "sources": [
-        {
-          "channel": "toutiao",
-          "rank": 5,
-          "hot": 9298634,
-          "url": "https://www.toutiao.com/trending/7684587585252835391/"
-        }
-      ],
-      "summary": "",
-      "url": "https://www.toutiao.com/trending/7684587585252835391/"
+      "url": "https://m.baidu.com/s?word=100%E7%A7%92%E7%9C%8B%E4%B9%A0%E8%BF%91%E5%B9%B3%E5%8D%97%E4%BA%9A%E4%B9%8B%E8%A1%8C%E4%B8%89%E5%A4%A7%E6%88%90%E6%9E%9C&sa=fyb_news"
     },
     {
       "id": "evt-deepseek",
       "title": "如何看待 DeepSeek 刘胜与的《我不得不把才华埋葬在昨天》？",
       "category": "society",
-      "hotScore": 0.6,
+      "hotScore": 0.75,
+      "freshness": 0.9999,
+      "crossSource": 0.6309,
+      "totalScore": 0.7893,
+      "sources": [
+        {
+          "channel": "zhihu",
+          "rank": 1,
+          "hot": 0,
+          "url": ""
+        }
+      ],
+      "summary": "",
+      "url": ""
+    },
+    {
+      "id": "evt-80000000",
+      "title": "一组数据看8月份国民经济运行平稳",
+      "category": "economy",
+      "hotScore": 0.765,
+      "freshness": 0.9999,
+      "crossSource": 0.6309,
+      "totalScore": 0.7953,
+      "sources": [
+        {
+          "channel": "toutiao",
+          "rank": 3,
+          "hot": 4460114,
+          "url": "https://www.toutiao.com/trending/7684590075107380772/"
+        }
+      ],
+      "summary": "",
+      "url": "https://www.toutiao.com/trending/7684590075107380772/"
+    },
+    {
+      "id": "evt-30000000",
+      "title": "景区称30岁以上老人免费领登山杖",
+      "category": "society",
+      "hotScore": 0.64,
       "freshness": 1,
+      "crossSource": 0.6309,
+      "totalScore": 0.7453,
+      "sources": [
+        {
+          "channel": "baidu",
+          "rank": 5,
+          "hot": 0,
+          "url": "https://m.baidu.com/s?word=%E6%99%AF%E5%8C%BA%E7%A7%B030%E5%B2%81%E4%BB%A5%E4%B8%8A%E8%80%81%E4%BA%BA%E5%85%8D%E8%B4%B9%E9%A2%86%E7%99%BB%E5%B1%B1%E6%9D%96&sa=fyb_news"
+        }
+      ],
+      "summary": "",
+      "url": "https://m.baidu.com/s?word=%E6%99%AF%E5%8C%BA%E7%A7%B030%E5%B2%81%E4%BB%A5%E4%B8%8A%E8%80%81%E4%BA%BA%E5%85%8D%E8%B4%B9%E9%A2%86%E7%99%BB%E5%B1%B1%E6%9D%96&sa=fyb_news"
+    },
+    {
+      "id": "evt-palan000",
+      "title": "如何看待英伟达、 Palantir 等金主集体限制 Anthropic Claude 使用？",
+      "category": "society",
+      "hotScore": 0.6,
+      "freshness": 0.9999,
       "crossSource": 0.6309,
       "totalScore": 0.7293,
       "sources": [
@@ -102,11 +146,49 @@
       "url": ""
     },
     {
-      "id": "evt-12306000",
-      "title": "12306回应男子高铁喝白酒",
+      "id": "evt-23000000",
+      "title": "如何评价湘雅医院「23 年未见父母，每天睡 2 小时」教师 PPT 争议？影响如何？是否存在夸大及其它相关问题？",
+      "category": "society",
+      "hotScore": 0.5625,
+      "freshness": 0.9999,
+      "crossSource": 0.6309,
+      "totalScore": 0.7143,
+      "sources": [
+        {
+          "channel": "zhihu",
+          "rank": 6,
+          "hot": 0,
+          "url": ""
+        }
+      ],
+      "summary": "",
+      "url": ""
+    },
+    {
+      "id": "evt-47000000",
+      "title": "王健林又卖掉一个 47 亿资产，万达旗下盈方体育将 HYROX 多数股权卖给 LVMH 旗下机构，这意味着什么？",
+      "category": "society",
+      "hotScore": 0.525,
+      "freshness": 0.9999,
+      "crossSource": 0.6309,
+      "totalScore": 0.6993,
+      "sources": [
+        {
+          "channel": "zhihu",
+          "rank": 7,
+          "hot": 0,
+          "url": ""
+        }
+      ],
+      "summary": "",
+      "url": ""
+    },
+    {
+      "id": "evt-ppt23000",
+      "title": "教师PPT写23年未见父母每天睡2小时",
       "category": "society",
       "hotScore": 0.52,
-      "freshness": 0.9999,
+      "freshness": 1,
       "crossSource": 0.6309,
       "totalScore": 0.6973,
       "sources": [
@@ -114,15 +196,72 @@
           "channel": "baidu",
           "rank": 8,
           "hot": 0,
-          "url": "https://m.baidu.com/s?word=12306%E5%9B%9E%E5%BA%94%E7%94%B7%E5%AD%90%E9%AB%98%E9%93%81%E5%96%9D%E7%99%BD%E9%85%92&sa=fyb_news"
+          "url": "https://m.baidu.com/s?word=%E6%95%99%E5%B8%88PPT%E5%86%9923%E5%B9%B4%E6%9C%AA%E8%A7%81%E7%88%B6%E6%AF%8D%E6%AF%8F%E5%A4%A9%E7%9D%A12%E5%B0%8F%E6%97%B6&sa=fyb_news"
         }
       ],
       "summary": "",
-      "url": "https://m.baidu.com/s?word=12306%E5%9B%9E%E5%BA%94%E7%94%B7%E5%AD%90%E9%AB%98%E9%93%81%E5%96%9D%E7%99%BD%E9%85%92&sa=fyb_news"
+      "url": "https://m.baidu.com/s?word=%E6%95%99%E5%B8%88PPT%E5%86%9923%E5%B9%B4%E6%9C%AA%E8%A7%81%E7%88%B6%E6%AF%8D%E6%AF%8F%E5%A4%A9%E7%9D%A12%E5%B0%8F%E6%97%B6&sa=fyb_news"
+    },
+    {
+      "id": "evt-19950000",
+      "title": "男子1995年存一万定期一年但忘了30年",
+      "category": "society",
+      "hotScore": 0.51,
+      "freshness": 0.9999,
+      "crossSource": 0.6309,
+      "totalScore": 0.6933,
+      "sources": [
+        {
+          "channel": "toutiao",
+          "rank": 9,
+          "hot": 2447762,
+          "url": "https://www.toutiao.com/trending/7685521416808054803/"
+        }
+      ],
+      "summary": "",
+      "url": "https://www.toutiao.com/trending/7685521416808054803/"
+    },
+    {
+      "id": "evt-60000000",
+      "title": "卫健委拟延长献血年龄至65岁",
+      "category": "society",
+      "hotScore": 0.4675,
+      "freshness": 0.9999,
+      "crossSource": 0.6309,
+      "totalScore": 0.6763,
+      "sources": [
+        {
+          "channel": "toutiao",
+          "rank": 10,
+          "hot": 2214827,
+          "url": "https://www.toutiao.com/trending/7685459280593682953/"
+        }
+      ],
+      "summary": "",
+      "url": "https://www.toutiao.com/trending/7685459280593682953/"
+    },
+    {
+      "id": "evt-84500000",
+      "title": "被踢出845个工作群，女子遭公司“冷处理”最新后续：公积金追缴已到账",
+      "category": "society",
+      "hotScore": 0.4675,
+      "freshness": 1,
+      "crossSource": 0.6309,
+      "totalScore": 0.6763,
+      "sources": [
+        {
+          "channel": "thepaper",
+          "rank": 10,
+          "hot": 0,
+          "url": "https://www.thepaper.cn/newsDetail_forward_34069445"
+        }
+      ],
+      "summary": "",
+      "url": "https://www.thepaper.cn/newsDetail_forward_34069445"
     },
     {
       "id": "evt-13000000",
-      "title": "四川所有高校不许连放13天？不实",
+      "title": "四川辟谣高校禁连放13天假",
       "category": "society",
       "hotScore": 0.425,
       "freshness": 0.9999,
@@ -132,31 +271,12 @@
         {
           "channel": "toutiao",
           "rank": 11,
-          "hot": 5103198,
+          "hot": 2004058,
           "url": "https://www.toutiao.com/trending/7684268397026397759/"
         }
       ],
       "summary": "",
       "url": "https://www.toutiao.com/trending/7684268397026397759/"
-    },
-    {
-      "id": "evt-hyr00000",
-      "title": "马上评｜赢了就是赢了？HYROX要守住体面和健康底线",
-      "category": "society",
-      "hotScore": 0.425,
-      "freshness": 0.9999,
-      "crossSource": 0.6309,
-      "totalScore": 0.6593,
-      "sources": [
-        {
-          "channel": "thepaper",
-          "rank": 11,
-          "hot": 0,
-          "url": "https://www.thepaper.cn/newsDetail_forward_34067056"
-        }
-      ],
-      "summary": "",
-      "url": "https://www.thepaper.cn/newsDetail_forward_34067056"
     }
   ]
 }
