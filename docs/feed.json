@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-09-16T08:55:30.393Z",
+  "generatedAt": "2026-09-16T14:27:11.840Z",
   "fields": {
     "society": "社会",
     "economy": "经济",
@@ -8,32 +8,7 @@
   "feed": [
     {
       "id": "evt-00000000",
-      "title": "多国奥委会批评日本",
-      "category": "society",
-      "hotScore": 0.72,
-      "freshness": 1,
-      "crossSource": 1,
-      "totalScore": 0.888,
-      "sources": [
-        {
-          "channel": "toutiao",
-          "rank": 8,
-          "hot": 7413284,
-          "url": "https://www.toutiao.com/trending/7685579694216987187/"
-        },
-        {
-          "channel": "baidu",
-          "rank": 3,
-          "hot": 0,
-          "url": "https://m.baidu.com/s?word=%E5%A4%9A%E5%9B%BD%E5%A5%A5%E5%A7%94%E4%BC%9A%E6%89%B9%E8%AF%84%E6%97%A5%E6%9C%AC&sa=fyb_news"
-        }
-      ],
-      "summary": "",
-      "url": "https://www.toutiao.com/trending/7685579694216987187/"
-    },
-    {
-      "id": "evt-80000000",
-      "title": "见微知沪｜8岁孩子受委屈报的警，为何值得被认真对待？",
+      "title": "受赠文物事件处理结果公布！南京博物院原院长徐湖平获刑三年",
       "category": "society",
       "hotScore": 0.85,
       "freshness": 1,
@@ -44,78 +19,53 @@
           "channel": "thepaper",
           "rank": 1,
           "hot": 0,
-          "url": "https://www.thepaper.cn/newsDetail_forward_34074147"
+          "url": "https://www.thepaper.cn/newsDetail_forward_34081492"
         }
       ],
       "summary": "",
-      "url": "https://www.thepaper.cn/newsDetail_forward_34074147"
+      "url": "https://www.thepaper.cn/newsDetail_forward_34081492"
     },
     {
-      "id": "evt-32000000",
-      "title": "32岁教师因病去世 朋友圈留绝笔信",
-      "category": "society",
-      "hotScore": 0.56,
-      "freshness": 1,
-      "crossSource": 1,
-      "totalScore": 0.824,
-      "sources": [
-        {
-          "channel": "toutiao",
-          "rank": 17,
-          "hot": 3014016,
-          "url": "https://www.toutiao.com/trending/7685565163155734564/"
-        },
-        {
-          "channel": "baidu",
-          "rank": 7,
-          "hot": 0,
-          "url": "https://m.baidu.com/s?word=32%E5%B2%81%E6%95%99%E5%B8%88%E5%9B%A0%E7%97%85%E5%8E%BB%E4%B8%96+%E6%9C%8B%E5%8F%8B%E5%9C%88%E7%95%99%E7%BB%9D%E7%AC%94%E4%BF%A1&sa=fyb_news"
-        }
-      ],
-      "summary": "",
-      "url": "https://www.toutiao.com/trending/7685565163155734564/"
-    },
-    {
-      "id": "evt-ai000000",
-      "title": "AI“减速”争论中，华尔街热议万亿美元资本开支去向，算力需求会消失吗？",
+      "id": "evt-30000000",
+      "title": "父母离世后小伙3次应征终入伍",
       "category": "society",
       "hotScore": 0.8075,
-      "freshness": 1,
+      "freshness": 0.9998,
       "crossSource": 0.6309,
-      "totalScore": 0.8123,
-      "sources": [
-        {
-          "channel": "thepaper",
-          "rank": 2,
-          "hot": 0,
-          "url": "https://www.thepaper.cn/newsDetail_forward_34074387"
-        }
-      ],
-      "summary": "",
-      "url": "https://www.thepaper.cn/newsDetail_forward_34074387"
-    },
-    {
-      "id": "evt-24300000",
-      "title": "退休副省长家丢了243万元茅台名酒",
-      "category": "society",
-      "hotScore": 0.7225,
-      "freshness": 1,
-      "crossSource": 0.6309,
-      "totalScore": 0.7783,
+      "totalScore": 0.8122,
       "sources": [
         {
           "channel": "toutiao",
-          "rank": 4,
-          "hot": 11059321,
-          "url": "https://www.toutiao.com/trending/7685962358988243007/"
+          "rank": 2,
+          "hot": 13935820,
+          "url": "https://www.toutiao.com/trending/7685332470573481990/"
         }
       ],
       "summary": "",
-      "url": "https://www.toutiao.com/trending/7685962358988243007/"
+      "url": "https://www.toutiao.com/trending/7685332470573481990/"
     },
     {
-      "id": "evt-44600000",
-      "title": "韩国法院判朝鲜赔偿446亿韩元",
+      "id": "evt-10000000",
+      "title": "夏粮收购总量超1亿吨",
+      "category": "society",
+      "hotScore": 0.765,
+      "freshness": 0.9998,
+      "crossSource": 0.6309,
+      "totalScore": 0.7952,
+      "sources": [
+        {
+          "channel": "toutiao",
+          "rank": 3,
+          "hot": 12609651,
+          "url": "https://www.toutiao.com/trending/7686044900084957222/"
+        }
+      ],
+      "summary": "",
+      "url": "https://www.toutiao.com/trending/7686044900084957222/"
+    },
+    {
+      "id": "evt-logo0000",
+      "title": "上海歌剧院新Logo被网友吐槽，院长石倚洁发文回应",
       "category": "society",
       "hotScore": 0.68,
       "freshness": 1,
@@ -123,27 +73,71 @@
       "totalScore": 0.7613,
       "sources": [
         {
-          "channel": "toutiao",
+          "channel": "thepaper",
           "rank": 5,
-          "hot": 10006887,
-          "url": "https://www.toutiao.com/trending/7685977130769646107/"
+          "hot": 0,
+          "url": "https://www.thepaper.cn/newsDetail_forward_34076823"
         }
       ],
       "summary": "",
-      "url": "https://www.toutiao.com/trending/7685977130769646107/"
+      "url": "https://www.thepaper.cn/newsDetail_forward_34076823"
+    },
+    {
+      "id": "evt-50000000",
+      "title": "女演员心脏骤停康复5年后重新拍戏",
+      "category": "entertainment",
+      "hotScore": 0.48,
+      "freshness": 0.9998,
+      "crossSource": 1,
+      "totalScore": 0.792,
+      "sources": [
+        {
+          "channel": "toutiao",
+          "rank": 13,
+          "hot": 4638831,
+          "url": "https://www.toutiao.com/trending/7686066912976420873/"
+        },
+        {
+          "channel": "baidu",
+          "rank": 9,
+          "hot": 0,
+          "url": "https://m.baidu.com/s?word=%E5%A5%B3%E6%BC%94%E5%91%98%E5%BF%83%E8%84%8F%E9%AA%A4%E5%81%9C%E5%BA%B7%E5%A4%8D5%E5%B9%B4%E5%90%8E%E9%87%8D%E6%96%B0%E6%8B%8D%E6%88%8F&sa=fyb_news"
+        }
+      ],
+      "summary": "",
+      "url": "https://www.toutiao.com/trending/7686066912976420873/"
+    },
+    {
+      "id": "evt-u2321000",
+      "title": "亚运会U23国足2-1逆转朝鲜",
+      "category": "society",
+      "hotScore": 0.68,
+      "freshness": 0.9998,
+      "crossSource": 0.6309,
+      "totalScore": 0.7612,
+      "sources": [
+        {
+          "channel": "toutiao",
+          "rank": 5,
+          "hot": 10323909,
+          "url": "https://www.toutiao.com/trending/7686100621266521606/"
+        }
+      ],
+      "summary": "",
+      "url": "https://www.toutiao.com/trending/7686100621266521606/"
     },
     {
       "id": "evt-qq000000",
       "title": "为什么 QQ 邮箱这么好用大家还是觉得它「档次不够高」？",
       "category": "society",
-      "hotScore": 0.6,
-      "freshness": 1,
+      "hotScore": 0.6375,
+      "freshness": 0.9998,
       "crossSource": 0.6309,
-      "totalScore": 0.7293,
+      "totalScore": 0.7442,
       "sources": [
         {
           "channel": "zhihu",
-          "rank": 5,
+          "rank": 4,
           "hot": 0,
           "url": ""
         }
@@ -152,13 +146,13 @@
       "url": ""
     },
     {
-      "id": "evt-38000000",
-      "title": "野人先生创始人曾回应 38 元一个冰淇淋太贵，称自己的品牌把行业价格打下来了，客观来看这个定价合理吗？",
+      "id": "evt-20000000",
+      "title": "啄木鸟维修更换开关收费 2800 元，投诉后仅退款 1000 元，这合理吗？家庭维修为啥难明码标价？",
       "category": "society",
       "hotScore": 0.5625,
-      "freshness": 1,
+      "freshness": 0.9998,
       "crossSource": 0.6309,
-      "totalScore": 0.7143,
+      "totalScore": 0.7142,
       "sources": [
         {
           "channel": "zhihu",
@@ -171,13 +165,32 @@
       "url": ""
     },
     {
-      "id": "evt-20270000",
-      "title": "携程上架维珍银河 2027 太空旅行船票，510 万元一张，亚轨道太空游能体验什么？值这个价吗？",
+      "id": "evt-10500000",
+      "title": "身家1050亿美元！张一鸣首次成为亚洲首富",
       "category": "society",
-      "hotScore": 0.4875,
+      "hotScore": 0.5525,
       "freshness": 1,
       "crossSource": 0.6309,
-      "totalScore": 0.6843,
+      "totalScore": 0.7103,
+      "sources": [
+        {
+          "channel": "thepaper",
+          "rank": 8,
+          "hot": 0,
+          "url": "https://www.thepaper.cn/newsDetail_forward_34082171"
+        }
+      ],
+      "summary": "",
+      "url": "https://www.thepaper.cn/newsDetail_forward_34082171"
+    },
+    {
+      "id": "evt-90000000",
+      "title": "港中大（深圳）实行 9 个月工资制，并期望年轻教授 5 年内获诺奖，这会如何影响学术生态？",
+      "category": "society",
+      "hotScore": 0.4875,
+      "freshness": 0.9998,
+      "crossSource": 0.6309,
+      "totalScore": 0.6842,
       "sources": [
         {
           "channel": "zhihu",
@@ -188,25 +201,6 @@
       ],
       "summary": "",
       "url": ""
-    },
-    {
-      "id": "evt-10000000",
-      "title": "啄木鸟维修换1个开关收费2800",
-      "category": "society",
-      "hotScore": 0.44,
-      "freshness": 1,
-      "crossSource": 0.6309,
-      "totalScore": 0.6653,
-      "sources": [
-        {
-          "channel": "baidu",
-          "rank": 10,
-          "hot": 0,
-          "url": "https://m.baidu.com/s?word=%E5%95%84%E6%9C%A8%E9%B8%9F%E7%BB%B4%E4%BF%AE%E6%8D%A21%E4%B8%AA%E5%BC%80%E5%85%B3%E6%94%B6%E8%B4%B92800&sa=fyb_news"
-        }
-      ],
-      "summary": "",
-      "url": "https://m.baidu.com/s?word=%E5%95%84%E6%9C%A8%E9%B8%9F%E7%BB%B4%E4%BF%AE%E6%8D%A21%E4%B8%AA%E5%BC%80%E5%85%B3%E6%94%B6%E8%B4%B92800&sa=fyb_news"
     }
   ]
 }
