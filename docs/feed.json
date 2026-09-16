@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-09-16T02:17:52.772Z",
+  "generatedAt": "2026-09-16T08:55:30.393Z",
   "fields": {
     "society": "社会",
     "economy": "经济",
@@ -8,28 +8,28 @@
   "feed": [
     {
       "id": "evt-00000000",
-      "title": "崔天凯：一劳永逸解决台湾问题",
+      "title": "多国奥委会批评日本",
       "category": "society",
-      "hotScore": 0.85,
-      "freshness": 0.9999,
+      "hotScore": 0.72,
+      "freshness": 1,
       "crossSource": 1,
-      "totalScore": 0.94,
+      "totalScore": 0.888,
       "sources": [
         {
           "channel": "toutiao",
-          "rank": 1,
-          "hot": 9145006,
-          "url": "https://www.toutiao.com/trending/7685701201656054318/"
+          "rank": 8,
+          "hot": 7413284,
+          "url": "https://www.toutiao.com/trending/7685579694216987187/"
         },
         {
           "channel": "baidu",
-          "rank": 2,
+          "rank": 3,
           "hot": 0,
-          "url": "https://m.baidu.com/s?word=%E5%B4%94%E5%A4%A9%E5%87%AF%EF%BC%9A%E4%B8%80%E5%8A%B3%E6%B0%B8%E9%80%B8%E8%A7%A3%E5%86%B3%E5%8F%B0%E6%B9%BE%E9%97%AE%E9%A2%98&sa=fyb_news"
+          "url": "https://m.baidu.com/s?word=%E5%A4%9A%E5%9B%BD%E5%A5%A5%E5%A7%94%E4%BC%9A%E6%89%B9%E8%AF%84%E6%97%A5%E6%9C%AC&sa=fyb_news"
         }
       ],
       "summary": "",
-      "url": "https://www.toutiao.com/trending/7685701201656054318/"
+      "url": "https://www.toutiao.com/trending/7685579694216987187/"
     },
     {
       "id": "evt-80000000",
@@ -51,6 +51,31 @@
       "url": "https://www.thepaper.cn/newsDetail_forward_34074147"
     },
     {
+      "id": "evt-32000000",
+      "title": "32岁教师因病去世 朋友圈留绝笔信",
+      "category": "society",
+      "hotScore": 0.56,
+      "freshness": 1,
+      "crossSource": 1,
+      "totalScore": 0.824,
+      "sources": [
+        {
+          "channel": "toutiao",
+          "rank": 17,
+          "hot": 3014016,
+          "url": "https://www.toutiao.com/trending/7685565163155734564/"
+        },
+        {
+          "channel": "baidu",
+          "rank": 7,
+          "hot": 0,
+          "url": "https://m.baidu.com/s?word=32%E5%B2%81%E6%95%99%E5%B8%88%E5%9B%A0%E7%97%85%E5%8E%BB%E4%B8%96+%E6%9C%8B%E5%8F%8B%E5%9C%88%E7%95%99%E7%BB%9D%E7%AC%94%E4%BF%A1&sa=fyb_news"
+        }
+      ],
+      "summary": "",
+      "url": "https://www.toutiao.com/trending/7685565163155734564/"
+    },
+    {
       "id": "evt-ai000000",
       "title": "AI“减速”争论中，华尔街热议万亿美元资本开支去向，算力需求会消失吗？",
       "category": "society",
@@ -70,36 +95,74 @@
       "url": "https://www.thepaper.cn/newsDetail_forward_34074387"
     },
     {
-      "id": "evt-10000000",
-      "title": "100秒看习近平南亚之行三大成果",
+      "id": "evt-24300000",
+      "title": "退休副省长家丢了243万元茅台名酒",
       "category": "society",
-      "hotScore": 0.8,
-      "freshness": 0.9999,
+      "hotScore": 0.7225,
+      "freshness": 1,
       "crossSource": 0.6309,
-      "totalScore": 0.8093,
+      "totalScore": 0.7783,
       "sources": [
         {
-          "channel": "baidu",
-          "rank": 1,
-          "hot": 0,
-          "url": "https://m.baidu.com/s?word=100%E7%A7%92%E7%9C%8B%E4%B9%A0%E8%BF%91%E5%B9%B3%E5%8D%97%E4%BA%9A%E4%B9%8B%E8%A1%8C%E4%B8%89%E5%A4%A7%E6%88%90%E6%9E%9C&sa=fyb_news"
+          "channel": "toutiao",
+          "rank": 4,
+          "hot": 11059321,
+          "url": "https://www.toutiao.com/trending/7685962358988243007/"
         }
       ],
       "summary": "",
-      "url": "https://m.baidu.com/s?word=100%E7%A7%92%E7%9C%8B%E4%B9%A0%E8%BF%91%E5%B9%B3%E5%8D%97%E4%BA%9A%E4%B9%8B%E8%A1%8C%E4%B8%89%E5%A4%A7%E6%88%90%E6%9E%9C&sa=fyb_news"
+      "url": "https://www.toutiao.com/trending/7685962358988243007/"
+    },
+    {
+      "id": "evt-44600000",
+      "title": "韩国法院判朝鲜赔偿446亿韩元",
+      "category": "society",
+      "hotScore": 0.68,
+      "freshness": 1,
+      "crossSource": 0.6309,
+      "totalScore": 0.7613,
+      "sources": [
+        {
+          "channel": "toutiao",
+          "rank": 5,
+          "hot": 10006887,
+          "url": "https://www.toutiao.com/trending/7685977130769646107/"
+        }
+      ],
+      "summary": "",
+      "url": "https://www.toutiao.com/trending/7685977130769646107/"
+    },
+    {
+      "id": "evt-qq000000",
+      "title": "为什么 QQ 邮箱这么好用大家还是觉得它「档次不够高」？",
+      "category": "society",
+      "hotScore": 0.6,
+      "freshness": 1,
+      "crossSource": 0.6309,
+      "totalScore": 0.7293,
+      "sources": [
+        {
+          "channel": "zhihu",
+          "rank": 5,
+          "hot": 0,
+          "url": ""
+        }
+      ],
+      "summary": "",
+      "url": ""
     },
     {
       "id": "evt-38000000",
       "title": "野人先生创始人曾回应 38 元一个冰淇淋太贵，称自己的品牌把行业价格打下来了，客观来看这个定价合理吗？",
       "category": "society",
-      "hotScore": 0.75,
-      "freshness": 0.9999,
+      "hotScore": 0.5625,
+      "freshness": 1,
       "crossSource": 0.6309,
-      "totalScore": 0.7892,
+      "totalScore": 0.7143,
       "sources": [
         {
           "channel": "zhihu",
-          "rank": 1,
+          "rank": 6,
           "hot": 0,
           "url": ""
         }
@@ -108,17 +171,17 @@
       "url": ""
     },
     {
-      "id": "evt-23000000",
-      "title": "如何评价湘雅医院「23 年未见父母，每天睡 2 小时」教师 PPT 争议？影响如何？是否存在夸大及其它相关问题？",
+      "id": "evt-20270000",
+      "title": "携程上架维珍银河 2027 太空旅行船票，510 万元一张，亚轨道太空游能体验什么？值这个价吗？",
       "category": "society",
-      "hotScore": 0.675,
-      "freshness": 0.9999,
+      "hotScore": 0.4875,
+      "freshness": 1,
       "crossSource": 0.6309,
-      "totalScore": 0.7592,
+      "totalScore": 0.6843,
       "sources": [
         {
           "channel": "zhihu",
-          "rank": 3,
+          "rank": 8,
           "hot": 0,
           "url": ""
         }
@@ -127,61 +190,23 @@
       "url": ""
     },
     {
-      "id": "evt-21110000",
-      "title": "小伙211毕业卖手机第1个月赚3万",
+      "id": "evt-10000000",
+      "title": "啄木鸟维修换1个开关收费2800",
       "category": "society",
-      "hotScore": 0.6,
-      "freshness": 0.9999,
+      "hotScore": 0.44,
+      "freshness": 1,
       "crossSource": 0.6309,
-      "totalScore": 0.7292,
+      "totalScore": 0.6653,
       "sources": [
         {
           "channel": "baidu",
-          "rank": 6,
-          "hot": 0,
-          "url": "https://m.baidu.com/s?word=%E5%B0%8F%E4%BC%99211%E6%AF%95%E4%B8%9A%E5%8D%96%E6%89%8B%E6%9C%BA%E7%AC%AC1%E4%B8%AA%E6%9C%88%E8%B5%9A3%E4%B8%87&sa=fyb_news"
-        }
-      ],
-      "summary": "",
-      "url": "https://m.baidu.com/s?word=%E5%B0%8F%E4%BC%99211%E6%AF%95%E4%B8%9A%E5%8D%96%E6%89%8B%E6%9C%BA%E7%AC%AC1%E4%B8%AA%E6%9C%88%E8%B5%9A3%E4%B8%87&sa=fyb_news"
-    },
-    {
-      "id": "evt-11300000",
-      "title": "存1万定期1年但忘了30年",
-      "category": "society",
-      "hotScore": 0.4675,
-      "freshness": 0.9999,
-      "crossSource": 0.6309,
-      "totalScore": 0.6762,
-      "sources": [
-        {
-          "channel": "toutiao",
           "rank": 10,
-          "hot": 3718082,
-          "url": "https://www.toutiao.com/trending/7685521416808054803/"
-        }
-      ],
-      "summary": "",
-      "url": "https://www.toutiao.com/trending/7685521416808054803/"
-    },
-    {
-      "id": "evt-90000000",
-      "title": "马上评｜9个亲戚争遗产，“房产归国家”是尊重逝者意愿",
-      "category": "society",
-      "hotScore": 0.425,
-      "freshness": 1,
-      "crossSource": 0.6309,
-      "totalScore": 0.6593,
-      "sources": [
-        {
-          "channel": "thepaper",
-          "rank": 11,
           "hot": 0,
-          "url": "https://www.thepaper.cn/newsDetail_forward_34073073"
+          "url": "https://m.baidu.com/s?word=%E5%95%84%E6%9C%A8%E9%B8%9F%E7%BB%B4%E4%BF%AE%E6%8D%A21%E4%B8%AA%E5%BC%80%E5%85%B3%E6%94%B6%E8%B4%B92800&sa=fyb_news"
         }
       ],
       "summary": "",
-      "url": "https://www.thepaper.cn/newsDetail_forward_34073073"
+      "url": "https://m.baidu.com/s?word=%E5%95%84%E6%9C%A8%E9%B8%9F%E7%BB%B4%E4%BF%AE%E6%8D%A21%E4%B8%AA%E5%BC%80%E5%85%B3%E6%94%B6%E8%B4%B92800&sa=fyb_news"
     }
   ]
 }
