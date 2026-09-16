@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-09-15T23:49:03.796Z",
+  "generatedAt": "2026-09-16T02:17:52.772Z",
   "fields": {
     "society": "社会",
     "economy": "经济",
@@ -10,15 +10,15 @@
       "id": "evt-00000000",
       "title": "崔天凯：一劳永逸解决台湾问题",
       "category": "society",
-      "hotScore": 0.8075,
+      "hotScore": 0.85,
       "freshness": 0.9999,
       "crossSource": 1,
-      "totalScore": 0.923,
+      "totalScore": 0.94,
       "sources": [
         {
           "channel": "toutiao",
-          "rank": 2,
-          "hot": 7105580,
+          "rank": 1,
+          "hot": 9145006,
           "url": "https://www.toutiao.com/trending/7685701201656054318/"
         },
         {
@@ -51,23 +51,23 @@
       "url": "https://www.thepaper.cn/newsDetail_forward_34074147"
     },
     {
-      "id": "evt-11300000",
-      "title": "存1万定期1年但忘了30年",
+      "id": "evt-ai000000",
+      "title": "AI“减速”争论中，华尔街热议万亿美元资本开支去向，算力需求会消失吗？",
       "category": "society",
-      "hotScore": 0.85,
-      "freshness": 0.9999,
+      "hotScore": 0.8075,
+      "freshness": 1,
       "crossSource": 0.6309,
-      "totalScore": 0.8292,
+      "totalScore": 0.8123,
       "sources": [
         {
-          "channel": "toutiao",
-          "rank": 1,
-          "hot": 7852881,
-          "url": "https://www.toutiao.com/trending/7685521416808054803/"
+          "channel": "thepaper",
+          "rank": 2,
+          "hot": 0,
+          "url": "https://www.thepaper.cn/newsDetail_forward_34074387"
         }
       ],
       "summary": "",
-      "url": "https://www.toutiao.com/trending/7685521416808054803/"
+      "url": "https://www.thepaper.cn/newsDetail_forward_34074387"
     },
     {
       "id": "evt-10000000",
@@ -76,7 +76,7 @@
       "hotScore": 0.8,
       "freshness": 0.9999,
       "crossSource": 0.6309,
-      "totalScore": 0.8092,
+      "totalScore": 0.8093,
       "sources": [
         {
           "channel": "baidu",
@@ -89,8 +89,8 @@
       "url": "https://m.baidu.com/s?word=100%E7%A7%92%E7%9C%8B%E4%B9%A0%E8%BF%91%E5%B9%B3%E5%8D%97%E4%BA%9A%E4%B9%8B%E8%A1%8C%E4%B8%89%E5%A4%A7%E6%88%90%E6%9E%9C&sa=fyb_news"
     },
     {
-      "id": "evt-23000000",
-      "title": "如何评价湘雅医院「23 年未见父母，每天睡 2 小时」教师 PPT 争议？影响如何？是否存在夸大及其它相关问题？",
+      "id": "evt-38000000",
+      "title": "野人先生创始人曾回应 38 元一个冰淇淋太贵，称自己的品牌把行业价格打下来了，客观来看这个定价合理吗？",
       "category": "society",
       "hotScore": 0.75,
       "freshness": 0.9999,
@@ -108,17 +108,17 @@
       "url": ""
     },
     {
-      "id": "evt-palan000",
-      "title": "如何看待英伟达、 Palantir 等金主集体限制 Anthropic Claude 使用？",
+      "id": "evt-23000000",
+      "title": "如何评价湘雅医院「23 年未见父母，每天睡 2 小时」教师 PPT 争议？影响如何？是否存在夸大及其它相关问题？",
       "category": "society",
-      "hotScore": 0.7125,
+      "hotScore": 0.675,
       "freshness": 0.9999,
       "crossSource": 0.6309,
-      "totalScore": 0.7742,
+      "totalScore": 0.7592,
       "sources": [
         {
           "channel": "zhihu",
-          "rank": 2,
+          "rank": 3,
           "hot": 0,
           "url": ""
         }
@@ -127,99 +127,61 @@
       "url": ""
     },
     {
-      "id": "evt-ai000000",
-      "title": "AI正在惩罚用它写作业的中学生",
+      "id": "evt-21110000",
+      "title": "小伙211毕业卖手机第1个月赚3万",
       "category": "society",
-      "hotScore": 0.64,
+      "hotScore": 0.6,
       "freshness": 0.9999,
       "crossSource": 0.6309,
-      "totalScore": 0.7452,
+      "totalScore": 0.7292,
       "sources": [
         {
           "channel": "baidu",
-          "rank": 5,
+          "rank": 6,
           "hot": 0,
-          "url": "https://m.baidu.com/s?word=AI%E6%AD%A3%E5%9C%A8%E6%83%A9%E7%BD%9A%E7%94%A8%E5%AE%83%E5%86%99%E4%BD%9C%E4%B8%9A%E7%9A%84%E4%B8%AD%E5%AD%A6%E7%94%9F&sa=fyb_news"
+          "url": "https://m.baidu.com/s?word=%E5%B0%8F%E4%BC%99211%E6%AF%95%E4%B8%9A%E5%8D%96%E6%89%8B%E6%9C%BA%E7%AC%AC1%E4%B8%AA%E6%9C%88%E8%B5%9A3%E4%B8%87&sa=fyb_news"
         }
       ],
       "summary": "",
-      "url": "https://m.baidu.com/s?word=AI%E6%AD%A3%E5%9C%A8%E6%83%A9%E7%BD%9A%E7%94%A8%E5%AE%83%E5%86%99%E4%BD%9C%E4%B8%9A%E7%9A%84%E4%B8%AD%E5%AD%A6%E7%94%9F&sa=fyb_news"
+      "url": "https://m.baidu.com/s?word=%E5%B0%8F%E4%BC%99211%E6%AF%95%E4%B8%9A%E5%8D%96%E6%89%8B%E6%9C%BA%E7%AC%AC1%E4%B8%AA%E6%9C%88%E8%B5%9A3%E4%B8%87&sa=fyb_news"
     },
     {
-      "id": "evt-72000000",
-      "title": "报告显示 72% 的成年人未达饮用水适宜摄入量，水没喝够会对身体产生啥影响？该怎样正确喝水？",
+      "id": "evt-11300000",
+      "title": "存1万定期1年但忘了30年",
       "category": "society",
-      "hotScore": 0.525,
+      "hotScore": 0.4675,
       "freshness": 0.9999,
       "crossSource": 0.6309,
-      "totalScore": 0.6992,
+      "totalScore": 0.6762,
       "sources": [
         {
-          "channel": "zhihu",
-          "rank": 7,
-          "hot": 0,
-          "url": ""
-        }
-      ],
-      "summary": "",
-      "url": ""
-    },
-    {
-      "id": "evt-38000000",
-      "title": "野人先生创始人曾回应 38 元一个冰淇淋太贵，称自己的品牌把行业价格打下来了，客观来看这个定价合理吗？",
-      "category": "society",
-      "hotScore": 0.4875,
-      "freshness": 0.9999,
-      "crossSource": 0.6309,
-      "totalScore": 0.6842,
-      "sources": [
-        {
-          "channel": "zhihu",
-          "rank": 8,
-          "hot": 0,
-          "url": ""
-        }
-      ],
-      "summary": "",
-      "url": ""
-    },
-    {
-      "id": "evt-deepseek",
-      "title": "如何看待 DeepSeek 刘胜与的《我不得不把才华埋葬在昨天》？",
-      "category": "society",
-      "hotScore": 0.45,
-      "freshness": 0.9999,
-      "crossSource": 0.6309,
-      "totalScore": 0.6692,
-      "sources": [
-        {
-          "channel": "zhihu",
-          "rank": 9,
-          "hot": 0,
-          "url": ""
-        }
-      ],
-      "summary": "",
-      "url": ""
-    },
-    {
-      "id": "evt-ppt23000",
-      "title": "教师PPT写23年未见父母每天睡2小时",
-      "category": "society",
-      "hotScore": 0.44,
-      "freshness": 0.9999,
-      "crossSource": 0.6309,
-      "totalScore": 0.6652,
-      "sources": [
-        {
-          "channel": "baidu",
+          "channel": "toutiao",
           "rank": 10,
-          "hot": 0,
-          "url": "https://m.baidu.com/s?word=%E6%95%99%E5%B8%88PPT%E5%86%9923%E5%B9%B4%E6%9C%AA%E8%A7%81%E7%88%B6%E6%AF%8D%E6%AF%8F%E5%A4%A9%E7%9D%A12%E5%B0%8F%E6%97%B6&sa=fyb_news"
+          "hot": 3718082,
+          "url": "https://www.toutiao.com/trending/7685521416808054803/"
         }
       ],
       "summary": "",
-      "url": "https://m.baidu.com/s?word=%E6%95%99%E5%B8%88PPT%E5%86%9923%E5%B9%B4%E6%9C%AA%E8%A7%81%E7%88%B6%E6%AF%8D%E6%AF%8F%E5%A4%A9%E7%9D%A12%E5%B0%8F%E6%97%B6&sa=fyb_news"
+      "url": "https://www.toutiao.com/trending/7685521416808054803/"
+    },
+    {
+      "id": "evt-90000000",
+      "title": "马上评｜9个亲戚争遗产，“房产归国家”是尊重逝者意愿",
+      "category": "society",
+      "hotScore": 0.425,
+      "freshness": 1,
+      "crossSource": 0.6309,
+      "totalScore": 0.6593,
+      "sources": [
+        {
+          "channel": "thepaper",
+          "rank": 11,
+          "hot": 0,
+          "url": "https://www.thepaper.cn/newsDetail_forward_34073073"
+        }
+      ],
+      "summary": "",
+      "url": "https://www.thepaper.cn/newsDetail_forward_34073073"
     }
   ]
 }
