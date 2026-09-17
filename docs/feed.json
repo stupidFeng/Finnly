@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-09-17T09:00:02.346Z",
+  "generatedAt": "2026-09-17T14:31:57.386Z",
   "fields": {
     "society": "社会",
     "economy": "经济",
@@ -8,7 +8,7 @@
   "feed": [
     {
       "id": "evt-00000000",
-      "title": "高市内阁全体阁僚提交辞呈",
+      "title": "中医暂不纳入首批医保医疗服务目录",
       "category": "society",
       "hotScore": 0.7225,
       "freshness": 0.9999,
@@ -18,88 +18,88 @@
         {
           "channel": "toutiao",
           "rank": 4,
-          "hot": 17737732,
-          "url": "https://www.toutiao.com/trending/7686330044544896550/"
+          "hot": 28711159,
+          "url": "https://www.toutiao.com/trending/7686040001191133220/"
         },
         {
-          "channel": "thepaper",
-          "rank": 10,
+          "channel": "baidu",
+          "rank": 17,
           "hot": 0,
-          "url": "https://www.thepaper.cn/newsDetail_forward_34087783"
+          "url": "https://m.baidu.com/s?word=%E4%B8%AD%E5%8C%BB%E6%9A%82%E4%B8%8D%E7%BA%B3%E5%85%A5%E9%A6%96%E6%89%B9%E5%8C%BB%E4%BF%9D%E5%8C%BB%E7%96%97%E6%9C%8D%E5%8A%A1%E7%9B%AE%E5%BD%95&sa=fyb_news"
         }
       ],
       "summary": "",
-      "url": "https://www.toutiao.com/trending/7686330044544896550/"
+      "url": "https://www.toutiao.com/trending/7686040001191133220/"
     },
     {
-      "id": "evt-10500000",
-      "title": "身家1050亿美元！张一鸣首次成为亚洲首富",
+      "id": "evt-51800000",
+      "title": "中国团队发现5.18亿年前“玉净虫”",
       "category": "society",
-      "hotScore": 0.85,
+      "hotScore": 0.72,
       "freshness": 1,
       "crossSource": 0.6309,
-      "totalScore": 0.8293,
-      "sources": [
-        {
-          "channel": "thepaper",
-          "rank": 1,
-          "hot": 0,
-          "url": "https://www.thepaper.cn/newsDetail_forward_34082171"
-        }
-      ],
-      "summary": "",
-      "url": "https://www.thepaper.cn/newsDetail_forward_34082171"
-    },
-    {
-      "id": "evt-58000000",
-      "title": "美国返还58件中国文物",
-      "category": "society",
-      "hotScore": 0.76,
-      "freshness": 1,
-      "crossSource": 0.6309,
-      "totalScore": 0.7933,
+      "totalScore": 0.7773,
       "sources": [
         {
           "channel": "baidu",
-          "rank": 2,
+          "rank": 3,
           "hot": 0,
-          "url": "https://m.baidu.com/s?word=%E7%BE%8E%E5%9B%BD%E8%BF%94%E8%BF%9858%E4%BB%B6%E4%B8%AD%E5%9B%BD%E6%96%87%E7%89%A9&sa=fyb_news"
+          "url": "https://m.baidu.com/s?word=%E4%B8%AD%E5%9B%BD%E5%9B%A2%E9%98%9F%E5%8F%91%E7%8E%B05.18%E4%BA%BF%E5%B9%B4%E5%89%8D%E2%80%9C%E7%8E%89%E5%87%80%E8%99%AB%E2%80%9D&sa=fyb_news"
         }
       ],
       "summary": "",
-      "url": "https://m.baidu.com/s?word=%E7%BE%8E%E5%9B%BD%E8%BF%94%E8%BF%9858%E4%BB%B6%E4%B8%AD%E5%9B%BD%E6%96%87%E7%89%A9&sa=fyb_news"
+      "url": "https://m.baidu.com/s?word=%E4%B8%AD%E5%9B%BD%E5%9B%A2%E9%98%9F%E5%8F%91%E7%8E%B05.18%E4%BA%BF%E5%B9%B4%E5%89%8D%E2%80%9C%E7%8E%89%E5%87%80%E8%99%AB%E2%80%9D&sa=fyb_news"
     },
     {
-      "id": "evt-u2320000",
-      "title": "亚运男足首战，U23国足2比1战胜朝鲜",
+      "id": "evt-88880000",
+      "title": "猪景房8888元一晚还送一头猪",
       "category": "society",
-      "hotScore": 0.7225,
-      "freshness": 1,
+      "hotScore": 0.68,
+      "freshness": 0.9999,
       "crossSource": 0.6309,
-      "totalScore": 0.7783,
+      "totalScore": 0.7613,
       "sources": [
         {
-          "channel": "thepaper",
-          "rank": 4,
-          "hot": 0,
-          "url": "https://www.thepaper.cn/newsDetail_forward_34082468"
+          "channel": "toutiao",
+          "rank": 5,
+          "hot": 25978931,
+          "url": "https://www.toutiao.com/trending/7686269165757595689/"
         }
       ],
       "summary": "",
-      "url": "https://www.thepaper.cn/newsDetail_forward_34082468"
+      "url": "https://www.toutiao.com/trending/7686269165757595689/"
     },
     {
       "id": "evt-30000000",
-      "title": "美联储 3 年来首次加息，加息 25 个基点，将基准利率上调至 3.75%-4.00%，会对市场有哪些影响？",
-      "category": "economy",
-      "hotScore": 0.75,
-      "freshness": 0.9999,
+      "title": "每小时成本超3万美元！沉寂半年后小米罗福莉直播大模型训练过程",
+      "category": "society",
+      "hotScore": 0.68,
+      "freshness": 1,
       "crossSource": 0.6309,
-      "totalScore": 0.7893,
+      "totalScore": 0.7613,
+      "sources": [
+        {
+          "channel": "thepaper",
+          "rank": 5,
+          "hot": 0,
+          "url": "https://www.thepaper.cn/newsDetail_forward_34088356"
+        }
+      ],
+      "summary": "",
+      "url": "https://www.thepaper.cn/newsDetail_forward_34088356"
+    },
+    {
+      "id": "evt-10500000",
+      "title": "张一鸣身家突破 1050 亿美元首次成亚洲首富，如何评价其商业成就？",
+      "category": "society",
+      "hotScore": 0.675,
+      "freshness": 1,
+      "crossSource": 0.6309,
+      "totalScore": 0.7593,
       "sources": [
         {
           "channel": "zhihu",
-          "rank": 1,
+          "rank": 3,
           "hot": 0,
           "url": ""
         }
@@ -108,27 +108,27 @@
       "url": ""
     },
     {
-      "id": "evt-25000000",
-      "title": "美联储加息25个基点是“收割全球”吗",
-      "category": "economy",
-      "hotScore": 0.4675,
-      "freshness": 0.9999,
+      "id": "evt-29900000",
+      "title": "婚服29.9元婚车自家车 极简婚礼火了",
+      "category": "society",
+      "hotScore": 0.64,
+      "freshness": 1,
       "crossSource": 0.6309,
-      "totalScore": 0.6763,
+      "totalScore": 0.7453,
       "sources": [
         {
-          "channel": "toutiao",
-          "rank": 10,
-          "hot": 9734673,
-          "url": "https://www.toutiao.com/trending/7686405488124104218/"
+          "channel": "baidu",
+          "rank": 5,
+          "hot": 0,
+          "url": "https://m.baidu.com/s?word=%E5%A9%9A%E6%9C%8D29.9%E5%85%83%E5%A9%9A%E8%BD%A6%E8%87%AA%E5%AE%B6%E8%BD%A6+%E6%9E%81%E7%AE%80%E5%A9%9A%E7%A4%BC%E7%81%AB%E4%BA%86&sa=fyb_news"
         }
       ],
       "summary": "",
-      "url": "https://www.toutiao.com/trending/7686405488124104218/"
+      "url": "https://m.baidu.com/s?word=%E5%A9%9A%E6%9C%8D29.9%E5%85%83%E5%A9%9A%E8%BD%A6%E8%87%AA%E5%AE%B6%E8%BD%A6+%E6%9E%81%E7%AE%80%E5%A9%9A%E7%A4%BC%E7%81%AB%E4%BA%86&sa=fyb_news"
     },
     {
       "id": "evt-10000000",
-      "title": "游客建议泸州东站更名续：12306客户端已增加弹窗提示",
+      "title": "如果存在一个 100% 深海覆盖的海洋星球，对人类来说会不会非常恐怖？里面会发展出什么生命吗？",
       "category": "society",
       "hotScore": 0.6375,
       "freshness": 1,
@@ -136,27 +136,8 @@
       "totalScore": 0.7443,
       "sources": [
         {
-          "channel": "thepaper",
-          "rank": 6,
-          "hot": 0,
-          "url": "https://www.thepaper.cn/newsDetail_forward_34082760"
-        }
-      ],
-      "summary": "",
-      "url": "https://www.thepaper.cn/newsDetail_forward_34082760"
-    },
-    {
-      "id": "evt-14000000",
-      "title": "亚运女子板球 1/4 决赛场地积水取消，中国队世界排名低于对手被判负，一场未打结束亚运征程，这规则合理吗？",
-      "category": "society",
-      "hotScore": 0.6,
-      "freshness": 0.9999,
-      "crossSource": 0.6309,
-      "totalScore": 0.7293,
-      "sources": [
-        {
           "channel": "zhihu",
-          "rank": 5,
+          "rank": 4,
           "hot": 0,
           "url": ""
         }
@@ -165,27 +146,65 @@
       "url": ""
     },
     {
-      "id": "evt-41000000",
-      "title": "“榆林41岁患者死后电子病历被鉴定为不真实”续：一审判医院赔偿131万余元",
+      "id": "evt-14000000",
+      "title": "亚运女子板球 1/4 决赛场地积水取消，中国队世界排名低于对手被判负，一场未打结束亚运征程，这规则合理吗？",
       "category": "society",
-      "hotScore": 0.595,
+      "hotScore": 0.5625,
       "freshness": 1,
       "crossSource": 0.6309,
-      "totalScore": 0.7273,
+      "totalScore": 0.7143,
       "sources": [
         {
-          "channel": "thepaper",
-          "rank": 7,
+          "channel": "zhihu",
+          "rank": 6,
           "hot": 0,
-          "url": "https://www.thepaper.cn/newsDetail_forward_34082863"
+          "url": ""
         }
       ],
       "summary": "",
-      "url": "https://www.thepaper.cn/newsDetail_forward_34082863"
+      "url": ""
     },
     {
-      "id": "evt-80000000",
-      "title": "男子经常熬夜大脑像80岁",
+      "id": "evt-ufo00000",
+      "title": "UFO高速飞过墨西哥城上空",
+      "category": "society",
+      "hotScore": 0.56,
+      "freshness": 1,
+      "crossSource": 0.6309,
+      "totalScore": 0.7133,
+      "sources": [
+        {
+          "channel": "baidu",
+          "rank": 7,
+          "hot": 0,
+          "url": "https://m.baidu.com/s?word=UFO%E9%AB%98%E9%80%9F%E9%A3%9E%E8%BF%87%E5%A2%A8%E8%A5%BF%E5%93%A5%E5%9F%8E%E4%B8%8A%E7%A9%BA&sa=fyb_news"
+        }
+      ],
+      "summary": "",
+      "url": "https://m.baidu.com/s?word=UFO%E9%AB%98%E9%80%9F%E9%A3%9E%E8%BF%87%E5%A2%A8%E8%A5%BF%E5%93%A5%E5%9F%8E%E4%B8%8A%E7%A9%BA&sa=fyb_news"
+    },
+    {
+      "id": "evt-lpl20260",
+      "title": "LPL 2026 赛季资格赛 TES 3-1 iG，如何评价这场比赛？",
+      "category": "society",
+      "hotScore": 0.525,
+      "freshness": 1,
+      "crossSource": 0.6309,
+      "totalScore": 0.6993,
+      "sources": [
+        {
+          "channel": "zhihu",
+          "rank": 7,
+          "hot": 0,
+          "url": ""
+        }
+      ],
+      "summary": "",
+      "url": ""
+    },
+    {
+      "id": "evt-37400000",
+      "title": "玉米概念涨3.74%",
       "category": "society",
       "hotScore": 0.51,
       "freshness": 0.9999,
@@ -195,50 +214,31 @@
         {
           "channel": "toutiao",
           "rank": 9,
-          "hot": 10758478,
-          "url": "https://www.toutiao.com/trending/7686052220584394815/"
+          "hot": 17414198,
+          "url": "https://www.toutiao.com/trending/7686294735271084042/"
         }
       ],
       "summary": "",
-      "url": "https://www.toutiao.com/trending/7686052220584394815/"
+      "url": "https://www.toutiao.com/trending/7686294735271084042/"
     },
     {
-      "id": "evt-deepseek",
-      "title": "DeepSeek 算子负责人发文《我不得不把才华埋葬在昨天》，是在反击 Anthropic 吗？",
+      "id": "evt-62872000",
+      "title": "6 轮轰 28 球！巴萨 7-2 桑坦德竞技 拉菲戴帽亚马尔 1 射 2 传坎塞洛建功，如何评价巴萨的进攻火力？",
       "category": "society",
-      "hotScore": 0.4875,
-      "freshness": 0.9999,
+      "hotScore": 0.45,
+      "freshness": 1,
       "crossSource": 0.6309,
-      "totalScore": 0.6843,
+      "totalScore": 0.6693,
       "sources": [
         {
           "channel": "zhihu",
-          "rank": 8,
+          "rank": 9,
           "hot": 0,
           "url": ""
         }
       ],
       "summary": "",
       "url": ""
-    },
-    {
-      "id": "evt-70000000",
-      "title": "芒果要翻拍7部经典台偶",
-      "category": "society",
-      "hotScore": 0.48,
-      "freshness": 1,
-      "crossSource": 0.6309,
-      "totalScore": 0.6813,
-      "sources": [
-        {
-          "channel": "baidu",
-          "rank": 9,
-          "hot": 0,
-          "url": "https://m.baidu.com/s?word=%E8%8A%92%E6%9E%9C%E8%A6%81%E7%BF%BB%E6%8B%8D7%E9%83%A8%E7%BB%8F%E5%85%B8%E5%8F%B0%E5%81%B6&sa=fyb_news"
-        }
-      ],
-      "summary": "",
-      "url": "https://m.baidu.com/s?word=%E8%8A%92%E6%9E%9C%E8%A6%81%E7%BF%BB%E6%8B%8D7%E9%83%A8%E7%BB%8F%E5%85%B8%E5%8F%B0%E5%81%B6&sa=fyb_news"
     }
   ]
 }
