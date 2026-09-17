@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-09-17T14:31:57.386Z",
+  "generatedAt": "2026-09-17T19:23:44.234Z",
   "fields": {
     "society": "社会",
     "economy": "经济",
@@ -8,70 +8,70 @@
   "feed": [
     {
       "id": "evt-00000000",
-      "title": "中医暂不纳入首批医保医疗服务目录",
-      "category": "society",
-      "hotScore": 0.7225,
-      "freshness": 0.9999,
-      "crossSource": 1,
-      "totalScore": 0.889,
-      "sources": [
-        {
-          "channel": "toutiao",
-          "rank": 4,
-          "hot": 28711159,
-          "url": "https://www.toutiao.com/trending/7686040001191133220/"
-        },
-        {
-          "channel": "baidu",
-          "rank": 17,
-          "hot": 0,
-          "url": "https://m.baidu.com/s?word=%E4%B8%AD%E5%8C%BB%E6%9A%82%E4%B8%8D%E7%BA%B3%E5%85%A5%E9%A6%96%E6%89%B9%E5%8C%BB%E4%BF%9D%E5%8C%BB%E7%96%97%E6%9C%8D%E5%8A%A1%E7%9B%AE%E5%BD%95&sa=fyb_news"
-        }
-      ],
-      "summary": "",
-      "url": "https://www.toutiao.com/trending/7686040001191133220/"
-    },
-    {
-      "id": "evt-51800000",
-      "title": "中国团队发现5.18亿年前“玉净虫”",
+      "title": "苹果最贵手机还没开售就翻车了吗",
       "category": "society",
       "hotScore": 0.72,
       "freshness": 1,
-      "crossSource": 0.6309,
-      "totalScore": 0.7773,
+      "crossSource": 1,
+      "totalScore": 0.888,
       "sources": [
+        {
+          "channel": "toutiao",
+          "rank": 10,
+          "hot": 17183152,
+          "url": "https://www.toutiao.com/trending/7686335150711390249/"
+        },
         {
           "channel": "baidu",
           "rank": 3,
           "hot": 0,
-          "url": "https://m.baidu.com/s?word=%E4%B8%AD%E5%9B%BD%E5%9B%A2%E9%98%9F%E5%8F%91%E7%8E%B05.18%E4%BA%BF%E5%B9%B4%E5%89%8D%E2%80%9C%E7%8E%89%E5%87%80%E8%99%AB%E2%80%9D&sa=fyb_news"
+          "url": "https://m.baidu.com/s?word=%E8%8B%B9%E6%9E%9C%E6%9C%80%E8%B4%B5%E6%89%8B%E6%9C%BA%E8%BF%98%E6%B2%A1%E5%BC%80%E5%94%AE%E5%B0%B1%E7%BF%BB%E8%BD%A6%E4%BA%86%E5%90%97&sa=fyb_news"
         }
       ],
       "summary": "",
-      "url": "https://m.baidu.com/s?word=%E4%B8%AD%E5%9B%BD%E5%9B%A2%E9%98%9F%E5%8F%91%E7%8E%B05.18%E4%BA%BF%E5%B9%B4%E5%89%8D%E2%80%9C%E7%8E%89%E5%87%80%E8%99%AB%E2%80%9D&sa=fyb_news"
+      "url": "https://www.toutiao.com/trending/7686335150711390249/"
     },
     {
-      "id": "evt-88880000",
-      "title": "猪景房8888元一晚还送一头猪",
+      "id": "evt-hyrox000",
+      "title": "如何看待 HYROX 失禁选手就北京赛场事件道歉，决定追溯性退出该场比赛，并放弃此前获得的积分？",
       "category": "society",
-      "hotScore": 0.68,
-      "freshness": 0.9999,
+      "hotScore": 0.75,
+      "freshness": 1,
       "crossSource": 0.6309,
-      "totalScore": 0.7613,
+      "totalScore": 0.7893,
+      "sources": [
+        {
+          "channel": "zhihu",
+          "rank": 1,
+          "hot": 0,
+          "url": ""
+        }
+      ],
+      "summary": "",
+      "url": ""
+    },
+    {
+      "id": "evt-42000000",
+      "title": "广东惠州公安查获42公斤散装柴油",
+      "category": "society",
+      "hotScore": 0.7225,
+      "freshness": 1,
+      "crossSource": 0.6309,
+      "totalScore": 0.7783,
       "sources": [
         {
           "channel": "toutiao",
-          "rank": 5,
-          "hot": 25978931,
-          "url": "https://www.toutiao.com/trending/7686269165757595689/"
+          "rank": 4,
+          "hot": 31309745,
+          "url": "https://www.toutiao.com/trending/7686073425576099883/"
         }
       ],
       "summary": "",
-      "url": "https://www.toutiao.com/trending/7686269165757595689/"
+      "url": "https://www.toutiao.com/trending/7686073425576099883/"
     },
     {
-      "id": "evt-30000000",
-      "title": "每小时成本超3万美元！沉寂半年后小米罗福莉直播大模型训练过程",
+      "id": "evt-12300000",
+      "title": "一车人都买错票车站 12306新增提醒",
       "category": "society",
       "hotScore": 0.68,
       "freshness": 1,
@@ -79,18 +79,18 @@
       "totalScore": 0.7613,
       "sources": [
         {
-          "channel": "thepaper",
+          "channel": "toutiao",
           "rank": 5,
-          "hot": 0,
-          "url": "https://www.thepaper.cn/newsDetail_forward_34088356"
+          "hot": 28330229,
+          "url": "https://www.toutiao.com/trending/7685560605994745897/"
         }
       ],
       "summary": "",
-      "url": "https://www.thepaper.cn/newsDetail_forward_34088356"
+      "url": "https://www.toutiao.com/trending/7685560605994745897/"
     },
     {
-      "id": "evt-10500000",
-      "title": "张一鸣身家突破 1050 亿美元首次成亚洲首富，如何评价其商业成就？",
+      "id": "evt-10000000",
+      "title": "如果存在一个 100% 深海覆盖的海洋星球，对人类来说会不会非常恐怖？里面会发展出什么生命吗？",
       "category": "society",
       "hotScore": 0.675,
       "freshness": 1,
@@ -127,17 +127,17 @@
       "url": "https://m.baidu.com/s?word=%E5%A9%9A%E6%9C%8D29.9%E5%85%83%E5%A9%9A%E8%BD%A6%E8%87%AA%E5%AE%B6%E8%BD%A6+%E6%9E%81%E7%AE%80%E5%A9%9A%E7%A4%BC%E7%81%AB%E4%BA%86&sa=fyb_news"
     },
     {
-      "id": "evt-10000000",
-      "title": "如果存在一个 100% 深海覆盖的海洋星球，对人类来说会不会非常恐怖？里面会发展出什么生命吗？",
+      "id": "evt-10500000",
+      "title": "张一鸣身家突破 1050 亿美元首次成亚洲首富，如何评价其商业成就？",
       "category": "society",
-      "hotScore": 0.6375,
+      "hotScore": 0.6,
       "freshness": 1,
       "crossSource": 0.6309,
-      "totalScore": 0.7443,
+      "totalScore": 0.7293,
       "sources": [
         {
           "channel": "zhihu",
-          "rank": 4,
+          "rank": 5,
           "hot": 0,
           "url": ""
         }
@@ -146,42 +146,23 @@
       "url": ""
     },
     {
-      "id": "evt-14000000",
-      "title": "亚运女子板球 1/4 决赛场地积水取消，中国队世界排名低于对手被判负，一场未打结束亚运征程，这规则合理吗？",
+      "id": "evt-30000000",
+      "title": "每小时成本超3万美元！沉寂半年后小米罗福莉直播大模型训练过程",
       "category": "society",
-      "hotScore": 0.5625,
+      "hotScore": 0.595,
       "freshness": 1,
       "crossSource": 0.6309,
-      "totalScore": 0.7143,
+      "totalScore": 0.7273,
       "sources": [
         {
-          "channel": "zhihu",
-          "rank": 6,
-          "hot": 0,
-          "url": ""
-        }
-      ],
-      "summary": "",
-      "url": ""
-    },
-    {
-      "id": "evt-ufo00000",
-      "title": "UFO高速飞过墨西哥城上空",
-      "category": "society",
-      "hotScore": 0.56,
-      "freshness": 1,
-      "crossSource": 0.6309,
-      "totalScore": 0.7133,
-      "sources": [
-        {
-          "channel": "baidu",
+          "channel": "thepaper",
           "rank": 7,
           "hot": 0,
-          "url": "https://m.baidu.com/s?word=UFO%E9%AB%98%E9%80%9F%E9%A3%9E%E8%BF%87%E5%A2%A8%E8%A5%BF%E5%93%A5%E5%9F%8E%E4%B8%8A%E7%A9%BA&sa=fyb_news"
+          "url": "https://www.thepaper.cn/newsDetail_forward_34088356"
         }
       ],
       "summary": "",
-      "url": "https://m.baidu.com/s?word=UFO%E9%AB%98%E9%80%9F%E9%A3%9E%E8%BF%87%E5%A2%A8%E8%A5%BF%E5%93%A5%E5%9F%8E%E4%B8%8A%E7%A9%BA&sa=fyb_news"
+      "url": "https://www.thepaper.cn/newsDetail_forward_34088356"
     },
     {
       "id": "evt-lpl20260",
@@ -203,27 +184,27 @@
       "url": ""
     },
     {
-      "id": "evt-37400000",
-      "title": "玉米概念涨3.74%",
+      "id": "evt-hyro0000",
+      "title": "开麦丨“中产狂奔”的HYROX，这次为何“拉完了”？",
       "category": "society",
-      "hotScore": 0.51,
-      "freshness": 0.9999,
+      "hotScore": 0.4675,
+      "freshness": 1,
       "crossSource": 0.6309,
-      "totalScore": 0.6933,
+      "totalScore": 0.6763,
       "sources": [
         {
-          "channel": "toutiao",
-          "rank": 9,
-          "hot": 17414198,
-          "url": "https://www.toutiao.com/trending/7686294735271084042/"
+          "channel": "thepaper",
+          "rank": 10,
+          "hot": 0,
+          "url": "https://www.thepaper.cn/newsDetail_forward_34089809"
         }
       ],
       "summary": "",
-      "url": "https://www.toutiao.com/trending/7686294735271084042/"
+      "url": "https://www.thepaper.cn/newsDetail_forward_34089809"
     },
     {
-      "id": "evt-62872000",
-      "title": "6 轮轰 28 球！巴萨 7-2 桑坦德竞技 拉菲戴帽亚马尔 1 射 2 传坎塞洛建功，如何评价巴萨的进攻火力？",
+      "id": "evt-ai000000",
+      "title": "AI 已经有解决千禧年数学难题的能力，在读基础数学博士应该怎么办？",
       "category": "society",
       "hotScore": 0.45,
       "freshness": 1,
@@ -239,6 +220,25 @@
       ],
       "summary": "",
       "url": ""
+    },
+    {
+      "id": "evt-51800000",
+      "title": "中国团队发现5.18亿年前“玉净虫”",
+      "category": "society",
+      "hotScore": 0.44,
+      "freshness": 1,
+      "crossSource": 0.6309,
+      "totalScore": 0.6653,
+      "sources": [
+        {
+          "channel": "baidu",
+          "rank": 10,
+          "hot": 0,
+          "url": "https://m.baidu.com/s?word=%E4%B8%AD%E5%9B%BD%E5%9B%A2%E9%98%9F%E5%8F%91%E7%8E%B05.18%E4%BA%BF%E5%B9%B4%E5%89%8D%E2%80%9C%E7%8E%89%E5%87%80%E8%99%AB%E2%80%9D&sa=fyb_news"
+        }
+      ],
+      "summary": "",
+      "url": "https://m.baidu.com/s?word=%E4%B8%AD%E5%9B%BD%E5%9B%A2%E9%98%9F%E5%8F%91%E7%8E%B05.18%E4%BA%BF%E5%B9%B4%E5%89%8D%E2%80%9C%E7%8E%89%E5%87%80%E8%99%AB%E2%80%9D&sa=fyb_news"
     }
   ]
 }
