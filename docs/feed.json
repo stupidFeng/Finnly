@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-09-17T02:22:00.531Z",
+  "generatedAt": "2026-09-17T09:00:02.346Z",
   "fields": {
     "society": "社会",
     "economy": "经济",
@@ -8,28 +8,28 @@
   "feed": [
     {
       "id": "evt-00000000",
-      "title": "倪萍写信告别敬一丹",
+      "title": "高市内阁全体阁僚提交辞呈",
       "category": "society",
-      "hotScore": 0.595,
-      "freshness": 1,
+      "hotScore": 0.7225,
+      "freshness": 0.9999,
       "crossSource": 1,
-      "totalScore": 0.838,
+      "totalScore": 0.889,
       "sources": [
         {
           "channel": "toutiao",
-          "rank": 7,
-          "hot": 7660233,
-          "url": "https://www.toutiao.com/trending/7686082592906461203/"
+          "rank": 4,
+          "hot": 17737732,
+          "url": "https://www.toutiao.com/trending/7686330044544896550/"
         },
         {
-          "channel": "baidu",
-          "rank": 14,
+          "channel": "thepaper",
+          "rank": 10,
           "hot": 0,
-          "url": "https://m.baidu.com/s?word=%E5%80%AA%E8%90%8D%E5%86%99%E4%BF%A1%E5%91%8A%E5%88%AB%E6%95%AC%E4%B8%80%E4%B8%B9&sa=fyb_news"
+          "url": "https://www.thepaper.cn/newsDetail_forward_34087783"
         }
       ],
       "summary": "",
-      "url": "https://www.toutiao.com/trending/7686082592906461203/"
+      "url": "https://www.toutiao.com/trending/7686330044544896550/"
     },
     {
       "id": "evt-10500000",
@@ -51,6 +51,25 @@
       "url": "https://www.thepaper.cn/newsDetail_forward_34082171"
     },
     {
+      "id": "evt-58000000",
+      "title": "美国返还58件中国文物",
+      "category": "society",
+      "hotScore": 0.76,
+      "freshness": 1,
+      "crossSource": 0.6309,
+      "totalScore": 0.7933,
+      "sources": [
+        {
+          "channel": "baidu",
+          "rank": 2,
+          "hot": 0,
+          "url": "https://m.baidu.com/s?word=%E7%BE%8E%E5%9B%BD%E8%BF%94%E8%BF%9858%E4%BB%B6%E4%B8%AD%E5%9B%BD%E6%96%87%E7%89%A9&sa=fyb_news"
+        }
+      ],
+      "summary": "",
+      "url": "https://m.baidu.com/s?word=%E7%BE%8E%E5%9B%BD%E8%BF%94%E8%BF%9858%E4%BB%B6%E4%B8%AD%E5%9B%BD%E6%96%87%E7%89%A9&sa=fyb_news"
+    },
+    {
       "id": "evt-u2320000",
       "title": "亚运男足首战，U23国足2比1战胜朝鲜",
       "category": "society",
@@ -70,55 +89,11 @@
       "url": "https://www.thepaper.cn/newsDetail_forward_34082468"
     },
     {
-      "id": "evt-12300000",
-      "title": "一车人都买错票车站 12306有新显示",
-      "category": "society",
-      "hotScore": 0.72,
-      "freshness": 1,
-      "crossSource": 0.6309,
-      "totalScore": 0.7773,
-      "sources": [
-        {
-          "channel": "baidu",
-          "rank": 3,
-          "hot": 0,
-          "url": "https://m.baidu.com/s?word=%E4%B8%80%E8%BD%A6%E4%BA%BA%E9%83%BD%E4%B9%B0%E9%94%99%E7%A5%A8%E8%BD%A6%E7%AB%99+12306%E6%9C%89%E6%96%B0%E6%98%BE%E7%A4%BA&sa=fyb_news"
-        }
-      ],
-      "summary": "",
-      "url": "https://m.baidu.com/s?word=%E4%B8%80%E8%BD%A6%E4%BA%BA%E9%83%BD%E4%B9%B0%E9%94%99%E7%A5%A8%E8%BD%A6%E7%AB%99+12306%E6%9C%89%E6%96%B0%E6%98%BE%E7%A4%BA&sa=fyb_news"
-    },
-    {
-      "id": "evt-32500000",
-      "title": "时隔3年多 美联储加息25个基点",
-      "category": "economy",
-      "hotScore": 0.85,
-      "freshness": 1,
-      "crossSource": 1,
-      "totalScore": 0.94,
-      "sources": [
-        {
-          "channel": "toutiao",
-          "rank": 1,
-          "hot": 13957854,
-          "url": "https://www.toutiao.com/trending/7686269018893831707/"
-        },
-        {
-          "channel": "baidu",
-          "rank": 2,
-          "hot": 0,
-          "url": "https://m.baidu.com/s?word=%E6%97%B6%E9%9A%943%E5%B9%B4%E5%A4%9A+%E7%BE%8E%E8%81%94%E5%82%A8%E5%8A%A0%E6%81%AF25%E4%B8%AA%E5%9F%BA%E7%82%B9&sa=fyb_news"
-        }
-      ],
-      "summary": "",
-      "url": "https://www.toutiao.com/trending/7686269018893831707/"
-    },
-    {
       "id": "evt-30000000",
       "title": "美联储 3 年来首次加息，加息 25 个基点，将基准利率上调至 3.75%-4.00%，会对市场有哪些影响？",
       "category": "economy",
       "hotScore": 0.75,
-      "freshness": 1,
+      "freshness": 0.9999,
       "crossSource": 0.6309,
       "totalScore": 0.7893,
       "sources": [
@@ -133,87 +108,49 @@
       "url": ""
     },
     {
-      "id": "evt-i9369800",
-      "title": "理想i9上市 售价36.98万元",
+      "id": "evt-25000000",
+      "title": "美联储加息25个基点是“收割全球”吗",
       "category": "economy",
-      "hotScore": 0.51,
-      "freshness": 1,
+      "hotScore": 0.4675,
+      "freshness": 0.9999,
       "crossSource": 0.6309,
-      "totalScore": 0.6933,
+      "totalScore": 0.6763,
       "sources": [
         {
           "channel": "toutiao",
-          "rank": 9,
-          "hot": 6271668,
-          "url": "https://www.toutiao.com/trending/7685449798459228206/"
+          "rank": 10,
+          "hot": 9734673,
+          "url": "https://www.toutiao.com/trending/7686405488124104218/"
         }
       ],
       "summary": "",
-      "url": "https://www.toutiao.com/trending/7685449798459228206/"
-    },
-    {
-      "id": "evt-20000000",
-      "title": "2000多年了 我们为什么执着于挖运河",
-      "category": "society",
-      "hotScore": 0.68,
-      "freshness": 1,
-      "crossSource": 0.6309,
-      "totalScore": 0.7613,
-      "sources": [
-        {
-          "channel": "baidu",
-          "rank": 4,
-          "hot": 0,
-          "url": "https://m.baidu.com/s?word=2000%E5%A4%9A%E5%B9%B4%E4%BA%86+%E6%88%91%E4%BB%AC%E4%B8%BA%E4%BB%80%E4%B9%88%E6%89%A7%E7%9D%80%E4%BA%8E%E6%8C%96%E8%BF%90%E6%B2%B3&sa=fyb_news"
-        }
-      ],
-      "summary": "",
-      "url": "https://m.baidu.com/s?word=2000%E5%A4%9A%E5%B9%B4%E4%BA%86+%E6%88%91%E4%BB%AC%E4%B8%BA%E4%BB%80%E4%B9%88%E6%89%A7%E7%9D%80%E4%BA%8E%E6%8C%96%E8%BF%90%E6%B2%B3&sa=fyb_news"
+      "url": "https://www.toutiao.com/trending/7686405488124104218/"
     },
     {
       "id": "evt-10000000",
-      "title": "拆迁查户口发现父亲有个16岁私生子",
+      "title": "游客建议泸州东站更名续：12306客户端已增加弹窗提示",
       "category": "society",
-      "hotScore": 0.68,
+      "hotScore": 0.6375,
       "freshness": 1,
       "crossSource": 0.6309,
-      "totalScore": 0.7613,
+      "totalScore": 0.7443,
       "sources": [
         {
-          "channel": "toutiao",
-          "rank": 5,
-          "hot": 9356229,
-          "url": "https://www.toutiao.com/trending/7686068625350606902/"
-        }
-      ],
-      "summary": "",
-      "url": "https://www.toutiao.com/trending/7686068625350606902/"
-    },
-    {
-      "id": "evt-hyrox000",
-      "title": "HYROX 就「选手失禁夺冠」一事道歉并给下午场赛事运动员全额退费，你认为这次道歉＋退费能挽回口碑吗？",
-      "category": "society",
-      "hotScore": 0.675,
-      "freshness": 1,
-      "crossSource": 0.6309,
-      "totalScore": 0.7593,
-      "sources": [
-        {
-          "channel": "zhihu",
-          "rank": 3,
+          "channel": "thepaper",
+          "rank": 6,
           "hot": 0,
-          "url": ""
+          "url": "https://www.thepaper.cn/newsDetail_forward_34082760"
         }
       ],
       "summary": "",
-      "url": ""
+      "url": "https://www.thepaper.cn/newsDetail_forward_34082760"
     },
     {
-      "id": "evt-16000000",
-      "title": "四川茂县发生山体滑坡，161 名群众提前转移无伤亡，视频显示岷江断流，目前具体情况如何？",
+      "id": "evt-14000000",
+      "title": "亚运女子板球 1/4 决赛场地积水取消，中国队世界排名低于对手被判负，一场未打结束亚运征程，这规则合理吗？",
       "category": "society",
       "hotScore": 0.6,
-      "freshness": 1,
+      "freshness": 0.9999,
       "crossSource": 0.6309,
       "totalScore": 0.7293,
       "sources": [
@@ -245,6 +182,63 @@
       ],
       "summary": "",
       "url": "https://www.thepaper.cn/newsDetail_forward_34082863"
+    },
+    {
+      "id": "evt-80000000",
+      "title": "男子经常熬夜大脑像80岁",
+      "category": "society",
+      "hotScore": 0.51,
+      "freshness": 0.9999,
+      "crossSource": 0.6309,
+      "totalScore": 0.6933,
+      "sources": [
+        {
+          "channel": "toutiao",
+          "rank": 9,
+          "hot": 10758478,
+          "url": "https://www.toutiao.com/trending/7686052220584394815/"
+        }
+      ],
+      "summary": "",
+      "url": "https://www.toutiao.com/trending/7686052220584394815/"
+    },
+    {
+      "id": "evt-deepseek",
+      "title": "DeepSeek 算子负责人发文《我不得不把才华埋葬在昨天》，是在反击 Anthropic 吗？",
+      "category": "society",
+      "hotScore": 0.4875,
+      "freshness": 0.9999,
+      "crossSource": 0.6309,
+      "totalScore": 0.6843,
+      "sources": [
+        {
+          "channel": "zhihu",
+          "rank": 8,
+          "hot": 0,
+          "url": ""
+        }
+      ],
+      "summary": "",
+      "url": ""
+    },
+    {
+      "id": "evt-70000000",
+      "title": "芒果要翻拍7部经典台偶",
+      "category": "society",
+      "hotScore": 0.48,
+      "freshness": 1,
+      "crossSource": 0.6309,
+      "totalScore": 0.6813,
+      "sources": [
+        {
+          "channel": "baidu",
+          "rank": 9,
+          "hot": 0,
+          "url": "https://m.baidu.com/s?word=%E8%8A%92%E6%9E%9C%E8%A6%81%E7%BF%BB%E6%8B%8D7%E9%83%A8%E7%BB%8F%E5%85%B8%E5%8F%B0%E5%81%B6&sa=fyb_news"
+        }
+      ],
+      "summary": "",
+      "url": "https://m.baidu.com/s?word=%E8%8A%92%E6%9E%9C%E8%A6%81%E7%BF%BB%E6%8B%8D7%E9%83%A8%E7%BB%8F%E5%85%B8%E5%8F%B0%E5%81%B6&sa=fyb_news"
     }
   ]
 }
