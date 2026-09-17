@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-09-17T19:23:44.234Z",
+  "generatedAt": "2026-09-17T22:31:35.680Z",
   "fields": {
     "society": "社会",
     "economy": "经济",
@@ -17,8 +17,8 @@
       "sources": [
         {
           "channel": "toutiao",
-          "rank": 10,
-          "hot": 17183152,
+          "rank": 5,
+          "hot": 29788036,
           "url": "https://www.toutiao.com/trending/7686335150711390249/"
         },
         {
@@ -62,7 +62,7 @@
         {
           "channel": "toutiao",
           "rank": 4,
-          "hot": 31309745,
+          "hot": 32920871,
           "url": "https://www.toutiao.com/trending/7686073425576099883/"
         }
       ],
@@ -70,27 +70,8 @@
       "url": "https://www.toutiao.com/trending/7686073425576099883/"
     },
     {
-      "id": "evt-12300000",
-      "title": "一车人都买错票车站 12306新增提醒",
-      "category": "society",
-      "hotScore": 0.68,
-      "freshness": 1,
-      "crossSource": 0.6309,
-      "totalScore": 0.7613,
-      "sources": [
-        {
-          "channel": "toutiao",
-          "rank": 5,
-          "hot": 28330229,
-          "url": "https://www.toutiao.com/trending/7685560605994745897/"
-        }
-      ],
-      "summary": "",
-      "url": "https://www.toutiao.com/trending/7685560605994745897/"
-    },
-    {
-      "id": "evt-10000000",
-      "title": "如果存在一个 100% 深海覆盖的海洋星球，对人类来说会不会非常恐怖？里面会发展出什么生命吗？",
+      "id": "evt-10500000",
+      "title": "张一鸣身家突破 1050 亿美元首次成亚洲首富，如何评价其商业成就？",
       "category": "society",
       "hotScore": 0.675,
       "freshness": 1,
@@ -127,8 +108,27 @@
       "url": "https://m.baidu.com/s?word=%E5%A9%9A%E6%9C%8D29.9%E5%85%83%E5%A9%9A%E8%BD%A6%E8%87%AA%E5%AE%B6%E8%BD%A6+%E6%9E%81%E7%AE%80%E5%A9%9A%E7%A4%BC%E7%81%AB%E4%BA%86&sa=fyb_news"
     },
     {
-      "id": "evt-10500000",
-      "title": "张一鸣身家突破 1050 亿美元首次成亚洲首富，如何评价其商业成就？",
+      "id": "evt-12300000",
+      "title": "一车人都买错票车站 12306新增提醒",
+      "category": "society",
+      "hotScore": 0.6375,
+      "freshness": 1,
+      "crossSource": 0.6309,
+      "totalScore": 0.7443,
+      "sources": [
+        {
+          "channel": "toutiao",
+          "rank": 6,
+          "hot": 26953329,
+          "url": "https://www.toutiao.com/trending/7685560605994745897/"
+        }
+      ],
+      "summary": "",
+      "url": "https://www.toutiao.com/trending/7685560605994745897/"
+    },
+    {
+      "id": "evt-10000000",
+      "title": "如果存在一个 100% 深海覆盖的海洋星球，对人类来说会不会非常恐怖？里面会发展出什么生命吗？",
       "category": "society",
       "hotScore": 0.6,
       "freshness": 1,
@@ -144,25 +144,6 @@
       ],
       "summary": "",
       "url": ""
-    },
-    {
-      "id": "evt-30000000",
-      "title": "每小时成本超3万美元！沉寂半年后小米罗福莉直播大模型训练过程",
-      "category": "society",
-      "hotScore": 0.595,
-      "freshness": 1,
-      "crossSource": 0.6309,
-      "totalScore": 0.7273,
-      "sources": [
-        {
-          "channel": "thepaper",
-          "rank": 7,
-          "hot": 0,
-          "url": "https://www.thepaper.cn/newsDetail_forward_34088356"
-        }
-      ],
-      "summary": "",
-      "url": "https://www.thepaper.cn/newsDetail_forward_34088356"
     },
     {
       "id": "evt-lpl20260",
@@ -184,42 +165,23 @@
       "url": ""
     },
     {
-      "id": "evt-hyro0000",
-      "title": "开麦丨“中产狂奔”的HYROX，这次为何“拉完了”？",
+      "id": "evt-30000000",
+      "title": "每小时成本超3万美元！沉寂半年后小米罗福莉直播大模型训练过程",
       "category": "society",
-      "hotScore": 0.4675,
+      "hotScore": 0.51,
       "freshness": 1,
       "crossSource": 0.6309,
-      "totalScore": 0.6763,
+      "totalScore": 0.6933,
       "sources": [
         {
           "channel": "thepaper",
-          "rank": 10,
-          "hot": 0,
-          "url": "https://www.thepaper.cn/newsDetail_forward_34089809"
-        }
-      ],
-      "summary": "",
-      "url": "https://www.thepaper.cn/newsDetail_forward_34089809"
-    },
-    {
-      "id": "evt-ai000000",
-      "title": "AI 已经有解决千禧年数学难题的能力，在读基础数学博士应该怎么办？",
-      "category": "society",
-      "hotScore": 0.45,
-      "freshness": 1,
-      "crossSource": 0.6309,
-      "totalScore": 0.6693,
-      "sources": [
-        {
-          "channel": "zhihu",
           "rank": 9,
           "hot": 0,
-          "url": ""
+          "url": "https://www.thepaper.cn/newsDetail_forward_34088356"
         }
       ],
       "summary": "",
-      "url": ""
+      "url": "https://www.thepaper.cn/newsDetail_forward_34088356"
     },
     {
       "id": "evt-51800000",
@@ -239,6 +201,25 @@
       ],
       "summary": "",
       "url": "https://m.baidu.com/s?word=%E4%B8%AD%E5%9B%BD%E5%9B%A2%E9%98%9F%E5%8F%91%E7%8E%B05.18%E4%BA%BF%E5%B9%B4%E5%89%8D%E2%80%9C%E7%8E%89%E5%87%80%E8%99%AB%E2%80%9D&sa=fyb_news"
+    },
+    {
+      "id": "evt-hyro0000",
+      "title": "开麦丨“中产狂奔”的HYROX，这次为何“拉完了”？",
+      "category": "society",
+      "hotScore": 0.425,
+      "freshness": 1,
+      "crossSource": 0.6309,
+      "totalScore": 0.6593,
+      "sources": [
+        {
+          "channel": "thepaper",
+          "rank": 11,
+          "hot": 0,
+          "url": "https://www.thepaper.cn/newsDetail_forward_34089809"
+        }
+      ],
+      "summary": "",
+      "url": "https://www.thepaper.cn/newsDetail_forward_34089809"
     }
   ]
 }
