@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-09-18T17:29:12.307Z",
+  "generatedAt": "2026-09-18T20:08:01.451Z",
   "fields": {
     "society": "社会",
     "economy": "经济",
@@ -8,66 +8,72 @@
   "feed": [
     {
       "id": "evt-00000000",
-      "title": "秦始皇祖母陵墓或现世",
+      "title": "于东来正被自己的人设绑架",
       "category": "society",
-      "hotScore": 0.85,
-      "freshness": 0.9999,
-      "crossSource": 0.6309,
-      "totalScore": 0.8293,
+      "hotScore": 0.68,
+      "freshness": 1,
+      "crossSource": 1,
+      "totalScore": 0.872,
       "sources": [
         {
           "channel": "toutiao",
-          "rank": 1,
-          "hot": 36084198,
-          "url": "https://www.toutiao.com/trending/7686712662764683270/"
+          "rank": 5,
+          "hot": 24876643,
+          "url": "https://www.toutiao.com/trending/7686262825412759103/"
+        },
+        {
+          "channel": "baidu",
+          "rank": 14,
+          "hot": 0,
+          "url": "https://m.baidu.com/s?word=%E4%BA%8E%E4%B8%9C%E6%9D%A5%E6%AD%A3%E8%A2%AB%E8%87%AA%E5%B7%B1%E7%9A%84%E4%BA%BA%E8%AE%BE%E7%BB%91%E6%9E%B6&sa=fyb_news"
         }
       ],
       "summary": "",
-      "url": "https://www.toutiao.com/trending/7686712662764683270/"
+      "url": "https://www.toutiao.com/trending/7686262825412759103/"
     },
     {
-      "id": "evt-14000000",
-      "title": "业主买下1层4户圈占公共走廊",
+      "id": "evt-91800000",
+      "title": "美驻日使馆9月18日发帖 日本网民破防",
+      "category": "society",
+      "hotScore": 0.595,
+      "freshness": 1,
+      "crossSource": 1,
+      "totalScore": 0.838,
+      "sources": [
+        {
+          "channel": "toutiao",
+          "rank": 7,
+          "hot": 20367272,
+          "url": "https://www.toutiao.com/trending/7686708003086041131/"
+        },
+        {
+          "channel": "baidu",
+          "rank": 7,
+          "hot": 0,
+          "url": "https://m.baidu.com/s?word=%E7%BE%8E%E9%A9%BB%E6%97%A5%E4%BD%BF%E9%A6%869%E6%9C%8818%E6%97%A5%E5%8F%91%E5%B8%96+%E6%97%A5%E6%9C%AC%E7%BD%91%E6%B0%91%E7%A0%B4%E9%98%B2&sa=fyb_news"
+        }
+      ],
+      "summary": "",
+      "url": "https://www.toutiao.com/trending/7686708003086041131/"
+    },
+    {
+      "id": "evt-40000000",
+      "title": "住建部：4楼及以上住宅都要加装电梯",
       "category": "society",
       "hotScore": 0.8075,
-      "freshness": 0.9999,
+      "freshness": 1,
       "crossSource": 0.6309,
       "totalScore": 0.8123,
       "sources": [
         {
           "channel": "toutiao",
           "rank": 2,
-          "hot": 32650333,
-          "url": "https://www.toutiao.com/trending/7686858642015944730/"
+          "hot": 33579955,
+          "url": "https://www.toutiao.com/trending/7685740175528394815/"
         }
       ],
       "summary": "",
-      "url": "https://www.toutiao.com/trending/7686858642015944730/"
-    },
-    {
-      "id": "evt-30000000",
-      "title": "男子30层高空作业绳子被2楼老人剪断",
-      "category": "society",
-      "hotScore": 0.51,
-      "freshness": 0.9999,
-      "crossSource": 1,
-      "totalScore": 0.804,
-      "sources": [
-        {
-          "channel": "toutiao",
-          "rank": 9,
-          "hot": 16213675,
-          "url": "https://www.toutiao.com/trending/7686766153797173311/"
-        },
-        {
-          "channel": "baidu",
-          "rank": 14,
-          "hot": 0,
-          "url": "https://m.baidu.com/s?word=%E7%94%B7%E5%AD%9030%E5%B1%82%E9%AB%98%E7%A9%BA%E4%BD%9C%E4%B8%9A%E7%BB%B3%E5%AD%90%E8%A2%AB2%E6%A5%BC%E8%80%81%E4%BA%BA%E5%89%AA%E6%96%AD&sa=fyb_news"
-        }
-      ],
-      "summary": "",
-      "url": "https://www.toutiao.com/trending/7686766153797173311/"
+      "url": "https://www.toutiao.com/trending/7685740175528394815/"
     },
     {
       "id": "evt-zcode000",
@@ -112,14 +118,14 @@
       "title": "绵阳一养猪场单日死亡500头猪不实",
       "category": "society",
       "hotScore": 0.425,
-      "freshness": 0.9999,
+      "freshness": 1,
       "crossSource": 1,
       "totalScore": 0.77,
       "sources": [
         {
           "channel": "toutiao",
           "rank": 11,
-          "hot": 13274634,
+          "hot": 13652591,
           "url": "https://www.toutiao.com/trending/7686814290531778603/"
         },
         {
@@ -131,25 +137,6 @@
       ],
       "summary": "",
       "url": "https://www.toutiao.com/trending/7686814290531778603/"
-    },
-    {
-      "id": "evt-40000000",
-      "title": "住建部：4楼及以上住宅都要加装电梯",
-      "category": "society",
-      "hotScore": 0.6375,
-      "freshness": 0.9999,
-      "crossSource": 0.6309,
-      "totalScore": 0.7443,
-      "sources": [
-        {
-          "channel": "toutiao",
-          "rank": 6,
-          "hot": 21886172,
-          "url": "https://www.toutiao.com/trending/7685740175528394815/"
-        }
-      ],
-      "summary": "",
-      "url": "https://www.toutiao.com/trending/7685740175528394815/"
     },
     {
       "id": "evt-70000000",
@@ -171,6 +158,25 @@
       "url": ""
     },
     {
+      "id": "evt-14000000",
+      "title": "业主买下1层4户圈占公共走廊",
+      "category": "society",
+      "hotScore": 0.5525,
+      "freshness": 1,
+      "crossSource": 0.6309,
+      "totalScore": 0.7103,
+      "sources": [
+        {
+          "channel": "toutiao",
+          "rank": 8,
+          "hot": 18429070,
+          "url": "https://www.toutiao.com/trending/7686858642015944730/"
+        }
+      ],
+      "summary": "",
+      "url": "https://www.toutiao.com/trending/7686858642015944730/"
+    },
+    {
       "id": "evt-ai000000",
       "title": "AI安全争议升温，英国王室罕见介入！查尔斯三世召集全球AI高层开会，黄仁勋、哈萨比斯参会",
       "category": "society",
@@ -188,25 +194,6 @@
       ],
       "summary": "",
       "url": "https://www.thepaper.cn/newsDetail_forward_34095187"
-    },
-    {
-      "id": "evt-91800000",
-      "title": "美驻日使馆9月18日发帖 日本网民破防",
-      "category": "society",
-      "hotScore": 0.48,
-      "freshness": 1,
-      "crossSource": 0.6309,
-      "totalScore": 0.6813,
-      "sources": [
-        {
-          "channel": "baidu",
-          "rank": 9,
-          "hot": 0,
-          "url": "https://m.baidu.com/s?word=%E7%BE%8E%E9%A9%BB%E6%97%A5%E4%BD%BF%E9%A6%869%E6%9C%8818%E6%97%A5%E5%8F%91%E5%B8%96+%E6%97%A5%E6%9C%AC%E7%BD%91%E6%B0%91%E7%A0%B4%E9%98%B2&sa=fyb_news"
-        }
-      ],
-      "summary": "",
-      "url": "https://m.baidu.com/s?word=%E7%BE%8E%E9%A9%BB%E6%97%A5%E4%BD%BF%E9%A6%869%E6%9C%8818%E6%97%A5%E5%8F%91%E5%B8%96+%E6%97%A5%E6%9C%AC%E7%BD%91%E6%B0%91%E7%A0%B4%E9%98%B2&sa=fyb_news"
     },
     {
       "id": "evt-15660000",
