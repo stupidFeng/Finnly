@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-09-18T02:07:36.408Z",
+  "generatedAt": "2026-09-18T08:35:00.537Z",
   "fields": {
     "society": "社会",
     "economy": "经济",
@@ -7,33 +7,33 @@
   },
   "feed": [
     {
-      "id": "evt-95000000",
-      "title": "九一八事变爆发95周年",
+      "id": "evt-00000000",
+      "title": "住建部：支持老旧房屋原拆原建",
       "category": "society",
-      "hotScore": 0.8075,
+      "hotScore": 0.85,
       "freshness": 0.9999,
       "crossSource": 1,
-      "totalScore": 0.923,
+      "totalScore": 0.94,
       "sources": [
         {
           "channel": "toutiao",
-          "rank": 2,
-          "hot": 44237072,
-          "url": "https://www.toutiao.com/trending/7685966694620135475/"
+          "rank": 1,
+          "hot": 13326414,
+          "url": "https://www.toutiao.com/trending/7686730746681131049/"
         },
         {
           "channel": "baidu",
           "rank": 3,
           "hot": 0,
-          "url": "https://m.baidu.com/s?word=%E4%B9%9D%E4%B8%80%E5%85%AB%E4%BA%8B%E5%8F%98%E7%88%86%E5%8F%9195%E5%91%A8%E5%B9%B4&sa=fyb_news"
+          "url": "https://m.baidu.com/s?word=%E4%BD%8F%E5%BB%BA%E9%83%A8%EF%BC%9A%E6%94%AF%E6%8C%81%E8%80%81%E6%97%A7%E6%88%BF%E5%B1%8B%E5%8E%9F%E6%8B%86%E5%8E%9F%E5%BB%BA&sa=fyb_news"
         }
       ],
       "summary": "",
-      "url": "https://www.toutiao.com/trending/7685966694620135475/"
+      "url": "https://www.toutiao.com/trending/7686730746681131049/"
     },
     {
-      "id": "evt-iphoned0",
-      "title": "iPhoneDuo维修费8000",
+      "id": "evt-40000000",
+      "title": "住建部：4楼及以上住宅都要加装电梯",
       "category": "society",
       "hotScore": 0.76,
       "freshness": 0.9999,
@@ -42,48 +42,48 @@
       "sources": [
         {
           "channel": "toutiao",
-          "rank": 16,
-          "hot": 10908727,
-          "url": "https://www.toutiao.com/trending/7686678772841680422/"
+          "rank": 4,
+          "hot": 9872450,
+          "url": "https://www.toutiao.com/trending/7685740175528394815/"
         },
         {
           "channel": "baidu",
           "rank": 2,
           "hot": 0,
-          "url": "https://m.baidu.com/s?word=iPhoneDuo%E7%BB%B4%E4%BF%AE%E8%B4%B98000&sa=fyb_news"
+          "url": "https://m.baidu.com/s?word=%E4%BD%8F%E5%BB%BA%E9%83%A8%EF%BC%9A4%E6%A5%BC%E5%8F%8A%E4%BB%A5%E4%B8%8A%E4%BD%8F%E5%AE%85%E9%83%BD%E8%A6%81%E5%8A%A0%E8%A3%85%E7%94%B5%E6%A2%AF&sa=fyb_news"
         }
       ],
       "summary": "",
-      "url": "https://www.toutiao.com/trending/7686678772841680422/"
+      "url": "https://www.toutiao.com/trending/7685740175528394815/"
     },
     {
-      "id": "evt-00000000",
-      "title": "男子碾轧民警被核准死刑",
+      "id": "evt-24700000",
+      "title": "代驾百万路虎24天跨7城倒贴22000元",
       "category": "society",
-      "hotScore": 0.7225,
+      "hotScore": 0.68,
       "freshness": 0.9999,
       "crossSource": 1,
-      "totalScore": 0.889,
+      "totalScore": 0.872,
       "sources": [
         {
           "channel": "toutiao",
-          "rank": 4,
-          "hot": 36218251,
-          "url": "https://www.toutiao.com/trending/7686420106345250870/"
+          "rank": 5,
+          "hot": 8932962,
+          "url": "https://www.toutiao.com/trending/7686527411055345706/"
         },
         {
           "channel": "baidu",
-          "rank": 5,
+          "rank": 15,
           "hot": 0,
-          "url": "https://m.baidu.com/s?word=%E7%94%B7%E5%AD%90%E7%A2%BE%E8%BD%A7%E6%B0%91%E8%AD%A6%E8%A2%AB%E6%A0%B8%E5%87%86%E6%AD%BB%E5%88%91&sa=fyb_news"
+          "url": "https://m.baidu.com/s?word=%E4%BB%A3%E9%A9%BE%E7%99%BE%E4%B8%87%E8%B7%AF%E8%99%8E24%E5%A4%A9%E8%B7%A87%E5%9F%8E%E5%80%92%E8%B4%B422000%E5%85%83&sa=fyb_news"
         }
       ],
       "summary": "",
-      "url": "https://www.toutiao.com/trending/7686420106345250870/"
+      "url": "https://www.toutiao.com/trending/7686527411055345706/"
     },
     {
-      "id": "evt-hyrox000",
-      "title": "如何看待 HYROX 失禁选手就北京赛场事件道歉，决定追溯性退出该场比赛，并放弃此前获得的积分？",
+      "id": "evt-24300000",
+      "title": "退休副省长家丢了 243 万元茅台等名酒，管家因盗窃罪获刑 10 年半，哪些细节值得关注？",
       "category": "society",
       "hotScore": 0.75,
       "freshness": 0.9999,
@@ -101,36 +101,36 @@
       "url": ""
     },
     {
-      "id": "evt-50000000",
-      "title": "宇树科技大涨重回 500 元，总市值重返 2000 亿元，当下是触底反弹还是下跌中继？谁在 500 元下方接盘？",
+      "id": "evt-25000000",
+      "title": "沈鼓集团暴涨250% 市值突破2000亿元",
       "category": "economy",
-      "hotScore": 0.4875,
-      "freshness": 0.9999,
+      "hotScore": 0.56,
+      "freshness": 1,
       "crossSource": 0.6309,
-      "totalScore": 0.6843,
+      "totalScore": 0.7133,
       "sources": [
         {
-          "channel": "zhihu",
-          "rank": 8,
+          "channel": "baidu",
+          "rank": 7,
           "hot": 0,
-          "url": ""
+          "url": "https://m.baidu.com/s?word=%E6%B2%88%E9%BC%93%E9%9B%86%E5%9B%A2%E6%9A%B4%E6%B6%A8250%25+%E5%B8%82%E5%80%BC%E7%AA%81%E7%A0%B42000%E4%BA%BF%E5%85%83&sa=fyb_news"
         }
       ],
       "summary": "",
-      "url": ""
+      "url": "https://m.baidu.com/s?word=%E6%B2%88%E9%BC%93%E9%9B%86%E5%9B%A2%E6%9A%B4%E6%B6%A8250%25+%E5%B8%82%E5%80%BC%E7%AA%81%E7%A0%B42000%E4%BA%BF%E5%85%83&sa=fyb_news"
     },
     {
       "id": "evt-hyro0000",
       "title": "开麦丨“中产狂奔”的HYROX，这次为何“拉完了”？",
       "category": "society",
-      "hotScore": 0.595,
+      "hotScore": 0.7225,
       "freshness": 1,
       "crossSource": 0.6309,
-      "totalScore": 0.7273,
+      "totalScore": 0.7783,
       "sources": [
         {
           "channel": "thepaper",
-          "rank": 7,
+          "rank": 4,
           "hot": 0,
           "url": "https://www.thepaper.cn/newsDetail_forward_34089809"
         }
@@ -139,65 +139,65 @@
       "url": "https://www.thepaper.cn/newsDetail_forward_34089809"
     },
     {
-      "id": "evt-30000000",
-      "title": "每小时成本超3万美元！沉寂半年后小米罗福莉直播大模型训练过程",
+      "id": "evt-20000000",
+      "title": "粉笔曝被四海200万高薪挖走老师",
       "category": "society",
-      "hotScore": 0.5525,
+      "hotScore": 0.64,
       "freshness": 1,
       "crossSource": 0.6309,
-      "totalScore": 0.7103,
+      "totalScore": 0.7453,
       "sources": [
         {
-          "channel": "thepaper",
-          "rank": 8,
+          "channel": "baidu",
+          "rank": 5,
           "hot": 0,
-          "url": "https://www.thepaper.cn/newsDetail_forward_34088356"
+          "url": "https://m.baidu.com/s?word=%E7%B2%89%E7%AC%94%E6%9B%9D%E8%A2%AB%E5%9B%9B%E6%B5%B7200%E4%B8%87%E9%AB%98%E8%96%AA%E6%8C%96%E8%B5%B0%E8%80%81%E5%B8%88&sa=fyb_news"
         }
       ],
       "summary": "",
-      "url": "https://www.thepaper.cn/newsDetail_forward_34088356"
+      "url": "https://m.baidu.com/s?word=%E7%B2%89%E7%AC%94%E6%9B%9D%E8%A2%AB%E5%9B%9B%E6%B5%B7200%E4%B8%87%E9%AB%98%E8%96%AA%E6%8C%96%E8%B5%B0%E8%80%81%E5%B8%88&sa=fyb_news"
     },
     {
-      "id": "evt-68000000",
-      "title": "68%受访物理学家质疑时间始于大爆炸",
+      "id": "evt-80000000",
+      "title": "8月末河南人民币存款余额125919.8亿",
       "category": "society",
-      "hotScore": 0.51,
+      "hotScore": 0.595,
       "freshness": 0.9999,
       "crossSource": 0.6309,
-      "totalScore": 0.6933,
+      "totalScore": 0.7272,
       "sources": [
         {
           "channel": "toutiao",
-          "rank": 9,
-          "hot": 21967479,
-          "url": "https://www.toutiao.com/trending/7686499386079592511/"
+          "rank": 7,
+          "hot": 7313691,
+          "url": "https://www.toutiao.com/trending/7686319540560461878/"
         }
       ],
       "summary": "",
-      "url": "https://www.toutiao.com/trending/7686499386079592511/"
+      "url": "https://www.toutiao.com/trending/7686319540560461878/"
     },
     {
-      "id": "evt-77700000",
-      "title": "如何评价《一人之下》第 777（831）话？",
+      "id": "evt-30000000",
+      "title": "公司每周上班3天半 月薪平均7000元",
       "category": "society",
-      "hotScore": 0.45,
-      "freshness": 0.9999,
+      "hotScore": 0.48,
+      "freshness": 1,
       "crossSource": 0.6309,
-      "totalScore": 0.6693,
+      "totalScore": 0.6813,
       "sources": [
         {
-          "channel": "zhihu",
+          "channel": "baidu",
           "rank": 9,
           "hot": 0,
-          "url": ""
+          "url": "https://m.baidu.com/s?word=%E5%85%AC%E5%8F%B8%E6%AF%8F%E5%91%A8%E4%B8%8A%E7%8F%AD3%E5%A4%A9%E5%8D%8A+%E6%9C%88%E8%96%AA%E5%B9%B3%E5%9D%877000%E5%85%83&sa=fyb_news"
         }
       ],
       "summary": "",
-      "url": ""
+      "url": "https://m.baidu.com/s?word=%E5%85%AC%E5%8F%B8%E6%AF%8F%E5%91%A8%E4%B8%8A%E7%8F%AD3%E5%A4%A9%E5%8D%8A+%E6%9C%88%E8%96%AA%E5%B9%B3%E5%9D%877000%E5%85%83&sa=fyb_news"
     },
     {
-      "id": "evt-29900000",
-      "title": "婚服29.9元婚车自家车 极简婚礼火了",
+      "id": "evt-50000000",
+      "title": "松岛辉空：发挥50%也能赢国乒",
       "category": "society",
       "hotScore": 0.44,
       "freshness": 1,
@@ -208,11 +208,11 @@
           "channel": "baidu",
           "rank": 10,
           "hot": 0,
-          "url": "https://m.baidu.com/s?word=%E5%A9%9A%E6%9C%8D29.9%E5%85%83%E5%A9%9A%E8%BD%A6%E8%87%AA%E5%AE%B6%E8%BD%A6+%E6%9E%81%E7%AE%80%E5%A9%9A%E7%A4%BC%E7%81%AB%E4%BA%86&sa=fyb_news"
+          "url": "https://m.baidu.com/s?word=%E6%9D%BE%E5%B2%9B%E8%BE%89%E7%A9%BA%EF%BC%9A%E5%8F%91%E6%8C%A550%25%E4%B9%9F%E8%83%BD%E8%B5%A2%E5%9B%BD%E4%B9%92&sa=fyb_news"
         }
       ],
       "summary": "",
-      "url": "https://m.baidu.com/s?word=%E5%A9%9A%E6%9C%8D29.9%E5%85%83%E5%A9%9A%E8%BD%A6%E8%87%AA%E5%AE%B6%E8%BD%A6+%E6%9E%81%E7%AE%80%E5%A9%9A%E7%A4%BC%E7%81%AB%E4%BA%86&sa=fyb_news"
+      "url": "https://m.baidu.com/s?word=%E6%9D%BE%E5%B2%9B%E8%BE%89%E7%A9%BA%EF%BC%9A%E5%8F%91%E6%8C%A550%25%E4%B9%9F%E8%83%BD%E8%B5%A2%E5%9B%BD%E4%B9%92&sa=fyb_news"
     }
   ]
 }
