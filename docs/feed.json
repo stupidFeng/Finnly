@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-09-19T13:33:57.773Z",
+  "generatedAt": "2026-09-19T16:53:43.948Z",
   "fields": {
     "society": "社会",
     "economy": "经济",
@@ -8,41 +8,41 @@
   "feed": [
     {
       "id": "evt-00000000",
-      "title": "亚运会开幕式",
+      "title": "传统豪车集体降价续命",
       "category": "society",
       "hotScore": 0.85,
-      "freshness": 1,
+      "freshness": 0.9998,
       "crossSource": 1,
-      "totalScore": 0.94,
+      "totalScore": 0.9399,
       "sources": [
         {
           "channel": "toutiao",
           "rank": 1,
-          "hot": 17400912,
-          "url": "https://www.toutiao.com/trending/7686461399073243174/"
+          "hot": 19681681,
+          "url": "https://www.toutiao.com/trending/7686108364233998372/"
         },
         {
           "channel": "baidu",
-          "rank": 2,
+          "rank": 3,
           "hot": 0,
-          "url": "https://m.baidu.com/s?word=%E4%BA%9A%E8%BF%90%E4%BC%9A%E5%BC%80%E5%B9%95%E5%BC%8F&sa=fyb_news"
+          "url": "https://m.baidu.com/s?word=%E4%BC%A0%E7%BB%9F%E8%B1%AA%E8%BD%A6%E9%9B%86%E4%BD%93%E9%99%8D%E4%BB%B7%E7%BB%AD%E5%91%BD&sa=fyb_news"
         }
       ],
       "summary": "",
-      "url": "https://www.toutiao.com/trending/7686461399073243174/"
+      "url": "https://www.toutiao.com/trending/7686108364233998372/"
     },
     {
       "id": "evt-lpl20260",
       "title": "LPL 2026 冒泡赛决赛 iG 3:1 淘汰 JDG 夺得最后一张世界赛门票，如何评价这场比赛？",
       "category": "society",
-      "hotScore": 0.6375,
-      "freshness": 1,
+      "hotScore": 0.7125,
+      "freshness": 0.9998,
       "crossSource": 0.6309,
-      "totalScore": 0.7443,
+      "totalScore": 0.7742,
       "sources": [
         {
           "channel": "zhihu",
-          "rank": 4,
+          "rank": 2,
           "hot": 0,
           "url": ""
         }
@@ -51,42 +51,112 @@
       "url": ""
     },
     {
-      "id": "evt-40000000",
-      "title": "父女在商场遭人围堵4岁女儿被吓哭",
+      "id": "evt-40002000",
+      "title": "亚运会4000人住邮轮 21日台风来袭",
       "category": "society",
-      "hotScore": 0.2975,
+      "hotScore": 0.6,
       "freshness": 1,
-      "crossSource": 1,
-      "totalScore": 0.719,
+      "crossSource": 0.6309,
+      "totalScore": 0.7293,
       "sources": [
         {
-          "channel": "toutiao",
-          "rank": 14,
-          "hot": 4742301,
-          "url": "https://www.toutiao.com/trending/7687057473010106409/"
-        },
-        {
           "channel": "baidu",
-          "rank": 17,
+          "rank": 6,
           "hot": 0,
-          "url": "https://m.baidu.com/s?word=%E7%88%B6%E5%A5%B3%E5%9C%A8%E5%95%86%E5%9C%BA%E9%81%AD%E4%BA%BA%E5%9B%B4%E5%A0%B54%E5%B2%81%E5%A5%B3%E5%84%BF%E8%A2%AB%E5%90%93%E5%93%AD&sa=fyb_news"
+          "url": "https://m.baidu.com/s?word=%E4%BA%9A%E8%BF%90%E4%BC%9A4000%E4%BA%BA%E4%BD%8F%E9%82%AE%E8%BD%AE+21%E6%97%A5%E5%8F%B0%E9%A3%8E%E6%9D%A5%E8%A2%AD&sa=fyb_news"
         }
       ],
       "summary": "",
-      "url": "https://www.toutiao.com/trending/7687057473010106409/"
+      "url": "https://m.baidu.com/s?word=%E4%BA%9A%E8%BF%90%E4%BC%9A4000%E4%BA%BA%E4%BD%8F%E9%82%AE%E8%BD%AE+21%E6%97%A5%E5%8F%B0%E9%A3%8E%E6%9D%A5%E8%A2%AD&sa=fyb_news"
+    },
+    {
+      "id": "evt-12306130",
+      "title": "12306已拒绝出票133.1万张",
+      "category": "society",
+      "hotScore": 0.595,
+      "freshness": 0.9998,
+      "crossSource": 0.6309,
+      "totalScore": 0.7272,
+      "sources": [
+        {
+          "channel": "toutiao",
+          "rank": 7,
+          "hot": 10801535,
+          "url": "https://www.toutiao.com/trending/7687102613044985899/"
+        }
+      ],
+      "summary": "",
+      "url": "https://www.toutiao.com/trending/7687102613044985899/"
+    },
+    {
+      "id": "evt-35000000",
+      "title": "为什么很多过了 35 岁的女性会突然拼命想要孩子？",
+      "category": "society",
+      "hotScore": 0.5625,
+      "freshness": 0.9998,
+      "crossSource": 0.6309,
+      "totalScore": 0.7142,
+      "sources": [
+        {
+          "channel": "zhihu",
+          "rank": 6,
+          "hot": 0,
+          "url": ""
+        }
+      ],
+      "summary": "",
+      "url": ""
+    },
+    {
+      "id": "evt-37000000",
+      "title": "37岁法国前总理宣布参选总统",
+      "category": "society",
+      "hotScore": 0.5525,
+      "freshness": 0.9998,
+      "crossSource": 0.6309,
+      "totalScore": 0.7102,
+      "sources": [
+        {
+          "channel": "toutiao",
+          "rank": 8,
+          "hot": 9773633,
+          "url": "https://www.toutiao.com/trending/7686674913684160563/"
+        }
+      ],
+      "summary": "",
+      "url": "https://www.toutiao.com/trending/7686674913684160563/"
+    },
+    {
+      "id": "evt-14000000",
+      "title": "许嵩冯禧相差14岁",
+      "category": "society",
+      "hotScore": 0.52,
+      "freshness": 1,
+      "crossSource": 0.6309,
+      "totalScore": 0.6973,
+      "sources": [
+        {
+          "channel": "baidu",
+          "rank": 8,
+          "hot": 0,
+          "url": "https://m.baidu.com/s?word=%E8%AE%B8%E5%B5%A9%E5%86%AF%E7%A6%A7%E7%9B%B8%E5%B7%AE14%E5%B2%81&sa=fyb_news"
+        }
+      ],
+      "summary": "",
+      "url": "https://m.baidu.com/s?word=%E8%AE%B8%E5%B5%A9%E5%86%AF%E7%A6%A7%E7%9B%B8%E5%B7%AE14%E5%B2%81&sa=fyb_news"
     },
     {
       "id": "evt-cnn00000",
       "title": "特朗普禁止CNN等多家媒体进入白宫：他们不断报道假新闻",
       "category": "society",
-      "hotScore": 0.5525,
-      "freshness": 1,
+      "hotScore": 0.51,
+      "freshness": 0.9999,
       "crossSource": 0.6309,
-      "totalScore": 0.7103,
+      "totalScore": 0.6933,
       "sources": [
         {
           "channel": "thepaper",
-          "rank": 8,
+          "rank": 9,
           "hot": 0,
           "url": "https://www.thepaper.cn/newsDetail_forward_34102730"
         }
@@ -98,39 +168,20 @@
       "id": "evt-63000000",
       "title": "63岁湖南师大退休教师龚德才逝世，曾因只讲课不评职称在网上走红",
       "category": "society",
-      "hotScore": 0.51,
-      "freshness": 1,
+      "hotScore": 0.425,
+      "freshness": 0.9999,
       "crossSource": 0.6309,
-      "totalScore": 0.6933,
+      "totalScore": 0.6593,
       "sources": [
         {
           "channel": "thepaper",
-          "rank": 9,
+          "rank": 11,
           "hot": 0,
           "url": "https://www.thepaper.cn/newsDetail_forward_34103137"
         }
       ],
       "summary": "",
       "url": "https://www.thepaper.cn/newsDetail_forward_34103137"
-    },
-    {
-      "id": "evt-19300000",
-      "title": "19岁初中文化小伙操盘30亿围标案",
-      "category": "society",
-      "hotScore": 0.44,
-      "freshness": 1,
-      "crossSource": 0.6309,
-      "totalScore": 0.6653,
-      "sources": [
-        {
-          "channel": "baidu",
-          "rank": 10,
-          "hot": 0,
-          "url": "https://m.baidu.com/s?word=19%E5%B2%81%E5%88%9D%E4%B8%AD%E6%96%87%E5%8C%96%E5%B0%8F%E4%BC%99%E6%93%8D%E7%9B%9830%E4%BA%BF%E5%9B%B4%E6%A0%87%E6%A1%88&sa=fyb_news"
-        }
-      ],
-      "summary": "",
-      "url": "https://m.baidu.com/s?word=19%E5%B2%81%E5%88%9D%E4%B8%AD%E6%96%87%E5%8C%96%E5%B0%8F%E4%BC%99%E6%93%8D%E7%9B%9830%E4%BA%BF%E5%9B%B4%E6%A0%87%E6%A1%88&sa=fyb_news"
     }
   ]
 }
