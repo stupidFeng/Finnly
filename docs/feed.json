@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-09-19T16:53:43.948Z",
+  "generatedAt": "2026-09-19T19:45:01.650Z",
   "fields": {
     "society": "社会",
     "economy": "经济",
@@ -18,7 +18,7 @@
         {
           "channel": "toutiao",
           "rank": 1,
-          "hot": 19681681,
+          "hot": 19984556,
           "url": "https://www.toutiao.com/trending/7686108364233998372/"
         },
         {
@@ -30,6 +30,25 @@
       ],
       "summary": "",
       "url": "https://www.toutiao.com/trending/7686108364233998372/"
+    },
+    {
+      "id": "evt-50000000",
+      "title": "男子买法拍房被赚50万差价 法院判了",
+      "category": "society",
+      "hotScore": 0.7225,
+      "freshness": 0.9998,
+      "crossSource": 0.6309,
+      "totalScore": 0.7782,
+      "sources": [
+        {
+          "channel": "toutiao",
+          "rank": 4,
+          "hot": 14804923,
+          "url": "https://www.toutiao.com/trending/7687092165448941595/"
+        }
+      ],
+      "summary": "",
+      "url": "https://www.toutiao.com/trending/7687092165448941595/"
     },
     {
       "id": "evt-lpl20260",
@@ -70,36 +89,17 @@
       "url": "https://m.baidu.com/s?word=%E4%BA%9A%E8%BF%90%E4%BC%9A4000%E4%BA%BA%E4%BD%8F%E9%82%AE%E8%BD%AE+21%E6%97%A5%E5%8F%B0%E9%A3%8E%E6%9D%A5%E8%A2%AD&sa=fyb_news"
     },
     {
-      "id": "evt-12306130",
-      "title": "12306已拒绝出票133.1万张",
-      "category": "society",
-      "hotScore": 0.595,
-      "freshness": 0.9998,
-      "crossSource": 0.6309,
-      "totalScore": 0.7272,
-      "sources": [
-        {
-          "channel": "toutiao",
-          "rank": 7,
-          "hot": 10801535,
-          "url": "https://www.toutiao.com/trending/7687102613044985899/"
-        }
-      ],
-      "summary": "",
-      "url": "https://www.toutiao.com/trending/7687102613044985899/"
-    },
-    {
       "id": "evt-35000000",
       "title": "为什么很多过了 35 岁的女性会突然拼命想要孩子？",
       "category": "society",
-      "hotScore": 0.5625,
+      "hotScore": 0.6,
       "freshness": 0.9998,
       "crossSource": 0.6309,
-      "totalScore": 0.7142,
+      "totalScore": 0.7292,
       "sources": [
         {
           "channel": "zhihu",
-          "rank": 6,
+          "rank": 5,
           "hot": 0,
           "url": ""
         }
@@ -108,55 +108,36 @@
       "url": ""
     },
     {
-      "id": "evt-37000000",
-      "title": "37岁法国前总理宣布参选总统",
+      "id": "evt-alblgtesig",
+      "title": "AL 、 BLG 、 TES 、 iG 成为 S16 总决赛参赛队伍，这四支参赛队伍都能在世界赛上走多远？",
       "category": "society",
-      "hotScore": 0.5525,
+      "hotScore": 0.525,
       "freshness": 0.9998,
       "crossSource": 0.6309,
-      "totalScore": 0.7102,
+      "totalScore": 0.6992,
       "sources": [
         {
-          "channel": "toutiao",
-          "rank": 8,
-          "hot": 9773633,
-          "url": "https://www.toutiao.com/trending/7686674913684160563/"
-        }
-      ],
-      "summary": "",
-      "url": "https://www.toutiao.com/trending/7686674913684160563/"
-    },
-    {
-      "id": "evt-14000000",
-      "title": "许嵩冯禧相差14岁",
-      "category": "society",
-      "hotScore": 0.52,
-      "freshness": 1,
-      "crossSource": 0.6309,
-      "totalScore": 0.6973,
-      "sources": [
-        {
-          "channel": "baidu",
-          "rank": 8,
+          "channel": "zhihu",
+          "rank": 7,
           "hot": 0,
-          "url": "https://m.baidu.com/s?word=%E8%AE%B8%E5%B5%A9%E5%86%AF%E7%A6%A7%E7%9B%B8%E5%B7%AE14%E5%B2%81&sa=fyb_news"
+          "url": ""
         }
       ],
       "summary": "",
-      "url": "https://m.baidu.com/s?word=%E8%AE%B8%E5%B5%A9%E5%86%AF%E7%A6%A7%E7%9B%B8%E5%B7%AE14%E5%B2%81&sa=fyb_news"
+      "url": ""
     },
     {
       "id": "evt-cnn00000",
       "title": "特朗普禁止CNN等多家媒体进入白宫：他们不断报道假新闻",
       "category": "society",
-      "hotScore": 0.51,
+      "hotScore": 0.425,
       "freshness": 0.9999,
       "crossSource": 0.6309,
-      "totalScore": 0.6933,
+      "totalScore": 0.6592,
       "sources": [
         {
           "channel": "thepaper",
-          "rank": 9,
+          "rank": 11,
           "hot": 0,
           "url": "https://www.thepaper.cn/newsDetail_forward_34102730"
         }
@@ -165,23 +146,23 @@
       "url": "https://www.thepaper.cn/newsDetail_forward_34102730"
     },
     {
-      "id": "evt-63000000",
-      "title": "63岁湖南师大退休教师龚德才逝世，曾因只讲课不评职称在网上走红",
+      "id": "evt-31000000",
+      "title": "如何评价 31 岁博士辞医院工作去送外卖、做驻唱？现代社会如何看待人选择生活方式的自由，探索生活的可能性？",
       "category": "society",
-      "hotScore": 0.425,
-      "freshness": 0.9999,
+      "hotScore": 0.4125,
+      "freshness": 0.9998,
       "crossSource": 0.6309,
-      "totalScore": 0.6593,
+      "totalScore": 0.6542,
       "sources": [
         {
-          "channel": "thepaper",
-          "rank": 11,
+          "channel": "zhihu",
+          "rank": 10,
           "hot": 0,
-          "url": "https://www.thepaper.cn/newsDetail_forward_34103137"
+          "url": ""
         }
       ],
       "summary": "",
-      "url": "https://www.thepaper.cn/newsDetail_forward_34103137"
+      "url": ""
     }
   ]
 }
