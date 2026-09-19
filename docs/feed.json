@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-09-19T21:55:07.662Z",
+  "generatedAt": "2026-09-19T23:46:33.438Z",
   "fields": {
     "society": "社会",
     "economy": "经济",
@@ -8,7 +8,7 @@
   "feed": [
     {
       "id": "evt-00000000",
-      "title": "传统豪车集体降价续命",
+      "title": "北大复旦校长接连发出警告",
       "category": "society",
       "hotScore": 0.85,
       "freshness": 0.9999,
@@ -18,31 +18,145 @@
         {
           "channel": "toutiao",
           "rank": 1,
-          "hot": 20406470,
-          "url": "https://www.toutiao.com/trending/7686108364233998372/"
+          "hot": 17097468,
+          "url": "https://www.toutiao.com/trending/7686699035658358291/"
         },
         {
           "channel": "baidu",
-          "rank": 3,
+          "rank": 10,
           "hot": 0,
-          "url": "https://m.baidu.com/s?word=%E4%BC%A0%E7%BB%9F%E8%B1%AA%E8%BD%A6%E9%9B%86%E4%BD%93%E9%99%8D%E4%BB%B7%E7%BB%AD%E5%91%BD&sa=fyb_news"
+          "url": "https://m.baidu.com/s?word=%E5%8C%97%E5%A4%A7%E5%A4%8D%E6%97%A6%E6%A0%A1%E9%95%BF%E6%8E%A5%E8%BF%9E%E5%8F%91%E5%87%BA%E8%AD%A6%E5%91%8A&sa=fyb_news"
         }
       ],
       "summary": "",
-      "url": "https://www.toutiao.com/trending/7686108364233998372/"
+      "url": "https://www.toutiao.com/trending/7686699035658358291/"
+    },
+    {
+      "id": "evt-12000000",
+      "title": "12年老员工拒“自愿离职”被调为待岗",
+      "category": "society",
+      "hotScore": 0.7225,
+      "freshness": 0.9999,
+      "crossSource": 0.6309,
+      "totalScore": 0.7782,
+      "sources": [
+        {
+          "channel": "toutiao",
+          "rank": 4,
+          "hot": 12666116,
+          "url": "https://www.toutiao.com/trending/7686116766583341099/"
+        }
+      ],
+      "summary": "",
+      "url": "https://www.toutiao.com/trending/7686116766583341099/"
     },
     {
       "id": "evt-lpl20260",
       "title": "LPL 2026 冒泡赛决赛 iG 3:1 淘汰 JDG 夺得最后一张世界赛门票，如何评价这场比赛？",
       "category": "society",
-      "hotScore": 0.75,
+      "hotScore": 0.7125,
       "freshness": 0.9999,
       "crossSource": 0.6309,
-      "totalScore": 0.7892,
+      "totalScore": 0.7742,
       "sources": [
         {
           "channel": "zhihu",
-          "rank": 1,
+          "rank": 2,
+          "hot": 0,
+          "url": ""
+        }
+      ],
+      "summary": "",
+      "url": ""
+    },
+    {
+      "id": "evt-35000000",
+      "title": "为什么很多过了 35 岁的女性会突然拼命想要孩子？",
+      "category": "society",
+      "hotScore": 0.6375,
+      "freshness": 0.9999,
+      "crossSource": 0.6309,
+      "totalScore": 0.7442,
+      "sources": [
+        {
+          "channel": "zhihu",
+          "rank": 4,
+          "hot": 0,
+          "url": ""
+        }
+      ],
+      "summary": "",
+      "url": ""
+    },
+    {
+      "id": "evt-aiai0000",
+      "title": "AI手机之后 AI主机也出现了",
+      "category": "society",
+      "hotScore": 0.6,
+      "freshness": 1,
+      "crossSource": 0.6309,
+      "totalScore": 0.7293,
+      "sources": [
+        {
+          "channel": "baidu",
+          "rank": 6,
+          "hot": 0,
+          "url": "https://m.baidu.com/s?word=AI%E6%89%8B%E6%9C%BA%E4%B9%8B%E5%90%8E+AI%E4%B8%BB%E6%9C%BA%E4%B9%9F%E5%87%BA%E7%8E%B0%E4%BA%86&sa=fyb_news"
+        }
+      ],
+      "summary": "",
+      "url": "https://m.baidu.com/s?word=AI%E6%89%8B%E6%9C%BA%E4%B9%8B%E5%90%8E+AI%E4%B8%BB%E6%9C%BA%E4%B9%9F%E5%87%BA%E7%8E%B0%E4%BA%86&sa=fyb_news"
+    },
+    {
+      "id": "evt-20000000",
+      "title": "四川盐边泥石流已致2人遇难3人失联",
+      "category": "society",
+      "hotScore": 0.56,
+      "freshness": 1,
+      "crossSource": 0.6309,
+      "totalScore": 0.7133,
+      "sources": [
+        {
+          "channel": "baidu",
+          "rank": 7,
+          "hot": 0,
+          "url": "https://m.baidu.com/s?word=%E5%9B%9B%E5%B7%9D%E7%9B%90%E8%BE%B9%E6%B3%A5%E7%9F%B3%E6%B5%81%E5%B7%B2%E8%87%B42%E4%BA%BA%E9%81%87%E9%9A%BE3%E4%BA%BA%E5%A4%B1%E8%81%94&sa=fyb_news"
+        }
+      ],
+      "summary": "",
+      "url": "https://m.baidu.com/s?word=%E5%9B%9B%E5%B7%9D%E7%9B%90%E8%BE%B9%E6%B3%A5%E7%9F%B3%E6%B5%81%E5%B7%B2%E8%87%B42%E4%BA%BA%E9%81%87%E9%9A%BE3%E4%BA%BA%E5%A4%B1%E8%81%94&sa=fyb_news"
+    },
+    {
+      "id": "evt-31000000",
+      "title": "亚运赛场今日将决出31金",
+      "category": "society",
+      "hotScore": 0.5525,
+      "freshness": 0.9999,
+      "crossSource": 0.6309,
+      "totalScore": 0.7102,
+      "sources": [
+        {
+          "channel": "toutiao",
+          "rank": 8,
+          "hot": 8490351,
+          "url": "https://www.toutiao.com/trending/7687348720517808691/"
+        }
+      ],
+      "summary": "",
+      "url": "https://www.toutiao.com/trending/7687348720517808691/"
+    },
+    {
+      "id": "evt-deepseek",
+      "title": "Deepseek 用现在的 ds harness 好还是 zcode 好？",
+      "category": "society",
+      "hotScore": 0.525,
+      "freshness": 0.9999,
+      "crossSource": 0.6309,
+      "totalScore": 0.6992,
+      "sources": [
+        {
+          "channel": "zhihu",
+          "rank": 7,
           "hot": 0,
           "url": ""
         }
@@ -54,14 +168,14 @@
       "id": "evt-40002000",
       "title": "亚运会4000人住邮轮 21日台风来袭",
       "category": "society",
-      "hotScore": 0.6,
+      "hotScore": 0.52,
       "freshness": 1,
       "crossSource": 0.6309,
-      "totalScore": 0.7293,
+      "totalScore": 0.6973,
       "sources": [
         {
           "channel": "baidu",
-          "rank": 6,
+          "rank": 8,
           "hot": 0,
           "url": "https://m.baidu.com/s?word=%E4%BA%9A%E8%BF%90%E4%BC%9A4000%E4%BA%BA%E4%BD%8F%E9%82%AE%E8%BD%AE+21%E6%97%A5%E5%8F%B0%E9%A3%8E%E6%9D%A5%E8%A2%AD&sa=fyb_news"
         }
@@ -70,80 +184,23 @@
       "url": "https://m.baidu.com/s?word=%E4%BA%9A%E8%BF%90%E4%BC%9A4000%E4%BA%BA%E4%BD%8F%E9%82%AE%E8%BD%AE+21%E6%97%A5%E5%8F%B0%E9%A3%8E%E6%9D%A5%E8%A2%AD&sa=fyb_news"
     },
     {
-      "id": "evt-35000000",
-      "title": "为什么很多过了 35 岁的女性会突然拼命想要孩子？",
+      "id": "evt-80000000",
+      "title": "山东荣成一面包车坠海致8死3伤，调查报告认定：司机路况不熟、误判路线",
       "category": "society",
-      "hotScore": 0.6,
+      "hotScore": 0.4675,
       "freshness": 0.9999,
       "crossSource": 0.6309,
-      "totalScore": 0.7292,
-      "sources": [
-        {
-          "channel": "zhihu",
-          "rank": 5,
-          "hot": 0,
-          "url": ""
-        }
-      ],
-      "summary": "",
-      "url": ""
-    },
-    {
-      "id": "evt-31000000",
-      "title": "如何评价 31 岁博士辞医院工作去送外卖、做驻唱？现代社会如何看待人选择生活方式的自由，探索生活的可能性？",
-      "category": "society",
-      "hotScore": 0.5625,
-      "freshness": 0.9999,
-      "crossSource": 0.6309,
-      "totalScore": 0.7142,
-      "sources": [
-        {
-          "channel": "zhihu",
-          "rank": 6,
-          "hot": 0,
-          "url": ""
-        }
-      ],
-      "summary": "",
-      "url": ""
-    },
-    {
-      "id": "evt-28000000",
-      "title": "啄木鸟被曝换开关收2800后态度反转",
-      "category": "society",
-      "hotScore": 0.48,
-      "freshness": 1,
-      "crossSource": 0.6309,
-      "totalScore": 0.6813,
-      "sources": [
-        {
-          "channel": "baidu",
-          "rank": 9,
-          "hot": 0,
-          "url": "https://m.baidu.com/s?word=%E5%95%84%E6%9C%A8%E9%B8%9F%E8%A2%AB%E6%9B%9D%E6%8D%A2%E5%BC%80%E5%85%B3%E6%94%B62800%E5%90%8E%E6%80%81%E5%BA%A6%E5%8F%8D%E8%BD%AC&sa=fyb_news"
-        }
-      ],
-      "summary": "",
-      "url": "https://m.baidu.com/s?word=%E5%95%84%E6%9C%A8%E9%B8%9F%E8%A2%AB%E6%9B%9D%E6%8D%A2%E5%BC%80%E5%85%B3%E6%94%B62800%E5%90%8E%E6%80%81%E5%BA%A6%E5%8F%8D%E8%BD%AC&sa=fyb_news"
-    },
-    {
-      "id": "evt-cnn00000",
-      "title": "特朗普禁止CNN等多家媒体进入白宫：他们不断报道假新闻",
-      "category": "society",
-      "hotScore": 0.425,
-      "freshness": 1,
-      "crossSource": 0.6309,
-      "totalScore": 0.6593,
+      "totalScore": 0.6763,
       "sources": [
         {
           "channel": "thepaper",
-          "rank": 11,
+          "rank": 10,
           "hot": 0,
-          "url": "https://www.thepaper.cn/newsDetail_forward_34102730"
+          "url": "https://www.thepaper.cn/newsDetail_forward_34104103"
         }
       ],
       "summary": "",
-      "url": "https://www.thepaper.cn/newsDetail_forward_34102730"
+      "url": "https://www.thepaper.cn/newsDetail_forward_34104103"
     }
   ]
 }
