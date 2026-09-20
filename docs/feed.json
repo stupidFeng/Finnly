@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-09-20T13:48:32.927Z",
+  "generatedAt": "2026-09-20T17:06:52.246Z",
   "fields": {
     "society": "社会",
     "economy": "经济",
@@ -7,23 +7,48 @@
   },
   "feed": [
     {
-      "id": "evt-11000000",
-      "title": "中国队一天11枚金牌",
+      "id": "evt-00000000",
+      "title": "人民日报评“第一学历歧视”",
       "category": "society",
-      "hotScore": 0.85,
-      "freshness": 0.9998,
+      "hotScore": 0.76,
+      "freshness": 1,
       "crossSource": 1,
-      "totalScore": 0.94,
+      "totalScore": 0.904,
       "sources": [
         {
           "channel": "toutiao",
-          "rank": 1,
-          "hot": 17832114,
+          "rank": 7,
+          "hot": 11131961,
+          "url": "https://www.toutiao.com/trending/7687588004898049562/"
+        },
+        {
+          "channel": "baidu",
+          "rank": 2,
+          "hot": 0,
+          "url": "https://m.baidu.com/s?word=%E4%BA%BA%E6%B0%91%E6%97%A5%E6%8A%A5%E8%AF%84%E2%80%9C%E7%AC%AC%E4%B8%80%E5%AD%A6%E5%8E%86%E6%AD%A7%E8%A7%86%E2%80%9D&sa=fyb_news"
+        }
+      ],
+      "summary": "",
+      "url": "https://www.toutiao.com/trending/7687588004898049562/"
+    },
+    {
+      "id": "evt-11000000",
+      "title": "中国队一天11枚金牌",
+      "category": "society",
+      "hotScore": 0.6,
+      "freshness": 1,
+      "crossSource": 1,
+      "totalScore": 0.84,
+      "sources": [
+        {
+          "channel": "toutiao",
+          "rank": 12,
+          "hot": 6751875,
           "url": "https://www.toutiao.com/trending/7687445856612007977/"
         },
         {
           "channel": "baidu",
-          "rank": 9,
+          "rank": 6,
           "hot": 0,
           "url": "https://m.baidu.com/s?word=%E4%B8%AD%E5%9B%BD%E9%98%9F%E4%B8%80%E5%A4%A911%E6%9E%9A%E9%87%91%E7%89%8C&sa=fyb_news"
         }
@@ -32,58 +57,8 @@
       "url": "https://www.toutiao.com/trending/7687445856612007977/"
     },
     {
-      "id": "evt-20260000",
-      "title": "2026湾区升明月",
-      "category": "society",
-      "hotScore": 0.8075,
-      "freshness": 0.9998,
-      "crossSource": 1,
-      "totalScore": 0.923,
-      "sources": [
-        {
-          "channel": "toutiao",
-          "rank": 2,
-          "hot": 16135164,
-          "url": "https://www.toutiao.com/trending/7687593863589924390/"
-        },
-        {
-          "channel": "baidu",
-          "rank": 8,
-          "hot": 0,
-          "url": "https://m.baidu.com/s?word=2026%E6%B9%BE%E5%8C%BA%E5%8D%87%E6%98%8E%E6%9C%88&sa=fyb_news"
-        },
-        {
-          "channel": "baidu",
-          "rank": 16,
-          "hot": 0,
-          "url": "https://m.baidu.com/s?word=2026%E6%B9%BE%E5%8C%BA%E5%8D%87%E6%98%8E%E6%9C%88%E8%8A%82%E7%9B%AE%E5%8D%95&sa=fyb_news"
-        }
-      ],
-      "summary": "",
-      "url": "https://www.toutiao.com/trending/7687593863589924390/"
-    },
-    {
-      "id": "evt-00000000",
-      "title": "媒体刊文：一家企业被“倒闭”，只需要一条热搜吗？",
-      "category": "society",
-      "hotScore": 0.85,
-      "freshness": 0.9999,
-      "crossSource": 0.6309,
-      "totalScore": 0.8293,
-      "sources": [
-        {
-          "channel": "thepaper",
-          "rank": 1,
-          "hot": 0,
-          "url": "https://www.thepaper.cn/newsDetail_forward_34106191"
-        }
-      ],
-      "summary": "",
-      "url": "https://www.thepaper.cn/newsDetail_forward_34106191"
-    },
-    {
-      "id": "evt-00400000",
-      "title": "潘展乐赢了0.04秒",
+      "id": "evt-55000000",
+      "title": "住建局回应5公里路面500个井盖",
       "category": "society",
       "hotScore": 0.72,
       "freshness": 1,
@@ -94,24 +69,43 @@
           "channel": "baidu",
           "rank": 3,
           "hot": 0,
-          "url": "https://m.baidu.com/s?word=%E6%BD%98%E5%B1%95%E4%B9%90%E8%B5%A2%E4%BA%860.04%E7%A7%92&sa=fyb_news"
+          "url": "https://m.baidu.com/s?word=%E4%BD%8F%E5%BB%BA%E5%B1%80%E5%9B%9E%E5%BA%945%E5%85%AC%E9%87%8C%E8%B7%AF%E9%9D%A2500%E4%B8%AA%E4%BA%95%E7%9B%96&sa=fyb_news"
         }
       ],
       "summary": "",
-      "url": "https://m.baidu.com/s?word=%E6%BD%98%E5%B1%95%E4%B9%90%E8%B5%A2%E4%BA%860.04%E7%A7%92&sa=fyb_news"
+      "url": "https://m.baidu.com/s?word=%E4%BD%8F%E5%BB%BA%E5%B1%80%E5%9B%9E%E5%BA%945%E5%85%AC%E9%87%8C%E8%B7%AF%E9%9D%A2500%E4%B8%AA%E4%BA%95%E7%9B%96&sa=fyb_news"
+    },
+    {
+      "id": "evt-20260000",
+      "title": "2026湾区升明月晚会",
+      "category": "society",
+      "hotScore": 0.6375,
+      "freshness": 1,
+      "crossSource": 0.6309,
+      "totalScore": 0.7443,
+      "sources": [
+        {
+          "channel": "toutiao",
+          "rank": 6,
+          "hot": 12302720,
+          "url": "https://www.toutiao.com/trending/7687593863589924390/"
+        }
+      ],
+      "summary": "",
+      "url": "https://www.toutiao.com/trending/7687593863589924390/"
     },
     {
       "id": "evt-40000000",
       "title": "如何评价河南 40 岁数学老师自费 300 万拍的电影票房仅有 2.4 万元？普通人能做电影梦吗？",
       "category": "entertainment",
-      "hotScore": 0.6,
-      "freshness": 0.9999,
+      "hotScore": 0.675,
+      "freshness": 1,
       "crossSource": 0.6309,
-      "totalScore": 0.7292,
+      "totalScore": 0.7593,
       "sources": [
         {
           "channel": "zhihu",
-          "rank": 5,
+          "rank": 3,
           "hot": 0,
           "url": ""
         }
@@ -124,14 +118,14 @@
       "title": "两年挣6.8亿神秘艺人疑为许嵩",
       "category": "entertainment",
       "hotScore": 0.425,
-      "freshness": 0.9998,
+      "freshness": 1,
       "crossSource": 0.6309,
-      "totalScore": 0.6592,
+      "totalScore": 0.6593,
       "sources": [
         {
           "channel": "toutiao",
           "rank": 11,
-          "hot": 6560068,
+          "hot": 7461976,
           "url": "https://www.toutiao.com/trending/7687439934848598062/"
         }
       ],
@@ -139,36 +133,17 @@
       "url": "https://www.toutiao.com/trending/7687439934848598062/"
     },
     {
-      "id": "evt-55000000",
-      "title": "住建局回应5公里路面500个井盖",
+      "id": "evt-iclr2027",
+      "title": "如何评价 ICLR 2027 摘要投稿量已超历年总和，预计突破 6 万？",
       "category": "society",
-      "hotScore": 0.64,
+      "hotScore": 0.6,
       "freshness": 1,
       "crossSource": 0.6309,
-      "totalScore": 0.7453,
-      "sources": [
-        {
-          "channel": "baidu",
-          "rank": 5,
-          "hot": 0,
-          "url": "https://m.baidu.com/s?word=%E4%BD%8F%E5%BB%BA%E5%B1%80%E5%9B%9E%E5%BA%945%E5%85%AC%E9%87%8C%E8%B7%AF%E9%9D%A2500%E4%B8%AA%E4%BA%95%E7%9B%96&sa=fyb_news"
-        }
-      ],
-      "summary": "",
-      "url": "https://m.baidu.com/s?word=%E4%BD%8F%E5%BB%BA%E5%B1%80%E5%9B%9E%E5%BA%945%E5%85%AC%E9%87%8C%E8%B7%AF%E9%9D%A2500%E4%B8%AA%E4%BA%95%E7%9B%96&sa=fyb_news"
-    },
-    {
-      "id": "evt-ai000000",
-      "title": "老板患上了 AI 狂热症，连决策都让 AI 来做，感觉公司快完蛋了，员工该怎么办？",
-      "category": "society",
-      "hotScore": 0.6375,
-      "freshness": 0.9999,
-      "crossSource": 0.6309,
-      "totalScore": 0.7442,
+      "totalScore": 0.7293,
       "sources": [
         {
           "channel": "zhihu",
-          "rank": 4,
+          "rank": 5,
           "hot": 0,
           "url": ""
         }
@@ -180,14 +155,14 @@
       "id": "evt-92000000",
       "title": "从“不予认定”工伤到获赔92万：最高检抗诉厘清“连续抢救”法律实质",
       "category": "society",
-      "hotScore": 0.51,
-      "freshness": 0.9999,
+      "hotScore": 0.595,
+      "freshness": 1,
       "crossSource": 0.6309,
-      "totalScore": 0.6933,
+      "totalScore": 0.7273,
       "sources": [
         {
           "channel": "thepaper",
-          "rank": 9,
+          "rank": 7,
           "hot": 0,
           "url": "https://www.thepaper.cn/newsDetail_forward_34108151"
         }
@@ -196,17 +171,17 @@
       "url": "https://www.thepaper.cn/newsDetail_forward_34108151"
     },
     {
-      "id": "evt-20269200",
-      "title": "如何看待 2026 年 9 月 20 日，ZCode 承诺开源超过 1 天但还没开源？",
+      "id": "evt-gemini4pr",
+      "title": "疑谷歌 Gemini4Pro 「偷跑」上线，网传碾压 GPT-6Astra，如何评价？",
       "category": "society",
-      "hotScore": 0.45,
-      "freshness": 0.9999,
+      "hotScore": 0.5625,
+      "freshness": 1,
       "crossSource": 0.6309,
-      "totalScore": 0.6692,
+      "totalScore": 0.7143,
       "sources": [
         {
           "channel": "zhihu",
-          "rank": 9,
+          "rank": 6,
           "hot": 0,
           "url": ""
         }
@@ -215,23 +190,42 @@
       "url": ""
     },
     {
-      "id": "evt-iphone18pro",
-      "title": "iPhone 18 Pro曝出死机问题",
+      "id": "evt-38000000",
+      "title": "清华毕业生38岁上北大 同学已是教授",
       "category": "society",
-      "hotScore": 0.44,
+      "hotScore": 0.56,
       "freshness": 1,
       "crossSource": 0.6309,
-      "totalScore": 0.6653,
+      "totalScore": 0.7133,
       "sources": [
         {
           "channel": "baidu",
-          "rank": 10,
+          "rank": 7,
           "hot": 0,
-          "url": "https://m.baidu.com/s?word=iPhone+18+Pro%E6%9B%9D%E5%87%BA%E6%AD%BB%E6%9C%BA%E9%97%AE%E9%A2%98&sa=fyb_news"
+          "url": "https://m.baidu.com/s?word=%E6%B8%85%E5%8D%8E%E6%AF%95%E4%B8%9A%E7%94%9F38%E5%B2%81%E4%B8%8A%E5%8C%97%E5%A4%A7+%E5%90%8C%E5%AD%A6%E5%B7%B2%E6%98%AF%E6%95%99%E6%8E%88&sa=fyb_news"
         }
       ],
       "summary": "",
-      "url": "https://m.baidu.com/s?word=iPhone+18+Pro%E6%9B%9D%E5%87%BA%E6%AD%BB%E6%9C%BA%E9%97%AE%E9%A2%98&sa=fyb_news"
+      "url": "https://m.baidu.com/s?word=%E6%B8%85%E5%8D%8E%E6%AF%95%E4%B8%9A%E7%94%9F38%E5%B2%81%E4%B8%8A%E5%8C%97%E5%A4%A7+%E5%90%8C%E5%AD%A6%E5%B7%B2%E6%98%AF%E6%95%99%E6%8E%88&sa=fyb_news"
+    },
+    {
+      "id": "evt-wc000000",
+      "title": "老外的厕所究竟叫不叫「WC」？",
+      "category": "society",
+      "hotScore": 0.4125,
+      "freshness": 1,
+      "crossSource": 0.6309,
+      "totalScore": 0.6543,
+      "sources": [
+        {
+          "channel": "zhihu",
+          "rank": 10,
+          "hot": 0,
+          "url": ""
+        }
+      ],
+      "summary": "",
+      "url": ""
     }
   ]
 }
