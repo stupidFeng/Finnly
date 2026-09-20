@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-09-20T02:18:35.470Z",
+  "generatedAt": "2026-09-20T08:53:50.942Z",
   "fields": {
     "society": "社会",
     "economy": "经济",
@@ -7,55 +7,86 @@
   },
   "feed": [
     {
-      "id": "evt-00000000",
-      "title": "亚运会中国队首枚奖牌",
+      "id": "evt-20000000",
+      "title": "于子迪女子200米蝶金牌 破亚运会纪录",
       "category": "society",
       "hotScore": 0.85,
-      "freshness": 0.9999,
-      "crossSource": 0.6309,
-      "totalScore": 0.8293,
+      "freshness": 1,
+      "crossSource": 1,
+      "totalScore": 0.94,
       "sources": [
         {
           "channel": "toutiao",
           "rank": 1,
-          "hot": 8442968,
-          "url": "https://www.toutiao.com/trending/7686699035658391059/"
+          "hot": 10255091,
+          "url": "https://www.toutiao.com/trending/7687526840235200036/"
+        },
+        {
+          "channel": "baidu",
+          "rank": 5,
+          "hot": 0,
+          "url": "https://m.baidu.com/s?word=%E4%BA%8E%E5%AD%90%E8%BF%AA%E5%A5%B3%E5%AD%90200%E7%B1%B3%E8%9D%B6%E9%87%91%E7%89%8C+%E7%A0%B4%E4%BA%9A%E8%BF%90%E4%BC%9A%E7%BA%AA%E5%BD%95&sa=fyb_news"
         }
       ],
       "summary": "",
-      "url": "https://www.toutiao.com/trending/7686699035658391059/"
+      "url": "https://www.toutiao.com/trending/7687526840235200036/"
     },
     {
-      "id": "evt-a3502307",
-      "title": "空客A350直飞23076公里打破波音纪录",
+      "id": "evt-00000000",
+      "title": "中国队夺金速度也太快了",
+      "category": "society",
+      "hotScore": 0.76,
+      "freshness": 1,
+      "crossSource": 1,
+      "totalScore": 0.904,
+      "sources": [
+        {
+          "channel": "toutiao",
+          "rank": 4,
+          "hot": 7597158,
+          "url": "https://www.toutiao.com/trending/7687445856612007977/"
+        },
+        {
+          "channel": "baidu",
+          "rank": 2,
+          "hot": 0,
+          "url": "https://m.baidu.com/s?word=%E4%B8%AD%E5%9B%BD%E9%98%9F%E5%A4%BA%E9%87%91%E9%80%9F%E5%BA%A6%E4%B9%9F%E5%A4%AA%E5%BF%AB%E4%BA%86&sa=fyb_news"
+        }
+      ],
+      "summary": "",
+      "url": "https://www.toutiao.com/trending/7687445856612007977/"
+    },
+    {
+      "id": "evt-15000000",
+      "title": "李冰洁1500米自卫冕夺金",
       "category": "society",
       "hotScore": 0.8075,
-      "freshness": 0.9999,
+      "freshness": 1,
       "crossSource": 0.6309,
       "totalScore": 0.8123,
       "sources": [
         {
           "channel": "toutiao",
           "rank": 2,
-          "hot": 7639513,
-          "url": "https://www.toutiao.com/trending/7687290822865355273/"
+          "hot": 9279190,
+          "url": "https://www.toutiao.com/trending/7687534836597194815/"
         }
       ],
       "summary": "",
-      "url": "https://www.toutiao.com/trending/7687290822865355273/"
+      "url": "https://www.toutiao.com/trending/7687534836597194815/"
     },
     {
-      "id": "evt-deepseek",
-      "title": "Deepseek 用现在的 ds harness 好还是 zcode 好？",
+      "id": "evt-ai000000",
+      "title": "老板患上了 AI 狂热症，连决策都让 AI 来做，感觉公司快完蛋了，员工该怎么办？",
       "category": "society",
-      "hotScore": 0.675,
-      "freshness": 0.9999,
+      "hotScore": 0.7125,
+      "freshness": 1,
       "crossSource": 0.6309,
-      "totalScore": 0.7593,
+      "totalScore": 0.7743,
       "sources": [
         {
           "channel": "zhihu",
-          "rank": 3,
+          "rank": 2,
           "hot": 0,
           "url": ""
         }
@@ -64,55 +95,74 @@
       "url": ""
     },
     {
-      "id": "evt-35000000",
-      "title": "为什么很多过了 35 岁的女性会突然拼命想要孩子？",
-      "category": "society",
-      "hotScore": 0.4875,
-      "freshness": 0.9999,
+      "id": "evt-45000000",
+      "title": "45岁配音演员赵然因病离世",
+      "category": "entertainment",
+      "hotScore": 0.56,
+      "freshness": 1,
       "crossSource": 0.6309,
-      "totalScore": 0.6843,
+      "totalScore": 0.7133,
       "sources": [
         {
-          "channel": "zhihu",
-          "rank": 8,
+          "channel": "baidu",
+          "rank": 7,
           "hot": 0,
-          "url": ""
+          "url": "https://m.baidu.com/s?word=45%E5%B2%81%E9%85%8D%E9%9F%B3%E6%BC%94%E5%91%98%E8%B5%B5%E7%84%B6%E5%9B%A0%E7%97%85%E7%A6%BB%E4%B8%96&sa=fyb_news"
         }
       ],
       "summary": "",
-      "url": ""
+      "url": "https://m.baidu.com/s?word=45%E5%B2%81%E9%85%8D%E9%9F%B3%E6%BC%94%E5%91%98%E8%B5%B5%E7%84%B6%E5%9B%A0%E7%97%85%E7%A6%BB%E4%B8%96&sa=fyb_news"
     },
     {
-      "id": "evt-50000000",
-      "title": "研究：中年人管好5个指标或延长寿命",
+      "id": "evt-90200000",
+      "title": "90后开小笼包店直播20分钟卖1400万元",
       "category": "society",
-      "hotScore": 0.4675,
-      "freshness": 0.9999,
+      "hotScore": 0.68,
+      "freshness": 1,
       "crossSource": 0.6309,
-      "totalScore": 0.6763,
+      "totalScore": 0.7613,
       "sources": [
         {
           "channel": "toutiao",
-          "rank": 10,
-          "hot": 3432654,
-          "url": "https://www.toutiao.com/trending/7687148361656942638/"
+          "rank": 5,
+          "hot": 6874193,
+          "url": "https://www.toutiao.com/trending/7687527159883140646/"
         }
       ],
       "summary": "",
-      "url": "https://www.toutiao.com/trending/7687148361656942638/"
+      "url": "https://www.toutiao.com/trending/7687527159883140646/"
+    },
+    {
+      "id": "evt-60200000",
+      "title": "60岁产妇生下女儿 2年前生下儿子",
+      "category": "society",
+      "hotScore": 0.6,
+      "freshness": 1,
+      "crossSource": 0.6309,
+      "totalScore": 0.7293,
+      "sources": [
+        {
+          "channel": "baidu",
+          "rank": 6,
+          "hot": 0,
+          "url": "https://m.baidu.com/s?word=60%E5%B2%81%E4%BA%A7%E5%A6%87%E7%94%9F%E4%B8%8B%E5%A5%B3%E5%84%BF+2%E5%B9%B4%E5%89%8D%E7%94%9F%E4%B8%8B%E5%84%BF%E5%AD%90&sa=fyb_news"
+        }
+      ],
+      "summary": "",
+      "url": "https://m.baidu.com/s?word=60%E5%B2%81%E4%BA%A7%E5%A6%87%E7%94%9F%E4%B8%8B%E5%A5%B3%E5%84%BF+2%E5%B9%B4%E5%89%8D%E7%94%9F%E4%B8%8B%E5%84%BF%E5%AD%90&sa=fyb_news"
     },
     {
       "id": "evt-80000000",
       "title": "山东荣成一面包车坠海致8死3伤，调查报告认定：司机路况不熟、误判路线",
       "category": "society",
-      "hotScore": 0.4675,
+      "hotScore": 0.595,
       "freshness": 1,
       "crossSource": 0.6309,
-      "totalScore": 0.6763,
+      "totalScore": 0.7273,
       "sources": [
         {
           "channel": "thepaper",
-          "rank": 10,
+          "rank": 7,
           "hot": 0,
           "url": "https://www.thepaper.cn/newsDetail_forward_34104103"
         }
@@ -121,23 +171,118 @@
       "url": "https://www.thepaper.cn/newsDetail_forward_34104103"
     },
     {
-      "id": "evt-cnn00000",
-      "title": "特朗普禁止CNN等多家媒体进入白宫：他们不断报道假新闻",
+      "id": "evt-25920600",
+      "title": "交易25亿，亏损9206万！中泰证券一员工代客操盘被罚",
       "category": "society",
-      "hotScore": 0.425,
+      "hotScore": 0.5525,
       "freshness": 1,
       "crossSource": 0.6309,
-      "totalScore": 0.6593,
+      "totalScore": 0.7103,
       "sources": [
         {
           "channel": "thepaper",
-          "rank": 11,
+          "rank": 8,
           "hot": 0,
-          "url": "https://www.thepaper.cn/newsDetail_forward_34102730"
+          "url": "https://www.thepaper.cn/newsDetail_forward_34104455"
         }
       ],
       "summary": "",
-      "url": "https://www.thepaper.cn/newsDetail_forward_34102730"
+      "url": "https://www.thepaper.cn/newsDetail_forward_34104455"
+    },
+    {
+      "id": "evt-14000000",
+      "title": "1公斤冻牛肉解冻后仅剩400克",
+      "category": "society",
+      "hotScore": 0.52,
+      "freshness": 1,
+      "crossSource": 0.6309,
+      "totalScore": 0.6973,
+      "sources": [
+        {
+          "channel": "baidu",
+          "rank": 8,
+          "hot": 0,
+          "url": "https://m.baidu.com/s?word=1%E5%85%AC%E6%96%A4%E5%86%BB%E7%89%9B%E8%82%89%E8%A7%A3%E5%86%BB%E5%90%8E%E4%BB%85%E5%89%A9400%E5%85%8B&sa=fyb_news"
+        }
+      ],
+      "summary": "",
+      "url": "https://m.baidu.com/s?word=1%E5%85%AC%E6%96%A4%E5%86%BB%E7%89%9B%E8%82%89%E8%A7%A3%E5%86%BB%E5%90%8E%E4%BB%85%E5%89%A9400%E5%85%8B&sa=fyb_news"
+    },
+    {
+      "id": "evt-a0000000",
+      "title": "A股或迎牛市第三阶段 普通人怎么应对",
+      "category": "society",
+      "hotScore": 0.51,
+      "freshness": 1,
+      "crossSource": 0.6309,
+      "totalScore": 0.6933,
+      "sources": [
+        {
+          "channel": "toutiao",
+          "rank": 9,
+          "hot": 4607909,
+          "url": "https://www.toutiao.com/trending/7687484876357897755/"
+        }
+      ],
+      "summary": "",
+      "url": "https://www.toutiao.com/trending/7687484876357897755/"
+    },
+    {
+      "id": "evt-24000000",
+      "title": "广东：重大突发事件24小时内开发布会",
+      "category": "society",
+      "hotScore": 0.48,
+      "freshness": 1,
+      "crossSource": 0.6309,
+      "totalScore": 0.6813,
+      "sources": [
+        {
+          "channel": "baidu",
+          "rank": 9,
+          "hot": 0,
+          "url": "https://m.baidu.com/s?word=%E5%B9%BF%E4%B8%9C%EF%BC%9A%E9%87%8D%E5%A4%A7%E7%AA%81%E5%8F%91%E4%BA%8B%E4%BB%B624%E5%B0%8F%E6%97%B6%E5%86%85%E5%BC%80%E5%8F%91%E5%B8%83%E4%BC%9A&sa=fyb_news"
+        }
+      ],
+      "summary": "",
+      "url": "https://m.baidu.com/s?word=%E5%B9%BF%E4%B8%9C%EF%BC%9A%E9%87%8D%E5%A4%A7%E7%AA%81%E5%8F%91%E4%BA%8B%E4%BB%B624%E5%B0%8F%E6%97%B6%E5%86%85%E5%BC%80%E5%8F%91%E5%B8%83%E4%BC%9A&sa=fyb_news"
+    },
+    {
+      "id": "evt-92000000",
+      "title": "从“不予认定”工伤到获赔92万：最高检抗诉厘清“连续抢救”法律实质",
+      "category": "society",
+      "hotScore": 0.4675,
+      "freshness": 1,
+      "crossSource": 0.6309,
+      "totalScore": 0.6763,
+      "sources": [
+        {
+          "channel": "thepaper",
+          "rank": 10,
+          "hot": 0,
+          "url": "https://www.thepaper.cn/newsDetail_forward_34108151"
+        }
+      ],
+      "summary": "",
+      "url": "https://www.thepaper.cn/newsDetail_forward_34108151"
+    },
+    {
+      "id": "evt-40000000",
+      "title": "4岁女孩会三国语言：看动画片学的",
+      "category": "society",
+      "hotScore": 0.44,
+      "freshness": 1,
+      "crossSource": 0.6309,
+      "totalScore": 0.6653,
+      "sources": [
+        {
+          "channel": "baidu",
+          "rank": 10,
+          "hot": 0,
+          "url": "https://m.baidu.com/s?word=4%E5%B2%81%E5%A5%B3%E5%AD%A9%E4%BC%9A%E4%B8%89%E5%9B%BD%E8%AF%AD%E8%A8%80%EF%BC%9A%E7%9C%8B%E5%8A%A8%E7%94%BB%E7%89%87%E5%AD%A6%E7%9A%84&sa=fyb_news"
+        }
+      ],
+      "summary": "",
+      "url": "https://m.baidu.com/s?word=4%E5%B2%81%E5%A5%B3%E5%AD%A9%E4%BC%9A%E4%B8%89%E5%9B%BD%E8%AF%AD%E8%A8%80%EF%BC%9A%E7%9C%8B%E5%8A%A8%E7%94%BB%E7%89%87%E5%AD%A6%E7%9A%84&sa=fyb_news"
     }
   ]
 }
