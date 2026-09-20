@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-09-20T19:57:14.229Z",
+  "generatedAt": "2026-09-20T22:08:17.557Z",
   "fields": {
     "society": "社会",
     "economy": "经济",
@@ -7,43 +7,18 @@
   },
   "feed": [
     {
-      "id": "evt-00000000",
-      "title": "人民日报评“第一学历歧视”",
-      "category": "society",
-      "hotScore": 0.76,
-      "freshness": 1,
-      "crossSource": 1,
-      "totalScore": 0.904,
-      "sources": [
-        {
-          "channel": "toutiao",
-          "rank": 14,
-          "hot": 5659996,
-          "url": "https://www.toutiao.com/trending/7687588004898049562/"
-        },
-        {
-          "channel": "baidu",
-          "rank": 2,
-          "hot": 0,
-          "url": "https://m.baidu.com/s?word=%E4%BA%BA%E6%B0%91%E6%97%A5%E6%8A%A5%E8%AF%84%E2%80%9C%E7%AC%AC%E4%B8%80%E5%AD%A6%E5%8E%86%E6%AD%A7%E8%A7%86%E2%80%9D&sa=fyb_news"
-        }
-      ],
-      "summary": "",
-      "url": "https://www.toutiao.com/trending/7687588004898049562/"
-    },
-    {
       "id": "evt-11000000",
       "title": "中国队一天11枚金牌",
       "category": "society",
-      "hotScore": 0.68,
+      "hotScore": 0.8075,
       "freshness": 1,
       "crossSource": 1,
-      "totalScore": 0.872,
+      "totalScore": 0.923,
       "sources": [
         {
           "channel": "toutiao",
-          "rank": 5,
-          "hot": 13921345,
+          "rank": 2,
+          "hot": 19438884,
           "url": "https://www.toutiao.com/trending/7687445856612007977/"
         },
         {
@@ -55,6 +30,31 @@
       ],
       "summary": "",
       "url": "https://www.toutiao.com/trending/7687445856612007977/"
+    },
+    {
+      "id": "evt-00000000",
+      "title": "人民日报评“第一学历歧视”",
+      "category": "society",
+      "hotScore": 0.76,
+      "freshness": 1,
+      "crossSource": 1,
+      "totalScore": 0.904,
+      "sources": [
+        {
+          "channel": "toutiao",
+          "rank": 5,
+          "hot": 14400679,
+          "url": "https://www.toutiao.com/trending/7687588004898049562/"
+        },
+        {
+          "channel": "baidu",
+          "rank": 2,
+          "hot": 0,
+          "url": "https://m.baidu.com/s?word=%E4%BA%BA%E6%B0%91%E6%97%A5%E6%8A%A5%E8%AF%84%E2%80%9C%E7%AC%AC%E4%B8%80%E5%AD%A6%E5%8E%86%E6%AD%A7%E8%A7%86%E2%80%9D&sa=fyb_news"
+        }
+      ],
+      "summary": "",
+      "url": "https://www.toutiao.com/trending/7687588004898049562/"
     },
     {
       "id": "evt-55000000",
@@ -76,63 +76,6 @@
       "url": "https://m.baidu.com/s?word=%E4%BD%8F%E5%BB%BA%E5%B1%80%E5%9B%9E%E5%BA%945%E5%85%AC%E9%87%8C%E8%B7%AF%E9%9D%A2500%E4%B8%AA%E4%BA%95%E7%9B%96&sa=fyb_news"
     },
     {
-      "id": "evt-gemini4pr",
-      "title": "疑谷歌 Gemini4Pro 「偷跑」上线，网传碾压 GPT-6Astra，如何评价？",
-      "category": "society",
-      "hotScore": 0.6,
-      "freshness": 1,
-      "crossSource": 0.6309,
-      "totalScore": 0.7293,
-      "sources": [
-        {
-          "channel": "zhihu",
-          "rank": 5,
-          "hot": 0,
-          "url": ""
-        }
-      ],
-      "summary": "",
-      "url": ""
-    },
-    {
-      "id": "evt-40000000",
-      "title": "如何评价河南 40 岁数学老师自费 300 万拍的电影票房仅有 2.4 万元？普通人能做电影梦吗？",
-      "category": "entertainment",
-      "hotScore": 0.7125,
-      "freshness": 1,
-      "crossSource": 0.6309,
-      "totalScore": 0.7743,
-      "sources": [
-        {
-          "channel": "zhihu",
-          "rank": 2,
-          "hot": 0,
-          "url": ""
-        }
-      ],
-      "summary": "",
-      "url": ""
-    },
-    {
-      "id": "evt-ai000000",
-      "title": "任泽平：AI超级大爆发",
-      "category": "society",
-      "hotScore": 0.595,
-      "freshness": 1,
-      "crossSource": 0.6309,
-      "totalScore": 0.7273,
-      "sources": [
-        {
-          "channel": "toutiao",
-          "rank": 7,
-          "hot": 11397833,
-          "url": "https://www.toutiao.com/trending/7687541156233612842/"
-        }
-      ],
-      "summary": "",
-      "url": "https://www.toutiao.com/trending/7687541156233612842/"
-    },
-    {
       "id": "evt-92000000",
       "title": "从“不予认定”工伤到获赔92万：最高检抗诉厘清“连续抢救”法律实质",
       "category": "society",
@@ -152,6 +95,44 @@
       "url": "https://www.thepaper.cn/newsDetail_forward_34108151"
     },
     {
+      "id": "evt-40000000",
+      "title": "如何评价河南 40 岁数学老师自费 300 万拍的电影票房仅有 2.4 万元？普通人能做电影梦吗？",
+      "category": "entertainment",
+      "hotScore": 0.75,
+      "freshness": 1,
+      "crossSource": 0.6309,
+      "totalScore": 0.7893,
+      "sources": [
+        {
+          "channel": "zhihu",
+          "rank": 1,
+          "hot": 0,
+          "url": ""
+        }
+      ],
+      "summary": "",
+      "url": ""
+    },
+    {
+      "id": "evt-puraxview",
+      "title": "Pura X View 开售激活热度很高，阔直板会成为下一代手机的主要形态吗？",
+      "category": "society",
+      "hotScore": 0.5625,
+      "freshness": 1,
+      "crossSource": 0.6309,
+      "totalScore": 0.7143,
+      "sources": [
+        {
+          "channel": "zhihu",
+          "rank": 6,
+          "hot": 0,
+          "url": ""
+        }
+      ],
+      "summary": "",
+      "url": ""
+    },
+    {
       "id": "evt-38000000",
       "title": "清华毕业生38岁上北大 同学已是教授",
       "category": "society",
@@ -169,25 +150,6 @@
       ],
       "summary": "",
       "url": "https://m.baidu.com/s?word=%E6%B8%85%E5%8D%8E%E6%AF%95%E4%B8%9A%E7%94%9F38%E5%B2%81%E4%B8%8A%E5%8C%97%E5%A4%A7+%E5%90%8C%E5%AD%A6%E5%B7%B2%E6%98%AF%E6%95%99%E6%8E%88&sa=fyb_news"
-    },
-    {
-      "id": "evt-10000000",
-      "title": "郑丽文：100%把握让国民党2028上台",
-      "category": "society",
-      "hotScore": 0.4675,
-      "freshness": 1,
-      "crossSource": 0.6309,
-      "totalScore": 0.6763,
-      "sources": [
-        {
-          "channel": "toutiao",
-          "rank": 10,
-          "hot": 8443722,
-          "url": "https://www.toutiao.com/trending/7687136723365707817/"
-        }
-      ],
-      "summary": "",
-      "url": "https://www.toutiao.com/trending/7687136723365707817/"
     },
     {
       "id": "evt-wc000000",
