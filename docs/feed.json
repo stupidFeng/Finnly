@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-09-20T17:06:52.246Z",
+  "generatedAt": "2026-09-20T19:57:14.229Z",
   "fields": {
     "society": "社会",
     "economy": "经济",
@@ -17,8 +17,8 @@
       "sources": [
         {
           "channel": "toutiao",
-          "rank": 7,
-          "hot": 11131961,
+          "rank": 14,
+          "hot": 5659996,
           "url": "https://www.toutiao.com/trending/7687588004898049562/"
         },
         {
@@ -35,15 +35,15 @@
       "id": "evt-11000000",
       "title": "中国队一天11枚金牌",
       "category": "society",
-      "hotScore": 0.6,
+      "hotScore": 0.68,
       "freshness": 1,
       "crossSource": 1,
-      "totalScore": 0.84,
+      "totalScore": 0.872,
       "sources": [
         {
           "channel": "toutiao",
-          "rank": 12,
-          "hot": 6751875,
+          "rank": 5,
+          "hot": 13921345,
           "url": "https://www.toutiao.com/trending/7687445856612007977/"
         },
         {
@@ -76,65 +76,8 @@
       "url": "https://m.baidu.com/s?word=%E4%BD%8F%E5%BB%BA%E5%B1%80%E5%9B%9E%E5%BA%945%E5%85%AC%E9%87%8C%E8%B7%AF%E9%9D%A2500%E4%B8%AA%E4%BA%95%E7%9B%96&sa=fyb_news"
     },
     {
-      "id": "evt-20260000",
-      "title": "2026湾区升明月晚会",
-      "category": "society",
-      "hotScore": 0.6375,
-      "freshness": 1,
-      "crossSource": 0.6309,
-      "totalScore": 0.7443,
-      "sources": [
-        {
-          "channel": "toutiao",
-          "rank": 6,
-          "hot": 12302720,
-          "url": "https://www.toutiao.com/trending/7687593863589924390/"
-        }
-      ],
-      "summary": "",
-      "url": "https://www.toutiao.com/trending/7687593863589924390/"
-    },
-    {
-      "id": "evt-40000000",
-      "title": "如何评价河南 40 岁数学老师自费 300 万拍的电影票房仅有 2.4 万元？普通人能做电影梦吗？",
-      "category": "entertainment",
-      "hotScore": 0.675,
-      "freshness": 1,
-      "crossSource": 0.6309,
-      "totalScore": 0.7593,
-      "sources": [
-        {
-          "channel": "zhihu",
-          "rank": 3,
-          "hot": 0,
-          "url": ""
-        }
-      ],
-      "summary": "",
-      "url": ""
-    },
-    {
-      "id": "evt-68000000",
-      "title": "两年挣6.8亿神秘艺人疑为许嵩",
-      "category": "entertainment",
-      "hotScore": 0.425,
-      "freshness": 1,
-      "crossSource": 0.6309,
-      "totalScore": 0.6593,
-      "sources": [
-        {
-          "channel": "toutiao",
-          "rank": 11,
-          "hot": 7461976,
-          "url": "https://www.toutiao.com/trending/7687439934848598062/"
-        }
-      ],
-      "summary": "",
-      "url": "https://www.toutiao.com/trending/7687439934848598062/"
-    },
-    {
-      "id": "evt-iclr2027",
-      "title": "如何评价 ICLR 2027 摘要投稿量已超历年总和，预计突破 6 万？",
+      "id": "evt-gemini4pr",
+      "title": "疑谷歌 Gemini4Pro 「偷跑」上线，网传碾压 GPT-6Astra，如何评价？",
       "category": "society",
       "hotScore": 0.6,
       "freshness": 1,
@@ -150,6 +93,44 @@
       ],
       "summary": "",
       "url": ""
+    },
+    {
+      "id": "evt-40000000",
+      "title": "如何评价河南 40 岁数学老师自费 300 万拍的电影票房仅有 2.4 万元？普通人能做电影梦吗？",
+      "category": "entertainment",
+      "hotScore": 0.7125,
+      "freshness": 1,
+      "crossSource": 0.6309,
+      "totalScore": 0.7743,
+      "sources": [
+        {
+          "channel": "zhihu",
+          "rank": 2,
+          "hot": 0,
+          "url": ""
+        }
+      ],
+      "summary": "",
+      "url": ""
+    },
+    {
+      "id": "evt-ai000000",
+      "title": "任泽平：AI超级大爆发",
+      "category": "society",
+      "hotScore": 0.595,
+      "freshness": 1,
+      "crossSource": 0.6309,
+      "totalScore": 0.7273,
+      "sources": [
+        {
+          "channel": "toutiao",
+          "rank": 7,
+          "hot": 11397833,
+          "url": "https://www.toutiao.com/trending/7687541156233612842/"
+        }
+      ],
+      "summary": "",
+      "url": "https://www.toutiao.com/trending/7687541156233612842/"
     },
     {
       "id": "evt-92000000",
@@ -171,25 +152,6 @@
       "url": "https://www.thepaper.cn/newsDetail_forward_34108151"
     },
     {
-      "id": "evt-gemini4pr",
-      "title": "疑谷歌 Gemini4Pro 「偷跑」上线，网传碾压 GPT-6Astra，如何评价？",
-      "category": "society",
-      "hotScore": 0.5625,
-      "freshness": 1,
-      "crossSource": 0.6309,
-      "totalScore": 0.7143,
-      "sources": [
-        {
-          "channel": "zhihu",
-          "rank": 6,
-          "hot": 0,
-          "url": ""
-        }
-      ],
-      "summary": "",
-      "url": ""
-    },
-    {
       "id": "evt-38000000",
       "title": "清华毕业生38岁上北大 同学已是教授",
       "category": "society",
@@ -207,6 +169,25 @@
       ],
       "summary": "",
       "url": "https://m.baidu.com/s?word=%E6%B8%85%E5%8D%8E%E6%AF%95%E4%B8%9A%E7%94%9F38%E5%B2%81%E4%B8%8A%E5%8C%97%E5%A4%A7+%E5%90%8C%E5%AD%A6%E5%B7%B2%E6%98%AF%E6%95%99%E6%8E%88&sa=fyb_news"
+    },
+    {
+      "id": "evt-10000000",
+      "title": "郑丽文：100%把握让国民党2028上台",
+      "category": "society",
+      "hotScore": 0.4675,
+      "freshness": 1,
+      "crossSource": 0.6309,
+      "totalScore": 0.6763,
+      "sources": [
+        {
+          "channel": "toutiao",
+          "rank": 10,
+          "hot": 8443722,
+          "url": "https://www.toutiao.com/trending/7687136723365707817/"
+        }
+      ],
+      "summary": "",
+      "url": "https://www.toutiao.com/trending/7687136723365707817/"
     },
     {
       "id": "evt-wc000000",
