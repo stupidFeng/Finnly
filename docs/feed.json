@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-09-21T09:24:27.218Z",
+  "generatedAt": "2026-09-21T16:05:01.029Z",
   "fields": {
     "society": "社会",
     "economy": "经济",
@@ -7,177 +7,203 @@
   },
   "feed": [
     {
-      "id": "evt-00000000",
-      "title": "覃伟中被查",
+      "id": "evt-90000000",
+      "title": "中国队亚运赛场90分钟连揽7金",
       "category": "society",
-      "hotScore": 0.7225,
-      "freshness": 0.9999,
-      "crossSource": 1,
-      "totalScore": 0.889,
+      "hotScore": 0.85,
+      "freshness": 0.9998,
+      "crossSource": 0.6309,
+      "totalScore": 0.8292,
       "sources": [
         {
           "channel": "toutiao",
-          "rank": 4,
-          "hot": 17429879,
-          "url": "https://www.toutiao.com/trending/7687910432822165567/"
-        },
-        {
-          "channel": "baidu",
-          "rank": 5,
-          "hot": 0,
-          "url": "https://m.baidu.com/s?word=%E8%A6%83%E4%BC%9F%E4%B8%AD%E8%A2%AB%E6%9F%A5&sa=fyb_news"
+          "rank": 1,
+          "hot": 13586127,
+          "url": "https://www.toutiao.com/trending/7687404192881410091/"
         }
       ],
       "summary": "",
-      "url": "https://www.toutiao.com/trending/7687910432822165567/"
+      "url": "https://www.toutiao.com/trending/7687404192881410091/"
+    },
+    {
+      "id": "evt-00000000",
+      "title": "广东省人大常委会党组成员覃伟中被查，曾任深圳市长",
+      "category": "society",
+      "hotScore": 0.85,
+      "freshness": 0.9999,
+      "crossSource": 0.6309,
+      "totalScore": 0.8292,
+      "sources": [
+        {
+          "channel": "thepaper",
+          "rank": 1,
+          "hot": 0,
+          "url": "https://www.thepaper.cn/newsDetail_forward_34116039"
+        }
+      ],
+      "summary": "",
+      "url": "https://www.thepaper.cn/newsDetail_forward_34116039"
     },
     {
       "id": "evt-71000000",
       "title": "钟南山团队发现71%肺结节患者不吸烟",
       "category": "society",
-      "hotScore": 0.72,
-      "freshness": 0.9999,
-      "crossSource": 1,
-      "totalScore": 0.888,
+      "hotScore": 0.8075,
+      "freshness": 0.9998,
+      "crossSource": 0.6309,
+      "totalScore": 0.8122,
       "sources": [
         {
           "channel": "toutiao",
-          "rank": 8,
-          "hot": 11683597,
+          "rank": 2,
+          "hot": 12293236,
           "url": "https://www.toutiao.com/trending/7687456172051300388/"
-        },
-        {
-          "channel": "baidu",
-          "rank": 3,
-          "hot": 0,
-          "url": "https://m.baidu.com/s?word=%E9%92%9F%E5%8D%97%E5%B1%B1%E5%9B%A2%E9%98%9F%E5%8F%91%E7%8E%B071%25%E8%82%BA%E7%BB%93%E8%8A%82%E6%82%A3%E8%80%85%E4%B8%8D%E5%90%B8%E7%83%9F&sa=fyb_news"
         }
       ],
       "summary": "",
       "url": "https://www.toutiao.com/trending/7687456172051300388/"
     },
     {
-      "id": "evt-84510000",
-      "title": "男子花 84.51 万拍下省财政厅公物仓「金观音」，一测几乎全是铜，物品系收缴赃物，问题出在哪？",
-      "category": "society",
-      "hotScore": 0.7125,
-      "freshness": 0.9999,
-      "crossSource": 0.6309,
-      "totalScore": 0.7743,
-      "sources": [
-        {
-          "channel": "zhihu",
-          "rank": 2,
-          "hot": 0,
-          "url": ""
-        }
-      ],
-      "summary": "",
-      "url": ""
-    },
-    {
-      "id": "evt-13200000",
-      "title": "13岁小孩姐于子迪夺2金",
-      "category": "society",
-      "hotScore": 0.68,
-      "freshness": 0.9999,
-      "crossSource": 0.6309,
-      "totalScore": 0.7613,
-      "sources": [
-        {
-          "channel": "toutiao",
-          "rank": 5,
-          "hot": 15771206,
-          "url": "https://www.toutiao.com/trending/7687914172394278410/"
-        }
-      ],
-      "summary": "",
-      "url": "https://www.toutiao.com/trending/7687914172394278410/"
-    },
-    {
       "id": "evt-10000000",
-      "title": "红果短剧日均使用时长达 125 分钟超越抖音，你的日均刷短剧时长有多久？为啥短剧能让人刷得停不下来？",
+      "title": "习近平复信美国10所高校青年学生",
       "category": "society",
-      "hotScore": 0.675,
-      "freshness": 0.9999,
+      "hotScore": 0.8,
+      "freshness": 1,
       "crossSource": 0.6309,
-      "totalScore": 0.7593,
+      "totalScore": 0.8093,
       "sources": [
         {
-          "channel": "zhihu",
+          "channel": "baidu",
+          "rank": 1,
+          "hot": 0,
+          "url": "https://m.baidu.com/s?word=%E4%B9%A0%E8%BF%91%E5%B9%B3%E5%A4%8D%E4%BF%A1%E7%BE%8E%E5%9B%BD10%E6%89%80%E9%AB%98%E6%A0%A1%E9%9D%92%E5%B9%B4%E5%AD%A6%E7%94%9F&sa=fyb_news"
+        }
+      ],
+      "summary": "",
+      "url": "https://m.baidu.com/s?word=%E4%B9%A0%E8%BF%91%E5%B9%B3%E5%A4%8D%E4%BF%A1%E7%BE%8E%E5%9B%BD10%E6%89%80%E9%AB%98%E6%A0%A1%E9%9D%92%E5%B9%B4%E5%AD%A6%E7%94%9F&sa=fyb_news"
+    },
+    {
+      "id": "evt-23105000",
+      "title": "中国队已夺23金10银5铜",
+      "category": "society",
+      "hotScore": 0.72,
+      "freshness": 1,
+      "crossSource": 0.6309,
+      "totalScore": 0.7773,
+      "sources": [
+        {
+          "channel": "baidu",
           "rank": 3,
           "hot": 0,
-          "url": ""
+          "url": "https://m.baidu.com/s?word=%E4%B8%AD%E5%9B%BD%E9%98%9F%E5%B7%B2%E5%A4%BA23%E9%87%9110%E9%93%B65%E9%93%9C&sa=fyb_news"
         }
       ],
       "summary": "",
-      "url": ""
+      "url": "https://m.baidu.com/s?word=%E4%B8%AD%E5%9B%BD%E9%98%9F%E5%B7%B2%E5%A4%BA23%E9%87%9110%E9%93%B65%E9%93%9C&sa=fyb_news"
     },
     {
-      "id": "evt-55000000",
-      "title": "住建局回应5公里路面500个井盖",
+      "id": "evt-16140000",
+      "title": "枣庄16岁少年与14岁女孩发生性关系获刑3年，申诉被驳回",
       "category": "society",
       "hotScore": 0.6375,
       "freshness": 0.9999,
       "crossSource": 0.6309,
-      "totalScore": 0.7443,
+      "totalScore": 0.7442,
       "sources": [
         {
-          "channel": "toutiao",
+          "channel": "thepaper",
           "rank": 6,
-          "hot": 14270378,
-          "url": "https://www.toutiao.com/trending/7687617288924794394/"
+          "hot": 0,
+          "url": "https://www.thepaper.cn/newsDetail_forward_34115853"
         }
       ],
       "summary": "",
-      "url": "https://www.toutiao.com/trending/7687617288924794394/"
+      "url": "https://www.thepaper.cn/newsDetail_forward_34115853"
     },
     {
-      "id": "evt-a0000000",
-      "title": "A股四大指数集体上涨",
+      "id": "evt-16000000",
+      "title": "大爷钓到1.6米长大鳡鱼 扛着就跑",
       "category": "society",
-      "hotScore": 0.595,
+      "hotScore": 0.56,
+      "freshness": 1,
+      "crossSource": 0.6309,
+      "totalScore": 0.7133,
+      "sources": [
+        {
+          "channel": "baidu",
+          "rank": 7,
+          "hot": 0,
+          "url": "https://m.baidu.com/s?word=%E5%A4%A7%E7%88%B7%E9%92%93%E5%88%B01.6%E7%B1%B3%E9%95%BF%E5%A4%A7%E9%B3%A1%E9%B1%BC+%E6%89%9B%E7%9D%80%E5%B0%B1%E8%B7%91&sa=fyb_news"
+        }
+      ],
+      "summary": "",
+      "url": "https://m.baidu.com/s?word=%E5%A4%A7%E7%88%B7%E9%92%93%E5%88%B01.6%E7%B1%B3%E9%95%BF%E5%A4%A7%E9%B3%A1%E9%B1%BC+%E6%89%9B%E7%9D%80%E5%B0%B1%E8%B7%91&sa=fyb_news"
+    },
+    {
+      "id": "evt-36500000",
+      "title": "村民反映365万积蓄“存”化肥厂取不回，山东单县警方：涉事公司涉嫌非吸，追回损失需等待司法程序",
+      "category": "society",
+      "hotScore": 0.5525,
       "freshness": 0.9999,
       "crossSource": 0.6309,
-      "totalScore": 0.7273,
+      "totalScore": 0.7102,
       "sources": [
         {
-          "channel": "toutiao",
-          "rank": 7,
-          "hot": 12912372,
-          "url": "https://www.toutiao.com/trending/7687797425218093082/"
+          "channel": "thepaper",
+          "rank": 8,
+          "hot": 0,
+          "url": "https://www.thepaper.cn/newsDetail_forward_34113902"
         }
       ],
       "summary": "",
-      "url": "https://www.toutiao.com/trending/7687797425218093082/"
+      "url": "https://www.thepaper.cn/newsDetail_forward_34113902"
     },
     {
-      "id": "evt-vs000000",
-      "title": "中国女排vs泰国女排首发阵容",
+      "id": "evt-70000000",
+      "title": "超7成肺癌病例不吸烟无粉尘暴露",
+      "category": "society",
+      "hotScore": 0.52,
+      "freshness": 1,
+      "crossSource": 0.6309,
+      "totalScore": 0.6973,
+      "sources": [
+        {
+          "channel": "baidu",
+          "rank": 8,
+          "hot": 0,
+          "url": "https://m.baidu.com/s?word=%E8%B6%857%E6%88%90%E8%82%BA%E7%99%8C%E7%97%85%E4%BE%8B%E4%B8%8D%E5%90%B8%E7%83%9F%E6%97%A0%E7%B2%89%E5%B0%98%E6%9A%B4%E9%9C%B2&sa=fyb_news"
+        }
+      ],
+      "summary": "",
+      "url": "https://m.baidu.com/s?word=%E8%B6%857%E6%88%90%E8%82%BA%E7%99%8C%E7%97%85%E4%BE%8B%E4%B8%8D%E5%90%B8%E7%83%9F%E6%97%A0%E7%B2%89%E5%B0%98%E6%9A%B4%E9%9C%B2&sa=fyb_news"
+    },
+    {
+      "id": "evt-f1600000",
+      "title": "美多架F-16战机飞往格陵兰岛意味啥",
       "category": "society",
       "hotScore": 0.51,
-      "freshness": 0.9999,
+      "freshness": 0.9998,
       "crossSource": 0.6309,
-      "totalScore": 0.6933,
+      "totalScore": 0.6932,
       "sources": [
         {
           "channel": "toutiao",
           "rank": 9,
-          "hot": 10571756,
-          "url": "https://www.toutiao.com/trending/7687853984103825471/"
+          "hot": 6104640,
+          "url": "https://www.toutiao.com/trending/7687934475140877865/"
         }
       ],
       "summary": "",
-      "url": "https://www.toutiao.com/trending/7687853984103825471/"
+      "url": "https://www.toutiao.com/trending/7687934475140877865/"
     },
     {
-      "id": "evt-gpt6astr",
-      "title": "如何评价 GPT-6 Astra 给出的 Liouville 版本哥德巴赫猜想证明？",
+      "id": "evt-20200000",
+      "title": "如何看待樊振东入选 2025 中国品牌人物 500 强，位列第 19 名？",
       "category": "society",
       "hotScore": 0.4875,
-      "freshness": 0.9999,
+      "freshness": 0.9998,
       "crossSource": 0.6309,
-      "totalScore": 0.6843,
+      "totalScore": 0.6842,
       "sources": [
         {
           "channel": "zhihu",
@@ -188,6 +214,44 @@
       ],
       "summary": "",
       "url": ""
+    },
+    {
+      "id": "evt-91000000",
+      "title": "91岁奶奶认不出子女却记得89年前的歌",
+      "category": "society",
+      "hotScore": 0.4675,
+      "freshness": 0.9998,
+      "crossSource": 0.6309,
+      "totalScore": 0.6762,
+      "sources": [
+        {
+          "channel": "toutiao",
+          "rank": 10,
+          "hot": 5523707,
+          "url": "https://www.toutiao.com/trending/7687845624426823690/"
+        }
+      ],
+      "summary": "",
+      "url": "https://www.toutiao.com/trending/7687845624426823690/"
+    },
+    {
+      "id": "evt-icu00000",
+      "title": "马上评｜遗体滞留ICU十小时，患方维权不能越界",
+      "category": "society",
+      "hotScore": 0.4675,
+      "freshness": 0.9999,
+      "crossSource": 0.6309,
+      "totalScore": 0.6762,
+      "sources": [
+        {
+          "channel": "thepaper",
+          "rank": 10,
+          "hot": 0,
+          "url": "https://www.thepaper.cn/newsDetail_forward_34114522"
+        }
+      ],
+      "summary": "",
+      "url": "https://www.thepaper.cn/newsDetail_forward_34114522"
     }
   ]
 }
