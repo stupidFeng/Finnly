@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-09-22T00:22:59.330Z",
+  "generatedAt": "2026-09-22T07:01:44.846Z",
   "fields": {
     "society": "社会",
     "economy": "经济",
@@ -7,225 +7,112 @@
   },
   "feed": [
     {
-      "id": "evt-10000000",
-      "title": "雷军回应“打新宇树赚了100多亿”",
+      "id": "evt-00000000",
+      "title": "中国游泳队金金金金金的背后",
       "category": "society",
-      "hotScore": 0.8075,
-      "freshness": 1,
-      "crossSource": 1,
-      "totalScore": 0.923,
+      "hotScore": 0.85,
+      "freshness": 0.9998,
+      "crossSource": 0.5,
+      "totalScore": 0.79,
       "sources": [
         {
           "channel": "toutiao",
-          "rank": 2,
-          "hot": 13903378,
-          "url": "https://www.toutiao.com/trending/7687355060992475172/"
-        },
+          "rank": 1,
+          "hot": 16138190,
+          "url": "https://www.toutiao.com/trending/7688198305955712553/"
+        }
+      ],
+      "summary": "",
+      "url": "https://www.toutiao.com/trending/7688198305955712553/"
+    },
+    {
+      "id": "evt-15000000",
+      "title": "月租1500元起 酒店巨头抢公寓生意",
+      "category": "society",
+      "hotScore": 0.72,
+      "freshness": 1,
+      "crossSource": 0.5,
+      "totalScore": 0.738,
+      "sources": [
         {
           "channel": "baidu",
           "rank": 3,
           "hot": 0,
-          "url": "https://m.baidu.com/s?word=%E9%9B%B7%E5%86%9B%E5%9B%9E%E5%BA%94%E2%80%9C%E6%89%93%E6%96%B0%E5%AE%87%E6%A0%91%E8%B5%9A%E4%BA%86100%E5%A4%9A%E4%BA%BF%E2%80%9D&sa=fyb_news"
+          "url": "https://m.baidu.com/s?word=%E6%9C%88%E7%A7%9F1500%E5%85%83%E8%B5%B7+%E9%85%92%E5%BA%97%E5%B7%A8%E5%A4%B4%E6%8A%A2%E5%85%AC%E5%AF%93%E7%94%9F%E6%84%8F&sa=fyb_news"
         }
       ],
       "summary": "",
-      "url": "https://www.toutiao.com/trending/7687355060992475172/"
+      "url": "https://m.baidu.com/s?word=%E6%9C%88%E7%A7%9F1500%E5%85%83%E8%B5%B7+%E9%85%92%E5%BA%97%E5%B7%A8%E5%A4%B4%E6%8A%A2%E5%85%AC%E5%AF%93%E7%94%9F%E6%84%8F&sa=fyb_news"
     },
     {
-      "id": "evt-00000000",
-      "title": "豪华燃油车集体“腰斩式”降价",
+      "id": "evt-mimov200",
+      "title": "如何评价小米 MIMO V2.6 登上 AA 开源榜第一名？",
       "category": "society",
-      "hotScore": 0.6375,
-      "freshness": 1,
-      "crossSource": 1,
-      "totalScore": 0.855,
+      "hotScore": 0.7125,
+      "freshness": 0.9998,
+      "crossSource": 0.5,
+      "totalScore": 0.735,
       "sources": [
         {
-          "channel": "toutiao",
-          "rank": 6,
-          "hot": 9319713,
-          "url": "https://www.toutiao.com/trending/7687260413158965289/"
-        },
-        {
-          "channel": "baidu",
-          "rank": 11,
+          "channel": "zhihu",
+          "rank": 2,
           "hot": 0,
-          "url": "https://m.baidu.com/s?word=%E8%B1%AA%E5%8D%8E%E7%87%83%E6%B2%B9%E8%BD%A6%E9%9B%86%E4%BD%93%E2%80%9C%E8%85%B0%E6%96%A9%E5%BC%8F%E2%80%9D%E9%99%8D%E4%BB%B7&sa=fyb_news"
+          "url": ""
         }
       ],
       "summary": "",
-      "url": "https://www.toutiao.com/trending/7687260413158965289/"
+      "url": ""
     },
     {
       "id": "evt-16140000",
-      "title": "16岁少年与14岁女孩发生关系获刑3年",
+      "title": "枣庄16岁少年与14岁女孩发生性关系获刑3年，申诉被驳回",
       "category": "society",
-      "hotScore": 0.595,
-      "freshness": 1,
-      "crossSource": 1,
-      "totalScore": 0.838,
+      "hotScore": 0.68,
+      "freshness": 0.9999,
+      "crossSource": 0.5,
+      "totalScore": 0.722,
       "sources": [
         {
           "channel": "thepaper",
-          "rank": 7,
+          "rank": 5,
           "hot": 0,
           "url": "https://www.thepaper.cn/newsDetail_forward_34115853"
-        },
-        {
-          "channel": "baidu",
-          "rank": 13,
-          "hot": 0,
-          "url": "https://m.baidu.com/s?word=16%E5%B2%81%E5%B0%91%E5%B9%B4%E4%B8%8E14%E5%B2%81%E5%A5%B3%E5%AD%A9%E5%8F%91%E7%94%9F%E5%85%B3%E7%B3%BB%E8%8E%B7%E5%88%913%E5%B9%B4&sa=fyb_news"
         }
       ],
       "summary": "",
       "url": "https://www.thepaper.cn/newsDetail_forward_34115853"
     },
     {
-      "id": "evt-f1600000",
-      "title": "美多架F-16战机飞往格陵兰岛意味啥",
+      "id": "evt-86000000",
+      "title": "86版《西游记》道具展出 金箍棒开裂",
       "category": "society",
-      "hotScore": 0.85,
+      "hotScore": 0.64,
       "freshness": 1,
-      "crossSource": 0.6309,
-      "totalScore": 0.8293,
-      "sources": [
-        {
-          "channel": "toutiao",
-          "rank": 1,
-          "hot": 15365609,
-          "url": "https://www.toutiao.com/trending/7687934475140877865/"
-        }
-      ],
-      "summary": "",
-      "url": "https://www.toutiao.com/trending/7687934475140877865/"
-    },
-    {
-      "id": "evt-anthropi",
-      "title": "如何看待 Anthropic 推演 2030 年美国经济中「钱将继续流向有钱人」的结论？",
-      "category": "economy",
-      "hotScore": 0.5625,
-      "freshness": 1,
-      "crossSource": 0.6309,
-      "totalScore": 0.7143,
-      "sources": [
-        {
-          "channel": "zhihu",
-          "rank": 6,
-          "hot": 0,
-          "url": ""
-        }
-      ],
-      "summary": "",
-      "url": ""
-    },
-    {
-      "id": "evt-71000000",
-      "title": "钟南山团队发现71%肺结节患者不吸烟",
-      "category": "society",
-      "hotScore": 0.7225,
-      "freshness": 1,
-      "crossSource": 0.6309,
-      "totalScore": 0.7783,
-      "sources": [
-        {
-          "channel": "toutiao",
-          "rank": 4,
-          "hot": 11383123,
-          "url": "https://www.toutiao.com/trending/7687456172051300388/"
-        }
-      ],
-      "summary": "",
-      "url": "https://www.toutiao.com/trending/7687456172051300388/"
-    },
-    {
-      "id": "evt-20260000",
-      "title": "如何评价 2026 年全国中学生物理竞赛机构营及复赛大规模出现 AI「辅助答题」行为？",
-      "category": "society",
-      "hotScore": 0.675,
-      "freshness": 1,
-      "crossSource": 0.6309,
-      "totalScore": 0.7593,
-      "sources": [
-        {
-          "channel": "zhihu",
-          "rank": 3,
-          "hot": 0,
-          "url": ""
-        }
-      ],
-      "summary": "",
-      "url": ""
-    },
-    {
-      "id": "evt-muse0000",
-      "title": "Muse登上苹果应用商店榜首",
-      "category": "society",
-      "hotScore": 0.6,
-      "freshness": 1,
-      "crossSource": 0.6309,
-      "totalScore": 0.7293,
+      "crossSource": 0.5,
+      "totalScore": 0.706,
       "sources": [
         {
           "channel": "baidu",
-          "rank": 6,
-          "hot": 0,
-          "url": "https://m.baidu.com/s?word=Muse%E7%99%BB%E4%B8%8A%E8%8B%B9%E6%9E%9C%E5%BA%94%E7%94%A8%E5%95%86%E5%BA%97%E6%A6%9C%E9%A6%96&sa=fyb_news"
-        }
-      ],
-      "summary": "",
-      "url": "https://m.baidu.com/s?word=Muse%E7%99%BB%E4%B8%8A%E8%8B%B9%E6%9E%9C%E5%BA%94%E7%94%A8%E5%95%86%E5%BA%97%E6%A6%9C%E9%A6%96&sa=fyb_news"
-    },
-    {
-      "id": "evt-26900000",
-      "title": "如何看待米哈游 26 年 9 月 21 日的反舞弊通报？",
-      "category": "society",
-      "hotScore": 0.6,
-      "freshness": 1,
-      "crossSource": 0.6309,
-      "totalScore": 0.7293,
-      "sources": [
-        {
-          "channel": "zhihu",
           "rank": 5,
           "hot": 0,
-          "url": ""
+          "url": "https://m.baidu.com/s?word=86%E7%89%88%E3%80%8A%E8%A5%BF%E6%B8%B8%E8%AE%B0%E3%80%8B%E9%81%93%E5%85%B7%E5%B1%95%E5%87%BA+%E9%87%91%E7%AE%8D%E6%A3%92%E5%BC%80%E8%A3%82&sa=fyb_news"
         }
       ],
       "summary": "",
-      "url": ""
-    },
-    {
-      "id": "evt-18000000",
-      "title": "苹果18第一批“受害者”来了吗",
-      "category": "society",
-      "hotScore": 0.595,
-      "freshness": 1,
-      "crossSource": 0.6309,
-      "totalScore": 0.7273,
-      "sources": [
-        {
-          "channel": "toutiao",
-          "rank": 7,
-          "hot": 8432825,
-          "url": "https://www.toutiao.com/trending/7687824558044348462/"
-        }
-      ],
-      "summary": "",
-      "url": "https://www.toutiao.com/trending/7687824558044348462/"
+      "url": "https://m.baidu.com/s?word=86%E7%89%88%E3%80%8A%E8%A5%BF%E6%B8%B8%E8%AE%B0%E3%80%8B%E9%81%93%E5%85%B7%E5%B1%95%E5%87%BA+%E9%87%91%E7%AE%8D%E6%A3%92%E5%BC%80%E8%A3%82&sa=fyb_news"
     },
     {
       "id": "evt-f3500000",
       "title": "美批准向沙特出售F-35战机，对中东军力格局影响有多大？",
       "category": "society",
-      "hotScore": 0.5525,
-      "freshness": 1,
-      "crossSource": 0.6309,
-      "totalScore": 0.7103,
+      "hotScore": 0.6375,
+      "freshness": 0.9999,
+      "crossSource": 0.5,
+      "totalScore": 0.705,
       "sources": [
         {
           "channel": "thepaper",
-          "rank": 8,
+          "rank": 6,
           "hot": 0,
           "url": "https://www.thepaper.cn/newsDetail_forward_34115876"
         }
@@ -234,80 +121,99 @@
       "url": "https://www.thepaper.cn/newsDetail_forward_34115876"
     },
     {
-      "id": "evt-luke0000",
-      "title": "“北京的Luke”让台湾粉丝上头了",
+      "id": "evt-29920000",
+      "title": "29.9元月饼为何能卖出200万单",
       "category": "society",
-      "hotScore": 0.52,
-      "freshness": 1,
-      "crossSource": 0.6309,
-      "totalScore": 0.6973,
+      "hotScore": 0.5525,
+      "freshness": 0.9998,
+      "crossSource": 0.5,
+      "totalScore": 0.671,
       "sources": [
         {
-          "channel": "baidu",
+          "channel": "toutiao",
           "rank": 8,
-          "hot": 0,
-          "url": "https://m.baidu.com/s?word=%E2%80%9C%E5%8C%97%E4%BA%AC%E7%9A%84Luke%E2%80%9D%E8%AE%A9%E5%8F%B0%E6%B9%BE%E7%B2%89%E4%B8%9D%E4%B8%8A%E5%A4%B4%E4%BA%86&sa=fyb_news"
+          "hot": 8013988,
+          "url": "https://www.toutiao.com/trending/7688124664098328127/"
         }
       ],
       "summary": "",
-      "url": "https://m.baidu.com/s?word=%E2%80%9C%E5%8C%97%E4%BA%AC%E7%9A%84Luke%E2%80%9D%E8%AE%A9%E5%8F%B0%E6%B9%BE%E7%B2%89%E4%B8%9D%E4%B8%8A%E5%A4%B4%E4%BA%86&sa=fyb_news"
+      "url": "https://www.toutiao.com/trending/7688124664098328127/"
     },
     {
-      "id": "evt-91000000",
-      "title": "91岁奶奶认不出子女却记得89年前的歌",
+      "id": "evt-80000000",
+      "title": "警惕阿尔茨海默病8大早期信号",
       "category": "society",
       "hotScore": 0.51,
-      "freshness": 1,
-      "crossSource": 0.6309,
-      "totalScore": 0.6933,
+      "freshness": 0.9998,
+      "crossSource": 0.5,
+      "totalScore": 0.654,
       "sources": [
         {
           "channel": "toutiao",
           "rank": 9,
-          "hot": 6904213,
-          "url": "https://www.toutiao.com/trending/7687845624426823690/"
+          "hot": 7251356,
+          "url": "https://www.toutiao.com/trending/7688154652465971219/"
         }
       ],
       "summary": "",
-      "url": "https://www.toutiao.com/trending/7687845624426823690/"
+      "url": "https://www.toutiao.com/trending/7688154652465971219/"
     },
     {
-      "id": "evt-600meta0",
-      "title": "纳指涨近600点 Meta涨超11%",
+      "id": "evt-ai000000",
+      "title": "AI先淘汰员工，还是先淘汰职业经理人？",
+      "category": "society",
+      "hotScore": 0.51,
+      "freshness": 0.9999,
+      "crossSource": 0.5,
+      "totalScore": 0.654,
+      "sources": [
+        {
+          "channel": "thepaper",
+          "rank": 9,
+          "hot": 0,
+          "url": "https://www.thepaper.cn/newsDetail_forward_34115860"
+        }
+      ],
+      "summary": "",
+      "url": "https://www.thepaper.cn/newsDetail_forward_34115860"
+    },
+    {
+      "id": "evt-29900000",
+      "title": "美心低至六七折、 29.9 元礼盒爆卖 200 万件，月饼告别「礼赠时代」了吗？反映出怎样的消费趋势？",
+      "category": "society",
+      "hotScore": 0.4875,
+      "freshness": 0.9998,
+      "crossSource": 0.5,
+      "totalScore": 0.645,
+      "sources": [
+        {
+          "channel": "zhihu",
+          "rank": 8,
+          "hot": 0,
+          "url": ""
+        }
+      ],
+      "summary": "",
+      "url": ""
+    },
+    {
+      "id": "evt-50000000",
+      "title": "金建希涉嫌“卖官鬻爵”获刑5年",
       "category": "society",
       "hotScore": 0.48,
       "freshness": 1,
-      "crossSource": 0.6309,
-      "totalScore": 0.6813,
+      "crossSource": 0.5,
+      "totalScore": 0.642,
       "sources": [
         {
           "channel": "baidu",
           "rank": 9,
           "hot": 0,
-          "url": "https://m.baidu.com/s?word=%E7%BA%B3%E6%8C%87%E6%B6%A8%E8%BF%91600%E7%82%B9+Meta%E6%B6%A8%E8%B6%8511%25&sa=fyb_news"
+          "url": "https://m.baidu.com/s?word=%E9%87%91%E5%BB%BA%E5%B8%8C%E6%B6%89%E5%AB%8C%E2%80%9C%E5%8D%96%E5%AE%98%E9%AC%BB%E7%88%B5%E2%80%9D%E8%8E%B7%E5%88%915%E5%B9%B4&sa=fyb_news"
         }
       ],
       "summary": "",
-      "url": "https://m.baidu.com/s?word=%E7%BA%B3%E6%8C%87%E6%B6%A8%E8%BF%91600%E7%82%B9+Meta%E6%B6%A8%E8%B6%8511%25&sa=fyb_news"
-    },
-    {
-      "id": "evt-21000000",
-      "title": "国际油价21日显著下跌",
-      "category": "society",
-      "hotScore": 0.4675,
-      "freshness": 1,
-      "crossSource": 0.6309,
-      "totalScore": 0.6763,
-      "sources": [
-        {
-          "channel": "toutiao",
-          "rank": 10,
-          "hot": 6247190,
-          "url": "https://www.toutiao.com/trending/7687908298307747883/"
-        }
-      ],
-      "summary": "",
-      "url": "https://www.toutiao.com/trending/7687908298307747883/"
+      "url": "https://m.baidu.com/s?word=%E9%87%91%E5%BB%BA%E5%B8%8C%E6%B6%89%E5%AB%8C%E2%80%9C%E5%8D%96%E5%AE%98%E9%AC%BB%E7%88%B5%E2%80%9D%E8%8E%B7%E5%88%915%E5%B9%B4&sa=fyb_news"
     }
   ]
 }
