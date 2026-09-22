@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-09-22T07:01:44.846Z",
+  "generatedAt": "2026-09-22T12:55:30.745Z",
   "fields": {
     "society": "社会",
     "economy": "经济",
@@ -8,50 +8,75 @@
   "feed": [
     {
       "id": "evt-00000000",
-      "title": "中国游泳队金金金金金的背后",
+      "title": "中国队两次让东道主日本沉默",
       "category": "society",
-      "hotScore": 0.85,
-      "freshness": 0.9998,
-      "crossSource": 0.5,
-      "totalScore": 0.79,
+      "hotScore": 0.68,
+      "freshness": 0.9999,
+      "crossSource": 1,
+      "totalScore": 0.872,
       "sources": [
         {
           "channel": "toutiao",
-          "rank": 1,
-          "hot": 16138190,
-          "url": "https://www.toutiao.com/trending/7688198305955712553/"
+          "rank": 5,
+          "hot": 7479313,
+          "url": "https://www.toutiao.com/trending/7688264893501391411/"
+        },
+        {
+          "channel": "baidu",
+          "rank": 17,
+          "hot": 0,
+          "url": "https://m.baidu.com/s?word=%E4%B8%AD%E5%9B%BD%E9%98%9F%E4%B8%A4%E6%AC%A1%E8%AE%A9%E4%B8%9C%E9%81%93%E4%B8%BB%E6%97%A5%E6%9C%AC%E6%B2%89%E9%BB%98&sa=fyb_news"
         }
       ],
       "summary": "",
-      "url": "https://www.toutiao.com/trending/7688198305955712553/"
+      "url": "https://www.toutiao.com/trending/7688264893501391411/"
     },
     {
-      "id": "evt-15000000",
-      "title": "月租1500元起 酒店巨头抢公寓生意",
+      "id": "evt-f3500000",
+      "title": "美批准向沙特出售F-35战机，对中东军力格局影响有多大？",
       "category": "society",
-      "hotScore": 0.72,
+      "hotScore": 0.765,
       "freshness": 1,
-      "crossSource": 0.5,
-      "totalScore": 0.738,
+      "crossSource": 0.6309,
+      "totalScore": 0.7953,
+      "sources": [
+        {
+          "channel": "thepaper",
+          "rank": 3,
+          "hot": 0,
+          "url": "https://www.thepaper.cn/newsDetail_forward_34115876"
+        }
+      ],
+      "summary": "",
+      "url": "https://www.thepaper.cn/newsDetail_forward_34115876"
+    },
+    {
+      "id": "evt-30000000",
+      "title": "中国女排夺冠！3-0横扫日本",
+      "category": "society",
+      "hotScore": 0.76,
+      "freshness": 1,
+      "crossSource": 0.6309,
+      "totalScore": 0.7933,
       "sources": [
         {
           "channel": "baidu",
-          "rank": 3,
+          "rank": 2,
           "hot": 0,
-          "url": "https://m.baidu.com/s?word=%E6%9C%88%E7%A7%9F1500%E5%85%83%E8%B5%B7+%E9%85%92%E5%BA%97%E5%B7%A8%E5%A4%B4%E6%8A%A2%E5%85%AC%E5%AF%93%E7%94%9F%E6%84%8F&sa=fyb_news"
+          "url": "https://m.baidu.com/s?word=%E4%B8%AD%E5%9B%BD%E5%A5%B3%E6%8E%92%E5%A4%BA%E5%86%A0%EF%BC%813-0%E6%A8%AA%E6%89%AB%E6%97%A5%E6%9C%AC&sa=fyb_news"
         }
       ],
       "summary": "",
-      "url": "https://m.baidu.com/s?word=%E6%9C%88%E7%A7%9F1500%E5%85%83%E8%B5%B7+%E9%85%92%E5%BA%97%E5%B7%A8%E5%A4%B4%E6%8A%A2%E5%85%AC%E5%AF%93%E7%94%9F%E6%84%8F&sa=fyb_news"
+      "url": "https://m.baidu.com/s?word=%E4%B8%AD%E5%9B%BD%E5%A5%B3%E6%8E%92%E5%A4%BA%E5%86%A0%EF%BC%813-0%E6%A8%AA%E6%89%AB%E6%97%A5%E6%9C%AC&sa=fyb_news"
     },
     {
-      "id": "evt-mimov200",
-      "title": "如何评价小米 MIMO V2.6 登上 AA 开源榜第一名？",
+      "id": "evt-29900000",
+      "title": "美心低至六七折、 29.9 元礼盒爆卖 200 万件，月饼告别「礼赠时代」了吗？反映出怎样的消费趋势？",
       "category": "society",
       "hotScore": 0.7125,
-      "freshness": 0.9998,
-      "crossSource": 0.5,
-      "totalScore": 0.735,
+      "freshness": 0.9999,
+      "crossSource": 0.6309,
+      "totalScore": 0.7743,
       "sources": [
         {
           "channel": "zhihu",
@@ -64,131 +89,55 @@
       "url": ""
     },
     {
-      "id": "evt-16140000",
-      "title": "枣庄16岁少年与14岁女孩发生性关系获刑3年，申诉被驳回",
-      "category": "society",
-      "hotScore": 0.68,
+      "id": "evt-10000000",
+      "title": "利率跌破1%为何人民币反而升值",
+      "category": "economy",
+      "hotScore": 0.425,
       "freshness": 0.9999,
-      "crossSource": 0.5,
-      "totalScore": 0.722,
+      "crossSource": 0.6309,
+      "totalScore": 0.6593,
       "sources": [
         {
-          "channel": "thepaper",
-          "rank": 5,
-          "hot": 0,
-          "url": "https://www.thepaper.cn/newsDetail_forward_34115853"
+          "channel": "toutiao",
+          "rank": 11,
+          "hot": 4104734,
+          "url": "https://www.toutiao.com/trending/7688276175054966313/"
         }
       ],
       "summary": "",
-      "url": "https://www.thepaper.cn/newsDetail_forward_34115853"
+      "url": "https://www.toutiao.com/trending/7688276175054966313/"
     },
     {
-      "id": "evt-86000000",
-      "title": "86版《西游记》道具展出 金箍棒开裂",
+      "id": "evt-5g6g0000",
+      "title": "5G+6G 生产生活将有哪些变化",
       "category": "society",
-      "hotScore": 0.64,
+      "hotScore": 0.68,
       "freshness": 1,
-      "crossSource": 0.5,
-      "totalScore": 0.706,
+      "crossSource": 0.6309,
+      "totalScore": 0.7613,
       "sources": [
         {
           "channel": "baidu",
-          "rank": 5,
+          "rank": 4,
           "hot": 0,
-          "url": "https://m.baidu.com/s?word=86%E7%89%88%E3%80%8A%E8%A5%BF%E6%B8%B8%E8%AE%B0%E3%80%8B%E9%81%93%E5%85%B7%E5%B1%95%E5%87%BA+%E9%87%91%E7%AE%8D%E6%A3%92%E5%BC%80%E8%A3%82&sa=fyb_news"
+          "url": "https://m.baidu.com/s?word=5G%2B6G+%E7%94%9F%E4%BA%A7%E7%94%9F%E6%B4%BB%E5%B0%86%E6%9C%89%E5%93%AA%E4%BA%9B%E5%8F%98%E5%8C%96&sa=fyb_news"
         }
       ],
       "summary": "",
-      "url": "https://m.baidu.com/s?word=86%E7%89%88%E3%80%8A%E8%A5%BF%E6%B8%B8%E8%AE%B0%E3%80%8B%E9%81%93%E5%85%B7%E5%B1%95%E5%87%BA+%E9%87%91%E7%AE%8D%E6%A3%92%E5%BC%80%E8%A3%82&sa=fyb_news"
+      "url": "https://m.baidu.com/s?word=5G%2B6G+%E7%94%9F%E4%BA%A7%E7%94%9F%E6%B4%BB%E5%B0%86%E6%9C%89%E5%93%AA%E4%BA%9B%E5%8F%98%E5%8C%96&sa=fyb_news"
     },
     {
-      "id": "evt-f3500000",
-      "title": "美批准向沙特出售F-35战机，对中东军力格局影响有多大？",
+      "id": "evt-65000000",
+      "title": "一家三口打赏 650 万赖到女儿身上，要求以未成年人身份退款，真相是如何找到的？反映出家庭教育哪些问题？",
       "category": "society",
       "hotScore": 0.6375,
       "freshness": 0.9999,
-      "crossSource": 0.5,
-      "totalScore": 0.705,
-      "sources": [
-        {
-          "channel": "thepaper",
-          "rank": 6,
-          "hot": 0,
-          "url": "https://www.thepaper.cn/newsDetail_forward_34115876"
-        }
-      ],
-      "summary": "",
-      "url": "https://www.thepaper.cn/newsDetail_forward_34115876"
-    },
-    {
-      "id": "evt-29920000",
-      "title": "29.9元月饼为何能卖出200万单",
-      "category": "society",
-      "hotScore": 0.5525,
-      "freshness": 0.9998,
-      "crossSource": 0.5,
-      "totalScore": 0.671,
-      "sources": [
-        {
-          "channel": "toutiao",
-          "rank": 8,
-          "hot": 8013988,
-          "url": "https://www.toutiao.com/trending/7688124664098328127/"
-        }
-      ],
-      "summary": "",
-      "url": "https://www.toutiao.com/trending/7688124664098328127/"
-    },
-    {
-      "id": "evt-80000000",
-      "title": "警惕阿尔茨海默病8大早期信号",
-      "category": "society",
-      "hotScore": 0.51,
-      "freshness": 0.9998,
-      "crossSource": 0.5,
-      "totalScore": 0.654,
-      "sources": [
-        {
-          "channel": "toutiao",
-          "rank": 9,
-          "hot": 7251356,
-          "url": "https://www.toutiao.com/trending/7688154652465971219/"
-        }
-      ],
-      "summary": "",
-      "url": "https://www.toutiao.com/trending/7688154652465971219/"
-    },
-    {
-      "id": "evt-ai000000",
-      "title": "AI先淘汰员工，还是先淘汰职业经理人？",
-      "category": "society",
-      "hotScore": 0.51,
-      "freshness": 0.9999,
-      "crossSource": 0.5,
-      "totalScore": 0.654,
-      "sources": [
-        {
-          "channel": "thepaper",
-          "rank": 9,
-          "hot": 0,
-          "url": "https://www.thepaper.cn/newsDetail_forward_34115860"
-        }
-      ],
-      "summary": "",
-      "url": "https://www.thepaper.cn/newsDetail_forward_34115860"
-    },
-    {
-      "id": "evt-29900000",
-      "title": "美心低至六七折、 29.9 元礼盒爆卖 200 万件，月饼告别「礼赠时代」了吗？反映出怎样的消费趋势？",
-      "category": "society",
-      "hotScore": 0.4875,
-      "freshness": 0.9998,
-      "crossSource": 0.5,
-      "totalScore": 0.645,
+      "crossSource": 0.6309,
+      "totalScore": 0.7443,
       "sources": [
         {
           "channel": "zhihu",
-          "rank": 8,
+          "rank": 4,
           "hot": 0,
           "url": ""
         }
@@ -197,23 +146,137 @@
       "url": ""
     },
     {
-      "id": "evt-50000000",
-      "title": "金建希涉嫌“卖官鬻爵”获刑5年",
+      "id": "evt-45000000",
+      "title": "男子4.5元网购“聚能环”致妻儿身亡",
       "category": "society",
-      "hotScore": 0.48,
-      "freshness": 1,
-      "crossSource": 0.5,
-      "totalScore": 0.642,
+      "hotScore": 0.595,
+      "freshness": 0.9999,
+      "crossSource": 0.6309,
+      "totalScore": 0.7273,
       "sources": [
         {
-          "channel": "baidu",
-          "rank": 9,
-          "hot": 0,
-          "url": "https://m.baidu.com/s?word=%E9%87%91%E5%BB%BA%E5%B8%8C%E6%B6%89%E5%AB%8C%E2%80%9C%E5%8D%96%E5%AE%98%E9%AC%BB%E7%88%B5%E2%80%9D%E8%8E%B7%E5%88%915%E5%B9%B4&sa=fyb_news"
+          "channel": "toutiao",
+          "rank": 7,
+          "hot": 6123544,
+          "url": "https://www.toutiao.com/trending/7687772534611116058/"
         }
       ],
       "summary": "",
-      "url": "https://m.baidu.com/s?word=%E9%87%91%E5%BB%BA%E5%B8%8C%E6%B6%89%E5%AB%8C%E2%80%9C%E5%8D%96%E5%AE%98%E9%AC%BB%E7%88%B5%E2%80%9D%E8%8E%B7%E5%88%915%E5%B9%B4&sa=fyb_news"
+      "url": "https://www.toutiao.com/trending/7687772534611116058/"
+    },
+    {
+      "id": "evt-g0000000",
+      "title": "G 胖认为，开发者最大的错误之一就是把玩家自己琢磨出来的轮椅套路当成作弊一刀砍掉，你同意他的看法吗？",
+      "category": "society",
+      "hotScore": 0.5625,
+      "freshness": 0.9999,
+      "crossSource": 0.6309,
+      "totalScore": 0.7143,
+      "sources": [
+        {
+          "channel": "zhihu",
+          "rank": 6,
+          "hot": 0,
+          "url": ""
+        }
+      ],
+      "summary": "",
+      "url": ""
+    },
+    {
+      "id": "evt-21000000",
+      "title": "无锡21家企业入围中国民企500强榜单",
+      "category": "society",
+      "hotScore": 0.5525,
+      "freshness": 0.9999,
+      "crossSource": 0.6309,
+      "totalScore": 0.7103,
+      "sources": [
+        {
+          "channel": "toutiao",
+          "rank": 8,
+          "hot": 5540811,
+          "url": "https://www.toutiao.com/trending/7688212905092169770/"
+        }
+      ],
+      "summary": "",
+      "url": "https://www.toutiao.com/trending/7688212905092169770/"
+    },
+    {
+      "id": "evt-ai000000",
+      "title": "AI先淘汰员工，还是先淘汰职业经理人？",
+      "category": "society",
+      "hotScore": 0.5525,
+      "freshness": 1,
+      "crossSource": 0.6309,
+      "totalScore": 0.7103,
+      "sources": [
+        {
+          "channel": "thepaper",
+          "rank": 8,
+          "hot": 0,
+          "url": "https://www.thepaper.cn/newsDetail_forward_34115860"
+        }
+      ],
+      "summary": "",
+      "url": "https://www.thepaper.cn/newsDetail_forward_34115860"
+    },
+    {
+      "id": "evt-73000000",
+      "title": "钟南山团队发现 73% 的肺癌病例来自非高危人群，为啥非高危人群占多数？传统肺癌筛查标准需要调整吗？",
+      "category": "society",
+      "hotScore": 0.525,
+      "freshness": 0.9999,
+      "crossSource": 0.6309,
+      "totalScore": 0.6993,
+      "sources": [
+        {
+          "channel": "zhihu",
+          "rank": 7,
+          "hot": 0,
+          "url": ""
+        }
+      ],
+      "summary": "",
+      "url": ""
+    },
+    {
+      "id": "evt-16000000",
+      "title": "马上评｜16岁少年强奸案，追问“法定代理人到场权”的落实",
+      "category": "society",
+      "hotScore": 0.51,
+      "freshness": 1,
+      "crossSource": 0.6309,
+      "totalScore": 0.6933,
+      "sources": [
+        {
+          "channel": "thepaper",
+          "rank": 9,
+          "hot": 0,
+          "url": "https://www.thepaper.cn/newsDetail_forward_34122861"
+        }
+      ],
+      "summary": "",
+      "url": "https://www.thepaper.cn/newsDetail_forward_34122861"
+    },
+    {
+      "id": "evt-23160000",
+      "title": "林诗栋 2-3 爆冷输泰国 16 岁小将提塔帕 - 普里查扬，如何评价本场比赛？",
+      "category": "society",
+      "hotScore": 0.45,
+      "freshness": 0.9999,
+      "crossSource": 0.6309,
+      "totalScore": 0.6693,
+      "sources": [
+        {
+          "channel": "zhihu",
+          "rank": 9,
+          "hot": 0,
+          "url": ""
+        }
+      ],
+      "summary": "",
+      "url": ""
     }
   ]
 }
