@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-09-22T20:38:23.083Z",
+  "generatedAt": "2026-09-22T23:54:41.089Z",
   "fields": {
     "society": "社会",
     "economy": "经济",
@@ -8,47 +8,28 @@
   "feed": [
     {
       "id": "evt-00000000",
-      "title": "多家银行存款利息涨了",
-      "category": "society",
-      "hotScore": 0.6,
-      "freshness": 1,
-      "crossSource": 1,
-      "totalScore": 0.84,
-      "sources": [
-        {
-          "channel": "toutiao",
-          "rank": 12,
-          "hot": 3520503,
-          "url": "https://www.toutiao.com/trending/7687617713011130404/"
-        },
-        {
-          "channel": "baidu",
-          "rank": 6,
-          "hot": 0,
-          "url": "https://m.baidu.com/s?word=%E5%A4%9A%E5%AE%B6%E9%93%B6%E8%A1%8C%E5%AD%98%E6%AC%BE%E5%88%A9%E6%81%AF%E6%B6%A8%E4%BA%86&sa=fyb_news"
-        }
-      ],
-      "summary": "",
-      "url": "https://www.toutiao.com/trending/7687617713011130404/"
-    },
-    {
-      "id": "evt-mate9000",
-      "title": "华为Mate 90系列价格曝光",
+      "title": "今日秋分",
       "category": "society",
       "hotScore": 0.85,
-      "freshness": 1,
-      "crossSource": 0.6309,
-      "totalScore": 0.8293,
+      "freshness": 0.9999,
+      "crossSource": 1,
+      "totalScore": 0.94,
       "sources": [
         {
           "channel": "toutiao",
           "rank": 1,
-          "hot": 10576175,
-          "url": "https://www.toutiao.com/trending/7687956825979633718/"
+          "hot": 14483510,
+          "url": "https://www.toutiao.com/trending/7687784613662801929/"
+        },
+        {
+          "channel": "baidu",
+          "rank": 8,
+          "hot": 0,
+          "url": "https://m.baidu.com/s?word=%E4%BB%8A%E6%97%A5%E7%A7%8B%E5%88%86&sa=fyb_news"
         }
       ],
       "summary": "",
-      "url": "https://www.toutiao.com/trending/7687956825979633718/"
+      "url": "https://www.toutiao.com/trending/7687784613662801929/"
     },
     {
       "id": "evt-30000000",
@@ -70,11 +51,11 @@
       "url": "https://m.baidu.com/s?word=%E4%B8%AD%E5%9B%BD%E5%A5%B3%E6%8E%92%E5%A4%BA%E5%86%A0%EF%BC%813-0%E6%A8%AA%E6%89%AB%E6%97%A5%E6%9C%AC&sa=fyb_news"
     },
     {
-      "id": "evt-23160000",
-      "title": "林诗栋 2-3 爆冷输泰国 16 岁小将提塔帕 - 普里查扬，如何评价本场比赛？",
+      "id": "evt-73000000",
+      "title": "钟南山团队发现 73% 的肺癌病例来自非高危人群，为啥非高危人群占多数？传统肺癌筛查标准需要调整吗？",
       "category": "society",
       "hotScore": 0.75,
-      "freshness": 1,
+      "freshness": 0.9999,
       "crossSource": 0.6309,
       "totalScore": 0.7893,
       "sources": [
@@ -89,23 +70,42 @@
       "url": ""
     },
     {
-      "id": "evt-65000000",
-      "title": "一家三口打赏 650 万赖到女儿身上，要求以未成年人身份退款，真相是如何找到的？反映出家庭教育哪些问题？",
+      "id": "evt-45000000",
+      "title": "男子4.5元网购“聚能环”致妻儿身亡",
       "category": "society",
-      "hotScore": 0.7125,
-      "freshness": 1,
+      "hotScore": 0.7225,
+      "freshness": 0.9999,
       "crossSource": 0.6309,
-      "totalScore": 0.7743,
+      "totalScore": 0.7783,
       "sources": [
         {
-          "channel": "zhihu",
-          "rank": 2,
-          "hot": 0,
-          "url": ""
+          "channel": "toutiao",
+          "rank": 4,
+          "hot": 10729648,
+          "url": "https://www.toutiao.com/trending/7687772534611116058/"
         }
       ],
       "summary": "",
-      "url": ""
+      "url": "https://www.toutiao.com/trending/7687772534611116058/"
+    },
+    {
+      "id": "evt-48000000",
+      "title": "直播丨第48届世界技能大赛开幕式",
+      "category": "society",
+      "hotScore": 0.7225,
+      "freshness": 1,
+      "crossSource": 0.6309,
+      "totalScore": 0.7783,
+      "sources": [
+        {
+          "channel": "thepaper",
+          "rank": 4,
+          "hot": 0,
+          "url": "https://www.thepaper.cn/newsDetail_forward_34115183"
+        }
+      ],
+      "summary": "",
+      "url": "https://www.thepaper.cn/newsDetail_forward_34115183"
     },
     {
       "id": "evt-5g6g0000",
@@ -127,11 +127,11 @@
       "url": "https://m.baidu.com/s?word=5G%2B6G+%E7%94%9F%E4%BA%A7%E7%94%9F%E6%B4%BB%E5%B0%86%E6%9C%89%E5%93%AA%E4%BA%9B%E5%8F%98%E5%8C%96&sa=fyb_news"
     },
     {
-      "id": "evt-g0000000",
-      "title": "G 胖认为，开发者最大的错误之一就是把玩家自己琢磨出来的轮椅套路当成作弊一刀砍掉，你同意他的看法吗？",
+      "id": "evt-23160000",
+      "title": "林诗栋 2-3 爆冷输泰国 16 岁小将提塔帕 - 普里查扬，如何评价本场比赛？",
       "category": "society",
       "hotScore": 0.675,
-      "freshness": 1,
+      "freshness": 0.9999,
       "crossSource": 0.6309,
       "totalScore": 0.7593,
       "sources": [
@@ -146,112 +146,17 @@
       "url": ""
     },
     {
-      "id": "evt-51200000",
-      "title": "老人心梗去世前5次打120未接通",
+      "id": "evt-38000000",
+      "title": "38 岁清华毕业生三战高考考上北大医学部，称「希望在热爱的领域做一点有意义的事」，如何看待他的选择？",
       "category": "society",
-      "hotScore": 0.64,
-      "freshness": 1,
+      "hotScore": 0.525,
+      "freshness": 0.9999,
       "crossSource": 0.6309,
-      "totalScore": 0.7453,
-      "sources": [
-        {
-          "channel": "baidu",
-          "rank": 5,
-          "hot": 0,
-          "url": "https://m.baidu.com/s?word=%E8%80%81%E4%BA%BA%E5%BF%83%E6%A2%97%E5%8E%BB%E4%B8%96%E5%89%8D5%E6%AC%A1%E6%89%93120%E6%9C%AA%E6%8E%A5%E9%80%9A&sa=fyb_news"
-        }
-      ],
-      "summary": "",
-      "url": "https://m.baidu.com/s?word=%E8%80%81%E4%BA%BA%E5%BF%83%E6%A2%97%E5%8E%BB%E4%B8%96%E5%89%8D5%E6%AC%A1%E6%89%93120%E6%9C%AA%E6%8E%A5%E9%80%9A&sa=fyb_news"
-    },
-    {
-      "id": "evt-10000000",
-      "title": "雷军澄清“打新宇树挣了100多亿”：顺为投资且不是打新，让有想法的年轻人拿到第一笔投资",
-      "category": "society",
-      "hotScore": 0.595,
-      "freshness": 1,
-      "crossSource": 0.6309,
-      "totalScore": 0.7273,
-      "sources": [
-        {
-          "channel": "thepaper",
-          "rank": 7,
-          "hot": 0,
-          "url": "https://www.thepaper.cn/newsDetail_forward_34123498"
-        }
-      ],
-      "summary": "",
-      "url": "https://www.thepaper.cn/newsDetail_forward_34123498"
-    },
-    {
-      "id": "evt-45000000",
-      "title": "男子4.5元网购“聚能环”致妻儿身亡",
-      "category": "society",
-      "hotScore": 0.5525,
-      "freshness": 1,
-      "crossSource": 0.6309,
-      "totalScore": 0.7103,
-      "sources": [
-        {
-          "channel": "toutiao",
-          "rank": 8,
-          "hot": 5251973,
-          "url": "https://www.toutiao.com/trending/7687772534611116058/"
-        }
-      ],
-      "summary": "",
-      "url": "https://www.toutiao.com/trending/7687772534611116058/"
-    },
-    {
-      "id": "evt-24000000",
-      "title": "还未见顶：2-4个月后超强厄尔尼诺才迎峰值，关键海区已逼近历史极值",
-      "category": "society",
-      "hotScore": 0.5525,
-      "freshness": 1,
-      "crossSource": 0.6309,
-      "totalScore": 0.7103,
-      "sources": [
-        {
-          "channel": "thepaper",
-          "rank": 8,
-          "hot": 0,
-          "url": "https://www.thepaper.cn/newsDetail_forward_34122696"
-        }
-      ],
-      "summary": "",
-      "url": "https://www.thepaper.cn/newsDetail_forward_34122696"
-    },
-    {
-      "id": "evt-ai000000",
-      "title": "AI先淘汰员工，还是先淘汰职业经理人？",
-      "category": "society",
-      "hotScore": 0.51,
-      "freshness": 1,
-      "crossSource": 0.6309,
-      "totalScore": 0.6933,
-      "sources": [
-        {
-          "channel": "thepaper",
-          "rank": 9,
-          "hot": 0,
-          "url": "https://www.thepaper.cn/newsDetail_forward_34115860"
-        }
-      ],
-      "summary": "",
-      "url": "https://www.thepaper.cn/newsDetail_forward_34115860"
-    },
-    {
-      "id": "evt-73000000",
-      "title": "钟南山团队发现 73% 的肺癌病例来自非高危人群，为啥非高危人群占多数？传统肺癌筛查标准需要调整吗？",
-      "category": "society",
-      "hotScore": 0.4875,
-      "freshness": 1,
-      "crossSource": 0.6309,
-      "totalScore": 0.6843,
+      "totalScore": 0.6993,
       "sources": [
         {
           "channel": "zhihu",
-          "rank": 8,
+          "rank": 7,
           "hot": 0,
           "url": ""
         }
@@ -260,8 +165,27 @@
       "url": ""
     },
     {
-      "id": "evt-16000000",
-      "title": "马上评｜16岁少年强奸案，追问“法定代理人到场权”的落实",
+      "id": "evt-chinahaul",
+      "title": "“China Haul”火了",
+      "category": "society",
+      "hotScore": 0.48,
+      "freshness": 1,
+      "crossSource": 0.6309,
+      "totalScore": 0.6813,
+      "sources": [
+        {
+          "channel": "baidu",
+          "rank": 9,
+          "hot": 0,
+          "url": "https://m.baidu.com/s?word=%E2%80%9CChina+Haul%E2%80%9D%E7%81%AB%E4%BA%86&sa=fyb_news"
+        }
+      ],
+      "summary": "",
+      "url": "https://m.baidu.com/s?word=%E2%80%9CChina+Haul%E2%80%9D%E7%81%AB%E4%BA%86&sa=fyb_news"
+    },
+    {
+      "id": "evt-10000000",
+      "title": "雷军澄清“打新宇树挣了100多亿”：顺为投资且不是打新，让有想法的年轻人拿到第一笔投资",
       "category": "society",
       "hotScore": 0.4675,
       "freshness": 1,
@@ -272,30 +196,49 @@
           "channel": "thepaper",
           "rank": 10,
           "hot": 0,
-          "url": "https://www.thepaper.cn/newsDetail_forward_34122861"
+          "url": "https://www.thepaper.cn/newsDetail_forward_34123498"
         }
       ],
       "summary": "",
-      "url": "https://www.thepaper.cn/newsDetail_forward_34122861"
+      "url": "https://www.thepaper.cn/newsDetail_forward_34123498"
     },
     {
-      "id": "evt-39540000",
-      "title": "女子花3.9万相亲54岁男子实际63岁",
+      "id": "evt-24000000",
+      "title": "还未见顶：2-4个月后超强厄尔尼诺才迎峰值，关键海区已逼近历史极值",
       "category": "society",
-      "hotScore": 0.44,
+      "hotScore": 0.425,
       "freshness": 1,
       "crossSource": 0.6309,
-      "totalScore": 0.6653,
+      "totalScore": 0.6593,
       "sources": [
         {
-          "channel": "baidu",
-          "rank": 10,
+          "channel": "thepaper",
+          "rank": 11,
           "hot": 0,
-          "url": "https://m.baidu.com/s?word=%E5%A5%B3%E5%AD%90%E8%8A%B13.9%E4%B8%87%E7%9B%B8%E4%BA%B254%E5%B2%81%E7%94%B7%E5%AD%90%E5%AE%9E%E9%99%8563%E5%B2%81&sa=fyb_news"
+          "url": "https://www.thepaper.cn/newsDetail_forward_34122696"
         }
       ],
       "summary": "",
-      "url": "https://m.baidu.com/s?word=%E5%A5%B3%E5%AD%90%E8%8A%B13.9%E4%B8%87%E7%9B%B8%E4%BA%B254%E5%B2%81%E7%94%B7%E5%AD%90%E5%AE%9E%E9%99%8563%E5%B2%81&sa=fyb_news"
+      "url": "https://www.thepaper.cn/newsDetail_forward_34122696"
+    },
+    {
+      "id": "evt-20260000",
+      "title": "《三国志》系列 2026 投票结果公布，如何评价《三国志 11》成为了亚洲玩家心中的冠军？",
+      "category": "society",
+      "hotScore": 0.4125,
+      "freshness": 0.9999,
+      "crossSource": 0.6309,
+      "totalScore": 0.6543,
+      "sources": [
+        {
+          "channel": "zhihu",
+          "rank": 10,
+          "hot": 0,
+          "url": ""
+        }
+      ],
+      "summary": "",
+      "url": ""
     }
   ]
 }
