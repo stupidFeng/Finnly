@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-09-22T17:49:23.855Z",
+  "generatedAt": "2026-09-22T20:38:23.083Z",
   "fields": {
     "society": "社会",
     "economy": "经济",
@@ -17,8 +17,8 @@
       "sources": [
         {
           "channel": "toutiao",
-          "rank": 14,
-          "hot": 2628112,
+          "rank": 12,
+          "hot": 3520503,
           "url": "https://www.toutiao.com/trending/7687617713011130404/"
         },
         {
@@ -30,6 +30,25 @@
       ],
       "summary": "",
       "url": "https://www.toutiao.com/trending/7687617713011130404/"
+    },
+    {
+      "id": "evt-mate9000",
+      "title": "华为Mate 90系列价格曝光",
+      "category": "society",
+      "hotScore": 0.85,
+      "freshness": 1,
+      "crossSource": 0.6309,
+      "totalScore": 0.8293,
+      "sources": [
+        {
+          "channel": "toutiao",
+          "rank": 1,
+          "hot": 10576175,
+          "url": "https://www.toutiao.com/trending/7687956825979633718/"
+        }
+      ],
+      "summary": "",
+      "url": "https://www.toutiao.com/trending/7687956825979633718/"
     },
     {
       "id": "evt-30000000",
@@ -108,27 +127,8 @@
       "url": "https://m.baidu.com/s?word=5G%2B6G+%E7%94%9F%E4%BA%A7%E7%94%9F%E6%B4%BB%E5%B0%86%E6%9C%89%E5%93%AA%E4%BA%9B%E5%8F%98%E5%8C%96&sa=fyb_news"
     },
     {
-      "id": "evt-mate9000",
-      "title": "华为Mate 90系列价格曝光",
-      "category": "society",
-      "hotScore": 0.68,
-      "freshness": 1,
-      "crossSource": 0.6309,
-      "totalScore": 0.7613,
-      "sources": [
-        {
-          "channel": "toutiao",
-          "rank": 5,
-          "hot": 6464113,
-          "url": "https://www.toutiao.com/trending/7687956825979633718/"
-        }
-      ],
-      "summary": "",
-      "url": "https://www.toutiao.com/trending/7687956825979633718/"
-    },
-    {
-      "id": "evt-29900000",
-      "title": "美心低至六七折、 29.9 元礼盒爆卖 200 万件，月饼告别「礼赠时代」了吗？反映出怎样的消费趋势？",
+      "id": "evt-g0000000",
+      "title": "G 胖认为，开发者最大的错误之一就是把玩家自己琢磨出来的轮椅套路当成作弊一刀砍掉，你同意他的看法吗？",
       "category": "society",
       "hotScore": 0.675,
       "freshness": 1,
@@ -165,44 +165,6 @@
       "url": "https://m.baidu.com/s?word=%E8%80%81%E4%BA%BA%E5%BF%83%E6%A2%97%E5%8E%BB%E4%B8%96%E5%89%8D5%E6%AC%A1%E6%89%93120%E6%9C%AA%E6%8E%A5%E9%80%9A&sa=fyb_news"
     },
     {
-      "id": "evt-45000000",
-      "title": "男子4.5元网购“聚能环”致妻儿身亡",
-      "category": "society",
-      "hotScore": 0.6375,
-      "freshness": 1,
-      "crossSource": 0.6309,
-      "totalScore": 0.7443,
-      "sources": [
-        {
-          "channel": "toutiao",
-          "rank": 6,
-          "hot": 5848971,
-          "url": "https://www.toutiao.com/trending/7687772534611116058/"
-        }
-      ],
-      "summary": "",
-      "url": "https://www.toutiao.com/trending/7687772534611116058/"
-    },
-    {
-      "id": "evt-g0000000",
-      "title": "G 胖认为，开发者最大的错误之一就是把玩家自己琢磨出来的轮椅套路当成作弊一刀砍掉，你同意他的看法吗？",
-      "category": "society",
-      "hotScore": 0.6375,
-      "freshness": 1,
-      "crossSource": 0.6309,
-      "totalScore": 0.7443,
-      "sources": [
-        {
-          "channel": "zhihu",
-          "rank": 4,
-          "hot": 0,
-          "url": ""
-        }
-      ],
-      "summary": "",
-      "url": ""
-    },
-    {
       "id": "evt-10000000",
       "title": "雷军澄清“打新宇树挣了100多亿”：顺为投资且不是打新，让有想法的年轻人拿到第一笔投资",
       "category": "society",
@@ -222,23 +184,23 @@
       "url": "https://www.thepaper.cn/newsDetail_forward_34123498"
     },
     {
-      "id": "evt-igs16000",
-      "title": "假如 IG 获得 S16 赛季的总冠军,LoL 能继续盘活么?",
+      "id": "evt-45000000",
+      "title": "男子4.5元网购“聚能环”致妻儿身亡",
       "category": "society",
-      "hotScore": 0.5625,
+      "hotScore": 0.5525,
       "freshness": 1,
       "crossSource": 0.6309,
-      "totalScore": 0.7143,
+      "totalScore": 0.7103,
       "sources": [
         {
-          "channel": "zhihu",
-          "rank": 6,
-          "hot": 0,
-          "url": ""
+          "channel": "toutiao",
+          "rank": 8,
+          "hot": 5251973,
+          "url": "https://www.toutiao.com/trending/7687772534611116058/"
         }
       ],
       "summary": "",
-      "url": ""
+      "url": "https://www.toutiao.com/trending/7687772534611116058/"
     },
     {
       "id": "evt-24000000",
@@ -260,25 +222,6 @@
       "url": "https://www.thepaper.cn/newsDetail_forward_34122696"
     },
     {
-      "id": "evt-41000000",
-      "title": "四连冠！中国队男子4×100米混接夺金",
-      "category": "society",
-      "hotScore": 0.51,
-      "freshness": 1,
-      "crossSource": 0.6309,
-      "totalScore": 0.6933,
-      "sources": [
-        {
-          "channel": "toutiao",
-          "rank": 9,
-          "hot": 4333024,
-          "url": "https://www.toutiao.com/trending/7687867952946843179/"
-        }
-      ],
-      "summary": "",
-      "url": "https://www.toutiao.com/trending/7687867952946843179/"
-    },
-    {
       "id": "evt-ai000000",
       "title": "AI先淘汰员工，还是先淘汰职业经理人？",
       "category": "society",
@@ -296,6 +239,63 @@
       ],
       "summary": "",
       "url": "https://www.thepaper.cn/newsDetail_forward_34115860"
+    },
+    {
+      "id": "evt-73000000",
+      "title": "钟南山团队发现 73% 的肺癌病例来自非高危人群，为啥非高危人群占多数？传统肺癌筛查标准需要调整吗？",
+      "category": "society",
+      "hotScore": 0.4875,
+      "freshness": 1,
+      "crossSource": 0.6309,
+      "totalScore": 0.6843,
+      "sources": [
+        {
+          "channel": "zhihu",
+          "rank": 8,
+          "hot": 0,
+          "url": ""
+        }
+      ],
+      "summary": "",
+      "url": ""
+    },
+    {
+      "id": "evt-16000000",
+      "title": "马上评｜16岁少年强奸案，追问“法定代理人到场权”的落实",
+      "category": "society",
+      "hotScore": 0.4675,
+      "freshness": 1,
+      "crossSource": 0.6309,
+      "totalScore": 0.6763,
+      "sources": [
+        {
+          "channel": "thepaper",
+          "rank": 10,
+          "hot": 0,
+          "url": "https://www.thepaper.cn/newsDetail_forward_34122861"
+        }
+      ],
+      "summary": "",
+      "url": "https://www.thepaper.cn/newsDetail_forward_34122861"
+    },
+    {
+      "id": "evt-39540000",
+      "title": "女子花3.9万相亲54岁男子实际63岁",
+      "category": "society",
+      "hotScore": 0.44,
+      "freshness": 1,
+      "crossSource": 0.6309,
+      "totalScore": 0.6653,
+      "sources": [
+        {
+          "channel": "baidu",
+          "rank": 10,
+          "hot": 0,
+          "url": "https://m.baidu.com/s?word=%E5%A5%B3%E5%AD%90%E8%8A%B13.9%E4%B8%87%E7%9B%B8%E4%BA%B254%E5%B2%81%E7%94%B7%E5%AD%90%E5%AE%9E%E9%99%8563%E5%B2%81&sa=fyb_news"
+        }
+      ],
+      "summary": "",
+      "url": "https://m.baidu.com/s?word=%E5%A5%B3%E5%AD%90%E8%8A%B13.9%E4%B8%87%E7%9B%B8%E4%BA%B254%E5%B2%81%E7%94%B7%E5%AD%90%E5%AE%9E%E9%99%8563%E5%B2%81&sa=fyb_news"
     }
   ]
 }
