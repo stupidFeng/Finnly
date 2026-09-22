@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-09-21T21:22:49.224Z",
+  "generatedAt": "2026-09-22T00:22:59.330Z",
   "fields": {
     "society": "社会",
     "economy": "经济",
@@ -7,99 +7,111 @@
   },
   "feed": [
     {
+      "id": "evt-10000000",
+      "title": "雷军回应“打新宇树赚了100多亿”",
+      "category": "society",
+      "hotScore": 0.8075,
+      "freshness": 1,
+      "crossSource": 1,
+      "totalScore": 0.923,
+      "sources": [
+        {
+          "channel": "toutiao",
+          "rank": 2,
+          "hot": 13903378,
+          "url": "https://www.toutiao.com/trending/7687355060992475172/"
+        },
+        {
+          "channel": "baidu",
+          "rank": 3,
+          "hot": 0,
+          "url": "https://m.baidu.com/s?word=%E9%9B%B7%E5%86%9B%E5%9B%9E%E5%BA%94%E2%80%9C%E6%89%93%E6%96%B0%E5%AE%87%E6%A0%91%E8%B5%9A%E4%BA%86100%E5%A4%9A%E4%BA%BF%E2%80%9D&sa=fyb_news"
+        }
+      ],
+      "summary": "",
+      "url": "https://www.toutiao.com/trending/7687355060992475172/"
+    },
+    {
       "id": "evt-00000000",
-      "title": "覃伟中被查 广东：坚决拥护党中央决定",
+      "title": "豪华燃油车集体“腰斩式”降价",
       "category": "society",
       "hotScore": 0.6375,
-      "freshness": 0.9999,
+      "freshness": 1,
       "crossSource": 1,
       "totalScore": 0.855,
       "sources": [
         {
           "channel": "toutiao",
           "rank": 6,
-          "hot": 8661451,
-          "url": "https://www.toutiao.com/trending/7686857734792318500/"
+          "hot": 9319713,
+          "url": "https://www.toutiao.com/trending/7687260413158965289/"
         },
         {
-          "channel": "thepaper",
-          "rank": 17,
+          "channel": "baidu",
+          "rank": 11,
           "hot": 0,
-          "url": "https://www.thepaper.cn/newsDetail_forward_34117046"
+          "url": "https://m.baidu.com/s?word=%E8%B1%AA%E5%8D%8E%E7%87%83%E6%B2%B9%E8%BD%A6%E9%9B%86%E4%BD%93%E2%80%9C%E8%85%B0%E6%96%A9%E5%BC%8F%E2%80%9D%E9%99%8D%E4%BB%B7&sa=fyb_news"
         }
       ],
       "summary": "",
-      "url": "https://www.toutiao.com/trending/7686857734792318500/"
+      "url": "https://www.toutiao.com/trending/7687260413158965289/"
     },
     {
-      "id": "evt-90000000",
-      "title": "中国队亚运赛场90分钟连揽7金",
+      "id": "evt-16140000",
+      "title": "16岁少年与14岁女孩发生关系获刑3年",
+      "category": "society",
+      "hotScore": 0.595,
+      "freshness": 1,
+      "crossSource": 1,
+      "totalScore": 0.838,
+      "sources": [
+        {
+          "channel": "thepaper",
+          "rank": 7,
+          "hot": 0,
+          "url": "https://www.thepaper.cn/newsDetail_forward_34115853"
+        },
+        {
+          "channel": "baidu",
+          "rank": 13,
+          "hot": 0,
+          "url": "https://m.baidu.com/s?word=16%E5%B2%81%E5%B0%91%E5%B9%B4%E4%B8%8E14%E5%B2%81%E5%A5%B3%E5%AD%A9%E5%8F%91%E7%94%9F%E5%85%B3%E7%B3%BB%E8%8E%B7%E5%88%913%E5%B9%B4&sa=fyb_news"
+        }
+      ],
+      "summary": "",
+      "url": "https://www.thepaper.cn/newsDetail_forward_34115853"
+    },
+    {
+      "id": "evt-f1600000",
+      "title": "美多架F-16战机飞往格陵兰岛意味啥",
       "category": "society",
       "hotScore": 0.85,
-      "freshness": 0.9999,
+      "freshness": 1,
       "crossSource": 0.6309,
       "totalScore": 0.8293,
       "sources": [
         {
           "channel": "toutiao",
           "rank": 1,
-          "hot": 14280318,
-          "url": "https://www.toutiao.com/trending/7687404192881410091/"
+          "hot": 15365609,
+          "url": "https://www.toutiao.com/trending/7687934475140877865/"
         }
       ],
       "summary": "",
-      "url": "https://www.toutiao.com/trending/7687404192881410091/"
-    },
-    {
-      "id": "evt-71000000",
-      "title": "钟南山团队发现71%肺结节患者不吸烟",
-      "category": "society",
-      "hotScore": 0.8075,
-      "freshness": 0.9999,
-      "crossSource": 0.6309,
-      "totalScore": 0.8123,
-      "sources": [
-        {
-          "channel": "toutiao",
-          "rank": 2,
-          "hot": 12921366,
-          "url": "https://www.toutiao.com/trending/7687456172051300388/"
-        }
-      ],
-      "summary": "",
-      "url": "https://www.toutiao.com/trending/7687456172051300388/"
-    },
-    {
-      "id": "evt-10000000",
-      "title": "习近平复信美国10所高校青年学生",
-      "category": "society",
-      "hotScore": 0.8,
-      "freshness": 1,
-      "crossSource": 0.6309,
-      "totalScore": 0.8093,
-      "sources": [
-        {
-          "channel": "baidu",
-          "rank": 1,
-          "hot": 0,
-          "url": "https://m.baidu.com/s?word=%E4%B9%A0%E8%BF%91%E5%B9%B3%E5%A4%8D%E4%BF%A1%E7%BE%8E%E5%9B%BD10%E6%89%80%E9%AB%98%E6%A0%A1%E9%9D%92%E5%B9%B4%E5%AD%A6%E7%94%9F&sa=fyb_news"
-        }
-      ],
-      "summary": "",
-      "url": "https://m.baidu.com/s?word=%E4%B9%A0%E8%BF%91%E5%B9%B3%E5%A4%8D%E4%BF%A1%E7%BE%8E%E5%9B%BD10%E6%89%80%E9%AB%98%E6%A0%A1%E9%9D%92%E5%B9%B4%E5%AD%A6%E7%94%9F&sa=fyb_news"
+      "url": "https://www.toutiao.com/trending/7687934475140877865/"
     },
     {
       "id": "evt-anthropi",
       "title": "如何看待 Anthropic 推演 2030 年美国经济中「钱将继续流向有钱人」的结论？",
       "category": "economy",
-      "hotScore": 0.45,
+      "hotScore": 0.5625,
       "freshness": 1,
       "crossSource": 0.6309,
-      "totalScore": 0.6693,
+      "totalScore": 0.7143,
       "sources": [
         {
           "channel": "zhihu",
-          "rank": 9,
+          "rank": 6,
           "hot": 0,
           "url": ""
         }
@@ -108,103 +120,103 @@
       "url": ""
     },
     {
-      "id": "evt-f1600000",
-      "title": "美多架F-16战机飞往格陵兰岛意味啥",
+      "id": "evt-71000000",
+      "title": "钟南山团队发现71%肺结节患者不吸烟",
       "category": "society",
       "hotScore": 0.7225,
-      "freshness": 0.9999,
+      "freshness": 1,
       "crossSource": 0.6309,
       "totalScore": 0.7783,
       "sources": [
         {
           "channel": "toutiao",
           "rank": 4,
-          "hot": 10579120,
-          "url": "https://www.toutiao.com/trending/7687934475140877865/"
+          "hot": 11383123,
+          "url": "https://www.toutiao.com/trending/7687456172051300388/"
         }
       ],
       "summary": "",
-      "url": "https://www.toutiao.com/trending/7687934475140877865/"
+      "url": "https://www.toutiao.com/trending/7687456172051300388/"
     },
     {
-      "id": "evt-16140000",
-      "title": "枣庄16岁少年与14岁女孩发生性关系获刑3年，申诉被驳回",
+      "id": "evt-20260000",
+      "title": "如何评价 2026 年全国中学生物理竞赛机构营及复赛大规模出现 AI「辅助答题」行为？",
       "category": "society",
-      "hotScore": 0.7225,
+      "hotScore": 0.675,
       "freshness": 1,
       "crossSource": 0.6309,
-      "totalScore": 0.7783,
+      "totalScore": 0.7593,
       "sources": [
         {
-          "channel": "thepaper",
-          "rank": 4,
+          "channel": "zhihu",
+          "rank": 3,
           "hot": 0,
-          "url": "https://www.thepaper.cn/newsDetail_forward_34115853"
+          "url": ""
         }
       ],
       "summary": "",
-      "url": "https://www.thepaper.cn/newsDetail_forward_34115853"
+      "url": ""
     },
     {
-      "id": "evt-23105000",
-      "title": "中国队已夺23金10银5铜",
+      "id": "evt-muse0000",
+      "title": "Muse登上苹果应用商店榜首",
       "category": "society",
-      "hotScore": 0.72,
+      "hotScore": 0.6,
       "freshness": 1,
       "crossSource": 0.6309,
-      "totalScore": 0.7773,
+      "totalScore": 0.7293,
       "sources": [
         {
           "channel": "baidu",
-          "rank": 3,
+          "rank": 6,
           "hot": 0,
-          "url": "https://m.baidu.com/s?word=%E4%B8%AD%E5%9B%BD%E9%98%9F%E5%B7%B2%E5%A4%BA23%E9%87%9110%E9%93%B65%E9%93%9C&sa=fyb_news"
+          "url": "https://m.baidu.com/s?word=Muse%E7%99%BB%E4%B8%8A%E8%8B%B9%E6%9E%9C%E5%BA%94%E7%94%A8%E5%95%86%E5%BA%97%E6%A6%9C%E9%A6%96&sa=fyb_news"
         }
       ],
       "summary": "",
-      "url": "https://m.baidu.com/s?word=%E4%B8%AD%E5%9B%BD%E9%98%9F%E5%B7%B2%E5%A4%BA23%E9%87%9110%E9%93%B65%E9%93%9C&sa=fyb_news"
+      "url": "https://m.baidu.com/s?word=Muse%E7%99%BB%E4%B8%8A%E8%8B%B9%E6%9E%9C%E5%BA%94%E7%94%A8%E5%95%86%E5%BA%97%E6%A6%9C%E9%A6%96&sa=fyb_news"
     },
     {
-      "id": "evt-91000000",
-      "title": "91岁奶奶认不出子女却记得89年前的歌",
+      "id": "evt-26900000",
+      "title": "如何看待米哈游 26 年 9 月 21 日的反舞弊通报？",
+      "category": "society",
+      "hotScore": 0.6,
+      "freshness": 1,
+      "crossSource": 0.6309,
+      "totalScore": 0.7293,
+      "sources": [
+        {
+          "channel": "zhihu",
+          "rank": 5,
+          "hot": 0,
+          "url": ""
+        }
+      ],
+      "summary": "",
+      "url": ""
+    },
+    {
+      "id": "evt-18000000",
+      "title": "苹果18第一批“受害者”来了吗",
       "category": "society",
       "hotScore": 0.595,
-      "freshness": 0.9999,
+      "freshness": 1,
       "crossSource": 0.6309,
       "totalScore": 0.7273,
       "sources": [
         {
           "channel": "toutiao",
           "rank": 7,
-          "hot": 7837205,
-          "url": "https://www.toutiao.com/trending/7687845624426823690/"
+          "hot": 8432825,
+          "url": "https://www.toutiao.com/trending/7687824558044348462/"
         }
       ],
       "summary": "",
-      "url": "https://www.toutiao.com/trending/7687845624426823690/"
+      "url": "https://www.toutiao.com/trending/7687824558044348462/"
     },
     {
-      "id": "evt-16000000",
-      "title": "大爷钓到1.6米长大鳡鱼 扛着就跑",
-      "category": "society",
-      "hotScore": 0.56,
-      "freshness": 1,
-      "crossSource": 0.6309,
-      "totalScore": 0.7133,
-      "sources": [
-        {
-          "channel": "baidu",
-          "rank": 7,
-          "hot": 0,
-          "url": "https://m.baidu.com/s?word=%E5%A4%A7%E7%88%B7%E9%92%93%E5%88%B01.6%E7%B1%B3%E9%95%BF%E5%A4%A7%E9%B3%A1%E9%B1%BC+%E6%89%9B%E7%9D%80%E5%B0%B1%E8%B7%91&sa=fyb_news"
-        }
-      ],
-      "summary": "",
-      "url": "https://m.baidu.com/s?word=%E5%A4%A7%E7%88%B7%E9%92%93%E5%88%B01.6%E7%B1%B3%E9%95%BF%E5%A4%A7%E9%B3%A1%E9%B1%BC+%E6%89%9B%E7%9D%80%E5%B0%B1%E8%B7%91&sa=fyb_news"
-    },
-    {
-      "id": "evt-36500000",
-      "title": "村民反映365万积蓄“存”化肥厂取不回，山东单县警方：涉事公司涉嫌非吸，追回损失需等待司法程序",
+      "id": "evt-f3500000",
+      "title": "美批准向沙特出售F-35战机，对中东军力格局影响有多大？",
       "category": "society",
       "hotScore": 0.5525,
       "freshness": 1,
@@ -215,15 +227,15 @@
           "channel": "thepaper",
           "rank": 8,
           "hot": 0,
-          "url": "https://www.thepaper.cn/newsDetail_forward_34113902"
+          "url": "https://www.thepaper.cn/newsDetail_forward_34115876"
         }
       ],
       "summary": "",
-      "url": "https://www.thepaper.cn/newsDetail_forward_34113902"
+      "url": "https://www.thepaper.cn/newsDetail_forward_34115876"
     },
     {
-      "id": "evt-70000000",
-      "title": "超7成肺癌病例不吸烟无粉尘暴露",
+      "id": "evt-luke0000",
+      "title": "“北京的Luke”让台湾粉丝上头了",
       "category": "society",
       "hotScore": 0.52,
       "freshness": 1,
@@ -234,15 +246,53 @@
           "channel": "baidu",
           "rank": 8,
           "hot": 0,
-          "url": "https://m.baidu.com/s?word=%E8%B6%857%E6%88%90%E8%82%BA%E7%99%8C%E7%97%85%E4%BE%8B%E4%B8%8D%E5%90%B8%E7%83%9F%E6%97%A0%E7%B2%89%E5%B0%98%E6%9A%B4%E9%9C%B2&sa=fyb_news"
+          "url": "https://m.baidu.com/s?word=%E2%80%9C%E5%8C%97%E4%BA%AC%E7%9A%84Luke%E2%80%9D%E8%AE%A9%E5%8F%B0%E6%B9%BE%E7%B2%89%E4%B8%9D%E4%B8%8A%E5%A4%B4%E4%BA%86&sa=fyb_news"
         }
       ],
       "summary": "",
-      "url": "https://m.baidu.com/s?word=%E8%B6%857%E6%88%90%E8%82%BA%E7%99%8C%E7%97%85%E4%BE%8B%E4%B8%8D%E5%90%B8%E7%83%9F%E6%97%A0%E7%B2%89%E5%B0%98%E6%9A%B4%E9%9C%B2&sa=fyb_news"
+      "url": "https://m.baidu.com/s?word=%E2%80%9C%E5%8C%97%E4%BA%AC%E7%9A%84Luke%E2%80%9D%E8%AE%A9%E5%8F%B0%E6%B9%BE%E7%B2%89%E4%B8%9D%E4%B8%8A%E5%A4%B4%E4%BA%86&sa=fyb_news"
     },
     {
-      "id": "evt-icu00000",
-      "title": "马上评｜遗体滞留ICU十小时，患方维权不能越界",
+      "id": "evt-91000000",
+      "title": "91岁奶奶认不出子女却记得89年前的歌",
+      "category": "society",
+      "hotScore": 0.51,
+      "freshness": 1,
+      "crossSource": 0.6309,
+      "totalScore": 0.6933,
+      "sources": [
+        {
+          "channel": "toutiao",
+          "rank": 9,
+          "hot": 6904213,
+          "url": "https://www.toutiao.com/trending/7687845624426823690/"
+        }
+      ],
+      "summary": "",
+      "url": "https://www.toutiao.com/trending/7687845624426823690/"
+    },
+    {
+      "id": "evt-600meta0",
+      "title": "纳指涨近600点 Meta涨超11%",
+      "category": "society",
+      "hotScore": 0.48,
+      "freshness": 1,
+      "crossSource": 0.6309,
+      "totalScore": 0.6813,
+      "sources": [
+        {
+          "channel": "baidu",
+          "rank": 9,
+          "hot": 0,
+          "url": "https://m.baidu.com/s?word=%E7%BA%B3%E6%8C%87%E6%B6%A8%E8%BF%91600%E7%82%B9+Meta%E6%B6%A8%E8%B6%8511%25&sa=fyb_news"
+        }
+      ],
+      "summary": "",
+      "url": "https://m.baidu.com/s?word=%E7%BA%B3%E6%8C%87%E6%B6%A8%E8%BF%91600%E7%82%B9+Meta%E6%B6%A8%E8%B6%8511%25&sa=fyb_news"
+    },
+    {
+      "id": "evt-21000000",
+      "title": "国际油价21日显著下跌",
       "category": "society",
       "hotScore": 0.4675,
       "freshness": 1,
@@ -250,14 +300,14 @@
       "totalScore": 0.6763,
       "sources": [
         {
-          "channel": "thepaper",
+          "channel": "toutiao",
           "rank": 10,
-          "hot": 0,
-          "url": "https://www.thepaper.cn/newsDetail_forward_34114522"
+          "hot": 6247190,
+          "url": "https://www.toutiao.com/trending/7687908298307747883/"
         }
       ],
       "summary": "",
-      "url": "https://www.thepaper.cn/newsDetail_forward_34114522"
+      "url": "https://www.toutiao.com/trending/7687908298307747883/"
     }
   ]
 }
