@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-09-23T08:55:11.424Z",
+  "generatedAt": "2026-09-23T14:31:24.560Z",
   "fields": {
     "society": "社会",
     "economy": "经济",
@@ -7,8 +7,8 @@
   },
   "feed": [
     {
-      "id": "evt-80000000",
-      "title": "中国男足小组第一进8强",
+      "id": "evt-00000000",
+      "title": "习近平离京对美国进行国事访问",
       "category": "society",
       "hotScore": 0.85,
       "freshness": 1,
@@ -16,9 +16,128 @@
       "totalScore": 0.94,
       "sources": [
         {
-          "channel": "toutiao",
+          "channel": "thepaper",
           "rank": 1,
-          "hot": 21912568,
+          "hot": 0,
+          "url": "https://www.thepaper.cn/newsDetail_forward_34133139"
+        },
+        {
+          "channel": "baidu",
+          "rank": 1,
+          "hot": 0,
+          "url": "https://m.baidu.com/s?word=%E4%B9%A0%E8%BF%91%E5%B9%B3%E7%A6%BB%E4%BA%AC%E5%AF%B9%E7%BE%8E%E5%9B%BD%E8%BF%9B%E8%A1%8C%E5%9B%BD%E4%BA%8B%E8%AE%BF%E9%97%AE&sa=fyb_news"
+        }
+      ],
+      "summary": "",
+      "url": "https://www.thepaper.cn/newsDetail_forward_34133139"
+    },
+    {
+      "id": "evt-53000000",
+      "title": "5300多万名老年人享受老年人补贴",
+      "category": "society",
+      "hotScore": 0.7225,
+      "freshness": 1,
+      "crossSource": 1,
+      "totalScore": 0.889,
+      "sources": [
+        {
+          "channel": "toutiao",
+          "rank": 4,
+          "hot": 13600568,
+          "url": "https://www.toutiao.com/trending/7688654789375214106/"
+        },
+        {
+          "channel": "baidu",
+          "rank": 6,
+          "hot": 0,
+          "url": "https://m.baidu.com/s?word=5300%E5%A4%9A%E4%B8%87%E5%90%8D%E8%80%81%E5%B9%B4%E4%BA%BA%E4%BA%AB%E5%8F%97%E8%80%81%E5%B9%B4%E4%BA%BA%E8%A1%A5%E8%B4%B4&sa=fyb_news"
+        }
+      ],
+      "summary": "",
+      "url": "https://www.toutiao.com/trending/7688654789375214106/"
+    },
+    {
+      "id": "evt-13000000",
+      "title": "教育部回应“13岁于子迪亚运夺2金”",
+      "category": "society",
+      "hotScore": 0.6375,
+      "freshness": 1,
+      "crossSource": 1,
+      "totalScore": 0.855,
+      "sources": [
+        {
+          "channel": "toutiao",
+          "rank": 6,
+          "hot": 11135203,
+          "url": "https://www.toutiao.com/trending/7688582303215648818/"
+        },
+        {
+          "channel": "baidu",
+          "rank": 8,
+          "hot": 0,
+          "url": "https://m.baidu.com/s?word=%E6%95%99%E8%82%B2%E9%83%A8%E5%9B%9E%E5%BA%94%E2%80%9C13%E5%B2%81%E4%BA%8E%E5%AD%90%E8%BF%AA%E4%BA%9A%E8%BF%90%E5%A4%BA2%E9%87%91%E2%80%9D&sa=fyb_news"
+        }
+      ],
+      "summary": "",
+      "url": "https://www.toutiao.com/trending/7688582303215648818/"
+    },
+    {
+      "id": "evt-18pro000",
+      "title": "小米18Pro价格",
+      "category": "society",
+      "hotScore": 0.8075,
+      "freshness": 1,
+      "crossSource": 0.6309,
+      "totalScore": 0.8123,
+      "sources": [
+        {
+          "channel": "toutiao",
+          "rank": 2,
+          "hot": 16611771,
+          "url": "https://www.toutiao.com/trending/7688701472178966054/"
+        }
+      ],
+      "summary": "",
+      "url": "https://www.toutiao.com/trending/7688701472178966054/"
+    },
+    {
+      "id": "evt-app00000",
+      "title": "“民惠通APP可发高龄补贴”不实",
+      "category": "society",
+      "hotScore": 0.425,
+      "freshness": 1,
+      "crossSource": 1,
+      "totalScore": 0.77,
+      "sources": [
+        {
+          "channel": "toutiao",
+          "rank": 11,
+          "hot": 6753842,
+          "url": "https://www.toutiao.com/trending/7688309980459024447/"
+        },
+        {
+          "channel": "baidu",
+          "rank": 12,
+          "hot": 0,
+          "url": "https://m.baidu.com/s?word=%E2%80%9C%E6%B0%91%E6%83%A0%E9%80%9AAPP%E5%8F%AF%E5%8F%91%E9%AB%98%E9%BE%84%E8%A1%A5%E8%B4%B4%E2%80%9D%E4%B8%8D%E5%AE%9E&sa=fyb_news"
+        }
+      ],
+      "summary": "",
+      "url": "https://www.toutiao.com/trending/7688309980459024447/"
+    },
+    {
+      "id": "evt-80000000",
+      "title": "中国男足小组第一进8强",
+      "category": "society",
+      "hotScore": 0.68,
+      "freshness": 1,
+      "crossSource": 0.6309,
+      "totalScore": 0.7613,
+      "sources": [
+        {
+          "channel": "toutiao",
+          "rank": 5,
+          "hot": 12306303,
           "url": "https://www.toutiao.com/trending/7688629009797631538/"
         }
       ],
@@ -26,118 +145,99 @@
       "url": "https://www.toutiao.com/trending/7688629009797631538/"
     },
     {
-      "id": "evt-00000000",
-      "title": "上课，请先收起手机！高校推进“无手机课堂”，能帮大学生上好课吗",
-      "category": "society",
-      "hotScore": 0.85,
-      "freshness": 0.9999,
-      "crossSource": 1,
-      "totalScore": 0.94,
-      "sources": [
-        {
-          "channel": "thepaper",
-          "rank": 1,
-          "hot": 0,
-          "url": "https://www.thepaper.cn/newsDetail_forward_34073740"
-        }
-      ],
-      "summary": "",
-      "url": "https://www.thepaper.cn/newsDetail_forward_34073740"
-    },
-    {
-      "id": "evt-48000000",
-      "title": "直播丨第48届世界技能大赛开幕式",
-      "category": "society",
-      "hotScore": 0.765,
-      "freshness": 0.9999,
-      "crossSource": 1,
-      "totalScore": 0.906,
-      "sources": [
-        {
-          "channel": "thepaper",
-          "rank": 3,
-          "hot": 0,
-          "url": "https://www.thepaper.cn/newsDetail_forward_34115183"
-        }
-      ],
-      "summary": "",
-      "url": "https://www.thepaper.cn/newsDetail_forward_34115183"
-    },
-    {
-      "id": "evt-40000000",
-      "title": "韦世豪等4人被确定为国足队长人选",
+      "id": "evt-10000000",
+      "title": "男子购买重疾险10年后确诊结肠癌被拒赔，泰康人寿称系“遗传性疾病”",
       "category": "society",
       "hotScore": 0.68,
       "freshness": 1,
-      "crossSource": 1,
-      "totalScore": 0.872,
+      "crossSource": 0.6309,
+      "totalScore": 0.7613,
       "sources": [
         {
-          "channel": "toutiao",
+          "channel": "thepaper",
           "rank": 5,
-          "hot": 14688433,
-          "url": "https://www.toutiao.com/trending/7688519499414454335/"
-        }
-      ],
-      "summary": "",
-      "url": "https://www.toutiao.com/trending/7688519499414454335/"
-    },
-    {
-      "id": "evt-15000000",
-      "title": "张展硕亚运男子 1500 米自由泳夺冠，从 100 米到 1500 米短中长距离全部通吃世界一流水平，他咋做到的？",
-      "category": "society",
-      "hotScore": 0.6375,
-      "freshness": 0.9999,
-      "crossSource": 1,
-      "totalScore": 0.855,
-      "sources": [
-        {
-          "channel": "zhihu",
-          "rank": 4,
           "hot": 0,
-          "url": ""
+          "url": "https://www.thepaper.cn/newsDetail_forward_34125321"
         }
       ],
       "summary": "",
-      "url": ""
+      "url": "https://www.thepaper.cn/newsDetail_forward_34125321"
     },
     {
-      "id": "evt-26000000",
-      "title": "2天内6省份省委书记调整",
+      "id": "evt-24000000",
+      "title": "华人藏家花费 2400 万元追回疑似圆明园龙首，此事具有哪些意义？",
       "category": "society",
-      "hotScore": 0.5525,
+      "hotScore": 0.675,
       "freshness": 1,
-      "crossSource": 1,
-      "totalScore": 0.821,
-      "sources": [
-        {
-          "channel": "toutiao",
-          "rank": 8,
-          "hot": 10881459,
-          "url": "https://www.toutiao.com/trending/7688588554008182803/"
-        }
-      ],
-      "summary": "",
-      "url": "https://www.toutiao.com/trending/7688588554008182803/"
-    },
-    {
-      "id": "evt-51200000",
-      "title": "老人突发心梗，5 次拨打 120 未能接通后死亡，院方称通信光缆故障，各方应承担怎样的责任？暴露了哪些问题？",
-      "category": "society",
-      "hotScore": 0.4875,
-      "freshness": 0.9999,
-      "crossSource": 1,
-      "totalScore": 0.795,
+      "crossSource": 0.6309,
+      "totalScore": 0.7593,
       "sources": [
         {
           "channel": "zhihu",
-          "rank": 8,
+          "rank": 3,
           "hot": 0,
           "url": ""
         }
       ],
       "summary": "",
       "url": ""
+    },
+    {
+      "id": "evt-95000000",
+      "title": "油价将大幅调整，全国 95 号汽油或全面迈入 9 元时代逼近年内最高价，哪些信息值得关注？",
+      "category": "society",
+      "hotScore": 0.6,
+      "freshness": 1,
+      "crossSource": 0.6309,
+      "totalScore": 0.7293,
+      "sources": [
+        {
+          "channel": "zhihu",
+          "rank": 5,
+          "hot": 0,
+          "url": ""
+        }
+      ],
+      "summary": "",
+      "url": ""
+    },
+    {
+      "id": "evt-aiopen00",
+      "title": "AI“减速”讨论未歇，OpenAI、Anthropic同日上新，竞逐更低成本",
+      "category": "society",
+      "hotScore": 0.595,
+      "freshness": 1,
+      "crossSource": 0.6309,
+      "totalScore": 0.7273,
+      "sources": [
+        {
+          "channel": "thepaper",
+          "rank": 7,
+          "hot": 0,
+          "url": "https://www.thepaper.cn/newsDetail_forward_34130539"
+        }
+      ],
+      "summary": "",
+      "url": "https://www.thepaper.cn/newsDetail_forward_34130539"
+    },
+    {
+      "id": "evt-32000000",
+      "title": "王楚钦3比2险胜林昀儒",
+      "category": "society",
+      "hotScore": 0.4,
+      "freshness": 1,
+      "crossSource": 0.6309,
+      "totalScore": 0.6493,
+      "sources": [
+        {
+          "channel": "baidu",
+          "rank": 11,
+          "hot": 0,
+          "url": "https://m.baidu.com/s?word=%E7%8E%8B%E6%A5%9A%E9%92%A63%E6%AF%942%E9%99%A9%E8%83%9C%E6%9E%97%E6%98%80%E5%84%92&sa=fyb_news"
+        }
+      ],
+      "summary": "",
+      "url": "https://m.baidu.com/s?word=%E7%8E%8B%E6%A5%9A%E9%92%A63%E6%AF%942%E9%99%A9%E8%83%9C%E6%9E%97%E6%98%80%E5%84%92&sa=fyb_news"
     }
   ]
 }
