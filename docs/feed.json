@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-09-23T02:22:03.198Z",
+  "generatedAt": "2026-09-23T08:55:11.424Z",
   "fields": {
     "society": "社会",
     "economy": "经济",
@@ -7,175 +7,93 @@
   },
   "feed": [
     {
-      "id": "evt-00000000",
-      "title": "今日秋分",
+      "id": "evt-80000000",
+      "title": "中国男足小组第一进8强",
       "category": "society",
-      "hotScore": 0.7225,
+      "hotScore": 0.85,
       "freshness": 1,
       "crossSource": 1,
-      "totalScore": 0.889,
+      "totalScore": 0.94,
       "sources": [
         {
           "channel": "toutiao",
-          "rank": 4,
-          "hot": 11172707,
-          "url": "https://www.toutiao.com/trending/7687784613662801929/"
-        },
-        {
-          "channel": "baidu",
-          "rank": 16,
-          "hot": 0,
-          "url": "https://m.baidu.com/s?word=%E4%BB%8A%E6%97%A5%E7%A7%8B%E5%88%86&sa=fyb_news"
+          "rank": 1,
+          "hot": 21912568,
+          "url": "https://www.toutiao.com/trending/7688629009797631538/"
         }
       ],
       "summary": "",
-      "url": "https://www.toutiao.com/trending/7687784613662801929/"
+      "url": "https://www.toutiao.com/trending/7688629009797631538/"
     },
     {
-      "id": "evt-23000000",
-      "title": "中国女排：23天破局续写女排精神",
+      "id": "evt-00000000",
+      "title": "上课，请先收起手机！高校推进“无手机课堂”，能帮大学生上好课吗",
       "category": "society",
-      "hotScore": 0.8075,
-      "freshness": 1,
-      "crossSource": 0.6309,
-      "totalScore": 0.8123,
+      "hotScore": 0.85,
+      "freshness": 0.9999,
+      "crossSource": 1,
+      "totalScore": 0.94,
       "sources": [
         {
-          "channel": "toutiao",
-          "rank": 2,
-          "hot": 13646375,
-          "url": "https://www.toutiao.com/trending/7688406774294183999/"
-        }
-      ],
-      "summary": "",
-      "url": "https://www.toutiao.com/trending/7688406774294183999/"
-    },
-    {
-      "id": "evt-38000000",
-      "title": "38 岁清华毕业生三战高考考上北大医学部，称「希望在热爱的领域做一点有意义的事」，如何看待他的选择？",
-      "category": "society",
-      "hotScore": 0.75,
-      "freshness": 1,
-      "crossSource": 0.6309,
-      "totalScore": 0.7893,
-      "sources": [
-        {
-          "channel": "zhihu",
+          "channel": "thepaper",
           "rank": 1,
           "hot": 0,
-          "url": ""
+          "url": "https://www.thepaper.cn/newsDetail_forward_34073740"
         }
       ],
       "summary": "",
-      "url": ""
+      "url": "https://www.thepaper.cn/newsDetail_forward_34073740"
     },
     {
-      "id": "evt-chinahaul",
-      "title": "“China Haul”火了",
+      "id": "evt-48000000",
+      "title": "直播丨第48届世界技能大赛开幕式",
       "category": "society",
-      "hotScore": 0.72,
-      "freshness": 1,
-      "crossSource": 0.6309,
-      "totalScore": 0.7773,
+      "hotScore": 0.765,
+      "freshness": 0.9999,
+      "crossSource": 1,
+      "totalScore": 0.906,
       "sources": [
         {
-          "channel": "baidu",
+          "channel": "thepaper",
           "rank": 3,
           "hot": 0,
-          "url": "https://m.baidu.com/s?word=%E2%80%9CChina+Haul%E2%80%9D%E7%81%AB%E4%BA%86&sa=fyb_news"
+          "url": "https://www.thepaper.cn/newsDetail_forward_34115183"
         }
       ],
       "summary": "",
-      "url": "https://m.baidu.com/s?word=%E2%80%9CChina+Haul%E2%80%9D%E7%81%AB%E4%BA%86&sa=fyb_news"
+      "url": "https://www.thepaper.cn/newsDetail_forward_34115183"
     },
     {
-      "id": "evt-73000000",
-      "title": "钟南山团队发现 73% 的肺癌病例来自非高危人群，为啥非高危人群占多数？传统肺癌筛查标准需要调整吗？",
-      "category": "society",
-      "hotScore": 0.7125,
-      "freshness": 1,
-      "crossSource": 0.6309,
-      "totalScore": 0.7743,
-      "sources": [
-        {
-          "channel": "zhihu",
-          "rank": 2,
-          "hot": 0,
-          "url": ""
-        }
-      ],
-      "summary": "",
-      "url": ""
-    },
-    {
-      "id": "evt-5g6g0000",
-      "title": "5G+6G 生产生活将有哪些变化",
+      "id": "evt-40000000",
+      "title": "韦世豪等4人被确定为国足队长人选",
       "category": "society",
       "hotScore": 0.68,
       "freshness": 1,
-      "crossSource": 0.6309,
-      "totalScore": 0.7613,
+      "crossSource": 1,
+      "totalScore": 0.872,
       "sources": [
         {
-          "channel": "baidu",
-          "rank": 4,
-          "hot": 0,
-          "url": "https://m.baidu.com/s?word=5G%2B6G+%E7%94%9F%E4%BA%A7%E7%94%9F%E6%B4%BB%E5%B0%86%E6%9C%89%E5%93%AA%E4%BA%9B%E5%8F%98%E5%8C%96&sa=fyb_news"
+          "channel": "toutiao",
+          "rank": 5,
+          "hot": 14688433,
+          "url": "https://www.toutiao.com/trending/7688519499414454335/"
         }
       ],
       "summary": "",
-      "url": "https://m.baidu.com/s?word=5G%2B6G+%E7%94%9F%E4%BA%A7%E7%94%9F%E6%B4%BB%E5%B0%86%E6%9C%89%E5%93%AA%E4%BA%9B%E5%8F%98%E5%8C%96&sa=fyb_news"
+      "url": "https://www.toutiao.com/trending/7688519499414454335/"
     },
     {
-      "id": "evt-70000000",
-      "title": "班主任发准考证照片 7名同学志愿被改",
+      "id": "evt-15000000",
+      "title": "张展硕亚运男子 1500 米自由泳夺冠，从 100 米到 1500 米短中长距离全部通吃世界一流水平，他咋做到的？",
       "category": "society",
-      "hotScore": 0.6,
-      "freshness": 1,
-      "crossSource": 0.6309,
-      "totalScore": 0.7293,
-      "sources": [
-        {
-          "channel": "baidu",
-          "rank": 6,
-          "hot": 0,
-          "url": "https://m.baidu.com/s?word=%E7%8F%AD%E4%B8%BB%E4%BB%BB%E5%8F%91%E5%87%86%E8%80%83%E8%AF%81%E7%85%A7%E7%89%87+7%E5%90%8D%E5%90%8C%E5%AD%A6%E5%BF%97%E6%84%BF%E8%A2%AB%E6%94%B9&sa=fyb_news"
-        }
-      ],
-      "summary": "",
-      "url": "https://m.baidu.com/s?word=%E7%8F%AD%E4%B8%BB%E4%BB%BB%E5%8F%91%E5%87%86%E8%80%83%E8%AF%81%E7%85%A7%E7%89%87+7%E5%90%8D%E5%90%8C%E5%AD%A6%E5%BF%97%E6%84%BF%E8%A2%AB%E6%94%B9&sa=fyb_news"
-    },
-    {
-      "id": "evt-10000000",
-      "title": "螃蟹哪里不能吃 1分钟学会",
-      "category": "society",
-      "hotScore": 0.56,
-      "freshness": 1,
-      "crossSource": 0.6309,
-      "totalScore": 0.7133,
-      "sources": [
-        {
-          "channel": "baidu",
-          "rank": 7,
-          "hot": 0,
-          "url": "https://m.baidu.com/s?word=%E8%9E%83%E8%9F%B9%E5%93%AA%E9%87%8C%E4%B8%8D%E8%83%BD%E5%90%83+1%E5%88%86%E9%92%9F%E5%AD%A6%E4%BC%9A&sa=fyb_news"
-        }
-      ],
-      "summary": "",
-      "url": "https://m.baidu.com/s?word=%E8%9E%83%E8%9F%B9%E5%93%AA%E9%87%8C%E4%B8%8D%E8%83%BD%E5%90%83+1%E5%88%86%E9%92%9F%E5%AD%A6%E4%BC%9A&sa=fyb_news"
-    },
-    {
-      "id": "evt-iphone18pro",
-      "title": "iPhone18Pro 大容量闪存被曝切为 QLC 颗粒，这会带来哪些性能与体验影响？",
-      "category": "society",
-      "hotScore": 0.525,
-      "freshness": 1,
-      "crossSource": 0.6309,
-      "totalScore": 0.6993,
+      "hotScore": 0.6375,
+      "freshness": 0.9999,
+      "crossSource": 1,
+      "totalScore": 0.855,
       "sources": [
         {
           "channel": "zhihu",
-          "rank": 7,
+          "rank": 4,
           "hot": 0,
           "url": ""
         }
@@ -184,80 +102,42 @@
       "url": ""
     },
     {
-      "id": "evt-a0000000",
-      "title": "A股年内最低价新股开盘大涨580.75%",
+      "id": "evt-26000000",
+      "title": "2天内6省份省委书记调整",
       "category": "society",
-      "hotScore": 0.52,
+      "hotScore": 0.5525,
       "freshness": 1,
-      "crossSource": 0.6309,
-      "totalScore": 0.6973,
+      "crossSource": 1,
+      "totalScore": 0.821,
       "sources": [
         {
-          "channel": "baidu",
+          "channel": "toutiao",
+          "rank": 8,
+          "hot": 10881459,
+          "url": "https://www.toutiao.com/trending/7688588554008182803/"
+        }
+      ],
+      "summary": "",
+      "url": "https://www.toutiao.com/trending/7688588554008182803/"
+    },
+    {
+      "id": "evt-51200000",
+      "title": "老人突发心梗，5 次拨打 120 未能接通后死亡，院方称通信光缆故障，各方应承担怎样的责任？暴露了哪些问题？",
+      "category": "society",
+      "hotScore": 0.4875,
+      "freshness": 0.9999,
+      "crossSource": 1,
+      "totalScore": 0.795,
+      "sources": [
+        {
+          "channel": "zhihu",
           "rank": 8,
           "hot": 0,
-          "url": "https://m.baidu.com/s?word=A%E8%82%A1%E5%B9%B4%E5%86%85%E6%9C%80%E4%BD%8E%E4%BB%B7%E6%96%B0%E8%82%A1%E5%BC%80%E7%9B%98%E5%A4%A7%E6%B6%A8580.75%25&sa=fyb_news"
+          "url": ""
         }
       ],
       "summary": "",
-      "url": "https://m.baidu.com/s?word=A%E8%82%A1%E5%B9%B4%E5%86%85%E6%9C%80%E4%BD%8E%E4%BB%B7%E6%96%B0%E8%82%A1%E5%BC%80%E7%9B%98%E5%A4%A7%E6%B6%A8580.75%25&sa=fyb_news"
-    },
-    {
-      "id": "evt-24000000",
-      "title": "还未见顶：2-4个月后超强厄尔尼诺才迎峰值，关键海区已逼近历史极值",
-      "category": "society",
-      "hotScore": 0.51,
-      "freshness": 1,
-      "crossSource": 0.6309,
-      "totalScore": 0.6933,
-      "sources": [
-        {
-          "channel": "thepaper",
-          "rank": 9,
-          "hot": 0,
-          "url": "https://www.thepaper.cn/newsDetail_forward_34122696"
-        }
-      ],
-      "summary": "",
-      "url": "https://www.thepaper.cn/newsDetail_forward_34122696"
-    },
-    {
-      "id": "evt-11000000",
-      "title": "11岁男孩一口流利英语帮邻居谈下大单",
-      "category": "society",
-      "hotScore": 0.48,
-      "freshness": 1,
-      "crossSource": 0.6309,
-      "totalScore": 0.6813,
-      "sources": [
-        {
-          "channel": "baidu",
-          "rank": 9,
-          "hot": 0,
-          "url": "https://m.baidu.com/s?word=11%E5%B2%81%E7%94%B7%E5%AD%A9%E4%B8%80%E5%8F%A3%E6%B5%81%E5%88%A9%E8%8B%B1%E8%AF%AD%E5%B8%AE%E9%82%BB%E5%B1%85%E8%B0%88%E4%B8%8B%E5%A4%A7%E5%8D%95&sa=fyb_news"
-        }
-      ],
-      "summary": "",
-      "url": "https://m.baidu.com/s?word=11%E5%B2%81%E7%94%B7%E5%AD%A9%E4%B8%80%E5%8F%A3%E6%B5%81%E5%88%A9%E8%8B%B1%E8%AF%AD%E5%B8%AE%E9%82%BB%E5%B1%85%E8%B0%88%E4%B8%8B%E5%A4%A7%E5%8D%95&sa=fyb_news"
-    },
-    {
-      "id": "evt-16000000",
-      "title": "马上评｜16岁少年强奸案，追问“法定代理人到场权”的落实",
-      "category": "society",
-      "hotScore": 0.4675,
-      "freshness": 1,
-      "crossSource": 0.6309,
-      "totalScore": 0.6763,
-      "sources": [
-        {
-          "channel": "thepaper",
-          "rank": 10,
-          "hot": 0,
-          "url": "https://www.thepaper.cn/newsDetail_forward_34122861"
-        }
-      ],
-      "summary": "",
-      "url": "https://www.thepaper.cn/newsDetail_forward_34122861"
+      "url": ""
     }
   ]
 }
