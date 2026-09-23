@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-09-23T14:31:24.560Z",
+  "generatedAt": "2026-09-23T19:18:54.456Z",
   "fields": {
     "society": "社会",
     "economy": "经济",
@@ -23,7 +23,7 @@
         },
         {
           "channel": "baidu",
-          "rank": 1,
+          "rank": 2,
           "hot": 0,
           "url": "https://m.baidu.com/s?word=%E4%B9%A0%E8%BF%91%E5%B9%B3%E7%A6%BB%E4%BA%AC%E5%AF%B9%E7%BE%8E%E5%9B%BD%E8%BF%9B%E8%A1%8C%E5%9B%BD%E4%BA%8B%E8%AE%BF%E9%97%AE&sa=fyb_news"
         }
@@ -36,19 +36,19 @@
       "title": "5300多万名老年人享受老年人补贴",
       "category": "society",
       "hotScore": 0.7225,
-      "freshness": 1,
+      "freshness": 0.9999,
       "crossSource": 1,
       "totalScore": 0.889,
       "sources": [
         {
           "channel": "toutiao",
           "rank": 4,
-          "hot": 13600568,
+          "hot": 14692747,
           "url": "https://www.toutiao.com/trending/7688654789375214106/"
         },
         {
           "channel": "baidu",
-          "rank": 6,
+          "rank": 7,
           "hot": 0,
           "url": "https://m.baidu.com/s?word=5300%E5%A4%9A%E4%B8%87%E5%90%8D%E8%80%81%E5%B9%B4%E4%BA%BA%E4%BA%AB%E5%8F%97%E8%80%81%E5%B9%B4%E4%BA%BA%E8%A1%A5%E8%B4%B4&sa=fyb_news"
         }
@@ -61,19 +61,19 @@
       "title": "教育部回应“13岁于子迪亚运夺2金”",
       "category": "society",
       "hotScore": 0.6375,
-      "freshness": 1,
+      "freshness": 0.9999,
       "crossSource": 1,
       "totalScore": 0.855,
       "sources": [
         {
           "channel": "toutiao",
           "rank": 6,
-          "hot": 11135203,
+          "hot": 12029404,
           "url": "https://www.toutiao.com/trending/7688582303215648818/"
         },
         {
           "channel": "baidu",
-          "rank": 8,
+          "rank": 17,
           "hot": 0,
           "url": "https://m.baidu.com/s?word=%E6%95%99%E8%82%B2%E9%83%A8%E5%9B%9E%E5%BA%94%E2%80%9C13%E5%B2%81%E4%BA%8E%E5%AD%90%E8%BF%AA%E4%BA%9A%E8%BF%90%E5%A4%BA2%E9%87%91%E2%80%9D&sa=fyb_news"
         }
@@ -82,8 +82,8 @@
       "url": "https://www.toutiao.com/trending/7688582303215648818/"
     },
     {
-      "id": "evt-18pro000",
-      "title": "小米18Pro价格",
+      "id": "evt-60000000",
+      "title": "涉案金额超60亿，公安机关打掉一跨国民族资产解冻类诈骗团伙",
       "category": "society",
       "hotScore": 0.8075,
       "freshness": 1,
@@ -91,9 +91,28 @@
       "totalScore": 0.8123,
       "sources": [
         {
+          "channel": "thepaper",
+          "rank": 2,
+          "hot": 0,
+          "url": "https://www.thepaper.cn/newsDetail_forward_34134763"
+        }
+      ],
+      "summary": "",
+      "url": "https://www.thepaper.cn/newsDetail_forward_34134763"
+    },
+    {
+      "id": "evt-18pro000",
+      "title": "小米18Pro价格",
+      "category": "society",
+      "hotScore": 0.8075,
+      "freshness": 0.9999,
+      "crossSource": 0.6309,
+      "totalScore": 0.8122,
+      "sources": [
+        {
           "channel": "toutiao",
           "rank": 2,
-          "hot": 16611771,
+          "hot": 17945762,
           "url": "https://www.toutiao.com/trending/7688701472178966054/"
         }
       ],
@@ -101,18 +120,37 @@
       "url": "https://www.toutiao.com/trending/7688701472178966054/"
     },
     {
+      "id": "evt-24000000",
+      "title": "华人藏家花费 2400 万元追回疑似圆明园龙首，此事具有哪些意义？",
+      "category": "society",
+      "hotScore": 0.75,
+      "freshness": 0.9999,
+      "crossSource": 0.6309,
+      "totalScore": 0.7893,
+      "sources": [
+        {
+          "channel": "zhihu",
+          "rank": 1,
+          "hot": 0,
+          "url": ""
+        }
+      ],
+      "summary": "",
+      "url": ""
+    },
+    {
       "id": "evt-app00000",
       "title": "“民惠通APP可发高龄补贴”不实",
       "category": "society",
       "hotScore": 0.425,
-      "freshness": 1,
+      "freshness": 0.9999,
       "crossSource": 1,
       "totalScore": 0.77,
       "sources": [
         {
           "channel": "toutiao",
           "rank": 11,
-          "hot": 6753842,
+          "hot": 7296202,
           "url": "https://www.toutiao.com/trending/7688309980459024447/"
         },
         {
@@ -130,14 +168,14 @@
       "title": "中国男足小组第一进8强",
       "category": "society",
       "hotScore": 0.68,
-      "freshness": 1,
+      "freshness": 0.9999,
       "crossSource": 0.6309,
-      "totalScore": 0.7613,
+      "totalScore": 0.7612,
       "sources": [
         {
           "channel": "toutiao",
           "rank": 5,
-          "hot": 12306303,
+          "hot": 13294547,
           "url": "https://www.toutiao.com/trending/7688629009797631538/"
         }
       ],
@@ -145,36 +183,17 @@
       "url": "https://www.toutiao.com/trending/7688629009797631538/"
     },
     {
-      "id": "evt-10000000",
-      "title": "男子购买重疾险10年后确诊结肠癌被拒赔，泰康人寿称系“遗传性疾病”",
+      "id": "evt-95000000",
+      "title": "油价将大幅调整，全国 95 号汽油或全面迈入 9 元时代逼近年内最高价，哪些信息值得关注？",
       "category": "society",
-      "hotScore": 0.68,
-      "freshness": 1,
+      "hotScore": 0.6375,
+      "freshness": 0.9999,
       "crossSource": 0.6309,
-      "totalScore": 0.7613,
-      "sources": [
-        {
-          "channel": "thepaper",
-          "rank": 5,
-          "hot": 0,
-          "url": "https://www.thepaper.cn/newsDetail_forward_34125321"
-        }
-      ],
-      "summary": "",
-      "url": "https://www.thepaper.cn/newsDetail_forward_34125321"
-    },
-    {
-      "id": "evt-24000000",
-      "title": "华人藏家花费 2400 万元追回疑似圆明园龙首，此事具有哪些意义？",
-      "category": "society",
-      "hotScore": 0.675,
-      "freshness": 1,
-      "crossSource": 0.6309,
-      "totalScore": 0.7593,
+      "totalScore": 0.7443,
       "sources": [
         {
           "channel": "zhihu",
-          "rank": 3,
+          "rank": 4,
           "hot": 0,
           "url": ""
         }
@@ -183,11 +202,30 @@
       "url": ""
     },
     {
-      "id": "evt-95000000",
-      "title": "油价将大幅调整，全国 95 号汽油或全面迈入 9 元时代逼近年内最高价，哪些信息值得关注？",
+      "id": "evt-10000000",
+      "title": "男子购买重疾险10年后确诊结肠癌被拒赔，泰康人寿称系“遗传性疾病”",
+      "category": "society",
+      "hotScore": 0.6375,
+      "freshness": 1,
+      "crossSource": 0.6309,
+      "totalScore": 0.7443,
+      "sources": [
+        {
+          "channel": "thepaper",
+          "rank": 6,
+          "hot": 0,
+          "url": "https://www.thepaper.cn/newsDetail_forward_34125321"
+        }
+      ],
+      "summary": "",
+      "url": "https://www.thepaper.cn/newsDetail_forward_34125321"
+    },
+    {
+      "id": "evt-ai000000",
+      "title": "腾讯放弃 AI 元宝全力押注 WorkBuddy，这次战略转型算成功吗？",
       "category": "society",
       "hotScore": 0.6,
-      "freshness": 1,
+      "freshness": 0.9999,
       "crossSource": 0.6309,
       "totalScore": 0.7293,
       "sources": [
@@ -205,14 +243,14 @@
       "id": "evt-aiopen00",
       "title": "AI“减速”讨论未歇，OpenAI、Anthropic同日上新，竞逐更低成本",
       "category": "society",
-      "hotScore": 0.595,
+      "hotScore": 0.51,
       "freshness": 1,
       "crossSource": 0.6309,
-      "totalScore": 0.7273,
+      "totalScore": 0.6933,
       "sources": [
         {
           "channel": "thepaper",
-          "rank": 7,
+          "rank": 9,
           "hot": 0,
           "url": "https://www.thepaper.cn/newsDetail_forward_34130539"
         }
@@ -221,23 +259,23 @@
       "url": "https://www.thepaper.cn/newsDetail_forward_34130539"
     },
     {
-      "id": "evt-32000000",
-      "title": "王楚钦3比2险胜林昀儒",
+      "id": "evt-ios272be",
+      "title": "如何看待 iOS 27.2 Beta2 国区新增功能，可限制 App 获取运动传感器数据，或应对摇一摇广告？",
       "category": "society",
-      "hotScore": 0.4,
-      "freshness": 1,
+      "hotScore": 0.4125,
+      "freshness": 0.9999,
       "crossSource": 0.6309,
-      "totalScore": 0.6493,
+      "totalScore": 0.6543,
       "sources": [
         {
-          "channel": "baidu",
-          "rank": 11,
+          "channel": "zhihu",
+          "rank": 10,
           "hot": 0,
-          "url": "https://m.baidu.com/s?word=%E7%8E%8B%E6%A5%9A%E9%92%A63%E6%AF%942%E9%99%A9%E8%83%9C%E6%9E%97%E6%98%80%E5%84%92&sa=fyb_news"
+          "url": ""
         }
       ],
       "summary": "",
-      "url": "https://m.baidu.com/s?word=%E7%8E%8B%E6%A5%9A%E9%92%A63%E6%AF%942%E9%99%A9%E8%83%9C%E6%9E%97%E6%98%80%E5%84%92&sa=fyb_news"
+      "url": ""
     }
   ]
 }
