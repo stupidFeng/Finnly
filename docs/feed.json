@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-09-24T02:10:07.971Z",
+  "generatedAt": "2026-09-24T08:50:50.011Z",
   "fields": {
     "society": "社会",
     "economy": "经济",
@@ -10,15 +10,15 @@
       "id": "evt-00000000",
       "title": "习近平：中美应该成为伙伴而不是对手",
       "category": "society",
-      "hotScore": 0.8075,
-      "freshness": 0.9999,
+      "hotScore": 0.85,
+      "freshness": 1,
       "crossSource": 1,
-      "totalScore": 0.923,
+      "totalScore": 0.94,
       "sources": [
         {
           "channel": "toutiao",
-          "rank": 2,
-          "hot": 22567655,
+          "rank": 1,
+          "hot": 34822103,
           "url": "https://www.toutiao.com/trending/7688885679731904009/"
         },
         {
@@ -35,14 +35,14 @@
       "id": "evt-51250000",
       "title": "5年增长125%！中国学者在三大顶刊发文数激增背后的中国科研之变",
       "category": "society",
-      "hotScore": 0.8075,
-      "freshness": 0.9999,
+      "hotScore": 0.7225,
+      "freshness": 1,
       "crossSource": 0.6309,
-      "totalScore": 0.8123,
+      "totalScore": 0.7783,
       "sources": [
         {
           "channel": "thepaper",
-          "rank": 2,
+          "rank": 4,
           "hot": 0,
           "url": "https://www.thepaper.cn/newsDetail_forward_33809349"
         }
@@ -51,17 +51,36 @@
       "url": "https://www.thepaper.cn/newsDetail_forward_33809349"
     },
     {
+      "id": "evt-vs000000",
+      "title": "陪看国乒男团vs日本",
+      "category": "society",
+      "hotScore": 0.68,
+      "freshness": 1,
+      "crossSource": 0.6309,
+      "totalScore": 0.7613,
+      "sources": [
+        {
+          "channel": "toutiao",
+          "rank": 5,
+          "hot": 23341953,
+          "url": "https://www.toutiao.com/trending/7688135615028674623/"
+        }
+      ],
+      "summary": "",
+      "url": "https://www.toutiao.com/trending/7688135615028674623/"
+    },
+    {
       "id": "evt-60000000",
       "title": "涉案金额超60亿，公安机关打掉一跨国民族资产解冻类诈骗团伙",
       "category": "society",
-      "hotScore": 0.765,
-      "freshness": 0.9999,
+      "hotScore": 0.68,
+      "freshness": 1,
       "crossSource": 0.6309,
-      "totalScore": 0.7953,
+      "totalScore": 0.7613,
       "sources": [
         {
           "channel": "thepaper",
-          "rank": 3,
+          "rank": 5,
           "hot": 0,
           "url": "https://www.thepaper.cn/newsDetail_forward_34134763"
         }
@@ -70,36 +89,11 @@
       "url": "https://www.thepaper.cn/newsDetail_forward_34134763"
     },
     {
-      "id": "evt-app00000",
-      "title": "“民惠通APP可发高龄补贴”不实",
-      "category": "society",
-      "hotScore": 0.425,
-      "freshness": 0.9999,
-      "crossSource": 1,
-      "totalScore": 0.77,
-      "sources": [
-        {
-          "channel": "toutiao",
-          "rank": 11,
-          "hot": 9175323,
-          "url": "https://www.toutiao.com/trending/7688309980459024447/"
-        },
-        {
-          "channel": "baidu",
-          "rank": 12,
-          "hot": 0,
-          "url": "https://m.baidu.com/s?word=%E2%80%9C%E6%B0%91%E6%83%A0%E9%80%9AAPP%E5%8F%AF%E5%8F%91%E9%AB%98%E9%BE%84%E8%A1%A5%E8%B4%B4%E2%80%9D%E4%B8%8D%E5%AE%9E&sa=fyb_news"
-        }
-      ],
-      "summary": "",
-      "url": "https://www.toutiao.com/trending/7688309980459024447/"
-    },
-    {
-      "id": "evt-deepseek",
-      "title": "怎么看 DeepSeek 的梁文锋署名的 Agent 训练论文 DSec？",
+      "id": "evt-50000000",
+      "title": "考公上岸和互联网年薪 50 万，哪个才是真正的上岸？",
       "category": "society",
       "hotScore": 0.6,
-      "freshness": 0.9999,
+      "freshness": 1,
       "crossSource": 0.6309,
       "totalScore": 0.7293,
       "sources": [
@@ -114,36 +108,74 @@
       "url": ""
     },
     {
-      "id": "evt-aiopen00",
-      "title": "AI“减速”讨论未歇，OpenAI、Anthropic同日上新，竞逐更低成本",
+      "id": "evt-12100000",
+      "title": "张子宇12投10中",
       "category": "society",
       "hotScore": 0.595,
-      "freshness": 0.9999,
+      "freshness": 1,
       "crossSource": 0.6309,
       "totalScore": 0.7273,
       "sources": [
         {
-          "channel": "thepaper",
+          "channel": "toutiao",
           "rank": 7,
-          "hot": 0,
-          "url": "https://www.thepaper.cn/newsDetail_forward_34130539"
+          "hot": 19110775,
+          "url": "https://www.toutiao.com/trending/7688605480479670335/"
         }
       ],
       "summary": "",
-      "url": "https://www.thepaper.cn/newsDetail_forward_34130539"
+      "url": "https://www.toutiao.com/trending/7688605480479670335/"
     },
     {
-      "id": "evt-70000000",
-      "title": "姚明做了 7 年篮协主席，无法改变中国男篮，中国男篮的病灶到底有多深？未来谁来破局？",
+      "id": "evt-19620000",
+      "title": "大外交·现场｜1962年后首次：美国总统亲赴机场迎接释放何种讯息？",
       "category": "society",
-      "hotScore": 0.525,
-      "freshness": 0.9999,
+      "hotScore": 0.5525,
+      "freshness": 1,
       "crossSource": 0.6309,
-      "totalScore": 0.6993,
+      "totalScore": 0.7103,
+      "sources": [
+        {
+          "channel": "thepaper",
+          "rank": 8,
+          "hot": 0,
+          "url": "https://www.thepaper.cn/newsDetail_forward_34138752"
+        }
+      ],
+      "summary": "",
+      "url": "https://www.thepaper.cn/newsDetail_forward_34138752"
+    },
+    {
+      "id": "evt-aia00000",
+      "title": "“AI教父”辛顿答澎湃：在让AI学会关怀人类之前，不应开发超级智能",
+      "category": "society",
+      "hotScore": 0.4675,
+      "freshness": 1,
+      "crossSource": 0.6309,
+      "totalScore": 0.6763,
+      "sources": [
+        {
+          "channel": "thepaper",
+          "rank": 10,
+          "hot": 0,
+          "url": "https://www.thepaper.cn/newsDetail_forward_34132966"
+        }
+      ],
+      "summary": "",
+      "url": "https://www.thepaper.cn/newsDetail_forward_34132966"
+    },
+    {
+      "id": "evt-qcla0000",
+      "title": "如何评价腾讯「龙虾」QClaw 将正式停止运营，用户可申请退款，也可将数据迁移至 WorkBuddy？",
+      "category": "society",
+      "hotScore": 0.45,
+      "freshness": 1,
+      "crossSource": 0.6309,
+      "totalScore": 0.6693,
       "sources": [
         {
           "channel": "zhihu",
-          "rank": 7,
+          "rank": 9,
           "hot": 0,
           "url": ""
         }
