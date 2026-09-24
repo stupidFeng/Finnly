@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-09-24T08:50:50.011Z",
+  "generatedAt": "2026-09-24T14:30:47.279Z",
   "fields": {
     "society": "社会",
     "economy": "经济",
@@ -8,136 +8,60 @@
   "feed": [
     {
       "id": "evt-00000000",
-      "title": "习近平：中美应该成为伙伴而不是对手",
+      "title": "习近平出席特朗普举行的欢迎仪式",
       "category": "society",
       "hotScore": 0.85,
-      "freshness": 1,
+      "freshness": 0.9998,
       "crossSource": 1,
-      "totalScore": 0.94,
+      "totalScore": 0.9399,
       "sources": [
         {
           "channel": "toutiao",
           "rank": 1,
-          "hot": 34822103,
-          "url": "https://www.toutiao.com/trending/7688885679731904009/"
+          "hot": 45147307,
+          "url": "https://www.toutiao.com/trending/7688885007091351602/"
         },
         {
           "channel": "baidu",
           "rank": 2,
           "hot": 0,
-          "url": "https://m.baidu.com/s?word=%E4%B9%A0%E8%BF%91%E5%B9%B3%EF%BC%9A%E4%B8%AD%E7%BE%8E%E5%BA%94%E8%AF%A5%E6%88%90%E4%B8%BA%E4%BC%99%E4%BC%B4%E8%80%8C%E4%B8%8D%E6%98%AF%E5%AF%B9%E6%89%8B&sa=fyb_news"
+          "url": "https://m.baidu.com/s?word=%E4%B9%A0%E8%BF%91%E5%B9%B3%E5%87%BA%E5%B8%AD%E7%89%B9%E6%9C%97%E6%99%AE%E4%B8%BE%E8%A1%8C%E7%9A%84%E6%AC%A2%E8%BF%8E%E4%BB%AA%E5%BC%8F&sa=fyb_news"
         }
       ],
       "summary": "",
-      "url": "https://www.toutiao.com/trending/7688885679731904009/"
+      "url": "https://www.toutiao.com/trending/7688885007091351602/"
     },
     {
-      "id": "evt-51250000",
-      "title": "5年增长125%！中国学者在三大顶刊发文数激增背后的中国科研之变",
+      "id": "evt-80000000",
+      "title": "习近平主席抵达华盛顿，80秒看美方高规格迎接",
       "category": "society",
-      "hotScore": 0.7225,
-      "freshness": 1,
+      "hotScore": 0.85,
+      "freshness": 0.9999,
       "crossSource": 0.6309,
-      "totalScore": 0.7783,
+      "totalScore": 0.8293,
       "sources": [
         {
           "channel": "thepaper",
-          "rank": 4,
+          "rank": 1,
           "hot": 0,
-          "url": "https://www.thepaper.cn/newsDetail_forward_33809349"
+          "url": "https://www.thepaper.cn/newsDetail_forward_34141792"
         }
       ],
       "summary": "",
-      "url": "https://www.thepaper.cn/newsDetail_forward_33809349"
-    },
-    {
-      "id": "evt-vs000000",
-      "title": "陪看国乒男团vs日本",
-      "category": "society",
-      "hotScore": 0.68,
-      "freshness": 1,
-      "crossSource": 0.6309,
-      "totalScore": 0.7613,
-      "sources": [
-        {
-          "channel": "toutiao",
-          "rank": 5,
-          "hot": 23341953,
-          "url": "https://www.toutiao.com/trending/7688135615028674623/"
-        }
-      ],
-      "summary": "",
-      "url": "https://www.toutiao.com/trending/7688135615028674623/"
-    },
-    {
-      "id": "evt-60000000",
-      "title": "涉案金额超60亿，公安机关打掉一跨国民族资产解冻类诈骗团伙",
-      "category": "society",
-      "hotScore": 0.68,
-      "freshness": 1,
-      "crossSource": 0.6309,
-      "totalScore": 0.7613,
-      "sources": [
-        {
-          "channel": "thepaper",
-          "rank": 5,
-          "hot": 0,
-          "url": "https://www.thepaper.cn/newsDetail_forward_34134763"
-        }
-      ],
-      "summary": "",
-      "url": "https://www.thepaper.cn/newsDetail_forward_34134763"
-    },
-    {
-      "id": "evt-50000000",
-      "title": "考公上岸和互联网年薪 50 万，哪个才是真正的上岸？",
-      "category": "society",
-      "hotScore": 0.6,
-      "freshness": 1,
-      "crossSource": 0.6309,
-      "totalScore": 0.7293,
-      "sources": [
-        {
-          "channel": "zhihu",
-          "rank": 5,
-          "hot": 0,
-          "url": ""
-        }
-      ],
-      "summary": "",
-      "url": ""
-    },
-    {
-      "id": "evt-12100000",
-      "title": "张子宇12投10中",
-      "category": "society",
-      "hotScore": 0.595,
-      "freshness": 1,
-      "crossSource": 0.6309,
-      "totalScore": 0.7273,
-      "sources": [
-        {
-          "channel": "toutiao",
-          "rank": 7,
-          "hot": 19110775,
-          "url": "https://www.toutiao.com/trending/7688605480479670335/"
-        }
-      ],
-      "summary": "",
-      "url": "https://www.toutiao.com/trending/7688605480479670335/"
+      "url": "https://www.thepaper.cn/newsDetail_forward_34141792"
     },
     {
       "id": "evt-19620000",
       "title": "大外交·现场｜1962年后首次：美国总统亲赴机场迎接释放何种讯息？",
       "category": "society",
-      "hotScore": 0.5525,
-      "freshness": 1,
+      "hotScore": 0.8075,
+      "freshness": 0.9999,
       "crossSource": 0.6309,
-      "totalScore": 0.7103,
+      "totalScore": 0.8123,
       "sources": [
         {
           "channel": "thepaper",
-          "rank": 8,
+          "rank": 2,
           "hot": 0,
           "url": "https://www.thepaper.cn/newsDetail_forward_34138752"
         }
@@ -146,17 +70,74 @@
       "url": "https://www.thepaper.cn/newsDetail_forward_34138752"
     },
     {
+      "id": "evt-30000000",
+      "title": "国乒女团3-0横扫日本豪取六连冠",
+      "category": "society",
+      "hotScore": 0.8075,
+      "freshness": 0.9998,
+      "crossSource": 0.6309,
+      "totalScore": 0.8122,
+      "sources": [
+        {
+          "channel": "toutiao",
+          "rank": 2,
+          "hot": 40850973,
+          "url": "https://www.toutiao.com/trending/7689091107527036466/"
+        }
+      ],
+      "summary": "",
+      "url": "https://www.toutiao.com/trending/7689091107527036466/"
+    },
+    {
+      "id": "evt-20000000",
+      "title": "亚运乒乓球男团决赛，中国 2-3 日本，王楚钦不敌张本成胜负手，如何评价本场比赛？",
+      "category": "society",
+      "hotScore": 0.7125,
+      "freshness": 0.9998,
+      "crossSource": 0.6309,
+      "totalScore": 0.7742,
+      "sources": [
+        {
+          "channel": "zhihu",
+          "rank": 2,
+          "hot": 0,
+          "url": ""
+        }
+      ],
+      "summary": "",
+      "url": ""
+    },
+    {
+      "id": "evt-63000000",
+      "title": "国乒女团亚运6连冠 3-0横扫日本",
+      "category": "society",
+      "hotScore": 0.64,
+      "freshness": 1,
+      "crossSource": 0.6309,
+      "totalScore": 0.7453,
+      "sources": [
+        {
+          "channel": "baidu",
+          "rank": 5,
+          "hot": 0,
+          "url": "https://m.baidu.com/s?word=%E5%9B%BD%E4%B9%92%E5%A5%B3%E5%9B%A2%E4%BA%9A%E8%BF%906%E8%BF%9E%E5%86%A0+3-0%E6%A8%AA%E6%89%AB%E6%97%A5%E6%9C%AC&sa=fyb_news"
+        }
+      ],
+      "summary": "",
+      "url": "https://m.baidu.com/s?word=%E5%9B%BD%E4%B9%92%E5%A5%B3%E5%9B%A2%E4%BA%9A%E8%BF%906%E8%BF%9E%E5%86%A0+3-0%E6%A8%AA%E6%89%AB%E6%97%A5%E6%9C%AC&sa=fyb_news"
+    },
+    {
       "id": "evt-aia00000",
       "title": "“AI教父”辛顿答澎湃：在让AI学会关怀人类之前，不应开发超级智能",
       "category": "society",
-      "hotScore": 0.4675,
-      "freshness": 1,
+      "hotScore": 0.6375,
+      "freshness": 0.9999,
       "crossSource": 0.6309,
-      "totalScore": 0.6763,
+      "totalScore": 0.7443,
       "sources": [
         {
           "channel": "thepaper",
-          "rank": 10,
+          "rank": 6,
           "hot": 0,
           "url": "https://www.thepaper.cn/newsDetail_forward_34132966"
         }
@@ -165,13 +146,51 @@
       "url": "https://www.thepaper.cn/newsDetail_forward_34132966"
     },
     {
-      "id": "evt-qcla0000",
-      "title": "如何评价腾讯「龙虾」QClaw 将正式停止运营，用户可申请退款，也可将数据迁移至 WorkBuddy？",
+      "id": "evt-anthropiccl",
+      "title": "Anthropic 称 Claude 发现类 CRISPR 新型酶系统，这项研究具有哪些意义？",
+      "category": "society",
+      "hotScore": 0.525,
+      "freshness": 0.9998,
+      "crossSource": 0.6309,
+      "totalScore": 0.6992,
+      "sources": [
+        {
+          "channel": "zhihu",
+          "rank": 7,
+          "hot": 0,
+          "url": ""
+        }
+      ],
+      "summary": "",
+      "url": ""
+    },
+    {
+      "id": "evt-z0000000",
+      "title": "美国Z世代的“非常中国时刻”",
+      "category": "society",
+      "hotScore": 0.51,
+      "freshness": 0.9998,
+      "crossSource": 0.6309,
+      "totalScore": 0.6932,
+      "sources": [
+        {
+          "channel": "toutiao",
+          "rank": 9,
+          "hot": 20285992,
+          "url": "https://www.toutiao.com/trending/7688938509055410203/"
+        }
+      ],
+      "summary": "",
+      "url": "https://www.toutiao.com/trending/7688938509055410203/"
+    },
+    {
+      "id": "evt-14000000",
+      "title": "亚运男足伊朗 1-4 负于朝鲜，被对手挤出前二惨遭淘汰，如何评价这场比赛？",
       "category": "society",
       "hotScore": 0.45,
-      "freshness": 1,
+      "freshness": 0.9998,
       "crossSource": 0.6309,
-      "totalScore": 0.6693,
+      "totalScore": 0.6692,
       "sources": [
         {
           "channel": "zhihu",
