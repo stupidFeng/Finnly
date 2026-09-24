@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-09-23T22:32:51.988Z",
+  "generatedAt": "2026-09-24T02:10:07.971Z",
   "fields": {
     "society": "社会",
     "economy": "经济",
@@ -7,86 +7,36 @@
   },
   "feed": [
     {
-      "id": "evt-53000000",
-      "title": "5300多万名老年人享受老年人补贴",
-      "category": "society",
-      "hotScore": 0.7225,
-      "freshness": 1,
-      "crossSource": 1,
-      "totalScore": 0.889,
-      "sources": [
-        {
-          "channel": "toutiao",
-          "rank": 4,
-          "hot": 15473281,
-          "url": "https://www.toutiao.com/trending/7688654789375214106/"
-        },
-        {
-          "channel": "baidu",
-          "rank": 7,
-          "hot": 0,
-          "url": "https://m.baidu.com/s?word=5300%E5%A4%9A%E4%B8%87%E5%90%8D%E8%80%81%E5%B9%B4%E4%BA%BA%E4%BA%AB%E5%8F%97%E8%80%81%E5%B9%B4%E4%BA%BA%E8%A1%A5%E8%B4%B4&sa=fyb_news"
-        }
-      ],
-      "summary": "",
-      "url": "https://www.toutiao.com/trending/7688654789375214106/"
-    },
-    {
       "id": "evt-00000000",
-      "title": "打一针管数月的降压疫苗要来了",
+      "title": "习近平：中美应该成为伙伴而不是对手",
       "category": "society",
-      "hotScore": 0.64,
-      "freshness": 1,
+      "hotScore": 0.8075,
+      "freshness": 0.9999,
       "crossSource": 1,
-      "totalScore": 0.856,
+      "totalScore": 0.923,
       "sources": [
         {
           "channel": "toutiao",
-          "rank": 8,
-          "hot": 10372051,
-          "url": "https://www.toutiao.com/trending/7688194631750107190/"
+          "rank": 2,
+          "hot": 22567655,
+          "url": "https://www.toutiao.com/trending/7688885679731904009/"
         },
         {
           "channel": "baidu",
-          "rank": 5,
+          "rank": 2,
           "hot": 0,
-          "url": "https://m.baidu.com/s?word=%E6%89%93%E4%B8%80%E9%92%88%E7%AE%A1%E6%95%B0%E6%9C%88%E7%9A%84%E9%99%8D%E5%8E%8B%E7%96%AB%E8%8B%97%E8%A6%81%E6%9D%A5%E4%BA%86&sa=fyb_news"
+          "url": "https://m.baidu.com/s?word=%E4%B9%A0%E8%BF%91%E5%B9%B3%EF%BC%9A%E4%B8%AD%E7%BE%8E%E5%BA%94%E8%AF%A5%E6%88%90%E4%B8%BA%E4%BC%99%E4%BC%B4%E8%80%8C%E4%B8%8D%E6%98%AF%E5%AF%B9%E6%89%8B&sa=fyb_news"
         }
       ],
       "summary": "",
-      "url": "https://www.toutiao.com/trending/7688194631750107190/"
-    },
-    {
-      "id": "evt-13000000",
-      "title": "教育部回应“13岁于子迪亚运夺2金”",
-      "category": "society",
-      "hotScore": 0.6375,
-      "freshness": 1,
-      "crossSource": 1,
-      "totalScore": 0.855,
-      "sources": [
-        {
-          "channel": "toutiao",
-          "rank": 6,
-          "hot": 12668451,
-          "url": "https://www.toutiao.com/trending/7688582303215648818/"
-        },
-        {
-          "channel": "baidu",
-          "rank": 19,
-          "hot": 0,
-          "url": "https://m.baidu.com/s?word=%E6%95%99%E8%82%B2%E9%83%A8%E5%9B%9E%E5%BA%94%E2%80%9C13%E5%B2%81%E4%BA%8E%E5%AD%90%E8%BF%AA%E4%BA%9A%E8%BF%90%E5%A4%BA2%E9%87%91%E2%80%9D&sa=fyb_news"
-        }
-      ],
-      "summary": "",
-      "url": "https://www.toutiao.com/trending/7688582303215648818/"
+      "url": "https://www.toutiao.com/trending/7688885679731904009/"
     },
     {
       "id": "evt-51250000",
       "title": "5年增长125%！中国学者在三大顶刊发文数激增背后的中国科研之变",
       "category": "society",
       "hotScore": 0.8075,
-      "freshness": 1,
+      "freshness": 0.9999,
       "crossSource": 0.6309,
       "totalScore": 0.8123,
       "sources": [
@@ -105,7 +55,7 @@
       "title": "涉案金额超60亿，公安机关打掉一跨国民族资产解冻类诈骗团伙",
       "category": "society",
       "hotScore": 0.765,
-      "freshness": 1,
+      "freshness": 0.9999,
       "crossSource": 0.6309,
       "totalScore": 0.7953,
       "sources": [
@@ -120,56 +70,18 @@
       "url": "https://www.thepaper.cn/newsDetail_forward_34134763"
     },
     {
-      "id": "evt-deepseek",
-      "title": "怎么看 DeepSeek 的梁文锋署名的 Agent 训练论文 DSec？",
-      "category": "society",
-      "hotScore": 0.75,
-      "freshness": 1,
-      "crossSource": 0.6309,
-      "totalScore": 0.7893,
-      "sources": [
-        {
-          "channel": "zhihu",
-          "rank": 1,
-          "hot": 0,
-          "url": ""
-        }
-      ],
-      "summary": "",
-      "url": ""
-    },
-    {
-      "id": "evt-ai000000",
-      "title": "腾讯放弃 AI 元宝全力押注 WorkBuddy，这次战略转型算成功吗？",
-      "category": "society",
-      "hotScore": 0.7125,
-      "freshness": 1,
-      "crossSource": 0.6309,
-      "totalScore": 0.7743,
-      "sources": [
-        {
-          "channel": "zhihu",
-          "rank": 2,
-          "hot": 0,
-          "url": ""
-        }
-      ],
-      "summary": "",
-      "url": ""
-    },
-    {
       "id": "evt-app00000",
       "title": "“民惠通APP可发高龄补贴”不实",
       "category": "society",
       "hotScore": 0.425,
-      "freshness": 1,
+      "freshness": 0.9999,
       "crossSource": 1,
       "totalScore": 0.77,
       "sources": [
         {
           "channel": "toutiao",
           "rank": 11,
-          "hot": 7683804,
+          "hot": 9175323,
           "url": "https://www.toutiao.com/trending/7688309980459024447/"
         },
         {
@@ -183,118 +95,61 @@
       "url": "https://www.toutiao.com/trending/7688309980459024447/"
     },
     {
-      "id": "evt-24000000",
-      "title": "华人藏家花费 2400 万元追回疑似圆明园龙首，此事具有哪些意义？",
+      "id": "evt-deepseek",
+      "title": "怎么看 DeepSeek 的梁文锋署名的 Agent 训练论文 DSec？",
       "category": "society",
-      "hotScore": 0.675,
-      "freshness": 1,
+      "hotScore": 0.6,
+      "freshness": 0.9999,
       "crossSource": 0.6309,
-      "totalScore": 0.7593,
+      "totalScore": 0.7293,
       "sources": [
         {
           "channel": "zhihu",
-          "rank": 3,
+          "rank": 5,
           "hot": 0,
           "url": ""
         }
       ],
       "summary": "",
       "url": ""
-    },
-    {
-      "id": "evt-95000000",
-      "title": "油价将大幅调整，全国 95 号汽油或全面迈入 9 元时代逼近年内最高价，哪些信息值得关注？",
-      "category": "society",
-      "hotScore": 0.6375,
-      "freshness": 1,
-      "crossSource": 0.6309,
-      "totalScore": 0.7443,
-      "sources": [
-        {
-          "channel": "zhihu",
-          "rank": 4,
-          "hot": 0,
-          "url": ""
-        }
-      ],
-      "summary": "",
-      "url": ""
-    },
-    {
-      "id": "evt-12306000",
-      "title": "12306的“隐藏福利”别错过",
-      "category": "society",
-      "hotScore": 0.52,
-      "freshness": 1,
-      "crossSource": 0.6309,
-      "totalScore": 0.6973,
-      "sources": [
-        {
-          "channel": "baidu",
-          "rank": 8,
-          "hot": 0,
-          "url": "https://m.baidu.com/s?word=12306%E7%9A%84%E2%80%9C%E9%9A%90%E8%97%8F%E7%A6%8F%E5%88%A9%E2%80%9D%E5%88%AB%E9%94%99%E8%BF%87&sa=fyb_news"
-        }
-      ],
-      "summary": "",
-      "url": "https://m.baidu.com/s?word=12306%E7%9A%84%E2%80%9C%E9%9A%90%E8%97%8F%E7%A6%8F%E5%88%A9%E2%80%9D%E5%88%AB%E9%94%99%E8%BF%87&sa=fyb_news"
-    },
-    {
-      "id": "evt-10000000",
-      "title": "男子购买重疾险10年后确诊结肠癌被拒赔，泰康人寿称系“遗传性疾病”",
-      "category": "society",
-      "hotScore": 0.51,
-      "freshness": 1,
-      "crossSource": 0.6309,
-      "totalScore": 0.6933,
-      "sources": [
-        {
-          "channel": "thepaper",
-          "rank": 9,
-          "hot": 0,
-          "url": "https://www.thepaper.cn/newsDetail_forward_34125321"
-        }
-      ],
-      "summary": "",
-      "url": "https://www.thepaper.cn/newsDetail_forward_34125321"
-    },
-    {
-      "id": "evt-u2300000",
-      "title": "U23国足战平阿联酋 小组第一出线",
-      "category": "society",
-      "hotScore": 0.48,
-      "freshness": 1,
-      "crossSource": 0.6309,
-      "totalScore": 0.6813,
-      "sources": [
-        {
-          "channel": "baidu",
-          "rank": 9,
-          "hot": 0,
-          "url": "https://m.baidu.com/s?word=U23%E5%9B%BD%E8%B6%B3%E6%88%98%E5%B9%B3%E9%98%BF%E8%81%94%E9%85%8B+%E5%B0%8F%E7%BB%84%E7%AC%AC%E4%B8%80%E5%87%BA%E7%BA%BF&sa=fyb_news"
-        }
-      ],
-      "summary": "",
-      "url": "https://m.baidu.com/s?word=U23%E5%9B%BD%E8%B6%B3%E6%88%98%E5%B9%B3%E9%98%BF%E8%81%94%E9%85%8B+%E5%B0%8F%E7%BB%84%E7%AC%AC%E4%B8%80%E5%87%BA%E7%BA%BF&sa=fyb_news"
     },
     {
       "id": "evt-aiopen00",
       "title": "AI“减速”讨论未歇，OpenAI、Anthropic同日上新，竞逐更低成本",
       "category": "society",
-      "hotScore": 0.4675,
-      "freshness": 1,
+      "hotScore": 0.595,
+      "freshness": 0.9999,
       "crossSource": 0.6309,
-      "totalScore": 0.6763,
+      "totalScore": 0.7273,
       "sources": [
         {
           "channel": "thepaper",
-          "rank": 10,
+          "rank": 7,
           "hot": 0,
           "url": "https://www.thepaper.cn/newsDetail_forward_34130539"
         }
       ],
       "summary": "",
       "url": "https://www.thepaper.cn/newsDetail_forward_34130539"
+    },
+    {
+      "id": "evt-70000000",
+      "title": "姚明做了 7 年篮协主席，无法改变中国男篮，中国男篮的病灶到底有多深？未来谁来破局？",
+      "category": "society",
+      "hotScore": 0.525,
+      "freshness": 0.9999,
+      "crossSource": 0.6309,
+      "totalScore": 0.6993,
+      "sources": [
+        {
+          "channel": "zhihu",
+          "rank": 7,
+          "hot": 0,
+          "url": ""
+        }
+      ],
+      "summary": "",
+      "url": ""
     }
   ]
 }
