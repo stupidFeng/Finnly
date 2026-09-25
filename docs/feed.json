@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-09-25T14:51:14.808Z",
+  "generatedAt": "2026-09-25T19:41:02.503Z",
   "fields": {
     "society": "社会",
     "economy": "经济",
@@ -8,47 +8,22 @@
   "feed": [
     {
       "id": "evt-00000000",
-      "title": "粤港澳大湾区中秋晚会",
+      "title": "中美两国元首夫妇茶叙",
       "category": "society",
-      "hotScore": 0.6,
-      "freshness": 1,
-      "crossSource": 1,
-      "totalScore": 0.84,
-      "sources": [
-        {
-          "channel": "toutiao",
-          "rank": 14,
-          "hot": 7962279,
-          "url": "https://www.toutiao.com/trending/7689434600136789554/"
-        },
-        {
-          "channel": "baidu",
-          "rank": 6,
-          "hot": 0,
-          "url": "https://m.baidu.com/s?word=%E7%B2%A4%E6%B8%AF%E6%BE%B3%E5%A4%A7%E6%B9%BE%E5%8C%BA%E4%B8%AD%E7%A7%8B%E6%99%9A%E4%BC%9A&sa=fyb_news"
-        }
-      ],
-      "summary": "",
-      "url": "https://www.toutiao.com/trending/7689434600136789554/"
-    },
-    {
-      "id": "evt-17000000",
-      "title": "17岁陈妤颉女子百米夺冠",
-      "category": "society",
-      "hotScore": 0.7225,
+      "hotScore": 0.85,
       "freshness": 1,
       "crossSource": 0.6309,
-      "totalScore": 0.7783,
+      "totalScore": 0.8293,
       "sources": [
         {
           "channel": "toutiao",
-          "rank": 4,
-          "hot": 21643718,
-          "url": "https://www.toutiao.com/trending/7688791634830082074/"
+          "rank": 1,
+          "hot": 29215963,
+          "url": "https://www.toutiao.com/trending/7689024369510665791/"
         }
       ],
       "summary": "",
-      "url": "https://www.toutiao.com/trending/7688791634830082074/"
+      "url": "https://www.toutiao.com/trending/7689024369510665791/"
     },
     {
       "id": "evt-10000000",
@@ -70,36 +45,36 @@
       "url": ""
     },
     {
-      "id": "evt-30000000",
-      "title": "中国游泳队亚运会 30 金收官，创历史最好成绩，为何中国队游泳队这几年有如此强劲的上升势头？",
+      "id": "evt-17000000",
+      "title": "17岁陈妤颉女子百米夺冠",
       "category": "society",
-      "hotScore": 0.6375,
+      "hotScore": 0.68,
       "freshness": 1,
       "crossSource": 0.6309,
-      "totalScore": 0.7443,
+      "totalScore": 0.7613,
       "sources": [
         {
-          "channel": "zhihu",
-          "rank": 4,
-          "hot": 0,
-          "url": ""
+          "channel": "toutiao",
+          "rank": 5,
+          "hot": 19584046,
+          "url": "https://www.toutiao.com/trending/7688791634830082074/"
         }
       ],
       "summary": "",
-      "url": ""
+      "url": "https://www.toutiao.com/trending/7688791634830082074/"
     },
     {
       "id": "evt-13000000",
       "title": "多家企业开启13天长假：有6人小公司，也有“民企500强”",
       "category": "society",
-      "hotScore": 0.5525,
+      "hotScore": 0.68,
       "freshness": 1,
       "crossSource": 0.6309,
-      "totalScore": 0.7103,
+      "totalScore": 0.7613,
       "sources": [
         {
           "channel": "thepaper",
-          "rank": 8,
+          "rank": 5,
           "hot": 0,
           "url": "https://www.thepaper.cn/newsDetail_forward_34142205"
         }
@@ -108,36 +83,93 @@
       "url": "https://www.thepaper.cn/newsDetail_forward_34142205"
     },
     {
-      "id": "evt-40000000",
-      "title": "中国篮球从亚运4金到全军覆没",
+      "id": "evt-30000000",
+      "title": "中国游泳队亚运会 30 金收官，创历史最好成绩，为何中国队游泳队这几年有如此强劲的上升势头？",
       "category": "society",
-      "hotScore": 0.4675,
+      "hotScore": 0.675,
       "freshness": 1,
       "crossSource": 0.6309,
-      "totalScore": 0.6763,
-      "sources": [
-        {
-          "channel": "toutiao",
-          "rank": 10,
-          "hot": 11878324,
-          "url": "https://www.toutiao.com/trending/7689362294299541523/"
-        }
-      ],
-      "summary": "",
-      "url": "https://www.toutiao.com/trending/7689362294299541523/"
-    },
-    {
-      "id": "evt-80000000",
-      "title": "亚运女篮半决赛，中国女篮 80-85 韩国女篮，张子宇 22 分，如何评价本场比赛？",
-      "category": "society",
-      "hotScore": 0.45,
-      "freshness": 1,
-      "crossSource": 0.6309,
-      "totalScore": 0.6693,
+      "totalScore": 0.7593,
       "sources": [
         {
           "channel": "zhihu",
-          "rank": 9,
+          "rank": 3,
+          "hot": 0,
+          "url": ""
+        }
+      ],
+      "summary": "",
+      "url": ""
+    },
+    {
+      "id": "evt-45400000",
+      "title": "中国45小时连发4枚火箭 印媒直呼看懵",
+      "category": "society",
+      "hotScore": 0.6375,
+      "freshness": 1,
+      "crossSource": 0.6309,
+      "totalScore": 0.7443,
+      "sources": [
+        {
+          "channel": "toutiao",
+          "rank": 6,
+          "hot": 17720377,
+          "url": "https://www.toutiao.com/trending/7689095772238217262/"
+        }
+      ],
+      "summary": "",
+      "url": "https://www.toutiao.com/trending/7689095772238217262/"
+    },
+    {
+      "id": "evt-20000000",
+      "title": "2 岁女童站「独立洗澡神器」上被父母独留浴室，误触 70℃ 热水致重度烫伤，如何避免此类悲剧？",
+      "category": "society",
+      "hotScore": 0.5625,
+      "freshness": 1,
+      "crossSource": 0.6309,
+      "totalScore": 0.7143,
+      "sources": [
+        {
+          "channel": "zhihu",
+          "rank": 6,
+          "hot": 0,
+          "url": ""
+        }
+      ],
+      "summary": "",
+      "url": ""
+    },
+    {
+      "id": "evt-70000000",
+      "title": "日本选手被张展硕7枚金牌惊出表情包",
+      "category": "society",
+      "hotScore": 0.5525,
+      "freshness": 1,
+      "crossSource": 0.6309,
+      "totalScore": 0.7103,
+      "sources": [
+        {
+          "channel": "toutiao",
+          "rank": 8,
+          "hot": 14508218,
+          "url": "https://www.toutiao.com/trending/7688863275731353650/"
+        }
+      ],
+      "summary": "",
+      "url": "https://www.toutiao.com/trending/7688863275731353650/"
+    },
+    {
+      "id": "evt-deepseek",
+      "title": "怎么评价 DeepSeek Harness 桌面版源码正式上线？",
+      "category": "society",
+      "hotScore": 0.525,
+      "freshness": 1,
+      "crossSource": 0.6309,
+      "totalScore": 0.6993,
+      "sources": [
+        {
+          "channel": "zhihu",
+          "rank": 7,
           "hot": 0,
           "url": ""
         }
