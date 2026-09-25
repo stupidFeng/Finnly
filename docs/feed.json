@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-09-24T22:49:10.697Z",
+  "generatedAt": "2026-09-25T02:27:08.083Z",
   "fields": {
     "society": "社会",
     "economy": "经济",
@@ -8,98 +8,41 @@
   "feed": [
     {
       "id": "evt-00000000",
-      "title": "习近平在白宫欢迎仪式上致辞",
+      "title": "习近平同美国总统特朗普会谈",
       "category": "society",
       "hotScore": 0.85,
-      "freshness": 0.9999,
+      "freshness": 1,
       "crossSource": 1,
       "totalScore": 0.94,
       "sources": [
         {
-          "channel": "toutiao",
-          "rank": 2,
-          "hot": 44682359,
-          "url": "https://www.toutiao.com/trending/7688663315194646070/"
-        },
-        {
           "channel": "thepaper",
           "rank": 1,
           "hot": 0,
-          "url": "https://www.thepaper.cn/newsDetail_forward_34144356"
-        }
-      ],
-      "summary": "",
-      "url": "https://www.toutiao.com/trending/7688663315194646070/"
-    },
-    {
-      "id": "evt-80000000",
-      "title": "习近平主席抵达华盛顿，80秒看美方高规格迎接",
-      "category": "society",
-      "hotScore": 0.8075,
-      "freshness": 1,
-      "crossSource": 0.6309,
-      "totalScore": 0.8123,
-      "sources": [
-        {
-          "channel": "thepaper",
-          "rank": 2,
-          "hot": 0,
-          "url": "https://www.thepaper.cn/newsDetail_forward_34141792"
-        }
-      ],
-      "summary": "",
-      "url": "https://www.thepaper.cn/newsDetail_forward_34141792"
-    },
-    {
-      "id": "evt-40000000",
-      "title": "40余年 跨越太平洋的友谊",
-      "category": "society",
-      "hotScore": 0.8,
-      "freshness": 1,
-      "crossSource": 0.6309,
-      "totalScore": 0.8093,
-      "sources": [
+          "url": "https://www.thepaper.cn/newsDetail_forward_34147373"
+        },
         {
           "channel": "baidu",
           "rank": 1,
           "hot": 0,
-          "url": "https://m.baidu.com/s?word=40%E4%BD%99%E5%B9%B4+%E8%B7%A8%E8%B6%8A%E5%A4%AA%E5%B9%B3%E6%B4%8B%E7%9A%84%E5%8F%8B%E8%B0%8A&sa=fyb_news"
+          "url": "https://m.baidu.com/s?word=%E4%B9%A0%E8%BF%91%E5%B9%B3%E5%90%8C%E7%BE%8E%E5%9B%BD%E6%80%BB%E7%BB%9F%E7%89%B9%E6%9C%97%E6%99%AE%E4%BC%9A%E8%B0%88&sa=fyb_news"
         }
       ],
       "summary": "",
-      "url": "https://m.baidu.com/s?word=40%E4%BD%99%E5%B9%B4+%E8%B7%A8%E8%B6%8A%E5%A4%AA%E5%B9%B3%E6%B4%8B%E7%9A%84%E5%8F%8B%E8%B0%8A&sa=fyb_news"
-    },
-    {
-      "id": "evt-19620000",
-      "title": "大外交·现场｜1962年后首次：美国总统亲赴机场迎接释放何种讯息？",
-      "category": "society",
-      "hotScore": 0.765,
-      "freshness": 1,
-      "crossSource": 0.6309,
-      "totalScore": 0.7953,
-      "sources": [
-        {
-          "channel": "thepaper",
-          "rank": 3,
-          "hot": 0,
-          "url": "https://www.thepaper.cn/newsDetail_forward_34138752"
-        }
-      ],
-      "summary": "",
-      "url": "https://www.thepaper.cn/newsDetail_forward_34138752"
+      "url": "https://www.thepaper.cn/newsDetail_forward_34147373"
     },
     {
       "id": "evt-30000000",
       "title": "亚运乒乓女团决赛，中国 3-0 横扫日本，豪取亚运六连冠，如何评价本场比赛？",
       "category": "society",
-      "hotScore": 0.75,
+      "hotScore": 0.7125,
       "freshness": 1,
       "crossSource": 0.6309,
-      "totalScore": 0.7893,
+      "totalScore": 0.7743,
       "sources": [
         {
           "channel": "zhihu",
-          "rank": 1,
+          "rank": 2,
           "hot": 0,
           "url": ""
         }
@@ -108,8 +51,8 @@
       "url": ""
     },
     {
-      "id": "evt-50000000",
-      "title": "潮州市住建局回应 5 公里路面 500 个井盖，称井盖密度没法更改，真的没法改吗？井盖排布密集是正常的吗？",
+      "id": "evt-app00000",
+      "title": "小区门禁 App 开门要先看广告，想免广告就得花钱充会员，这种模式合理吗？业主如何维权？",
       "category": "society",
       "hotScore": 0.6375,
       "freshness": 1,
@@ -127,56 +70,18 @@
       "url": ""
     },
     {
-      "id": "evt-aia00000",
-      "title": "“AI教父”辛顿答澎湃：在让AI学会关怀人类之前，不应开发超级智能",
-      "category": "society",
-      "hotScore": 0.6375,
-      "freshness": 1,
-      "crossSource": 0.6309,
-      "totalScore": 0.7443,
-      "sources": [
-        {
-          "channel": "thepaper",
-          "rank": 6,
-          "hot": 0,
-          "url": "https://www.thepaper.cn/newsDetail_forward_34132966"
-        }
-      ],
-      "summary": "",
-      "url": "https://www.thepaper.cn/newsDetail_forward_34132966"
-    },
-    {
-      "id": "evt-c0000000",
-      "title": "多地商场把“C位”留给国之栋梁",
-      "category": "society",
-      "hotScore": 0.56,
-      "freshness": 1,
-      "crossSource": 0.6309,
-      "totalScore": 0.7133,
-      "sources": [
-        {
-          "channel": "baidu",
-          "rank": 7,
-          "hot": 0,
-          "url": "https://m.baidu.com/s?word=%E5%A4%9A%E5%9C%B0%E5%95%86%E5%9C%BA%E6%8A%8A%E2%80%9CC%E4%BD%8D%E2%80%9D%E7%95%99%E7%BB%99%E5%9B%BD%E4%B9%8B%E6%A0%8B%E6%A2%81&sa=fyb_news"
-        }
-      ],
-      "summary": "",
-      "url": "https://m.baidu.com/s?word=%E5%A4%9A%E5%9C%B0%E5%95%86%E5%9C%BA%E6%8A%8A%E2%80%9CC%E4%BD%8D%E2%80%9D%E7%95%99%E7%BB%99%E5%9B%BD%E4%B9%8B%E6%A0%8B%E6%A2%81&sa=fyb_news"
-    },
-    {
       "id": "evt-z0000000",
       "title": "美国Z世代的“非常中国时刻”",
       "category": "society",
       "hotScore": 0.51,
-      "freshness": 0.9999,
+      "freshness": 1,
       "crossSource": 0.6309,
       "totalScore": 0.6933,
       "sources": [
         {
           "channel": "toutiao",
           "rank": 9,
-          "hot": 22188603,
+          "hot": 23328377,
           "url": "https://www.toutiao.com/trending/7688938509055410203/"
         }
       ],
@@ -184,17 +89,36 @@
       "url": "https://www.toutiao.com/trending/7688938509055410203/"
     },
     {
-      "id": "evt-20000000",
-      "title": "如何评价大伟哥在米哈游 2027 校园招聘宣讲会上海交通大学专场的演讲？",
+      "id": "evt-50000000",
+      "title": "潮州市住建局回应 5 公里路面 500 个井盖，称井盖密度没法更改，真的没法改吗？井盖排布密集是正常的吗？",
       "category": "society",
-      "hotScore": 0.45,
+      "hotScore": 0.4875,
       "freshness": 1,
       "crossSource": 0.6309,
-      "totalScore": 0.6693,
+      "totalScore": 0.6843,
       "sources": [
         {
           "channel": "zhihu",
-          "rank": 9,
+          "rank": 8,
+          "hot": 0,
+          "url": ""
+        }
+      ],
+      "summary": "",
+      "url": ""
+    },
+    {
+      "id": "evt-ai000000",
+      "title": "如何评价 AI 短剧《我的妹妹不可爱》？",
+      "category": "society",
+      "hotScore": 0.4125,
+      "freshness": 1,
+      "crossSource": 0.6309,
+      "totalScore": 0.6543,
+      "sources": [
+        {
+          "channel": "zhihu",
+          "rank": 10,
           "hot": 0,
           "url": ""
         }
