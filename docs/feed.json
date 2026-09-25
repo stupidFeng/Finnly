@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-09-25T09:11:25.330Z",
+  "generatedAt": "2026-09-25T14:51:14.808Z",
   "fields": {
     "society": "社会",
     "economy": "经济",
@@ -8,35 +8,54 @@
   "feed": [
     {
       "id": "evt-00000000",
-      "title": "特朗普听到大熊猫将落户美国笑了",
+      "title": "粤港澳大湾区中秋晚会",
       "category": "society",
-      "hotScore": 0.8075,
-      "freshness": 0.9999,
+      "hotScore": 0.6,
+      "freshness": 1,
       "crossSource": 1,
-      "totalScore": 0.923,
+      "totalScore": 0.84,
       "sources": [
         {
           "channel": "toutiao",
-          "rank": 2,
-          "hot": 48774800,
-          "url": "https://www.toutiao.com/trending/7689262718079028745/"
+          "rank": 14,
+          "hot": 7962279,
+          "url": "https://www.toutiao.com/trending/7689434600136789554/"
         },
         {
           "channel": "baidu",
-          "rank": 3,
+          "rank": 6,
           "hot": 0,
-          "url": "https://m.baidu.com/s?word=%E7%89%B9%E6%9C%97%E6%99%AE%E5%90%AC%E5%88%B0%E5%A4%A7%E7%86%8A%E7%8C%AB%E5%B0%86%E8%90%BD%E6%88%B7%E7%BE%8E%E5%9B%BD%E7%AC%91%E4%BA%86&sa=fyb_news"
+          "url": "https://m.baidu.com/s?word=%E7%B2%A4%E6%B8%AF%E6%BE%B3%E5%A4%A7%E6%B9%BE%E5%8C%BA%E4%B8%AD%E7%A7%8B%E6%99%9A%E4%BC%9A&sa=fyb_news"
         }
       ],
       "summary": "",
-      "url": "https://www.toutiao.com/trending/7689262718079028745/"
+      "url": "https://www.toutiao.com/trending/7689434600136789554/"
     },
     {
-      "id": "evt-30000000",
-      "title": "王楚钦 / 孙颖莎 3-0 松岛辉空 / 张本美和，晋级亚运会混双四强，怎样评价本场比赛？",
+      "id": "evt-17000000",
+      "title": "17岁陈妤颉女子百米夺冠",
+      "category": "society",
+      "hotScore": 0.7225,
+      "freshness": 1,
+      "crossSource": 0.6309,
+      "totalScore": 0.7783,
+      "sources": [
+        {
+          "channel": "toutiao",
+          "rank": 4,
+          "hot": 21643718,
+          "url": "https://www.toutiao.com/trending/7688791634830082074/"
+        }
+      ],
+      "summary": "",
+      "url": "https://www.toutiao.com/trending/7688791634830082074/"
+    },
+    {
+      "id": "evt-10000000",
+      "title": "亚运女子 100 米短跑决赛，陈妤颉夺冠，跑出 11.06 秒​​​​刷新亚运会纪录，如何评价本场对决？",
       "category": "society",
       "hotScore": 0.7125,
-      "freshness": 0.9999,
+      "freshness": 1,
       "crossSource": 0.6309,
       "totalScore": 0.7743,
       "sources": [
@@ -51,36 +70,17 @@
       "url": ""
     },
     {
-      "id": "evt-10000000",
-      "title": "中国女足1比0击败越南女足 晋级四强",
+      "id": "evt-30000000",
+      "title": "中国游泳队亚运会 30 金收官，创历史最好成绩，为何中国队游泳队这几年有如此强劲的上升势头？",
       "category": "society",
-      "hotScore": 0.6,
+      "hotScore": 0.6375,
       "freshness": 1,
       "crossSource": 0.6309,
-      "totalScore": 0.7293,
-      "sources": [
-        {
-          "channel": "baidu",
-          "rank": 6,
-          "hot": 0,
-          "url": "https://m.baidu.com/s?word=%E4%B8%AD%E5%9B%BD%E5%A5%B3%E8%B6%B31%E6%AF%940%E5%87%BB%E8%B4%A5%E8%B6%8A%E5%8D%97%E5%A5%B3%E8%B6%B3+%E6%99%8B%E7%BA%A7%E5%9B%9B%E5%BC%BA&sa=fyb_news"
-        }
-      ],
-      "summary": "",
-      "url": "https://m.baidu.com/s?word=%E4%B8%AD%E5%9B%BD%E5%A5%B3%E8%B6%B31%E6%AF%940%E5%87%BB%E8%B4%A5%E8%B6%8A%E5%8D%97%E5%A5%B3%E8%B6%B3+%E6%99%8B%E7%BA%A7%E5%9B%9B%E5%BC%BA&sa=fyb_news"
-    },
-    {
-      "id": "evt-ai000000",
-      "title": "如何评价 AI 短剧《我的妹妹不可爱》？",
-      "category": "society",
-      "hotScore": 0.525,
-      "freshness": 0.9999,
-      "crossSource": 0.6309,
-      "totalScore": 0.6993,
+      "totalScore": 0.7443,
       "sources": [
         {
           "channel": "zhihu",
-          "rank": 7,
+          "rank": 4,
           "hot": 0,
           "url": ""
         }
@@ -92,20 +92,58 @@
       "id": "evt-13000000",
       "title": "多家企业开启13天长假：有6人小公司，也有“民企500强”",
       "category": "society",
-      "hotScore": 0.51,
+      "hotScore": 0.5525,
       "freshness": 1,
       "crossSource": 0.6309,
-      "totalScore": 0.6933,
+      "totalScore": 0.7103,
       "sources": [
         {
           "channel": "thepaper",
-          "rank": 9,
+          "rank": 8,
           "hot": 0,
           "url": "https://www.thepaper.cn/newsDetail_forward_34142205"
         }
       ],
       "summary": "",
       "url": "https://www.thepaper.cn/newsDetail_forward_34142205"
+    },
+    {
+      "id": "evt-40000000",
+      "title": "中国篮球从亚运4金到全军覆没",
+      "category": "society",
+      "hotScore": 0.4675,
+      "freshness": 1,
+      "crossSource": 0.6309,
+      "totalScore": 0.6763,
+      "sources": [
+        {
+          "channel": "toutiao",
+          "rank": 10,
+          "hot": 11878324,
+          "url": "https://www.toutiao.com/trending/7689362294299541523/"
+        }
+      ],
+      "summary": "",
+      "url": "https://www.toutiao.com/trending/7689362294299541523/"
+    },
+    {
+      "id": "evt-80000000",
+      "title": "亚运女篮半决赛，中国女篮 80-85 韩国女篮，张子宇 22 分，如何评价本场比赛？",
+      "category": "society",
+      "hotScore": 0.45,
+      "freshness": 1,
+      "crossSource": 0.6309,
+      "totalScore": 0.6693,
+      "sources": [
+        {
+          "channel": "zhihu",
+          "rank": 9,
+          "hot": 0,
+          "url": ""
+        }
+      ],
+      "summary": "",
+      "url": ""
     }
   ]
 }
