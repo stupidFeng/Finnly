@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-09-25T19:41:02.503Z",
+  "generatedAt": "2026-09-25T22:56:29.027Z",
   "fields": {
     "society": "社会",
     "economy": "经济",
@@ -8,29 +8,29 @@
   "feed": [
     {
       "id": "evt-00000000",
-      "title": "中美两国元首夫妇茶叙",
+      "title": "习近平同美国总统特朗普会谈",
       "category": "society",
       "hotScore": 0.85,
-      "freshness": 1,
+      "freshness": 0.9999,
       "crossSource": 0.6309,
       "totalScore": 0.8293,
       "sources": [
         {
-          "channel": "toutiao",
+          "channel": "thepaper",
           "rank": 1,
-          "hot": 29215963,
-          "url": "https://www.toutiao.com/trending/7689024369510665791/"
+          "hot": 0,
+          "url": "https://www.thepaper.cn/newsDetail_forward_34147373"
         }
       ],
       "summary": "",
-      "url": "https://www.toutiao.com/trending/7689024369510665791/"
+      "url": "https://www.thepaper.cn/newsDetail_forward_34147373"
     },
     {
       "id": "evt-10000000",
       "title": "亚运女子 100 米短跑决赛，陈妤颉夺冠，跑出 11.06 秒​​​​刷新亚运会纪录，如何评价本场对决？",
       "category": "society",
       "hotScore": 0.7125,
-      "freshness": 1,
+      "freshness": 0.9999,
       "crossSource": 0.6309,
       "totalScore": 0.7743,
       "sources": [
@@ -45,30 +45,11 @@
       "url": ""
     },
     {
-      "id": "evt-17000000",
-      "title": "17岁陈妤颉女子百米夺冠",
-      "category": "society",
-      "hotScore": 0.68,
-      "freshness": 1,
-      "crossSource": 0.6309,
-      "totalScore": 0.7613,
-      "sources": [
-        {
-          "channel": "toutiao",
-          "rank": 5,
-          "hot": 19584046,
-          "url": "https://www.toutiao.com/trending/7688791634830082074/"
-        }
-      ],
-      "summary": "",
-      "url": "https://www.toutiao.com/trending/7688791634830082074/"
-    },
-    {
       "id": "evt-13000000",
       "title": "多家企业开启13天长假：有6人小公司，也有“民企500强”",
       "category": "society",
       "hotScore": 0.68,
-      "freshness": 1,
+      "freshness": 0.9999,
       "crossSource": 0.6309,
       "totalScore": 0.7613,
       "sources": [
@@ -83,17 +64,55 @@
       "url": "https://www.thepaper.cn/newsDetail_forward_34142205"
     },
     {
+      "id": "evt-45400000",
+      "title": "中国45小时连发4枚火箭 印媒直呼看懵",
+      "category": "society",
+      "hotScore": 0.68,
+      "freshness": 0.9999,
+      "crossSource": 0.6309,
+      "totalScore": 0.7612,
+      "sources": [
+        {
+          "channel": "toutiao",
+          "rank": 5,
+          "hot": 19584046,
+          "url": "https://www.toutiao.com/trending/7689095772238217262/"
+        }
+      ],
+      "summary": "",
+      "url": "https://www.toutiao.com/trending/7689095772238217262/"
+    },
+    {
+      "id": "evt-17000000",
+      "title": "17岁陈妤颉 百米飞人大战金牌",
+      "category": "society",
+      "hotScore": 0.6,
+      "freshness": 1,
+      "crossSource": 0.6309,
+      "totalScore": 0.7293,
+      "sources": [
+        {
+          "channel": "baidu",
+          "rank": 6,
+          "hot": 0,
+          "url": "https://m.baidu.com/s?word=17%E5%B2%81%E9%99%88%E5%A6%A4%E9%A2%89+%E7%99%BE%E7%B1%B3%E9%A3%9E%E4%BA%BA%E5%A4%A7%E6%88%98%E9%87%91%E7%89%8C&sa=fyb_news"
+        }
+      ],
+      "summary": "",
+      "url": "https://m.baidu.com/s?word=17%E5%B2%81%E9%99%88%E5%A6%A4%E9%A2%89+%E7%99%BE%E7%B1%B3%E9%A3%9E%E4%BA%BA%E5%A4%A7%E6%88%98%E9%87%91%E7%89%8C&sa=fyb_news"
+    },
+    {
       "id": "evt-30000000",
       "title": "中国游泳队亚运会 30 金收官，创历史最好成绩，为何中国队游泳队这几年有如此强劲的上升势头？",
       "category": "society",
-      "hotScore": 0.675,
-      "freshness": 1,
+      "hotScore": 0.6,
+      "freshness": 0.9999,
       "crossSource": 0.6309,
-      "totalScore": 0.7593,
+      "totalScore": 0.7293,
       "sources": [
         {
           "channel": "zhihu",
-          "rank": 3,
+          "rank": 5,
           "hot": 0,
           "url": ""
         }
@@ -102,30 +121,11 @@
       "url": ""
     },
     {
-      "id": "evt-45400000",
-      "title": "中国45小时连发4枚火箭 印媒直呼看懵",
-      "category": "society",
-      "hotScore": 0.6375,
-      "freshness": 1,
-      "crossSource": 0.6309,
-      "totalScore": 0.7443,
-      "sources": [
-        {
-          "channel": "toutiao",
-          "rank": 6,
-          "hot": 17720377,
-          "url": "https://www.toutiao.com/trending/7689095772238217262/"
-        }
-      ],
-      "summary": "",
-      "url": "https://www.toutiao.com/trending/7689095772238217262/"
-    },
-    {
       "id": "evt-20000000",
       "title": "2 岁女童站「独立洗澡神器」上被父母独留浴室，误触 70℃ 热水致重度烫伤，如何避免此类悲剧？",
       "category": "society",
       "hotScore": 0.5625,
-      "freshness": 1,
+      "freshness": 0.9999,
       "crossSource": 0.6309,
       "totalScore": 0.7143,
       "sources": [
@@ -140,30 +140,11 @@
       "url": ""
     },
     {
-      "id": "evt-70000000",
-      "title": "日本选手被张展硕7枚金牌惊出表情包",
-      "category": "society",
-      "hotScore": 0.5525,
-      "freshness": 1,
-      "crossSource": 0.6309,
-      "totalScore": 0.7103,
-      "sources": [
-        {
-          "channel": "toutiao",
-          "rank": 8,
-          "hot": 14508218,
-          "url": "https://www.toutiao.com/trending/7688863275731353650/"
-        }
-      ],
-      "summary": "",
-      "url": "https://www.toutiao.com/trending/7688863275731353650/"
-    },
-    {
       "id": "evt-deepseek",
       "title": "怎么评价 DeepSeek Harness 桌面版源码正式上线？",
       "category": "society",
       "hotScore": 0.525,
-      "freshness": 1,
+      "freshness": 0.9999,
       "crossSource": 0.6309,
       "totalScore": 0.6993,
       "sources": [
@@ -176,6 +157,25 @@
       ],
       "summary": "",
       "url": ""
+    },
+    {
+      "id": "evt-70000000",
+      "title": "日本选手被张展硕7枚金牌惊出表情包",
+      "category": "society",
+      "hotScore": 0.4675,
+      "freshness": 0.9999,
+      "crossSource": 0.6309,
+      "totalScore": 0.6762,
+      "sources": [
+        {
+          "channel": "toutiao",
+          "rank": 10,
+          "hot": 11878324,
+          "url": "https://www.toutiao.com/trending/7688863275731353650/"
+        }
+      ],
+      "summary": "",
+      "url": "https://www.toutiao.com/trending/7688863275731353650/"
     }
   ]
 }
