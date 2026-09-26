@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-09-25T22:56:29.027Z",
+  "generatedAt": "2026-09-26T02:30:29.175Z",
   "fields": {
     "society": "社会",
     "economy": "经济",
@@ -8,29 +8,104 @@
   "feed": [
     {
       "id": "evt-00000000",
-      "title": "习近平同美国总统特朗普会谈",
+      "title": "中美元首夫妇参观美国国家档案馆",
       "category": "society",
       "hotScore": 0.85,
-      "freshness": 0.9999,
-      "crossSource": 0.6309,
-      "totalScore": 0.8293,
+      "freshness": 1,
+      "crossSource": 1,
+      "totalScore": 0.94,
       "sources": [
         {
-          "channel": "thepaper",
+          "channel": "toutiao",
           "rank": 1,
+          "hot": 22288623,
+          "url": "https://www.toutiao.com/trending/7688701070259981860/"
+        },
+        {
+          "channel": "thepaper",
+          "rank": 20,
           "hot": 0,
-          "url": "https://www.thepaper.cn/newsDetail_forward_34147373"
+          "url": "https://www.thepaper.cn/newsDetail_forward_34151336"
         }
       ],
       "summary": "",
-      "url": "https://www.thepaper.cn/newsDetail_forward_34147373"
+      "url": "https://www.toutiao.com/trending/7688701070259981860/"
+    },
+    {
+      "id": "evt-70000000",
+      "title": "日本选手被张展硕7枚金牌惊出表情包",
+      "category": "society",
+      "hotScore": 0.6,
+      "freshness": 1,
+      "crossSource": 1,
+      "totalScore": 0.84,
+      "sources": [
+        {
+          "channel": "toutiao",
+          "rank": 14,
+          "hot": 6074358,
+          "url": "https://www.toutiao.com/trending/7688863275731353650/"
+        },
+        {
+          "channel": "baidu",
+          "rank": 6,
+          "hot": 0,
+          "url": "https://m.baidu.com/s?word=%E6%97%A5%E6%9C%AC%E9%80%89%E6%89%8B%E8%A2%AB%E5%BC%A0%E5%B1%95%E7%A1%957%E6%9E%9A%E9%87%91%E7%89%8C%E6%83%8A%E5%87%BA%E8%A1%A8%E6%83%85%E5%8C%85&sa=fyb_news"
+        }
+      ],
+      "summary": "",
+      "url": "https://www.toutiao.com/trending/7688863275731353650/"
     },
     {
       "id": "evt-10000000",
-      "title": "亚运女子 100 米短跑决赛，陈妤颉夺冠，跑出 11.06 秒​​​​刷新亚运会纪录，如何评价本场对决？",
+      "title": "陈芋汐卢为10米台夺金",
+      "category": "society",
+      "hotScore": 0.595,
+      "freshness": 1,
+      "crossSource": 1,
+      "totalScore": 0.838,
+      "sources": [
+        {
+          "channel": "toutiao",
+          "rank": 7,
+          "hot": 12232255,
+          "url": "https://www.toutiao.com/trending/7689032899521724458/"
+        },
+        {
+          "channel": "baidu",
+          "rank": 18,
+          "hot": 0,
+          "url": "https://m.baidu.com/s?word=%E9%99%88%E8%8A%8B%E6%B1%90%E5%8D%A2%E4%B8%BA10%E7%B1%B3%E5%8F%B0%E5%A4%BA%E9%87%91&sa=fyb_news"
+        }
+      ],
+      "summary": "",
+      "url": "https://www.toutiao.com/trending/7689032899521724458/"
+    },
+    {
+      "id": "evt-18000000",
+      "title": "18岁之前打破亚运会纪录夺金，陈妤颉：这是最好的成年礼",
+      "category": "society",
+      "hotScore": 0.765,
+      "freshness": 1,
+      "crossSource": 0.6309,
+      "totalScore": 0.7953,
+      "sources": [
+        {
+          "channel": "thepaper",
+          "rank": 3,
+          "hot": 0,
+          "url": "https://www.thepaper.cn/newsDetail_forward_34150727"
+        }
+      ],
+      "summary": "",
+      "url": "https://www.thepaper.cn/newsDetail_forward_34150727"
+    },
+    {
+      "id": "evt-92500000",
+      "title": "著名音乐家刘欢于 9 月 25 日在上海病逝，享年 63 岁，如何评价他在华语乐坛的地位？哪首歌是你的时代记忆？",
       "category": "society",
       "hotScore": 0.7125,
-      "freshness": 0.9999,
+      "freshness": 1,
       "crossSource": 0.6309,
       "totalScore": 0.7743,
       "sources": [
@@ -45,137 +120,42 @@
       "url": ""
     },
     {
-      "id": "evt-13000000",
-      "title": "多家企业开启13天长假：有6人小公司，也有“民企500强”",
+      "id": "evt-30131100",
+      "title": "中国游泳30金13银11铜创纪录收官",
       "category": "society",
       "hotScore": 0.68,
-      "freshness": 0.9999,
+      "freshness": 1,
       "crossSource": 0.6309,
       "totalScore": 0.7613,
       "sources": [
         {
-          "channel": "thepaper",
-          "rank": 5,
-          "hot": 0,
-          "url": "https://www.thepaper.cn/newsDetail_forward_34142205"
-        }
-      ],
-      "summary": "",
-      "url": "https://www.thepaper.cn/newsDetail_forward_34142205"
-    },
-    {
-      "id": "evt-45400000",
-      "title": "中国45小时连发4枚火箭 印媒直呼看懵",
-      "category": "society",
-      "hotScore": 0.68,
-      "freshness": 0.9999,
-      "crossSource": 0.6309,
-      "totalScore": 0.7612,
-      "sources": [
-        {
           "channel": "toutiao",
           "rank": 5,
-          "hot": 19584046,
-          "url": "https://www.toutiao.com/trending/7689095772238217262/"
+          "hot": 14940511,
+          "url": "https://www.toutiao.com/trending/7689622130657050660/"
         }
       ],
       "summary": "",
-      "url": "https://www.toutiao.com/trending/7689095772238217262/"
+      "url": "https://www.toutiao.com/trending/7689622130657050660/"
     },
     {
-      "id": "evt-17000000",
-      "title": "17岁陈妤颉 百米飞人大战金牌",
-      "category": "society",
-      "hotScore": 0.6,
-      "freshness": 1,
-      "crossSource": 0.6309,
-      "totalScore": 0.7293,
-      "sources": [
-        {
-          "channel": "baidu",
-          "rank": 6,
-          "hot": 0,
-          "url": "https://m.baidu.com/s?word=17%E5%B2%81%E9%99%88%E5%A6%A4%E9%A2%89+%E7%99%BE%E7%B1%B3%E9%A3%9E%E4%BA%BA%E5%A4%A7%E6%88%98%E9%87%91%E7%89%8C&sa=fyb_news"
-        }
-      ],
-      "summary": "",
-      "url": "https://m.baidu.com/s?word=17%E5%B2%81%E9%99%88%E5%A6%A4%E9%A2%89+%E7%99%BE%E7%B1%B3%E9%A3%9E%E4%BA%BA%E5%A4%A7%E6%88%98%E9%87%91%E7%89%8C&sa=fyb_news"
-    },
-    {
-      "id": "evt-30000000",
-      "title": "中国游泳队亚运会 30 金收官，创历史最好成绩，为何中国队游泳队这几年有如此强劲的上升势头？",
-      "category": "society",
-      "hotScore": 0.6,
-      "freshness": 0.9999,
-      "crossSource": 0.6309,
-      "totalScore": 0.7293,
-      "sources": [
-        {
-          "channel": "zhihu",
-          "rank": 5,
-          "hot": 0,
-          "url": ""
-        }
-      ],
-      "summary": "",
-      "url": ""
-    },
-    {
-      "id": "evt-20000000",
-      "title": "2 岁女童站「独立洗澡神器」上被父母独留浴室，误触 70℃ 热水致重度烫伤，如何避免此类悲剧？",
-      "category": "society",
-      "hotScore": 0.5625,
-      "freshness": 0.9999,
-      "crossSource": 0.6309,
-      "totalScore": 0.7143,
-      "sources": [
-        {
-          "channel": "zhihu",
-          "rank": 6,
-          "hot": 0,
-          "url": ""
-        }
-      ],
-      "summary": "",
-      "url": ""
-    },
-    {
-      "id": "evt-deepseek",
-      "title": "怎么评价 DeepSeek Harness 桌面版源码正式上线？",
-      "category": "society",
-      "hotScore": 0.525,
-      "freshness": 0.9999,
-      "crossSource": 0.6309,
-      "totalScore": 0.6993,
-      "sources": [
-        {
-          "channel": "zhihu",
-          "rank": 7,
-          "hot": 0,
-          "url": ""
-        }
-      ],
-      "summary": "",
-      "url": ""
-    },
-    {
-      "id": "evt-70000000",
-      "title": "日本选手被张展硕7枚金牌惊出表情包",
+      "id": "evt-11000000",
+      "title": "比亚迪新车纯电续航1100km打破纪录",
       "category": "society",
       "hotScore": 0.4675,
-      "freshness": 0.9999,
+      "freshness": 1,
       "crossSource": 0.6309,
-      "totalScore": 0.6762,
+      "totalScore": 0.6763,
       "sources": [
         {
           "channel": "toutiao",
           "rank": 10,
-          "hot": 11878324,
-          "url": "https://www.toutiao.com/trending/7688863275731353650/"
+          "hot": 9061878,
+          "url": "https://www.toutiao.com/trending/7689560451470000686/"
         }
       ],
       "summary": "",
-      "url": "https://www.toutiao.com/trending/7688863275731353650/"
+      "url": "https://www.toutiao.com/trending/7689560451470000686/"
     }
   ]
 }
