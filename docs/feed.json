@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-09-27T13:23:53.088Z",
+  "generatedAt": "2026-09-27T17:58:45.252Z",
   "fields": {
     "society": "社会",
     "economy": "经济",
@@ -11,14 +11,14 @@
       "title": "美民众热烈期盼大熊猫重返亚特兰大",
       "category": "society",
       "hotScore": 0.765,
-      "freshness": 0.9999,
+      "freshness": 0.9998,
       "crossSource": 1,
-      "totalScore": 0.906,
+      "totalScore": 0.9059,
       "sources": [
         {
           "channel": "toutiao",
           "rank": 3,
-          "hot": 28994931,
+          "hot": 36741806,
           "url": "https://www.toutiao.com/trending/7689377408017088548/"
         },
         {
@@ -55,44 +55,19 @@
       "title": "吴艳妮女子100米栏摘铜",
       "category": "society",
       "hotScore": 0.8075,
-      "freshness": 0.9999,
+      "freshness": 0.9998,
       "crossSource": 0.6309,
       "totalScore": 0.8122,
       "sources": [
         {
           "channel": "toutiao",
           "rank": 2,
-          "hot": 32044354,
+          "hot": 40605975,
           "url": "https://www.toutiao.com/trending/7689382446299627561/"
         }
       ],
       "summary": "",
       "url": "https://www.toutiao.com/trending/7689382446299627561/"
-    },
-    {
-      "id": "evt-11000000",
-      "title": "陈圆将110米栏金牌",
-      "category": "society",
-      "hotScore": 0.48,
-      "freshness": 0.9999,
-      "crossSource": 1,
-      "totalScore": 0.792,
-      "sources": [
-        {
-          "channel": "toutiao",
-          "rank": 15,
-          "hot": 8733105,
-          "url": "https://www.toutiao.com/trending/7690171995731791423/"
-        },
-        {
-          "channel": "baidu",
-          "rank": 9,
-          "hot": 0,
-          "url": "https://m.baidu.com/s?word=%E9%99%88%E5%9C%86%E5%B0%86110%E7%B1%B3%E6%A0%8F%E9%87%91%E7%89%8C&sa=fyb_news"
-        }
-      ],
-      "summary": "",
-      "url": "https://www.toutiao.com/trending/7690171995731791423/"
     },
     {
       "id": "evt-40000000",
@@ -114,17 +89,36 @@
       "url": "https://www.thepaper.cn/newsDetail_forward_34159796"
     },
     {
-      "id": "evt-10100000",
-      "title": "一技校 101 名毕业生入职北大，学生一般大二就被预订，主要去实验室做科研助手，这是一种怎样的职业路径？",
+      "id": "evt-03000000",
+      "title": "国足0-3不敌新西兰",
       "category": "society",
-      "hotScore": 0.675,
-      "freshness": 0.9999,
+      "hotScore": 0.7225,
+      "freshness": 0.9998,
       "crossSource": 0.6309,
-      "totalScore": 0.7592,
+      "totalScore": 0.7782,
+      "sources": [
+        {
+          "channel": "toutiao",
+          "rank": 4,
+          "hot": 33245360,
+          "url": "https://www.toutiao.com/trending/7689672028542910500/"
+        }
+      ],
+      "summary": "",
+      "url": "https://www.toutiao.com/trending/7689672028542910500/"
+    },
+    {
+      "id": "evt-20250000",
+      "title": "交强险 2025 年经营亏损 230 亿元，3.86 亿辆机动车参保，赔付支出 2524 亿元，哪些信息值得关注？",
+      "category": "society",
+      "hotScore": 0.7125,
+      "freshness": 0.9998,
+      "crossSource": 0.6309,
+      "totalScore": 0.7742,
       "sources": [
         {
           "channel": "zhihu",
-          "rank": 3,
+          "rank": 2,
           "hot": 0,
           "url": ""
         }
@@ -133,30 +127,49 @@
       "url": ""
     },
     {
-      "id": "evt-42000000",
-      "title": "黄友政林诗栋4比2战胜日本夺金",
+      "id": "evt-10152400",
+      "title": "油价将于10月15日24时调整",
       "category": "society",
-      "hotScore": 0.6,
-      "freshness": 1,
+      "hotScore": 0.6375,
+      "freshness": 0.9998,
       "crossSource": 0.6309,
-      "totalScore": 0.7293,
+      "totalScore": 0.7442,
       "sources": [
         {
-          "channel": "baidu",
+          "channel": "toutiao",
           "rank": 6,
-          "hot": 0,
-          "url": "https://m.baidu.com/s?word=%E9%BB%84%E5%8F%8B%E6%94%BF%E6%9E%97%E8%AF%97%E6%A0%8B4%E6%AF%942%E6%88%98%E8%83%9C%E6%97%A5%E6%9C%AC%E5%A4%BA%E9%87%91&sa=fyb_news"
+          "hot": 27218999,
+          "url": "https://www.toutiao.com/trending/7689402450922618931/"
         }
       ],
       "summary": "",
-      "url": "https://m.baidu.com/s?word=%E9%BB%84%E5%8F%8B%E6%94%BF%E6%9E%97%E8%AF%97%E6%A0%8B4%E6%AF%942%E6%88%98%E8%83%9C%E6%97%A5%E6%9C%AC%E5%A4%BA%E9%87%91&sa=fyb_news"
+      "url": "https://www.toutiao.com/trending/7689402450922618931/"
     },
     {
-      "id": "evt-20000000",
-      "title": "亚运会女子 200 米决赛，陈妤颉摘得银牌，如何评价本场比赛和她的表现？",
+      "id": "evt-10100000",
+      "title": "一技校 101 名毕业生入职北大，学生一般大二就被预订，主要去实验室做科研助手，这是一种怎样的职业路径？",
+      "category": "society",
+      "hotScore": 0.6375,
+      "freshness": 0.9998,
+      "crossSource": 0.6309,
+      "totalScore": 0.7442,
+      "sources": [
+        {
+          "channel": "zhihu",
+          "rank": 4,
+          "hot": 0,
+          "url": ""
+        }
+      ],
+      "summary": "",
+      "url": ""
+    },
+    {
+      "id": "evt-18000000",
+      "title": "小米 18 系列硬件防窥屏线下实测被指可视角度差、侧看偏色，这是翻车了吗？是硬件方案固有缺陷还是调校问题？",
       "category": "society",
       "hotScore": 0.6,
-      "freshness": 0.9999,
+      "freshness": 0.9998,
       "crossSource": 0.6309,
       "totalScore": 0.7292,
       "sources": [
@@ -171,67 +184,61 @@
       "url": ""
     },
     {
-      "id": "evt-13000000",
-      "title": "「每卖一辆问界，华为分走 13.6 万」的传闻是真的吗？华为赛力斯合作模式调整后，能降价反馈给消费者吗？",
-      "category": "society",
-      "hotScore": 0.5625,
-      "freshness": 0.9999,
-      "crossSource": 0.6309,
-      "totalScore": 0.7142,
-      "sources": [
-        {
-          "channel": "zhihu",
-          "rank": 6,
-          "hot": 0,
-          "url": ""
-        }
-      ],
-      "summary": "",
-      "url": ""
-    },
-    {
-      "id": "evt-71210000",
+      "id": "evt-21420000",
       "title": "男子拾荒21年领到42万养老金",
       "category": "society",
-      "hotScore": 0.28,
+      "hotScore": 0.56,
       "freshness": 0.9999,
-      "crossSource": 1,
-      "totalScore": 0.712,
+      "crossSource": 0.6309,
+      "totalScore": 0.7133,
       "sources": [
         {
-          "channel": "toutiao",
-          "rank": 19,
-          "hot": 5853975,
-          "url": "https://www.toutiao.com/trending/7690165131804147753/"
-        },
-        {
           "channel": "baidu",
-          "rank": 14,
+          "rank": 7,
           "hot": 0,
           "url": "https://m.baidu.com/s?word=%E7%94%B7%E5%AD%90%E6%8B%BE%E8%8D%9221%E5%B9%B4%E9%A2%86%E5%88%B042%E4%B8%87%E5%85%BB%E8%80%81%E9%87%91&sa=fyb_news"
         }
       ],
       "summary": "",
-      "url": "https://www.toutiao.com/trending/7690165131804147753/"
+      "url": "https://m.baidu.com/s?word=%E7%94%B7%E5%AD%90%E6%8B%BE%E8%8D%9221%E5%B9%B4%E9%A2%86%E5%88%B042%E4%B8%87%E5%85%BB%E8%80%81%E9%87%91&sa=fyb_news"
     },
     {
-      "id": "evt-17200000",
-      "title": "17岁陈妤颉田径200米摘银",
+      "id": "evt-11000000",
+      "title": "陈圆将110米栏摘金",
       "category": "society",
-      "hotScore": 0.4675,
-      "freshness": 0.9999,
+      "hotScore": 0.5525,
+      "freshness": 0.9998,
       "crossSource": 0.6309,
-      "totalScore": 0.6762,
+      "totalScore": 0.7102,
       "sources": [
         {
           "channel": "toutiao",
-          "rank": 10,
-          "hot": 14398456,
-          "url": "https://www.toutiao.com/trending/7689024369510878783/"
+          "rank": 8,
+          "hot": 22285031,
+          "url": "https://www.toutiao.com/trending/7690171995731791423/"
         }
       ],
       "summary": "",
-      "url": "https://www.toutiao.com/trending/7689024369510878783/"
+      "url": "https://www.toutiao.com/trending/7690171995731791423/"
+    },
+    {
+      "id": "evt-50000000",
+      "title": "中国连续5届世赛金牌第一",
+      "category": "society",
+      "hotScore": 0.52,
+      "freshness": 0.9999,
+      "crossSource": 0.6309,
+      "totalScore": 0.6973,
+      "sources": [
+        {
+          "channel": "baidu",
+          "rank": 8,
+          "hot": 0,
+          "url": "https://m.baidu.com/s?word=%E4%B8%AD%E5%9B%BD%E8%BF%9E%E7%BB%AD5%E5%B1%8A%E4%B8%96%E8%B5%9B%E9%87%91%E7%89%8C%E7%AC%AC%E4%B8%80&sa=fyb_news"
+        }
+      ],
+      "summary": "",
+      "url": "https://m.baidu.com/s?word=%E4%B8%AD%E5%9B%BD%E8%BF%9E%E7%BB%AD5%E5%B1%8A%E4%B8%96%E8%B5%9B%E9%87%91%E7%89%8C%E7%AC%AC%E4%B8%80&sa=fyb_news"
     }
   ]
 }
