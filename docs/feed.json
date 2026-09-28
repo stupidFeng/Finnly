@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-09-27T20:56:31.920Z",
+  "generatedAt": "2026-09-28T00:06:55.655Z",
   "fields": {
     "society": "社会",
     "economy": "经济",
@@ -18,7 +18,7 @@
         {
           "channel": "toutiao",
           "rank": 3,
-          "hot": 38169067,
+          "hot": 42900619,
           "url": "https://www.toutiao.com/trending/7689377408017088548/"
         },
         {
@@ -43,7 +43,7 @@
         {
           "channel": "toutiao",
           "rank": 1,
-          "hot": 46619804,
+          "hot": 52398934,
           "url": "https://www.toutiao.com/trending/7689672028542910500/"
         }
       ],
@@ -51,17 +51,36 @@
       "url": "https://www.toutiao.com/trending/7689672028542910500/"
     },
     {
+      "id": "evt-18000000",
+      "title": "小米 18 系列硬件防窥屏线下实测被指可视角度差、侧看偏色，这是翻车了吗？是硬件方案固有缺陷还是调校问题？",
+      "category": "society",
+      "hotScore": 0.75,
+      "freshness": 1,
+      "crossSource": 0.6309,
+      "totalScore": 0.7893,
+      "sources": [
+        {
+          "channel": "zhihu",
+          "rank": 1,
+          "hot": 0,
+          "url": ""
+        }
+      ],
+      "summary": "",
+      "url": ""
+    },
+    {
       "id": "evt-30000000",
       "title": "山西一景区3000万元招NPC，是话题营销还是突围之计？澎湃记者实地调查",
       "category": "society",
-      "hotScore": 0.85,
+      "hotScore": 0.7225,
       "freshness": 1,
       "crossSource": 0.6309,
-      "totalScore": 0.8293,
+      "totalScore": 0.7783,
       "sources": [
         {
           "channel": "thepaper",
-          "rank": 1,
+          "rank": 4,
           "hot": 0,
           "url": "https://www.thepaper.cn/newsDetail_forward_34149469"
         }
@@ -73,15 +92,15 @@
       "id": "evt-10000000",
       "title": "吴艳妮女子100米栏摘铜",
       "category": "society",
-      "hotScore": 0.8075,
+      "hotScore": 0.68,
       "freshness": 0.9999,
       "crossSource": 0.6309,
-      "totalScore": 0.8123,
+      "totalScore": 0.7613,
       "sources": [
         {
           "channel": "toutiao",
-          "rank": 2,
-          "hot": 42183343,
+          "rank": 5,
+          "hot": 35124056,
           "url": "https://www.toutiao.com/trending/7689382446299627561/"
         }
       ],
@@ -92,27 +111,8 @@
       "id": "evt-20250000",
       "title": "交强险 2025 年经营亏损 230 亿元，3.86 亿辆机动车参保，赔付支出 2524 亿元，哪些信息值得关注？",
       "category": "society",
-      "hotScore": 0.7125,
-      "freshness": 0.9999,
-      "crossSource": 0.6309,
-      "totalScore": 0.7743,
-      "sources": [
-        {
-          "channel": "zhihu",
-          "rank": 2,
-          "hot": 0,
-          "url": ""
-        }
-      ],
-      "summary": "",
-      "url": ""
-    },
-    {
-      "id": "evt-18000000",
-      "title": "小米 18 系列硬件防窥屏线下实测被指可视角度差、侧看偏色，这是翻车了吗？是硬件方案固有缺陷还是调校问题？",
-      "category": "society",
       "hotScore": 0.675,
-      "freshness": 0.9999,
+      "freshness": 1,
       "crossSource": 0.6309,
       "totalScore": 0.7593,
       "sources": [
@@ -127,55 +127,17 @@
       "url": ""
     },
     {
-      "id": "evt-40000000",
-      "title": "马上评丨4岁男童坠楼致残，临时照看的朋友该担何责",
-      "category": "society",
-      "hotScore": 0.6375,
-      "freshness": 1,
-      "crossSource": 0.6309,
-      "totalScore": 0.7443,
-      "sources": [
-        {
-          "channel": "thepaper",
-          "rank": 6,
-          "hot": 0,
-          "url": "https://www.thepaper.cn/newsDetail_forward_34159796"
-        }
-      ],
-      "summary": "",
-      "url": "https://www.thepaper.cn/newsDetail_forward_34159796"
-    },
-    {
-      "id": "evt-42000000",
-      "title": "黄友政林诗栋4比2战胜日本夺金",
-      "category": "society",
-      "hotScore": 0.56,
-      "freshness": 1,
-      "crossSource": 0.6309,
-      "totalScore": 0.7133,
-      "sources": [
-        {
-          "channel": "baidu",
-          "rank": 7,
-          "hot": 0,
-          "url": "https://m.baidu.com/s?word=%E9%BB%84%E5%8F%8B%E6%94%BF%E6%9E%97%E8%AF%97%E6%A0%8B4%E6%AF%942%E6%88%98%E8%83%9C%E6%97%A5%E6%9C%AC%E5%A4%BA%E9%87%91&sa=fyb_news"
-        }
-      ],
-      "summary": "",
-      "url": "https://m.baidu.com/s?word=%E9%BB%84%E5%8F%8B%E6%94%BF%E6%9E%97%E8%AF%97%E6%A0%8B4%E6%AF%942%E6%88%98%E8%83%9C%E6%97%A5%E6%9C%AC%E5%A4%BA%E9%87%91&sa=fyb_news"
-    },
-    {
       "id": "evt-26270000",
       "title": "26-27 乒乓球德甲联赛，樊振东 3:0 格拉尔多，如何评价本场比赛？",
       "category": "society",
-      "hotScore": 0.525,
-      "freshness": 0.9999,
+      "hotScore": 0.6,
+      "freshness": 1,
       "crossSource": 0.6309,
-      "totalScore": 0.6993,
+      "totalScore": 0.7293,
       "sources": [
         {
           "channel": "zhihu",
-          "rank": 7,
+          "rank": 5,
           "hot": 0,
           "url": ""
         }
@@ -184,37 +146,56 @@
       "url": ""
     },
     {
-      "id": "evt-39900000",
-      "title": "售价39元 主播抽成9元",
+      "id": "evt-40000000",
+      "title": "马上评丨4岁男童坠楼致残，临时照看的朋友该担何责",
       "category": "society",
-      "hotScore": 0.52,
+      "hotScore": 0.595,
       "freshness": 1,
       "crossSource": 0.6309,
-      "totalScore": 0.6973,
+      "totalScore": 0.7273,
       "sources": [
         {
-          "channel": "baidu",
-          "rank": 8,
+          "channel": "thepaper",
+          "rank": 7,
           "hot": 0,
-          "url": "https://m.baidu.com/s?word=%E5%94%AE%E4%BB%B739%E5%85%83+%E4%B8%BB%E6%92%AD%E6%8A%BD%E6%88%909%E5%85%83&sa=fyb_news"
+          "url": "https://www.thepaper.cn/newsDetail_forward_34159796"
         }
       ],
       "summary": "",
-      "url": "https://m.baidu.com/s?word=%E5%94%AE%E4%BB%B739%E5%85%83+%E4%B8%BB%E6%92%AD%E6%8A%BD%E6%88%909%E5%85%83&sa=fyb_news"
+      "url": "https://www.thepaper.cn/newsDetail_forward_34159796"
+    },
+    {
+      "id": "evt-11000000",
+      "title": "亚运男子 110 米栏，陈圆将 13 秒 15 夺金，如何评价他的表现？",
+      "category": "society",
+      "hotScore": 0.5625,
+      "freshness": 1,
+      "crossSource": 0.6309,
+      "totalScore": 0.7143,
+      "sources": [
+        {
+          "channel": "zhihu",
+          "rank": 6,
+          "hot": 0,
+          "url": ""
+        }
+      ],
+      "summary": "",
+      "url": ""
     },
     {
       "id": "evt-10152400",
       "title": "油价将于10月15日24时调整",
       "category": "society",
-      "hotScore": 0.51,
+      "hotScore": 0.4675,
       "freshness": 0.9999,
       "crossSource": 0.6309,
-      "totalScore": 0.6933,
+      "totalScore": 0.6763,
       "sources": [
         {
           "channel": "toutiao",
-          "rank": 9,
-          "hot": 20947628,
+          "rank": 10,
+          "hot": 21303817,
           "url": "https://www.toutiao.com/trending/7689402450922618931/"
         }
       ],
@@ -222,11 +203,11 @@
       "url": "https://www.toutiao.com/trending/7689402450922618931/"
     },
     {
-      "id": "evt-11000000",
-      "title": "亚运男子 110 米栏，陈圆将 13 秒 15 夺金，如何评价他的表现？",
+      "id": "evt-80000000",
+      "title": "男子 8 万救命钱被盗刷并称银行 1 条提醒短信都没发，银行称责任划分需司法机构裁决，银行到底该不该担责？",
       "category": "society",
       "hotScore": 0.45,
-      "freshness": 0.9999,
+      "freshness": 1,
       "crossSource": 0.6309,
       "totalScore": 0.6693,
       "sources": [
