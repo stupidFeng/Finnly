@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-09-28T00:06:55.655Z",
+  "generatedAt": "2026-09-28T07:55:56.179Z",
   "fields": {
     "society": "社会",
     "economy": "经济",
@@ -8,89 +8,32 @@
   "feed": [
     {
       "id": "evt-00000000",
-      "title": "美民众热烈期盼大熊猫重返亚特兰大",
+      "title": "对手穿错鞋子 中国队递补获得金银牌",
       "category": "society",
-      "hotScore": 0.765,
+      "hotScore": 0.72,
       "freshness": 0.9999,
       "crossSource": 1,
-      "totalScore": 0.906,
+      "totalScore": 0.888,
       "sources": [
         {
           "channel": "toutiao",
-          "rank": 3,
-          "hot": 42900619,
-          "url": "https://www.toutiao.com/trending/7689377408017088548/"
+          "rank": 7,
+          "hot": 11627237,
+          "url": "https://www.toutiao.com/trending/7689380000776212022/"
         },
         {
           "channel": "baidu",
-          "rank": 4,
+          "rank": 3,
           "hot": 0,
-          "url": "https://m.baidu.com/s?word=%E7%BE%8E%E6%B0%91%E4%BC%97%E7%83%AD%E7%83%88%E6%9C%9F%E7%9B%BC%E5%A4%A7%E7%86%8A%E7%8C%AB%E9%87%8D%E8%BF%94%E4%BA%9A%E7%89%B9%E5%85%B0%E5%A4%A7&sa=fyb_news"
+          "url": "https://m.baidu.com/s?word=%E5%AF%B9%E6%89%8B%E7%A9%BF%E9%94%99%E9%9E%8B%E5%AD%90+%E4%B8%AD%E5%9B%BD%E9%98%9F%E9%80%92%E8%A1%A5%E8%8E%B7%E5%BE%97%E9%87%91%E9%93%B6%E7%89%8C&sa=fyb_news"
         }
       ],
       "summary": "",
-      "url": "https://www.toutiao.com/trending/7689377408017088548/"
-    },
-    {
-      "id": "evt-03000000",
-      "title": "国足0-3不敌新西兰",
-      "category": "society",
-      "hotScore": 0.85,
-      "freshness": 0.9999,
-      "crossSource": 0.6309,
-      "totalScore": 0.8293,
-      "sources": [
-        {
-          "channel": "toutiao",
-          "rank": 1,
-          "hot": 52398934,
-          "url": "https://www.toutiao.com/trending/7689672028542910500/"
-        }
-      ],
-      "summary": "",
-      "url": "https://www.toutiao.com/trending/7689672028542910500/"
-    },
-    {
-      "id": "evt-18000000",
-      "title": "小米 18 系列硬件防窥屏线下实测被指可视角度差、侧看偏色，这是翻车了吗？是硬件方案固有缺陷还是调校问题？",
-      "category": "society",
-      "hotScore": 0.75,
-      "freshness": 1,
-      "crossSource": 0.6309,
-      "totalScore": 0.7893,
-      "sources": [
-        {
-          "channel": "zhihu",
-          "rank": 1,
-          "hot": 0,
-          "url": ""
-        }
-      ],
-      "summary": "",
-      "url": ""
+      "url": "https://www.toutiao.com/trending/7689380000776212022/"
     },
     {
       "id": "evt-30000000",
-      "title": "山西一景区3000万元招NPC，是话题营销还是突围之计？澎湃记者实地调查",
-      "category": "society",
-      "hotScore": 0.7225,
-      "freshness": 1,
-      "crossSource": 0.6309,
-      "totalScore": 0.7783,
-      "sources": [
-        {
-          "channel": "thepaper",
-          "rank": 4,
-          "hot": 0,
-          "url": "https://www.thepaper.cn/newsDetail_forward_34149469"
-        }
-      ],
-      "summary": "",
-      "url": "https://www.thepaper.cn/newsDetail_forward_34149469"
-    },
-    {
-      "id": "evt-10000000",
-      "title": "吴艳妮女子100米栏摘铜",
+      "title": "段永平买入3万股贵州茅台",
       "category": "society",
       "hotScore": 0.68,
       "freshness": 0.9999,
@@ -100,19 +43,38 @@
         {
           "channel": "toutiao",
           "rank": 5,
-          "hot": 35124056,
-          "url": "https://www.toutiao.com/trending/7689382446299627561/"
+          "hot": 14201540,
+          "url": "https://www.toutiao.com/trending/7690455230334009370/"
         }
       ],
       "summary": "",
-      "url": "https://www.toutiao.com/trending/7689382446299627561/"
+      "url": "https://www.toutiao.com/trending/7690455230334009370/"
     },
     {
-      "id": "evt-20250000",
-      "title": "交强险 2025 年经营亏损 230 亿元，3.86 亿辆机动车参保，赔付支出 2524 亿元，哪些信息值得关注？",
+      "id": "evt-48000000",
+      "title": "直播丨第48届世界技能大赛闭幕式",
+      "category": "society",
+      "hotScore": 0.68,
+      "freshness": 1,
+      "crossSource": 0.6309,
+      "totalScore": 0.7613,
+      "sources": [
+        {
+          "channel": "thepaper",
+          "rank": 5,
+          "hot": 0,
+          "url": "https://www.thepaper.cn/newsDetail_forward_34155702"
+        }
+      ],
+      "summary": "",
+      "url": "https://www.thepaper.cn/newsDetail_forward_34155702"
+    },
+    {
+      "id": "evt-50100000",
+      "title": "如果全球都降到零下 50-100 度，在提前一个月知道的情况下需要准备什么？",
       "category": "society",
       "hotScore": 0.675,
-      "freshness": 1,
+      "freshness": 0.9999,
       "crossSource": 0.6309,
       "totalScore": 0.7593,
       "sources": [
@@ -127,17 +89,17 @@
       "url": ""
     },
     {
-      "id": "evt-26270000",
-      "title": "26-27 乒乓球德甲联赛，樊振东 3:0 格拉尔多，如何评价本场比赛？",
-      "category": "society",
-      "hotScore": 0.6,
-      "freshness": 1,
+      "id": "evt-30030000",
+      "title": "中美「300 亿对 300 亿」对等降税框架公布，超 90% 产品将享受最惠国关税待遇，将带来哪些利好？",
+      "category": "economy",
+      "hotScore": 0.525,
+      "freshness": 0.9999,
       "crossSource": 0.6309,
-      "totalScore": 0.7293,
+      "totalScore": 0.6993,
       "sources": [
         {
           "channel": "zhihu",
-          "rank": 5,
+          "rank": 7,
           "hot": 0,
           "url": ""
         }
@@ -146,80 +108,42 @@
       "url": ""
     },
     {
-      "id": "evt-40000000",
-      "title": "马上评丨4岁男童坠楼致残，临时照看的朋友该担何责",
+      "id": "evt-41000000",
+      "title": "王楚钦4比1伊朗老将 晋级男单决赛",
       "category": "society",
-      "hotScore": 0.595,
+      "hotScore": 0.56,
+      "freshness": 0.9999,
+      "crossSource": 0.6309,
+      "totalScore": 0.7133,
+      "sources": [
+        {
+          "channel": "baidu",
+          "rank": 7,
+          "hot": 0,
+          "url": "https://m.baidu.com/s?word=%E7%8E%8B%E6%A5%9A%E9%92%A64%E6%AF%941%E4%BC%8A%E6%9C%97%E8%80%81%E5%B0%86+%E6%99%8B%E7%BA%A7%E7%94%B7%E5%8D%95%E5%86%B3%E8%B5%9B&sa=fyb_news"
+        }
+      ],
+      "summary": "",
+      "url": "https://m.baidu.com/s?word=%E7%8E%8B%E6%A5%9A%E9%92%A64%E6%AF%941%E4%BC%8A%E6%9C%97%E8%80%81%E5%B0%86+%E6%99%8B%E7%BA%A7%E7%94%B7%E5%8D%95%E5%86%B3%E8%B5%9B&sa=fyb_news"
+    },
+    {
+      "id": "evt-10000000",
+      "title": "陈妤颉：100米金牌是成年礼，200米银牌是教训",
+      "category": "society",
+      "hotScore": 0.51,
       "freshness": 1,
       "crossSource": 0.6309,
-      "totalScore": 0.7273,
+      "totalScore": 0.6933,
       "sources": [
         {
           "channel": "thepaper",
-          "rank": 7,
-          "hot": 0,
-          "url": "https://www.thepaper.cn/newsDetail_forward_34159796"
-        }
-      ],
-      "summary": "",
-      "url": "https://www.thepaper.cn/newsDetail_forward_34159796"
-    },
-    {
-      "id": "evt-11000000",
-      "title": "亚运男子 110 米栏，陈圆将 13 秒 15 夺金，如何评价他的表现？",
-      "category": "society",
-      "hotScore": 0.5625,
-      "freshness": 1,
-      "crossSource": 0.6309,
-      "totalScore": 0.7143,
-      "sources": [
-        {
-          "channel": "zhihu",
-          "rank": 6,
-          "hot": 0,
-          "url": ""
-        }
-      ],
-      "summary": "",
-      "url": ""
-    },
-    {
-      "id": "evt-10152400",
-      "title": "油价将于10月15日24时调整",
-      "category": "society",
-      "hotScore": 0.4675,
-      "freshness": 0.9999,
-      "crossSource": 0.6309,
-      "totalScore": 0.6763,
-      "sources": [
-        {
-          "channel": "toutiao",
-          "rank": 10,
-          "hot": 21303817,
-          "url": "https://www.toutiao.com/trending/7689402450922618931/"
-        }
-      ],
-      "summary": "",
-      "url": "https://www.toutiao.com/trending/7689402450922618931/"
-    },
-    {
-      "id": "evt-80000000",
-      "title": "男子 8 万救命钱被盗刷并称银行 1 条提醒短信都没发，银行称责任划分需司法机构裁决，银行到底该不该担责？",
-      "category": "society",
-      "hotScore": 0.45,
-      "freshness": 1,
-      "crossSource": 0.6309,
-      "totalScore": 0.6693,
-      "sources": [
-        {
-          "channel": "zhihu",
           "rank": 9,
           "hot": 0,
-          "url": ""
+          "url": "https://www.thepaper.cn/newsDetail_forward_34161277"
         }
       ],
       "summary": "",
-      "url": ""
+      "url": "https://www.thepaper.cn/newsDetail_forward_34161277"
     }
   ]
 }
