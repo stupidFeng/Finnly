@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-09-29T10:13:44.576Z",
+  "generatedAt": "2026-09-29T17:14:35.491Z",
   "fields": {
     "society": "社会",
     "economy": "经济",
@@ -7,37 +7,151 @@
   },
   "feed": [
     {
-      "id": "evt-00000000",
-      "title": "居民买房贷款贴息",
+      "id": "evt-41000000",
+      "title": "混合4×100中国夺冠 陈妤颉再添1金",
       "category": "society",
       "hotScore": 0.85,
-      "freshness": 0.9999,
+      "freshness": 0.9998,
       "crossSource": 0.6309,
-      "totalScore": 0.8293,
+      "totalScore": 0.8292,
       "sources": [
         {
           "channel": "toutiao",
           "rank": 1,
-          "hot": 31699579,
-          "url": "https://www.toutiao.com/trending/7689972419951591434/"
+          "hot": 18723349,
+          "url": "https://www.toutiao.com/trending/7690923697200172607/"
         }
       ],
       "summary": "",
-      "url": "https://www.toutiao.com/trending/7689972419951591434/"
+      "url": "https://www.toutiao.com/trending/7690923697200172607/"
+    },
+    {
+      "id": "evt-00000000",
+      "title": "北理工：教师裴某严重违反职业道德规范和行为准则，解除聘用关系",
+      "category": "society",
+      "hotScore": 0.85,
+      "freshness": 0.9998,
+      "crossSource": 0.6309,
+      "totalScore": 0.8292,
+      "sources": [
+        {
+          "channel": "thepaper",
+          "rank": 1,
+          "hot": 0,
+          "url": "https://www.thepaper.cn/newsDetail_forward_34172944"
+        }
+      ],
+      "summary": "",
+      "url": "https://www.thepaper.cn/newsDetail_forward_34172944"
+    },
+    {
+      "id": "evt-10100000",
+      "title": "居民房贷贴息政策 10 月 1 日起实施，年化贴息 1% 、最长补贴 5 年，限定房价 150 万以内，哪些信息值得关注？",
+      "category": "society",
+      "hotScore": 0.75,
+      "freshness": 0.9998,
+      "crossSource": 0.6309,
+      "totalScore": 0.7892,
+      "sources": [
+        {
+          "channel": "zhihu",
+          "rank": 1,
+          "hot": 0,
+          "url": ""
+        }
+      ],
+      "summary": "",
+      "url": ""
+    },
+    {
+      "id": "evt-50000000",
+      "title": "陕西醉驾碾压教师并拖行 5.9 公里致死案提级审理，罪名变更为故意杀人，法律上如何分析？",
+      "category": "society",
+      "hotScore": 0.7125,
+      "freshness": 0.9998,
+      "crossSource": 0.6309,
+      "totalScore": 0.7742,
+      "sources": [
+        {
+          "channel": "zhihu",
+          "rank": 2,
+          "hot": 0,
+          "url": ""
+        }
+      ],
+      "summary": "",
+      "url": ""
+    },
+    {
+      "id": "evt-20260000",
+      "title": "于和伟2026白玉兰金鹰双料视帝",
+      "category": "society",
+      "hotScore": 0.68,
+      "freshness": 0.9998,
+      "crossSource": 0.6309,
+      "totalScore": 0.7612,
+      "sources": [
+        {
+          "channel": "toutiao",
+          "rank": 5,
+          "hot": 12550636,
+          "url": "https://www.toutiao.com/trending/7690114936660246569/"
+        }
+      ],
+      "summary": "",
+      "url": "https://www.toutiao.com/trending/7690114936660246569/"
+    },
+    {
+      "id": "evt-amd00000",
+      "title": "如何看待 AMD 收购李飞飞创立的 World Labs，李飞飞将任 AMD 执行副总裁兼首席科学家？",
+      "category": "society",
+      "hotScore": 0.5625,
+      "freshness": 0.9998,
+      "crossSource": 0.6309,
+      "totalScore": 0.7142,
+      "sources": [
+        {
+          "channel": "zhihu",
+          "rank": 6,
+          "hot": 0,
+          "url": ""
+        }
+      ],
+      "summary": "",
+      "url": ""
+    },
+    {
+      "id": "evt-76000000",
+      "title": "国乒亚运会参加 7 项，拿下 6 金 4 银，仅男团未能夺金，如何评价本届亚运会国乒战绩？",
+      "category": "society",
+      "hotScore": 0.525,
+      "freshness": 0.9998,
+      "crossSource": 0.6309,
+      "totalScore": 0.6992,
+      "sources": [
+        {
+          "channel": "zhihu",
+          "rank": 7,
+          "hot": 0,
+          "url": ""
+        }
+      ],
+      "summary": "",
+      "url": ""
     },
     {
       "id": "evt-10000000",
       "title": "特朗普评中美会晤：满分10分我打12分",
       "category": "society",
-      "hotScore": 0.8075,
-      "freshness": 0.9999,
+      "hotScore": 0.51,
+      "freshness": 0.9998,
       "crossSource": 0.6309,
-      "totalScore": 0.8123,
+      "totalScore": 0.6932,
       "sources": [
         {
           "channel": "toutiao",
-          "rank": 2,
-          "hot": 28682965,
+          "rank": 9,
+          "hot": 8412943,
           "url": "https://www.toutiao.com/trending/7690091446392651839/"
         }
       ],
@@ -45,127 +159,13 @@
       "url": "https://www.toutiao.com/trending/7690091446392651839/"
     },
     {
-      "id": "evt-c0000000",
-      "title": "见微知沪｜“城市C位”献给国之栋梁，科学家精神应当走进日常",
-      "category": "society",
-      "hotScore": 0.7225,
-      "freshness": 0.9999,
-      "crossSource": 0.6309,
-      "totalScore": 0.7783,
-      "sources": [
-        {
-          "channel": "thepaper",
-          "rank": 4,
-          "hot": 0,
-          "url": "https://www.thepaper.cn/newsDetail_forward_34166428"
-        }
-      ],
-      "summary": "",
-      "url": "https://www.thepaper.cn/newsDetail_forward_34166428"
-    },
-    {
-      "id": "evt-26300000",
-      "title": "受贿2.63亿余元！彭晓春被判死缓",
-      "category": "society",
-      "hotScore": 0.72,
-      "freshness": 1,
-      "crossSource": 0.6309,
-      "totalScore": 0.7773,
-      "sources": [
-        {
-          "channel": "baidu",
-          "rank": 3,
-          "hot": 0,
-          "url": "https://m.baidu.com/s?word=%E5%8F%97%E8%B4%BF2.63%E4%BA%BF%E4%BD%99%E5%85%83%EF%BC%81%E5%BD%AD%E6%99%93%E6%98%A5%E8%A2%AB%E5%88%A4%E6%AD%BB%E7%BC%93&sa=fyb_news"
-        }
-      ],
-      "summary": "",
-      "url": "https://m.baidu.com/s?word=%E5%8F%97%E8%B4%BF2.63%E4%BA%BF%E4%BD%99%E5%85%83%EF%BC%81%E5%BD%AD%E6%99%93%E6%98%A5%E8%A2%AB%E5%88%A4%E6%AD%BB%E7%BC%93&sa=fyb_news"
-    },
-    {
-      "id": "evt-mate9000",
-      "title": "华为Mate90系列搭载睿影Z10相机模组",
-      "category": "society",
-      "hotScore": 0.6375,
-      "freshness": 0.9999,
-      "crossSource": 0.6309,
-      "totalScore": 0.7443,
-      "sources": [
-        {
-          "channel": "toutiao",
-          "rank": 6,
-          "hot": 19226766,
-          "url": "https://www.toutiao.com/trending/7690575826940772388/"
-        }
-      ],
-      "summary": "",
-      "url": "https://www.toutiao.com/trending/7690575826940772388/"
-    },
-    {
-      "id": "evt-amd00000",
-      "title": "如何看待 AMD 收购李飞飞创立的 World Labs，李飞飞将任 AMD 执行副总裁兼首席科学家？",
-      "category": "society",
-      "hotScore": 0.6375,
-      "freshness": 0.9999,
-      "crossSource": 0.6309,
-      "totalScore": 0.7443,
-      "sources": [
-        {
-          "channel": "zhihu",
-          "rank": 4,
-          "hot": 0,
-          "url": ""
-        }
-      ],
-      "summary": "",
-      "url": ""
-    },
-    {
-      "id": "evt-40000000",
-      "title": "医生：40岁后一定要防猝死",
-      "category": "society",
-      "hotScore": 0.56,
-      "freshness": 1,
-      "crossSource": 0.6309,
-      "totalScore": 0.7133,
-      "sources": [
-        {
-          "channel": "baidu",
-          "rank": 7,
-          "hot": 0,
-          "url": "https://m.baidu.com/s?word=%E5%8C%BB%E7%94%9F%EF%BC%9A40%E5%B2%81%E5%90%8E%E4%B8%80%E5%AE%9A%E8%A6%81%E9%98%B2%E7%8C%9D%E6%AD%BB&sa=fyb_news"
-        }
-      ],
-      "summary": "",
-      "url": "https://m.baidu.com/s?word=%E5%8C%BB%E7%94%9F%EF%BC%9A40%E5%B2%81%E5%90%8E%E4%B8%80%E5%AE%9A%E8%A6%81%E9%98%B2%E7%8C%9D%E6%AD%BB&sa=fyb_news"
-    },
-    {
-      "id": "evt-76000000",
-      "title": "国乒亚运会参加 7 项，拿下 6 金 4 银，仅男团未能夺金，如何评价本届亚运会国乒战绩？",
-      "category": "society",
-      "hotScore": 0.525,
-      "freshness": 0.9999,
-      "crossSource": 0.6309,
-      "totalScore": 0.6993,
-      "sources": [
-        {
-          "channel": "zhihu",
-          "rank": 7,
-          "hot": 0,
-          "url": ""
-        }
-      ],
-      "summary": "",
-      "url": ""
-    },
-    {
       "id": "evt-28000000",
       "title": "2 岁娃疑似连吃 8 个月银鳕鱼汞中毒，生产商回应深海野生银鳕天然存在微量汞，儿童食用银鳕鱼安全吗？",
       "category": "society",
       "hotScore": 0.4875,
-      "freshness": 0.9999,
+      "freshness": 0.9998,
       "crossSource": 0.6309,
-      "totalScore": 0.6843,
+      "totalScore": 0.6842,
       "sources": [
         {
           "channel": "zhihu",
@@ -178,23 +178,23 @@
       "url": ""
     },
     {
-      "id": "evt-10400000",
-      "title": "俄军10个月扩编4次释放何信号",
+      "id": "evt-85900000",
+      "title": "8.59 元香菜遭「仅退款」，商家驱车千里跨省讨回，如何评价？电商商家维权成本这么高，症结在哪？",
       "category": "society",
-      "hotScore": 0.4675,
-      "freshness": 0.9999,
+      "hotScore": 0.45,
+      "freshness": 0.9998,
       "crossSource": 0.6309,
-      "totalScore": 0.6763,
+      "totalScore": 0.6692,
       "sources": [
         {
-          "channel": "toutiao",
-          "rank": 10,
-          "hot": 12888087,
-          "url": "https://www.toutiao.com/trending/7690840765945089572/"
+          "channel": "zhihu",
+          "rank": 9,
+          "hot": 0,
+          "url": ""
         }
       ],
       "summary": "",
-      "url": "https://www.toutiao.com/trending/7690840765945089572/"
+      "url": ""
     }
   ]
 }
