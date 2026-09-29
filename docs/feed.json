@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-09-29T17:14:35.491Z",
+  "generatedAt": "2026-09-29T21:38:14.630Z",
   "fields": {
     "society": "社会",
     "economy": "经济",
@@ -7,51 +7,32 @@
   },
   "feed": [
     {
-      "id": "evt-41000000",
-      "title": "混合4×100中国夺冠 陈妤颉再添1金",
+      "id": "evt-00000000",
+      "title": "房贷贴息",
       "category": "society",
       "hotScore": 0.85,
-      "freshness": 0.9998,
+      "freshness": 0.9999,
       "crossSource": 0.6309,
-      "totalScore": 0.8292,
+      "totalScore": 0.8293,
       "sources": [
         {
           "channel": "toutiao",
           "rank": 1,
-          "hot": 18723349,
-          "url": "https://www.toutiao.com/trending/7690923697200172607/"
+          "hot": 20086649,
+          "url": "https://www.toutiao.com/trending/7689972419951591434/"
         }
       ],
       "summary": "",
-      "url": "https://www.toutiao.com/trending/7690923697200172607/"
-    },
-    {
-      "id": "evt-00000000",
-      "title": "北理工：教师裴某严重违反职业道德规范和行为准则，解除聘用关系",
-      "category": "society",
-      "hotScore": 0.85,
-      "freshness": 0.9998,
-      "crossSource": 0.6309,
-      "totalScore": 0.8292,
-      "sources": [
-        {
-          "channel": "thepaper",
-          "rank": 1,
-          "hot": 0,
-          "url": "https://www.thepaper.cn/newsDetail_forward_34172944"
-        }
-      ],
-      "summary": "",
-      "url": "https://www.thepaper.cn/newsDetail_forward_34172944"
+      "url": "https://www.toutiao.com/trending/7689972419951591434/"
     },
     {
       "id": "evt-10100000",
       "title": "居民房贷贴息政策 10 月 1 日起实施，年化贴息 1% 、最长补贴 5 年，限定房价 150 万以内，哪些信息值得关注？",
       "category": "society",
       "hotScore": 0.75,
-      "freshness": 0.9998,
+      "freshness": 0.9999,
       "crossSource": 0.6309,
-      "totalScore": 0.7892,
+      "totalScore": 0.7893,
       "sources": [
         {
           "channel": "zhihu",
@@ -68,9 +49,9 @@
       "title": "陕西醉驾碾压教师并拖行 5.9 公里致死案提级审理，罪名变更为故意杀人，法律上如何分析？",
       "category": "society",
       "hotScore": 0.7125,
-      "freshness": 0.9998,
+      "freshness": 0.9999,
       "crossSource": 0.6309,
-      "totalScore": 0.7742,
+      "totalScore": 0.7743,
       "sources": [
         {
           "channel": "zhihu",
@@ -87,14 +68,14 @@
       "title": "于和伟2026白玉兰金鹰双料视帝",
       "category": "society",
       "hotScore": 0.68,
-      "freshness": 0.9998,
+      "freshness": 0.9999,
       "crossSource": 0.6309,
-      "totalScore": 0.7612,
+      "totalScore": 0.7613,
       "sources": [
         {
           "channel": "toutiao",
           "rank": 5,
-          "hot": 12550636,
+          "hot": 13464483,
           "url": "https://www.toutiao.com/trending/7690114936660246569/"
         }
       ],
@@ -102,74 +83,17 @@
       "url": "https://www.toutiao.com/trending/7690114936660246569/"
     },
     {
-      "id": "evt-amd00000",
-      "title": "如何看待 AMD 收购李飞飞创立的 World Labs，李飞飞将任 AMD 执行副总裁兼首席科学家？",
-      "category": "society",
-      "hotScore": 0.5625,
-      "freshness": 0.9998,
+      "id": "evt-anthro00",
+      "title": "怎么看媒体曝 Anthropic 提交 IPO 招股书，25 年营收增长 12 倍，净亏损 420 亿美元？",
+      "category": "economy",
+      "hotScore": 0.45,
+      "freshness": 0.9999,
       "crossSource": 0.6309,
-      "totalScore": 0.7142,
+      "totalScore": 0.6693,
       "sources": [
         {
           "channel": "zhihu",
-          "rank": 6,
-          "hot": 0,
-          "url": ""
-        }
-      ],
-      "summary": "",
-      "url": ""
-    },
-    {
-      "id": "evt-76000000",
-      "title": "国乒亚运会参加 7 项，拿下 6 金 4 银，仅男团未能夺金，如何评价本届亚运会国乒战绩？",
-      "category": "society",
-      "hotScore": 0.525,
-      "freshness": 0.9998,
-      "crossSource": 0.6309,
-      "totalScore": 0.6992,
-      "sources": [
-        {
-          "channel": "zhihu",
-          "rank": 7,
-          "hot": 0,
-          "url": ""
-        }
-      ],
-      "summary": "",
-      "url": ""
-    },
-    {
-      "id": "evt-10000000",
-      "title": "特朗普评中美会晤：满分10分我打12分",
-      "category": "society",
-      "hotScore": 0.51,
-      "freshness": 0.9998,
-      "crossSource": 0.6309,
-      "totalScore": 0.6932,
-      "sources": [
-        {
-          "channel": "toutiao",
           "rank": 9,
-          "hot": 8412943,
-          "url": "https://www.toutiao.com/trending/7690091446392651839/"
-        }
-      ],
-      "summary": "",
-      "url": "https://www.toutiao.com/trending/7690091446392651839/"
-    },
-    {
-      "id": "evt-28000000",
-      "title": "2 岁娃疑似连吃 8 个月银鳕鱼汞中毒，生产商回应深海野生银鳕天然存在微量汞，儿童食用银鳕鱼安全吗？",
-      "category": "society",
-      "hotScore": 0.4875,
-      "freshness": 0.9998,
-      "crossSource": 0.6309,
-      "totalScore": 0.6842,
-      "sources": [
-        {
-          "channel": "zhihu",
-          "rank": 8,
           "hot": 0,
           "url": ""
         }
@@ -181,20 +105,96 @@
       "id": "evt-85900000",
       "title": "8.59 元香菜遭「仅退款」，商家驱车千里跨省讨回，如何评价？电商商家维权成本这么高，症结在哪？",
       "category": "society",
-      "hotScore": 0.45,
-      "freshness": 0.9998,
+      "hotScore": 0.675,
+      "freshness": 0.9999,
       "crossSource": 0.6309,
-      "totalScore": 0.6692,
+      "totalScore": 0.7593,
       "sources": [
         {
           "channel": "zhihu",
-          "rank": 9,
+          "rank": 3,
           "hot": 0,
           "url": ""
         }
       ],
       "summary": "",
       "url": ""
+    },
+    {
+      "id": "evt-10000000",
+      "title": "房贷贴息后100万房贷月供能省多少",
+      "category": "society",
+      "hotScore": 0.6375,
+      "freshness": 0.9999,
+      "crossSource": 0.6309,
+      "totalScore": 0.7443,
+      "sources": [
+        {
+          "channel": "toutiao",
+          "rank": 6,
+          "hot": 12183168,
+          "url": "https://www.toutiao.com/trending/7690109036972851219/"
+        }
+      ],
+      "summary": "",
+      "url": "https://www.toutiao.com/trending/7690109036972851219/"
+    },
+    {
+      "id": "evt-42000000",
+      "title": "老人报警丢4万民警找出23万",
+      "category": "society",
+      "hotScore": 0.56,
+      "freshness": 1,
+      "crossSource": 0.6309,
+      "totalScore": 0.7133,
+      "sources": [
+        {
+          "channel": "baidu",
+          "rank": 7,
+          "hot": 0,
+          "url": "https://m.baidu.com/s?word=%E8%80%81%E4%BA%BA%E6%8A%A5%E8%AD%A6%E4%B8%A24%E4%B8%87%E6%B0%91%E8%AD%A6%E6%89%BE%E5%87%BA23%E4%B8%87&sa=fyb_news"
+        }
+      ],
+      "summary": "",
+      "url": "https://m.baidu.com/s?word=%E8%80%81%E4%BA%BA%E6%8A%A5%E8%AD%A6%E4%B8%A24%E4%B8%87%E6%B0%91%E8%AD%A6%E6%89%BE%E5%87%BA23%E4%B8%87&sa=fyb_news"
+    },
+    {
+      "id": "evt-24400000",
+      "title": "俄罗斯扩军到244万意味着什么",
+      "category": "society",
+      "hotScore": 0.5525,
+      "freshness": 0.9999,
+      "crossSource": 0.6309,
+      "totalScore": 0.7103,
+      "sources": [
+        {
+          "channel": "toutiao",
+          "rank": 8,
+          "hot": 9974735,
+          "url": "https://www.toutiao.com/trending/7690957101127962163/"
+        }
+      ],
+      "summary": "",
+      "url": "https://www.toutiao.com/trending/7690957101127962163/"
+    },
+    {
+      "id": "evt-41000000",
+      "title": "混合4×100中国夺冠 陈妤颉再添1金",
+      "category": "society",
+      "hotScore": 0.51,
+      "freshness": 0.9999,
+      "crossSource": 0.6309,
+      "totalScore": 0.6933,
+      "sources": [
+        {
+          "channel": "toutiao",
+          "rank": 9,
+          "hot": 9025513,
+          "url": "https://www.toutiao.com/trending/7690923697200172607/"
+        }
+      ],
+      "summary": "",
+      "url": "https://www.toutiao.com/trending/7690923697200172607/"
     }
   ]
 }
