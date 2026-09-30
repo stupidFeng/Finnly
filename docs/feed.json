@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-09-30T07:41:22.464Z",
+  "generatedAt": "2026-09-30T14:24:10.490Z",
   "fields": {
     "society": "社会",
     "economy": "经济",
@@ -7,27 +7,8 @@
   },
   "feed": [
     {
-      "id": "evt-vs000000",
-      "title": "陪看中国亚运男足vs韩国",
-      "category": "society",
-      "hotScore": 0.85,
-      "freshness": 0.9999,
-      "crossSource": 0.6309,
-      "totalScore": 0.8293,
-      "sources": [
-        {
-          "channel": "toutiao",
-          "rank": 1,
-          "hot": 27281987,
-          "url": "https://www.toutiao.com/trending/7690877054879596582/"
-        }
-      ],
-      "summary": "",
-      "url": "https://www.toutiao.com/trending/7690877054879596582/"
-    },
-    {
-      "id": "evt-00000000",
-      "title": "北理工：教师裴某严重违反职业道德规范和行为准则，解除聘用关系",
+      "id": "evt-80000000",
+      "title": "公安部公布8起新型涉黑恶犯罪典型案例，涉及舆情敲诈等",
       "category": "society",
       "hotScore": 0.85,
       "freshness": 1,
@@ -38,15 +19,72 @@
           "channel": "thepaper",
           "rank": 1,
           "hot": 0,
-          "url": "https://www.thepaper.cn/newsDetail_forward_34172944"
+          "url": "https://www.thepaper.cn/newsDetail_forward_34174102"
         }
       ],
       "summary": "",
-      "url": "https://www.thepaper.cn/newsDetail_forward_34172944"
+      "url": "https://www.thepaper.cn/newsDetail_forward_34174102"
     },
     {
-      "id": "evt-73800000",
-      "title": "“免费试用”被扣738元",
+      "id": "evt-22000000",
+      "title": "解放军22架艘次军机舰船位台岛周边活动",
+      "category": "society",
+      "hotScore": 0.85,
+      "freshness": 0.9999,
+      "crossSource": 0.6309,
+      "totalScore": 0.8292,
+      "sources": [
+        {
+          "channel": "toutiao",
+          "rank": 1,
+          "hot": 18185110,
+          "url": "https://www.toutiao.com/trending/7691226500619731466/"
+        }
+      ],
+      "summary": "",
+      "url": "https://www.toutiao.com/trending/7691226500619731466/"
+    },
+    {
+      "id": "evt-00000000",
+      "title": "商务部就媒体报道欧盟相关成员国推动欧委会打造欧版“301”工具事答问",
+      "category": "society",
+      "hotScore": 0.8075,
+      "freshness": 1,
+      "crossSource": 0.6309,
+      "totalScore": 0.8123,
+      "sources": [
+        {
+          "channel": "thepaper",
+          "rank": 2,
+          "hot": 0,
+          "url": "https://www.thepaper.cn/newsDetail_forward_34174305"
+        }
+      ],
+      "summary": "",
+      "url": "https://www.thepaper.cn/newsDetail_forward_34174305"
+    },
+    {
+      "id": "evt-77000000",
+      "title": "国庆77周年招待会在京举行",
+      "category": "society",
+      "hotScore": 0.8,
+      "freshness": 1,
+      "crossSource": 0.6309,
+      "totalScore": 0.8093,
+      "sources": [
+        {
+          "channel": "baidu",
+          "rank": 1,
+          "hot": 0,
+          "url": "https://m.baidu.com/s?word=%E5%9B%BD%E5%BA%8677%E5%91%A8%E5%B9%B4%E6%8B%9B%E5%BE%85%E4%BC%9A%E5%9C%A8%E4%BA%AC%E4%B8%BE%E8%A1%8C&sa=fyb_news"
+        }
+      ],
+      "summary": "",
+      "url": "https://m.baidu.com/s?word=%E5%9B%BD%E5%BA%8677%E5%91%A8%E5%B9%B4%E6%8B%9B%E5%BE%85%E4%BC%9A%E5%9C%A8%E4%BA%AC%E4%B8%BE%E8%A1%8C&sa=fyb_news"
+    },
+    {
+      "id": "evt-15200000",
+      "title": "“一年举报1520次”就该及时叫停",
       "category": "society",
       "hotScore": 0.76,
       "freshness": 1,
@@ -57,43 +95,24 @@
           "channel": "baidu",
           "rank": 2,
           "hot": 0,
-          "url": "https://m.baidu.com/s?word=%E2%80%9C%E5%85%8D%E8%B4%B9%E8%AF%95%E7%94%A8%E2%80%9D%E8%A2%AB%E6%89%A3738%E5%85%83&sa=fyb_news"
+          "url": "https://m.baidu.com/s?word=%E2%80%9C%E4%B8%80%E5%B9%B4%E4%B8%BE%E6%8A%A51520%E6%AC%A1%E2%80%9D%E5%B0%B1%E8%AF%A5%E5%8F%8A%E6%97%B6%E5%8F%AB%E5%81%9C&sa=fyb_news"
         }
       ],
       "summary": "",
-      "url": "https://m.baidu.com/s?word=%E2%80%9C%E5%85%8D%E8%B4%B9%E8%AF%95%E7%94%A8%E2%80%9D%E8%A2%AB%E6%89%A3738%E5%85%83&sa=fyb_news"
-    },
-    {
-      "id": "evt-00880000",
-      "title": "00后员工拒收老板8.8万元彩礼钱",
-      "category": "society",
-      "hotScore": 0.64,
-      "freshness": 1,
-      "crossSource": 0.6309,
-      "totalScore": 0.7453,
-      "sources": [
-        {
-          "channel": "baidu",
-          "rank": 5,
-          "hot": 0,
-          "url": "https://m.baidu.com/s?word=00%E5%90%8E%E5%91%98%E5%B7%A5%E6%8B%92%E6%94%B6%E8%80%81%E6%9D%BF8.8%E4%B8%87%E5%85%83%E5%BD%A9%E7%A4%BC%E9%92%B1&sa=fyb_news"
-        }
-      ],
-      "summary": "",
-      "url": "https://m.baidu.com/s?word=00%E5%90%8E%E5%91%98%E5%B7%A5%E6%8B%92%E6%94%B6%E8%80%81%E6%9D%BF8.8%E4%B8%87%E5%85%83%E5%BD%A9%E7%A4%BC%E9%92%B1&sa=fyb_news"
+      "url": "https://m.baidu.com/s?word=%E2%80%9C%E4%B8%80%E5%B9%B4%E4%B8%BE%E6%8A%A51520%E6%AC%A1%E2%80%9D%E5%B0%B1%E8%AF%A5%E5%8F%8A%E6%97%B6%E5%8F%AB%E5%81%9C&sa=fyb_news"
     },
     {
       "id": "evt-25000000",
       "title": "25 岁博主嘻嘻徐宝患胃癌去世，曾自述患癌前每天 12 点到 2 点间睡觉、爱喝奶茶，哪些习惯可能导致患胃癌？",
       "category": "society",
-      "hotScore": 0.6375,
-      "freshness": 1,
+      "hotScore": 0.75,
+      "freshness": 0.9999,
       "crossSource": 0.6309,
-      "totalScore": 0.7443,
+      "totalScore": 0.7892,
       "sources": [
         {
           "channel": "zhihu",
-          "rank": 4,
+          "rank": 1,
           "hot": 0,
           "url": ""
         }
@@ -102,36 +121,42 @@
       "url": ""
     },
     {
-      "id": "evt-80000000",
-      "title": "公安部公布8起新型涉黑恶犯罪典型案例，涉及舆情敲诈等",
+      "id": "evt-20000000",
+      "title": "男子用土豆当主食半年瘦25斤",
       "category": "society",
-      "hotScore": 0.6375,
-      "freshness": 1,
-      "crossSource": 0.6309,
-      "totalScore": 0.7443,
+      "hotScore": 0.4675,
+      "freshness": 0.9999,
+      "crossSource": 1,
+      "totalScore": 0.787,
       "sources": [
         {
-          "channel": "thepaper",
-          "rank": 6,
+          "channel": "toutiao",
+          "rank": 10,
+          "hot": 7393514,
+          "url": "https://www.toutiao.com/trending/7690644854237511706/"
+        },
+        {
+          "channel": "baidu",
+          "rank": 14,
           "hot": 0,
-          "url": "https://www.thepaper.cn/newsDetail_forward_34174102"
+          "url": "https://m.baidu.com/s?word=%E7%94%B7%E5%AD%90%E7%94%A8%E5%9C%9F%E8%B1%86%E5%BD%93%E4%B8%BB%E9%A3%9F%E5%8D%8A%E5%B9%B4%E7%98%A625%E6%96%A4&sa=fyb_news"
         }
       ],
       "summary": "",
-      "url": "https://www.thepaper.cn/newsDetail_forward_34174102"
+      "url": "https://www.toutiao.com/trending/7690644854237511706/"
     },
     {
-      "id": "evt-deepseek",
-      "title": "如何评价 DeepSeek Harness 桌面版正式发布？",
+      "id": "evt-gpt6astra",
+      "title": "为什么 GPT-6 Astra 玩《我的世界》被炸毁进度后连续数小时种植土豆？这种异常行为怎么产生的？",
       "category": "society",
-      "hotScore": 0.5625,
-      "freshness": 1,
+      "hotScore": 0.675,
+      "freshness": 0.9999,
       "crossSource": 0.6309,
-      "totalScore": 0.7143,
+      "totalScore": 0.7592,
       "sources": [
         {
           "channel": "zhihu",
-          "rank": 6,
+          "rank": 3,
           "hot": 0,
           "url": ""
         }
@@ -141,79 +166,98 @@
     },
     {
       "id": "evt-40000000",
-      "title": "时隔40年亚运男足再次攻破韩国球门",
+      "title": "王钰栋单刀破门打破40年魔咒",
       "category": "society",
-      "hotScore": 0.56,
-      "freshness": 1,
+      "hotScore": 0.6375,
+      "freshness": 0.9999,
       "crossSource": 0.6309,
-      "totalScore": 0.7133,
+      "totalScore": 0.7442,
       "sources": [
         {
-          "channel": "baidu",
-          "rank": 7,
-          "hot": 0,
-          "url": "https://m.baidu.com/s?word=%E6%97%B6%E9%9A%9440%E5%B9%B4%E4%BA%9A%E8%BF%90%E7%94%B7%E8%B6%B3%E5%86%8D%E6%AC%A1%E6%94%BB%E7%A0%B4%E9%9F%A9%E5%9B%BD%E7%90%83%E9%97%A8&sa=fyb_news"
+          "channel": "toutiao",
+          "rank": 6,
+          "hot": 11029827,
+          "url": "https://www.toutiao.com/trending/7690600782522073131/"
         }
       ],
       "summary": "",
-      "url": "https://m.baidu.com/s?word=%E6%97%B6%E9%9A%9440%E5%B9%B4%E4%BA%9A%E8%BF%90%E7%94%B7%E8%B6%B3%E5%86%8D%E6%AC%A1%E6%94%BB%E7%A0%B4%E9%9F%A9%E5%9B%BD%E7%90%83%E9%97%A8&sa=fyb_news"
+      "url": "https://www.toutiao.com/trending/7690600782522073131/"
     },
     {
-      "id": "evt-98500000",
-      "title": "为啥到底谁是中上 985，谁是中下 985，吵得不可开交，但几乎没人吵谁是中上 211，谁是中下 211？",
+      "id": "evt-20100000",
+      "title": "妈妈拿巨型碗劝2米01儿子好好吃饭",
       "category": "society",
-      "hotScore": 0.525,
+      "hotScore": 0.6,
       "freshness": 1,
       "crossSource": 0.6309,
-      "totalScore": 0.6993,
+      "totalScore": 0.7293,
+      "sources": [
+        {
+          "channel": "baidu",
+          "rank": 6,
+          "hot": 0,
+          "url": "https://m.baidu.com/s?word=%E5%A6%88%E5%A6%88%E6%8B%BF%E5%B7%A8%E5%9E%8B%E7%A2%97%E5%8A%9D2%E7%B1%B301%E5%84%BF%E5%AD%90%E5%A5%BD%E5%A5%BD%E5%90%83%E9%A5%AD&sa=fyb_news"
+        }
+      ],
+      "summary": "",
+      "url": "https://m.baidu.com/s?word=%E5%A6%88%E5%A6%88%E6%8B%BF%E5%B7%A8%E5%9E%8B%E7%A2%97%E5%8A%9D2%E7%B1%B301%E5%84%BF%E5%AD%90%E5%A5%BD%E5%A5%BD%E5%90%83%E9%A5%AD&sa=fyb_news"
+    },
+    {
+      "id": "evt-cnn00000",
+      "title": "特朗普羞辱CNN记者 扎克伯格笑容消失",
+      "category": "society",
+      "hotScore": 0.595,
+      "freshness": 0.9999,
+      "crossSource": 0.6309,
+      "totalScore": 0.7272,
+      "sources": [
+        {
+          "channel": "toutiao",
+          "rank": 7,
+          "hot": 9980200,
+          "url": "https://www.toutiao.com/trending/7691106948149739570/"
+        }
+      ],
+      "summary": "",
+      "url": "https://www.toutiao.com/trending/7691106948149739570/"
+    },
+    {
+      "id": "evt-openai00",
+      "title": "美国调查OpenAI及其他前沿AI实验室",
+      "category": "society",
+      "hotScore": 0.5525,
+      "freshness": 0.9999,
+      "crossSource": 0.6309,
+      "totalScore": 0.7102,
+      "sources": [
+        {
+          "channel": "toutiao",
+          "rank": 8,
+          "hot": 9030458,
+          "url": "https://www.toutiao.com/trending/7691326136625663497/"
+        }
+      ],
+      "summary": "",
+      "url": "https://www.toutiao.com/trending/7691326136625663497/"
+    },
+    {
+      "id": "evt-deepseek",
+      "title": "如何看待 DeepSeek 开源昇腾基础组件？",
+      "category": "society",
+      "hotScore": 0.4875,
+      "freshness": 0.9999,
+      "crossSource": 0.6309,
+      "totalScore": 0.6842,
       "sources": [
         {
           "channel": "zhihu",
-          "rank": 7,
+          "rank": 8,
           "hot": 0,
           "url": ""
         }
       ],
       "summary": "",
       "url": ""
-    },
-    {
-      "id": "evt-u2300000",
-      "title": "中国U23男足被扳平",
-      "category": "society",
-      "hotScore": 0.52,
-      "freshness": 1,
-      "crossSource": 0.6309,
-      "totalScore": 0.6973,
-      "sources": [
-        {
-          "channel": "baidu",
-          "rank": 8,
-          "hot": 0,
-          "url": "https://m.baidu.com/s?word=%E4%B8%AD%E5%9B%BDU23%E7%94%B7%E8%B6%B3%E8%A2%AB%E6%89%B3%E5%B9%B3&sa=fyb_news"
-        }
-      ],
-      "summary": "",
-      "url": "https://m.baidu.com/s?word=%E4%B8%AD%E5%9B%BDU23%E7%94%B7%E8%B6%B3%E8%A2%AB%E6%89%B3%E5%B9%B3&sa=fyb_news"
-    },
-    {
-      "id": "evt-10100000",
-      "title": "居民房贷贴息政策10月1日起实施",
-      "category": "society",
-      "hotScore": 0.4675,
-      "freshness": 1,
-      "crossSource": 0.6309,
-      "totalScore": 0.6763,
-      "sources": [
-        {
-          "channel": "thepaper",
-          "rank": 10,
-          "hot": 0,
-          "url": "https://www.thepaper.cn/newsDetail_forward_34172659"
-        }
-      ],
-      "summary": "",
-      "url": "https://www.thepaper.cn/newsDetail_forward_34172659"
     }
   ]
 }
