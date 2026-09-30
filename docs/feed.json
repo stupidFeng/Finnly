@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-09-30T14:24:10.490Z",
+  "generatedAt": "2026-09-30T20:23:38.346Z",
   "fields": {
     "society": "社会",
     "economy": "经济",
@@ -7,11 +7,11 @@
   },
   "feed": [
     {
-      "id": "evt-80000000",
-      "title": "公安部公布8起新型涉黑恶犯罪典型案例，涉及舆情敲诈等",
+      "id": "evt-00000000",
+      "title": "马上评｜“空姐下跪”热搜高挂，真相不该再迟到",
       "category": "society",
       "hotScore": 0.85,
-      "freshness": 1,
+      "freshness": 0.9999,
       "crossSource": 0.6309,
       "totalScore": 0.8293,
       "sources": [
@@ -19,49 +19,55 @@
           "channel": "thepaper",
           "rank": 1,
           "hot": 0,
-          "url": "https://www.thepaper.cn/newsDetail_forward_34174102"
+          "url": "https://www.thepaper.cn/newsDetail_forward_34178371"
         }
       ],
       "summary": "",
-      "url": "https://www.thepaper.cn/newsDetail_forward_34174102"
+      "url": "https://www.thepaper.cn/newsDetail_forward_34178371"
+    },
+    {
+      "id": "evt-20000000",
+      "title": "男子用土豆当主食半年瘦25斤",
+      "category": "society",
+      "hotScore": 0.5525,
+      "freshness": 0.9999,
+      "crossSource": 1,
+      "totalScore": 0.821,
+      "sources": [
+        {
+          "channel": "toutiao",
+          "rank": 8,
+          "hot": 10705141,
+          "url": "https://www.toutiao.com/trending/7690644854237511706/"
+        },
+        {
+          "channel": "baidu",
+          "rank": 16,
+          "hot": 0,
+          "url": "https://m.baidu.com/s?word=%E7%94%B7%E5%AD%90%E7%94%A8%E5%9C%9F%E8%B1%86%E5%BD%93%E4%B8%BB%E9%A3%9F%E5%8D%8A%E5%B9%B4%E7%98%A625%E6%96%A4&sa=fyb_news"
+        }
+      ],
+      "summary": "",
+      "url": "https://www.toutiao.com/trending/7690644854237511706/"
     },
     {
       "id": "evt-22000000",
       "title": "解放军22架艘次军机舰船位台岛周边活动",
       "category": "society",
-      "hotScore": 0.85,
+      "hotScore": 0.8075,
       "freshness": 0.9999,
       "crossSource": 0.6309,
-      "totalScore": 0.8292,
+      "totalScore": 0.8122,
       "sources": [
         {
           "channel": "toutiao",
-          "rank": 1,
-          "hot": 18185110,
+          "rank": 2,
+          "hot": 19506038,
           "url": "https://www.toutiao.com/trending/7691226500619731466/"
         }
       ],
       "summary": "",
       "url": "https://www.toutiao.com/trending/7691226500619731466/"
-    },
-    {
-      "id": "evt-00000000",
-      "title": "商务部就媒体报道欧盟相关成员国推动欧委会打造欧版“301”工具事答问",
-      "category": "society",
-      "hotScore": 0.8075,
-      "freshness": 1,
-      "crossSource": 0.6309,
-      "totalScore": 0.8123,
-      "sources": [
-        {
-          "channel": "thepaper",
-          "rank": 2,
-          "hot": 0,
-          "url": "https://www.thepaper.cn/newsDetail_forward_34174305"
-        }
-      ],
-      "summary": "",
-      "url": "https://www.thepaper.cn/newsDetail_forward_34174305"
     },
     {
       "id": "evt-77000000",
@@ -83,8 +89,8 @@
       "url": "https://m.baidu.com/s?word=%E5%9B%BD%E5%BA%8677%E5%91%A8%E5%B9%B4%E6%8B%9B%E5%BE%85%E4%BC%9A%E5%9C%A8%E4%BA%AC%E4%B8%BE%E8%A1%8C&sa=fyb_news"
     },
     {
-      "id": "evt-15200000",
-      "title": "“一年举报1520次”就该及时叫停",
+      "id": "evt-25290000",
+      "title": "去年中国25至29岁结婚人数最多",
       "category": "society",
       "hotScore": 0.76,
       "freshness": 1,
@@ -95,24 +101,43 @@
           "channel": "baidu",
           "rank": 2,
           "hot": 0,
-          "url": "https://m.baidu.com/s?word=%E2%80%9C%E4%B8%80%E5%B9%B4%E4%B8%BE%E6%8A%A51520%E6%AC%A1%E2%80%9D%E5%B0%B1%E8%AF%A5%E5%8F%8A%E6%97%B6%E5%8F%AB%E5%81%9C&sa=fyb_news"
+          "url": "https://m.baidu.com/s?word=%E5%8E%BB%E5%B9%B4%E4%B8%AD%E5%9B%BD25%E8%87%B329%E5%B2%81%E7%BB%93%E5%A9%9A%E4%BA%BA%E6%95%B0%E6%9C%80%E5%A4%9A&sa=fyb_news"
         }
       ],
       "summary": "",
-      "url": "https://m.baidu.com/s?word=%E2%80%9C%E4%B8%80%E5%B9%B4%E4%B8%BE%E6%8A%A51520%E6%AC%A1%E2%80%9D%E5%B0%B1%E8%AF%A5%E5%8F%8A%E6%97%B6%E5%8F%AB%E5%81%9C&sa=fyb_news"
+      "url": "https://m.baidu.com/s?word=%E5%8E%BB%E5%B9%B4%E4%B8%AD%E5%9B%BD25%E8%87%B329%E5%B2%81%E7%BB%93%E5%A9%9A%E4%BA%BA%E6%95%B0%E6%9C%80%E5%A4%9A&sa=fyb_news"
     },
     {
-      "id": "evt-25000000",
-      "title": "25 岁博主嘻嘻徐宝患胃癌去世，曾自述患癌前每天 12 点到 2 点间睡觉、爱喝奶茶，哪些习惯可能导致患胃癌？",
+      "id": "evt-wt000000",
+      "title": "王楚钦林诗栋因伤退出WTT中国大满贯",
       "category": "society",
-      "hotScore": 0.75,
+      "hotScore": 0.7225,
       "freshness": 0.9999,
       "crossSource": 0.6309,
-      "totalScore": 0.7892,
+      "totalScore": 0.7782,
+      "sources": [
+        {
+          "channel": "toutiao",
+          "rank": 4,
+          "hot": 15970193,
+          "url": "https://www.toutiao.com/trending/7691330757859479066/"
+        }
+      ],
+      "summary": "",
+      "url": "https://www.toutiao.com/trending/7691330757859479066/"
+    },
+    {
+      "id": "evt-gpt6astra",
+      "title": "为什么 GPT-6 Astra 玩《我的世界》被炸毁进度后连续数小时种植土豆？这种异常行为怎么产生的？",
+      "category": "society",
+      "hotScore": 0.7125,
+      "freshness": 0.9999,
+      "crossSource": 0.6309,
+      "totalScore": 0.7743,
       "sources": [
         {
           "channel": "zhihu",
-          "rank": 1,
+          "rank": 2,
           "hot": 0,
           "url": ""
         }
@@ -121,38 +146,13 @@
       "url": ""
     },
     {
-      "id": "evt-20000000",
-      "title": "男子用土豆当主食半年瘦25斤",
-      "category": "society",
-      "hotScore": 0.4675,
-      "freshness": 0.9999,
-      "crossSource": 1,
-      "totalScore": 0.787,
-      "sources": [
-        {
-          "channel": "toutiao",
-          "rank": 10,
-          "hot": 7393514,
-          "url": "https://www.toutiao.com/trending/7690644854237511706/"
-        },
-        {
-          "channel": "baidu",
-          "rank": 14,
-          "hot": 0,
-          "url": "https://m.baidu.com/s?word=%E7%94%B7%E5%AD%90%E7%94%A8%E5%9C%9F%E8%B1%86%E5%BD%93%E4%B8%BB%E9%A3%9F%E5%8D%8A%E5%B9%B4%E7%98%A625%E6%96%A4&sa=fyb_news"
-        }
-      ],
-      "summary": "",
-      "url": "https://www.toutiao.com/trending/7690644854237511706/"
-    },
-    {
-      "id": "evt-gpt6astra",
-      "title": "为什么 GPT-6 Astra 玩《我的世界》被炸毁进度后连续数小时种植土豆？这种异常行为怎么产生的？",
+      "id": "evt-90000000",
+      "title": "鸿蒙装机量突破 9000 万台，预计年底破亿，对移动操作系统格局有何影响？",
       "category": "society",
       "hotScore": 0.675,
       "freshness": 0.9999,
       "crossSource": 0.6309,
-      "totalScore": 0.7592,
+      "totalScore": 0.7593,
       "sources": [
         {
           "channel": "zhihu",
@@ -165,8 +165,8 @@
       "url": ""
     },
     {
-      "id": "evt-40000000",
-      "title": "王钰栋单刀破门打破40年魔咒",
+      "id": "evt-43000000",
+      "title": "昆明4.3级地震有房屋破损",
       "category": "society",
       "hotScore": 0.6375,
       "freshness": 0.9999,
@@ -176,88 +176,88 @@
         {
           "channel": "toutiao",
           "rank": 6,
-          "hot": 11029827,
-          "url": "https://www.toutiao.com/trending/7690600782522073131/"
+          "hot": 13075288,
+          "url": "https://www.toutiao.com/trending/7690917648112156735/"
         }
       ],
       "summary": "",
-      "url": "https://www.toutiao.com/trending/7690600782522073131/"
+      "url": "https://www.toutiao.com/trending/7690917648112156735/"
     },
     {
-      "id": "evt-20100000",
-      "title": "妈妈拿巨型碗劝2米01儿子好好吃饭",
+      "id": "evt-openai00",
+      "title": "如何评价 OpenAI 发布的 GPT-6.1 SOL？",
       "category": "society",
       "hotScore": 0.6,
-      "freshness": 1,
+      "freshness": 0.9999,
       "crossSource": 0.6309,
       "totalScore": 0.7293,
       "sources": [
         {
-          "channel": "baidu",
-          "rank": 6,
-          "hot": 0,
-          "url": "https://m.baidu.com/s?word=%E5%A6%88%E5%A6%88%E6%8B%BF%E5%B7%A8%E5%9E%8B%E7%A2%97%E5%8A%9D2%E7%B1%B301%E5%84%BF%E5%AD%90%E5%A5%BD%E5%A5%BD%E5%90%83%E9%A5%AD&sa=fyb_news"
-        }
-      ],
-      "summary": "",
-      "url": "https://m.baidu.com/s?word=%E5%A6%88%E5%A6%88%E6%8B%BF%E5%B7%A8%E5%9E%8B%E7%A2%97%E5%8A%9D2%E7%B1%B301%E5%84%BF%E5%AD%90%E5%A5%BD%E5%A5%BD%E5%90%83%E9%A5%AD&sa=fyb_news"
-    },
-    {
-      "id": "evt-cnn00000",
-      "title": "特朗普羞辱CNN记者 扎克伯格笑容消失",
-      "category": "society",
-      "hotScore": 0.595,
-      "freshness": 0.9999,
-      "crossSource": 0.6309,
-      "totalScore": 0.7272,
-      "sources": [
-        {
-          "channel": "toutiao",
-          "rank": 7,
-          "hot": 9980200,
-          "url": "https://www.toutiao.com/trending/7691106948149739570/"
-        }
-      ],
-      "summary": "",
-      "url": "https://www.toutiao.com/trending/7691106948149739570/"
-    },
-    {
-      "id": "evt-openai00",
-      "title": "美国调查OpenAI及其他前沿AI实验室",
-      "category": "society",
-      "hotScore": 0.5525,
-      "freshness": 0.9999,
-      "crossSource": 0.6309,
-      "totalScore": 0.7102,
-      "sources": [
-        {
-          "channel": "toutiao",
-          "rank": 8,
-          "hot": 9030458,
-          "url": "https://www.toutiao.com/trending/7691326136625663497/"
-        }
-      ],
-      "summary": "",
-      "url": "https://www.toutiao.com/trending/7691326136625663497/"
-    },
-    {
-      "id": "evt-deepseek",
-      "title": "如何看待 DeepSeek 开源昇腾基础组件？",
-      "category": "society",
-      "hotScore": 0.4875,
-      "freshness": 0.9999,
-      "crossSource": 0.6309,
-      "totalScore": 0.6842,
-      "sources": [
-        {
           "channel": "zhihu",
-          "rank": 8,
+          "rank": 5,
           "hot": 0,
           "url": ""
         }
       ],
       "summary": "",
       "url": ""
+    },
+    {
+      "id": "evt-11000000",
+      "title": "一图世界｜11月前后或形成，“最强的超强厄尔尼诺”意味着什么？",
+      "category": "society",
+      "hotScore": 0.5525,
+      "freshness": 0.9999,
+      "crossSource": 0.6309,
+      "totalScore": 0.7103,
+      "sources": [
+        {
+          "channel": "thepaper",
+          "rank": 8,
+          "hot": 0,
+          "url": "https://www.thepaper.cn/newsDetail_forward_34174169"
+        }
+      ],
+      "summary": "",
+      "url": "https://www.thepaper.cn/newsDetail_forward_34174169"
+    },
+    {
+      "id": "evt-98500000",
+      "title": "为啥到底谁是中上 985，谁是中下 985，吵得不可开交，但几乎没人吵谁是中上 211，谁是中下 211？",
+      "category": "society",
+      "hotScore": 0.525,
+      "freshness": 0.9999,
+      "crossSource": 0.6309,
+      "totalScore": 0.6993,
+      "sources": [
+        {
+          "channel": "zhihu",
+          "rank": 7,
+          "hot": 0,
+          "url": ""
+        }
+      ],
+      "summary": "",
+      "url": ""
+    },
+    {
+      "id": "evt-02154400",
+      "title": "警号021544重启",
+      "category": "society",
+      "hotScore": 0.44,
+      "freshness": 1,
+      "crossSource": 0.6309,
+      "totalScore": 0.6653,
+      "sources": [
+        {
+          "channel": "baidu",
+          "rank": 10,
+          "hot": 0,
+          "url": "https://m.baidu.com/s?word=%E8%AD%A6%E5%8F%B7021544%E9%87%8D%E5%90%AF&sa=fyb_news"
+        }
+      ],
+      "summary": "",
+      "url": "https://m.baidu.com/s?word=%E8%AD%A6%E5%8F%B7021544%E9%87%8D%E5%90%AF&sa=fyb_news"
     }
   ]
 }
