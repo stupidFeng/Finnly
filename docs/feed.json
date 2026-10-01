@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-10-01T00:54:42.781Z",
+  "generatedAt": "2026-10-01T07:59:34.697Z",
   "fields": {
     "society": "社会",
     "economy": "经济",
@@ -7,55 +7,68 @@
   },
   "feed": [
     {
-      "id": "evt-00000000",
-      "title": "中方不再称高市早苗为“首相”",
+      "id": "evt-mate9000",
+      "title": "华为Mate90全系搭载旗舰韬芯片",
       "category": "society",
-      "hotScore": 0.64,
-      "freshness": 1,
-      "crossSource": 1,
-      "totalScore": 0.856,
+      "hotScore": 0.85,
+      "freshness": 0.9999,
+      "crossSource": 0.6309,
+      "totalScore": 0.8293,
       "sources": [
         {
           "channel": "toutiao",
-          "rank": 6,
-          "hot": 17103016,
-          "url": "https://www.toutiao.com/trending/7691468341948747310/"
-        },
-        {
-          "channel": "baidu",
-          "rank": 5,
-          "hot": 0,
-          "url": "https://m.baidu.com/s?word=%E4%B8%AD%E6%96%B9%E4%B8%8D%E5%86%8D%E7%A7%B0%E9%AB%98%E5%B8%82%E6%97%A9%E8%8B%97%E4%B8%BA%E2%80%9C%E9%A6%96%E7%9B%B8%E2%80%9D&sa=fyb_news"
+          "rank": 1,
+          "hot": 32314143,
+          "url": "https://www.toutiao.com/trending/7691528727615786538/"
         }
       ],
       "summary": "",
-      "url": "https://www.toutiao.com/trending/7691468341948747310/"
+      "url": "https://www.toutiao.com/trending/7691528727615786538/"
     },
     {
-      "id": "evt-77000000",
-      "title": "国庆77周年招待会在京举行",
+      "id": "evt-00000000",
+      "title": "读报丨央媒集中刊发社论，热烈庆祝中华人民共和国成立77周年",
       "category": "society",
-      "hotScore": 0.8,
+      "hotScore": 0.85,
       "freshness": 1,
       "crossSource": 0.6309,
-      "totalScore": 0.8093,
+      "totalScore": 0.8293,
+      "sources": [
+        {
+          "channel": "thepaper",
+          "rank": 1,
+          "hot": 0,
+          "url": "https://www.thepaper.cn/newsDetail_forward_34184563"
+        }
+      ],
+      "summary": "",
+      "url": "https://www.thepaper.cn/newsDetail_forward_34184563"
+    },
+    {
+      "id": "evt-15000000",
+      "title": "1小时只走500米 坐车坐到自闭",
+      "category": "society",
+      "hotScore": 0.72,
+      "freshness": 1,
+      "crossSource": 0.6309,
+      "totalScore": 0.7773,
       "sources": [
         {
           "channel": "baidu",
-          "rank": 1,
+          "rank": 3,
           "hot": 0,
-          "url": "https://m.baidu.com/s?word=%E5%9B%BD%E5%BA%8677%E5%91%A8%E5%B9%B4%E6%8B%9B%E5%BE%85%E4%BC%9A%E5%9C%A8%E4%BA%AC%E4%B8%BE%E8%A1%8C&sa=fyb_news"
+          "url": "https://m.baidu.com/s?word=1%E5%B0%8F%E6%97%B6%E5%8F%AA%E8%B5%B0500%E7%B1%B3+%E5%9D%90%E8%BD%A6%E5%9D%90%E5%88%B0%E8%87%AA%E9%97%AD&sa=fyb_news"
         }
       ],
       "summary": "",
-      "url": "https://m.baidu.com/s?word=%E5%9B%BD%E5%BA%8677%E5%91%A8%E5%B9%B4%E6%8B%9B%E5%BE%85%E4%BC%9A%E5%9C%A8%E4%BA%AC%E4%B8%BE%E8%A1%8C&sa=fyb_news"
+      "url": "https://m.baidu.com/s?word=1%E5%B0%8F%E6%97%B6%E5%8F%AA%E8%B5%B0500%E7%B1%B3+%E5%9D%90%E8%BD%A6%E5%9D%90%E5%88%B0%E8%87%AA%E9%97%AD&sa=fyb_news"
     },
     {
-      "id": "evt-c0000000",
-      "title": "C 罗社媒官宣离开国家队集训，声称「在适当的时候声明离开国家队的原因」，他这么做的原因是什么？",
+      "id": "evt-10100000",
+      "title": "如何评价 10 月 1 日发布的华为 Mate 90 系列全系旗舰τ芯片，不同版本如何选择？",
       "category": "society",
       "hotScore": 0.7125,
-      "freshness": 1,
+      "freshness": 0.9999,
       "crossSource": 0.6309,
       "totalScore": 0.7743,
       "sources": [
@@ -70,99 +83,17 @@
       "url": ""
     },
     {
-      "id": "evt-50000000",
-      "title": "高速零时免费有车主省下560多元",
-      "category": "society",
-      "hotScore": 0.68,
-      "freshness": 1,
-      "crossSource": 0.6309,
-      "totalScore": 0.7613,
-      "sources": [
-        {
-          "channel": "toutiao",
-          "rank": 5,
-          "hot": 18901756,
-          "url": "https://www.toutiao.com/trending/7691469871309164041/"
-        }
-      ],
-      "summary": "",
-      "url": "https://www.toutiao.com/trending/7691469871309164041/"
-    },
-    {
-      "id": "evt-20000000",
-      "title": "男子用土豆当主食半年瘦25斤",
-      "category": "society",
-      "hotScore": 0.32,
-      "freshness": 1,
-      "crossSource": 1,
-      "totalScore": 0.728,
-      "sources": [
-        {
-          "channel": "toutiao",
-          "rank": 17,
-          "hot": 5693099,
-          "url": "https://www.toutiao.com/trending/7690644854237511706/"
-        },
-        {
-          "channel": "baidu",
-          "rank": 13,
-          "hot": 0,
-          "url": "https://m.baidu.com/s?word=%E7%94%B7%E5%AD%90%E7%94%A8%E5%9C%9F%E8%B1%86%E5%BD%93%E4%B8%BB%E9%A3%9F%E5%8D%8A%E5%B9%B4%E7%98%A625%E6%96%A4&sa=fyb_news"
-        }
-      ],
-      "summary": "",
-      "url": "https://www.toutiao.com/trending/7690644854237511706/"
-    },
-    {
-      "id": "evt-tiffany0",
-      "title": "如何看待 Tiffany 月饼事件疑似反转，当事人建了 20 个万人群，涉事店员遭网暴？",
-      "category": "society",
-      "hotScore": 0.5625,
-      "freshness": 1,
-      "crossSource": 0.6309,
-      "totalScore": 0.7143,
-      "sources": [
-        {
-          "channel": "zhihu",
-          "rank": 6,
-          "hot": 0,
-          "url": ""
-        }
-      ],
-      "summary": "",
-      "url": ""
-    },
-    {
-      "id": "evt-20273000",
-      "title": "胖东来宣布 2027 年 3 月起实行每天 7 小时工作制，如何评价胖东来这次工时改革？它能被复制吗？",
-      "category": "society",
-      "hotScore": 0.525,
-      "freshness": 1,
-      "crossSource": 0.6309,
-      "totalScore": 0.6993,
-      "sources": [
-        {
-          "channel": "zhihu",
-          "rank": 7,
-          "hot": 0,
-          "url": ""
-        }
-      ],
-      "summary": "",
-      "url": ""
-    },
-    {
       "id": "evt-10000000",
       "title": "为什么酒精灯里酒精不用 100% 浓度而是用 95% 浓度？",
       "category": "society",
-      "hotScore": 0.4875,
-      "freshness": 1,
+      "hotScore": 0.675,
+      "freshness": 0.9999,
       "crossSource": 0.6309,
-      "totalScore": 0.6843,
+      "totalScore": 0.7593,
       "sources": [
         {
           "channel": "zhihu",
-          "rank": 8,
+          "rank": 3,
           "hot": 0,
           "url": ""
         }
@@ -171,8 +102,46 @@
       "url": ""
     },
     {
-      "id": "evt-60000000",
-      "title": "美国6只熊猫 日本0只",
+      "id": "evt-21000000",
+      "title": "郑钦文2-1施晗获中网开门红",
+      "category": "society",
+      "hotScore": 0.6375,
+      "freshness": 0.9999,
+      "crossSource": 0.6309,
+      "totalScore": 0.7443,
+      "sources": [
+        {
+          "channel": "toutiao",
+          "rank": 6,
+          "hot": 19599518,
+          "url": "https://www.toutiao.com/trending/7691575504708570662/"
+        }
+      ],
+      "summary": "",
+      "url": "https://www.toutiao.com/trending/7691575504708570662/"
+    },
+    {
+      "id": "evt-mate9059",
+      "title": "华为Mate90售价5999元起",
+      "category": "society",
+      "hotScore": 0.595,
+      "freshness": 0.9999,
+      "crossSource": 0.6309,
+      "totalScore": 0.7273,
+      "sources": [
+        {
+          "channel": "toutiao",
+          "rank": 7,
+          "hot": 17734377,
+          "url": "https://www.toutiao.com/trending/7691537174281326118/"
+        }
+      ],
+      "summary": "",
+      "url": "https://www.toutiao.com/trending/7691537174281326118/"
+    },
+    {
+      "id": "evt-ktv00000",
+      "title": "女子称去KTV后三台手机拍照出现紫斑",
       "category": "society",
       "hotScore": 0.48,
       "freshness": 1,
@@ -183,11 +152,11 @@
           "channel": "baidu",
           "rank": 9,
           "hot": 0,
-          "url": "https://m.baidu.com/s?word=%E7%BE%8E%E5%9B%BD6%E5%8F%AA%E7%86%8A%E7%8C%AB+%E6%97%A5%E6%9C%AC0%E5%8F%AA&sa=fyb_news"
+          "url": "https://m.baidu.com/s?word=%E5%A5%B3%E5%AD%90%E7%A7%B0%E5%8E%BBKTV%E5%90%8E%E4%B8%89%E5%8F%B0%E6%89%8B%E6%9C%BA%E6%8B%8D%E7%85%A7%E5%87%BA%E7%8E%B0%E7%B4%AB%E6%96%91&sa=fyb_news"
         }
       ],
       "summary": "",
-      "url": "https://m.baidu.com/s?word=%E7%BE%8E%E5%9B%BD6%E5%8F%AA%E7%86%8A%E7%8C%AB+%E6%97%A5%E6%9C%AC0%E5%8F%AA&sa=fyb_news"
+      "url": "https://m.baidu.com/s?word=%E5%A5%B3%E5%AD%90%E7%A7%B0%E5%8E%BBKTV%E5%90%8E%E4%B8%89%E5%8F%B0%E6%89%8B%E6%9C%BA%E6%8B%8D%E7%85%A7%E5%87%BA%E7%8E%B0%E7%B4%AB%E6%96%91&sa=fyb_news"
     }
   ]
 }
