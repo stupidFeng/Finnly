@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-10-01T07:59:34.697Z",
+  "generatedAt": "2026-10-01T15:11:02.212Z",
   "fields": {
     "society": "社会",
     "economy": "经济",
@@ -7,49 +7,55 @@
   },
   "feed": [
     {
-      "id": "evt-mate9000",
-      "title": "华为Mate90全系搭载旗舰韬芯片",
+      "id": "evt-00000000",
+      "title": "华为与赛力斯达成新五年合作",
+      "category": "society",
+      "hotScore": 0.8075,
+      "freshness": 0.9999,
+      "crossSource": 1,
+      "totalScore": 0.923,
+      "sources": [
+        {
+          "channel": "toutiao",
+          "rank": 2,
+          "hot": 23449236,
+          "url": "https://www.toutiao.com/trending/7691647976585924122/"
+        },
+        {
+          "channel": "baidu",
+          "rank": 19,
+          "hot": 0,
+          "url": "https://m.baidu.com/s?word=%E5%8D%8E%E4%B8%BA%E4%B8%8E%E8%B5%9B%E5%8A%9B%E6%96%AF%E8%BE%BE%E6%88%90%E6%96%B0%E4%BA%94%E5%B9%B4%E5%90%88%E4%BD%9C&sa=fyb_news"
+        }
+      ],
+      "summary": "",
+      "url": "https://www.toutiao.com/trending/7691647976585924122/"
+    },
+    {
+      "id": "evt-10000000",
+      "title": "国庆出行有车辆仅剩1%电量后“趴窝”",
       "category": "society",
       "hotScore": 0.85,
       "freshness": 0.9999,
       "crossSource": 0.6309,
-      "totalScore": 0.8293,
+      "totalScore": 0.8292,
       "sources": [
         {
           "channel": "toutiao",
           "rank": 1,
-          "hot": 32314143,
-          "url": "https://www.toutiao.com/trending/7691528727615786538/"
+          "hot": 25915414,
+          "url": "https://www.toutiao.com/trending/7691309888852672554/"
         }
       ],
       "summary": "",
-      "url": "https://www.toutiao.com/trending/7691528727615786538/"
+      "url": "https://www.toutiao.com/trending/7691309888852672554/"
     },
     {
-      "id": "evt-00000000",
-      "title": "读报丨央媒集中刊发社论，热烈庆祝中华人民共和国成立77周年",
-      "category": "society",
-      "hotScore": 0.85,
-      "freshness": 1,
-      "crossSource": 0.6309,
-      "totalScore": 0.8293,
-      "sources": [
-        {
-          "channel": "thepaper",
-          "rank": 1,
-          "hot": 0,
-          "url": "https://www.thepaper.cn/newsDetail_forward_34184563"
-        }
-      ],
-      "summary": "",
-      "url": "https://www.thepaper.cn/newsDetail_forward_34184563"
-    },
-    {
-      "id": "evt-15000000",
-      "title": "1小时只走500米 坐车坐到自闭",
+      "id": "evt-60000000",
+      "title": "爸爸扛60多斤女儿看升旗硬扛30多分钟",
       "category": "society",
       "hotScore": 0.72,
-      "freshness": 1,
+      "freshness": 0.9999,
       "crossSource": 0.6309,
       "totalScore": 0.7773,
       "sources": [
@@ -57,20 +63,20 @@
           "channel": "baidu",
           "rank": 3,
           "hot": 0,
-          "url": "https://m.baidu.com/s?word=1%E5%B0%8F%E6%97%B6%E5%8F%AA%E8%B5%B0500%E7%B1%B3+%E5%9D%90%E8%BD%A6%E5%9D%90%E5%88%B0%E8%87%AA%E9%97%AD&sa=fyb_news"
+          "url": "https://m.baidu.com/s?word=%E7%88%B8%E7%88%B8%E6%89%9B60%E5%A4%9A%E6%96%A4%E5%A5%B3%E5%84%BF%E7%9C%8B%E5%8D%87%E6%97%97%E7%A1%AC%E6%89%9B30%E5%A4%9A%E5%88%86%E9%92%9F&sa=fyb_news"
         }
       ],
       "summary": "",
-      "url": "https://m.baidu.com/s?word=1%E5%B0%8F%E6%97%B6%E5%8F%AA%E8%B5%B0500%E7%B1%B3+%E5%9D%90%E8%BD%A6%E5%9D%90%E5%88%B0%E8%87%AA%E9%97%AD&sa=fyb_news"
+      "url": "https://m.baidu.com/s?word=%E7%88%B8%E7%88%B8%E6%89%9B60%E5%A4%9A%E6%96%A4%E5%A5%B3%E5%84%BF%E7%9C%8B%E5%8D%87%E6%97%97%E7%A1%AC%E6%89%9B30%E5%A4%9A%E5%88%86%E9%92%9F&sa=fyb_news"
     },
     {
-      "id": "evt-10100000",
-      "title": "如何评价 10 月 1 日发布的华为 Mate 90 系列全系旗舰τ芯片，不同版本如何选择？",
+      "id": "evt-90000000",
+      "title": "车企 9 月销量数据出炉，比亚迪超 46 万，小米交付超 4 万台，理想、深蓝交付超 3 万台，怎样解读各家表现？",
       "category": "society",
       "hotScore": 0.7125,
       "freshness": 0.9999,
       "crossSource": 0.6309,
-      "totalScore": 0.7743,
+      "totalScore": 0.7742,
       "sources": [
         {
           "channel": "zhihu",
@@ -83,13 +89,32 @@
       "url": ""
     },
     {
-      "id": "evt-10000000",
-      "title": "为什么酒精灯里酒精不用 100% 浓度而是用 95% 浓度？",
+      "id": "evt-mate9000",
+      "title": "Mate90开售华为门店人从众",
+      "category": "society",
+      "hotScore": 0.68,
+      "freshness": 0.9999,
+      "crossSource": 0.6309,
+      "totalScore": 0.7612,
+      "sources": [
+        {
+          "channel": "toutiao",
+          "rank": 5,
+          "hot": 17371621,
+          "url": "https://www.toutiao.com/trending/7690745612685594148/"
+        }
+      ],
+      "summary": "",
+      "url": "https://www.toutiao.com/trending/7690745612685594148/"
+    },
+    {
+      "id": "evt-20000000",
+      "title": "男子用土豆当主食半年瘦 25 斤，称脂肪肝没了，血压、血糖稳了，真的会这样吗？这种减肥方法适合什么样的人？",
       "category": "society",
       "hotScore": 0.675,
       "freshness": 0.9999,
       "crossSource": 0.6309,
-      "totalScore": 0.7593,
+      "totalScore": 0.7592,
       "sources": [
         {
           "channel": "zhihu",
@@ -102,61 +127,86 @@
       "url": ""
     },
     {
-      "id": "evt-21000000",
-      "title": "郑钦文2-1施晗获中网开门红",
+      "id": "evt-13200000",
+      "title": "13岁男孩2小时手搓爱国电视机",
       "category": "society",
-      "hotScore": 0.6375,
+      "hotScore": 0.6,
       "freshness": 0.9999,
       "crossSource": 0.6309,
-      "totalScore": 0.7443,
-      "sources": [
-        {
-          "channel": "toutiao",
-          "rank": 6,
-          "hot": 19599518,
-          "url": "https://www.toutiao.com/trending/7691575504708570662/"
-        }
-      ],
-      "summary": "",
-      "url": "https://www.toutiao.com/trending/7691575504708570662/"
-    },
-    {
-      "id": "evt-mate9059",
-      "title": "华为Mate90售价5999元起",
-      "category": "society",
-      "hotScore": 0.595,
-      "freshness": 0.9999,
-      "crossSource": 0.6309,
-      "totalScore": 0.7273,
-      "sources": [
-        {
-          "channel": "toutiao",
-          "rank": 7,
-          "hot": 17734377,
-          "url": "https://www.toutiao.com/trending/7691537174281326118/"
-        }
-      ],
-      "summary": "",
-      "url": "https://www.toutiao.com/trending/7691537174281326118/"
-    },
-    {
-      "id": "evt-ktv00000",
-      "title": "女子称去KTV后三台手机拍照出现紫斑",
-      "category": "society",
-      "hotScore": 0.48,
-      "freshness": 1,
-      "crossSource": 0.6309,
-      "totalScore": 0.6813,
+      "totalScore": 0.7293,
       "sources": [
         {
           "channel": "baidu",
-          "rank": 9,
+          "rank": 6,
           "hot": 0,
-          "url": "https://m.baidu.com/s?word=%E5%A5%B3%E5%AD%90%E7%A7%B0%E5%8E%BBKTV%E5%90%8E%E4%B8%89%E5%8F%B0%E6%89%8B%E6%9C%BA%E6%8B%8D%E7%85%A7%E5%87%BA%E7%8E%B0%E7%B4%AB%E6%96%91&sa=fyb_news"
+          "url": "https://m.baidu.com/s?word=13%E5%B2%81%E7%94%B7%E5%AD%A92%E5%B0%8F%E6%97%B6%E6%89%8B%E6%90%93%E7%88%B1%E5%9B%BD%E7%94%B5%E8%A7%86%E6%9C%BA&sa=fyb_news"
         }
       ],
       "summary": "",
-      "url": "https://m.baidu.com/s?word=%E5%A5%B3%E5%AD%90%E7%A7%B0%E5%8E%BBKTV%E5%90%8E%E4%B8%89%E5%8F%B0%E6%89%8B%E6%9C%BA%E6%8B%8D%E7%85%A7%E5%87%BA%E7%8E%B0%E7%B4%AB%E6%96%91&sa=fyb_news"
+      "url": "https://m.baidu.com/s?word=13%E5%B2%81%E7%94%B7%E5%AD%A92%E5%B0%8F%E6%97%B6%E6%89%8B%E6%90%93%E7%88%B1%E5%9B%BD%E7%94%B5%E8%A7%86%E6%9C%BA&sa=fyb_news"
+    },
+    {
+      "id": "evt-10100000",
+      "title": "如何评价 10 月 1 日发布的华为 Mate 90 系列全系旗舰τ芯片，不同版本如何选择？",
+      "category": "society",
+      "hotScore": 0.6,
+      "freshness": 0.9999,
+      "crossSource": 0.6309,
+      "totalScore": 0.7292,
+      "sources": [
+        {
+          "channel": "zhihu",
+          "rank": 5,
+          "hot": 0,
+          "url": ""
+        }
+      ],
+      "summary": "",
+      "url": ""
+    },
+    {
+      "id": "evt-c0000000",
+      "title": "C 罗擅自离开葡萄牙队集训或面临最高 6 个月禁赛，这会带来哪些影响？",
+      "category": "society",
+      "hotScore": 0.5625,
+      "freshness": 0.9999,
+      "crossSource": 0.6309,
+      "totalScore": 0.7142,
+      "sources": [
+        {
+          "channel": "zhihu",
+          "rank": 6,
+          "hot": 0,
+          "url": ""
+        }
+      ],
+      "summary": "",
+      "url": ""
+    },
+    {
+      "id": "evt-30000000",
+      "title": "车主等3小时掐点下高速省257元",
+      "category": "society",
+      "hotScore": 0.17,
+      "freshness": 0.9999,
+      "crossSource": 1,
+      "totalScore": 0.668,
+      "sources": [
+        {
+          "channel": "toutiao",
+          "rank": 17,
+          "hot": 5232231,
+          "url": "https://www.toutiao.com/trending/7691318290480185407/"
+        },
+        {
+          "channel": "baidu",
+          "rank": 20,
+          "hot": 0,
+          "url": "https://m.baidu.com/s?word=%E8%BD%A6%E4%B8%BB%E7%AD%893%E5%B0%8F%E6%97%B6%E6%8E%90%E7%82%B9%E4%B8%8B%E9%AB%98%E9%80%9F%E7%9C%81257%E5%85%83&sa=fyb_news"
+        }
+      ],
+      "summary": "",
+      "url": "https://www.toutiao.com/trending/7691318290480185407/"
     }
   ]
 }
