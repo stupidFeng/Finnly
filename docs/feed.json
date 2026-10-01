@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-09-30T20:23:38.346Z",
+  "generatedAt": "2026-10-01T00:54:42.781Z",
   "fields": {
     "society": "社会",
     "economy": "经济",
@@ -8,66 +8,28 @@
   "feed": [
     {
       "id": "evt-00000000",
-      "title": "马上评｜“空姐下跪”热搜高挂，真相不该再迟到",
+      "title": "中方不再称高市早苗为“首相”",
       "category": "society",
-      "hotScore": 0.85,
-      "freshness": 0.9999,
-      "crossSource": 0.6309,
-      "totalScore": 0.8293,
-      "sources": [
-        {
-          "channel": "thepaper",
-          "rank": 1,
-          "hot": 0,
-          "url": "https://www.thepaper.cn/newsDetail_forward_34178371"
-        }
-      ],
-      "summary": "",
-      "url": "https://www.thepaper.cn/newsDetail_forward_34178371"
-    },
-    {
-      "id": "evt-20000000",
-      "title": "男子用土豆当主食半年瘦25斤",
-      "category": "society",
-      "hotScore": 0.5525,
-      "freshness": 0.9999,
+      "hotScore": 0.64,
+      "freshness": 1,
       "crossSource": 1,
-      "totalScore": 0.821,
+      "totalScore": 0.856,
       "sources": [
         {
           "channel": "toutiao",
-          "rank": 8,
-          "hot": 10705141,
-          "url": "https://www.toutiao.com/trending/7690644854237511706/"
+          "rank": 6,
+          "hot": 17103016,
+          "url": "https://www.toutiao.com/trending/7691468341948747310/"
         },
         {
           "channel": "baidu",
-          "rank": 16,
+          "rank": 5,
           "hot": 0,
-          "url": "https://m.baidu.com/s?word=%E7%94%B7%E5%AD%90%E7%94%A8%E5%9C%9F%E8%B1%86%E5%BD%93%E4%B8%BB%E9%A3%9F%E5%8D%8A%E5%B9%B4%E7%98%A625%E6%96%A4&sa=fyb_news"
+          "url": "https://m.baidu.com/s?word=%E4%B8%AD%E6%96%B9%E4%B8%8D%E5%86%8D%E7%A7%B0%E9%AB%98%E5%B8%82%E6%97%A9%E8%8B%97%E4%B8%BA%E2%80%9C%E9%A6%96%E7%9B%B8%E2%80%9D&sa=fyb_news"
         }
       ],
       "summary": "",
-      "url": "https://www.toutiao.com/trending/7690644854237511706/"
-    },
-    {
-      "id": "evt-22000000",
-      "title": "解放军22架艘次军机舰船位台岛周边活动",
-      "category": "society",
-      "hotScore": 0.8075,
-      "freshness": 0.9999,
-      "crossSource": 0.6309,
-      "totalScore": 0.8122,
-      "sources": [
-        {
-          "channel": "toutiao",
-          "rank": 2,
-          "hot": 19506038,
-          "url": "https://www.toutiao.com/trending/7691226500619731466/"
-        }
-      ],
-      "summary": "",
-      "url": "https://www.toutiao.com/trending/7691226500619731466/"
+      "url": "https://www.toutiao.com/trending/7691468341948747310/"
     },
     {
       "id": "evt-77000000",
@@ -89,49 +51,11 @@
       "url": "https://m.baidu.com/s?word=%E5%9B%BD%E5%BA%8677%E5%91%A8%E5%B9%B4%E6%8B%9B%E5%BE%85%E4%BC%9A%E5%9C%A8%E4%BA%AC%E4%B8%BE%E8%A1%8C&sa=fyb_news"
     },
     {
-      "id": "evt-25290000",
-      "title": "去年中国25至29岁结婚人数最多",
-      "category": "society",
-      "hotScore": 0.76,
-      "freshness": 1,
-      "crossSource": 0.6309,
-      "totalScore": 0.7933,
-      "sources": [
-        {
-          "channel": "baidu",
-          "rank": 2,
-          "hot": 0,
-          "url": "https://m.baidu.com/s?word=%E5%8E%BB%E5%B9%B4%E4%B8%AD%E5%9B%BD25%E8%87%B329%E5%B2%81%E7%BB%93%E5%A9%9A%E4%BA%BA%E6%95%B0%E6%9C%80%E5%A4%9A&sa=fyb_news"
-        }
-      ],
-      "summary": "",
-      "url": "https://m.baidu.com/s?word=%E5%8E%BB%E5%B9%B4%E4%B8%AD%E5%9B%BD25%E8%87%B329%E5%B2%81%E7%BB%93%E5%A9%9A%E4%BA%BA%E6%95%B0%E6%9C%80%E5%A4%9A&sa=fyb_news"
-    },
-    {
-      "id": "evt-wt000000",
-      "title": "王楚钦林诗栋因伤退出WTT中国大满贯",
-      "category": "society",
-      "hotScore": 0.7225,
-      "freshness": 0.9999,
-      "crossSource": 0.6309,
-      "totalScore": 0.7782,
-      "sources": [
-        {
-          "channel": "toutiao",
-          "rank": 4,
-          "hot": 15970193,
-          "url": "https://www.toutiao.com/trending/7691330757859479066/"
-        }
-      ],
-      "summary": "",
-      "url": "https://www.toutiao.com/trending/7691330757859479066/"
-    },
-    {
-      "id": "evt-gpt6astra",
-      "title": "为什么 GPT-6 Astra 玩《我的世界》被炸毁进度后连续数小时种植土豆？这种异常行为怎么产生的？",
+      "id": "evt-c0000000",
+      "title": "C 罗社媒官宣离开国家队集训，声称「在适当的时候声明离开国家队的原因」，他这么做的原因是什么？",
       "category": "society",
       "hotScore": 0.7125,
-      "freshness": 0.9999,
+      "freshness": 1,
       "crossSource": 0.6309,
       "totalScore": 0.7743,
       "sources": [
@@ -146,55 +70,61 @@
       "url": ""
     },
     {
-      "id": "evt-90000000",
-      "title": "鸿蒙装机量突破 9000 万台，预计年底破亿，对移动操作系统格局有何影响？",
+      "id": "evt-50000000",
+      "title": "高速零时免费有车主省下560多元",
       "category": "society",
-      "hotScore": 0.675,
-      "freshness": 0.9999,
+      "hotScore": 0.68,
+      "freshness": 1,
       "crossSource": 0.6309,
-      "totalScore": 0.7593,
-      "sources": [
-        {
-          "channel": "zhihu",
-          "rank": 3,
-          "hot": 0,
-          "url": ""
-        }
-      ],
-      "summary": "",
-      "url": ""
-    },
-    {
-      "id": "evt-43000000",
-      "title": "昆明4.3级地震有房屋破损",
-      "category": "society",
-      "hotScore": 0.6375,
-      "freshness": 0.9999,
-      "crossSource": 0.6309,
-      "totalScore": 0.7442,
+      "totalScore": 0.7613,
       "sources": [
         {
           "channel": "toutiao",
-          "rank": 6,
-          "hot": 13075288,
-          "url": "https://www.toutiao.com/trending/7690917648112156735/"
+          "rank": 5,
+          "hot": 18901756,
+          "url": "https://www.toutiao.com/trending/7691469871309164041/"
         }
       ],
       "summary": "",
-      "url": "https://www.toutiao.com/trending/7690917648112156735/"
+      "url": "https://www.toutiao.com/trending/7691469871309164041/"
     },
     {
-      "id": "evt-openai00",
-      "title": "如何评价 OpenAI 发布的 GPT-6.1 SOL？",
+      "id": "evt-20000000",
+      "title": "男子用土豆当主食半年瘦25斤",
       "category": "society",
-      "hotScore": 0.6,
-      "freshness": 0.9999,
+      "hotScore": 0.32,
+      "freshness": 1,
+      "crossSource": 1,
+      "totalScore": 0.728,
+      "sources": [
+        {
+          "channel": "toutiao",
+          "rank": 17,
+          "hot": 5693099,
+          "url": "https://www.toutiao.com/trending/7690644854237511706/"
+        },
+        {
+          "channel": "baidu",
+          "rank": 13,
+          "hot": 0,
+          "url": "https://m.baidu.com/s?word=%E7%94%B7%E5%AD%90%E7%94%A8%E5%9C%9F%E8%B1%86%E5%BD%93%E4%B8%BB%E9%A3%9F%E5%8D%8A%E5%B9%B4%E7%98%A625%E6%96%A4&sa=fyb_news"
+        }
+      ],
+      "summary": "",
+      "url": "https://www.toutiao.com/trending/7690644854237511706/"
+    },
+    {
+      "id": "evt-tiffany0",
+      "title": "如何看待 Tiffany 月饼事件疑似反转，当事人建了 20 个万人群，涉事店员遭网暴？",
+      "category": "society",
+      "hotScore": 0.5625,
+      "freshness": 1,
       "crossSource": 0.6309,
-      "totalScore": 0.7293,
+      "totalScore": 0.7143,
       "sources": [
         {
           "channel": "zhihu",
-          "rank": 5,
+          "rank": 6,
           "hot": 0,
           "url": ""
         }
@@ -203,30 +133,11 @@
       "url": ""
     },
     {
-      "id": "evt-11000000",
-      "title": "一图世界｜11月前后或形成，“最强的超强厄尔尼诺”意味着什么？",
-      "category": "society",
-      "hotScore": 0.5525,
-      "freshness": 0.9999,
-      "crossSource": 0.6309,
-      "totalScore": 0.7103,
-      "sources": [
-        {
-          "channel": "thepaper",
-          "rank": 8,
-          "hot": 0,
-          "url": "https://www.thepaper.cn/newsDetail_forward_34174169"
-        }
-      ],
-      "summary": "",
-      "url": "https://www.thepaper.cn/newsDetail_forward_34174169"
-    },
-    {
-      "id": "evt-98500000",
-      "title": "为啥到底谁是中上 985，谁是中下 985，吵得不可开交，但几乎没人吵谁是中上 211，谁是中下 211？",
+      "id": "evt-20273000",
+      "title": "胖东来宣布 2027 年 3 月起实行每天 7 小时工作制，如何评价胖东来这次工时改革？它能被复制吗？",
       "category": "society",
       "hotScore": 0.525,
-      "freshness": 0.9999,
+      "freshness": 1,
       "crossSource": 0.6309,
       "totalScore": 0.6993,
       "sources": [
@@ -241,23 +152,42 @@
       "url": ""
     },
     {
-      "id": "evt-02154400",
-      "title": "警号021544重启",
+      "id": "evt-10000000",
+      "title": "为什么酒精灯里酒精不用 100% 浓度而是用 95% 浓度？",
       "category": "society",
-      "hotScore": 0.44,
+      "hotScore": 0.4875,
       "freshness": 1,
       "crossSource": 0.6309,
-      "totalScore": 0.6653,
+      "totalScore": 0.6843,
       "sources": [
         {
-          "channel": "baidu",
-          "rank": 10,
+          "channel": "zhihu",
+          "rank": 8,
           "hot": 0,
-          "url": "https://m.baidu.com/s?word=%E8%AD%A6%E5%8F%B7021544%E9%87%8D%E5%90%AF&sa=fyb_news"
+          "url": ""
         }
       ],
       "summary": "",
-      "url": "https://m.baidu.com/s?word=%E8%AD%A6%E5%8F%B7021544%E9%87%8D%E5%90%AF&sa=fyb_news"
+      "url": ""
+    },
+    {
+      "id": "evt-60000000",
+      "title": "美国6只熊猫 日本0只",
+      "category": "society",
+      "hotScore": 0.48,
+      "freshness": 1,
+      "crossSource": 0.6309,
+      "totalScore": 0.6813,
+      "sources": [
+        {
+          "channel": "baidu",
+          "rank": 9,
+          "hot": 0,
+          "url": "https://m.baidu.com/s?word=%E7%BE%8E%E5%9B%BD6%E5%8F%AA%E7%86%8A%E7%8C%AB+%E6%97%A5%E6%9C%AC0%E5%8F%AA&sa=fyb_news"
+        }
+      ],
+      "summary": "",
+      "url": "https://m.baidu.com/s?word=%E7%BE%8E%E5%9B%BD6%E5%8F%AA%E7%86%8A%E7%8C%AB+%E6%97%A5%E6%9C%AC0%E5%8F%AA&sa=fyb_news"
     }
   ]
 }
