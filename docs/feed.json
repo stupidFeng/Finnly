@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-10-02T07:43:16.653Z",
+  "generatedAt": "2026-10-02T14:17:40.435Z",
   "fields": {
     "society": "社会",
     "economy": "经济",
@@ -8,48 +8,35 @@
   "feed": [
     {
       "id": "evt-00000000",
-      "title": "国际油价大涨会加速油电替代进程吗",
+      "title": "全世界都知道中国人放假了",
       "category": "society",
       "hotScore": 0.85,
       "freshness": 0.9999,
-      "crossSource": 0.6309,
-      "totalScore": 0.8293,
+      "crossSource": 1,
+      "totalScore": 0.94,
       "sources": [
         {
           "channel": "toutiao",
           "rank": 1,
-          "hot": 8480035,
-          "url": "https://www.toutiao.com/trending/7691929444713238057/"
-        }
-      ],
-      "summary": "",
-      "url": "https://www.toutiao.com/trending/7691929444713238057/"
-    },
-    {
-      "id": "evt-15000000",
-      "title": "华为赛力斯 分手15天后闪电复合",
-      "category": "society",
-      "hotScore": 0.76,
-      "freshness": 1,
-      "crossSource": 0.6309,
-      "totalScore": 0.7933,
-      "sources": [
+          "hot": 7204392,
+          "url": "https://www.toutiao.com/trending/7691505482342744106/"
+        },
         {
           "channel": "baidu",
-          "rank": 2,
+          "rank": 7,
           "hot": 0,
-          "url": "https://m.baidu.com/s?word=%E5%8D%8E%E4%B8%BA%E8%B5%9B%E5%8A%9B%E6%96%AF+%E5%88%86%E6%89%8B15%E5%A4%A9%E5%90%8E%E9%97%AA%E7%94%B5%E5%A4%8D%E5%90%88&sa=fyb_news"
+          "url": "https://m.baidu.com/s?word=%E5%85%A8%E4%B8%96%E7%95%8C%E9%83%BD%E7%9F%A5%E9%81%93%E4%B8%AD%E5%9B%BD%E4%BA%BA%E6%94%BE%E5%81%87%E4%BA%86&sa=fyb_news"
         }
       ],
       "summary": "",
-      "url": "https://m.baidu.com/s?word=%E5%8D%8E%E4%B8%BA%E8%B5%9B%E5%8A%9B%E6%96%AF+%E5%88%86%E6%89%8B15%E5%A4%A9%E5%90%8E%E9%97%AA%E7%94%B5%E5%A4%8D%E5%90%88&sa=fyb_news"
+      "url": "https://www.toutiao.com/trending/7691505482342744106/"
     },
     {
-      "id": "evt-10000000",
-      "title": "江歌妈妈最新发文「10 年维权路，尘埃终将落定」，哪些信息值得关注？",
+      "id": "evt-cfa05000",
+      "title": "CFA 友谊赛，中国男足 0-5 巴勒斯坦，如何评价本场比赛？",
       "category": "society",
       "hotScore": 0.75,
-      "freshness": 1,
+      "freshness": 0.9999,
       "crossSource": 0.6309,
       "totalScore": 0.7893,
       "sources": [
@@ -64,68 +51,49 @@
       "url": ""
     },
     {
-      "id": "evt-mate9000",
-      "title": "华为Mate 90系列发布：全系搭载韬芯片，麒麟9050 Pro亮相",
+      "id": "evt-ai000000",
+      "title": "中国的 AI 短剧发展得如火如荼，而国外 AI 短剧却没怎么发展起来，是什么原因？",
       "category": "society",
-      "hotScore": 0.7225,
-      "freshness": 1,
+      "hotScore": 0.675,
+      "freshness": 0.9999,
       "crossSource": 0.6309,
-      "totalScore": 0.7783,
+      "totalScore": 0.7593,
       "sources": [
         {
-          "channel": "thepaper",
-          "rank": 4,
+          "channel": "zhihu",
+          "rank": 3,
           "hot": 0,
-          "url": "https://www.thepaper.cn/newsDetail_forward_34186076"
+          "url": ""
         }
       ],
       "summary": "",
-      "url": "https://www.thepaper.cn/newsDetail_forward_34186076"
+      "url": ""
     },
     {
-      "id": "evt-17mat000",
-      "title": "17年果粉买到华为Mate90激动到结巴",
+      "id": "evt-a0000000",
+      "title": "A股休市港股为什么先跌了",
       "category": "society",
-      "hotScore": 0.68,
+      "hotScore": 0.6375,
       "freshness": 0.9999,
       "crossSource": 0.6309,
-      "totalScore": 0.7613,
+      "totalScore": 0.7443,
       "sources": [
         {
           "channel": "toutiao",
-          "rank": 5,
-          "hot": 5684337,
-          "url": "https://www.toutiao.com/trending/7690954212159193151/"
+          "rank": 6,
+          "hot": 4369684,
+          "url": "https://www.toutiao.com/trending/7692042888917552694/"
         }
       ],
       "summary": "",
-      "url": "https://www.toutiao.com/trending/7690954212159193151/"
+      "url": "https://www.toutiao.com/trending/7692042888917552694/"
     },
     {
-      "id": "evt-24000000",
-      "title": "女装2.4米丝带防蹭穿 有用吗",
-      "category": "society",
-      "hotScore": 0.64,
-      "freshness": 1,
-      "crossSource": 0.6309,
-      "totalScore": 0.7453,
-      "sources": [
-        {
-          "channel": "baidu",
-          "rank": 5,
-          "hot": 0,
-          "url": "https://m.baidu.com/s?word=%E5%A5%B3%E8%A3%852.4%E7%B1%B3%E4%B8%9D%E5%B8%A6%E9%98%B2%E8%B9%AD%E7%A9%BF+%E6%9C%89%E7%94%A8%E5%90%97&sa=fyb_news"
-        }
-      ],
-      "summary": "",
-      "url": "https://m.baidu.com/s?word=%E5%A5%B3%E8%A3%852.4%E7%B1%B3%E4%B8%9D%E5%B8%A6%E9%98%B2%E8%B9%AD%E7%A9%BF+%E6%9C%89%E7%94%A8%E5%90%97&sa=fyb_news"
-    },
-    {
-      "id": "evt-20000000",
-      "title": "为什么宇宙的最低温只有 -273.15 度，最高温却高达 1.4 亿亿亿亿度?",
+      "id": "evt-abcd0000",
+      "title": "为什么维生素只有 ABCDE 和 K，中间跳过了 FGHIJ？",
       "category": "society",
       "hotScore": 0.5625,
-      "freshness": 1,
+      "freshness": 0.9999,
       "crossSource": 0.6309,
       "totalScore": 0.7143,
       "sources": [
@@ -140,61 +108,42 @@
       "url": ""
     },
     {
-      "id": "evt-80000000",
-      "title": "“充电至80%必须离场”",
+      "id": "evt-11231500",
+      "title": "1年内在12315平台累计举报1520次，市监部门：具牟利性职业索赔特征",
       "category": "society",
-      "hotScore": 0.56,
+      "hotScore": 0.51,
       "freshness": 1,
       "crossSource": 0.6309,
-      "totalScore": 0.7133,
+      "totalScore": 0.6933,
+      "sources": [
+        {
+          "channel": "thepaper",
+          "rank": 9,
+          "hot": 0,
+          "url": "https://www.thepaper.cn/newsDetail_forward_34192197"
+        }
+      ],
+      "summary": "",
+      "url": "https://www.thepaper.cn/newsDetail_forward_34192197"
+    },
+    {
+      "id": "evt-ipo00000",
+      "title": "史上最大IPO要来了",
+      "category": "society",
+      "hotScore": 0.48,
+      "freshness": 1,
+      "crossSource": 0.6309,
+      "totalScore": 0.6813,
       "sources": [
         {
           "channel": "baidu",
-          "rank": 7,
+          "rank": 9,
           "hot": 0,
-          "url": "https://m.baidu.com/s?word=%E2%80%9C%E5%85%85%E7%94%B5%E8%87%B380%25%E5%BF%85%E9%A1%BB%E7%A6%BB%E5%9C%BA%E2%80%9D&sa=fyb_news"
+          "url": "https://m.baidu.com/s?word=%E5%8F%B2%E4%B8%8A%E6%9C%80%E5%A4%A7IPO%E8%A6%81%E6%9D%A5%E4%BA%86&sa=fyb_news"
         }
       ],
       "summary": "",
-      "url": "https://m.baidu.com/s?word=%E2%80%9C%E5%85%85%E7%94%B5%E8%87%B380%25%E5%BF%85%E9%A1%BB%E7%A6%BB%E5%9C%BA%E2%80%9D&sa=fyb_news"
-    },
-    {
-      "id": "evt-z1000000",
-      "title": "余承东：华为睿影Z10来了",
-      "category": "society",
-      "hotScore": 0.5525,
-      "freshness": 0.9999,
-      "crossSource": 0.6309,
-      "totalScore": 0.7103,
-      "sources": [
-        {
-          "channel": "toutiao",
-          "rank": 8,
-          "hot": 4211061,
-          "url": "https://www.toutiao.com/trending/7690951137870053439/"
-        }
-      ],
-      "summary": "",
-      "url": "https://www.toutiao.com/trending/7690951137870053439/"
-    },
-    {
-      "id": "evt-94636000",
-      "title": "比亚迪 9 月销量 46.36 万辆，连续数月环比增长，如何看待比亚迪目前的销量走势？",
-      "category": "society",
-      "hotScore": 0.4875,
-      "freshness": 1,
-      "crossSource": 0.6309,
-      "totalScore": 0.6843,
-      "sources": [
-        {
-          "channel": "zhihu",
-          "rank": 8,
-          "hot": 0,
-          "url": ""
-        }
-      ],
-      "summary": "",
-      "url": ""
+      "url": "https://m.baidu.com/s?word=%E5%8F%B2%E4%B8%8A%E6%9C%80%E5%A4%A7IPO%E8%A6%81%E6%9D%A5%E4%BA%86&sa=fyb_news"
     },
     {
       "id": "evt-12300000",
@@ -208,7 +157,7 @@
         {
           "channel": "toutiao",
           "rank": 11,
-          "hot": 3119630,
+          "hot": 2650347,
           "url": "https://www.toutiao.com/trending/7690946672423210539/"
         }
       ],
