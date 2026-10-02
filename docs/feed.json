@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-10-02T14:17:40.435Z",
+  "generatedAt": "2026-10-02T20:14:09.897Z",
   "fields": {
     "society": "社会",
     "economy": "经济",
@@ -7,8 +7,8 @@
   },
   "feed": [
     {
-      "id": "evt-00000000",
-      "title": "全世界都知道中国人放假了",
+      "id": "evt-90000000",
+      "title": "9月新势力车企销量冰火两重天",
       "category": "society",
       "hotScore": 0.85,
       "freshness": 0.9999,
@@ -18,18 +18,31 @@
         {
           "channel": "toutiao",
           "rank": 1,
-          "hot": 7204392,
-          "url": "https://www.toutiao.com/trending/7691505482342744106/"
-        },
-        {
-          "channel": "baidu",
-          "rank": 7,
-          "hot": 0,
-          "url": "https://m.baidu.com/s?word=%E5%85%A8%E4%B8%96%E7%95%8C%E9%83%BD%E7%9F%A5%E9%81%93%E4%B8%AD%E5%9B%BD%E4%BA%BA%E6%94%BE%E5%81%87%E4%BA%86&sa=fyb_news"
+          "hot": 8821875,
+          "url": "https://www.toutiao.com/trending/7692080156201979418/"
         }
       ],
       "summary": "",
-      "url": "https://www.toutiao.com/trending/7691505482342744106/"
+      "url": "https://www.toutiao.com/trending/7692080156201979418/"
+    },
+    {
+      "id": "evt-00000000",
+      "title": "中国驻美国大使接受美《新闻周刊》专访：谈习近平对美进行国事访问和中美关系",
+      "category": "society",
+      "hotScore": 0.85,
+      "freshness": 1,
+      "crossSource": 1,
+      "totalScore": 0.94,
+      "sources": [
+        {
+          "channel": "thepaper",
+          "rank": 1,
+          "hot": 0,
+          "url": "https://www.thepaper.cn/newsDetail_forward_34190175"
+        }
+      ],
+      "summary": "",
+      "url": "https://www.thepaper.cn/newsDetail_forward_34190175"
     },
     {
       "id": "evt-cfa05000",
@@ -37,69 +50,12 @@
       "category": "society",
       "hotScore": 0.75,
       "freshness": 0.9999,
-      "crossSource": 0.6309,
-      "totalScore": 0.7893,
+      "crossSource": 1,
+      "totalScore": 0.9,
       "sources": [
         {
           "channel": "zhihu",
           "rank": 1,
-          "hot": 0,
-          "url": ""
-        }
-      ],
-      "summary": "",
-      "url": ""
-    },
-    {
-      "id": "evt-ai000000",
-      "title": "中国的 AI 短剧发展得如火如荼，而国外 AI 短剧却没怎么发展起来，是什么原因？",
-      "category": "society",
-      "hotScore": 0.675,
-      "freshness": 0.9999,
-      "crossSource": 0.6309,
-      "totalScore": 0.7593,
-      "sources": [
-        {
-          "channel": "zhihu",
-          "rank": 3,
-          "hot": 0,
-          "url": ""
-        }
-      ],
-      "summary": "",
-      "url": ""
-    },
-    {
-      "id": "evt-a0000000",
-      "title": "A股休市港股为什么先跌了",
-      "category": "society",
-      "hotScore": 0.6375,
-      "freshness": 0.9999,
-      "crossSource": 0.6309,
-      "totalScore": 0.7443,
-      "sources": [
-        {
-          "channel": "toutiao",
-          "rank": 6,
-          "hot": 4369684,
-          "url": "https://www.toutiao.com/trending/7692042888917552694/"
-        }
-      ],
-      "summary": "",
-      "url": "https://www.toutiao.com/trending/7692042888917552694/"
-    },
-    {
-      "id": "evt-abcd0000",
-      "title": "为什么维生素只有 ABCDE 和 K，中间跳过了 FGHIJ？",
-      "category": "society",
-      "hotScore": 0.5625,
-      "freshness": 0.9999,
-      "crossSource": 0.6309,
-      "totalScore": 0.7143,
-      "sources": [
-        {
-          "channel": "zhihu",
-          "rank": 6,
           "hot": 0,
           "url": ""
         }
@@ -111,14 +67,14 @@
       "id": "evt-11231500",
       "title": "1年内在12315平台累计举报1520次，市监部门：具牟利性职业索赔特征",
       "category": "society",
-      "hotScore": 0.51,
+      "hotScore": 0.7225,
       "freshness": 1,
-      "crossSource": 0.6309,
-      "totalScore": 0.6933,
+      "crossSource": 1,
+      "totalScore": 0.889,
       "sources": [
         {
           "channel": "thepaper",
-          "rank": 9,
+          "rank": 4,
           "hot": 0,
           "url": "https://www.thepaper.cn/newsDetail_forward_34192197"
         }
@@ -127,23 +83,118 @@
       "url": "https://www.thepaper.cn/newsDetail_forward_34192197"
     },
     {
-      "id": "evt-ipo00000",
-      "title": "史上最大IPO要来了",
+      "id": "evt-ai000000",
+      "title": "中国的 AI 短剧发展得如火如荼，而国外 AI 短剧却没怎么发展起来，是什么原因？",
       "category": "society",
-      "hotScore": 0.48,
-      "freshness": 1,
-      "crossSource": 0.6309,
-      "totalScore": 0.6813,
+      "hotScore": 0.7125,
+      "freshness": 0.9999,
+      "crossSource": 1,
+      "totalScore": 0.885,
       "sources": [
         {
-          "channel": "baidu",
-          "rank": 9,
+          "channel": "zhihu",
+          "rank": 2,
           "hot": 0,
-          "url": "https://m.baidu.com/s?word=%E5%8F%B2%E4%B8%8A%E6%9C%80%E5%A4%A7IPO%E8%A6%81%E6%9D%A5%E4%BA%86&sa=fyb_news"
+          "url": ""
         }
       ],
       "summary": "",
-      "url": "https://m.baidu.com/s?word=%E5%8F%B2%E4%B8%8A%E6%9C%80%E5%A4%A7IPO%E8%A6%81%E6%9D%A5%E4%BA%86&sa=fyb_news"
+      "url": ""
+    },
+    {
+      "id": "evt-05000000",
+      "title": "国足主帅回应0-5惨败",
+      "category": "society",
+      "hotScore": 0.68,
+      "freshness": 0.9999,
+      "crossSource": 1,
+      "totalScore": 0.872,
+      "sources": [
+        {
+          "channel": "toutiao",
+          "rank": 5,
+          "hot": 5913479,
+          "url": "https://www.toutiao.com/trending/7691992858181779497/"
+        }
+      ],
+      "summary": "",
+      "url": "https://www.toutiao.com/trending/7691992858181779497/"
+    },
+    {
+      "id": "evt-75000000",
+      "title": "75岁王石重返房地产",
+      "category": "society",
+      "hotScore": 0.6375,
+      "freshness": 0.9999,
+      "crossSource": 1,
+      "totalScore": 0.855,
+      "sources": [
+        {
+          "channel": "toutiao",
+          "rank": 6,
+          "hot": 5350737,
+          "url": "https://www.toutiao.com/trending/7690858079566528554/"
+        }
+      ],
+      "summary": "",
+      "url": "https://www.toutiao.com/trending/7690858079566528554/"
+    },
+    {
+      "id": "evt-18000000",
+      "title": "莫氏鸡煲总店员工从 180 人减至 30 多人，国庆假期上座率仅六成，为啥网红餐厅总难逃流量暴跌的命运？",
+      "category": "society",
+      "hotScore": 0.6375,
+      "freshness": 0.9999,
+      "crossSource": 1,
+      "totalScore": 0.855,
+      "sources": [
+        {
+          "channel": "zhihu",
+          "rank": 4,
+          "hot": 0,
+          "url": ""
+        }
+      ],
+      "summary": "",
+      "url": ""
+    },
+    {
+      "id": "evt-zara0000",
+      "title": "Zara新品裙子上线就售罄：6000多一条",
+      "category": "society",
+      "hotScore": 0.6,
+      "freshness": 1,
+      "crossSource": 1,
+      "totalScore": 0.84,
+      "sources": [
+        {
+          "channel": "baidu",
+          "rank": 6,
+          "hot": 0,
+          "url": "https://m.baidu.com/s?word=Zara%E6%96%B0%E5%93%81%E8%A3%99%E5%AD%90%E4%B8%8A%E7%BA%BF%E5%B0%B1%E5%94%AE%E7%BD%84%EF%BC%9A6000%E5%A4%9A%E4%B8%80%E6%9D%A1&sa=fyb_news"
+        }
+      ],
+      "summary": "",
+      "url": "https://m.baidu.com/s?word=Zara%E6%96%B0%E5%93%81%E8%A3%99%E5%AD%90%E4%B8%8A%E7%BA%BF%E5%B0%B1%E5%94%AE%E7%BD%84%EF%BC%9A6000%E5%A4%9A%E4%B8%80%E6%9D%A1&sa=fyb_news"
+    },
+    {
+      "id": "evt-abcd0000",
+      "title": "为什么维生素只有 ABCDE 和 K，中间跳过了 FGHIJ？",
+      "category": "society",
+      "hotScore": 0.525,
+      "freshness": 0.9999,
+      "crossSource": 1,
+      "totalScore": 0.81,
+      "sources": [
+        {
+          "channel": "zhihu",
+          "rank": 7,
+          "hot": 0,
+          "url": ""
+        }
+      ],
+      "summary": "",
+      "url": ""
     },
     {
       "id": "evt-12300000",
@@ -151,13 +202,13 @@
       "category": "society",
       "hotScore": 0.425,
       "freshness": 0.9999,
-      "crossSource": 0.6309,
-      "totalScore": 0.6593,
+      "crossSource": 1,
+      "totalScore": 0.77,
       "sources": [
         {
           "channel": "toutiao",
           "rank": 11,
-          "hot": 2650347,
+          "hot": 3245386,
           "url": "https://www.toutiao.com/trending/7690946672423210539/"
         }
       ],
