@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-10-01T20:39:46.474Z",
+  "generatedAt": "2026-10-02T01:12:04.019Z",
   "fields": {
     "society": "社会",
     "economy": "经济",
@@ -7,33 +7,52 @@
   },
   "feed": [
     {
-      "id": "evt-00000000",
-      "title": "华为与赛力斯达成新五年合作",
+      "id": "evt-10000000",
+      "title": "国庆出行有车辆剩1%电量后“趴窝”",
       "category": "society",
-      "hotScore": 0.68,
-      "freshness": 1,
+      "hotScore": 0.76,
+      "freshness": 0.9999,
       "crossSource": 1,
-      "totalScore": 0.872,
+      "totalScore": 0.904,
       "sources": [
         {
           "channel": "toutiao",
-          "rank": 5,
-          "hot": 18686452,
-          "url": "https://www.toutiao.com/trending/7691647976585924122/"
+          "rank": 4,
+          "hot": 16394095,
+          "url": "https://www.toutiao.com/trending/7691309888852672554/"
         },
         {
           "channel": "baidu",
-          "rank": 10,
+          "rank": 2,
           "hot": 0,
-          "url": "https://m.baidu.com/s?word=%E5%8D%8E%E4%B8%BA%E4%B8%8E%E8%B5%9B%E5%8A%9B%E6%96%AF%E8%BE%BE%E6%88%90%E6%96%B0%E4%BA%94%E5%B9%B4%E5%90%88%E4%BD%9C&sa=fyb_news"
+          "url": "https://m.baidu.com/s?word=%E5%9B%BD%E5%BA%86%E5%87%BA%E8%A1%8C%E6%9C%89%E8%BD%A6%E8%BE%86%E5%89%A91%25%E7%94%B5%E9%87%8F%E5%90%8E%E2%80%9C%E8%B6%B4%E7%AA%9D%E2%80%9D&sa=fyb_news"
         }
       ],
       "summary": "",
-      "url": "https://www.toutiao.com/trending/7691647976585924122/"
+      "url": "https://www.toutiao.com/trending/7691309888852672554/"
     },
     {
-      "id": "evt-10000000",
-      "title": "国庆出行有车辆仅剩1%电量后“趴窝”",
+      "id": "evt-17mat000",
+      "title": "17年果粉买到华为Mate90激动到结巴",
+      "category": "society",
+      "hotScore": 0.85,
+      "freshness": 0.9999,
+      "crossSource": 0.6309,
+      "totalScore": 0.8293,
+      "sources": [
+        {
+          "channel": "toutiao",
+          "rank": 1,
+          "hot": 22129714,
+          "url": "https://www.toutiao.com/trending/7690954212159193151/"
+        }
+      ],
+      "summary": "",
+      "url": "https://www.toutiao.com/trending/7690954212159193151/"
+    },
+    {
+      "id": "evt-00000000",
+      "title": "银基动物王国回应“热门项目预约难”等：持续优化预约与管理",
       "category": "society",
       "hotScore": 0.85,
       "freshness": 1,
@@ -41,33 +60,14 @@
       "totalScore": 0.8293,
       "sources": [
         {
-          "channel": "toutiao",
+          "channel": "thepaper",
           "rank": 1,
-          "hot": 27876910,
-          "url": "https://www.toutiao.com/trending/7691309888852672554/"
-        }
-      ],
-      "summary": "",
-      "url": "https://www.toutiao.com/trending/7691309888852672554/"
-    },
-    {
-      "id": "evt-20000000",
-      "title": "男子用土豆当主食半年瘦 25 斤，称脂肪肝没了，血压、血糖稳了，真的会这样吗？这种减肥方法适合什么样的人？",
-      "category": "society",
-      "hotScore": 0.7125,
-      "freshness": 1,
-      "crossSource": 0.6309,
-      "totalScore": 0.7743,
-      "sources": [
-        {
-          "channel": "zhihu",
-          "rank": 2,
           "hot": 0,
-          "url": ""
+          "url": "https://www.thepaper.cn/newsDetail_forward_34187185"
         }
       ],
       "summary": "",
-      "url": ""
+      "url": "https://www.thepaper.cn/newsDetail_forward_34187185"
     },
     {
       "id": "evt-mate9000",
@@ -89,17 +89,17 @@
       "url": "https://www.thepaper.cn/newsDetail_forward_34186076"
     },
     {
-      "id": "evt-90000000",
-      "title": "车企 9 月销量数据出炉，比亚迪超 46 万，小米交付超 4 万台，理想、深蓝交付超 3 万台，怎样解读各家表现？",
+      "id": "evt-94636000",
+      "title": "比亚迪 9 月销量 46.36 万辆，连续数月环比增长，如何看待比亚迪目前的销量走势？",
       "category": "society",
-      "hotScore": 0.675,
+      "hotScore": 0.6375,
       "freshness": 1,
       "crossSource": 0.6309,
-      "totalScore": 0.7593,
+      "totalScore": 0.7443,
       "sources": [
         {
           "channel": "zhihu",
-          "rank": 3,
+          "rank": 4,
           "hot": 0,
           "url": ""
         }
@@ -108,8 +108,8 @@
       "url": ""
     },
     {
-      "id": "evt-13200000",
-      "title": "13岁男孩2小时手搓爱国电视机",
+      "id": "evt-mate0000",
+      "title": "华为Mate万元旗舰 套上59元积木壳",
       "category": "society",
       "hotScore": 0.6,
       "freshness": 1,
@@ -120,24 +120,24 @@
           "channel": "baidu",
           "rank": 6,
           "hot": 0,
-          "url": "https://m.baidu.com/s?word=13%E5%B2%81%E7%94%B7%E5%AD%A92%E5%B0%8F%E6%97%B6%E6%89%8B%E6%90%93%E7%88%B1%E5%9B%BD%E7%94%B5%E8%A7%86%E6%9C%BA&sa=fyb_news"
+          "url": "https://m.baidu.com/s?word=%E5%8D%8E%E4%B8%BAMate%E4%B8%87%E5%85%83%E6%97%97%E8%88%B0+%E5%A5%97%E4%B8%8A59%E5%85%83%E7%A7%AF%E6%9C%A8%E5%A3%B3&sa=fyb_news"
         }
       ],
       "summary": "",
-      "url": "https://m.baidu.com/s?word=13%E5%B2%81%E7%94%B7%E5%AD%A92%E5%B0%8F%E6%97%B6%E6%89%8B%E6%90%93%E7%88%B1%E5%9B%BD%E7%94%B5%E8%A7%86%E6%9C%BA&sa=fyb_news"
+      "url": "https://m.baidu.com/s?word=%E5%8D%8E%E4%B8%BAMate%E4%B8%87%E5%85%83%E6%97%97%E8%88%B0+%E5%A5%97%E4%B8%8A59%E5%85%83%E7%A7%AF%E6%9C%A8%E5%A3%B3&sa=fyb_news"
     },
     {
-      "id": "evt-30500000",
-      "title": "30 年期美债收益率冲破 5.6%，到底会带来哪些影响，会如何影响中国资产定价，全球范围内又如何？",
+      "id": "evt-20000000",
+      "title": "为什么宇宙的最低温只有 -273.15 度，最高温却高达 1.4 亿亿亿亿度?",
       "category": "society",
-      "hotScore": 0.5625,
+      "hotScore": 0.525,
       "freshness": 1,
       "crossSource": 0.6309,
-      "totalScore": 0.7143,
+      "totalScore": 0.6993,
       "sources": [
         {
           "channel": "zhihu",
-          "rank": 6,
+          "rank": 7,
           "hot": 0,
           "url": ""
         }
@@ -146,56 +146,56 @@
       "url": ""
     },
     {
-      "id": "evt-c0000000",
-      "title": "C罗退队惊动葡萄牙总理",
+      "id": "evt-30000000",
+      "title": "涨价30倍 网吧活得更好了吗",
       "category": "society",
-      "hotScore": 0.56,
+      "hotScore": 0.52,
       "freshness": 1,
       "crossSource": 0.6309,
-      "totalScore": 0.7133,
+      "totalScore": 0.6973,
       "sources": [
         {
           "channel": "baidu",
-          "rank": 7,
+          "rank": 8,
           "hot": 0,
-          "url": "https://m.baidu.com/s?word=C%E7%BD%97%E9%80%80%E9%98%9F%E6%83%8A%E5%8A%A8%E8%91%A1%E8%90%84%E7%89%99%E6%80%BB%E7%90%86&sa=fyb_news"
+          "url": "https://m.baidu.com/s?word=%E6%B6%A8%E4%BB%B730%E5%80%8D+%E7%BD%91%E5%90%A7%E6%B4%BB%E5%BE%97%E6%9B%B4%E5%A5%BD%E4%BA%86%E5%90%97&sa=fyb_news"
         }
       ],
       "summary": "",
-      "url": "https://m.baidu.com/s?word=C%E7%BD%97%E9%80%80%E9%98%9F%E6%83%8A%E5%8A%A8%E8%91%A1%E8%90%84%E7%89%99%E6%80%BB%E7%90%86&sa=fyb_news"
+      "url": "https://m.baidu.com/s?word=%E6%B6%A8%E4%BB%B730%E5%80%8D+%E7%BD%91%E5%90%A7%E6%B4%BB%E5%BE%97%E6%9B%B4%E5%A5%BD%E4%BA%86%E5%90%97&sa=fyb_news"
     },
     {
-      "id": "evt-94630000",
-      "title": "比亚迪9月汽车销量463561辆",
+      "id": "evt-10100000",
+      "title": "101岁老兵天安门看升旗大喊4个万岁",
       "category": "society",
       "hotScore": 0.51,
-      "freshness": 1,
+      "freshness": 0.9999,
       "crossSource": 0.6309,
       "totalScore": 0.6933,
       "sources": [
         {
           "channel": "toutiao",
           "rank": 9,
-          "hot": 12525903,
-          "url": "https://www.toutiao.com/trending/7691652583328419379/"
+          "hot": 9943521,
+          "url": "https://www.toutiao.com/trending/7691361873429856299/"
         }
       ],
       "summary": "",
-      "url": "https://www.toutiao.com/trending/7691652583328419379/"
+      "url": "https://www.toutiao.com/trending/7691361873429856299/"
     },
     {
       "id": "evt-50000000",
       "title": "新疆光伏工地被环保罚50万？假的",
       "category": "society",
       "hotScore": 0.425,
-      "freshness": 1,
+      "freshness": 0.9999,
       "crossSource": 0.6309,
       "totalScore": 0.6593,
       "sources": [
         {
           "channel": "toutiao",
           "rank": 11,
-          "hot": 10255342,
+          "hot": 8141066,
           "url": "https://www.toutiao.com/trending/7691263617689485353/"
         }
       ],
