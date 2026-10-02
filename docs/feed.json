@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-10-02T01:12:04.019Z",
+  "generatedAt": "2026-10-02T07:43:16.653Z",
   "fields": {
     "society": "社会",
     "economy": "经济",
@@ -7,80 +7,74 @@
   },
   "feed": [
     {
-      "id": "evt-10000000",
-      "title": "国庆出行有车辆剩1%电量后“趴窝”",
+      "id": "evt-00000000",
+      "title": "国际油价大涨会加速油电替代进程吗",
       "category": "society",
-      "hotScore": 0.76,
+      "hotScore": 0.85,
       "freshness": 0.9999,
-      "crossSource": 1,
-      "totalScore": 0.904,
+      "crossSource": 0.6309,
+      "totalScore": 0.8293,
       "sources": [
         {
           "channel": "toutiao",
-          "rank": 4,
-          "hot": 16394095,
-          "url": "https://www.toutiao.com/trending/7691309888852672554/"
-        },
+          "rank": 1,
+          "hot": 8480035,
+          "url": "https://www.toutiao.com/trending/7691929444713238057/"
+        }
+      ],
+      "summary": "",
+      "url": "https://www.toutiao.com/trending/7691929444713238057/"
+    },
+    {
+      "id": "evt-15000000",
+      "title": "华为赛力斯 分手15天后闪电复合",
+      "category": "society",
+      "hotScore": 0.76,
+      "freshness": 1,
+      "crossSource": 0.6309,
+      "totalScore": 0.7933,
+      "sources": [
         {
           "channel": "baidu",
           "rank": 2,
           "hot": 0,
-          "url": "https://m.baidu.com/s?word=%E5%9B%BD%E5%BA%86%E5%87%BA%E8%A1%8C%E6%9C%89%E8%BD%A6%E8%BE%86%E5%89%A91%25%E7%94%B5%E9%87%8F%E5%90%8E%E2%80%9C%E8%B6%B4%E7%AA%9D%E2%80%9D&sa=fyb_news"
+          "url": "https://m.baidu.com/s?word=%E5%8D%8E%E4%B8%BA%E8%B5%9B%E5%8A%9B%E6%96%AF+%E5%88%86%E6%89%8B15%E5%A4%A9%E5%90%8E%E9%97%AA%E7%94%B5%E5%A4%8D%E5%90%88&sa=fyb_news"
         }
       ],
       "summary": "",
-      "url": "https://www.toutiao.com/trending/7691309888852672554/"
+      "url": "https://m.baidu.com/s?word=%E5%8D%8E%E4%B8%BA%E8%B5%9B%E5%8A%9B%E6%96%AF+%E5%88%86%E6%89%8B15%E5%A4%A9%E5%90%8E%E9%97%AA%E7%94%B5%E5%A4%8D%E5%90%88&sa=fyb_news"
     },
     {
-      "id": "evt-17mat000",
-      "title": "17年果粉买到华为Mate90激动到结巴",
+      "id": "evt-10000000",
+      "title": "江歌妈妈最新发文「10 年维权路，尘埃终将落定」，哪些信息值得关注？",
       "category": "society",
-      "hotScore": 0.85,
-      "freshness": 0.9999,
-      "crossSource": 0.6309,
-      "totalScore": 0.8293,
-      "sources": [
-        {
-          "channel": "toutiao",
-          "rank": 1,
-          "hot": 22129714,
-          "url": "https://www.toutiao.com/trending/7690954212159193151/"
-        }
-      ],
-      "summary": "",
-      "url": "https://www.toutiao.com/trending/7690954212159193151/"
-    },
-    {
-      "id": "evt-00000000",
-      "title": "银基动物王国回应“热门项目预约难”等：持续优化预约与管理",
-      "category": "society",
-      "hotScore": 0.85,
+      "hotScore": 0.75,
       "freshness": 1,
       "crossSource": 0.6309,
-      "totalScore": 0.8293,
+      "totalScore": 0.7893,
       "sources": [
         {
-          "channel": "thepaper",
+          "channel": "zhihu",
           "rank": 1,
           "hot": 0,
-          "url": "https://www.thepaper.cn/newsDetail_forward_34187185"
+          "url": ""
         }
       ],
       "summary": "",
-      "url": "https://www.thepaper.cn/newsDetail_forward_34187185"
+      "url": ""
     },
     {
       "id": "evt-mate9000",
       "title": "华为Mate 90系列发布：全系搭载韬芯片，麒麟9050 Pro亮相",
       "category": "society",
-      "hotScore": 0.68,
+      "hotScore": 0.7225,
       "freshness": 1,
       "crossSource": 0.6309,
-      "totalScore": 0.7613,
+      "totalScore": 0.7783,
       "sources": [
         {
           "channel": "thepaper",
-          "rank": 5,
+          "rank": 4,
           "hot": 0,
           "url": "https://www.thepaper.cn/newsDetail_forward_34186076"
         }
@@ -89,55 +83,55 @@
       "url": "https://www.thepaper.cn/newsDetail_forward_34186076"
     },
     {
-      "id": "evt-94636000",
-      "title": "比亚迪 9 月销量 46.36 万辆，连续数月环比增长，如何看待比亚迪目前的销量走势？",
+      "id": "evt-17mat000",
+      "title": "17年果粉买到华为Mate90激动到结巴",
       "category": "society",
-      "hotScore": 0.6375,
-      "freshness": 1,
+      "hotScore": 0.68,
+      "freshness": 0.9999,
       "crossSource": 0.6309,
-      "totalScore": 0.7443,
+      "totalScore": 0.7613,
       "sources": [
         {
-          "channel": "zhihu",
-          "rank": 4,
-          "hot": 0,
-          "url": ""
+          "channel": "toutiao",
+          "rank": 5,
+          "hot": 5684337,
+          "url": "https://www.toutiao.com/trending/7690954212159193151/"
         }
       ],
       "summary": "",
-      "url": ""
+      "url": "https://www.toutiao.com/trending/7690954212159193151/"
     },
     {
-      "id": "evt-mate0000",
-      "title": "华为Mate万元旗舰 套上59元积木壳",
+      "id": "evt-24000000",
+      "title": "女装2.4米丝带防蹭穿 有用吗",
       "category": "society",
-      "hotScore": 0.6,
+      "hotScore": 0.64,
       "freshness": 1,
       "crossSource": 0.6309,
-      "totalScore": 0.7293,
+      "totalScore": 0.7453,
       "sources": [
         {
           "channel": "baidu",
-          "rank": 6,
+          "rank": 5,
           "hot": 0,
-          "url": "https://m.baidu.com/s?word=%E5%8D%8E%E4%B8%BAMate%E4%B8%87%E5%85%83%E6%97%97%E8%88%B0+%E5%A5%97%E4%B8%8A59%E5%85%83%E7%A7%AF%E6%9C%A8%E5%A3%B3&sa=fyb_news"
+          "url": "https://m.baidu.com/s?word=%E5%A5%B3%E8%A3%852.4%E7%B1%B3%E4%B8%9D%E5%B8%A6%E9%98%B2%E8%B9%AD%E7%A9%BF+%E6%9C%89%E7%94%A8%E5%90%97&sa=fyb_news"
         }
       ],
       "summary": "",
-      "url": "https://m.baidu.com/s?word=%E5%8D%8E%E4%B8%BAMate%E4%B8%87%E5%85%83%E6%97%97%E8%88%B0+%E5%A5%97%E4%B8%8A59%E5%85%83%E7%A7%AF%E6%9C%A8%E5%A3%B3&sa=fyb_news"
+      "url": "https://m.baidu.com/s?word=%E5%A5%B3%E8%A3%852.4%E7%B1%B3%E4%B8%9D%E5%B8%A6%E9%98%B2%E8%B9%AD%E7%A9%BF+%E6%9C%89%E7%94%A8%E5%90%97&sa=fyb_news"
     },
     {
       "id": "evt-20000000",
       "title": "为什么宇宙的最低温只有 -273.15 度，最高温却高达 1.4 亿亿亿亿度?",
       "category": "society",
-      "hotScore": 0.525,
+      "hotScore": 0.5625,
       "freshness": 1,
       "crossSource": 0.6309,
-      "totalScore": 0.6993,
+      "totalScore": 0.7143,
       "sources": [
         {
           "channel": "zhihu",
-          "rank": 7,
+          "rank": 6,
           "hot": 0,
           "url": ""
         }
@@ -146,46 +140,65 @@
       "url": ""
     },
     {
-      "id": "evt-30000000",
-      "title": "涨价30倍 网吧活得更好了吗",
+      "id": "evt-80000000",
+      "title": "“充电至80%必须离场”",
       "category": "society",
-      "hotScore": 0.52,
+      "hotScore": 0.56,
       "freshness": 1,
       "crossSource": 0.6309,
-      "totalScore": 0.6973,
+      "totalScore": 0.7133,
       "sources": [
         {
           "channel": "baidu",
-          "rank": 8,
+          "rank": 7,
           "hot": 0,
-          "url": "https://m.baidu.com/s?word=%E6%B6%A8%E4%BB%B730%E5%80%8D+%E7%BD%91%E5%90%A7%E6%B4%BB%E5%BE%97%E6%9B%B4%E5%A5%BD%E4%BA%86%E5%90%97&sa=fyb_news"
+          "url": "https://m.baidu.com/s?word=%E2%80%9C%E5%85%85%E7%94%B5%E8%87%B380%25%E5%BF%85%E9%A1%BB%E7%A6%BB%E5%9C%BA%E2%80%9D&sa=fyb_news"
         }
       ],
       "summary": "",
-      "url": "https://m.baidu.com/s?word=%E6%B6%A8%E4%BB%B730%E5%80%8D+%E7%BD%91%E5%90%A7%E6%B4%BB%E5%BE%97%E6%9B%B4%E5%A5%BD%E4%BA%86%E5%90%97&sa=fyb_news"
+      "url": "https://m.baidu.com/s?word=%E2%80%9C%E5%85%85%E7%94%B5%E8%87%B380%25%E5%BF%85%E9%A1%BB%E7%A6%BB%E5%9C%BA%E2%80%9D&sa=fyb_news"
     },
     {
-      "id": "evt-10100000",
-      "title": "101岁老兵天安门看升旗大喊4个万岁",
+      "id": "evt-z1000000",
+      "title": "余承东：华为睿影Z10来了",
       "category": "society",
-      "hotScore": 0.51,
+      "hotScore": 0.5525,
       "freshness": 0.9999,
       "crossSource": 0.6309,
-      "totalScore": 0.6933,
+      "totalScore": 0.7103,
       "sources": [
         {
           "channel": "toutiao",
-          "rank": 9,
-          "hot": 9943521,
-          "url": "https://www.toutiao.com/trending/7691361873429856299/"
+          "rank": 8,
+          "hot": 4211061,
+          "url": "https://www.toutiao.com/trending/7690951137870053439/"
         }
       ],
       "summary": "",
-      "url": "https://www.toutiao.com/trending/7691361873429856299/"
+      "url": "https://www.toutiao.com/trending/7690951137870053439/"
     },
     {
-      "id": "evt-50000000",
-      "title": "新疆光伏工地被环保罚50万？假的",
+      "id": "evt-94636000",
+      "title": "比亚迪 9 月销量 46.36 万辆，连续数月环比增长，如何看待比亚迪目前的销量走势？",
+      "category": "society",
+      "hotScore": 0.4875,
+      "freshness": 1,
+      "crossSource": 0.6309,
+      "totalScore": 0.6843,
+      "sources": [
+        {
+          "channel": "zhihu",
+          "rank": 8,
+          "hot": 0,
+          "url": ""
+        }
+      ],
+      "summary": "",
+      "url": ""
+    },
+    {
+      "id": "evt-12300000",
+      "title": "购票有捷径和妙招？12306辟谣",
       "category": "society",
       "hotScore": 0.425,
       "freshness": 0.9999,
@@ -195,12 +208,12 @@
         {
           "channel": "toutiao",
           "rank": 11,
-          "hot": 8141066,
-          "url": "https://www.toutiao.com/trending/7691263617689485353/"
+          "hot": 3119630,
+          "url": "https://www.toutiao.com/trending/7690946672423210539/"
         }
       ],
       "summary": "",
-      "url": "https://www.toutiao.com/trending/7691263617689485353/"
+      "url": "https://www.toutiao.com/trending/7690946672423210539/"
     }
   ]
 }
