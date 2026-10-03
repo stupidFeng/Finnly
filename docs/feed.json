@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-10-03T00:48:50.326Z",
+  "generatedAt": "2026-10-03T07:16:21.011Z",
   "fields": {
     "society": "社会",
     "economy": "经济",
@@ -7,8 +7,33 @@
   },
   "feed": [
     {
+      "id": "evt-05000000",
+      "title": "新华社：给中国足球的又一记警钟",
+      "category": "society",
+      "hotScore": 0.85,
+      "freshness": 0.9999,
+      "crossSource": 1,
+      "totalScore": 0.94,
+      "sources": [
+        {
+          "channel": "toutiao",
+          "rank": 1,
+          "hot": 29301821,
+          "url": "https://www.toutiao.com/trending/7692070165018296383/"
+        },
+        {
+          "channel": "baidu",
+          "rank": 6,
+          "hot": 0,
+          "url": "https://m.baidu.com/s?word=%E6%96%B0%E5%8D%8E%E7%A4%BE%EF%BC%9A%E7%BB%99%E4%B8%AD%E5%9B%BD%E8%B6%B3%E7%90%83%E7%9A%84%E5%8F%88%E4%B8%80%E8%AE%B0%E8%AD%A6%E9%92%9F&sa=fyb_news"
+        }
+      ],
+      "summary": "",
+      "url": "https://www.toutiao.com/trending/7692070165018296383/"
+    },
+    {
       "id": "evt-00000000",
-      "title": "韩媒评国足：就这样还想去世界杯？",
+      "title": "中国驻美国大使接受美《新闻周刊》专访：谈习近平对美进行国事访问和中美关系",
       "category": "society",
       "hotScore": 0.85,
       "freshness": 1,
@@ -16,65 +41,27 @@
       "totalScore": 0.8293,
       "sources": [
         {
-          "channel": "toutiao",
-          "rank": 1,
-          "hot": 13815178,
-          "url": "https://www.toutiao.com/trending/7690946672423308843/"
-        }
-      ],
-      "summary": "",
-      "url": "https://www.toutiao.com/trending/7690946672423308843/"
-    },
-    {
-      "id": "evt-31000000",
-      "title": "获3金1银陈妤颉说回去要补高中课程",
-      "category": "society",
-      "hotScore": 0.8075,
-      "freshness": 1,
-      "crossSource": 0.6309,
-      "totalScore": 0.8123,
-      "sources": [
-        {
-          "channel": "toutiao",
-          "rank": 2,
-          "hot": 12500490,
-          "url": "https://www.toutiao.com/trending/7691127028963229759/"
-        }
-      ],
-      "summary": "",
-      "url": "https://www.toutiao.com/trending/7691127028963229759/"
-    },
-    {
-      "id": "evt-cfa05000",
-      "title": "CFA 友谊赛，中国男足 0-5 巴勒斯坦，如何评价本场比赛？",
-      "category": "society",
-      "hotScore": 0.75,
-      "freshness": 1,
-      "crossSource": 0.6309,
-      "totalScore": 0.7893,
-      "sources": [
-        {
-          "channel": "zhihu",
+          "channel": "thepaper",
           "rank": 1,
           "hot": 0,
-          "url": ""
+          "url": "https://www.thepaper.cn/newsDetail_forward_34190175"
         }
       ],
       "summary": "",
-      "url": ""
+      "url": "https://www.thepaper.cn/newsDetail_forward_34190175"
     },
     {
       "id": "evt-11231500",
       "title": "1年内在12315平台累计举报1520次，市监部门：具牟利性职业索赔特征",
       "category": "society",
-      "hotScore": 0.7225,
+      "hotScore": 0.765,
       "freshness": 1,
       "crossSource": 0.6309,
-      "totalScore": 0.7783,
+      "totalScore": 0.7953,
       "sources": [
         {
           "channel": "thepaper",
-          "rank": 4,
+          "rank": 3,
           "hot": 0,
           "url": "https://www.thepaper.cn/newsDetail_forward_34192197"
         }
@@ -83,61 +70,36 @@
       "url": "https://www.thepaper.cn/newsDetail_forward_34192197"
     },
     {
-      "id": "evt-ai000000",
-      "title": "中国的 AI 短剧发展得如火如荼，而国外 AI 短剧却没怎么发展起来，是什么原因？",
+      "id": "evt-vs000000",
+      "title": "亚运男足季军赛：中国vs乌兹别克斯坦",
       "category": "society",
-      "hotScore": 0.7125,
-      "freshness": 1,
+      "hotScore": 0.7225,
+      "freshness": 0.9999,
       "crossSource": 0.6309,
-      "totalScore": 0.7743,
-      "sources": [
-        {
-          "channel": "zhihu",
-          "rank": 2,
-          "hot": 0,
-          "url": ""
-        }
-      ],
-      "summary": "",
-      "url": ""
-    },
-    {
-      "id": "evt-c0000000",
-      "title": "C罗官宣离队后葡萄牙队掉粉超百万",
-      "category": "society",
-      "hotScore": 0.4,
-      "freshness": 1,
-      "crossSource": 1,
-      "totalScore": 0.76,
+      "totalScore": 0.7783,
       "sources": [
         {
           "channel": "toutiao",
-          "rank": 12,
-          "hot": 4598673,
-          "url": "https://www.toutiao.com/trending/7692125449765470758/"
-        },
-        {
-          "channel": "baidu",
-          "rank": 11,
-          "hot": 0,
-          "url": "https://m.baidu.com/s?word=C%E7%BD%97%E5%AE%98%E5%AE%A3%E7%A6%BB%E9%98%9F%E5%90%8E%E8%91%A1%E8%90%84%E7%89%99%E9%98%9F%E6%8E%89%E7%B2%89%E8%B6%85%E7%99%BE%E4%B8%87&sa=fyb_news"
+          "rank": 4,
+          "hot": 21707323,
+          "url": "https://www.toutiao.com/trending/7692316930224590387/"
         }
       ],
       "summary": "",
-      "url": "https://www.toutiao.com/trending/7692125449765470758/"
+      "url": "https://www.toutiao.com/trending/7692316930224590387/"
     },
     {
-      "id": "evt-18000000",
-      "title": "莫氏鸡煲总店员工从 180 人减至 30 多人，国庆假期上座率仅六成，为啥网红餐厅总难逃流量暴跌的命运？",
-      "category": "society",
-      "hotScore": 0.675,
+      "id": "evt-20260000",
+      "title": "2026 年国庆档总票房破 4 亿，陈思诚《神探之痕迹》领跑，你更看好哪部电影？",
+      "category": "entertainment",
+      "hotScore": 0.45,
       "freshness": 1,
       "crossSource": 0.6309,
-      "totalScore": 0.7593,
+      "totalScore": 0.6693,
       "sources": [
         {
           "channel": "zhihu",
-          "rank": 3,
+          "rank": 9,
           "hot": 0,
           "url": ""
         }
@@ -146,74 +108,36 @@
       "url": ""
     },
     {
-      "id": "evt-30000000",
-      "title": "吃自助被送急诊 胃里取出3斤残渣",
+      "id": "evt-10000000",
+      "title": "1000 桶水中两桶有毒，猪喝毒水后会在 15 分钟内死去，想用一个小时找到毒水，至少需要几只猪？如何实现？",
       "category": "society",
-      "hotScore": 0.6,
+      "hotScore": 0.6375,
       "freshness": 1,
       "crossSource": 0.6309,
-      "totalScore": 0.7293,
+      "totalScore": 0.7443,
       "sources": [
         {
-          "channel": "baidu",
-          "rank": 6,
+          "channel": "zhihu",
+          "rank": 4,
           "hot": 0,
-          "url": "https://m.baidu.com/s?word=%E5%90%83%E8%87%AA%E5%8A%A9%E8%A2%AB%E9%80%81%E6%80%A5%E8%AF%8A+%E8%83%83%E9%87%8C%E5%8F%96%E5%87%BA3%E6%96%A4%E6%AE%8B%E6%B8%A3&sa=fyb_news"
+          "url": ""
         }
       ],
       "summary": "",
-      "url": "https://m.baidu.com/s?word=%E5%90%83%E8%87%AA%E5%8A%A9%E8%A2%AB%E9%80%81%E6%80%A5%E8%AF%8A+%E8%83%83%E9%87%8C%E5%8F%96%E5%87%BA3%E6%96%A4%E6%AE%8B%E6%B8%A3&sa=fyb_news"
+      "url": ""
     },
     {
-      "id": "evt-05000000",
-      "title": "0比5输球后，邵佳一：这样的失利说实话以前没有经历过",
+      "id": "evt-xx000000",
+      "title": "理论上讲 XX 是女性染色体，那为什么 YY 不是男性染色体，必须是 XY？",
       "category": "society",
-      "hotScore": 0.595,
+      "hotScore": 0.525,
       "freshness": 1,
       "crossSource": 0.6309,
-      "totalScore": 0.7273,
+      "totalScore": 0.6993,
       "sources": [
         {
-          "channel": "thepaper",
+          "channel": "zhihu",
           "rank": 7,
-          "hot": 0,
-          "url": "https://www.thepaper.cn/newsDetail_forward_34192808"
-        }
-      ],
-      "summary": "",
-      "url": "https://www.thepaper.cn/newsDetail_forward_34192808"
-    },
-    {
-      "id": "evt-24000000",
-      "title": "2.4米防拆丝带能救女装吗",
-      "category": "society",
-      "hotScore": 0.5525,
-      "freshness": 1,
-      "crossSource": 0.6309,
-      "totalScore": 0.7103,
-      "sources": [
-        {
-          "channel": "toutiao",
-          "rank": 8,
-          "hot": 6860414,
-          "url": "https://www.toutiao.com/trending/7692053694694559273/"
-        }
-      ],
-      "summary": "",
-      "url": "https://www.toutiao.com/trending/7692053694694559273/"
-    },
-    {
-      "id": "evt-90000000",
-      "title": "美国 9 月非农就业人数增加 2.9 万人，大幅低于预期，对美联储决策和全球市场有何影响？",
-      "category": "society",
-      "hotScore": 0.4875,
-      "freshness": 1,
-      "crossSource": 0.6309,
-      "totalScore": 0.6843,
-      "sources": [
-        {
-          "channel": "zhihu",
-          "rank": 8,
           "hot": 0,
           "url": ""
         }
