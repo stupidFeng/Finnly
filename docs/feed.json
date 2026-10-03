@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-10-03T07:16:21.011Z",
+  "generatedAt": "2026-10-03T12:50:49.404Z",
   "fields": {
     "society": "社会",
     "economy": "经济",
@@ -7,8 +7,8 @@
   },
   "feed": [
     {
-      "id": "evt-05000000",
-      "title": "新华社：给中国足球的又一记警钟",
+      "id": "evt-00000000",
+      "title": "巴勒斯坦球员向国足道歉",
       "category": "society",
       "hotScore": 0.85,
       "freshness": 0.9999,
@@ -18,70 +18,32 @@
         {
           "channel": "toutiao",
           "rank": 1,
-          "hot": 29301821,
-          "url": "https://www.toutiao.com/trending/7692070165018296383/"
+          "hot": 43411616,
+          "url": "https://www.toutiao.com/trending/7692267881190473754/"
         },
         {
           "channel": "baidu",
-          "rank": 6,
+          "rank": 2,
           "hot": 0,
-          "url": "https://m.baidu.com/s?word=%E6%96%B0%E5%8D%8E%E7%A4%BE%EF%BC%9A%E7%BB%99%E4%B8%AD%E5%9B%BD%E8%B6%B3%E7%90%83%E7%9A%84%E5%8F%88%E4%B8%80%E8%AE%B0%E8%AD%A6%E9%92%9F&sa=fyb_news"
+          "url": "https://m.baidu.com/s?word=%E5%B7%B4%E5%8B%92%E6%96%AF%E5%9D%A6%E7%90%83%E5%91%98%E5%90%91%E5%9B%BD%E8%B6%B3%E9%81%93%E6%AD%89&sa=fyb_news"
         }
       ],
       "summary": "",
-      "url": "https://www.toutiao.com/trending/7692070165018296383/"
+      "url": "https://www.toutiao.com/trending/7692267881190473754/"
     },
     {
-      "id": "evt-00000000",
-      "title": "中国驻美国大使接受美《新闻周刊》专访：谈习近平对美进行国事访问和中美关系",
+      "id": "evt-u2300000",
+      "title": "拿下点球大战！U23国足获亚运铜牌",
       "category": "society",
-      "hotScore": 0.85,
-      "freshness": 1,
-      "crossSource": 0.6309,
-      "totalScore": 0.8293,
-      "sources": [
-        {
-          "channel": "thepaper",
-          "rank": 1,
-          "hot": 0,
-          "url": "https://www.thepaper.cn/newsDetail_forward_34190175"
-        }
-      ],
-      "summary": "",
-      "url": "https://www.thepaper.cn/newsDetail_forward_34190175"
-    },
-    {
-      "id": "evt-11231500",
-      "title": "1年内在12315平台累计举报1520次，市监部门：具牟利性职业索赔特征",
-      "category": "society",
-      "hotScore": 0.765,
-      "freshness": 1,
-      "crossSource": 0.6309,
-      "totalScore": 0.7953,
-      "sources": [
-        {
-          "channel": "thepaper",
-          "rank": 3,
-          "hot": 0,
-          "url": "https://www.thepaper.cn/newsDetail_forward_34192197"
-        }
-      ],
-      "summary": "",
-      "url": "https://www.thepaper.cn/newsDetail_forward_34192197"
-    },
-    {
-      "id": "evt-vs000000",
-      "title": "亚运男足季军赛：中国vs乌兹别克斯坦",
-      "category": "society",
-      "hotScore": 0.7225,
+      "hotScore": 0.8075,
       "freshness": 0.9999,
       "crossSource": 0.6309,
-      "totalScore": 0.7783,
+      "totalScore": 0.8123,
       "sources": [
         {
           "channel": "toutiao",
-          "rank": 4,
-          "hot": 21707323,
+          "rank": 2,
+          "hot": 39280455,
           "url": "https://www.toutiao.com/trending/7692316930224590387/"
         }
       ],
@@ -89,17 +51,36 @@
       "url": "https://www.toutiao.com/trending/7692316930224590387/"
     },
     {
-      "id": "evt-20260000",
-      "title": "2026 年国庆档总票房破 4 亿，陈思诚《神探之痕迹》领跑，你更看好哪部电影？",
-      "category": "entertainment",
-      "hotScore": 0.45,
+      "id": "evt-05000000",
+      "title": "0比5输球后，邵佳一：这样的失利说实话以前没有经历过",
+      "category": "society",
+      "hotScore": 0.8075,
       "freshness": 1,
       "crossSource": 0.6309,
-      "totalScore": 0.6693,
+      "totalScore": 0.8123,
+      "sources": [
+        {
+          "channel": "thepaper",
+          "rank": 2,
+          "hot": 0,
+          "url": "https://www.thepaper.cn/newsDetail_forward_34192808"
+        }
+      ],
+      "summary": "",
+      "url": "https://www.thepaper.cn/newsDetail_forward_34192808"
+    },
+    {
+      "id": "evt-u0000000",
+      "title": "亚运男足铜牌争夺战，中国 U23 点球 4-3 乌兹别克斯坦 U23，获得铜牌，如何评价本场比赛？",
+      "category": "society",
+      "hotScore": 0.75,
+      "freshness": 1,
+      "crossSource": 0.6309,
+      "totalScore": 0.7893,
       "sources": [
         {
           "channel": "zhihu",
-          "rank": 9,
+          "rank": 1,
           "hot": 0,
           "url": ""
         }
@@ -108,8 +89,46 @@
       "url": ""
     },
     {
+      "id": "evt-16989830",
+      "title": "中国队169金89银83铜",
+      "category": "society",
+      "hotScore": 0.72,
+      "freshness": 1,
+      "crossSource": 0.6309,
+      "totalScore": 0.7773,
+      "sources": [
+        {
+          "channel": "baidu",
+          "rank": 3,
+          "hot": 0,
+          "url": "https://m.baidu.com/s?word=%E4%B8%AD%E5%9B%BD%E9%98%9F169%E9%87%9189%E9%93%B683%E9%93%9C&sa=fyb_news"
+        }
+      ],
+      "summary": "",
+      "url": "https://m.baidu.com/s?word=%E4%B8%AD%E5%9B%BD%E9%98%9F169%E9%87%9189%E9%93%B683%E9%93%9C&sa=fyb_news"
+    },
+    {
+      "id": "evt-28000000",
+      "title": "中国男足时隔28年再夺亚运铜牌",
+      "category": "society",
+      "hotScore": 0.64,
+      "freshness": 1,
+      "crossSource": 0.6309,
+      "totalScore": 0.7453,
+      "sources": [
+        {
+          "channel": "baidu",
+          "rank": 5,
+          "hot": 0,
+          "url": "https://m.baidu.com/s?word=%E4%B8%AD%E5%9B%BD%E7%94%B7%E8%B6%B3%E6%97%B6%E9%9A%9428%E5%B9%B4%E5%86%8D%E5%A4%BA%E4%BA%9A%E8%BF%90%E9%93%9C%E7%89%8C&sa=fyb_news"
+        }
+      ],
+      "summary": "",
+      "url": "https://m.baidu.com/s?word=%E4%B8%AD%E5%9B%BD%E7%94%B7%E8%B6%B3%E6%97%B6%E9%9A%9428%E5%B9%B4%E5%86%8D%E5%A4%BA%E4%BA%9A%E8%BF%90%E9%93%9C%E7%89%8C&sa=fyb_news"
+    },
+    {
       "id": "evt-10000000",
-      "title": "1000 桶水中两桶有毒，猪喝毒水后会在 15 分钟内死去，想用一个小时找到毒水，至少需要几只猪？如何实现？",
+      "title": "七国集团将释放 1 亿桶战略石油储备，会带来哪些影响？",
       "category": "society",
       "hotScore": 0.6375,
       "freshness": 1,
@@ -127,17 +146,74 @@
       "url": ""
     },
     {
-      "id": "evt-xx000000",
-      "title": "理论上讲 XX 是女性染色体，那为什么 YY 不是男性染色体，必须是 XY？",
+      "id": "evt-60000000",
+      "title": "60年首败！国足热身赛0比5不敌巴勒斯坦",
       "category": "society",
-      "hotScore": 0.525,
+      "hotScore": 0.6375,
       "freshness": 1,
       "crossSource": 0.6309,
-      "totalScore": 0.6993,
+      "totalScore": 0.7443,
+      "sources": [
+        {
+          "channel": "thepaper",
+          "rank": 6,
+          "hot": 0,
+          "url": "https://www.thepaper.cn/newsDetail_forward_34192540"
+        }
+      ],
+      "summary": "",
+      "url": "https://www.thepaper.cn/newsDetail_forward_34192540"
+    },
+    {
+      "id": "evt-vs000000",
+      "title": "特鲁姆普vs吴宜泽",
+      "category": "society",
+      "hotScore": 0.52,
+      "freshness": 1,
+      "crossSource": 0.6309,
+      "totalScore": 0.6973,
+      "sources": [
+        {
+          "channel": "baidu",
+          "rank": 8,
+          "hot": 0,
+          "url": "https://m.baidu.com/s?word=%E7%89%B9%E9%B2%81%E5%A7%86%E6%99%AEvs%E5%90%B4%E5%AE%9C%E6%B3%BD&sa=fyb_news"
+        }
+      ],
+      "summary": "",
+      "url": "https://m.baidu.com/s?word=%E7%89%B9%E9%B2%81%E5%A7%86%E6%99%AEvs%E5%90%B4%E5%AE%9C%E6%B3%BD&sa=fyb_news"
+    },
+    {
+      "id": "evt-ai000000",
+      "title": "国庆出游用AI 第一批人已被坑惨",
+      "category": "society",
+      "hotScore": 0.48,
+      "freshness": 1,
+      "crossSource": 0.6309,
+      "totalScore": 0.6813,
+      "sources": [
+        {
+          "channel": "baidu",
+          "rank": 9,
+          "hot": 0,
+          "url": "https://m.baidu.com/s?word=%E5%9B%BD%E5%BA%86%E5%87%BA%E6%B8%B8%E7%94%A8AI+%E7%AC%AC%E4%B8%80%E6%89%B9%E4%BA%BA%E5%B7%B2%E8%A2%AB%E5%9D%91%E6%83%A8&sa=fyb_news"
+        }
+      ],
+      "summary": "",
+      "url": "https://m.baidu.com/s?word=%E5%9B%BD%E5%BA%86%E5%87%BA%E6%B8%B8%E7%94%A8AI+%E7%AC%AC%E4%B8%80%E6%89%B9%E4%BA%BA%E5%B7%B2%E8%A2%AB%E5%9D%91%E6%83%A8&sa=fyb_news"
+    },
+    {
+      "id": "evt-wifi2000",
+      "title": "为何家用 WiFi 总觉得 2.4G 反而快于 5G，这是我的错觉吗？",
+      "category": "society",
+      "hotScore": 0.45,
+      "freshness": 1,
+      "crossSource": 0.6309,
+      "totalScore": 0.6693,
       "sources": [
         {
           "channel": "zhihu",
-          "rank": 7,
+          "rank": 9,
           "hot": 0,
           "url": ""
         }
