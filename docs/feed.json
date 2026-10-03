@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-10-03T17:40:50.534Z",
+  "generatedAt": "2026-10-03T20:19:53.934Z",
   "fields": {
     "society": "社会",
     "economy": "经济",
@@ -18,7 +18,7 @@
         {
           "channel": "toutiao",
           "rank": 1,
-          "hot": 32584986,
+          "hot": 33465480,
           "url": "https://www.toutiao.com/trending/7692267881190473754/"
         },
         {
@@ -36,7 +36,7 @@
       "title": "全景还原｜当你成为FZ1073航班的乘客：172人如何逃离死亡",
       "category": "society",
       "hotScore": 0.8075,
-      "freshness": 1,
+      "freshness": 0.9999,
       "crossSource": 0.6309,
       "totalScore": 0.8123,
       "sources": [
@@ -95,12 +95,12 @@
       "hotScore": 0.68,
       "freshness": 0.9999,
       "crossSource": 0.6309,
-      "totalScore": 0.7613,
+      "totalScore": 0.7612,
       "sources": [
         {
           "channel": "toutiao",
           "rank": 5,
-          "hot": 21842369,
+          "hot": 22432582,
           "url": "https://www.toutiao.com/trending/7692289102359855155/"
         }
       ],
@@ -131,7 +131,7 @@
       "title": "中国U23男足战胜乌兹别克斯坦，28年来首获亚运铜牌",
       "category": "society",
       "hotScore": 0.6375,
-      "freshness": 1,
+      "freshness": 0.9999,
       "crossSource": 0.6309,
       "totalScore": 0.7443,
       "sources": [
@@ -165,27 +165,8 @@
       "url": "https://m.baidu.com/s?word=%E5%9B%BD%E5%BA%86%E5%87%BA%E6%B8%B8%E7%94%A8AI+%E7%AC%AC%E4%B8%80%E6%89%B9%E4%BA%BA%E5%B7%B2%E8%A2%AB%E5%9D%91%E6%83%A8&sa=fyb_news"
     },
     {
-      "id": "evt-gemini00",
-      "title": "如何评价 Gemini 新的付费方案？",
-      "category": "society",
-      "hotScore": 0.6,
-      "freshness": 0.9999,
-      "crossSource": 0.6309,
-      "totalScore": 0.7293,
-      "sources": [
-        {
-          "channel": "zhihu",
-          "rank": 5,
-          "hot": 0,
-          "url": ""
-        }
-      ],
-      "summary": "",
-      "url": ""
-    },
-    {
-      "id": "evt-deepseek",
-      "title": "如何看待 DeepSeek Harness 在新版本中加入 Claude Code Mods 兼容？",
+      "id": "evt-12000000",
+      "title": "《艾希》续作众筹破 1200 万元远超预期，为何能引发现象级反响？",
       "category": "society",
       "hotScore": 0.5625,
       "freshness": 0.9999,
@@ -226,7 +207,7 @@
       "title": "0比5不敌巴勒斯坦，新华社：给中国足球的又一记警钟",
       "category": "society",
       "hotScore": 0.5525,
-      "freshness": 1,
+      "freshness": 0.9999,
       "crossSource": 0.6309,
       "totalScore": 0.7103,
       "sources": [
@@ -241,17 +222,17 @@
       "url": "https://www.thepaper.cn/newsDetail_forward_34194646"
     },
     {
-      "id": "evt-12000000",
-      "title": "《艾希》续作众筹破 1200 万元远超预期，为何能引发现象级反响？",
+      "id": "evt-deepseek",
+      "title": "如何看待 DeepSeek Harness 在新版本中加入 Claude Code Mods 兼容？",
       "category": "society",
-      "hotScore": 0.4875,
+      "hotScore": 0.525,
       "freshness": 0.9999,
       "crossSource": 0.6309,
-      "totalScore": 0.6843,
+      "totalScore": 0.6993,
       "sources": [
         {
           "channel": "zhihu",
-          "rank": 8,
+          "rank": 7,
           "hot": 0,
           "url": ""
         }
