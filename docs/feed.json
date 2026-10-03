@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-10-03T12:50:49.404Z",
+  "generatedAt": "2026-10-03T17:40:50.534Z",
   "fields": {
     "society": "社会",
     "economy": "经济",
@@ -18,12 +18,12 @@
         {
           "channel": "toutiao",
           "rank": 1,
-          "hot": 43411616,
+          "hot": 32584986,
           "url": "https://www.toutiao.com/trending/7692267881190473754/"
         },
         {
           "channel": "baidu",
-          "rank": 2,
+          "rank": 5,
           "hot": 0,
           "url": "https://m.baidu.com/s?word=%E5%B7%B4%E5%8B%92%E6%96%AF%E5%9D%A6%E7%90%83%E5%91%98%E5%90%91%E5%9B%BD%E8%B6%B3%E9%81%93%E6%AD%89&sa=fyb_news"
         }
@@ -32,27 +32,8 @@
       "url": "https://www.toutiao.com/trending/7692267881190473754/"
     },
     {
-      "id": "evt-u2300000",
-      "title": "拿下点球大战！U23国足获亚运铜牌",
-      "category": "society",
-      "hotScore": 0.8075,
-      "freshness": 0.9999,
-      "crossSource": 0.6309,
-      "totalScore": 0.8123,
-      "sources": [
-        {
-          "channel": "toutiao",
-          "rank": 2,
-          "hot": 39280455,
-          "url": "https://www.toutiao.com/trending/7692316930224590387/"
-        }
-      ],
-      "summary": "",
-      "url": "https://www.toutiao.com/trending/7692316930224590387/"
-    },
-    {
-      "id": "evt-05000000",
-      "title": "0比5输球后，邵佳一：这样的失利说实话以前没有经历过",
+      "id": "evt-fz100000",
+      "title": "全景还原｜当你成为FZ1073航班的乘客：172人如何逃离死亡",
       "category": "society",
       "hotScore": 0.8075,
       "freshness": 1,
@@ -63,18 +44,37 @@
           "channel": "thepaper",
           "rank": 2,
           "hot": 0,
-          "url": "https://www.thepaper.cn/newsDetail_forward_34192808"
+          "url": "https://www.thepaper.cn/newsDetail_forward_34194848"
         }
       ],
       "summary": "",
-      "url": "https://www.thepaper.cn/newsDetail_forward_34192808"
+      "url": "https://www.thepaper.cn/newsDetail_forward_34194848"
+    },
+    {
+      "id": "evt-30000000",
+      "title": "长假第3天不少家庭已“战火纷飞”",
+      "category": "society",
+      "hotScore": 0.76,
+      "freshness": 1,
+      "crossSource": 0.6309,
+      "totalScore": 0.7933,
+      "sources": [
+        {
+          "channel": "baidu",
+          "rank": 2,
+          "hot": 0,
+          "url": "https://m.baidu.com/s?word=%E9%95%BF%E5%81%87%E7%AC%AC3%E5%A4%A9%E4%B8%8D%E5%B0%91%E5%AE%B6%E5%BA%AD%E5%B7%B2%E2%80%9C%E6%88%98%E7%81%AB%E7%BA%B7%E9%A3%9E%E2%80%9D&sa=fyb_news"
+        }
+      ],
+      "summary": "",
+      "url": "https://m.baidu.com/s?word=%E9%95%BF%E5%81%87%E7%AC%AC3%E5%A4%A9%E4%B8%8D%E5%B0%91%E5%AE%B6%E5%BA%AD%E5%B7%B2%E2%80%9C%E6%88%98%E7%81%AB%E7%BA%B7%E9%A3%9E%E2%80%9D&sa=fyb_news"
     },
     {
       "id": "evt-u0000000",
       "title": "亚运男足铜牌争夺战，中国 U23 点球 4-3 乌兹别克斯坦 U23，获得铜牌，如何评价本场比赛？",
       "category": "society",
       "hotScore": 0.75,
-      "freshness": 1,
+      "freshness": 0.9999,
       "crossSource": 0.6309,
       "totalScore": 0.7893,
       "sources": [
@@ -89,49 +89,30 @@
       "url": ""
     },
     {
-      "id": "evt-16989830",
-      "title": "中国队169金89银83铜",
+      "id": "evt-47000000",
+      "title": "中俄白等八国超4.7万人集结大练兵",
       "category": "society",
-      "hotScore": 0.72,
-      "freshness": 1,
+      "hotScore": 0.68,
+      "freshness": 0.9999,
       "crossSource": 0.6309,
-      "totalScore": 0.7773,
+      "totalScore": 0.7613,
       "sources": [
         {
-          "channel": "baidu",
-          "rank": 3,
-          "hot": 0,
-          "url": "https://m.baidu.com/s?word=%E4%B8%AD%E5%9B%BD%E9%98%9F169%E9%87%9189%E9%93%B683%E9%93%9C&sa=fyb_news"
-        }
-      ],
-      "summary": "",
-      "url": "https://m.baidu.com/s?word=%E4%B8%AD%E5%9B%BD%E9%98%9F169%E9%87%9189%E9%93%B683%E9%93%9C&sa=fyb_news"
-    },
-    {
-      "id": "evt-28000000",
-      "title": "中国男足时隔28年再夺亚运铜牌",
-      "category": "society",
-      "hotScore": 0.64,
-      "freshness": 1,
-      "crossSource": 0.6309,
-      "totalScore": 0.7453,
-      "sources": [
-        {
-          "channel": "baidu",
+          "channel": "toutiao",
           "rank": 5,
-          "hot": 0,
-          "url": "https://m.baidu.com/s?word=%E4%B8%AD%E5%9B%BD%E7%94%B7%E8%B6%B3%E6%97%B6%E9%9A%9428%E5%B9%B4%E5%86%8D%E5%A4%BA%E4%BA%9A%E8%BF%90%E9%93%9C%E7%89%8C&sa=fyb_news"
+          "hot": 21842369,
+          "url": "https://www.toutiao.com/trending/7692289102359855155/"
         }
       ],
       "summary": "",
-      "url": "https://m.baidu.com/s?word=%E4%B8%AD%E5%9B%BD%E7%94%B7%E8%B6%B3%E6%97%B6%E9%9A%9428%E5%B9%B4%E5%86%8D%E5%A4%BA%E4%BA%9A%E8%BF%90%E9%93%9C%E7%89%8C&sa=fyb_news"
+      "url": "https://www.toutiao.com/trending/7692289102359855155/"
     },
     {
       "id": "evt-10000000",
       "title": "七国集团将释放 1 亿桶战略石油储备，会带来哪些影响？",
       "category": "society",
       "hotScore": 0.6375,
-      "freshness": 1,
+      "freshness": 0.9999,
       "crossSource": 0.6309,
       "totalScore": 0.7443,
       "sources": [
@@ -146,8 +127,8 @@
       "url": ""
     },
     {
-      "id": "evt-60000000",
-      "title": "60年首败！国足热身赛0比5不敌巴勒斯坦",
+      "id": "evt-u2300000",
+      "title": "中国U23男足战胜乌兹别克斯坦，28年来首获亚运铜牌",
       "category": "society",
       "hotScore": 0.6375,
       "freshness": 1,
@@ -158,43 +139,24 @@
           "channel": "thepaper",
           "rank": 6,
           "hot": 0,
-          "url": "https://www.thepaper.cn/newsDetail_forward_34192540"
+          "url": "https://www.thepaper.cn/newsDetail_forward_34195081"
         }
       ],
       "summary": "",
-      "url": "https://www.thepaper.cn/newsDetail_forward_34192540"
-    },
-    {
-      "id": "evt-vs000000",
-      "title": "特鲁姆普vs吴宜泽",
-      "category": "society",
-      "hotScore": 0.52,
-      "freshness": 1,
-      "crossSource": 0.6309,
-      "totalScore": 0.6973,
-      "sources": [
-        {
-          "channel": "baidu",
-          "rank": 8,
-          "hot": 0,
-          "url": "https://m.baidu.com/s?word=%E7%89%B9%E9%B2%81%E5%A7%86%E6%99%AEvs%E5%90%B4%E5%AE%9C%E6%B3%BD&sa=fyb_news"
-        }
-      ],
-      "summary": "",
-      "url": "https://m.baidu.com/s?word=%E7%89%B9%E9%B2%81%E5%A7%86%E6%99%AEvs%E5%90%B4%E5%AE%9C%E6%B3%BD&sa=fyb_news"
+      "url": "https://www.thepaper.cn/newsDetail_forward_34195081"
     },
     {
       "id": "evt-ai000000",
       "title": "国庆出游用AI 第一批人已被坑惨",
       "category": "society",
-      "hotScore": 0.48,
+      "hotScore": 0.6,
       "freshness": 1,
       "crossSource": 0.6309,
-      "totalScore": 0.6813,
+      "totalScore": 0.7293,
       "sources": [
         {
           "channel": "baidu",
-          "rank": 9,
+          "rank": 6,
           "hot": 0,
           "url": "https://m.baidu.com/s?word=%E5%9B%BD%E5%BA%86%E5%87%BA%E6%B8%B8%E7%94%A8AI+%E7%AC%AC%E4%B8%80%E6%89%B9%E4%BA%BA%E5%B7%B2%E8%A2%AB%E5%9D%91%E6%83%A8&sa=fyb_news"
         }
@@ -203,17 +165,93 @@
       "url": "https://m.baidu.com/s?word=%E5%9B%BD%E5%BA%86%E5%87%BA%E6%B8%B8%E7%94%A8AI+%E7%AC%AC%E4%B8%80%E6%89%B9%E4%BA%BA%E5%B7%B2%E8%A2%AB%E5%9D%91%E6%83%A8&sa=fyb_news"
     },
     {
-      "id": "evt-wifi2000",
-      "title": "为何家用 WiFi 总觉得 2.4G 反而快于 5G，这是我的错觉吗？",
+      "id": "evt-gemini00",
+      "title": "如何评价 Gemini 新的付费方案？",
       "category": "society",
-      "hotScore": 0.45,
-      "freshness": 1,
+      "hotScore": 0.6,
+      "freshness": 0.9999,
       "crossSource": 0.6309,
-      "totalScore": 0.6693,
+      "totalScore": 0.7293,
       "sources": [
         {
           "channel": "zhihu",
-          "rank": 9,
+          "rank": 5,
+          "hot": 0,
+          "url": ""
+        }
+      ],
+      "summary": "",
+      "url": ""
+    },
+    {
+      "id": "evt-deepseek",
+      "title": "如何看待 DeepSeek Harness 在新版本中加入 Claude Code Mods 兼容？",
+      "category": "society",
+      "hotScore": 0.5625,
+      "freshness": 0.9999,
+      "crossSource": 0.6309,
+      "totalScore": 0.7143,
+      "sources": [
+        {
+          "channel": "zhihu",
+          "rank": 6,
+          "hot": 0,
+          "url": ""
+        }
+      ],
+      "summary": "",
+      "url": ""
+    },
+    {
+      "id": "evt-16989830",
+      "title": "中国队169金89银83铜",
+      "category": "society",
+      "hotScore": 0.56,
+      "freshness": 1,
+      "crossSource": 0.6309,
+      "totalScore": 0.7133,
+      "sources": [
+        {
+          "channel": "baidu",
+          "rank": 7,
+          "hot": 0,
+          "url": "https://m.baidu.com/s?word=%E4%B8%AD%E5%9B%BD%E9%98%9F169%E9%87%9189%E9%93%B683%E9%93%9C&sa=fyb_news"
+        }
+      ],
+      "summary": "",
+      "url": "https://m.baidu.com/s?word=%E4%B8%AD%E5%9B%BD%E9%98%9F169%E9%87%9189%E9%93%B683%E9%93%9C&sa=fyb_news"
+    },
+    {
+      "id": "evt-05000000",
+      "title": "0比5不敌巴勒斯坦，新华社：给中国足球的又一记警钟",
+      "category": "society",
+      "hotScore": 0.5525,
+      "freshness": 1,
+      "crossSource": 0.6309,
+      "totalScore": 0.7103,
+      "sources": [
+        {
+          "channel": "thepaper",
+          "rank": 8,
+          "hot": 0,
+          "url": "https://www.thepaper.cn/newsDetail_forward_34194646"
+        }
+      ],
+      "summary": "",
+      "url": "https://www.thepaper.cn/newsDetail_forward_34194646"
+    },
+    {
+      "id": "evt-12000000",
+      "title": "《艾希》续作众筹破 1200 万元远超预期，为何能引发现象级反响？",
+      "category": "society",
+      "hotScore": 0.4875,
+      "freshness": 0.9999,
+      "crossSource": 0.6309,
+      "totalScore": 0.6843,
+      "sources": [
+        {
+          "channel": "zhihu",
+          "rank": 8,
           "hot": 0,
           "url": ""
         }
