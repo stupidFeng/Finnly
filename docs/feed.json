@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-10-04T07:33:42.028Z",
+  "generatedAt": "2026-10-04T13:33:19.424Z",
   "fields": {
     "society": "社会",
     "economy": "经济",
@@ -7,169 +7,17 @@
   },
   "feed": [
     {
-      "id": "evt-00000000",
-      "title": "男足亚运摘铜登上《新闻联播》",
-      "category": "society",
-      "hotScore": 0.85,
-      "freshness": 1,
-      "crossSource": 1,
-      "totalScore": 0.94,
-      "sources": [
-        {
-          "channel": "toutiao",
-          "rank": 1,
-          "hot": 17478803,
-          "url": "https://www.toutiao.com/trending/7692226716819275818/"
-        }
-      ],
-      "summary": "",
-      "url": "https://www.toutiao.com/trending/7692226716819275818/"
-    },
-    {
-      "id": "evt-china000",
-      "title": "中国游客听到China一呼百应",
-      "category": "society",
-      "hotScore": 0.8075,
-      "freshness": 1,
-      "crossSource": 1,
-      "totalScore": 0.923,
-      "sources": [
-        {
-          "channel": "toutiao",
-          "rank": 2,
-          "hot": 15815475,
-          "url": "https://www.toutiao.com/trending/7691584884791590931/"
-        }
-      ],
-      "summary": "",
-      "url": "https://www.toutiao.com/trending/7691584884791590931/"
-    },
-    {
-      "id": "evt-fz100000",
-      "title": "全景还原｜当你成为FZ1073航班的乘客：172人如何逃离死亡",
-      "category": "society",
-      "hotScore": 0.8075,
-      "freshness": 1,
-      "crossSource": 1,
-      "totalScore": 0.923,
-      "sources": [
-        {
-          "channel": "thepaper",
-          "rank": 2,
-          "hot": 0,
-          "url": "https://www.thepaper.cn/newsDetail_forward_34194848"
-        }
-      ],
-      "summary": "",
-      "url": "https://www.thepaper.cn/newsDetail_forward_34194848"
-    },
-    {
-      "id": "evt-7mv00000",
-      "title": "张展硕7金无缘亚运会MVP",
-      "category": "society",
-      "hotScore": 0.76,
-      "freshness": 1,
-      "crossSource": 1,
-      "totalScore": 0.904,
-      "sources": [
-        {
-          "channel": "baidu",
-          "rank": 2,
-          "hot": 0,
-          "url": "https://m.baidu.com/s?word=%E5%BC%A0%E5%B1%95%E7%A1%957%E9%87%91%E6%97%A0%E7%BC%98%E4%BA%9A%E8%BF%90%E4%BC%9AMVP&sa=fyb_news"
-        }
-      ],
-      "summary": "",
-      "url": "https://m.baidu.com/s?word=%E5%BC%A0%E5%B1%95%E7%A1%957%E9%87%91%E6%97%A0%E7%BC%98%E4%BA%9A%E8%BF%90%E4%BC%9AMVP&sa=fyb_news"
-    },
-    {
-      "id": "evt-16989830",
-      "title": "169金89银83铜收官！中国队创境外参加亚运会最佳战绩",
-      "category": "society",
-      "hotScore": 0.7225,
-      "freshness": 1,
-      "crossSource": 1,
-      "totalScore": 0.889,
-      "sources": [
-        {
-          "channel": "thepaper",
-          "rank": 4,
-          "hot": 0,
-          "url": "https://www.thepaper.cn/newsDetail_forward_34195973"
-        }
-      ],
-      "summary": "",
-      "url": "https://www.thepaper.cn/newsDetail_forward_34195973"
-    },
-    {
-      "id": "evt-50000000",
-      "title": "游客打卡政府食堂吃了500斤饭400斤鹅",
-      "category": "society",
-      "hotScore": 0.72,
-      "freshness": 1,
-      "crossSource": 1,
-      "totalScore": 0.888,
-      "sources": [
-        {
-          "channel": "baidu",
-          "rank": 3,
-          "hot": 0,
-          "url": "https://m.baidu.com/s?word=%E6%B8%B8%E5%AE%A2%E6%89%93%E5%8D%A1%E6%94%BF%E5%BA%9C%E9%A3%9F%E5%A0%82%E5%90%83%E4%BA%86500%E6%96%A4%E9%A5%AD400%E6%96%A4%E9%B9%85&sa=fyb_news"
-        }
-      ],
-      "summary": "",
-      "url": "https://m.baidu.com/s?word=%E6%B8%B8%E5%AE%A2%E6%89%93%E5%8D%A1%E6%94%BF%E5%BA%9C%E9%A3%9F%E5%A0%82%E5%90%83%E4%BA%86500%E6%96%A4%E9%A5%AD400%E6%96%A4%E9%B9%85&sa=fyb_news"
-    },
-    {
-      "id": "evt-24400000",
-      "title": "兵韬志略｜俄军扩编至244万余人，“数量优势”能否转化为战场优势",
-      "category": "society",
-      "hotScore": 0.68,
-      "freshness": 1,
-      "crossSource": 1,
-      "totalScore": 0.872,
-      "sources": [
-        {
-          "channel": "thepaper",
-          "rank": 5,
-          "hot": 0,
-          "url": "https://www.thepaper.cn/newsDetail_forward_34195404"
-        }
-      ],
-      "summary": "",
-      "url": "https://www.thepaper.cn/newsDetail_forward_34195404"
-    },
-    {
-      "id": "evt-15660000",
-      "title": "《大明王朝 1566》里「改稻为桑」这么一个虚构出来的议题，本来解决起来很简单，怎么就搞的这么复杂？",
-      "category": "society",
-      "hotScore": 0.6375,
-      "freshness": 1,
-      "crossSource": 1,
-      "totalScore": 0.855,
-      "sources": [
-        {
-          "channel": "zhihu",
-          "rank": 4,
-          "hot": 0,
-          "url": ""
-        }
-      ],
-      "summary": "",
-      "url": ""
-    },
-    {
       "id": "evt-20260000",
       "title": "来论｜2026年诺贝尔物理学奖，我为何看好“学习、记忆和计算的统计物理”",
       "category": "society",
-      "hotScore": 0.595,
+      "hotScore": 0.85,
       "freshness": 1,
-      "crossSource": 1,
-      "totalScore": 0.838,
+      "crossSource": 0.6309,
+      "totalScore": 0.8293,
       "sources": [
         {
           "channel": "thepaper",
-          "rank": 7,
+          "rank": 1,
           "hot": 0,
           "url": "https://www.thepaper.cn/newsDetail_forward_34195914"
         }
@@ -178,55 +26,93 @@
       "url": "https://www.thepaper.cn/newsDetail_forward_34195914"
     },
     {
-      "id": "evt-hpv00000",
-      "title": "高铁座椅成HPV感染重灾区？医生辟谣",
+      "id": "evt-20000000",
+      "title": "第20届亚运会闭幕",
       "category": "society",
-      "hotScore": 0.56,
-      "freshness": 1,
-      "crossSource": 1,
-      "totalScore": 0.824,
+      "hotScore": 0.85,
+      "freshness": 0.9999,
+      "crossSource": 0.6309,
+      "totalScore": 0.8292,
       "sources": [
         {
-          "channel": "baidu",
-          "rank": 7,
-          "hot": 0,
-          "url": "https://m.baidu.com/s?word=%E9%AB%98%E9%93%81%E5%BA%A7%E6%A4%85%E6%88%90HPV%E6%84%9F%E6%9F%93%E9%87%8D%E7%81%BE%E5%8C%BA%EF%BC%9F%E5%8C%BB%E7%94%9F%E8%BE%9F%E8%B0%A3&sa=fyb_news"
+          "channel": "toutiao",
+          "rank": 1,
+          "hot": 13830314,
+          "url": "https://www.toutiao.com/trending/7692741633384795674/"
         }
       ],
       "summary": "",
-      "url": "https://m.baidu.com/s?word=%E9%AB%98%E9%93%81%E5%BA%A7%E6%A4%85%E6%88%90HPV%E6%84%9F%E6%9F%93%E9%87%8D%E7%81%BE%E5%8C%BA%EF%BC%9F%E5%8C%BB%E7%94%9F%E8%BE%9F%E8%B0%A3&sa=fyb_news"
+      "url": "https://www.toutiao.com/trending/7692741633384795674/"
     },
     {
-      "id": "evt-u2300000",
-      "title": "中国U23男足战胜乌兹别克斯坦，28年来首获亚运铜牌",
+      "id": "evt-00000000",
+      "title": "贵州晴隆：即日起二十四道拐观景台、展览馆景区免收门票",
       "category": "society",
-      "hotScore": 0.5525,
+      "hotScore": 0.8075,
       "freshness": 1,
-      "crossSource": 1,
-      "totalScore": 0.821,
+      "crossSource": 0.6309,
+      "totalScore": 0.8123,
       "sources": [
         {
           "channel": "thepaper",
-          "rank": 8,
+          "rank": 2,
           "hot": 0,
-          "url": "https://www.thepaper.cn/newsDetail_forward_34195081"
+          "url": "https://www.thepaper.cn/newsDetail_forward_34198627"
         }
       ],
       "summary": "",
-      "url": "https://www.thepaper.cn/newsDetail_forward_34195081"
+      "url": "https://www.thepaper.cn/newsDetail_forward_34198627"
+    },
+    {
+      "id": "evt-10000000",
+      "title": "国庆景区热度前10被小城包揽",
+      "category": "society",
+      "hotScore": 0.8075,
+      "freshness": 0.9999,
+      "crossSource": 0.6309,
+      "totalScore": 0.8122,
+      "sources": [
+        {
+          "channel": "toutiao",
+          "rank": 2,
+          "hot": 12514185,
+          "url": "https://www.toutiao.com/trending/7691861603147251763/"
+        }
+      ],
+      "summary": "",
+      "url": "https://www.toutiao.com/trending/7691861603147251763/"
+    },
+    {
+      "id": "evt-31000000",
+      "title": "成都天价回锅肉 3 片卖 105 元，店家称选用粮食猪且利润微薄，这种猪贵在哪？定价合理吗？按片计价有问题吗？",
+      "category": "economy",
+      "hotScore": 0.5625,
+      "freshness": 0.9999,
+      "crossSource": 0.6309,
+      "totalScore": 0.7142,
+      "sources": [
+        {
+          "channel": "zhihu",
+          "rank": 6,
+          "hot": 0,
+          "url": ""
+        }
+      ],
+      "summary": "",
+      "url": ""
     },
     {
       "id": "evt-60000000",
       "title": "中东“空中浩劫”｜勇者们与6岁女孩的故事",
       "category": "society",
-      "hotScore": 0.51,
+      "hotScore": 0.765,
       "freshness": 1,
-      "crossSource": 1,
-      "totalScore": 0.804,
+      "crossSource": 0.6309,
+      "totalScore": 0.7953,
       "sources": [
         {
           "channel": "thepaper",
-          "rank": 9,
+          "rank": 3,
           "hot": 0,
           "url": "https://www.thepaper.cn/newsDetail_forward_34195822"
         }
@@ -235,23 +121,156 @@
       "url": "https://www.thepaper.cn/newsDetail_forward_34195822"
     },
     {
-      "id": "evt-20220000",
-      "title": "中美俄领导人2022年后将首次同框",
+      "id": "evt-j2888t00",
+      "title": "粤J2888T来老君山了",
       "category": "society",
-      "hotScore": 0.4675,
-      "freshness": 1,
-      "crossSource": 1,
-      "totalScore": 0.787,
+      "hotScore": 0.7225,
+      "freshness": 0.9999,
+      "crossSource": 0.6309,
+      "totalScore": 0.7782,
       "sources": [
         {
           "channel": "toutiao",
-          "rank": 10,
-          "hot": 7106351,
-          "url": "https://www.toutiao.com/trending/7692586204453326345/"
+          "rank": 4,
+          "hot": 10245748,
+          "url": "https://www.toutiao.com/trending/7692722981558173723/"
         }
       ],
       "summary": "",
-      "url": "https://www.toutiao.com/trending/7692586204453326345/"
+      "url": "https://www.toutiao.com/trending/7692722981558173723/"
+    },
+    {
+      "id": "evt-23000000",
+      "title": "中国代表团超2/3运动员首次征战亚运",
+      "category": "society",
+      "hotScore": 0.68,
+      "freshness": 0.9999,
+      "crossSource": 0.6309,
+      "totalScore": 0.7612,
+      "sources": [
+        {
+          "channel": "toutiao",
+          "rank": 5,
+          "hot": 9270736,
+          "url": "https://www.toutiao.com/trending/7692695846697107519/"
+        }
+      ],
+      "summary": "",
+      "url": "https://www.toutiao.com/trending/7692695846697107519/"
+    },
+    {
+      "id": "evt-20270000",
+      "title": "2027 年泰晤士大学排名出炉，清华首次超越欧洲大陆所有高校，有哪些信息值得关注？",
+      "category": "society",
+      "hotScore": 0.675,
+      "freshness": 0.9999,
+      "crossSource": 0.6309,
+      "totalScore": 0.7592,
+      "sources": [
+        {
+          "channel": "zhihu",
+          "rank": 3,
+          "hot": 0,
+          "url": ""
+        }
+      ],
+      "summary": "",
+      "url": ""
+    },
+    {
+      "id": "evt-2026f100",
+      "title": "2026 赛季 F1 巴林大奖赛马来西亚站，维斯塔潘夺冠，勒克莱尔第四，如何评价本场比赛？",
+      "category": "society",
+      "hotScore": 0.6,
+      "freshness": 0.9999,
+      "crossSource": 0.6309,
+      "totalScore": 0.7292,
+      "sources": [
+        {
+          "channel": "zhihu",
+          "rank": 5,
+          "hot": 0,
+          "url": ""
+        }
+      ],
+      "summary": "",
+      "url": ""
+    },
+    {
+      "id": "evt-15660000",
+      "title": "《大明王朝 1566》里「改稻为桑」这么一个虚构出来的议题，本来解决起来很简单，怎么就搞的这么复杂？",
+      "category": "society",
+      "hotScore": 0.525,
+      "freshness": 0.9999,
+      "crossSource": 0.6309,
+      "totalScore": 0.6992,
+      "sources": [
+        {
+          "channel": "zhihu",
+          "rank": 7,
+          "hot": 0,
+          "url": ""
+        }
+      ],
+      "summary": "",
+      "url": ""
+    },
+    {
+      "id": "evt-80000000",
+      "title": "多哈8分钟",
+      "category": "society",
+      "hotScore": 0.52,
+      "freshness": 1,
+      "crossSource": 0.6309,
+      "totalScore": 0.6973,
+      "sources": [
+        {
+          "channel": "baidu",
+          "rank": 8,
+          "hot": 0,
+          "url": "https://m.baidu.com/s?word=%E5%A4%9A%E5%93%888%E5%88%86%E9%92%9F&sa=fyb_news"
+        }
+      ],
+      "summary": "",
+      "url": "https://m.baidu.com/s?word=%E5%A4%9A%E5%93%888%E5%88%86%E9%92%9F&sa=fyb_news"
+    },
+    {
+      "id": "evt-vs000000",
+      "title": "吴宜泽vs袁思俊",
+      "category": "society",
+      "hotScore": 0.48,
+      "freshness": 1,
+      "crossSource": 0.6309,
+      "totalScore": 0.6813,
+      "sources": [
+        {
+          "channel": "baidu",
+          "rank": 9,
+          "hot": 0,
+          "url": "https://m.baidu.com/s?word=%E5%90%B4%E5%AE%9C%E6%B3%BDvs%E8%A2%81%E6%80%9D%E4%BF%8A&sa=fyb_news"
+        }
+      ],
+      "summary": "",
+      "url": "https://m.baidu.com/s?word=%E5%90%B4%E5%AE%9C%E6%B3%BDvs%E8%A2%81%E6%80%9D%E4%BF%8A&sa=fyb_news"
+    },
+    {
+      "id": "evt-19700000",
+      "title": "日本197人专案组连夜抓捕驻日美士兵",
+      "category": "society",
+      "hotScore": 0.44,
+      "freshness": 1,
+      "crossSource": 0.6309,
+      "totalScore": 0.6653,
+      "sources": [
+        {
+          "channel": "baidu",
+          "rank": 10,
+          "hot": 0,
+          "url": "https://m.baidu.com/s?word=%E6%97%A5%E6%9C%AC197%E4%BA%BA%E4%B8%93%E6%A1%88%E7%BB%84%E8%BF%9E%E5%A4%9C%E6%8A%93%E6%8D%95%E9%A9%BB%E6%97%A5%E7%BE%8E%E5%A3%AB%E5%85%B5&sa=fyb_news"
+        }
+      ],
+      "summary": "",
+      "url": "https://m.baidu.com/s?word=%E6%97%A5%E6%9C%AC197%E4%BA%BA%E4%B8%93%E6%A1%88%E7%BB%84%E8%BF%9E%E5%A4%9C%E6%8A%93%E6%8D%95%E9%A9%BB%E6%97%A5%E7%BE%8E%E5%A3%AB%E5%85%B5&sa=fyb_news"
     }
   ]
 }
