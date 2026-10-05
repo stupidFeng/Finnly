@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-10-05T07:54:21.363Z",
+  "generatedAt": "2026-10-05T16:35:13.559Z",
   "fields": {
     "society": "社会",
     "economy": "经济",
@@ -8,168 +8,60 @@
   "feed": [
     {
       "id": "evt-00000000",
-      "title": "贵州晴隆：即日起二十四道拐观景台、展览馆景区免收门票",
+      "title": "中方曾三次约见缅北四大家族代表",
       "category": "society",
-      "hotScore": 0.85,
+      "hotScore": 0.595,
       "freshness": 0.9999,
       "crossSource": 1,
-      "totalScore": 0.94,
-      "sources": [
-        {
-          "channel": "thepaper",
-          "rank": 1,
-          "hot": 0,
-          "url": "https://www.thepaper.cn/newsDetail_forward_34198627"
-        }
-      ],
-      "summary": "",
-      "url": "https://www.thepaper.cn/newsDetail_forward_34198627"
-    },
-    {
-      "id": "evt-13000000",
-      "title": "日本罕见1天3次向美国强烈抗议",
-      "category": "society",
-      "hotScore": 0.85,
-      "freshness": 0.9998,
-      "crossSource": 1,
-      "totalScore": 0.9399,
+      "totalScore": 0.838,
       "sources": [
         {
           "channel": "toutiao",
-          "rank": 1,
-          "hot": 19091088,
-          "url": "https://www.toutiao.com/trending/7692950590237756937/"
-        }
-      ],
-      "summary": "",
-      "url": "https://www.toutiao.com/trending/7692950590237756937/"
-    },
-    {
-      "id": "evt-84000000",
-      "title": "对话84岁许镜清：为《西游记》插曲维权十年，如今更加坚定",
-      "category": "society",
-      "hotScore": 0.8075,
-      "freshness": 0.9999,
-      "crossSource": 1,
-      "totalScore": 0.923,
-      "sources": [
-        {
-          "channel": "thepaper",
-          "rank": 2,
-          "hot": 0,
-          "url": "https://www.thepaper.cn/newsDetail_forward_34198740"
-        }
-      ],
-      "summary": "",
-      "url": "https://www.thepaper.cn/newsDetail_forward_34198740"
-    },
-    {
-      "id": "evt-90000000",
-      "title": "9月香港一手住宅成交达三个月高位：新盘开盘即售罄，有人️连买4套",
-      "category": "society",
-      "hotScore": 0.7225,
-      "freshness": 0.9999,
-      "crossSource": 1,
-      "totalScore": 0.889,
-      "sources": [
-        {
-          "channel": "thepaper",
-          "rank": 4,
-          "hot": 0,
-          "url": "https://www.thepaper.cn/newsDetail_forward_34199049"
-        }
-      ],
-      "summary": "",
-      "url": "https://www.thepaper.cn/newsDetail_forward_34199049"
-    },
-    {
-      "id": "evt-bestfast",
-      "title": "大国重器BEST、FAST公布最新消息",
-      "category": "society",
-      "hotScore": 0.68,
-      "freshness": 1,
-      "crossSource": 1,
-      "totalScore": 0.872,
-      "sources": [
+          "rank": 7,
+          "hot": 17760971,
+          "url": "https://www.toutiao.com/trending/7692387862813265444/"
+        },
         {
           "channel": "baidu",
-          "rank": 4,
+          "rank": 7,
           "hot": 0,
-          "url": "https://m.baidu.com/s?word=%E5%A4%A7%E5%9B%BD%E9%87%8D%E5%99%A8BEST%E3%80%81FAST%E5%85%AC%E5%B8%83%E6%9C%80%E6%96%B0%E6%B6%88%E6%81%AF&sa=fyb_news"
+          "url": "https://m.baidu.com/s?word=%E4%B8%AD%E6%96%B9%E6%9B%BE%E4%B8%89%E6%AC%A1%E7%BA%A6%E8%A7%81%E7%BC%85%E5%8C%97%E5%9B%9B%E5%A4%A7%E5%AE%B6%E6%97%8F%E4%BB%A3%E8%A1%A8&sa=fyb_news"
         }
       ],
       "summary": "",
-      "url": "https://m.baidu.com/s?word=%E5%A4%A7%E5%9B%BD%E9%87%8D%E5%99%A8BEST%E3%80%81FAST%E5%85%AC%E5%B8%83%E6%9C%80%E6%96%B0%E6%B6%88%E6%81%AF&sa=fyb_news"
+      "url": "https://www.toutiao.com/trending/7692387862813265444/"
     },
     {
       "id": "evt-10000000",
-      "title": "超10万份孕妇血样被偷运出境",
+      "title": "中方10分钟收网缅北四大家族重要成员",
       "category": "society",
-      "hotScore": 0.6375,
-      "freshness": 0.9998,
-      "crossSource": 1,
-      "totalScore": 0.8549,
+      "hotScore": 0.85,
+      "freshness": 0.9999,
+      "crossSource": 0.6309,
+      "totalScore": 0.8293,
       "sources": [
         {
           "channel": "toutiao",
-          "rank": 6,
-          "hot": 11579330,
-          "url": "https://www.toutiao.com/trending/7692649726601396267/"
+          "rank": 1,
+          "hot": 32362600,
+          "url": "https://www.toutiao.com/trending/7693052468208992297/"
         }
       ],
       "summary": "",
-      "url": "https://www.toutiao.com/trending/7692649726601396267/"
-    },
-    {
-      "id": "evt-30ai0000",
-      "title": "30 岁女子靠 AI 婚庆培训年入 200 万，10 万元内的方案仅需十几分钟生成，实际含金量如何？",
-      "category": "society",
-      "hotScore": 0.6375,
-      "freshness": 0.9998,
-      "crossSource": 1,
-      "totalScore": 0.8549,
-      "sources": [
-        {
-          "channel": "zhihu",
-          "rank": 4,
-          "hot": 0,
-          "url": ""
-        }
-      ],
-      "summary": "",
-      "url": ""
-    },
-    {
-      "id": "evt-15000000",
-      "title": "年轻人十一出片全靠15元次抛衣",
-      "category": "society",
-      "hotScore": 0.6,
-      "freshness": 1,
-      "crossSource": 1,
-      "totalScore": 0.84,
-      "sources": [
-        {
-          "channel": "baidu",
-          "rank": 6,
-          "hot": 0,
-          "url": "https://m.baidu.com/s?word=%E5%B9%B4%E8%BD%BB%E4%BA%BA%E5%8D%81%E4%B8%80%E5%87%BA%E7%89%87%E5%85%A8%E9%9D%A015%E5%85%83%E6%AC%A1%E6%8A%9B%E8%A1%A3&sa=fyb_news"
-        }
-      ],
-      "summary": "",
-      "url": "https://m.baidu.com/s?word=%E5%B9%B4%E8%BD%BB%E4%BA%BA%E5%8D%81%E4%B8%80%E5%87%BA%E7%89%87%E5%85%A8%E9%9D%A015%E5%85%83%E6%AC%A1%E6%8A%9B%E8%A1%A3&sa=fyb_news"
+      "url": "https://www.toutiao.com/trending/7693052468208992297/"
     },
     {
       "id": "evt-deepseekharn",
       "title": "DeepSeek Harness国庆假期上新！90后负责人回应：希望做出让世界AI巨头跟进的创新",
       "category": "society",
-      "hotScore": 0.51,
-      "freshness": 0.9999,
-      "crossSource": 1,
-      "totalScore": 0.804,
+      "hotScore": 0.765,
+      "freshness": 1,
+      "crossSource": 0.6309,
+      "totalScore": 0.7953,
       "sources": [
         {
           "channel": "thepaper",
-          "rank": 9,
+          "rank": 3,
           "hot": 0,
           "url": "https://www.thepaper.cn/newsDetail_forward_34200055"
         }
@@ -178,13 +70,108 @@
       "url": "https://www.thepaper.cn/newsDetail_forward_34200055"
     },
     {
-      "id": "evt-20261800",
-      "title": "乘联分会称 2026 年 1-8 月中国占世界汽车份额回落至 32%，背后原因有哪些？",
+      "id": "evt-70000000",
+      "title": "放假期间 这7种照片建议别发朋友圈",
+      "category": "society",
+      "hotScore": 0.76,
+      "freshness": 1,
+      "crossSource": 0.6309,
+      "totalScore": 0.7933,
+      "sources": [
+        {
+          "channel": "baidu",
+          "rank": 2,
+          "hot": 0,
+          "url": "https://m.baidu.com/s?word=%E6%94%BE%E5%81%87%E6%9C%9F%E9%97%B4+%E8%BF%997%E7%A7%8D%E7%85%A7%E7%89%87%E5%BB%BA%E8%AE%AE%E5%88%AB%E5%8F%91%E6%9C%8B%E5%8F%8B%E5%9C%88&sa=fyb_news"
+        }
+      ],
+      "summary": "",
+      "url": "https://m.baidu.com/s?word=%E6%94%BE%E5%81%87%E6%9C%9F%E9%97%B4+%E8%BF%997%E7%A7%8D%E7%85%A7%E7%89%87%E5%BB%BA%E8%AE%AE%E5%88%AB%E5%8F%91%E6%9C%8B%E5%8F%8B%E5%9C%88&sa=fyb_news"
+    },
+    {
+      "id": "evt-50000000",
+      "title": "耐克股价年内跌幅近 50% 且计划裁员重组，其市场表现缘何急转直下？",
+      "category": "economy",
+      "hotScore": 0.6,
+      "freshness": 1,
+      "crossSource": 0.6309,
+      "totalScore": 0.7293,
+      "sources": [
+        {
+          "channel": "zhihu",
+          "rank": 5,
+          "hot": 0,
+          "url": ""
+        }
+      ],
+      "summary": "",
+      "url": ""
+    },
+    {
+      "id": "evt-20260000",
+      "title": "2026 年巴西总统选举首轮投票无人胜出，将进行第二轮角逐，目前的形势如何？",
+      "category": "society",
+      "hotScore": 0.7125,
+      "freshness": 1,
+      "crossSource": 0.6309,
+      "totalScore": 0.7743,
+      "sources": [
+        {
+          "channel": "zhihu",
+          "rank": 2,
+          "hot": 0,
+          "url": ""
+        }
+      ],
+      "summary": "",
+      "url": ""
+    },
+    {
+      "id": "evt-90000000",
+      "title": "游客下地割出9000碗米饭",
+      "category": "society",
+      "hotScore": 0.6,
+      "freshness": 1,
+      "crossSource": 0.6309,
+      "totalScore": 0.7293,
+      "sources": [
+        {
+          "channel": "baidu",
+          "rank": 6,
+          "hot": 0,
+          "url": "https://m.baidu.com/s?word=%E6%B8%B8%E5%AE%A2%E4%B8%8B%E5%9C%B0%E5%89%B2%E5%87%BA9000%E7%A2%97%E7%B1%B3%E9%A5%AD&sa=fyb_news"
+        }
+      ],
+      "summary": "",
+      "url": "https://m.baidu.com/s?word=%E6%B8%B8%E5%AE%A2%E4%B8%8B%E5%9C%B0%E5%89%B2%E5%87%BA9000%E7%A2%97%E7%B1%B3%E9%A5%AD&sa=fyb_news"
+    },
+    {
+      "id": "evt-15000000",
+      "title": "15元两荤两素，湖北赤壁政府机关食堂国庆对外“迎客”，还免费开放停车场",
+      "category": "society",
+      "hotScore": 0.5525,
+      "freshness": 1,
+      "crossSource": 0.6309,
+      "totalScore": 0.7103,
+      "sources": [
+        {
+          "channel": "thepaper",
+          "rank": 8,
+          "hot": 0,
+          "url": "https://www.thepaper.cn/newsDetail_forward_34201181"
+        }
+      ],
+      "summary": "",
+      "url": "https://www.thepaper.cn/newsDetail_forward_34201181"
+    },
+    {
+      "id": "evt-hp000000",
+      "title": "医生辟谣「高铁座椅或为 HPV 感染重灾区」，这个说法怎么来的？坐高铁有必要使用一次性座套吗？",
       "category": "society",
       "hotScore": 0.4875,
-      "freshness": 0.9998,
-      "crossSource": 1,
-      "totalScore": 0.7949,
+      "freshness": 1,
+      "crossSource": 0.6309,
+      "totalScore": 0.6843,
       "sources": [
         {
           "channel": "zhihu",
@@ -195,6 +182,25 @@
       ],
       "summary": "",
       "url": ""
+    },
+    {
+      "id": "evt-16000000",
+      "title": "男子收到短信吓懵：欠费16.1亿元",
+      "category": "society",
+      "hotScore": 0.44,
+      "freshness": 1,
+      "crossSource": 0.6309,
+      "totalScore": 0.6653,
+      "sources": [
+        {
+          "channel": "baidu",
+          "rank": 10,
+          "hot": 0,
+          "url": "https://m.baidu.com/s?word=%E7%94%B7%E5%AD%90%E6%94%B6%E5%88%B0%E7%9F%AD%E4%BF%A1%E5%90%93%E6%87%B5%EF%BC%9A%E6%AC%A0%E8%B4%B916.1%E4%BA%BF%E5%85%83&sa=fyb_news"
+        }
+      ],
+      "summary": "",
+      "url": "https://m.baidu.com/s?word=%E7%94%B7%E5%AD%90%E6%94%B6%E5%88%B0%E7%9F%AD%E4%BF%A1%E5%90%93%E6%87%B5%EF%BC%9A%E6%AC%A0%E8%B4%B916.1%E4%BA%BF%E5%85%83&sa=fyb_news"
     }
   ]
 }
