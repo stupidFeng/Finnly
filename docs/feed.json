@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-10-05T00:18:37.712Z",
+  "generatedAt": "2026-10-05T07:54:21.363Z",
   "fields": {
     "society": "社会",
     "economy": "经济",
@@ -7,38 +7,13 @@
   },
   "feed": [
     {
-      "id": "evt-13000000",
-      "title": "日本罕见1天3次强烈抗议美国",
-      "category": "society",
-      "hotScore": 0.85,
-      "freshness": 1,
-      "crossSource": 1,
-      "totalScore": 0.94,
-      "sources": [
-        {
-          "channel": "toutiao",
-          "rank": 1,
-          "hot": 18353211,
-          "url": "https://www.toutiao.com/trending/7692950590237756937/"
-        },
-        {
-          "channel": "baidu",
-          "rank": 2,
-          "hot": 0,
-          "url": "https://m.baidu.com/s?word=%E6%97%A5%E6%9C%AC%E7%BD%95%E8%A7%811%E5%A4%A93%E6%AC%A1%E5%BC%BA%E7%83%88%E6%8A%97%E8%AE%AE%E7%BE%8E%E5%9B%BD&sa=fyb_news"
-        }
-      ],
-      "summary": "",
-      "url": "https://www.toutiao.com/trending/7692950590237756937/"
-    },
-    {
       "id": "evt-00000000",
       "title": "贵州晴隆：即日起二十四道拐观景台、展览馆景区免收门票",
       "category": "society",
       "hotScore": 0.85,
-      "freshness": 1,
-      "crossSource": 0.6309,
-      "totalScore": 0.8293,
+      "freshness": 0.9999,
+      "crossSource": 1,
+      "totalScore": 0.94,
       "sources": [
         {
           "channel": "thepaper",
@@ -51,13 +26,32 @@
       "url": "https://www.thepaper.cn/newsDetail_forward_34198627"
     },
     {
+      "id": "evt-13000000",
+      "title": "日本罕见1天3次向美国强烈抗议",
+      "category": "society",
+      "hotScore": 0.85,
+      "freshness": 0.9998,
+      "crossSource": 1,
+      "totalScore": 0.9399,
+      "sources": [
+        {
+          "channel": "toutiao",
+          "rank": 1,
+          "hot": 19091088,
+          "url": "https://www.toutiao.com/trending/7692950590237756937/"
+        }
+      ],
+      "summary": "",
+      "url": "https://www.toutiao.com/trending/7692950590237756937/"
+    },
+    {
       "id": "evt-84000000",
       "title": "对话84岁许镜清：为《西游记》插曲维权十年，如今更加坚定",
       "category": "society",
       "hotScore": 0.8075,
-      "freshness": 1,
-      "crossSource": 0.6309,
-      "totalScore": 0.8123,
+      "freshness": 0.9999,
+      "crossSource": 1,
+      "totalScore": 0.923,
       "sources": [
         {
           "channel": "thepaper",
@@ -70,74 +64,74 @@
       "url": "https://www.thepaper.cn/newsDetail_forward_34198740"
     },
     {
-      "id": "evt-chinahaul",
-      "title": "“China Haul”为何兴起",
+      "id": "evt-90000000",
+      "title": "9月香港一手住宅成交达三个月高位：新盘开盘即售罄，有人️连买4套",
       "category": "society",
       "hotScore": 0.7225,
-      "freshness": 1,
-      "crossSource": 0.6309,
-      "totalScore": 0.7783,
+      "freshness": 0.9999,
+      "crossSource": 1,
+      "totalScore": 0.889,
       "sources": [
         {
-          "channel": "toutiao",
+          "channel": "thepaper",
           "rank": 4,
-          "hot": 13596393,
-          "url": "https://www.toutiao.com/trending/7692635389186080811/"
-        }
-      ],
-      "summary": "",
-      "url": "https://www.toutiao.com/trending/7692635389186080811/"
-    },
-    {
-      "id": "evt-20000000",
-      "title": "官方通报“阿尔山景区200一晚酒店”",
-      "category": "society",
-      "hotScore": 0.72,
-      "freshness": 1,
-      "crossSource": 0.6309,
-      "totalScore": 0.7773,
-      "sources": [
-        {
-          "channel": "baidu",
-          "rank": 3,
           "hot": 0,
-          "url": "https://m.baidu.com/s?word=%E5%AE%98%E6%96%B9%E9%80%9A%E6%8A%A5%E2%80%9C%E9%98%BF%E5%B0%94%E5%B1%B1%E6%99%AF%E5%8C%BA200%E4%B8%80%E6%99%9A%E9%85%92%E5%BA%97%E2%80%9D&sa=fyb_news"
+          "url": "https://www.thepaper.cn/newsDetail_forward_34199049"
         }
       ],
       "summary": "",
-      "url": "https://m.baidu.com/s?word=%E5%AE%98%E6%96%B9%E9%80%9A%E6%8A%A5%E2%80%9C%E9%98%BF%E5%B0%94%E5%B1%B1%E6%99%AF%E5%8C%BA200%E4%B8%80%E6%99%9A%E9%85%92%E5%BA%97%E2%80%9D&sa=fyb_news"
+      "url": "https://www.thepaper.cn/newsDetail_forward_34199049"
     },
     {
-      "id": "evt-10000000",
-      "title": "沙特要出10万大军反攻胡塞？专家解读",
+      "id": "evt-bestfast",
+      "title": "大国重器BEST、FAST公布最新消息",
       "category": "society",
       "hotScore": 0.68,
       "freshness": 1,
-      "crossSource": 0.6309,
-      "totalScore": 0.7613,
+      "crossSource": 1,
+      "totalScore": 0.872,
       "sources": [
         {
-          "channel": "toutiao",
-          "rank": 5,
-          "hot": 12302525,
-          "url": "https://www.toutiao.com/trending/7692754034062528036/"
+          "channel": "baidu",
+          "rank": 4,
+          "hot": 0,
+          "url": "https://m.baidu.com/s?word=%E5%A4%A7%E5%9B%BD%E9%87%8D%E5%99%A8BEST%E3%80%81FAST%E5%85%AC%E5%B8%83%E6%9C%80%E6%96%B0%E6%B6%88%E6%81%AF&sa=fyb_news"
         }
       ],
       "summary": "",
-      "url": "https://www.toutiao.com/trending/7692754034062528036/"
+      "url": "https://m.baidu.com/s?word=%E5%A4%A7%E5%9B%BD%E9%87%8D%E5%99%A8BEST%E3%80%81FAST%E5%85%AC%E5%B8%83%E6%9C%80%E6%96%B0%E6%B6%88%E6%81%AF&sa=fyb_news"
+    },
+    {
+      "id": "evt-10000000",
+      "title": "超10万份孕妇血样被偷运出境",
+      "category": "society",
+      "hotScore": 0.6375,
+      "freshness": 0.9998,
+      "crossSource": 1,
+      "totalScore": 0.8549,
+      "sources": [
+        {
+          "channel": "toutiao",
+          "rank": 6,
+          "hot": 11579330,
+          "url": "https://www.toutiao.com/trending/7692649726601396267/"
+        }
+      ],
+      "summary": "",
+      "url": "https://www.toutiao.com/trending/7692649726601396267/"
     },
     {
       "id": "evt-30ai0000",
       "title": "30 岁女子靠 AI 婚庆培训年入 200 万，10 万元内的方案仅需十几分钟生成，实际含金量如何？",
       "category": "society",
-      "hotScore": 0.525,
-      "freshness": 1,
-      "crossSource": 0.6309,
-      "totalScore": 0.6993,
+      "hotScore": 0.6375,
+      "freshness": 0.9998,
+      "crossSource": 1,
+      "totalScore": 0.8549,
       "sources": [
         {
           "channel": "zhihu",
-          "rank": 7,
+          "rank": 4,
           "hot": 0,
           "url": ""
         }
@@ -146,42 +140,61 @@
       "url": ""
     },
     {
-      "id": "evt-21400000",
-      "title": "葡萄牙2-1挪威‌‌ 4连胜提前出线",
+      "id": "evt-15000000",
+      "title": "年轻人十一出片全靠15元次抛衣",
       "category": "society",
-      "hotScore": 0.48,
+      "hotScore": 0.6,
       "freshness": 1,
-      "crossSource": 0.6309,
-      "totalScore": 0.6813,
+      "crossSource": 1,
+      "totalScore": 0.84,
       "sources": [
         {
           "channel": "baidu",
-          "rank": 9,
+          "rank": 6,
           "hot": 0,
-          "url": "https://m.baidu.com/s?word=%E8%91%A1%E8%90%84%E7%89%992-1%E6%8C%AA%E5%A8%81%E2%80%8C%E2%80%8C+4%E8%BF%9E%E8%83%9C%E6%8F%90%E5%89%8D%E5%87%BA%E7%BA%BF&sa=fyb_news"
+          "url": "https://m.baidu.com/s?word=%E5%B9%B4%E8%BD%BB%E4%BA%BA%E5%8D%81%E4%B8%80%E5%87%BA%E7%89%87%E5%85%A8%E9%9D%A015%E5%85%83%E6%AC%A1%E6%8A%9B%E8%A1%A3&sa=fyb_news"
         }
       ],
       "summary": "",
-      "url": "https://m.baidu.com/s?word=%E8%91%A1%E8%90%84%E7%89%992-1%E6%8C%AA%E5%A8%81%E2%80%8C%E2%80%8C+4%E8%BF%9E%E8%83%9C%E6%8F%90%E5%89%8D%E5%87%BA%E7%BA%BF&sa=fyb_news"
+      "url": "https://m.baidu.com/s?word=%E5%B9%B4%E8%BD%BB%E4%BA%BA%E5%8D%81%E4%B8%80%E5%87%BA%E7%89%87%E5%85%A8%E9%9D%A015%E5%85%83%E6%AC%A1%E6%8A%9B%E8%A1%A3&sa=fyb_news"
     },
     {
-      "id": "evt-i0000000",
-      "title": "“i到恰好处”，恰是宁波",
+      "id": "evt-deepseekharn",
+      "title": "DeepSeek Harness国庆假期上新！90后负责人回应：希望做出让世界AI巨头跟进的创新",
       "category": "society",
-      "hotScore": 0.4675,
-      "freshness": 1,
-      "crossSource": 0.6309,
-      "totalScore": 0.6763,
+      "hotScore": 0.51,
+      "freshness": 0.9999,
+      "crossSource": 1,
+      "totalScore": 0.804,
       "sources": [
         {
           "channel": "thepaper",
-          "rank": 10,
+          "rank": 9,
           "hot": 0,
-          "url": "https://www.thepaper.cn/newsDetail_forward_34164702"
+          "url": "https://www.thepaper.cn/newsDetail_forward_34200055"
         }
       ],
       "summary": "",
-      "url": "https://www.thepaper.cn/newsDetail_forward_34164702"
+      "url": "https://www.thepaper.cn/newsDetail_forward_34200055"
+    },
+    {
+      "id": "evt-20261800",
+      "title": "乘联分会称 2026 年 1-8 月中国占世界汽车份额回落至 32%，背后原因有哪些？",
+      "category": "society",
+      "hotScore": 0.4875,
+      "freshness": 0.9998,
+      "crossSource": 1,
+      "totalScore": 0.7949,
+      "sources": [
+        {
+          "channel": "zhihu",
+          "rank": 8,
+          "hot": 0,
+          "url": ""
+        }
+      ],
+      "summary": "",
+      "url": ""
     }
   ]
 }
