@@ -1,36 +1,11 @@
 {
-  "generatedAt": "2026-10-05T16:35:13.559Z",
+  "generatedAt": "2026-10-05T23:27:45.919Z",
   "fields": {
     "society": "社会",
     "economy": "经济",
     "entertainment": "娱乐"
   },
   "feed": [
-    {
-      "id": "evt-00000000",
-      "title": "中方曾三次约见缅北四大家族代表",
-      "category": "society",
-      "hotScore": 0.595,
-      "freshness": 0.9999,
-      "crossSource": 1,
-      "totalScore": 0.838,
-      "sources": [
-        {
-          "channel": "toutiao",
-          "rank": 7,
-          "hot": 17760971,
-          "url": "https://www.toutiao.com/trending/7692387862813265444/"
-        },
-        {
-          "channel": "baidu",
-          "rank": 7,
-          "hot": 0,
-          "url": "https://m.baidu.com/s?word=%E4%B8%AD%E6%96%B9%E6%9B%BE%E4%B8%89%E6%AC%A1%E7%BA%A6%E8%A7%81%E7%BC%85%E5%8C%97%E5%9B%9B%E5%A4%A7%E5%AE%B6%E6%97%8F%E4%BB%A3%E8%A1%A8&sa=fyb_news"
-        }
-      ],
-      "summary": "",
-      "url": "https://www.toutiao.com/trending/7692387862813265444/"
-    },
     {
       "id": "evt-10000000",
       "title": "中方10分钟收网缅北四大家族重要成员",
@@ -43,7 +18,7 @@
         {
           "channel": "toutiao",
           "rank": 1,
-          "hot": 32362600,
+          "hot": 36299519,
           "url": "https://www.toutiao.com/trending/7693052468208992297/"
         }
       ],
@@ -51,23 +26,29 @@
       "url": "https://www.toutiao.com/trending/7693052468208992297/"
     },
     {
-      "id": "evt-deepseekharn",
-      "title": "DeepSeek Harness国庆假期上新！90后负责人回应：希望做出让世界AI巨头跟进的创新",
+      "id": "evt-00000000",
+      "title": "巨型“充电宝”驶进多地服务区",
       "category": "society",
-      "hotScore": 0.765,
-      "freshness": 1,
-      "crossSource": 0.6309,
-      "totalScore": 0.7953,
+      "hotScore": 0.56,
+      "freshness": 0.9999,
+      "crossSource": 1,
+      "totalScore": 0.824,
       "sources": [
         {
-          "channel": "thepaper",
-          "rank": 3,
+          "channel": "toutiao",
+          "rank": 14,
+          "hot": 9892773,
+          "url": "https://www.toutiao.com/trending/7692911321746030655/"
+        },
+        {
+          "channel": "baidu",
+          "rank": 7,
           "hot": 0,
-          "url": "https://www.thepaper.cn/newsDetail_forward_34200055"
+          "url": "https://m.baidu.com/s?word=%E5%B7%A8%E5%9E%8B%E2%80%9C%E5%85%85%E7%94%B5%E5%AE%9D%E2%80%9D%E9%A9%B6%E8%BF%9B%E5%A4%9A%E5%9C%B0%E6%9C%8D%E5%8A%A1%E5%8C%BA&sa=fyb_news"
         }
       ],
       "summary": "",
-      "url": "https://www.thepaper.cn/newsDetail_forward_34200055"
+      "url": "https://www.toutiao.com/trending/7692911321746030655/"
     },
     {
       "id": "evt-70000000",
@@ -89,17 +70,36 @@
       "url": "https://m.baidu.com/s?word=%E6%94%BE%E5%81%87%E6%9C%9F%E9%97%B4+%E8%BF%997%E7%A7%8D%E7%85%A7%E7%89%87%E5%BB%BA%E8%AE%AE%E5%88%AB%E5%8F%91%E6%9C%8B%E5%8F%8B%E5%9C%88&sa=fyb_news"
     },
     {
+      "id": "evt-30000000",
+      "title": "中方工作组曾 3 次约见果敢「四大家族」代表但收效甚微，背后的深层原因是什么？",
+      "category": "society",
+      "hotScore": 0.75,
+      "freshness": 0.9999,
+      "crossSource": 0.6309,
+      "totalScore": 0.7893,
+      "sources": [
+        {
+          "channel": "zhihu",
+          "rank": 1,
+          "hot": 0,
+          "url": ""
+        }
+      ],
+      "summary": "",
+      "url": ""
+    },
+    {
       "id": "evt-50000000",
-      "title": "耐克股价年内跌幅近 50% 且计划裁员重组，其市场表现缘何急转直下？",
-      "category": "economy",
-      "hotScore": 0.6,
-      "freshness": 1,
+      "title": "如何评价 5 万人口的祁连县国庆迎 10 万游客，酒店民宿全满房，文旅局免费安置游客到学生宿舍？",
+      "category": "society",
+      "hotScore": 0.675,
+      "freshness": 0.9999,
       "crossSource": 0.6309,
-      "totalScore": 0.7293,
+      "totalScore": 0.7593,
       "sources": [
         {
           "channel": "zhihu",
-          "rank": 5,
+          "rank": 3,
           "hot": 0,
           "url": ""
         }
@@ -108,55 +108,55 @@
       "url": ""
     },
     {
-      "id": "evt-20260000",
-      "title": "2026 年巴西总统选举首轮投票无人胜出，将进行第二轮角逐，目前的形势如何？",
+      "id": "evt-deepseekharn",
+      "title": "DeepSeek Harness国庆假期上新！90后负责人回应：希望做出让世界AI巨头跟进的创新",
       "category": "society",
-      "hotScore": 0.7125,
+      "hotScore": 0.6375,
       "freshness": 1,
       "crossSource": 0.6309,
-      "totalScore": 0.7743,
+      "totalScore": 0.7443,
       "sources": [
         {
-          "channel": "zhihu",
-          "rank": 2,
-          "hot": 0,
-          "url": ""
-        }
-      ],
-      "summary": "",
-      "url": ""
-    },
-    {
-      "id": "evt-90000000",
-      "title": "游客下地割出9000碗米饭",
-      "category": "society",
-      "hotScore": 0.6,
-      "freshness": 1,
-      "crossSource": 0.6309,
-      "totalScore": 0.7293,
-      "sources": [
-        {
-          "channel": "baidu",
+          "channel": "thepaper",
           "rank": 6,
           "hot": 0,
-          "url": "https://m.baidu.com/s?word=%E6%B8%B8%E5%AE%A2%E4%B8%8B%E5%9C%B0%E5%89%B2%E5%87%BA9000%E7%A2%97%E7%B1%B3%E9%A5%AD&sa=fyb_news"
+          "url": "https://www.thepaper.cn/newsDetail_forward_34200055"
         }
       ],
       "summary": "",
-      "url": "https://m.baidu.com/s?word=%E6%B8%B8%E5%AE%A2%E4%B8%8B%E5%9C%B0%E5%89%B2%E5%87%BA9000%E7%A2%97%E7%B1%B3%E9%A5%AD&sa=fyb_news"
+      "url": "https://www.thepaper.cn/newsDetail_forward_34200055"
+    },
+    {
+      "id": "evt-hp000000",
+      "title": "医生辟谣「高铁座椅或为 HPV 感染重灾区」，这个说法怎么来的？坐高铁有必要使用一次性座套吗？",
+      "category": "society",
+      "hotScore": 0.525,
+      "freshness": 0.9999,
+      "crossSource": 0.6309,
+      "totalScore": 0.6993,
+      "sources": [
+        {
+          "channel": "zhihu",
+          "rank": 7,
+          "hot": 0,
+          "url": ""
+        }
+      ],
+      "summary": "",
+      "url": ""
     },
     {
       "id": "evt-15000000",
       "title": "15元两荤两素，湖北赤壁政府机关食堂国庆对外“迎客”，还免费开放停车场",
       "category": "society",
-      "hotScore": 0.5525,
+      "hotScore": 0.51,
       "freshness": 1,
       "crossSource": 0.6309,
-      "totalScore": 0.7103,
+      "totalScore": 0.6933,
       "sources": [
         {
           "channel": "thepaper",
-          "rank": 8,
+          "rank": 9,
           "hot": 0,
           "url": "https://www.thepaper.cn/newsDetail_forward_34201181"
         }
@@ -165,11 +165,11 @@
       "url": "https://www.thepaper.cn/newsDetail_forward_34201181"
     },
     {
-      "id": "evt-hp000000",
-      "title": "医生辟谣「高铁座椅或为 HPV 感染重灾区」，这个说法怎么来的？坐高铁有必要使用一次性座套吗？",
+      "id": "evt-hkxg0000",
+      "title": "香港为什么叫 HK，不叫 XG？",
       "category": "society",
       "hotScore": 0.4875,
-      "freshness": 1,
+      "freshness": 0.9999,
       "crossSource": 0.6309,
       "totalScore": 0.6843,
       "sources": [
@@ -184,23 +184,23 @@
       "url": ""
     },
     {
-      "id": "evt-16000000",
-      "title": "男子收到短信吓懵：欠费16.1亿元",
+      "id": "evt-90000000",
+      "title": "游客下地割出9000碗米饭",
       "category": "society",
-      "hotScore": 0.44,
+      "hotScore": 0.48,
       "freshness": 1,
       "crossSource": 0.6309,
-      "totalScore": 0.6653,
+      "totalScore": 0.6813,
       "sources": [
         {
           "channel": "baidu",
-          "rank": 10,
+          "rank": 9,
           "hot": 0,
-          "url": "https://m.baidu.com/s?word=%E7%94%B7%E5%AD%90%E6%94%B6%E5%88%B0%E7%9F%AD%E4%BF%A1%E5%90%93%E6%87%B5%EF%BC%9A%E6%AC%A0%E8%B4%B916.1%E4%BA%BF%E5%85%83&sa=fyb_news"
+          "url": "https://m.baidu.com/s?word=%E6%B8%B8%E5%AE%A2%E4%B8%8B%E5%9C%B0%E5%89%B2%E5%87%BA9000%E7%A2%97%E7%B1%B3%E9%A5%AD&sa=fyb_news"
         }
       ],
       "summary": "",
-      "url": "https://m.baidu.com/s?word=%E7%94%B7%E5%AD%90%E6%94%B6%E5%88%B0%E7%9F%AD%E4%BF%A1%E5%90%93%E6%87%B5%EF%BC%9A%E6%AC%A0%E8%B4%B916.1%E4%BA%BF%E5%85%83&sa=fyb_news"
+      "url": "https://m.baidu.com/s?word=%E6%B8%B8%E5%AE%A2%E4%B8%8B%E5%9C%B0%E5%89%B2%E5%87%BA9000%E7%A2%97%E7%B1%B3%E9%A5%AD&sa=fyb_news"
     }
   ]
 }
