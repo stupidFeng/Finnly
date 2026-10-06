@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-10-05T23:27:45.919Z",
+  "generatedAt": "2026-10-06T03:47:57.133Z",
   "fields": {
     "society": "社会",
     "economy": "经济",
@@ -7,8 +7,33 @@
   },
   "feed": [
     {
+      "id": "evt-00000000",
+      "title": "缅北电诈主犯随机杀人祭天",
+      "category": "society",
+      "hotScore": 0.76,
+      "freshness": 0.9999,
+      "crossSource": 1,
+      "totalScore": 0.904,
+      "sources": [
+        {
+          "channel": "toutiao",
+          "rank": 8,
+          "hot": 19343222,
+          "url": "https://www.toutiao.com/trending/7693382787528871433/"
+        },
+        {
+          "channel": "baidu",
+          "rank": 2,
+          "hot": 0,
+          "url": "https://m.baidu.com/s?word=%E7%BC%85%E5%8C%97%E7%94%B5%E8%AF%88%E4%B8%BB%E7%8A%AF%E9%9A%8F%E6%9C%BA%E6%9D%80%E4%BA%BA%E7%A5%AD%E5%A4%A9&sa=fyb_news"
+        }
+      ],
+      "summary": "",
+      "url": "https://www.toutiao.com/trending/7693382787528871433/"
+    },
+    {
       "id": "evt-10000000",
-      "title": "中方10分钟收网缅北四大家族重要成员",
+      "title": "有10万民警赴中缅边境打击涉我犯罪",
       "category": "society",
       "hotScore": 0.85,
       "freshness": 0.9999,
@@ -18,63 +43,19 @@
         {
           "channel": "toutiao",
           "rank": 1,
-          "hot": 36299519,
-          "url": "https://www.toutiao.com/trending/7693052468208992297/"
+          "hot": 38952467,
+          "url": "https://www.toutiao.com/trending/7693322726240734766/"
         }
       ],
       "summary": "",
-      "url": "https://www.toutiao.com/trending/7693052468208992297/"
-    },
-    {
-      "id": "evt-00000000",
-      "title": "巨型“充电宝”驶进多地服务区",
-      "category": "society",
-      "hotScore": 0.56,
-      "freshness": 0.9999,
-      "crossSource": 1,
-      "totalScore": 0.824,
-      "sources": [
-        {
-          "channel": "toutiao",
-          "rank": 14,
-          "hot": 9892773,
-          "url": "https://www.toutiao.com/trending/7692911321746030655/"
-        },
-        {
-          "channel": "baidu",
-          "rank": 7,
-          "hot": 0,
-          "url": "https://m.baidu.com/s?word=%E5%B7%A8%E5%9E%8B%E2%80%9C%E5%85%85%E7%94%B5%E5%AE%9D%E2%80%9D%E9%A9%B6%E8%BF%9B%E5%A4%9A%E5%9C%B0%E6%9C%8D%E5%8A%A1%E5%8C%BA&sa=fyb_news"
-        }
-      ],
-      "summary": "",
-      "url": "https://www.toutiao.com/trending/7692911321746030655/"
-    },
-    {
-      "id": "evt-70000000",
-      "title": "放假期间 这7种照片建议别发朋友圈",
-      "category": "society",
-      "hotScore": 0.76,
-      "freshness": 1,
-      "crossSource": 0.6309,
-      "totalScore": 0.7933,
-      "sources": [
-        {
-          "channel": "baidu",
-          "rank": 2,
-          "hot": 0,
-          "url": "https://m.baidu.com/s?word=%E6%94%BE%E5%81%87%E6%9C%9F%E9%97%B4+%E8%BF%997%E7%A7%8D%E7%85%A7%E7%89%87%E5%BB%BA%E8%AE%AE%E5%88%AB%E5%8F%91%E6%9C%8B%E5%8F%8B%E5%9C%88&sa=fyb_news"
-        }
-      ],
-      "summary": "",
-      "url": "https://m.baidu.com/s?word=%E6%94%BE%E5%81%87%E6%9C%9F%E9%97%B4+%E8%BF%997%E7%A7%8D%E7%85%A7%E7%89%87%E5%BB%BA%E8%AE%AE%E5%88%AB%E5%8F%91%E6%9C%8B%E5%8F%8B%E5%9C%88&sa=fyb_news"
+      "url": "https://www.toutiao.com/trending/7693322726240734766/"
     },
     {
       "id": "evt-30000000",
       "title": "中方工作组曾 3 次约见果敢「四大家族」代表但收效甚微，背后的深层原因是什么？",
       "category": "society",
       "hotScore": 0.75,
-      "freshness": 0.9999,
+      "freshness": 1,
       "crossSource": 0.6309,
       "totalScore": 0.7893,
       "sources": [
@@ -89,11 +70,11 @@
       "url": ""
     },
     {
-      "id": "evt-50000000",
-      "title": "如何评价 5 万人口的祁连县国庆迎 10 万游客，酒店民宿全满房，文旅局免费安置游客到学生宿舍？",
+      "id": "evt-70000000",
+      "title": "媒体曝腾讯 70 亿美元租用甲骨文海外算力，此举出于哪些考量？会带来哪些影响？",
       "category": "society",
       "hotScore": 0.675,
-      "freshness": 0.9999,
+      "freshness": 1,
       "crossSource": 0.6309,
       "totalScore": 0.7593,
       "sources": [
@@ -108,8 +89,8 @@
       "url": ""
     },
     {
-      "id": "evt-deepseekharn",
-      "title": "DeepSeek Harness国庆假期上新！90后负责人回应：希望做出让世界AI巨头跟进的创新",
+      "id": "evt-369t0000",
+      "title": "如何评价 369（白家浩，前 TES/JDG 上单）直播玩无畏契约被喷？",
       "category": "society",
       "hotScore": 0.6375,
       "freshness": 1,
@@ -117,21 +98,59 @@
       "totalScore": 0.7443,
       "sources": [
         {
-          "channel": "thepaper",
-          "rank": 6,
+          "channel": "zhihu",
+          "rank": 4,
           "hot": 0,
-          "url": "https://www.thepaper.cn/newsDetail_forward_34200055"
+          "url": ""
         }
       ],
       "summary": "",
-      "url": "https://www.thepaper.cn/newsDetail_forward_34200055"
+      "url": ""
     },
     {
-      "id": "evt-hp000000",
-      "title": "医生辟谣「高铁座椅或为 HPV 感染重灾区」，这个说法怎么来的？坐高铁有必要使用一次性座套吗？",
+      "id": "evt-hkxg0000",
+      "title": "香港为什么叫 HK，不叫 XG？",
+      "category": "society",
+      "hotScore": 0.5625,
+      "freshness": 1,
+      "crossSource": 0.6309,
+      "totalScore": 0.7143,
+      "sources": [
+        {
+          "channel": "zhihu",
+          "rank": 6,
+          "hot": 0,
+          "url": ""
+        }
+      ],
+      "summary": "",
+      "url": ""
+    },
+    {
+      "id": "evt-35000000",
+      "title": "35小时工作制火遍全网",
+      "category": "society",
+      "hotScore": 0.56,
+      "freshness": 1,
+      "crossSource": 0.6309,
+      "totalScore": 0.7133,
+      "sources": [
+        {
+          "channel": "baidu",
+          "rank": 7,
+          "hot": 0,
+          "url": "https://m.baidu.com/s?word=35%E5%B0%8F%E6%97%B6%E5%B7%A5%E4%BD%9C%E5%88%B6%E7%81%AB%E9%81%8D%E5%85%A8%E7%BD%91&sa=fyb_news"
+        }
+      ],
+      "summary": "",
+      "url": "https://m.baidu.com/s?word=35%E5%B0%8F%E6%97%B6%E5%B7%A5%E4%BD%9C%E5%88%B6%E7%81%AB%E9%81%8D%E5%85%A8%E7%BD%91&sa=fyb_news"
+    },
+    {
+      "id": "evt-hiv00000",
+      "title": "普宁教师岗考生称因 HIV 体检不合格被教育局劝签自愿放弃聘用，这合理吗？日常教学接触会传染到学生吗？",
       "category": "society",
       "hotScore": 0.525,
-      "freshness": 0.9999,
+      "freshness": 1,
       "crossSource": 0.6309,
       "totalScore": 0.6993,
       "sources": [
@@ -165,11 +184,11 @@
       "url": "https://www.thepaper.cn/newsDetail_forward_34201181"
     },
     {
-      "id": "evt-hkxg0000",
-      "title": "香港为什么叫 HK，不叫 XG？",
+      "id": "evt-50000000",
+      "title": "如何评价 5 万人口的祁连县国庆迎 10 万游客，酒店民宿全满房，文旅局免费安置游客到学生宿舍？",
       "category": "society",
       "hotScore": 0.4875,
-      "freshness": 0.9999,
+      "freshness": 1,
       "crossSource": 0.6309,
       "totalScore": 0.6843,
       "sources": [
@@ -184,23 +203,23 @@
       "url": ""
     },
     {
-      "id": "evt-90000000",
-      "title": "游客下地割出9000碗米饭",
+      "id": "evt-ipo00000",
+      "title": "港股前三季度IPO募资额达3855亿港元，“A+H”股占近七成",
       "category": "society",
-      "hotScore": 0.48,
+      "hotScore": 0.425,
       "freshness": 1,
       "crossSource": 0.6309,
-      "totalScore": 0.6813,
+      "totalScore": 0.6593,
       "sources": [
         {
-          "channel": "baidu",
-          "rank": 9,
+          "channel": "thepaper",
+          "rank": 11,
           "hot": 0,
-          "url": "https://m.baidu.com/s?word=%E6%B8%B8%E5%AE%A2%E4%B8%8B%E5%9C%B0%E5%89%B2%E5%87%BA9000%E7%A2%97%E7%B1%B3%E9%A5%AD&sa=fyb_news"
+          "url": "https://www.thepaper.cn/newsDetail_forward_34196697"
         }
       ],
       "summary": "",
-      "url": "https://m.baidu.com/s?word=%E6%B8%B8%E5%AE%A2%E4%B8%8B%E5%9C%B0%E5%89%B2%E5%87%BA9000%E7%A2%97%E7%B1%B3%E9%A5%AD&sa=fyb_news"
+      "url": "https://www.thepaper.cn/newsDetail_forward_34196697"
     }
   ]
 }
