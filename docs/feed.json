@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-10-06T10:53:36.806Z",
+  "generatedAt": "2026-10-06T17:35:04.430Z",
   "fields": {
     "society": "社会",
     "economy": "经济",
@@ -8,60 +8,136 @@
   "feed": [
     {
       "id": "evt-00000000",
-      "title": "中国民警：要让缅北电诈血债血还",
+      "title": "外交部：美方应慎重处理台湾问题",
       "category": "society",
-      "hotScore": 0.85,
+      "hotScore": 0.6375,
       "freshness": 0.9999,
       "crossSource": 1,
-      "totalScore": 0.94,
+      "totalScore": 0.855,
       "sources": [
         {
           "channel": "toutiao",
-          "rank": 1,
-          "hot": 34655745,
-          "url": "https://www.toutiao.com/trending/7692711071282515499/"
+          "rank": 6,
+          "hot": 24321218,
+          "url": "https://www.toutiao.com/trending/7692548830365122610/"
         },
         {
-          "channel": "baidu",
-          "rank": 14,
+          "channel": "thepaper",
+          "rank": 16,
           "hot": 0,
-          "url": "https://m.baidu.com/s?word=%E4%B8%AD%E5%9B%BD%E6%B0%91%E8%AD%A6%EF%BC%9A%E8%A6%81%E8%AE%A9%E7%BC%85%E5%8C%97%E7%94%B5%E8%AF%88%E8%A1%80%E5%80%BA%E8%A1%80%E8%BF%98&sa=fyb_news"
+          "url": "https://www.thepaper.cn/newsDetail_forward_34205627"
         }
       ],
       "summary": "",
-      "url": "https://www.toutiao.com/trending/7692711071282515499/"
+      "url": "https://www.toutiao.com/trending/7692548830365122610/"
     },
     {
-      "id": "evt-10000000",
-      "title": "缅北电诈覆灭纪实第一集：10·20枪击案成“四大家族”穷途末路的开始",
+      "id": "evt-20270000",
+      "title": "下次回来就是2027年了",
       "category": "society",
-      "hotScore": 0.85,
+      "hotScore": 0.76,
+      "freshness": 0.9999,
+      "crossSource": 0.6309,
+      "totalScore": 0.7932,
+      "sources": [
+        {
+          "channel": "baidu",
+          "rank": 2,
+          "hot": 0,
+          "url": "https://m.baidu.com/s?word=%E4%B8%8B%E6%AC%A1%E5%9B%9E%E6%9D%A5%E5%B0%B1%E6%98%AF2027%E5%B9%B4%E4%BA%86&sa=fyb_news"
+        }
+      ],
+      "summary": "",
+      "url": "https://m.baidu.com/s?word=%E4%B8%8B%E6%AC%A1%E5%9B%9E%E6%9D%A5%E5%B0%B1%E6%98%AF2027%E5%B9%B4%E4%BA%86&sa=fyb_news"
+    },
+    {
+      "id": "evt-20260000",
+      "title": "弗朗西斯·哈尔岑获2026年诺贝尔物理学奖",
+      "category": "society",
+      "hotScore": 0.68,
       "freshness": 1,
       "crossSource": 0.6309,
-      "totalScore": 0.8293,
+      "totalScore": 0.7613,
       "sources": [
         {
           "channel": "thepaper",
-          "rank": 1,
+          "rank": 5,
           "hot": 0,
-          "url": "https://www.thepaper.cn/newsDetail_forward_34202174"
+          "url": "https://www.thepaper.cn/newsDetail_forward_34205378"
         }
       ],
       "summary": "",
-      "url": "https://www.thepaper.cn/newsDetail_forward_34202174"
+      "url": "https://www.thepaper.cn/newsDetail_forward_34205378"
+    },
+    {
+      "id": "evt-16510000",
+      "title": "“16条人命只剩5具尸体1份骨灰”",
+      "category": "society",
+      "hotScore": 0.64,
+      "freshness": 0.9999,
+      "crossSource": 0.6309,
+      "totalScore": 0.7452,
+      "sources": [
+        {
+          "channel": "baidu",
+          "rank": 5,
+          "hot": 0,
+          "url": "https://m.baidu.com/s?word=%E2%80%9C16%E6%9D%A1%E4%BA%BA%E5%91%BD%E5%8F%AA%E5%89%A95%E5%85%B7%E5%B0%B8%E4%BD%931%E4%BB%BD%E9%AA%A8%E7%81%B0%E2%80%9D&sa=fyb_news"
+        }
+      ],
+      "summary": "",
+      "url": "https://m.baidu.com/s?word=%E2%80%9C16%E6%9D%A1%E4%BA%BA%E5%91%BD%E5%8F%AA%E5%89%A95%E5%85%B7%E5%B0%B8%E4%BD%931%E4%BB%BD%E9%AA%A8%E7%81%B0%E2%80%9D&sa=fyb_news"
+    },
+    {
+      "id": "evt-80000000",
+      "title": "时间经过他的手：80岁钟表师傅和一间歇业小店",
+      "category": "society",
+      "hotScore": 0.6375,
+      "freshness": 1,
+      "crossSource": 0.6309,
+      "totalScore": 0.7443,
+      "sources": [
+        {
+          "channel": "thepaper",
+          "rank": 6,
+          "hot": 0,
+          "url": "https://www.thepaper.cn/newsDetail_forward_34148977"
+        }
+      ],
+      "summary": "",
+      "url": "https://www.thepaper.cn/newsDetail_forward_34148977"
+    },
+    {
+      "id": "evt-10000000",
+      "title": "100元不够买三斤鲜牛肉",
+      "category": "society",
+      "hotScore": 0.6,
+      "freshness": 0.9999,
+      "crossSource": 0.6309,
+      "totalScore": 0.7292,
+      "sources": [
+        {
+          "channel": "baidu",
+          "rank": 6,
+          "hot": 0,
+          "url": "https://m.baidu.com/s?word=100%E5%85%83%E4%B8%8D%E5%A4%9F%E4%B9%B0%E4%B8%89%E6%96%A4%E9%B2%9C%E7%89%9B%E8%82%89&sa=fyb_news"
+        }
+      ],
+      "summary": "",
+      "url": "https://m.baidu.com/s?word=100%E5%85%83%E4%B8%8D%E5%A4%9F%E4%B9%B0%E4%B8%89%E6%96%A4%E9%B2%9C%E7%89%9B%E8%82%89&sa=fyb_news"
     },
     {
       "id": "evt-20a00000",
       "title": "保时捷卡宴降20万 奥迪A8降30万",
       "category": "society",
-      "hotScore": 0.72,
-      "freshness": 1,
+      "hotScore": 0.56,
+      "freshness": 0.9999,
       "crossSource": 0.6309,
-      "totalScore": 0.7773,
+      "totalScore": 0.7132,
       "sources": [
         {
           "channel": "baidu",
-          "rank": 3,
+          "rank": 7,
           "hot": 0,
           "url": "https://m.baidu.com/s?word=%E4%BF%9D%E6%97%B6%E6%8D%B7%E5%8D%A1%E5%AE%B4%E9%99%8D20%E4%B8%87+%E5%A5%A5%E8%BF%AAA8%E9%99%8D30%E4%B8%87&sa=fyb_news"
         }
@@ -70,127 +146,32 @@
       "url": "https://m.baidu.com/s?word=%E4%BF%9D%E6%97%B6%E6%8D%B7%E5%8D%A1%E5%AE%B4%E9%99%8D20%E4%B8%87+%E5%A5%A5%E8%BF%AAA8%E9%99%8D30%E4%B8%87&sa=fyb_news"
     },
     {
-      "id": "evt-teszui00",
-      "title": "如何看待 TES 上单 zuian 签证两次被拒，369 紧急成为 TES S16 首发上单？",
-      "category": "society",
-      "hotScore": 0.7125,
-      "freshness": 0.9999,
-      "crossSource": 0.6309,
-      "totalScore": 0.7743,
-      "sources": [
-        {
-          "channel": "zhihu",
-          "rank": 2,
-          "hot": 0,
-          "url": ""
-        }
-      ],
-      "summary": "",
-      "url": ""
-    },
-    {
-      "id": "evt-90000000",
-      "title": "国庆假期返程9个小贴士请收好",
-      "category": "society",
-      "hotScore": 0.68,
-      "freshness": 1,
-      "crossSource": 0.6309,
-      "totalScore": 0.7613,
-      "sources": [
-        {
-          "channel": "baidu",
-          "rank": 4,
-          "hot": 0,
-          "url": "https://m.baidu.com/s?word=%E5%9B%BD%E5%BA%86%E5%81%87%E6%9C%9F%E8%BF%94%E7%A8%8B9%E4%B8%AA%E5%B0%8F%E8%B4%B4%E5%A3%AB%E8%AF%B7%E6%94%B6%E5%A5%BD&sa=fyb_news"
-        }
-      ],
-      "summary": "",
-      "url": "https://m.baidu.com/s?word=%E5%9B%BD%E5%BA%86%E5%81%87%E6%9C%9F%E8%BF%94%E7%A8%8B9%E4%B8%AA%E5%B0%8F%E8%B4%B4%E5%A3%AB%E8%AF%B7%E6%94%B6%E5%A5%BD&sa=fyb_news"
-    },
-    {
-      "id": "evt-50300000",
-      "title": "匿名人大校友豪捐5.03亿 段永平回应",
-      "category": "society",
-      "hotScore": 0.68,
-      "freshness": 0.9999,
-      "crossSource": 0.6309,
-      "totalScore": 0.7613,
-      "sources": [
-        {
-          "channel": "toutiao",
-          "rank": 5,
-          "hot": 23230440,
-          "url": "https://www.toutiao.com/trending/7692780243773521963/"
-        }
-      ],
-      "summary": "",
-      "url": "https://www.toutiao.com/trending/7692780243773521963/"
-    },
-    {
       "id": "evt-70000000",
-      "title": "媒体曝腾讯 70 亿美元租用甲骨文海外算力，此举出于哪些考量？会带来哪些影响？",
-      "category": "society",
-      "hotScore": 0.6,
-      "freshness": 0.9999,
-      "crossSource": 0.6309,
-      "totalScore": 0.7293,
-      "sources": [
-        {
-          "channel": "zhihu",
-          "rank": 5,
-          "hot": 0,
-          "url": ""
-        }
-      ],
-      "summary": "",
-      "url": ""
-    },
-    {
-      "id": "evt-20260000",
-      "title": "2026 诺贝尔物理学奖由哈尔岑独享，表彰其发现宇宙高能中微子，如何理解这项「幽灵粒子」研究？",
-      "category": "society",
-      "hotScore": 0.5625,
-      "freshness": 0.9999,
-      "crossSource": 0.6309,
-      "totalScore": 0.7143,
-      "sources": [
-        {
-          "channel": "zhihu",
-          "rank": 6,
-          "hot": 0,
-          "url": ""
-        }
-      ],
-      "summary": "",
-      "url": ""
-    },
-    {
-      "id": "evt-65000000",
-      "title": "乌军一夜650架无人机袭莫斯科地区",
+      "title": "重庆酉阳盗矿案致7死：疑盗采废弃汞矿，事发当日当地乡镇有大暴雨",
       "category": "society",
       "hotScore": 0.5525,
-      "freshness": 0.9999,
+      "freshness": 1,
       "crossSource": 0.6309,
       "totalScore": 0.7103,
       "sources": [
         {
-          "channel": "toutiao",
+          "channel": "thepaper",
           "rank": 8,
-          "hot": 17209533,
-          "url": "https://www.toutiao.com/trending/7692706767385444394/"
+          "hot": 0,
+          "url": "https://www.thepaper.cn/newsDetail_forward_34204510"
         }
       ],
       "summary": "",
-      "url": "https://www.toutiao.com/trending/7692706767385444394/"
+      "url": "https://www.thepaper.cn/newsDetail_forward_34204510"
     },
     {
-      "id": "evt-hiv00000",
-      "title": "普宁教师岗考生称因 HIV 体检不合格被教育局劝签自愿放弃聘用，这合理吗？日常教学接触会传染到学生吗？",
+      "id": "evt-oppo1200",
+      "title": "OPPO 为何要寻求 12 亿美元银团贷款？",
       "category": "society",
       "hotScore": 0.525,
       "freshness": 0.9999,
       "crossSource": 0.6309,
-      "totalScore": 0.6993,
+      "totalScore": 0.6992,
       "sources": [
         {
           "channel": "zhihu",
@@ -203,32 +184,13 @@
       "url": ""
     },
     {
-      "id": "evt-80000000",
-      "title": "时间经过他的手：80岁钟表师傅和一间歇业小店",
-      "category": "society",
-      "hotScore": 0.51,
-      "freshness": 1,
-      "crossSource": 0.6309,
-      "totalScore": 0.6933,
-      "sources": [
-        {
-          "channel": "thepaper",
-          "rank": 9,
-          "hot": 0,
-          "url": "https://www.thepaper.cn/newsDetail_forward_34148977"
-        }
-      ],
-      "summary": "",
-      "url": "https://www.thepaper.cn/newsDetail_forward_34148977"
-    },
-    {
       "id": "evt-adobephotosh",
       "title": "Adobe Photoshop 是否已经过时？",
       "category": "society",
       "hotScore": 0.4875,
       "freshness": 0.9999,
       "crossSource": 0.6309,
-      "totalScore": 0.6843,
+      "totalScore": 0.6842,
       "sources": [
         {
           "channel": "zhihu",
@@ -241,23 +203,23 @@
       "url": ""
     },
     {
-      "id": "evt-ipo00000",
-      "title": "港股前三季度IPO募资额达3855亿港元，“A+H”股占近七成",
+      "id": "evt-31000000",
+      "title": "国足友谊赛 3 连败，1 球未进丢掉 9 球，邵佳一该下课吗？",
       "category": "society",
-      "hotScore": 0.4675,
-      "freshness": 1,
+      "hotScore": 0.45,
+      "freshness": 0.9999,
       "crossSource": 0.6309,
-      "totalScore": 0.6763,
+      "totalScore": 0.6692,
       "sources": [
         {
-          "channel": "thepaper",
-          "rank": 10,
+          "channel": "zhihu",
+          "rank": 9,
           "hot": 0,
-          "url": "https://www.thepaper.cn/newsDetail_forward_34196697"
+          "url": ""
         }
       ],
       "summary": "",
-      "url": "https://www.thepaper.cn/newsDetail_forward_34196697"
+      "url": ""
     }
   ]
 }
