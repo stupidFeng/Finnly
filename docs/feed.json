@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-10-06T17:35:04.430Z",
+  "generatedAt": "2026-10-06T21:59:54.085Z",
   "fields": {
     "society": "社会",
     "economy": "经济",
@@ -8,7 +8,7 @@
   "feed": [
     {
       "id": "evt-00000000",
-      "title": "外交部：美方应慎重处理台湾问题",
+      "title": "睡眠开始出现这种问题说明你可能老了",
       "category": "society",
       "hotScore": 0.6375,
       "freshness": 0.9999,
@@ -18,18 +18,18 @@
         {
           "channel": "toutiao",
           "rank": 6,
-          "hot": 24321218,
-          "url": "https://www.toutiao.com/trending/7692548830365122610/"
+          "hot": 26090416,
+          "url": "https://www.toutiao.com/trending/7692624219037171748/"
         },
         {
-          "channel": "thepaper",
-          "rank": 16,
+          "channel": "baidu",
+          "rank": 8,
           "hot": 0,
-          "url": "https://www.thepaper.cn/newsDetail_forward_34205627"
+          "url": "https://m.baidu.com/s?word=%E7%9D%A1%E7%9C%A0%E5%BC%80%E5%A7%8B%E5%87%BA%E7%8E%B0%E8%BF%99%E7%A7%8D%E9%97%AE%E9%A2%98%E8%AF%B4%E6%98%8E%E4%BD%A0%E5%8F%AF%E8%83%BD%E8%80%81%E4%BA%86&sa=fyb_news"
         }
       ],
       "summary": "",
-      "url": "https://www.toutiao.com/trending/7692548830365122610/"
+      "url": "https://www.toutiao.com/trending/7692624219037171748/"
     },
     {
       "id": "evt-20270000",
@@ -38,7 +38,7 @@
       "hotScore": 0.76,
       "freshness": 0.9999,
       "crossSource": 0.6309,
-      "totalScore": 0.7932,
+      "totalScore": 0.7933,
       "sources": [
         {
           "channel": "baidu",
@@ -49,6 +49,25 @@
       ],
       "summary": "",
       "url": "https://m.baidu.com/s?word=%E4%B8%8B%E6%AC%A1%E5%9B%9E%E6%9D%A5%E5%B0%B1%E6%98%AF2027%E5%B9%B4%E4%BA%86&sa=fyb_news"
+    },
+    {
+      "id": "evt-80000000",
+      "title": "8岁男童确诊尿毒症 每天喝奶茶饮料",
+      "category": "society",
+      "hotScore": 0.68,
+      "freshness": 1,
+      "crossSource": 0.6309,
+      "totalScore": 0.7613,
+      "sources": [
+        {
+          "channel": "toutiao",
+          "rank": 5,
+          "hot": 28834369,
+          "url": "https://www.toutiao.com/trending/7693181022127325227/"
+        }
+      ],
+      "summary": "",
+      "url": "https://www.toutiao.com/trending/7693181022127325227/"
     },
     {
       "id": "evt-20260000",
@@ -76,7 +95,7 @@
       "hotScore": 0.64,
       "freshness": 0.9999,
       "crossSource": 0.6309,
-      "totalScore": 0.7452,
+      "totalScore": 0.7453,
       "sources": [
         {
           "channel": "baidu",
@@ -89,8 +108,27 @@
       "url": "https://m.baidu.com/s?word=%E2%80%9C16%E6%9D%A1%E4%BA%BA%E5%91%BD%E5%8F%AA%E5%89%A95%E5%85%B7%E5%B0%B8%E4%BD%931%E4%BB%BD%E9%AA%A8%E7%81%B0%E2%80%9D&sa=fyb_news"
     },
     {
-      "id": "evt-80000000",
-      "title": "时间经过他的手：80岁钟表师傅和一间歇业小店",
+      "id": "evt-macoswin",
+      "title": "为什么 macOS 比 Windows 好用且美观，但是国内 Windows 依旧是主流操作系统？",
+      "category": "society",
+      "hotScore": 0.6375,
+      "freshness": 1,
+      "crossSource": 0.6309,
+      "totalScore": 0.7443,
+      "sources": [
+        {
+          "channel": "zhihu",
+          "rank": 4,
+          "hot": 0,
+          "url": ""
+        }
+      ],
+      "summary": "",
+      "url": ""
+    },
+    {
+      "id": "evt-01000000",
+      "title": "韦世豪红牌！十人国足0比1不敌塔吉克斯坦，热身赛遭三连败",
       "category": "society",
       "hotScore": 0.6375,
       "freshness": 1,
@@ -101,11 +139,11 @@
           "channel": "thepaper",
           "rank": 6,
           "hot": 0,
-          "url": "https://www.thepaper.cn/newsDetail_forward_34148977"
+          "url": "https://www.thepaper.cn/newsDetail_forward_34204197"
         }
       ],
       "summary": "",
-      "url": "https://www.thepaper.cn/newsDetail_forward_34148977"
+      "url": "https://www.thepaper.cn/newsDetail_forward_34204197"
     },
     {
       "id": "evt-10000000",
@@ -114,7 +152,7 @@
       "hotScore": 0.6,
       "freshness": 0.9999,
       "crossSource": 0.6309,
-      "totalScore": 0.7292,
+      "totalScore": 0.7293,
       "sources": [
         {
           "channel": "baidu",
@@ -127,13 +165,32 @@
       "url": "https://m.baidu.com/s?word=100%E5%85%83%E4%B8%8D%E5%A4%9F%E4%B9%B0%E4%B8%89%E6%96%A4%E9%B2%9C%E7%89%9B%E8%82%89&sa=fyb_news"
     },
     {
+      "id": "evt-oppo1200",
+      "title": "OPPO 为何要寻求 12 亿美元银团贷款？",
+      "category": "society",
+      "hotScore": 0.6,
+      "freshness": 1,
+      "crossSource": 0.6309,
+      "totalScore": 0.7293,
+      "sources": [
+        {
+          "channel": "zhihu",
+          "rank": 5,
+          "hot": 0,
+          "url": ""
+        }
+      ],
+      "summary": "",
+      "url": ""
+    },
+    {
       "id": "evt-20a00000",
       "title": "保时捷卡宴降20万 奥迪A8降30万",
       "category": "society",
       "hotScore": 0.56,
       "freshness": 0.9999,
       "crossSource": 0.6309,
-      "totalScore": 0.7132,
+      "totalScore": 0.7133,
       "sources": [
         {
           "channel": "baidu",
@@ -146,32 +203,13 @@
       "url": "https://m.baidu.com/s?word=%E4%BF%9D%E6%97%B6%E6%8D%B7%E5%8D%A1%E5%AE%B4%E9%99%8D20%E4%B8%87+%E5%A5%A5%E8%BF%AAA8%E9%99%8D30%E4%B8%87&sa=fyb_news"
     },
     {
-      "id": "evt-70000000",
-      "title": "重庆酉阳盗矿案致7死：疑盗采废弃汞矿，事发当日当地乡镇有大暴雨",
-      "category": "society",
-      "hotScore": 0.5525,
-      "freshness": 1,
-      "crossSource": 0.6309,
-      "totalScore": 0.7103,
-      "sources": [
-        {
-          "channel": "thepaper",
-          "rank": 8,
-          "hot": 0,
-          "url": "https://www.thepaper.cn/newsDetail_forward_34204510"
-        }
-      ],
-      "summary": "",
-      "url": "https://www.thepaper.cn/newsDetail_forward_34204510"
-    },
-    {
-      "id": "evt-oppo1200",
-      "title": "OPPO 为何要寻求 12 亿美元银团贷款？",
+      "id": "evt-hiv00000",
+      "title": "普宁教师岗考生称因 HIV 体检不合格被教育局劝签自愿放弃聘用，这合理吗？日常教学接触会传染到学生吗？",
       "category": "society",
       "hotScore": 0.525,
-      "freshness": 0.9999,
+      "freshness": 1,
       "crossSource": 0.6309,
-      "totalScore": 0.6992,
+      "totalScore": 0.6993,
       "sources": [
         {
           "channel": "zhihu",
@@ -184,42 +222,42 @@
       "url": ""
     },
     {
-      "id": "evt-adobephotosh",
-      "title": "Adobe Photoshop 是否已经过时？",
+      "id": "evt-70000000",
+      "title": "重庆酉阳盗矿案致7死：疑盗采废弃汞矿，事发当日当地乡镇有大暴雨",
       "category": "society",
-      "hotScore": 0.4875,
-      "freshness": 0.9999,
+      "hotScore": 0.51,
+      "freshness": 1,
       "crossSource": 0.6309,
-      "totalScore": 0.6842,
+      "totalScore": 0.6933,
       "sources": [
         {
-          "channel": "zhihu",
-          "rank": 8,
-          "hot": 0,
-          "url": ""
-        }
-      ],
-      "summary": "",
-      "url": ""
-    },
-    {
-      "id": "evt-31000000",
-      "title": "国足友谊赛 3 连败，1 球未进丢掉 9 球，邵佳一该下课吗？",
-      "category": "society",
-      "hotScore": 0.45,
-      "freshness": 0.9999,
-      "crossSource": 0.6309,
-      "totalScore": 0.6692,
-      "sources": [
-        {
-          "channel": "zhihu",
+          "channel": "thepaper",
           "rank": 9,
           "hot": 0,
-          "url": ""
+          "url": "https://www.thepaper.cn/newsDetail_forward_34204510"
         }
       ],
       "summary": "",
-      "url": ""
+      "url": "https://www.thepaper.cn/newsDetail_forward_34204510"
+    },
+    {
+      "id": "evt-10700000",
+      "title": "交通运输部：预计10月7日全国高速公路有37个路段易发拥堵、58个服务区充电特别繁忙",
+      "category": "society",
+      "hotScore": 0.425,
+      "freshness": 1,
+      "crossSource": 0.6309,
+      "totalScore": 0.6593,
+      "sources": [
+        {
+          "channel": "thepaper",
+          "rank": 11,
+          "hot": 0,
+          "url": "https://www.thepaper.cn/newsDetail_forward_34205616"
+        }
+      ],
+      "summary": "",
+      "url": "https://www.thepaper.cn/newsDetail_forward_34205616"
     }
   ]
 }
