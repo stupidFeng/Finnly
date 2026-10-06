@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-10-06T03:47:57.133Z",
+  "generatedAt": "2026-10-06T10:53:36.806Z",
   "fields": {
     "society": "社会",
     "economy": "经济",
@@ -8,79 +8,136 @@
   "feed": [
     {
       "id": "evt-00000000",
-      "title": "缅北电诈主犯随机杀人祭天",
-      "category": "society",
-      "hotScore": 0.76,
-      "freshness": 0.9999,
-      "crossSource": 1,
-      "totalScore": 0.904,
-      "sources": [
-        {
-          "channel": "toutiao",
-          "rank": 8,
-          "hot": 19343222,
-          "url": "https://www.toutiao.com/trending/7693382787528871433/"
-        },
-        {
-          "channel": "baidu",
-          "rank": 2,
-          "hot": 0,
-          "url": "https://m.baidu.com/s?word=%E7%BC%85%E5%8C%97%E7%94%B5%E8%AF%88%E4%B8%BB%E7%8A%AF%E9%9A%8F%E6%9C%BA%E6%9D%80%E4%BA%BA%E7%A5%AD%E5%A4%A9&sa=fyb_news"
-        }
-      ],
-      "summary": "",
-      "url": "https://www.toutiao.com/trending/7693382787528871433/"
-    },
-    {
-      "id": "evt-10000000",
-      "title": "有10万民警赴中缅边境打击涉我犯罪",
+      "title": "中国民警：要让缅北电诈血债血还",
       "category": "society",
       "hotScore": 0.85,
       "freshness": 0.9999,
+      "crossSource": 1,
+      "totalScore": 0.94,
+      "sources": [
+        {
+          "channel": "toutiao",
+          "rank": 1,
+          "hot": 34655745,
+          "url": "https://www.toutiao.com/trending/7692711071282515499/"
+        },
+        {
+          "channel": "baidu",
+          "rank": 14,
+          "hot": 0,
+          "url": "https://m.baidu.com/s?word=%E4%B8%AD%E5%9B%BD%E6%B0%91%E8%AD%A6%EF%BC%9A%E8%A6%81%E8%AE%A9%E7%BC%85%E5%8C%97%E7%94%B5%E8%AF%88%E8%A1%80%E5%80%BA%E8%A1%80%E8%BF%98&sa=fyb_news"
+        }
+      ],
+      "summary": "",
+      "url": "https://www.toutiao.com/trending/7692711071282515499/"
+    },
+    {
+      "id": "evt-10000000",
+      "title": "缅北电诈覆灭纪实第一集：10·20枪击案成“四大家族”穷途末路的开始",
+      "category": "society",
+      "hotScore": 0.85,
+      "freshness": 1,
       "crossSource": 0.6309,
       "totalScore": 0.8293,
       "sources": [
         {
-          "channel": "toutiao",
+          "channel": "thepaper",
           "rank": 1,
-          "hot": 38952467,
-          "url": "https://www.toutiao.com/trending/7693322726240734766/"
+          "hot": 0,
+          "url": "https://www.thepaper.cn/newsDetail_forward_34202174"
         }
       ],
       "summary": "",
-      "url": "https://www.toutiao.com/trending/7693322726240734766/"
+      "url": "https://www.thepaper.cn/newsDetail_forward_34202174"
     },
     {
-      "id": "evt-30000000",
-      "title": "中方工作组曾 3 次约见果敢「四大家族」代表但收效甚微，背后的深层原因是什么？",
+      "id": "evt-20a00000",
+      "title": "保时捷卡宴降20万 奥迪A8降30万",
       "category": "society",
-      "hotScore": 0.75,
+      "hotScore": 0.72,
       "freshness": 1,
       "crossSource": 0.6309,
-      "totalScore": 0.7893,
+      "totalScore": 0.7773,
+      "sources": [
+        {
+          "channel": "baidu",
+          "rank": 3,
+          "hot": 0,
+          "url": "https://m.baidu.com/s?word=%E4%BF%9D%E6%97%B6%E6%8D%B7%E5%8D%A1%E5%AE%B4%E9%99%8D20%E4%B8%87+%E5%A5%A5%E8%BF%AAA8%E9%99%8D30%E4%B8%87&sa=fyb_news"
+        }
+      ],
+      "summary": "",
+      "url": "https://m.baidu.com/s?word=%E4%BF%9D%E6%97%B6%E6%8D%B7%E5%8D%A1%E5%AE%B4%E9%99%8D20%E4%B8%87+%E5%A5%A5%E8%BF%AAA8%E9%99%8D30%E4%B8%87&sa=fyb_news"
+    },
+    {
+      "id": "evt-teszui00",
+      "title": "如何看待 TES 上单 zuian 签证两次被拒，369 紧急成为 TES S16 首发上单？",
+      "category": "society",
+      "hotScore": 0.7125,
+      "freshness": 0.9999,
+      "crossSource": 0.6309,
+      "totalScore": 0.7743,
       "sources": [
         {
           "channel": "zhihu",
-          "rank": 1,
+          "rank": 2,
           "hot": 0,
           "url": ""
         }
       ],
       "summary": "",
       "url": ""
+    },
+    {
+      "id": "evt-90000000",
+      "title": "国庆假期返程9个小贴士请收好",
+      "category": "society",
+      "hotScore": 0.68,
+      "freshness": 1,
+      "crossSource": 0.6309,
+      "totalScore": 0.7613,
+      "sources": [
+        {
+          "channel": "baidu",
+          "rank": 4,
+          "hot": 0,
+          "url": "https://m.baidu.com/s?word=%E5%9B%BD%E5%BA%86%E5%81%87%E6%9C%9F%E8%BF%94%E7%A8%8B9%E4%B8%AA%E5%B0%8F%E8%B4%B4%E5%A3%AB%E8%AF%B7%E6%94%B6%E5%A5%BD&sa=fyb_news"
+        }
+      ],
+      "summary": "",
+      "url": "https://m.baidu.com/s?word=%E5%9B%BD%E5%BA%86%E5%81%87%E6%9C%9F%E8%BF%94%E7%A8%8B9%E4%B8%AA%E5%B0%8F%E8%B4%B4%E5%A3%AB%E8%AF%B7%E6%94%B6%E5%A5%BD&sa=fyb_news"
+    },
+    {
+      "id": "evt-50300000",
+      "title": "匿名人大校友豪捐5.03亿 段永平回应",
+      "category": "society",
+      "hotScore": 0.68,
+      "freshness": 0.9999,
+      "crossSource": 0.6309,
+      "totalScore": 0.7613,
+      "sources": [
+        {
+          "channel": "toutiao",
+          "rank": 5,
+          "hot": 23230440,
+          "url": "https://www.toutiao.com/trending/7692780243773521963/"
+        }
+      ],
+      "summary": "",
+      "url": "https://www.toutiao.com/trending/7692780243773521963/"
     },
     {
       "id": "evt-70000000",
       "title": "媒体曝腾讯 70 亿美元租用甲骨文海外算力，此举出于哪些考量？会带来哪些影响？",
       "category": "society",
-      "hotScore": 0.675,
-      "freshness": 1,
+      "hotScore": 0.6,
+      "freshness": 0.9999,
       "crossSource": 0.6309,
-      "totalScore": 0.7593,
+      "totalScore": 0.7293,
       "sources": [
         {
           "channel": "zhihu",
-          "rank": 3,
+          "rank": 5,
           "hot": 0,
           "url": ""
         }
@@ -89,30 +146,11 @@
       "url": ""
     },
     {
-      "id": "evt-369t0000",
-      "title": "如何评价 369（白家浩，前 TES/JDG 上单）直播玩无畏契约被喷？",
-      "category": "society",
-      "hotScore": 0.6375,
-      "freshness": 1,
-      "crossSource": 0.6309,
-      "totalScore": 0.7443,
-      "sources": [
-        {
-          "channel": "zhihu",
-          "rank": 4,
-          "hot": 0,
-          "url": ""
-        }
-      ],
-      "summary": "",
-      "url": ""
-    },
-    {
-      "id": "evt-hkxg0000",
-      "title": "香港为什么叫 HK，不叫 XG？",
+      "id": "evt-20260000",
+      "title": "2026 诺贝尔物理学奖由哈尔岑独享，表彰其发现宇宙高能中微子，如何理解这项「幽灵粒子」研究？",
       "category": "society",
       "hotScore": 0.5625,
-      "freshness": 1,
+      "freshness": 0.9999,
       "crossSource": 0.6309,
       "totalScore": 0.7143,
       "sources": [
@@ -127,30 +165,30 @@
       "url": ""
     },
     {
-      "id": "evt-35000000",
-      "title": "35小时工作制火遍全网",
+      "id": "evt-65000000",
+      "title": "乌军一夜650架无人机袭莫斯科地区",
       "category": "society",
-      "hotScore": 0.56,
-      "freshness": 1,
+      "hotScore": 0.5525,
+      "freshness": 0.9999,
       "crossSource": 0.6309,
-      "totalScore": 0.7133,
+      "totalScore": 0.7103,
       "sources": [
         {
-          "channel": "baidu",
-          "rank": 7,
-          "hot": 0,
-          "url": "https://m.baidu.com/s?word=35%E5%B0%8F%E6%97%B6%E5%B7%A5%E4%BD%9C%E5%88%B6%E7%81%AB%E9%81%8D%E5%85%A8%E7%BD%91&sa=fyb_news"
+          "channel": "toutiao",
+          "rank": 8,
+          "hot": 17209533,
+          "url": "https://www.toutiao.com/trending/7692706767385444394/"
         }
       ],
       "summary": "",
-      "url": "https://m.baidu.com/s?word=35%E5%B0%8F%E6%97%B6%E5%B7%A5%E4%BD%9C%E5%88%B6%E7%81%AB%E9%81%8D%E5%85%A8%E7%BD%91&sa=fyb_news"
+      "url": "https://www.toutiao.com/trending/7692706767385444394/"
     },
     {
       "id": "evt-hiv00000",
       "title": "普宁教师岗考生称因 HIV 体检不合格被教育局劝签自愿放弃聘用，这合理吗？日常教学接触会传染到学生吗？",
       "category": "society",
       "hotScore": 0.525,
-      "freshness": 1,
+      "freshness": 0.9999,
       "crossSource": 0.6309,
       "totalScore": 0.6993,
       "sources": [
@@ -165,8 +203,8 @@
       "url": ""
     },
     {
-      "id": "evt-15000000",
-      "title": "15元两荤两素，湖北赤壁政府机关食堂国庆对外“迎客”，还免费开放停车场",
+      "id": "evt-80000000",
+      "title": "时间经过他的手：80岁钟表师傅和一间歇业小店",
       "category": "society",
       "hotScore": 0.51,
       "freshness": 1,
@@ -177,18 +215,18 @@
           "channel": "thepaper",
           "rank": 9,
           "hot": 0,
-          "url": "https://www.thepaper.cn/newsDetail_forward_34201181"
+          "url": "https://www.thepaper.cn/newsDetail_forward_34148977"
         }
       ],
       "summary": "",
-      "url": "https://www.thepaper.cn/newsDetail_forward_34201181"
+      "url": "https://www.thepaper.cn/newsDetail_forward_34148977"
     },
     {
-      "id": "evt-50000000",
-      "title": "如何评价 5 万人口的祁连县国庆迎 10 万游客，酒店民宿全满房，文旅局免费安置游客到学生宿舍？",
+      "id": "evt-adobephotosh",
+      "title": "Adobe Photoshop 是否已经过时？",
       "category": "society",
       "hotScore": 0.4875,
-      "freshness": 1,
+      "freshness": 0.9999,
       "crossSource": 0.6309,
       "totalScore": 0.6843,
       "sources": [
@@ -206,14 +244,14 @@
       "id": "evt-ipo00000",
       "title": "港股前三季度IPO募资额达3855亿港元，“A+H”股占近七成",
       "category": "society",
-      "hotScore": 0.425,
+      "hotScore": 0.4675,
       "freshness": 1,
       "crossSource": 0.6309,
-      "totalScore": 0.6593,
+      "totalScore": 0.6763,
       "sources": [
         {
           "channel": "thepaper",
-          "rank": 11,
+          "rank": 10,
           "hot": 0,
           "url": "https://www.thepaper.cn/newsDetail_forward_34196697"
         }
