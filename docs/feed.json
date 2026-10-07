@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-10-07T01:15:07.568Z",
+  "generatedAt": "2026-10-07T07:53:52.662Z",
   "fields": {
     "society": "社会",
     "economy": "经济",
@@ -8,60 +8,66 @@
   "feed": [
     {
       "id": "evt-00000000",
-      "title": "提前返程游客称高速堵成停车场",
+      "title": "吴奇隆 不赚钱也是这个立场",
+      "category": "society",
+      "hotScore": 0.8075,
+      "freshness": 1,
+      "crossSource": 1,
+      "totalScore": 0.923,
+      "sources": [
+        {
+          "channel": "toutiao",
+          "rank": 2,
+          "hot": 28213950,
+          "url": "https://www.toutiao.com/trending/7693348769022459946/"
+        },
+        {
+          "channel": "baidu",
+          "rank": 11,
+          "hot": 0,
+          "url": "https://m.baidu.com/s?word=%E5%90%B4%E5%A5%87%E9%9A%86+%E4%B8%8D%E8%B5%9A%E9%92%B1%E4%B9%9F%E6%98%AF%E8%BF%99%E4%B8%AA%E7%AB%8B%E5%9C%BA&sa=fyb_news"
+        }
+      ],
+      "summary": "",
+      "url": "https://www.toutiao.com/trending/7693348769022459946/"
+    },
+    {
+      "id": "evt-29000000",
+      "title": "缅北白家涉诈超290亿",
       "category": "society",
       "hotScore": 0.85,
       "freshness": 1,
-      "crossSource": 1,
-      "totalScore": 0.94,
+      "crossSource": 0.6309,
+      "totalScore": 0.8293,
       "sources": [
         {
           "channel": "toutiao",
           "rank": 1,
-          "hot": 35066693,
-          "url": "https://www.toutiao.com/trending/7693491953228693547/"
+          "hot": 31181237,
+          "url": "https://www.toutiao.com/trending/7692694262311489067/"
         }
       ],
       "summary": "",
-      "url": "https://www.toutiao.com/trending/7693491953228693547/"
+      "url": "https://www.toutiao.com/trending/7692694262311489067/"
     },
     {
-      "id": "evt-01000000",
-      "title": "韦世豪红牌！十人国足0比1不敌塔吉克斯坦，热身赛遭三连败",
+      "id": "evt-11300000",
+      "title": "时隔11年再夺中网冠军！39岁德约留下中网34连胜传奇",
       "category": "society",
-      "hotScore": 0.7225,
+      "hotScore": 0.765,
       "freshness": 1,
-      "crossSource": 1,
-      "totalScore": 0.889,
+      "crossSource": 0.6309,
+      "totalScore": 0.7953,
       "sources": [
         {
           "channel": "thepaper",
-          "rank": 4,
-          "hot": 0,
-          "url": "https://www.thepaper.cn/newsDetail_forward_34204197"
-        }
-      ],
-      "summary": "",
-      "url": "https://www.thepaper.cn/newsDetail_forward_34204197"
-    },
-    {
-      "id": "evt-25991400",
-      "title": "2599元一桌的婚宴14道主菜上错7道",
-      "category": "society",
-      "hotScore": 0.72,
-      "freshness": 1,
-      "crossSource": 1,
-      "totalScore": 0.888,
-      "sources": [
-        {
-          "channel": "baidu",
           "rank": 3,
           "hot": 0,
-          "url": "https://m.baidu.com/s?word=2599%E5%85%83%E4%B8%80%E6%A1%8C%E7%9A%84%E5%A9%9A%E5%AE%B414%E9%81%93%E4%B8%BB%E8%8F%9C%E4%B8%8A%E9%94%997%E9%81%93&sa=fyb_news"
+          "url": "https://www.thepaper.cn/newsDetail_forward_34204198"
         }
       ],
       "summary": "",
-      "url": "https://m.baidu.com/s?word=2599%E5%85%83%E4%B8%80%E6%A1%8C%E7%9A%84%E5%A9%9A%E5%AE%B414%E9%81%93%E4%B8%BB%E8%8F%9C%E4%B8%8A%E9%94%997%E9%81%93&sa=fyb_news"
+      "url": "https://www.thepaper.cn/newsDetail_forward_34204198"
     },
     {
       "id": "evt-c0000000",
@@ -69,8 +75,8 @@
       "category": "society",
       "hotScore": 0.7125,
       "freshness": 1,
-      "crossSource": 1,
-      "totalScore": 0.885,
+      "crossSource": 0.6309,
+      "totalScore": 0.7743,
       "sources": [
         {
           "channel": "zhihu",
@@ -83,23 +89,124 @@
       "url": ""
     },
     {
-      "id": "evt-10000000",
-      "title": "白应苍临刑前称随口1个资金盘就20亿",
-      "category": "society",
-      "hotScore": 0.68,
+      "id": "evt-43000000",
+      "title": "王星4天被卖3次",
+      "category": "entertainment",
+      "hotScore": 0.56,
       "freshness": 1,
       "crossSource": 1,
-      "totalScore": 0.872,
+      "totalScore": 0.824,
       "sources": [
         {
           "channel": "toutiao",
-          "rank": 5,
-          "hot": 23505907,
-          "url": "https://www.toutiao.com/trending/7692694262311357995/"
+          "rank": 10,
+          "hot": 12677345,
+          "url": "https://www.toutiao.com/trending/7693817772622745138/"
+        },
+        {
+          "channel": "baidu",
+          "rank": 7,
+          "hot": 0,
+          "url": "https://m.baidu.com/s?word=%E7%8E%8B%E6%98%9F4%E5%A4%A9%E8%A2%AB%E5%8D%963%E6%AC%A1&sa=fyb_news"
         }
       ],
       "summary": "",
-      "url": "https://www.toutiao.com/trending/7692694262311357995/"
+      "url": "https://www.toutiao.com/trending/7693817772622745138/"
+    },
+    {
+      "id": "evt-20266000",
+      "title": "2026 国庆档票房 6 天破 10 亿，为什么今年的增速变慢了？最终大约会到多少？",
+      "category": "entertainment",
+      "hotScore": 0.6375,
+      "freshness": 1,
+      "crossSource": 0.6309,
+      "totalScore": 0.7443,
+      "sources": [
+        {
+          "channel": "zhihu",
+          "rank": 4,
+          "hot": 0,
+          "url": ""
+        }
+      ],
+      "summary": "",
+      "url": ""
+    },
+    {
+      "id": "evt-01000000",
+      "title": "韦世豪红牌！十人国足0比1不敌塔吉克斯坦，热身赛遭三连败",
+      "category": "society",
+      "hotScore": 0.68,
+      "freshness": 1,
+      "crossSource": 0.6309,
+      "totalScore": 0.7613,
+      "sources": [
+        {
+          "channel": "thepaper",
+          "rank": 5,
+          "hot": 0,
+          "url": "https://www.thepaper.cn/newsDetail_forward_34204197"
+        }
+      ],
+      "summary": "",
+      "url": "https://www.thepaper.cn/newsDetail_forward_34204197"
+    },
+    {
+      "id": "evt-j2888t00",
+      "title": "粤J2888T车主到郑州了",
+      "category": "society",
+      "hotScore": 0.6375,
+      "freshness": 1,
+      "crossSource": 0.6309,
+      "totalScore": 0.7443,
+      "sources": [
+        {
+          "channel": "toutiao",
+          "rank": 6,
+          "hot": 18912376,
+          "url": "https://www.toutiao.com/trending/7693331118632468489/"
+        }
+      ],
+      "summary": "",
+      "url": "https://www.toutiao.com/trending/7693331118632468489/"
+    },
+    {
+      "id": "evt-30000000",
+      "title": "“凌晨3点半的高速路上全是车”",
+      "category": "society",
+      "hotScore": 0.6,
+      "freshness": 1,
+      "crossSource": 0.6309,
+      "totalScore": 0.7293,
+      "sources": [
+        {
+          "channel": "baidu",
+          "rank": 6,
+          "hot": 0,
+          "url": "https://m.baidu.com/s?word=%E2%80%9C%E5%87%8C%E6%99%A83%E7%82%B9%E5%8D%8A%E7%9A%84%E9%AB%98%E9%80%9F%E8%B7%AF%E4%B8%8A%E5%85%A8%E6%98%AF%E8%BD%A6%E2%80%9D&sa=fyb_news"
+        }
+      ],
+      "summary": "",
+      "url": "https://m.baidu.com/s?word=%E2%80%9C%E5%87%8C%E6%99%A83%E7%82%B9%E5%8D%8A%E7%9A%84%E9%AB%98%E9%80%9F%E8%B7%AF%E4%B8%8A%E5%85%A8%E6%98%AF%E8%BD%A6%E2%80%9D&sa=fyb_news"
+    },
+    {
+      "id": "evt-20000000",
+      "title": "缅北电诈窝点距我口岸仅200米",
+      "category": "society",
+      "hotScore": 0.595,
+      "freshness": 1,
+      "crossSource": 0.6309,
+      "totalScore": 0.7273,
+      "sources": [
+        {
+          "channel": "toutiao",
+          "rank": 7,
+          "hot": 17112625,
+          "url": "https://www.toutiao.com/trending/7693753359924481563/"
+        }
+      ],
+      "summary": "",
+      "url": "https://www.toutiao.com/trending/7693753359924481563/"
     },
     {
       "id": "evt-20260000",
@@ -107,8 +214,8 @@
       "category": "society",
       "hotScore": 0.5525,
       "freshness": 1,
-      "crossSource": 1,
-      "totalScore": 0.821,
+      "crossSource": 0.6309,
+      "totalScore": 0.7103,
       "sources": [
         {
           "channel": "thepaper",
@@ -121,61 +228,23 @@
       "url": "https://www.thepaper.cn/newsDetail_forward_34205378"
     },
     {
-      "id": "evt-16510000",
-      "title": "“16条人命只剩5具尸体1份骨灰”",
+      "id": "evt-10700000",
+      "title": "交通运输部：预计10月7日全国高速公路有37个路段易发拥堵、58个服务区充电特别繁忙",
       "category": "society",
-      "hotScore": 0.52,
+      "hotScore": 0.4675,
       "freshness": 1,
-      "crossSource": 1,
-      "totalScore": 0.808,
-      "sources": [
-        {
-          "channel": "baidu",
-          "rank": 8,
-          "hot": 0,
-          "url": "https://m.baidu.com/s?word=%E2%80%9C16%E6%9D%A1%E4%BA%BA%E5%91%BD%E5%8F%AA%E5%89%A95%E5%85%B7%E5%B0%B8%E4%BD%931%E4%BB%BD%E9%AA%A8%E7%81%B0%E2%80%9D&sa=fyb_news"
-        }
-      ],
-      "summary": "",
-      "url": "https://m.baidu.com/s?word=%E2%80%9C16%E6%9D%A1%E4%BA%BA%E5%91%BD%E5%8F%AA%E5%89%A95%E5%85%B7%E5%B0%B8%E4%BD%931%E4%BB%BD%E9%AA%A8%E7%81%B0%E2%80%9D&sa=fyb_news"
-    },
-    {
-      "id": "evt-70000000",
-      "title": "重庆酉阳盗矿案致7死：疑盗采废弃汞矿，事发当日当地乡镇有大暴雨",
-      "category": "society",
-      "hotScore": 0.51,
-      "freshness": 1,
-      "crossSource": 1,
-      "totalScore": 0.804,
+      "crossSource": 0.6309,
+      "totalScore": 0.6763,
       "sources": [
         {
           "channel": "thepaper",
-          "rank": 9,
+          "rank": 10,
           "hot": 0,
-          "url": "https://www.thepaper.cn/newsDetail_forward_34204510"
+          "url": "https://www.thepaper.cn/newsDetail_forward_34205616"
         }
       ],
       "summary": "",
-      "url": "https://www.thepaper.cn/newsDetail_forward_34204510"
-    },
-    {
-      "id": "evt-80000000",
-      "title": "泰山景区辟谣“躲雨80元一小时”",
-      "category": "society",
-      "hotScore": 0.425,
-      "freshness": 1,
-      "crossSource": 1,
-      "totalScore": 0.77,
-      "sources": [
-        {
-          "channel": "toutiao",
-          "rank": 11,
-          "hot": 12900315,
-          "url": "https://www.toutiao.com/trending/7693345399566434358/"
-        }
-      ],
-      "summary": "",
-      "url": "https://www.toutiao.com/trending/7693345399566434358/"
+      "url": "https://www.thepaper.cn/newsDetail_forward_34205616"
     }
   ]
 }
