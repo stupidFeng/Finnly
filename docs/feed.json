@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-10-07T14:53:35.576Z",
+  "generatedAt": "2026-10-07T20:53:39.969Z",
   "fields": {
     "society": "社会",
     "economy": "经济",
@@ -7,62 +7,37 @@
   },
   "feed": [
     {
-      "id": "evt-31520000",
-      "title": "上3休1再上5休2",
-      "category": "society",
-      "hotScore": 0.85,
-      "freshness": 1,
-      "crossSource": 1,
-      "totalScore": 0.94,
-      "sources": [
-        {
-          "channel": "toutiao",
-          "rank": 1,
-          "hot": 21326484,
-          "url": "https://www.toutiao.com/trending/7693000935630553151/"
-        },
-        {
-          "channel": "baidu",
-          "rank": 3,
-          "hot": 0,
-          "url": "https://m.baidu.com/s?word=%E4%B8%8A3%E4%BC%911%E5%86%8D%E4%B8%8A5%E4%BC%912&sa=fyb_news"
-        }
-      ],
-      "summary": "",
-      "url": "https://www.toutiao.com/trending/7693000935630553151/"
-    },
-    {
       "id": "evt-00000000",
-      "title": "马上评｜让游客住学生宿舍，情理法如何平衡",
+      "title": "中国警方：缅北电诈死灰复燃也不怕",
       "category": "society",
       "hotScore": 0.85,
-      "freshness": 1,
+      "freshness": 0.9999,
       "crossSource": 0.6309,
       "totalScore": 0.8293,
       "sources": [
         {
-          "channel": "thepaper",
+          "channel": "toutiao",
           "rank": 1,
-          "hot": 0,
-          "url": "https://www.thepaper.cn/newsDetail_forward_34207074"
+          "hot": 24587968,
+          "url": "https://www.toutiao.com/trending/7692945943666249259/"
         }
       ],
       "summary": "",
-      "url": "https://www.thepaper.cn/newsDetail_forward_34207074"
+      "url": "https://www.toutiao.com/trending/7692945943666249259/"
     },
     {
       "id": "evt-32000000",
       "title": "孙颖莎爆冷止步32强",
       "category": "society",
       "hotScore": 0.8075,
-      "freshness": 1,
+      "freshness": 0.9999,
       "crossSource": 0.6309,
       "totalScore": 0.8123,
       "sources": [
         {
           "channel": "toutiao",
           "rank": 2,
-          "hot": 19297000,
+          "hot": 22248113,
           "url": "https://www.toutiao.com/trending/7693751587668049971/"
         }
       ],
@@ -73,45 +48,20 @@
       "id": "evt-99000000",
       "title": "《欢迎来龙餐馆》将角逐第99届奥斯卡最佳国际影片",
       "category": "society",
-      "hotScore": 0.8075,
+      "hotScore": 0.765,
       "freshness": 1,
       "crossSource": 0.6309,
-      "totalScore": 0.8123,
+      "totalScore": 0.7953,
       "sources": [
         {
           "channel": "thepaper",
-          "rank": 2,
+          "rank": 3,
           "hot": 0,
           "url": "https://www.thepaper.cn/newsDetail_forward_34207584"
         }
       ],
       "summary": "",
       "url": "https://www.thepaper.cn/newsDetail_forward_34207584"
-    },
-    {
-      "id": "evt-43000000",
-      "title": "王星4天被卖3次",
-      "category": "entertainment",
-      "hotScore": 0.4675,
-      "freshness": 1,
-      "crossSource": 1,
-      "totalScore": 0.787,
-      "sources": [
-        {
-          "channel": "toutiao",
-          "rank": 10,
-          "hot": 8670701,
-          "url": "https://www.toutiao.com/trending/7693817772622745138/"
-        },
-        {
-          "channel": "baidu",
-          "rank": 14,
-          "hot": 0,
-          "url": "https://m.baidu.com/s?word=%E7%8E%8B%E6%98%9F4%E5%A4%A9%E8%A2%AB%E5%8D%963%E6%AC%A1&sa=fyb_news"
-        }
-      ],
-      "summary": "",
-      "url": "https://www.toutiao.com/trending/7693817772622745138/"
     },
     {
       "id": "evt-13000000",
@@ -133,17 +83,74 @@
       "url": "https://m.baidu.com/s?word=%E5%AD%99%E9%A2%96%E8%8E%8E%E7%88%86%E5%86%B71-3%E4%B8%8D%E6%95%8C%E6%B3%B0%E5%9B%BD%E9%80%89%E6%89%8B&sa=fyb_news"
     },
     {
+      "id": "evt-43000000",
+      "title": "演员王星4天被卖3次",
+      "category": "entertainment",
+      "hotScore": 0.7225,
+      "freshness": 0.9999,
+      "crossSource": 0.6309,
+      "totalScore": 0.7783,
+      "sources": [
+        {
+          "channel": "toutiao",
+          "rank": 4,
+          "hot": 18215214,
+          "url": "https://www.toutiao.com/trending/7693817772622745138/"
+        }
+      ],
+      "summary": "",
+      "url": "https://www.toutiao.com/trending/7693817772622745138/"
+    },
+    {
+      "id": "evt-14000000",
+      "title": "时隔14年进口片再夺国庆档票房日冠",
+      "category": "entertainment",
+      "hotScore": 0.6,
+      "freshness": 1,
+      "crossSource": 0.6309,
+      "totalScore": 0.7293,
+      "sources": [
+        {
+          "channel": "baidu",
+          "rank": 6,
+          "hot": 0,
+          "url": "https://m.baidu.com/s?word=%E6%97%B6%E9%9A%9414%E5%B9%B4%E8%BF%9B%E5%8F%A3%E7%89%87%E5%86%8D%E5%A4%BA%E5%9B%BD%E5%BA%86%E6%A1%A3%E7%A5%A8%E6%88%BF%E6%97%A5%E5%86%A0&sa=fyb_news"
+        }
+      ],
+      "summary": "",
+      "url": "https://m.baidu.com/s?word=%E6%97%B6%E9%9A%9414%E5%B9%B4%E8%BF%9B%E5%8F%A3%E7%89%87%E5%86%8D%E5%A4%BA%E5%9B%BD%E5%BA%86%E6%A1%A3%E7%A5%A8%E6%88%BF%E6%97%A5%E5%86%A0&sa=fyb_news"
+    },
+    {
+      "id": "evt-31520000",
+      "title": "上3休1再上5休2",
+      "category": "society",
+      "hotScore": 0.72,
+      "freshness": 1,
+      "crossSource": 0.6309,
+      "totalScore": 0.7773,
+      "sources": [
+        {
+          "channel": "baidu",
+          "rank": 3,
+          "hot": 0,
+          "url": "https://m.baidu.com/s?word=%E4%B8%8A3%E4%BC%911%E5%86%8D%E4%B8%8A5%E4%BC%912&sa=fyb_news"
+        }
+      ],
+      "summary": "",
+      "url": "https://m.baidu.com/s?word=%E4%B8%8A3%E4%BC%911%E5%86%8D%E4%B8%8A5%E4%BC%912&sa=fyb_news"
+    },
+    {
       "id": "evt-c0000000",
       "title": "C 罗发表长文说明退出国家队训练营原因，称国家队主帅两次违背承诺，如何评价 C 罗的自诉？",
       "category": "society",
-      "hotScore": 0.675,
-      "freshness": 1,
+      "hotScore": 0.7125,
+      "freshness": 0.9999,
       "crossSource": 0.6309,
-      "totalScore": 0.7593,
+      "totalScore": 0.7743,
       "sources": [
         {
           "channel": "zhihu",
-          "rank": 3,
+          "rank": 2,
           "hot": 0,
           "url": ""
         }
@@ -152,27 +159,8 @@
       "url": ""
     },
     {
-      "id": "evt-11010000",
-      "title": "世界第1被世界第101淘汰",
-      "category": "society",
-      "hotScore": 0.56,
-      "freshness": 1,
-      "crossSource": 0.6309,
-      "totalScore": 0.7133,
-      "sources": [
-        {
-          "channel": "baidu",
-          "rank": 7,
-          "hot": 0,
-          "url": "https://m.baidu.com/s?word=%E4%B8%96%E7%95%8C%E7%AC%AC1%E8%A2%AB%E4%B8%96%E7%95%8C%E7%AC%AC101%E6%B7%98%E6%B1%B0&sa=fyb_news"
-        }
-      ],
-      "summary": "",
-      "url": "https://m.baidu.com/s?word=%E4%B8%96%E7%95%8C%E7%AC%AC1%E8%A2%AB%E4%B8%96%E7%95%8C%E7%AC%AC101%E6%B7%98%E6%B1%B0&sa=fyb_news"
-    },
-    {
-      "id": "evt-20000000",
-      "title": "离加油站20米燃油耗尽 车主求助被拒",
+      "id": "evt-wtt10000",
+      "title": "WTT中国大满贯梁靖崑1比3郭冠宏",
       "category": "society",
       "hotScore": 0.48,
       "freshness": 1,
@@ -183,15 +171,15 @@
           "channel": "baidu",
           "rank": 9,
           "hot": 0,
-          "url": "https://m.baidu.com/s?word=%E7%A6%BB%E5%8A%A0%E6%B2%B9%E7%AB%9920%E7%B1%B3%E7%87%83%E6%B2%B9%E8%80%97%E5%B0%BD+%E8%BD%A6%E4%B8%BB%E6%B1%82%E5%8A%A9%E8%A2%AB%E6%8B%92&sa=fyb_news"
+          "url": "https://m.baidu.com/s?word=WTT%E4%B8%AD%E5%9B%BD%E5%A4%A7%E6%BB%A1%E8%B4%AF%E6%A2%81%E9%9D%96%E5%B4%911%E6%AF%943%E9%83%AD%E5%86%A0%E5%AE%8F&sa=fyb_news"
         }
       ],
       "summary": "",
-      "url": "https://m.baidu.com/s?word=%E7%A6%BB%E5%8A%A0%E6%B2%B9%E7%AB%9920%E7%B1%B3%E7%87%83%E6%B2%B9%E8%80%97%E5%B0%BD+%E8%BD%A6%E4%B8%BB%E6%B1%82%E5%8A%A9%E8%A2%AB%E6%8B%92&sa=fyb_news"
+      "url": "https://m.baidu.com/s?word=WTT%E4%B8%AD%E5%9B%BD%E5%A4%A7%E6%BB%A1%E8%B4%AF%E6%A2%81%E9%9D%96%E5%B4%911%E6%AF%943%E9%83%AD%E5%86%A0%E5%AE%8F&sa=fyb_news"
     },
     {
-      "id": "evt-ah000000",
-      "title": "又一家锂电企业距离“A+H”更进一步！全球电解液龙头通过港交所聆讯",
+      "id": "evt-17700000",
+      "title": "1.77亿港元成交，虞世南《积时帖》湮没81年后现身",
       "category": "society",
       "hotScore": 0.4675,
       "freshness": 1,
@@ -202,11 +190,11 @@
           "channel": "thepaper",
           "rank": 10,
           "hot": 0,
-          "url": "https://www.thepaper.cn/newsDetail_forward_34206104"
+          "url": "https://www.thepaper.cn/newsDetail_forward_34208947"
         }
       ],
       "summary": "",
-      "url": "https://www.thepaper.cn/newsDetail_forward_34206104"
+      "url": "https://www.thepaper.cn/newsDetail_forward_34208947"
     }
   ]
 }
