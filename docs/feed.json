@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-10-06T21:59:54.085Z",
+  "generatedAt": "2026-10-07T01:15:07.568Z",
   "fields": {
     "society": "社会",
     "economy": "经济",
@@ -8,79 +8,111 @@
   "feed": [
     {
       "id": "evt-00000000",
-      "title": "睡眠开始出现这种问题说明你可能老了",
+      "title": "提前返程游客称高速堵成停车场",
       "category": "society",
-      "hotScore": 0.6375,
-      "freshness": 0.9999,
+      "hotScore": 0.85,
+      "freshness": 1,
       "crossSource": 1,
-      "totalScore": 0.855,
+      "totalScore": 0.94,
       "sources": [
         {
           "channel": "toutiao",
-          "rank": 6,
-          "hot": 26090416,
-          "url": "https://www.toutiao.com/trending/7692624219037171748/"
-        },
-        {
-          "channel": "baidu",
-          "rank": 8,
-          "hot": 0,
-          "url": "https://m.baidu.com/s?word=%E7%9D%A1%E7%9C%A0%E5%BC%80%E5%A7%8B%E5%87%BA%E7%8E%B0%E8%BF%99%E7%A7%8D%E9%97%AE%E9%A2%98%E8%AF%B4%E6%98%8E%E4%BD%A0%E5%8F%AF%E8%83%BD%E8%80%81%E4%BA%86&sa=fyb_news"
+          "rank": 1,
+          "hot": 35066693,
+          "url": "https://www.toutiao.com/trending/7693491953228693547/"
         }
       ],
       "summary": "",
-      "url": "https://www.toutiao.com/trending/7692624219037171748/"
+      "url": "https://www.toutiao.com/trending/7693491953228693547/"
     },
     {
-      "id": "evt-20270000",
-      "title": "下次回来就是2027年了",
+      "id": "evt-01000000",
+      "title": "韦世豪红牌！十人国足0比1不敌塔吉克斯坦，热身赛遭三连败",
       "category": "society",
-      "hotScore": 0.76,
-      "freshness": 0.9999,
-      "crossSource": 0.6309,
-      "totalScore": 0.7933,
+      "hotScore": 0.7225,
+      "freshness": 1,
+      "crossSource": 1,
+      "totalScore": 0.889,
+      "sources": [
+        {
+          "channel": "thepaper",
+          "rank": 4,
+          "hot": 0,
+          "url": "https://www.thepaper.cn/newsDetail_forward_34204197"
+        }
+      ],
+      "summary": "",
+      "url": "https://www.thepaper.cn/newsDetail_forward_34204197"
+    },
+    {
+      "id": "evt-25991400",
+      "title": "2599元一桌的婚宴14道主菜上错7道",
+      "category": "society",
+      "hotScore": 0.72,
+      "freshness": 1,
+      "crossSource": 1,
+      "totalScore": 0.888,
       "sources": [
         {
           "channel": "baidu",
-          "rank": 2,
+          "rank": 3,
           "hot": 0,
-          "url": "https://m.baidu.com/s?word=%E4%B8%8B%E6%AC%A1%E5%9B%9E%E6%9D%A5%E5%B0%B1%E6%98%AF2027%E5%B9%B4%E4%BA%86&sa=fyb_news"
+          "url": "https://m.baidu.com/s?word=2599%E5%85%83%E4%B8%80%E6%A1%8C%E7%9A%84%E5%A9%9A%E5%AE%B414%E9%81%93%E4%B8%BB%E8%8F%9C%E4%B8%8A%E9%94%997%E9%81%93&sa=fyb_news"
         }
       ],
       "summary": "",
-      "url": "https://m.baidu.com/s?word=%E4%B8%8B%E6%AC%A1%E5%9B%9E%E6%9D%A5%E5%B0%B1%E6%98%AF2027%E5%B9%B4%E4%BA%86&sa=fyb_news"
+      "url": "https://m.baidu.com/s?word=2599%E5%85%83%E4%B8%80%E6%A1%8C%E7%9A%84%E5%A9%9A%E5%AE%B414%E9%81%93%E4%B8%BB%E8%8F%9C%E4%B8%8A%E9%94%997%E9%81%93&sa=fyb_news"
     },
     {
-      "id": "evt-80000000",
-      "title": "8岁男童确诊尿毒症 每天喝奶茶饮料",
+      "id": "evt-c0000000",
+      "title": "如何看待 C 罗就离队风波致歉并自请重罚？其或面临最高 6 个月禁赛，你认为他有可能顺利归队吗？",
+      "category": "society",
+      "hotScore": 0.7125,
+      "freshness": 1,
+      "crossSource": 1,
+      "totalScore": 0.885,
+      "sources": [
+        {
+          "channel": "zhihu",
+          "rank": 2,
+          "hot": 0,
+          "url": ""
+        }
+      ],
+      "summary": "",
+      "url": ""
+    },
+    {
+      "id": "evt-10000000",
+      "title": "白应苍临刑前称随口1个资金盘就20亿",
       "category": "society",
       "hotScore": 0.68,
       "freshness": 1,
-      "crossSource": 0.6309,
-      "totalScore": 0.7613,
+      "crossSource": 1,
+      "totalScore": 0.872,
       "sources": [
         {
           "channel": "toutiao",
           "rank": 5,
-          "hot": 28834369,
-          "url": "https://www.toutiao.com/trending/7693181022127325227/"
+          "hot": 23505907,
+          "url": "https://www.toutiao.com/trending/7692694262311357995/"
         }
       ],
       "summary": "",
-      "url": "https://www.toutiao.com/trending/7693181022127325227/"
+      "url": "https://www.toutiao.com/trending/7692694262311357995/"
     },
     {
       "id": "evt-20260000",
       "title": "弗朗西斯·哈尔岑获2026年诺贝尔物理学奖",
       "category": "society",
-      "hotScore": 0.68,
+      "hotScore": 0.5525,
       "freshness": 1,
-      "crossSource": 0.6309,
-      "totalScore": 0.7613,
+      "crossSource": 1,
+      "totalScore": 0.821,
       "sources": [
         {
           "channel": "thepaper",
-          "rank": 5,
+          "rank": 8,
           "hot": 0,
           "url": "https://www.thepaper.cn/newsDetail_forward_34205378"
         }
@@ -92,14 +124,14 @@
       "id": "evt-16510000",
       "title": "“16条人命只剩5具尸体1份骨灰”",
       "category": "society",
-      "hotScore": 0.64,
-      "freshness": 0.9999,
-      "crossSource": 0.6309,
-      "totalScore": 0.7453,
+      "hotScore": 0.52,
+      "freshness": 1,
+      "crossSource": 1,
+      "totalScore": 0.808,
       "sources": [
         {
           "channel": "baidu",
-          "rank": 5,
+          "rank": 8,
           "hot": 0,
           "url": "https://m.baidu.com/s?word=%E2%80%9C16%E6%9D%A1%E4%BA%BA%E5%91%BD%E5%8F%AA%E5%89%A95%E5%85%B7%E5%B0%B8%E4%BD%931%E4%BB%BD%E9%AA%A8%E7%81%B0%E2%80%9D&sa=fyb_news"
         }
@@ -108,127 +140,13 @@
       "url": "https://m.baidu.com/s?word=%E2%80%9C16%E6%9D%A1%E4%BA%BA%E5%91%BD%E5%8F%AA%E5%89%A95%E5%85%B7%E5%B0%B8%E4%BD%931%E4%BB%BD%E9%AA%A8%E7%81%B0%E2%80%9D&sa=fyb_news"
     },
     {
-      "id": "evt-macoswin",
-      "title": "为什么 macOS 比 Windows 好用且美观，但是国内 Windows 依旧是主流操作系统？",
-      "category": "society",
-      "hotScore": 0.6375,
-      "freshness": 1,
-      "crossSource": 0.6309,
-      "totalScore": 0.7443,
-      "sources": [
-        {
-          "channel": "zhihu",
-          "rank": 4,
-          "hot": 0,
-          "url": ""
-        }
-      ],
-      "summary": "",
-      "url": ""
-    },
-    {
-      "id": "evt-01000000",
-      "title": "韦世豪红牌！十人国足0比1不敌塔吉克斯坦，热身赛遭三连败",
-      "category": "society",
-      "hotScore": 0.6375,
-      "freshness": 1,
-      "crossSource": 0.6309,
-      "totalScore": 0.7443,
-      "sources": [
-        {
-          "channel": "thepaper",
-          "rank": 6,
-          "hot": 0,
-          "url": "https://www.thepaper.cn/newsDetail_forward_34204197"
-        }
-      ],
-      "summary": "",
-      "url": "https://www.thepaper.cn/newsDetail_forward_34204197"
-    },
-    {
-      "id": "evt-10000000",
-      "title": "100元不够买三斤鲜牛肉",
-      "category": "society",
-      "hotScore": 0.6,
-      "freshness": 0.9999,
-      "crossSource": 0.6309,
-      "totalScore": 0.7293,
-      "sources": [
-        {
-          "channel": "baidu",
-          "rank": 6,
-          "hot": 0,
-          "url": "https://m.baidu.com/s?word=100%E5%85%83%E4%B8%8D%E5%A4%9F%E4%B9%B0%E4%B8%89%E6%96%A4%E9%B2%9C%E7%89%9B%E8%82%89&sa=fyb_news"
-        }
-      ],
-      "summary": "",
-      "url": "https://m.baidu.com/s?word=100%E5%85%83%E4%B8%8D%E5%A4%9F%E4%B9%B0%E4%B8%89%E6%96%A4%E9%B2%9C%E7%89%9B%E8%82%89&sa=fyb_news"
-    },
-    {
-      "id": "evt-oppo1200",
-      "title": "OPPO 为何要寻求 12 亿美元银团贷款？",
-      "category": "society",
-      "hotScore": 0.6,
-      "freshness": 1,
-      "crossSource": 0.6309,
-      "totalScore": 0.7293,
-      "sources": [
-        {
-          "channel": "zhihu",
-          "rank": 5,
-          "hot": 0,
-          "url": ""
-        }
-      ],
-      "summary": "",
-      "url": ""
-    },
-    {
-      "id": "evt-20a00000",
-      "title": "保时捷卡宴降20万 奥迪A8降30万",
-      "category": "society",
-      "hotScore": 0.56,
-      "freshness": 0.9999,
-      "crossSource": 0.6309,
-      "totalScore": 0.7133,
-      "sources": [
-        {
-          "channel": "baidu",
-          "rank": 7,
-          "hot": 0,
-          "url": "https://m.baidu.com/s?word=%E4%BF%9D%E6%97%B6%E6%8D%B7%E5%8D%A1%E5%AE%B4%E9%99%8D20%E4%B8%87+%E5%A5%A5%E8%BF%AAA8%E9%99%8D30%E4%B8%87&sa=fyb_news"
-        }
-      ],
-      "summary": "",
-      "url": "https://m.baidu.com/s?word=%E4%BF%9D%E6%97%B6%E6%8D%B7%E5%8D%A1%E5%AE%B4%E9%99%8D20%E4%B8%87+%E5%A5%A5%E8%BF%AAA8%E9%99%8D30%E4%B8%87&sa=fyb_news"
-    },
-    {
-      "id": "evt-hiv00000",
-      "title": "普宁教师岗考生称因 HIV 体检不合格被教育局劝签自愿放弃聘用，这合理吗？日常教学接触会传染到学生吗？",
-      "category": "society",
-      "hotScore": 0.525,
-      "freshness": 1,
-      "crossSource": 0.6309,
-      "totalScore": 0.6993,
-      "sources": [
-        {
-          "channel": "zhihu",
-          "rank": 7,
-          "hot": 0,
-          "url": ""
-        }
-      ],
-      "summary": "",
-      "url": ""
-    },
-    {
       "id": "evt-70000000",
       "title": "重庆酉阳盗矿案致7死：疑盗采废弃汞矿，事发当日当地乡镇有大暴雨",
       "category": "society",
       "hotScore": 0.51,
       "freshness": 1,
-      "crossSource": 0.6309,
-      "totalScore": 0.6933,
+      "crossSource": 1,
+      "totalScore": 0.804,
       "sources": [
         {
           "channel": "thepaper",
@@ -241,23 +159,23 @@
       "url": "https://www.thepaper.cn/newsDetail_forward_34204510"
     },
     {
-      "id": "evt-10700000",
-      "title": "交通运输部：预计10月7日全国高速公路有37个路段易发拥堵、58个服务区充电特别繁忙",
+      "id": "evt-80000000",
+      "title": "泰山景区辟谣“躲雨80元一小时”",
       "category": "society",
       "hotScore": 0.425,
       "freshness": 1,
-      "crossSource": 0.6309,
-      "totalScore": 0.6593,
+      "crossSource": 1,
+      "totalScore": 0.77,
       "sources": [
         {
-          "channel": "thepaper",
+          "channel": "toutiao",
           "rank": 11,
-          "hot": 0,
-          "url": "https://www.thepaper.cn/newsDetail_forward_34205616"
+          "hot": 12900315,
+          "url": "https://www.toutiao.com/trending/7693345399566434358/"
         }
       ],
       "summary": "",
-      "url": "https://www.thepaper.cn/newsDetail_forward_34205616"
+      "url": "https://www.toutiao.com/trending/7693345399566434358/"
     }
   ]
 }
