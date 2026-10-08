@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-10-08T08:09:28.053Z",
+  "generatedAt": "2026-10-08T17:04:25.566Z",
   "fields": {
     "society": "社会",
     "economy": "经济",
@@ -7,168 +7,55 @@
   },
   "feed": [
     {
-      "id": "evt-60000000",
-      "title": "高速免费最后60秒工作人员比司机急",
-      "category": "society",
-      "hotScore": 0.64,
-      "freshness": 0.9999,
-      "crossSource": 1,
-      "totalScore": 0.856,
-      "sources": [
-        {
-          "channel": "toutiao",
-          "rank": 7,
-          "hot": 11925866,
-          "url": "https://www.toutiao.com/trending/7693457184654508073/"
-        },
-        {
-          "channel": "baidu",
-          "rank": 5,
-          "hot": 0,
-          "url": "https://m.baidu.com/s?word=%E9%AB%98%E9%80%9F%E5%85%8D%E8%B4%B9%E6%9C%80%E5%90%8E60%E7%A7%92%E5%B7%A5%E4%BD%9C%E4%BA%BA%E5%91%98%E6%AF%94%E5%8F%B8%E6%9C%BA%E6%80%A5&sa=fyb_news"
-        }
-      ],
-      "summary": "",
-      "url": "https://www.toutiao.com/trending/7693457184654508073/"
-    },
-    {
       "id": "evt-00000000",
-      "title": "李胜峰：世界已改变 台湾要回家了",
-      "category": "society",
-      "hotScore": 0.6,
-      "freshness": 0.9999,
-      "crossSource": 1,
-      "totalScore": 0.84,
-      "sources": [
-        {
-          "channel": "toutiao",
-          "rank": 13,
-          "hot": 6545054,
-          "url": "https://www.toutiao.com/trending/7693469053826924582/"
-        },
-        {
-          "channel": "baidu",
-          "rank": 6,
-          "hot": 0,
-          "url": "https://m.baidu.com/s?word=%E6%9D%8E%E8%83%9C%E5%B3%B0%EF%BC%9A%E4%B8%96%E7%95%8C%E5%B7%B2%E6%94%B9%E5%8F%98+%E5%8F%B0%E6%B9%BE%E8%A6%81%E5%9B%9E%E5%AE%B6%E4%BA%86&sa=fyb_news"
-        }
-      ],
-      "summary": "",
-      "url": "https://www.toutiao.com/trending/7693469053826924582/"
-    },
-    {
-      "id": "evt-31520000",
-      "title": "上3休1再上5休2",
+      "title": "如何看待欧洲反华决议高票通过",
       "category": "society",
       "hotScore": 0.85,
       "freshness": 0.9999,
       "crossSource": 0.6309,
-      "totalScore": 0.8292,
+      "totalScore": 0.8293,
       "sources": [
         {
           "channel": "toutiao",
           "rank": 1,
-          "hot": 21730345,
-          "url": "https://www.toutiao.com/trending/7693322083970928170/"
+          "hot": 30325321,
+          "url": "https://www.toutiao.com/trending/7694230216553532947/"
         }
       ],
       "summary": "",
-      "url": "https://www.toutiao.com/trending/7693322083970928170/"
+      "url": "https://www.toutiao.com/trending/7694230216553532947/"
     },
     {
-      "id": "evt-80000000",
-      "title": "中秋国庆假期收官：8天以上长线行程占比接近翻倍，小城景区霸榜",
+      "id": "evt-22000000",
+      "title": "“为了看短剧 我妈两年花22万”",
       "category": "society",
-      "hotScore": 0.765,
-      "freshness": 0.9999,
+      "hotScore": 0.76,
+      "freshness": 1,
       "crossSource": 0.6309,
-      "totalScore": 0.7953,
+      "totalScore": 0.7933,
       "sources": [
-        {
-          "channel": "thepaper",
-          "rank": 3,
-          "hot": 0,
-          "url": "https://www.thepaper.cn/newsDetail_forward_34209162"
-        }
-      ],
-      "summary": "",
-      "url": "https://www.thepaper.cn/newsDetail_forward_34209162"
-    },
-    {
-      "id": "evt-15000000",
-      "title": "安踏集团15亿欧元收购彪马29.06%股权交易完成，正式成为第一大股东",
-      "category": "society",
-      "hotScore": 0.7225,
-      "freshness": 0.9999,
-      "crossSource": 0.6309,
-      "totalScore": 0.7783,
-      "sources": [
-        {
-          "channel": "thepaper",
-          "rank": 4,
-          "hot": 0,
-          "url": "https://www.thepaper.cn/newsDetail_forward_34209242"
-        }
-      ],
-      "summary": "",
-      "url": "https://www.thepaper.cn/newsDetail_forward_34209242"
-    },
-    {
-      "id": "evt-30000000",
-      "title": "头孢停药3天能喝酒？谣言",
-      "category": "society",
-      "hotScore": 0.425,
-      "freshness": 0.9999,
-      "crossSource": 1,
-      "totalScore": 0.77,
-      "sources": [
-        {
-          "channel": "toutiao",
-          "rank": 11,
-          "hot": 7994147,
-          "url": "https://www.toutiao.com/trending/7694137570145439283/"
-        },
         {
           "channel": "baidu",
-          "rank": 12,
+          "rank": 2,
           "hot": 0,
-          "url": "https://m.baidu.com/s?word=%E5%A4%B4%E5%AD%A2%E5%81%9C%E8%8D%AF3%E5%A4%A9%E8%83%BD%E5%96%9D%E9%85%92%EF%BC%9F%E8%B0%A3%E8%A8%80&sa=fyb_news"
+          "url": "https://m.baidu.com/s?word=%E2%80%9C%E4%B8%BA%E4%BA%86%E7%9C%8B%E7%9F%AD%E5%89%A7+%E6%88%91%E5%A6%88%E4%B8%A4%E5%B9%B4%E8%8A%B122%E4%B8%87%E2%80%9D&sa=fyb_news"
         }
       ],
       "summary": "",
-      "url": "https://www.toutiao.com/trending/7694137570145439283/"
+      "url": "https://m.baidu.com/s?word=%E2%80%9C%E4%B8%BA%E4%BA%86%E7%9C%8B%E7%9F%AD%E5%89%A7+%E6%88%91%E5%A6%88%E4%B8%A4%E5%B9%B4%E8%8A%B122%E4%B8%87%E2%80%9D&sa=fyb_news"
     },
     {
-      "id": "evt-app00000",
-      "title": "为啥每个 App 都想追着借钱给我？",
+      "id": "evt-20000000",
+      "title": "车子熄火距加油站仅 20 米，加油员拒绝打散装汽油，车主花 350 元拖车到加油站，到底是谁的问题？",
       "category": "society",
-      "hotScore": 0.675,
+      "hotScore": 0.75,
       "freshness": 0.9999,
       "crossSource": 0.6309,
-      "totalScore": 0.7592,
+      "totalScore": 0.7893,
       "sources": [
         {
           "channel": "zhihu",
-          "rank": 3,
-          "hot": 0,
-          "url": ""
-        }
-      ],
-      "summary": "",
-      "url": ""
-    },
-    {
-      "id": "evt-81000000",
-      "title": "美报告对伊战事损失 81 架军机，包括 12 架 F-15 战机，有哪些信息值得关注？",
-      "category": "society",
-      "hotScore": 0.5625,
-      "freshness": 0.9999,
-      "crossSource": 0.6309,
-      "totalScore": 0.7142,
-      "sources": [
-        {
-          "channel": "zhihu",
-          "rank": 6,
+          "rank": 1,
           "hot": 0,
           "url": ""
         }
@@ -178,60 +65,98 @@
     },
     {
       "id": "evt-33000000",
-      "title": "重庆李子坝地下33米藏着一亿现钞",
+      "title": "李子坝地下33米藏一亿现钞",
       "category": "society",
-      "hotScore": 0.56,
-      "freshness": 1,
+      "hotScore": 0.7225,
+      "freshness": 0.9999,
       "crossSource": 0.6309,
-      "totalScore": 0.7133,
+      "totalScore": 0.7783,
       "sources": [
         {
-          "channel": "baidu",
-          "rank": 7,
-          "hot": 0,
-          "url": "https://m.baidu.com/s?word=%E9%87%8D%E5%BA%86%E6%9D%8E%E5%AD%90%E5%9D%9D%E5%9C%B0%E4%B8%8B33%E7%B1%B3%E8%97%8F%E7%9D%80%E4%B8%80%E4%BA%BF%E7%8E%B0%E9%92%9E&sa=fyb_news"
+          "channel": "toutiao",
+          "rank": 4,
+          "hot": 22465550,
+          "url": "https://www.toutiao.com/trending/7693904813129662490/"
         }
       ],
       "summary": "",
-      "url": "https://m.baidu.com/s?word=%E9%87%8D%E5%BA%86%E6%9D%8E%E5%AD%90%E5%9D%9D%E5%9C%B0%E4%B8%8B33%E7%B1%B3%E8%97%8F%E7%9D%80%E4%B8%80%E4%BA%BF%E7%8E%B0%E9%92%9E&sa=fyb_news"
+      "url": "https://www.toutiao.com/trending/7693904813129662490/"
     },
     {
-      "id": "evt-v8000000",
-      "title": "江淮汽车回应尊界V800刹车踏板断裂",
+      "id": "evt-11650000",
+      "title": "国庆电影票房以 11.65 亿收官，创十三年来新低，如何看待国庆档电影票房持续走低？",
+      "category": "entertainment",
+      "hotScore": 0.6,
+      "freshness": 0.9999,
+      "crossSource": 0.6309,
+      "totalScore": 0.7293,
+      "sources": [
+        {
+          "channel": "zhihu",
+          "rank": 5,
+          "hot": 0,
+          "url": ""
+        }
+      ],
+      "summary": "",
+      "url": ""
+    },
+    {
+      "id": "evt-13900000",
+      "title": "139万元的药一年半才等到第一个患者",
+      "category": "society",
+      "hotScore": 0.6,
+      "freshness": 1,
+      "crossSource": 0.6309,
+      "totalScore": 0.7293,
+      "sources": [
+        {
+          "channel": "baidu",
+          "rank": 6,
+          "hot": 0,
+          "url": "https://m.baidu.com/s?word=139%E4%B8%87%E5%85%83%E7%9A%84%E8%8D%AF%E4%B8%80%E5%B9%B4%E5%8D%8A%E6%89%8D%E7%AD%89%E5%88%B0%E7%AC%AC%E4%B8%80%E4%B8%AA%E6%82%A3%E8%80%85&sa=fyb_news"
+        }
+      ],
+      "summary": "",
+      "url": "https://m.baidu.com/s?word=139%E4%B8%87%E5%85%83%E7%9A%84%E8%8D%AF%E4%B8%80%E5%B9%B4%E5%8D%8A%E6%89%8D%E7%AD%89%E5%88%B0%E7%AC%AC%E4%B8%80%E4%B8%AA%E6%82%A3%E8%80%85&sa=fyb_news"
+    },
+    {
+      "id": "evt-seed0000",
+      "title": "如何评价字节 Seed 团队发现 DeepSeek 性能漂移？",
+      "category": "society",
+      "hotScore": 0.5625,
+      "freshness": 0.9999,
+      "crossSource": 0.6309,
+      "totalScore": 0.7143,
+      "sources": [
+        {
+          "channel": "zhihu",
+          "rank": 6,
+          "hot": 0,
+          "url": ""
+        }
+      ],
+      "summary": "",
+      "url": ""
+    },
+    {
+      "id": "evt-40000000",
+      "title": "医生：40岁后一定要防猝死",
       "category": "society",
       "hotScore": 0.5525,
       "freshness": 0.9999,
       "crossSource": 0.6309,
-      "totalScore": 0.7102,
+      "totalScore": 0.7103,
       "sources": [
         {
           "channel": "toutiao",
           "rank": 8,
-          "hot": 10790969,
-          "url": "https://www.toutiao.com/trending/7694195062007287334/"
+          "hot": 15059109,
+          "url": "https://www.toutiao.com/trending/7693706610186747954/"
         }
       ],
       "summary": "",
-      "url": "https://www.toutiao.com/trending/7694195062007287334/"
-    },
-    {
-      "id": "evt-a0000000",
-      "title": "A股能否迎来年内最后一波行情",
-      "category": "society",
-      "hotScore": 0.51,
-      "freshness": 0.9999,
-      "crossSource": 0.6309,
-      "totalScore": 0.6932,
-      "sources": [
-        {
-          "channel": "toutiao",
-          "rank": 9,
-          "hot": 9764073,
-          "url": "https://www.toutiao.com/trending/7694134654311353897/"
-        }
-      ],
-      "summary": "",
-      "url": "https://www.toutiao.com/trending/7694134654311353897/"
+      "url": "https://www.toutiao.com/trending/7693706610186747954/"
     },
     {
       "id": "evt-5a000000",
@@ -240,7 +165,7 @@
       "hotScore": 0.45,
       "freshness": 0.9999,
       "crossSource": 0.6309,
-      "totalScore": 0.6692,
+      "totalScore": 0.6693,
       "sources": [
         {
           "channel": "zhihu",
@@ -251,6 +176,44 @@
       ],
       "summary": "",
       "url": ""
+    },
+    {
+      "id": "evt-29000000",
+      "title": "彭玉从29岁开始演了一辈子老太太",
+      "category": "society",
+      "hotScore": 0.44,
+      "freshness": 1,
+      "crossSource": 0.6309,
+      "totalScore": 0.6653,
+      "sources": [
+        {
+          "channel": "baidu",
+          "rank": 10,
+          "hot": 0,
+          "url": "https://m.baidu.com/s?word=%E5%BD%AD%E7%8E%89%E4%BB%8E29%E5%B2%81%E5%BC%80%E5%A7%8B%E6%BC%94%E4%BA%86%E4%B8%80%E8%BE%88%E5%AD%90%E8%80%81%E5%A4%AA%E5%A4%AA&sa=fyb_news"
+        }
+      ],
+      "summary": "",
+      "url": "https://m.baidu.com/s?word=%E5%BD%AD%E7%8E%89%E4%BB%8E29%E5%B2%81%E5%BC%80%E5%A7%8B%E6%BC%94%E4%BA%86%E4%B8%80%E8%BE%88%E5%AD%90%E8%80%81%E5%A4%AA%E5%A4%AA&sa=fyb_news"
+    },
+    {
+      "id": "evt-ai000000",
+      "title": "网传喀纳斯棕熊索食系AI编造",
+      "category": "society",
+      "hotScore": 0.425,
+      "freshness": 0.9999,
+      "crossSource": 0.6309,
+      "totalScore": 0.6593,
+      "sources": [
+        {
+          "channel": "toutiao",
+          "rank": 11,
+          "hot": 11156062,
+          "url": "https://www.toutiao.com/trending/7694098908959621163/"
+        }
+      ],
+      "summary": "",
+      "url": "https://www.toutiao.com/trending/7694098908959621163/"
     }
   ]
 }
