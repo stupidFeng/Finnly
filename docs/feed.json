@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-10-07T20:53:39.969Z",
+  "generatedAt": "2026-10-08T01:26:10.260Z",
   "fields": {
     "society": "社会",
     "economy": "经济",
@@ -7,46 +7,71 @@
   },
   "feed": [
     {
-      "id": "evt-00000000",
-      "title": "中国警方：缅北电诈死灰复燃也不怕",
+      "id": "evt-31520000",
+      "title": "上3休1再上5休2",
       "category": "society",
       "hotScore": 0.85,
-      "freshness": 0.9999,
-      "crossSource": 0.6309,
-      "totalScore": 0.8293,
+      "freshness": 1,
+      "crossSource": 1,
+      "totalScore": 0.94,
       "sources": [
         {
           "channel": "toutiao",
           "rank": 1,
-          "hot": 24587968,
-          "url": "https://www.toutiao.com/trending/7692945943666249259/"
+          "hot": 20224224,
+          "url": "https://www.toutiao.com/trending/7693322083970928170/"
+        },
+        {
+          "channel": "baidu",
+          "rank": 9,
+          "hot": 0,
+          "url": "https://m.baidu.com/s?word=%E4%B8%8A3%E4%BC%911%E5%86%8D%E4%B8%8A5%E4%BC%912&sa=fyb_news"
         }
       ],
       "summary": "",
-      "url": "https://www.toutiao.com/trending/7692945943666249259/"
+      "url": "https://www.toutiao.com/trending/7693322083970928170/"
     },
     {
-      "id": "evt-32000000",
-      "title": "孙颖莎爆冷止步32强",
+      "id": "evt-00000000",
+      "title": "中国乒协回应极端球迷越界行为：已协助报案，将推动建立赛场禁入名单制度",
+      "category": "society",
+      "hotScore": 0.85,
+      "freshness": 1,
+      "crossSource": 0.6309,
+      "totalScore": 0.8293,
+      "sources": [
+        {
+          "channel": "thepaper",
+          "rank": 1,
+          "hot": 0,
+          "url": "https://www.thepaper.cn/newsDetail_forward_34209230"
+        }
+      ],
+      "summary": "",
+      "url": "https://www.thepaper.cn/newsDetail_forward_34209230"
+    },
+    {
+      "id": "evt-50000000",
+      "title": "寒露时节养生注意这5点",
       "category": "society",
       "hotScore": 0.8075,
-      "freshness": 0.9999,
+      "freshness": 1,
       "crossSource": 0.6309,
       "totalScore": 0.8123,
       "sources": [
         {
           "channel": "toutiao",
           "rank": 2,
-          "hot": 22248113,
-          "url": "https://www.toutiao.com/trending/7693751587668049971/"
+          "hot": 18299635,
+          "url": "https://www.toutiao.com/trending/7693475077678120979/"
         }
       ],
       "summary": "",
-      "url": "https://www.toutiao.com/trending/7693751587668049971/"
+      "url": "https://www.toutiao.com/trending/7693475077678120979/"
     },
     {
-      "id": "evt-99000000",
-      "title": "《欢迎来龙餐馆》将角逐第99届奥斯卡最佳国际影片",
+      "id": "evt-80000000",
+      "title": "中秋国庆假期收官：8天以上长线行程占比接近翻倍，小城景区霸榜",
       "category": "society",
       "hotScore": 0.765,
       "freshness": 1,
@@ -57,15 +82,34 @@
           "channel": "thepaper",
           "rank": 3,
           "hot": 0,
-          "url": "https://www.thepaper.cn/newsDetail_forward_34207584"
+          "url": "https://www.thepaper.cn/newsDetail_forward_34209162"
         }
       ],
       "summary": "",
-      "url": "https://www.thepaper.cn/newsDetail_forward_34207584"
+      "url": "https://www.thepaper.cn/newsDetail_forward_34209162"
     },
     {
-      "id": "evt-13000000",
-      "title": "孙颖莎爆冷1-3不敌泰国选手",
+      "id": "evt-43000000",
+      "title": "演员王星4天被卖3次",
+      "category": "entertainment",
+      "hotScore": 0.68,
+      "freshness": 1,
+      "crossSource": 0.6309,
+      "totalScore": 0.7613,
+      "sources": [
+        {
+          "channel": "toutiao",
+          "rank": 5,
+          "hot": 13556703,
+          "url": "https://www.toutiao.com/trending/7693817772622745138/"
+        }
+      ],
+      "summary": "",
+      "url": "https://www.toutiao.com/trending/7693817772622745138/"
+    },
+    {
+      "id": "evt-app00000",
+      "title": "为什么每个APP都想追着借钱给你",
       "category": "society",
       "hotScore": 0.76,
       "freshness": 1,
@@ -76,81 +120,100 @@
           "channel": "baidu",
           "rank": 2,
           "hot": 0,
-          "url": "https://m.baidu.com/s?word=%E5%AD%99%E9%A2%96%E8%8E%8E%E7%88%86%E5%86%B71-3%E4%B8%8D%E6%95%8C%E6%B3%B0%E5%9B%BD%E9%80%89%E6%89%8B&sa=fyb_news"
+          "url": "https://m.baidu.com/s?word=%E4%B8%BA%E4%BB%80%E4%B9%88%E6%AF%8F%E4%B8%AAAPP%E9%83%BD%E6%83%B3%E8%BF%BD%E7%9D%80%E5%80%9F%E9%92%B1%E7%BB%99%E4%BD%A0&sa=fyb_news"
         }
       ],
       "summary": "",
-      "url": "https://m.baidu.com/s?word=%E5%AD%99%E9%A2%96%E8%8E%8E%E7%88%86%E5%86%B71-3%E4%B8%8D%E6%95%8C%E6%B3%B0%E5%9B%BD%E9%80%89%E6%89%8B&sa=fyb_news"
+      "url": "https://m.baidu.com/s?word=%E4%B8%BA%E4%BB%80%E4%B9%88%E6%AF%8F%E4%B8%AAAPP%E9%83%BD%E6%83%B3%E8%BF%BD%E7%9D%80%E5%80%9F%E9%92%B1%E7%BB%99%E4%BD%A0&sa=fyb_news"
     },
     {
-      "id": "evt-43000000",
-      "title": "演员王星4天被卖3次",
-      "category": "entertainment",
+      "id": "evt-15000000",
+      "title": "安踏集团15亿欧元收购彪马29.06%股权交易完成，正式成为第一大股东",
+      "category": "society",
       "hotScore": 0.7225,
-      "freshness": 0.9999,
+      "freshness": 1,
       "crossSource": 0.6309,
       "totalScore": 0.7783,
       "sources": [
         {
-          "channel": "toutiao",
+          "channel": "thepaper",
           "rank": 4,
-          "hot": 18215214,
-          "url": "https://www.toutiao.com/trending/7693817772622745138/"
+          "hot": 0,
+          "url": "https://www.thepaper.cn/newsDetail_forward_34209242"
         }
       ],
       "summary": "",
-      "url": "https://www.toutiao.com/trending/7693817772622745138/"
+      "url": "https://www.thepaper.cn/newsDetail_forward_34209242"
     },
     {
-      "id": "evt-14000000",
-      "title": "时隔14年进口片再夺国庆档票房日冠",
-      "category": "entertainment",
-      "hotScore": 0.6,
+      "id": "evt-99000000",
+      "title": "《欢迎来龙餐馆》将角逐第99届奥斯卡最佳国际影片",
+      "category": "society",
+      "hotScore": 0.68,
       "freshness": 1,
       "crossSource": 0.6309,
-      "totalScore": 0.7293,
+      "totalScore": 0.7613,
+      "sources": [
+        {
+          "channel": "thepaper",
+          "rank": 5,
+          "hot": 0,
+          "url": "https://www.thepaper.cn/newsDetail_forward_34207584"
+        }
+      ],
+      "summary": "",
+      "url": "https://www.thepaper.cn/newsDetail_forward_34207584"
+    },
+    {
+      "id": "evt-10000000",
+      "title": "国庆高速免费最后1分钟车主卡点通过",
+      "category": "society",
+      "hotScore": 0.64,
+      "freshness": 1,
+      "crossSource": 0.6309,
+      "totalScore": 0.7453,
       "sources": [
         {
           "channel": "baidu",
+          "rank": 5,
+          "hot": 0,
+          "url": "https://m.baidu.com/s?word=%E5%9B%BD%E5%BA%86%E9%AB%98%E9%80%9F%E5%85%8D%E8%B4%B9%E6%9C%80%E5%90%8E1%E5%88%86%E9%92%9F%E8%BD%A6%E4%B8%BB%E5%8D%A1%E7%82%B9%E9%80%9A%E8%BF%87&sa=fyb_news"
+        }
+      ],
+      "summary": "",
+      "url": "https://m.baidu.com/s?word=%E5%9B%BD%E5%BA%86%E9%AB%98%E9%80%9F%E5%85%8D%E8%B4%B9%E6%9C%80%E5%90%8E1%E5%88%86%E9%92%9F%E8%BD%A6%E4%B8%BB%E5%8D%A1%E7%82%B9%E9%80%9A%E8%BF%87&sa=fyb_news"
+    },
+    {
+      "id": "evt-j2888t00",
+      "title": "怎么看粤J2888T车主被全网关注",
+      "category": "society",
+      "hotScore": 0.6375,
+      "freshness": 1,
+      "crossSource": 0.6309,
+      "totalScore": 0.7443,
+      "sources": [
+        {
+          "channel": "toutiao",
           "rank": 6,
-          "hot": 0,
-          "url": "https://m.baidu.com/s?word=%E6%97%B6%E9%9A%9414%E5%B9%B4%E8%BF%9B%E5%8F%A3%E7%89%87%E5%86%8D%E5%A4%BA%E5%9B%BD%E5%BA%86%E6%A1%A3%E7%A5%A8%E6%88%BF%E6%97%A5%E5%86%A0&sa=fyb_news"
+          "hot": 12266612,
+          "url": "https://www.toutiao.com/trending/7694068255413014035/"
         }
       ],
       "summary": "",
-      "url": "https://m.baidu.com/s?word=%E6%97%B6%E9%9A%9414%E5%B9%B4%E8%BF%9B%E5%8F%A3%E7%89%87%E5%86%8D%E5%A4%BA%E5%9B%BD%E5%BA%86%E6%A1%A3%E7%A5%A8%E6%88%BF%E6%97%A5%E5%86%A0&sa=fyb_news"
+      "url": "https://www.toutiao.com/trending/7694068255413014035/"
     },
     {
-      "id": "evt-31520000",
-      "title": "上3休1再上5休2",
+      "id": "evt-13000000",
+      "title": "孙颖莎 1-3 不敌泰国选手，止步 WTT 中国大满贯女单 32 强，怎样评价本场比赛？",
       "category": "society",
-      "hotScore": 0.72,
+      "hotScore": 0.6375,
       "freshness": 1,
       "crossSource": 0.6309,
-      "totalScore": 0.7773,
-      "sources": [
-        {
-          "channel": "baidu",
-          "rank": 3,
-          "hot": 0,
-          "url": "https://m.baidu.com/s?word=%E4%B8%8A3%E4%BC%911%E5%86%8D%E4%B8%8A5%E4%BC%912&sa=fyb_news"
-        }
-      ],
-      "summary": "",
-      "url": "https://m.baidu.com/s?word=%E4%B8%8A3%E4%BC%911%E5%86%8D%E4%B8%8A5%E4%BC%912&sa=fyb_news"
-    },
-    {
-      "id": "evt-c0000000",
-      "title": "C 罗发表长文说明退出国家队训练营原因，称国家队主帅两次违背承诺，如何评价 C 罗的自诉？",
-      "category": "society",
-      "hotScore": 0.7125,
-      "freshness": 0.9999,
-      "crossSource": 0.6309,
-      "totalScore": 0.7743,
+      "totalScore": 0.7443,
       "sources": [
         {
           "channel": "zhihu",
-          "rank": 2,
+          "rank": 4,
           "hot": 0,
           "url": ""
         }
@@ -159,42 +222,80 @@
       "url": ""
     },
     {
-      "id": "evt-wtt10000",
-      "title": "WTT中国大满贯梁靖崑1比3郭冠宏",
+      "id": "evt-wtt00000",
+      "title": "国乒首次无缘WTT中国大满贯混双冠军",
       "category": "society",
-      "hotScore": 0.48,
+      "hotScore": 0.595,
       "freshness": 1,
       "crossSource": 0.6309,
-      "totalScore": 0.6813,
+      "totalScore": 0.7273,
+      "sources": [
+        {
+          "channel": "toutiao",
+          "rank": 7,
+          "hot": 11099289,
+          "url": "https://www.toutiao.com/trending/7693379782260899882/"
+        }
+      ],
+      "summary": "",
+      "url": "https://www.toutiao.com/trending/7693379782260899882/"
+    },
+    {
+      "id": "evt-90000000",
+      "title": "9个舅舅染彩发给侄女婚礼撑腰",
+      "category": "society",
+      "hotScore": 0.56,
+      "freshness": 1,
+      "crossSource": 0.6309,
+      "totalScore": 0.7133,
       "sources": [
         {
           "channel": "baidu",
-          "rank": 9,
+          "rank": 7,
           "hot": 0,
-          "url": "https://m.baidu.com/s?word=WTT%E4%B8%AD%E5%9B%BD%E5%A4%A7%E6%BB%A1%E8%B4%AF%E6%A2%81%E9%9D%96%E5%B4%911%E6%AF%943%E9%83%AD%E5%86%A0%E5%AE%8F&sa=fyb_news"
+          "url": "https://m.baidu.com/s?word=9%E4%B8%AA%E8%88%85%E8%88%85%E6%9F%93%E5%BD%A9%E5%8F%91%E7%BB%99%E4%BE%84%E5%A5%B3%E5%A9%9A%E7%A4%BC%E6%92%91%E8%85%B0&sa=fyb_news"
         }
       ],
       "summary": "",
-      "url": "https://m.baidu.com/s?word=WTT%E4%B8%AD%E5%9B%BD%E5%A4%A7%E6%BB%A1%E8%B4%AF%E6%A2%81%E9%9D%96%E5%B4%911%E6%AF%943%E9%83%AD%E5%86%A0%E5%AE%8F&sa=fyb_news"
+      "url": "https://m.baidu.com/s?word=9%E4%B8%AA%E8%88%85%E8%88%85%E6%9F%93%E5%BD%A9%E5%8F%91%E7%BB%99%E4%BE%84%E5%A5%B3%E5%A9%9A%E7%A4%BC%E6%92%91%E8%85%B0&sa=fyb_news"
     },
     {
-      "id": "evt-17700000",
-      "title": "1.77亿港元成交，虞世南《积时帖》湮没81年后现身",
+      "id": "evt-72000000",
+      "title": "德印韩等 7 国有意申办 2036 奥运会，谁的胜算更大？各自有哪些优劣势？",
       "category": "society",
-      "hotScore": 0.4675,
+      "hotScore": 0.4875,
       "freshness": 1,
       "crossSource": 0.6309,
-      "totalScore": 0.6763,
+      "totalScore": 0.6843,
       "sources": [
         {
-          "channel": "thepaper",
-          "rank": 10,
+          "channel": "zhihu",
+          "rank": 8,
           "hot": 0,
-          "url": "https://www.thepaper.cn/newsDetail_forward_34208947"
+          "url": ""
         }
       ],
       "summary": "",
-      "url": "https://www.thepaper.cn/newsDetail_forward_34208947"
+      "url": ""
+    },
+    {
+      "id": "evt-71100000",
+      "title": "711关闭印度全部门店",
+      "category": "society",
+      "hotScore": 0.44,
+      "freshness": 1,
+      "crossSource": 0.6309,
+      "totalScore": 0.6653,
+      "sources": [
+        {
+          "channel": "baidu",
+          "rank": 10,
+          "hot": 0,
+          "url": "https://m.baidu.com/s?word=711%E5%85%B3%E9%97%AD%E5%8D%B0%E5%BA%A6%E5%85%A8%E9%83%A8%E9%97%A8%E5%BA%97&sa=fyb_news"
+        }
+      ],
+      "summary": "",
+      "url": "https://m.baidu.com/s?word=711%E5%85%B3%E9%97%AD%E5%8D%B0%E5%BA%A6%E5%85%A8%E9%83%A8%E9%97%A8%E5%BA%97&sa=fyb_news"
     }
   ]
 }
