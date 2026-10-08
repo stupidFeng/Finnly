@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-10-08T17:04:25.566Z",
+  "generatedAt": "2026-10-08T22:38:23.732Z",
   "fields": {
     "society": "社会",
     "economy": "经济",
@@ -8,22 +8,22 @@
   "feed": [
     {
       "id": "evt-00000000",
-      "title": "如何看待欧洲反华决议高票通过",
+      "title": "高速免费最后一刻女子淡定缴费",
       "category": "society",
       "hotScore": 0.85,
-      "freshness": 0.9999,
+      "freshness": 1,
       "crossSource": 0.6309,
       "totalScore": 0.8293,
       "sources": [
         {
           "channel": "toutiao",
           "rank": 1,
-          "hot": 30325321,
-          "url": "https://www.toutiao.com/trending/7694230216553532947/"
+          "hot": 33092070,
+          "url": "https://www.toutiao.com/trending/7693486233125273627/"
         }
       ],
       "summary": "",
-      "url": "https://www.toutiao.com/trending/7694230216553532947/"
+      "url": "https://www.toutiao.com/trending/7693486233125273627/"
     },
     {
       "id": "evt-22000000",
@@ -45,11 +45,11 @@
       "url": "https://m.baidu.com/s?word=%E2%80%9C%E4%B8%BA%E4%BA%86%E7%9C%8B%E7%9F%AD%E5%89%A7+%E6%88%91%E5%A6%88%E4%B8%A4%E5%B9%B4%E8%8A%B122%E4%B8%87%E2%80%9D&sa=fyb_news"
     },
     {
-      "id": "evt-20000000",
-      "title": "车子熄火距加油站仅 20 米，加油员拒绝打散装汽油，车主花 350 元拖车到加油站，到底是谁的问题？",
+      "id": "evt-seed0000",
+      "title": "如何评价字节 Seed 团队发现 DeepSeek 性能漂移？",
       "category": "society",
       "hotScore": 0.75,
-      "freshness": 0.9999,
+      "freshness": 1,
       "crossSource": 0.6309,
       "totalScore": 0.7893,
       "sources": [
@@ -68,14 +68,14 @@
       "title": "李子坝地下33米藏一亿现钞",
       "category": "society",
       "hotScore": 0.7225,
-      "freshness": 0.9999,
+      "freshness": 1,
       "crossSource": 0.6309,
       "totalScore": 0.7783,
       "sources": [
         {
           "channel": "toutiao",
           "rank": 4,
-          "hot": 22465550,
+          "hot": 24515209,
           "url": "https://www.toutiao.com/trending/7693904813129662490/"
         }
       ],
@@ -83,23 +83,23 @@
       "url": "https://www.toutiao.com/trending/7693904813129662490/"
     },
     {
-      "id": "evt-11650000",
-      "title": "国庆电影票房以 11.65 亿收官，创十三年来新低，如何看待国庆档电影票房持续走低？",
-      "category": "entertainment",
-      "hotScore": 0.6,
-      "freshness": 0.9999,
+      "id": "evt-20000000",
+      "title": "言短意长｜每2小时强制休息20分钟，货车司机停车难应被看见",
+      "category": "society",
+      "hotScore": 0.7225,
+      "freshness": 1,
       "crossSource": 0.6309,
-      "totalScore": 0.7293,
+      "totalScore": 0.7783,
       "sources": [
         {
-          "channel": "zhihu",
-          "rank": 5,
+          "channel": "thepaper",
+          "rank": 4,
           "hot": 0,
-          "url": ""
+          "url": "https://www.thepaper.cn/newsDetail_forward_34214024"
         }
       ],
       "summary": "",
-      "url": ""
+      "url": "https://www.thepaper.cn/newsDetail_forward_34214024"
     },
     {
       "id": "evt-13900000",
@@ -121,17 +121,17 @@
       "url": "https://m.baidu.com/s?word=139%E4%B8%87%E5%85%83%E7%9A%84%E8%8D%AF%E4%B8%80%E5%B9%B4%E5%8D%8A%E6%89%8D%E7%AD%89%E5%88%B0%E7%AC%AC%E4%B8%80%E4%B8%AA%E6%82%A3%E8%80%85&sa=fyb_news"
     },
     {
-      "id": "evt-seed0000",
-      "title": "如何评价字节 Seed 团队发现 DeepSeek 性能漂移？",
+      "id": "evt-deepseek",
+      "title": "如何看待 DeepSeek 估值已接近 5000 亿元？",
       "category": "society",
-      "hotScore": 0.5625,
-      "freshness": 0.9999,
+      "hotScore": 0.4875,
+      "freshness": 1,
       "crossSource": 0.6309,
-      "totalScore": 0.7143,
+      "totalScore": 0.6843,
       "sources": [
         {
           "channel": "zhihu",
-          "rank": 6,
+          "rank": 8,
           "hot": 0,
           "url": ""
         }
@@ -140,30 +140,30 @@
       "url": ""
     },
     {
-      "id": "evt-40000000",
-      "title": "医生：40岁后一定要防猝死",
+      "id": "evt-30000000",
+      "title": "司机驱车3小时一招上下高速只花12元",
       "category": "society",
-      "hotScore": 0.5525,
-      "freshness": 0.9999,
+      "hotScore": 0.4675,
+      "freshness": 1,
       "crossSource": 0.6309,
-      "totalScore": 0.7103,
+      "totalScore": 0.6763,
       "sources": [
         {
           "channel": "toutiao",
-          "rank": 8,
-          "hot": 15059109,
-          "url": "https://www.toutiao.com/trending/7693706610186747954/"
+          "rank": 10,
+          "hot": 13454232,
+          "url": "https://www.toutiao.com/trending/7693657799431569449/"
         }
       ],
       "summary": "",
-      "url": "https://www.toutiao.com/trending/7693706610186747954/"
+      "url": "https://www.toutiao.com/trending/7693657799431569449/"
     },
     {
       "id": "evt-5a000000",
       "title": "国内有哪些「德不配位」的 5A 级景区？",
       "category": "society",
       "hotScore": 0.45,
-      "freshness": 0.9999,
+      "freshness": 1,
       "crossSource": 0.6309,
       "totalScore": 0.6693,
       "sources": [
@@ -178,37 +178,18 @@
       "url": ""
     },
     {
-      "id": "evt-29000000",
-      "title": "彭玉从29岁开始演了一辈子老太太",
-      "category": "society",
-      "hotScore": 0.44,
-      "freshness": 1,
-      "crossSource": 0.6309,
-      "totalScore": 0.6653,
-      "sources": [
-        {
-          "channel": "baidu",
-          "rank": 10,
-          "hot": 0,
-          "url": "https://m.baidu.com/s?word=%E5%BD%AD%E7%8E%89%E4%BB%8E29%E5%B2%81%E5%BC%80%E5%A7%8B%E6%BC%94%E4%BA%86%E4%B8%80%E8%BE%88%E5%AD%90%E8%80%81%E5%A4%AA%E5%A4%AA&sa=fyb_news"
-        }
-      ],
-      "summary": "",
-      "url": "https://m.baidu.com/s?word=%E5%BD%AD%E7%8E%89%E4%BB%8E29%E5%B2%81%E5%BC%80%E5%A7%8B%E6%BC%94%E4%BA%86%E4%B8%80%E8%BE%88%E5%AD%90%E8%80%81%E5%A4%AA%E5%A4%AA&sa=fyb_news"
-    },
-    {
       "id": "evt-ai000000",
       "title": "网传喀纳斯棕熊索食系AI编造",
       "category": "society",
       "hotScore": 0.425,
-      "freshness": 0.9999,
+      "freshness": 1,
       "crossSource": 0.6309,
       "totalScore": 0.6593,
       "sources": [
         {
           "channel": "toutiao",
           "rank": 11,
-          "hot": 11156062,
+          "hot": 12173892,
           "url": "https://www.toutiao.com/trending/7694098908959621163/"
         }
       ],
