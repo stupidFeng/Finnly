@@ -1,30 +1,11 @@
 {
-  "generatedAt": "2026-10-09T17:42:25.531Z",
+  "generatedAt": "2026-10-09T21:59:34.200Z",
   "fields": {
     "society": "社会",
     "economy": "经济",
     "entertainment": "娱乐"
   },
   "feed": [
-    {
-      "id": "evt-40000000",
-      "title": "周启豪晋级中国大满贯4强",
-      "category": "society",
-      "hotScore": 0.85,
-      "freshness": 0.9999,
-      "crossSource": 0.6309,
-      "totalScore": 0.8293,
-      "sources": [
-        {
-          "channel": "toutiao",
-          "rank": 1,
-          "hot": 25796077,
-          "url": "https://www.toutiao.com/trending/7693759240455933481/"
-        }
-      ],
-      "summary": "",
-      "url": "https://www.toutiao.com/trending/7693759240455933481/"
-    },
     {
       "id": "evt-00000000",
       "title": "马上评｜天台上有孩子墓？“都市传说”为何能骗人",
@@ -45,18 +26,37 @@
       "url": "https://www.thepaper.cn/newsDetail_forward_34214379"
     },
     {
-      "id": "evt-33000000",
-      "title": "李子坝地下33米藏一亿现钞",
+      "id": "evt-12000000",
+      "title": "美军12架军机连夜撤离英国意味着什么",
       "category": "society",
-      "hotScore": 0.68,
+      "hotScore": 0.85,
       "freshness": 0.9999,
       "crossSource": 0.6309,
-      "totalScore": 0.7613,
+      "totalScore": 0.8292,
       "sources": [
         {
           "channel": "toutiao",
-          "rank": 5,
-          "hot": 17291627,
+          "rank": 1,
+          "hot": 26661613,
+          "url": "https://www.toutiao.com/trending/7694589138783178290/"
+        }
+      ],
+      "summary": "",
+      "url": "https://www.toutiao.com/trending/7694589138783178290/"
+    },
+    {
+      "id": "evt-33000000",
+      "title": "李子坝地下33米藏一亿现钞",
+      "category": "society",
+      "hotScore": 0.8075,
+      "freshness": 0.9999,
+      "crossSource": 0.6309,
+      "totalScore": 0.8122,
+      "sources": [
+        {
+          "channel": "toutiao",
+          "rank": 2,
+          "hot": 24124425,
           "url": "https://www.toutiao.com/trending/7693904813129662490/"
         }
       ],
@@ -64,74 +64,17 @@
       "url": "https://www.toutiao.com/trending/7693904813129662490/"
     },
     {
-      "id": "evt-ai000000",
-      "title": "特朗普为什么非要给AI改名字",
-      "category": "society",
-      "hotScore": 0.6375,
-      "freshness": 0.9999,
-      "crossSource": 0.6309,
-      "totalScore": 0.7443,
-      "sources": [
-        {
-          "channel": "toutiao",
-          "rank": 6,
-          "hot": 15646111,
-          "url": "https://www.toutiao.com/trending/7694540783252147775/"
-        }
-      ],
-      "summary": "",
-      "url": "https://www.toutiao.com/trending/7694540783252147775/"
-    },
-    {
-      "id": "evt-openai19",
-      "title": "OpenAI 爆冷，1-9 月年化营收低于预期 200 亿，美股、日经科技板块重挫，如何看其业绩影响？",
-      "category": "economy",
-      "hotScore": 0.6375,
-      "freshness": 0.9999,
-      "crossSource": 0.6309,
-      "totalScore": 0.7443,
-      "sources": [
-        {
-          "channel": "zhihu",
-          "rank": 4,
-          "hot": 0,
-          "url": ""
-        }
-      ],
-      "summary": "",
-      "url": ""
-    },
-    {
-      "id": "evt-yu700000",
-      "title": "曝小米YU7上市一年单车销售额达624亿",
-      "category": "economy",
-      "hotScore": 0.4675,
-      "freshness": 0.9999,
-      "crossSource": 0.6309,
-      "totalScore": 0.6763,
-      "sources": [
-        {
-          "channel": "toutiao",
-          "rank": 10,
-          "hot": 10487902,
-          "url": "https://www.toutiao.com/trending/7694587308582161970/"
-        }
-      ],
-      "summary": "",
-      "url": "https://www.toutiao.com/trending/7694587308582161970/"
-    },
-    {
       "id": "evt-cp000000",
       "title": "马上评｜“圣黛CP”被下线？开脑洞也要守边界",
       "category": "society",
-      "hotScore": 0.6375,
+      "hotScore": 0.68,
       "freshness": 1,
       "crossSource": 0.6309,
-      "totalScore": 0.7443,
+      "totalScore": 0.7613,
       "sources": [
         {
           "channel": "thepaper",
-          "rank": 6,
+          "rank": 5,
           "hot": 0,
           "url": "https://www.thepaper.cn/newsDetail_forward_34217885"
         }
@@ -140,18 +83,37 @@
       "url": "https://www.thepaper.cn/newsDetail_forward_34217885"
     },
     {
+      "id": "evt-openai19",
+      "title": "OpenAI 爆冷，1-9 月年化营收低于预期 200 亿，美股、日经科技板块重挫，如何看其业绩影响？",
+      "category": "economy",
+      "hotScore": 0.7125,
+      "freshness": 0.9999,
+      "crossSource": 0.6309,
+      "totalScore": 0.7742,
+      "sources": [
+        {
+          "channel": "zhihu",
+          "rank": 2,
+          "hot": 0,
+          "url": ""
+        }
+      ],
+      "summary": "",
+      "url": ""
+    },
+    {
       "id": "evt-10110600",
       "title": "女儿谈101岁父亲106岁母亲长寿秘诀",
       "category": "society",
-      "hotScore": 0.5525,
+      "hotScore": 0.6375,
       "freshness": 0.9999,
       "crossSource": 0.6309,
-      "totalScore": 0.7103,
+      "totalScore": 0.7442,
       "sources": [
         {
           "channel": "toutiao",
-          "rank": 8,
-          "hot": 12809952,
+          "rank": 6,
+          "hot": 16171086,
           "url": "https://www.toutiao.com/trending/7693887494315753481/"
         }
       ],
@@ -159,32 +121,51 @@
       "url": "https://www.toutiao.com/trending/7693887494315753481/"
     },
     {
-      "id": "evt-60000000",
-      "title": "假期床车旅行爆火：三口6天仅花1600",
+      "id": "evt-ai000000",
+      "title": "日本右翼向AI大模型“投毒”篡改历史，外交部：用心险恶的暗箱操作",
       "category": "society",
-      "hotScore": 0.51,
-      "freshness": 0.9999,
+      "hotScore": 0.5525,
+      "freshness": 1,
       "crossSource": 0.6309,
-      "totalScore": 0.6933,
+      "totalScore": 0.7103,
       "sources": [
         {
-          "channel": "toutiao",
-          "rank": 9,
-          "hot": 11590924,
-          "url": "https://www.toutiao.com/trending/7694503288172871718/"
+          "channel": "thepaper",
+          "rank": 8,
+          "hot": 0,
+          "url": "https://www.thepaper.cn/newsDetail_forward_34218258"
         }
       ],
       "summary": "",
-      "url": "https://www.toutiao.com/trending/7694503288172871718/"
+      "url": "https://www.thepaper.cn/newsDetail_forward_34218258"
     },
     {
-      "id": "evt-claude00",
-      "title": "如何看待 Claude 辅助提出 3SUM 猜想的反例？",
+      "id": "evt-40000000",
+      "title": "反诈民警：400来电大胆挂断",
+      "category": "society",
+      "hotScore": 0.4675,
+      "freshness": 0.9999,
+      "crossSource": 0.6309,
+      "totalScore": 0.6762,
+      "sources": [
+        {
+          "channel": "toutiao",
+          "rank": 10,
+          "hot": 10839803,
+          "url": "https://www.toutiao.com/trending/7693492153611403283/"
+        }
+      ],
+      "summary": "",
+      "url": "https://www.toutiao.com/trending/7693492153611403283/"
+    },
+    {
+      "id": "evt-b2100000",
+      "title": "为什么 b21 陷入了一种「新锐但无用」的窘迫状态？",
       "category": "society",
       "hotScore": 0.45,
       "freshness": 0.9999,
       "crossSource": 0.6309,
-      "totalScore": 0.6693,
+      "totalScore": 0.6692,
       "sources": [
         {
           "channel": "zhihu",
