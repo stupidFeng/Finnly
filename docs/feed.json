@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-10-08T22:38:23.732Z",
+  "generatedAt": "2026-10-09T03:36:38.048Z",
   "fields": {
     "society": "社会",
     "economy": "经济",
@@ -8,50 +8,69 @@
   "feed": [
     {
       "id": "evt-00000000",
-      "title": "高速免费最后一刻女子淡定缴费",
+      "title": "俄不明原因肺炎地区正解除防疫措施",
       "category": "society",
       "hotScore": 0.85,
-      "freshness": 1,
-      "crossSource": 0.6309,
-      "totalScore": 0.8293,
+      "freshness": 0.9999,
+      "crossSource": 1,
+      "totalScore": 0.94,
       "sources": [
         {
           "channel": "toutiao",
           "rank": 1,
-          "hot": 33092070,
-          "url": "https://www.toutiao.com/trending/7693486233125273627/"
+          "hot": 42489140,
+          "url": "https://www.toutiao.com/trending/7693477078863233066/"
         }
       ],
       "summary": "",
-      "url": "https://www.toutiao.com/trending/7693486233125273627/"
+      "url": "https://www.toutiao.com/trending/7693477078863233066/"
     },
     {
-      "id": "evt-22000000",
-      "title": "“为了看短剧 我妈两年花22万”",
+      "id": "evt-20000000",
+      "title": "言短意长｜每2小时强制休息20分钟，货车司机停车难应被看见",
+      "category": "society",
+      "hotScore": 0.765,
+      "freshness": 1,
+      "crossSource": 1,
+      "totalScore": 0.906,
+      "sources": [
+        {
+          "channel": "thepaper",
+          "rank": 3,
+          "hot": 0,
+          "url": "https://www.thepaper.cn/newsDetail_forward_34214024"
+        }
+      ],
+      "summary": "",
+      "url": "https://www.thepaper.cn/newsDetail_forward_34214024"
+    },
+    {
+      "id": "evt-ai000000",
+      "title": "别让AI糟蹋了四大名著",
       "category": "society",
       "hotScore": 0.76,
-      "freshness": 1,
-      "crossSource": 0.6309,
-      "totalScore": 0.7933,
+      "freshness": 0.9999,
+      "crossSource": 1,
+      "totalScore": 0.904,
       "sources": [
         {
           "channel": "baidu",
           "rank": 2,
           "hot": 0,
-          "url": "https://m.baidu.com/s?word=%E2%80%9C%E4%B8%BA%E4%BA%86%E7%9C%8B%E7%9F%AD%E5%89%A7+%E6%88%91%E5%A6%88%E4%B8%A4%E5%B9%B4%E8%8A%B122%E4%B8%87%E2%80%9D&sa=fyb_news"
+          "url": "https://m.baidu.com/s?word=%E5%88%AB%E8%AE%A9AI%E7%B3%9F%E8%B9%8B%E4%BA%86%E5%9B%9B%E5%A4%A7%E5%90%8D%E8%91%97&sa=fyb_news"
         }
       ],
       "summary": "",
-      "url": "https://m.baidu.com/s?word=%E2%80%9C%E4%B8%BA%E4%BA%86%E7%9C%8B%E7%9F%AD%E5%89%A7+%E6%88%91%E5%A6%88%E4%B8%A4%E5%B9%B4%E8%8A%B122%E4%B8%87%E2%80%9D&sa=fyb_news"
+      "url": "https://m.baidu.com/s?word=%E5%88%AB%E8%AE%A9AI%E7%B3%9F%E8%B9%8B%E4%BA%86%E5%9B%9B%E5%A4%A7%E5%90%8D%E8%91%97&sa=fyb_news"
     },
     {
-      "id": "evt-seed0000",
-      "title": "如何评价字节 Seed 团队发现 DeepSeek 性能漂移？",
+      "id": "evt-71100000",
+      "title": "711 便利店关闭印度全部门店，背后的原因是什么？",
       "category": "society",
       "hotScore": 0.75,
-      "freshness": 1,
-      "crossSource": 0.6309,
-      "totalScore": 0.7893,
+      "freshness": 0.9999,
+      "crossSource": 1,
+      "totalScore": 0.9,
       "sources": [
         {
           "channel": "zhihu",
@@ -64,70 +83,89 @@
       "url": ""
     },
     {
-      "id": "evt-33000000",
-      "title": "李子坝地下33米藏一亿现钞",
-      "category": "society",
-      "hotScore": 0.7225,
-      "freshness": 1,
-      "crossSource": 0.6309,
-      "totalScore": 0.7783,
-      "sources": [
-        {
-          "channel": "toutiao",
-          "rank": 4,
-          "hot": 24515209,
-          "url": "https://www.toutiao.com/trending/7693904813129662490/"
-        }
-      ],
-      "summary": "",
-      "url": "https://www.toutiao.com/trending/7693904813129662490/"
-    },
-    {
-      "id": "evt-20000000",
-      "title": "言短意长｜每2小时强制休息20分钟，货车司机停车难应被看见",
-      "category": "society",
-      "hotScore": 0.7225,
-      "freshness": 1,
-      "crossSource": 0.6309,
-      "totalScore": 0.7783,
-      "sources": [
-        {
-          "channel": "thepaper",
-          "rank": 4,
-          "hot": 0,
-          "url": "https://www.thepaper.cn/newsDetail_forward_34214024"
-        }
-      ],
-      "summary": "",
-      "url": "https://www.thepaper.cn/newsDetail_forward_34214024"
-    },
-    {
-      "id": "evt-13900000",
-      "title": "139万元的药一年半才等到第一个患者",
-      "category": "society",
-      "hotScore": 0.6,
-      "freshness": 1,
-      "crossSource": 0.6309,
-      "totalScore": 0.7293,
+      "id": "evt-ip000000",
+      "title": "文化IP持续出圈激发经济新动能",
+      "category": "economy",
+      "hotScore": 0.68,
+      "freshness": 0.9999,
+      "crossSource": 1,
+      "totalScore": 0.872,
       "sources": [
         {
           "channel": "baidu",
-          "rank": 6,
+          "rank": 4,
           "hot": 0,
-          "url": "https://m.baidu.com/s?word=139%E4%B8%87%E5%85%83%E7%9A%84%E8%8D%AF%E4%B8%80%E5%B9%B4%E5%8D%8A%E6%89%8D%E7%AD%89%E5%88%B0%E7%AC%AC%E4%B8%80%E4%B8%AA%E6%82%A3%E8%80%85&sa=fyb_news"
+          "url": "https://m.baidu.com/s?word=%E6%96%87%E5%8C%96IP%E6%8C%81%E7%BB%AD%E5%87%BA%E5%9C%88%E6%BF%80%E5%8F%91%E7%BB%8F%E6%B5%8E%E6%96%B0%E5%8A%A8%E8%83%BD&sa=fyb_news"
         }
       ],
       "summary": "",
-      "url": "https://m.baidu.com/s?word=139%E4%B8%87%E5%85%83%E7%9A%84%E8%8D%AF%E4%B8%80%E5%B9%B4%E5%8D%8A%E6%89%8D%E7%AD%89%E5%88%B0%E7%AC%AC%E4%B8%80%E4%B8%AA%E6%82%A3%E8%80%85&sa=fyb_news"
+      "url": "https://m.baidu.com/s?word=%E6%96%87%E5%8C%96IP%E6%8C%81%E7%BB%AD%E5%87%BA%E5%9C%88%E6%BF%80%E5%8F%91%E7%BB%8F%E6%B5%8E%E6%96%B0%E5%8A%A8%E8%83%BD&sa=fyb_news"
     },
     {
-      "id": "evt-deepseek",
-      "title": "如何看待 DeepSeek 估值已接近 5000 亿元？",
+      "id": "evt-13440000",
+      "title": "世界第134“削”翻世界第4",
+      "category": "society",
+      "hotScore": 0.64,
+      "freshness": 0.9999,
+      "crossSource": 1,
+      "totalScore": 0.856,
+      "sources": [
+        {
+          "channel": "baidu",
+          "rank": 5,
+          "hot": 0,
+          "url": "https://m.baidu.com/s?word=%E4%B8%96%E7%95%8C%E7%AC%AC134%E2%80%9C%E5%89%8A%E2%80%9D%E7%BF%BB%E4%B8%96%E7%95%8C%E7%AC%AC4&sa=fyb_news"
+        }
+      ],
+      "summary": "",
+      "url": "https://m.baidu.com/s?word=%E4%B8%96%E7%95%8C%E7%AC%AC134%E2%80%9C%E5%89%8A%E2%80%9D%E7%BF%BB%E4%B8%96%E7%95%8C%E7%AC%AC4&sa=fyb_news"
+    },
+    {
+      "id": "evt-seed0000",
+      "title": "如何评价字节 Seed 团队发现 DeepSeek 性能漂移？",
+      "category": "society",
+      "hotScore": 0.6375,
+      "freshness": 0.9999,
+      "crossSource": 1,
+      "totalScore": 0.855,
+      "sources": [
+        {
+          "channel": "zhihu",
+          "rank": 4,
+          "hot": 0,
+          "url": ""
+        }
+      ],
+      "summary": "",
+      "url": ""
+    },
+    {
+      "id": "evt-wtt00000",
+      "title": "王楚钦现身观看WTT中国大满贯",
+      "category": "society",
+      "hotScore": 0.595,
+      "freshness": 0.9999,
+      "crossSource": 1,
+      "totalScore": 0.838,
+      "sources": [
+        {
+          "channel": "toutiao",
+          "rank": 7,
+          "hot": 23318534,
+          "url": "https://www.toutiao.com/trending/7694364085311455790/"
+        }
+      ],
+      "summary": "",
+      "url": "https://www.toutiao.com/trending/7694364085311455790/"
+    },
+    {
+      "id": "evt-30000000",
+      "title": "保时捷计划裁员最多 30%，明确回归燃油车，背后原因是啥？对保时捷而言，回归燃油车会是一个好的选择吗？",
       "category": "society",
       "hotScore": 0.4875,
-      "freshness": 1,
-      "crossSource": 0.6309,
-      "totalScore": 0.6843,
+      "freshness": 0.9999,
+      "crossSource": 1,
+      "totalScore": 0.795,
       "sources": [
         {
           "channel": "zhihu",
@@ -140,32 +178,13 @@
       "url": ""
     },
     {
-      "id": "evt-30000000",
-      "title": "司机驱车3小时一招上下高速只花12元",
-      "category": "society",
-      "hotScore": 0.4675,
-      "freshness": 1,
-      "crossSource": 0.6309,
-      "totalScore": 0.6763,
-      "sources": [
-        {
-          "channel": "toutiao",
-          "rank": 10,
-          "hot": 13454232,
-          "url": "https://www.toutiao.com/trending/7693657799431569449/"
-        }
-      ],
-      "summary": "",
-      "url": "https://www.toutiao.com/trending/7693657799431569449/"
-    },
-    {
-      "id": "evt-5a000000",
-      "title": "国内有哪些「德不配位」的 5A 级景区？",
+      "id": "evt-12306000",
+      "title": "12306 老是说其他不是官方授权，不是官方授权，他们为什么能卖票？他们的票又是从哪里来的？",
       "category": "society",
       "hotScore": 0.45,
-      "freshness": 1,
-      "crossSource": 0.6309,
-      "totalScore": 0.6693,
+      "freshness": 0.9999,
+      "crossSource": 1,
+      "totalScore": 0.78,
       "sources": [
         {
           "channel": "zhihu",
@@ -176,25 +195,6 @@
       ],
       "summary": "",
       "url": ""
-    },
-    {
-      "id": "evt-ai000000",
-      "title": "网传喀纳斯棕熊索食系AI编造",
-      "category": "society",
-      "hotScore": 0.425,
-      "freshness": 1,
-      "crossSource": 0.6309,
-      "totalScore": 0.6593,
-      "sources": [
-        {
-          "channel": "toutiao",
-          "rank": 11,
-          "hot": 12173892,
-          "url": "https://www.toutiao.com/trending/7694098908959621163/"
-        }
-      ],
-      "summary": "",
-      "url": "https://www.toutiao.com/trending/7694098908959621163/"
     }
   ]
 }
