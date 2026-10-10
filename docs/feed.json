@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-10-09T21:59:34.200Z",
+  "generatedAt": "2026-10-10T01:33:26.623Z",
   "fields": {
     "society": "社会",
     "economy": "经济",
@@ -7,8 +7,52 @@
   },
   "feed": [
     {
+      "id": "evt-90000000",
+      "title": "女子仅退款9斤蜜薯称有本事来拿",
+      "category": "society",
+      "hotScore": 0.64,
+      "freshness": 1,
+      "crossSource": 1,
+      "totalScore": 0.856,
+      "sources": [
+        {
+          "channel": "toutiao",
+          "rank": 10,
+          "hot": 8930634,
+          "url": "https://www.toutiao.com/trending/7694623880660975625/"
+        },
+        {
+          "channel": "baidu",
+          "rank": 5,
+          "hot": 0,
+          "url": "https://m.baidu.com/s?word=%E5%A5%B3%E5%AD%90%E4%BB%85%E9%80%80%E6%AC%BE9%E6%96%A4%E8%9C%9C%E8%96%AF%E7%A7%B0%E6%9C%89%E6%9C%AC%E4%BA%8B%E6%9D%A5%E6%8B%BF&sa=fyb_news"
+        }
+      ],
+      "summary": "",
+      "url": "https://www.toutiao.com/trending/7694623880660975625/"
+    },
+    {
+      "id": "evt-wtt00000",
+      "title": "WTT中国大满贯女单四强全部产生",
+      "category": "society",
+      "hotScore": 0.85,
+      "freshness": 1,
+      "crossSource": 0.6309,
+      "totalScore": 0.8293,
+      "sources": [
+        {
+          "channel": "toutiao",
+          "rank": 1,
+          "hot": 21965816,
+          "url": "https://www.toutiao.com/trending/7694589317687018034/"
+        }
+      ],
+      "summary": "",
+      "url": "https://www.toutiao.com/trending/7694589317687018034/"
+    },
+    {
       "id": "evt-00000000",
-      "title": "马上评｜天台上有孩子墓？“都市传说”为何能骗人",
+      "title": "中国科协之声：诺贝尔奖值得尊重，但不是万能标尺",
       "category": "society",
       "hotScore": 0.85,
       "freshness": 1,
@@ -19,77 +63,58 @@
           "channel": "thepaper",
           "rank": 1,
           "hot": 0,
-          "url": "https://www.thepaper.cn/newsDetail_forward_34214379"
+          "url": "https://www.thepaper.cn/newsDetail_forward_34220003"
         }
       ],
       "summary": "",
-      "url": "https://www.thepaper.cn/newsDetail_forward_34214379"
+      "url": "https://www.thepaper.cn/newsDetail_forward_34220003"
     },
     {
-      "id": "evt-12000000",
-      "title": "美军12架军机连夜撤离英国意味着什么",
-      "category": "society",
-      "hotScore": 0.85,
-      "freshness": 0.9999,
-      "crossSource": 0.6309,
-      "totalScore": 0.8292,
-      "sources": [
-        {
-          "channel": "toutiao",
-          "rank": 1,
-          "hot": 26661613,
-          "url": "https://www.toutiao.com/trending/7694589138783178290/"
-        }
-      ],
-      "summary": "",
-      "url": "https://www.toutiao.com/trending/7694589138783178290/"
-    },
-    {
-      "id": "evt-33000000",
-      "title": "李子坝地下33米藏一亿现钞",
+      "id": "evt-nba00000",
+      "title": "姚明马云现身NBA中国赛场边观赛",
       "category": "society",
       "hotScore": 0.8075,
-      "freshness": 0.9999,
+      "freshness": 1,
       "crossSource": 0.6309,
-      "totalScore": 0.8122,
+      "totalScore": 0.8123,
       "sources": [
         {
           "channel": "toutiao",
           "rank": 2,
-          "hot": 24124425,
-          "url": "https://www.toutiao.com/trending/7693904813129662490/"
+          "hot": 19875493,
+          "url": "https://www.toutiao.com/trending/7693322083971141162/"
         }
       ],
       "summary": "",
-      "url": "https://www.toutiao.com/trending/7693904813129662490/"
+      "url": "https://www.toutiao.com/trending/7693322083971141162/"
     },
     {
-      "id": "evt-cp000000",
-      "title": "马上评｜“圣黛CP”被下线？开脑洞也要守边界",
+      "id": "evt-76000000",
+      "title": "巴拿马7.6级强震",
       "category": "society",
-      "hotScore": 0.68,
+      "hotScore": 0.76,
       "freshness": 1,
       "crossSource": 0.6309,
-      "totalScore": 0.7613,
+      "totalScore": 0.7933,
       "sources": [
         {
-          "channel": "thepaper",
-          "rank": 5,
+          "channel": "baidu",
+          "rank": 2,
           "hot": 0,
-          "url": "https://www.thepaper.cn/newsDetail_forward_34217885"
+          "url": "https://m.baidu.com/s?word=%E5%B7%B4%E6%8B%BF%E9%A9%AC7.6%E7%BA%A7%E5%BC%BA%E9%9C%87&sa=fyb_news"
         }
       ],
       "summary": "",
-      "url": "https://www.thepaper.cn/newsDetail_forward_34217885"
+      "url": "https://m.baidu.com/s?word=%E5%B7%B4%E6%8B%BF%E9%A9%AC7.6%E7%BA%A7%E5%BC%BA%E9%9C%87&sa=fyb_news"
     },
     {
-      "id": "evt-openai19",
-      "title": "OpenAI 爆冷，1-9 月年化营收低于预期 200 亿，美股、日经科技板块重挫，如何看其业绩影响？",
-      "category": "economy",
+      "id": "evt-42000000",
+      "title": "女子买 42 元牛肉丸换支付方式付款被误会逃单，商家连发多条监控视频，商家这种行为涉嫌违法吗？",
+      "category": "society",
       "hotScore": 0.7125,
-      "freshness": 0.9999,
+      "freshness": 1,
       "crossSource": 0.6309,
-      "totalScore": 0.7742,
+      "totalScore": 0.7743,
       "sources": [
         {
           "channel": "zhihu",
@@ -102,70 +127,70 @@
       "url": ""
     },
     {
-      "id": "evt-10110600",
-      "title": "女儿谈101岁父亲106岁母亲长寿秘诀",
+      "id": "evt-20000000",
+      "title": "俄如何用2座桥掐住乌七寸",
       "category": "society",
-      "hotScore": 0.6375,
-      "freshness": 0.9999,
+      "hotScore": 0.595,
+      "freshness": 1,
       "crossSource": 0.6309,
-      "totalScore": 0.7442,
+      "totalScore": 0.7273,
       "sources": [
         {
           "channel": "toutiao",
-          "rank": 6,
-          "hot": 16171086,
-          "url": "https://www.toutiao.com/trending/7693887494315753481/"
+          "rank": 7,
+          "hot": 12055095,
+          "url": "https://www.toutiao.com/trending/7694679821741198899/"
         }
       ],
       "summary": "",
-      "url": "https://www.toutiao.com/trending/7693887494315753481/"
+      "url": "https://www.toutiao.com/trending/7694679821741198899/"
     },
     {
-      "id": "evt-ai000000",
-      "title": "日本右翼向AI大模型“投毒”篡改历史，外交部：用心险恶的暗箱操作",
+      "id": "evt-cp000000",
+      "title": "马上评｜“圣黛CP”被下线？开脑洞也要守边界",
       "category": "society",
-      "hotScore": 0.5525,
+      "hotScore": 0.595,
       "freshness": 1,
       "crossSource": 0.6309,
-      "totalScore": 0.7103,
+      "totalScore": 0.7273,
       "sources": [
         {
           "channel": "thepaper",
-          "rank": 8,
+          "rank": 7,
           "hot": 0,
-          "url": "https://www.thepaper.cn/newsDetail_forward_34218258"
+          "url": "https://www.thepaper.cn/newsDetail_forward_34217885"
         }
       ],
       "summary": "",
-      "url": "https://www.thepaper.cn/newsDetail_forward_34218258"
+      "url": "https://www.thepaper.cn/newsDetail_forward_34217885"
     },
     {
-      "id": "evt-40000000",
-      "title": "反诈民警：400来电大胆挂断",
+      "id": "evt-c0000000",
+      "title": "若C罗选择以更体面方式结束会更好吗",
       "category": "society",
-      "hotScore": 0.4675,
-      "freshness": 0.9999,
+      "hotScore": 0.51,
+      "freshness": 1,
       "crossSource": 0.6309,
-      "totalScore": 0.6762,
+      "totalScore": 0.6933,
       "sources": [
         {
           "channel": "toutiao",
-          "rank": 10,
-          "hot": 10839803,
-          "url": "https://www.toutiao.com/trending/7693492153611403283/"
+          "rank": 9,
+          "hot": 9869877,
+          "url": "https://www.toutiao.com/trending/7693740033429782547/"
         }
       ],
       "summary": "",
-      "url": "https://www.toutiao.com/trending/7693492153611403283/"
+      "url": "https://www.toutiao.com/trending/7693740033429782547/"
     },
     {
-      "id": "evt-b2100000",
-      "title": "为什么 b21 陷入了一种「新锐但无用」的窘迫状态？",
+      "id": "evt-21000000",
+      "title": "21 岁中国篮球运动员庞清方赴美训练多年却遭 ICE 拘留，为何将面临离境风险？对其篮球生涯有何影响？",
       "category": "society",
       "hotScore": 0.45,
-      "freshness": 0.9999,
+      "freshness": 1,
       "crossSource": 0.6309,
-      "totalScore": 0.6692,
+      "totalScore": 0.6693,
       "sources": [
         {
           "channel": "zhihu",
@@ -176,6 +201,25 @@
       ],
       "summary": "",
       "url": ""
+    },
+    {
+      "id": "evt-nb000000",
+      "title": "贝克汉姆成龙马云现身NBA中国赛",
+      "category": "society",
+      "hotScore": 0.44,
+      "freshness": 1,
+      "crossSource": 0.6309,
+      "totalScore": 0.6653,
+      "sources": [
+        {
+          "channel": "baidu",
+          "rank": 10,
+          "hot": 0,
+          "url": "https://m.baidu.com/s?word=%E8%B4%9D%E5%85%8B%E6%B1%89%E5%A7%86%E6%88%90%E9%BE%99%E9%A9%AC%E4%BA%91%E7%8E%B0%E8%BA%ABNBA%E4%B8%AD%E5%9B%BD%E8%B5%9B&sa=fyb_news"
+        }
+      ],
+      "summary": "",
+      "url": "https://m.baidu.com/s?word=%E8%B4%9D%E5%85%8B%E6%B1%89%E5%A7%86%E6%88%90%E9%BE%99%E9%A9%AC%E4%BA%91%E7%8E%B0%E8%BA%ABNBA%E4%B8%AD%E5%9B%BD%E8%B5%9B&sa=fyb_news"
     }
   ]
 }
