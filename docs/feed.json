@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-10-11T02:50:43.163Z",
+  "generatedAt": "2026-10-11T10:25:21.876Z",
   "fields": {
     "society": "社会",
     "economy": "经济",
@@ -7,33 +7,8 @@
   },
   "feed": [
     {
-      "id": "evt-12000000",
-      "title": "沙特利雅得机场遭袭 致12死309伤",
-      "category": "society",
-      "hotScore": 0.76,
-      "freshness": 0.9999,
-      "crossSource": 1,
-      "totalScore": 0.904,
-      "sources": [
-        {
-          "channel": "toutiao",
-          "rank": 4,
-          "hot": 14666710,
-          "url": "https://www.toutiao.com/trending/7694900247411851305/"
-        },
-        {
-          "channel": "baidu",
-          "rank": 2,
-          "hot": 0,
-          "url": "https://m.baidu.com/s?word=%E6%B2%99%E7%89%B9%E5%88%A9%E9%9B%85%E5%BE%97%E6%9C%BA%E5%9C%BA%E9%81%AD%E8%A2%AD+%E8%87%B412%E6%AD%BB309%E4%BC%A4&sa=fyb_news"
-        }
-      ],
-      "summary": "",
-      "url": "https://www.toutiao.com/trending/7694900247411851305/"
-    },
-    {
       "id": "evt-00000000",
-      "title": "创历史！郑钦文成为打进中网女单决赛首位中国球员",
+      "title": "王曼昱横扫佐藤瞳夺冠",
       "category": "society",
       "hotScore": 0.85,
       "freshness": 1,
@@ -41,21 +16,40 @@
       "totalScore": 0.8293,
       "sources": [
         {
-          "channel": "thepaper",
+          "channel": "toutiao",
           "rank": 1,
-          "hot": 0,
-          "url": "https://www.thepaper.cn/newsDetail_forward_34226698"
+          "hot": 18474258,
+          "url": "https://www.toutiao.com/trending/7695000467810746422/"
         }
       ],
       "summary": "",
-      "url": "https://www.thepaper.cn/newsDetail_forward_34226698"
+      "url": "https://www.toutiao.com/trending/7695000467810746422/"
+    },
+    {
+      "id": "evt-46ai0000",
+      "title": "46岁“数学家”AI炒股一年赚超640亿",
+      "category": "society",
+      "hotScore": 0.8075,
+      "freshness": 1,
+      "crossSource": 0.6309,
+      "totalScore": 0.8123,
+      "sources": [
+        {
+          "channel": "toutiao",
+          "rank": 2,
+          "hot": 16716200,
+          "url": "https://www.toutiao.com/trending/7695241845446131748/"
+        }
+      ],
+      "summary": "",
+      "url": "https://www.toutiao.com/trending/7695241845446131748/"
     },
     {
       "id": "evt-10000000",
       "title": "沙特利雅得机场遭袭，造成 12 人死亡 309 人受伤，哪些信息值得关注？对中东局势有何影响？",
       "category": "society",
       "hotScore": 0.75,
-      "freshness": 0.9999,
+      "freshness": 1,
       "crossSource": 0.6309,
       "totalScore": 0.7893,
       "sources": [
@@ -70,49 +64,74 @@
       "url": ""
     },
     {
-      "id": "evt-38000000",
-      "title": "女子称 38 元买榴莲，切开后发现里面都是假果肉，还塞着年糕和土豆，是真的吗？可以怎样维权？",
+      "id": "evt-32210000",
+      "title": "亲子鉴定32份报告21个非亲生？假的",
       "category": "society",
-      "hotScore": 0.675,
-      "freshness": 0.9999,
-      "crossSource": 0.6309,
-      "totalScore": 0.7593,
+      "hotScore": 0.425,
+      "freshness": 1,
+      "crossSource": 1,
+      "totalScore": 0.77,
       "sources": [
         {
-          "channel": "zhihu",
-          "rank": 3,
-          "hot": 0,
-          "url": ""
-        }
-      ],
-      "summary": "",
-      "url": ""
-    },
-    {
-      "id": "evt-71000000",
-      "title": "男子国庆被排7天班 1天都没去遭开除",
-      "category": "society",
-      "hotScore": 0.56,
-      "freshness": 1,
-      "crossSource": 0.6309,
-      "totalScore": 0.7133,
-      "sources": [
+          "channel": "toutiao",
+          "rank": 11,
+          "hot": 6796300,
+          "url": "https://www.toutiao.com/trending/7695209111373299754/"
+        },
         {
           "channel": "baidu",
-          "rank": 7,
+          "rank": 12,
           "hot": 0,
-          "url": "https://m.baidu.com/s?word=%E7%94%B7%E5%AD%90%E5%9B%BD%E5%BA%86%E8%A2%AB%E6%8E%927%E5%A4%A9%E7%8F%AD+1%E5%A4%A9%E9%83%BD%E6%B2%A1%E5%8E%BB%E9%81%AD%E5%BC%80%E9%99%A4&sa=fyb_news"
+          "url": "https://m.baidu.com/s?word=%E4%BA%B2%E5%AD%90%E9%89%B4%E5%AE%9A32%E4%BB%BD%E6%8A%A5%E5%91%8A21%E4%B8%AA%E9%9D%9E%E4%BA%B2%E7%94%9F%EF%BC%9F%E5%81%87%E7%9A%84&sa=fyb_news"
         }
       ],
       "summary": "",
-      "url": "https://m.baidu.com/s?word=%E7%94%B7%E5%AD%90%E5%9B%BD%E5%BA%86%E8%A2%AB%E6%8E%927%E5%A4%A9%E7%8F%AD+1%E5%A4%A9%E9%83%BD%E6%B2%A1%E5%8E%BB%E9%81%AD%E5%BC%80%E9%99%A4&sa=fyb_news"
+      "url": "https://www.toutiao.com/trending/7695209111373299754/"
     },
     {
-      "id": "evt-rtx50000",
-      "title": "如何看待有报道称 RTX 5090 / 5090 D v2 等基于 GB202 的游戏卡或将停产？",
+      "id": "evt-ceo00000",
+      "title": "长城魏牌CEO：最大的豪华是刹车",
+      "category": "society",
+      "hotScore": 0.595,
+      "freshness": 1,
+      "crossSource": 0.6309,
+      "totalScore": 0.7273,
+      "sources": [
+        {
+          "channel": "toutiao",
+          "rank": 7,
+          "hot": 10138888,
+          "url": "https://www.toutiao.com/trending/7695144414477516851/"
+        }
+      ],
+      "summary": "",
+      "url": "https://www.toutiao.com/trending/7695144414477516851/"
+    },
+    {
+      "id": "evt-21300000",
+      "title": "郑钦文2站排名狂升130位",
+      "category": "society",
+      "hotScore": 0.5525,
+      "freshness": 1,
+      "crossSource": 0.6309,
+      "totalScore": 0.7103,
+      "sources": [
+        {
+          "channel": "toutiao",
+          "rank": 8,
+          "hot": 9174045,
+          "url": "https://www.toutiao.com/trending/7694511232371785770/"
+        }
+      ],
+      "summary": "",
+      "url": "https://www.toutiao.com/trending/7694511232371785770/"
+    },
+    {
+      "id": "evt-wtt00000",
+      "title": "WTT 中国大满贯男单半决赛，周启豪 2-4 松岛辉空，至此国乒无缘男单决赛，如何评价这场比赛？",
       "category": "society",
       "hotScore": 0.525,
-      "freshness": 0.9999,
+      "freshness": 1,
       "crossSource": 0.6309,
       "totalScore": 0.6993,
       "sources": [
@@ -125,25 +144,6 @@
       ],
       "summary": "",
       "url": ""
-    },
-    {
-      "id": "evt-90000000",
-      "title": "视频丨海口9岁自闭症男童电梯内被男子踹飞，涉事男子被拘10天",
-      "category": "society",
-      "hotScore": 0.4675,
-      "freshness": 1,
-      "crossSource": 0.6309,
-      "totalScore": 0.6763,
-      "sources": [
-        {
-          "channel": "thepaper",
-          "rank": 10,
-          "hot": 0,
-          "url": "https://www.thepaper.cn/newsDetail_forward_34225928"
-        }
-      ],
-      "summary": "",
-      "url": "https://www.thepaper.cn/newsDetail_forward_34225928"
     }
   ]
 }
