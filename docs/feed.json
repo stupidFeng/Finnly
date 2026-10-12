@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-10-11T21:12:32.445Z",
+  "generatedAt": "2026-10-12T00:49:08.767Z",
   "fields": {
     "society": "社会",
     "economy": "经济",
@@ -8,7 +8,32 @@
   "feed": [
     {
       "id": "evt-00000000",
-      "title": "专家：赖清德“双十”讲话暴露其“台独”分裂本质不变、毒性不减",
+      "title": "沙特遭遇十年来最惨袭击",
+      "category": "society",
+      "hotScore": 0.76,
+      "freshness": 1,
+      "crossSource": 1,
+      "totalScore": 0.904,
+      "sources": [
+        {
+          "channel": "toutiao",
+          "rank": 19,
+          "hot": 6404513,
+          "url": "https://www.toutiao.com/trending/7695408590575636011/"
+        },
+        {
+          "channel": "baidu",
+          "rank": 2,
+          "hot": 0,
+          "url": "https://m.baidu.com/s?word=%E6%B2%99%E7%89%B9%E9%81%AD%E9%81%87%E5%8D%81%E5%B9%B4%E6%9D%A5%E6%9C%80%E6%83%A8%E8%A2%AD%E5%87%BB&sa=fyb_news"
+        }
+      ],
+      "summary": "",
+      "url": "https://www.toutiao.com/trending/7695408590575636011/"
+    },
+    {
+      "id": "evt-40000000",
+      "title": "五胞胎爸爸：尿不湿4个月用4000多片",
       "category": "society",
       "hotScore": 0.85,
       "freshness": 1,
@@ -16,27 +41,27 @@
       "totalScore": 0.8293,
       "sources": [
         {
-          "channel": "thepaper",
+          "channel": "toutiao",
           "rank": 1,
-          "hot": 0,
-          "url": "https://www.thepaper.cn/newsDetail_forward_34231024"
+          "hot": 38745047,
+          "url": "https://www.toutiao.com/trending/7695022916592779274/"
         }
       ],
       "summary": "",
-      "url": "https://www.thepaper.cn/newsDetail_forward_34231024"
+      "url": "https://www.toutiao.com/trending/7695022916592779274/"
     },
     {
       "id": "evt-20000000",
       "title": "中网女单决赛，郑钦文 2-0 战胜安德列娃夺得冠军，如何评价本场比赛以及她的亮眼表现？",
       "category": "society",
-      "hotScore": 0.75,
-      "freshness": 0.9999,
+      "hotScore": 0.7125,
+      "freshness": 1,
       "crossSource": 0.6309,
-      "totalScore": 0.7893,
+      "totalScore": 0.7743,
       "sources": [
         {
           "channel": "zhihu",
-          "rank": 1,
+          "rank": 2,
           "hot": 0,
           "url": ""
         }
@@ -45,37 +70,18 @@
       "url": ""
     },
     {
-      "id": "evt-11500000",
-      "title": "郑钦文狂揽115万美元奖金",
-      "category": "society",
-      "hotScore": 0.7225,
-      "freshness": 0.9999,
-      "crossSource": 0.6309,
-      "totalScore": 0.7782,
-      "sources": [
-        {
-          "channel": "toutiao",
-          "rank": 4,
-          "hot": 20121011,
-          "url": "https://www.toutiao.com/trending/7695401635786264102/"
-        }
-      ],
-      "summary": "",
-      "url": "https://www.toutiao.com/trending/7695401635786264102/"
-    },
-    {
       "id": "evt-32210000",
       "title": "亲子鉴定32份报告21个非亲生？假的",
       "category": "society",
       "hotScore": 0.425,
-      "freshness": 0.9999,
+      "freshness": 1,
       "crossSource": 1,
       "totalScore": 0.77,
       "sources": [
         {
           "channel": "toutiao",
           "rank": 11,
-          "hot": 9991798,
+          "hot": 14253506,
           "url": "https://www.toutiao.com/trending/7695209111373299754/"
         },
         {
@@ -89,11 +95,36 @@
       "url": "https://www.toutiao.com/trending/7695209111373299754/"
     },
     {
-      "id": "evt-10000000",
-      "title": "沙特利雅得机场遭袭，造成 12 人死亡 309 人受伤，哪些信息值得关注？对中东局势有何影响？",
+      "id": "evt-a0000000",
+      "title": "胖东来施工现场 干净得像AI",
+      "category": "society",
+      "hotScore": 0.4,
+      "freshness": 1,
+      "crossSource": 1,
+      "totalScore": 0.76,
+      "sources": [
+        {
+          "channel": "toutiao",
+          "rank": 18,
+          "hot": 7078081,
+          "url": "https://www.toutiao.com/trending/7695311157557166121/"
+        },
+        {
+          "channel": "baidu",
+          "rank": 11,
+          "hot": 0,
+          "url": "https://m.baidu.com/s?word=%E8%83%96%E4%B8%9C%E6%9D%A5%E6%96%BD%E5%B7%A5%E7%8E%B0%E5%9C%BA+%E5%B9%B2%E5%87%80%E5%BE%97%E5%83%8FAI&sa=fyb_news"
+        }
+      ],
+      "summary": "",
+      "url": "https://www.toutiao.com/trending/7695311157557166121/"
+    },
+    {
+      "id": "evt-46ai0000",
+      "title": "媒体曝 46 岁「数学家」用 AI 炒股登上富豪榜，年赚 642 亿，如何看待这一造富神话？对普通人有借鉴意义吗？",
       "category": "society",
       "hotScore": 0.675,
-      "freshness": 0.9999,
+      "freshness": 1,
       "crossSource": 0.6309,
       "totalScore": 0.7593,
       "sources": [
@@ -108,11 +139,11 @@
       "url": ""
     },
     {
-      "id": "evt-46ai0000",
-      "title": "媒体曝 46 岁「数学家」用 AI 炒股登上富豪榜，年赚 642 亿，如何看待这一造富神话？对普通人有借鉴意义吗？",
+      "id": "evt-33990000",
+      "title": "女子 3 个月对盒马 399 件商品申请仅退款，快递员取件退还吃剩的，涉嫌诈骗罪被采取刑事强制，如何看待此事？",
       "category": "society",
       "hotScore": 0.6375,
-      "freshness": 0.9999,
+      "freshness": 1,
       "crossSource": 0.6309,
       "totalScore": 0.7443,
       "sources": [
@@ -127,8 +158,8 @@
       "url": ""
     },
     {
-      "id": "evt-14000000",
-      "title": "李娜之后苦等14年",
+      "id": "evt-12000000",
+      "title": "央视曝投资1.2亿项目仅建5个棚",
       "category": "society",
       "hotScore": 0.6,
       "freshness": 1,
@@ -139,43 +170,62 @@
           "channel": "baidu",
           "rank": 6,
           "hot": 0,
-          "url": "https://m.baidu.com/s?word=%E6%9D%8E%E5%A8%9C%E4%B9%8B%E5%90%8E%E8%8B%A6%E7%AD%8914%E5%B9%B4&sa=fyb_news"
+          "url": "https://m.baidu.com/s?word=%E5%A4%AE%E8%A7%86%E6%9B%9D%E6%8A%95%E8%B5%841.2%E4%BA%BF%E9%A1%B9%E7%9B%AE%E4%BB%85%E5%BB%BA5%E4%B8%AA%E6%A3%9A&sa=fyb_news"
         }
       ],
       "summary": "",
-      "url": "https://m.baidu.com/s?word=%E6%9D%8E%E5%A8%9C%E4%B9%8B%E5%90%8E%E8%8B%A6%E7%AD%8914%E5%B9%B4&sa=fyb_news"
+      "url": "https://m.baidu.com/s?word=%E5%A4%AE%E8%A7%86%E6%9B%9D%E6%8A%95%E8%B5%841.2%E4%BA%BF%E9%A1%B9%E7%9B%AE%E4%BB%85%E5%BB%BA5%E4%B8%AA%E6%A3%9A&sa=fyb_news"
     },
     {
-      "id": "evt-11100000",
-      "title": "加油新规11月1日起全面实施",
+      "id": "evt-10000000",
+      "title": "生涯1000赛首冠！郑钦文击败安德烈耶娃夺得中网女单冠军",
       "category": "society",
-      "hotScore": 0.5525,
-      "freshness": 0.9999,
+      "hotScore": 0.595,
+      "freshness": 1,
       "crossSource": 0.6309,
-      "totalScore": 0.7102,
+      "totalScore": 0.7273,
       "sources": [
         {
-          "channel": "toutiao",
-          "rank": 8,
-          "hot": 13487517,
-          "url": "https://www.toutiao.com/trending/7694896490082304026/"
+          "channel": "thepaper",
+          "rank": 7,
+          "hot": 0,
+          "url": "https://www.thepaper.cn/newsDetail_forward_34232410"
         }
       ],
       "summary": "",
-      "url": "https://www.toutiao.com/trending/7694896490082304026/"
+      "url": "https://www.thepaper.cn/newsDetail_forward_34232410"
     },
     {
-      "id": "evt-50000000",
-      "title": "广东 5 人吃野生红尾鲤确诊哈夫病，这种病是如何引发的？日常吃鱼该怎样防范？",
+      "id": "evt-ai000000",
+      "title": "AI 现在发展到什么程度了？",
       "category": "society",
-      "hotScore": 0.4875,
-      "freshness": 0.9999,
+      "hotScore": 0.5625,
+      "freshness": 1,
       "crossSource": 0.6309,
-      "totalScore": 0.6843,
+      "totalScore": 0.7143,
       "sources": [
         {
           "channel": "zhihu",
-          "rank": 8,
+          "rank": 6,
+          "hot": 0,
+          "url": ""
+        }
+      ],
+      "summary": "",
+      "url": ""
+    },
+    {
+      "id": "evt-71000000",
+      "title": "男子国庆被排 7 天班 1 天未去遭开除，法院判公司合法解除，从法律角度该如何解读？",
+      "category": "society",
+      "hotScore": 0.45,
+      "freshness": 1,
+      "crossSource": 0.6309,
+      "totalScore": 0.6693,
+      "sources": [
+        {
+          "channel": "zhihu",
+          "rank": 9,
           "hot": 0,
           "url": ""
         }
