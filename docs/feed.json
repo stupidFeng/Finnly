@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-10-12T00:49:08.767Z",
+  "generatedAt": "2026-10-12T08:15:56.073Z",
   "fields": {
     "society": "社会",
     "economy": "经济",
@@ -8,60 +8,54 @@
   "feed": [
     {
       "id": "evt-00000000",
-      "title": "沙特遭遇十年来最惨袭击",
-      "category": "society",
-      "hotScore": 0.76,
-      "freshness": 1,
-      "crossSource": 1,
-      "totalScore": 0.904,
-      "sources": [
-        {
-          "channel": "toutiao",
-          "rank": 19,
-          "hot": 6404513,
-          "url": "https://www.toutiao.com/trending/7695408590575636011/"
-        },
-        {
-          "channel": "baidu",
-          "rank": 2,
-          "hot": 0,
-          "url": "https://m.baidu.com/s?word=%E6%B2%99%E7%89%B9%E9%81%AD%E9%81%87%E5%8D%81%E5%B9%B4%E6%9D%A5%E6%9C%80%E6%83%A8%E8%A2%AD%E5%87%BB&sa=fyb_news"
-        }
-      ],
-      "summary": "",
-      "url": "https://www.toutiao.com/trending/7695408590575636011/"
-    },
-    {
-      "id": "evt-40000000",
-      "title": "五胞胎爸爸：尿不湿4个月用4000多片",
+      "title": "霸王茶姬店员劝退消费者",
       "category": "society",
       "hotScore": 0.85,
-      "freshness": 1,
-      "crossSource": 0.6309,
-      "totalScore": 0.8293,
+      "freshness": 0.9999,
+      "crossSource": 1,
+      "totalScore": 0.94,
       "sources": [
         {
           "channel": "toutiao",
           "rank": 1,
-          "hot": 38745047,
-          "url": "https://www.toutiao.com/trending/7695022916592779274/"
+          "hot": 65735680,
+          "url": "https://www.toutiao.com/trending/7694983541905493567/"
         }
       ],
       "summary": "",
-      "url": "https://www.toutiao.com/trending/7695022916592779274/"
+      "url": "https://www.toutiao.com/trending/7694983541905493567/"
     },
     {
-      "id": "evt-20000000",
-      "title": "中网女单决赛，郑钦文 2-0 战胜安德列娃夺得冠军，如何评价本场比赛以及她的亮眼表现？",
+      "id": "evt-50000000",
+      "title": "未来5年卫生健康领域将迎这些发展",
       "category": "society",
-      "hotScore": 0.7125,
-      "freshness": 1,
-      "crossSource": 0.6309,
-      "totalScore": 0.7743,
+      "hotScore": 0.765,
+      "freshness": 0.9999,
+      "crossSource": 1,
+      "totalScore": 0.906,
+      "sources": [
+        {
+          "channel": "toutiao",
+          "rank": 3,
+          "hot": 53819823,
+          "url": "https://www.toutiao.com/trending/7694920587639570441/"
+        }
+      ],
+      "summary": "",
+      "url": "https://www.toutiao.com/trending/7694920587639570441/"
+    },
+    {
+      "id": "evt-30000000",
+      "title": "周鸿祎攀岩从 3 米高处摔下，左膝粉碎性骨折，攀岩有哪些易被忽视的风险？攀岩时需要做好哪些防护？",
+      "category": "society",
+      "hotScore": 0.75,
+      "freshness": 0.9999,
+      "crossSource": 1,
+      "totalScore": 0.9,
       "sources": [
         {
           "channel": "zhihu",
-          "rank": 2,
+          "rank": 1,
           "hot": 0,
           "url": ""
         }
@@ -70,63 +64,32 @@
       "url": ""
     },
     {
-      "id": "evt-32210000",
-      "title": "亲子鉴定32份报告21个非亲生？假的",
+      "id": "evt-12000000",
+      "title": "央视曝投资1.2亿项目仅建5个棚",
       "category": "society",
-      "hotScore": 0.425,
-      "freshness": 1,
+      "hotScore": 0.68,
+      "freshness": 0.9999,
       "crossSource": 1,
-      "totalScore": 0.77,
+      "totalScore": 0.872,
       "sources": [
         {
           "channel": "toutiao",
-          "rank": 11,
-          "hot": 14253506,
-          "url": "https://www.toutiao.com/trending/7695209111373299754/"
-        },
-        {
-          "channel": "baidu",
-          "rank": 12,
-          "hot": 0,
-          "url": "https://m.baidu.com/s?word=%E4%BA%B2%E5%AD%90%E9%89%B4%E5%AE%9A32%E4%BB%BD%E6%8A%A5%E5%91%8A21%E4%B8%AA%E9%9D%9E%E4%BA%B2%E7%94%9F%EF%BC%9F%E5%81%87%E7%9A%84&sa=fyb_news"
+          "rank": 5,
+          "hot": 44063944,
+          "url": "https://www.toutiao.com/trending/7695387010010365971/"
         }
       ],
       "summary": "",
-      "url": "https://www.toutiao.com/trending/7695209111373299754/"
+      "url": "https://www.toutiao.com/trending/7695387010010365971/"
     },
     {
-      "id": "evt-a0000000",
-      "title": "胖东来施工现场 干净得像AI",
-      "category": "society",
-      "hotScore": 0.4,
-      "freshness": 1,
-      "crossSource": 1,
-      "totalScore": 0.76,
-      "sources": [
-        {
-          "channel": "toutiao",
-          "rank": 18,
-          "hot": 7078081,
-          "url": "https://www.toutiao.com/trending/7695311157557166121/"
-        },
-        {
-          "channel": "baidu",
-          "rank": 11,
-          "hot": 0,
-          "url": "https://m.baidu.com/s?word=%E8%83%96%E4%B8%9C%E6%9D%A5%E6%96%BD%E5%B7%A5%E7%8E%B0%E5%9C%BA+%E5%B9%B2%E5%87%80%E5%BE%97%E5%83%8FAI&sa=fyb_news"
-        }
-      ],
-      "summary": "",
-      "url": "https://www.toutiao.com/trending/7695311157557166121/"
-    },
-    {
-      "id": "evt-46ai0000",
-      "title": "媒体曝 46 岁「数学家」用 AI 炒股登上富豪榜，年赚 642 亿，如何看待这一造富神话？对普通人有借鉴意义吗？",
+      "id": "evt-21000000",
+      "title": "《纽约时报》评选 21 世纪百佳剧集《绝命毒师》登顶，这份榜单符合你的预期吗？",
       "category": "society",
       "hotScore": 0.675,
-      "freshness": 1,
-      "crossSource": 0.6309,
-      "totalScore": 0.7593,
+      "freshness": 0.9999,
+      "crossSource": 1,
+      "totalScore": 0.87,
       "sources": [
         {
           "channel": "zhihu",
@@ -139,51 +102,13 @@
       "url": ""
     },
     {
-      "id": "evt-33990000",
-      "title": "女子 3 个月对盒马 399 件商品申请仅退款，快递员取件退还吃剩的，涉嫌诈骗罪被采取刑事强制，如何看待此事？",
-      "category": "society",
-      "hotScore": 0.6375,
-      "freshness": 1,
-      "crossSource": 0.6309,
-      "totalScore": 0.7443,
-      "sources": [
-        {
-          "channel": "zhihu",
-          "rank": 4,
-          "hot": 0,
-          "url": ""
-        }
-      ],
-      "summary": "",
-      "url": ""
-    },
-    {
-      "id": "evt-12000000",
-      "title": "央视曝投资1.2亿项目仅建5个棚",
-      "category": "society",
-      "hotScore": 0.6,
-      "freshness": 1,
-      "crossSource": 0.6309,
-      "totalScore": 0.7293,
-      "sources": [
-        {
-          "channel": "baidu",
-          "rank": 6,
-          "hot": 0,
-          "url": "https://m.baidu.com/s?word=%E5%A4%AE%E8%A7%86%E6%9B%9D%E6%8A%95%E8%B5%841.2%E4%BA%BF%E9%A1%B9%E7%9B%AE%E4%BB%85%E5%BB%BA5%E4%B8%AA%E6%A3%9A&sa=fyb_news"
-        }
-      ],
-      "summary": "",
-      "url": "https://m.baidu.com/s?word=%E5%A4%AE%E8%A7%86%E6%9B%9D%E6%8A%95%E8%B5%841.2%E4%BA%BF%E9%A1%B9%E7%9B%AE%E4%BB%85%E5%BB%BA5%E4%B8%AA%E6%A3%9A&sa=fyb_news"
-    },
-    {
       "id": "evt-10000000",
       "title": "生涯1000赛首冠！郑钦文击败安德烈耶娃夺得中网女单冠军",
       "category": "society",
       "hotScore": 0.595,
       "freshness": 1,
-      "crossSource": 0.6309,
-      "totalScore": 0.7273,
+      "crossSource": 1,
+      "totalScore": 0.838,
       "sources": [
         {
           "channel": "thepaper",
@@ -197,12 +122,12 @@
     },
     {
       "id": "evt-ai000000",
-      "title": "AI 现在发展到什么程度了？",
+      "title": "如何评价真人化 AI 漫剧《持械入宋》？",
       "category": "society",
       "hotScore": 0.5625,
-      "freshness": 1,
-      "crossSource": 0.6309,
-      "totalScore": 0.7143,
+      "freshness": 0.9999,
+      "crossSource": 1,
+      "totalScore": 0.825,
       "sources": [
         {
           "channel": "zhihu",
@@ -215,17 +140,55 @@
       "url": ""
     },
     {
-      "id": "evt-71000000",
-      "title": "男子国庆被排 7 天班 1 天未去遭开除，法院判公司合法解除，从法律角度该如何解读？",
+      "id": "evt-20000000",
+      "title": "北京 2000 多万人口拥有 26 个 211 大学，山河四省 3 亿多人口拥有 6 个 211 大学，这种情况是否合理？",
       "category": "society",
-      "hotScore": 0.45,
-      "freshness": 1,
-      "crossSource": 0.6309,
-      "totalScore": 0.6693,
+      "hotScore": 0.525,
+      "freshness": 0.9999,
+      "crossSource": 1,
+      "totalScore": 0.81,
       "sources": [
         {
           "channel": "zhihu",
+          "rank": 7,
+          "hot": 0,
+          "url": ""
+        }
+      ],
+      "summary": "",
+      "url": ""
+    },
+    {
+      "id": "evt-43000000",
+      "title": "全市场超4300只个股下挫",
+      "category": "society",
+      "hotScore": 0.51,
+      "freshness": 0.9999,
+      "crossSource": 1,
+      "totalScore": 0.804,
+      "sources": [
+        {
+          "channel": "toutiao",
           "rank": 9,
+          "hot": 29536945,
+          "url": "https://www.toutiao.com/trending/7695199639390109737/"
+        }
+      ],
+      "summary": "",
+      "url": "https://www.toutiao.com/trending/7695199639390109737/"
+    },
+    {
+      "id": "evt-20200000",
+      "title": "郑钦文右肩受伤，退出 2026 年武汉网球公开赛，她的伤势有多严重？对后续比赛影响有多大？",
+      "category": "society",
+      "hotScore": 0.4875,
+      "freshness": 0.9999,
+      "crossSource": 1,
+      "totalScore": 0.795,
+      "sources": [
+        {
+          "channel": "zhihu",
+          "rank": 8,
           "hot": 0,
           "url": ""
         }
