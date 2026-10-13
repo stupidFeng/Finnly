@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-10-13T01:43:15.862Z",
+  "generatedAt": "2026-10-13T08:41:38.170Z",
   "fields": {
     "society": "社会",
     "economy": "经济",
@@ -7,71 +7,65 @@
   },
   "feed": [
     {
-      "id": "evt-00000000",
-      "title": "中科院回应“住酒店可进天眼核心区”",
+      "id": "evt-30000000",
+      "title": "3人死刑！缅北魏家犯罪集团案宣判",
       "category": "society",
       "hotScore": 0.85,
-      "freshness": 0.9999,
-      "crossSource": 1,
-      "totalScore": 0.94,
+      "freshness": 0.9998,
+      "crossSource": 0.6309,
+      "totalScore": 0.8292,
       "sources": [
         {
           "channel": "toutiao",
           "rank": 1,
-          "hot": 33541342,
-          "url": "https://www.toutiao.com/trending/7695297201647635987/"
-        },
-        {
-          "channel": "baidu",
-          "rank": 3,
-          "hot": 0,
-          "url": "https://m.baidu.com/s?word=%E4%B8%AD%E7%A7%91%E9%99%A2%E5%9B%9E%E5%BA%94%E2%80%9C%E4%BD%8F%E9%85%92%E5%BA%97%E5%8F%AF%E8%BF%9B%E5%A4%A9%E7%9C%BC%E6%A0%B8%E5%BF%83%E5%8C%BA%E2%80%9D&sa=fyb_news"
+          "hot": 8955640,
+          "url": "https://www.toutiao.com/trending/7696008851812417578/"
         }
       ],
       "summary": "",
-      "url": "https://www.toutiao.com/trending/7695297201647635987/"
+      "url": "https://www.toutiao.com/trending/7696008851812417578/"
     },
     {
-      "id": "evt-30000000",
-      "title": "马上评｜一条30年前的养犬规定，为何今天冲上了热搜",
-      "category": "society",
-      "hotScore": 0.85,
-      "freshness": 1,
-      "crossSource": 0.6309,
-      "totalScore": 0.8293,
-      "sources": [
-        {
-          "channel": "thepaper",
-          "rank": 1,
-          "hot": 0,
-          "url": "https://www.thepaper.cn/newsDetail_forward_34236849"
-        }
-      ],
-      "summary": "",
-      "url": "https://www.thepaper.cn/newsDetail_forward_34236849"
-    },
-    {
-      "id": "evt-97000000",
-      "title": "郑钦文收入97%来自品牌代言",
+      "id": "evt-00000000",
+      "title": "中方回应特朗普称不相信中俄在帮伊朗",
       "category": "society",
       "hotScore": 0.8075,
-      "freshness": 0.9999,
+      "freshness": 0.9998,
       "crossSource": 0.6309,
-      "totalScore": 0.8123,
+      "totalScore": 0.8122,
       "sources": [
         {
           "channel": "toutiao",
           "rank": 2,
-          "hot": 30349461,
-          "url": "https://www.toutiao.com/trending/7695191472153083940/"
+          "hot": 8103399,
+          "url": "https://www.toutiao.com/trending/7695661082907610687/"
         }
       ],
       "summary": "",
-      "url": "https://www.toutiao.com/trending/7695191472153083940/"
+      "url": "https://www.toutiao.com/trending/7695661082907610687/"
     },
     {
-      "id": "evt-29000000",
-      "title": "29万亿应收账款该怎么清欠",
+      "id": "evt-35000000",
+      "title": "男子称归还3千多万后，5千万原始借款仍被要求还4980万本金，河北高院开庭审理此案",
+      "category": "society",
+      "hotScore": 0.8075,
+      "freshness": 0.9999,
+      "crossSource": 0.6309,
+      "totalScore": 0.8122,
+      "sources": [
+        {
+          "channel": "thepaper",
+          "rank": 2,
+          "hot": 0,
+          "url": "https://www.thepaper.cn/newsDetail_forward_34236548"
+        }
+      ],
+      "summary": "",
+      "url": "https://www.thepaper.cn/newsDetail_forward_34236548"
+    },
+    {
+      "id": "evt-58000000",
+      "title": "夫妻点一杯58元咖啡只能一人落座",
       "category": "society",
       "hotScore": 0.76,
       "freshness": 1,
@@ -82,72 +76,53 @@
           "channel": "baidu",
           "rank": 2,
           "hot": 0,
-          "url": "https://m.baidu.com/s?word=29%E4%B8%87%E4%BA%BF%E5%BA%94%E6%94%B6%E8%B4%A6%E6%AC%BE%E8%AF%A5%E6%80%8E%E4%B9%88%E6%B8%85%E6%AC%A0&sa=fyb_news"
+          "url": "https://m.baidu.com/s?word=%E5%A4%AB%E5%A6%BB%E7%82%B9%E4%B8%80%E6%9D%AF58%E5%85%83%E5%92%96%E5%95%A1%E5%8F%AA%E8%83%BD%E4%B8%80%E4%BA%BA%E8%90%BD%E5%BA%A7&sa=fyb_news"
         }
       ],
       "summary": "",
-      "url": "https://m.baidu.com/s?word=29%E4%B8%87%E4%BA%BF%E5%BA%94%E6%94%B6%E8%B4%A6%E6%AC%BE%E8%AF%A5%E6%80%8E%E4%B9%88%E6%B8%85%E6%AC%A0&sa=fyb_news"
+      "url": "https://m.baidu.com/s?word=%E5%A4%AB%E5%A6%BB%E7%82%B9%E4%B8%80%E6%9D%AF58%E5%85%83%E5%92%96%E5%95%A1%E5%8F%AA%E8%83%BD%E4%B8%80%E4%BA%BA%E8%90%BD%E5%BA%A7&sa=fyb_news"
     },
     {
-      "id": "evt-13000000",
-      "title": "新能源车出口退税从 13% 降至 9%，2027 年 4 月落地，会影响国内车企出海利润与海外定价吗？",
-      "category": "economy",
-      "hotScore": 0.6375,
-      "freshness": 1,
-      "crossSource": 0.6309,
-      "totalScore": 0.7443,
-      "sources": [
-        {
-          "channel": "zhihu",
-          "rank": 4,
-          "hot": 0,
-          "url": ""
-        }
-      ],
-      "summary": "",
-      "url": ""
-    },
-    {
-      "id": "evt-20260000",
-      "title": "如何评价番茄小说 2026 年 10 月 12 日签约新规？",
+      "id": "evt-10000000",
+      "title": "滴露广告物化女性 被罚超100万",
       "category": "society",
-      "hotScore": 0.75,
+      "hotScore": 0.72,
       "freshness": 1,
       "crossSource": 0.6309,
-      "totalScore": 0.7893,
+      "totalScore": 0.7773,
       "sources": [
         {
-          "channel": "zhihu",
-          "rank": 1,
+          "channel": "baidu",
+          "rank": 3,
           "hot": 0,
-          "url": ""
+          "url": "https://m.baidu.com/s?word=%E6%BB%B4%E9%9C%B2%E5%B9%BF%E5%91%8A%E7%89%A9%E5%8C%96%E5%A5%B3%E6%80%A7+%E8%A2%AB%E7%BD%9A%E8%B6%85100%E4%B8%87&sa=fyb_news"
         }
       ],
       "summary": "",
-      "url": ""
+      "url": "https://m.baidu.com/s?word=%E6%BB%B4%E9%9C%B2%E5%B9%BF%E5%91%8A%E7%89%A9%E5%8C%96%E5%A5%B3%E6%80%A7+%E8%A2%AB%E7%BD%9A%E8%B6%85100%E4%B8%87&sa=fyb_news"
+    },
+    {
+      "id": "evt-79ai0000",
+      "title": "79岁老干妈陶华碧用AI一年赚了54亿",
+      "category": "society",
+      "hotScore": 0.6375,
+      "freshness": 0.9998,
+      "crossSource": 0.6309,
+      "totalScore": 0.7442,
+      "sources": [
+        {
+          "channel": "toutiao",
+          "rank": 6,
+          "hot": 5431870,
+          "url": "https://www.toutiao.com/trending/7695240616376303626/"
+        }
+      ],
+      "summary": "",
+      "url": "https://www.toutiao.com/trending/7695240616376303626/"
     },
     {
       "id": "evt-ai000000",
-      "title": "马上评｜AI真的会让下一代孩子变笨吗",
-      "category": "society",
-      "hotScore": 0.7225,
-      "freshness": 1,
-      "crossSource": 0.6309,
-      "totalScore": 0.7783,
-      "sources": [
-        {
-          "channel": "thepaper",
-          "rank": 4,
-          "hot": 0,
-          "url": "https://www.thepaper.cn/newsDetail_forward_34235227"
-        }
-      ],
-      "summary": "",
-      "url": "https://www.thepaper.cn/newsDetail_forward_34235227"
-    },
-    {
-      "id": "evt-a0000000",
-      "title": "A股又现天价离婚 女方分走近24亿元",
+      "title": "孩子越来越笨 AI正在惩罚下一代",
       "category": "society",
       "hotScore": 0.6,
       "freshness": 1,
@@ -158,39 +133,20 @@
           "channel": "baidu",
           "rank": 6,
           "hot": 0,
-          "url": "https://m.baidu.com/s?word=A%E8%82%A1%E5%8F%88%E7%8E%B0%E5%A4%A9%E4%BB%B7%E7%A6%BB%E5%A9%9A+%E5%A5%B3%E6%96%B9%E5%88%86%E8%B5%B0%E8%BF%9124%E4%BA%BF%E5%85%83&sa=fyb_news"
+          "url": "https://m.baidu.com/s?word=%E5%AD%A9%E5%AD%90%E8%B6%8A%E6%9D%A5%E8%B6%8A%E7%AC%A8+AI%E6%AD%A3%E5%9C%A8%E6%83%A9%E7%BD%9A%E4%B8%8B%E4%B8%80%E4%BB%A3&sa=fyb_news"
         }
       ],
       "summary": "",
-      "url": "https://m.baidu.com/s?word=A%E8%82%A1%E5%8F%88%E7%8E%B0%E5%A4%A9%E4%BB%B7%E7%A6%BB%E5%A9%9A+%E5%A5%B3%E6%96%B9%E5%88%86%E8%B5%B0%E8%BF%9124%E4%BA%BF%E5%85%83&sa=fyb_news"
+      "url": "https://m.baidu.com/s?word=%E5%AD%A9%E5%AD%90%E8%B6%8A%E6%9D%A5%E8%B6%8A%E7%AC%A8+AI%E6%AD%A3%E5%9C%A8%E6%83%A9%E7%BD%9A%E4%B8%8B%E4%B8%80%E4%BB%A3&sa=fyb_news"
     },
     {
-      "id": "evt-c0000000",
-      "title": "C罗凌空斩建功 攻入生涯第981球",
-      "category": "society",
-      "hotScore": 0.595,
-      "freshness": 0.9999,
-      "crossSource": 0.6309,
-      "totalScore": 0.7273,
-      "sources": [
-        {
-          "channel": "toutiao",
-          "rank": 7,
-          "hot": 18407879,
-          "url": "https://www.toutiao.com/trending/7695921898730819099/"
-        }
-      ],
-      "summary": "",
-      "url": "https://www.toutiao.com/trending/7695921898730819099/"
-    },
-    {
-      "id": "evt-13500000",
-      "title": "霸王茶姬奖励员工 1350 万元，350 万元团建费，1000 万元红包，全部给到一线门店员工，如何评价此举？",
+      "id": "evt-98521100",
+      "title": "第一学历非 985/211，找工作经常被卡，要不要去复读、重学高中知识，重新参加高考？",
       "category": "society",
       "hotScore": 0.5625,
-      "freshness": 1,
+      "freshness": 0.9998,
       "crossSource": 0.6309,
-      "totalScore": 0.7143,
+      "totalScore": 0.7142,
       "sources": [
         {
           "channel": "zhihu",
@@ -203,13 +159,108 @@
       "url": ""
     },
     {
-      "id": "evt-12000000",
-      "title": "媒体曝光内蒙古一投资 1.2 亿元项目，仅建成 5 个大棚，承建商为空壳公司，具体是怎么回事？钱还能追回来吗？",
+      "id": "evt-4a000000",
+      "title": "多家4A级旅游景区被“摘帽”",
       "category": "society",
-      "hotScore": 0.45,
+      "hotScore": 0.56,
       "freshness": 1,
       "crossSource": 0.6309,
-      "totalScore": 0.6693,
+      "totalScore": 0.7133,
+      "sources": [
+        {
+          "channel": "baidu",
+          "rank": 7,
+          "hot": 0,
+          "url": "https://m.baidu.com/s?word=%E5%A4%9A%E5%AE%B64A%E7%BA%A7%E6%97%85%E6%B8%B8%E6%99%AF%E5%8C%BA%E8%A2%AB%E2%80%9C%E6%91%98%E5%B8%BD%E2%80%9D&sa=fyb_news"
+        }
+      ],
+      "summary": "",
+      "url": "https://m.baidu.com/s?word=%E5%A4%9A%E5%AE%B64A%E7%BA%A7%E6%97%85%E6%B8%B8%E6%99%AF%E5%8C%BA%E8%A2%AB%E2%80%9C%E6%91%98%E5%B8%BD%E2%80%9D&sa=fyb_news"
+    },
+    {
+      "id": "evt-20270000",
+      "title": "问界汽车拟于 2027 年进入欧洲市场，赛力斯曾表示正推进问界车型全系出海，在海外还能复制国内热度吗？",
+      "category": "society",
+      "hotScore": 0.525,
+      "freshness": 0.9998,
+      "crossSource": 0.6309,
+      "totalScore": 0.6992,
+      "sources": [
+        {
+          "channel": "zhihu",
+          "rank": 7,
+          "hot": 0,
+          "url": ""
+        }
+      ],
+      "summary": "",
+      "url": ""
+    },
+    {
+      "id": "evt-24000000",
+      "title": "24岁女吃播猝死 或因缺钾",
+      "category": "society",
+      "hotScore": 0.51,
+      "freshness": 0.9998,
+      "crossSource": 0.6309,
+      "totalScore": 0.6932,
+      "sources": [
+        {
+          "channel": "toutiao",
+          "rank": 9,
+          "hot": 4024028,
+          "url": "https://www.toutiao.com/trending/7694892096247267347/"
+        }
+      ],
+      "summary": "",
+      "url": "https://www.toutiao.com/trending/7694892096247267347/"
+    },
+    {
+      "id": "evt-70000000",
+      "title": "70亩私立学校被伪造签名过户给商业公司？盐城市不动产登记中心：如果伪造须承担法律责任",
+      "category": "society",
+      "hotScore": 0.51,
+      "freshness": 0.9999,
+      "crossSource": 0.6309,
+      "totalScore": 0.6932,
+      "sources": [
+        {
+          "channel": "thepaper",
+          "rank": 9,
+          "hot": 0,
+          "url": "https://www.thepaper.cn/newsDetail_forward_34226378"
+        }
+      ],
+      "summary": "",
+      "url": "https://www.thepaper.cn/newsDetail_forward_34226378"
+    },
+    {
+      "id": "evt-355t0000",
+      "title": "35 岁前策划用 5 万元的 token 做出纯 AI 游戏，他说「单人能搓《原神》」，你认为这是暴论还是预言？",
+      "category": "society",
+      "hotScore": 0.4875,
+      "freshness": 0.9998,
+      "crossSource": 0.6309,
+      "totalScore": 0.6842,
+      "sources": [
+        {
+          "channel": "zhihu",
+          "rank": 8,
+          "hot": 0,
+          "url": ""
+        }
+      ],
+      "summary": "",
+      "url": ""
+    },
+    {
+      "id": "evt-25000000",
+      "title": "鸡蛋价格一个月下跌近 25%，从 6 元跌回 4 元时代，背后是什么原因？接下来还会继续降价吗？",
+      "category": "society",
+      "hotScore": 0.45,
+      "freshness": 0.9998,
+      "crossSource": 0.6309,
+      "totalScore": 0.6692,
       "sources": [
         {
           "channel": "zhihu",
