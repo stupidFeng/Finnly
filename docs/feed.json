@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-10-12T19:29:53.900Z",
+  "generatedAt": "2026-10-13T01:43:15.862Z",
   "fields": {
     "society": "社会",
     "economy": "经济",
@@ -8,41 +8,41 @@
   "feed": [
     {
       "id": "evt-00000000",
-      "title": "两款燃油车重回销量榜前十",
+      "title": "中科院回应“住酒店可进天眼核心区”",
       "category": "society",
-      "hotScore": 0.8075,
-      "freshness": 1,
+      "hotScore": 0.85,
+      "freshness": 0.9999,
       "crossSource": 1,
-      "totalScore": 0.923,
+      "totalScore": 0.94,
       "sources": [
         {
           "channel": "toutiao",
-          "rank": 2,
-          "hot": 41148897,
-          "url": "https://www.toutiao.com/trending/7694797057987002378/"
+          "rank": 1,
+          "hot": 33541342,
+          "url": "https://www.toutiao.com/trending/7695297201647635987/"
         },
         {
           "channel": "baidu",
-          "rank": 2,
+          "rank": 3,
           "hot": 0,
-          "url": "https://m.baidu.com/s?word=%E4%B8%A4%E6%AC%BE%E7%87%83%E6%B2%B9%E8%BD%A6%E9%87%8D%E5%9B%9E%E9%94%80%E9%87%8F%E6%A6%9C%E5%89%8D%E5%8D%81&sa=fyb_news"
+          "url": "https://m.baidu.com/s?word=%E4%B8%AD%E7%A7%91%E9%99%A2%E5%9B%9E%E5%BA%94%E2%80%9C%E4%BD%8F%E9%85%92%E5%BA%97%E5%8F%AF%E8%BF%9B%E5%A4%A9%E7%9C%BC%E6%A0%B8%E5%BF%83%E5%8C%BA%E2%80%9D&sa=fyb_news"
         }
       ],
       "summary": "",
-      "url": "https://www.toutiao.com/trending/7694797057987002378/"
+      "url": "https://www.toutiao.com/trending/7695297201647635987/"
     },
     {
       "id": "evt-30000000",
       "title": "马上评｜一条30年前的养犬规定，为何今天冲上了热搜",
       "category": "society",
-      "hotScore": 0.8075,
+      "hotScore": 0.85,
       "freshness": 1,
       "crossSource": 0.6309,
-      "totalScore": 0.8123,
+      "totalScore": 0.8293,
       "sources": [
         {
           "channel": "thepaper",
-          "rank": 2,
+          "rank": 1,
           "hot": 0,
           "url": "https://www.thepaper.cn/newsDetail_forward_34236849"
         }
@@ -51,8 +51,65 @@
       "url": "https://www.thepaper.cn/newsDetail_forward_34236849"
     },
     {
-      "id": "evt-55to0000",
-      "title": "中文在线称，中国 55% 的 token 消耗指向 AI 短剧，如何看待这一现象？",
+      "id": "evt-97000000",
+      "title": "郑钦文收入97%来自品牌代言",
+      "category": "society",
+      "hotScore": 0.8075,
+      "freshness": 0.9999,
+      "crossSource": 0.6309,
+      "totalScore": 0.8123,
+      "sources": [
+        {
+          "channel": "toutiao",
+          "rank": 2,
+          "hot": 30349461,
+          "url": "https://www.toutiao.com/trending/7695191472153083940/"
+        }
+      ],
+      "summary": "",
+      "url": "https://www.toutiao.com/trending/7695191472153083940/"
+    },
+    {
+      "id": "evt-29000000",
+      "title": "29万亿应收账款该怎么清欠",
+      "category": "society",
+      "hotScore": 0.76,
+      "freshness": 1,
+      "crossSource": 0.6309,
+      "totalScore": 0.7933,
+      "sources": [
+        {
+          "channel": "baidu",
+          "rank": 2,
+          "hot": 0,
+          "url": "https://m.baidu.com/s?word=29%E4%B8%87%E4%BA%BF%E5%BA%94%E6%94%B6%E8%B4%A6%E6%AC%BE%E8%AF%A5%E6%80%8E%E4%B9%88%E6%B8%85%E6%AC%A0&sa=fyb_news"
+        }
+      ],
+      "summary": "",
+      "url": "https://m.baidu.com/s?word=29%E4%B8%87%E4%BA%BF%E5%BA%94%E6%94%B6%E8%B4%A6%E6%AC%BE%E8%AF%A5%E6%80%8E%E4%B9%88%E6%B8%85%E6%AC%A0&sa=fyb_news"
+    },
+    {
+      "id": "evt-13000000",
+      "title": "新能源车出口退税从 13% 降至 9%，2027 年 4 月落地，会影响国内车企出海利润与海外定价吗？",
+      "category": "economy",
+      "hotScore": 0.6375,
+      "freshness": 1,
+      "crossSource": 0.6309,
+      "totalScore": 0.7443,
+      "sources": [
+        {
+          "channel": "zhihu",
+          "rank": 4,
+          "hot": 0,
+          "url": ""
+        }
+      ],
+      "summary": "",
+      "url": ""
+    },
+    {
+      "id": "evt-20260000",
+      "title": "如何评价番茄小说 2026 年 10 月 12 日签约新规？",
       "category": "society",
       "hotScore": 0.75,
       "freshness": 1,
@@ -89,150 +146,55 @@
       "url": "https://www.thepaper.cn/newsDetail_forward_34235227"
     },
     {
+      "id": "evt-a0000000",
+      "title": "A股又现天价离婚 女方分走近24亿元",
+      "category": "society",
+      "hotScore": 0.6,
+      "freshness": 1,
+      "crossSource": 0.6309,
+      "totalScore": 0.7293,
+      "sources": [
+        {
+          "channel": "baidu",
+          "rank": 6,
+          "hot": 0,
+          "url": "https://m.baidu.com/s?word=A%E8%82%A1%E5%8F%88%E7%8E%B0%E5%A4%A9%E4%BB%B7%E7%A6%BB%E5%A9%9A+%E5%A5%B3%E6%96%B9%E5%88%86%E8%B5%B0%E8%BF%9124%E4%BA%BF%E5%85%83&sa=fyb_news"
+        }
+      ],
+      "summary": "",
+      "url": "https://m.baidu.com/s?word=A%E8%82%A1%E5%8F%88%E7%8E%B0%E5%A4%A9%E4%BB%B7%E7%A6%BB%E5%A9%9A+%E5%A5%B3%E6%96%B9%E5%88%86%E8%B5%B0%E8%BF%9124%E4%BA%BF%E5%85%83&sa=fyb_news"
+    },
+    {
+      "id": "evt-c0000000",
+      "title": "C罗凌空斩建功 攻入生涯第981球",
+      "category": "society",
+      "hotScore": 0.595,
+      "freshness": 0.9999,
+      "crossSource": 0.6309,
+      "totalScore": 0.7273,
+      "sources": [
+        {
+          "channel": "toutiao",
+          "rank": 7,
+          "hot": 18407879,
+          "url": "https://www.toutiao.com/trending/7695921898730819099/"
+        }
+      ],
+      "summary": "",
+      "url": "https://www.toutiao.com/trending/7695921898730819099/"
+    },
+    {
       "id": "evt-13500000",
       "title": "霸王茶姬奖励员工 1350 万元，350 万元团建费，1000 万元红包，全部给到一线门店员工，如何评价此举？",
       "category": "society",
-      "hotScore": 0.7125,
+      "hotScore": 0.5625,
       "freshness": 1,
       "crossSource": 0.6309,
-      "totalScore": 0.7743,
+      "totalScore": 0.7143,
       "sources": [
         {
           "channel": "zhihu",
-          "rank": 2,
-          "hot": 0,
-          "url": ""
-        }
-      ],
-      "summary": "",
-      "url": ""
-    },
-    {
-      "id": "evt-31000000",
-      "title": "31岁抗癌博主离世 临终前狂吃冰",
-      "category": "society",
-      "hotScore": 0.68,
-      "freshness": 1,
-      "crossSource": 0.6309,
-      "totalScore": 0.7613,
-      "sources": [
-        {
-          "channel": "toutiao",
-          "rank": 5,
-          "hot": 30483852,
-          "url": "https://www.toutiao.com/trending/7694930087963476004/"
-        }
-      ],
-      "summary": "",
-      "url": "https://www.toutiao.com/trending/7694930087963476004/"
-    },
-    {
-      "id": "evt-50000000",
-      "title": "比亚迪副总裁：5年内成全球第一车企",
-      "category": "society",
-      "hotScore": 0.6375,
-      "freshness": 1,
-      "crossSource": 0.6309,
-      "totalScore": 0.7443,
-      "sources": [
-        {
-          "channel": "toutiao",
           "rank": 6,
-          "hot": 27582930,
-          "url": "https://www.toutiao.com/trending/7695467334634586634/"
-        }
-      ],
-      "summary": "",
-      "url": "https://www.toutiao.com/trending/7695467334634586634/"
-    },
-    {
-      "id": "evt-20260000",
-      "title": "日本爆发倒闭潮，2026 财年上半年负债千万日元以上企业破产 5373 起，创 13 年新高，背后有哪些原因？",
-      "category": "society",
-      "hotScore": 0.6375,
-      "freshness": 1,
-      "crossSource": 0.6309,
-      "totalScore": 0.7443,
-      "sources": [
-        {
-          "channel": "zhihu",
-          "rank": 4,
-          "hot": 0,
-          "url": ""
-        }
-      ],
-      "summary": "",
-      "url": ""
-    },
-    {
-      "id": "evt-10000000",
-      "title": "女子左臀疼1个月挤出发黑注射针头",
-      "category": "society",
-      "hotScore": 0.56,
-      "freshness": 1,
-      "crossSource": 0.6309,
-      "totalScore": 0.7133,
-      "sources": [
-        {
-          "channel": "baidu",
-          "rank": 7,
-          "hot": 0,
-          "url": "https://m.baidu.com/s?word=%E5%A5%B3%E5%AD%90%E5%B7%A6%E8%87%80%E7%96%BC1%E4%B8%AA%E6%9C%88%E6%8C%A4%E5%87%BA%E5%8F%91%E9%BB%91%E6%B3%A8%E5%B0%84%E9%92%88%E5%A4%B4&sa=fyb_news"
-        }
-      ],
-      "summary": "",
-      "url": "https://m.baidu.com/s?word=%E5%A5%B3%E5%AD%90%E5%B7%A6%E8%87%80%E7%96%BC1%E4%B8%AA%E6%9C%88%E6%8C%A4%E5%87%BA%E5%8F%91%E9%BB%91%E6%B3%A8%E5%B0%84%E9%92%88%E5%A4%B4&sa=fyb_news"
-    },
-    {
-      "id": "evt-97000000",
-      "title": "郑钦文收入97%来自品牌代言",
-      "category": "society",
-      "hotScore": 0.52,
-      "freshness": 1,
-      "crossSource": 0.6309,
-      "totalScore": 0.6973,
-      "sources": [
-        {
-          "channel": "baidu",
-          "rank": 8,
-          "hot": 0,
-          "url": "https://m.baidu.com/s?word=%E9%83%91%E9%92%A6%E6%96%87%E6%94%B6%E5%85%A597%25%E6%9D%A5%E8%87%AA%E5%93%81%E7%89%8C%E4%BB%A3%E8%A8%80&sa=fyb_news"
-        }
-      ],
-      "summary": "",
-      "url": "https://m.baidu.com/s?word=%E9%83%91%E9%92%A6%E6%96%87%E6%94%B6%E5%85%A597%25%E6%9D%A5%E8%87%AA%E5%93%81%E7%89%8C%E4%BB%A3%E8%A8%80&sa=fyb_news"
-    },
-    {
-      "id": "evt-35000000",
-      "title": "男子称归还3千多万后，5千万原始借款仍被要求还4980万本金，河北高院开庭审理此案",
-      "category": "society",
-      "hotScore": 0.51,
-      "freshness": 1,
-      "crossSource": 0.6309,
-      "totalScore": 0.6933,
-      "sources": [
-        {
-          "channel": "thepaper",
-          "rank": 9,
-          "hot": 0,
-          "url": "https://www.thepaper.cn/newsDetail_forward_34236548"
-        }
-      ],
-      "summary": "",
-      "url": "https://www.thepaper.cn/newsDetail_forward_34236548"
-    },
-    {
-      "id": "evt-airea000",
-      "title": "AI 逆向工程项目 REA 爆火，闭源软件是否都要被迫开源？",
-      "category": "society",
-      "hotScore": 0.4875,
-      "freshness": 1,
-      "crossSource": 0.6309,
-      "totalScore": 0.6843,
-      "sources": [
-        {
-          "channel": "zhihu",
-          "rank": 8,
           "hot": 0,
           "url": ""
         }
@@ -242,22 +204,22 @@
     },
     {
       "id": "evt-12000000",
-      "title": "央视曝投资1.2亿项目仅建5个棚",
+      "title": "媒体曝光内蒙古一投资 1.2 亿元项目，仅建成 5 个大棚，承建商为空壳公司，具体是怎么回事？钱还能追回来吗？",
       "category": "society",
-      "hotScore": 0.4675,
+      "hotScore": 0.45,
       "freshness": 1,
       "crossSource": 0.6309,
-      "totalScore": 0.6763,
+      "totalScore": 0.6693,
       "sources": [
         {
-          "channel": "toutiao",
-          "rank": 10,
-          "hot": 18489391,
-          "url": "https://www.toutiao.com/trending/7695387010010365971/"
+          "channel": "zhihu",
+          "rank": 9,
+          "hot": 0,
+          "url": ""
         }
       ],
       "summary": "",
-      "url": "https://www.toutiao.com/trending/7695387010010365971/"
+      "url": ""
     }
   ]
 }
