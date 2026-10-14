@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-10-14T19:49:57.165Z",
+  "generatedAt": "2026-10-14T22:49:52.951Z",
   "fields": {
     "society": "社会",
     "economy": "经济",
@@ -18,7 +18,7 @@
         {
           "channel": "toutiao",
           "rank": 1,
-          "hot": 38803642,
+          "hot": 39197777,
           "url": "https://www.toutiao.com/trending/7696389122834910756/"
         },
         {
@@ -51,25 +51,6 @@
       "url": "https://www.thepaper.cn/newsDetail_forward_34244532"
     },
     {
-      "id": "evt-50000000",
-      "title": "妈妈误寄50斤羊粪到女儿母校放了20天",
-      "category": "society",
-      "hotScore": 0.8075,
-      "freshness": 0.9999,
-      "crossSource": 0.6309,
-      "totalScore": 0.8123,
-      "sources": [
-        {
-          "channel": "toutiao",
-          "rank": 2,
-          "hot": 35110987,
-          "url": "https://www.toutiao.com/trending/7696126314881744922/"
-        }
-      ],
-      "summary": "",
-      "url": "https://www.toutiao.com/trending/7696126314881744922/"
-    },
-    {
       "id": "evt-20260000",
       "title": "2026年前三季度外贸量质齐升",
       "category": "society",
@@ -81,7 +62,7 @@
         {
           "channel": "toutiao",
           "rank": 3,
-          "hot": 31769735,
+          "hot": 32092425,
           "url": "https://www.toutiao.com/trending/7696012365628309547/"
         }
       ],
@@ -108,17 +89,17 @@
       "url": "https://m.baidu.com/s?word=%E4%BB%8A%E5%B9%B4%E5%8F%8C11%E5%91%8A%E5%88%AB%E7%AE%97%E6%95%B0%E9%A2%98&sa=fyb_news"
     },
     {
-      "id": "evt-openains",
-      "title": "怎么看 OpenAI 的 NS 数学证明被发现其实没遵循 Spanish program？",
+      "id": "evt-9cpi0000",
+      "title": "美国 9 月 CPI 数据公布，同比上涨 3.7%，高于市场预期的 3.6%，释放了哪些信号？",
       "category": "society",
-      "hotScore": 0.7125,
-      "freshness": 1,
+      "hotScore": 0.75,
+      "freshness": 0.9999,
       "crossSource": 0.6309,
-      "totalScore": 0.7743,
+      "totalScore": 0.7893,
       "sources": [
         {
           "channel": "zhihu",
-          "rank": 2,
+          "rank": 1,
           "hot": 0,
           "url": ""
         }
@@ -127,8 +108,46 @@
       "url": ""
     },
     {
+      "id": "evt-50000000",
+      "title": "妈妈误寄50斤羊粪到女儿母校放了20天",
+      "category": "society",
+      "hotScore": 0.7225,
+      "freshness": 0.9999,
+      "crossSource": 0.6309,
+      "totalScore": 0.7783,
+      "sources": [
+        {
+          "channel": "toutiao",
+          "rank": 4,
+          "hot": 29038427,
+          "url": "https://www.toutiao.com/trending/7696126314881744922/"
+        }
+      ],
+      "summary": "",
+      "url": "https://www.toutiao.com/trending/7696126314881744922/"
+    },
+    {
       "id": "evt-80000000",
       "title": "澎湃漫评｜检测时间都是“8点整”，形式主义最害人",
+      "category": "society",
+      "hotScore": 0.7225,
+      "freshness": 1,
+      "crossSource": 0.6309,
+      "totalScore": 0.7783,
+      "sources": [
+        {
+          "channel": "thepaper",
+          "rank": 4,
+          "hot": 0,
+          "url": "https://www.thepaper.cn/newsDetail_forward_34248756"
+        }
+      ],
+      "summary": "",
+      "url": "https://www.thepaper.cn/newsDetail_forward_34248756"
+    },
+    {
+      "id": "evt-20000000",
+      "title": "村干部成立公司2年中标本村14个工程？扬州市朴席镇：将了解清楚情况后回复",
       "category": "society",
       "hotScore": 0.68,
       "freshness": 1,
@@ -139,24 +158,43 @@
           "channel": "thepaper",
           "rank": 5,
           "hot": 0,
-          "url": "https://www.thepaper.cn/newsDetail_forward_34248756"
+          "url": "https://www.thepaper.cn/newsDetail_forward_34247682"
         }
       ],
       "summary": "",
-      "url": "https://www.thepaper.cn/newsDetail_forward_34248756"
+      "url": "https://www.thepaper.cn/newsDetail_forward_34247682"
     },
     {
-      "id": "evt-9cpi0000",
-      "title": "美国 9 月 CPI 数据公布，同比上涨 3.7%，高于市场预期的 3.6%，释放了哪些信号？",
+      "id": "evt-18000000",
+      "title": "贵州小伙零彩礼迎娶1.8米俄罗斯姑娘",
       "category": "society",
       "hotScore": 0.6375,
-      "freshness": 1,
+      "freshness": 0.9999,
       "crossSource": 0.6309,
       "totalScore": 0.7443,
       "sources": [
         {
+          "channel": "toutiao",
+          "rank": 6,
+          "hot": 23774653,
+          "url": "https://www.toutiao.com/trending/7696423986665754122/"
+        }
+      ],
+      "summary": "",
+      "url": "https://www.toutiao.com/trending/7696423986665754122/"
+    },
+    {
+      "id": "evt-ch000000",
+      "title": "如何看待网红女装品牌 CHICYOU 因使用狸花猫背部毛皮制作毛领遭网友抵制？哪些渠道的毛皮可能涉嫌违法？",
+      "category": "society",
+      "hotScore": 0.6,
+      "freshness": 0.9999,
+      "crossSource": 0.6309,
+      "totalScore": 0.7293,
+      "sources": [
+        {
           "channel": "zhihu",
-          "rank": 4,
+          "rank": 5,
           "hot": 0,
           "url": ""
         }
@@ -165,8 +203,8 @@
       "url": ""
     },
     {
-      "id": "evt-20270000",
-      "title": "2027年或成史上最热一年",
+      "id": "evt-23800000",
+      "title": "男子每天2包烟抽38年心脏血管堵90%",
       "category": "society",
       "hotScore": 0.595,
       "freshness": 0.9999,
@@ -176,50 +214,12 @@
         {
           "channel": "toutiao",
           "rank": 7,
-          "hot": 21295890,
-          "url": "https://www.toutiao.com/trending/7695657946173407275/"
+          "hot": 21512196,
+          "url": "https://www.toutiao.com/trending/7696350382911307803/"
         }
       ],
       "summary": "",
-      "url": "https://www.toutiao.com/trending/7695657946173407275/"
-    },
-    {
-      "id": "evt-20000000",
-      "title": "村干部成立公司2年中标本村14个工程？扬州市朴席镇：将了解清楚情况后回复",
-      "category": "society",
-      "hotScore": 0.5525,
-      "freshness": 1,
-      "crossSource": 0.6309,
-      "totalScore": 0.7103,
-      "sources": [
-        {
-          "channel": "thepaper",
-          "rank": 8,
-          "hot": 0,
-          "url": "https://www.thepaper.cn/newsDetail_forward_34247682"
-        }
-      ],
-      "summary": "",
-      "url": "https://www.thepaper.cn/newsDetail_forward_34247682"
-    },
-    {
-      "id": "evt-rtx508024gb",
-      "title": "传 RTX508024GB 定档 2027 年 Q1，如何看待该卡接任新旗舰？",
-      "category": "society",
-      "hotScore": 0.525,
-      "freshness": 1,
-      "crossSource": 0.6309,
-      "totalScore": 0.6993,
-      "sources": [
-        {
-          "channel": "zhihu",
-          "rank": 7,
-          "hot": 0,
-          "url": ""
-        }
-      ],
-      "summary": "",
-      "url": ""
+      "url": "https://www.toutiao.com/trending/7696350382911307803/"
     },
     {
       "id": "evt-20he0000",
@@ -241,30 +241,11 @@
       "url": "https://www.thepaper.cn/newsDetail_forward_34225747"
     },
     {
-      "id": "evt-23800000",
-      "title": "男子每天2包烟抽38年心脏血管堵90%",
-      "category": "society",
-      "hotScore": 0.4675,
-      "freshness": 0.9999,
-      "crossSource": 0.6309,
-      "totalScore": 0.6763,
-      "sources": [
-        {
-          "channel": "toutiao",
-          "rank": 10,
-          "hot": 15776383,
-          "url": "https://www.toutiao.com/trending/7696350382911307803/"
-        }
-      ],
-      "summary": "",
-      "url": "https://www.toutiao.com/trending/7696350382911307803/"
-    },
-    {
-      "id": "evt-ch000000",
-      "title": "如何看待网红女装品牌 CHICYOU 因使用狸花猫背部毛皮制作毛领遭网友抵制？哪些渠道的毛皮可能涉嫌违法？",
+      "id": "evt-a0000000",
+      "title": "郑钦文夺冠，上汽奥迪发文「AUDI 全系买一送一」，送的却是车模引发热议，大家怎么看？",
       "category": "society",
       "hotScore": 0.45,
-      "freshness": 1,
+      "freshness": 0.9999,
       "crossSource": 0.6309,
       "totalScore": 0.6693,
       "sources": [
