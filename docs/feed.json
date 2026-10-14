@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-10-14T02:38:57.835Z",
+  "generatedAt": "2026-10-14T09:07:45.132Z",
   "fields": {
     "society": "社会",
     "economy": "经济",
@@ -7,33 +7,33 @@
   },
   "feed": [
     {
-      "id": "evt-30000000",
-      "title": "缅北四大家族3个已被中国宣判",
+      "id": "evt-00000000",
+      "title": "李仁科院士开会期间辞世 年仅65岁",
       "category": "society",
-      "hotScore": 0.85,
+      "hotScore": 0.7225,
       "freshness": 1,
       "crossSource": 1,
-      "totalScore": 0.94,
+      "totalScore": 0.889,
       "sources": [
         {
           "channel": "toutiao",
-          "rank": 1,
-          "hot": 31893433,
-          "url": "https://www.toutiao.com/trending/7696014004717273151/"
+          "rank": 4,
+          "hot": 25622612,
+          "url": "https://www.toutiao.com/trending/7696197854696095794/"
         },
         {
           "channel": "baidu",
-          "rank": 2,
+          "rank": 9,
           "hot": 0,
-          "url": "https://m.baidu.com/s?word=%E7%BC%85%E5%8C%97%E5%9B%9B%E5%A4%A7%E5%AE%B6%E6%97%8F3%E4%B8%AA%E5%B7%B2%E8%A2%AB%E4%B8%AD%E5%9B%BD%E5%AE%A3%E5%88%A4&sa=fyb_news"
+          "url": "https://m.baidu.com/s?word=%E6%9D%8E%E4%BB%81%E7%A7%91%E9%99%A2%E5%A3%AB%E5%BC%80%E4%BC%9A%E6%9C%9F%E9%97%B4%E8%BE%9E%E4%B8%96+%E5%B9%B4%E4%BB%8565%E5%B2%81&sa=fyb_news"
         }
       ],
       "summary": "",
-      "url": "https://www.toutiao.com/trending/7696014004717273151/"
+      "url": "https://www.toutiao.com/trending/7696197854696095794/"
     },
     {
-      "id": "evt-00000000",
-      "title": "重庆市委原副书记、市政府原市长黄奇帆被查",
+      "id": "evt-19000000",
+      "title": "马上评｜1.9元汽水引发举报，无端耗费社会资源",
       "category": "society",
       "hotScore": 0.85,
       "freshness": 1,
@@ -44,34 +44,53 @@
           "channel": "thepaper",
           "rank": 1,
           "hot": 0,
-          "url": "https://www.thepaper.cn/newsDetail_forward_34243299"
+          "url": "https://www.thepaper.cn/newsDetail_forward_34244532"
         }
       ],
       "summary": "",
-      "url": "https://www.thepaper.cn/newsDetail_forward_34243299"
-    },
-    {
-      "id": "evt-19000000",
-      "title": "佛山一医生收患者1.9元汽水遭举报，律师：无利益交换且价值极低，不应追责",
-      "category": "society",
-      "hotScore": 0.8075,
-      "freshness": 1,
-      "crossSource": 0.6309,
-      "totalScore": 0.8123,
-      "sources": [
-        {
-          "channel": "thepaper",
-          "rank": 2,
-          "hot": 0,
-          "url": "https://www.thepaper.cn/newsDetail_forward_34243289"
-        }
-      ],
-      "summary": "",
-      "url": "https://www.thepaper.cn/newsDetail_forward_34243289"
+      "url": "https://www.thepaper.cn/newsDetail_forward_34244532"
     },
     {
       "id": "evt-ai000000",
       "title": "如何评价老干妈引入 AI 用于检验辣椒品质，将 600 人生产线减至 48 人？AI 能给食品制造业带来啥改变？",
+      "category": "society",
+      "hotScore": 0.7125,
+      "freshness": 1,
+      "crossSource": 0.6309,
+      "totalScore": 0.7743,
+      "sources": [
+        {
+          "channel": "zhihu",
+          "rank": 2,
+          "hot": 0,
+          "url": ""
+        }
+      ],
+      "summary": "",
+      "url": ""
+    },
+    {
+      "id": "evt-18000000",
+      "title": "贵州小伙零彩礼迎娶1.8米俄罗斯姑娘",
+      "category": "society",
+      "hotScore": 0.68,
+      "freshness": 1,
+      "crossSource": 0.6309,
+      "totalScore": 0.7613,
+      "sources": [
+        {
+          "channel": "toutiao",
+          "rank": 5,
+          "hot": 23184298,
+          "url": "https://www.toutiao.com/trending/7696423986665754122/"
+        }
+      ],
+      "summary": "",
+      "url": "https://www.toutiao.com/trending/7696423986665754122/"
+    },
+    {
+      "id": "evt-10000000",
+      "title": "有人高铁上开免提打 1 小时电话，前排乘客发声制止却被反问「和你有什么关系」，这种情况怎样处理最有效？",
       "category": "society",
       "hotScore": 0.675,
       "freshness": 1,
@@ -89,27 +108,84 @@
       "url": ""
     },
     {
-      "id": "evt-90000000",
-      "title": "真实姓名被9年未联系友人用作昵称",
+      "id": "evt-a0000000",
+      "title": "郑钦文夺冠，上汽奥迪发文「AUDI 全系买一送一」，送的却是车模引发热议，大家怎么看？",
       "category": "society",
-      "hotScore": 0.64,
+      "hotScore": 0.6375,
       "freshness": 1,
       "crossSource": 0.6309,
-      "totalScore": 0.7453,
+      "totalScore": 0.7443,
       "sources": [
         {
-          "channel": "baidu",
-          "rank": 5,
+          "channel": "zhihu",
+          "rank": 4,
           "hot": 0,
-          "url": "https://m.baidu.com/s?word=%E7%9C%9F%E5%AE%9E%E5%A7%93%E5%90%8D%E8%A2%AB9%E5%B9%B4%E6%9C%AA%E8%81%94%E7%B3%BB%E5%8F%8B%E4%BA%BA%E7%94%A8%E4%BD%9C%E6%98%B5%E7%A7%B0&sa=fyb_news"
+          "url": ""
         }
       ],
       "summary": "",
-      "url": "https://m.baidu.com/s?word=%E7%9C%9F%E5%AE%9E%E5%A7%93%E5%90%8D%E8%A2%AB9%E5%B9%B4%E6%9C%AA%E8%81%94%E7%B3%BB%E5%8F%8B%E4%BA%BA%E7%94%A8%E4%BD%9C%E6%98%B5%E7%A7%B0&sa=fyb_news"
+      "url": ""
     },
     {
-      "id": "evt-70000000",
-      "title": "7起涉导向违法广告典型案例公布：滴露物化女性广告两公司被罚共超100万",
+      "id": "evt-44000000",
+      "title": "44亿港元资产被限制！茶百道遭香港证监会停牌：IPO涉嫌人为操纵，募资款或暗中回流至承配人",
+      "category": "society",
+      "hotScore": 0.6375,
+      "freshness": 1,
+      "crossSource": 0.6309,
+      "totalScore": 0.7443,
+      "sources": [
+        {
+          "channel": "thepaper",
+          "rank": 6,
+          "hot": 0,
+          "url": "https://www.thepaper.cn/newsDetail_forward_34243282"
+        }
+      ],
+      "summary": "",
+      "url": "https://www.thepaper.cn/newsDetail_forward_34243282"
+    },
+    {
+      "id": "evt-50000000",
+      "title": "女子将50斤羊粪寄到女儿已毕业大学",
+      "category": "society",
+      "hotScore": 0.6,
+      "freshness": 1,
+      "crossSource": 0.6309,
+      "totalScore": 0.7293,
+      "sources": [
+        {
+          "channel": "baidu",
+          "rank": 6,
+          "hot": 0,
+          "url": "https://m.baidu.com/s?word=+%E5%A5%B3%E5%AD%90%E5%B0%8650%E6%96%A4%E7%BE%8A%E7%B2%AA%E5%AF%84%E5%88%B0%E5%A5%B3%E5%84%BF%E5%B7%B2%E6%AF%95%E4%B8%9A%E5%A4%A7%E5%AD%A6&sa=fyb_news"
+        }
+      ],
+      "summary": "",
+      "url": "https://m.baidu.com/s?word=+%E5%A5%B3%E5%AD%90%E5%B0%8650%E6%96%A4%E7%BE%8A%E7%B2%AA%E5%AF%84%E5%88%B0%E5%A5%B3%E5%84%BF%E5%B7%B2%E6%AF%95%E4%B8%9A%E5%A4%A7%E5%AD%A6&sa=fyb_news"
+    },
+    {
+      "id": "evt-60000000",
+      "title": "油价明晚或迎年内第6次下调",
+      "category": "society",
+      "hotScore": 0.595,
+      "freshness": 1,
+      "crossSource": 0.6309,
+      "totalScore": 0.7273,
+      "sources": [
+        {
+          "channel": "toutiao",
+          "rank": 7,
+          "hot": 18981698,
+          "url": "https://www.toutiao.com/trending/7696346834423300618/"
+        }
+      ],
+      "summary": "",
+      "url": "https://www.toutiao.com/trending/7696346834423300618/"
+    },
+    {
+      "id": "evt-a4400000",
+      "title": "A股收评：超4400只个股飘绿",
       "category": "society",
       "hotScore": 0.5525,
       "freshness": 1,
@@ -117,33 +193,33 @@
       "totalScore": 0.7103,
       "sources": [
         {
-          "channel": "thepaper",
+          "channel": "toutiao",
           "rank": 8,
-          "hot": 0,
-          "url": "https://www.thepaper.cn/newsDetail_forward_34242646"
+          "hot": 17175351,
+          "url": "https://www.toutiao.com/trending/7695697114206060563/"
         }
       ],
       "summary": "",
-      "url": "https://www.thepaper.cn/newsDetail_forward_34242646"
+      "url": "https://www.toutiao.com/trending/7695697114206060563/"
     },
     {
-      "id": "evt-52200000",
-      "title": "男生高考 522 分被调剂马术专业，成为在校本科生中唯一持证钉蹄师，前景如何？能带给选专业的学生哪些启发？",
+      "id": "evt-22000000",
+      "title": "想看人数超220万 肖战工作室紧急提醒",
       "category": "society",
-      "hotScore": 0.4875,
+      "hotScore": 0.44,
       "freshness": 1,
       "crossSource": 0.6309,
-      "totalScore": 0.6843,
+      "totalScore": 0.6653,
       "sources": [
         {
-          "channel": "zhihu",
-          "rank": 8,
+          "channel": "baidu",
+          "rank": 10,
           "hot": 0,
-          "url": ""
+          "url": "https://m.baidu.com/s?word=%E6%83%B3%E7%9C%8B%E4%BA%BA%E6%95%B0%E8%B6%85220%E4%B8%87+%E8%82%96%E6%88%98%E5%B7%A5%E4%BD%9C%E5%AE%A4%E7%B4%A7%E6%80%A5%E6%8F%90%E9%86%92&sa=fyb_news"
         }
       ],
       "summary": "",
-      "url": ""
+      "url": "https://m.baidu.com/s?word=%E6%83%B3%E7%9C%8B%E4%BA%BA%E6%95%B0%E8%B6%85220%E4%B8%87+%E8%82%96%E6%88%98%E5%B7%A5%E4%BD%9C%E5%AE%A4%E7%B4%A7%E6%80%A5%E6%8F%90%E9%86%92&sa=fyb_news"
     }
   ]
 }
