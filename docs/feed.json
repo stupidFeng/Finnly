@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-10-15T02:18:57.148Z",
+  "generatedAt": "2026-10-15T08:40:44.679Z",
   "fields": {
     "society": "社会",
     "economy": "经济",
@@ -8,60 +8,35 @@
   "feed": [
     {
       "id": "evt-00000000",
-      "title": "中国发现侏罗纪新鸟",
+      "title": "婴幼儿纸尿裤甲酰胺问题调查结果公布",
       "category": "society",
-      "hotScore": 0.7225,
-      "freshness": 0.9999,
+      "hotScore": 0.85,
+      "freshness": 0.9998,
       "crossSource": 1,
-      "totalScore": 0.889,
+      "totalScore": 0.9399,
       "sources": [
         {
           "channel": "toutiao",
-          "rank": 4,
-          "hot": 29528129,
-          "url": "https://www.toutiao.com/trending/7696537978378289195/"
+          "rank": 1,
+          "hot": 13221416,
+          "url": "https://www.toutiao.com/trending/7696801435836534323/"
         },
         {
           "channel": "baidu",
-          "rank": 3,
+          "rank": 2,
           "hot": 0,
-          "url": "https://m.baidu.com/s?word=%E4%B8%AD%E5%9B%BD%E5%8F%91%E7%8E%B0%E4%BE%8F%E7%BD%97%E7%BA%AA%E6%96%B0%E9%B8%9F&sa=fyb_news"
+          "url": "https://m.baidu.com/s?word=%E5%A9%B4%E5%B9%BC%E5%84%BF%E7%BA%B8%E5%B0%BF%E8%A3%A4%E7%94%B2%E9%85%B0%E8%83%BA%E9%97%AE%E9%A2%98%E8%B0%83%E6%9F%A5%E7%BB%93%E6%9E%9C%E5%85%AC%E5%B8%83&sa=fyb_news"
         }
       ],
       "summary": "",
-      "url": "https://www.toutiao.com/trending/7696537978378289195/"
-    },
-    {
-      "id": "evt-deepseek",
-      "title": "DeepSeek崩了",
-      "category": "society",
-      "hotScore": 0.68,
-      "freshness": 0.9999,
-      "crossSource": 1,
-      "totalScore": 0.872,
-      "sources": [
-        {
-          "channel": "toutiao",
-          "rank": 5,
-          "hot": 26718156,
-          "url": "https://www.toutiao.com/trending/7696697739286941247/"
-        },
-        {
-          "channel": "baidu",
-          "rank": 5,
-          "hot": 0,
-          "url": "https://m.baidu.com/s?word=DeepSeek%E5%B4%A9%E4%BA%86&sa=fyb_news"
-        }
-      ],
-      "summary": "",
-      "url": "https://www.toutiao.com/trending/7696697739286941247/"
+      "url": "https://www.toutiao.com/trending/7696801435836534323/"
     },
     {
       "id": "evt-20000000",
       "title": "村干部成立公司2年中标本村14个工程？扬州市朴席镇：将了解清楚情况后回复",
       "category": "society",
       "hotScore": 0.8075,
-      "freshness": 0.9999,
+      "freshness": 1,
       "crossSource": 0.6309,
       "totalScore": 0.8123,
       "sources": [
@@ -80,7 +55,7 @@
       "title": "澎湃漫评｜检测时间都是“8点整”，形式主义最害人",
       "category": "society",
       "hotScore": 0.765,
-      "freshness": 0.9999,
+      "freshness": 1,
       "crossSource": 0.6309,
       "totalScore": 0.7953,
       "sources": [
@@ -95,30 +70,30 @@
       "url": "https://www.thepaper.cn/newsDetail_forward_34248756"
     },
     {
-      "id": "evt-20260000",
-      "title": "2026年前三季度外贸量质齐升",
+      "id": "evt-1015deepse",
+      "title": "10 月 15 日 DeepSeek 网页和 App 显示「服务器暂时不可用」，可能是哪些原因导致的？",
       "category": "society",
-      "hotScore": 0.765,
+      "hotScore": 0.75,
       "freshness": 0.9999,
       "crossSource": 0.6309,
-      "totalScore": 0.7952,
+      "totalScore": 0.7892,
       "sources": [
         {
-          "channel": "toutiao",
-          "rank": 3,
-          "hot": 32633629,
-          "url": "https://www.toutiao.com/trending/7696012365628309547/"
+          "channel": "zhihu",
+          "rank": 1,
+          "hot": 0,
+          "url": ""
         }
       ],
       "summary": "",
-      "url": "https://www.toutiao.com/trending/7696012365628309547/"
+      "url": ""
     },
     {
       "id": "evt-24000000",
       "title": "沙特24小时内对也门发动119次袭击，胡塞武装称将以“升级还升级”",
       "category": "society",
       "hotScore": 0.68,
-      "freshness": 0.9999,
+      "freshness": 1,
       "crossSource": 0.6309,
       "totalScore": 0.7613,
       "sources": [
@@ -133,36 +108,55 @@
       "url": "https://www.thepaper.cn/newsDetail_forward_34249321"
     },
     {
-      "id": "evt-21000000",
-      "title": "台媒紧盯解放军21架艘次军机舰船活动",
+      "id": "evt-85000000",
+      "title": "顾客买850元脆皮捏捏 全捏碎后退货",
       "category": "society",
-      "hotScore": 0.6375,
+      "hotScore": 0.64,
       "freshness": 0.9999,
       "crossSource": 0.6309,
-      "totalScore": 0.7442,
+      "totalScore": 0.7452,
       "sources": [
         {
-          "channel": "toutiao",
-          "rank": 6,
-          "hot": 24175587,
-          "url": "https://www.toutiao.com/trending/7695970531115368502/"
+          "channel": "baidu",
+          "rank": 5,
+          "hot": 0,
+          "url": "https://m.baidu.com/s?word=%E9%A1%BE%E5%AE%A2%E4%B9%B0850%E5%85%83%E8%84%86%E7%9A%AE%E6%8D%8F%E6%8D%8F+%E5%85%A8%E6%8D%8F%E7%A2%8E%E5%90%8E%E9%80%80%E8%B4%A7&sa=fyb_news"
         }
       ],
       "summary": "",
-      "url": "https://www.toutiao.com/trending/7695970531115368502/"
+      "url": "https://m.baidu.com/s?word=%E9%A1%BE%E5%AE%A2%E4%B9%B0850%E5%85%83%E8%84%86%E7%9A%AE%E6%8D%8F%E6%8D%8F+%E5%85%A8%E6%8D%8F%E7%A2%8E%E5%90%8E%E9%80%80%E8%B4%A7&sa=fyb_news"
     },
     {
-      "id": "evt-openai00",
-      "title": "OpenAI 员工涉嫌在高管会议室安装窃听器，结果被自家 AI 协助破案，如何评价这起事件？",
+      "id": "evt-u0000000",
+      "title": "成都警方通报“女子持U型锁打人”：打人者被控制，编造“打死人”谣言者被罚",
       "category": "society",
       "hotScore": 0.6375,
+      "freshness": 1,
+      "crossSource": 0.6309,
+      "totalScore": 0.7443,
+      "sources": [
+        {
+          "channel": "thepaper",
+          "rank": 6,
+          "hot": 0,
+          "url": "https://www.thepaper.cn/newsDetail_forward_34251040"
+        }
+      ],
+      "summary": "",
+      "url": "https://www.thepaper.cn/newsDetail_forward_34251040"
+    },
+    {
+      "id": "evt-11000000",
+      "title": "双 11 促销规则越来越简单，为啥电商平台开始放弃复杂的满减玩法？电商大促正在发生哪些变化？",
+      "category": "society",
+      "hotScore": 0.6,
       "freshness": 0.9999,
       "crossSource": 0.6309,
-      "totalScore": 0.7442,
+      "totalScore": 0.7292,
       "sources": [
         {
           "channel": "zhihu",
-          "rank": 4,
+          "rank": 5,
           "hot": 0,
           "url": ""
         }
@@ -171,99 +165,80 @@
       "url": ""
     },
     {
-      "id": "evt-21230000",
-      "title": "这21小时23分 载入史册",
+      "id": "evt-20270000",
+      "title": "2027年或成史上最热一年",
       "category": "society",
-      "hotScore": 0.6,
-      "freshness": 1,
+      "hotScore": 0.5525,
+      "freshness": 0.9998,
       "crossSource": 0.6309,
-      "totalScore": 0.7293,
-      "sources": [
-        {
-          "channel": "baidu",
-          "rank": 6,
-          "hot": 0,
-          "url": "https://m.baidu.com/s?word=%E8%BF%9921%E5%B0%8F%E6%97%B623%E5%88%86+%E8%BD%BD%E5%85%A5%E5%8F%B2%E5%86%8C&sa=fyb_news"
-        }
-      ],
-      "summary": "",
-      "url": "https://m.baidu.com/s?word=%E8%BF%9921%E5%B0%8F%E6%97%B623%E5%88%86+%E8%BD%BD%E5%85%A5%E5%8F%B2%E5%86%8C&sa=fyb_news"
-    },
-    {
-      "id": "evt-73000000",
-      "title": "皇马7分钟连进3球逆转罗马",
-      "category": "society",
-      "hotScore": 0.595,
-      "freshness": 0.9999,
-      "crossSource": 0.6309,
-      "totalScore": 0.7272,
+      "totalScore": 0.7102,
       "sources": [
         {
           "channel": "toutiao",
-          "rank": 7,
-          "hot": 21874976,
-          "url": "https://www.toutiao.com/trending/7696607154354159659/"
+          "rank": 8,
+          "hot": 6565561,
+          "url": "https://www.toutiao.com/trending/7695657946173407275/"
         }
       ],
       "summary": "",
-      "url": "https://www.toutiao.com/trending/7696607154354159659/"
+      "url": "https://www.toutiao.com/trending/7695657946173407275/"
     },
     {
-      "id": "evt-31000000",
-      "title": "创业板指跌超3% 沪指低开1.5%",
+      "id": "evt-iphone00",
+      "title": "如何评价京东 iPhone Duo 早鸟包，不能抵手机款且不能退款，被网友指官方黄牛？平台这样做合理吗？",
       "category": "society",
-      "hotScore": 0.52,
-      "freshness": 1,
+      "hotScore": 0.4875,
+      "freshness": 0.9999,
       "crossSource": 0.6309,
-      "totalScore": 0.6973,
+      "totalScore": 0.6842,
       "sources": [
         {
-          "channel": "baidu",
+          "channel": "zhihu",
           "rank": 8,
           "hot": 0,
-          "url": "https://m.baidu.com/s?word=%E5%88%9B%E4%B8%9A%E6%9D%BF%E6%8C%87%E8%B7%8C%E8%B6%853%25+%E6%B2%AA%E6%8C%87%E4%BD%8E%E5%BC%801.5%25&sa=fyb_news"
+          "url": ""
         }
       ],
       "summary": "",
-      "url": "https://m.baidu.com/s?word=%E5%88%9B%E4%B8%9A%E6%9D%BF%E6%8C%87%E8%B7%8C%E8%B6%853%25+%E6%B2%AA%E6%8C%87%E4%BD%8E%E5%BC%801.5%25&sa=fyb_news"
+      "url": ""
     },
     {
-      "id": "evt-10000000",
-      "title": "1岁男童误食毒鸡蛋中毒后邻居自首",
+      "id": "evt-40000000",
+      "title": "马上评｜搜出来这么多冒牌400电话，平台要承担责任吗？",
       "category": "society",
-      "hotScore": 0.48,
+      "hotScore": 0.4675,
       "freshness": 1,
       "crossSource": 0.6309,
-      "totalScore": 0.6813,
+      "totalScore": 0.6763,
+      "sources": [
+        {
+          "channel": "thepaper",
+          "rank": 10,
+          "hot": 0,
+          "url": "https://www.thepaper.cn/newsDetail_forward_34255232"
+        }
+      ],
+      "summary": "",
+      "url": "https://www.thepaper.cn/newsDetail_forward_34255232"
+    },
+    {
+      "id": "evt-iphone18pro",
+      "title": "iPhone 18 Pro系列降价",
+      "category": "society",
+      "hotScore": 0.44,
+      "freshness": 0.9999,
+      "crossSource": 0.6309,
+      "totalScore": 0.6652,
       "sources": [
         {
           "channel": "baidu",
-          "rank": 9,
-          "hot": 0,
-          "url": "https://m.baidu.com/s?word=1%E5%B2%81%E7%94%B7%E7%AB%A5%E8%AF%AF%E9%A3%9F%E6%AF%92%E9%B8%A1%E8%9B%8B%E4%B8%AD%E6%AF%92%E5%90%8E%E9%82%BB%E5%B1%85%E8%87%AA%E9%A6%96&sa=fyb_news"
-        }
-      ],
-      "summary": "",
-      "url": "https://m.baidu.com/s?word=1%E5%B2%81%E7%94%B7%E7%AB%A5%E8%AF%AF%E9%A3%9F%E6%AF%92%E9%B8%A1%E8%9B%8B%E4%B8%AD%E6%AF%92%E5%90%8E%E9%82%BB%E5%B1%85%E8%87%AA%E9%A6%96&sa=fyb_news"
-    },
-    {
-      "id": "evt-12000000",
-      "title": "国际油价或突破120美元",
-      "category": "society",
-      "hotScore": 0.4675,
-      "freshness": 0.9999,
-      "crossSource": 0.6309,
-      "totalScore": 0.6762,
-      "sources": [
-        {
-          "channel": "toutiao",
           "rank": 10,
-          "hot": 16205381,
-          "url": "https://www.toutiao.com/trending/7696550339511586323/"
+          "hot": 0,
+          "url": "https://m.baidu.com/s?word=iPhone+18+Pro%E7%B3%BB%E5%88%97%E9%99%8D%E4%BB%B7&sa=fyb_news"
         }
       ],
       "summary": "",
-      "url": "https://www.toutiao.com/trending/7696550339511586323/"
+      "url": "https://m.baidu.com/s?word=iPhone+18+Pro%E7%B3%BB%E5%88%97%E9%99%8D%E4%BB%B7&sa=fyb_news"
     }
   ]
 }
