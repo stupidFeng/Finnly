@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-10-15T19:33:29.782Z",
+  "generatedAt": "2026-10-15T22:45:50.633Z",
   "fields": {
     "society": "社会",
     "economy": "经济",
@@ -11,14 +11,14 @@
       "title": "13岁男孩身高195cm 全网求长高食谱",
       "category": "society",
       "hotScore": 0.6,
-      "freshness": 1,
+      "freshness": 0.9999,
       "crossSource": 1,
       "totalScore": 0.84,
       "sources": [
         {
           "channel": "toutiao",
-          "rank": 8,
-          "hot": 10700357,
+          "rank": 9,
+          "hot": 10337291,
           "url": "https://www.toutiao.com/trending/7696319809822703666/"
         },
         {
@@ -36,14 +36,14 @@
       "title": "11月1日起社保缴费有新变化",
       "category": "society",
       "hotScore": 0.85,
-      "freshness": 1,
+      "freshness": 0.9999,
       "crossSource": 0.6309,
       "totalScore": 0.8293,
       "sources": [
         {
           "channel": "toutiao",
           "rank": 1,
-          "hot": 21547873,
+          "hot": 23006065,
           "url": "https://www.toutiao.com/trending/7695902034788876307/"
         }
       ],
@@ -70,68 +70,11 @@
       "url": "https://www.thepaper.cn/newsDetail_forward_34256510"
     },
     {
-      "id": "evt-47000000",
-      "title": "黄海南部实弹射击 连续47天禁止驶入",
-      "category": "society",
-      "hotScore": 0.7225,
-      "freshness": 1,
-      "crossSource": 0.6309,
-      "totalScore": 0.7783,
-      "sources": [
-        {
-          "channel": "toutiao",
-          "rank": 4,
-          "hot": 15963057,
-          "url": "https://www.toutiao.com/trending/7696567128011375142/"
-        }
-      ],
-      "summary": "",
-      "url": "https://www.toutiao.com/trending/7696567128011375142/"
-    },
-    {
-      "id": "evt-10150000",
-      "title": "10 月 15 日全球股市大跌，为什么会这样？相互之间有哪些关联吗？",
-      "category": "economy",
-      "hotScore": 0.5625,
-      "freshness": 1,
-      "crossSource": 0.6309,
-      "totalScore": 0.7143,
-      "sources": [
-        {
-          "channel": "zhihu",
-          "rank": 6,
-          "hot": 0,
-          "url": ""
-        }
-      ],
-      "summary": "",
-      "url": ""
-    },
-    {
-      "id": "evt-17900000",
-      "title": "酒店因肖战演唱会从 179 元涨到 2193 元，市监部门称「明码标价都是正常的」，你怎么看？这合理吗？",
-      "category": "entertainment",
-      "hotScore": 0.4875,
-      "freshness": 1,
-      "crossSource": 0.6309,
-      "totalScore": 0.6843,
-      "sources": [
-        {
-          "channel": "zhihu",
-          "rank": 8,
-          "hot": 0,
-          "url": ""
-        }
-      ],
-      "summary": "",
-      "url": ""
-    },
-    {
       "id": "evt-deepseek",
       "title": "如何评价 DeepSeek 停摆 5 小时后，按最近七日 api 消耗向用户发放补偿赠金？",
       "category": "society",
       "hotScore": 0.7125,
-      "freshness": 1,
+      "freshness": 0.9999,
       "crossSource": 0.6309,
       "totalScore": 0.7743,
       "sources": [
@@ -146,17 +89,17 @@
       "url": ""
     },
     {
-      "id": "evt-10000000",
-      "title": "1 岁宝宝吃下被邻居投毒的鸡蛋后进 ICU，邻居自首称「想毒黄鼠狼」，你怎么看？邻居该担什么法律责任？",
-      "category": "society",
-      "hotScore": 0.675,
-      "freshness": 1,
+      "id": "evt-10150000",
+      "title": "10 月 15 日全球股市大跌，为什么会这样？相互之间有哪些关联吗？",
+      "category": "economy",
+      "hotScore": 0.4875,
+      "freshness": 0.9999,
       "crossSource": 0.6309,
-      "totalScore": 0.7593,
+      "totalScore": 0.6843,
       "sources": [
         {
           "channel": "zhihu",
-          "rank": 3,
+          "rank": 8,
           "hot": 0,
           "url": ""
         }
@@ -165,17 +108,55 @@
       "url": ""
     },
     {
-      "id": "evt-lol00000",
-      "title": "LoL 官方宣布经典模式将于 2027 年 1 月下架，怀旧模式为何难以留住玩家？",
-      "category": "society",
-      "hotScore": 0.6375,
-      "freshness": 1,
+      "id": "evt-17900000",
+      "title": "酒店因肖战演唱会从 179 元涨到 2193 元，市监部门称「明码标价都是正常的」，你怎么看？这合理吗？",
+      "category": "entertainment",
+      "hotScore": 0.525,
+      "freshness": 0.9999,
       "crossSource": 0.6309,
-      "totalScore": 0.7443,
+      "totalScore": 0.6993,
       "sources": [
         {
           "channel": "zhihu",
-          "rank": 4,
+          "rank": 7,
+          "hot": 0,
+          "url": ""
+        }
+      ],
+      "summary": "",
+      "url": ""
+    },
+    {
+      "id": "evt-47000000",
+      "title": "黄海南部实弹射击 连续47天禁止驶入",
+      "category": "society",
+      "hotScore": 0.68,
+      "freshness": 0.9999,
+      "crossSource": 0.6309,
+      "totalScore": 0.7613,
+      "sources": [
+        {
+          "channel": "toutiao",
+          "rank": 5,
+          "hot": 15421426,
+          "url": "https://www.toutiao.com/trending/7696567128011375142/"
+        }
+      ],
+      "summary": "",
+      "url": "https://www.toutiao.com/trending/7696567128011375142/"
+    },
+    {
+      "id": "evt-10000000",
+      "title": "1 岁宝宝吃下被邻居投毒的鸡蛋后进 ICU，邻居自首称「想毒黄鼠狼」，你怎么看？邻居该担什么法律责任？",
+      "category": "society",
+      "hotScore": 0.675,
+      "freshness": 0.9999,
+      "crossSource": 0.6309,
+      "totalScore": 0.7593,
+      "sources": [
+        {
+          "channel": "zhihu",
+          "rank": 3,
           "hot": 0,
           "url": ""
         }
@@ -203,61 +184,80 @@
       "url": "https://www.thepaper.cn/newsDetail_forward_34255232"
     },
     {
-      "id": "evt-pc000000",
-      "title": "PC为何卖不动了",
+      "id": "evt-lol00000",
+      "title": "LoL 官方宣布经典模式将于 2027 年 1 月下架，怀旧模式为何难以留住玩家？",
       "category": "society",
-      "hotScore": 0.595,
-      "freshness": 1,
+      "hotScore": 0.6,
+      "freshness": 0.9999,
       "crossSource": 0.6309,
-      "totalScore": 0.7273,
+      "totalScore": 0.7293,
       "sources": [
         {
-          "channel": "toutiao",
-          "rank": 7,
-          "hot": 11825723,
-          "url": "https://www.toutiao.com/trending/7696808119610904105/"
+          "channel": "zhihu",
+          "rank": 5,
+          "hot": 0,
+          "url": ""
         }
       ],
       "summary": "",
-      "url": "https://www.toutiao.com/trending/7696808119610904105/"
+      "url": ""
+    },
+    {
+      "id": "evt-70000000",
+      "title": "7岁女孩用电话手表给姨妈拍婚礼大片",
+      "category": "society",
+      "hotScore": 0.48,
+      "freshness": 1,
+      "crossSource": 0.6309,
+      "totalScore": 0.6813,
+      "sources": [
+        {
+          "channel": "baidu",
+          "rank": 9,
+          "hot": 0,
+          "url": "https://m.baidu.com/s?word=7%E5%B2%81%E5%A5%B3%E5%AD%A9%E7%94%A8%E7%94%B5%E8%AF%9D%E6%89%8B%E8%A1%A8%E7%BB%99%E5%A7%A8%E5%A6%88%E6%8B%8D%E5%A9%9A%E7%A4%BC%E5%A4%A7%E7%89%87&sa=fyb_news"
+        }
+      ],
+      "summary": "",
+      "url": "https://m.baidu.com/s?word=7%E5%B2%81%E5%A5%B3%E5%AD%A9%E7%94%A8%E7%94%B5%E8%AF%9D%E6%89%8B%E8%A1%A8%E7%BB%99%E5%A7%A8%E5%A6%88%E6%8B%8D%E5%A9%9A%E7%A4%BC%E5%A4%A7%E7%89%87&sa=fyb_news"
+    },
+    {
+      "id": "evt-20300000",
+      "title": "宝马宣布2030年在华国产车型将超95%",
+      "category": "society",
+      "hotScore": 0.4675,
+      "freshness": 0.9999,
+      "crossSource": 0.6309,
+      "totalScore": 0.6763,
+      "sources": [
+        {
+          "channel": "toutiao",
+          "rank": 10,
+          "hot": 9353568,
+          "url": "https://www.toutiao.com/trending/7696782550324235839/"
+        }
+      ],
+      "summary": "",
+      "url": "https://www.toutiao.com/trending/7696782550324235839/"
     },
     {
       "id": "evt-17000000",
       "title": "婆婆照料植物人儿媳17年唤醒对方",
       "category": "society",
-      "hotScore": 0.56,
+      "hotScore": 0.44,
       "freshness": 1,
       "crossSource": 0.6309,
-      "totalScore": 0.7133,
+      "totalScore": 0.6653,
       "sources": [
         {
           "channel": "baidu",
-          "rank": 7,
+          "rank": 10,
           "hot": 0,
           "url": "https://m.baidu.com/s?word=%E5%A9%86%E5%A9%86%E7%85%A7%E6%96%99%E6%A4%8D%E7%89%A9%E4%BA%BA%E5%84%BF%E5%AA%B317%E5%B9%B4%E5%94%A4%E9%86%92%E5%AF%B9%E6%96%B9&sa=fyb_news"
         }
       ],
       "summary": "",
       "url": "https://m.baidu.com/s?word=%E5%A9%86%E5%A9%86%E7%85%A7%E6%96%99%E6%A4%8D%E7%89%A9%E4%BA%BA%E5%84%BF%E5%AA%B317%E5%B9%B4%E5%94%A4%E9%86%92%E5%AF%B9%E6%96%B9&sa=fyb_news"
-    },
-    {
-      "id": "evt-60000000",
-      "title": "车辆从60米高架坠下车主轻伤",
-      "category": "society",
-      "hotScore": 0.51,
-      "freshness": 1,
-      "crossSource": 0.6309,
-      "totalScore": 0.6933,
-      "sources": [
-        {
-          "channel": "toutiao",
-          "rank": 9,
-          "hot": 9682083,
-          "url": "https://www.toutiao.com/trending/7695981761755611174/"
-        }
-      ],
-      "summary": "",
-      "url": "https://www.toutiao.com/trending/7695981761755611174/"
     }
   ]
 }
