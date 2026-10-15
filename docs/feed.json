@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-10-14T22:49:52.951Z",
+  "generatedAt": "2026-10-15T02:18:57.148Z",
   "fields": {
     "society": "社会",
     "economy": "经济",
@@ -8,155 +8,66 @@
   "feed": [
     {
       "id": "evt-00000000",
-      "title": "多地组织筛查干部档案 有何深意",
+      "title": "中国发现侏罗纪新鸟",
       "category": "society",
-      "hotScore": 0.85,
+      "hotScore": 0.7225,
       "freshness": 0.9999,
       "crossSource": 1,
-      "totalScore": 0.94,
+      "totalScore": 0.889,
       "sources": [
         {
           "channel": "toutiao",
-          "rank": 1,
-          "hot": 39197777,
-          "url": "https://www.toutiao.com/trending/7696389122834910756/"
+          "rank": 4,
+          "hot": 29528129,
+          "url": "https://www.toutiao.com/trending/7696537978378289195/"
         },
         {
           "channel": "baidu",
           "rank": 3,
           "hot": 0,
-          "url": "https://m.baidu.com/s?word=%E5%A4%9A%E5%9C%B0%E7%BB%84%E7%BB%87%E7%AD%9B%E6%9F%A5%E5%B9%B2%E9%83%A8%E6%A1%A3%E6%A1%88+%E6%9C%89%E4%BD%95%E6%B7%B1%E6%84%8F&sa=fyb_news"
+          "url": "https://m.baidu.com/s?word=%E4%B8%AD%E5%9B%BD%E5%8F%91%E7%8E%B0%E4%BE%8F%E7%BD%97%E7%BA%AA%E6%96%B0%E9%B8%9F&sa=fyb_news"
         }
       ],
       "summary": "",
-      "url": "https://www.toutiao.com/trending/7696389122834910756/"
+      "url": "https://www.toutiao.com/trending/7696537978378289195/"
     },
     {
-      "id": "evt-19000000",
-      "title": "马上评｜1.9元汽水引发举报，无端耗费社会资源",
+      "id": "evt-deepseek",
+      "title": "DeepSeek崩了",
       "category": "society",
-      "hotScore": 0.85,
-      "freshness": 1,
-      "crossSource": 0.6309,
-      "totalScore": 0.8293,
-      "sources": [
-        {
-          "channel": "thepaper",
-          "rank": 1,
-          "hot": 0,
-          "url": "https://www.thepaper.cn/newsDetail_forward_34244532"
-        }
-      ],
-      "summary": "",
-      "url": "https://www.thepaper.cn/newsDetail_forward_34244532"
-    },
-    {
-      "id": "evt-20260000",
-      "title": "2026年前三季度外贸量质齐升",
-      "category": "society",
-      "hotScore": 0.765,
+      "hotScore": 0.68,
       "freshness": 0.9999,
-      "crossSource": 0.6309,
-      "totalScore": 0.7953,
+      "crossSource": 1,
+      "totalScore": 0.872,
       "sources": [
         {
           "channel": "toutiao",
-          "rank": 3,
-          "hot": 32092425,
-          "url": "https://www.toutiao.com/trending/7696012365628309547/"
-        }
-      ],
-      "summary": "",
-      "url": "https://www.toutiao.com/trending/7696012365628309547/"
-    },
-    {
-      "id": "evt-11000000",
-      "title": "今年双11告别算数题",
-      "category": "society",
-      "hotScore": 0.76,
-      "freshness": 1,
-      "crossSource": 0.6309,
-      "totalScore": 0.7933,
-      "sources": [
+          "rank": 5,
+          "hot": 26718156,
+          "url": "https://www.toutiao.com/trending/7696697739286941247/"
+        },
         {
           "channel": "baidu",
-          "rank": 2,
+          "rank": 5,
           "hot": 0,
-          "url": "https://m.baidu.com/s?word=%E4%BB%8A%E5%B9%B4%E5%8F%8C11%E5%91%8A%E5%88%AB%E7%AE%97%E6%95%B0%E9%A2%98&sa=fyb_news"
+          "url": "https://m.baidu.com/s?word=DeepSeek%E5%B4%A9%E4%BA%86&sa=fyb_news"
         }
       ],
       "summary": "",
-      "url": "https://m.baidu.com/s?word=%E4%BB%8A%E5%B9%B4%E5%8F%8C11%E5%91%8A%E5%88%AB%E7%AE%97%E6%95%B0%E9%A2%98&sa=fyb_news"
-    },
-    {
-      "id": "evt-9cpi0000",
-      "title": "美国 9 月 CPI 数据公布，同比上涨 3.7%，高于市场预期的 3.6%，释放了哪些信号？",
-      "category": "society",
-      "hotScore": 0.75,
-      "freshness": 0.9999,
-      "crossSource": 0.6309,
-      "totalScore": 0.7893,
-      "sources": [
-        {
-          "channel": "zhihu",
-          "rank": 1,
-          "hot": 0,
-          "url": ""
-        }
-      ],
-      "summary": "",
-      "url": ""
-    },
-    {
-      "id": "evt-50000000",
-      "title": "妈妈误寄50斤羊粪到女儿母校放了20天",
-      "category": "society",
-      "hotScore": 0.7225,
-      "freshness": 0.9999,
-      "crossSource": 0.6309,
-      "totalScore": 0.7783,
-      "sources": [
-        {
-          "channel": "toutiao",
-          "rank": 4,
-          "hot": 29038427,
-          "url": "https://www.toutiao.com/trending/7696126314881744922/"
-        }
-      ],
-      "summary": "",
-      "url": "https://www.toutiao.com/trending/7696126314881744922/"
-    },
-    {
-      "id": "evt-80000000",
-      "title": "澎湃漫评｜检测时间都是“8点整”，形式主义最害人",
-      "category": "society",
-      "hotScore": 0.7225,
-      "freshness": 1,
-      "crossSource": 0.6309,
-      "totalScore": 0.7783,
-      "sources": [
-        {
-          "channel": "thepaper",
-          "rank": 4,
-          "hot": 0,
-          "url": "https://www.thepaper.cn/newsDetail_forward_34248756"
-        }
-      ],
-      "summary": "",
-      "url": "https://www.thepaper.cn/newsDetail_forward_34248756"
+      "url": "https://www.toutiao.com/trending/7696697739286941247/"
     },
     {
       "id": "evt-20000000",
       "title": "村干部成立公司2年中标本村14个工程？扬州市朴席镇：将了解清楚情况后回复",
       "category": "society",
-      "hotScore": 0.68,
-      "freshness": 1,
+      "hotScore": 0.8075,
+      "freshness": 0.9999,
       "crossSource": 0.6309,
-      "totalScore": 0.7613,
+      "totalScore": 0.8123,
       "sources": [
         {
           "channel": "thepaper",
-          "rank": 5,
+          "rank": 2,
           "hot": 0,
           "url": "https://www.thepaper.cn/newsDetail_forward_34247682"
         }
@@ -165,99 +76,194 @@
       "url": "https://www.thepaper.cn/newsDetail_forward_34247682"
     },
     {
-      "id": "evt-18000000",
-      "title": "贵州小伙零彩礼迎娶1.8米俄罗斯姑娘",
+      "id": "evt-80000000",
+      "title": "澎湃漫评｜检测时间都是“8点整”，形式主义最害人",
+      "category": "society",
+      "hotScore": 0.765,
+      "freshness": 0.9999,
+      "crossSource": 0.6309,
+      "totalScore": 0.7953,
+      "sources": [
+        {
+          "channel": "thepaper",
+          "rank": 3,
+          "hot": 0,
+          "url": "https://www.thepaper.cn/newsDetail_forward_34248756"
+        }
+      ],
+      "summary": "",
+      "url": "https://www.thepaper.cn/newsDetail_forward_34248756"
+    },
+    {
+      "id": "evt-20260000",
+      "title": "2026年前三季度外贸量质齐升",
+      "category": "society",
+      "hotScore": 0.765,
+      "freshness": 0.9999,
+      "crossSource": 0.6309,
+      "totalScore": 0.7952,
+      "sources": [
+        {
+          "channel": "toutiao",
+          "rank": 3,
+          "hot": 32633629,
+          "url": "https://www.toutiao.com/trending/7696012365628309547/"
+        }
+      ],
+      "summary": "",
+      "url": "https://www.toutiao.com/trending/7696012365628309547/"
+    },
+    {
+      "id": "evt-24000000",
+      "title": "沙特24小时内对也门发动119次袭击，胡塞武装称将以“升级还升级”",
+      "category": "society",
+      "hotScore": 0.68,
+      "freshness": 0.9999,
+      "crossSource": 0.6309,
+      "totalScore": 0.7613,
+      "sources": [
+        {
+          "channel": "thepaper",
+          "rank": 5,
+          "hot": 0,
+          "url": "https://www.thepaper.cn/newsDetail_forward_34249321"
+        }
+      ],
+      "summary": "",
+      "url": "https://www.thepaper.cn/newsDetail_forward_34249321"
+    },
+    {
+      "id": "evt-21000000",
+      "title": "台媒紧盯解放军21架艘次军机舰船活动",
       "category": "society",
       "hotScore": 0.6375,
       "freshness": 0.9999,
       "crossSource": 0.6309,
-      "totalScore": 0.7443,
+      "totalScore": 0.7442,
       "sources": [
         {
           "channel": "toutiao",
           "rank": 6,
-          "hot": 23774653,
-          "url": "https://www.toutiao.com/trending/7696423986665754122/"
+          "hot": 24175587,
+          "url": "https://www.toutiao.com/trending/7695970531115368502/"
         }
       ],
       "summary": "",
-      "url": "https://www.toutiao.com/trending/7696423986665754122/"
+      "url": "https://www.toutiao.com/trending/7695970531115368502/"
     },
     {
-      "id": "evt-ch000000",
-      "title": "如何看待网红女装品牌 CHICYOU 因使用狸花猫背部毛皮制作毛领遭网友抵制？哪些渠道的毛皮可能涉嫌违法？",
+      "id": "evt-openai00",
+      "title": "OpenAI 员工涉嫌在高管会议室安装窃听器，结果被自家 AI 协助破案，如何评价这起事件？",
+      "category": "society",
+      "hotScore": 0.6375,
+      "freshness": 0.9999,
+      "crossSource": 0.6309,
+      "totalScore": 0.7442,
+      "sources": [
+        {
+          "channel": "zhihu",
+          "rank": 4,
+          "hot": 0,
+          "url": ""
+        }
+      ],
+      "summary": "",
+      "url": ""
+    },
+    {
+      "id": "evt-21230000",
+      "title": "这21小时23分 载入史册",
       "category": "society",
       "hotScore": 0.6,
-      "freshness": 0.9999,
+      "freshness": 1,
       "crossSource": 0.6309,
       "totalScore": 0.7293,
       "sources": [
         {
-          "channel": "zhihu",
-          "rank": 5,
+          "channel": "baidu",
+          "rank": 6,
           "hot": 0,
-          "url": ""
+          "url": "https://m.baidu.com/s?word=%E8%BF%9921%E5%B0%8F%E6%97%B623%E5%88%86+%E8%BD%BD%E5%85%A5%E5%8F%B2%E5%86%8C&sa=fyb_news"
         }
       ],
       "summary": "",
-      "url": ""
+      "url": "https://m.baidu.com/s?word=%E8%BF%9921%E5%B0%8F%E6%97%B623%E5%88%86+%E8%BD%BD%E5%85%A5%E5%8F%B2%E5%86%8C&sa=fyb_news"
     },
     {
-      "id": "evt-23800000",
-      "title": "男子每天2包烟抽38年心脏血管堵90%",
+      "id": "evt-73000000",
+      "title": "皇马7分钟连进3球逆转罗马",
       "category": "society",
       "hotScore": 0.595,
       "freshness": 0.9999,
       "crossSource": 0.6309,
-      "totalScore": 0.7273,
+      "totalScore": 0.7272,
       "sources": [
         {
           "channel": "toutiao",
           "rank": 7,
-          "hot": 21512196,
-          "url": "https://www.toutiao.com/trending/7696350382911307803/"
+          "hot": 21874976,
+          "url": "https://www.toutiao.com/trending/7696607154354159659/"
         }
       ],
       "summary": "",
-      "url": "https://www.toutiao.com/trending/7696350382911307803/"
+      "url": "https://www.toutiao.com/trending/7696607154354159659/"
     },
     {
-      "id": "evt-20he0000",
-      "title": "套路拆｜月售20万瓶的Healthyard健雅德：疑“套用”银蕨认证，“五个9”纯度机器都测不出",
+      "id": "evt-31000000",
+      "title": "创业板指跌超3% 沪指低开1.5%",
       "category": "society",
-      "hotScore": 0.51,
+      "hotScore": 0.52,
       "freshness": 1,
       "crossSource": 0.6309,
-      "totalScore": 0.6933,
+      "totalScore": 0.6973,
       "sources": [
         {
-          "channel": "thepaper",
-          "rank": 9,
+          "channel": "baidu",
+          "rank": 8,
           "hot": 0,
-          "url": "https://www.thepaper.cn/newsDetail_forward_34225747"
+          "url": "https://m.baidu.com/s?word=%E5%88%9B%E4%B8%9A%E6%9D%BF%E6%8C%87%E8%B7%8C%E8%B6%853%25+%E6%B2%AA%E6%8C%87%E4%BD%8E%E5%BC%801.5%25&sa=fyb_news"
         }
       ],
       "summary": "",
-      "url": "https://www.thepaper.cn/newsDetail_forward_34225747"
+      "url": "https://m.baidu.com/s?word=%E5%88%9B%E4%B8%9A%E6%9D%BF%E6%8C%87%E8%B7%8C%E8%B6%853%25+%E6%B2%AA%E6%8C%87%E4%BD%8E%E5%BC%801.5%25&sa=fyb_news"
     },
     {
-      "id": "evt-a0000000",
-      "title": "郑钦文夺冠，上汽奥迪发文「AUDI 全系买一送一」，送的却是车模引发热议，大家怎么看？",
+      "id": "evt-10000000",
+      "title": "1岁男童误食毒鸡蛋中毒后邻居自首",
       "category": "society",
-      "hotScore": 0.45,
-      "freshness": 0.9999,
+      "hotScore": 0.48,
+      "freshness": 1,
       "crossSource": 0.6309,
-      "totalScore": 0.6693,
+      "totalScore": 0.6813,
       "sources": [
         {
-          "channel": "zhihu",
+          "channel": "baidu",
           "rank": 9,
           "hot": 0,
-          "url": ""
+          "url": "https://m.baidu.com/s?word=1%E5%B2%81%E7%94%B7%E7%AB%A5%E8%AF%AF%E9%A3%9F%E6%AF%92%E9%B8%A1%E8%9B%8B%E4%B8%AD%E6%AF%92%E5%90%8E%E9%82%BB%E5%B1%85%E8%87%AA%E9%A6%96&sa=fyb_news"
         }
       ],
       "summary": "",
-      "url": ""
+      "url": "https://m.baidu.com/s?word=1%E5%B2%81%E7%94%B7%E7%AB%A5%E8%AF%AF%E9%A3%9F%E6%AF%92%E9%B8%A1%E8%9B%8B%E4%B8%AD%E6%AF%92%E5%90%8E%E9%82%BB%E5%B1%85%E8%87%AA%E9%A6%96&sa=fyb_news"
+    },
+    {
+      "id": "evt-12000000",
+      "title": "国际油价或突破120美元",
+      "category": "society",
+      "hotScore": 0.4675,
+      "freshness": 0.9999,
+      "crossSource": 0.6309,
+      "totalScore": 0.6762,
+      "sources": [
+        {
+          "channel": "toutiao",
+          "rank": 10,
+          "hot": 16205381,
+          "url": "https://www.toutiao.com/trending/7696550339511586323/"
+        }
+      ],
+      "summary": "",
+      "url": "https://www.toutiao.com/trending/7696550339511586323/"
     }
   ]
 }
