@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-10-16T19:07:28.703Z",
+  "generatedAt": "2026-10-16T22:18:45.760Z",
   "fields": {
     "society": "社会",
     "economy": "经济",
@@ -11,14 +11,14 @@
       "title": "母亲将大一儿子生活费从4000降至2000",
       "category": "society",
       "hotScore": 0.85,
-      "freshness": 1,
+      "freshness": 0.9999,
       "crossSource": 1,
       "totalScore": 0.94,
       "sources": [
         {
           "channel": "toutiao",
           "rank": 1,
-          "hot": 21721308,
+          "hot": 22631169,
           "url": "https://www.toutiao.com/trending/7696880212247887935/"
         },
         {
@@ -33,7 +33,7 @@
     },
     {
       "id": "evt-00000000",
-      "title": "四川雷波县教师被安排“耻辱”合影事件调查结果公布：县长等多人被问责",
+      "title": "甘肃天水幼儿园铅中毒案一审宣判：负责人李慧芳被判无期",
       "category": "society",
       "hotScore": 0.85,
       "freshness": 1,
@@ -44,81 +44,43 @@
           "channel": "thepaper",
           "rank": 1,
           "hot": 0,
-          "url": "https://www.thepaper.cn/newsDetail_forward_34260969"
+          "url": "https://www.thepaper.cn/newsDetail_forward_34263974"
         }
       ],
       "summary": "",
-      "url": "https://www.thepaper.cn/newsDetail_forward_34260969"
-    },
-    {
-      "id": "evt-14000000",
-      "title": "客户反映价值万元的14桶哈根达斯融化损毁，顺丰：维持两千元赔偿方案",
-      "category": "society",
-      "hotScore": 0.7225,
-      "freshness": 1,
-      "crossSource": 0.6309,
-      "totalScore": 0.7783,
-      "sources": [
-        {
-          "channel": "thepaper",
-          "rank": 4,
-          "hot": 0,
-          "url": "https://www.thepaper.cn/newsDetail_forward_34261750"
-        }
-      ],
-      "summary": "",
-      "url": "https://www.thepaper.cn/newsDetail_forward_34261750"
-    },
-    {
-      "id": "evt-99000000",
-      "title": "日本误报称发生 9.9 级地震，出现这种情况可能是因为啥原因？9.9 级地震是什么概念？",
-      "category": "society",
-      "hotScore": 0.6,
-      "freshness": 1,
-      "crossSource": 0.6309,
-      "totalScore": 0.7293,
-      "sources": [
-        {
-          "channel": "zhihu",
-          "rank": 5,
-          "hot": 0,
-          "url": ""
-        }
-      ],
-      "summary": "",
-      "url": ""
-    },
-    {
-      "id": "evt-teszuian",
-      "title": "TES 上单选手 zuian 美签三面未过基本无缘瑞士轮，将对队伍战力带来哪些影响？",
-      "category": "society",
-      "hotScore": 0.525,
-      "freshness": 1,
-      "crossSource": 0.6309,
-      "totalScore": 0.6993,
-      "sources": [
-        {
-          "channel": "zhihu",
-          "rank": 7,
-          "hot": 0,
-          "url": ""
-        }
-      ],
-      "summary": "",
-      "url": ""
+      "url": "https://www.thepaper.cn/newsDetail_forward_34263974"
     },
     {
       "id": "evt-30000000",
-      "title": "四部门组织 30 余家车企座谈，加强产品研发测试验证管理，要求不得作虚假、夸大或引人误解的宣传，怎样解读？",
+      "title": "四部门：组织30余家车企座谈，加强汽车产品研发测试验证管理",
       "category": "society",
-      "hotScore": 0.4875,
+      "hotScore": 0.765,
       "freshness": 1,
       "crossSource": 0.6309,
-      "totalScore": 0.6843,
+      "totalScore": 0.7953,
+      "sources": [
+        {
+          "channel": "thepaper",
+          "rank": 3,
+          "hot": 0,
+          "url": "https://www.thepaper.cn/newsDetail_forward_34264638"
+        }
+      ],
+      "summary": "",
+      "url": "https://www.thepaper.cn/newsDetail_forward_34264638"
+    },
+    {
+      "id": "evt-deepseek",
+      "title": "DeepSeek 将整合多团队成立产品部，崔添翼任负责人，怎样看待这一调整？会带来哪些影响？",
+      "category": "society",
+      "hotScore": 0.675,
+      "freshness": 0.9999,
+      "crossSource": 0.6309,
+      "totalScore": 0.7593,
       "sources": [
         {
           "channel": "zhihu",
-          "rank": 8,
+          "rank": 3,
           "hot": 0,
           "url": ""
         }
@@ -130,15 +92,15 @@
       "id": "evt-47000000",
       "title": "黄海南部连续47天禁入藏了什么深意",
       "category": "society",
-      "hotScore": 0.4675,
-      "freshness": 1,
+      "hotScore": 0.6375,
+      "freshness": 0.9999,
       "crossSource": 0.6309,
-      "totalScore": 0.6763,
+      "totalScore": 0.7443,
       "sources": [
         {
           "channel": "toutiao",
-          "rank": 10,
-          "hot": 8831225,
+          "rank": 6,
+          "hot": 13726498,
           "url": "https://www.toutiao.com/trending/7696851935329075241/"
         }
       ],
@@ -146,11 +108,30 @@
       "url": "https://www.toutiao.com/trending/7696851935329075241/"
     },
     {
+      "id": "evt-14000000",
+      "title": "客户反映价值万元的14桶哈根达斯融化损毁，顺丰：维持两千元赔偿方案",
+      "category": "society",
+      "hotScore": 0.6375,
+      "freshness": 1,
+      "crossSource": 0.6309,
+      "totalScore": 0.7443,
+      "sources": [
+        {
+          "channel": "thepaper",
+          "rank": 6,
+          "hot": 0,
+          "url": "https://www.thepaper.cn/newsDetail_forward_34261750"
+        }
+      ],
+      "summary": "",
+      "url": "https://www.thepaper.cn/newsDetail_forward_34261750"
+    },
+    {
       "id": "evt-vs000000",
       "title": "费德勒李娜vs萨芬兄妹",
       "category": "society",
       "hotScore": 0.44,
-      "freshness": 1,
+      "freshness": 0.9999,
       "crossSource": 0.6309,
       "totalScore": 0.6653,
       "sources": [
@@ -163,6 +144,25 @@
       ],
       "summary": "",
       "url": "https://m.baidu.com/s?word=%E8%B4%B9%E5%BE%B7%E5%8B%92%E6%9D%8E%E5%A8%9Cvs%E8%90%A8%E8%8A%AC%E5%85%84%E5%A6%B9&sa=fyb_news"
+    },
+    {
+      "id": "evt-20270000",
+      "title": "美国肯德基 2027 年起将改用可口可乐，背后是什么原因？消费者实际感受差别大吗？",
+      "category": "society",
+      "hotScore": 0.4125,
+      "freshness": 0.9999,
+      "crossSource": 0.6309,
+      "totalScore": 0.6543,
+      "sources": [
+        {
+          "channel": "zhihu",
+          "rank": 10,
+          "hot": 0,
+          "url": ""
+        }
+      ],
+      "summary": "",
+      "url": ""
     }
   ]
 }
