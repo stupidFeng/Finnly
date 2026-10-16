@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-10-16T08:35:18.161Z",
+  "generatedAt": "2026-10-16T14:23:55.843Z",
   "fields": {
     "society": "社会",
     "economy": "经济",
@@ -7,118 +7,55 @@
   },
   "feed": [
     {
-      "id": "evt-00000000",
-      "title": "“县政府主要负责同志”可以有名字",
+      "id": "evt-10000000",
+      "title": "男子中1000万不到一月花到仅剩28元",
       "category": "society",
-      "hotScore": 0.595,
-      "freshness": 1,
+      "hotScore": 0.85,
+      "freshness": 0.9999,
       "crossSource": 1,
-      "totalScore": 0.838,
+      "totalScore": 0.94,
       "sources": [
         {
-          "channel": "thepaper",
-          "rank": 7,
-          "hot": 0,
-          "url": "https://www.thepaper.cn/newsDetail_forward_34261235"
-        },
-        {
-          "channel": "baidu",
-          "rank": 8,
-          "hot": 0,
-          "url": "https://m.baidu.com/s?word=%E2%80%9C%E5%8E%BF%E6%94%BF%E5%BA%9C%E4%B8%BB%E8%A6%81%E8%B4%9F%E8%B4%A3%E5%90%8C%E5%BF%97%E2%80%9D%E5%8F%AF%E4%BB%A5%E6%9C%89%E5%90%8D%E5%AD%97&sa=fyb_news"
+          "channel": "toutiao",
+          "rank": 1,
+          "hot": 18132352,
+          "url": "https://www.toutiao.com/trending/7696707174784909353/"
         }
       ],
       "summary": "",
-      "url": "https://www.thepaper.cn/newsDetail_forward_34261235"
+      "url": "https://www.toutiao.com/trending/7696707174784909353/"
     },
     {
-      "id": "evt-99000000",
-      "title": "日本误报9.9级地震",
+      "id": "evt-00000000",
+      "title": "四川雷波县教师被安排“耻辱”合影事件调查结果公布：县长等多人被问责",
       "category": "society",
       "hotScore": 0.85,
       "freshness": 1,
-      "crossSource": 0.6309,
-      "totalScore": 0.8293,
-      "sources": [
-        {
-          "channel": "toutiao",
-          "rank": 1,
-          "hot": 13920214,
-          "url": "https://www.toutiao.com/trending/7696782172228881983/"
-        }
-      ],
-      "summary": "",
-      "url": "https://www.toutiao.com/trending/7696782172228881983/"
-    },
-    {
-      "id": "evt-73000000",
-      "title": "全国粮食标准仓仓容达7.3亿吨",
-      "category": "society",
-      "hotScore": 0.765,
-      "freshness": 1,
-      "crossSource": 0.6309,
-      "totalScore": 0.7953,
-      "sources": [
-        {
-          "channel": "toutiao",
-          "rank": 3,
-          "hot": 11396907,
-          "url": "https://www.toutiao.com/trending/7696782550324432447/"
-        }
-      ],
-      "summary": "",
-      "url": "https://www.toutiao.com/trending/7696782550324432447/"
-    },
-    {
-      "id": "evt-deepseek5",
-      "title": "DeepSeek宕机5小时：一上新就崩？影响有多大？",
-      "category": "society",
-      "hotScore": 0.765,
-      "freshness": 1,
-      "crossSource": 0.6309,
-      "totalScore": 0.7953,
+      "crossSource": 1,
+      "totalScore": 0.94,
       "sources": [
         {
           "channel": "thepaper",
-          "rank": 3,
-          "hot": 0,
-          "url": "https://www.thepaper.cn/newsDetail_forward_34257535"
-        }
-      ],
-      "summary": "",
-      "url": "https://www.thepaper.cn/newsDetail_forward_34257535"
-    },
-    {
-      "id": "evt-13000000",
-      "title": "如何看待 13 岁女团成员出道仅数小时被曝父母恶意欠薪且被执行 345 万，母亲道歉并承诺会尽快解决？",
-      "category": "society",
-      "hotScore": 0.75,
-      "freshness": 1,
-      "crossSource": 0.6309,
-      "totalScore": 0.7893,
-      "sources": [
-        {
-          "channel": "zhihu",
           "rank": 1,
           "hot": 0,
-          "url": ""
+          "url": "https://www.thepaper.cn/newsDetail_forward_34260969"
         }
       ],
       "summary": "",
-      "url": ""
+      "url": "https://www.thepaper.cn/newsDetail_forward_34260969"
     },
     {
       "id": "evt-20270000",
       "title": "美国肯德基 2027 年起将改用可口可乐，背后是什么原因？消费者实际感受差别大吗？",
       "category": "society",
-      "hotScore": 0.7125,
-      "freshness": 1,
-      "crossSource": 0.6309,
-      "totalScore": 0.7743,
+      "hotScore": 0.75,
+      "freshness": 0.9999,
+      "crossSource": 1,
+      "totalScore": 0.9,
       "sources": [
         {
           "channel": "zhihu",
-          "rank": 2,
+          "rank": 1,
           "hot": 0,
           "url": ""
         }
@@ -127,89 +64,165 @@
       "url": ""
     },
     {
-      "id": "evt-25000000",
-      "title": "25 岁韩国网红柳智媛跑半马突发离世，此前她一直有运动的习惯，问题出在哪里？长跑应怎么评估身体状况？",
+      "id": "evt-14000000",
+      "title": "客户反映价值万元的14桶哈根达斯融化损毁，顺丰：维持两千元赔偿方案",
       "category": "society",
-      "hotScore": 0.675,
+      "hotScore": 0.7225,
       "freshness": 1,
-      "crossSource": 0.6309,
-      "totalScore": 0.7593,
+      "crossSource": 1,
+      "totalScore": 0.889,
       "sources": [
         {
-          "channel": "zhihu",
-          "rank": 3,
+          "channel": "thepaper",
+          "rank": 4,
           "hot": 0,
-          "url": ""
+          "url": "https://www.thepaper.cn/newsDetail_forward_34261750"
         }
       ],
       "summary": "",
-      "url": ""
+      "url": "https://www.thepaper.cn/newsDetail_forward_34261750"
     },
     {
-      "id": "evt-47000000",
-      "title": "黄海南部连续47天禁入藏了什么深意",
+      "id": "evt-50000000",
+      "title": "明代古宅蔡厅5根承重木柱被人锯断",
       "category": "society",
-      "hotScore": 0.6375,
+      "hotScore": 0.72,
       "freshness": 1,
-      "crossSource": 0.6309,
-      "totalScore": 0.7443,
-      "sources": [
-        {
-          "channel": "toutiao",
-          "rank": 6,
-          "hot": 8443037,
-          "url": "https://www.toutiao.com/trending/7696851935329075241/"
-        }
-      ],
-      "summary": "",
-      "url": "https://www.toutiao.com/trending/7696851935329075241/"
-    },
-    {
-      "id": "evt-roadst00",
-      "title": "特斯拉第二代 Roadster 还是汽车吗？展示的这些技术放在火箭领域算什么水平？",
-      "category": "society",
-      "hotScore": 0.6,
-      "freshness": 1,
-      "crossSource": 0.6309,
-      "totalScore": 0.7293,
-      "sources": [
-        {
-          "channel": "zhihu",
-          "rank": 5,
-          "hot": 0,
-          "url": ""
-        }
-      ],
-      "summary": "",
-      "url": ""
-    },
-    {
-      "id": "evt-44000000",
-      "title": "男子花44万闪婚新娘失联：气得吐血",
-      "category": "society",
-      "hotScore": 0.56,
-      "freshness": 1,
-      "crossSource": 0.6309,
-      "totalScore": 0.7133,
+      "crossSource": 1,
+      "totalScore": 0.888,
       "sources": [
         {
           "channel": "baidu",
-          "rank": 7,
+          "rank": 3,
           "hot": 0,
-          "url": "https://m.baidu.com/s?word=%E7%94%B7%E5%AD%90%E8%8A%B144%E4%B8%87%E9%97%AA%E5%A9%9A%E6%96%B0%E5%A8%98%E5%A4%B1%E8%81%94%EF%BC%9A%E6%B0%94%E5%BE%97%E5%90%90%E8%A1%80&sa=fyb_news"
+          "url": "https://m.baidu.com/s?word=%E6%98%8E%E4%BB%A3%E5%8F%A4%E5%AE%85%E8%94%A1%E5%8E%855%E6%A0%B9%E6%89%BF%E9%87%8D%E6%9C%A8%E6%9F%B1%E8%A2%AB%E4%BA%BA%E9%94%AF%E6%96%AD&sa=fyb_news"
         }
       ],
       "summary": "",
-      "url": "https://m.baidu.com/s?word=%E7%94%B7%E5%AD%90%E8%8A%B144%E4%B8%87%E9%97%AA%E5%A9%9A%E6%96%B0%E5%A8%98%E5%A4%B1%E8%81%94%EF%BC%9A%E6%B0%94%E5%BE%97%E5%90%90%E8%A1%80&sa=fyb_news"
+      "url": "https://m.baidu.com/s?word=%E6%98%8E%E4%BB%A3%E5%8F%A4%E5%AE%85%E8%94%A1%E5%8E%855%E6%A0%B9%E6%89%BF%E9%87%8D%E6%9C%A8%E6%9F%B1%E8%A2%AB%E4%BA%BA%E9%94%AF%E6%96%AD&sa=fyb_news"
     },
     {
-      "id": "evt-ac000000",
-      "title": "既然网球发球可以直接 ace 得分，那为什么不专门练发球？",
+      "id": "evt-xt500000",
+      "title": "樊振东现身凯迪拉克XT5 PHEV发布会",
+      "category": "society",
+      "hotScore": 0.68,
+      "freshness": 0.9999,
+      "crossSource": 1,
+      "totalScore": 0.872,
+      "sources": [
+        {
+          "channel": "toutiao",
+          "rank": 5,
+          "hot": 12154479,
+          "url": "https://www.toutiao.com/trending/7697214112044122150/"
+        }
+      ],
+      "summary": "",
+      "url": "https://www.toutiao.com/trending/7697214112044122150/"
+    },
+    {
+      "id": "evt-46000000",
+      "title": "明朝永乐大钟重 46 吨，钟身刻满 23 万字佛经。当时没有起重机，工匠是怎么把它挂到钟楼上的？",
+      "category": "society",
+      "hotScore": 0.6375,
+      "freshness": 0.9999,
+      "crossSource": 1,
+      "totalScore": 0.855,
+      "sources": [
+        {
+          "channel": "zhihu",
+          "rank": 4,
+          "hot": 0,
+          "url": ""
+        }
+      ],
+      "summary": "",
+      "url": ""
+    },
+    {
+      "id": "evt-99000000",
+      "title": "9.9级地震是什么概念",
+      "category": "society",
+      "hotScore": 0.6,
+      "freshness": 1,
+      "crossSource": 1,
+      "totalScore": 0.84,
+      "sources": [
+        {
+          "channel": "baidu",
+          "rank": 6,
+          "hot": 0,
+          "url": "https://m.baidu.com/s?word=9.9%E7%BA%A7%E5%9C%B0%E9%9C%87%E6%98%AF%E4%BB%80%E4%B9%88%E6%A6%82%E5%BF%B5&sa=fyb_news"
+        }
+      ],
+      "summary": "",
+      "url": "https://m.baidu.com/s?word=9.9%E7%BA%A7%E5%9C%B0%E9%9C%87%E6%98%AF%E4%BB%80%E4%B9%88%E6%A6%82%E5%BF%B5&sa=fyb_news"
+    },
+    {
+      "id": "evt-80000000",
+      "title": "特朗普称马斯克“80%是超级天才”",
+      "category": "society",
+      "hotScore": 0.595,
+      "freshness": 0.9999,
+      "crossSource": 1,
+      "totalScore": 0.838,
+      "sources": [
+        {
+          "channel": "toutiao",
+          "rank": 7,
+          "hot": 9951245,
+          "url": "https://www.toutiao.com/trending/7696498284193939483/"
+        }
+      ],
+      "summary": "",
+      "url": "https://www.toutiao.com/trending/7696498284193939483/"
+    },
+    {
+      "id": "evt-18000000",
+      "title": "180名中国华文教师不得不离开菲律宾",
+      "category": "society",
+      "hotScore": 0.5525,
+      "freshness": 0.9999,
+      "crossSource": 1,
+      "totalScore": 0.821,
+      "sources": [
+        {
+          "channel": "toutiao",
+          "rank": 8,
+          "hot": 9004259,
+          "url": "https://www.toutiao.com/trending/7696543053327302692/"
+        }
+      ],
+      "summary": "",
+      "url": "https://www.toutiao.com/trending/7696543053327302692/"
+    },
+    {
+      "id": "evt-16000000",
+      "title": "手机掉进地铁缝连播16小时短剧",
+      "category": "society",
+      "hotScore": 0.52,
+      "freshness": 1,
+      "crossSource": 1,
+      "totalScore": 0.808,
+      "sources": [
+        {
+          "channel": "baidu",
+          "rank": 8,
+          "hot": 0,
+          "url": "https://m.baidu.com/s?word=%E6%89%8B%E6%9C%BA%E6%8E%89%E8%BF%9B%E5%9C%B0%E9%93%81%E7%BC%9D%E8%BF%9E%E6%92%AD16%E5%B0%8F%E6%97%B6%E7%9F%AD%E5%89%A7&sa=fyb_news"
+        }
+      ],
+      "summary": "",
+      "url": "https://m.baidu.com/s?word=%E6%89%8B%E6%9C%BA%E6%8E%89%E8%BF%9B%E5%9C%B0%E9%93%81%E7%BC%9D%E8%BF%9E%E6%92%AD16%E5%B0%8F%E6%97%B6%E7%9F%AD%E5%89%A7&sa=fyb_news"
+    },
+    {
+      "id": "evt-30000000",
+      "title": "四部门组织 30 余家车企座谈，加强产品研发测试验证管理，要求不得作虚假、夸大或引人误解的宣传，怎样解读？",
       "category": "society",
       "hotScore": 0.4875,
-      "freshness": 1,
-      "crossSource": 0.6309,
-      "totalScore": 0.6843,
+      "freshness": 0.9999,
+      "crossSource": 1,
+      "totalScore": 0.795,
       "sources": [
         {
           "channel": "zhihu",
@@ -225,14 +238,14 @@
       "id": "evt-40000000",
       "title": "澎湃回声｜两个400号码涉嫌假冒品牌客服，关联公司被南京两区市监局调查",
       "category": "society",
-      "hotScore": 0.425,
+      "hotScore": 0.4675,
       "freshness": 1,
-      "crossSource": 0.6309,
-      "totalScore": 0.6593,
+      "crossSource": 1,
+      "totalScore": 0.787,
       "sources": [
         {
           "channel": "thepaper",
-          "rank": 11,
+          "rank": 10,
           "hot": 0,
           "url": "https://www.thepaper.cn/newsDetail_forward_34258031"
         }
