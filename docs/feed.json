@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-10-16T14:23:55.843Z",
+  "generatedAt": "2026-10-16T19:07:28.703Z",
   "fields": {
     "society": "社会",
     "economy": "经济",
@@ -7,23 +7,29 @@
   },
   "feed": [
     {
-      "id": "evt-10000000",
-      "title": "男子中1000万不到一月花到仅剩28元",
+      "id": "evt-40000000",
+      "title": "母亲将大一儿子生活费从4000降至2000",
       "category": "society",
       "hotScore": 0.85,
-      "freshness": 0.9999,
+      "freshness": 1,
       "crossSource": 1,
       "totalScore": 0.94,
       "sources": [
         {
           "channel": "toutiao",
           "rank": 1,
-          "hot": 18132352,
-          "url": "https://www.toutiao.com/trending/7696707174784909353/"
+          "hot": 21721308,
+          "url": "https://www.toutiao.com/trending/7696880212247887935/"
+        },
+        {
+          "channel": "baidu",
+          "rank": 5,
+          "hot": 0,
+          "url": "https://m.baidu.com/s?word=%E6%AF%8D%E4%BA%B2%E5%B0%86%E5%A4%A7%E4%B8%80%E5%84%BF%E5%AD%90%E7%94%9F%E6%B4%BB%E8%B4%B9%E4%BB%8E4000%E9%99%8D%E8%87%B32000&sa=fyb_news"
         }
       ],
       "summary": "",
-      "url": "https://www.toutiao.com/trending/7696707174784909353/"
+      "url": "https://www.toutiao.com/trending/7696880212247887935/"
     },
     {
       "id": "evt-00000000",
@@ -31,8 +37,8 @@
       "category": "society",
       "hotScore": 0.85,
       "freshness": 1,
-      "crossSource": 1,
-      "totalScore": 0.94,
+      "crossSource": 0.6309,
+      "totalScore": 0.8293,
       "sources": [
         {
           "channel": "thepaper",
@@ -45,32 +51,13 @@
       "url": "https://www.thepaper.cn/newsDetail_forward_34260969"
     },
     {
-      "id": "evt-20270000",
-      "title": "美国肯德基 2027 年起将改用可口可乐，背后是什么原因？消费者实际感受差别大吗？",
-      "category": "society",
-      "hotScore": 0.75,
-      "freshness": 0.9999,
-      "crossSource": 1,
-      "totalScore": 0.9,
-      "sources": [
-        {
-          "channel": "zhihu",
-          "rank": 1,
-          "hot": 0,
-          "url": ""
-        }
-      ],
-      "summary": "",
-      "url": ""
-    },
-    {
       "id": "evt-14000000",
       "title": "客户反映价值万元的14桶哈根达斯融化损毁，顺丰：维持两千元赔偿方案",
       "category": "society",
       "hotScore": 0.7225,
       "freshness": 1,
-      "crossSource": 1,
-      "totalScore": 0.889,
+      "crossSource": 0.6309,
+      "totalScore": 0.7783,
       "sources": [
         {
           "channel": "thepaper",
@@ -83,55 +70,17 @@
       "url": "https://www.thepaper.cn/newsDetail_forward_34261750"
     },
     {
-      "id": "evt-50000000",
-      "title": "明代古宅蔡厅5根承重木柱被人锯断",
+      "id": "evt-99000000",
+      "title": "日本误报称发生 9.9 级地震，出现这种情况可能是因为啥原因？9.9 级地震是什么概念？",
       "category": "society",
-      "hotScore": 0.72,
+      "hotScore": 0.6,
       "freshness": 1,
-      "crossSource": 1,
-      "totalScore": 0.888,
-      "sources": [
-        {
-          "channel": "baidu",
-          "rank": 3,
-          "hot": 0,
-          "url": "https://m.baidu.com/s?word=%E6%98%8E%E4%BB%A3%E5%8F%A4%E5%AE%85%E8%94%A1%E5%8E%855%E6%A0%B9%E6%89%BF%E9%87%8D%E6%9C%A8%E6%9F%B1%E8%A2%AB%E4%BA%BA%E9%94%AF%E6%96%AD&sa=fyb_news"
-        }
-      ],
-      "summary": "",
-      "url": "https://m.baidu.com/s?word=%E6%98%8E%E4%BB%A3%E5%8F%A4%E5%AE%85%E8%94%A1%E5%8E%855%E6%A0%B9%E6%89%BF%E9%87%8D%E6%9C%A8%E6%9F%B1%E8%A2%AB%E4%BA%BA%E9%94%AF%E6%96%AD&sa=fyb_news"
-    },
-    {
-      "id": "evt-xt500000",
-      "title": "樊振东现身凯迪拉克XT5 PHEV发布会",
-      "category": "society",
-      "hotScore": 0.68,
-      "freshness": 0.9999,
-      "crossSource": 1,
-      "totalScore": 0.872,
-      "sources": [
-        {
-          "channel": "toutiao",
-          "rank": 5,
-          "hot": 12154479,
-          "url": "https://www.toutiao.com/trending/7697214112044122150/"
-        }
-      ],
-      "summary": "",
-      "url": "https://www.toutiao.com/trending/7697214112044122150/"
-    },
-    {
-      "id": "evt-46000000",
-      "title": "明朝永乐大钟重 46 吨，钟身刻满 23 万字佛经。当时没有起重机，工匠是怎么把它挂到钟楼上的？",
-      "category": "society",
-      "hotScore": 0.6375,
-      "freshness": 0.9999,
-      "crossSource": 1,
-      "totalScore": 0.855,
+      "crossSource": 0.6309,
+      "totalScore": 0.7293,
       "sources": [
         {
           "channel": "zhihu",
-          "rank": 4,
+          "rank": 5,
           "hot": 0,
           "url": ""
         }
@@ -140,89 +89,32 @@
       "url": ""
     },
     {
-      "id": "evt-99000000",
-      "title": "9.9级地震是什么概念",
+      "id": "evt-teszuian",
+      "title": "TES 上单选手 zuian 美签三面未过基本无缘瑞士轮，将对队伍战力带来哪些影响？",
       "category": "society",
-      "hotScore": 0.6,
+      "hotScore": 0.525,
       "freshness": 1,
-      "crossSource": 1,
-      "totalScore": 0.84,
+      "crossSource": 0.6309,
+      "totalScore": 0.6993,
       "sources": [
         {
-          "channel": "baidu",
-          "rank": 6,
-          "hot": 0,
-          "url": "https://m.baidu.com/s?word=9.9%E7%BA%A7%E5%9C%B0%E9%9C%87%E6%98%AF%E4%BB%80%E4%B9%88%E6%A6%82%E5%BF%B5&sa=fyb_news"
-        }
-      ],
-      "summary": "",
-      "url": "https://m.baidu.com/s?word=9.9%E7%BA%A7%E5%9C%B0%E9%9C%87%E6%98%AF%E4%BB%80%E4%B9%88%E6%A6%82%E5%BF%B5&sa=fyb_news"
-    },
-    {
-      "id": "evt-80000000",
-      "title": "特朗普称马斯克“80%是超级天才”",
-      "category": "society",
-      "hotScore": 0.595,
-      "freshness": 0.9999,
-      "crossSource": 1,
-      "totalScore": 0.838,
-      "sources": [
-        {
-          "channel": "toutiao",
+          "channel": "zhihu",
           "rank": 7,
-          "hot": 9951245,
-          "url": "https://www.toutiao.com/trending/7696498284193939483/"
-        }
-      ],
-      "summary": "",
-      "url": "https://www.toutiao.com/trending/7696498284193939483/"
-    },
-    {
-      "id": "evt-18000000",
-      "title": "180名中国华文教师不得不离开菲律宾",
-      "category": "society",
-      "hotScore": 0.5525,
-      "freshness": 0.9999,
-      "crossSource": 1,
-      "totalScore": 0.821,
-      "sources": [
-        {
-          "channel": "toutiao",
-          "rank": 8,
-          "hot": 9004259,
-          "url": "https://www.toutiao.com/trending/7696543053327302692/"
-        }
-      ],
-      "summary": "",
-      "url": "https://www.toutiao.com/trending/7696543053327302692/"
-    },
-    {
-      "id": "evt-16000000",
-      "title": "手机掉进地铁缝连播16小时短剧",
-      "category": "society",
-      "hotScore": 0.52,
-      "freshness": 1,
-      "crossSource": 1,
-      "totalScore": 0.808,
-      "sources": [
-        {
-          "channel": "baidu",
-          "rank": 8,
           "hot": 0,
-          "url": "https://m.baidu.com/s?word=%E6%89%8B%E6%9C%BA%E6%8E%89%E8%BF%9B%E5%9C%B0%E9%93%81%E7%BC%9D%E8%BF%9E%E6%92%AD16%E5%B0%8F%E6%97%B6%E7%9F%AD%E5%89%A7&sa=fyb_news"
+          "url": ""
         }
       ],
       "summary": "",
-      "url": "https://m.baidu.com/s?word=%E6%89%8B%E6%9C%BA%E6%8E%89%E8%BF%9B%E5%9C%B0%E9%93%81%E7%BC%9D%E8%BF%9E%E6%92%AD16%E5%B0%8F%E6%97%B6%E7%9F%AD%E5%89%A7&sa=fyb_news"
+      "url": ""
     },
     {
       "id": "evt-30000000",
       "title": "四部门组织 30 余家车企座谈，加强产品研发测试验证管理，要求不得作虚假、夸大或引人误解的宣传，怎样解读？",
       "category": "society",
       "hotScore": 0.4875,
-      "freshness": 0.9999,
-      "crossSource": 1,
-      "totalScore": 0.795,
+      "freshness": 1,
+      "crossSource": 0.6309,
+      "totalScore": 0.6843,
       "sources": [
         {
           "channel": "zhihu",
@@ -235,23 +127,42 @@
       "url": ""
     },
     {
-      "id": "evt-40000000",
-      "title": "澎湃回声｜两个400号码涉嫌假冒品牌客服，关联公司被南京两区市监局调查",
+      "id": "evt-47000000",
+      "title": "黄海南部连续47天禁入藏了什么深意",
       "category": "society",
       "hotScore": 0.4675,
       "freshness": 1,
-      "crossSource": 1,
-      "totalScore": 0.787,
+      "crossSource": 0.6309,
+      "totalScore": 0.6763,
       "sources": [
         {
-          "channel": "thepaper",
+          "channel": "toutiao",
           "rank": 10,
-          "hot": 0,
-          "url": "https://www.thepaper.cn/newsDetail_forward_34258031"
+          "hot": 8831225,
+          "url": "https://www.toutiao.com/trending/7696851935329075241/"
         }
       ],
       "summary": "",
-      "url": "https://www.thepaper.cn/newsDetail_forward_34258031"
+      "url": "https://www.toutiao.com/trending/7696851935329075241/"
+    },
+    {
+      "id": "evt-vs000000",
+      "title": "费德勒李娜vs萨芬兄妹",
+      "category": "society",
+      "hotScore": 0.44,
+      "freshness": 1,
+      "crossSource": 0.6309,
+      "totalScore": 0.6653,
+      "sources": [
+        {
+          "channel": "baidu",
+          "rank": 10,
+          "hot": 0,
+          "url": "https://m.baidu.com/s?word=%E8%B4%B9%E5%BE%B7%E5%8B%92%E6%9D%8E%E5%A8%9Cvs%E8%90%A8%E8%8A%AC%E5%85%84%E5%A6%B9&sa=fyb_news"
+        }
+      ],
+      "summary": "",
+      "url": "https://m.baidu.com/s?word=%E8%B4%B9%E5%BE%B7%E5%8B%92%E6%9D%8E%E5%A8%9Cvs%E8%90%A8%E8%8A%AC%E5%85%84%E5%A6%B9&sa=fyb_news"
     }
   ]
 }
