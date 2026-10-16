@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-10-16T02:11:15.785Z",
+  "generatedAt": "2026-10-16T08:35:18.161Z",
   "fields": {
     "society": "社会",
     "economy": "经济",
@@ -8,81 +8,94 @@
   "feed": [
     {
       "id": "evt-00000000",
-      "title": "“流浪大师”沈巍将退休 病休超30年",
+      "title": "“县政府主要负责同志”可以有名字",
       "category": "society",
-      "hotScore": 0.8075,
-      "freshness": 0.9999,
+      "hotScore": 0.595,
+      "freshness": 1,
       "crossSource": 1,
-      "totalScore": 0.923,
+      "totalScore": 0.838,
       "sources": [
         {
-          "channel": "toutiao",
-          "rank": 2,
-          "hot": 23352496,
-          "url": "https://www.toutiao.com/trending/7696889123395092499/"
-        },
-        {
-          "channel": "baidu",
-          "rank": 18,
+          "channel": "thepaper",
+          "rank": 7,
           "hot": 0,
-          "url": "https://m.baidu.com/s?word=%E2%80%9C%E6%B5%81%E6%B5%AA%E5%A4%A7%E5%B8%88%E2%80%9D%E6%B2%88%E5%B7%8D%E5%B0%86%E9%80%80%E4%BC%91+%E7%97%85%E4%BC%91%E8%B6%8530%E5%B9%B4&sa=fyb_news"
-        }
-      ],
-      "summary": "",
-      "url": "https://www.toutiao.com/trending/7696889123395092499/"
-    },
-    {
-      "id": "evt-35000000",
-      "title": "包含35名中国人涉诈团伙在大马被捕",
-      "category": "society",
-      "hotScore": 0.85,
-      "freshness": 0.9999,
-      "crossSource": 0.6309,
-      "totalScore": 0.8292,
-      "sources": [
-        {
-          "channel": "toutiao",
-          "rank": 1,
-          "hot": 25808499,
-          "url": "https://www.toutiao.com/trending/7696031230827429951/"
-        }
-      ],
-      "summary": "",
-      "url": "https://www.toutiao.com/trending/7696031230827429951/"
-    },
-    {
-      "id": "evt-11100000",
-      "title": "11月1日起社保缴费有新变化",
-      "category": "society",
-      "hotScore": 0.52,
-      "freshness": 0.9999,
-      "crossSource": 1,
-      "totalScore": 0.808,
-      "sources": [
-        {
-          "channel": "toutiao",
-          "rank": 15,
-          "hot": 6364297,
-          "url": "https://www.toutiao.com/trending/7695902034788876307/"
+          "url": "https://www.thepaper.cn/newsDetail_forward_34261235"
         },
         {
           "channel": "baidu",
           "rank": 8,
           "hot": 0,
-          "url": "https://m.baidu.com/s?word=11%E6%9C%881%E6%97%A5%E8%B5%B7%E7%A4%BE%E4%BF%9D%E7%BC%B4%E8%B4%B9%E6%9C%89%E6%96%B0%E5%8F%98%E5%8C%96&sa=fyb_news"
+          "url": "https://m.baidu.com/s?word=%E2%80%9C%E5%8E%BF%E6%94%BF%E5%BA%9C%E4%B8%BB%E8%A6%81%E8%B4%9F%E8%B4%A3%E5%90%8C%E5%BF%97%E2%80%9D%E5%8F%AF%E4%BB%A5%E6%9C%89%E5%90%8D%E5%AD%97&sa=fyb_news"
         }
       ],
       "summary": "",
-      "url": "https://www.toutiao.com/trending/7695902034788876307/"
+      "url": "https://www.thepaper.cn/newsDetail_forward_34261235"
+    },
+    {
+      "id": "evt-99000000",
+      "title": "日本误报9.9级地震",
+      "category": "society",
+      "hotScore": 0.85,
+      "freshness": 1,
+      "crossSource": 0.6309,
+      "totalScore": 0.8293,
+      "sources": [
+        {
+          "channel": "toutiao",
+          "rank": 1,
+          "hot": 13920214,
+          "url": "https://www.toutiao.com/trending/7696782172228881983/"
+        }
+      ],
+      "summary": "",
+      "url": "https://www.toutiao.com/trending/7696782172228881983/"
+    },
+    {
+      "id": "evt-73000000",
+      "title": "全国粮食标准仓仓容达7.3亿吨",
+      "category": "society",
+      "hotScore": 0.765,
+      "freshness": 1,
+      "crossSource": 0.6309,
+      "totalScore": 0.7953,
+      "sources": [
+        {
+          "channel": "toutiao",
+          "rank": 3,
+          "hot": 11396907,
+          "url": "https://www.toutiao.com/trending/7696782550324432447/"
+        }
+      ],
+      "summary": "",
+      "url": "https://www.toutiao.com/trending/7696782550324432447/"
+    },
+    {
+      "id": "evt-deepseek5",
+      "title": "DeepSeek宕机5小时：一上新就崩？影响有多大？",
+      "category": "society",
+      "hotScore": 0.765,
+      "freshness": 1,
+      "crossSource": 0.6309,
+      "totalScore": 0.7953,
+      "sources": [
+        {
+          "channel": "thepaper",
+          "rank": 3,
+          "hot": 0,
+          "url": "https://www.thepaper.cn/newsDetail_forward_34257535"
+        }
+      ],
+      "summary": "",
+      "url": "https://www.thepaper.cn/newsDetail_forward_34257535"
     },
     {
       "id": "evt-13000000",
       "title": "如何看待 13 岁女团成员出道仅数小时被曝父母恶意欠薪且被执行 345 万，母亲道歉并承诺会尽快解决？",
       "category": "society",
       "hotScore": 0.75,
-      "freshness": 0.9999,
+      "freshness": 1,
       "crossSource": 0.6309,
-      "totalScore": 0.7892,
+      "totalScore": 0.7893,
       "sources": [
         {
           "channel": "zhihu",
@@ -95,32 +108,32 @@
       "url": ""
     },
     {
-      "id": "evt-40000000",
-      "title": "马上评｜搜出来这么多冒牌400电话，平台要承担责任吗？",
+      "id": "evt-20270000",
+      "title": "美国肯德基 2027 年起将改用可口可乐，背后是什么原因？消费者实际感受差别大吗？",
       "category": "society",
-      "hotScore": 0.7225,
+      "hotScore": 0.7125,
       "freshness": 1,
       "crossSource": 0.6309,
-      "totalScore": 0.7783,
+      "totalScore": 0.7743,
       "sources": [
         {
-          "channel": "thepaper",
-          "rank": 4,
+          "channel": "zhihu",
+          "rank": 2,
           "hot": 0,
-          "url": "https://www.thepaper.cn/newsDetail_forward_34255232"
+          "url": ""
         }
       ],
       "summary": "",
-      "url": "https://www.thepaper.cn/newsDetail_forward_34255232"
+      "url": ""
     },
     {
-      "id": "evt-tim00000",
-      "title": "如何评价潘天鸿（Tim）父亲圆通速递董事兼总裁潘水苗出任影视飓风董事长，影视飓风回应称并非新加入？",
+      "id": "evt-25000000",
+      "title": "25 岁韩国网红柳智媛跑半马突发离世，此前她一直有运动的习惯，问题出在哪里？长跑应怎么评估身体状况？",
       "category": "society",
       "hotScore": 0.675,
-      "freshness": 0.9999,
+      "freshness": 1,
       "crossSource": 0.6309,
-      "totalScore": 0.7592,
+      "totalScore": 0.7593,
       "sources": [
         {
           "channel": "zhihu",
@@ -133,17 +146,36 @@
       "url": ""
     },
     {
-      "id": "evt-25000000",
-      "title": "25 岁韩国网红柳智媛跑半马突发离世，此前她一直有运动的习惯，问题出在哪里？长跑应怎么评估身体状况？",
+      "id": "evt-47000000",
+      "title": "黄海南部连续47天禁入藏了什么深意",
       "category": "society",
       "hotScore": 0.6375,
-      "freshness": 0.9999,
+      "freshness": 1,
       "crossSource": 0.6309,
-      "totalScore": 0.7442,
+      "totalScore": 0.7443,
+      "sources": [
+        {
+          "channel": "toutiao",
+          "rank": 6,
+          "hot": 8443037,
+          "url": "https://www.toutiao.com/trending/7696851935329075241/"
+        }
+      ],
+      "summary": "",
+      "url": "https://www.toutiao.com/trending/7696851935329075241/"
+    },
+    {
+      "id": "evt-roadst00",
+      "title": "特斯拉第二代 Roadster 还是汽车吗？展示的这些技术放在火箭领域算什么水平？",
+      "category": "society",
+      "hotScore": 0.6,
+      "freshness": 1,
+      "crossSource": 0.6309,
+      "totalScore": 0.7293,
       "sources": [
         {
           "channel": "zhihu",
-          "rank": 4,
+          "rank": 5,
           "hot": 0,
           "url": ""
         }
@@ -152,65 +184,46 @@
       "url": ""
     },
     {
-      "id": "evt-50000000",
-      "title": "深圳全市全天禁鸣喇叭 5 年，年内乱鸣喇叭第 3 次起罚 500，如何解读这项政策？罚款力度合理吗？",
+      "id": "evt-44000000",
+      "title": "男子花44万闪婚新娘失联：气得吐血",
       "category": "society",
-      "hotScore": 0.525,
-      "freshness": 0.9999,
-      "crossSource": 0.6309,
-      "totalScore": 0.6992,
-      "sources": [
-        {
-          "channel": "zhihu",
-          "rank": 7,
-          "hot": 0,
-          "url": ""
-        }
-      ],
-      "summary": "",
-      "url": ""
-    },
-    {
-      "id": "evt-open0000",
-      "title": "美国八州联手起诉OpenAI，称ChatGPT危害儿童和老年人",
-      "category": "society",
-      "hotScore": 0.4675,
+      "hotScore": 0.56,
       "freshness": 1,
       "crossSource": 0.6309,
-      "totalScore": 0.6763,
-      "sources": [
-        {
-          "channel": "thepaper",
-          "rank": 10,
-          "hot": 0,
-          "url": "https://www.thepaper.cn/newsDetail_forward_34254005"
-        }
-      ],
-      "summary": "",
-      "url": "https://www.thepaper.cn/newsDetail_forward_34254005"
-    },
-    {
-      "id": "evt-18000000",
-      "title": "180名中国华文教师不得不离开菲律宾",
-      "category": "society",
-      "hotScore": 0.44,
-      "freshness": 1,
-      "crossSource": 0.6309,
-      "totalScore": 0.6653,
+      "totalScore": 0.7133,
       "sources": [
         {
           "channel": "baidu",
-          "rank": 10,
+          "rank": 7,
           "hot": 0,
-          "url": "https://m.baidu.com/s?word=180%E5%90%8D%E4%B8%AD%E5%9B%BD%E5%8D%8E%E6%96%87%E6%95%99%E5%B8%88%E4%B8%8D%E5%BE%97%E4%B8%8D%E7%A6%BB%E5%BC%80%E8%8F%B2%E5%BE%8B%E5%AE%BE&sa=fyb_news"
+          "url": "https://m.baidu.com/s?word=%E7%94%B7%E5%AD%90%E8%8A%B144%E4%B8%87%E9%97%AA%E5%A9%9A%E6%96%B0%E5%A8%98%E5%A4%B1%E8%81%94%EF%BC%9A%E6%B0%94%E5%BE%97%E5%90%90%E8%A1%80&sa=fyb_news"
         }
       ],
       "summary": "",
-      "url": "https://m.baidu.com/s?word=180%E5%90%8D%E4%B8%AD%E5%9B%BD%E5%8D%8E%E6%96%87%E6%95%99%E5%B8%88%E4%B8%8D%E5%BE%97%E4%B8%8D%E7%A6%BB%E5%BC%80%E8%8F%B2%E5%BE%8B%E5%AE%BE&sa=fyb_news"
+      "url": "https://m.baidu.com/s?word=%E7%94%B7%E5%AD%90%E8%8A%B144%E4%B8%87%E9%97%AA%E5%A9%9A%E6%96%B0%E5%A8%98%E5%A4%B1%E8%81%94%EF%BC%9A%E6%B0%94%E5%BE%97%E5%90%90%E8%A1%80&sa=fyb_news"
     },
     {
-      "id": "evt-20000000",
-      "title": "浙江湖州一医院2名员工赴泰旅游在酒店泳池溺亡，院方通报：“遭谋杀、器官被摘除”等为谣言",
+      "id": "evt-ac000000",
+      "title": "既然网球发球可以直接 ace 得分，那为什么不专门练发球？",
+      "category": "society",
+      "hotScore": 0.4875,
+      "freshness": 1,
+      "crossSource": 0.6309,
+      "totalScore": 0.6843,
+      "sources": [
+        {
+          "channel": "zhihu",
+          "rank": 8,
+          "hot": 0,
+          "url": ""
+        }
+      ],
+      "summary": "",
+      "url": ""
+    },
+    {
+      "id": "evt-40000000",
+      "title": "澎湃回声｜两个400号码涉嫌假冒品牌客服，关联公司被南京两区市监局调查",
       "category": "society",
       "hotScore": 0.425,
       "freshness": 1,
@@ -221,11 +234,11 @@
           "channel": "thepaper",
           "rank": 11,
           "hot": 0,
-          "url": "https://www.thepaper.cn/newsDetail_forward_34256979"
+          "url": "https://www.thepaper.cn/newsDetail_forward_34258031"
         }
       ],
       "summary": "",
-      "url": "https://www.thepaper.cn/newsDetail_forward_34256979"
+      "url": "https://www.thepaper.cn/newsDetail_forward_34258031"
     }
   ]
 }
