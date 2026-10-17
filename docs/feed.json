@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-10-17T13:20:52.345Z",
+  "generatedAt": "2026-10-17T16:44:13.262Z",
   "fields": {
     "society": "社会",
     "economy": "经济",
@@ -7,48 +7,42 @@
   },
   "feed": [
     {
-      "id": "evt-00000000",
-      "title": "国家出手 养老账单要变了",
+      "id": "evt-20000000",
+      "title": "夫妻买2块劳力士不选不试戴 店员报警",
       "category": "society",
-      "hotScore": 0.8075,
+      "hotScore": 0.85,
       "freshness": 0.9999,
       "crossSource": 1,
-      "totalScore": 0.923,
+      "totalScore": 0.94,
       "sources": [
         {
           "channel": "toutiao",
-          "rank": 2,
-          "hot": 7481058,
-          "url": "https://www.toutiao.com/trending/7697029903337881641/"
-        },
-        {
-          "channel": "baidu",
-          "rank": 3,
-          "hot": 0,
-          "url": "https://m.baidu.com/s?word=%E5%9B%BD%E5%AE%B6%E5%87%BA%E6%89%8B+%E5%85%BB%E8%80%81%E8%B4%A6%E5%8D%95%E8%A6%81%E5%8F%98%E4%BA%86&sa=fyb_news"
+          "rank": 1,
+          "hot": 9230654,
+          "url": "https://www.toutiao.com/trending/7697247033459818505/"
         }
       ],
       "summary": "",
-      "url": "https://www.toutiao.com/trending/7697029903337881641/"
+      "url": "https://www.toutiao.com/trending/7697247033459818505/"
     },
     {
-      "id": "evt-10000000",
-      "title": "防癌神药出厂价不到1块钱",
+      "id": "evt-00000000",
+      "title": "马上评｜欣赏特斯拉的想象力，更要读懂中国新能源汽车硬实力",
       "category": "society",
-      "hotScore": 0.76,
+      "hotScore": 0.85,
       "freshness": 1,
-      "crossSource": 0.6309,
-      "totalScore": 0.7933,
+      "crossSource": 1,
+      "totalScore": 0.94,
       "sources": [
         {
-          "channel": "baidu",
-          "rank": 2,
+          "channel": "thepaper",
+          "rank": 1,
           "hot": 0,
-          "url": "https://m.baidu.com/s?word=%E9%98%B2%E7%99%8C%E7%A5%9E%E8%8D%AF%E5%87%BA%E5%8E%82%E4%BB%B7%E4%B8%8D%E5%88%B01%E5%9D%97%E9%92%B1&sa=fyb_news"
+          "url": "https://www.thepaper.cn/newsDetail_forward_34270632"
         }
       ],
       "summary": "",
-      "url": "https://m.baidu.com/s?word=%E9%98%B2%E7%99%8C%E7%A5%9E%E8%8D%AF%E5%87%BA%E5%8E%82%E4%BB%B7%E4%B8%8D%E5%88%B01%E5%9D%97%E9%92%B1&sa=fyb_news"
+      "url": "https://www.thepaper.cn/newsDetail_forward_34270632"
     },
     {
       "id": "evt-deepseek",
@@ -56,8 +50,8 @@
       "category": "society",
       "hotScore": 0.75,
       "freshness": 1,
-      "crossSource": 0.6309,
-      "totalScore": 0.7893,
+      "crossSource": 1,
+      "totalScore": 0.9,
       "sources": [
         {
           "channel": "zhihu",
@@ -70,36 +64,36 @@
       "url": ""
     },
     {
-      "id": "evt-20000000",
-      "title": "夫妻买2块劳力士不选不试戴 店员报警",
+      "id": "evt-83200000",
+      "title": "释新闻｜一年花832亿美元军费，沙特防空体系为何难挡胡塞武装袭击？",
       "category": "society",
-      "hotScore": 0.7225,
-      "freshness": 0.9999,
-      "crossSource": 0.6309,
-      "totalScore": 0.7783,
+      "hotScore": 0.68,
+      "freshness": 1,
+      "crossSource": 1,
+      "totalScore": 0.872,
       "sources": [
         {
-          "channel": "toutiao",
-          "rank": 4,
-          "hot": 6124972,
-          "url": "https://www.toutiao.com/trending/7697247033459818505/"
+          "channel": "thepaper",
+          "rank": 5,
+          "hot": 0,
+          "url": "https://www.thepaper.cn/newsDetail_forward_34265196"
         }
       ],
       "summary": "",
-      "url": "https://www.toutiao.com/trending/7697247033459818505/"
+      "url": "https://www.thepaper.cn/newsDetail_forward_34265196"
     },
     {
       "id": "evt-94000000",
       "title": "英伟达市值 9 天蒸发约 4 万亿元，全球 AI 股集体遭抛售，AI 泡沫是不是要破了？",
       "category": "economy",
-      "hotScore": 0.525,
+      "hotScore": 0.6,
       "freshness": 1,
-      "crossSource": 0.6309,
-      "totalScore": 0.6993,
+      "crossSource": 1,
+      "totalScore": 0.84,
       "sources": [
         {
           "channel": "zhihu",
-          "rank": 7,
+          "rank": 5,
           "hot": 0,
           "url": ""
         }
@@ -111,14 +105,14 @@
       "id": "evt-30000000",
       "title": "如何看待《流浪地球 3》首次票房预测为 48 亿？",
       "category": "entertainment",
-      "hotScore": 0.7125,
+      "hotScore": 0.675,
       "freshness": 1,
-      "crossSource": 0.6309,
-      "totalScore": 0.7743,
+      "crossSource": 1,
+      "totalScore": 0.87,
       "sources": [
         {
           "channel": "zhihu",
-          "rank": 2,
+          "rank": 3,
           "hot": 0,
           "url": ""
         }
@@ -127,13 +121,51 @@
       "url": ""
     },
     {
-      "id": "evt-11800000",
-      "title": "中建七局拖欠 118 名农民工合计 320 万工资，为何这些大企业也会拖欠工资？相关负责人可能会面临哪些处罚？",
+      "id": "evt-26000000",
+      "title": "陈奕迅将开26场演唱会：禁止带手机",
+      "category": "entertainment",
+      "hotScore": 0.6,
+      "freshness": 1,
+      "crossSource": 1,
+      "totalScore": 0.84,
+      "sources": [
+        {
+          "channel": "baidu",
+          "rank": 6,
+          "hot": 0,
+          "url": "https://m.baidu.com/s?word=%E9%99%88%E5%A5%95%E8%BF%85%E5%B0%86%E5%BC%8026%E5%9C%BA%E6%BC%94%E5%94%B1%E4%BC%9A%EF%BC%9A%E7%A6%81%E6%AD%A2%E5%B8%A6%E6%89%8B%E6%9C%BA&sa=fyb_news"
+        }
+      ],
+      "summary": "",
+      "url": "https://m.baidu.com/s?word=%E9%99%88%E5%A5%95%E8%BF%85%E5%B0%86%E5%BC%8026%E5%9C%BA%E6%BC%94%E5%94%B1%E4%BC%9A%EF%BC%9A%E7%A6%81%E6%AD%A2%E5%B8%A6%E6%89%8B%E6%9C%BA&sa=fyb_news"
+    },
+    {
+      "id": "evt-10110000",
+      "title": "101岁奶奶每天找100岁闺蜜唠家常",
+      "category": "society",
+      "hotScore": 0.64,
+      "freshness": 1,
+      "crossSource": 1,
+      "totalScore": 0.856,
+      "sources": [
+        {
+          "channel": "baidu",
+          "rank": 5,
+          "hot": 0,
+          "url": "https://m.baidu.com/s?word=101%E5%B2%81%E5%A5%B6%E5%A5%B6%E6%AF%8F%E5%A4%A9%E6%89%BE100%E5%B2%81%E9%97%BA%E8%9C%9C%E5%94%A0%E5%AE%B6%E5%B8%B8&sa=fyb_news"
+        }
+      ],
+      "summary": "",
+      "url": "https://m.baidu.com/s?word=101%E5%B2%81%E5%A5%B6%E5%A5%B6%E6%AF%8F%E5%A4%A9%E6%89%BE100%E5%B2%81%E9%97%BA%E8%9C%9C%E5%94%A0%E5%AE%B6%E5%B8%B8&sa=fyb_news"
+    },
+    {
+      "id": "evt-11100000",
+      "title": "社保新规 11 月 1 日起施行，明确自愿放弃社保无效，怎样解读？企业未足额缴纳社保，员工权益会受到哪些损害？",
       "category": "society",
       "hotScore": 0.6375,
       "freshness": 1,
-      "crossSource": 0.6309,
-      "totalScore": 0.7443,
+      "crossSource": 1,
+      "totalScore": 0.855,
       "sources": [
         {
           "channel": "zhihu",
@@ -149,14 +181,14 @@
       "id": "evt-40000000",
       "title": "安徽40岁喜婆婆因颜值爆火",
       "category": "society",
-      "hotScore": 0.6,
+      "hotScore": 0.56,
       "freshness": 1,
-      "crossSource": 0.6309,
-      "totalScore": 0.7293,
+      "crossSource": 1,
+      "totalScore": 0.824,
       "sources": [
         {
           "channel": "baidu",
-          "rank": 6,
+          "rank": 7,
           "hot": 0,
           "url": "https://m.baidu.com/s?word=%E5%AE%89%E5%BE%BD40%E5%B2%81%E5%96%9C%E5%A9%86%E5%A9%86%E5%9B%A0%E9%A2%9C%E5%80%BC%E7%88%86%E7%81%AB&sa=fyb_news"
         }
@@ -165,56 +197,18 @@
       "url": "https://m.baidu.com/s?word=%E5%AE%89%E5%BE%BD40%E5%B2%81%E5%96%9C%E5%A9%86%E5%A9%86%E5%9B%A0%E9%A2%9C%E5%80%BC%E7%88%86%E7%81%AB&sa=fyb_news"
     },
     {
-      "id": "evt-83200000",
-      "title": "释新闻｜一年花832亿美元军费，沙特防空体系为何难挡胡塞武装袭击？",
-      "category": "society",
-      "hotScore": 0.5525,
-      "freshness": 1,
-      "crossSource": 0.6309,
-      "totalScore": 0.7103,
-      "sources": [
-        {
-          "channel": "thepaper",
-          "rank": 8,
-          "hot": 0,
-          "url": "https://www.thepaper.cn/newsDetail_forward_34265196"
-        }
-      ],
-      "summary": "",
-      "url": "https://www.thepaper.cn/newsDetail_forward_34265196"
-    },
-    {
-      "id": "evt-95300000",
-      "title": "95后小伙做“共享儿女”300元1小时",
-      "category": "society",
-      "hotScore": 0.44,
-      "freshness": 1,
-      "crossSource": 0.6309,
-      "totalScore": 0.6653,
-      "sources": [
-        {
-          "channel": "baidu",
-          "rank": 10,
-          "hot": 0,
-          "url": "https://m.baidu.com/s?word=95%E5%90%8E%E5%B0%8F%E4%BC%99%E5%81%9A%E2%80%9C%E5%85%B1%E4%BA%AB%E5%84%BF%E5%A5%B3%E2%80%9D300%E5%85%831%E5%B0%8F%E6%97%B6&sa=fyb_news"
-        }
-      ],
-      "summary": "",
-      "url": "https://m.baidu.com/s?word=95%E5%90%8E%E5%B0%8F%E4%BC%99%E5%81%9A%E2%80%9C%E5%85%B1%E4%BA%AB%E5%84%BF%E5%A5%B3%E2%80%9D300%E5%85%831%E5%B0%8F%E6%97%B6&sa=fyb_news"
-    },
-    {
       "id": "evt-50000000",
       "title": "新疆喀什要投资5000万新建景区？假",
       "category": "society",
       "hotScore": 0.425,
       "freshness": 0.9999,
-      "crossSource": 0.6309,
-      "totalScore": 0.6593,
+      "crossSource": 1,
+      "totalScore": 0.77,
       "sources": [
         {
           "channel": "toutiao",
           "rank": 11,
-          "hot": 3041571,
+          "hot": 3395768,
           "url": "https://www.toutiao.com/trending/7696392996681515027/"
         }
       ],
