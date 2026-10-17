@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-10-17T02:04:32.548Z",
+  "generatedAt": "2026-10-17T08:07:36.386Z",
   "fields": {
     "society": "社会",
     "economy": "经济",
@@ -7,86 +7,61 @@
   },
   "feed": [
     {
-      "id": "evt-00000000",
-      "title": "女子生下龙凤胎 起诉已婚董事长",
-      "category": "society",
-      "hotScore": 0.7225,
-      "freshness": 0.9999,
-      "crossSource": 1,
-      "totalScore": 0.889,
-      "sources": [
-        {
-          "channel": "toutiao",
-          "rank": 4,
-          "hot": 19390680,
-          "url": "https://www.toutiao.com/trending/7697225740948897833/"
-        },
-        {
-          "channel": "baidu",
-          "rank": 8,
-          "hot": 0,
-          "url": "https://m.baidu.com/s?word=%E5%A5%B3%E5%AD%90%E7%94%9F%E4%B8%8B%E9%BE%99%E5%87%A4%E8%83%8E+%E8%B5%B7%E8%AF%89%E5%B7%B2%E5%A9%9A%E8%91%A3%E4%BA%8B%E9%95%BF&sa=fyb_news"
-        }
-      ],
-      "summary": "",
-      "url": "https://www.toutiao.com/trending/7697225740948897833/"
-    },
-    {
-      "id": "evt-78000000",
-      "title": "78家加油站“偷油”被查",
+      "id": "evt-20000000",
+      "title": "夫妻买2块劳力士不选不试戴 店员报警",
       "category": "society",
       "hotScore": 0.85,
       "freshness": 0.9999,
-      "crossSource": 0.6309,
-      "totalScore": 0.8292,
+      "crossSource": 1,
+      "totalScore": 0.94,
       "sources": [
         {
           "channel": "toutiao",
           "rank": 1,
-          "hot": 26174681,
-          "url": "https://www.toutiao.com/trending/7696867493117378587/"
-        }
-      ],
-      "summary": "",
-      "url": "https://www.toutiao.com/trending/7696867493117378587/"
-    },
-    {
-      "id": "evt-40000000",
-      "title": "母亲将大一儿子生活费从4000降至2000",
-      "category": "society",
-      "hotScore": 0.56,
-      "freshness": 0.9999,
-      "crossSource": 1,
-      "totalScore": 0.824,
-      "sources": [
-        {
-          "channel": "toutiao",
-          "rank": 13,
-          "hot": 7883662,
-          "url": "https://www.toutiao.com/trending/7696880212247887935/"
+          "hot": 18538487,
+          "url": "https://www.toutiao.com/trending/7697247033459818505/"
         },
         {
           "channel": "baidu",
-          "rank": 7,
+          "rank": 20,
           "hot": 0,
-          "url": "https://m.baidu.com/s?word=%E6%AF%8D%E4%BA%B2%E5%B0%86%E5%A4%A7%E4%B8%80%E5%84%BF%E5%AD%90%E7%94%9F%E6%B4%BB%E8%B4%B9%E4%BB%8E4000%E9%99%8D%E8%87%B32000&sa=fyb_news"
+          "url": "https://m.baidu.com/s?word=%E5%A4%AB%E5%A6%BB%E4%B9%B02%E5%9D%97%E5%8A%B3%E5%8A%9B%E5%A3%AB%E4%B8%8D%E9%80%89%E4%B8%8D%E8%AF%95%E6%88%B4+%E5%BA%97%E5%91%98%E6%8A%A5%E8%AD%A6&sa=fyb_news"
         }
       ],
       "summary": "",
-      "url": "https://www.toutiao.com/trending/7696880212247887935/"
+      "url": "https://www.toutiao.com/trending/7697247033459818505/"
+    },
+    {
+      "id": "evt-00000000",
+      "title": "甘肃天水幼儿园铅中毒案一审宣判：负责人李慧芳被判无期",
+      "category": "society",
+      "hotScore": 0.85,
+      "freshness": 0.9999,
+      "crossSource": 0.6309,
+      "totalScore": 0.8293,
+      "sources": [
+        {
+          "channel": "thepaper",
+          "rank": 1,
+          "hot": 0,
+          "url": "https://www.thepaper.cn/newsDetail_forward_34263974"
+        }
+      ],
+      "summary": "",
+      "url": "https://www.thepaper.cn/newsDetail_forward_34263974"
     },
     {
       "id": "evt-30000000",
       "title": "四部门：组织30余家车企座谈，加强汽车产品研发测试验证管理",
       "category": "society",
-      "hotScore": 0.765,
+      "hotScore": 0.8075,
       "freshness": 0.9999,
       "crossSource": 0.6309,
-      "totalScore": 0.7953,
+      "totalScore": 0.8123,
       "sources": [
         {
           "channel": "thepaper",
-          "rank": 3,
+          "rank": 2,
           "hot": 0,
           "url": "https://www.thepaper.cn/newsDetail_forward_34264638"
         }
@@ -95,23 +70,67 @@
       "url": "https://www.thepaper.cn/newsDetail_forward_34264638"
     },
     {
-      "id": "evt-92000000",
-      "title": "92%的在岗班主任不愿意继续干了",
+      "id": "evt-roadster",
+      "title": "Roadster 发布后，特斯拉、 SpaceX 仍在大跌，马斯克身家四天缩水 5286 亿元，如何解读？",
       "category": "society",
-      "hotScore": 0.76,
-      "freshness": 1,
+      "hotScore": 0.75,
+      "freshness": 0.9999,
       "crossSource": 0.6309,
-      "totalScore": 0.7933,
+      "totalScore": 0.7892,
       "sources": [
         {
-          "channel": "baidu",
-          "rank": 2,
+          "channel": "zhihu",
+          "rank": 1,
           "hot": 0,
-          "url": "https://m.baidu.com/s?word=92%25%E7%9A%84%E5%9C%A8%E5%B2%97%E7%8F%AD%E4%B8%BB%E4%BB%BB%E4%B8%8D%E6%84%BF%E6%84%8F%E7%BB%A7%E7%BB%AD%E5%B9%B2%E4%BA%86&sa=fyb_news"
+          "url": ""
         }
       ],
       "summary": "",
-      "url": "https://m.baidu.com/s?word=92%25%E7%9A%84%E5%9C%A8%E5%B2%97%E7%8F%AD%E4%B8%BB%E4%BB%BB%E4%B8%8D%E6%84%BF%E6%84%8F%E7%BB%A7%E7%BB%AD%E5%B9%B2%E4%BA%86&sa=fyb_news"
+      "url": ""
+    },
+    {
+      "id": "evt-94000000",
+      "title": "英伟达市值9天蒸发4万亿元",
+      "category": "economy",
+      "hotScore": 0.28,
+      "freshness": 0.9999,
+      "crossSource": 1,
+      "totalScore": 0.712,
+      "sources": [
+        {
+          "channel": "toutiao",
+          "rank": 16,
+          "hot": 4136495,
+          "url": "https://www.toutiao.com/trending/7696986246765264947/"
+        },
+        {
+          "channel": "baidu",
+          "rank": 14,
+          "hot": 0,
+          "url": "https://m.baidu.com/s?word=%E8%8B%B1%E4%BC%9F%E8%BE%BE%E5%B8%82%E5%80%BC9%E5%A4%A9%E8%92%B8%E5%8F%914%E4%B8%87%E4%BA%BF%E5%85%83&sa=fyb_news"
+        }
+      ],
+      "summary": "",
+      "url": "https://www.toutiao.com/trending/7696986246765264947/"
+    },
+    {
+      "id": "evt-3ipho000",
+      "title": "有人一口气买3部iPhone Duo准备卖掉",
+      "category": "society",
+      "hotScore": 0.72,
+      "freshness": 1,
+      "crossSource": 0.6309,
+      "totalScore": 0.7773,
+      "sources": [
+        {
+          "channel": "baidu",
+          "rank": 3,
+          "hot": 0,
+          "url": "https://m.baidu.com/s?word=%E6%9C%89%E4%BA%BA%E4%B8%80%E5%8F%A3%E6%B0%94%E4%B9%B03%E9%83%A8iPhone+Duo%E5%87%86%E5%A4%87%E5%8D%96%E6%8E%89&sa=fyb_news"
+        }
+      ],
+      "summary": "",
+      "url": "https://m.baidu.com/s?word=%E6%9C%89%E4%BA%BA%E4%B8%80%E5%8F%A3%E6%B0%94%E4%B9%B03%E9%83%A8iPhone+Duo%E5%87%86%E5%A4%87%E5%8D%96%E6%8E%89&sa=fyb_news"
     },
     {
       "id": "evt-70000000",
@@ -133,65 +152,8 @@
       "url": "https://m.baidu.com/s?word=%E5%B9%BF%E4%BA%A4%E4%BC%9A70%E5%B9%B4%E2%80%9C%E7%83%AD%E9%97%A8%E5%8D%95%E5%93%81%E2%80%9D%E5%A4%A7%E5%8F%98%E8%BF%81&sa=fyb_news"
     },
     {
-      "id": "evt-16000000",
-      "title": "德国一机器人涉嫌猥亵 16 岁少女，警方调查疑系机器人主人远程操控，案件调查难点在哪？如何认定相关责任 ？",
-      "category": "society",
-      "hotScore": 0.675,
-      "freshness": 0.9999,
-      "crossSource": 0.6309,
-      "totalScore": 0.7592,
-      "sources": [
-        {
-          "channel": "zhihu",
-          "rank": 3,
-          "hot": 0,
-          "url": ""
-        }
-      ],
-      "summary": "",
-      "url": ""
-    },
-    {
-      "id": "evt-14000000",
-      "title": "客户反映价值万元的14桶哈根达斯融化损毁，顺丰：维持两千元赔偿方案",
-      "category": "society",
-      "hotScore": 0.6375,
-      "freshness": 0.9999,
-      "crossSource": 0.6309,
-      "totalScore": 0.7443,
-      "sources": [
-        {
-          "channel": "thepaper",
-          "rank": 6,
-          "hot": 0,
-          "url": "https://www.thepaper.cn/newsDetail_forward_34261750"
-        }
-      ],
-      "summary": "",
-      "url": "https://www.thepaper.cn/newsDetail_forward_34261750"
-    },
-    {
-      "id": "evt-roadster",
-      "title": "Roadster是“飞行汽车”还是营销奇观",
-      "category": "society",
-      "hotScore": 0.6375,
-      "freshness": 0.9999,
-      "crossSource": 0.6309,
-      "totalScore": 0.7442,
-      "sources": [
-        {
-          "channel": "toutiao",
-          "rank": 6,
-          "hot": 15875746,
-          "url": "https://www.toutiao.com/trending/7697297061787471402/"
-        }
-      ],
-      "summary": "",
-      "url": "https://www.toutiao.com/trending/7697297061787471402/"
-    },
-    {
-      "id": "evt-25120000",
-      "title": "25 岁伊藤美诚近 12 年首次无缘日本队序列，清空乒乓内容、删掉运动员身份，她会彻底告别乒坛吗？",
+      "id": "evt-11800000",
+      "title": "中建七局拖欠 118 名农民工合计 320 万工资，为何这些大企业也会拖欠工资？相关负责人可能会面临哪些处罚？",
       "category": "society",
       "hotScore": 0.6375,
       "freshness": 0.9999,
@@ -209,61 +171,42 @@
       "url": ""
     },
     {
-      "id": "evt-11000000",
-      "title": "孙颖莎和11岁河北省冠军担任火炬手",
+      "id": "evt-83200000",
+      "title": "释新闻｜一年花832亿美元军费，沙特防空体系为何难挡胡塞武装袭击？",
       "category": "society",
       "hotScore": 0.595,
       "freshness": 0.9999,
       "crossSource": 0.6309,
-      "totalScore": 0.7272,
+      "totalScore": 0.7273,
       "sources": [
         {
-          "channel": "toutiao",
+          "channel": "thepaper",
           "rank": 7,
-          "hot": 14364969,
-          "url": "https://www.toutiao.com/trending/7696347600661938218/"
+          "hot": 0,
+          "url": "https://www.thepaper.cn/newsDetail_forward_34265196"
         }
       ],
       "summary": "",
-      "url": "https://www.toutiao.com/trending/7696347600661938218/"
+      "url": "https://www.thepaper.cn/newsDetail_forward_34265196"
     },
     {
-      "id": "evt-v0000000",
-      "title": "大V：保时捷很帅但特斯拉能飞",
+      "id": "evt-16000000",
+      "title": "德国一机器人涉嫌猥亵 16 岁少女，警方调查疑系机器人主人远程操控，案件调查难点在哪？如何认定相关责任？",
       "category": "society",
-      "hotScore": 0.4675,
+      "hotScore": 0.525,
       "freshness": 0.9999,
       "crossSource": 0.6309,
-      "totalScore": 0.6762,
+      "totalScore": 0.6992,
       "sources": [
         {
-          "channel": "toutiao",
-          "rank": 10,
-          "hot": 10641831,
-          "url": "https://www.toutiao.com/trending/7697315573423672883/"
+          "channel": "zhihu",
+          "rank": 7,
+          "hot": 0,
+          "url": ""
         }
       ],
       "summary": "",
-      "url": "https://www.toutiao.com/trending/7697315573423672883/"
-    },
-    {
-      "id": "evt-50000000",
-      "title": "新疆喀什要投资5000万新建景区？假",
-      "category": "society",
-      "hotScore": 0.425,
-      "freshness": 0.9999,
-      "crossSource": 0.6309,
-      "totalScore": 0.6592,
-      "sources": [
-        {
-          "channel": "toutiao",
-          "rank": 11,
-          "hot": 9629127,
-          "url": "https://www.toutiao.com/trending/7696392996681515027/"
-        }
-      ],
-      "summary": "",
-      "url": "https://www.toutiao.com/trending/7696392996681515027/"
+      "url": ""
     }
   ]
 }
