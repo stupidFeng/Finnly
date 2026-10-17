@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-10-17T19:49:53.973Z",
+  "generatedAt": "2026-10-17T21:51:41.979Z",
   "fields": {
     "society": "社会",
     "economy": "经济",
@@ -8,29 +8,29 @@
   "feed": [
     {
       "id": "evt-00000000",
-      "title": "黄奇帆被查 中纪委官网重磅发文",
+      "title": "国家出手 养老账单要变了",
       "category": "society",
       "hotScore": 0.85,
-      "freshness": 1,
+      "freshness": 0.9999,
       "crossSource": 1,
       "totalScore": 0.94,
       "sources": [
         {
           "channel": "toutiao",
           "rank": 1,
-          "hot": 9598535,
-          "url": "https://www.toutiao.com/trending/7697485333599882806/"
+          "hot": 9898614,
+          "url": "https://www.toutiao.com/trending/7697029903337881641/"
         }
       ],
       "summary": "",
-      "url": "https://www.toutiao.com/trending/7697485333599882806/"
+      "url": "https://www.toutiao.com/trending/7697029903337881641/"
     },
     {
       "id": "evt-deepseek",
       "title": "如何评价 DeepSeek V4.1 Flash 1017?",
       "category": "society",
       "hotScore": 0.75,
-      "freshness": 1,
+      "freshness": 0.9999,
       "crossSource": 1,
       "totalScore": 0.9,
       "sources": [
@@ -43,25 +43,6 @@
       ],
       "summary": "",
       "url": ""
-    },
-    {
-      "id": "evt-20000000",
-      "title": "夫妻买2块劳力士不选不试戴 店员报警",
-      "category": "society",
-      "hotScore": 0.68,
-      "freshness": 1,
-      "crossSource": 1,
-      "totalScore": 0.872,
-      "sources": [
-        {
-          "channel": "toutiao",
-          "rank": 5,
-          "hot": 6434090,
-          "url": "https://www.toutiao.com/trending/7697247033459818505/"
-        }
-      ],
-      "summary": "",
-      "url": "https://www.toutiao.com/trending/7697247033459818505/"
     },
     {
       "id": "evt-10110000",
@@ -83,11 +64,30 @@
       "url": "https://m.baidu.com/s?word=101%E5%B2%81%E5%A5%B6%E5%A5%B6%E6%AF%8F%E5%A4%A9%E6%89%BE100%E5%B2%81%E9%97%BA%E8%9C%9C%E5%94%A0%E5%AE%B6%E5%B8%B8&sa=fyb_news"
     },
     {
+      "id": "evt-20000000",
+      "title": "夫妻买2块劳力士不选不试戴 店员报警",
+      "category": "society",
+      "hotScore": 0.6375,
+      "freshness": 0.9999,
+      "crossSource": 1,
+      "totalScore": 0.855,
+      "sources": [
+        {
+          "channel": "toutiao",
+          "rank": 6,
+          "hot": 6003812,
+          "url": "https://www.toutiao.com/trending/7697247033459818505/"
+        }
+      ],
+      "summary": "",
+      "url": "https://www.toutiao.com/trending/7697247033459818505/"
+    },
+    {
       "id": "evt-94000000",
       "title": "英伟达市值 9 天蒸发约 4 万亿元，全球 AI 股集体遭抛售，AI 泡沫是不是要破了？",
       "category": "economy",
       "hotScore": 0.7125,
-      "freshness": 1,
+      "freshness": 0.9999,
       "crossSource": 1,
       "totalScore": 0.885,
       "sources": [
@@ -125,7 +125,7 @@
       "title": "社保新规 11 月 1 日起施行，明确自愿放弃社保无效，怎样解读？企业未足额缴纳社保，员工权益会受到哪些损害？",
       "category": "society",
       "hotScore": 0.6375,
-      "freshness": 1,
+      "freshness": 0.9999,
       "crossSource": 1,
       "totalScore": 0.855,
       "sources": [
@@ -159,37 +159,18 @@
       "url": "https://www.thepaper.cn/newsDetail_forward_34265196"
     },
     {
-      "id": "evt-apec0000",
-      "title": "高市为何把参加APEC峰会门槛推给国会",
-      "category": "society",
-      "hotScore": 0.5525,
-      "freshness": 1,
-      "crossSource": 1,
-      "totalScore": 0.821,
-      "sources": [
-        {
-          "channel": "toutiao",
-          "rank": 8,
-          "hot": 4766491,
-          "url": "https://www.toutiao.com/trending/7697571213492620851/"
-        }
-      ],
-      "summary": "",
-      "url": "https://www.toutiao.com/trending/7697571213492620851/"
-    },
-    {
       "id": "evt-40000000",
       "title": "妈妈将大一儿子生活费从4000降至2000",
       "category": "society",
       "hotScore": 0.51,
-      "freshness": 1,
+      "freshness": 0.9999,
       "crossSource": 1,
       "totalScore": 0.804,
       "sources": [
         {
           "channel": "toutiao",
           "rank": 9,
-          "hot": 4312899,
+          "hot": 4447734,
           "url": "https://www.toutiao.com/trending/7696880212247887935/"
         }
       ],
@@ -197,18 +178,56 @@
       "url": "https://www.toutiao.com/trending/7696880212247887935/"
     },
     {
+      "id": "evt-10000000",
+      "title": "员工没来上班 老板1个电话救了两条命",
+      "category": "society",
+      "hotScore": 0.48,
+      "freshness": 1,
+      "crossSource": 1,
+      "totalScore": 0.792,
+      "sources": [
+        {
+          "channel": "baidu",
+          "rank": 9,
+          "hot": 0,
+          "url": "https://m.baidu.com/s?word=%E5%91%98%E5%B7%A5%E6%B2%A1%E6%9D%A5%E4%B8%8A%E7%8F%AD+%E8%80%81%E6%9D%BF1%E4%B8%AA%E7%94%B5%E8%AF%9D%E6%95%91%E4%BA%86%E4%B8%A4%E6%9D%A1%E5%91%BD&sa=fyb_news"
+        }
+      ],
+      "summary": "",
+      "url": "https://m.baidu.com/s?word=%E5%91%98%E5%B7%A5%E6%B2%A1%E6%9D%A5%E4%B8%8A%E7%8F%AD+%E8%80%81%E6%9D%BF1%E4%B8%AA%E7%94%B5%E8%AF%9D%E6%95%91%E4%BA%86%E4%B8%A4%E6%9D%A1%E5%91%BD&sa=fyb_news"
+    },
+    {
+      "id": "evt-apec0000",
+      "title": "高市为何把参加APEC峰会门槛推给国会",
+      "category": "society",
+      "hotScore": 0.4675,
+      "freshness": 0.9999,
+      "crossSource": 1,
+      "totalScore": 0.787,
+      "sources": [
+        {
+          "channel": "toutiao",
+          "rank": 10,
+          "hot": 4024476,
+          "url": "https://www.toutiao.com/trending/7697571213492620851/"
+        }
+      ],
+      "summary": "",
+      "url": "https://www.toutiao.com/trending/7697571213492620851/"
+    },
+    {
       "id": "evt-50000000",
       "title": "新疆喀什要投资5000万新建景区？假",
       "category": "society",
       "hotScore": 0.425,
-      "freshness": 1,
+      "freshness": 0.9999,
       "crossSource": 1,
       "totalScore": 0.77,
       "sources": [
         {
           "channel": "toutiao",
           "rank": 11,
-          "hot": 3531103,
+          "hot": 3641496,
           "url": "https://www.toutiao.com/trending/7696392996681515027/"
         }
       ],
