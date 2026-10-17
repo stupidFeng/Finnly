@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-10-17T21:51:41.979Z",
+  "generatedAt": "2026-10-17T23:37:16.543Z",
   "fields": {
     "society": "社会",
     "economy": "经济",
@@ -8,7 +8,7 @@
   "feed": [
     {
       "id": "evt-00000000",
-      "title": "国家出手 养老账单要变了",
+      "title": "特斯拉飞行跑车遭遇“踢馆”",
       "category": "society",
       "hotScore": 0.85,
       "freshness": 0.9999,
@@ -18,21 +18,84 @@
         {
           "channel": "toutiao",
           "rank": 1,
-          "hot": 9898614,
-          "url": "https://www.toutiao.com/trending/7697029903337881641/"
+          "hot": 10471387,
+          "url": "https://www.toutiao.com/trending/7697098047423299647/"
+        },
+        {
+          "channel": "baidu",
+          "rank": 18,
+          "hot": 0,
+          "url": "https://m.baidu.com/s?word=%E7%89%B9%E6%96%AF%E6%8B%89%E9%A3%9E%E8%A1%8C%E8%B7%91%E8%BD%A6%E9%81%AD%E9%81%87%E2%80%9C%E8%B8%A2%E9%A6%86%E2%80%9D&sa=fyb_news"
         }
       ],
       "summary": "",
-      "url": "https://www.toutiao.com/trending/7697029903337881641/"
+      "url": "https://www.toutiao.com/trending/7697098047423299647/"
+    },
+    {
+      "id": "evt-20000000",
+      "title": "夫妻买2块劳力士不选不试戴 店员报警",
+      "category": "society",
+      "hotScore": 0.68,
+      "freshness": 0.9999,
+      "crossSource": 0.6309,
+      "totalScore": 0.7613,
+      "sources": [
+        {
+          "channel": "toutiao",
+          "rank": 5,
+          "hot": 7019180,
+          "url": "https://www.toutiao.com/trending/7697247033459818505/"
+        }
+      ],
+      "summary": "",
+      "url": "https://www.toutiao.com/trending/7697247033459818505/"
     },
     {
       "id": "evt-deepseek",
       "title": "如何评价 DeepSeek V4.1 Flash 1017?",
       "category": "society",
+      "hotScore": 0.675,
+      "freshness": 0.9999,
+      "crossSource": 0.6309,
+      "totalScore": 0.7593,
+      "sources": [
+        {
+          "channel": "zhihu",
+          "rank": 3,
+          "hot": 0,
+          "url": ""
+        }
+      ],
+      "summary": "",
+      "url": ""
+    },
+    {
+      "id": "evt-10000000",
+      "title": "员工没来上班 老板1个电话救了两条命",
+      "category": "society",
+      "hotScore": 0.6,
+      "freshness": 1,
+      "crossSource": 0.6309,
+      "totalScore": 0.7293,
+      "sources": [
+        {
+          "channel": "baidu",
+          "rank": 6,
+          "hot": 0,
+          "url": "https://m.baidu.com/s?word=%E5%91%98%E5%B7%A5%E6%B2%A1%E6%9D%A5%E4%B8%8A%E7%8F%AD+%E8%80%81%E6%9D%BF1%E4%B8%AA%E7%94%B5%E8%AF%9D%E6%95%91%E4%BA%86%E4%B8%A4%E6%9D%A1%E5%91%BD&sa=fyb_news"
+        }
+      ],
+      "summary": "",
+      "url": "https://m.baidu.com/s?word=%E5%91%98%E5%B7%A5%E6%B2%A1%E6%9D%A5%E4%B8%8A%E7%8F%AD+%E8%80%81%E6%9D%BF1%E4%B8%AA%E7%94%B5%E8%AF%9D%E6%95%91%E4%BA%86%E4%B8%A4%E6%9D%A1%E5%91%BD&sa=fyb_news"
+    },
+    {
+      "id": "evt-94000000",
+      "title": "英伟达市值 9 天蒸发约 4 万亿元，全球 AI 股集体遭抛售，AI 泡沫是不是要破了？",
+      "category": "economy",
       "hotScore": 0.75,
       "freshness": 0.9999,
-      "crossSource": 1,
-      "totalScore": 0.9,
+      "crossSource": 0.6309,
+      "totalScore": 0.7893,
       "sources": [
         {
           "channel": "zhihu",
@@ -45,112 +108,55 @@
       "url": ""
     },
     {
-      "id": "evt-10110000",
-      "title": "101岁奶奶每天找100岁闺蜜唠家常",
-      "category": "society",
-      "hotScore": 0.64,
-      "freshness": 1,
-      "crossSource": 1,
-      "totalScore": 0.856,
-      "sources": [
-        {
-          "channel": "baidu",
-          "rank": 5,
-          "hot": 0,
-          "url": "https://m.baidu.com/s?word=101%E5%B2%81%E5%A5%B6%E5%A5%B6%E6%AF%8F%E5%A4%A9%E6%89%BE100%E5%B2%81%E9%97%BA%E8%9C%9C%E5%94%A0%E5%AE%B6%E5%B8%B8&sa=fyb_news"
-        }
-      ],
-      "summary": "",
-      "url": "https://m.baidu.com/s?word=101%E5%B2%81%E5%A5%B6%E5%A5%B6%E6%AF%8F%E5%A4%A9%E6%89%BE100%E5%B2%81%E9%97%BA%E8%9C%9C%E5%94%A0%E5%AE%B6%E5%B8%B8&sa=fyb_news"
-    },
-    {
-      "id": "evt-20000000",
-      "title": "夫妻买2块劳力士不选不试戴 店员报警",
-      "category": "society",
-      "hotScore": 0.6375,
-      "freshness": 0.9999,
-      "crossSource": 1,
-      "totalScore": 0.855,
-      "sources": [
-        {
-          "channel": "toutiao",
-          "rank": 6,
-          "hot": 6003812,
-          "url": "https://www.toutiao.com/trending/7697247033459818505/"
-        }
-      ],
-      "summary": "",
-      "url": "https://www.toutiao.com/trending/7697247033459818505/"
-    },
-    {
-      "id": "evt-94000000",
-      "title": "英伟达市值 9 天蒸发约 4 万亿元，全球 AI 股集体遭抛售，AI 泡沫是不是要破了？",
-      "category": "economy",
-      "hotScore": 0.7125,
-      "freshness": 0.9999,
-      "crossSource": 1,
-      "totalScore": 0.885,
-      "sources": [
-        {
-          "channel": "zhihu",
-          "rank": 2,
-          "hot": 0,
-          "url": ""
-        }
-      ],
-      "summary": "",
-      "url": ""
-    },
-    {
-      "id": "evt-26000000",
-      "title": "陈奕迅将开26场演唱会：禁止带手机",
-      "category": "entertainment",
-      "hotScore": 0.6,
-      "freshness": 1,
-      "crossSource": 1,
-      "totalScore": 0.84,
-      "sources": [
-        {
-          "channel": "baidu",
-          "rank": 6,
-          "hot": 0,
-          "url": "https://m.baidu.com/s?word=%E9%99%88%E5%A5%95%E8%BF%85%E5%B0%86%E5%BC%8026%E5%9C%BA%E6%BC%94%E5%94%B1%E4%BC%9A%EF%BC%9A%E7%A6%81%E6%AD%A2%E5%B8%A6%E6%89%8B%E6%9C%BA&sa=fyb_news"
-        }
-      ],
-      "summary": "",
-      "url": "https://m.baidu.com/s?word=%E9%99%88%E5%A5%95%E8%BF%85%E5%B0%86%E5%BC%8026%E5%9C%BA%E6%BC%94%E5%94%B1%E4%BC%9A%EF%BC%9A%E7%A6%81%E6%AD%A2%E5%B8%A6%E6%89%8B%E6%9C%BA&sa=fyb_news"
-    },
-    {
       "id": "evt-11100000",
       "title": "社保新规 11 月 1 日起施行，明确自愿放弃社保无效，怎样解读？企业未足额缴纳社保，员工权益会受到哪些损害？",
       "category": "society",
-      "hotScore": 0.6375,
+      "hotScore": 0.5625,
       "freshness": 0.9999,
-      "crossSource": 1,
-      "totalScore": 0.855,
+      "crossSource": 0.6309,
+      "totalScore": 0.7143,
       "sources": [
         {
           "channel": "zhihu",
-          "rank": 4,
+          "rank": 6,
           "hot": 0,
           "url": ""
         }
       ],
       "summary": "",
       "url": ""
+    },
+    {
+      "id": "evt-40000000",
+      "title": "安徽40岁喜婆婆因颜值爆火",
+      "category": "society",
+      "hotScore": 0.56,
+      "freshness": 1,
+      "crossSource": 0.6309,
+      "totalScore": 0.7133,
+      "sources": [
+        {
+          "channel": "baidu",
+          "rank": 7,
+          "hot": 0,
+          "url": "https://m.baidu.com/s?word=%E5%AE%89%E5%BE%BD40%E5%B2%81%E5%96%9C%E5%A9%86%E5%A9%86%E5%9B%A0%E9%A2%9C%E5%80%BC%E7%88%86%E7%81%AB&sa=fyb_news"
+        }
+      ],
+      "summary": "",
+      "url": "https://m.baidu.com/s?word=%E5%AE%89%E5%BE%BD40%E5%B2%81%E5%96%9C%E5%A9%86%E5%A9%86%E5%9B%A0%E9%A2%9C%E5%80%BC%E7%88%86%E7%81%AB&sa=fyb_news"
     },
     {
       "id": "evt-83200000",
       "title": "释新闻｜一年花832亿美元军费，沙特防空体系为何难挡胡塞武装袭击？",
       "category": "society",
-      "hotScore": 0.6375,
+      "hotScore": 0.5525,
       "freshness": 1,
-      "crossSource": 1,
-      "totalScore": 0.855,
+      "crossSource": 0.6309,
+      "totalScore": 0.7103,
       "sources": [
         {
           "channel": "thepaper",
-          "rank": 6,
+          "rank": 8,
           "hot": 0,
           "url": "https://www.thepaper.cn/newsDetail_forward_34265196"
         }
@@ -159,80 +165,23 @@
       "url": "https://www.thepaper.cn/newsDetail_forward_34265196"
     },
     {
-      "id": "evt-40000000",
-      "title": "妈妈将大一儿子生活费从4000降至2000",
+      "id": "evt-11960000",
+      "title": "如何评价《海贼王》第 1196 话？",
       "category": "society",
-      "hotScore": 0.51,
+      "hotScore": 0.45,
       "freshness": 0.9999,
-      "crossSource": 1,
-      "totalScore": 0.804,
+      "crossSource": 0.6309,
+      "totalScore": 0.6693,
       "sources": [
         {
-          "channel": "toutiao",
-          "rank": 9,
-          "hot": 4447734,
-          "url": "https://www.toutiao.com/trending/7696880212247887935/"
-        }
-      ],
-      "summary": "",
-      "url": "https://www.toutiao.com/trending/7696880212247887935/"
-    },
-    {
-      "id": "evt-10000000",
-      "title": "员工没来上班 老板1个电话救了两条命",
-      "category": "society",
-      "hotScore": 0.48,
-      "freshness": 1,
-      "crossSource": 1,
-      "totalScore": 0.792,
-      "sources": [
-        {
-          "channel": "baidu",
+          "channel": "zhihu",
           "rank": 9,
           "hot": 0,
-          "url": "https://m.baidu.com/s?word=%E5%91%98%E5%B7%A5%E6%B2%A1%E6%9D%A5%E4%B8%8A%E7%8F%AD+%E8%80%81%E6%9D%BF1%E4%B8%AA%E7%94%B5%E8%AF%9D%E6%95%91%E4%BA%86%E4%B8%A4%E6%9D%A1%E5%91%BD&sa=fyb_news"
+          "url": ""
         }
       ],
       "summary": "",
-      "url": "https://m.baidu.com/s?word=%E5%91%98%E5%B7%A5%E6%B2%A1%E6%9D%A5%E4%B8%8A%E7%8F%AD+%E8%80%81%E6%9D%BF1%E4%B8%AA%E7%94%B5%E8%AF%9D%E6%95%91%E4%BA%86%E4%B8%A4%E6%9D%A1%E5%91%BD&sa=fyb_news"
-    },
-    {
-      "id": "evt-apec0000",
-      "title": "高市为何把参加APEC峰会门槛推给国会",
-      "category": "society",
-      "hotScore": 0.4675,
-      "freshness": 0.9999,
-      "crossSource": 1,
-      "totalScore": 0.787,
-      "sources": [
-        {
-          "channel": "toutiao",
-          "rank": 10,
-          "hot": 4024476,
-          "url": "https://www.toutiao.com/trending/7697571213492620851/"
-        }
-      ],
-      "summary": "",
-      "url": "https://www.toutiao.com/trending/7697571213492620851/"
-    },
-    {
-      "id": "evt-50000000",
-      "title": "新疆喀什要投资5000万新建景区？假",
-      "category": "society",
-      "hotScore": 0.425,
-      "freshness": 0.9999,
-      "crossSource": 1,
-      "totalScore": 0.77,
-      "sources": [
-        {
-          "channel": "toutiao",
-          "rank": 11,
-          "hot": 3641496,
-          "url": "https://www.toutiao.com/trending/7696392996681515027/"
-        }
-      ],
-      "summary": "",
-      "url": "https://www.toutiao.com/trending/7696392996681515027/"
+      "url": ""
     }
   ]
 }
