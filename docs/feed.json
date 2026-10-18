@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-10-18T13:39:50.992Z",
+  "generatedAt": "2026-10-18T16:59:46.859Z",
   "fields": {
     "society": "社会",
     "economy": "经济",
@@ -18,7 +18,7 @@
         {
           "channel": "toutiao",
           "rank": 4,
-          "hot": 11535763,
+          "hot": 14511376,
           "url": "https://www.toutiao.com/trending/7697595174012403753/"
         },
         {
@@ -33,71 +33,46 @@
     },
     {
       "id": "evt-00000000",
-      "title": "日本流行“取消吃饭”",
+      "title": "“九国联军”真能锁住台海大门吗",
       "category": "society",
-      "hotScore": 0.68,
+      "hotScore": 0.85,
       "freshness": 0.9998,
-      "crossSource": 1,
-      "totalScore": 0.8719,
+      "crossSource": 0.6309,
+      "totalScore": 0.8292,
       "sources": [
         {
           "channel": "toutiao",
-          "rank": 5,
-          "hot": 10437990,
-          "url": "https://www.toutiao.com/trending/7697900853260271626/"
-        },
+          "rank": 1,
+          "hot": 19588309,
+          "url": "https://www.toutiao.com/trending/7697997709113822763/"
+        }
+      ],
+      "summary": "",
+      "url": "https://www.toutiao.com/trending/7697997709113822763/"
+    },
+    {
+      "id": "evt-48000000",
+      "title": "为什么4.8分网红餐厅更容易踩雷",
+      "category": "society",
+      "hotScore": 0.64,
+      "freshness": 1,
+      "crossSource": 0.6309,
+      "totalScore": 0.7453,
+      "sources": [
         {
           "channel": "baidu",
           "rank": 5,
           "hot": 0,
-          "url": "https://m.baidu.com/s?word=%E6%97%A5%E6%9C%AC%E6%B5%81%E8%A1%8C%E2%80%9C%E5%8F%96%E6%B6%88%E5%90%83%E9%A5%AD%E2%80%9D&sa=fyb_news"
+          "url": "https://m.baidu.com/s?word=%E4%B8%BA%E4%BB%80%E4%B9%884.8%E5%88%86%E7%BD%91%E7%BA%A2%E9%A4%90%E5%8E%85%E6%9B%B4%E5%AE%B9%E6%98%93%E8%B8%A9%E9%9B%B7&sa=fyb_news"
         }
       ],
       "summary": "",
-      "url": "https://www.toutiao.com/trending/7697900853260271626/"
+      "url": "https://m.baidu.com/s?word=%E4%B8%BA%E4%BB%80%E4%B9%884.8%E5%88%86%E7%BD%91%E7%BA%A2%E9%A4%90%E5%8E%85%E6%9B%B4%E5%AE%B9%E6%98%93%E8%B8%A9%E9%9B%B7&sa=fyb_news"
     },
     {
-      "id": "evt-deepseekv4",
-      "title": "网传 DeepSeek V4.1 Flash 1017 指纹测出 GPT-6 Astra，这是怎么回事？",
+      "id": "evt-21000000",
+      "title": "杭州 21 岁大三女生摆摊卖柠檬奶，一年开出 20 家门店，月营业额超 100 万，她成功的因素有哪些？",
       "category": "society",
-      "hotScore": 0.675,
-      "freshness": 0.9998,
-      "crossSource": 0.6309,
-      "totalScore": 0.7592,
-      "sources": [
-        {
-          "channel": "zhihu",
-          "rank": 3,
-          "hot": 0,
-          "url": ""
-        }
-      ],
-      "summary": "",
-      "url": ""
-    },
-    {
-      "id": "evt-14300000",
-      "title": "法国143年历史市政厅被烧毁",
-      "category": "society",
-      "hotScore": 0.595,
-      "freshness": 0.9998,
-      "crossSource": 0.6309,
-      "totalScore": 0.7272,
-      "sources": [
-        {
-          "channel": "toutiao",
-          "rank": 7,
-          "hot": 8545903,
-          "url": "https://www.toutiao.com/trending/7697533241405751339/"
-        }
-      ],
-      "summary": "",
-      "url": "https://www.toutiao.com/trending/7697533241405751339/"
-    },
-    {
-      "id": "evt-56200000",
-      "title": "特斯拉市值 5 日蒸发超 6200 亿元，受飞行汽车影响有多大？这次发布新品算是一个好选择吗？",
-      "category": "economy",
       "hotScore": 0.6375,
       "freshness": 0.9998,
       "crossSource": 0.6309,
@@ -114,32 +89,13 @@
       "url": ""
     },
     {
-      "id": "evt-20260000",
-      "title": "长鑫科技预计 2026 年前 3 季度净利润达 1310-1325 亿，并拟回购 10-20 亿，哪些信息值得关注？",
-      "category": "economy",
-      "hotScore": 0.525,
-      "freshness": 0.9998,
-      "crossSource": 0.6309,
-      "totalScore": 0.6992,
-      "sources": [
-        {
-          "channel": "zhihu",
-          "rank": 7,
-          "hot": 0,
-          "url": ""
-        }
-      ],
-      "summary": "",
-      "url": ""
-    },
-    {
       "id": "evt-ai000000",
       "title": "演员吴越怒斥AI仿冒带货，微信视频号回应：账号已永久封禁，内容清空",
       "category": "entertainment",
       "hotScore": 0.68,
-      "freshness": 1,
+      "freshness": 0.9998,
       "crossSource": 0.6309,
-      "totalScore": 0.7613,
+      "totalScore": 0.7612,
       "sources": [
         {
           "channel": "thepaper",
@@ -152,11 +108,55 @@
       "url": "https://www.thepaper.cn/newsDetail_forward_34274620"
     },
     {
-      "id": "evt-23000000",
-      "title": "时隔23年《大长今》又翻红了",
+      "id": "evt-20000000",
+      "title": "男子称入狱20多天网贷记录多了十几万",
+      "category": "society",
+      "hotScore": 0.34,
+      "freshness": 0.9998,
+      "crossSource": 1,
+      "totalScore": 0.7359,
+      "sources": [
+        {
+          "channel": "toutiao",
+          "rank": 13,
+          "hot": 5899885,
+          "url": "https://www.toutiao.com/trending/7697934008088346660/"
+        },
+        {
+          "channel": "baidu",
+          "rank": 15,
+          "hot": 0,
+          "url": "https://m.baidu.com/s?word=%E7%94%B7%E5%AD%90%E7%A7%B0%E5%85%A5%E7%8B%B120%E5%A4%9A%E5%A4%A9%E7%BD%91%E8%B4%B7%E8%AE%B0%E5%BD%95%E5%A4%9A%E4%BA%86%E5%8D%81%E5%87%A0%E4%B8%87&sa=fyb_news"
+        }
+      ],
+      "summary": "",
+      "url": "https://www.toutiao.com/trending/7697934008088346660/"
+    },
+    {
+      "id": "evt-14300000",
+      "title": "法国有 143 年历史的市政厅被纵火焚毁，这场骚乱最终可能以什么方式收场？将造成什么影响？",
+      "category": "society",
+      "hotScore": 0.5625,
+      "freshness": 0.9998,
+      "crossSource": 0.6309,
+      "totalScore": 0.7142,
+      "sources": [
+        {
+          "channel": "zhihu",
+          "rank": 6,
+          "hot": 0,
+          "url": ""
+        }
+      ],
+      "summary": "",
+      "url": ""
+    },
+    {
+      "id": "evt-50000000",
+      "title": "法国超500名警察宪兵消防员受伤",
       "category": "society",
       "hotScore": 0.52,
-      "freshness": 0.9999,
+      "freshness": 1,
       "crossSource": 0.6309,
       "totalScore": 0.6973,
       "sources": [
@@ -164,25 +164,44 @@
           "channel": "baidu",
           "rank": 8,
           "hot": 0,
-          "url": "https://m.baidu.com/s?word=%E6%97%B6%E9%9A%9423%E5%B9%B4%E3%80%8A%E5%A4%A7%E9%95%BF%E4%BB%8A%E3%80%8B%E5%8F%88%E7%BF%BB%E7%BA%A2%E4%BA%86&sa=fyb_news"
+          "url": "https://m.baidu.com/s?word=%E6%B3%95%E5%9B%BD%E8%B6%85500%E5%90%8D%E8%AD%A6%E5%AF%9F%E5%AE%AA%E5%85%B5%E6%B6%88%E9%98%B2%E5%91%98%E5%8F%97%E4%BC%A4&sa=fyb_news"
         }
       ],
       "summary": "",
-      "url": "https://m.baidu.com/s?word=%E6%97%B6%E9%9A%9423%E5%B9%B4%E3%80%8A%E5%A4%A7%E9%95%BF%E4%BB%8A%E3%80%8B%E5%8F%88%E7%BF%BB%E7%BA%A2%E4%BA%86&sa=fyb_news"
+      "url": "https://m.baidu.com/s?word=%E6%B3%95%E5%9B%BD%E8%B6%85500%E5%90%8D%E8%AD%A6%E5%AF%9F%E5%AE%AA%E5%85%B5%E6%B6%88%E9%98%B2%E5%91%98%E5%8F%97%E4%BC%A4&sa=fyb_news"
+    },
+    {
+      "id": "evt-172h0000",
+      "title": "如何评价 172 画生造字「huang」被今年出版的《字海》收录？",
+      "category": "society",
+      "hotScore": 0.4875,
+      "freshness": 0.9998,
+      "crossSource": 0.6309,
+      "totalScore": 0.6842,
+      "sources": [
+        {
+          "channel": "zhihu",
+          "rank": 8,
+          "hot": 0,
+          "url": ""
+        }
+      ],
+      "summary": "",
+      "url": ""
     },
     {
       "id": "evt-35000000",
       "title": "35楼坠落生还女子淡然讲述伤情",
       "category": "society",
-      "hotScore": 0.51,
+      "hotScore": 0.4675,
       "freshness": 0.9998,
       "crossSource": 0.6309,
-      "totalScore": 0.6932,
+      "totalScore": 0.6762,
       "sources": [
         {
           "channel": "toutiao",
-          "rank": 9,
-          "hot": 6996794,
+          "rank": 10,
+          "hot": 7964012,
           "url": "https://www.toutiao.com/trending/7697018280691220530/"
         }
       ],
@@ -194,9 +213,9 @@
       "title": "《早春晴朗》三周稳居Netflix榜二，天通苑合租屋的故事为什么被海外接受和喜爱？",
       "category": "society",
       "hotScore": 0.4675,
-      "freshness": 1,
+      "freshness": 0.9998,
       "crossSource": 0.6309,
-      "totalScore": 0.6763,
+      "totalScore": 0.6762,
       "sources": [
         {
           "channel": "thepaper",
@@ -209,27 +228,8 @@
       "url": "https://www.thepaper.cn/newsDetail_forward_34271921"
     },
     {
-      "id": "evt-60320000",
-      "title": "我国60岁以上人口超3.23亿",
-      "category": "society",
-      "hotScore": 0.4675,
-      "freshness": 0.9998,
-      "crossSource": 0.6309,
-      "totalScore": 0.6762,
-      "sources": [
-        {
-          "channel": "toutiao",
-          "rank": 10,
-          "hot": 6330961,
-          "url": "https://www.toutiao.com/trending/7697638269236314139/"
-        }
-      ],
-      "summary": "",
-      "url": "https://www.toutiao.com/trending/7697638269236314139/"
-    },
-    {
-      "id": "evt-21000000",
-      "title": "杭州 21 岁大三女生摆摊卖柠檬奶，一年开出 20 家门店，月营业额超 100 万，她成功的因素有哪些？",
+      "id": "evt-ign23000",
+      "title": "IGN 为《使命召唤 23》战役给出 8 分，如何评价其战役模式的品质与表现？",
       "category": "society",
       "hotScore": 0.45,
       "freshness": 0.9998,
@@ -245,6 +245,44 @@
       ],
       "summary": "",
       "url": ""
+    },
+    {
+      "id": "evt-23000000",
+      "title": "时隔23年《大长今》又翻红了",
+      "category": "society",
+      "hotScore": 0.44,
+      "freshness": 1,
+      "crossSource": 0.6309,
+      "totalScore": 0.6653,
+      "sources": [
+        {
+          "channel": "baidu",
+          "rank": 10,
+          "hot": 0,
+          "url": "https://m.baidu.com/s?word=%E6%97%B6%E9%9A%9423%E5%B9%B4%E3%80%8A%E5%A4%A7%E9%95%BF%E4%BB%8A%E3%80%8B%E5%8F%88%E7%BF%BB%E7%BA%A2%E4%BA%86&sa=fyb_news"
+        }
+      ],
+      "summary": "",
+      "url": "https://m.baidu.com/s?word=%E6%97%B6%E9%9A%9423%E5%B9%B4%E3%80%8A%E5%A4%A7%E9%95%BF%E4%BB%8A%E3%80%8B%E5%8F%88%E7%BF%BB%E7%BA%A2%E4%BA%86&sa=fyb_news"
+    },
+    {
+      "id": "evt-25000000",
+      "title": "大麦网：王某某编造“25万出肖战第一排”谣言，职能部门正处理",
+      "category": "society",
+      "hotScore": 0.425,
+      "freshness": 0.9998,
+      "crossSource": 0.6309,
+      "totalScore": 0.6592,
+      "sources": [
+        {
+          "channel": "thepaper",
+          "rank": 11,
+          "hot": 0,
+          "url": "https://www.thepaper.cn/newsDetail_forward_34273574"
+        }
+      ],
+      "summary": "",
+      "url": "https://www.thepaper.cn/newsDetail_forward_34273574"
     }
   ]
 }
