@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-10-18T08:24:18.198Z",
+  "generatedAt": "2026-10-18T13:39:50.992Z",
   "fields": {
     "society": "社会",
     "economy": "经济",
@@ -7,90 +7,96 @@
   },
   "feed": [
     {
-      "id": "evt-00000000",
-      "title": "房产证写谁名房子就是谁的吗",
-      "category": "society",
-      "hotScore": 0.85,
-      "freshness": 0.9998,
-      "crossSource": 1,
-      "totalScore": 0.9399,
-      "sources": [
-        {
-          "channel": "toutiao",
-          "rank": 1,
-          "hot": 9961844,
-          "url": "https://www.toutiao.com/trending/7697819678269472795/"
-        },
-        {
-          "channel": "baidu",
-          "rank": 7,
-          "hot": 0,
-          "url": "https://m.baidu.com/s?word=%E6%88%BF%E4%BA%A7%E8%AF%81%E5%86%99%E8%B0%81%E5%90%8D%E6%88%BF%E5%AD%90%E5%B0%B1%E6%98%AF%E8%B0%81%E7%9A%84%E5%90%97&sa=fyb_news"
-        }
-      ],
-      "summary": "",
-      "url": "https://www.toutiao.com/trending/7697819678269472795/"
-    },
-    {
-      "id": "evt-60320000",
-      "title": "中国60岁以上人口超3.23亿",
+      "id": "evt-19800000",
+      "title": "建议售价1980的眼镜片批发价30",
       "category": "society",
       "hotScore": 0.76,
-      "freshness": 0.9999,
-      "crossSource": 0.6309,
-      "totalScore": 0.7932,
-      "sources": [
-        {
-          "channel": "baidu",
-          "rank": 2,
-          "hot": 0,
-          "url": "https://m.baidu.com/s?word=%E4%B8%AD%E5%9B%BD60%E5%B2%81%E4%BB%A5%E4%B8%8A%E4%BA%BA%E5%8F%A3%E8%B6%853.23%E4%BA%BF&sa=fyb_news"
-        }
-      ],
-      "summary": "",
-      "url": "https://m.baidu.com/s?word=%E4%B8%AD%E5%9B%BD60%E5%B2%81%E4%BB%A5%E4%B8%8A%E4%BA%BA%E5%8F%A3%E8%B6%853.23%E4%BA%BF&sa=fyb_news"
-    },
-    {
-      "id": "evt-30000000",
-      "title": "日本一副市长被3吨重太鼓台压死",
-      "category": "society",
-      "hotScore": 0.7225,
       "freshness": 0.9998,
-      "crossSource": 0.6309,
-      "totalScore": 0.7782,
+      "crossSource": 1,
+      "totalScore": 0.9039,
       "sources": [
         {
           "channel": "toutiao",
           "rank": 4,
-          "hot": 7379915,
-          "url": "https://www.toutiao.com/trending/7697776554033709099/"
-        }
-      ],
-      "summary": "",
-      "url": "https://www.toutiao.com/trending/7697776554033709099/"
-    },
-    {
-      "id": "evt-20000000",
-      "title": "成都大学生：2000元左右生活费是主流",
-      "category": "society",
-      "hotScore": 0.72,
-      "freshness": 0.9999,
-      "crossSource": 0.6309,
-      "totalScore": 0.7772,
-      "sources": [
+          "hot": 11535763,
+          "url": "https://www.toutiao.com/trending/7697595174012403753/"
+        },
         {
           "channel": "baidu",
-          "rank": 3,
+          "rank": 2,
           "hot": 0,
-          "url": "https://m.baidu.com/s?word=%E6%88%90%E9%83%BD%E5%A4%A7%E5%AD%A6%E7%94%9F%EF%BC%9A2000%E5%85%83%E5%B7%A6%E5%8F%B3%E7%94%9F%E6%B4%BB%E8%B4%B9%E6%98%AF%E4%B8%BB%E6%B5%81&sa=fyb_news"
+          "url": "https://m.baidu.com/s?word=%E5%BB%BA%E8%AE%AE%E5%94%AE%E4%BB%B71980%E7%9A%84%E7%9C%BC%E9%95%9C%E7%89%87%E6%89%B9%E5%8F%91%E4%BB%B730&sa=fyb_news"
         }
       ],
       "summary": "",
-      "url": "https://m.baidu.com/s?word=%E6%88%90%E9%83%BD%E5%A4%A7%E5%AD%A6%E7%94%9F%EF%BC%9A2000%E5%85%83%E5%B7%A6%E5%8F%B3%E7%94%9F%E6%B4%BB%E8%B4%B9%E6%98%AF%E4%B8%BB%E6%B5%81&sa=fyb_news"
+      "url": "https://www.toutiao.com/trending/7697595174012403753/"
     },
     {
-      "id": "evt-20260000",
-      "title": "长鑫科技预计 2026 年前 3 季度净利润达 1310-1325 亿，并拟回购 10-20 亿，哪些信息值得关注？",
+      "id": "evt-00000000",
+      "title": "日本流行“取消吃饭”",
+      "category": "society",
+      "hotScore": 0.68,
+      "freshness": 0.9998,
+      "crossSource": 1,
+      "totalScore": 0.8719,
+      "sources": [
+        {
+          "channel": "toutiao",
+          "rank": 5,
+          "hot": 10437990,
+          "url": "https://www.toutiao.com/trending/7697900853260271626/"
+        },
+        {
+          "channel": "baidu",
+          "rank": 5,
+          "hot": 0,
+          "url": "https://m.baidu.com/s?word=%E6%97%A5%E6%9C%AC%E6%B5%81%E8%A1%8C%E2%80%9C%E5%8F%96%E6%B6%88%E5%90%83%E9%A5%AD%E2%80%9D&sa=fyb_news"
+        }
+      ],
+      "summary": "",
+      "url": "https://www.toutiao.com/trending/7697900853260271626/"
+    },
+    {
+      "id": "evt-deepseekv4",
+      "title": "网传 DeepSeek V4.1 Flash 1017 指纹测出 GPT-6 Astra，这是怎么回事？",
+      "category": "society",
+      "hotScore": 0.675,
+      "freshness": 0.9998,
+      "crossSource": 0.6309,
+      "totalScore": 0.7592,
+      "sources": [
+        {
+          "channel": "zhihu",
+          "rank": 3,
+          "hot": 0,
+          "url": ""
+        }
+      ],
+      "summary": "",
+      "url": ""
+    },
+    {
+      "id": "evt-14300000",
+      "title": "法国143年历史市政厅被烧毁",
+      "category": "society",
+      "hotScore": 0.595,
+      "freshness": 0.9998,
+      "crossSource": 0.6309,
+      "totalScore": 0.7272,
+      "sources": [
+        {
+          "channel": "toutiao",
+          "rank": 7,
+          "hot": 8545903,
+          "url": "https://www.toutiao.com/trending/7697533241405751339/"
+        }
+      ],
+      "summary": "",
+      "url": "https://www.toutiao.com/trending/7697533241405751339/"
+    },
+    {
+      "id": "evt-56200000",
+      "title": "特斯拉市值 5 日蒸发超 6200 亿元，受飞行汽车影响有多大？这次发布新品算是一个好选择吗？",
       "category": "economy",
       "hotScore": 0.6375,
       "freshness": 0.9998,
@@ -108,28 +114,9 @@
       "url": ""
     },
     {
-      "id": "evt-deepseekv4",
-      "title": "网传 DeepSeek V4.1 Flash 1017 指纹测出 GPT-6 Astra，这是怎么回事？",
-      "category": "society",
-      "hotScore": 0.5625,
-      "freshness": 0.9998,
-      "crossSource": 0.6309,
-      "totalScore": 0.7142,
-      "sources": [
-        {
-          "channel": "zhihu",
-          "rank": 6,
-          "hot": 0,
-          "url": ""
-        }
-      ],
-      "summary": "",
-      "url": ""
-    },
-    {
-      "id": "evt-51000000",
-      "title": "如何评价第 51 届国际大学生程序设计竞赛亚洲区域赛（西安）？",
-      "category": "society",
+      "id": "evt-20260000",
+      "title": "长鑫科技预计 2026 年前 3 季度净利润达 1310-1325 亿，并拟回购 10-20 亿，哪些信息值得关注？",
+      "category": "economy",
       "hotScore": 0.525,
       "freshness": 0.9998,
       "crossSource": 0.6309,
@@ -146,65 +133,65 @@
       "url": ""
     },
     {
-      "id": "evt-ip000000",
-      "title": "苹果客服回应货轮沉没iPhone漂浮海面",
+      "id": "evt-ai000000",
+      "title": "演员吴越怒斥AI仿冒带货，微信视频号回应：账号已永久封禁，内容清空",
+      "category": "entertainment",
+      "hotScore": 0.68,
+      "freshness": 1,
+      "crossSource": 0.6309,
+      "totalScore": 0.7613,
+      "sources": [
+        {
+          "channel": "thepaper",
+          "rank": 5,
+          "hot": 0,
+          "url": "https://www.thepaper.cn/newsDetail_forward_34274620"
+        }
+      ],
+      "summary": "",
+      "url": "https://www.thepaper.cn/newsDetail_forward_34274620"
+    },
+    {
+      "id": "evt-23000000",
+      "title": "时隔23年《大长今》又翻红了",
       "category": "society",
       "hotScore": 0.52,
       "freshness": 0.9999,
       "crossSource": 0.6309,
-      "totalScore": 0.6972,
+      "totalScore": 0.6973,
       "sources": [
         {
           "channel": "baidu",
           "rank": 8,
           "hot": 0,
-          "url": "https://m.baidu.com/s?word=%E8%8B%B9%E6%9E%9C%E5%AE%A2%E6%9C%8D%E5%9B%9E%E5%BA%94%E8%B4%A7%E8%BD%AE%E6%B2%89%E6%B2%A1iPhone%E6%BC%82%E6%B5%AE%E6%B5%B7%E9%9D%A2&sa=fyb_news"
+          "url": "https://m.baidu.com/s?word=%E6%97%B6%E9%9A%9423%E5%B9%B4%E3%80%8A%E5%A4%A7%E9%95%BF%E4%BB%8A%E3%80%8B%E5%8F%88%E7%BF%BB%E7%BA%A2%E4%BA%86&sa=fyb_news"
         }
       ],
       "summary": "",
-      "url": "https://m.baidu.com/s?word=%E8%8B%B9%E6%9E%9C%E5%AE%A2%E6%9C%8D%E5%9B%9E%E5%BA%94%E8%B4%A7%E8%BD%AE%E6%B2%89%E6%B2%A1iPhone%E6%BC%82%E6%B5%AE%E6%B5%B7%E9%9D%A2&sa=fyb_news"
+      "url": "https://m.baidu.com/s?word=%E6%97%B6%E9%9A%9423%E5%B9%B4%E3%80%8A%E5%A4%A7%E9%95%BF%E4%BB%8A%E3%80%8B%E5%8F%88%E7%BF%BB%E7%BA%A2%E4%BA%86&sa=fyb_news"
+    },
+    {
+      "id": "evt-35000000",
+      "title": "35楼坠落生还女子淡然讲述伤情",
+      "category": "society",
+      "hotScore": 0.51,
+      "freshness": 0.9998,
+      "crossSource": 0.6309,
+      "totalScore": 0.6932,
+      "sources": [
+        {
+          "channel": "toutiao",
+          "rank": 9,
+          "hot": 6996794,
+          "url": "https://www.toutiao.com/trending/7697018280691220530/"
+        }
+      ],
+      "summary": "",
+      "url": "https://www.toutiao.com/trending/7697018280691220530/"
     },
     {
       "id": "evt-netf0000",
       "title": "《早春晴朗》三周稳居Netflix榜二，天通苑合租屋的故事为什么被海外接受和喜爱？",
-      "category": "society",
-      "hotScore": 0.51,
-      "freshness": 1,
-      "crossSource": 0.6309,
-      "totalScore": 0.6933,
-      "sources": [
-        {
-          "channel": "thepaper",
-          "rank": 9,
-          "hot": 0,
-          "url": "https://www.thepaper.cn/newsDetail_forward_34271921"
-        }
-      ],
-      "summary": "",
-      "url": "https://www.thepaper.cn/newsDetail_forward_34271921"
-    },
-    {
-      "id": "evt-10000000",
-      "title": "埃及街头现凉皮小摊 一碗16元",
-      "category": "society",
-      "hotScore": 0.48,
-      "freshness": 0.9999,
-      "crossSource": 0.6309,
-      "totalScore": 0.6812,
-      "sources": [
-        {
-          "channel": "baidu",
-          "rank": 9,
-          "hot": 0,
-          "url": "https://m.baidu.com/s?word=%E5%9F%83%E5%8F%8A%E8%A1%97%E5%A4%B4%E7%8E%B0%E5%87%89%E7%9A%AE%E5%B0%8F%E6%91%8A+%E4%B8%80%E7%A2%9716%E5%85%83&sa=fyb_news"
-        }
-      ],
-      "summary": "",
-      "url": "https://m.baidu.com/s?word=%E5%9F%83%E5%8F%8A%E8%A1%97%E5%A4%B4%E7%8E%B0%E5%87%89%E7%9A%AE%E5%B0%8F%E6%91%8A+%E4%B8%80%E7%A2%9716%E5%85%83&sa=fyb_news"
-    },
-    {
-      "id": "evt-dee00000",
-      "title": "“许愿式”编程能力升级！DeepSeek上新：开放自研搜索API，千次调用仅5元",
       "category": "society",
       "hotScore": 0.4675,
       "freshness": 1,
@@ -215,30 +202,49 @@
           "channel": "thepaper",
           "rank": 10,
           "hot": 0,
-          "url": "https://www.thepaper.cn/newsDetail_forward_34271084"
+          "url": "https://www.thepaper.cn/newsDetail_forward_34271921"
         }
       ],
       "summary": "",
-      "url": "https://www.thepaper.cn/newsDetail_forward_34271084"
+      "url": "https://www.thepaper.cn/newsDetail_forward_34271921"
     },
     {
-      "id": "evt-12000000",
-      "title": "中央气象台最新预报：12省份迎大到暴雨，北方多地气温创新低",
+      "id": "evt-60320000",
+      "title": "我国60岁以上人口超3.23亿",
       "category": "society",
-      "hotScore": 0.425,
-      "freshness": 1,
+      "hotScore": 0.4675,
+      "freshness": 0.9998,
       "crossSource": 0.6309,
-      "totalScore": 0.6593,
+      "totalScore": 0.6762,
       "sources": [
         {
-          "channel": "thepaper",
-          "rank": 11,
-          "hot": 0,
-          "url": "https://www.thepaper.cn/newsDetail_forward_34271529"
+          "channel": "toutiao",
+          "rank": 10,
+          "hot": 6330961,
+          "url": "https://www.toutiao.com/trending/7697638269236314139/"
         }
       ],
       "summary": "",
-      "url": "https://www.thepaper.cn/newsDetail_forward_34271529"
+      "url": "https://www.toutiao.com/trending/7697638269236314139/"
+    },
+    {
+      "id": "evt-21000000",
+      "title": "杭州 21 岁大三女生摆摊卖柠檬奶，一年开出 20 家门店，月营业额超 100 万，她成功的因素有哪些？",
+      "category": "society",
+      "hotScore": 0.45,
+      "freshness": 0.9998,
+      "crossSource": 0.6309,
+      "totalScore": 0.6692,
+      "sources": [
+        {
+          "channel": "zhihu",
+          "rank": 9,
+          "hot": 0,
+          "url": ""
+        }
+      ],
+      "summary": "",
+      "url": ""
     }
   ]
 }
