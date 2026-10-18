@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-10-17T23:37:16.543Z",
+  "generatedAt": "2026-10-18T02:04:18.006Z",
   "fields": {
     "society": "社会",
     "economy": "经济",
@@ -8,7 +8,7 @@
   "feed": [
     {
       "id": "evt-00000000",
-      "title": "特斯拉飞行跑车遭遇“踢馆”",
+      "title": "重阳节",
       "category": "society",
       "hotScore": 0.85,
       "freshness": 0.9999,
@@ -18,75 +18,75 @@
         {
           "channel": "toutiao",
           "rank": 1,
-          "hot": 10471387,
-          "url": "https://www.toutiao.com/trending/7697098047423299647/"
+          "hot": 11367244,
+          "url": "https://www.toutiao.com/trending/7696901855796822059/"
         },
         {
           "channel": "baidu",
-          "rank": 18,
+          "rank": 8,
           "hot": 0,
-          "url": "https://m.baidu.com/s?word=%E7%89%B9%E6%96%AF%E6%8B%89%E9%A3%9E%E8%A1%8C%E8%B7%91%E8%BD%A6%E9%81%AD%E9%81%87%E2%80%9C%E8%B8%A2%E9%A6%86%E2%80%9D&sa=fyb_news"
+          "url": "https://m.baidu.com/s?word=%E9%87%8D%E9%98%B3%E8%8A%82&sa=fyb_news"
         }
       ],
       "summary": "",
-      "url": "https://www.toutiao.com/trending/7697098047423299647/"
+      "url": "https://www.toutiao.com/trending/7696901855796822059/"
     },
     {
       "id": "evt-20000000",
-      "title": "夫妻买2块劳力士不选不试戴 店员报警",
+      "title": "普京称赞包围消灭2000乌军战果",
       "category": "society",
-      "hotScore": 0.68,
+      "hotScore": 0.8075,
       "freshness": 0.9999,
       "crossSource": 0.6309,
-      "totalScore": 0.7613,
+      "totalScore": 0.8122,
       "sources": [
         {
           "channel": "toutiao",
-          "rank": 5,
-          "hot": 7019180,
-          "url": "https://www.toutiao.com/trending/7697247033459818505/"
+          "rank": 2,
+          "hot": 10285507,
+          "url": "https://www.toutiao.com/trending/7696546371913957439/"
         }
       ],
       "summary": "",
-      "url": "https://www.toutiao.com/trending/7697247033459818505/"
+      "url": "https://www.toutiao.com/trending/7696546371913957439/"
     },
     {
-      "id": "evt-deepseek",
-      "title": "如何评价 DeepSeek V4.1 Flash 1017?",
+      "id": "evt-27000000",
+      "title": "“2700元搞死一家店铺”",
       "category": "society",
-      "hotScore": 0.675,
-      "freshness": 0.9999,
-      "crossSource": 0.6309,
-      "totalScore": 0.7593,
-      "sources": [
-        {
-          "channel": "zhihu",
-          "rank": 3,
-          "hot": 0,
-          "url": ""
-        }
-      ],
-      "summary": "",
-      "url": ""
-    },
-    {
-      "id": "evt-10000000",
-      "title": "员工没来上班 老板1个电话救了两条命",
-      "category": "society",
-      "hotScore": 0.6,
+      "hotScore": 0.72,
       "freshness": 1,
       "crossSource": 0.6309,
-      "totalScore": 0.7293,
+      "totalScore": 0.7773,
       "sources": [
         {
           "channel": "baidu",
-          "rank": 6,
+          "rank": 3,
           "hot": 0,
-          "url": "https://m.baidu.com/s?word=%E5%91%98%E5%B7%A5%E6%B2%A1%E6%9D%A5%E4%B8%8A%E7%8F%AD+%E8%80%81%E6%9D%BF1%E4%B8%AA%E7%94%B5%E8%AF%9D%E6%95%91%E4%BA%86%E4%B8%A4%E6%9D%A1%E5%91%BD&sa=fyb_news"
+          "url": "https://m.baidu.com/s?word=%E2%80%9C2700%E5%85%83%E6%90%9E%E6%AD%BB%E4%B8%80%E5%AE%B6%E5%BA%97%E9%93%BA%E2%80%9D&sa=fyb_news"
         }
       ],
       "summary": "",
-      "url": "https://m.baidu.com/s?word=%E5%91%98%E5%B7%A5%E6%B2%A1%E6%9D%A5%E4%B8%8A%E7%8F%AD+%E8%80%81%E6%9D%BF1%E4%B8%AA%E7%94%B5%E8%AF%9D%E6%95%91%E4%BA%86%E4%B8%A4%E6%9D%A1%E5%91%BD&sa=fyb_news"
+      "url": "https://m.baidu.com/s?word=%E2%80%9C2700%E5%85%83%E6%90%9E%E6%AD%BB%E4%B8%80%E5%AE%B6%E5%BA%97%E9%93%BA%E2%80%9D&sa=fyb_news"
+    },
+    {
+      "id": "evt-aba00000",
+      "title": "爸爸AB型血妈妈A型血 女儿O型血",
+      "category": "society",
+      "hotScore": 0.64,
+      "freshness": 1,
+      "crossSource": 0.6309,
+      "totalScore": 0.7453,
+      "sources": [
+        {
+          "channel": "baidu",
+          "rank": 5,
+          "hot": 0,
+          "url": "https://m.baidu.com/s?word=%E7%88%B8%E7%88%B8AB%E5%9E%8B%E8%A1%80%E5%A6%88%E5%A6%88A%E5%9E%8B%E8%A1%80+%E5%A5%B3%E5%84%BFO%E5%9E%8B%E8%A1%80&sa=fyb_news"
+        }
+      ],
+      "summary": "",
+      "url": "https://m.baidu.com/s?word=%E7%88%B8%E7%88%B8AB%E5%9E%8B%E8%A1%80%E5%A6%88%E5%A6%88A%E5%9E%8B%E8%A1%80+%E5%A5%B3%E5%84%BFO%E5%9E%8B%E8%A1%80&sa=fyb_news"
     },
     {
       "id": "evt-94000000",
@@ -108,6 +108,25 @@
       "url": ""
     },
     {
+      "id": "evt-ai000000",
+      "title": "演员吴越遭AI假冒带货 凌晨发文怒斥",
+      "category": "entertainment",
+      "hotScore": 0.6,
+      "freshness": 1,
+      "crossSource": 0.6309,
+      "totalScore": 0.7293,
+      "sources": [
+        {
+          "channel": "baidu",
+          "rank": 6,
+          "hot": 0,
+          "url": "https://m.baidu.com/s?word=%E6%BC%94%E5%91%98%E5%90%B4%E8%B6%8A%E9%81%ADAI%E5%81%87%E5%86%92%E5%B8%A6%E8%B4%A7+%E5%87%8C%E6%99%A8%E5%8F%91%E6%96%87%E6%80%92%E6%96%A5&sa=fyb_news"
+        }
+      ],
+      "summary": "",
+      "url": "https://m.baidu.com/s?word=%E6%BC%94%E5%91%98%E5%90%B4%E8%B6%8A%E9%81%ADAI%E5%81%87%E5%86%92%E5%B8%A6%E8%B4%A7+%E5%87%8C%E6%99%A8%E5%8F%91%E6%96%87%E6%80%92%E6%96%A5&sa=fyb_news"
+    },
+    {
       "id": "evt-11100000",
       "title": "社保新规 11 月 1 日起施行，明确自愿放弃社保无效，怎样解读？企业未足额缴纳社保，员工权益会受到哪些损害？",
       "category": "society",
@@ -127,61 +146,61 @@
       "url": ""
     },
     {
-      "id": "evt-40000000",
-      "title": "安徽40岁喜婆婆因颜值爆火",
+      "id": "evt-60000000",
+      "title": "“赤马重阳”60年一遇？专家解读",
       "category": "society",
-      "hotScore": 0.56,
+      "hotScore": 0.5525,
+      "freshness": 0.9999,
+      "crossSource": 0.6309,
+      "totalScore": 0.7102,
+      "sources": [
+        {
+          "channel": "toutiao",
+          "rank": 8,
+          "hot": 5644806,
+          "url": "https://www.toutiao.com/trending/7696699742428463142/"
+        }
+      ],
+      "summary": "",
+      "url": "https://www.toutiao.com/trending/7696699742428463142/"
+    },
+    {
+      "id": "evt-20310000",
+      "title": "2小时03分10秒！北马诞生新的赛会纪录",
+      "category": "society",
+      "hotScore": 0.48,
       "freshness": 1,
       "crossSource": 0.6309,
-      "totalScore": 0.7133,
+      "totalScore": 0.6813,
       "sources": [
         {
           "channel": "baidu",
-          "rank": 7,
-          "hot": 0,
-          "url": "https://m.baidu.com/s?word=%E5%AE%89%E5%BE%BD40%E5%B2%81%E5%96%9C%E5%A9%86%E5%A9%86%E5%9B%A0%E9%A2%9C%E5%80%BC%E7%88%86%E7%81%AB&sa=fyb_news"
-        }
-      ],
-      "summary": "",
-      "url": "https://m.baidu.com/s?word=%E5%AE%89%E5%BE%BD40%E5%B2%81%E5%96%9C%E5%A9%86%E5%A9%86%E5%9B%A0%E9%A2%9C%E5%80%BC%E7%88%86%E7%81%AB&sa=fyb_news"
-    },
-    {
-      "id": "evt-83200000",
-      "title": "释新闻｜一年花832亿美元军费，沙特防空体系为何难挡胡塞武装袭击？",
-      "category": "society",
-      "hotScore": 0.5525,
-      "freshness": 1,
-      "crossSource": 0.6309,
-      "totalScore": 0.7103,
-      "sources": [
-        {
-          "channel": "thepaper",
-          "rank": 8,
-          "hot": 0,
-          "url": "https://www.thepaper.cn/newsDetail_forward_34265196"
-        }
-      ],
-      "summary": "",
-      "url": "https://www.thepaper.cn/newsDetail_forward_34265196"
-    },
-    {
-      "id": "evt-11960000",
-      "title": "如何评价《海贼王》第 1196 话？",
-      "category": "society",
-      "hotScore": 0.45,
-      "freshness": 0.9999,
-      "crossSource": 0.6309,
-      "totalScore": 0.6693,
-      "sources": [
-        {
-          "channel": "zhihu",
           "rank": 9,
           "hot": 0,
-          "url": ""
+          "url": "https://m.baidu.com/s?word=2%E5%B0%8F%E6%97%B603%E5%88%8610%E7%A7%92%EF%BC%81%E5%8C%97%E9%A9%AC%E8%AF%9E%E7%94%9F%E6%96%B0%E7%9A%84%E8%B5%9B%E4%BC%9A%E7%BA%AA%E5%BD%95&sa=fyb_news"
         }
       ],
       "summary": "",
-      "url": ""
+      "url": "https://m.baidu.com/s?word=2%E5%B0%8F%E6%97%B603%E5%88%8610%E7%A7%92%EF%BC%81%E5%8C%97%E9%A9%AC%E8%AF%9E%E7%94%9F%E6%96%B0%E7%9A%84%E8%B5%9B%E4%BC%9A%E7%BA%AA%E5%BD%95&sa=fyb_news"
+    },
+    {
+      "id": "evt-92000000",
+      "title": "92岁崔道植是警界“定海神针”",
+      "category": "society",
+      "hotScore": 0.44,
+      "freshness": 1,
+      "crossSource": 0.6309,
+      "totalScore": 0.6653,
+      "sources": [
+        {
+          "channel": "baidu",
+          "rank": 10,
+          "hot": 0,
+          "url": "https://m.baidu.com/s?word=92%E5%B2%81%E5%B4%94%E9%81%93%E6%A4%8D%E6%98%AF%E8%AD%A6%E7%95%8C%E2%80%9C%E5%AE%9A%E6%B5%B7%E7%A5%9E%E9%92%88%E2%80%9D&sa=fyb_news"
+        }
+      ],
+      "summary": "",
+      "url": "https://m.baidu.com/s?word=92%E5%B2%81%E5%B4%94%E9%81%93%E6%A4%8D%E6%98%AF%E8%AD%A6%E7%95%8C%E2%80%9C%E5%AE%9A%E6%B5%B7%E7%A5%9E%E9%92%88%E2%80%9D&sa=fyb_news"
     }
   ]
 }
