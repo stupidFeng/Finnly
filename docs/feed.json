@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-10-19T02:20:42.544Z",
+  "generatedAt": "2026-10-19T09:24:55.065Z",
   "fields": {
     "society": "社会",
     "economy": "经济",
@@ -8,81 +8,50 @@
   "feed": [
     {
       "id": "evt-00000000",
-      "title": "中国留学生身披旭日旗 钧正平发声",
+      "title": "曝披旭日旗留学生曾表达支持“台独”",
       "category": "society",
-      "hotScore": 0.7225,
-      "freshness": 0.9999,
-      "crossSource": 1,
-      "totalScore": 0.889,
-      "sources": [
-        {
-          "channel": "toutiao",
-          "rank": 4,
-          "hot": 13238751,
-          "url": "https://www.toutiao.com/trending/7697204184608771620/"
-        },
-        {
-          "channel": "baidu",
-          "rank": 7,
-          "hot": 0,
-          "url": "https://m.baidu.com/s?word=%E4%B8%AD%E5%9B%BD%E7%95%99%E5%AD%A6%E7%94%9F%E8%BA%AB%E6%8A%AB%E6%97%AD%E6%97%A5%E6%97%97+%E9%92%A7%E6%AD%A3%E5%B9%B3%E5%8F%91%E5%A3%B0&sa=fyb_news"
-        }
-      ],
-      "summary": "",
-      "url": "https://www.toutiao.com/trending/7697204184608771620/"
-    },
-    {
-      "id": "evt-19800000",
-      "title": "建议售价1980的眼镜片批发价30",
-      "category": "society",
-      "hotScore": 0.4675,
-      "freshness": 0.9999,
-      "crossSource": 1,
-      "totalScore": 0.787,
-      "sources": [
-        {
-          "channel": "toutiao",
-          "rank": 10,
-          "hot": 7265580,
-          "url": "https://www.toutiao.com/trending/7697595174012403753/"
-        },
-        {
-          "channel": "baidu",
-          "rank": 18,
-          "hot": 0,
-          "url": "https://m.baidu.com/s?word=%E5%BB%BA%E8%AE%AE%E5%94%AE%E4%BB%B71980%E7%9A%84%E7%9C%BC%E9%95%9C%E7%89%87%E6%89%B9%E5%8F%91%E4%BB%B730&sa=fyb_news"
-        }
-      ],
-      "summary": "",
-      "url": "https://www.toutiao.com/trending/7697595174012403753/"
-    },
-    {
-      "id": "evt-chinahaul",
-      "title": "“China Haul”火到广交会",
-      "category": "society",
-      "hotScore": 0.68,
+      "hotScore": 0.85,
       "freshness": 1,
-      "crossSource": 0.6309,
-      "totalScore": 0.7613,
+      "crossSource": 1,
+      "totalScore": 0.94,
       "sources": [
         {
-          "channel": "baidu",
-          "rank": 4,
-          "hot": 0,
-          "url": "https://m.baidu.com/s?word=%E2%80%9CChina+Haul%E2%80%9D%E7%81%AB%E5%88%B0%E5%B9%BF%E4%BA%A4%E4%BC%9A&sa=fyb_news"
+          "channel": "toutiao",
+          "rank": 1,
+          "hot": 17009064,
+          "url": "https://www.toutiao.com/trending/7697815229270491190/"
         }
       ],
       "summary": "",
-      "url": "https://m.baidu.com/s?word=%E2%80%9CChina+Haul%E2%80%9D%E7%81%AB%E5%88%B0%E5%B9%BF%E4%BA%A4%E4%BC%9A&sa=fyb_news"
+      "url": "https://www.toutiao.com/trending/7697815229270491190/"
+    },
+    {
+      "id": "evt-deepseek",
+      "title": "梁文锋和 DeepSeek，为什么配得上 「 国运级 」 三个字？",
+      "category": "society",
+      "hotScore": 0.7125,
+      "freshness": 1,
+      "crossSource": 1,
+      "totalScore": 0.885,
+      "sources": [
+        {
+          "channel": "zhihu",
+          "rank": 2,
+          "hot": 0,
+          "url": ""
+        }
+      ],
+      "summary": "",
+      "url": ""
     },
     {
       "id": "evt-50700000",
       "title": "50元进货700元售出！只收老年游客的药厂“溯源游”实为新型会销",
       "category": "society",
       "hotScore": 0.68,
-      "freshness": 0.9999,
-      "crossSource": 0.6309,
-      "totalScore": 0.7613,
+      "freshness": 1,
+      "crossSource": 1,
+      "totalScore": 0.872,
       "sources": [
         {
           "channel": "thepaper",
@@ -95,61 +64,99 @@
       "url": "https://www.thepaper.cn/newsDetail_forward_34276364"
     },
     {
-      "id": "evt-gdp00000",
-      "title": "前三季度中国GDP同比增长4.6%",
-      "category": "economy",
-      "hotScore": 0.52,
-      "freshness": 1,
-      "crossSource": 0.6309,
-      "totalScore": 0.6973,
-      "sources": [
-        {
-          "channel": "baidu",
-          "rank": 8,
-          "hot": 0,
-          "url": "https://m.baidu.com/s?word=%E5%89%8D%E4%B8%89%E5%AD%A3%E5%BA%A6%E4%B8%AD%E5%9B%BDGDP%E5%90%8C%E6%AF%94%E5%A2%9E%E9%95%BF4.6%25&sa=fyb_news"
-        }
-      ],
-      "summary": "",
-      "url": "https://m.baidu.com/s?word=%E5%89%8D%E4%B8%89%E5%AD%A3%E5%BA%A6%E4%B8%AD%E5%9B%BDGDP%E5%90%8C%E6%AF%94%E5%A2%9E%E9%95%BF4.6%25&sa=fyb_news"
-    },
-    {
-      "id": "evt-ai000000",
-      "title": "演员吴越怒斥AI仿冒带货，微信视频号回应：账号已永久封禁，内容清空",
-      "category": "entertainment",
-      "hotScore": 0.5525,
-      "freshness": 0.9999,
-      "crossSource": 0.6309,
-      "totalScore": 0.7103,
-      "sources": [
-        {
-          "channel": "thepaper",
-          "rank": 8,
-          "hot": 0,
-          "url": "https://www.thepaper.cn/newsDetail_forward_34274620"
-        }
-      ],
-      "summary": "",
-      "url": "https://www.thepaper.cn/newsDetail_forward_34274620"
-    },
-    {
-      "id": "evt-s1600000",
-      "title": "如何看待 S16 瑞士轮首轮抽签结果，IG 首战 GEN，TES 遭遇 HLE？",
+      "id": "evt-iphone18p",
+      "title": "女子晒 iPhone 18Pro 订单泄露物流单号，骗子找 5 人接力跑腿冒领，快递、跑腿平台该承担多少责任？",
       "category": "society",
-      "hotScore": 0.525,
-      "freshness": 0.9999,
-      "crossSource": 0.6309,
-      "totalScore": 0.6993,
+      "hotScore": 0.6375,
+      "freshness": 1,
+      "crossSource": 1,
+      "totalScore": 0.855,
       "sources": [
         {
           "channel": "zhihu",
-          "rank": 7,
+          "rank": 4,
           "hot": 0,
           "url": ""
         }
       ],
       "summary": "",
       "url": ""
+    },
+    {
+      "id": "evt-79990000",
+      "title": "优衣库难觅79元、99元基础款",
+      "category": "society",
+      "hotScore": 0.6,
+      "freshness": 1,
+      "crossSource": 1,
+      "totalScore": 0.84,
+      "sources": [
+        {
+          "channel": "baidu",
+          "rank": 6,
+          "hot": 0,
+          "url": "https://m.baidu.com/s?word=%E4%BC%98%E8%A1%A3%E5%BA%93%E9%9A%BE%E8%A7%8579%E5%85%83%E3%80%8199%E5%85%83%E5%9F%BA%E7%A1%80%E6%AC%BE&sa=fyb_news"
+        }
+      ],
+      "summary": "",
+      "url": "https://m.baidu.com/s?word=%E4%BC%98%E8%A1%A3%E5%BA%93%E9%9A%BE%E8%A7%8579%E5%85%83%E3%80%8199%E5%85%83%E5%9F%BA%E7%A1%80%E6%AC%BE&sa=fyb_news"
+    },
+    {
+      "id": "evt-ai000000",
+      "title": "众声｜吴越怒斥AI换脸带货，平台治理不能坐等受害者站出来",
+      "category": "society",
+      "hotScore": 0.595,
+      "freshness": 1,
+      "crossSource": 1,
+      "totalScore": 0.838,
+      "sources": [
+        {
+          "channel": "thepaper",
+          "rank": 7,
+          "hot": 0,
+          "url": "https://www.thepaper.cn/newsDetail_forward_34275099"
+        }
+      ],
+      "summary": "",
+      "url": "https://www.thepaper.cn/newsDetail_forward_34275099"
+    },
+    {
+      "id": "evt-30000000",
+      "title": "乒乓球名将王曼昱等3人拟记大功",
+      "category": "society",
+      "hotScore": 0.52,
+      "freshness": 1,
+      "crossSource": 1,
+      "totalScore": 0.808,
+      "sources": [
+        {
+          "channel": "baidu",
+          "rank": 8,
+          "hot": 0,
+          "url": "https://m.baidu.com/s?word=%E4%B9%92%E4%B9%93%E7%90%83%E5%90%8D%E5%B0%86%E7%8E%8B%E6%9B%BC%E6%98%B1%E7%AD%893%E4%BA%BA%E6%8B%9F%E8%AE%B0%E5%A4%A7%E5%8A%9F&sa=fyb_news"
+        }
+      ],
+      "summary": "",
+      "url": "https://m.baidu.com/s?word=%E4%B9%92%E4%B9%93%E7%90%83%E5%90%8D%E5%B0%86%E7%8E%8B%E6%9B%BC%E6%98%B1%E7%AD%893%E4%BA%BA%E6%8B%9F%E8%AE%B0%E5%A4%A7%E5%8A%9F&sa=fyb_news"
+    },
+    {
+      "id": "evt-15000000",
+      "title": "把房子降到150万 好卖多了",
+      "category": "society",
+      "hotScore": 0.44,
+      "freshness": 1,
+      "crossSource": 1,
+      "totalScore": 0.776,
+      "sources": [
+        {
+          "channel": "baidu",
+          "rank": 10,
+          "hot": 0,
+          "url": "https://m.baidu.com/s?word=%E6%8A%8A%E6%88%BF%E5%AD%90%E9%99%8D%E5%88%B0150%E4%B8%87+%E5%A5%BD%E5%8D%96%E5%A4%9A%E4%BA%86&sa=fyb_news"
+        }
+      ],
+      "summary": "",
+      "url": "https://m.baidu.com/s?word=%E6%8A%8A%E6%88%BF%E5%AD%90%E9%99%8D%E5%88%B0150%E4%B8%87+%E5%A5%BD%E5%8D%96%E5%A4%9A%E4%BA%86&sa=fyb_news"
     }
   ]
 }
