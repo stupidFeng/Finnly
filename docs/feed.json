@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-10-18T22:02:11.686Z",
+  "generatedAt": "2026-10-19T02:20:42.544Z",
   "fields": {
     "society": "社会",
     "economy": "经济",
@@ -7,23 +7,48 @@
   },
   "feed": [
     {
-      "id": "evt-19800000",
-      "title": "建议售价1980的眼镜片批发价30",
+      "id": "evt-00000000",
+      "title": "中国留学生身披旭日旗 钧正平发声",
       "category": "society",
-      "hotScore": 0.76,
+      "hotScore": 0.7225,
       "freshness": 0.9999,
       "crossSource": 1,
-      "totalScore": 0.904,
+      "totalScore": 0.889,
       "sources": [
         {
           "channel": "toutiao",
           "rank": 4,
-          "hot": 16115577,
+          "hot": 13238751,
+          "url": "https://www.toutiao.com/trending/7697204184608771620/"
+        },
+        {
+          "channel": "baidu",
+          "rank": 7,
+          "hot": 0,
+          "url": "https://m.baidu.com/s?word=%E4%B8%AD%E5%9B%BD%E7%95%99%E5%AD%A6%E7%94%9F%E8%BA%AB%E6%8A%AB%E6%97%AD%E6%97%A5%E6%97%97+%E9%92%A7%E6%AD%A3%E5%B9%B3%E5%8F%91%E5%A3%B0&sa=fyb_news"
+        }
+      ],
+      "summary": "",
+      "url": "https://www.toutiao.com/trending/7697204184608771620/"
+    },
+    {
+      "id": "evt-19800000",
+      "title": "建议售价1980的眼镜片批发价30",
+      "category": "society",
+      "hotScore": 0.4675,
+      "freshness": 0.9999,
+      "crossSource": 1,
+      "totalScore": 0.787,
+      "sources": [
+        {
+          "channel": "toutiao",
+          "rank": 10,
+          "hot": 7265580,
           "url": "https://www.toutiao.com/trending/7697595174012403753/"
         },
         {
           "channel": "baidu",
-          "rank": 2,
+          "rank": 18,
           "hot": 0,
           "url": "https://m.baidu.com/s?word=%E5%BB%BA%E8%AE%AE%E5%94%AE%E4%BB%B71980%E7%9A%84%E7%9C%BC%E9%95%9C%E7%89%87%E6%89%B9%E5%8F%91%E4%BB%B730&sa=fyb_news"
         }
@@ -32,167 +57,47 @@
       "url": "https://www.toutiao.com/trending/7697595174012403753/"
     },
     {
-      "id": "evt-20000000",
-      "title": "男子称入狱20多天网贷记录多了十几万",
+      "id": "evt-chinahaul",
+      "title": "“China Haul”火到广交会",
+      "category": "society",
+      "hotScore": 0.68,
+      "freshness": 1,
+      "crossSource": 0.6309,
+      "totalScore": 0.7613,
+      "sources": [
+        {
+          "channel": "baidu",
+          "rank": 4,
+          "hot": 0,
+          "url": "https://m.baidu.com/s?word=%E2%80%9CChina+Haul%E2%80%9D%E7%81%AB%E5%88%B0%E5%B9%BF%E4%BA%A4%E4%BC%9A&sa=fyb_news"
+        }
+      ],
+      "summary": "",
+      "url": "https://m.baidu.com/s?word=%E2%80%9CChina+Haul%E2%80%9D%E7%81%AB%E5%88%B0%E5%B9%BF%E4%BA%A4%E4%BC%9A&sa=fyb_news"
+    },
+    {
+      "id": "evt-50700000",
+      "title": "50元进货700元售出！只收老年游客的药厂“溯源游”实为新型会销",
       "category": "society",
       "hotScore": 0.68,
       "freshness": 0.9999,
-      "crossSource": 1,
-      "totalScore": 0.872,
-      "sources": [
-        {
-          "channel": "toutiao",
-          "rank": 5,
-          "hot": 14581977,
-          "url": "https://www.toutiao.com/trending/7697934008088346660/"
-        },
-        {
-          "channel": "baidu",
-          "rank": 11,
-          "hot": 0,
-          "url": "https://m.baidu.com/s?word=%E7%94%B7%E5%AD%90%E7%A7%B0%E5%85%A5%E7%8B%B120%E5%A4%9A%E5%A4%A9%E7%BD%91%E8%B4%B7%E8%AE%B0%E5%BD%95%E5%A4%9A%E4%BA%86%E5%8D%81%E5%87%A0%E4%B8%87&sa=fyb_news"
-        }
-      ],
-      "summary": "",
-      "url": "https://www.toutiao.com/trending/7697934008088346660/"
-    },
-    {
-      "id": "evt-00000000",
-      "title": "“九国联军”真能锁住台海大门吗",
-      "category": "society",
-      "hotScore": 0.85,
-      "freshness": 0.9999,
       "crossSource": 0.6309,
-      "totalScore": 0.8293,
-      "sources": [
-        {
-          "channel": "toutiao",
-          "rank": 1,
-          "hot": 21753753,
-          "url": "https://www.toutiao.com/trending/7697997709113822763/"
-        }
-      ],
-      "summary": "",
-      "url": "https://www.toutiao.com/trending/7697997709113822763/"
-    },
-    {
-      "id": "evt-21000000",
-      "title": "杭州 21 岁大三女生摆摊卖柠檬奶，一年开出 20 家门店，月营业额超 100 万，她成功的因素有哪些？",
-      "category": "society",
-      "hotScore": 0.7125,
-      "freshness": 0.9999,
-      "crossSource": 0.6309,
-      "totalScore": 0.7743,
-      "sources": [
-        {
-          "channel": "zhihu",
-          "rank": 2,
-          "hot": 0,
-          "url": ""
-        }
-      ],
-      "summary": "",
-      "url": ""
-    },
-    {
-      "id": "evt-ai000000",
-      "title": "演员吴越怒斥AI仿冒带货，微信视频号回应：账号已永久封禁，内容清空",
-      "category": "entertainment",
-      "hotScore": 0.595,
-      "freshness": 1,
-      "crossSource": 0.6309,
-      "totalScore": 0.7273,
+      "totalScore": 0.7613,
       "sources": [
         {
           "channel": "thepaper",
-          "rank": 7,
-          "hot": 0,
-          "url": "https://www.thepaper.cn/newsDetail_forward_34274620"
-        }
-      ],
-      "summary": "",
-      "url": "https://www.thepaper.cn/newsDetail_forward_34274620"
-    },
-    {
-      "id": "evt-48000000",
-      "title": "为什么4.8分网红餐厅更容易踩雷",
-      "category": "society",
-      "hotScore": 0.64,
-      "freshness": 1,
-      "crossSource": 0.6309,
-      "totalScore": 0.7453,
-      "sources": [
-        {
-          "channel": "baidu",
           "rank": 5,
           "hot": 0,
-          "url": "https://m.baidu.com/s?word=%E4%B8%BA%E4%BB%80%E4%B9%884.8%E5%88%86%E7%BD%91%E7%BA%A2%E9%A4%90%E5%8E%85%E6%9B%B4%E5%AE%B9%E6%98%93%E8%B8%A9%E9%9B%B7&sa=fyb_news"
+          "url": "https://www.thepaper.cn/newsDetail_forward_34276364"
         }
       ],
       "summary": "",
-      "url": "https://m.baidu.com/s?word=%E4%B8%BA%E4%BB%80%E4%B9%884.8%E5%88%86%E7%BD%91%E7%BA%A2%E9%A4%90%E5%8E%85%E6%9B%B4%E5%AE%B9%E6%98%93%E8%B8%A9%E9%9B%B7&sa=fyb_news"
+      "url": "https://www.thepaper.cn/newsDetail_forward_34276364"
     },
     {
-      "id": "evt-deepseekv4",
-      "title": "网传 DeepSeek V4.1 Flash 1017 指纹测出 GPT-6 Astra，这是怎么回事？",
-      "category": "society",
-      "hotScore": 0.6,
-      "freshness": 0.9999,
-      "crossSource": 0.6309,
-      "totalScore": 0.7293,
-      "sources": [
-        {
-          "channel": "zhihu",
-          "rank": 5,
-          "hot": 0,
-          "url": ""
-        }
-      ],
-      "summary": "",
-      "url": ""
-    },
-    {
-      "id": "evt-35000000",
-      "title": "35楼坠落生还女子淡然讲述伤情",
-      "category": "society",
-      "hotScore": 0.595,
-      "freshness": 0.9999,
-      "crossSource": 0.6309,
-      "totalScore": 0.7273,
-      "sources": [
-        {
-          "channel": "toutiao",
-          "rank": 7,
-          "hot": 11938713,
-          "url": "https://www.toutiao.com/trending/7697018280691220530/"
-        }
-      ],
-      "summary": "",
-      "url": "https://www.toutiao.com/trending/7697018280691220530/"
-    },
-    {
-      "id": "evt-14300000",
-      "title": "法国有 143 年历史的市政厅被纵火焚毁，这场骚乱最终可能以什么方式收场？将造成什么影响？",
-      "category": "society",
-      "hotScore": 0.5625,
-      "freshness": 0.9999,
-      "crossSource": 0.6309,
-      "totalScore": 0.7143,
-      "sources": [
-        {
-          "channel": "zhihu",
-          "rank": 6,
-          "hot": 0,
-          "url": ""
-        }
-      ],
-      "summary": "",
-      "url": ""
-    },
-    {
-      "id": "evt-50000000",
-      "title": "法国超500名警察宪兵消防员受伤",
-      "category": "society",
+      "id": "evt-gdp00000",
+      "title": "前三季度中国GDP同比增长4.6%",
+      "category": "economy",
       "hotScore": 0.52,
       "freshness": 1,
       "crossSource": 0.6309,
@@ -202,36 +107,49 @@
           "channel": "baidu",
           "rank": 8,
           "hot": 0,
-          "url": "https://m.baidu.com/s?word=%E6%B3%95%E5%9B%BD%E8%B6%85500%E5%90%8D%E8%AD%A6%E5%AF%9F%E5%AE%AA%E5%85%B5%E6%B6%88%E9%98%B2%E5%91%98%E5%8F%97%E4%BC%A4&sa=fyb_news"
+          "url": "https://m.baidu.com/s?word=%E5%89%8D%E4%B8%89%E5%AD%A3%E5%BA%A6%E4%B8%AD%E5%9B%BDGDP%E5%90%8C%E6%AF%94%E5%A2%9E%E9%95%BF4.6%25&sa=fyb_news"
         }
       ],
       "summary": "",
-      "url": "https://m.baidu.com/s?word=%E6%B3%95%E5%9B%BD%E8%B6%85500%E5%90%8D%E8%AD%A6%E5%AF%9F%E5%AE%AA%E5%85%B5%E6%B6%88%E9%98%B2%E5%91%98%E5%8F%97%E4%BC%A4&sa=fyb_news"
+      "url": "https://m.baidu.com/s?word=%E5%89%8D%E4%B8%89%E5%AD%A3%E5%BA%A6%E4%B8%AD%E5%9B%BDGDP%E5%90%8C%E6%AF%94%E5%A2%9E%E9%95%BF4.6%25&sa=fyb_news"
     },
     {
-      "id": "evt-34500000",
-      "title": "律师解读欠薪345万却送孩子韩国出道",
-      "category": "society",
-      "hotScore": 0.2125,
+      "id": "evt-ai000000",
+      "title": "演员吴越怒斥AI仿冒带货，微信视频号回应：账号已永久封禁，内容清空",
+      "category": "entertainment",
+      "hotScore": 0.5525,
       "freshness": 0.9999,
-      "crossSource": 1,
-      "totalScore": 0.685,
+      "crossSource": 0.6309,
+      "totalScore": 0.7103,
       "sources": [
         {
-          "channel": "toutiao",
-          "rank": 16,
-          "hot": 4853918,
-          "url": "https://www.toutiao.com/trending/7697161241214648339/"
-        },
-        {
-          "channel": "baidu",
-          "rank": 16,
+          "channel": "thepaper",
+          "rank": 8,
           "hot": 0,
-          "url": "https://m.baidu.com/s?word=%E5%BE%8B%E5%B8%88%E8%A7%A3%E8%AF%BB%E6%AC%A0%E8%96%AA345%E4%B8%87%E5%8D%B4%E9%80%81%E5%AD%A9%E5%AD%90%E9%9F%A9%E5%9B%BD%E5%87%BA%E9%81%93&sa=fyb_news"
+          "url": "https://www.thepaper.cn/newsDetail_forward_34274620"
         }
       ],
       "summary": "",
-      "url": "https://www.toutiao.com/trending/7697161241214648339/"
+      "url": "https://www.thepaper.cn/newsDetail_forward_34274620"
+    },
+    {
+      "id": "evt-s1600000",
+      "title": "如何看待 S16 瑞士轮首轮抽签结果，IG 首战 GEN，TES 遭遇 HLE？",
+      "category": "society",
+      "hotScore": 0.525,
+      "freshness": 0.9999,
+      "crossSource": 0.6309,
+      "totalScore": 0.6993,
+      "sources": [
+        {
+          "channel": "zhihu",
+          "rank": 7,
+          "hot": 0,
+          "url": ""
+        }
+      ],
+      "summary": "",
+      "url": ""
     }
   ]
 }
