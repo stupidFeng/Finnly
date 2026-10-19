@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-10-19T09:24:55.065Z",
+  "generatedAt": "2026-10-19T16:41:42.215Z",
   "fields": {
     "society": "社会",
     "economy": "经济",
@@ -8,45 +8,64 @@
   "feed": [
     {
       "id": "evt-00000000",
-      "title": "曝披旭日旗留学生曾表达支持“台独”",
+      "title": "身披旭日旗中国留学生或被开除遣返",
       "category": "society",
       "hotScore": 0.85,
-      "freshness": 1,
+      "freshness": 0.9999,
       "crossSource": 1,
       "totalScore": 0.94,
       "sources": [
         {
           "channel": "toutiao",
           "rank": 1,
-          "hot": 17009064,
-          "url": "https://www.toutiao.com/trending/7697815229270491190/"
+          "hot": 25261837,
+          "url": "https://www.toutiao.com/trending/7697683616645824531/"
         }
       ],
       "summary": "",
-      "url": "https://www.toutiao.com/trending/7697815229270491190/"
+      "url": "https://www.toutiao.com/trending/7697683616645824531/"
     },
     {
-      "id": "evt-deepseek",
-      "title": "梁文锋和 DeepSeek，为什么配得上 「 国运级 」 三个字？",
+      "id": "evt-36500000",
+      "title": "广州一村每人发3.65元补偿款",
       "category": "society",
-      "hotScore": 0.7125,
-      "freshness": 1,
+      "hotScore": 0.8075,
+      "freshness": 0.9999,
       "crossSource": 1,
-      "totalScore": 0.885,
+      "totalScore": 0.923,
       "sources": [
         {
-          "channel": "zhihu",
+          "channel": "toutiao",
           "rank": 2,
-          "hot": 0,
-          "url": ""
+          "hot": 22857856,
+          "url": "https://www.toutiao.com/trending/7698343072161120294/"
         }
       ],
       "summary": "",
-      "url": ""
+      "url": "https://www.toutiao.com/trending/7698343072161120294/"
     },
     {
-      "id": "evt-50700000",
-      "title": "50元进货700元售出！只收老年游客的药厂“溯源游”实为新型会销",
+      "id": "evt-33000000",
+      "title": "南太行徒步失联的33岁女子已找到",
+      "category": "society",
+      "hotScore": 0.72,
+      "freshness": 1,
+      "crossSource": 1,
+      "totalScore": 0.888,
+      "sources": [
+        {
+          "channel": "baidu",
+          "rank": 3,
+          "hot": 0,
+          "url": "https://m.baidu.com/s?word=%E5%8D%97%E5%A4%AA%E8%A1%8C%E5%BE%92%E6%AD%A5%E5%A4%B1%E8%81%94%E7%9A%8433%E5%B2%81%E5%A5%B3%E5%AD%90%E5%B7%B2%E6%89%BE%E5%88%B0&sa=fyb_news"
+        }
+      ],
+      "summary": "",
+      "url": "https://m.baidu.com/s?word=%E5%8D%97%E5%A4%AA%E8%A1%8C%E5%BE%92%E6%AD%A5%E5%A4%B1%E8%81%94%E7%9A%8433%E5%B2%81%E5%A5%B3%E5%AD%90%E5%B7%B2%E6%89%BE%E5%88%B0&sa=fyb_news"
+    },
+    {
+      "id": "evt-90000000",
+      "title": "鲁迅逝世90周年｜特级教师和故居讲解员谈阅读鲁迅",
       "category": "society",
       "hotScore": 0.68,
       "freshness": 1,
@@ -57,73 +76,16 @@
           "channel": "thepaper",
           "rank": 5,
           "hot": 0,
-          "url": "https://www.thepaper.cn/newsDetail_forward_34276364"
+          "url": "https://www.thepaper.cn/newsDetail_forward_34276494"
         }
       ],
       "summary": "",
-      "url": "https://www.thepaper.cn/newsDetail_forward_34276364"
-    },
-    {
-      "id": "evt-iphone18p",
-      "title": "女子晒 iPhone 18Pro 订单泄露物流单号，骗子找 5 人接力跑腿冒领，快递、跑腿平台该承担多少责任？",
-      "category": "society",
-      "hotScore": 0.6375,
-      "freshness": 1,
-      "crossSource": 1,
-      "totalScore": 0.855,
-      "sources": [
-        {
-          "channel": "zhihu",
-          "rank": 4,
-          "hot": 0,
-          "url": ""
-        }
-      ],
-      "summary": "",
-      "url": ""
-    },
-    {
-      "id": "evt-79990000",
-      "title": "优衣库难觅79元、99元基础款",
-      "category": "society",
-      "hotScore": 0.6,
-      "freshness": 1,
-      "crossSource": 1,
-      "totalScore": 0.84,
-      "sources": [
-        {
-          "channel": "baidu",
-          "rank": 6,
-          "hot": 0,
-          "url": "https://m.baidu.com/s?word=%E4%BC%98%E8%A1%A3%E5%BA%93%E9%9A%BE%E8%A7%8579%E5%85%83%E3%80%8199%E5%85%83%E5%9F%BA%E7%A1%80%E6%AC%BE&sa=fyb_news"
-        }
-      ],
-      "summary": "",
-      "url": "https://m.baidu.com/s?word=%E4%BC%98%E8%A1%A3%E5%BA%93%E9%9A%BE%E8%A7%8579%E5%85%83%E3%80%8199%E5%85%83%E5%9F%BA%E7%A1%80%E6%AC%BE&sa=fyb_news"
-    },
-    {
-      "id": "evt-ai000000",
-      "title": "众声｜吴越怒斥AI换脸带货，平台治理不能坐等受害者站出来",
-      "category": "society",
-      "hotScore": 0.595,
-      "freshness": 1,
-      "crossSource": 1,
-      "totalScore": 0.838,
-      "sources": [
-        {
-          "channel": "thepaper",
-          "rank": 7,
-          "hot": 0,
-          "url": "https://www.thepaper.cn/newsDetail_forward_34275099"
-        }
-      ],
-      "summary": "",
-      "url": "https://www.thepaper.cn/newsDetail_forward_34275099"
+      "url": "https://www.thepaper.cn/newsDetail_forward_34276494"
     },
     {
       "id": "evt-30000000",
-      "title": "乒乓球名将王曼昱等3人拟记大功",
-      "category": "society",
+      "title": "救场李克勤走红草根歌手3周涨粉40万",
+      "category": "entertainment",
       "hotScore": 0.52,
       "freshness": 1,
       "crossSource": 1,
@@ -133,30 +95,68 @@
           "channel": "baidu",
           "rank": 8,
           "hot": 0,
-          "url": "https://m.baidu.com/s?word=%E4%B9%92%E4%B9%93%E7%90%83%E5%90%8D%E5%B0%86%E7%8E%8B%E6%9B%BC%E6%98%B1%E7%AD%893%E4%BA%BA%E6%8B%9F%E8%AE%B0%E5%A4%A7%E5%8A%9F&sa=fyb_news"
+          "url": "https://m.baidu.com/s?word=%E6%95%91%E5%9C%BA%E6%9D%8E%E5%85%8B%E5%8B%A4%E8%B5%B0%E7%BA%A2%E8%8D%89%E6%A0%B9%E6%AD%8C%E6%89%8B3%E5%91%A8%E6%B6%A8%E7%B2%8940%E4%B8%87&sa=fyb_news"
         }
       ],
       "summary": "",
-      "url": "https://m.baidu.com/s?word=%E4%B9%92%E4%B9%93%E7%90%83%E5%90%8D%E5%B0%86%E7%8E%8B%E6%9B%BC%E6%98%B1%E7%AD%893%E4%BA%BA%E6%8B%9F%E8%AE%B0%E5%A4%A7%E5%8A%9F&sa=fyb_news"
+      "url": "https://m.baidu.com/s?word=%E6%95%91%E5%9C%BA%E6%9D%8E%E5%85%8B%E5%8B%A4%E8%B5%B0%E7%BA%A2%E8%8D%89%E6%A0%B9%E6%AD%8C%E6%89%8B3%E5%91%A8%E6%B6%A8%E7%B2%8940%E4%B8%87&sa=fyb_news"
     },
     {
-      "id": "evt-15000000",
-      "title": "把房子降到150万 好卖多了",
+      "id": "evt-21000000",
+      "title": "公司给2千员工每人发1条5克纯金手链",
       "category": "society",
-      "hotScore": 0.44,
+      "hotScore": 0.64,
       "freshness": 1,
       "crossSource": 1,
-      "totalScore": 0.776,
+      "totalScore": 0.856,
       "sources": [
         {
           "channel": "baidu",
-          "rank": 10,
+          "rank": 5,
           "hot": 0,
-          "url": "https://m.baidu.com/s?word=%E6%8A%8A%E6%88%BF%E5%AD%90%E9%99%8D%E5%88%B0150%E4%B8%87+%E5%A5%BD%E5%8D%96%E5%A4%9A%E4%BA%86&sa=fyb_news"
+          "url": "https://m.baidu.com/s?word=%E5%85%AC%E5%8F%B8%E7%BB%992%E5%8D%83%E5%91%98%E5%B7%A5%E6%AF%8F%E4%BA%BA%E5%8F%911%E6%9D%A15%E5%85%8B%E7%BA%AF%E9%87%91%E6%89%8B%E9%93%BE&sa=fyb_news"
         }
       ],
       "summary": "",
-      "url": "https://m.baidu.com/s?word=%E6%8A%8A%E6%88%BF%E5%AD%90%E9%99%8D%E5%88%B0150%E4%B8%87+%E5%A5%BD%E5%8D%96%E5%A4%9A%E4%BA%86&sa=fyb_news"
+      "url": "https://m.baidu.com/s?word=%E5%85%AC%E5%8F%B8%E7%BB%992%E5%8D%83%E5%91%98%E5%B7%A5%E6%AF%8F%E4%BA%BA%E5%8F%911%E6%9D%A15%E5%85%8B%E7%BA%AF%E9%87%91%E6%89%8B%E9%93%BE&sa=fyb_news"
+    },
+    {
+      "id": "evt-9bba0000",
+      "title": "9月BBA没有一款车零售过万",
+      "category": "society",
+      "hotScore": 0.4675,
+      "freshness": 0.9999,
+      "crossSource": 1,
+      "totalScore": 0.787,
+      "sources": [
+        {
+          "channel": "toutiao",
+          "rank": 10,
+          "hot": 10270696,
+          "url": "https://www.toutiao.com/trending/7698036944365781034/"
+        }
+      ],
+      "summary": "",
+      "url": "https://www.toutiao.com/trending/7698036944365781034/"
+    },
+    {
+      "id": "evt-60000000",
+      "title": "“重庆一车从60米高架桥坠落”不实",
+      "category": "society",
+      "hotScore": 0.425,
+      "freshness": 0.9999,
+      "crossSource": 1,
+      "totalScore": 0.77,
+      "sources": [
+        {
+          "channel": "toutiao",
+          "rank": 11,
+          "hot": 9293310,
+          "url": "https://www.toutiao.com/trending/7697255774116462655/"
+        }
+      ],
+      "summary": "",
+      "url": "https://www.toutiao.com/trending/7697255774116462655/"
     }
   ]
 }
