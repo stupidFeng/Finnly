@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-10-20T00:48:06.490Z",
+  "generatedAt": "2026-10-20T06:50:43.292Z",
   "fields": {
     "society": "社会",
     "economy": "经济",
@@ -8,56 +8,69 @@
   "feed": [
     {
       "id": "evt-00000000",
-      "title": "董明珠称格力技工学校禁止谈恋爱",
+      "title": "中国留学生课堂披旭日旗，钧正平：为军国主义张目是对人类良知的公然冒犯",
       "category": "society",
-      "hotScore": 0.72,
-      "freshness": 1,
-      "crossSource": 1,
-      "totalScore": 0.888,
+      "hotScore": 0.85,
+      "freshness": 0.9999,
+      "crossSource": 0.6309,
+      "totalScore": 0.8293,
+      "sources": [
+        {
+          "channel": "thepaper",
+          "rank": 1,
+          "hot": 0,
+          "url": "https://www.thepaper.cn/newsDetail_forward_34280886"
+        }
+      ],
+      "summary": "",
+      "url": "https://www.thepaper.cn/newsDetail_forward_34280886"
+    },
+    {
+      "id": "evt-50000000",
+      "title": "法国爆发严重暴力骚乱，超 50 万人上街抗议，马克龙公开谴责，冲突的深层根源是什么？折射出法国怎样的危机？",
+      "category": "society",
+      "hotScore": 0.7125,
+      "freshness": 0.9999,
+      "crossSource": 0.6309,
+      "totalScore": 0.7742,
+      "sources": [
+        {
+          "channel": "zhihu",
+          "rank": 2,
+          "hot": 0,
+          "url": ""
+        }
+      ],
+      "summary": "",
+      "url": ""
+    },
+    {
+      "id": "evt-56890000",
+      "title": "56岁女子8月退休9月重返大学读研",
+      "category": "society",
+      "hotScore": 0.68,
+      "freshness": 0.9999,
+      "crossSource": 0.6309,
+      "totalScore": 0.7612,
       "sources": [
         {
           "channel": "toutiao",
           "rank": 5,
-          "hot": 15103818,
-          "url": "https://www.toutiao.com/trending/7698257860945366591/"
-        },
-        {
-          "channel": "baidu",
-          "rank": 3,
-          "hot": 0,
-          "url": "https://m.baidu.com/s?word=%E8%91%A3%E6%98%8E%E7%8F%A0%E7%A7%B0%E6%A0%BC%E5%8A%9B%E6%8A%80%E5%B7%A5%E5%AD%A6%E6%A0%A1%E7%A6%81%E6%AD%A2%E8%B0%88%E6%81%8B%E7%88%B1&sa=fyb_news"
+          "hot": 13900368,
+          "url": "https://www.toutiao.com/trending/7698366726836125746/"
         }
       ],
       "summary": "",
-      "url": "https://www.toutiao.com/trending/7698257860945366591/"
+      "url": "https://www.toutiao.com/trending/7698366726836125746/"
     },
     {
       "id": "evt-21000000",
       "title": "21 岁男子在稻城亚丁徒步时因严重高反去世，官方称「事发地不在景区，系非法穿越」，有哪些警示？",
       "category": "society",
-      "hotScore": 0.75,
-      "freshness": 1,
-      "crossSource": 0.6309,
-      "totalScore": 0.7893,
-      "sources": [
-        {
-          "channel": "zhihu",
-          "rank": 1,
-          "hot": 0,
-          "url": ""
-        }
-      ],
-      "summary": "",
-      "url": ""
-    },
-    {
-      "id": "evt-deepseek",
-      "title": "如何评价 DeepSeek V4.1 Flash 1017 登顶「史上最差 AI 模型名称排行榜」?",
-      "category": "society",
       "hotScore": 0.675,
-      "freshness": 1,
+      "freshness": 0.9999,
       "crossSource": 0.6309,
-      "totalScore": 0.7593,
+      "totalScore": 0.7592,
       "sources": [
         {
           "channel": "zhihu",
@@ -70,17 +83,36 @@
       "url": ""
     },
     {
-      "id": "evt-10200000",
-      "title": "星巴克店员称 10 月 20 日起实施「消费入座」新规，你支持吗？落地难度大吗？",
-      "category": "society",
-      "hotScore": 0.5625,
-      "freshness": 1,
+      "id": "evt-20260000",
+      "title": "一组数字看2026前三季度中国经济",
+      "category": "economy",
+      "hotScore": 0.765,
+      "freshness": 0.9999,
       "crossSource": 0.6309,
-      "totalScore": 0.7143,
+      "totalScore": 0.7952,
+      "sources": [
+        {
+          "channel": "toutiao",
+          "rank": 3,
+          "hot": 16977948,
+          "url": "https://www.toutiao.com/trending/7698572268691000841/"
+        }
+      ],
+      "summary": "",
+      "url": "https://www.toutiao.com/trending/7698572268691000841/"
+    },
+    {
+      "id": "evt-19710000",
+      "title": "我妈是 1971 年出生的，她是中专学历，请问在那个年代中专学历相当于什么水平？",
+      "category": "society",
+      "hotScore": 0.6375,
+      "freshness": 0.9999,
+      "crossSource": 0.6309,
+      "totalScore": 0.7442,
       "sources": [
         {
           "channel": "zhihu",
-          "rank": 6,
+          "rank": 4,
           "hot": 0,
           "url": ""
         }
@@ -89,99 +121,61 @@
       "url": ""
     },
     {
-      "id": "evt-70000000",
-      "title": "闪迪市值一夜大增近700亿元",
-      "category": "economy",
-      "hotScore": 0.6375,
-      "freshness": 1,
-      "crossSource": 0.6309,
-      "totalScore": 0.7443,
-      "sources": [
-        {
-          "channel": "toutiao",
-          "rank": 6,
-          "hot": 13666500,
-          "url": "https://www.toutiao.com/trending/7698517231927575078/"
-        }
-      ],
-      "summary": "",
-      "url": "https://www.toutiao.com/trending/7698517231927575078/"
-    },
-    {
-      "id": "evt-c3000000",
-      "title": "葡萄牙足协宣布禁赛C罗30天",
+      "id": "evt-80000000",
+      "title": "小米新车要下饺子 8款新车商标曝光",
       "category": "society",
-      "hotScore": 0.56,
+      "hotScore": 0.6,
       "freshness": 1,
       "crossSource": 0.6309,
-      "totalScore": 0.7133,
+      "totalScore": 0.7293,
       "sources": [
         {
           "channel": "baidu",
-          "rank": 7,
+          "rank": 6,
           "hot": 0,
-          "url": "https://m.baidu.com/s?word=%E8%91%A1%E8%90%84%E7%89%99%E8%B6%B3%E5%8D%8F%E5%AE%A3%E5%B8%83%E7%A6%81%E8%B5%9BC%E7%BD%9730%E5%A4%A9&sa=fyb_news"
+          "url": "https://m.baidu.com/s?word=%E5%B0%8F%E7%B1%B3%E6%96%B0%E8%BD%A6%E8%A6%81%E4%B8%8B%E9%A5%BA%E5%AD%90+8%E6%AC%BE%E6%96%B0%E8%BD%A6%E5%95%86%E6%A0%87%E6%9B%9D%E5%85%89&sa=fyb_news"
         }
       ],
       "summary": "",
-      "url": "https://m.baidu.com/s?word=%E8%91%A1%E8%90%84%E7%89%99%E8%B6%B3%E5%8D%8F%E5%AE%A3%E5%B8%83%E7%A6%81%E8%B5%9BC%E7%BD%9730%E5%A4%A9&sa=fyb_news"
+      "url": "https://m.baidu.com/s?word=%E5%B0%8F%E7%B1%B3%E6%96%B0%E8%BD%A6%E8%A6%81%E4%B8%8B%E9%A5%BA%E5%AD%90+8%E6%AC%BE%E6%96%B0%E8%BD%A6%E5%95%86%E6%A0%87%E6%9B%9D%E5%85%89&sa=fyb_news"
     },
     {
-      "id": "evt-21d00000",
-      "title": "东风-21D导弹为何让美航母如坐针毡",
+      "id": "evt-deepseek",
+      "title": "如何评价 DeepSeek V4.1 Flash 1017 登顶「史上最差 AI 模型名称排行榜」?",
+      "category": "society",
+      "hotScore": 0.6,
+      "freshness": 0.9999,
+      "crossSource": 0.6309,
+      "totalScore": 0.7292,
+      "sources": [
+        {
+          "channel": "zhihu",
+          "rank": 5,
+          "hot": 0,
+          "url": ""
+        }
+      ],
+      "summary": "",
+      "url": ""
+    },
+    {
+      "id": "evt-a0000000",
+      "title": "A股磨底是不是快到头了",
       "category": "society",
       "hotScore": 0.51,
-      "freshness": 1,
+      "freshness": 0.9999,
       "crossSource": 0.6309,
-      "totalScore": 0.6933,
+      "totalScore": 0.6932,
       "sources": [
         {
           "channel": "toutiao",
           "rank": 9,
-          "hot": 10124392,
-          "url": "https://www.toutiao.com/trending/7698501500091239962/"
+          "hot": 9317695,
+          "url": "https://www.toutiao.com/trending/7698611122802265610/"
         }
       ],
       "summary": "",
-      "url": "https://www.toutiao.com/trending/7698501500091239962/"
-    },
-    {
-      "id": "evt-33000000",
-      "title": "南太行徒步失联的33岁女子已找到",
-      "category": "society",
-      "hotScore": 0.48,
-      "freshness": 1,
-      "crossSource": 0.6309,
-      "totalScore": 0.6813,
-      "sources": [
-        {
-          "channel": "baidu",
-          "rank": 9,
-          "hot": 0,
-          "url": "https://m.baidu.com/s?word=%E5%8D%97%E5%A4%AA%E8%A1%8C%E5%BE%92%E6%AD%A5%E5%A4%B1%E8%81%94%E7%9A%8433%E5%B2%81%E5%A5%B3%E5%AD%90%E5%B7%B2%E6%89%BE%E5%88%B0&sa=fyb_news"
-        }
-      ],
-      "summary": "",
-      "url": "https://m.baidu.com/s?word=%E5%8D%97%E5%A4%AA%E8%A1%8C%E5%BE%92%E6%AD%A5%E5%A4%B1%E8%81%94%E7%9A%8433%E5%B2%81%E5%A5%B3%E5%AD%90%E5%B7%B2%E6%89%BE%E5%88%B0&sa=fyb_news"
-    },
-    {
-      "id": "evt-60000000",
-      "title": "“重庆一车从60米高架桥坠落”不实",
-      "category": "society",
-      "hotScore": 0.425,
-      "freshness": 1,
-      "crossSource": 0.6309,
-      "totalScore": 0.6593,
-      "sources": [
-        {
-          "channel": "toutiao",
-          "rank": 11,
-          "hot": 8289151,
-          "url": "https://www.toutiao.com/trending/7697255774116462655/"
-        }
-      ],
-      "summary": "",
-      "url": "https://www.toutiao.com/trending/7697255774116462655/"
+      "url": "https://www.toutiao.com/trending/7698611122802265610/"
     }
   ]
 }
