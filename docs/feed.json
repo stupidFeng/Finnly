@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-10-20T06:50:43.292Z",
+  "generatedAt": "2026-10-20T13:08:00.944Z",
   "fields": {
     "society": "社会",
     "economy": "经济",
@@ -8,31 +8,56 @@
   "feed": [
     {
       "id": "evt-00000000",
-      "title": "中国留学生课堂披旭日旗，钧正平：为军国主义张目是对人类良知的公然冒犯",
+      "title": "工信部：禁止车辆行驶时用零重力座椅",
       "category": "society",
       "hotScore": 0.85,
       "freshness": 0.9999,
-      "crossSource": 0.6309,
-      "totalScore": 0.8293,
+      "crossSource": 1,
+      "totalScore": 0.94,
       "sources": [
         {
-          "channel": "thepaper",
+          "channel": "toutiao",
           "rank": 1,
+          "hot": 26278352,
+          "url": "https://www.toutiao.com/trending/7698667807361319433/"
+        },
+        {
+          "channel": "baidu",
+          "rank": 7,
           "hot": 0,
-          "url": "https://www.thepaper.cn/newsDetail_forward_34280886"
+          "url": "https://m.baidu.com/s?word=%E5%B7%A5%E4%BF%A1%E9%83%A8%EF%BC%9A%E7%A6%81%E6%AD%A2%E8%BD%A6%E8%BE%86%E8%A1%8C%E9%A9%B6%E6%97%B6%E7%94%A8%E9%9B%B6%E9%87%8D%E5%8A%9B%E5%BA%A7%E6%A4%85&sa=fyb_news"
         }
       ],
       "summary": "",
-      "url": "https://www.thepaper.cn/newsDetail_forward_34280886"
+      "url": "https://www.toutiao.com/trending/7698667807361319433/"
     },
     {
       "id": "evt-50000000",
-      "title": "法国爆发严重暴力骚乱，超 50 万人上街抗议，马克龙公开谴责，冲突的深层根源是什么？折射出法国怎样的危机？",
+      "title": "学生机直逼5000元",
+      "category": "society",
+      "hotScore": 0.72,
+      "freshness": 1,
+      "crossSource": 0.6309,
+      "totalScore": 0.7773,
+      "sources": [
+        {
+          "channel": "baidu",
+          "rank": 3,
+          "hot": 0,
+          "url": "https://m.baidu.com/s?word=%E5%AD%A6%E7%94%9F%E6%9C%BA%E7%9B%B4%E9%80%BC5000%E5%85%83&sa=fyb_news"
+        }
+      ],
+      "summary": "",
+      "url": "https://m.baidu.com/s?word=%E5%AD%A6%E7%94%9F%E6%9C%BA%E7%9B%B4%E9%80%BC5000%E5%85%83&sa=fyb_news"
+    },
+    {
+      "id": "evt-20261000",
+      "title": "如何看待 2026 年 10 月 20 日下午疑似国内所有 mc 相关下载被封禁？",
       "category": "society",
       "hotScore": 0.7125,
-      "freshness": 0.9999,
+      "freshness": 1,
       "crossSource": 0.6309,
-      "totalScore": 0.7742,
+      "totalScore": 0.7743,
       "sources": [
         {
           "channel": "zhihu",
@@ -45,32 +70,13 @@
       "url": ""
     },
     {
-      "id": "evt-56890000",
-      "title": "56岁女子8月退休9月重返大学读研",
-      "category": "society",
-      "hotScore": 0.68,
-      "freshness": 0.9999,
-      "crossSource": 0.6309,
-      "totalScore": 0.7612,
-      "sources": [
-        {
-          "channel": "toutiao",
-          "rank": 5,
-          "hot": 13900368,
-          "url": "https://www.toutiao.com/trending/7698366726836125746/"
-        }
-      ],
-      "summary": "",
-      "url": "https://www.toutiao.com/trending/7698366726836125746/"
-    },
-    {
-      "id": "evt-21000000",
-      "title": "21 岁男子在稻城亚丁徒步时因严重高反去世，官方称「事发地不在景区，系非法穿越」，有哪些警示？",
+      "id": "evt-ai000000",
+      "title": "现在 AI 短剧满天飞，怎么没见影视行业人员发声？",
       "category": "society",
       "hotScore": 0.675,
-      "freshness": 0.9999,
+      "freshness": 1,
       "crossSource": 0.6309,
-      "totalScore": 0.7592,
+      "totalScore": 0.7593,
       "sources": [
         {
           "channel": "zhihu",
@@ -83,46 +89,8 @@
       "url": ""
     },
     {
-      "id": "evt-20260000",
-      "title": "一组数字看2026前三季度中国经济",
-      "category": "economy",
-      "hotScore": 0.765,
-      "freshness": 0.9999,
-      "crossSource": 0.6309,
-      "totalScore": 0.7952,
-      "sources": [
-        {
-          "channel": "toutiao",
-          "rank": 3,
-          "hot": 16977948,
-          "url": "https://www.toutiao.com/trending/7698572268691000841/"
-        }
-      ],
-      "summary": "",
-      "url": "https://www.toutiao.com/trending/7698572268691000841/"
-    },
-    {
-      "id": "evt-19710000",
-      "title": "我妈是 1971 年出生的，她是中专学历，请问在那个年代中专学历相当于什么水平？",
-      "category": "society",
-      "hotScore": 0.6375,
-      "freshness": 0.9999,
-      "crossSource": 0.6309,
-      "totalScore": 0.7442,
-      "sources": [
-        {
-          "channel": "zhihu",
-          "rank": 4,
-          "hot": 0,
-          "url": ""
-        }
-      ],
-      "summary": "",
-      "url": ""
-    },
-    {
-      "id": "evt-80000000",
-      "title": "小米新车要下饺子 8款新车商标曝光",
+      "id": "evt-61600000",
+      "title": "公交车闯红灯致6死16伤 调查报告发布",
       "category": "society",
       "hotScore": 0.6,
       "freshness": 1,
@@ -133,20 +101,20 @@
           "channel": "baidu",
           "rank": 6,
           "hot": 0,
-          "url": "https://m.baidu.com/s?word=%E5%B0%8F%E7%B1%B3%E6%96%B0%E8%BD%A6%E8%A6%81%E4%B8%8B%E9%A5%BA%E5%AD%90+8%E6%AC%BE%E6%96%B0%E8%BD%A6%E5%95%86%E6%A0%87%E6%9B%9D%E5%85%89&sa=fyb_news"
+          "url": "https://m.baidu.com/s?word=%E5%85%AC%E4%BA%A4%E8%BD%A6%E9%97%AF%E7%BA%A2%E7%81%AF%E8%87%B46%E6%AD%BB16%E4%BC%A4+%E8%B0%83%E6%9F%A5%E6%8A%A5%E5%91%8A%E5%8F%91%E5%B8%83&sa=fyb_news"
         }
       ],
       "summary": "",
-      "url": "https://m.baidu.com/s?word=%E5%B0%8F%E7%B1%B3%E6%96%B0%E8%BD%A6%E8%A6%81%E4%B8%8B%E9%A5%BA%E5%AD%90+8%E6%AC%BE%E6%96%B0%E8%BD%A6%E5%95%86%E6%A0%87%E6%9B%9D%E5%85%89&sa=fyb_news"
+      "url": "https://m.baidu.com/s?word=%E5%85%AC%E4%BA%A4%E8%BD%A6%E9%97%AF%E7%BA%A2%E7%81%AF%E8%87%B46%E6%AD%BB16%E4%BC%A4+%E8%B0%83%E6%9F%A5%E6%8A%A5%E5%91%8A%E5%8F%91%E5%B8%83&sa=fyb_news"
     },
     {
-      "id": "evt-deepseek",
-      "title": "如何评价 DeepSeek V4.1 Flash 1017 登顶「史上最差 AI 模型名称排行榜」?",
+      "id": "evt-9bba0000",
+      "title": "如何看待 9 月 BBA 旗下无一车型零售破万？这是否意味着消费者不再单纯认豪华车标？",
       "category": "society",
       "hotScore": 0.6,
-      "freshness": 0.9999,
+      "freshness": 1,
       "crossSource": 0.6309,
-      "totalScore": 0.7292,
+      "totalScore": 0.7293,
       "sources": [
         {
           "channel": "zhihu",
@@ -159,23 +127,61 @@
       "url": ""
     },
     {
-      "id": "evt-a0000000",
-      "title": "A股磨底是不是快到头了",
+      "id": "evt-20262000",
+      "title": "2026《全球前 2％ 顶尖科学家榜单》出炉，你或者你熟识的人入选了么？",
       "category": "society",
-      "hotScore": 0.51,
-      "freshness": 0.9999,
+      "hotScore": 0.4875,
+      "freshness": 1,
       "crossSource": 0.6309,
-      "totalScore": 0.6932,
+      "totalScore": 0.6843,
       "sources": [
         {
-          "channel": "toutiao",
-          "rank": 9,
-          "hot": 9317695,
-          "url": "https://www.toutiao.com/trending/7698611122802265610/"
+          "channel": "zhihu",
+          "rank": 8,
+          "hot": 0,
+          "url": ""
         }
       ],
       "summary": "",
-      "url": "https://www.toutiao.com/trending/7698611122802265610/"
+      "url": ""
+    },
+    {
+      "id": "evt-deepseek",
+      "title": "DeepSeek一张卡每小时收入38美元",
+      "category": "society",
+      "hotScore": 0.44,
+      "freshness": 1,
+      "crossSource": 0.6309,
+      "totalScore": 0.6653,
+      "sources": [
+        {
+          "channel": "baidu",
+          "rank": 10,
+          "hot": 0,
+          "url": "https://m.baidu.com/s?word=DeepSeek%E4%B8%80%E5%BC%A0%E5%8D%A1%E6%AF%8F%E5%B0%8F%E6%97%B6%E6%94%B6%E5%85%A538%E7%BE%8E%E5%85%83&sa=fyb_news"
+        }
+      ],
+      "summary": "",
+      "url": "https://m.baidu.com/s?word=DeepSeek%E4%B8%80%E5%BC%A0%E5%8D%A1%E6%AF%8F%E5%B0%8F%E6%97%B6%E6%94%B6%E5%85%A538%E7%BE%8E%E5%85%83&sa=fyb_news"
+    },
+    {
+      "id": "evt-10000000",
+      "title": "独生女车祸去世 10 年后赔偿用完了，父母再次起诉获批 5 年生活费，如何从法律角度解读？",
+      "category": "society",
+      "hotScore": 0.4125,
+      "freshness": 1,
+      "crossSource": 0.6309,
+      "totalScore": 0.6543,
+      "sources": [
+        {
+          "channel": "zhihu",
+          "rank": 10,
+          "hot": 0,
+          "url": ""
+        }
+      ],
+      "summary": "",
+      "url": ""
     }
   ]
 }
