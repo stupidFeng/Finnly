@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-10-20T18:10:48.149Z",
+  "generatedAt": "2026-10-20T22:48:30.887Z",
   "fields": {
     "society": "社会",
     "economy": "经济",
@@ -10,14 +10,14 @@
       "id": "evt-00000000",
       "title": "工信部提出「坚决防范不合理创新设计和未经充分研发测试验证的汽车产品进入市场」，这会给行业带来哪些转向？",
       "category": "society",
-      "hotScore": 0.68,
-      "freshness": 0.9999,
+      "hotScore": 0.675,
+      "freshness": 1,
       "crossSource": 1,
-      "totalScore": 0.872,
+      "totalScore": 0.87,
       "sources": [
         {
           "channel": "thepaper",
-          "rank": 5,
+          "rank": 6,
           "hot": 0,
           "url": "https://www.thepaper.cn/newsDetail_forward_34289607"
         },
@@ -36,7 +36,7 @@
       "title": "如何看待 2026 年 10 月 20 日下午疑似国内所有 mc 相关下载被封禁？",
       "category": "society",
       "hotScore": 0.75,
-      "freshness": 0.9999,
+      "freshness": 1,
       "crossSource": 0.6309,
       "totalScore": 0.7893,
       "sources": [
@@ -51,30 +51,11 @@
       "url": ""
     },
     {
-      "id": "evt-ai000000",
-      "title": "众声丨AI“苦命男孩小海”收割老人，平台审核不能总是被动响应",
-      "category": "society",
-      "hotScore": 0.7225,
-      "freshness": 1,
-      "crossSource": 0.6309,
-      "totalScore": 0.7783,
-      "sources": [
-        {
-          "channel": "thepaper",
-          "rank": 4,
-          "hot": 0,
-          "url": "https://www.thepaper.cn/newsDetail_forward_34288055"
-        }
-      ],
-      "summary": "",
-      "url": "https://www.thepaper.cn/newsDetail_forward_34288055"
-    },
-    {
       "id": "evt-deepseek",
-      "title": "如何看待 DeepSeek 开源的大规模云服务推理框架 DeepInfer ？",
+      "title": "怎么看 DeepSeek 官宣单集群日均吞吐达 155 万亿 Token，单卡每小时收入 38 美金？",
       "category": "society",
       "hotScore": 0.7125,
-      "freshness": 0.9999,
+      "freshness": 1,
       "crossSource": 0.6309,
       "totalScore": 0.7743,
       "sources": [
@@ -89,11 +70,30 @@
       "url": ""
     },
     {
+      "id": "evt-ai000000",
+      "title": "众声丨AI“苦命男孩小海”收割老人，平台审核不能总是被动响应",
+      "category": "society",
+      "hotScore": 0.68,
+      "freshness": 1,
+      "crossSource": 0.6309,
+      "totalScore": 0.7613,
+      "sources": [
+        {
+          "channel": "thepaper",
+          "rank": 5,
+          "hot": 0,
+          "url": "https://www.thepaper.cn/newsDetail_forward_34288055"
+        }
+      ],
+      "summary": "",
+      "url": "https://www.thepaper.cn/newsDetail_forward_34288055"
+    },
+    {
       "id": "evt-24000000",
       "title": "生殖隔离解除 24 小时、氧气消失三秒、所有动物失明 72 小时和全球暴雨 10 年，上述哪个灾难危害最大？",
       "category": "society",
       "hotScore": 0.6,
-      "freshness": 0.9999,
+      "freshness": 1,
       "crossSource": 0.6309,
       "totalScore": 0.7293,
       "sources": [
@@ -108,11 +108,30 @@
       "url": ""
     },
     {
+      "id": "evt-70000000",
+      "title": "血糖高身体会抛出7个信号",
+      "category": "society",
+      "hotScore": 0.595,
+      "freshness": 0.9999,
+      "crossSource": 0.6309,
+      "totalScore": 0.7273,
+      "sources": [
+        {
+          "channel": "toutiao",
+          "rank": 7,
+          "hot": 13966592,
+          "url": "https://www.toutiao.com/trending/7698577857047642121/"
+        }
+      ],
+      "summary": "",
+      "url": "https://www.toutiao.com/trending/7698577857047642121/"
+    },
+    {
       "id": "evt-67000000",
       "title": "新能源车渗透率攀升至 67% 创历史新高，燃油车为何加速萎缩？",
       "category": "society",
       "hotScore": 0.5625,
-      "freshness": 0.9999,
+      "freshness": 1,
       "crossSource": 0.6309,
       "totalScore": 0.7143,
       "sources": [
@@ -127,36 +146,17 @@
       "url": ""
     },
     {
-      "id": "evt-70000000",
-      "title": "血糖高身体会抛出7个信号",
-      "category": "society",
-      "hotScore": 0.51,
-      "freshness": 0.9999,
-      "crossSource": 0.6309,
-      "totalScore": 0.6933,
-      "sources": [
-        {
-          "channel": "toutiao",
-          "rank": 9,
-          "hot": 10735707,
-          "url": "https://www.toutiao.com/trending/7698577857047642121/"
-        }
-      ],
-      "summary": "",
-      "url": "https://www.toutiao.com/trending/7698577857047642121/"
-    },
-    {
       "id": "evt-10000000",
       "title": "独生女车祸去世 10 年后赔偿所剩不多，父母再次起诉获批 5 年生活费，如何从法律角度解读？",
       "category": "society",
-      "hotScore": 0.45,
-      "freshness": 0.9999,
+      "hotScore": 0.525,
+      "freshness": 1,
       "crossSource": 0.6309,
-      "totalScore": 0.6693,
+      "totalScore": 0.6993,
       "sources": [
         {
           "channel": "zhihu",
-          "rank": 9,
+          "rank": 7,
           "hot": 0,
           "url": ""
         }
