@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-10-20T13:08:00.944Z",
+  "generatedAt": "2026-10-20T18:10:48.149Z",
   "fields": {
     "society": "社会",
     "economy": "经济",
@@ -8,54 +8,73 @@
   "feed": [
     {
       "id": "evt-00000000",
-      "title": "工信部：禁止车辆行驶时用零重力座椅",
+      "title": "工信部提出「坚决防范不合理创新设计和未经充分研发测试验证的汽车产品进入市场」，这会给行业带来哪些转向？",
       "category": "society",
-      "hotScore": 0.85,
+      "hotScore": 0.68,
       "freshness": 0.9999,
       "crossSource": 1,
-      "totalScore": 0.94,
+      "totalScore": 0.872,
       "sources": [
         {
-          "channel": "toutiao",
-          "rank": 1,
-          "hot": 26278352,
-          "url": "https://www.toutiao.com/trending/7698667807361319433/"
+          "channel": "thepaper",
+          "rank": 5,
+          "hot": 0,
+          "url": "https://www.thepaper.cn/newsDetail_forward_34289607"
         },
         {
-          "channel": "baidu",
-          "rank": 7,
-          "hot": 0,
-          "url": "https://m.baidu.com/s?word=%E5%B7%A5%E4%BF%A1%E9%83%A8%EF%BC%9A%E7%A6%81%E6%AD%A2%E8%BD%A6%E8%BE%86%E8%A1%8C%E9%A9%B6%E6%97%B6%E7%94%A8%E9%9B%B6%E9%87%8D%E5%8A%9B%E5%BA%A7%E6%A4%85&sa=fyb_news"
-        }
-      ],
-      "summary": "",
-      "url": "https://www.toutiao.com/trending/7698667807361319433/"
-    },
-    {
-      "id": "evt-50000000",
-      "title": "学生机直逼5000元",
-      "category": "society",
-      "hotScore": 0.72,
-      "freshness": 1,
-      "crossSource": 0.6309,
-      "totalScore": 0.7773,
-      "sources": [
-        {
-          "channel": "baidu",
+          "channel": "zhihu",
           "rank": 3,
           "hot": 0,
-          "url": "https://m.baidu.com/s?word=%E5%AD%A6%E7%94%9F%E6%9C%BA%E7%9B%B4%E9%80%BC5000%E5%85%83&sa=fyb_news"
+          "url": ""
         }
       ],
       "summary": "",
-      "url": "https://m.baidu.com/s?word=%E5%AD%A6%E7%94%9F%E6%9C%BA%E7%9B%B4%E9%80%BC5000%E5%85%83&sa=fyb_news"
+      "url": "https://www.thepaper.cn/newsDetail_forward_34289607"
     },
     {
       "id": "evt-20261000",
       "title": "如何看待 2026 年 10 月 20 日下午疑似国内所有 mc 相关下载被封禁？",
       "category": "society",
-      "hotScore": 0.7125,
+      "hotScore": 0.75,
+      "freshness": 0.9999,
+      "crossSource": 0.6309,
+      "totalScore": 0.7893,
+      "sources": [
+        {
+          "channel": "zhihu",
+          "rank": 1,
+          "hot": 0,
+          "url": ""
+        }
+      ],
+      "summary": "",
+      "url": ""
+    },
+    {
+      "id": "evt-ai000000",
+      "title": "众声丨AI“苦命男孩小海”收割老人，平台审核不能总是被动响应",
+      "category": "society",
+      "hotScore": 0.7225,
       "freshness": 1,
+      "crossSource": 0.6309,
+      "totalScore": 0.7783,
+      "sources": [
+        {
+          "channel": "thepaper",
+          "rank": 4,
+          "hot": 0,
+          "url": "https://www.thepaper.cn/newsDetail_forward_34288055"
+        }
+      ],
+      "summary": "",
+      "url": "https://www.thepaper.cn/newsDetail_forward_34288055"
+    },
+    {
+      "id": "evt-deepseek",
+      "title": "如何看待 DeepSeek 开源的大规模云服务推理框架 DeepInfer ？",
+      "category": "society",
+      "hotScore": 0.7125,
+      "freshness": 0.9999,
       "crossSource": 0.6309,
       "totalScore": 0.7743,
       "sources": [
@@ -70,49 +89,11 @@
       "url": ""
     },
     {
-      "id": "evt-ai000000",
-      "title": "现在 AI 短剧满天飞，怎么没见影视行业人员发声？",
-      "category": "society",
-      "hotScore": 0.675,
-      "freshness": 1,
-      "crossSource": 0.6309,
-      "totalScore": 0.7593,
-      "sources": [
-        {
-          "channel": "zhihu",
-          "rank": 3,
-          "hot": 0,
-          "url": ""
-        }
-      ],
-      "summary": "",
-      "url": ""
-    },
-    {
-      "id": "evt-61600000",
-      "title": "公交车闯红灯致6死16伤 调查报告发布",
+      "id": "evt-24000000",
+      "title": "生殖隔离解除 24 小时、氧气消失三秒、所有动物失明 72 小时和全球暴雨 10 年，上述哪个灾难危害最大？",
       "category": "society",
       "hotScore": 0.6,
-      "freshness": 1,
-      "crossSource": 0.6309,
-      "totalScore": 0.7293,
-      "sources": [
-        {
-          "channel": "baidu",
-          "rank": 6,
-          "hot": 0,
-          "url": "https://m.baidu.com/s?word=%E5%85%AC%E4%BA%A4%E8%BD%A6%E9%97%AF%E7%BA%A2%E7%81%AF%E8%87%B46%E6%AD%BB16%E4%BC%A4+%E8%B0%83%E6%9F%A5%E6%8A%A5%E5%91%8A%E5%8F%91%E5%B8%83&sa=fyb_news"
-        }
-      ],
-      "summary": "",
-      "url": "https://m.baidu.com/s?word=%E5%85%AC%E4%BA%A4%E8%BD%A6%E9%97%AF%E7%BA%A2%E7%81%AF%E8%87%B46%E6%AD%BB16%E4%BC%A4+%E8%B0%83%E6%9F%A5%E6%8A%A5%E5%91%8A%E5%8F%91%E5%B8%83&sa=fyb_news"
-    },
-    {
-      "id": "evt-9bba0000",
-      "title": "如何看待 9 月 BBA 旗下无一车型零售破万？这是否意味着消费者不再单纯认豪华车标？",
-      "category": "society",
-      "hotScore": 0.6,
-      "freshness": 1,
+      "freshness": 0.9999,
       "crossSource": 0.6309,
       "totalScore": 0.7293,
       "sources": [
@@ -127,17 +108,17 @@
       "url": ""
     },
     {
-      "id": "evt-20262000",
-      "title": "2026《全球前 2％ 顶尖科学家榜单》出炉，你或者你熟识的人入选了么？",
+      "id": "evt-67000000",
+      "title": "新能源车渗透率攀升至 67% 创历史新高，燃油车为何加速萎缩？",
       "category": "society",
-      "hotScore": 0.4875,
-      "freshness": 1,
+      "hotScore": 0.5625,
+      "freshness": 0.9999,
       "crossSource": 0.6309,
-      "totalScore": 0.6843,
+      "totalScore": 0.7143,
       "sources": [
         {
           "channel": "zhihu",
-          "rank": 8,
+          "rank": 6,
           "hot": 0,
           "url": ""
         }
@@ -146,36 +127,36 @@
       "url": ""
     },
     {
-      "id": "evt-deepseek",
-      "title": "DeepSeek一张卡每小时收入38美元",
+      "id": "evt-70000000",
+      "title": "血糖高身体会抛出7个信号",
       "category": "society",
-      "hotScore": 0.44,
-      "freshness": 1,
+      "hotScore": 0.51,
+      "freshness": 0.9999,
       "crossSource": 0.6309,
-      "totalScore": 0.6653,
+      "totalScore": 0.6933,
       "sources": [
         {
-          "channel": "baidu",
-          "rank": 10,
-          "hot": 0,
-          "url": "https://m.baidu.com/s?word=DeepSeek%E4%B8%80%E5%BC%A0%E5%8D%A1%E6%AF%8F%E5%B0%8F%E6%97%B6%E6%94%B6%E5%85%A538%E7%BE%8E%E5%85%83&sa=fyb_news"
+          "channel": "toutiao",
+          "rank": 9,
+          "hot": 10735707,
+          "url": "https://www.toutiao.com/trending/7698577857047642121/"
         }
       ],
       "summary": "",
-      "url": "https://m.baidu.com/s?word=DeepSeek%E4%B8%80%E5%BC%A0%E5%8D%A1%E6%AF%8F%E5%B0%8F%E6%97%B6%E6%94%B6%E5%85%A538%E7%BE%8E%E5%85%83&sa=fyb_news"
+      "url": "https://www.toutiao.com/trending/7698577857047642121/"
     },
     {
       "id": "evt-10000000",
-      "title": "独生女车祸去世 10 年后赔偿用完了，父母再次起诉获批 5 年生活费，如何从法律角度解读？",
+      "title": "独生女车祸去世 10 年后赔偿所剩不多，父母再次起诉获批 5 年生活费，如何从法律角度解读？",
       "category": "society",
-      "hotScore": 0.4125,
-      "freshness": 1,
+      "hotScore": 0.45,
+      "freshness": 0.9999,
       "crossSource": 0.6309,
-      "totalScore": 0.6543,
+      "totalScore": 0.6693,
       "sources": [
         {
           "channel": "zhihu",
-          "rank": 10,
+          "rank": 9,
           "hot": 0,
           "url": ""
         }
