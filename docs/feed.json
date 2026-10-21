@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-10-21T08:58:16.867Z",
+  "generatedAt": "2026-10-21T14:45:06.436Z",
   "fields": {
     "society": "社会",
     "economy": "经济",
@@ -8,7 +8,7 @@
   "feed": [
     {
       "id": "evt-00000000",
-      "title": "宝马员工争着离职",
+      "title": "警方回应“留学生在国外身披旭日旗”",
       "category": "society",
       "hotScore": 0.85,
       "freshness": 0.9999,
@@ -18,50 +18,44 @@
         {
           "channel": "toutiao",
           "rank": 1,
-          "hot": 12802248,
-          "url": "https://www.toutiao.com/trending/7698685411492675622/"
-        },
-        {
-          "channel": "baidu",
-          "rank": 13,
-          "hot": 0,
-          "url": "https://m.baidu.com/s?word=%E5%AE%9D%E9%A9%AC%E5%91%98%E5%B7%A5%E4%BA%89%E7%9D%80%E7%A6%BB%E8%81%8C&sa=fyb_news"
+          "hot": 7146990,
+          "url": "https://www.toutiao.com/trending/7699114472975109670/"
         }
       ],
       "summary": "",
-      "url": "https://www.toutiao.com/trending/7698685411492675622/"
+      "url": "https://www.toutiao.com/trending/7699114472975109670/"
     },
     {
-      "id": "evt-m9000000",
-      "title": "一问界 M9 撞击后爆燃，品牌初步核实为汽车超速撞击交通灯起火，否认电池爆燃、智驾撞击，哪些信息值得关注？",
+      "id": "evt-75000000",
+      "title": "泽连斯基：愿保留75%领土以达和平",
       "category": "society",
-      "hotScore": 0.75,
-      "freshness": 1,
-      "crossSource": 0.6309,
-      "totalScore": 0.7893,
+      "hotScore": 0.8075,
+      "freshness": 0.9999,
+      "crossSource": 1,
+      "totalScore": 0.923,
       "sources": [
         {
-          "channel": "zhihu",
-          "rank": 1,
-          "hot": 0,
-          "url": ""
+          "channel": "toutiao",
+          "rank": 2,
+          "hot": 6466864,
+          "url": "https://www.toutiao.com/trending/7699090821399711295/"
         }
       ],
       "summary": "",
-      "url": ""
+      "url": "https://www.toutiao.com/trending/7699090821399711295/"
     },
     {
       "id": "evt-10220000",
       "title": "星巴克中国：10月22日起将在全国开始施行消费入座，会遵循友好、友善的沟通原则",
       "category": "society",
-      "hotScore": 0.68,
+      "hotScore": 0.8075,
       "freshness": 1,
-      "crossSource": 0.6309,
-      "totalScore": 0.7613,
+      "crossSource": 1,
+      "totalScore": 0.923,
       "sources": [
         {
           "channel": "thepaper",
-          "rank": 5,
+          "rank": 2,
           "hot": 0,
           "url": "https://www.thepaper.cn/newsDetail_forward_34297764"
         }
@@ -70,74 +64,36 @@
       "url": "https://www.thepaper.cn/newsDetail_forward_34297764"
     },
     {
-      "id": "evt-89000000",
-      "title": "国内黄金克价跌破890元",
+      "id": "evt-20000000",
+      "title": "于东来：已拿出2000万投资爱情研究",
       "category": "society",
       "hotScore": 0.6375,
       "freshness": 0.9999,
-      "crossSource": 0.6309,
-      "totalScore": 0.7443,
+      "crossSource": 1,
+      "totalScore": 0.855,
       "sources": [
         {
           "channel": "toutiao",
           "rank": 6,
-          "hot": 7764956,
-          "url": "https://www.toutiao.com/trending/7698558313675358251/"
+          "hot": 4334868,
+          "url": "https://www.toutiao.com/trending/7699040297031991315/"
         }
       ],
       "summary": "",
-      "url": "https://www.toutiao.com/trending/7698558313675358251/"
-    },
-    {
-      "id": "evt-30000000",
-      "title": "安徽提前偿还3亿政府债券",
-      "category": "economy",
-      "hotScore": 0.68,
-      "freshness": 0.9999,
-      "crossSource": 0.6309,
-      "totalScore": 0.7613,
-      "sources": [
-        {
-          "channel": "toutiao",
-          "rank": 5,
-          "hot": 8581603,
-          "url": "https://www.toutiao.com/trending/7698949858920579115/"
-        }
-      ],
-      "summary": "",
-      "url": "https://www.toutiao.com/trending/7698949858920579115/"
-    },
-    {
-      "id": "evt-90000000",
-      "title": "唐禹哲等9名艺人被判刑",
-      "category": "entertainment",
-      "hotScore": 0.6,
-      "freshness": 1,
-      "crossSource": 0.6309,
-      "totalScore": 0.7293,
-      "sources": [
-        {
-          "channel": "baidu",
-          "rank": 6,
-          "hot": 0,
-          "url": "https://m.baidu.com/s?word=%E5%94%90%E7%A6%B9%E5%93%B2%E7%AD%899%E5%90%8D%E8%89%BA%E4%BA%BA%E8%A2%AB%E5%88%A4%E5%88%91&sa=fyb_news"
-        }
-      ],
-      "summary": "",
-      "url": "https://m.baidu.com/s?word=%E5%94%90%E7%A6%B9%E5%93%B2%E7%AD%899%E5%90%8D%E8%89%BA%E4%BA%BA%E8%A2%AB%E5%88%A4%E5%88%91&sa=fyb_news"
+      "url": "https://www.toutiao.com/trending/7699040297031991315/"
     },
     {
       "id": "evt-11400000",
       "title": "网友高铁偶遇自称 114 岁老人，能熟练使用智能手机，年龄真实性如何？横跨民国到 AI 时代的人生会是怎样的？",
       "category": "society",
-      "hotScore": 0.4875,
-      "freshness": 1,
-      "crossSource": 0.6309,
-      "totalScore": 0.6843,
+      "hotScore": 0.6375,
+      "freshness": 0.9999,
+      "crossSource": 1,
+      "totalScore": 0.855,
       "sources": [
         {
           "channel": "zhihu",
-          "rank": 8,
+          "rank": 4,
           "hot": 0,
           "url": ""
         }
@@ -146,42 +102,61 @@
       "url": ""
     },
     {
-      "id": "evt-iphoneduo",
-      "title": "iPhone Duo开箱",
+      "id": "evt-12306z114",
+      "title": "12306回应Z114次列车开售即售罄",
       "category": "society",
-      "hotScore": 0.48,
-      "freshness": 1,
-      "crossSource": 0.6309,
-      "totalScore": 0.6813,
-      "sources": [
-        {
-          "channel": "baidu",
-          "rank": 9,
-          "hot": 0,
-          "url": "https://m.baidu.com/s?word=iPhone+Duo%E5%BC%80%E7%AE%B1&sa=fyb_news"
-        }
-      ],
-      "summary": "",
-      "url": "https://m.baidu.com/s?word=iPhone+Duo%E5%BC%80%E7%AE%B1&sa=fyb_news"
-    },
-    {
-      "id": "evt-hpv00000",
-      "title": "高铁座椅是HPV感染来源？专家辟谣",
-      "category": "society",
-      "hotScore": 0.425,
+      "hotScore": 0.51,
       "freshness": 0.9999,
-      "crossSource": 0.6309,
-      "totalScore": 0.6593,
+      "crossSource": 1,
+      "totalScore": 0.804,
       "sources": [
         {
           "channel": "toutiao",
-          "rank": 11,
-          "hot": 4709683,
-          "url": "https://www.toutiao.com/trending/7698934109967666715/"
+          "rank": 9,
+          "hot": 3211349,
+          "url": "https://www.toutiao.com/trending/7698315451750891563/"
         }
       ],
       "summary": "",
-      "url": "https://www.toutiao.com/trending/7698934109967666715/"
+      "url": "https://www.toutiao.com/trending/7698315451750891563/"
+    },
+    {
+      "id": "evt-30000000",
+      "title": "上海3元爱心餐背后：一个00后妈妈和聚起来的一群人",
+      "category": "society",
+      "hotScore": 0.51,
+      "freshness": 1,
+      "crossSource": 1,
+      "totalScore": 0.804,
+      "sources": [
+        {
+          "channel": "thepaper",
+          "rank": 9,
+          "hot": 0,
+          "url": "https://www.thepaper.cn/newsDetail_forward_34283042"
+        }
+      ],
+      "summary": "",
+      "url": "https://www.thepaper.cn/newsDetail_forward_34283042"
+    },
+    {
+      "id": "evt-ag000000",
+      "title": "AG年总止步突围赛",
+      "category": "society",
+      "hotScore": 0.44,
+      "freshness": 1,
+      "crossSource": 1,
+      "totalScore": 0.776,
+      "sources": [
+        {
+          "channel": "baidu",
+          "rank": 10,
+          "hot": 0,
+          "url": "https://m.baidu.com/s?word=AG%E5%B9%B4%E6%80%BB%E6%AD%A2%E6%AD%A5%E7%AA%81%E5%9B%B4%E8%B5%9B&sa=fyb_news"
+        }
+      ],
+      "summary": "",
+      "url": "https://m.baidu.com/s?word=AG%E5%B9%B4%E6%80%BB%E6%AD%A2%E6%AD%A5%E7%AA%81%E5%9B%B4%E8%B5%9B&sa=fyb_news"
     }
   ]
 }
