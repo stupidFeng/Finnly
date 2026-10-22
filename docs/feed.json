@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-10-22T14:45:02.235Z",
+  "generatedAt": "2026-10-22T19:36:53.319Z",
   "fields": {
     "society": "社会",
     "economy": "经济",
@@ -8,47 +8,47 @@
   "feed": [
     {
       "id": "evt-00000000",
-      "title": "大火逼近中国 日本道歉岂能只道一半",
+      "title": "北京市副市长夏林茂被查",
       "category": "society",
-      "hotScore": 0.8075,
-      "freshness": 1,
+      "hotScore": 0.765,
+      "freshness": 0.9999,
       "crossSource": 1,
-      "totalScore": 0.923,
+      "totalScore": 0.906,
       "sources": [
         {
           "channel": "toutiao",
-          "rank": 2,
-          "hot": 11775592,
-          "url": "https://www.toutiao.com/trending/7698626535502364698/"
+          "rank": 14,
+          "hot": 4004046,
+          "url": "https://www.toutiao.com/trending/7699402537438363689/"
         },
         {
-          "channel": "baidu",
-          "rank": 7,
+          "channel": "thepaper",
+          "rank": 3,
           "hot": 0,
-          "url": "https://m.baidu.com/s?word=%E5%A4%A7%E7%81%AB%E9%80%BC%E8%BF%91%E4%B8%AD%E5%9B%BD+%E6%97%A5%E6%9C%AC%E9%81%93%E6%AD%89%E5%B2%82%E8%83%BD%E5%8F%AA%E9%81%93%E4%B8%80%E5%8D%8A&sa=fyb_news"
+          "url": "https://www.thepaper.cn/newsDetail_forward_34308652"
         }
       ],
       "summary": "",
-      "url": "https://www.toutiao.com/trending/7698626535502364698/"
+      "url": "https://www.toutiao.com/trending/7699402537438363689/"
     },
     {
       "id": "evt-10010000",
       "title": "女子100天零违章获奖1吨汽油",
       "category": "society",
       "hotScore": 0.7225,
-      "freshness": 1,
+      "freshness": 0.9999,
       "crossSource": 1,
       "totalScore": 0.889,
       "sources": [
         {
           "channel": "toutiao",
           "rank": 4,
-          "hot": 9641040,
+          "hot": 10884125,
           "url": "https://www.toutiao.com/trending/7699338619609399334/"
         },
         {
           "channel": "baidu",
-          "rank": 3,
+          "rank": 11,
           "hot": 0,
           "url": "https://m.baidu.com/s?word=%E5%A5%B3%E5%AD%90100%E5%A4%A9%E9%9B%B6%E8%BF%9D%E7%AB%A0%E8%8E%B7%E5%A5%961%E5%90%A8%E6%B1%BD%E6%B2%B9&sa=fyb_news"
         }
@@ -57,11 +57,55 @@
       "url": "https://www.toutiao.com/trending/7699338619609399334/"
     },
     {
+      "id": "evt-01100000",
+      "title": "张本智和被打0-11惨败",
+      "category": "society",
+      "hotScore": 0.595,
+      "freshness": 0.9999,
+      "crossSource": 1,
+      "totalScore": 0.838,
+      "sources": [
+        {
+          "channel": "toutiao",
+          "rank": 7,
+          "hot": 8063158,
+          "url": "https://www.toutiao.com/trending/7699013794890055731/"
+        },
+        {
+          "channel": "baidu",
+          "rank": 9,
+          "hot": 0,
+          "url": "https://m.baidu.com/s?word=%E5%BC%A0%E6%9C%AC%E6%99%BA%E5%92%8C%E8%A2%AB%E6%89%930-11%E6%83%A8%E8%B4%A5&sa=fyb_news"
+        }
+      ],
+      "summary": "",
+      "url": "https://www.toutiao.com/trending/7699013794890055731/"
+    },
+    {
+      "id": "evt-70000000",
+      "title": "西藏那曲巴青县发生7.0级地震",
+      "category": "society",
+      "hotScore": 0.85,
+      "freshness": 0.9999,
+      "crossSource": 0.6309,
+      "totalScore": 0.8293,
+      "sources": [
+        {
+          "channel": "toutiao",
+          "rank": 1,
+          "hot": 14692033,
+          "url": "https://www.toutiao.com/trending/7699503642620988966/"
+        }
+      ],
+      "summary": "",
+      "url": "https://www.toutiao.com/trending/7699503642620988966/"
+    },
+    {
       "id": "evt-90000000",
       "title": "澎湃读报丨纪念长征胜利90周年，各大报集中刊发社论、特别报道",
       "category": "society",
       "hotScore": 0.8075,
-      "freshness": 1,
+      "freshness": 0.9999,
       "crossSource": 0.6309,
       "totalScore": 0.8123,
       "sources": [
@@ -76,74 +120,17 @@
       "url": "https://www.thepaper.cn/newsDetail_forward_34305436"
     },
     {
-      "id": "evt-70000000",
-      "title": "全球70%网站都危险了",
-      "category": "society",
-      "hotScore": 0.76,
-      "freshness": 1,
-      "crossSource": 0.6309,
-      "totalScore": 0.7933,
-      "sources": [
-        {
-          "channel": "baidu",
-          "rank": 2,
-          "hot": 0,
-          "url": "https://m.baidu.com/s?word=%E5%85%A8%E7%90%8370%25%E7%BD%91%E7%AB%99%E9%83%BD%E5%8D%B1%E9%99%A9%E4%BA%86&sa=fyb_news"
-        }
-      ],
-      "summary": "",
-      "url": "https://m.baidu.com/s?word=%E5%85%A8%E7%90%8370%25%E7%BD%91%E7%AB%99%E9%83%BD%E5%8D%B1%E9%99%A9%E4%BA%86&sa=fyb_news"
-    },
-    {
-      "id": "evt-40000000",
-      "title": "时速400公里的高铁真要来了吗",
-      "category": "society",
-      "hotScore": 0.68,
-      "freshness": 1,
-      "crossSource": 0.6309,
-      "totalScore": 0.7613,
-      "sources": [
-        {
-          "channel": "toutiao",
-          "rank": 5,
-          "hot": 8723573,
-          "url": "https://www.toutiao.com/trending/7699455738569051667/"
-        }
-      ],
-      "summary": "",
-      "url": "https://www.toutiao.com/trending/7699455738569051667/"
-    },
-    {
-      "id": "evt-12000000",
-      "title": "资金连续12日“扫货”股票型ETF，创业板、沪深300昨日领衔吸金",
-      "category": "society",
-      "hotScore": 0.68,
-      "freshness": 1,
-      "crossSource": 0.6309,
-      "totalScore": 0.7613,
-      "sources": [
-        {
-          "channel": "thepaper",
-          "rank": 5,
-          "hot": 0,
-          "url": "https://www.thepaper.cn/newsDetail_forward_34306536"
-        }
-      ],
-      "summary": "",
-      "url": "https://www.thepaper.cn/newsDetail_forward_34306536"
-    },
-    {
       "id": "evt-semianal",
       "title": "如何评价 SemiAnalysis 认为 DeepSeek 与华为已形成共生关系？",
       "category": "society",
-      "hotScore": 0.675,
-      "freshness": 1,
+      "hotScore": 0.7125,
+      "freshness": 0.9999,
       "crossSource": 0.6309,
-      "totalScore": 0.7593,
+      "totalScore": 0.7743,
       "sources": [
         {
           "channel": "zhihu",
-          "rank": 3,
+          "rank": 2,
           "hot": 0,
           "url": ""
         }
@@ -152,8 +139,27 @@
       "url": ""
     },
     {
-      "id": "evt-23000000",
-      "title": "国乒女团2比3日本 获亚锦赛亚军",
+      "id": "evt-40000000",
+      "title": "时速400公里的高铁真要来了吗",
+      "category": "society",
+      "hotScore": 0.68,
+      "freshness": 0.9999,
+      "crossSource": 0.6309,
+      "totalScore": 0.7613,
+      "sources": [
+        {
+          "channel": "toutiao",
+          "rank": 5,
+          "hot": 9848364,
+          "url": "https://www.toutiao.com/trending/7699455738569051667/"
+        }
+      ],
+      "summary": "",
+      "url": "https://www.toutiao.com/trending/7699455738569051667/"
+    },
+    {
+      "id": "evt-30000000",
+      "title": "国乒男团3比0韩国 亚锦赛4连冠",
       "category": "society",
       "hotScore": 0.64,
       "freshness": 1,
@@ -164,24 +170,62 @@
           "channel": "baidu",
           "rank": 5,
           "hot": 0,
-          "url": "https://m.baidu.com/s?word=%E5%9B%BD%E4%B9%92%E5%A5%B3%E5%9B%A22%E6%AF%943%E6%97%A5%E6%9C%AC+%E8%8E%B7%E4%BA%9A%E9%94%A6%E8%B5%9B%E4%BA%9A%E5%86%9B&sa=fyb_news"
+          "url": "https://m.baidu.com/s?word=%E5%9B%BD%E4%B9%92%E7%94%B7%E5%9B%A23%E6%AF%940%E9%9F%A9%E5%9B%BD+%E4%BA%9A%E9%94%A6%E8%B5%9B4%E8%BF%9E%E5%86%A0&sa=fyb_news"
         }
       ],
       "summary": "",
-      "url": "https://m.baidu.com/s?word=%E5%9B%BD%E4%B9%92%E5%A5%B3%E5%9B%A22%E6%AF%943%E6%97%A5%E6%9C%AC+%E8%8E%B7%E4%BA%9A%E9%94%A6%E8%B5%9B%E4%BA%9A%E5%86%9B&sa=fyb_news"
+      "url": "https://m.baidu.com/s?word=%E5%9B%BD%E4%B9%92%E7%94%B7%E5%9B%A23%E6%AF%940%E9%9F%A9%E5%9B%BD+%E4%BA%9A%E9%94%A6%E8%B5%9B4%E8%BF%9E%E5%86%A0&sa=fyb_news"
     },
     {
-      "id": "evt-20000000",
-      "title": "中国体操队时隔20年再夺世锦赛女团金牌",
+      "id": "evt-12000000",
+      "title": "资金连续12日“扫货”股票型ETF，创业板、沪深300昨日领衔吸金",
       "category": "society",
       "hotScore": 0.6375,
-      "freshness": 1,
+      "freshness": 0.9999,
       "crossSource": 0.6309,
       "totalScore": 0.7443,
       "sources": [
         {
           "channel": "thepaper",
           "rank": 6,
+          "hot": 0,
+          "url": "https://www.thepaper.cn/newsDetail_forward_34306536"
+        }
+      ],
+      "summary": "",
+      "url": "https://www.thepaper.cn/newsDetail_forward_34306536"
+    },
+    {
+      "id": "evt-ai000000",
+      "title": "中国拟出台的「AI 出口禁令」会影响使用 AI 产品和中企海外业务吗？将对中美 AI 竞争有何影响？",
+      "category": "society",
+      "hotScore": 0.6,
+      "freshness": 0.9999,
+      "crossSource": 0.6309,
+      "totalScore": 0.7293,
+      "sources": [
+        {
+          "channel": "zhihu",
+          "rank": 5,
+          "hot": 0,
+          "url": ""
+        }
+      ],
+      "summary": "",
+      "url": ""
+    },
+    {
+      "id": "evt-20000000",
+      "title": "中国体操队时隔20年再夺世锦赛女团金牌",
+      "category": "society",
+      "hotScore": 0.595,
+      "freshness": 0.9999,
+      "crossSource": 0.6309,
+      "totalScore": 0.7273,
+      "sources": [
+        {
+          "channel": "thepaper",
+          "rank": 7,
           "hot": 0,
           "url": "https://www.thepaper.cn/newsDetail_forward_34305177"
         }
@@ -190,30 +234,11 @@
       "url": "https://www.thepaper.cn/newsDetail_forward_34305177"
     },
     {
-      "id": "evt-01100000",
-      "title": "张本智和被打出0-11惨败",
-      "category": "society",
-      "hotScore": 0.595,
-      "freshness": 1,
-      "crossSource": 0.6309,
-      "totalScore": 0.7273,
-      "sources": [
-        {
-          "channel": "toutiao",
-          "rank": 7,
-          "hot": 7142258,
-          "url": "https://www.toutiao.com/trending/7699013794890055731/"
-        }
-      ],
-      "summary": "",
-      "url": "https://www.toutiao.com/trending/7699013794890055731/"
-    },
-    {
-      "id": "evt-ai000000",
-      "title": "中国拟出台的「AI 出口禁令」会影响使用 AI 产品和中企海外业务吗？将对中美 AI 竞争有何影响？",
+      "id": "evt-iphoneduo",
+      "title": "iPhone Duo 测评出炉，折叠 3000 次后，折痕明显加深，高负载下发热明显，还有哪些问题值得关注？",
       "category": "society",
       "hotScore": 0.5625,
-      "freshness": 1,
+      "freshness": 0.9999,
       "crossSource": 0.6309,
       "totalScore": 0.7143,
       "sources": [
@@ -228,74 +253,17 @@
       "url": ""
     },
     {
-      "id": "evt-67000000",
-      "title": "西藏那曲市发生6.7级左右地震",
-      "category": "society",
-      "hotScore": 0.52,
-      "freshness": 1,
-      "crossSource": 0.6309,
-      "totalScore": 0.6973,
-      "sources": [
-        {
-          "channel": "baidu",
-          "rank": 8,
-          "hot": 0,
-          "url": "https://m.baidu.com/s?word=%E8%A5%BF%E8%97%8F%E9%82%A3%E6%9B%B2%E5%B8%82%E5%8F%91%E7%94%9F6.7%E7%BA%A7%E5%B7%A6%E5%8F%B3%E5%9C%B0%E9%9C%87&sa=fyb_news"
-        }
-      ],
-      "summary": "",
-      "url": "https://m.baidu.com/s?word=%E8%A5%BF%E8%97%8F%E9%82%A3%E6%9B%B2%E5%B8%82%E5%8F%91%E7%94%9F6.7%E7%BA%A7%E5%B7%A6%E5%8F%B3%E5%9C%B0%E9%9C%87&sa=fyb_news"
-    },
-    {
-      "id": "evt-iphoneduo",
-      "title": "iPhone Duo 测评出炉，折叠 3000 次后，折痕明显加深，高负载下发热明显，还有哪些问题值得关注？",
-      "category": "society",
-      "hotScore": 0.4875,
-      "freshness": 1,
-      "crossSource": 0.6309,
-      "totalScore": 0.6843,
-      "sources": [
-        {
-          "channel": "zhihu",
-          "rank": 8,
-          "hot": 0,
-          "url": ""
-        }
-      ],
-      "summary": "",
-      "url": ""
-    },
-    {
-      "id": "evt-20300000",
-      "title": "陈熠连续2场0-3惨败",
-      "category": "society",
-      "hotScore": 0.44,
-      "freshness": 1,
-      "crossSource": 0.6309,
-      "totalScore": 0.6653,
-      "sources": [
-        {
-          "channel": "baidu",
-          "rank": 10,
-          "hot": 0,
-          "url": "https://m.baidu.com/s?word=%E9%99%88%E7%86%A0%E8%BF%9E%E7%BB%AD2%E5%9C%BA0-3%E6%83%A8%E8%B4%A5&sa=fyb_news"
-        }
-      ],
-      "summary": "",
-      "url": "https://m.baidu.com/s?word=%E9%99%88%E7%86%A0%E8%BF%9E%E7%BB%AD2%E5%9C%BA0-3%E6%83%A8%E8%B4%A5&sa=fyb_news"
-    },
-    {
       "id": "evt-hle00000",
       "title": "如何看待 HLE 以「未带多余队服婉拒 TES 交换队服请求」转头 iG 与 Guma 交换成功？",
       "category": "society",
-      "hotScore": 0.4125,
-      "freshness": 1,
+      "hotScore": 0.45,
+      "freshness": 0.9999,
       "crossSource": 0.6309,
-      "totalScore": 0.6543,
+      "totalScore": 0.6693,
       "sources": [
         {
           "channel": "zhihu",
-          "rank": 10,
+          "rank": 9,
           "hot": 0,
           "url": ""
         }
