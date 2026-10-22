@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-10-21T22:53:08.525Z",
+  "generatedAt": "2026-10-22T02:24:38.701Z",
   "fields": {
     "society": "社会",
     "economy": "经济",
@@ -8,41 +8,60 @@
   "feed": [
     {
       "id": "evt-00000000",
-      "title": "传国玉玺究竟去哪了",
+      "title": "中国限制盾构机出口对印度影响有多大",
       "category": "society",
       "hotScore": 0.85,
-      "freshness": 0.9999,
-      "crossSource": 1,
-      "totalScore": 0.94,
+      "freshness": 1,
+      "crossSource": 0.6309,
+      "totalScore": 0.8293,
       "sources": [
         {
           "channel": "toutiao",
           "rank": 1,
-          "hot": 9793749,
-          "url": "https://www.toutiao.com/trending/7699050649929777206/"
+          "hot": 9461979,
+          "url": "https://www.toutiao.com/trending/7699137678452723254/"
         }
       ],
       "summary": "",
-      "url": "https://www.toutiao.com/trending/7699050649929777206/"
+      "url": "https://www.toutiao.com/trending/7699137678452723254/"
     },
     {
-      "id": "evt-75000000",
-      "title": "泽连斯基：愿保留75%领土以达和平",
+      "id": "evt-72000000",
+      "title": "72岁董明珠称被学生喊奶奶很不开心",
       "category": "society",
       "hotScore": 0.8075,
-      "freshness": 0.9999,
-      "crossSource": 1,
-      "totalScore": 0.923,
+      "freshness": 1,
+      "crossSource": 0.6309,
+      "totalScore": 0.8123,
       "sources": [
         {
           "channel": "toutiao",
           "rank": 2,
-          "hot": 8861751,
-          "url": "https://www.toutiao.com/trending/7699090821399711295/"
+          "hot": 8561553,
+          "url": "https://www.toutiao.com/trending/7698305997529628713/"
         }
       ],
       "summary": "",
-      "url": "https://www.toutiao.com/trending/7699090821399711295/"
+      "url": "https://www.toutiao.com/trending/7698305997529628713/"
+    },
+    {
+      "id": "evt-90000000",
+      "title": "90年了！铭记伟大长征的胜利",
+      "category": "society",
+      "hotScore": 0.8,
+      "freshness": 1,
+      "crossSource": 0.6309,
+      "totalScore": 0.8093,
+      "sources": [
+        {
+          "channel": "baidu",
+          "rank": 1,
+          "hot": 0,
+          "url": "https://m.baidu.com/s?word=90%E5%B9%B4%E4%BA%86%EF%BC%81%E9%93%AD%E8%AE%B0%E4%BC%9F%E5%A4%A7%E9%95%BF%E5%BE%81%E7%9A%84%E8%83%9C%E5%88%A9&sa=fyb_news"
+        }
+      ],
+      "summary": "",
+      "url": "https://m.baidu.com/s?word=90%E5%B9%B4%E4%BA%86%EF%BC%81%E9%93%AD%E8%AE%B0%E4%BC%9F%E5%A4%A7%E9%95%BF%E5%BE%81%E7%9A%84%E8%83%9C%E5%88%A9&sa=fyb_news"
     },
     {
       "id": "evt-10220000",
@@ -50,8 +69,8 @@
       "category": "society",
       "hotScore": 0.765,
       "freshness": 1,
-      "crossSource": 1,
-      "totalScore": 0.906,
+      "crossSource": 0.6309,
+      "totalScore": 0.7953,
       "sources": [
         {
           "channel": "thepaper",
@@ -64,74 +83,74 @@
       "url": "https://www.thepaper.cn/newsDetail_forward_34297764"
     },
     {
-      "id": "evt-php00000",
-      "title": "PHP出现严重漏洞 多国紧急下线",
+      "id": "evt-51000000",
+      "title": "地铁站内看书5小时被扣15元",
       "category": "society",
-      "hotScore": 0.64,
+      "hotScore": 0.76,
       "freshness": 1,
-      "crossSource": 1,
-      "totalScore": 0.856,
+      "crossSource": 0.6309,
+      "totalScore": 0.7933,
       "sources": [
         {
           "channel": "baidu",
-          "rank": 5,
+          "rank": 2,
           "hot": 0,
-          "url": "https://m.baidu.com/s?word=PHP%E5%87%BA%E7%8E%B0%E4%B8%A5%E9%87%8D%E6%BC%8F%E6%B4%9E+%E5%A4%9A%E5%9B%BD%E7%B4%A7%E6%80%A5%E4%B8%8B%E7%BA%BF&sa=fyb_news"
+          "url": "https://m.baidu.com/s?word=%E5%9C%B0%E9%93%81%E7%AB%99%E5%86%85%E7%9C%8B%E4%B9%A65%E5%B0%8F%E6%97%B6%E8%A2%AB%E6%89%A315%E5%85%83&sa=fyb_news"
         }
       ],
       "summary": "",
-      "url": "https://m.baidu.com/s?word=PHP%E5%87%BA%E7%8E%B0%E4%B8%A5%E9%87%8D%E6%BC%8F%E6%B4%9E+%E5%A4%9A%E5%9B%BD%E7%B4%A7%E6%80%A5%E4%B8%8B%E7%BA%BF&sa=fyb_news"
+      "url": "https://m.baidu.com/s?word=%E5%9C%B0%E9%93%81%E7%AB%99%E5%86%85%E7%9C%8B%E4%B9%A65%E5%B0%8F%E6%97%B6%E8%A2%AB%E6%89%A315%E5%85%83&sa=fyb_news"
     },
     {
-      "id": "evt-12306z114",
-      "title": "12306回应Z114次列车开售即售罄",
+      "id": "evt-20000000",
+      "title": "中国这一冠 等了20年",
       "category": "society",
-      "hotScore": 0.595,
-      "freshness": 0.9999,
-      "crossSource": 1,
-      "totalScore": 0.838,
+      "hotScore": 0.72,
+      "freshness": 1,
+      "crossSource": 0.6309,
+      "totalScore": 0.7773,
+      "sources": [
+        {
+          "channel": "baidu",
+          "rank": 3,
+          "hot": 0,
+          "url": "https://m.baidu.com/s?word=%E4%B8%AD%E5%9B%BD%E8%BF%99%E4%B8%80%E5%86%A0+%E7%AD%89%E4%BA%8620%E5%B9%B4&sa=fyb_news"
+        }
+      ],
+      "summary": "",
+      "url": "https://m.baidu.com/s?word=%E4%B8%AD%E5%9B%BD%E8%BF%99%E4%B8%80%E5%86%A0+%E7%AD%89%E4%BA%8620%E5%B9%B4&sa=fyb_news"
+    },
+    {
+      "id": "evt-iphoneduo3",
+      "title": "iPhone Duo折叠3000次后折痕加深",
+      "category": "society",
+      "hotScore": 0.6375,
+      "freshness": 1,
+      "crossSource": 0.6309,
+      "totalScore": 0.7443,
       "sources": [
         {
           "channel": "toutiao",
-          "rank": 7,
-          "hot": 5374923,
-          "url": "https://www.toutiao.com/trending/7698315451750891563/"
+          "rank": 6,
+          "hot": 5738980,
+          "url": "https://www.toutiao.com/trending/7699061219055829034/"
         }
       ],
       "summary": "",
-      "url": "https://www.toutiao.com/trending/7698315451750891563/"
+      "url": "https://www.toutiao.com/trending/7699061219055829034/"
     },
     {
-      "id": "evt-14000000",
-      "title": "14家银行叫停或限制个人异地存款",
+      "id": "evt-bioware0",
+      "title": "如何评价 BioWare 于 10 月 22 日宣布关闭，为何一个诞生过《博德之门》等游戏的公司最终走向如此下场？",
       "category": "society",
-      "hotScore": 0.56,
+      "hotScore": 0.6375,
       "freshness": 1,
-      "crossSource": 1,
-      "totalScore": 0.824,
-      "sources": [
-        {
-          "channel": "baidu",
-          "rank": 7,
-          "hot": 0,
-          "url": "https://m.baidu.com/s?word=14%E5%AE%B6%E9%93%B6%E8%A1%8C%E5%8F%AB%E5%81%9C%E6%88%96%E9%99%90%E5%88%B6%E4%B8%AA%E4%BA%BA%E5%BC%82%E5%9C%B0%E5%AD%98%E6%AC%BE&sa=fyb_news"
-        }
-      ],
-      "summary": "",
-      "url": "https://m.baidu.com/s?word=14%E5%AE%B6%E9%93%B6%E8%A1%8C%E5%8F%AB%E5%81%9C%E6%88%96%E9%99%90%E5%88%B6%E4%B8%AA%E4%BA%BA%E5%BC%82%E5%9C%B0%E5%AD%98%E6%AC%BE&sa=fyb_news"
-    },
-    {
-      "id": "evt-11400000",
-      "title": "网友高铁偶遇自称 114 岁老人，能熟练使用智能手机，年龄真实性如何？横跨民国到 AI 时代的人生会是怎样的？",
-      "category": "society",
-      "hotScore": 0.4875,
-      "freshness": 0.9999,
-      "crossSource": 1,
-      "totalScore": 0.795,
+      "crossSource": 0.6309,
+      "totalScore": 0.7443,
       "sources": [
         {
           "channel": "zhihu",
-          "rank": 8,
+          "rank": 4,
           "hot": 0,
           "url": ""
         }
@@ -140,23 +159,80 @@
       "url": ""
     },
     {
-      "id": "evt-12000000",
-      "title": "幼童坠亡12分钟到底发生了什么",
+      "id": "evt-60000000",
+      "title": "体检查出这6种病基本不用治",
+      "category": "society",
+      "hotScore": 0.6,
+      "freshness": 1,
+      "crossSource": 0.6309,
+      "totalScore": 0.7293,
+      "sources": [
+        {
+          "channel": "baidu",
+          "rank": 6,
+          "hot": 0,
+          "url": "https://m.baidu.com/s?word=%E4%BD%93%E6%A3%80%E6%9F%A5%E5%87%BA%E8%BF%996%E7%A7%8D%E7%97%85%E5%9F%BA%E6%9C%AC%E4%B8%8D%E7%94%A8%E6%B2%BB&sa=fyb_news"
+        }
+      ],
+      "summary": "",
+      "url": "https://m.baidu.com/s?word=%E4%BD%93%E6%A3%80%E6%9F%A5%E5%87%BA%E8%BF%996%E7%A7%8D%E7%97%85%E5%9F%BA%E6%9C%AC%E4%B8%8D%E7%94%A8%E6%B2%BB&sa=fyb_news"
+    },
+    {
+      "id": "evt-offer800",
+      "title": "如何评价《offer8》医学季定档后引发医学生集体吐槽？真实的医学生规培现状与节目呈现差别有多大？",
+      "category": "society",
+      "hotScore": 0.6,
+      "freshness": 1,
+      "crossSource": 0.6309,
+      "totalScore": 0.7293,
+      "sources": [
+        {
+          "channel": "zhihu",
+          "rank": 5,
+          "hot": 0,
+          "url": ""
+        }
+      ],
+      "summary": "",
+      "url": ""
+    },
+    {
+      "id": "evt-80000000",
+      "title": "80岁老人网上卖零食接连遭仅退款",
       "category": "society",
       "hotScore": 0.48,
       "freshness": 1,
-      "crossSource": 1,
-      "totalScore": 0.792,
+      "crossSource": 0.6309,
+      "totalScore": 0.6813,
       "sources": [
         {
           "channel": "baidu",
           "rank": 9,
           "hot": 0,
-          "url": "https://m.baidu.com/s?word=%E5%B9%BC%E7%AB%A5%E5%9D%A0%E4%BA%A112%E5%88%86%E9%92%9F%E5%88%B0%E5%BA%95%E5%8F%91%E7%94%9F%E4%BA%86%E4%BB%80%E4%B9%88&sa=fyb_news"
+          "url": "https://m.baidu.com/s?word=80%E5%B2%81%E8%80%81%E4%BA%BA%E7%BD%91%E4%B8%8A%E5%8D%96%E9%9B%B6%E9%A3%9F%E6%8E%A5%E8%BF%9E%E9%81%AD%E4%BB%85%E9%80%80%E6%AC%BE&sa=fyb_news"
         }
       ],
       "summary": "",
-      "url": "https://m.baidu.com/s?word=%E5%B9%BC%E7%AB%A5%E5%9D%A0%E4%BA%A112%E5%88%86%E9%92%9F%E5%88%B0%E5%BA%95%E5%8F%91%E7%94%9F%E4%BA%86%E4%BB%80%E4%B9%88&sa=fyb_news"
+      "url": "https://m.baidu.com/s?word=80%E5%B2%81%E8%80%81%E4%BA%BA%E7%BD%91%E4%B8%8A%E5%8D%96%E9%9B%B6%E9%A3%9F%E6%8E%A5%E8%BF%9E%E9%81%AD%E4%BB%85%E9%80%80%E6%AC%BE&sa=fyb_news"
+    },
+    {
+      "id": "evt-3aai0000",
+      "title": "多款 3A 老游戏被 AI 光速反编译并移植网页端，将对游戏行业带来哪些冲击？",
+      "category": "society",
+      "hotScore": 0.45,
+      "freshness": 1,
+      "crossSource": 0.6309,
+      "totalScore": 0.6693,
+      "sources": [
+        {
+          "channel": "zhihu",
+          "rank": 9,
+          "hot": 0,
+          "url": ""
+        }
+      ],
+      "summary": "",
+      "url": ""
     }
   ]
 }
