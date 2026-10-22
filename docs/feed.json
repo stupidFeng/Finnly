@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-10-22T09:00:34.650Z",
+  "generatedAt": "2026-10-22T14:45:02.235Z",
   "fields": {
     "society": "社会",
     "economy": "经济",
@@ -7,8 +7,8 @@
   },
   "feed": [
     {
-      "id": "evt-01100000",
-      "title": "张本智和被打0-11惨败",
+      "id": "evt-00000000",
+      "title": "大火逼近中国 日本道歉岂能只道一半",
       "category": "society",
       "hotScore": 0.8075,
       "freshness": 1,
@@ -18,98 +18,66 @@
         {
           "channel": "toutiao",
           "rank": 2,
-          "hot": 8801615,
-          "url": "https://www.toutiao.com/trending/7699013794890055731/"
+          "hot": 11775592,
+          "url": "https://www.toutiao.com/trending/7698626535502364698/"
         },
         {
           "channel": "baidu",
-          "rank": 6,
+          "rank": 7,
           "hot": 0,
-          "url": "https://m.baidu.com/s?word=%E5%BC%A0%E6%9C%AC%E6%99%BA%E5%92%8C%E8%A2%AB%E6%89%930-11%E6%83%A8%E8%B4%A5&sa=fyb_news"
+          "url": "https://m.baidu.com/s?word=%E5%A4%A7%E7%81%AB%E9%80%BC%E8%BF%91%E4%B8%AD%E5%9B%BD+%E6%97%A5%E6%9C%AC%E9%81%93%E6%AD%89%E5%B2%82%E8%83%BD%E5%8F%AA%E9%81%93%E4%B8%80%E5%8D%8A&sa=fyb_news"
         }
       ],
       "summary": "",
-      "url": "https://www.toutiao.com/trending/7699013794890055731/"
+      "url": "https://www.toutiao.com/trending/7698626535502364698/"
     },
     {
-      "id": "evt-40000000",
-      "title": "怎么看解放军4艘大型登陆舰实弹演练",
+      "id": "evt-10010000",
+      "title": "女子100天零违章获奖1吨汽油",
       "category": "society",
-      "hotScore": 0.85,
+      "hotScore": 0.7225,
       "freshness": 1,
-      "crossSource": 0.6309,
-      "totalScore": 0.8293,
+      "crossSource": 1,
+      "totalScore": 0.889,
       "sources": [
         {
           "channel": "toutiao",
-          "rank": 1,
-          "hot": 9727289,
-          "url": "https://www.toutiao.com/trending/7699364772961062442/"
-        }
-      ],
-      "summary": "",
-      "url": "https://www.toutiao.com/trending/7699364772961062442/"
-    },
-    {
-      "id": "evt-00000000",
-      "title": "菲律宾对其非法“坐滩”仁爱礁船只运送生活物资，中国海警发声",
-      "category": "society",
-      "hotScore": 0.85,
-      "freshness": 1,
-      "crossSource": 0.6309,
-      "totalScore": 0.8293,
-      "sources": [
+          "rank": 4,
+          "hot": 9641040,
+          "url": "https://www.toutiao.com/trending/7699338619609399334/"
+        },
         {
-          "channel": "thepaper",
-          "rank": 1,
+          "channel": "baidu",
+          "rank": 3,
           "hot": 0,
-          "url": "https://www.thepaper.cn/newsDetail_forward_34301991"
+          "url": "https://m.baidu.com/s?word=%E5%A5%B3%E5%AD%90100%E5%A4%A9%E9%9B%B6%E8%BF%9D%E7%AB%A0%E8%8E%B7%E5%A5%961%E5%90%A8%E6%B1%BD%E6%B2%B9&sa=fyb_news"
         }
       ],
       "summary": "",
-      "url": "https://www.thepaper.cn/newsDetail_forward_34301991"
+      "url": "https://www.toutiao.com/trending/7699338619609399334/"
     },
     {
       "id": "evt-90000000",
-      "title": "习近平出席纪念长征胜利90周年大会",
+      "title": "澎湃读报丨纪念长征胜利90周年，各大报集中刊发社论、特别报道",
       "category": "society",
-      "hotScore": 0.8,
+      "hotScore": 0.8075,
       "freshness": 1,
       "crossSource": 0.6309,
-      "totalScore": 0.8093,
+      "totalScore": 0.8123,
       "sources": [
         {
-          "channel": "baidu",
-          "rank": 1,
+          "channel": "thepaper",
+          "rank": 2,
           "hot": 0,
-          "url": "https://m.baidu.com/s?word=%E4%B9%A0%E8%BF%91%E5%B9%B3%E5%87%BA%E5%B8%AD%E7%BA%AA%E5%BF%B5%E9%95%BF%E5%BE%81%E8%83%9C%E5%88%A990%E5%91%A8%E5%B9%B4%E5%A4%A7%E4%BC%9A&sa=fyb_news"
+          "url": "https://www.thepaper.cn/newsDetail_forward_34305436"
         }
       ],
       "summary": "",
-      "url": "https://m.baidu.com/s?word=%E4%B9%A0%E8%BF%91%E5%B9%B3%E5%87%BA%E5%B8%AD%E7%BA%AA%E5%BF%B5%E9%95%BF%E5%BE%81%E8%83%9C%E5%88%A990%E5%91%A8%E5%B9%B4%E5%A4%A7%E4%BC%9A&sa=fyb_news"
+      "url": "https://www.thepaper.cn/newsDetail_forward_34305436"
     },
     {
-      "id": "evt-10000000",
-      "title": "演唱会黄牛一个月获利100万",
-      "category": "entertainment",
-      "hotScore": 0.5525,
-      "freshness": 1,
-      "crossSource": 0.6309,
-      "totalScore": 0.7103,
-      "sources": [
-        {
-          "channel": "toutiao",
-          "rank": 8,
-          "hot": 4830428,
-          "url": "https://www.toutiao.com/trending/7699364505523929609/"
-        }
-      ],
-      "summary": "",
-      "url": "https://www.toutiao.com/trending/7699364505523929609/"
-    },
-    {
-      "id": "evt-12000000",
-      "title": "贫困户1.2万住院费医保报销93%",
+      "id": "evt-70000000",
+      "title": "全球70%网站都危险了",
       "category": "society",
       "hotScore": 0.76,
       "freshness": 1,
@@ -120,24 +88,62 @@
           "channel": "baidu",
           "rank": 2,
           "hot": 0,
-          "url": "https://m.baidu.com/s?word=%E8%B4%AB%E5%9B%B0%E6%88%B71.2%E4%B8%87%E4%BD%8F%E9%99%A2%E8%B4%B9%E5%8C%BB%E4%BF%9D%E6%8A%A5%E9%94%8093%25&sa=fyb_news"
+          "url": "https://m.baidu.com/s?word=%E5%85%A8%E7%90%8370%25%E7%BD%91%E7%AB%99%E9%83%BD%E5%8D%B1%E9%99%A9%E4%BA%86&sa=fyb_news"
         }
       ],
       "summary": "",
-      "url": "https://m.baidu.com/s?word=%E8%B4%AB%E5%9B%B0%E6%88%B71.2%E4%B8%87%E4%BD%8F%E9%99%A2%E8%B4%B9%E5%8C%BB%E4%BF%9D%E6%8A%A5%E9%94%8093%25&sa=fyb_news"
+      "url": "https://m.baidu.com/s?word=%E5%85%A8%E7%90%8370%25%E7%BD%91%E7%AB%99%E9%83%BD%E5%8D%B1%E9%99%A9%E4%BA%86&sa=fyb_news"
     },
     {
-      "id": "evt-3aai0000",
-      "title": "多款 3A 老游戏被 AI 光速反编译并移植网页端，将对游戏行业带来哪些冲击？",
+      "id": "evt-40000000",
+      "title": "时速400公里的高铁真要来了吗",
       "category": "society",
-      "hotScore": 0.7125,
+      "hotScore": 0.68,
       "freshness": 1,
       "crossSource": 0.6309,
-      "totalScore": 0.7743,
+      "totalScore": 0.7613,
+      "sources": [
+        {
+          "channel": "toutiao",
+          "rank": 5,
+          "hot": 8723573,
+          "url": "https://www.toutiao.com/trending/7699455738569051667/"
+        }
+      ],
+      "summary": "",
+      "url": "https://www.toutiao.com/trending/7699455738569051667/"
+    },
+    {
+      "id": "evt-12000000",
+      "title": "资金连续12日“扫货”股票型ETF，创业板、沪深300昨日领衔吸金",
+      "category": "society",
+      "hotScore": 0.68,
+      "freshness": 1,
+      "crossSource": 0.6309,
+      "totalScore": 0.7613,
+      "sources": [
+        {
+          "channel": "thepaper",
+          "rank": 5,
+          "hot": 0,
+          "url": "https://www.thepaper.cn/newsDetail_forward_34306536"
+        }
+      ],
+      "summary": "",
+      "url": "https://www.thepaper.cn/newsDetail_forward_34306536"
+    },
+    {
+      "id": "evt-semianal",
+      "title": "如何评价 SemiAnalysis 认为 DeepSeek 与华为已形成共生关系？",
+      "category": "society",
+      "hotScore": 0.675,
+      "freshness": 1,
+      "crossSource": 0.6309,
+      "totalScore": 0.7593,
       "sources": [
         {
           "channel": "zhihu",
-          "rank": 2,
+          "rank": 3,
           "hot": 0,
           "url": ""
         }
@@ -146,8 +152,65 @@
       "url": ""
     },
     {
-      "id": "evt-53000000",
-      "title": "杨瀚森打满第四节得 5 分 3 板，2627 赛季 NBA 常规赛，太阳 83:124 开拓者，如何评价这场比赛？",
+      "id": "evt-23000000",
+      "title": "国乒女团2比3日本 获亚锦赛亚军",
+      "category": "society",
+      "hotScore": 0.64,
+      "freshness": 1,
+      "crossSource": 0.6309,
+      "totalScore": 0.7453,
+      "sources": [
+        {
+          "channel": "baidu",
+          "rank": 5,
+          "hot": 0,
+          "url": "https://m.baidu.com/s?word=%E5%9B%BD%E4%B9%92%E5%A5%B3%E5%9B%A22%E6%AF%943%E6%97%A5%E6%9C%AC+%E8%8E%B7%E4%BA%9A%E9%94%A6%E8%B5%9B%E4%BA%9A%E5%86%9B&sa=fyb_news"
+        }
+      ],
+      "summary": "",
+      "url": "https://m.baidu.com/s?word=%E5%9B%BD%E4%B9%92%E5%A5%B3%E5%9B%A22%E6%AF%943%E6%97%A5%E6%9C%AC+%E8%8E%B7%E4%BA%9A%E9%94%A6%E8%B5%9B%E4%BA%9A%E5%86%9B&sa=fyb_news"
+    },
+    {
+      "id": "evt-20000000",
+      "title": "中国体操队时隔20年再夺世锦赛女团金牌",
+      "category": "society",
+      "hotScore": 0.6375,
+      "freshness": 1,
+      "crossSource": 0.6309,
+      "totalScore": 0.7443,
+      "sources": [
+        {
+          "channel": "thepaper",
+          "rank": 6,
+          "hot": 0,
+          "url": "https://www.thepaper.cn/newsDetail_forward_34305177"
+        }
+      ],
+      "summary": "",
+      "url": "https://www.thepaper.cn/newsDetail_forward_34305177"
+    },
+    {
+      "id": "evt-01100000",
+      "title": "张本智和被打出0-11惨败",
+      "category": "society",
+      "hotScore": 0.595,
+      "freshness": 1,
+      "crossSource": 0.6309,
+      "totalScore": 0.7273,
+      "sources": [
+        {
+          "channel": "toutiao",
+          "rank": 7,
+          "hot": 7142258,
+          "url": "https://www.toutiao.com/trending/7699013794890055731/"
+        }
+      ],
+      "summary": "",
+      "url": "https://www.toutiao.com/trending/7699013794890055731/"
+    },
+    {
+      "id": "evt-ai000000",
+      "title": "中国拟出台的「AI 出口禁令」会影响使用 AI 产品和中企海外业务吗？将对中美 AI 竞争有何影响？",
       "category": "society",
       "hotScore": 0.5625,
       "freshness": 1,
@@ -165,27 +228,46 @@
       "url": ""
     },
     {
-      "id": "evt-20000000",
-      "title": "中国体操队时隔20年再夺世锦赛女团金牌",
+      "id": "evt-67000000",
+      "title": "西藏那曲市发生6.7级左右地震",
       "category": "society",
-      "hotScore": 0.4675,
+      "hotScore": 0.52,
       "freshness": 1,
       "crossSource": 0.6309,
-      "totalScore": 0.6763,
+      "totalScore": 0.6973,
       "sources": [
         {
-          "channel": "thepaper",
-          "rank": 10,
+          "channel": "baidu",
+          "rank": 8,
           "hot": 0,
-          "url": "https://www.thepaper.cn/newsDetail_forward_34305177"
+          "url": "https://m.baidu.com/s?word=%E8%A5%BF%E8%97%8F%E9%82%A3%E6%9B%B2%E5%B8%82%E5%8F%91%E7%94%9F6.7%E7%BA%A7%E5%B7%A6%E5%8F%B3%E5%9C%B0%E9%9C%87&sa=fyb_news"
         }
       ],
       "summary": "",
-      "url": "https://www.thepaper.cn/newsDetail_forward_34305177"
+      "url": "https://m.baidu.com/s?word=%E8%A5%BF%E8%97%8F%E9%82%A3%E6%9B%B2%E5%B8%82%E5%8F%91%E7%94%9F6.7%E7%BA%A7%E5%B7%A6%E5%8F%B3%E5%9C%B0%E9%9C%87&sa=fyb_news"
     },
     {
-      "id": "evt-deepseek",
-      "title": "“DeepSeek才是真正的OpenAI”",
+      "id": "evt-iphoneduo",
+      "title": "iPhone Duo 测评出炉，折叠 3000 次后，折痕明显加深，高负载下发热明显，还有哪些问题值得关注？",
+      "category": "society",
+      "hotScore": 0.4875,
+      "freshness": 1,
+      "crossSource": 0.6309,
+      "totalScore": 0.6843,
+      "sources": [
+        {
+          "channel": "zhihu",
+          "rank": 8,
+          "hot": 0,
+          "url": ""
+        }
+      ],
+      "summary": "",
+      "url": ""
+    },
+    {
+      "id": "evt-20300000",
+      "title": "陈熠连续2场0-3惨败",
       "category": "society",
       "hotScore": 0.44,
       "freshness": 1,
@@ -196,11 +278,30 @@
           "channel": "baidu",
           "rank": 10,
           "hot": 0,
-          "url": "https://m.baidu.com/s?word=%E2%80%9CDeepSeek%E6%89%8D%E6%98%AF%E7%9C%9F%E6%AD%A3%E7%9A%84OpenAI%E2%80%9D&sa=fyb_news"
+          "url": "https://m.baidu.com/s?word=%E9%99%88%E7%86%A0%E8%BF%9E%E7%BB%AD2%E5%9C%BA0-3%E6%83%A8%E8%B4%A5&sa=fyb_news"
         }
       ],
       "summary": "",
-      "url": "https://m.baidu.com/s?word=%E2%80%9CDeepSeek%E6%89%8D%E6%98%AF%E7%9C%9F%E6%AD%A3%E7%9A%84OpenAI%E2%80%9D&sa=fyb_news"
+      "url": "https://m.baidu.com/s?word=%E9%99%88%E7%86%A0%E8%BF%9E%E7%BB%AD2%E5%9C%BA0-3%E6%83%A8%E8%B4%A5&sa=fyb_news"
+    },
+    {
+      "id": "evt-hle00000",
+      "title": "如何看待 HLE 以「未带多余队服婉拒 TES 交换队服请求」转头 iG 与 Guma 交换成功？",
+      "category": "society",
+      "hotScore": 0.4125,
+      "freshness": 1,
+      "crossSource": 0.6309,
+      "totalScore": 0.6543,
+      "sources": [
+        {
+          "channel": "zhihu",
+          "rank": 10,
+          "hot": 0,
+          "url": ""
+        }
+      ],
+      "summary": "",
+      "url": ""
     }
   ]
 }
