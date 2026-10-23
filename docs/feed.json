@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-10-23T08:55:26.198Z",
+  "generatedAt": "2026-10-23T14:31:41.967Z",
   "fields": {
     "society": "社会",
     "economy": "经济",
@@ -7,33 +7,33 @@
   },
   "feed": [
     {
-      "id": "evt-00000000",
-      "title": "中共中央政治局召开会议",
+      "id": "evt-13000000",
+      "title": "许家印被曝曾花13亿港元买艺术品",
       "category": "society",
-      "hotScore": 0.8,
+      "hotScore": 0.8075,
       "freshness": 0.9999,
       "crossSource": 1,
-      "totalScore": 0.92,
+      "totalScore": 0.923,
       "sources": [
         {
           "channel": "toutiao",
-          "rank": 3,
-          "hot": 26141134,
-          "url": "https://www.toutiao.com/trending/7699727592144781350/"
+          "rank": 2,
+          "hot": 37284808,
+          "url": "https://www.toutiao.com/trending/7699755083384881691/"
         },
         {
           "channel": "baidu",
-          "rank": 1,
+          "rank": 3,
           "hot": 0,
-          "url": "https://m.baidu.com/s?word=%E4%B8%AD%E5%85%B1%E4%B8%AD%E5%A4%AE%E6%94%BF%E6%B2%BB%E5%B1%80%E5%8F%AC%E5%BC%80%E4%BC%9A%E8%AE%AE&sa=fyb_news"
+          "url": "https://m.baidu.com/s?word=%E8%AE%B8%E5%AE%B6%E5%8D%B0%E8%A2%AB%E6%9B%9D%E6%9B%BE%E8%8A%B113%E4%BA%BF%E6%B8%AF%E5%85%83%E4%B9%B0%E8%89%BA%E6%9C%AF%E5%93%81&sa=fyb_news"
         }
       ],
       "summary": "",
-      "url": "https://www.toutiao.com/trending/7699727592144781350/"
+      "url": "https://www.toutiao.com/trending/7699755083384881691/"
     },
     {
-      "id": "evt-a0000000",
-      "title": "A股大反攻",
+      "id": "evt-00000000",
+      "title": "西藏强震成因揭晓",
       "category": "society",
       "hotScore": 0.85,
       "freshness": 0.9999,
@@ -43,76 +43,82 @@
         {
           "channel": "toutiao",
           "rank": 1,
-          "hot": 31928854,
-          "url": "https://www.toutiao.com/trending/7699377515542200330/"
+          "hot": 41206085,
+          "url": "https://www.toutiao.com/trending/7699809994400599593/"
         }
       ],
       "summary": "",
-      "url": "https://www.toutiao.com/trending/7699377515542200330/"
-    },
-    {
-      "id": "evt-18000000",
-      "title": "李昌钰夫人泪别：你等我18年 我们合葬",
-      "category": "society",
-      "hotScore": 0.8075,
-      "freshness": 0.9999,
-      "crossSource": 0.6309,
-      "totalScore": 0.8123,
-      "sources": [
-        {
-          "channel": "toutiao",
-          "rank": 2,
-          "hot": 28890421,
-          "url": "https://www.toutiao.com/trending/7699290534531219466/"
-        }
-      ],
-      "summary": "",
-      "url": "https://www.toutiao.com/trending/7699290534531219466/"
+      "url": "https://www.toutiao.com/trending/7699809994400599593/"
     },
     {
       "id": "evt-70000000",
       "title": "西藏那曲巴青7.0级地震已造成16人遇难，46人受伤",
       "category": "society",
-      "hotScore": 0.765,
+      "hotScore": 0.85,
       "freshness": 1,
       "crossSource": 0.6309,
-      "totalScore": 0.7953,
+      "totalScore": 0.8293,
       "sources": [
         {
           "channel": "thepaper",
-          "rank": 3,
+          "rank": 1,
           "hot": 0,
           "url": "https://www.thepaper.cn/newsDetail_forward_34314220"
+        },
+        {
+          "channel": "thepaper",
+          "rank": 17,
+          "hot": 0,
+          "url": "https://www.thepaper.cn/newsDetail_forward_34317430"
         }
       ],
       "summary": "",
       "url": "https://www.thepaper.cn/newsDetail_forward_34314220"
     },
     {
-      "id": "evt-iphonedu",
-      "title": "微信适配iPhone Duo了",
-      "category": "society",
-      "hotScore": 0.68,
-      "freshness": 0.9999,
-      "crossSource": 0.6309,
-      "totalScore": 0.7613,
-      "sources": [
-        {
-          "channel": "toutiao",
-          "rank": 5,
-          "hot": 21402550,
-          "url": "https://www.toutiao.com/trending/7699774189984796170/"
-        }
-      ],
-      "summary": "",
-      "url": "https://www.toutiao.com/trending/7699774189984796170/"
-    },
-    {
       "id": "evt-app10000",
       "title": "原「死了么」App 年费最高 199 元，由政府采购供独居老人免费使用，收费高吗？政府采购有必要吗？",
       "category": "society",
-      "hotScore": 0.675,
+      "hotScore": 0.75,
+      "freshness": 0.9999,
+      "crossSource": 0.6309,
+      "totalScore": 0.7893,
+      "sources": [
+        {
+          "channel": "zhihu",
+          "rank": 1,
+          "hot": 0,
+          "url": ""
+        }
+      ],
+      "summary": "",
+      "url": ""
+    },
+    {
+      "id": "evt-iphoneduo",
+      "title": "直播丨iPhone Duo上市首日：上手体验如何？直击提货现场",
+      "category": "economy",
+      "hotScore": 0.5525,
       "freshness": 1,
+      "crossSource": 0.6309,
+      "totalScore": 0.7103,
+      "sources": [
+        {
+          "channel": "thepaper",
+          "rank": 8,
+          "hot": 0,
+          "url": "https://www.thepaper.cn/newsDetail_forward_34308703"
+        }
+      ],
+      "summary": "",
+      "url": "https://www.thepaper.cn/newsDetail_forward_34308703"
+    },
+    {
+      "id": "evt-deepseek",
+      "title": "DeepSeek 拟新融资 1000 亿元，腾讯、宁德时代出资最多，这会不会改写国内大模型的竞争格局？",
+      "category": "society",
+      "hotScore": 0.675,
+      "freshness": 0.9999,
       "crossSource": 0.6309,
       "totalScore": 0.7593,
       "sources": [
@@ -127,27 +133,33 @@
       "url": ""
     },
     {
-      "id": "evt-off00000",
-      "title": "如何看待《令人心动的 offer8》李子祺在节目里诊断用盲猜，称专博不临床，10 篇 SCI 被指为水刊凑数？",
+      "id": "evt-a0000000",
+      "title": "A股惊天逆转 到底发生了什么",
       "category": "society",
-      "hotScore": 0.6375,
-      "freshness": 1,
-      "crossSource": 0.6309,
-      "totalScore": 0.7443,
+      "hotScore": 0.3825,
+      "freshness": 0.9999,
+      "crossSource": 1,
+      "totalScore": 0.753,
       "sources": [
         {
-          "channel": "zhihu",
-          "rank": 4,
+          "channel": "toutiao",
+          "rank": 12,
+          "hot": 13716314,
+          "url": "https://www.toutiao.com/trending/7699783321202462217/"
+        },
+        {
+          "channel": "baidu",
+          "rank": 19,
           "hot": 0,
-          "url": ""
+          "url": "https://m.baidu.com/s?word=A%E8%82%A1%E6%83%8A%E5%A4%A9%E9%80%86%E8%BD%AC+%E5%88%B0%E5%BA%95%E5%8F%91%E7%94%9F%E4%BA%86%E4%BB%80%E4%B9%88&sa=fyb_news"
         }
       ],
       "summary": "",
-      "url": ""
+      "url": "https://www.toutiao.com/trending/7699783321202462217/"
     },
     {
-      "id": "evt-30700000",
-      "title": "今年以来30个台风生成、7个登陆我国，台风真的专挑周末来吗？",
+      "id": "evt-pp000000",
+      "title": "马上评｜高校严禁全程念PPT，让教学不再“照屏宣科”",
       "category": "society",
       "hotScore": 0.6375,
       "freshness": 1,
@@ -158,15 +170,15 @@
           "channel": "thepaper",
           "rank": 6,
           "hot": 0,
-          "url": "https://www.thepaper.cn/newsDetail_forward_34310810"
+          "url": "https://www.thepaper.cn/newsDetail_forward_34317031"
         }
       ],
       "summary": "",
-      "url": "https://www.thepaper.cn/newsDetail_forward_34310810"
+      "url": "https://www.thepaper.cn/newsDetail_forward_34317031"
     },
     {
-      "id": "evt-logo0000",
-      "title": "买骆驼冲锋衣到货logo是咧嘴笑的驴",
+      "id": "evt-90000000",
+      "title": "90后掌门被曝辞职 娃哈哈为何起动荡",
       "category": "society",
       "hotScore": 0.6,
       "freshness": 1,
@@ -177,37 +189,18 @@
           "channel": "baidu",
           "rank": 6,
           "hot": 0,
-          "url": "https://m.baidu.com/s?word=%E4%B9%B0%E9%AA%86%E9%A9%BC%E5%86%B2%E9%94%8B%E8%A1%A3%E5%88%B0%E8%B4%A7logo%E6%98%AF%E5%92%A7%E5%98%B4%E7%AC%91%E7%9A%84%E9%A9%B4&sa=fyb_news"
+          "url": "https://m.baidu.com/s?word=90%E5%90%8E%E6%8E%8C%E9%97%A8%E8%A2%AB%E6%9B%9D%E8%BE%9E%E8%81%8C+%E5%A8%83%E5%93%88%E5%93%88%E4%B8%BA%E4%BD%95%E8%B5%B7%E5%8A%A8%E8%8D%A1&sa=fyb_news"
         }
       ],
       "summary": "",
-      "url": "https://m.baidu.com/s?word=%E4%B9%B0%E9%AA%86%E9%A9%BC%E5%86%B2%E9%94%8B%E8%A1%A3%E5%88%B0%E8%B4%A7logo%E6%98%AF%E5%92%A7%E5%98%B4%E7%AC%91%E7%9A%84%E9%A9%B4&sa=fyb_news"
+      "url": "https://m.baidu.com/s?word=90%E5%90%8E%E6%8E%8C%E9%97%A8%E8%A2%AB%E6%9B%9D%E8%BE%9E%E8%81%8C+%E5%A8%83%E5%93%88%E5%93%88%E4%B8%BA%E4%BD%95%E8%B5%B7%E5%8A%A8%E8%8D%A1&sa=fyb_news"
     },
     {
-      "id": "evt-16760000",
-      "title": "西藏地震已致16死76伤",
-      "category": "society",
-      "hotScore": 0.595,
-      "freshness": 0.9999,
-      "crossSource": 0.6309,
-      "totalScore": 0.7273,
-      "sources": [
-        {
-          "channel": "toutiao",
-          "rank": 7,
-          "hot": 17522926,
-          "url": "https://www.toutiao.com/trending/7699756774206770715/"
-        }
-      ],
-      "summary": "",
-      "url": "https://www.toutiao.com/trending/7699756774206770715/"
-    },
-    {
-      "id": "evt-78100000",
-      "title": "如何看待一人之下 781 话之中，王国平和巴伦的大战？",
+      "id": "evt-20261000",
+      "title": "如何评价 2026 年 10 月米哈游《原神》7.2 版本前瞻直播【坏灭肇始之时】？",
       "category": "society",
       "hotScore": 0.5625,
-      "freshness": 1,
+      "freshness": 0.9999,
       "crossSource": 0.6309,
       "totalScore": 0.7143,
       "sources": [
@@ -222,49 +215,49 @@
       "url": ""
     },
     {
-      "id": "evt-40000000",
-      "title": "40岁毛林林演宠妃",
+      "id": "evt-15000000",
+      "title": "两女生投150万开无烟酒吧倒闭",
       "category": "society",
-      "hotScore": 0.56,
-      "freshness": 1,
+      "hotScore": 0.5525,
+      "freshness": 0.9999,
       "crossSource": 0.6309,
-      "totalScore": 0.7133,
+      "totalScore": 0.7103,
       "sources": [
         {
-          "channel": "baidu",
-          "rank": 7,
-          "hot": 0,
-          "url": "https://m.baidu.com/s?word=40%E5%B2%81%E6%AF%9B%E6%9E%97%E6%9E%97%E6%BC%94%E5%AE%A0%E5%A6%83&sa=fyb_news"
+          "channel": "toutiao",
+          "rank": 8,
+          "hot": 20462336,
+          "url": "https://www.toutiao.com/trending/7699658939898413099/"
         }
       ],
       "summary": "",
-      "url": "https://m.baidu.com/s?word=40%E5%B2%81%E6%AF%9B%E6%9E%97%E6%9E%97%E6%BC%94%E5%AE%A0%E5%A6%83&sa=fyb_news"
+      "url": "https://www.toutiao.com/trending/7699658939898413099/"
     },
     {
-      "id": "evt-10000000",
-      "title": "言短意长｜课讲得好获奖10万元，该奖！",
+      "id": "evt-ape00000",
+      "title": "王毅：中方将办好今年APEC会议",
       "category": "society",
       "hotScore": 0.51,
-      "freshness": 1,
+      "freshness": 0.9999,
       "crossSource": 0.6309,
       "totalScore": 0.6933,
       "sources": [
         {
-          "channel": "thepaper",
+          "channel": "toutiao",
           "rank": 9,
-          "hot": 0,
-          "url": "https://www.thepaper.cn/newsDetail_forward_34311714"
+          "hot": 18515087,
+          "url": "https://www.toutiao.com/trending/7699044029132227081/"
         }
       ],
       "summary": "",
-      "url": "https://www.thepaper.cn/newsDetail_forward_34311714"
+      "url": "https://www.toutiao.com/trending/7699044029132227081/"
     },
     {
-      "id": "evt-deepseek",
-      "title": "DeepSeek 拟新融资 1000 亿元，腾讯、宁德时代出资最多，这会不会改写国内大模型的竞争格局？",
+      "id": "evt-12000000",
+      "title": "继母介绍 12 岁女童进黑作坊务工致六级伤残，厂方仅支付 1 万元跑路，各方该承担什么责任？这对孩子影响多大？",
       "category": "society",
       "hotScore": 0.4875,
-      "freshness": 1,
+      "freshness": 0.9999,
       "crossSource": 0.6309,
       "totalScore": 0.6843,
       "sources": [
@@ -277,6 +270,25 @@
       ],
       "summary": "",
       "url": ""
+    },
+    {
+      "id": "evt-14000000",
+      "title": "男子突发脑梗 140多只猫狗急得直叫",
+      "category": "society",
+      "hotScore": 0.48,
+      "freshness": 1,
+      "crossSource": 0.6309,
+      "totalScore": 0.6813,
+      "sources": [
+        {
+          "channel": "baidu",
+          "rank": 9,
+          "hot": 0,
+          "url": "https://m.baidu.com/s?word=%E7%94%B7%E5%AD%90%E7%AA%81%E5%8F%91%E8%84%91%E6%A2%97+140%E5%A4%9A%E5%8F%AA%E7%8C%AB%E7%8B%97%E6%80%A5%E5%BE%97%E7%9B%B4%E5%8F%AB&sa=fyb_news"
+        }
+      ],
+      "summary": "",
+      "url": "https://m.baidu.com/s?word=%E7%94%B7%E5%AD%90%E7%AA%81%E5%8F%91%E8%84%91%E6%A2%97+140%E5%A4%9A%E5%8F%AA%E7%8C%AB%E7%8B%97%E6%80%A5%E5%BE%97%E7%9B%B4%E5%8F%AB&sa=fyb_news"
     }
   ]
 }
