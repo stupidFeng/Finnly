@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-10-23T19:37:57.575Z",
+  "generatedAt": "2026-10-23T22:44:24.390Z",
   "fields": {
     "society": "社会",
     "economy": "经济",
@@ -7,43 +7,18 @@
   },
   "feed": [
     {
-      "id": "evt-70000000",
-      "title": "西藏那曲巴青7.0级地震已造成16人遇难，46人受伤",
-      "category": "society",
-      "hotScore": 0.85,
-      "freshness": 1,
-      "crossSource": 0.6309,
-      "totalScore": 0.8293,
-      "sources": [
-        {
-          "channel": "thepaper",
-          "rank": 1,
-          "hot": 0,
-          "url": "https://www.thepaper.cn/newsDetail_forward_34314220"
-        },
-        {
-          "channel": "thepaper",
-          "rank": 19,
-          "hot": 0,
-          "url": "https://www.thepaper.cn/newsDetail_forward_34317430"
-        }
-      ],
-      "summary": "",
-      "url": "https://www.thepaper.cn/newsDetail_forward_34314220"
-    },
-    {
       "id": "evt-00000000",
       "title": "西藏强震成因揭晓",
       "category": "society",
       "hotScore": 0.85,
       "freshness": 0.9999,
-      "crossSource": 0.6309,
-      "totalScore": 0.8292,
+      "crossSource": 1,
+      "totalScore": 0.94,
       "sources": [
         {
           "channel": "toutiao",
           "rank": 1,
-          "hot": 43211227,
+          "hot": 44173915,
           "url": "https://www.toutiao.com/trending/7699809994400599593/"
         }
       ],
@@ -56,13 +31,13 @@
       "category": "society",
       "hotScore": 0.8075,
       "freshness": 0.9999,
-      "crossSource": 0.6309,
-      "totalScore": 0.8122,
+      "crossSource": 1,
+      "totalScore": 0.923,
       "sources": [
         {
           "channel": "toutiao",
           "rank": 2,
-          "hot": 39099135,
+          "hot": 39970212,
           "url": "https://www.toutiao.com/trending/7699755083384881691/"
         }
       ],
@@ -70,36 +45,17 @@
       "url": "https://www.toutiao.com/trending/7699755083384881691/"
     },
     {
-      "id": "evt-kimik310",
-      "title": "如何评价 Kimi K3.1？",
-      "category": "society",
-      "hotScore": 0.7125,
-      "freshness": 0.9999,
-      "crossSource": 0.6309,
-      "totalScore": 0.7743,
-      "sources": [
-        {
-          "channel": "zhihu",
-          "rank": 2,
-          "hot": 0,
-          "url": ""
-        }
-      ],
-      "summary": "",
-      "url": ""
-    },
-    {
       "id": "evt-a0000000",
       "title": "图灵奖得主希发基思：警惕AI“要挟式”示强，AI闯祸必须对开发者追责",
       "category": "society",
-      "hotScore": 0.68,
+      "hotScore": 0.765,
       "freshness": 1,
-      "crossSource": 0.6309,
-      "totalScore": 0.7613,
+      "crossSource": 1,
+      "totalScore": 0.906,
       "sources": [
         {
           "channel": "thepaper",
-          "rank": 5,
+          "rank": 3,
           "hot": 0,
           "url": "https://www.thepaper.cn/newsDetail_forward_34301129"
         }
@@ -108,17 +64,36 @@
       "url": "https://www.thepaper.cn/newsDetail_forward_34301129"
     },
     {
-      "id": "evt-anthropic",
-      "title": "Anthropic 科学家称「AGI 若三年内到来读博将失去意义」，如何看待这一观点？",
+      "id": "evt-s1600000",
+      "title": "S16",
       "category": "society",
-      "hotScore": 0.675,
-      "freshness": 0.9999,
-      "crossSource": 0.6309,
-      "totalScore": 0.7593,
+      "hotScore": 0.76,
+      "freshness": 1,
+      "crossSource": 1,
+      "totalScore": 0.904,
+      "sources": [
+        {
+          "channel": "baidu",
+          "rank": 2,
+          "hot": 0,
+          "url": "https://m.baidu.com/s?word=S16&sa=fyb_news"
+        }
+      ],
+      "summary": "",
+      "url": "https://m.baidu.com/s?word=S16&sa=fyb_news"
+    },
+    {
+      "id": "evt-kimik310",
+      "title": "如何评价 Kimi K3.1？",
+      "category": "society",
+      "hotScore": 0.75,
+      "freshness": 1,
+      "crossSource": 1,
+      "totalScore": 0.9,
       "sources": [
         {
           "channel": "zhihu",
-          "rank": 3,
+          "rank": 1,
           "hot": 0,
           "url": ""
         }
@@ -127,17 +102,36 @@
       "url": ""
     },
     {
-      "id": "evt-deepseek",
-      "title": "DeepSeek 拟新融资 1000 亿元，腾讯、宁德时代出资最多，这会不会改写国内大模型的竞争格局？",
+      "id": "evt-lpl00000",
+      "title": "LPL首轮全军覆没",
       "category": "society",
-      "hotScore": 0.6375,
-      "freshness": 0.9999,
-      "crossSource": 0.6309,
-      "totalScore": 0.7443,
+      "hotScore": 0.72,
+      "freshness": 1,
+      "crossSource": 1,
+      "totalScore": 0.888,
+      "sources": [
+        {
+          "channel": "baidu",
+          "rank": 3,
+          "hot": 0,
+          "url": "https://m.baidu.com/s?word=LPL%E9%A6%96%E8%BD%AE%E5%85%A8%E5%86%9B%E8%A6%86%E6%B2%A1&sa=fyb_news"
+        }
+      ],
+      "summary": "",
+      "url": "https://m.baidu.com/s?word=LPL%E9%A6%96%E8%BD%AE%E5%85%A8%E5%86%9B%E8%A6%86%E6%B2%A1&sa=fyb_news"
+    },
+    {
+      "id": "evt-anthropic",
+      "title": "Anthropic 科学家称「AGI 若三年内到来读博将失去意义」，如何看待这一观点？",
+      "category": "society",
+      "hotScore": 0.7125,
+      "freshness": 1,
+      "crossSource": 1,
+      "totalScore": 0.885,
       "sources": [
         {
           "channel": "zhihu",
-          "rank": 4,
+          "rank": 2,
           "hot": 0,
           "url": ""
         }
@@ -149,14 +143,14 @@
       "id": "evt-pp000000",
       "title": "马上评｜高校严禁全程念PPT，让教学不再“照屏宣科”",
       "category": "society",
-      "hotScore": 0.6375,
+      "hotScore": 0.68,
       "freshness": 1,
-      "crossSource": 0.6309,
-      "totalScore": 0.7443,
+      "crossSource": 1,
+      "totalScore": 0.872,
       "sources": [
         {
           "channel": "thepaper",
-          "rank": 6,
+          "rank": 5,
           "hot": 0,
           "url": "https://www.thepaper.cn/newsDetail_forward_34317031"
         }
@@ -170,13 +164,13 @@
       "category": "society",
       "hotScore": 0.6375,
       "freshness": 0.9999,
-      "crossSource": 0.6309,
-      "totalScore": 0.7442,
+      "crossSource": 1,
+      "totalScore": 0.855,
       "sources": [
         {
           "channel": "toutiao",
           "rank": 6,
-          "hot": 26208934,
+          "hot": 26792834,
           "url": "https://www.toutiao.com/trending/7699658939898413099/"
         }
       ],
@@ -184,17 +178,36 @@
       "url": "https://www.toutiao.com/trending/7699658939898413099/"
     },
     {
+      "id": "evt-s16blg01k",
+      "title": "S16 瑞士轮 BLG 0:1 KOI，如何评价这场比赛？",
+      "category": "society",
+      "hotScore": 0.6375,
+      "freshness": 1,
+      "crossSource": 1,
+      "totalScore": 0.855,
+      "sources": [
+        {
+          "channel": "zhihu",
+          "rank": 4,
+          "hot": 0,
+          "url": ""
+        }
+      ],
+      "summary": "",
+      "url": ""
+    },
+    {
       "id": "evt-40000000",
       "title": "马上评｜施救顾客反被索赔46万？“好人条款”为善意撑腰",
       "category": "society",
-      "hotScore": 0.595,
+      "hotScore": 0.6375,
       "freshness": 1,
-      "crossSource": 0.6309,
-      "totalScore": 0.7273,
+      "crossSource": 1,
+      "totalScore": 0.855,
       "sources": [
         {
           "channel": "thepaper",
-          "rank": 7,
+          "rank": 6,
           "hot": 0,
           "url": "https://www.thepaper.cn/newsDetail_forward_34318183"
         }
@@ -203,42 +216,80 @@
       "url": "https://www.thepaper.cn/newsDetail_forward_34318183"
     },
     {
-      "id": "evt-s1600000",
-      "title": "S16",
+      "id": "evt-iggen000",
+      "title": "iG被GEN翻盘",
       "category": "society",
-      "hotScore": 0.48,
+      "hotScore": 0.56,
       "freshness": 1,
-      "crossSource": 0.6309,
-      "totalScore": 0.6813,
+      "crossSource": 1,
+      "totalScore": 0.824,
       "sources": [
         {
           "channel": "baidu",
-          "rank": 9,
+          "rank": 7,
           "hot": 0,
-          "url": "https://m.baidu.com/s?word=S16&sa=fyb_news"
+          "url": "https://m.baidu.com/s?word=iG%E8%A2%ABGEN%E7%BF%BB%E7%9B%98&sa=fyb_news"
         }
       ],
       "summary": "",
-      "url": "https://m.baidu.com/s?word=S16&sa=fyb_news"
+      "url": "https://m.baidu.com/s?word=iG%E8%A2%ABGEN%E7%BF%BB%E7%9B%98&sa=fyb_news"
     },
     {
-      "id": "evt-12000000",
-      "title": "继母介绍 12 岁女童进黑作坊务工致六级伤残，厂方仅支付 1 万元跑路，各方该承担什么责任？这对孩子影响多大？",
+      "id": "evt-s16al01kc",
+      "title": "s16 瑞士轮 AL0:1KC，如何评价 LPL 四连败？",
       "category": "society",
-      "hotScore": 0.45,
-      "freshness": 0.9999,
-      "crossSource": 0.6309,
-      "totalScore": 0.6693,
+      "hotScore": 0.525,
+      "freshness": 1,
+      "crossSource": 1,
+      "totalScore": 0.81,
       "sources": [
         {
           "channel": "zhihu",
-          "rank": 9,
+          "rank": 7,
           "hot": 0,
           "url": ""
         }
       ],
       "summary": "",
       "url": ""
+    },
+    {
+      "id": "evt-17000000",
+      "title": "17岁男生确诊严重糖尿病 专家提醒",
+      "category": "society",
+      "hotScore": 0.51,
+      "freshness": 0.9999,
+      "crossSource": 1,
+      "totalScore": 0.804,
+      "sources": [
+        {
+          "channel": "toutiao",
+          "rank": 9,
+          "hot": 19848619,
+          "url": "https://www.toutiao.com/trending/7698929037720322074/"
+        }
+      ],
+      "summary": "",
+      "url": "https://www.toutiao.com/trending/7698929037720322074/"
+    },
+    {
+      "id": "evt-blgmkoi0",
+      "title": "BLG爆冷不敌MKOI",
+      "category": "society",
+      "hotScore": 0.48,
+      "freshness": 1,
+      "crossSource": 1,
+      "totalScore": 0.792,
+      "sources": [
+        {
+          "channel": "baidu",
+          "rank": 9,
+          "hot": 0,
+          "url": "https://m.baidu.com/s?word=BLG%E7%88%86%E5%86%B7%E4%B8%8D%E6%95%8CMKOI&sa=fyb_news"
+        }
+      ],
+      "summary": "",
+      "url": "https://m.baidu.com/s?word=BLG%E7%88%86%E5%86%B7%E4%B8%8D%E6%95%8CMKOI&sa=fyb_news"
     }
   ]
 }
