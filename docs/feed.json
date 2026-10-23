@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-10-22T22:51:08.916Z",
+  "generatedAt": "2026-10-23T02:29:51.243Z",
   "fields": {
     "society": "社会",
     "economy": "经济",
@@ -7,140 +7,109 @@
   },
   "feed": [
     {
-      "id": "evt-10010000",
-      "title": "女子100天零违章获奖1吨汽油",
-      "category": "society",
-      "hotScore": 0.7225,
-      "freshness": 0.9999,
-      "crossSource": 1,
-      "totalScore": 0.889,
-      "sources": [
-        {
-          "channel": "toutiao",
-          "rank": 4,
-          "hot": 12311624,
-          "url": "https://www.toutiao.com/trending/7699338619609399334/"
-        },
-        {
-          "channel": "baidu",
-          "rank": 10,
-          "hot": 0,
-          "url": "https://m.baidu.com/s?word=%E5%A5%B3%E5%AD%90100%E5%A4%A9%E9%9B%B6%E8%BF%9D%E7%AB%A0%E8%8E%B7%E5%A5%961%E5%90%A8%E6%B1%BD%E6%B2%B9&sa=fyb_news"
-        }
-      ],
-      "summary": "",
-      "url": "https://www.toutiao.com/trending/7699338619609399334/"
-    },
-    {
-      "id": "evt-00000000",
-      "title": "北京市副市长夏林茂被查",
-      "category": "society",
-      "hotScore": 0.6375,
-      "freshness": 0.9999,
-      "crossSource": 1,
-      "totalScore": 0.855,
-      "sources": [
-        {
-          "channel": "toutiao",
-          "rank": 16,
-          "hot": 3708190,
-          "url": "https://www.toutiao.com/trending/7699402537438363689/"
-        },
-        {
-          "channel": "thepaper",
-          "rank": 6,
-          "hot": 0,
-          "url": "https://www.thepaper.cn/newsDetail_forward_34308652"
-        }
-      ],
-      "summary": "",
-      "url": "https://www.toutiao.com/trending/7699402537438363689/"
-    },
-    {
-      "id": "evt-01100000",
-      "title": "张本智和被打0-11惨败",
-      "category": "society",
-      "hotScore": 0.595,
-      "freshness": 0.9999,
-      "crossSource": 1,
-      "totalScore": 0.838,
-      "sources": [
-        {
-          "channel": "toutiao",
-          "rank": 7,
-          "hot": 9120675,
-          "url": "https://www.toutiao.com/trending/7699013794890055731/"
-        },
-        {
-          "channel": "baidu",
-          "rank": 9,
-          "hot": 0,
-          "url": "https://m.baidu.com/s?word=%E5%BC%A0%E6%9C%AC%E6%99%BA%E5%92%8C%E8%A2%AB%E6%89%930-11%E6%83%A8%E8%B4%A5&sa=fyb_news"
-        }
-      ],
-      "summary": "",
-      "url": "https://www.toutiao.com/trending/7699013794890055731/"
-    },
-    {
       "id": "evt-70000000",
-      "title": "西藏那曲巴青县发生7.0级地震",
+      "title": "习近平对西藏7.0级地震作出重要指示",
       "category": "society",
       "hotScore": 0.85,
       "freshness": 0.9999,
-      "crossSource": 0.6309,
-      "totalScore": 0.8293,
+      "crossSource": 1,
+      "totalScore": 0.94,
       "sources": [
         {
           "channel": "toutiao",
           "rank": 1,
-          "hot": 16618954,
-          "url": "https://www.toutiao.com/trending/7699503642620988966/"
+          "hot": 17390439,
+          "url": "https://www.toutiao.com/trending/7699535718041255978/"
+        },
+        {
+          "channel": "baidu",
+          "rank": 2,
+          "hot": 0,
+          "url": "https://m.baidu.com/s?word=%E4%B9%A0%E8%BF%91%E5%B9%B3%E5%AF%B9%E8%A5%BF%E8%97%8F7.0%E7%BA%A7%E5%9C%B0%E9%9C%87%E4%BD%9C%E5%87%BA%E9%87%8D%E8%A6%81%E6%8C%87%E7%A4%BA&sa=fyb_news"
         }
       ],
       "summary": "",
-      "url": "https://www.toutiao.com/trending/7699503642620988966/"
+      "url": "https://www.toutiao.com/trending/7699535718041255978/"
     },
     {
-      "id": "evt-39000000",
-      "title": "印度男子谋杀 39 岁中国女子被终身监禁，交往期间谎称是模特和演员，实则是工地临时工，哪些细节值得关注？",
-      "category": "entertainment",
-      "hotScore": 0.675,
+      "id": "evt-00000000",
+      "title": "习近平出席纪念中国工农红军长征胜利90周年大会并发表重要讲话",
+      "category": "society",
+      "hotScore": 0.85,
       "freshness": 1,
       "crossSource": 0.6309,
-      "totalScore": 0.7593,
+      "totalScore": 0.8293,
       "sources": [
         {
-          "channel": "zhihu",
-          "rank": 3,
+          "channel": "thepaper",
+          "rank": 1,
           "hot": 0,
-          "url": ""
+          "url": "https://www.thepaper.cn/newsDetail_forward_34307574"
         }
       ],
       "summary": "",
-      "url": ""
+      "url": "https://www.thepaper.cn/newsDetail_forward_34307574"
     },
     {
-      "id": "evt-90000000",
-      "title": "澎湃读报丨纪念长征胜利90周年，各大报集中刊发社论、特别报道",
+      "id": "evt-70160000",
+      "title": "西藏7.0级强震已致16死46伤",
       "category": "society",
       "hotScore": 0.8075,
-      "freshness": 1,
+      "freshness": 0.9999,
       "crossSource": 0.6309,
       "totalScore": 0.8123,
       "sources": [
         {
-          "channel": "thepaper",
+          "channel": "toutiao",
           "rank": 2,
-          "hot": 0,
-          "url": "https://www.thepaper.cn/newsDetail_forward_34305436"
+          "hot": 15735520,
+          "url": "https://www.toutiao.com/trending/7699628400520121906/"
         }
       ],
       "summary": "",
-      "url": "https://www.thepaper.cn/newsDetail_forward_34305436"
+      "url": "https://www.toutiao.com/trending/7699628400520121906/"
     },
     {
-      "id": "evt-40000000",
-      "title": "时速400公里的高铁真要来了吗",
+      "id": "evt-cal00000",
+      "title": "全红婵为家乡湛江打call",
+      "category": "society",
+      "hotScore": 0.7225,
+      "freshness": 0.9999,
+      "crossSource": 0.6309,
+      "totalScore": 0.7783,
+      "sources": [
+        {
+          "channel": "toutiao",
+          "rank": 4,
+          "hot": 12883154,
+          "url": "https://www.toutiao.com/trending/7699397931329273892/"
+        }
+      ],
+      "summary": "",
+      "url": "https://www.toutiao.com/trending/7699397931329273892/"
+    },
+    {
+      "id": "evt-16500000",
+      "title": "西藏那曲地震已致16死54伤",
+      "category": "society",
+      "hotScore": 0.72,
+      "freshness": 1,
+      "crossSource": 0.6309,
+      "totalScore": 0.7773,
+      "sources": [
+        {
+          "channel": "baidu",
+          "rank": 3,
+          "hot": 0,
+          "url": "https://m.baidu.com/s?word=%E8%A5%BF%E8%97%8F%E9%82%A3%E6%9B%B2%E5%9C%B0%E9%9C%87%E5%B7%B2%E8%87%B416%E6%AD%BB54%E4%BC%A4&sa=fyb_news"
+        }
+      ],
+      "summary": "",
+      "url": "https://m.baidu.com/s?word=%E8%A5%BF%E8%97%8F%E9%82%A3%E6%9B%B2%E5%9C%B0%E9%9C%87%E5%B7%B2%E8%87%B416%E6%AD%BB54%E4%BC%A4&sa=fyb_news"
+    },
+    {
+      "id": "evt-36000000",
+      "title": "沪指失守3600点",
       "category": "society",
       "hotScore": 0.68,
       "freshness": 0.9999,
@@ -150,35 +119,16 @@
         {
           "channel": "toutiao",
           "rank": 5,
-          "hot": 11140018,
-          "url": "https://www.toutiao.com/trending/7699455738569051667/"
+          "hot": 11657160,
+          "url": "https://www.toutiao.com/trending/7699675609621876275/"
         }
       ],
       "summary": "",
-      "url": "https://www.toutiao.com/trending/7699455738569051667/"
+      "url": "https://www.toutiao.com/trending/7699675609621876275/"
     },
     {
-      "id": "evt-30700000",
-      "title": "今年以来30个台风生成、7个登陆我国，台风真的专挑周末来吗？",
-      "category": "society",
-      "hotScore": 0.68,
-      "freshness": 1,
-      "crossSource": 0.6309,
-      "totalScore": 0.7613,
-      "sources": [
-        {
-          "channel": "thepaper",
-          "rank": 5,
-          "hot": 0,
-          "url": "https://www.thepaper.cn/newsDetail_forward_34310810"
-        }
-      ],
-      "summary": "",
-      "url": "https://www.thepaper.cn/newsDetail_forward_34310810"
-    },
-    {
-      "id": "evt-30000000",
-      "title": "国乒男团3比0韩国 亚锦赛4连冠",
+      "id": "evt-90000000",
+      "title": "9岁孩子开门杀致路人死亡 司机获刑",
       "category": "society",
       "hotScore": 0.64,
       "freshness": 1,
@@ -189,24 +139,62 @@
           "channel": "baidu",
           "rank": 5,
           "hot": 0,
-          "url": "https://m.baidu.com/s?word=%E5%9B%BD%E4%B9%92%E7%94%B7%E5%9B%A23%E6%AF%940%E9%9F%A9%E5%9B%BD+%E4%BA%9A%E9%94%A6%E8%B5%9B4%E8%BF%9E%E5%86%A0&sa=fyb_news"
+          "url": "https://m.baidu.com/s?word=9%E5%B2%81%E5%AD%A9%E5%AD%90%E5%BC%80%E9%97%A8%E6%9D%80%E8%87%B4%E8%B7%AF%E4%BA%BA%E6%AD%BB%E4%BA%A1+%E5%8F%B8%E6%9C%BA%E8%8E%B7%E5%88%91&sa=fyb_news"
         }
       ],
       "summary": "",
-      "url": "https://m.baidu.com/s?word=%E5%9B%BD%E4%B9%92%E7%94%B7%E5%9B%A23%E6%AF%940%E9%9F%A9%E5%9B%BD+%E4%BA%9A%E9%94%A6%E8%B5%9B4%E8%BF%9E%E5%86%A0&sa=fyb_news"
+      "url": "https://m.baidu.com/s?word=9%E5%B2%81%E5%AD%A9%E5%AD%90%E5%BC%80%E9%97%A8%E6%9D%80%E8%87%B4%E8%B7%AF%E4%BA%BA%E6%AD%BB%E4%BA%A1+%E5%8F%B8%E6%9C%BA%E8%8E%B7%E5%88%91&sa=fyb_news"
     },
     {
-      "id": "evt-semianal",
-      "title": "如何评价 SemiAnalysis 认为 DeepSeek 与华为已形成共生关系？",
+      "id": "evt-iphoneduo",
+      "title": "iPhone Duo正式开售 每人限购2部",
       "category": "society",
-      "hotScore": 0.6375,
+      "hotScore": 0.595,
+      "freshness": 0.9999,
+      "crossSource": 0.6309,
+      "totalScore": 0.7273,
+      "sources": [
+        {
+          "channel": "toutiao",
+          "rank": 7,
+          "hot": 9544075,
+          "url": "https://www.toutiao.com/trending/7699646244972400179/"
+        }
+      ],
+      "summary": "",
+      "url": "https://www.toutiao.com/trending/7699646244972400179/"
+    },
+    {
+      "id": "evt-30700000",
+      "title": "今年以来30个台风生成、7个登陆我国，台风真的专挑周末来吗？",
+      "category": "society",
+      "hotScore": 0.595,
       "freshness": 1,
       "crossSource": 0.6309,
-      "totalScore": 0.7443,
+      "totalScore": 0.7273,
+      "sources": [
+        {
+          "channel": "thepaper",
+          "rank": 7,
+          "hot": 0,
+          "url": "https://www.thepaper.cn/newsDetail_forward_34310810"
+        }
+      ],
+      "summary": "",
+      "url": "https://www.thepaper.cn/newsDetail_forward_34310810"
+    },
+    {
+      "id": "evt-glm00000",
+      "title": "为啥智谱 GLM 海外口碑极佳，国内认知度却不及豆包 DeepSeek？盈利模式、应用场景上三者有啥区别吗？",
+      "category": "society",
+      "hotScore": 0.5625,
+      "freshness": 1,
+      "crossSource": 0.6309,
+      "totalScore": 0.7143,
       "sources": [
         {
           "channel": "zhihu",
-          "rank": 4,
+          "rank": 6,
           "hot": 0,
           "url": ""
         }
@@ -215,36 +203,17 @@
       "url": ""
     },
     {
-      "id": "evt-72000000",
-      "title": "72岁李雪健再登舞台",
-      "category": "society",
-      "hotScore": 0.5525,
-      "freshness": 0.9999,
-      "crossSource": 0.6309,
-      "totalScore": 0.7103,
-      "sources": [
-        {
-          "channel": "toutiao",
-          "rank": 8,
-          "hot": 8252728,
-          "url": "https://www.toutiao.com/trending/7699017414402621450/"
-        }
-      ],
-      "summary": "",
-      "url": "https://www.toutiao.com/trending/7699017414402621450/"
-    },
-    {
       "id": "evt-12000000",
       "title": "资金连续12日“扫货”股票型ETF，创业板、沪深300昨日领衔吸金",
       "category": "society",
-      "hotScore": 0.5525,
+      "hotScore": 0.4675,
       "freshness": 1,
       "crossSource": 0.6309,
-      "totalScore": 0.7103,
+      "totalScore": 0.6763,
       "sources": [
         {
           "channel": "thepaper",
-          "rank": 8,
+          "rank": 10,
           "hot": 0,
           "url": "https://www.thepaper.cn/newsDetail_forward_34306536"
         }
@@ -253,27 +222,8 @@
       "url": "https://www.thepaper.cn/newsDetail_forward_34306536"
     },
     {
-      "id": "evt-iphoneduo",
-      "title": "iPhone Duo 测评出炉，折叠 3000 次后，折痕明显加深，高负载下发热明显，还有哪些问题值得关注？",
-      "category": "society",
-      "hotScore": 0.45,
-      "freshness": 1,
-      "crossSource": 0.6309,
-      "totalScore": 0.6693,
-      "sources": [
-        {
-          "channel": "zhihu",
-          "rank": 9,
-          "hot": 0,
-          "url": ""
-        }
-      ],
-      "summary": "",
-      "url": ""
-    },
-    {
-      "id": "evt-50000000",
-      "title": "女子称地铁站内看5小时书被扣15元",
+      "id": "evt-76290000",
+      "title": "76人29分大逆转胜骑士",
       "category": "society",
       "hotScore": 0.425,
       "freshness": 0.9999,
@@ -283,31 +233,12 @@
         {
           "channel": "toutiao",
           "rank": 11,
-          "hot": 6113771,
-          "url": "https://www.toutiao.com/trending/7699102435960291379/"
+          "hot": 6397585,
+          "url": "https://www.toutiao.com/trending/7699676989040365075/"
         }
       ],
       "summary": "",
-      "url": "https://www.toutiao.com/trending/7699102435960291379/"
-    },
-    {
-      "id": "evt-ai000000",
-      "title": "中国拟出台的「AI 出口禁令」会影响使用 AI 产品和中企海外业务吗？将对中美 AI 竞争有何影响？",
-      "category": "society",
-      "hotScore": 0.4125,
-      "freshness": 1,
-      "crossSource": 0.6309,
-      "totalScore": 0.6543,
-      "sources": [
-        {
-          "channel": "zhihu",
-          "rank": 10,
-          "hot": 0,
-          "url": ""
-        }
-      ],
-      "summary": "",
-      "url": ""
+      "url": "https://www.toutiao.com/trending/7699676989040365075/"
     }
   ]
 }
