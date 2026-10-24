@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-10-24T19:57:48.202Z",
+  "generatedAt": "2026-10-24T22:13:30.647Z",
   "fields": {
     "society": "社会",
     "economy": "经济",
@@ -8,7 +8,7 @@
   "feed": [
     {
       "id": "evt-00000000",
-      "title": "马上评｜“独生女继承遗产后遭离婚分产”怎么会反复上热搜",
+      "title": "菲两架军机空中相撞画面曝光",
       "category": "society",
       "hotScore": 0.85,
       "freshness": 1,
@@ -16,40 +16,21 @@
       "totalScore": 0.8293,
       "sources": [
         {
-          "channel": "thepaper",
-          "rank": 1,
-          "hot": 0,
-          "url": "https://www.thepaper.cn/newsDetail_forward_34324278"
-        }
-      ],
-      "summary": "",
-      "url": "https://www.thepaper.cn/newsDetail_forward_34324278"
-    },
-    {
-      "id": "evt-ufo30000",
-      "title": "美解密UFO档案：黑三角3秒飞2.4公里",
-      "category": "society",
-      "hotScore": 0.7225,
-      "freshness": 0.9999,
-      "crossSource": 0.6309,
-      "totalScore": 0.7782,
-      "sources": [
-        {
           "channel": "toutiao",
-          "rank": 4,
-          "hot": 10711962,
-          "url": "https://www.toutiao.com/trending/7699919329604796426/"
+          "rank": 1,
+          "hot": 14902944,
+          "url": "https://www.toutiao.com/trending/7699853418193993778/"
         }
       ],
       "summary": "",
-      "url": "https://www.toutiao.com/trending/7699919329604796426/"
+      "url": "https://www.toutiao.com/trending/7699853418193993778/"
     },
     {
       "id": "evt-90000000",
       "title": "9 月日产本田在华销量均跌超五成，为何日系车遭遇大幅下滑？",
       "category": "society",
       "hotScore": 0.7125,
-      "freshness": 0.9999,
+      "freshness": 1,
       "crossSource": 0.6309,
       "totalScore": 0.7743,
       "sources": [
@@ -86,14 +67,14 @@
       "id": "evt-qq000000",
       "title": "为什么腾讯有了 QQ 这么庞大的用户基础群之后要开发微信呢？",
       "category": "society",
-      "hotScore": 0.675,
-      "freshness": 0.9999,
+      "hotScore": 0.6375,
+      "freshness": 1,
       "crossSource": 0.6309,
-      "totalScore": 0.7593,
+      "totalScore": 0.7443,
       "sources": [
         {
           "channel": "zhihu",
-          "rank": 3,
+          "rank": 4,
           "hot": 0,
           "url": ""
         }
@@ -121,68 +102,30 @@
       "url": "https://www.thepaper.cn/newsDetail_forward_34225156"
     },
     {
-      "id": "evt-20251000",
-      "title": "2025年全国初婚人数1042.33万",
+      "id": "evt-ufo30000",
+      "title": "美解密UFO档案：黑三角3秒飞2.4公里",
       "category": "society",
-      "hotScore": 0.6375,
-      "freshness": 0.9999,
+      "hotScore": 0.595,
+      "freshness": 1,
       "crossSource": 0.6309,
-      "totalScore": 0.7442,
+      "totalScore": 0.7273,
       "sources": [
         {
           "channel": "toutiao",
-          "rank": 6,
-          "hot": 8770213,
-          "url": "https://www.toutiao.com/trending/7700142479517057546/"
+          "rank": 7,
+          "hot": 8178909,
+          "url": "https://www.toutiao.com/trending/7699919329604796426/"
         }
       ],
       "summary": "",
-      "url": "https://www.toutiao.com/trending/7700142479517057546/"
+      "url": "https://www.toutiao.com/trending/7699919329604796426/"
     },
     {
       "id": "evt-s16tes10a",
       "title": "S16 瑞士轮 TES 1:0 AL，如何评价这场比赛？",
       "category": "society",
-      "hotScore": 0.5625,
-      "freshness": 0.9999,
-      "crossSource": 0.6309,
-      "totalScore": 0.7143,
-      "sources": [
-        {
-          "channel": "zhihu",
-          "rank": 6,
-          "hot": 0,
-          "url": ""
-        }
-      ],
-      "summary": "",
-      "url": ""
-    },
-    {
-      "id": "evt-01000000",
-      "title": "又双‌叒没赢！成都0比1不敌大连，中超冠军收官战揭晓",
-      "category": "society",
-      "hotScore": 0.5525,
-      "freshness": 1,
-      "crossSource": 0.6309,
-      "totalScore": 0.7103,
-      "sources": [
-        {
-          "channel": "thepaper",
-          "rank": 8,
-          "hot": 0,
-          "url": "https://www.thepaper.cn/newsDetail_forward_34325208"
-        }
-      ],
-      "summary": "",
-      "url": "https://www.thepaper.cn/newsDetail_forward_34325208"
-    },
-    {
-      "id": "evt-hassabis",
-      "title": "诺奖得主 Hassabis 称 AGI 最快 2 年内到来，如何看待这一预判？",
-      "category": "society",
       "hotScore": 0.525,
-      "freshness": 0.9999,
+      "freshness": 1,
       "crossSource": 0.6309,
       "totalScore": 0.6993,
       "sources": [
@@ -214,6 +157,63 @@
       ],
       "summary": "",
       "url": "https://m.baidu.com/s?word=%E5%BE%90%E5%98%89%E4%BD%9950%E7%B1%B3%E4%BB%B0%E6%B3%B3%E7%A0%B4%E4%B8%96%E7%95%8C%E7%BA%AA%E5%BD%95&sa=fyb_news"
+    },
+    {
+      "id": "evt-01000000",
+      "title": "又双‌叒没赢！成都0比1不敌大连，中超冠军收官战揭晓",
+      "category": "society",
+      "hotScore": 0.51,
+      "freshness": 1,
+      "crossSource": 0.6309,
+      "totalScore": 0.6933,
+      "sources": [
+        {
+          "channel": "thepaper",
+          "rank": 9,
+          "hot": 0,
+          "url": "https://www.thepaper.cn/newsDetail_forward_34325208"
+        }
+      ],
+      "summary": "",
+      "url": "https://www.thepaper.cn/newsDetail_forward_34325208"
+    },
+    {
+      "id": "evt-hassabis",
+      "title": "诺奖得主 Hassabis 称 AGI 最快 2 年内到来，如何看待这一预判？",
+      "category": "society",
+      "hotScore": 0.4875,
+      "freshness": 1,
+      "crossSource": 0.6309,
+      "totalScore": 0.6843,
+      "sources": [
+        {
+          "channel": "zhihu",
+          "rank": 8,
+          "hot": 0,
+          "url": ""
+        }
+      ],
+      "summary": "",
+      "url": ""
+    },
+    {
+      "id": "evt-20251000",
+      "title": "2025年全国初婚人数1042.33万",
+      "category": "society",
+      "hotScore": 0.4675,
+      "freshness": 1,
+      "crossSource": 0.6309,
+      "totalScore": 0.6763,
+      "sources": [
+        {
+          "channel": "toutiao",
+          "rank": 10,
+          "hot": 6059085,
+          "url": "https://www.toutiao.com/trending/7700142479517057546/"
+        }
+      ],
+      "summary": "",
+      "url": "https://www.toutiao.com/trending/7700142479517057546/"
     }
   ]
 }
