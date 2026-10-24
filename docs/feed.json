@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-10-24T08:29:11.247Z",
+  "generatedAt": "2026-10-24T13:43:07.352Z",
   "fields": {
     "society": "社会",
     "economy": "经济",
@@ -8,174 +8,35 @@
   "feed": [
     {
       "id": "evt-00000000",
-      "title": "苏州市委书记范波会见谷爱凌",
+      "title": "菲两架军机空中相撞画面曝光",
       "category": "society",
-      "hotScore": 0.8075,
-      "freshness": 0.9999,
+      "hotScore": 0.85,
+      "freshness": 1,
       "crossSource": 1,
-      "totalScore": 0.923,
+      "totalScore": 0.94,
       "sources": [
         {
           "channel": "toutiao",
-          "rank": 2,
-          "hot": 10481746,
-          "url": "https://www.toutiao.com/trending/7699845921366392874/"
-        },
-        {
-          "channel": "baidu",
-          "rank": 15,
-          "hot": 0,
-          "url": "https://m.baidu.com/s?word=%E8%8B%8F%E5%B7%9E%E5%B8%82%E5%A7%94%E4%B9%A6%E8%AE%B0%E8%8C%83%E6%B3%A2%E4%BC%9A%E8%A7%81%E8%B0%B7%E7%88%B1%E5%87%8C&sa=fyb_news"
-        }
-      ],
-      "summary": "",
-      "url": "https://www.toutiao.com/trending/7699845921366392874/"
-    },
-    {
-      "id": "evt-a0000000",
-      "title": "图灵奖得主希发基思：警惕AI“要挟式”示强，AI闯祸必须对开发者追责",
-      "category": "society",
-      "hotScore": 0.765,
-      "freshness": 1,
-      "crossSource": 0.6309,
-      "totalScore": 0.7953,
-      "sources": [
-        {
-          "channel": "thepaper",
-          "rank": 3,
-          "hot": 0,
-          "url": "https://www.thepaper.cn/newsDetail_forward_34301129"
-        }
-      ],
-      "summary": "",
-      "url": "https://www.thepaper.cn/newsDetail_forward_34301129"
-    },
-    {
-      "id": "evt-s1600000",
-      "title": "S16 全球总决赛瑞士轮首日 LPL 战队四战全败创联赛最差开局成绩，如何评价首日他们的表现？",
-      "category": "society",
-      "hotScore": 0.75,
-      "freshness": 1,
-      "crossSource": 0.6309,
-      "totalScore": 0.7893,
-      "sources": [
-        {
-          "channel": "zhihu",
           "rank": 1,
-          "hot": 0,
-          "url": ""
+          "hot": 11270726,
+          "url": "https://www.toutiao.com/trending/7699853418193993778/"
         }
       ],
       "summary": "",
-      "url": ""
-    },
-    {
-      "id": "evt-40000000",
-      "title": "马上评｜施救顾客反被索赔46万？“好人条款”为善意撑腰",
-      "category": "society",
-      "hotScore": 0.68,
-      "freshness": 1,
-      "crossSource": 0.6309,
-      "totalScore": 0.7613,
-      "sources": [
-        {
-          "channel": "thepaper",
-          "rank": 5,
-          "hot": 0,
-          "url": "https://www.thepaper.cn/newsDetail_forward_34318183"
-        }
-      ],
-      "summary": "",
-      "url": "https://www.thepaper.cn/newsDetail_forward_34318183"
-    },
-    {
-      "id": "evt-31202500",
-      "title": "31省份2025年婚姻数据公布",
-      "category": "society",
-      "hotScore": 0.64,
-      "freshness": 1,
-      "crossSource": 0.6309,
-      "totalScore": 0.7453,
-      "sources": [
-        {
-          "channel": "baidu",
-          "rank": 5,
-          "hot": 0,
-          "url": "https://m.baidu.com/s?word=31%E7%9C%81%E4%BB%BD2025%E5%B9%B4%E5%A9%9A%E5%A7%BB%E6%95%B0%E6%8D%AE%E5%85%AC%E5%B8%83&sa=fyb_news"
-        }
-      ],
-      "summary": "",
-      "url": "https://m.baidu.com/s?word=31%E7%9C%81%E4%BB%BD2025%E5%B9%B4%E5%A9%9A%E5%A7%BB%E6%95%B0%E6%8D%AE%E5%85%AC%E5%B8%83&sa=fyb_news"
-    },
-    {
-      "id": "evt-95000000",
-      "title": "乌称约950万公民流落海外",
-      "category": "society",
-      "hotScore": 0.6375,
-      "freshness": 0.9999,
-      "crossSource": 0.6309,
-      "totalScore": 0.7443,
-      "sources": [
-        {
-          "channel": "toutiao",
-          "rank": 6,
-          "hot": 7026124,
-          "url": "https://www.toutiao.com/trending/7699233385440460841/"
-        }
-      ],
-      "summary": "",
-      "url": "https://www.toutiao.com/trending/7699233385440460841/"
-    },
-    {
-      "id": "evt-12000000",
-      "title": "豆浆机大王一个月涨了120%",
-      "category": "society",
-      "hotScore": 0.6,
-      "freshness": 1,
-      "crossSource": 0.6309,
-      "totalScore": 0.7293,
-      "sources": [
-        {
-          "channel": "baidu",
-          "rank": 6,
-          "hot": 0,
-          "url": "https://m.baidu.com/s?word=%E8%B1%86%E6%B5%86%E6%9C%BA%E5%A4%A7%E7%8E%8B%E4%B8%80%E4%B8%AA%E6%9C%88%E6%B6%A8%E4%BA%86120%25&sa=fyb_news"
-        }
-      ],
-      "summary": "",
-      "url": "https://m.baidu.com/s?word=%E8%B1%86%E6%B5%86%E6%9C%BA%E5%A4%A7%E7%8E%8B%E4%B8%80%E4%B8%AA%E6%9C%88%E6%B6%A8%E4%BA%86120%25&sa=fyb_news"
-    },
-    {
-      "id": "evt-26000000",
-      "title": "26岁女枪手如何炼成",
-      "category": "society",
-      "hotScore": 0.595,
-      "freshness": 0.9999,
-      "crossSource": 0.6309,
-      "totalScore": 0.7273,
-      "sources": [
-        {
-          "channel": "toutiao",
-          "rank": 7,
-          "hot": 6357500,
-          "url": "https://www.toutiao.com/trending/7699840411061501961/"
-        }
-      ],
-      "summary": "",
-      "url": "https://www.toutiao.com/trending/7699840411061501961/"
+      "url": "https://www.toutiao.com/trending/7699853418193993778/"
     },
     {
       "id": "evt-ai000000",
       "title": "当AI开始写代码，还需要什么样的程序员？",
       "category": "society",
-      "hotScore": 0.595,
+      "hotScore": 0.7225,
       "freshness": 1,
-      "crossSource": 0.6309,
-      "totalScore": 0.7273,
+      "crossSource": 1,
+      "totalScore": 0.889,
       "sources": [
         {
           "channel": "thepaper",
-          "rank": 7,
+          "rank": 4,
           "hot": 0,
           "url": "https://www.thepaper.cn/newsDetail_forward_34225156"
         }
@@ -184,51 +45,165 @@
       "url": "https://www.thepaper.cn/newsDetail_forward_34225156"
     },
     {
-      "id": "evt-70000000",
-      "title": "70岁董浩叔叔晒婚纱照",
+      "id": "evt-31202500",
+      "title": "31省份2025年婚姻数据公布",
       "category": "society",
-      "hotScore": 0.56,
+      "hotScore": 0.72,
       "freshness": 1,
-      "crossSource": 0.6309,
-      "totalScore": 0.7133,
+      "crossSource": 1,
+      "totalScore": 0.888,
       "sources": [
         {
           "channel": "baidu",
-          "rank": 7,
+          "rank": 3,
           "hot": 0,
-          "url": "https://m.baidu.com/s?word=70%E5%B2%81%E8%91%A3%E6%B5%A9%E5%8F%94%E5%8F%94%E6%99%92%E5%A9%9A%E7%BA%B1%E7%85%A7&sa=fyb_news"
+          "url": "https://m.baidu.com/s?word=31%E7%9C%81%E4%BB%BD2025%E5%B9%B4%E5%A9%9A%E5%A7%BB%E6%95%B0%E6%8D%AE%E5%85%AC%E5%B8%83&sa=fyb_news"
         }
       ],
       "summary": "",
-      "url": "https://m.baidu.com/s?word=70%E5%B2%81%E8%91%A3%E6%B5%A9%E5%8F%94%E5%8F%94%E6%99%92%E5%A9%9A%E7%BA%B1%E7%85%A7&sa=fyb_news"
+      "url": "https://m.baidu.com/s?word=31%E7%9C%81%E4%BB%BD2025%E5%B9%B4%E5%A9%9A%E5%A7%BB%E6%95%B0%E6%8D%AE%E5%85%AC%E5%B8%83&sa=fyb_news"
     },
     {
-      "id": "evt-iphoneduo",
-      "title": "iPhone Duo发售首日：多地门店前挤满“黄牛”，溢价缩水有人喊亏",
+      "id": "evt-90000000",
+      "title": "9 月日产本田在华销量均跌超五成，为何日系车遭遇大幅下滑？",
+      "category": "society",
+      "hotScore": 0.7125,
+      "freshness": 1,
+      "crossSource": 1,
+      "totalScore": 0.885,
+      "sources": [
+        {
+          "channel": "zhihu",
+          "rank": 2,
+          "hot": 0,
+          "url": ""
+        }
+      ],
+      "summary": "",
+      "url": ""
+    },
+    {
+      "id": "evt-20260000",
+      "title": "2026 年中国票房第三名《功夫女足》跌至 5.9 分，是否可以印证冯小刚当年的话是对的？",
+      "category": "entertainment",
+      "hotScore": 0.6,
+      "freshness": 1,
+      "crossSource": 1,
+      "totalScore": 0.84,
+      "sources": [
+        {
+          "channel": "zhihu",
+          "rank": 5,
+          "hot": 0,
+          "url": ""
+        }
+      ],
+      "summary": "",
+      "url": ""
+    },
+    {
+      "id": "evt-80000000",
+      "title": "出口首破8万亿 “新”字挑大梁",
+      "category": "society",
+      "hotScore": 0.68,
+      "freshness": 1,
+      "crossSource": 1,
+      "totalScore": 0.872,
+      "sources": [
+        {
+          "channel": "baidu",
+          "rank": 4,
+          "hot": 0,
+          "url": "https://m.baidu.com/s?word=%E5%87%BA%E5%8F%A3%E9%A6%96%E7%A0%B48%E4%B8%87%E4%BA%BF+%E2%80%9C%E6%96%B0%E2%80%9D%E5%AD%97%E6%8C%91%E5%A4%A7%E6%A2%81&sa=fyb_news"
+        }
+      ],
+      "summary": "",
+      "url": "https://m.baidu.com/s?word=%E5%87%BA%E5%8F%A3%E9%A6%96%E7%A0%B48%E4%B8%87%E4%BA%BF+%E2%80%9C%E6%96%B0%E2%80%9D%E5%AD%97%E6%8C%91%E5%A4%A7%E6%A2%81&sa=fyb_news"
+    },
+    {
+      "id": "evt-qq000000",
+      "title": "为什么腾讯有了 QQ 这么庞大的用户基础群之后要开发微信呢？",
+      "category": "society",
+      "hotScore": 0.6375,
+      "freshness": 1,
+      "crossSource": 1,
+      "totalScore": 0.855,
+      "sources": [
+        {
+          "channel": "zhihu",
+          "rank": 4,
+          "hot": 0,
+          "url": ""
+        }
+      ],
+      "summary": "",
+      "url": ""
+    },
+    {
+      "id": "evt-01000000",
+      "title": "又双‌叒没赢！成都0比1不敌大连，中超冠军收官战揭晓",
       "category": "society",
       "hotScore": 0.5525,
       "freshness": 1,
-      "crossSource": 0.6309,
-      "totalScore": 0.7103,
+      "crossSource": 1,
+      "totalScore": 0.821,
       "sources": [
         {
           "channel": "thepaper",
           "rank": 8,
           "hot": 0,
-          "url": "https://www.thepaper.cn/newsDetail_forward_34318635"
+          "url": "https://www.thepaper.cn/newsDetail_forward_34325208"
         }
       ],
       "summary": "",
-      "url": "https://www.thepaper.cn/newsDetail_forward_34318635"
+      "url": "https://www.thepaper.cn/newsDetail_forward_34325208"
     },
     {
-      "id": "evt-90000000",
-      "title": "9 岁孩子开门杀致路人死亡，司机获刑 10 个月缓刑 1 年，开门的是乘客，为何判刑的是司机？带给我们哪些启示？",
+      "id": "evt-dee00000",
+      "title": "程序员更支持开源的 DeepSeek 还是平价的 GPT？",
+      "category": "society",
+      "hotScore": 0.525,
+      "freshness": 1,
+      "crossSource": 1,
+      "totalScore": 0.81,
+      "sources": [
+        {
+          "channel": "zhihu",
+          "rank": 7,
+          "hot": 0,
+          "url": ""
+        }
+      ],
+      "summary": "",
+      "url": ""
+    },
+    {
+      "id": "evt-50000000",
+      "title": "胡彦斌自曝一个半月消耗52亿token",
+      "category": "society",
+      "hotScore": 0.52,
+      "freshness": 1,
+      "crossSource": 1,
+      "totalScore": 0.808,
+      "sources": [
+        {
+          "channel": "baidu",
+          "rank": 8,
+          "hot": 0,
+          "url": "https://m.baidu.com/s?word=%E8%83%A1%E5%BD%A6%E6%96%8C%E8%87%AA%E6%9B%9D%E4%B8%80%E4%B8%AA%E5%8D%8A%E6%9C%88%E6%B6%88%E8%80%9752%E4%BA%BFtoken&sa=fyb_news"
+        }
+      ],
+      "summary": "",
+      "url": "https://m.baidu.com/s?word=%E8%83%A1%E5%BD%A6%E6%96%8C%E8%87%AA%E6%9B%9D%E4%B8%80%E4%B8%AA%E5%8D%8A%E6%9C%88%E6%B6%88%E8%80%9752%E4%BA%BFtoken&sa=fyb_news"
+    },
+    {
+      "id": "evt-96000000",
+      "title": "96 岁老人因高龄被旅行社拒收，独自乘火车 43 小时进藏旅行，完成走遍全国的心愿，此事带给我们怎样的触动？",
       "category": "society",
       "hotScore": 0.4875,
       "freshness": 1,
-      "crossSource": 0.6309,
-      "totalScore": 0.6843,
+      "crossSource": 1,
+      "totalScore": 0.795,
       "sources": [
         {
           "channel": "zhihu",
@@ -239,6 +214,25 @@
       ],
       "summary": "",
       "url": ""
+    },
+    {
+      "id": "evt-10000000",
+      "title": "10名省部级干部同日履新",
+      "category": "society",
+      "hotScore": 0.425,
+      "freshness": 1,
+      "crossSource": 1,
+      "totalScore": 0.77,
+      "sources": [
+        {
+          "channel": "toutiao",
+          "rank": 11,
+          "hot": 4146268,
+          "url": "https://www.toutiao.com/trending/7700204044584750634/"
+        }
+      ],
+      "summary": "",
+      "url": "https://www.toutiao.com/trending/7700204044584750634/"
     }
   ]
 }
