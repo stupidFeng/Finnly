@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-10-24T17:05:02.870Z",
+  "generatedAt": "2026-10-24T19:57:48.202Z",
   "fields": {
     "society": "社会",
     "economy": "经济",
@@ -8,47 +8,22 @@
   "feed": [
     {
       "id": "evt-00000000",
-      "title": "乌鸦喝水不扔石子了直接找人帮忙",
+      "title": "马上评｜“独生女继承遗产后遭离婚分产”怎么会反复上热搜",
       "category": "society",
-      "hotScore": 0.68,
-      "freshness": 0.9999,
-      "crossSource": 1,
-      "totalScore": 0.872,
-      "sources": [
-        {
-          "channel": "toutiao",
-          "rank": 5,
-          "hot": 9476553,
-          "url": "https://www.toutiao.com/trending/7699836402422464521/"
-        },
-        {
-          "channel": "baidu",
-          "rank": 9,
-          "hot": 0,
-          "url": "https://m.baidu.com/s?word=%E4%B9%8C%E9%B8%A6%E5%96%9D%E6%B0%B4%E4%B8%8D%E6%89%94%E7%9F%B3%E5%AD%90%E4%BA%86%E7%9B%B4%E6%8E%A5%E6%89%BE%E4%BA%BA%E5%B8%AE%E5%BF%99&sa=fyb_news"
-        }
-      ],
-      "summary": "",
-      "url": "https://www.toutiao.com/trending/7699836402422464521/"
-    },
-    {
-      "id": "evt-ai000000",
-      "title": "当AI开始写代码，还需要什么样的程序员？",
-      "category": "society",
-      "hotScore": 0.7225,
+      "hotScore": 0.85,
       "freshness": 1,
       "crossSource": 0.6309,
-      "totalScore": 0.7783,
+      "totalScore": 0.8293,
       "sources": [
         {
           "channel": "thepaper",
-          "rank": 4,
+          "rank": 1,
           "hot": 0,
-          "url": "https://www.thepaper.cn/newsDetail_forward_34225156"
+          "url": "https://www.thepaper.cn/newsDetail_forward_34324278"
         }
       ],
       "summary": "",
-      "url": "https://www.thepaper.cn/newsDetail_forward_34225156"
+      "url": "https://www.thepaper.cn/newsDetail_forward_34324278"
     },
     {
       "id": "evt-ufo30000",
@@ -62,7 +37,7 @@
         {
           "channel": "toutiao",
           "rank": 4,
-          "hot": 10473211,
+          "hot": 10711962,
           "url": "https://www.toutiao.com/trending/7699919329604796426/"
         }
       ],
@@ -76,30 +51,11 @@
       "hotScore": 0.7125,
       "freshness": 0.9999,
       "crossSource": 0.6309,
-      "totalScore": 0.7742,
+      "totalScore": 0.7743,
       "sources": [
         {
           "channel": "zhihu",
           "rank": 2,
-          "hot": 0,
-          "url": ""
-        }
-      ],
-      "summary": "",
-      "url": ""
-    },
-    {
-      "id": "evt-20260000",
-      "title": "2026 年中国票房第三名《功夫女足》跌至 5.9 分，是否可以印证冯小刚当年的话是对的？",
-      "category": "entertainment",
-      "hotScore": 0.6375,
-      "freshness": 0.9999,
-      "crossSource": 0.6309,
-      "totalScore": 0.7442,
-      "sources": [
-        {
-          "channel": "zhihu",
-          "rank": 4,
           "hot": 0,
           "url": ""
         }
@@ -133,7 +89,7 @@
       "hotScore": 0.675,
       "freshness": 0.9999,
       "crossSource": 0.6309,
-      "totalScore": 0.7592,
+      "totalScore": 0.7593,
       "sources": [
         {
           "channel": "zhihu",
@@ -146,8 +102,8 @@
       "url": ""
     },
     {
-      "id": "evt-01000000",
-      "title": "又双‌叒没赢！成都0比1不敌大连，中超冠军收官战揭晓",
+      "id": "evt-ai000000",
+      "title": "当AI开始写代码，还需要什么样的程序员？",
       "category": "society",
       "hotScore": 0.6375,
       "freshness": 1,
@@ -158,11 +114,11 @@
           "channel": "thepaper",
           "rank": 6,
           "hot": 0,
-          "url": "https://www.thepaper.cn/newsDetail_forward_34325208"
+          "url": "https://www.thepaper.cn/newsDetail_forward_34225156"
         }
       ],
       "summary": "",
-      "url": "https://www.thepaper.cn/newsDetail_forward_34325208"
+      "url": "https://www.thepaper.cn/newsDetail_forward_34225156"
     },
     {
       "id": "evt-20251000",
@@ -176,12 +132,69 @@
         {
           "channel": "toutiao",
           "rank": 6,
-          "hot": 8574740,
+          "hot": 8770213,
           "url": "https://www.toutiao.com/trending/7700142479517057546/"
         }
       ],
       "summary": "",
       "url": "https://www.toutiao.com/trending/7700142479517057546/"
+    },
+    {
+      "id": "evt-s16tes10a",
+      "title": "S16 瑞士轮 TES 1:0 AL，如何评价这场比赛？",
+      "category": "society",
+      "hotScore": 0.5625,
+      "freshness": 0.9999,
+      "crossSource": 0.6309,
+      "totalScore": 0.7143,
+      "sources": [
+        {
+          "channel": "zhihu",
+          "rank": 6,
+          "hot": 0,
+          "url": ""
+        }
+      ],
+      "summary": "",
+      "url": ""
+    },
+    {
+      "id": "evt-01000000",
+      "title": "又双‌叒没赢！成都0比1不敌大连，中超冠军收官战揭晓",
+      "category": "society",
+      "hotScore": 0.5525,
+      "freshness": 1,
+      "crossSource": 0.6309,
+      "totalScore": 0.7103,
+      "sources": [
+        {
+          "channel": "thepaper",
+          "rank": 8,
+          "hot": 0,
+          "url": "https://www.thepaper.cn/newsDetail_forward_34325208"
+        }
+      ],
+      "summary": "",
+      "url": "https://www.thepaper.cn/newsDetail_forward_34325208"
+    },
+    {
+      "id": "evt-hassabis",
+      "title": "诺奖得主 Hassabis 称 AGI 最快 2 年内到来，如何看待这一预判？",
+      "category": "society",
+      "hotScore": 0.525,
+      "freshness": 0.9999,
+      "crossSource": 0.6309,
+      "totalScore": 0.6993,
+      "sources": [
+        {
+          "channel": "zhihu",
+          "rank": 7,
+          "hot": 0,
+          "url": ""
+        }
+      ],
+      "summary": "",
+      "url": ""
     },
     {
       "id": "evt-50000000",
@@ -201,25 +214,6 @@
       ],
       "summary": "",
       "url": "https://m.baidu.com/s?word=%E5%BE%90%E5%98%89%E4%BD%9950%E7%B1%B3%E4%BB%B0%E6%B3%B3%E7%A0%B4%E4%B8%96%E7%95%8C%E7%BA%AA%E5%BD%95&sa=fyb_news"
-    },
-    {
-      "id": "evt-30000000",
-      "title": "前三季度人均可支配收入34230元，是个什么概念？",
-      "category": "society",
-      "hotScore": 0.51,
-      "freshness": 1,
-      "crossSource": 0.6309,
-      "totalScore": 0.6933,
-      "sources": [
-        {
-          "channel": "thepaper",
-          "rank": 9,
-          "hot": 0,
-          "url": "https://www.thepaper.cn/newsDetail_forward_34317118"
-        }
-      ],
-      "summary": "",
-      "url": "https://www.thepaper.cn/newsDetail_forward_34317118"
     }
   ]
 }
