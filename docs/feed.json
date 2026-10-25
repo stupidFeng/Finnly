@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-10-25T20:08:01.915Z",
+  "generatedAt": "2026-10-25T23:40:30.963Z",
   "fields": {
     "society": "社会",
     "economy": "经济",
@@ -10,15 +10,15 @@
       "id": "evt-00000000",
       "title": "县委书记回应被扔下水：张雪临时起意",
       "category": "society",
-      "hotScore": 0.8075,
-      "freshness": 1,
+      "hotScore": 0.76,
+      "freshness": 0.9995,
       "crossSource": 1,
-      "totalScore": 0.923,
+      "totalScore": 0.9038,
       "sources": [
         {
           "channel": "toutiao",
-          "rank": 2,
-          "hot": 20575024,
+          "rank": 4,
+          "hot": 18301392,
           "url": "https://www.toutiao.com/trending/7700473698733588506/"
         },
         {
@@ -32,36 +32,42 @@
       "url": "https://www.toutiao.com/trending/7700473698733588506/"
     },
     {
-      "id": "evt-20000000",
-      "title": "俯瞰中国台湾，20张高清卫星影像定格宝岛多样地貌与鲜活人文",
+      "id": "evt-23596000",
+      "title": "“23:59:60”今后将不再出现",
       "category": "society",
-      "hotScore": 0.85,
-      "freshness": 1,
-      "crossSource": 0.6309,
-      "totalScore": 0.8293,
+      "hotScore": 0.6375,
+      "freshness": 0.9995,
+      "crossSource": 1,
+      "totalScore": 0.8548,
       "sources": [
         {
-          "channel": "thepaper",
-          "rank": 1,
+          "channel": "toutiao",
+          "rank": 6,
+          "hot": 14983912,
+          "url": "https://www.toutiao.com/trending/7698300945130390043/"
+        },
+        {
+          "channel": "baidu",
+          "rank": 8,
           "hot": 0,
-          "url": "https://www.thepaper.cn/newsDetail_forward_34328530"
+          "url": "https://m.baidu.com/s?word=%E2%80%9C23%3A59%3A60%E2%80%9D%E4%BB%8A%E5%90%8E%E5%B0%86%E4%B8%8D%E5%86%8D%E5%87%BA%E7%8E%B0&sa=fyb_news"
         }
       ],
       "summary": "",
-      "url": "https://www.thepaper.cn/newsDetail_forward_34328530"
+      "url": "https://www.toutiao.com/trending/7698300945130390043/"
     },
     {
       "id": "evt-90200000",
       "title": "六大议题、90余场活动，2026进博会上海会议活动开放报名",
       "category": "society",
-      "hotScore": 0.8075,
-      "freshness": 1,
+      "hotScore": 0.85,
+      "freshness": 0.9996,
       "crossSource": 0.6309,
-      "totalScore": 0.8123,
+      "totalScore": 0.8291,
       "sources": [
         {
           "channel": "thepaper",
-          "rank": 2,
+          "rank": 1,
           "hot": 0,
           "url": "https://www.thepaper.cn/newsDetail_forward_34329840"
         }
@@ -70,18 +76,37 @@
       "url": "https://www.thepaper.cn/newsDetail_forward_34329840"
     },
     {
+      "id": "evt-90000000",
+      "title": "姆巴佩双响 皇马终结巴萨9连胜",
+      "category": "society",
+      "hotScore": 0.8075,
+      "freshness": 0.9995,
+      "crossSource": 0.6309,
+      "totalScore": 0.8121,
+      "sources": [
+        {
+          "channel": "toutiao",
+          "rank": 2,
+          "hot": 22353371,
+          "url": "https://www.toutiao.com/trending/7700741454288653850/"
+        }
+      ],
+      "summary": "",
+      "url": "https://www.toutiao.com/trending/7700741454288653850/"
+    },
+    {
       "id": "evt-76000000",
       "title": "76年了，致敬最可爱的他们",
       "category": "society",
       "hotScore": 0.765,
-      "freshness": 1,
+      "freshness": 0.9995,
       "crossSource": 0.6309,
-      "totalScore": 0.7953,
+      "totalScore": 0.7951,
       "sources": [
         {
           "channel": "toutiao",
           "rank": 3,
-          "hot": 18617052,
+          "hot": 20226166,
           "url": "https://www.toutiao.com/trending/7700376045093912595/"
         }
       ],
@@ -89,18 +114,75 @@
       "url": "https://www.toutiao.com/trending/7700376045093912595/"
     },
     {
+      "id": "evt-20000000",
+      "title": "俯瞰中国台湾，20张高清卫星影像定格宝岛多样地貌与鲜活人文",
+      "category": "society",
+      "hotScore": 0.765,
+      "freshness": 0.9996,
+      "crossSource": 0.6309,
+      "totalScore": 0.7951,
+      "sources": [
+        {
+          "channel": "thepaper",
+          "rank": 3,
+          "hot": 0,
+          "url": "https://www.thepaper.cn/newsDetail_forward_34328530"
+        }
+      ],
+      "summary": "",
+      "url": "https://www.thepaper.cn/newsDetail_forward_34328530"
+    },
+    {
+      "id": "evt-s16hle01i",
+      "title": "S16 瑞士轮 HLE 0-1 iG，如何评价这场比赛？",
+      "category": "society",
+      "hotScore": 0.75,
+      "freshness": 1,
+      "crossSource": 0.6309,
+      "totalScore": 0.7893,
+      "sources": [
+        {
+          "channel": "zhihu",
+          "rank": 1,
+          "hot": 0,
+          "url": ""
+        }
+      ],
+      "summary": "",
+      "url": ""
+    },
+    {
+      "id": "evt-36900000",
+      "title": "369 首胜赛后采访称「希望 ZUIAN 签证抓紧办，速速来美国帮我」对此你有什么想说的？",
+      "category": "society",
+      "hotScore": 0.7125,
+      "freshness": 1,
+      "crossSource": 0.6309,
+      "totalScore": 0.7743,
+      "sources": [
+        {
+          "channel": "zhihu",
+          "rank": 2,
+          "hot": 0,
+          "url": ""
+        }
+      ],
+      "summary": "",
+      "url": ""
+    },
+    {
       "id": "evt-26000000",
       "title": "山东日照捕获260余斤“鲅鱼王”",
       "category": "society",
-      "hotScore": 0.7225,
-      "freshness": 1,
+      "hotScore": 0.68,
+      "freshness": 0.9995,
       "crossSource": 0.6309,
-      "totalScore": 0.7783,
+      "totalScore": 0.7611,
       "sources": [
         {
           "channel": "toutiao",
-          "rank": 4,
-          "hot": 16845405,
+          "rank": 5,
+          "hot": 16559784,
           "url": "https://www.toutiao.com/trending/7699744084282294282/"
         }
       ],
@@ -108,65 +190,8 @@
       "url": "https://www.toutiao.com/trending/7699744084282294282/"
     },
     {
-      "id": "evt-20270000",
-      "title": "于蕾出任2027羊年央视春晚总导演，连续第5年执导春晚",
-      "category": "society",
-      "hotScore": 0.7225,
-      "freshness": 1,
-      "crossSource": 0.6309,
-      "totalScore": 0.7783,
-      "sources": [
-        {
-          "channel": "thepaper",
-          "rank": 4,
-          "hot": 0,
-          "url": "https://www.thepaper.cn/newsDetail_forward_34328625"
-        }
-      ],
-      "summary": "",
-      "url": "https://www.thepaper.cn/newsDetail_forward_34328625"
-    },
-    {
-      "id": "evt-23596000",
-      "title": "“23:59:60”今后将不再出现",
-      "category": "society",
-      "hotScore": 0.72,
-      "freshness": 1,
-      "crossSource": 0.6309,
-      "totalScore": 0.7773,
-      "sources": [
-        {
-          "channel": "baidu",
-          "rank": 3,
-          "hot": 0,
-          "url": "https://m.baidu.com/s?word=%E2%80%9C23%3A59%3A60%E2%80%9D%E4%BB%8A%E5%90%8E%E5%B0%86%E4%B8%8D%E5%86%8D%E5%87%BA%E7%8E%B0&sa=fyb_news"
-        }
-      ],
-      "summary": "",
-      "url": "https://m.baidu.com/s?word=%E2%80%9C23%3A59%3A60%E2%80%9D%E4%BB%8A%E5%90%8E%E5%B0%86%E4%B8%8D%E5%86%8D%E5%87%BA%E7%8E%B0&sa=fyb_news"
-    },
-    {
-      "id": "evt-38000000",
-      "title": "姑娘花3.8万在鹤岗买房入住后傻眼",
-      "category": "society",
-      "hotScore": 0.68,
-      "freshness": 1,
-      "crossSource": 0.6309,
-      "totalScore": 0.7613,
-      "sources": [
-        {
-          "channel": "toutiao",
-          "rank": 5,
-          "hot": 15242353,
-          "url": "https://www.toutiao.com/trending/7700115642267844644/"
-        }
-      ],
-      "summary": "",
-      "url": "https://www.toutiao.com/trending/7700115642267844644/"
-    },
-    {
-      "id": "evt-s16hle01i",
-      "title": "S16 瑞士轮 HLE 0-1 iG，如何评价这场比赛？",
+      "id": "evt-workbuddy",
+      "title": "大家用 WorkBuddy 都用来干啥？",
       "category": "society",
       "hotScore": 0.675,
       "freshness": 1,
@@ -184,112 +209,93 @@
       "url": ""
     },
     {
-      "id": "evt-83000000",
-      "title": "国考83个职位无人报名",
+      "id": "evt-48000000",
+      "title": "人均48杯 冰杯卖得比咖啡还疯",
       "category": "society",
-      "hotScore": 0.6375,
-      "freshness": 1,
+      "hotScore": 0.64,
+      "freshness": 0.9995,
       "crossSource": 0.6309,
-      "totalScore": 0.7443,
-      "sources": [
-        {
-          "channel": "toutiao",
-          "rank": 6,
-          "hot": 13791851,
-          "url": "https://www.toutiao.com/trending/7699488753051631679/"
-        }
-      ],
-      "summary": "",
-      "url": "https://www.toutiao.com/trending/7699488753051631679/"
-    },
-    {
-      "id": "evt-workbuddy",
-      "title": "大家用 WorkBuddy 都用来干啥？",
-      "category": "society",
-      "hotScore": 0.6,
-      "freshness": 1,
-      "crossSource": 0.6309,
-      "totalScore": 0.7293,
-      "sources": [
-        {
-          "channel": "zhihu",
-          "rank": 5,
-          "hot": 0,
-          "url": ""
-        }
-      ],
-      "summary": "",
-      "url": ""
-    },
-    {
-      "id": "evt-12000000",
-      "title": "女子回应离婚12年接前婆婆一起生活",
-      "category": "society",
-      "hotScore": 0.595,
-      "freshness": 1,
-      "crossSource": 0.6309,
-      "totalScore": 0.7273,
-      "sources": [
-        {
-          "channel": "toutiao",
-          "rank": 7,
-          "hot": 12479383,
-          "url": "https://www.toutiao.com/trending/7700097025165459499/"
-        }
-      ],
-      "summary": "",
-      "url": "https://www.toutiao.com/trending/7700097025165459499/"
-    },
-    {
-      "id": "evt-23000000",
-      "title": "李天阳2-3张本智和",
-      "category": "society",
-      "hotScore": 0.52,
-      "freshness": 1,
-      "crossSource": 0.6309,
-      "totalScore": 0.6973,
+      "totalScore": 0.7451,
       "sources": [
         {
           "channel": "baidu",
-          "rank": 8,
+          "rank": 5,
           "hot": 0,
-          "url": "https://m.baidu.com/s?word=%E6%9D%8E%E5%A4%A9%E9%98%B32-3%E5%BC%A0%E6%9C%AC%E6%99%BA%E5%92%8C&sa=fyb_news"
+          "url": "https://m.baidu.com/s?word=%E4%BA%BA%E5%9D%8748%E6%9D%AF+%E5%86%B0%E6%9D%AF%E5%8D%96%E5%BE%97%E6%AF%94%E5%92%96%E5%95%A1%E8%BF%98%E7%96%AF&sa=fyb_news"
         }
       ],
       "summary": "",
-      "url": "https://m.baidu.com/s?word=%E6%9D%8E%E5%A4%A9%E9%98%B32-3%E5%BC%A0%E6%9C%AC%E6%99%BA%E5%92%8C&sa=fyb_news"
+      "url": "https://m.baidu.com/s?word=%E4%BA%BA%E5%9D%8748%E6%9D%AF+%E5%86%B0%E6%9D%AF%E5%8D%96%E5%BE%97%E6%AF%94%E5%92%96%E5%95%A1%E8%BF%98%E7%96%AF&sa=fyb_news"
     },
     {
-      "id": "evt-31202500",
-      "title": "31省份2025年人口出生率公布",
+      "id": "evt-20270000",
+      "title": "于蕾出任2027羊年央视春晚总导演，连续第5年执导春晚",
       "category": "society",
-      "hotScore": 0.51,
-      "freshness": 1,
+      "hotScore": 0.6375,
+      "freshness": 0.9996,
       "crossSource": 0.6309,
-      "totalScore": 0.6933,
+      "totalScore": 0.7441,
+      "sources": [
+        {
+          "channel": "thepaper",
+          "rank": 6,
+          "hot": 0,
+          "url": "https://www.thepaper.cn/newsDetail_forward_34328625"
+        }
+      ],
+      "summary": "",
+      "url": "https://www.thepaper.cn/newsDetail_forward_34328625"
+    },
+    {
+      "id": "evt-38000000",
+      "title": "姑娘花3.8万在鹤岗买房入住后傻眼",
+      "category": "society",
+      "hotScore": 0.5525,
+      "freshness": 0.9995,
+      "crossSource": 0.6309,
+      "totalScore": 0.7101,
       "sources": [
         {
           "channel": "toutiao",
-          "rank": 9,
-          "hot": 10217254,
-          "url": "https://www.toutiao.com/trending/7700139588664328754/"
+          "rank": 8,
+          "hot": 12267790,
+          "url": "https://www.toutiao.com/trending/7700115642267844644/"
         }
       ],
       "summary": "",
-      "url": "https://www.toutiao.com/trending/7700139588664328754/"
+      "url": "https://www.toutiao.com/trending/7700115642267844644/"
+    },
+    {
+      "id": "evt-52000000",
+      "title": "卢宁本场5次扑救2次解围",
+      "category": "society",
+      "hotScore": 0.4675,
+      "freshness": 0.9995,
+      "crossSource": 0.6309,
+      "totalScore": 0.6761,
+      "sources": [
+        {
+          "channel": "toutiao",
+          "rank": 10,
+          "hot": 10044017,
+          "url": "https://www.toutiao.com/trending/7700707532582421018/"
+        }
+      ],
+      "summary": "",
+      "url": "https://www.toutiao.com/trending/7700707532582421018/"
     },
     {
       "id": "evt-20260000",
       "title": "2026全球治理论坛（雄安）丨如何应对AI安全风险？中外专家给出了答案",
       "category": "society",
-      "hotScore": 0.51,
-      "freshness": 1,
+      "hotScore": 0.4675,
+      "freshness": 0.9996,
       "crossSource": 0.6309,
-      "totalScore": 0.6933,
+      "totalScore": 0.6761,
       "sources": [
         {
           "channel": "thepaper",
-          "rank": 9,
+          "rank": 10,
           "hot": 0,
           "url": "https://www.thepaper.cn/newsDetail_forward_34326151"
         }
