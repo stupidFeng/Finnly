@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-10-25T08:48:26.811Z",
+  "generatedAt": "2026-10-25T14:00:10.719Z",
   "fields": {
     "society": "社会",
     "economy": "经济",
@@ -8,79 +8,129 @@
   "feed": [
     {
       "id": "evt-00000000",
-      "title": "张雪机车刷新水上漂吉尼斯世界纪录",
+      "title": "县委书记回应被扔下水：张雪临时起意",
       "category": "society",
-      "hotScore": 0.85,
+      "hotScore": 0.8075,
       "freshness": 0.9999,
       "crossSource": 1,
-      "totalScore": 0.94,
+      "totalScore": 0.923,
       "sources": [
         {
           "channel": "toutiao",
-          "rank": 1,
-          "hot": 18847456,
-          "url": "https://www.toutiao.com/trending/7700435988002295305/"
-        }
-      ],
-      "summary": "",
-      "url": "https://www.toutiao.com/trending/7700435988002295305/"
-    },
-    {
-      "id": "evt-38000000",
-      "title": "女子花3.8万鹤岗买房 搬进去后傻眼",
-      "category": "society",
-      "hotScore": 0.72,
-      "freshness": 1,
-      "crossSource": 1,
-      "totalScore": 0.888,
-      "sources": [
+          "rank": 2,
+          "hot": 17073724,
+          "url": "https://www.toutiao.com/trending/7700473698733588506/"
+        },
         {
           "channel": "baidu",
-          "rank": 3,
-          "hot": 0,
-          "url": "https://m.baidu.com/s?word=%E5%A5%B3%E5%AD%90%E8%8A%B13.8%E4%B8%87%E9%B9%A4%E5%B2%97%E4%B9%B0%E6%88%BF+%E6%90%AC%E8%BF%9B%E5%8E%BB%E5%90%8E%E5%82%BB%E7%9C%BC&sa=fyb_news"
-        }
-      ],
-      "summary": "",
-      "url": "https://m.baidu.com/s?word=%E5%A5%B3%E5%AD%90%E8%8A%B13.8%E4%B8%87%E9%B9%A4%E5%B2%97%E4%B9%B0%E6%88%BF+%E6%90%AC%E8%BF%9B%E5%8E%BB%E5%90%8E%E5%82%BB%E7%9C%BC&sa=fyb_news"
-    },
-    {
-      "id": "evt-50000000",
-      "title": "你有 5 分钟把一个回形针藏在家里，侦探有 24 小时来找，找不到就给你 1 万美元，你会藏在哪里？",
-      "category": "society",
-      "hotScore": 0.7125,
-      "freshness": 0.9999,
-      "crossSource": 1,
-      "totalScore": 0.885,
-      "sources": [
-        {
-          "channel": "zhihu",
           "rank": 2,
           "hot": 0,
-          "url": ""
+          "url": "https://m.baidu.com/s?word=%E5%8E%BF%E5%A7%94%E4%B9%A6%E8%AE%B0%E5%9B%9E%E5%BA%94%E8%A2%AB%E6%89%94%E4%B8%8B%E6%B0%B4%EF%BC%9A%E5%BC%A0%E9%9B%AA%E4%B8%B4%E6%97%B6%E8%B5%B7%E6%84%8F&sa=fyb_news"
         }
       ],
       "summary": "",
-      "url": ""
+      "url": "https://www.toutiao.com/trending/7700473698733588506/"
     },
     {
-      "id": "evt-48000000",
-      "title": "海拔4800米的生命救援",
+      "id": "evt-23000000",
+      "title": "李天阳2-3张本智和",
       "category": "society",
-      "hotScore": 0.68,
-      "freshness": 1,
+      "hotScore": 0.6,
+      "freshness": 0.9999,
       "crossSource": 1,
-      "totalScore": 0.872,
+      "totalScore": 0.84,
       "sources": [
         {
+          "channel": "toutiao",
+          "rank": 9,
+          "hot": 8478560,
+          "url": "https://www.toutiao.com/trending/7700595461064805939/"
+        },
+        {
           "channel": "baidu",
-          "rank": 4,
+          "rank": 6,
           "hot": 0,
-          "url": "https://m.baidu.com/s?word=%E6%B5%B7%E6%8B%944800%E7%B1%B3%E7%9A%84%E7%94%9F%E5%91%BD%E6%95%91%E6%8F%B4&sa=fyb_news"
+          "url": "https://m.baidu.com/s?word=%E6%9D%8E%E5%A4%A9%E9%98%B32-3%E5%BC%A0%E6%9C%AC%E6%99%BA%E5%92%8C&sa=fyb_news"
         }
       ],
       "summary": "",
-      "url": "https://m.baidu.com/s?word=%E6%B5%B7%E6%8B%944800%E7%B1%B3%E7%9A%84%E7%94%9F%E5%91%BD%E6%95%91%E6%8F%B4&sa=fyb_news"
+      "url": "https://www.toutiao.com/trending/7700595461064805939/"
+    },
+    {
+      "id": "evt-20270000",
+      "title": "于蕾出任2027羊年央视春晚总导演，连续第5年执导春晚",
+      "category": "society",
+      "hotScore": 0.8075,
+      "freshness": 0.9999,
+      "crossSource": 0.6309,
+      "totalScore": 0.8123,
+      "sources": [
+        {
+          "channel": "thepaper",
+          "rank": 2,
+          "hot": 0,
+          "url": "https://www.thepaper.cn/newsDetail_forward_34328625"
+        }
+      ],
+      "summary": "",
+      "url": "https://www.thepaper.cn/newsDetail_forward_34328625"
+    },
+    {
+      "id": "evt-76000000",
+      "title": "76年了，致敬最可爱的他们",
+      "category": "society",
+      "hotScore": 0.765,
+      "freshness": 0.9999,
+      "crossSource": 0.6309,
+      "totalScore": 0.7952,
+      "sources": [
+        {
+          "channel": "toutiao",
+          "rank": 3,
+          "hot": 15448944,
+          "url": "https://www.toutiao.com/trending/7700376045093912595/"
+        }
+      ],
+      "summary": "",
+      "url": "https://www.toutiao.com/trending/7700376045093912595/"
+    },
+    {
+      "id": "evt-20260000",
+      "title": "2026全球治理论坛（雄安）丨如何应对AI安全风险？中外专家给出了答案",
+      "category": "society",
+      "hotScore": 0.68,
+      "freshness": 0.9999,
+      "crossSource": 0.6309,
+      "totalScore": 0.7613,
+      "sources": [
+        {
+          "channel": "thepaper",
+          "rank": 5,
+          "hot": 0,
+          "url": "https://www.thepaper.cn/newsDetail_forward_34326151"
+        }
+      ],
+      "summary": "",
+      "url": "https://www.thepaper.cn/newsDetail_forward_34326151"
+    },
+    {
+      "id": "evt-15000000",
+      "title": "15岁高中生确诊甲状腺癌且已转移",
+      "category": "society",
+      "hotScore": 0.68,
+      "freshness": 0.9999,
+      "crossSource": 0.6309,
+      "totalScore": 0.7612,
+      "sources": [
+        {
+          "channel": "toutiao",
+          "rank": 5,
+          "hot": 12648525,
+          "url": "https://www.toutiao.com/trending/7699702692511449097/"
+        }
+      ],
+      "summary": "",
+      "url": "https://www.toutiao.com/trending/7699702692511449097/"
     },
     {
       "id": "evt-90000000",
@@ -88,8 +138,8 @@
       "category": "society",
       "hotScore": 0.675,
       "freshness": 0.9999,
-      "crossSource": 1,
-      "totalScore": 0.87,
+      "crossSource": 0.6309,
+      "totalScore": 0.7592,
       "sources": [
         {
           "channel": "zhihu",
@@ -102,13 +152,13 @@
       "url": ""
     },
     {
-      "id": "evt-67300000",
-      "title": "夫妻花 67.3 万买劳力士却不挑选不试戴，店员果断报警，最终证实夫妻两人遭遇诈骗，这背后有着怎样的骗局？",
+      "id": "evt-60000000",
+      "title": "斯里兰卡遭遇全国性断电 6 小时，太阳能发电过剩为何会导致电网崩溃？",
       "category": "society",
       "hotScore": 0.6375,
       "freshness": 0.9999,
-      "crossSource": 1,
-      "totalScore": 0.855,
+      "crossSource": 0.6309,
+      "totalScore": 0.7442,
       "sources": [
         {
           "channel": "zhihu",
@@ -121,51 +171,70 @@
       "url": ""
     },
     {
-      "id": "evt-03000000",
-      "title": "温瑞博0-3张本智和 无缘决赛",
+      "id": "evt-iphoneduo2",
+      "title": "iPhone Duo开售2天就跌破官方首发价",
       "category": "society",
-      "hotScore": 0.6,
-      "freshness": 1,
-      "crossSource": 1,
-      "totalScore": 0.84,
+      "hotScore": 0.595,
+      "freshness": 0.9999,
+      "crossSource": 0.6309,
+      "totalScore": 0.7272,
       "sources": [
         {
-          "channel": "baidu",
-          "rank": 6,
-          "hot": 0,
-          "url": "https://m.baidu.com/s?word=%E6%B8%A9%E7%91%9E%E5%8D%9A0-3%E5%BC%A0%E6%9C%AC%E6%99%BA%E5%92%8C+%E6%97%A0%E7%BC%98%E5%86%B3%E8%B5%9B&sa=fyb_news"
+          "channel": "toutiao",
+          "rank": 7,
+          "hot": 10355737,
+          "url": "https://www.toutiao.com/trending/7700592660213403187/"
         }
       ],
       "summary": "",
-      "url": "https://m.baidu.com/s?word=%E6%B8%A9%E7%91%9E%E5%8D%9A0-3%E5%BC%A0%E6%9C%AC%E6%99%BA%E5%92%8C+%E6%97%A0%E7%BC%98%E5%86%B3%E8%B5%9B&sa=fyb_news"
+      "url": "https://www.toutiao.com/trending/7700592660213403187/"
     },
     {
-      "id": "evt-01000000",
-      "title": "又双‌叒没赢！成都0比1不敌大连，中超冠军收官战揭晓",
+      "id": "evt-23596000",
+      "title": "“23:59:60”今后将不再出现",
+      "category": "society",
+      "hotScore": 0.56,
+      "freshness": 1,
+      "crossSource": 0.6309,
+      "totalScore": 0.7133,
+      "sources": [
+        {
+          "channel": "baidu",
+          "rank": 7,
+          "hot": 0,
+          "url": "https://m.baidu.com/s?word=%E2%80%9C23%3A59%3A60%E2%80%9D%E4%BB%8A%E5%90%8E%E5%B0%86%E4%B8%8D%E5%86%8D%E5%87%BA%E7%8E%B0&sa=fyb_news"
+        }
+      ],
+      "summary": "",
+      "url": "https://m.baidu.com/s?word=%E2%80%9C23%3A59%3A60%E2%80%9D%E4%BB%8A%E5%90%8E%E5%B0%86%E4%B8%8D%E5%86%8D%E5%87%BA%E7%8E%B0&sa=fyb_news"
+    },
+    {
+      "id": "evt-itf00000",
+      "title": "再夺一冠！孙心然赢得ITF青少年年终总决赛女单冠军",
       "category": "society",
       "hotScore": 0.5525,
       "freshness": 0.9999,
-      "crossSource": 1,
-      "totalScore": 0.821,
+      "crossSource": 0.6309,
+      "totalScore": 0.7103,
       "sources": [
         {
           "channel": "thepaper",
           "rank": 8,
           "hot": 0,
-          "url": "https://www.thepaper.cn/newsDetail_forward_34325208"
+          "url": "https://www.thepaper.cn/newsDetail_forward_34328841"
         }
       ],
       "summary": "",
-      "url": "https://www.thepaper.cn/newsDetail_forward_34325208"
+      "url": "https://www.thepaper.cn/newsDetail_forward_34328841"
     },
     {
-      "id": "evt-60000000",
-      "title": "斯里兰卡遭遇全国性断电 6 小时，太阳能发电过剩为何会导致电网崩溃？",
+      "id": "evt-50000000",
+      "title": "你有 5 分钟把一个回形针藏在家里，侦探有 24 小时来找，找不到就给你 1 万美元，你会藏在哪里？",
       "category": "society",
       "hotScore": 0.525,
       "freshness": 0.9999,
-      "crossSource": 1,
-      "totalScore": 0.81,
+      "crossSource": 0.6309,
+      "totalScore": 0.6992,
       "sources": [
         {
           "channel": "zhihu",
@@ -178,42 +247,23 @@
       "url": ""
     },
     {
-      "id": "evt-20260000",
-      "title": "2026全球治理论坛（雄安）丨如何应对AI安全风险？中外专家给出了答案",
+      "id": "evt-43000000",
+      "title": "国乒亚锦赛4金3银收官",
       "category": "society",
-      "hotScore": 0.4675,
-      "freshness": 0.9999,
-      "crossSource": 1,
-      "totalScore": 0.787,
-      "sources": [
-        {
-          "channel": "thepaper",
-          "rank": 10,
-          "hot": 0,
-          "url": "https://www.thepaper.cn/newsDetail_forward_34326151"
-        }
-      ],
-      "summary": "",
-      "url": "https://www.thepaper.cn/newsDetail_forward_34326151"
-    },
-    {
-      "id": "evt-40000000",
-      "title": "妈妈给儿子准备40万结婚钱 女儿报警",
-      "category": "society",
-      "hotScore": 0.44,
+      "hotScore": 0.52,
       "freshness": 1,
-      "crossSource": 1,
-      "totalScore": 0.776,
+      "crossSource": 0.6309,
+      "totalScore": 0.6973,
       "sources": [
         {
           "channel": "baidu",
-          "rank": 10,
+          "rank": 8,
           "hot": 0,
-          "url": "https://m.baidu.com/s?word=%E5%A6%88%E5%A6%88%E7%BB%99%E5%84%BF%E5%AD%90%E5%87%86%E5%A4%8740%E4%B8%87%E7%BB%93%E5%A9%9A%E9%92%B1+%E5%A5%B3%E5%84%BF%E6%8A%A5%E8%AD%A6&sa=fyb_news"
+          "url": "https://m.baidu.com/s?word=%E5%9B%BD%E4%B9%92%E4%BA%9A%E9%94%A6%E8%B5%9B4%E9%87%913%E9%93%B6%E6%94%B6%E5%AE%98&sa=fyb_news"
         }
       ],
       "summary": "",
-      "url": "https://m.baidu.com/s?word=%E5%A6%88%E5%A6%88%E7%BB%99%E5%84%BF%E5%AD%90%E5%87%86%E5%A4%8740%E4%B8%87%E7%BB%93%E5%A9%9A%E9%92%B1+%E5%A5%B3%E5%84%BF%E6%8A%A5%E8%AD%A6&sa=fyb_news"
+      "url": "https://m.baidu.com/s?word=%E5%9B%BD%E4%B9%92%E4%BA%9A%E9%94%A6%E8%B5%9B4%E9%87%913%E9%93%B6%E6%94%B6%E5%AE%98&sa=fyb_news"
     }
   ]
 }
