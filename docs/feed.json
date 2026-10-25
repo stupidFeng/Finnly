@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-10-25T17:29:12.233Z",
+  "generatedAt": "2026-10-25T20:08:01.915Z",
   "fields": {
     "society": "社会",
     "economy": "经济",
@@ -7,43 +7,18 @@
   },
   "feed": [
     {
-      "id": "evt-23596000",
-      "title": "“23:59:60”今后将不再出现",
+      "id": "evt-00000000",
+      "title": "县委书记回应被扔下水：张雪临时起意",
       "category": "society",
       "hotScore": 0.8075,
-      "freshness": 0.9999,
+      "freshness": 1,
       "crossSource": 1,
       "totalScore": 0.923,
       "sources": [
         {
           "channel": "toutiao",
           "rank": 2,
-          "hot": 20084194,
-          "url": "https://www.toutiao.com/trending/7698300945130390043/"
-        },
-        {
-          "channel": "baidu",
-          "rank": 3,
-          "hot": 0,
-          "url": "https://m.baidu.com/s?word=%E2%80%9C23%3A59%3A60%E2%80%9D%E4%BB%8A%E5%90%8E%E5%B0%86%E4%B8%8D%E5%86%8D%E5%87%BA%E7%8E%B0&sa=fyb_news"
-        }
-      ],
-      "summary": "",
-      "url": "https://www.toutiao.com/trending/7698300945130390043/"
-    },
-    {
-      "id": "evt-00000000",
-      "title": "县委书记回应被扔下水：张雪临时起意",
-      "category": "society",
-      "hotScore": 0.76,
-      "freshness": 0.9999,
-      "crossSource": 1,
-      "totalScore": 0.904,
-      "sources": [
-        {
-          "channel": "toutiao",
-          "rank": 4,
-          "hot": 16443547,
+          "hot": 20575024,
           "url": "https://www.toutiao.com/trending/7700473698733588506/"
         },
         {
@@ -76,52 +51,27 @@
       "url": "https://www.thepaper.cn/newsDetail_forward_34328530"
     },
     {
-      "id": "evt-23000000",
-      "title": "李天阳2-3张本智和",
+      "id": "evt-90200000",
+      "title": "六大议题、90余场活动，2026进博会上海会议活动开放报名",
       "category": "society",
-      "hotScore": 0.52,
-      "freshness": 0.9999,
-      "crossSource": 1,
-      "totalScore": 0.808,
+      "hotScore": 0.8075,
+      "freshness": 1,
+      "crossSource": 0.6309,
+      "totalScore": 0.8123,
       "sources": [
         {
-          "channel": "toutiao",
-          "rank": 18,
-          "hot": 4054928,
-          "url": "https://www.toutiao.com/trending/7700595461064805939/"
-        },
-        {
-          "channel": "baidu",
-          "rank": 8,
+          "channel": "thepaper",
+          "rank": 2,
           "hot": 0,
-          "url": "https://m.baidu.com/s?word=%E6%9D%8E%E5%A4%A9%E9%98%B32-3%E5%BC%A0%E6%9C%AC%E6%99%BA%E5%92%8C&sa=fyb_news"
+          "url": "https://www.thepaper.cn/newsDetail_forward_34329840"
         }
       ],
       "summary": "",
-      "url": "https://www.toutiao.com/trending/7700595461064805939/"
+      "url": "https://www.thepaper.cn/newsDetail_forward_34329840"
     },
     {
       "id": "evt-76000000",
       "title": "76年了，致敬最可爱的他们",
-      "category": "society",
-      "hotScore": 0.765,
-      "freshness": 0.9999,
-      "crossSource": 0.6309,
-      "totalScore": 0.7953,
-      "sources": [
-        {
-          "channel": "toutiao",
-          "rank": 3,
-          "hot": 18172930,
-          "url": "https://www.toutiao.com/trending/7700376045093912595/"
-        }
-      ],
-      "summary": "",
-      "url": "https://www.toutiao.com/trending/7700376045093912595/"
-    },
-    {
-      "id": "evt-20270000",
-      "title": "于蕾出任2027羊年央视春晚总导演，连续第5年执导春晚",
       "category": "society",
       "hotScore": 0.765,
       "freshness": 1,
@@ -129,8 +79,46 @@
       "totalScore": 0.7953,
       "sources": [
         {
-          "channel": "thepaper",
+          "channel": "toutiao",
           "rank": 3,
+          "hot": 18617052,
+          "url": "https://www.toutiao.com/trending/7700376045093912595/"
+        }
+      ],
+      "summary": "",
+      "url": "https://www.toutiao.com/trending/7700376045093912595/"
+    },
+    {
+      "id": "evt-26000000",
+      "title": "山东日照捕获260余斤“鲅鱼王”",
+      "category": "society",
+      "hotScore": 0.7225,
+      "freshness": 1,
+      "crossSource": 0.6309,
+      "totalScore": 0.7783,
+      "sources": [
+        {
+          "channel": "toutiao",
+          "rank": 4,
+          "hot": 16845405,
+          "url": "https://www.toutiao.com/trending/7699744084282294282/"
+        }
+      ],
+      "summary": "",
+      "url": "https://www.toutiao.com/trending/7699744084282294282/"
+    },
+    {
+      "id": "evt-20270000",
+      "title": "于蕾出任2027羊年央视春晚总导演，连续第5年执导春晚",
+      "category": "society",
+      "hotScore": 0.7225,
+      "freshness": 1,
+      "crossSource": 0.6309,
+      "totalScore": 0.7783,
+      "sources": [
+        {
+          "channel": "thepaper",
+          "rank": 4,
           "hot": 0,
           "url": "https://www.thepaper.cn/newsDetail_forward_34328625"
         }
@@ -139,37 +127,37 @@
       "url": "https://www.thepaper.cn/newsDetail_forward_34328625"
     },
     {
-      "id": "evt-26000000",
-      "title": "山东日照捕获260余斤“鲅鱼王”",
+      "id": "evt-23596000",
+      "title": "“23:59:60”今后将不再出现",
+      "category": "society",
+      "hotScore": 0.72,
+      "freshness": 1,
+      "crossSource": 0.6309,
+      "totalScore": 0.7773,
+      "sources": [
+        {
+          "channel": "baidu",
+          "rank": 3,
+          "hot": 0,
+          "url": "https://m.baidu.com/s?word=%E2%80%9C23%3A59%3A60%E2%80%9D%E4%BB%8A%E5%90%8E%E5%B0%86%E4%B8%8D%E5%86%8D%E5%87%BA%E7%8E%B0&sa=fyb_news"
+        }
+      ],
+      "summary": "",
+      "url": "https://m.baidu.com/s?word=%E2%80%9C23%3A59%3A60%E2%80%9D%E4%BB%8A%E5%90%8E%E5%B0%86%E4%B8%8D%E5%86%8D%E5%87%BA%E7%8E%B0&sa=fyb_news"
+    },
+    {
+      "id": "evt-38000000",
+      "title": "姑娘花3.8万在鹤岗买房入住后傻眼",
       "category": "society",
       "hotScore": 0.68,
-      "freshness": 0.9999,
+      "freshness": 1,
       "crossSource": 0.6309,
       "totalScore": 0.7613,
       "sources": [
         {
           "channel": "toutiao",
           "rank": 5,
-          "hot": 14878737,
-          "url": "https://www.toutiao.com/trending/7699744084282294282/"
-        }
-      ],
-      "summary": "",
-      "url": "https://www.toutiao.com/trending/7699744084282294282/"
-    },
-    {
-      "id": "evt-38000000",
-      "title": "姑娘花3.8万在鹤岗买房入住后傻眼",
-      "category": "society",
-      "hotScore": 0.6375,
-      "freshness": 0.9999,
-      "crossSource": 0.6309,
-      "totalScore": 0.7443,
-      "sources": [
-        {
-          "channel": "toutiao",
-          "rank": 6,
-          "hot": 13462838,
+          "hot": 15242353,
           "url": "https://www.toutiao.com/trending/7700115642267844644/"
         }
       ],
@@ -177,37 +165,37 @@
       "url": "https://www.toutiao.com/trending/7700115642267844644/"
     },
     {
-      "id": "evt-20260000",
-      "title": "2026全球治理论坛（雄安）丨如何应对AI安全风险？中外专家给出了答案",
+      "id": "evt-s16hle01i",
+      "title": "S16 瑞士轮 HLE 0-1 iG，如何评价这场比赛？",
       "category": "society",
-      "hotScore": 0.595,
+      "hotScore": 0.675,
       "freshness": 1,
       "crossSource": 0.6309,
-      "totalScore": 0.7273,
+      "totalScore": 0.7593,
       "sources": [
         {
-          "channel": "thepaper",
-          "rank": 7,
+          "channel": "zhihu",
+          "rank": 3,
           "hot": 0,
-          "url": "https://www.thepaper.cn/newsDetail_forward_34326151"
+          "url": ""
         }
       ],
       "summary": "",
-      "url": "https://www.thepaper.cn/newsDetail_forward_34326151"
+      "url": ""
     },
     {
       "id": "evt-83000000",
       "title": "国考83个职位无人报名",
       "category": "society",
-      "hotScore": 0.5525,
-      "freshness": 0.9999,
+      "hotScore": 0.6375,
+      "freshness": 1,
       "crossSource": 0.6309,
-      "totalScore": 0.7103,
+      "totalScore": 0.7443,
       "sources": [
         {
           "channel": "toutiao",
-          "rank": 8,
-          "hot": 11022439,
+          "rank": 6,
+          "hot": 13791851,
           "url": "https://www.toutiao.com/trending/7699488753051631679/"
         }
       ],
@@ -215,18 +203,37 @@
       "url": "https://www.toutiao.com/trending/7699488753051631679/"
     },
     {
+      "id": "evt-workbuddy",
+      "title": "大家用 WorkBuddy 都用来干啥？",
+      "category": "society",
+      "hotScore": 0.6,
+      "freshness": 1,
+      "crossSource": 0.6309,
+      "totalScore": 0.7293,
+      "sources": [
+        {
+          "channel": "zhihu",
+          "rank": 5,
+          "hot": 0,
+          "url": ""
+        }
+      ],
+      "summary": "",
+      "url": ""
+    },
+    {
       "id": "evt-12000000",
       "title": "女子回应离婚12年接前婆婆一起生活",
       "category": "society",
-      "hotScore": 0.51,
-      "freshness": 0.9999,
+      "hotScore": 0.595,
+      "freshness": 1,
       "crossSource": 0.6309,
-      "totalScore": 0.6933,
+      "totalScore": 0.7273,
       "sources": [
         {
           "channel": "toutiao",
-          "rank": 9,
-          "hot": 9973515,
+          "rank": 7,
+          "hot": 12479383,
           "url": "https://www.toutiao.com/trending/7700097025165459499/"
         }
       ],
@@ -234,8 +241,46 @@
       "url": "https://www.toutiao.com/trending/7700097025165459499/"
     },
     {
-      "id": "evt-itf00000",
-      "title": "再夺一冠！孙心然赢得ITF青少年年终总决赛女单冠军",
+      "id": "evt-23000000",
+      "title": "李天阳2-3张本智和",
+      "category": "society",
+      "hotScore": 0.52,
+      "freshness": 1,
+      "crossSource": 0.6309,
+      "totalScore": 0.6973,
+      "sources": [
+        {
+          "channel": "baidu",
+          "rank": 8,
+          "hot": 0,
+          "url": "https://m.baidu.com/s?word=%E6%9D%8E%E5%A4%A9%E9%98%B32-3%E5%BC%A0%E6%9C%AC%E6%99%BA%E5%92%8C&sa=fyb_news"
+        }
+      ],
+      "summary": "",
+      "url": "https://m.baidu.com/s?word=%E6%9D%8E%E5%A4%A9%E9%98%B32-3%E5%BC%A0%E6%9C%AC%E6%99%BA%E5%92%8C&sa=fyb_news"
+    },
+    {
+      "id": "evt-31202500",
+      "title": "31省份2025年人口出生率公布",
+      "category": "society",
+      "hotScore": 0.51,
+      "freshness": 1,
+      "crossSource": 0.6309,
+      "totalScore": 0.6933,
+      "sources": [
+        {
+          "channel": "toutiao",
+          "rank": 9,
+          "hot": 10217254,
+          "url": "https://www.toutiao.com/trending/7700139588664328754/"
+        }
+      ],
+      "summary": "",
+      "url": "https://www.toutiao.com/trending/7700139588664328754/"
+    },
+    {
+      "id": "evt-20260000",
+      "title": "2026全球治理论坛（雄安）丨如何应对AI安全风险？中外专家给出了答案",
       "category": "society",
       "hotScore": 0.51,
       "freshness": 1,
@@ -246,30 +291,11 @@
           "channel": "thepaper",
           "rank": 9,
           "hot": 0,
-          "url": "https://www.thepaper.cn/newsDetail_forward_34328841"
+          "url": "https://www.thepaper.cn/newsDetail_forward_34326151"
         }
       ],
       "summary": "",
-      "url": "https://www.thepaper.cn/newsDetail_forward_34328841"
-    },
-    {
-      "id": "evt-workbuddy",
-      "title": "大家用 WorkBuddy 都用来干啥？",
-      "category": "society",
-      "hotScore": 0.4125,
-      "freshness": 1,
-      "crossSource": 0.6309,
-      "totalScore": 0.6543,
-      "sources": [
-        {
-          "channel": "zhihu",
-          "rank": 10,
-          "hot": 0,
-          "url": ""
-        }
-      ],
-      "summary": "",
-      "url": ""
+      "url": "https://www.thepaper.cn/newsDetail_forward_34326151"
     }
   ]
 }
