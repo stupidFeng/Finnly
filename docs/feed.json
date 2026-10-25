@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-10-25T02:15:06.505Z",
+  "generatedAt": "2026-10-25T08:48:26.811Z",
   "fields": {
     "society": "社会",
     "economy": "经济",
@@ -7,33 +7,103 @@
   },
   "feed": [
     {
-      "id": "evt-25000000",
-      "title": "泽连斯基：拒绝接受放弃25%领土提议",
+      "id": "evt-00000000",
+      "title": "张雪机车刷新水上漂吉尼斯世界纪录",
       "category": "society",
-      "hotScore": 0.8075,
+      "hotScore": 0.85,
       "freshness": 0.9999,
       "crossSource": 1,
-      "totalScore": 0.923,
+      "totalScore": 0.94,
       "sources": [
         {
           "channel": "toutiao",
-          "rank": 2,
-          "hot": 15121244,
-          "url": "https://www.toutiao.com/trending/7699509225088745526/"
-        },
-        {
-          "channel": "baidu",
-          "rank": 7,
-          "hot": 0,
-          "url": "https://m.baidu.com/s?word=%E6%B3%BD%E8%BF%9E%E6%96%AF%E5%9F%BA%EF%BC%9A%E6%8B%92%E7%BB%9D%E6%8E%A5%E5%8F%97%E6%94%BE%E5%BC%8325%25%E9%A2%86%E5%9C%9F%E6%8F%90%E8%AE%AE&sa=fyb_news"
+          "rank": 1,
+          "hot": 18847456,
+          "url": "https://www.toutiao.com/trending/7700435988002295305/"
         }
       ],
       "summary": "",
-      "url": "https://www.toutiao.com/trending/7699509225088745526/"
+      "url": "https://www.toutiao.com/trending/7700435988002295305/"
     },
     {
-      "id": "evt-00000000",
-      "title": "菲两架军机空中相撞画面曝光",
+      "id": "evt-38000000",
+      "title": "女子花3.8万鹤岗买房 搬进去后傻眼",
+      "category": "society",
+      "hotScore": 0.72,
+      "freshness": 1,
+      "crossSource": 1,
+      "totalScore": 0.888,
+      "sources": [
+        {
+          "channel": "baidu",
+          "rank": 3,
+          "hot": 0,
+          "url": "https://m.baidu.com/s?word=%E5%A5%B3%E5%AD%90%E8%8A%B13.8%E4%B8%87%E9%B9%A4%E5%B2%97%E4%B9%B0%E6%88%BF+%E6%90%AC%E8%BF%9B%E5%8E%BB%E5%90%8E%E5%82%BB%E7%9C%BC&sa=fyb_news"
+        }
+      ],
+      "summary": "",
+      "url": "https://m.baidu.com/s?word=%E5%A5%B3%E5%AD%90%E8%8A%B13.8%E4%B8%87%E9%B9%A4%E5%B2%97%E4%B9%B0%E6%88%BF+%E6%90%AC%E8%BF%9B%E5%8E%BB%E5%90%8E%E5%82%BB%E7%9C%BC&sa=fyb_news"
+    },
+    {
+      "id": "evt-50000000",
+      "title": "你有 5 分钟把一个回形针藏在家里，侦探有 24 小时来找，找不到就给你 1 万美元，你会藏在哪里？",
+      "category": "society",
+      "hotScore": 0.7125,
+      "freshness": 0.9999,
+      "crossSource": 1,
+      "totalScore": 0.885,
+      "sources": [
+        {
+          "channel": "zhihu",
+          "rank": 2,
+          "hot": 0,
+          "url": ""
+        }
+      ],
+      "summary": "",
+      "url": ""
+    },
+    {
+      "id": "evt-48000000",
+      "title": "海拔4800米的生命救援",
+      "category": "society",
+      "hotScore": 0.68,
+      "freshness": 1,
+      "crossSource": 1,
+      "totalScore": 0.872,
+      "sources": [
+        {
+          "channel": "baidu",
+          "rank": 4,
+          "hot": 0,
+          "url": "https://m.baidu.com/s?word=%E6%B5%B7%E6%8B%944800%E7%B1%B3%E7%9A%84%E7%94%9F%E5%91%BD%E6%95%91%E6%8F%B4&sa=fyb_news"
+        }
+      ],
+      "summary": "",
+      "url": "https://m.baidu.com/s?word=%E6%B5%B7%E6%8B%944800%E7%B1%B3%E7%9A%84%E7%94%9F%E5%91%BD%E6%95%91%E6%8F%B4&sa=fyb_news"
+    },
+    {
+      "id": "evt-90000000",
+      "title": "上海 90 岁老人在公共楼道住近一年，三名女儿因赡养问题互相推诿，该怎样破局？如何从法律角度解读？",
+      "category": "society",
+      "hotScore": 0.675,
+      "freshness": 0.9999,
+      "crossSource": 1,
+      "totalScore": 0.87,
+      "sources": [
+        {
+          "channel": "zhihu",
+          "rank": 3,
+          "hot": 0,
+          "url": ""
+        }
+      ],
+      "summary": "",
+      "url": ""
+    },
+    {
+      "id": "evt-67300000",
+      "title": "夫妻花 67.3 万买劳力士却不挑选不试戴，店员果断报警，最终证实夫妻两人遭遇诈骗，这背后有着怎样的骗局？",
       "category": "society",
       "hotScore": 0.6375,
       "freshness": 0.9999,
@@ -41,71 +111,8 @@
       "totalScore": 0.855,
       "sources": [
         {
-          "channel": "toutiao",
-          "rank": 6,
-          "hot": 10136073,
-          "url": "https://www.toutiao.com/trending/7699853418193993778/"
-        },
-        {
-          "channel": "baidu",
-          "rank": 19,
-          "hot": 0,
-          "url": "https://m.baidu.com/s?word=%E8%8F%B2%E4%B8%A4%E6%9E%B6%E5%86%9B%E6%9C%BA%E7%A9%BA%E4%B8%AD%E7%9B%B8%E6%92%9E%E7%94%BB%E9%9D%A2%E6%9B%9D%E5%85%89&sa=fyb_news"
-        }
-      ],
-      "summary": "",
-      "url": "https://www.toutiao.com/trending/7699853418193993778/"
-    },
-    {
-      "id": "evt-60000000",
-      "title": "超6万件套救援物资运往灾区",
-      "category": "society",
-      "hotScore": 0.765,
-      "freshness": 0.9999,
-      "crossSource": 0.6309,
-      "totalScore": 0.7952,
-      "sources": [
-        {
-          "channel": "toutiao",
-          "rank": 3,
-          "hot": 13682267,
-          "url": "https://www.toutiao.com/trending/7700420773877435913/"
-        }
-      ],
-      "summary": "",
-      "url": "https://www.toutiao.com/trending/7700420773877435913/"
-    },
-    {
-      "id": "evt-31202500",
-      "title": "31省份2025年人口出生率公布",
-      "category": "society",
-      "hotScore": 0.7225,
-      "freshness": 0.9999,
-      "crossSource": 0.6309,
-      "totalScore": 0.7782,
-      "sources": [
-        {
-          "channel": "toutiao",
-          "rank": 4,
-          "hot": 12380227,
-          "url": "https://www.toutiao.com/trending/7700139588664328754/"
-        }
-      ],
-      "summary": "",
-      "url": "https://www.toutiao.com/trending/7700139588664328754/"
-    },
-    {
-      "id": "evt-s16tes10a",
-      "title": "S16 瑞士轮 TES 1:0 AL，如何评价这场比赛？",
-      "category": "society",
-      "hotScore": 0.7125,
-      "freshness": 0.9999,
-      "crossSource": 0.6309,
-      "totalScore": 0.7742,
-      "sources": [
-        {
           "channel": "zhihu",
-          "rank": 2,
+          "rank": 4,
           "hot": 0,
           "url": ""
         }
@@ -114,146 +121,51 @@
       "url": ""
     },
     {
-      "id": "evt-80000000",
-      "title": "出口首破8万亿 “新”字挑大梁",
-      "category": "society",
-      "hotScore": 0.68,
-      "freshness": 0.9999,
-      "crossSource": 0.6309,
-      "totalScore": 0.7612,
-      "sources": [
-        {
-          "channel": "baidu",
-          "rank": 4,
-          "hot": 0,
-          "url": "https://m.baidu.com/s?word=%E5%87%BA%E5%8F%A3%E9%A6%96%E7%A0%B48%E4%B8%87%E4%BA%BF+%E2%80%9C%E6%96%B0%E2%80%9D%E5%AD%97%E6%8C%91%E5%A4%A7%E6%A2%81&sa=fyb_news"
-        }
-      ],
-      "summary": "",
-      "url": "https://m.baidu.com/s?word=%E5%87%BA%E5%8F%A3%E9%A6%96%E7%A0%B48%E4%B8%87%E4%BA%BF+%E2%80%9C%E6%96%B0%E2%80%9D%E5%AD%97%E6%8C%91%E5%A4%A7%E6%A2%81&sa=fyb_news"
-    },
-    {
-      "id": "evt-55000000",
-      "title": "高盛：人民币将迎来5.5时代",
-      "category": "society",
-      "hotScore": 0.68,
-      "freshness": 0.9999,
-      "crossSource": 0.6309,
-      "totalScore": 0.7612,
-      "sources": [
-        {
-          "channel": "toutiao",
-          "rank": 5,
-          "hot": 11202093,
-          "url": "https://www.toutiao.com/trending/7699576136581513252/"
-        }
-      ],
-      "summary": "",
-      "url": "https://www.toutiao.com/trending/7699576136581513252/"
-    },
-    {
-      "id": "evt-83000000",
-      "title": "国考83个职位无人报名",
-      "category": "society",
-      "hotScore": 0.64,
-      "freshness": 0.9999,
-      "crossSource": 0.6309,
-      "totalScore": 0.7452,
-      "sources": [
-        {
-          "channel": "baidu",
-          "rank": 5,
-          "hot": 0,
-          "url": "https://m.baidu.com/s?word=%E5%9B%BD%E8%80%8383%E4%B8%AA%E8%81%8C%E4%BD%8D%E6%97%A0%E4%BA%BA%E6%8A%A5%E5%90%8D&sa=fyb_news"
-        }
-      ],
-      "summary": "",
-      "url": "https://m.baidu.com/s?word=%E5%9B%BD%E8%80%8383%E4%B8%AA%E8%81%8C%E4%BD%8D%E6%97%A0%E4%BA%BA%E6%8A%A5%E5%90%8D&sa=fyb_news"
-    },
-    {
-      "id": "evt-40000000",
-      "title": "宝马司机把400元油费丢地上让员工捡",
+      "id": "evt-03000000",
+      "title": "温瑞博0-3张本智和 无缘决赛",
       "category": "society",
       "hotScore": 0.6,
-      "freshness": 0.9999,
-      "crossSource": 0.6309,
-      "totalScore": 0.7292,
+      "freshness": 1,
+      "crossSource": 1,
+      "totalScore": 0.84,
       "sources": [
         {
           "channel": "baidu",
           "rank": 6,
           "hot": 0,
-          "url": "https://m.baidu.com/s?word=%E5%AE%9D%E9%A9%AC%E5%8F%B8%E6%9C%BA%E6%8A%8A400%E5%85%83%E6%B2%B9%E8%B4%B9%E4%B8%A2%E5%9C%B0%E4%B8%8A%E8%AE%A9%E5%91%98%E5%B7%A5%E6%8D%A1&sa=fyb_news"
+          "url": "https://m.baidu.com/s?word=%E6%B8%A9%E7%91%9E%E5%8D%9A0-3%E5%BC%A0%E6%9C%AC%E6%99%BA%E5%92%8C+%E6%97%A0%E7%BC%98%E5%86%B3%E8%B5%9B&sa=fyb_news"
         }
       ],
       "summary": "",
-      "url": "https://m.baidu.com/s?word=%E5%AE%9D%E9%A9%AC%E5%8F%B8%E6%9C%BA%E6%8A%8A400%E5%85%83%E6%B2%B9%E8%B4%B9%E4%B8%A2%E5%9C%B0%E4%B8%8A%E8%AE%A9%E5%91%98%E5%B7%A5%E6%8D%A1&sa=fyb_news"
+      "url": "https://m.baidu.com/s?word=%E6%B8%A9%E7%91%9E%E5%8D%9A0-3%E5%BC%A0%E6%9C%AC%E6%99%BA%E5%92%8C+%E6%97%A0%E7%BC%98%E5%86%B3%E8%B5%9B&sa=fyb_news"
     },
     {
-      "id": "evt-85000000",
-      "title": "如何看待 85 万新能源车成「电子孤儿」，修不了、卖不掉，连保险也拒绝担保？",
-      "category": "society",
-      "hotScore": 0.6,
-      "freshness": 0.9999,
-      "crossSource": 0.6309,
-      "totalScore": 0.7292,
-      "sources": [
-        {
-          "channel": "zhihu",
-          "rank": 5,
-          "hot": 0,
-          "url": ""
-        }
-      ],
-      "summary": "",
-      "url": ""
-    },
-    {
-      "id": "evt-ai000000",
-      "title": "当AI开始写代码，还需要什么样的程序员？",
+      "id": "evt-01000000",
+      "title": "又双‌叒没赢！成都0比1不敌大连，中超冠军收官战揭晓",
       "category": "society",
       "hotScore": 0.5525,
-      "freshness": 1,
-      "crossSource": 0.6309,
-      "totalScore": 0.7103,
+      "freshness": 0.9999,
+      "crossSource": 1,
+      "totalScore": 0.821,
       "sources": [
         {
           "channel": "thepaper",
           "rank": 8,
           "hot": 0,
-          "url": "https://www.thepaper.cn/newsDetail_forward_34225156"
+          "url": "https://www.thepaper.cn/newsDetail_forward_34325208"
         }
       ],
       "summary": "",
-      "url": "https://www.thepaper.cn/newsDetail_forward_34225156"
+      "url": "https://www.thepaper.cn/newsDetail_forward_34325208"
     },
     {
-      "id": "evt-12400000",
-      "title": "母亲患病 124万被女儿女婿擅自取走",
-      "category": "society",
-      "hotScore": 0.5525,
-      "freshness": 0.9999,
-      "crossSource": 0.6309,
-      "totalScore": 0.7102,
-      "sources": [
-        {
-          "channel": "toutiao",
-          "rank": 8,
-          "hot": 8298714,
-          "url": "https://www.toutiao.com/trending/7700213977267224602/"
-        }
-      ],
-      "summary": "",
-      "url": "https://www.toutiao.com/trending/7700213977267224602/"
-    },
-    {
-      "id": "evt-50000000",
-      "title": "你有 5 分钟把一个回形针藏在家里，侦探有 24 小时来找，找不到就给你 1 万美元，你会藏在哪里？",
+      "id": "evt-60000000",
+      "title": "斯里兰卡遭遇全国性断电 6 小时，太阳能发电过剩为何会导致电网崩溃？",
       "category": "society",
       "hotScore": 0.525,
       "freshness": 0.9999,
-      "crossSource": 0.6309,
-      "totalScore": 0.6992,
+      "crossSource": 1,
+      "totalScore": 0.81,
       "sources": [
         {
           "channel": "zhihu",
@@ -266,23 +178,42 @@
       "url": ""
     },
     {
-      "id": "evt-01000000",
-      "title": "又双‌叒没赢！成都0比1不敌大连，中超冠军收官战揭晓",
+      "id": "evt-20260000",
+      "title": "2026全球治理论坛（雄安）丨如何应对AI安全风险？中外专家给出了答案",
       "category": "society",
-      "hotScore": 0.425,
-      "freshness": 1,
-      "crossSource": 0.6309,
-      "totalScore": 0.6593,
+      "hotScore": 0.4675,
+      "freshness": 0.9999,
+      "crossSource": 1,
+      "totalScore": 0.787,
       "sources": [
         {
           "channel": "thepaper",
-          "rank": 11,
+          "rank": 10,
           "hot": 0,
-          "url": "https://www.thepaper.cn/newsDetail_forward_34325208"
+          "url": "https://www.thepaper.cn/newsDetail_forward_34326151"
         }
       ],
       "summary": "",
-      "url": "https://www.thepaper.cn/newsDetail_forward_34325208"
+      "url": "https://www.thepaper.cn/newsDetail_forward_34326151"
+    },
+    {
+      "id": "evt-40000000",
+      "title": "妈妈给儿子准备40万结婚钱 女儿报警",
+      "category": "society",
+      "hotScore": 0.44,
+      "freshness": 1,
+      "crossSource": 1,
+      "totalScore": 0.776,
+      "sources": [
+        {
+          "channel": "baidu",
+          "rank": 10,
+          "hot": 0,
+          "url": "https://m.baidu.com/s?word=%E5%A6%88%E5%A6%88%E7%BB%99%E5%84%BF%E5%AD%90%E5%87%86%E5%A4%8740%E4%B8%87%E7%BB%93%E5%A9%9A%E9%92%B1+%E5%A5%B3%E5%84%BF%E6%8A%A5%E8%AD%A6&sa=fyb_news"
+        }
+      ],
+      "summary": "",
+      "url": "https://m.baidu.com/s?word=%E5%A6%88%E5%A6%88%E7%BB%99%E5%84%BF%E5%AD%90%E5%87%86%E5%A4%8740%E4%B8%87%E7%BB%93%E5%A9%9A%E9%92%B1+%E5%A5%B3%E5%84%BF%E6%8A%A5%E8%AD%A6&sa=fyb_news"
     }
   ]
 }
