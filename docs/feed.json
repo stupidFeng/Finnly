@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-10-26T09:28:49.406Z",
+  "generatedAt": "2026-10-26T16:21:49.242Z",
   "fields": {
     "society": "社会",
     "economy": "经济",
@@ -7,165 +7,101 @@
   },
   "feed": [
     {
-      "id": "evt-00000000",
-      "title": "人民日报任仲平文章：在新征程上持之以恒推进全面从严治党",
+      "id": "evt-15000000",
+      "title": "15个中央巡视组组长公布",
       "category": "society",
       "hotScore": 0.85,
-      "freshness": 1,
-      "crossSource": 0.6309,
-      "totalScore": 0.8293,
-      "sources": [
-        {
-          "channel": "thepaper",
-          "rank": 1,
-          "hot": 0,
-          "url": "https://www.thepaper.cn/newsDetail_forward_34329842"
-        }
-      ],
-      "summary": "",
-      "url": "https://www.thepaper.cn/newsDetail_forward_34329842"
-    },
-    {
-      "id": "evt-90200000",
-      "title": "六大议题、90余场活动，2026进博会上海会议活动开放报名",
-      "category": "society",
-      "hotScore": 0.8075,
-      "freshness": 1,
-      "crossSource": 0.6309,
-      "totalScore": 0.8123,
-      "sources": [
-        {
-          "channel": "thepaper",
-          "rank": 2,
-          "hot": 0,
-          "url": "https://www.thepaper.cn/newsDetail_forward_34329840"
-        }
-      ],
-      "summary": "",
-      "url": "https://www.thepaper.cn/newsDetail_forward_34329840"
-    },
-    {
-      "id": "evt-ai600000",
-      "title": "老干妈回应“用AI把600人裁到48人”",
-      "category": "society",
-      "hotScore": 0.76,
       "freshness": 0.9999,
-      "crossSource": 0.6309,
-      "totalScore": 0.7933,
-      "sources": [
-        {
-          "channel": "baidu",
-          "rank": 2,
-          "hot": 0,
-          "url": "https://m.baidu.com/s?word=%E8%80%81%E5%B9%B2%E5%A6%88%E5%9B%9E%E5%BA%94%E2%80%9C%E7%94%A8AI%E6%8A%8A600%E4%BA%BA%E8%A3%81%E5%88%B048%E4%BA%BA%E2%80%9D&sa=fyb_news"
-        }
-      ],
-      "summary": "",
-      "url": "https://m.baidu.com/s?word=%E8%80%81%E5%B9%B2%E5%A6%88%E5%9B%9E%E5%BA%94%E2%80%9C%E7%94%A8AI%E6%8A%8A600%E4%BA%BA%E8%A3%81%E5%88%B048%E4%BA%BA%E2%80%9D&sa=fyb_news"
-    },
-    {
-      "id": "evt-12345000",
-      "title": "人民锐评：允许12345有“不满意工单”，是对考核中的形式主义开刀",
-      "category": "society",
-      "hotScore": 0.7225,
-      "freshness": 1,
-      "crossSource": 0.6309,
-      "totalScore": 0.7783,
-      "sources": [
-        {
-          "channel": "thepaper",
-          "rank": 4,
-          "hot": 0,
-          "url": "https://www.thepaper.cn/newsDetail_forward_34329633"
-        }
-      ],
-      "summary": "",
-      "url": "https://www.thepaper.cn/newsDetail_forward_34329633"
-    },
-    {
-      "id": "evt-17000000",
-      "title": "男子诈骗好友170万全部亏在股市",
-      "category": "economy",
-      "hotScore": 0.4675,
-      "freshness": 0.9999,
-      "crossSource": 0.6309,
-      "totalScore": 0.6762,
+      "crossSource": 1,
+      "totalScore": 0.94,
       "sources": [
         {
           "channel": "toutiao",
-          "rank": 10,
-          "hot": 5498037,
-          "url": "https://www.toutiao.com/trending/7700831226697433129/"
-        }
-      ],
-      "summary": "",
-      "url": "https://www.toutiao.com/trending/7700831226697433129/"
-    },
-    {
-      "id": "evt-40000000",
-      "title": "兔八哥配音演员去世 年仅46岁",
-      "category": "entertainment",
-      "hotScore": 0.64,
-      "freshness": 0.9999,
-      "crossSource": 0.6309,
-      "totalScore": 0.7453,
-      "sources": [
+          "rank": 1,
+          "hot": 15725975,
+          "url": "https://www.toutiao.com/trending/7700187555274194987/"
+        },
         {
           "channel": "baidu",
           "rank": 5,
           "hot": 0,
-          "url": "https://m.baidu.com/s?word=%E5%85%94%E5%85%AB%E5%93%A5%E9%85%8D%E9%9F%B3%E6%BC%94%E5%91%98%E5%8E%BB%E4%B8%96+%E5%B9%B4%E4%BB%8546%E5%B2%81&sa=fyb_news"
+          "url": "https://m.baidu.com/s?word=15%E4%B8%AA%E4%B8%AD%E5%A4%AE%E5%B7%A1%E8%A7%86%E7%BB%84%E7%BB%84%E9%95%BF%E5%85%AC%E5%B8%83&sa=fyb_news"
         }
       ],
       "summary": "",
-      "url": "https://m.baidu.com/s?word=%E5%85%94%E5%85%AB%E5%93%A5%E9%85%8D%E9%9F%B3%E6%BC%94%E5%91%98%E5%8E%BB%E4%B8%96+%E5%B9%B4%E4%BB%8546%E5%B2%81&sa=fyb_news"
+      "url": "https://www.toutiao.com/trending/7700187555274194987/"
     },
     {
-      "id": "evt-10000000",
-      "title": "沪指震荡收红 中国石油创18年新高",
+      "id": "evt-00000000",
+      "title": "女子驾车过高架车顶被风筝线割破",
       "category": "society",
-      "hotScore": 0.6375,
+      "hotScore": 0.68,
       "freshness": 0.9999,
-      "crossSource": 0.6309,
-      "totalScore": 0.7442,
+      "crossSource": 1,
+      "totalScore": 0.872,
       "sources": [
         {
           "channel": "toutiao",
-          "rank": 6,
-          "hot": 8202108,
-          "url": "https://www.toutiao.com/trending/7700870187972660787/"
-        }
-      ],
-      "summary": "",
-      "url": "https://www.toutiao.com/trending/7700870187972660787/"
-    },
-    {
-      "id": "evt-20000000",
-      "title": "美国客户一口气在广州买200套房",
-      "category": "society",
-      "hotScore": 0.52,
-      "freshness": 0.9999,
-      "crossSource": 0.6309,
-      "totalScore": 0.6973,
-      "sources": [
+          "rank": 5,
+          "hot": 10541436,
+          "url": "https://www.toutiao.com/trending/7700591770706427967/"
+        },
         {
           "channel": "baidu",
-          "rank": 8,
+          "rank": 16,
           "hot": 0,
-          "url": "https://m.baidu.com/s?word=%E7%BE%8E%E5%9B%BD%E5%AE%A2%E6%88%B7%E4%B8%80%E5%8F%A3%E6%B0%94%E5%9C%A8%E5%B9%BF%E5%B7%9E%E4%B9%B0200%E5%A5%97%E6%88%BF&sa=fyb_news"
+          "url": "https://m.baidu.com/s?word=%E5%A5%B3%E5%AD%90%E9%A9%BE%E8%BD%A6%E8%BF%87%E9%AB%98%E6%9E%B6%E8%BD%A6%E9%A1%B6%E8%A2%AB%E9%A3%8E%E7%AD%9D%E7%BA%BF%E5%89%B2%E7%A0%B4&sa=fyb_news"
         }
       ],
       "summary": "",
-      "url": "https://m.baidu.com/s?word=%E7%BE%8E%E5%9B%BD%E5%AE%A2%E6%88%B7%E4%B8%80%E5%8F%A3%E6%B0%94%E5%9C%A8%E5%B9%BF%E5%B7%9E%E4%B9%B0200%E5%A5%97%E6%88%BF&sa=fyb_news"
+      "url": "https://www.toutiao.com/trending/7700591770706427967/"
     },
     {
-      "id": "evt-31000000",
-      "title": "31 省份去年平均工资出炉，全国城镇非私营单位平均工资 129441 元，还有哪些信息值得关注？",
+      "id": "evt-10000000",
+      "title": "王兴兴两次认错 宇树暴涨1100亿",
       "category": "society",
+      "hotScore": 0.8075,
+      "freshness": 0.9999,
+      "crossSource": 0.6309,
+      "totalScore": 0.8122,
+      "sources": [
+        {
+          "channel": "toutiao",
+          "rank": 2,
+          "hot": 14229451,
+          "url": "https://www.toutiao.com/trending/7700928117778419250/"
+        }
+      ],
+      "summary": "",
+      "url": "https://www.toutiao.com/trending/7700928117778419250/"
+    },
+    {
+      "id": "evt-ai000000",
+      "title": "如何看待老干妈回应「用 AI 把 600 名工人裁到 48 人」，称是不实信息？品牌能挽回消费者信任吗？",
+      "category": "society",
+      "hotScore": 0.675,
+      "freshness": 0.9999,
+      "crossSource": 0.6309,
+      "totalScore": 0.7592,
+      "sources": [
+        {
+          "channel": "zhihu",
+          "rank": 3,
+          "hot": 0,
+          "url": ""
+        }
+      ],
+      "summary": "",
+      "url": ""
+    },
+    {
+      "id": "evt-deepseek",
+      "title": "DeepSeek 营收只有几亿，却融资上千亿，这种模式合理吗？",
+      "category": "economy",
       "hotScore": 0.4875,
       "freshness": 0.9999,
       "crossSource": 0.6309,
-      "totalScore": 0.6843,
+      "totalScore": 0.6842,
       "sources": [
         {
           "channel": "zhihu",
@@ -178,23 +114,42 @@
       "url": ""
     },
     {
-      "id": "evt-token000",
-      "title": "从“种土豆”到“种Token”",
+      "id": "evt-vs000000",
+      "title": "不刷牙睡觉vs不刷牙吃早餐哪个更伤身",
       "category": "society",
-      "hotScore": 0.44,
+      "hotScore": 0.56,
       "freshness": 0.9999,
       "crossSource": 0.6309,
-      "totalScore": 0.6653,
+      "totalScore": 0.7133,
       "sources": [
         {
           "channel": "baidu",
-          "rank": 10,
+          "rank": 7,
           "hot": 0,
-          "url": "https://m.baidu.com/s?word=%E4%BB%8E%E2%80%9C%E7%A7%8D%E5%9C%9F%E8%B1%86%E2%80%9D%E5%88%B0%E2%80%9C%E7%A7%8DToken%E2%80%9D&sa=fyb_news"
+          "url": "https://m.baidu.com/s?word=%E4%B8%8D%E5%88%B7%E7%89%99%E7%9D%A1%E8%A7%89vs%E4%B8%8D%E5%88%B7%E7%89%99%E5%90%83%E6%97%A9%E9%A4%90%E5%93%AA%E4%B8%AA%E6%9B%B4%E4%BC%A4%E8%BA%AB&sa=fyb_news"
         }
       ],
       "summary": "",
-      "url": "https://m.baidu.com/s?word=%E4%BB%8E%E2%80%9C%E7%A7%8D%E5%9C%9F%E8%B1%86%E2%80%9D%E5%88%B0%E2%80%9C%E7%A7%8DToken%E2%80%9D&sa=fyb_news"
+      "url": "https://m.baidu.com/s?word=%E4%B8%8D%E5%88%B7%E7%89%99%E7%9D%A1%E8%A7%89vs%E4%B8%8D%E5%88%B7%E7%89%99%E5%90%83%E6%97%A9%E9%A4%90%E5%93%AA%E4%B8%AA%E6%9B%B4%E4%BC%A4%E8%BA%AB&sa=fyb_news"
+    },
+    {
+      "id": "evt-ktv00000",
+      "title": "有KTV的列车火了 包厢点唱68元一小时",
+      "category": "society",
+      "hotScore": 0.48,
+      "freshness": 0.9999,
+      "crossSource": 0.6309,
+      "totalScore": 0.6813,
+      "sources": [
+        {
+          "channel": "baidu",
+          "rank": 9,
+          "hot": 0,
+          "url": "https://m.baidu.com/s?word=%E6%9C%89KTV%E7%9A%84%E5%88%97%E8%BD%A6%E7%81%AB%E4%BA%86+%E5%8C%85%E5%8E%A2%E7%82%B9%E5%94%B168%E5%85%83%E4%B8%80%E5%B0%8F%E6%97%B6&sa=fyb_news"
+        }
+      ],
+      "summary": "",
+      "url": "https://m.baidu.com/s?word=%E6%9C%89KTV%E7%9A%84%E5%88%97%E8%BD%A6%E7%81%AB%E4%BA%86+%E5%8C%85%E5%8E%A2%E7%82%B9%E5%94%B168%E5%85%83%E4%B8%80%E5%B0%8F%E6%97%B6&sa=fyb_news"
     }
   ]
 }
