@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-10-26T02:15:34.802Z",
+  "generatedAt": "2026-10-26T09:28:49.406Z",
   "fields": {
     "society": "社会",
     "economy": "经济",
@@ -8,32 +8,7 @@
   "feed": [
     {
       "id": "evt-00000000",
-      "title": "武契奇承认败选",
-      "category": "society",
-      "hotScore": 0.76,
-      "freshness": 1,
-      "crossSource": 1,
-      "totalScore": 0.904,
-      "sources": [
-        {
-          "channel": "toutiao",
-          "rank": 4,
-          "hot": 18914633,
-          "url": "https://www.toutiao.com/trending/7700758338107166246/"
-        },
-        {
-          "channel": "baidu",
-          "rank": 2,
-          "hot": 0,
-          "url": "https://m.baidu.com/s?word=%E6%AD%A6%E5%A5%91%E5%A5%87%E6%89%BF%E8%AE%A4%E8%B4%A5%E9%80%89&sa=fyb_news"
-        }
-      ],
-      "summary": "",
-      "url": "https://www.toutiao.com/trending/7700758338107166246/"
-    },
-    {
-      "id": "evt-29000000",
-      "title": "二十届五中全会今起至29日召开",
+      "title": "人民日报任仲平文章：在新征程上持之以恒推进全面从严治党",
       "category": "society",
       "hotScore": 0.85,
       "freshness": 1,
@@ -41,33 +16,14 @@
       "totalScore": 0.8293,
       "sources": [
         {
-          "channel": "toutiao",
+          "channel": "thepaper",
           "rank": 1,
-          "hot": 25532084,
-          "url": "https://www.toutiao.com/trending/7698680775600128562/"
+          "hot": 0,
+          "url": "https://www.thepaper.cn/newsDetail_forward_34329842"
         }
       ],
       "summary": "",
-      "url": "https://www.toutiao.com/trending/7698680775600128562/"
-    },
-    {
-      "id": "evt-11500000",
-      "title": "巴西货币雷亚尔暴跌11.5%",
-      "category": "society",
-      "hotScore": 0.8075,
-      "freshness": 1,
-      "crossSource": 0.6309,
-      "totalScore": 0.8123,
-      "sources": [
-        {
-          "channel": "toutiao",
-          "rank": 2,
-          "hot": 23102385,
-          "url": "https://www.toutiao.com/trending/7700762106802668070/"
-        }
-      ],
-      "summary": "",
-      "url": "https://www.toutiao.com/trending/7700762106802668070/"
+      "url": "https://www.thepaper.cn/newsDetail_forward_34329842"
     },
     {
       "id": "evt-90200000",
@@ -89,23 +45,23 @@
       "url": "https://www.thepaper.cn/newsDetail_forward_34329840"
     },
     {
-      "id": "evt-76000000",
-      "title": "76年了，致敬最可爱的他们",
+      "id": "evt-ai600000",
+      "title": "老干妈回应“用AI把600人裁到48人”",
       "category": "society",
-      "hotScore": 0.765,
-      "freshness": 1,
+      "hotScore": 0.76,
+      "freshness": 0.9999,
       "crossSource": 0.6309,
-      "totalScore": 0.7953,
+      "totalScore": 0.7933,
       "sources": [
         {
-          "channel": "toutiao",
-          "rank": 3,
-          "hot": 20903902,
-          "url": "https://www.toutiao.com/trending/7700376045093912595/"
+          "channel": "baidu",
+          "rank": 2,
+          "hot": 0,
+          "url": "https://m.baidu.com/s?word=%E8%80%81%E5%B9%B2%E5%A6%88%E5%9B%9E%E5%BA%94%E2%80%9C%E7%94%A8AI%E6%8A%8A600%E4%BA%BA%E8%A3%81%E5%88%B048%E4%BA%BA%E2%80%9D&sa=fyb_news"
         }
       ],
       "summary": "",
-      "url": "https://www.toutiao.com/trending/7700376045093912595/"
+      "url": "https://m.baidu.com/s?word=%E8%80%81%E5%B9%B2%E5%A6%88%E5%9B%9E%E5%BA%94%E2%80%9C%E7%94%A8AI%E6%8A%8A600%E4%BA%BA%E8%A3%81%E5%88%B048%E4%BA%BA%E2%80%9D&sa=fyb_news"
     },
     {
       "id": "evt-12345000",
@@ -127,17 +83,74 @@
       "url": "https://www.thepaper.cn/newsDetail_forward_34329633"
     },
     {
-      "id": "evt-20000000",
-      "title": "美国客户一口气在广州买200套房",
-      "category": "society",
-      "hotScore": 0.72,
-      "freshness": 1,
+      "id": "evt-17000000",
+      "title": "男子诈骗好友170万全部亏在股市",
+      "category": "economy",
+      "hotScore": 0.4675,
+      "freshness": 0.9999,
       "crossSource": 0.6309,
-      "totalScore": 0.7773,
+      "totalScore": 0.6762,
+      "sources": [
+        {
+          "channel": "toutiao",
+          "rank": 10,
+          "hot": 5498037,
+          "url": "https://www.toutiao.com/trending/7700831226697433129/"
+        }
+      ],
+      "summary": "",
+      "url": "https://www.toutiao.com/trending/7700831226697433129/"
+    },
+    {
+      "id": "evt-40000000",
+      "title": "兔八哥配音演员去世 年仅46岁",
+      "category": "entertainment",
+      "hotScore": 0.64,
+      "freshness": 0.9999,
+      "crossSource": 0.6309,
+      "totalScore": 0.7453,
       "sources": [
         {
           "channel": "baidu",
-          "rank": 3,
+          "rank": 5,
+          "hot": 0,
+          "url": "https://m.baidu.com/s?word=%E5%85%94%E5%85%AB%E5%93%A5%E9%85%8D%E9%9F%B3%E6%BC%94%E5%91%98%E5%8E%BB%E4%B8%96+%E5%B9%B4%E4%BB%8546%E5%B2%81&sa=fyb_news"
+        }
+      ],
+      "summary": "",
+      "url": "https://m.baidu.com/s?word=%E5%85%94%E5%85%AB%E5%93%A5%E9%85%8D%E9%9F%B3%E6%BC%94%E5%91%98%E5%8E%BB%E4%B8%96+%E5%B9%B4%E4%BB%8546%E5%B2%81&sa=fyb_news"
+    },
+    {
+      "id": "evt-10000000",
+      "title": "沪指震荡收红 中国石油创18年新高",
+      "category": "society",
+      "hotScore": 0.6375,
+      "freshness": 0.9999,
+      "crossSource": 0.6309,
+      "totalScore": 0.7442,
+      "sources": [
+        {
+          "channel": "toutiao",
+          "rank": 6,
+          "hot": 8202108,
+          "url": "https://www.toutiao.com/trending/7700870187972660787/"
+        }
+      ],
+      "summary": "",
+      "url": "https://www.toutiao.com/trending/7700870187972660787/"
+    },
+    {
+      "id": "evt-20000000",
+      "title": "美国客户一口气在广州买200套房",
+      "category": "society",
+      "hotScore": 0.52,
+      "freshness": 0.9999,
+      "crossSource": 0.6309,
+      "totalScore": 0.6973,
+      "sources": [
+        {
+          "channel": "baidu",
+          "rank": 8,
           "hot": 0,
           "url": "https://m.baidu.com/s?word=%E7%BE%8E%E5%9B%BD%E5%AE%A2%E6%88%B7%E4%B8%80%E5%8F%A3%E6%B0%94%E5%9C%A8%E5%B9%BF%E5%B7%9E%E4%B9%B0200%E5%A5%97%E6%88%BF&sa=fyb_news"
         }
@@ -146,93 +159,17 @@
       "url": "https://m.baidu.com/s?word=%E7%BE%8E%E5%9B%BD%E5%AE%A2%E6%88%B7%E4%B8%80%E5%8F%A3%E6%B0%94%E5%9C%A8%E5%B9%BF%E5%B7%9E%E4%B9%B0200%E5%A5%97%E6%88%BF&sa=fyb_news"
     },
     {
-      "id": "evt-80000000",
-      "title": "80岁卢拉再次当选巴西总统",
-      "category": "society",
-      "hotScore": 0.68,
-      "freshness": 1,
-      "crossSource": 0.6309,
-      "totalScore": 0.7613,
-      "sources": [
-        {
-          "channel": "toutiao",
-          "rank": 5,
-          "hot": 17114668,
-          "url": "https://www.toutiao.com/trending/7699682440381546538/"
-        }
-      ],
-      "summary": "",
-      "url": "https://www.toutiao.com/trending/7699682440381546538/"
-    },
-    {
-      "id": "evt-21900000",
-      "title": "皇马 2-1 终结巴萨 9 连胜，姆巴佩双响，如何评价这场比赛？",
-      "category": "society",
-      "hotScore": 0.6375,
-      "freshness": 1,
-      "crossSource": 0.6309,
-      "totalScore": 0.7443,
-      "sources": [
-        {
-          "channel": "zhihu",
-          "rank": 4,
-          "hot": 0,
-          "url": ""
-        }
-      ],
-      "summary": "",
-      "url": ""
-    },
-    {
-      "id": "evt-20270000",
-      "title": "于蕾出任2027羊年央视春晚总导演，连续第5年执导春晚",
-      "category": "society",
-      "hotScore": 0.6375,
-      "freshness": 1,
-      "crossSource": 0.6309,
-      "totalScore": 0.7443,
-      "sources": [
-        {
-          "channel": "thepaper",
-          "rank": 6,
-          "hot": 0,
-          "url": "https://www.thepaper.cn/newsDetail_forward_34328625"
-        }
-      ],
-      "summary": "",
-      "url": "https://www.thepaper.cn/newsDetail_forward_34328625"
-    },
-    {
-      "id": "evt-ai000000",
-      "title": "浙江宣传：AI短剧真的“降智”吗",
-      "category": "society",
-      "hotScore": 0.6,
-      "freshness": 1,
-      "crossSource": 0.6309,
-      "totalScore": 0.7293,
-      "sources": [
-        {
-          "channel": "baidu",
-          "rank": 6,
-          "hot": 0,
-          "url": "https://m.baidu.com/s?word=%E6%B5%99%E6%B1%9F%E5%AE%A3%E4%BC%A0%EF%BC%9AAI%E7%9F%AD%E5%89%A7%E7%9C%9F%E7%9A%84%E2%80%9C%E9%99%8D%E6%99%BA%E2%80%9D%E5%90%97&sa=fyb_news"
-        }
-      ],
-      "summary": "",
-      "url": "https://m.baidu.com/s?word=%E6%B5%99%E6%B1%9F%E5%AE%A3%E4%BC%A0%EF%BC%9AAI%E7%9F%AD%E5%89%A7%E7%9C%9F%E7%9A%84%E2%80%9C%E9%99%8D%E6%99%BA%E2%80%9D%E5%90%97&sa=fyb_news"
-    },
-    {
       "id": "evt-31000000",
       "title": "31 省份去年平均工资出炉，全国城镇非私营单位平均工资 129441 元，还有哪些信息值得关注？",
       "category": "society",
-      "hotScore": 0.5625,
-      "freshness": 1,
+      "hotScore": 0.4875,
+      "freshness": 0.9999,
       "crossSource": 0.6309,
-      "totalScore": 0.7143,
+      "totalScore": 0.6843,
       "sources": [
         {
           "channel": "zhihu",
-          "rank": 6,
+          "rank": 8,
           "hot": 0,
           "url": ""
         }
@@ -241,67 +178,23 @@
       "url": ""
     },
     {
-      "id": "evt-30000000",
-      "title": "小区近300户玻璃自爆 物业：过质保期",
+      "id": "evt-token000",
+      "title": "从“种土豆”到“种Token”",
       "category": "society",
-      "hotScore": 0.56,
-      "freshness": 1,
+      "hotScore": 0.44,
+      "freshness": 0.9999,
       "crossSource": 0.6309,
-      "totalScore": 0.7133,
+      "totalScore": 0.6653,
       "sources": [
         {
           "channel": "baidu",
-          "rank": 7,
+          "rank": 10,
           "hot": 0,
-          "url": "https://m.baidu.com/s?word=%E5%B0%8F%E5%8C%BA%E8%BF%91300%E6%88%B7%E7%8E%BB%E7%92%83%E8%87%AA%E7%88%86+%E7%89%A9%E4%B8%9A%EF%BC%9A%E8%BF%87%E8%B4%A8%E4%BF%9D%E6%9C%9F&sa=fyb_news"
+          "url": "https://m.baidu.com/s?word=%E4%BB%8E%E2%80%9C%E7%A7%8D%E5%9C%9F%E8%B1%86%E2%80%9D%E5%88%B0%E2%80%9C%E7%A7%8DToken%E2%80%9D&sa=fyb_news"
         }
       ],
       "summary": "",
-      "url": "https://m.baidu.com/s?word=%E5%B0%8F%E5%8C%BA%E8%BF%91300%E6%88%B7%E7%8E%BB%E7%92%83%E8%87%AA%E7%88%86+%E7%89%A9%E4%B8%9A%EF%BC%9A%E8%BF%87%E8%B4%A8%E4%BF%9D%E6%9C%9F&sa=fyb_news"
-    },
-    {
-      "id": "evt-23596000",
-      "title": "“23:59:60”今后将不再出现",
-      "category": "society",
-      "hotScore": 0.28,
-      "freshness": 1,
-      "crossSource": 1,
-      "totalScore": 0.712,
-      "sources": [
-        {
-          "channel": "toutiao",
-          "rank": 20,
-          "hot": 3818798,
-          "url": "https://www.toutiao.com/trending/7698300945130390043/"
-        },
-        {
-          "channel": "baidu",
-          "rank": 14,
-          "hot": 0,
-          "url": "https://m.baidu.com/s?word=%E2%80%9C23%3A59%3A60%E2%80%9D%E4%BB%8A%E5%90%8E%E5%B0%86%E4%B8%8D%E5%86%8D%E5%87%BA%E7%8E%B0&sa=fyb_news"
-        }
-      ],
-      "summary": "",
-      "url": "https://www.toutiao.com/trending/7698300945130390043/"
-    },
-    {
-      "id": "evt-24200000",
-      "title": "如何看待夫妻携 242 枚商周至民国时期钱币出国，想送给国外定居子女，被海关查扣？",
-      "category": "society",
-      "hotScore": 0.525,
-      "freshness": 1,
-      "crossSource": 0.6309,
-      "totalScore": 0.6993,
-      "sources": [
-        {
-          "channel": "zhihu",
-          "rank": 7,
-          "hot": 0,
-          "url": ""
-        }
-      ],
-      "summary": "",
-      "url": ""
+      "url": "https://m.baidu.com/s?word=%E4%BB%8E%E2%80%9C%E7%A7%8D%E5%9C%9F%E8%B1%86%E2%80%9D%E5%88%B0%E2%80%9C%E7%A7%8DToken%E2%80%9D&sa=fyb_news"
     }
   ]
 }
