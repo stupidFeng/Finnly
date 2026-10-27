@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-10-27T09:25:55.123Z",
+  "generatedAt": "2026-10-27T15:36:21.879Z",
   "fields": {
     "society": "社会",
     "economy": "经济",
@@ -8,79 +8,73 @@
   "feed": [
     {
       "id": "evt-00000000",
-      "title": "央视全面叫停涉姆巴佩赛事和广告播出",
+      "title": "中国足协与皇马俱乐部严正交涉",
       "category": "society",
-      "hotScore": 0.7225,
+      "hotScore": 0.85,
       "freshness": 0.9999,
-      "crossSource": 1,
-      "totalScore": 0.889,
+      "crossSource": 0.6309,
+      "totalScore": 0.8293,
       "sources": [
         {
           "channel": "toutiao",
-          "rank": 4,
-          "hot": 46358261,
-          "url": "https://www.toutiao.com/trending/7701233364937739827/"
-        },
-        {
-          "channel": "baidu",
-          "rank": 5,
-          "hot": 0,
-          "url": "https://m.baidu.com/s?word=%E5%A4%AE%E8%A7%86%E5%85%A8%E9%9D%A2%E5%8F%AB%E5%81%9C%E6%B6%89%E5%A7%86%E5%B7%B4%E4%BD%A9%E8%B5%9B%E4%BA%8B%E5%92%8C%E5%B9%BF%E5%91%8A%E6%92%AD%E5%87%BA&sa=fyb_news"
+          "rank": 1,
+          "hot": 121850646,
+          "url": "https://www.toutiao.com/trending/7700913460418265115/"
         }
       ],
       "summary": "",
-      "url": "https://www.toutiao.com/trending/7701233364937739827/"
+      "url": "https://www.toutiao.com/trending/7700913460418265115/"
     },
     {
-      "id": "evt-36000000",
-      "title": "持证可抵个税3600元",
+      "id": "evt-17ai7000",
+      "title": "17岁AI研究员被曝获700万年薪邀约",
       "category": "society",
-      "hotScore": 0.72,
-      "freshness": 1,
-      "crossSource": 0.6309,
-      "totalScore": 0.7773,
-      "sources": [
-        {
-          "channel": "baidu",
-          "rank": 3,
-          "hot": 0,
-          "url": "https://m.baidu.com/s?word=%E6%8C%81%E8%AF%81%E5%8F%AF%E6%8A%B5%E4%B8%AA%E7%A8%8E3600%E5%85%83&sa=fyb_news"
-        }
-      ],
-      "summary": "",
-      "url": "https://m.baidu.com/s?word=%E6%8C%81%E8%AF%81%E5%8F%AF%E6%8A%B5%E4%B8%AA%E7%A8%8E3600%E5%85%83&sa=fyb_news"
-    },
-    {
-      "id": "evt-ai000000",
-      "title": "众声丨用AI伪造父亲重病视频诈骗好友，步步踩在人心最不设防处",
-      "category": "society",
-      "hotScore": 0.68,
+      "hotScore": 0.8075,
       "freshness": 0.9999,
       "crossSource": 0.6309,
-      "totalScore": 0.7613,
+      "totalScore": 0.8123,
       "sources": [
         {
-          "channel": "thepaper",
-          "rank": 5,
-          "hot": 0,
-          "url": "https://www.thepaper.cn/newsDetail_forward_34335625"
+          "channel": "toutiao",
+          "rank": 2,
+          "hot": 110255024,
+          "url": "https://www.toutiao.com/trending/7701221553450598938/"
         }
       ],
       "summary": "",
-      "url": "https://www.thepaper.cn/newsDetail_forward_34335625"
+      "url": "https://www.toutiao.com/trending/7701221553450598938/"
+    },
+    {
+      "id": "evt-25000000",
+      "title": "银行将存 2500 元错输成 25000 元，储户拒退称「离柜概不负责」，被法院判属退还，你怎么看？",
+      "category": "society",
+      "hotScore": 0.6375,
+      "freshness": 0.9999,
+      "crossSource": 0.6309,
+      "totalScore": 0.7443,
+      "sources": [
+        {
+          "channel": "zhihu",
+          "rank": 4,
+          "hot": 0,
+          "url": ""
+        }
+      ],
+      "summary": "",
+      "url": ""
     },
     {
       "id": "evt-ai600000",
       "title": "马上评｜老干妈用AI把600名拣椒工裁到48人？宣传AI降本也别忘了人",
       "category": "society",
-      "hotScore": 0.5525,
-      "freshness": 0.9999,
+      "hotScore": 0.6375,
+      "freshness": 1,
       "crossSource": 0.6309,
-      "totalScore": 0.7103,
+      "totalScore": 0.7443,
       "sources": [
         {
           "channel": "thepaper",
-          "rank": 8,
+          "rank": 6,
           "hot": 0,
           "url": "https://www.thepaper.cn/newsDetail_forward_34336116"
         }
@@ -89,61 +83,99 @@
       "url": "https://www.thepaper.cn/newsDetail_forward_34336116"
     },
     {
-      "id": "evt-iphoneduo",
-      "title": "iPhone Duo被指用几天就坏了",
-      "category": "society",
-      "hotScore": 0.5525,
+      "id": "evt-90000000",
+      "title": "前9月规上工业企业利润较快增长",
+      "category": "economy",
+      "hotScore": 0.51,
       "freshness": 0.9999,
       "crossSource": 0.6309,
-      "totalScore": 0.7102,
+      "totalScore": 0.6933,
       "sources": [
         {
           "channel": "toutiao",
-          "rank": 8,
-          "hot": 31074872,
-          "url": "https://www.toutiao.com/trending/7701182322489429567/"
+          "rank": 9,
+          "hot": 54751024,
+          "url": "https://www.toutiao.com/trending/7701305657386896950/"
         }
       ],
       "summary": "",
-      "url": "https://www.toutiao.com/trending/7701182322489429567/"
+      "url": "https://www.toutiao.com/trending/7701305657386896950/"
+    },
+    {
+      "id": "evt-ai000000",
+      "title": "打了马赛克的二维码被 AI 完整复原，原理是什么？什么样的遮挡才真的防 AI 破解？",
+      "category": "society",
+      "hotScore": 0.6,
+      "freshness": 0.9999,
+      "crossSource": 0.6309,
+      "totalScore": 0.7293,
+      "sources": [
+        {
+          "channel": "zhihu",
+          "rank": 5,
+          "hot": 0,
+          "url": ""
+        }
+      ],
+      "summary": "",
+      "url": ""
     },
     {
       "id": "evt-43600000",
-      "title": "受贿4.36亿余元 王会民一审被判死缓",
+      "title": "受贿4.36亿余元，证监会原党委委员王会民一审被判死缓",
       "category": "society",
-      "hotScore": 0.52,
+      "hotScore": 0.5525,
       "freshness": 1,
       "crossSource": 0.6309,
-      "totalScore": 0.6973,
+      "totalScore": 0.7103,
       "sources": [
         {
-          "channel": "baidu",
+          "channel": "thepaper",
           "rank": 8,
           "hot": 0,
-          "url": "https://m.baidu.com/s?word=%E5%8F%97%E8%B4%BF4.36%E4%BA%BF%E4%BD%99%E5%85%83+%E7%8E%8B%E4%BC%9A%E6%B0%91%E4%B8%80%E5%AE%A1%E8%A2%AB%E5%88%A4%E6%AD%BB%E7%BC%93&sa=fyb_news"
+          "url": "https://www.thepaper.cn/newsDetail_forward_34343115"
         }
       ],
       "summary": "",
-      "url": "https://m.baidu.com/s?word=%E5%8F%97%E8%B4%BF4.36%E4%BA%BF%E4%BD%99%E5%85%83+%E7%8E%8B%E4%BC%9A%E6%B0%91%E4%B8%80%E5%AE%A1%E8%A2%AB%E5%88%A4%E6%AD%BB%E7%BC%93&sa=fyb_news"
+      "url": "https://www.thepaper.cn/newsDetail_forward_34343115"
     },
     {
-      "id": "evt-13300000",
-      "title": "沪指收跌1.33%",
+      "id": "evt-ios00000",
+      "title": "苹果iOS更新，国行限制“摇一摇”跳转广告功能正式上线",
+      "category": "society",
+      "hotScore": 0.51,
+      "freshness": 1,
+      "crossSource": 0.6309,
+      "totalScore": 0.6933,
+      "sources": [
+        {
+          "channel": "thepaper",
+          "rank": 9,
+          "hot": 0,
+          "url": "https://www.thepaper.cn/newsDetail_forward_34342933"
+        }
+      ],
+      "summary": "",
+      "url": "https://www.thepaper.cn/newsDetail_forward_34342933"
+    },
+    {
+      "id": "evt-80000000",
+      "title": "德国总统时隔8年再访华传递什么信号",
       "category": "society",
       "hotScore": 0.4675,
       "freshness": 0.9999,
       "crossSource": 0.6309,
-      "totalScore": 0.6762,
+      "totalScore": 0.6763,
       "sources": [
         {
           "channel": "toutiao",
           "rank": 10,
-          "hot": 25441953,
-          "url": "https://www.toutiao.com/trending/7701232150380806682/"
+          "hot": 49540775,
+          "url": "https://www.toutiao.com/trending/7701194397936926763/"
         }
       ],
       "summary": "",
-      "url": "https://www.toutiao.com/trending/7701232150380806682/"
+      "url": "https://www.toutiao.com/trending/7701194397936926763/"
     }
   ]
 }
