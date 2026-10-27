@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-10-26T22:04:21.485Z",
+  "generatedAt": "2026-10-27T02:51:43.213Z",
   "fields": {
     "society": "社会",
     "economy": "经济",
@@ -7,33 +7,58 @@
   },
   "feed": [
     {
-      "id": "evt-15000000",
-      "title": "15个中央巡视组组长公布",
+      "id": "evt-00000000",
+      "title": "东鹏饮料：终止与姆巴佩全部合作",
       "category": "society",
-      "hotScore": 0.85,
+      "hotScore": 0.7225,
       "freshness": 0.9999,
       "crossSource": 1,
-      "totalScore": 0.94,
+      "totalScore": 0.889,
       "sources": [
         {
           "channel": "toutiao",
-          "rank": 1,
-          "hot": 16744011,
-          "url": "https://www.toutiao.com/trending/7700187555274194987/"
+          "rank": 4,
+          "hot": 10694081,
+          "url": "https://www.toutiao.com/trending/7700595802129055787/"
         },
         {
           "channel": "baidu",
-          "rank": 5,
+          "rank": 3,
           "hot": 0,
-          "url": "https://m.baidu.com/s?word=15%E4%B8%AA%E4%B8%AD%E5%A4%AE%E5%B7%A1%E8%A7%86%E7%BB%84%E7%BB%84%E9%95%BF%E5%85%AC%E5%B8%83&sa=fyb_news"
+          "url": "https://m.baidu.com/s?word=%E4%B8%9C%E9%B9%8F%E9%A5%AE%E6%96%99%EF%BC%9A%E7%BB%88%E6%AD%A2%E4%B8%8E%E5%A7%86%E5%B7%B4%E4%BD%A9%E5%85%A8%E9%83%A8%E5%90%88%E4%BD%9C&sa=fyb_news"
         }
       ],
       "summary": "",
-      "url": "https://www.toutiao.com/trending/7700187555274194987/"
+      "url": "https://www.toutiao.com/trending/7700595802129055787/"
     },
     {
-      "id": "evt-00000000",
-      "title": "中国共产党第二十届中央委员会第五次全体会议在北京开始举行",
+      "id": "evt-73000000",
+      "title": "73名省部级及以上干部被立案",
+      "category": "society",
+      "hotScore": 0.595,
+      "freshness": 0.9999,
+      "crossSource": 1,
+      "totalScore": 0.838,
+      "sources": [
+        {
+          "channel": "toutiao",
+          "rank": 7,
+          "hot": 7922370,
+          "url": "https://www.toutiao.com/trending/7701113851496055334/"
+        },
+        {
+          "channel": "baidu",
+          "rank": 14,
+          "hot": 0,
+          "url": "https://m.baidu.com/s?word=73%E5%90%8D%E7%9C%81%E9%83%A8%E7%BA%A7%E5%8F%8A%E4%BB%A5%E4%B8%8A%E5%B9%B2%E9%83%A8%E8%A2%AB%E7%AB%8B%E6%A1%88&sa=fyb_news"
+        }
+      ],
+      "summary": "",
+      "url": "https://www.toutiao.com/trending/7701113851496055334/"
+    },
+    {
+      "id": "evt-27700000",
+      "title": "租客留277元离开房东退回1177元",
       "category": "society",
       "hotScore": 0.85,
       "freshness": 0.9999,
@@ -41,109 +66,147 @@
       "totalScore": 0.8293,
       "sources": [
         {
-          "channel": "thepaper",
-          "rank": 1,
-          "hot": 0,
-          "url": "https://www.thepaper.cn/newsDetail_forward_34332996"
-        }
-      ],
-      "summary": "",
-      "url": "https://www.thepaper.cn/newsDetail_forward_34332996"
-    },
-    {
-      "id": "evt-10000000",
-      "title": "王兴兴两次认错 宇树暴涨1100亿",
-      "category": "society",
-      "hotScore": 0.8075,
-      "freshness": 0.9999,
-      "crossSource": 0.6309,
-      "totalScore": 0.8122,
-      "sources": [
-        {
           "channel": "toutiao",
-          "rank": 2,
-          "hot": 15150608,
-          "url": "https://www.toutiao.com/trending/7700928117778419250/"
+          "rank": 1,
+          "hot": 14435499,
+          "url": "https://www.toutiao.com/trending/7700818283880054803/"
         }
       ],
       "summary": "",
-      "url": "https://www.toutiao.com/trending/7700928117778419250/"
+      "url": "https://www.toutiao.com/trending/7700818283880054803/"
     },
     {
       "id": "evt-ai000000",
-      "title": "如何看待老干妈回应「用 AI 把 600 名工人裁到 48 人」，称是不实信息？品牌能挽回消费者信任吗？",
+      "title": "众声丨用AI伪造父亲重病视频诈骗好友，步步踩在人心最不设防处",
       "category": "society",
-      "hotScore": 0.75,
-      "freshness": 0.9999,
-      "crossSource": 0.6309,
-      "totalScore": 0.7892,
-      "sources": [
-        {
-          "channel": "zhihu",
-          "rank": 1,
-          "hot": 0,
-          "url": ""
-        }
-      ],
-      "summary": "",
-      "url": ""
-    },
-    {
-      "id": "evt-deepseek",
-      "title": "DeepSeek 营收只有几亿，却融资上千亿，这种模式合理吗？",
-      "category": "economy",
-      "hotScore": 0.6375,
-      "freshness": 0.9999,
-      "crossSource": 0.6309,
-      "totalScore": 0.7442,
-      "sources": [
-        {
-          "channel": "zhihu",
-          "rank": 4,
-          "hot": 0,
-          "url": ""
-        }
-      ],
-      "summary": "",
-      "url": ""
-    },
-    {
-      "id": "evt-62500000",
-      "title": "62岁女子坚持健身5年多",
-      "category": "society",
-      "hotScore": 0.56,
+      "hotScore": 0.7225,
       "freshness": 1,
       "crossSource": 0.6309,
-      "totalScore": 0.7133,
+      "totalScore": 0.7783,
+      "sources": [
+        {
+          "channel": "thepaper",
+          "rank": 4,
+          "hot": 0,
+          "url": "https://www.thepaper.cn/newsDetail_forward_34335625"
+        }
+      ],
+      "summary": "",
+      "url": "https://www.thepaper.cn/newsDetail_forward_34335625"
+    },
+    {
+      "id": "evt-20267000",
+      "title": "2026 年第 70 届金球奖揭晓，凯恩获得最佳射手奖和金球奖，如何评价这一结果？",
+      "category": "society",
+      "hotScore": 0.7125,
+      "freshness": 0.9999,
+      "crossSource": 0.6309,
+      "totalScore": 0.7743,
+      "sources": [
+        {
+          "channel": "zhihu",
+          "rank": 2,
+          "hot": 0,
+          "url": ""
+        }
+      ],
+      "summary": "",
+      "url": ""
+    },
+    {
+      "id": "evt-60000000",
+      "title": "微软向6万名员工开放自愿离职方案",
+      "category": "society",
+      "hotScore": 0.64,
+      "freshness": 1,
+      "crossSource": 0.6309,
+      "totalScore": 0.7453,
       "sources": [
         {
           "channel": "baidu",
-          "rank": 7,
+          "rank": 5,
           "hot": 0,
-          "url": "https://m.baidu.com/s?word=62%E5%B2%81%E5%A5%B3%E5%AD%90%E5%9D%9A%E6%8C%81%E5%81%A5%E8%BA%AB5%E5%B9%B4%E5%A4%9A&sa=fyb_news"
+          "url": "https://m.baidu.com/s?word=%E5%BE%AE%E8%BD%AF%E5%90%916%E4%B8%87%E5%90%8D%E5%91%98%E5%B7%A5%E5%BC%80%E6%94%BE%E8%87%AA%E6%84%BF%E7%A6%BB%E8%81%8C%E6%96%B9%E6%A1%88&sa=fyb_news"
         }
       ],
       "summary": "",
-      "url": "https://m.baidu.com/s?word=62%E5%B2%81%E5%A5%B3%E5%AD%90%E5%9D%9A%E6%8C%81%E5%81%A5%E8%BA%AB5%E5%B9%B4%E5%A4%9A&sa=fyb_news"
+      "url": "https://m.baidu.com/s?word=%E5%BE%AE%E8%BD%AF%E5%90%916%E4%B8%87%E5%90%8D%E5%91%98%E5%B7%A5%E5%BC%80%E6%94%BE%E8%87%AA%E6%84%BF%E7%A6%BB%E8%81%8C%E6%96%B9%E6%A1%88&sa=fyb_news"
     },
     {
       "id": "evt-20000000",
-      "title": "租客不辞而别 留下字条和277块现金",
+      "title": "张雪招聘食堂主管，工资加 20% 以上，称「如果同事的伙食都照顾不好，一定是烂公司」 ，如何看待此事？",
       "category": "society",
-      "hotScore": 0.52,
-      "freshness": 1,
+      "hotScore": 0.5625,
+      "freshness": 0.9999,
       "crossSource": 0.6309,
-      "totalScore": 0.6973,
+      "totalScore": 0.7143,
       "sources": [
         {
-          "channel": "baidu",
-          "rank": 8,
+          "channel": "zhihu",
+          "rank": 6,
           "hot": 0,
-          "url": "https://m.baidu.com/s?word=%E7%A7%9F%E5%AE%A2%E4%B8%8D%E8%BE%9E%E8%80%8C%E5%88%AB+%E7%95%99%E4%B8%8B%E5%AD%97%E6%9D%A1%E5%92%8C277%E5%9D%97%E7%8E%B0%E9%87%91&sa=fyb_news"
+          "url": ""
         }
       ],
       "summary": "",
-      "url": "https://m.baidu.com/s?word=%E7%A7%9F%E5%AE%A2%E4%B8%8D%E8%BE%9E%E8%80%8C%E5%88%AB+%E7%95%99%E4%B8%8B%E5%AD%97%E6%9D%A1%E5%92%8C277%E5%9D%97%E7%8E%B0%E9%87%91&sa=fyb_news"
+      "url": ""
+    },
+    {
+      "id": "evt-eth00000",
+      "title": "如何看待 ETH（指数时间猜想）猜想被 OpenAI 证伪？",
+      "category": "society",
+      "hotScore": 0.4875,
+      "freshness": 0.9999,
+      "crossSource": 0.6309,
+      "totalScore": 0.6843,
+      "sources": [
+        {
+          "channel": "zhihu",
+          "rank": 8,
+          "hot": 0,
+          "url": ""
+        }
+      ],
+      "summary": "",
+      "url": ""
+    },
+    {
+      "id": "evt-ai600000",
+      "title": "马上评｜老干妈用AI把600名拣椒工裁到48人？宣传AI降本也别忘了人",
+      "category": "society",
+      "hotScore": 0.4675,
+      "freshness": 1,
+      "crossSource": 0.6309,
+      "totalScore": 0.6763,
+      "sources": [
+        {
+          "channel": "thepaper",
+          "rank": 10,
+          "hot": 0,
+          "url": "https://www.thepaper.cn/newsDetail_forward_34336116"
+        }
+      ],
+      "summary": "",
+      "url": "https://www.thepaper.cn/newsDetail_forward_34336116"
+    },
+    {
+      "id": "evt-29100000",
+      "title": "从29.1%的增速感受智能制造澎湃动能",
+      "category": "society",
+      "hotScore": 0.44,
+      "freshness": 1,
+      "crossSource": 0.6309,
+      "totalScore": 0.6653,
+      "sources": [
+        {
+          "channel": "baidu",
+          "rank": 10,
+          "hot": 0,
+          "url": "https://m.baidu.com/s?word=%E4%BB%8E29.1%25%E7%9A%84%E5%A2%9E%E9%80%9F%E6%84%9F%E5%8F%97%E6%99%BA%E8%83%BD%E5%88%B6%E9%80%A0%E6%BE%8E%E6%B9%83%E5%8A%A8%E8%83%BD&sa=fyb_news"
+        }
+      ],
+      "summary": "",
+      "url": "https://m.baidu.com/s?word=%E4%BB%8E29.1%25%E7%9A%84%E5%A2%9E%E9%80%9F%E6%84%9F%E5%8F%97%E6%99%BA%E8%83%BD%E5%88%B6%E9%80%A0%E6%BE%8E%E6%B9%83%E5%8A%A8%E8%83%BD&sa=fyb_news"
     }
   ]
 }
