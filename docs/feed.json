@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-10-27T15:36:21.879Z",
+  "generatedAt": "2026-10-27T20:18:23.037Z",
   "fields": {
     "society": "社会",
     "economy": "经济",
@@ -8,7 +8,7 @@
   "feed": [
     {
       "id": "evt-00000000",
-      "title": "中国足协与皇马俱乐部严正交涉",
+      "title": "央视已经全面叫停涉及姆巴佩的赛事和广告播出",
       "category": "society",
       "hotScore": 0.85,
       "freshness": 0.9999,
@@ -16,46 +16,27 @@
       "totalScore": 0.8293,
       "sources": [
         {
-          "channel": "toutiao",
+          "channel": "thepaper",
           "rank": 1,
-          "hot": 121850646,
-          "url": "https://www.toutiao.com/trending/7700913460418265115/"
+          "hot": 0,
+          "url": "https://www.thepaper.cn/newsDetail_forward_34341996"
         }
       ],
       "summary": "",
-      "url": "https://www.toutiao.com/trending/7700913460418265115/"
-    },
-    {
-      "id": "evt-17ai7000",
-      "title": "17岁AI研究员被曝获700万年薪邀约",
-      "category": "society",
-      "hotScore": 0.8075,
-      "freshness": 0.9999,
-      "crossSource": 0.6309,
-      "totalScore": 0.8123,
-      "sources": [
-        {
-          "channel": "toutiao",
-          "rank": 2,
-          "hot": 110255024,
-          "url": "https://www.toutiao.com/trending/7701221553450598938/"
-        }
-      ],
-      "summary": "",
-      "url": "https://www.toutiao.com/trending/7701221553450598938/"
+      "url": "https://www.thepaper.cn/newsDetail_forward_34341996"
     },
     {
       "id": "evt-25000000",
       "title": "银行将存 2500 元错输成 25000 元，储户拒退称「离柜概不负责」，被法院判属退还，你怎么看？",
       "category": "society",
-      "hotScore": 0.6375,
-      "freshness": 0.9999,
+      "hotScore": 0.675,
+      "freshness": 1,
       "crossSource": 0.6309,
-      "totalScore": 0.7443,
+      "totalScore": 0.7593,
       "sources": [
         {
           "channel": "zhihu",
-          "rank": 4,
+          "rank": 3,
           "hot": 0,
           "url": ""
         }
@@ -64,11 +45,11 @@
       "url": ""
     },
     {
-      "id": "evt-ai600000",
-      "title": "马上评｜老干妈用AI把600名拣椒工裁到48人？宣传AI降本也别忘了人",
+      "id": "evt-ios00000",
+      "title": "苹果iOS更新，国行限制“摇一摇”跳转广告功能正式上线",
       "category": "society",
       "hotScore": 0.6375,
-      "freshness": 1,
+      "freshness": 0.9999,
       "crossSource": 0.6309,
       "totalScore": 0.7443,
       "sources": [
@@ -76,37 +57,18 @@
           "channel": "thepaper",
           "rank": 6,
           "hot": 0,
-          "url": "https://www.thepaper.cn/newsDetail_forward_34336116"
+          "url": "https://www.thepaper.cn/newsDetail_forward_34342933"
         }
       ],
       "summary": "",
-      "url": "https://www.thepaper.cn/newsDetail_forward_34336116"
+      "url": "https://www.thepaper.cn/newsDetail_forward_34342933"
     },
     {
-      "id": "evt-90000000",
-      "title": "前9月规上工业企业利润较快增长",
-      "category": "economy",
-      "hotScore": 0.51,
-      "freshness": 0.9999,
-      "crossSource": 0.6309,
-      "totalScore": 0.6933,
-      "sources": [
-        {
-          "channel": "toutiao",
-          "rank": 9,
-          "hot": 54751024,
-          "url": "https://www.toutiao.com/trending/7701305657386896950/"
-        }
-      ],
-      "summary": "",
-      "url": "https://www.toutiao.com/trending/7701305657386896950/"
-    },
-    {
-      "id": "evt-ai000000",
-      "title": "打了马赛克的二维码被 AI 完整复原，原理是什么？什么样的遮挡才真的防 AI 破解？",
+      "id": "evt-60000000",
+      "title": "微软向约 60000 名员工开放自愿离职方案，背后有哪些商业考量？为何没有选择强制裁员？",
       "category": "society",
       "hotScore": 0.6,
-      "freshness": 0.9999,
+      "freshness": 1,
       "crossSource": 0.6309,
       "totalScore": 0.7293,
       "sources": [
@@ -121,17 +83,112 @@
       "url": ""
     },
     {
-      "id": "evt-43600000",
-      "title": "受贿4.36亿余元，证监会原党委委员王会民一审被判死缓",
-      "category": "society",
-      "hotScore": 0.5525,
+      "id": "evt-90000000",
+      "title": "前9月规上工业企业利润较快增长",
+      "category": "economy",
+      "hotScore": 0.51,
+      "freshness": 0.9999,
+      "crossSource": 0.6309,
+      "totalScore": 0.6932,
+      "sources": [
+        {
+          "channel": "toutiao",
+          "rank": 9,
+          "hot": 56767633,
+          "url": "https://www.toutiao.com/trending/7701305657386896950/"
+        }
+      ],
+      "summary": "",
+      "url": "https://www.toutiao.com/trending/7701305657386896950/"
+    },
+    {
+      "id": "evt-ai000000",
+      "title": "基金经理重仓 AI 巨亏公开致歉，称没必要低位离场，等流动性恢复，当基金经理也靠信仰持股，算不算风险信号？",
+      "category": "economy",
+      "hotScore": 0.45,
       "freshness": 1,
       "crossSource": 0.6309,
-      "totalScore": 0.7103,
+      "totalScore": 0.6693,
+      "sources": [
+        {
+          "channel": "zhihu",
+          "rank": 9,
+          "hot": 0,
+          "url": ""
+        }
+      ],
+      "summary": "",
+      "url": ""
+    },
+    {
+      "id": "evt-ai600000",
+      "title": "马上评｜老干妈用AI把600名拣椒工裁到48人？宣传AI降本也别忘了人",
+      "category": "society",
+      "hotScore": 0.595,
+      "freshness": 0.9999,
+      "crossSource": 0.6309,
+      "totalScore": 0.7273,
       "sources": [
         {
           "channel": "thepaper",
-          "rank": 8,
+          "rank": 7,
+          "hot": 0,
+          "url": "https://www.thepaper.cn/newsDetail_forward_34336116"
+        }
+      ],
+      "summary": "",
+      "url": "https://www.thepaper.cn/newsDetail_forward_34336116"
+    },
+    {
+      "id": "evt-openaian",
+      "title": "为什么 OpenAi 和 Anthropic 不用自己的顶级 AI 去炒股？就像幻方量化一样？",
+      "category": "society",
+      "hotScore": 0.5625,
+      "freshness": 1,
+      "crossSource": 0.6309,
+      "totalScore": 0.7143,
+      "sources": [
+        {
+          "channel": "zhihu",
+          "rank": 6,
+          "hot": 0,
+          "url": ""
+        }
+      ],
+      "summary": "",
+      "url": ""
+    },
+    {
+      "id": "evt-10682000",
+      "title": "彩民花10元中682万大奖",
+      "category": "society",
+      "hotScore": 0.56,
+      "freshness": 0.9999,
+      "crossSource": 0.6309,
+      "totalScore": 0.7133,
+      "sources": [
+        {
+          "channel": "baidu",
+          "rank": 7,
+          "hot": 0,
+          "url": "https://m.baidu.com/s?word=%E5%BD%A9%E6%B0%91%E8%8A%B110%E5%85%83%E4%B8%AD682%E4%B8%87%E5%A4%A7%E5%A5%96&sa=fyb_news"
+        }
+      ],
+      "summary": "",
+      "url": "https://m.baidu.com/s?word=%E5%BD%A9%E6%B0%91%E8%8A%B110%E5%85%83%E4%B8%AD682%E4%B8%87%E5%A4%A7%E5%A5%96&sa=fyb_news"
+    },
+    {
+      "id": "evt-43600000",
+      "title": "受贿4.36亿余元，证监会原党委委员王会民一审被判死缓",
+      "category": "society",
+      "hotScore": 0.51,
+      "freshness": 0.9999,
+      "crossSource": 0.6309,
+      "totalScore": 0.6933,
+      "sources": [
+        {
+          "channel": "thepaper",
+          "rank": 9,
           "hot": 0,
           "url": "https://www.thepaper.cn/newsDetail_forward_34343115"
         }
@@ -140,42 +197,23 @@
       "url": "https://www.thepaper.cn/newsDetail_forward_34343115"
     },
     {
-      "id": "evt-ios00000",
-      "title": "苹果iOS更新，国行限制“摇一摇”跳转广告功能正式上线",
+      "id": "evt-iphon000",
+      "title": "富士康员工回应 iPhoneDuo 裂屏，称产能吃紧苹果曾降低良率质检标准，是真的吗？消费者能要求赔偿吗？",
       "category": "society",
-      "hotScore": 0.51,
+      "hotScore": 0.4875,
       "freshness": 1,
       "crossSource": 0.6309,
-      "totalScore": 0.6933,
+      "totalScore": 0.6843,
       "sources": [
         {
-          "channel": "thepaper",
-          "rank": 9,
+          "channel": "zhihu",
+          "rank": 8,
           "hot": 0,
-          "url": "https://www.thepaper.cn/newsDetail_forward_34342933"
+          "url": ""
         }
       ],
       "summary": "",
-      "url": "https://www.thepaper.cn/newsDetail_forward_34342933"
-    },
-    {
-      "id": "evt-80000000",
-      "title": "德国总统时隔8年再访华传递什么信号",
-      "category": "society",
-      "hotScore": 0.4675,
-      "freshness": 0.9999,
-      "crossSource": 0.6309,
-      "totalScore": 0.6763,
-      "sources": [
-        {
-          "channel": "toutiao",
-          "rank": 10,
-          "hot": 49540775,
-          "url": "https://www.toutiao.com/trending/7701194397936926763/"
-        }
-      ],
-      "summary": "",
-      "url": "https://www.toutiao.com/trending/7701194397936926763/"
+      "url": ""
     }
   ]
 }
