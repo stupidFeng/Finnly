@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-10-28T07:42:31.077Z",
+  "generatedAt": "2026-10-28T14:41:04.083Z",
   "fields": {
     "society": "社会",
     "economy": "经济",
@@ -8,79 +8,35 @@
   "feed": [
     {
       "id": "evt-00000000",
-      "title": "中方强烈要求美国立即停止封锁古巴",
+      "title": "国务院原副总理刘延东逝世",
       "category": "society",
-      "hotScore": 0.7225,
-      "freshness": 1,
+      "hotScore": 0.85,
+      "freshness": 0.9999,
       "crossSource": 1,
-      "totalScore": 0.889,
+      "totalScore": 0.94,
       "sources": [
         {
           "channel": "toutiao",
-          "rank": 4,
-          "hot": 94494308,
-          "url": "https://www.toutiao.com/trending/7701568987024526898/"
-        },
-        {
-          "channel": "baidu",
-          "rank": 7,
-          "hot": 0,
-          "url": "https://m.baidu.com/s?word=%E4%B8%AD%E6%96%B9%E5%BC%BA%E7%83%88%E8%A6%81%E6%B1%82%E7%BE%8E%E5%9B%BD%E7%AB%8B%E5%8D%B3%E5%81%9C%E6%AD%A2%E5%B0%81%E9%94%81%E5%8F%A4%E5%B7%B4&sa=fyb_news"
+          "rank": 1,
+          "hot": 36027404,
+          "url": "https://www.toutiao.com/trending/7701651687387332662/"
         }
       ],
       "summary": "",
-      "url": "https://www.toutiao.com/trending/7701568987024526898/"
-    },
-    {
-      "id": "evt-ios00000",
-      "title": "苹果iOS更新，国行限制“摇一摇”跳转广告功能正式上线",
-      "category": "society",
-      "hotScore": 0.765,
-      "freshness": 1,
-      "crossSource": 0.6309,
-      "totalScore": 0.7953,
-      "sources": [
-        {
-          "channel": "thepaper",
-          "rank": 3,
-          "hot": 0,
-          "url": "https://www.thepaper.cn/newsDetail_forward_34342933"
-        }
-      ],
-      "summary": "",
-      "url": "https://www.thepaper.cn/newsDetail_forward_34342933"
-    },
-    {
-      "id": "evt-deepseek",
-      "title": "DeepSeek 新版模型单周调用量登顶全球首位，环比暴增 801%，该模型为什么能实现登顶？意味着什么？",
-      "category": "society",
-      "hotScore": 0.7125,
-      "freshness": 1,
-      "crossSource": 0.6309,
-      "totalScore": 0.7743,
-      "sources": [
-        {
-          "channel": "zhihu",
-          "rank": 2,
-          "hot": 0,
-          "url": ""
-        }
-      ],
-      "summary": "",
-      "url": ""
+      "url": "https://www.toutiao.com/trending/7701651687387332662/"
     },
     {
       "id": "evt-20260000",
       "title": "2026胡润百富榜出炉，每10位上榜者就有1位靠AI",
       "category": "society",
-      "hotScore": 0.6375,
-      "freshness": 1,
-      "crossSource": 0.6309,
-      "totalScore": 0.7443,
+      "hotScore": 0.8075,
+      "freshness": 0.9999,
+      "crossSource": 1,
+      "totalScore": 0.923,
       "sources": [
         {
           "channel": "thepaper",
-          "rank": 6,
+          "rank": 2,
           "hot": 0,
           "url": "https://www.thepaper.cn/newsDetail_forward_34309375"
         }
@@ -89,55 +45,74 @@
       "url": "https://www.thepaper.cn/newsDetail_forward_34309375"
     },
     {
-      "id": "evt-32026000",
-      "title": "红果短剧成立 3 年，2026 年收入预测超过 400 亿，有望追上甚至超越全国电影院总票房，如何评价这股势头？",
-      "category": "entertainment",
-      "hotScore": 0.675,
-      "freshness": 1,
-      "crossSource": 0.6309,
-      "totalScore": 0.7593,
+      "id": "evt-ai000000",
+      "title": "男子回应借助AI买彩票中508万",
+      "category": "society",
+      "hotScore": 0.68,
+      "freshness": 0.9999,
+      "crossSource": 1,
+      "totalScore": 0.872,
       "sources": [
         {
-          "channel": "zhihu",
-          "rank": 3,
-          "hot": 0,
-          "url": ""
+          "channel": "toutiao",
+          "rank": 5,
+          "hot": 24149891,
+          "url": "https://www.toutiao.com/trending/7701562501992824874/"
         }
       ],
       "summary": "",
-      "url": ""
+      "url": "https://www.toutiao.com/trending/7701562501992824874/"
     },
     {
-      "id": "evt-43600000",
-      "title": "受贿4.36亿余元，证监会原党委委员王会民一审被判死缓",
+      "id": "evt-64000000",
+      "title": "西班牙列车相撞已致64死",
       "category": "society",
-      "hotScore": 0.5525,
-      "freshness": 1,
-      "crossSource": 0.6309,
-      "totalScore": 0.7103,
+      "hotScore": 0.595,
+      "freshness": 0.9999,
+      "crossSource": 1,
+      "totalScore": 0.838,
       "sources": [
         {
-          "channel": "thepaper",
+          "channel": "toutiao",
+          "rank": 7,
+          "hot": 19772258,
+          "url": "https://www.toutiao.com/trending/7700953614743191593/"
+        }
+      ],
+      "summary": "",
+      "url": "https://www.toutiao.com/trending/7700953614743191593/"
+    },
+    {
+      "id": "evt-17500000",
+      "title": "妈妈称男孩1米75没法见人",
+      "category": "society",
+      "hotScore": 0.52,
+      "freshness": 1,
+      "crossSource": 1,
+      "totalScore": 0.808,
+      "sources": [
+        {
+          "channel": "baidu",
           "rank": 8,
           "hot": 0,
-          "url": "https://www.thepaper.cn/newsDetail_forward_34343115"
+          "url": "https://m.baidu.com/s?word=%E5%A6%88%E5%A6%88%E7%A7%B0%E7%94%B7%E5%AD%A91%E7%B1%B375%E6%B2%A1%E6%B3%95%E8%A7%81%E4%BA%BA&sa=fyb_news"
         }
       ],
       "summary": "",
-      "url": "https://www.thepaper.cn/newsDetail_forward_34343115"
+      "url": "https://m.baidu.com/s?word=%E5%A6%88%E5%A6%88%E7%A7%B0%E7%94%B7%E5%AD%A91%E7%B1%B375%E6%B2%A1%E6%B3%95%E8%A7%81%E4%BA%BA&sa=fyb_news"
     },
     {
-      "id": "evt-top50000",
-      "title": "曝国产 TOP5 厂商将集体入局阔直板手机，这一形态会成为未来主流吗？",
+      "id": "evt-o0000000",
+      "title": "媒体呼吁「医疗真人秀叫停」，《offer 8》会被整改或停播吗？节目对医患信任的真实影响到底有多严重？",
       "category": "society",
-      "hotScore": 0.45,
-      "freshness": 1,
-      "crossSource": 0.6309,
-      "totalScore": 0.6693,
+      "hotScore": 0.4875,
+      "freshness": 0.9999,
+      "crossSource": 1,
+      "totalScore": 0.795,
       "sources": [
         {
           "channel": "zhihu",
-          "rank": 9,
+          "rank": 8,
           "hot": 0,
           "url": ""
         }
