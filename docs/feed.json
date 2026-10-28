@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-10-27T20:18:23.037Z",
+  "generatedAt": "2026-10-28T00:48:55.456Z",
   "fields": {
     "society": "社会",
     "economy": "经济",
@@ -8,35 +8,60 @@
   "feed": [
     {
       "id": "evt-00000000",
-      "title": "央视已经全面叫停涉及姆巴佩的赛事和广告播出",
+      "title": "人民日报评姆巴佩“翻车”",
       "category": "society",
       "hotScore": 0.85,
-      "freshness": 0.9999,
-      "crossSource": 0.6309,
-      "totalScore": 0.8293,
+      "freshness": 1,
+      "crossSource": 1,
+      "totalScore": 0.94,
       "sources": [
         {
-          "channel": "thepaper",
+          "channel": "toutiao",
           "rank": 1,
+          "hot": 135830936,
+          "url": "https://www.toutiao.com/trending/7701170258211700779/"
+        },
+        {
+          "channel": "baidu",
+          "rank": 2,
           "hot": 0,
-          "url": "https://www.thepaper.cn/newsDetail_forward_34341996"
+          "url": "https://m.baidu.com/s?word=%E4%BA%BA%E6%B0%91%E6%97%A5%E6%8A%A5%E8%AF%84%E5%A7%86%E5%B7%B4%E4%BD%A9%E2%80%9C%E7%BF%BB%E8%BD%A6%E2%80%9D&sa=fyb_news"
         }
       ],
       "summary": "",
-      "url": "https://www.thepaper.cn/newsDetail_forward_34341996"
+      "url": "https://www.toutiao.com/trending/7701170258211700779/"
     },
     {
-      "id": "evt-25000000",
-      "title": "银行将存 2500 元错输成 25000 元，储户拒退称「离柜概不负责」，被法院判属退还，你怎么看？",
+      "id": "evt-12700000",
+      "title": "身家1270亿周群飞成中国女首富",
       "category": "society",
-      "hotScore": 0.675,
+      "hotScore": 0.7225,
       "freshness": 1,
       "crossSource": 0.6309,
-      "totalScore": 0.7593,
+      "totalScore": 0.7783,
+      "sources": [
+        {
+          "channel": "toutiao",
+          "rank": 4,
+          "hot": 100626032,
+          "url": "https://www.toutiao.com/trending/7701336272849485843/"
+        }
+      ],
+      "summary": "",
+      "url": "https://www.toutiao.com/trending/7701336272849485843/"
+    },
+    {
+      "id": "evt-60000000",
+      "title": "微软向约 60000 名员工开放自愿离职方案，背后有哪些商业考量？为何没有选择强制裁员？",
+      "category": "society",
+      "hotScore": 0.7125,
+      "freshness": 1,
+      "crossSource": 0.6309,
+      "totalScore": 0.7743,
       "sources": [
         {
           "channel": "zhihu",
-          "rank": 3,
+          "rank": 2,
           "hot": 0,
           "url": ""
         }
@@ -45,11 +70,49 @@
       "url": ""
     },
     {
+      "id": "evt-iphon000",
+      "title": "富士康员工回应 iPhoneDuo 裂屏，称产能吃紧苹果曾降低良率质检标准，是真的吗？消费者能要求赔偿吗？",
+      "category": "society",
+      "hotScore": 0.6375,
+      "freshness": 1,
+      "crossSource": 0.6309,
+      "totalScore": 0.7443,
+      "sources": [
+        {
+          "channel": "zhihu",
+          "rank": 4,
+          "hot": 0,
+          "url": ""
+        }
+      ],
+      "summary": "",
+      "url": ""
+    },
+    {
+      "id": "evt-90000000",
+      "title": "前9月规上工业企业利润较快增长",
+      "category": "economy",
+      "hotScore": 0.51,
+      "freshness": 1,
+      "crossSource": 0.6309,
+      "totalScore": 0.6933,
+      "sources": [
+        {
+          "channel": "toutiao",
+          "rank": 9,
+          "hot": 61032774,
+          "url": "https://www.toutiao.com/trending/7701305657386896950/"
+        }
+      ],
+      "summary": "",
+      "url": "https://www.toutiao.com/trending/7701305657386896950/"
+    },
+    {
       "id": "evt-ios00000",
       "title": "苹果iOS更新，国行限制“摇一摇”跳转广告功能正式上线",
       "category": "society",
       "hotScore": 0.6375,
-      "freshness": 0.9999,
+      "freshness": 1,
       "crossSource": 0.6309,
       "totalScore": 0.7443,
       "sources": [
@@ -64,8 +127,27 @@
       "url": "https://www.thepaper.cn/newsDetail_forward_34342933"
     },
     {
-      "id": "evt-60000000",
-      "title": "微软向约 60000 名员工开放自愿离职方案，背后有哪些商业考量？为何没有选择强制裁员？",
+      "id": "evt-30000000",
+      "title": "3千万豪宅地库出入口在隧道 当地回应",
+      "category": "society",
+      "hotScore": 0.6,
+      "freshness": 1,
+      "crossSource": 0.6309,
+      "totalScore": 0.7293,
+      "sources": [
+        {
+          "channel": "baidu",
+          "rank": 6,
+          "hot": 0,
+          "url": "https://m.baidu.com/s?word=3%E5%8D%83%E4%B8%87%E8%B1%AA%E5%AE%85%E5%9C%B0%E5%BA%93%E5%87%BA%E5%85%A5%E5%8F%A3%E5%9C%A8%E9%9A%A7%E9%81%93+%E5%BD%93%E5%9C%B0%E5%9B%9E%E5%BA%94&sa=fyb_news"
+        }
+      ],
+      "summary": "",
+      "url": "https://m.baidu.com/s?word=3%E5%8D%83%E4%B8%87%E8%B1%AA%E5%AE%85%E5%9C%B0%E5%BA%93%E5%87%BA%E5%85%A5%E5%8F%A3%E5%9C%A8%E9%9A%A7%E9%81%93+%E5%BD%93%E5%9C%B0%E5%9B%9E%E5%BA%94&sa=fyb_news"
+    },
+    {
+      "id": "evt-deepseek",
+      "title": "DeepSeek 新版模型单周调用量登顶全球首位，环比暴增 801%，该模型为什么能实现登顶？意味着什么？",
       "category": "society",
       "hotScore": 0.6,
       "freshness": 1,
@@ -83,65 +165,8 @@
       "url": ""
     },
     {
-      "id": "evt-90000000",
-      "title": "前9月规上工业企业利润较快增长",
-      "category": "economy",
-      "hotScore": 0.51,
-      "freshness": 0.9999,
-      "crossSource": 0.6309,
-      "totalScore": 0.6932,
-      "sources": [
-        {
-          "channel": "toutiao",
-          "rank": 9,
-          "hot": 56767633,
-          "url": "https://www.toutiao.com/trending/7701305657386896950/"
-        }
-      ],
-      "summary": "",
-      "url": "https://www.toutiao.com/trending/7701305657386896950/"
-    },
-    {
-      "id": "evt-ai000000",
-      "title": "基金经理重仓 AI 巨亏公开致歉，称没必要低位离场，等流动性恢复，当基金经理也靠信仰持股，算不算风险信号？",
-      "category": "economy",
-      "hotScore": 0.45,
-      "freshness": 1,
-      "crossSource": 0.6309,
-      "totalScore": 0.6693,
-      "sources": [
-        {
-          "channel": "zhihu",
-          "rank": 9,
-          "hot": 0,
-          "url": ""
-        }
-      ],
-      "summary": "",
-      "url": ""
-    },
-    {
-      "id": "evt-ai600000",
-      "title": "马上评｜老干妈用AI把600名拣椒工裁到48人？宣传AI降本也别忘了人",
-      "category": "society",
-      "hotScore": 0.595,
-      "freshness": 0.9999,
-      "crossSource": 0.6309,
-      "totalScore": 0.7273,
-      "sources": [
-        {
-          "channel": "thepaper",
-          "rank": 7,
-          "hot": 0,
-          "url": "https://www.thepaper.cn/newsDetail_forward_34336116"
-        }
-      ],
-      "summary": "",
-      "url": "https://www.thepaper.cn/newsDetail_forward_34336116"
-    },
-    {
-      "id": "evt-openaian",
-      "title": "为什么 OpenAi 和 Anthropic 不用自己的顶级 AI 去炒股？就像幻方量化一样？",
+      "id": "evt-knight00",
+      "title": "Knight 赛后采访称「我认为今年和 S14 很接近，我想再次冲击冠军」，今年的 BLG 有戏吗？",
       "category": "society",
       "hotScore": 0.5625,
       "freshness": 1,
@@ -159,61 +184,23 @@
       "url": ""
     },
     {
-      "id": "evt-10682000",
-      "title": "彩民花10元中682万大奖",
-      "category": "society",
-      "hotScore": 0.56,
-      "freshness": 0.9999,
-      "crossSource": 0.6309,
-      "totalScore": 0.7133,
-      "sources": [
-        {
-          "channel": "baidu",
-          "rank": 7,
-          "hot": 0,
-          "url": "https://m.baidu.com/s?word=%E5%BD%A9%E6%B0%91%E8%8A%B110%E5%85%83%E4%B8%AD682%E4%B8%87%E5%A4%A7%E5%A5%96&sa=fyb_news"
-        }
-      ],
-      "summary": "",
-      "url": "https://m.baidu.com/s?word=%E5%BD%A9%E6%B0%91%E8%8A%B110%E5%85%83%E4%B8%AD682%E4%B8%87%E5%A4%A7%E5%A5%96&sa=fyb_news"
-    },
-    {
       "id": "evt-43600000",
       "title": "受贿4.36亿余元，证监会原党委委员王会民一审被判死缓",
       "category": "society",
-      "hotScore": 0.51,
-      "freshness": 0.9999,
+      "hotScore": 0.425,
+      "freshness": 1,
       "crossSource": 0.6309,
-      "totalScore": 0.6933,
+      "totalScore": 0.6593,
       "sources": [
         {
           "channel": "thepaper",
-          "rank": 9,
+          "rank": 11,
           "hot": 0,
           "url": "https://www.thepaper.cn/newsDetail_forward_34343115"
         }
       ],
       "summary": "",
       "url": "https://www.thepaper.cn/newsDetail_forward_34343115"
-    },
-    {
-      "id": "evt-iphon000",
-      "title": "富士康员工回应 iPhoneDuo 裂屏，称产能吃紧苹果曾降低良率质检标准，是真的吗？消费者能要求赔偿吗？",
-      "category": "society",
-      "hotScore": 0.4875,
-      "freshness": 1,
-      "crossSource": 0.6309,
-      "totalScore": 0.6843,
-      "sources": [
-        {
-          "channel": "zhihu",
-          "rank": 8,
-          "hot": 0,
-          "url": ""
-        }
-      ],
-      "summary": "",
-      "url": ""
     }
   ]
 }
