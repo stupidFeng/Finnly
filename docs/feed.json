@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-10-28T14:41:04.083Z",
+  "generatedAt": "2026-10-28T20:40:37.188Z",
   "fields": {
     "society": "社会",
     "economy": "经济",
@@ -18,7 +18,7 @@
         {
           "channel": "toutiao",
           "rank": 1,
-          "hot": 36027404,
+          "hot": 40011560,
           "url": "https://www.toutiao.com/trending/7701651687387332662/"
         }
       ],
@@ -26,23 +26,23 @@
       "url": "https://www.toutiao.com/trending/7701651687387332662/"
     },
     {
-      "id": "evt-20260000",
-      "title": "2026胡润百富榜出炉，每10位上榜者就有1位靠AI",
+      "id": "evt-31000000",
+      "title": "31岁亚马逊前华人女工程师听GPT建议自行停药后死亡，父母起诉OpenAI",
       "category": "society",
-      "hotScore": 0.8075,
+      "hotScore": 0.765,
       "freshness": 0.9999,
       "crossSource": 1,
-      "totalScore": 0.923,
+      "totalScore": 0.906,
       "sources": [
         {
           "channel": "thepaper",
-          "rank": 2,
+          "rank": 3,
           "hot": 0,
-          "url": "https://www.thepaper.cn/newsDetail_forward_34309375"
+          "url": "https://www.thepaper.cn/newsDetail_forward_34351416"
         }
       ],
       "summary": "",
-      "url": "https://www.thepaper.cn/newsDetail_forward_34309375"
+      "url": "https://www.thepaper.cn/newsDetail_forward_34351416"
     },
     {
       "id": "evt-ai000000",
@@ -56,7 +56,7 @@
         {
           "channel": "toutiao",
           "rank": 5,
-          "hot": 24149891,
+          "hot": 26820550,
           "url": "https://www.toutiao.com/trending/7701562501992824874/"
         }
       ],
@@ -64,55 +64,74 @@
       "url": "https://www.toutiao.com/trending/7701562501992824874/"
     },
     {
-      "id": "evt-64000000",
-      "title": "西班牙列车相撞已致64死",
+      "id": "evt-15014900",
+      "title": "150人考试149人通过牵出作弊案",
       "category": "society",
-      "hotScore": 0.595,
+      "hotScore": 0.6375,
       "freshness": 0.9999,
       "crossSource": 1,
-      "totalScore": 0.838,
+      "totalScore": 0.855,
       "sources": [
         {
           "channel": "toutiao",
-          "rank": 7,
-          "hot": 19772258,
-          "url": "https://www.toutiao.com/trending/7700953614743191593/"
+          "rank": 6,
+          "hot": 24268237,
+          "url": "https://www.toutiao.com/trending/7701587912219181107/"
         }
       ],
       "summary": "",
-      "url": "https://www.toutiao.com/trending/7700953614743191593/"
+      "url": "https://www.toutiao.com/trending/7701587912219181107/"
     },
     {
-      "id": "evt-17500000",
-      "title": "妈妈称男孩1米75没法见人",
+      "id": "evt-10000000",
+      "title": "如果鸡能长到 100 千克重，那人是不是就有巨大的鸡翅可以吃了？",
       "category": "society",
-      "hotScore": 0.52,
-      "freshness": 1,
+      "hotScore": 0.5625,
+      "freshness": 0.9999,
       "crossSource": 1,
-      "totalScore": 0.808,
+      "totalScore": 0.825,
       "sources": [
         {
-          "channel": "baidu",
-          "rank": 8,
+          "channel": "zhihu",
+          "rank": 6,
           "hot": 0,
-          "url": "https://m.baidu.com/s?word=%E5%A6%88%E5%A6%88%E7%A7%B0%E7%94%B7%E5%AD%A91%E7%B1%B375%E6%B2%A1%E6%B3%95%E8%A7%81%E4%BA%BA&sa=fyb_news"
+          "url": ""
         }
       ],
       "summary": "",
-      "url": "https://m.baidu.com/s?word=%E5%A6%88%E5%A6%88%E7%A7%B0%E7%94%B7%E5%AD%A91%E7%B1%B375%E6%B2%A1%E6%B3%95%E8%A7%81%E4%BA%BA&sa=fyb_news"
+      "url": ""
     },
     {
       "id": "evt-o0000000",
       "title": "媒体呼吁「医疗真人秀叫停」，《offer 8》会被整改或停播吗？节目对医患信任的真实影响到底有多严重？",
       "category": "society",
-      "hotScore": 0.4875,
+      "hotScore": 0.525,
       "freshness": 0.9999,
       "crossSource": 1,
-      "totalScore": 0.795,
+      "totalScore": 0.81,
       "sources": [
         {
           "channel": "zhihu",
-          "rank": 8,
+          "rank": 7,
+          "hot": 0,
+          "url": ""
+        }
+      ],
+      "summary": "",
+      "url": ""
+    },
+    {
+      "id": "evt-m0000000",
+      "title": "如何评价樊振东首次解说 MLB（美国职业棒球大联盟）比赛？",
+      "category": "society",
+      "hotScore": 0.45,
+      "freshness": 0.9999,
+      "crossSource": 1,
+      "totalScore": 0.78,
+      "sources": [
+        {
+          "channel": "zhihu",
+          "rank": 9,
           "hot": 0,
           "url": ""
         }
