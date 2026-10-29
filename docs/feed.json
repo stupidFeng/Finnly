@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-10-29T07:47:14.708Z",
+  "generatedAt": "2026-10-29T14:45:37.380Z",
   "fields": {
     "society": "社会",
     "economy": "经济",
@@ -7,118 +7,99 @@
   },
   "feed": [
     {
-      "id": "evt-00000000",
-      "title": "姆巴佩的“天价”账单才刚刚开始",
+      "id": "evt-30000000",
+      "title": "邀全网喝喜酒小伙打工3年攒近17万",
       "category": "society",
-      "hotScore": 0.6,
-      "freshness": 1,
+      "hotScore": 0.8075,
+      "freshness": 0.9993,
       "crossSource": 1,
-      "totalScore": 0.84,
+      "totalScore": 0.9228,
       "sources": [
         {
-          "channel": "thepaper",
-          "rank": 10,
-          "hot": 0,
-          "url": "https://www.thepaper.cn/newsDetail_forward_34350835"
+          "channel": "toutiao",
+          "rank": 2,
+          "hot": 11106199,
+          "url": "https://www.toutiao.com/trending/7701176000796770354/"
         },
         {
           "channel": "baidu",
-          "rank": 6,
+          "rank": 11,
           "hot": 0,
-          "url": "https://m.baidu.com/s?word=%E5%A7%86%E5%B7%B4%E4%BD%A9%E7%9A%84%E2%80%9C%E5%A4%A9%E4%BB%B7%E2%80%9D%E8%B4%A6%E5%8D%95%E6%89%8D%E5%88%9A%E5%88%9A%E5%BC%80%E5%A7%8B&sa=fyb_news"
+          "url": "https://m.baidu.com/s?word=%E9%82%80%E5%85%A8%E7%BD%91%E5%96%9D%E5%96%9C%E9%85%92%E5%B0%8F%E4%BC%99%E6%89%93%E5%B7%A53%E5%B9%B4%E6%94%92%E8%BF%9117%E4%B8%87&sa=fyb_news"
         }
       ],
       "summary": "",
-      "url": "https://www.thepaper.cn/newsDetail_forward_34350835"
+      "url": "https://www.toutiao.com/trending/7701176000796770354/"
     },
     {
-      "id": "evt-31000000",
-      "title": "31岁亚马逊前华人女工程师听GPT建议自行停药后死亡，父母起诉OpenAI",
+      "id": "evt-00000000",
+      "title": "二十届五中全会公报",
       "category": "society",
-      "hotScore": 0.8075,
-      "freshness": 1,
+      "hotScore": 0.8,
+      "freshness": 0.9994,
       "crossSource": 0.6309,
-      "totalScore": 0.8123,
+      "totalScore": 0.8091,
       "sources": [
         {
-          "channel": "thepaper",
-          "rank": 2,
+          "channel": "baidu",
+          "rank": 1,
           "hot": 0,
-          "url": "https://www.thepaper.cn/newsDetail_forward_34351416"
+          "url": "https://m.baidu.com/s?word=%E4%BA%8C%E5%8D%81%E5%B1%8A%E4%BA%94%E4%B8%AD%E5%85%A8%E4%BC%9A%E5%85%AC%E6%8A%A5&sa=fyb_news"
         }
       ],
       "summary": "",
-      "url": "https://www.thepaper.cn/newsDetail_forward_34351416"
+      "url": "https://m.baidu.com/s?word=%E4%BA%8C%E5%8D%81%E5%B1%8A%E4%BA%94%E4%B8%AD%E5%85%A8%E4%BC%9A%E5%85%AC%E6%8A%A5&sa=fyb_news"
     },
     {
-      "id": "evt-hellokitty",
-      "title": "Hello Kitty母公司再致歉",
+      "id": "evt-10000000",
+      "title": "10元快剪正暴打全国的“设计总监”",
       "category": "society",
-      "hotScore": 0.7225,
-      "freshness": 1,
+      "hotScore": 0.72,
+      "freshness": 0.9994,
       "crossSource": 0.6309,
-      "totalScore": 0.7783,
+      "totalScore": 0.7771,
       "sources": [
         {
-          "channel": "toutiao",
-          "rank": 4,
-          "hot": 19734640,
-          "url": "https://www.toutiao.com/trending/7701970754128055850/"
+          "channel": "baidu",
+          "rank": 3,
+          "hot": 0,
+          "url": "https://m.baidu.com/s?word=10%E5%85%83%E5%BF%AB%E5%89%AA%E6%AD%A3%E6%9A%B4%E6%89%93%E5%85%A8%E5%9B%BD%E7%9A%84%E2%80%9C%E8%AE%BE%E8%AE%A1%E6%80%BB%E7%9B%91%E2%80%9D&sa=fyb_news"
         }
       ],
       "summary": "",
-      "url": "https://www.toutiao.com/trending/7701970754128055850/"
+      "url": "https://m.baidu.com/s?word=10%E5%85%83%E5%BF%AB%E5%89%AA%E6%AD%A3%E6%9A%B4%E6%89%93%E5%85%A8%E5%9B%BD%E7%9A%84%E2%80%9C%E8%AE%BE%E8%AE%A1%E6%80%BB%E7%9B%91%E2%80%9D&sa=fyb_news"
     },
     {
-      "id": "evt-a0000000",
-      "title": "专家：A股将迎来修复",
+      "id": "evt-20000000",
+      "title": "一条牛仔裤20万 克罗心还能撑多久",
       "category": "society",
-      "hotScore": 0.68,
-      "freshness": 1,
+      "hotScore": 0.64,
+      "freshness": 0.9994,
       "crossSource": 0.6309,
-      "totalScore": 0.7613,
+      "totalScore": 0.7451,
       "sources": [
         {
-          "channel": "toutiao",
+          "channel": "baidu",
           "rank": 5,
-          "hot": 17856641,
-          "url": "https://www.toutiao.com/trending/7701688368027222054/"
+          "hot": 0,
+          "url": "https://m.baidu.com/s?word=%E4%B8%80%E6%9D%A1%E7%89%9B%E4%BB%94%E8%A3%A420%E4%B8%87+%E5%85%8B%E7%BD%97%E5%BF%83%E8%BF%98%E8%83%BD%E6%92%91%E5%A4%9A%E4%B9%85&sa=fyb_news"
         }
       ],
       "summary": "",
-      "url": "https://www.toutiao.com/trending/7701688368027222054/"
+      "url": "https://m.baidu.com/s?word=%E4%B8%80%E6%9D%A1%E7%89%9B%E4%BB%94%E8%A3%A420%E4%B8%87+%E5%85%8B%E7%BD%97%E5%BF%83%E8%BF%98%E8%83%BD%E6%92%91%E5%A4%9A%E4%B9%85&sa=fyb_news"
     },
     {
-      "id": "evt-27000000",
-      "title": "27岁抗癌博主悦悦去世",
+      "id": "evt-ai000000",
+      "title": "如何评价 AI 短剧《大明, 李景隆的别样人生》？",
       "category": "society",
-      "hotScore": 0.6375,
-      "freshness": 1,
+      "hotScore": 0.4875,
+      "freshness": 0.9994,
       "crossSource": 0.6309,
-      "totalScore": 0.7443,
-      "sources": [
-        {
-          "channel": "toutiao",
-          "rank": 6,
-          "hot": 16157357,
-          "url": "https://www.toutiao.com/trending/7701892949155643433/"
-        }
-      ],
-      "summary": "",
-      "url": "https://www.toutiao.com/trending/7701892949155643433/"
-    },
-    {
-      "id": "evt-68000000",
-      "title": "西班牙高铁事故已致 68 死，相撞时车速超 100 公里 / 时，系人为失误，暴露什么问题？防撞系统为啥没起作用？",
-      "category": "society",
-      "hotScore": 0.525,
-      "freshness": 1,
-      "crossSource": 0.6309,
-      "totalScore": 0.6993,
+      "totalScore": 0.6841,
       "sources": [
         {
           "channel": "zhihu",
-          "rank": 7,
+          "rank": 8,
           "hot": 0,
           "url": ""
         }
@@ -127,61 +108,23 @@
       "url": ""
     },
     {
-      "id": "evt-58000000",
-      "title": "男子钓鱼时被58斤大青鱼拽入池塘",
-      "category": "society",
-      "hotScore": 0.52,
-      "freshness": 1,
-      "crossSource": 0.6309,
-      "totalScore": 0.6973,
-      "sources": [
-        {
-          "channel": "baidu",
-          "rank": 8,
-          "hot": 0,
-          "url": "https://m.baidu.com/s?word=%E7%94%B7%E5%AD%90%E9%92%93%E9%B1%BC%E6%97%B6%E8%A2%AB58%E6%96%A4%E5%A4%A7%E9%9D%92%E9%B1%BC%E6%8B%BD%E5%85%A5%E6%B1%A0%E5%A1%98&sa=fyb_news"
-        }
-      ],
-      "summary": "",
-      "url": "https://m.baidu.com/s?word=%E7%94%B7%E5%AD%90%E9%92%93%E9%B1%BC%E6%97%B6%E8%A2%AB58%E6%96%A4%E5%A4%A7%E9%9D%92%E9%B1%BC%E6%8B%BD%E5%85%A5%E6%B1%A0%E5%A1%98&sa=fyb_news"
-    },
-    {
-      "id": "evt-51000000",
-      "title": "5万买的金镯未佩戴已亏1.3万",
+      "id": "evt-13000000",
+      "title": "谷歌盘初大跌超13%",
       "category": "society",
       "hotScore": 0.4675,
-      "freshness": 1,
+      "freshness": 0.9993,
       "crossSource": 0.6309,
-      "totalScore": 0.6763,
+      "totalScore": 0.6761,
       "sources": [
         {
           "channel": "toutiao",
           "rank": 10,
-          "hot": 10830600,
-          "url": "https://www.toutiao.com/trending/7701894872478990875/"
+          "hot": 4990336,
+          "url": "https://www.toutiao.com/trending/7702083319176891946/"
         }
       ],
       "summary": "",
-      "url": "https://www.toutiao.com/trending/7701894872478990875/"
-    },
-    {
-      "id": "evt-10000000",
-      "title": "第1现场｜西班牙再发列车相撞惨剧：已致64死，事故或因人为失误",
-      "category": "society",
-      "hotScore": 0.425,
-      "freshness": 1,
-      "crossSource": 0.6309,
-      "totalScore": 0.6593,
-      "sources": [
-        {
-          "channel": "thepaper",
-          "rank": 11,
-          "hot": 0,
-          "url": "https://www.thepaper.cn/newsDetail_forward_34351823"
-        }
-      ],
-      "summary": "",
-      "url": "https://www.thepaper.cn/newsDetail_forward_34351823"
+      "url": "https://www.toutiao.com/trending/7702083319176891946/"
     }
   ]
 }
