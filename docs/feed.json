@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-10-28T20:40:37.188Z",
+  "generatedAt": "2026-10-29T01:22:37.578Z",
   "fields": {
     "society": "社会",
     "economy": "经济",
@@ -8,35 +8,35 @@
   "feed": [
     {
       "id": "evt-00000000",
-      "title": "国务院原副总理刘延东逝世",
+      "title": "刘延东同志逝世",
       "category": "society",
       "hotScore": 0.85,
-      "freshness": 0.9999,
-      "crossSource": 1,
-      "totalScore": 0.94,
+      "freshness": 1,
+      "crossSource": 0.6309,
+      "totalScore": 0.8293,
       "sources": [
         {
-          "channel": "toutiao",
+          "channel": "thepaper",
           "rank": 1,
-          "hot": 40011560,
-          "url": "https://www.toutiao.com/trending/7701651687387332662/"
+          "hot": 0,
+          "url": "https://www.thepaper.cn/newsDetail_forward_34351680"
         }
       ],
       "summary": "",
-      "url": "https://www.toutiao.com/trending/7701651687387332662/"
+      "url": "https://www.thepaper.cn/newsDetail_forward_34351680"
     },
     {
       "id": "evt-31000000",
       "title": "31岁亚马逊前华人女工程师听GPT建议自行停药后死亡，父母起诉OpenAI",
       "category": "society",
-      "hotScore": 0.765,
-      "freshness": 0.9999,
-      "crossSource": 1,
-      "totalScore": 0.906,
+      "hotScore": 0.8075,
+      "freshness": 1,
+      "crossSource": 0.6309,
+      "totalScore": 0.8123,
       "sources": [
         {
           "channel": "thepaper",
-          "rank": 3,
+          "rank": 2,
           "hot": 0,
           "url": "https://www.thepaper.cn/newsDetail_forward_34351416"
         }
@@ -45,99 +45,118 @@
       "url": "https://www.thepaper.cn/newsDetail_forward_34351416"
     },
     {
-      "id": "evt-ai000000",
-      "title": "男子回应借助AI买彩票中508万",
+      "id": "evt-68000000",
+      "title": "西班牙列车相撞已致68死",
+      "category": "society",
+      "hotScore": 0.8075,
+      "freshness": 0.9999,
+      "crossSource": 0.6309,
+      "totalScore": 0.8122,
+      "sources": [
+        {
+          "channel": "toutiao",
+          "rank": 2,
+          "hot": 32634536,
+          "url": "https://www.toutiao.com/trending/7700901534950837796/"
+        }
+      ],
+      "summary": "",
+      "url": "https://www.toutiao.com/trending/7700901534950837796/"
+    },
+    {
+      "id": "evt-s16ig210",
+      "title": "S16 瑞士轮 iG 2:1 击败 LYON，时隔 2565 天重新闯进淘汰赛，如何评价这场比赛？",
+      "category": "society",
+      "hotScore": 0.75,
+      "freshness": 0.9999,
+      "crossSource": 0.6309,
+      "totalScore": 0.7893,
+      "sources": [
+        {
+          "channel": "zhihu",
+          "rank": 1,
+          "hot": 0,
+          "url": ""
+        }
+      ],
+      "summary": "",
+      "url": ""
+    },
+    {
+      "id": "evt-39000000",
+      "title": "39岁中国籍老板在泰遭袭身亡",
+      "category": "society",
+      "hotScore": 0.7225,
+      "freshness": 0.9999,
+      "crossSource": 0.6309,
+      "totalScore": 0.7782,
+      "sources": [
+        {
+          "channel": "toutiao",
+          "rank": 4,
+          "hot": 26718898,
+          "url": "https://www.toutiao.com/trending/7701620289176470026/"
+        }
+      ],
+      "summary": "",
+      "url": "https://www.toutiao.com/trending/7701620289176470026/"
+    },
+    {
+      "id": "evt-hellokitty",
+      "title": "Hello Kitty深夜致歉",
       "category": "society",
       "hotScore": 0.68,
       "freshness": 0.9999,
-      "crossSource": 1,
-      "totalScore": 0.872,
+      "crossSource": 0.6309,
+      "totalScore": 0.7612,
       "sources": [
         {
           "channel": "toutiao",
           "rank": 5,
-          "hot": 26820550,
-          "url": "https://www.toutiao.com/trending/7701562501992824874/"
+          "hot": 24176259,
+          "url": "https://www.toutiao.com/trending/7700202788881747499/"
         }
       ],
       "summary": "",
-      "url": "https://www.toutiao.com/trending/7701562501992824874/"
+      "url": "https://www.toutiao.com/trending/7700202788881747499/"
     },
     {
-      "id": "evt-15014900",
-      "title": "150人考试149人通过牵出作弊案",
+      "id": "evt-ig256500",
+      "title": "IG时隔2565天再次晋级8强",
       "category": "society",
-      "hotScore": 0.6375,
+      "hotScore": 0.5525,
       "freshness": 0.9999,
-      "crossSource": 1,
-      "totalScore": 0.855,
+      "crossSource": 0.6309,
+      "totalScore": 0.7102,
       "sources": [
         {
           "channel": "toutiao",
-          "rank": 6,
-          "hot": 24268237,
-          "url": "https://www.toutiao.com/trending/7701587912219181107/"
+          "rank": 8,
+          "hot": 17910213,
+          "url": "https://www.toutiao.com/trending/7701305657387175478/"
         }
       ],
       "summary": "",
-      "url": "https://www.toutiao.com/trending/7701587912219181107/"
+      "url": "https://www.toutiao.com/trending/7701305657387175478/"
     },
     {
-      "id": "evt-10000000",
-      "title": "如果鸡能长到 100 千克重，那人是不是就有巨大的鸡翅可以吃了？",
+      "id": "evt-ig000000",
+      "title": "距离IG上次进入淘汰赛已经过了七年",
       "category": "society",
-      "hotScore": 0.5625,
+      "hotScore": 0.52,
       "freshness": 0.9999,
-      "crossSource": 1,
-      "totalScore": 0.825,
+      "crossSource": 0.6309,
+      "totalScore": 0.6973,
       "sources": [
         {
-          "channel": "zhihu",
-          "rank": 6,
+          "channel": "baidu",
+          "rank": 8,
           "hot": 0,
-          "url": ""
+          "url": "https://m.baidu.com/s?word=%E8%B7%9D%E7%A6%BBIG%E4%B8%8A%E6%AC%A1%E8%BF%9B%E5%85%A5%E6%B7%98%E6%B1%B0%E8%B5%9B%E5%B7%B2%E7%BB%8F%E8%BF%87%E4%BA%86%E4%B8%83%E5%B9%B4&sa=fyb_news"
         }
       ],
       "summary": "",
-      "url": ""
-    },
-    {
-      "id": "evt-o0000000",
-      "title": "媒体呼吁「医疗真人秀叫停」，《offer 8》会被整改或停播吗？节目对医患信任的真实影响到底有多严重？",
-      "category": "society",
-      "hotScore": 0.525,
-      "freshness": 0.9999,
-      "crossSource": 1,
-      "totalScore": 0.81,
-      "sources": [
-        {
-          "channel": "zhihu",
-          "rank": 7,
-          "hot": 0,
-          "url": ""
-        }
-      ],
-      "summary": "",
-      "url": ""
-    },
-    {
-      "id": "evt-m0000000",
-      "title": "如何评价樊振东首次解说 MLB（美国职业棒球大联盟）比赛？",
-      "category": "society",
-      "hotScore": 0.45,
-      "freshness": 0.9999,
-      "crossSource": 1,
-      "totalScore": 0.78,
-      "sources": [
-        {
-          "channel": "zhihu",
-          "rank": 9,
-          "hot": 0,
-          "url": ""
-        }
-      ],
-      "summary": "",
-      "url": ""
+      "url": "https://m.baidu.com/s?word=%E8%B7%9D%E7%A6%BBIG%E4%B8%8A%E6%AC%A1%E8%BF%9B%E5%85%A5%E6%B7%98%E6%B1%B0%E8%B5%9B%E5%B7%B2%E7%BB%8F%E8%BF%87%E4%BA%86%E4%B8%83%E5%B9%B4&sa=fyb_news"
     }
   ]
 }
