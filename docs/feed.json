@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-10-29T14:45:37.380Z",
+  "generatedAt": "2026-10-29T20:43:58.222Z",
   "fields": {
     "society": "社会",
     "economy": "经济",
@@ -11,14 +11,14 @@
       "title": "邀全网喝喜酒小伙打工3年攒近17万",
       "category": "society",
       "hotScore": 0.8075,
-      "freshness": 0.9993,
+      "freshness": 0.9999,
       "crossSource": 1,
-      "totalScore": 0.9228,
+      "totalScore": 0.923,
       "sources": [
         {
           "channel": "toutiao",
           "rank": 2,
-          "hot": 11106199,
+          "hot": 12987595,
           "url": "https://www.toutiao.com/trending/7701176000796770354/"
         },
         {
@@ -33,31 +33,31 @@
     },
     {
       "id": "evt-00000000",
-      "title": "二十届五中全会公报",
+      "title": "中国共产党第二十届中央委员会第五次全体会议公报",
       "category": "society",
-      "hotScore": 0.8,
-      "freshness": 0.9994,
+      "hotScore": 0.85,
+      "freshness": 0.9999,
       "crossSource": 0.6309,
-      "totalScore": 0.8091,
+      "totalScore": 0.8293,
       "sources": [
         {
-          "channel": "baidu",
+          "channel": "thepaper",
           "rank": 1,
           "hot": 0,
-          "url": "https://m.baidu.com/s?word=%E4%BA%8C%E5%8D%81%E5%B1%8A%E4%BA%94%E4%B8%AD%E5%85%A8%E4%BC%9A%E5%85%AC%E6%8A%A5&sa=fyb_news"
+          "url": "https://www.thepaper.cn/newsDetail_forward_34360376"
         }
       ],
       "summary": "",
-      "url": "https://m.baidu.com/s?word=%E4%BA%8C%E5%8D%81%E5%B1%8A%E4%BA%94%E4%B8%AD%E5%85%A8%E4%BC%9A%E5%85%AC%E6%8A%A5&sa=fyb_news"
+      "url": "https://www.thepaper.cn/newsDetail_forward_34360376"
     },
     {
       "id": "evt-10000000",
       "title": "10元快剪正暴打全国的“设计总监”",
       "category": "society",
       "hotScore": 0.72,
-      "freshness": 0.9994,
+      "freshness": 1,
       "crossSource": 0.6309,
-      "totalScore": 0.7771,
+      "totalScore": 0.7773,
       "sources": [
         {
           "channel": "baidu",
@@ -70,13 +70,32 @@
       "url": "https://m.baidu.com/s?word=10%E5%85%83%E5%BF%AB%E5%89%AA%E6%AD%A3%E6%9A%B4%E6%89%93%E5%85%A8%E5%9B%BD%E7%9A%84%E2%80%9C%E8%AE%BE%E8%AE%A1%E6%80%BB%E7%9B%91%E2%80%9D&sa=fyb_news"
     },
     {
+      "id": "evt-40000000",
+      "title": "研究称我国4成老人陷入“失乐”困境",
+      "category": "society",
+      "hotScore": 0.68,
+      "freshness": 0.9999,
+      "crossSource": 0.6309,
+      "totalScore": 0.7612,
+      "sources": [
+        {
+          "channel": "toutiao",
+          "rank": 5,
+          "hot": 9621447,
+          "url": "https://www.toutiao.com/trending/7701969382741753865/"
+        }
+      ],
+      "summary": "",
+      "url": "https://www.toutiao.com/trending/7701969382741753865/"
+    },
+    {
       "id": "evt-20000000",
       "title": "一条牛仔裤20万 克罗心还能撑多久",
       "category": "society",
       "hotScore": 0.64,
-      "freshness": 0.9994,
+      "freshness": 1,
       "crossSource": 0.6309,
-      "totalScore": 0.7451,
+      "totalScore": 0.7453,
       "sources": [
         {
           "channel": "baidu",
@@ -89,42 +108,23 @@
       "url": "https://m.baidu.com/s?word=%E4%B8%80%E6%9D%A1%E7%89%9B%E4%BB%94%E8%A3%A420%E4%B8%87+%E5%85%8B%E7%BD%97%E5%BF%83%E8%BF%98%E8%83%BD%E6%92%91%E5%A4%9A%E4%B9%85&sa=fyb_news"
     },
     {
-      "id": "evt-ai000000",
-      "title": "如何评价 AI 短剧《大明, 李景隆的别样人生》？",
+      "id": "evt-mate9000",
+      "title": "华为Mate 90将全系支持四卡三待",
       "category": "society",
-      "hotScore": 0.4875,
-      "freshness": 0.9994,
+      "hotScore": 0.595,
+      "freshness": 0.9999,
       "crossSource": 0.6309,
-      "totalScore": 0.6841,
-      "sources": [
-        {
-          "channel": "zhihu",
-          "rank": 8,
-          "hot": 0,
-          "url": ""
-        }
-      ],
-      "summary": "",
-      "url": ""
-    },
-    {
-      "id": "evt-13000000",
-      "title": "谷歌盘初大跌超13%",
-      "category": "society",
-      "hotScore": 0.4675,
-      "freshness": 0.9993,
-      "crossSource": 0.6309,
-      "totalScore": 0.6761,
+      "totalScore": 0.7272,
       "sources": [
         {
           "channel": "toutiao",
-          "rank": 10,
-          "hot": 4990336,
-          "url": "https://www.toutiao.com/trending/7702083319176891946/"
+          "rank": 7,
+          "hot": 7877375,
+          "url": "https://www.toutiao.com/trending/7701610129954914825/"
         }
       ],
       "summary": "",
-      "url": "https://www.toutiao.com/trending/7702083319176891946/"
+      "url": "https://www.toutiao.com/trending/7701610129954914825/"
     }
   ]
 }
