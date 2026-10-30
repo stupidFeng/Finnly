@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-10-30T14:41:22.492Z",
+  "generatedAt": "2026-10-30T20:15:21.442Z",
   "fields": {
     "society": "社会",
     "economy": "经济",
@@ -10,20 +10,20 @@
       "id": "evt-00000000",
       "title": "今年全国实现生娃基本不花钱",
       "category": "society",
-      "hotScore": 0.85,
-      "freshness": 0.9998,
+      "hotScore": 0.8075,
+      "freshness": 1,
       "crossSource": 1,
-      "totalScore": 0.9399,
+      "totalScore": 0.923,
       "sources": [
         {
           "channel": "toutiao",
-          "rank": 1,
-          "hot": 9346329,
+          "rank": 2,
+          "hot": 10274491,
           "url": "https://www.toutiao.com/trending/7701865571654258218/"
         },
         {
           "channel": "baidu",
-          "rank": 2,
+          "rank": 5,
           "hot": 0,
           "url": "https://m.baidu.com/s?word=%E4%BB%8A%E5%B9%B4%E5%85%A8%E5%9B%BD%E5%AE%9E%E7%8E%B0%E7%94%9F%E5%A8%83%E5%9F%BA%E6%9C%AC%E4%B8%8D%E8%8A%B1%E9%92%B1&sa=fyb_news"
         }
@@ -32,32 +32,32 @@
       "url": "https://www.toutiao.com/trending/7701865571654258218/"
     },
     {
-      "id": "evt-30000000",
-      "title": "陈熠3-0淘汰王曼昱",
+      "id": "evt-19000000",
+      "title": "街道试点“共享儿女”：最低199元每月",
       "category": "society",
-      "hotScore": 0.7225,
-      "freshness": 0.9998,
+      "hotScore": 0.76,
+      "freshness": 1,
       "crossSource": 0.6309,
-      "totalScore": 0.7782,
+      "totalScore": 0.7933,
       "sources": [
         {
-          "channel": "toutiao",
-          "rank": 4,
-          "hot": 6923931,
-          "url": "https://www.toutiao.com/trending/7702424092086898195/"
+          "channel": "baidu",
+          "rank": 2,
+          "hot": 0,
+          "url": "https://m.baidu.com/s?word=%E8%A1%97%E9%81%93%E8%AF%95%E7%82%B9%E2%80%9C%E5%85%B1%E4%BA%AB%E5%84%BF%E5%A5%B3%E2%80%9D%EF%BC%9A%E6%9C%80%E4%BD%8E199%E5%85%83%E6%AF%8F%E6%9C%88&sa=fyb_news"
         }
       ],
       "summary": "",
-      "url": "https://www.toutiao.com/trending/7702424092086898195/"
+      "url": "https://m.baidu.com/s?word=%E8%A1%97%E9%81%93%E8%AF%95%E7%82%B9%E2%80%9C%E5%85%B1%E4%BA%AB%E5%84%BF%E5%A5%B3%E2%80%9D%EF%BC%9A%E6%9C%80%E4%BD%8E199%E5%85%83%E6%AF%8F%E6%9C%88&sa=fyb_news"
     },
     {
       "id": "evt-12345000",
       "title": "12345热线不是“许愿池”！多地破除“0差评”考核",
       "category": "society",
       "hotScore": 0.7225,
-      "freshness": 0.9998,
+      "freshness": 1,
       "crossSource": 0.6309,
-      "totalScore": 0.7782,
+      "totalScore": 0.7783,
       "sources": [
         {
           "channel": "thepaper",
@@ -70,37 +70,18 @@
       "url": "https://www.thepaper.cn/newsDetail_forward_34316736"
     },
     {
-      "id": "evt-23100000",
-      "title": "23 岁抗癌网红夏夏去世，18 岁确诊骨肉瘤，截肢后父母失联，怎样看待她的抗癌经历？骨肉瘤是种怎样的疾病？",
-      "category": "society",
-      "hotScore": 0.7125,
-      "freshness": 0.9999,
-      "crossSource": 0.6309,
-      "totalScore": 0.7742,
-      "sources": [
-        {
-          "channel": "zhihu",
-          "rank": 2,
-          "hot": 0,
-          "url": ""
-        }
-      ],
-      "summary": "",
-      "url": ""
-    },
-    {
       "id": "evt-20260000",
       "title": "北京启动2026年网络辟谣宣传月活动",
       "category": "society",
       "hotScore": 0.425,
-      "freshness": 0.9998,
+      "freshness": 1,
       "crossSource": 1,
-      "totalScore": 0.7699,
+      "totalScore": 0.77,
       "sources": [
         {
           "channel": "toutiao",
           "rank": 11,
-          "hot": 3438322,
+          "hot": 4177296,
           "url": "https://www.toutiao.com/trending/7702456710820003849/"
         },
         {
@@ -114,13 +95,51 @@
       "url": "https://www.toutiao.com/trending/7702456710820003849/"
     },
     {
+      "id": "evt-15000000",
+      "title": "第一个15万亿经济大省要来了吗",
+      "category": "economy",
+      "hotScore": 0.68,
+      "freshness": 1,
+      "crossSource": 0.6309,
+      "totalScore": 0.7613,
+      "sources": [
+        {
+          "channel": "toutiao",
+          "rank": 5,
+          "hot": 7611530,
+          "url": "https://www.toutiao.com/trending/7702315150556007974/"
+        }
+      ],
+      "summary": "",
+      "url": "https://www.toutiao.com/trending/7702315150556007974/"
+    },
+    {
       "id": "evt-20261000",
       "title": "如何看待 2026 年 10 月 30 日 A 股集体收跌，双创指数月跌超 23%，红利股逆势走强？",
       "category": "society",
-      "hotScore": 0.6375,
-      "freshness": 0.9999,
+      "hotScore": 0.675,
+      "freshness": 1,
       "crossSource": 0.6309,
-      "totalScore": 0.7442,
+      "totalScore": 0.7593,
+      "sources": [
+        {
+          "channel": "zhihu",
+          "rank": 3,
+          "hot": 0,
+          "url": ""
+        }
+      ],
+      "summary": "",
+      "url": ""
+    },
+    {
+      "id": "evt-39000000",
+      "title": "39 岁中国老板在泰国工地遇袭身亡，4 名缅甸劳工自首，哪些信息值得关注？",
+      "category": "society",
+      "hotScore": 0.6375,
+      "freshness": 1,
+      "crossSource": 0.6309,
+      "totalScore": 0.7443,
       "sources": [
         {
           "channel": "zhihu",
@@ -133,36 +152,17 @@
       "url": ""
     },
     {
-      "id": "evt-10a00000",
-      "title": "10月A股收官",
-      "category": "society",
-      "hotScore": 0.595,
-      "freshness": 0.9998,
-      "crossSource": 0.6309,
-      "totalScore": 0.7272,
-      "sources": [
-        {
-          "channel": "toutiao",
-          "rank": 7,
-          "hot": 5129374,
-          "url": "https://www.toutiao.com/trending/7702106972494184502/"
-        }
-      ],
-      "summary": "",
-      "url": "https://www.toutiao.com/trending/7702106972494184502/"
-    },
-    {
       "id": "evt-25002500",
       "title": "马上评｜存2500变25000，“离柜概不负责”别单向约束储户",
       "category": "society",
-      "hotScore": 0.595,
-      "freshness": 0.9998,
+      "hotScore": 0.6375,
+      "freshness": 1,
       "crossSource": 0.6309,
-      "totalScore": 0.7272,
+      "totalScore": 0.7443,
       "sources": [
         {
           "channel": "thepaper",
-          "rank": 7,
+          "rank": 6,
           "hot": 0,
           "url": "https://www.thepaper.cn/newsDetail_forward_34367679"
         }
@@ -174,20 +174,58 @@
       "id": "evt-a0000000",
       "title": "A股三大股指午后全线翻红转涨",
       "category": "society",
-      "hotScore": 0.5525,
-      "freshness": 0.9998,
+      "hotScore": 0.595,
+      "freshness": 1,
       "crossSource": 0.6309,
-      "totalScore": 0.7102,
+      "totalScore": 0.7273,
       "sources": [
         {
           "channel": "thepaper",
-          "rank": 8,
+          "rank": 7,
           "hot": 0,
           "url": "https://www.thepaper.cn/newsDetail_forward_34367690"
         }
       ],
       "summary": "",
       "url": "https://www.thepaper.cn/newsDetail_forward_34367690"
+    },
+    {
+      "id": "evt-bin36900",
+      "title": "Bin 国际赛场与 369 交手记录 1 胜 5 负，为什么大家潜意识总默认 Bin 会更强些？",
+      "category": "society",
+      "hotScore": 0.45,
+      "freshness": 1,
+      "crossSource": 0.6309,
+      "totalScore": 0.6693,
+      "sources": [
+        {
+          "channel": "zhihu",
+          "rank": 9,
+          "hot": 0,
+          "url": ""
+        }
+      ],
+      "summary": "",
+      "url": ""
+    },
+    {
+      "id": "evt-30000000",
+      "title": "住家保姆偷转失能老人30万元",
+      "category": "society",
+      "hotScore": 0.44,
+      "freshness": 1,
+      "crossSource": 0.6309,
+      "totalScore": 0.6653,
+      "sources": [
+        {
+          "channel": "baidu",
+          "rank": 10,
+          "hot": 0,
+          "url": "https://m.baidu.com/s?word=%E4%BD%8F%E5%AE%B6%E4%BF%9D%E5%A7%86%E5%81%B7%E8%BD%AC%E5%A4%B1%E8%83%BD%E8%80%81%E4%BA%BA30%E4%B8%87%E5%85%83&sa=fyb_news"
+        }
+      ],
+      "summary": "",
+      "url": "https://m.baidu.com/s?word=%E4%BD%8F%E5%AE%B6%E4%BF%9D%E5%A7%86%E5%81%B7%E8%BD%AC%E5%A4%B1%E8%83%BD%E8%80%81%E4%BA%BA30%E4%B8%87%E5%85%83&sa=fyb_news"
     }
   ]
 }
