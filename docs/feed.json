@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-10-29T20:43:58.222Z",
+  "generatedAt": "2026-10-30T01:25:35.631Z",
   "fields": {
     "society": "社会",
     "economy": "经济",
@@ -7,36 +7,30 @@
   },
   "feed": [
     {
-      "id": "evt-30000000",
-      "title": "邀全网喝喜酒小伙打工3年攒近17万",
+      "id": "evt-i6000000",
+      "title": "理想i6卸掉宁德时代电池",
       "category": "society",
-      "hotScore": 0.8075,
-      "freshness": 0.9999,
-      "crossSource": 1,
-      "totalScore": 0.923,
+      "hotScore": 0.85,
+      "freshness": 1,
+      "crossSource": 0.6309,
+      "totalScore": 0.8293,
       "sources": [
         {
           "channel": "toutiao",
-          "rank": 2,
-          "hot": 12987595,
-          "url": "https://www.toutiao.com/trending/7701176000796770354/"
-        },
-        {
-          "channel": "baidu",
-          "rank": 11,
-          "hot": 0,
-          "url": "https://m.baidu.com/s?word=%E9%82%80%E5%85%A8%E7%BD%91%E5%96%9D%E5%96%9C%E9%85%92%E5%B0%8F%E4%BC%99%E6%89%93%E5%B7%A53%E5%B9%B4%E6%94%92%E8%BF%9117%E4%B8%87&sa=fyb_news"
+          "rank": 1,
+          "hot": 15904145,
+          "url": "https://www.toutiao.com/trending/7702111173818191410/"
         }
       ],
       "summary": "",
-      "url": "https://www.toutiao.com/trending/7701176000796770354/"
+      "url": "https://www.toutiao.com/trending/7702111173818191410/"
     },
     {
       "id": "evt-00000000",
       "title": "中国共产党第二十届中央委员会第五次全体会议公报",
       "category": "society",
       "hotScore": 0.85,
-      "freshness": 0.9999,
+      "freshness": 1,
       "crossSource": 0.6309,
       "totalScore": 0.8293,
       "sources": [
@@ -51,8 +45,84 @@
       "url": "https://www.thepaper.cn/newsDetail_forward_34360376"
     },
     {
-      "id": "evt-10000000",
-      "title": "10元快剪正暴打全国的“设计总监”",
+      "id": "evt-a0000000",
+      "title": "专家：A股新一轮调整开启",
+      "category": "society",
+      "hotScore": 0.8075,
+      "freshness": 1,
+      "crossSource": 0.6309,
+      "totalScore": 0.8123,
+      "sources": [
+        {
+          "channel": "toutiao",
+          "rank": 2,
+          "hot": 14390666,
+          "url": "https://www.toutiao.com/trending/7702236701950742054/"
+        }
+      ],
+      "summary": "",
+      "url": "https://www.toutiao.com/trending/7702236701950742054/"
+    },
+    {
+      "id": "evt-u1700000",
+      "title": "中国队首次晋级U17女足世界杯8强",
+      "category": "society",
+      "hotScore": 0.7225,
+      "freshness": 1,
+      "crossSource": 0.6309,
+      "totalScore": 0.7783,
+      "sources": [
+        {
+          "channel": "toutiao",
+          "rank": 4,
+          "hot": 11782081,
+          "url": "https://www.toutiao.com/trending/7702137789407576585/"
+        }
+      ],
+      "summary": "",
+      "url": "https://www.toutiao.com/trending/7702137789407576585/"
+    },
+    {
+      "id": "evt-13000000",
+      "title": "谷歌美股开盘大跌超 13%，创历史最大单日跌幅，总市值蒸发 5000 亿美元，为啥会这样？还会持续下跌吗？",
+      "category": "economy",
+      "hotScore": 0.4875,
+      "freshness": 1,
+      "crossSource": 0.6309,
+      "totalScore": 0.6843,
+      "sources": [
+        {
+          "channel": "zhihu",
+          "rank": 8,
+          "hot": 0,
+          "url": ""
+        }
+      ],
+      "summary": "",
+      "url": ""
+    },
+    {
+      "id": "evt-30000000",
+      "title": "中共中央将于30日上午举行新闻发布会，介绍和解读党的二十届五中全会精神",
+      "category": "society",
+      "hotScore": 0.7225,
+      "freshness": 1,
+      "crossSource": 0.6309,
+      "totalScore": 0.7783,
+      "sources": [
+        {
+          "channel": "thepaper",
+          "rank": 4,
+          "hot": 0,
+          "url": "https://www.thepaper.cn/newsDetail_forward_34360379"
+        }
+      ],
+      "summary": "",
+      "url": "https://www.thepaper.cn/newsDetail_forward_34360379"
+    },
+    {
+      "id": "evt-25002500",
+      "title": "存2500银行误输25000储户拒还",
       "category": "society",
       "hotScore": 0.72,
       "freshness": 1,
@@ -63,6 +133,82 @@
           "channel": "baidu",
           "rank": 3,
           "hot": 0,
+          "url": "https://m.baidu.com/s?word=%E5%AD%982500%E9%93%B6%E8%A1%8C%E8%AF%AF%E8%BE%9325000%E5%82%A8%E6%88%B7%E6%8B%92%E8%BF%98&sa=fyb_news"
+        }
+      ],
+      "summary": "",
+      "url": "https://m.baidu.com/s?word=%E5%AD%982500%E9%93%B6%E8%A1%8C%E8%AF%AF%E8%BE%9325000%E5%82%A8%E6%88%B7%E6%8B%92%E8%BF%98&sa=fyb_news"
+    },
+    {
+      "id": "evt-s16blg12t",
+      "title": "S16 瑞士轮 BLG 1-2 TES，TES 晋级八强，BLG 进入 2-2 组，如何评价这场比赛？",
+      "category": "society",
+      "hotScore": 0.7125,
+      "freshness": 1,
+      "crossSource": 0.6309,
+      "totalScore": 0.7743,
+      "sources": [
+        {
+          "channel": "zhihu",
+          "rank": 2,
+          "hot": 0,
+          "url": ""
+        }
+      ],
+      "summary": "",
+      "url": ""
+    },
+    {
+      "id": "evt-c6700000",
+      "title": "C罗生涯第67次“戴帽”",
+      "category": "society",
+      "hotScore": 0.68,
+      "freshness": 1,
+      "crossSource": 0.6309,
+      "totalScore": 0.7613,
+      "sources": [
+        {
+          "channel": "toutiao",
+          "rank": 5,
+          "hot": 10660867,
+          "url": "https://www.toutiao.com/trending/7702178478480835110/"
+        }
+      ],
+      "summary": "",
+      "url": "https://www.toutiao.com/trending/7702178478480835110/"
+    },
+    {
+      "id": "evt-50000000",
+      "title": "每天通勤 50 多公里，是买电动车还是摩托车比较好?",
+      "category": "society",
+      "hotScore": 0.675,
+      "freshness": 1,
+      "crossSource": 0.6309,
+      "totalScore": 0.7593,
+      "sources": [
+        {
+          "channel": "zhihu",
+          "rank": 3,
+          "hot": 0,
+          "url": ""
+        }
+      ],
+      "summary": "",
+      "url": ""
+    },
+    {
+      "id": "evt-10000000",
+      "title": "10元快剪正暴打全国的“设计总监”",
+      "category": "society",
+      "hotScore": 0.6,
+      "freshness": 1,
+      "crossSource": 0.6309,
+      "totalScore": 0.7293,
+      "sources": [
+        {
+          "channel": "baidu",
+          "rank": 6,
+          "hot": 0,
           "url": "https://m.baidu.com/s?word=10%E5%85%83%E5%BF%AB%E5%89%AA%E6%AD%A3%E6%9A%B4%E6%89%93%E5%85%A8%E5%9B%BD%E7%9A%84%E2%80%9C%E8%AE%BE%E8%AE%A1%E6%80%BB%E7%9B%91%E2%80%9D&sa=fyb_news"
         }
       ],
@@ -70,61 +216,61 @@
       "url": "https://m.baidu.com/s?word=10%E5%85%83%E5%BF%AB%E5%89%AA%E6%AD%A3%E6%9A%B4%E6%89%93%E5%85%A8%E5%9B%BD%E7%9A%84%E2%80%9C%E8%AE%BE%E8%AE%A1%E6%80%BB%E7%9B%91%E2%80%9D&sa=fyb_news"
     },
     {
-      "id": "evt-40000000",
-      "title": "研究称我国4成老人陷入“失乐”困境",
+      "id": "evt-16800000",
+      "title": "红果的日活跃用户达 1.68 亿人，超「爱优腾芒」四家总和，这构成垄断吗？",
       "category": "society",
-      "hotScore": 0.68,
-      "freshness": 0.9999,
+      "hotScore": 0.525,
+      "freshness": 1,
       "crossSource": 0.6309,
-      "totalScore": 0.7612,
+      "totalScore": 0.6993,
       "sources": [
         {
-          "channel": "toutiao",
-          "rank": 5,
-          "hot": 9621447,
-          "url": "https://www.toutiao.com/trending/7701969382741753865/"
+          "channel": "zhihu",
+          "rank": 7,
+          "hot": 0,
+          "url": ""
         }
       ],
       "summary": "",
-      "url": "https://www.toutiao.com/trending/7701969382741753865/"
+      "url": ""
     },
     {
-      "id": "evt-20000000",
-      "title": "一条牛仔裤20万 克罗心还能撑多久",
+      "id": "evt-c9850000",
+      "title": "C罗戴帽斩获生涯985球",
       "category": "society",
-      "hotScore": 0.64,
+      "hotScore": 0.48,
       "freshness": 1,
       "crossSource": 0.6309,
-      "totalScore": 0.7453,
+      "totalScore": 0.6813,
       "sources": [
         {
           "channel": "baidu",
-          "rank": 5,
+          "rank": 9,
           "hot": 0,
-          "url": "https://m.baidu.com/s?word=%E4%B8%80%E6%9D%A1%E7%89%9B%E4%BB%94%E8%A3%A420%E4%B8%87+%E5%85%8B%E7%BD%97%E5%BF%83%E8%BF%98%E8%83%BD%E6%92%91%E5%A4%9A%E4%B9%85&sa=fyb_news"
+          "url": "https://m.baidu.com/s?word=C%E7%BD%97%E6%88%B4%E5%B8%BD%E6%96%A9%E8%8E%B7%E7%94%9F%E6%B6%AF985%E7%90%83&sa=fyb_news"
         }
       ],
       "summary": "",
-      "url": "https://m.baidu.com/s?word=%E4%B8%80%E6%9D%A1%E7%89%9B%E4%BB%94%E8%A3%A420%E4%B8%87+%E5%85%8B%E7%BD%97%E5%BF%83%E8%BF%98%E8%83%BD%E6%92%91%E5%A4%9A%E4%B9%85&sa=fyb_news"
+      "url": "https://m.baidu.com/s?word=C%E7%BD%97%E6%88%B4%E5%B8%BD%E6%96%A9%E8%8E%B7%E7%94%9F%E6%B6%AF985%E7%90%83&sa=fyb_news"
     },
     {
-      "id": "evt-mate9000",
-      "title": "华为Mate 90将全系支持四卡三待",
+      "id": "evt-20000000",
+      "title": "英特尔盘后暴跌超20%",
       "category": "society",
-      "hotScore": 0.595,
-      "freshness": 0.9999,
+      "hotScore": 0.4675,
+      "freshness": 1,
       "crossSource": 0.6309,
-      "totalScore": 0.7272,
+      "totalScore": 0.6763,
       "sources": [
         {
           "channel": "toutiao",
-          "rank": 7,
-          "hot": 7877375,
-          "url": "https://www.toutiao.com/trending/7701610129954914825/"
+          "rank": 10,
+          "hot": 6466143,
+          "url": "https://www.toutiao.com/trending/7701543757581225513/"
         }
       ],
       "summary": "",
-      "url": "https://www.toutiao.com/trending/7701610129954914825/"
+      "url": "https://www.toutiao.com/trending/7701543757581225513/"
     }
   ]
 }
