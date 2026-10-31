@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-10-31T01:13:06.271Z",
+  "generatedAt": "2026-10-31T07:43:08.295Z",
   "fields": {
     "society": "社会",
     "economy": "经济",
@@ -7,71 +7,33 @@
   },
   "feed": [
     {
-      "id": "evt-35200000",
-      "title": "英特尔创52年来最大日跌幅",
+      "id": "evt-00000000",
+      "title": "官方披露：将有两名中国人登陆月球",
       "category": "society",
-      "hotScore": 0.8075,
+      "hotScore": 0.85,
       "freshness": 0.9999,
       "crossSource": 1,
-      "totalScore": 0.923,
+      "totalScore": 0.94,
       "sources": [
         {
           "channel": "toutiao",
-          "rank": 2,
-          "hot": 14057039,
-          "url": "https://www.toutiao.com/trending/7702601097189264923/"
+          "rank": 1,
+          "hot": 25144457,
+          "url": "https://www.toutiao.com/trending/7702661932407128127/"
         },
         {
           "channel": "baidu",
-          "rank": 15,
+          "rank": 6,
           "hot": 0,
-          "url": "https://m.baidu.com/s?word=%E8%8B%B1%E7%89%B9%E5%B0%94%E5%88%9B52%E5%B9%B4%E6%9D%A5%E6%9C%80%E5%A4%A7%E6%97%A5%E8%B7%8C%E5%B9%85&sa=fyb_news"
+          "url": "https://m.baidu.com/s?word=%E5%AE%98%E6%96%B9%E6%8A%AB%E9%9C%B2%EF%BC%9A%E5%B0%86%E6%9C%89%E4%B8%A4%E5%90%8D%E4%B8%AD%E5%9B%BD%E4%BA%BA%E7%99%BB%E9%99%86%E6%9C%88%E7%90%83&sa=fyb_news"
         }
       ],
       "summary": "",
-      "url": "https://www.toutiao.com/trending/7702601097189264923/"
+      "url": "https://www.toutiao.com/trending/7702661932407128127/"
     },
     {
-      "id": "evt-21000000",
-      "title": "“攻击-21”成功起降",
-      "category": "society",
-      "hotScore": 0.85,
-      "freshness": 0.9999,
-      "crossSource": 0.6309,
-      "totalScore": 0.8293,
-      "sources": [
-        {
-          "channel": "toutiao",
-          "rank": 1,
-          "hot": 15535431,
-          "url": "https://www.toutiao.com/trending/7702380875689787442/"
-        }
-      ],
-      "summary": "",
-      "url": "https://www.toutiao.com/trending/7702380875689787442/"
-    },
-    {
-      "id": "evt-00000000",
-      "title": "证监会：全力稳市场稳预期，持续提升资本市场韧性和信心",
-      "category": "society",
-      "hotScore": 0.85,
-      "freshness": 1,
-      "crossSource": 0.6309,
-      "totalScore": 0.8293,
-      "sources": [
-        {
-          "channel": "thepaper",
-          "rank": 1,
-          "hot": 0,
-          "url": "https://www.thepaper.cn/newsDetail_forward_34369285"
-        }
-      ],
-      "summary": "",
-      "url": "https://www.thepaper.cn/newsDetail_forward_34369285"
-    },
-    {
-      "id": "evt-25002500",
-      "title": "马上评｜存2500变25000，“离柜概不负责”别单向约束储户",
+      "id": "evt-12345000",
+      "title": "12345便民热线不能成为许愿池！有地方明确不再接这几类诉求",
       "category": "society",
       "hotScore": 0.8075,
       "freshness": 1,
@@ -82,24 +44,62 @@
           "channel": "thepaper",
           "rank": 2,
           "hot": 0,
-          "url": "https://www.thepaper.cn/newsDetail_forward_34367679"
+          "url": "https://www.thepaper.cn/newsDetail_forward_34370849"
         }
       ],
       "summary": "",
-      "url": "https://www.thepaper.cn/newsDetail_forward_34367679"
+      "url": "https://www.thepaper.cn/newsDetail_forward_34370849"
     },
     {
-      "id": "evt-28580000",
-      "title": "英特尔股价暴跌 28.58% 创 52 年来最大日跌幅，市值蒸发近 1500 亿美元，怎样解读市场的反应？",
-      "category": "economy",
-      "hotScore": 0.75,
+      "id": "evt-65040000",
+      "title": "卖650万捐赠房产要缴450万的税",
+      "category": "society",
+      "hotScore": 0.76,
       "freshness": 1,
       "crossSource": 0.6309,
-      "totalScore": 0.7893,
+      "totalScore": 0.7933,
+      "sources": [
+        {
+          "channel": "baidu",
+          "rank": 2,
+          "hot": 0,
+          "url": "https://m.baidu.com/s?word=%E5%8D%96650%E4%B8%87%E6%8D%90%E8%B5%A0%E6%88%BF%E4%BA%A7%E8%A6%81%E7%BC%B4450%E4%B8%87%E7%9A%84%E7%A8%8E&sa=fyb_news"
+        }
+      ],
+      "summary": "",
+      "url": "https://m.baidu.com/s?word=%E5%8D%96650%E4%B8%87%E6%8D%90%E8%B5%A0%E6%88%BF%E4%BA%A7%E8%A6%81%E7%BC%B4450%E4%B8%87%E7%9A%84%E7%A8%8E&sa=fyb_news"
+    },
+    {
+      "id": "evt-10000000",
+      "title": "小升初还有近1年 六年级家长已坐不住",
+      "category": "society",
+      "hotScore": 0.72,
+      "freshness": 1,
+      "crossSource": 0.6309,
+      "totalScore": 0.7773,
+      "sources": [
+        {
+          "channel": "baidu",
+          "rank": 3,
+          "hot": 0,
+          "url": "https://m.baidu.com/s?word=%E5%B0%8F%E5%8D%87%E5%88%9D%E8%BF%98%E6%9C%89%E8%BF%911%E5%B9%B4+%E5%85%AD%E5%B9%B4%E7%BA%A7%E5%AE%B6%E9%95%BF%E5%B7%B2%E5%9D%90%E4%B8%8D%E4%BD%8F&sa=fyb_news"
+        }
+      ],
+      "summary": "",
+      "url": "https://m.baidu.com/s?word=%E5%B0%8F%E5%8D%87%E5%88%9D%E8%BF%98%E6%9C%89%E8%BF%911%E5%B9%B4+%E5%85%AD%E5%B9%B4%E7%BA%A7%E5%AE%B6%E9%95%BF%E5%B7%B2%E5%9D%90%E4%B8%8D%E4%BD%8F&sa=fyb_news"
+    },
+    {
+      "id": "evt-blghle00",
+      "title": "BLG 抽中 HLE，最后一轮中韩大战谁输谁回家，如何评价瑞士轮的最后一轮抽签？",
+      "category": "society",
+      "hotScore": 0.7125,
+      "freshness": 0.9999,
+      "crossSource": 0.6309,
+      "totalScore": 0.7743,
       "sources": [
         {
           "channel": "zhihu",
-          "rank": 1,
+          "rank": 2,
           "hot": 0,
           "url": ""
         }
@@ -108,30 +108,11 @@
       "url": ""
     },
     {
-      "id": "evt-a0000000",
-      "title": "A股三大股指午后全线翻红转涨",
-      "category": "society",
-      "hotScore": 0.7225,
-      "freshness": 1,
-      "crossSource": 0.6309,
-      "totalScore": 0.7783,
-      "sources": [
-        {
-          "channel": "thepaper",
-          "rank": 4,
-          "hot": 0,
-          "url": "https://www.thepaper.cn/newsDetail_forward_34367690"
-        }
-      ],
-      "summary": "",
-      "url": "https://www.thepaper.cn/newsDetail_forward_34367690"
-    },
-    {
-      "id": "evt-codex000",
-      "title": "大学生用四年 codex，每天进步一点，四年之后，与没用上 codex 的同学会有很大的差距么？",
+      "id": "evt-deepseek",
+      "title": "DeepSeek 居然会对用户说「我去吃饭了」「我去睡了」，为啥会出现这样的现象？",
       "category": "society",
       "hotScore": 0.675,
-      "freshness": 1,
+      "freshness": 0.9999,
       "crossSource": 0.6309,
       "totalScore": 0.7593,
       "sources": [
@@ -146,65 +127,46 @@
       "url": ""
     },
     {
-      "id": "evt-36900000",
-      "title": "如何评价 369 采访称「想赢才会兴奋，怕输才会紧张」？",
+      "id": "evt-12000000",
+      "title": "孙颖莎1-2不敌大勒布伦",
       "category": "society",
-      "hotScore": 0.6375,
+      "hotScore": 0.64,
       "freshness": 1,
       "crossSource": 0.6309,
-      "totalScore": 0.7443,
-      "sources": [
-        {
-          "channel": "zhihu",
-          "rank": 4,
-          "hot": 0,
-          "url": ""
-        }
-      ],
-      "summary": "",
-      "url": ""
-    },
-    {
-      "id": "evt-3a000000",
-      "title": "国产 3A 新作《影之刃零》本体容量达 145G 引热议，为何现在大作体积越来越膨胀？",
-      "category": "society",
-      "hotScore": 0.6,
-      "freshness": 1,
-      "crossSource": 0.6309,
-      "totalScore": 0.7293,
-      "sources": [
-        {
-          "channel": "zhihu",
-          "rank": 5,
-          "hot": 0,
-          "url": ""
-        }
-      ],
-      "summary": "",
-      "url": ""
-    },
-    {
-      "id": "evt-00300000",
-      "title": "00后女生租30套房每套住1周 真相意外",
-      "category": "society",
-      "hotScore": 0.56,
-      "freshness": 1,
-      "crossSource": 0.6309,
-      "totalScore": 0.7133,
+      "totalScore": 0.7453,
       "sources": [
         {
           "channel": "baidu",
-          "rank": 7,
+          "rank": 5,
           "hot": 0,
-          "url": "https://m.baidu.com/s?word=00%E5%90%8E%E5%A5%B3%E7%94%9F%E7%A7%9F30%E5%A5%97%E6%88%BF%E6%AF%8F%E5%A5%97%E4%BD%8F1%E5%91%A8+%E7%9C%9F%E7%9B%B8%E6%84%8F%E5%A4%96&sa=fyb_news"
+          "url": "https://m.baidu.com/s?word=%E5%AD%99%E9%A2%96%E8%8E%8E1-2%E4%B8%8D%E6%95%8C%E5%A4%A7%E5%8B%92%E5%B8%83%E4%BC%A6&sa=fyb_news"
         }
       ],
       "summary": "",
-      "url": "https://m.baidu.com/s?word=00%E5%90%8E%E5%A5%B3%E7%94%9F%E7%A7%9F30%E5%A5%97%E6%88%BF%E6%AF%8F%E5%A5%97%E4%BD%8F1%E5%91%A8+%E7%9C%9F%E7%9B%B8%E6%84%8F%E5%A4%96&sa=fyb_news"
+      "url": "https://m.baidu.com/s?word=%E5%AD%99%E9%A2%96%E8%8E%8E1-2%E4%B8%8D%E6%95%8C%E5%A4%A7%E5%8B%92%E5%B8%83%E4%BC%A6&sa=fyb_news"
     },
     {
-      "id": "evt-19000000",
-      "title": "“共享儿女”试点：每月最低199元",
+      "id": "evt-52000000",
+      "title": "退休外交官历经520天重走长征路",
+      "category": "society",
+      "hotScore": 0.595,
+      "freshness": 0.9999,
+      "crossSource": 0.6309,
+      "totalScore": 0.7273,
+      "sources": [
+        {
+          "channel": "toutiao",
+          "rank": 7,
+          "hot": 13799571,
+          "url": "https://www.toutiao.com/trending/7702385421061358106/"
+        }
+      ],
+      "summary": "",
+      "url": "https://www.toutiao.com/trending/7702385421061358106/"
+    },
+    {
+      "id": "evt-21000000",
+      "title": "勒布伦2比1孙颖莎",
       "category": "society",
       "hotScore": 0.5525,
       "freshness": 0.9999,
@@ -214,38 +176,57 @@
         {
           "channel": "toutiao",
           "rank": 8,
-          "hot": 7714666,
-          "url": "https://www.toutiao.com/trending/7701986310748061734/"
+          "hot": 12486368,
+          "url": "https://www.toutiao.com/trending/7702295260063334963/"
         }
       ],
       "summary": "",
-      "url": "https://www.toutiao.com/trending/7701986310748061734/"
+      "url": "https://www.toutiao.com/trending/7702295260063334963/"
     },
     {
-      "id": "evt-20261000",
-      "title": "如何评价万科 2026 年 1-9 月亏损 239.4 亿元？",
+      "id": "evt-a0000000",
+      "title": "A股的钱究竟被谁赚走了",
       "category": "society",
-      "hotScore": 0.4875,
-      "freshness": 1,
+      "hotScore": 0.51,
+      "freshness": 0.9999,
       "crossSource": 0.6309,
-      "totalScore": 0.6843,
+      "totalScore": 0.6933,
       "sources": [
         {
-          "channel": "zhihu",
-          "rank": 8,
-          "hot": 0,
-          "url": ""
+          "channel": "toutiao",
+          "rank": 9,
+          "hot": 11298133,
+          "url": "https://www.toutiao.com/trending/7702679252839173674/"
         }
       ],
       "summary": "",
-      "url": ""
+      "url": "https://www.toutiao.com/trending/7702679252839173674/"
     },
     {
-      "id": "evt-90000000",
-      "title": "张雪机车 90 后专科生员工年薪五六十万，张雪对校招生直言「你们起点比他高」，现场学生真能年薪比他们高吗？",
+      "id": "evt-16000000",
+      "title": "“假笑男孩”16岁了",
+      "category": "society",
+      "hotScore": 0.4675,
+      "freshness": 0.9999,
+      "crossSource": 0.6309,
+      "totalScore": 0.6763,
+      "sources": [
+        {
+          "channel": "toutiao",
+          "rank": 10,
+          "hot": 10222973,
+          "url": "https://www.toutiao.com/trending/7702384966264668198/"
+        }
+      ],
+      "summary": "",
+      "url": "https://www.toutiao.com/trending/7702384966264668198/"
+    },
+    {
+      "id": "evt-ai000000",
+      "title": "人民锐评发文驳斥「中国 AI 跑偏论」，如何看待中美在 AI 落地路径上的差异？",
       "category": "society",
       "hotScore": 0.45,
-      "freshness": 1,
+      "freshness": 0.9999,
       "crossSource": 0.6309,
       "totalScore": 0.6693,
       "sources": [
