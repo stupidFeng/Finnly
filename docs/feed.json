@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-10-31T14:00:31.269Z",
+  "generatedAt": "2026-10-31T19:37:26.796Z",
   "fields": {
     "society": "社会",
     "economy": "经济",
@@ -7,62 +7,68 @@
   },
   "feed": [
     {
-      "id": "evt-31430000",
-      "title": "女子花3元买彩票中1439万",
+      "id": "evt-00000000",
+      "title": "人民日报评朱之文被“黑粉”举报",
       "category": "society",
-      "hotScore": 0.7225,
-      "freshness": 1,
+      "hotScore": 0.64,
+      "freshness": 0.9999,
       "crossSource": 1,
-      "totalScore": 0.889,
+      "totalScore": 0.856,
       "sources": [
         {
           "channel": "toutiao",
-          "rank": 4,
-          "hot": 12881968,
-          "url": "https://www.toutiao.com/trending/7702677396650230282/"
+          "rank": 6,
+          "hot": 13240045,
+          "url": "https://www.toutiao.com/trending/7701893778017665074/"
         },
         {
           "channel": "baidu",
-          "rank": 7,
+          "rank": 5,
           "hot": 0,
-          "url": "https://m.baidu.com/s?word=%E5%A5%B3%E5%AD%90%E8%8A%B13%E5%85%83%E4%B9%B0%E5%BD%A9%E7%A5%A8%E4%B8%AD1439%E4%B8%87&sa=fyb_news"
+          "url": "https://m.baidu.com/s?word=%E4%BA%BA%E6%B0%91%E6%97%A5%E6%8A%A5%E8%AF%84%E6%9C%B1%E4%B9%8B%E6%96%87%E8%A2%AB%E2%80%9C%E9%BB%91%E7%B2%89%E2%80%9D%E4%B8%BE%E6%8A%A5&sa=fyb_news"
         }
       ],
       "summary": "",
-      "url": "https://www.toutiao.com/trending/7702677396650230282/"
+      "url": "https://www.toutiao.com/trending/7701893778017665074/"
     },
     {
-      "id": "evt-00000000",
-      "title": "无锡队苏超夺冠",
+      "id": "evt-50000000",
+      "title": "夫妻因一餐5个菜闹到要离婚",
       "category": "society",
-      "hotScore": 0.85,
-      "freshness": 1,
-      "crossSource": 0.6309,
-      "totalScore": 0.8293,
+      "hotScore": 0.6,
+      "freshness": 0.9999,
+      "crossSource": 1,
+      "totalScore": 0.84,
       "sources": [
         {
           "channel": "toutiao",
-          "rank": 1,
-          "hot": 17388838,
-          "url": "https://www.toutiao.com/trending/7702825143822781978/"
+          "rank": 16,
+          "hot": 4870740,
+          "url": "https://www.toutiao.com/trending/7701948215012393014/"
+        },
+        {
+          "channel": "baidu",
+          "rank": 6,
+          "hot": 0,
+          "url": "https://m.baidu.com/s?word=%E5%A4%AB%E5%A6%BB%E5%9B%A0%E4%B8%80%E9%A4%905%E4%B8%AA%E8%8F%9C%E9%97%B9%E5%88%B0%E8%A6%81%E7%A6%BB%E5%A9%9A&sa=fyb_news"
         }
       ],
       "summary": "",
-      "url": "https://www.toutiao.com/trending/7702825143822781978/"
+      "url": "https://www.toutiao.com/trending/7701948215012393014/"
     },
     {
       "id": "evt-75000000",
       "title": "75岁傅成玉被查",
       "category": "society",
       "hotScore": 0.8075,
-      "freshness": 1,
+      "freshness": 0.9999,
       "crossSource": 0.6309,
       "totalScore": 0.8123,
       "sources": [
         {
           "channel": "toutiao",
           "rank": 2,
-          "hot": 15734071,
+          "hot": 19751826,
           "url": "https://www.toutiao.com/trending/7702761634955214902/"
         }
       ],
@@ -70,36 +76,36 @@
       "url": "https://www.toutiao.com/trending/7702761634955214902/"
     },
     {
-      "id": "evt-20000000",
-      "title": "游客玩“大摆荡”坠亡 2人被移送司法",
+      "id": "evt-23880000",
+      "title": "央视曝光：2388元的蜜丸检出镇痛药",
       "category": "society",
-      "hotScore": 0.64,
-      "freshness": 1,
+      "hotScore": 0.76,
+      "freshness": 0.9999,
       "crossSource": 0.6309,
-      "totalScore": 0.7453,
+      "totalScore": 0.7933,
       "sources": [
         {
           "channel": "baidu",
-          "rank": 5,
+          "rank": 2,
           "hot": 0,
-          "url": "https://m.baidu.com/s?word=%E6%B8%B8%E5%AE%A2%E7%8E%A9%E2%80%9C%E5%A4%A7%E6%91%86%E8%8D%A1%E2%80%9D%E5%9D%A0%E4%BA%A1+2%E4%BA%BA%E8%A2%AB%E7%A7%BB%E9%80%81%E5%8F%B8%E6%B3%95&sa=fyb_news"
+          "url": "https://m.baidu.com/s?word=%E5%A4%AE%E8%A7%86%E6%9B%9D%E5%85%89%EF%BC%9A2388%E5%85%83%E7%9A%84%E8%9C%9C%E4%B8%B8%E6%A3%80%E5%87%BA%E9%95%87%E7%97%9B%E8%8D%AF&sa=fyb_news"
         }
       ],
       "summary": "",
-      "url": "https://m.baidu.com/s?word=%E6%B8%B8%E5%AE%A2%E7%8E%A9%E2%80%9C%E5%A4%A7%E6%91%86%E8%8D%A1%E2%80%9D%E5%9D%A0%E4%BA%A1+2%E4%BA%BA%E8%A2%AB%E7%A7%BB%E9%80%81%E5%8F%B8%E6%B3%95&sa=fyb_news"
+      "url": "https://m.baidu.com/s?word=%E5%A4%AE%E8%A7%86%E6%9B%9D%E5%85%89%EF%BC%9A2388%E5%85%83%E7%9A%84%E8%9C%9C%E4%B8%B8%E6%A3%80%E5%87%BA%E9%95%87%E7%97%9B%E8%8D%AF&sa=fyb_news"
     },
     {
       "id": "evt-15000000",
       "title": "红果短剧年营收超 150 亿，为什么有创作者称两个月 11 部剧只赚了 9 块 6？",
       "category": "economy",
-      "hotScore": 0.75,
-      "freshness": 1,
+      "hotScore": 0.7125,
+      "freshness": 0.9999,
       "crossSource": 0.6309,
-      "totalScore": 0.7893,
+      "totalScore": 0.7743,
       "sources": [
         {
           "channel": "zhihu",
-          "rank": 1,
+          "rank": 2,
           "hot": 0,
           "url": ""
         }
@@ -108,37 +114,43 @@
       "url": ""
     },
     {
-      "id": "evt-50000000",
-      "title": "夫妻因一餐5个菜闹到要离婚",
+      "id": "evt-31430000",
+      "title": "女子花3元买彩票中1439万",
       "category": "society",
-      "hotScore": 0.6375,
-      "freshness": 1,
-      "crossSource": 0.6309,
-      "totalScore": 0.7443,
+      "hotScore": 0.3825,
+      "freshness": 0.9999,
+      "crossSource": 1,
+      "totalScore": 0.753,
       "sources": [
         {
           "channel": "toutiao",
-          "rank": 6,
-          "hot": 10546863,
-          "url": "https://www.toutiao.com/trending/7701948215012393014/"
+          "rank": 12,
+          "hot": 7266290,
+          "url": "https://www.toutiao.com/trending/7702677396650230282/"
+        },
+        {
+          "channel": "baidu",
+          "rank": 14,
+          "hot": 0,
+          "url": "https://m.baidu.com/s?word=%E5%A5%B3%E5%AD%90%E8%8A%B13%E5%85%83%E4%B9%B0%E5%BD%A9%E7%A5%A8%E4%B8%AD1439%E4%B8%87&sa=fyb_news"
         }
       ],
       "summary": "",
-      "url": "https://www.toutiao.com/trending/7701948215012393014/"
+      "url": "https://www.toutiao.com/trending/7702677396650230282/"
     },
     {
       "id": "evt-30000000",
       "title": "广西男子造谣“石场死了3个”被处罚",
       "category": "society",
       "hotScore": 0.36,
-      "freshness": 1,
+      "freshness": 0.9999,
       "crossSource": 1,
       "totalScore": 0.744,
       "sources": [
         {
           "channel": "toutiao",
           "rank": 13,
-          "hot": 5237417,
+          "hot": 6574811,
           "url": "https://www.toutiao.com/trending/7702643003285848115/"
         },
         {
@@ -152,106 +164,87 @@
       "url": "https://www.toutiao.com/trending/7702643003285848115/"
     },
     {
-      "id": "evt-viper000",
-      "title": "如何看待 Viper 赛后采访称「有队友喊了潘森没大，结果潘森却跳大导致失利」？",
+      "id": "evt-43000000",
+      "title": "孙颖莎4-3险胜早田希娜 晋级4强",
       "category": "society",
-      "hotScore": 0.6,
-      "freshness": 1,
+      "hotScore": 0.595,
+      "freshness": 0.9999,
       "crossSource": 0.6309,
-      "totalScore": 0.7293,
+      "totalScore": 0.7273,
       "sources": [
         {
-          "channel": "zhihu",
-          "rank": 5,
-          "hot": 0,
-          "url": ""
+          "channel": "toutiao",
+          "rank": 7,
+          "hot": 11980088,
+          "url": "https://www.toutiao.com/trending/7702844114110254628/"
         }
       ],
       "summary": "",
-      "url": ""
+      "url": "https://www.toutiao.com/trending/7702844114110254628/"
     },
     {
-      "id": "evt-39000000",
-      "title": "黄金跌破 3900 美元、白银失守 50 美元，这一轮从历史高点的回落，是深度调整还是大级别上涨行情已经终结？",
+      "id": "evt-21000000",
+      "title": "“攻击-21”上四川舰，带来哪些关键优势？",
       "category": "society",
-      "hotScore": 0.5625,
+      "hotScore": 0.595,
       "freshness": 1,
       "crossSource": 0.6309,
-      "totalScore": 0.7143,
-      "sources": [
-        {
-          "channel": "zhihu",
-          "rank": 6,
-          "hot": 0,
-          "url": ""
-        }
-      ],
-      "summary": "",
-      "url": ""
-    },
-    {
-      "id": "evt-62000000",
-      "title": "62岁男子去世家人称离职单签名为假，公司否认：离职后在宿舍滞留3天",
-      "category": "society",
-      "hotScore": 0.5525,
-      "freshness": 1,
-      "crossSource": 0.6309,
-      "totalScore": 0.7103,
+      "totalScore": 0.7273,
       "sources": [
         {
           "channel": "thepaper",
-          "rank": 8,
-          "hot": 0,
-          "url": "https://www.thepaper.cn/newsDetail_forward_34367256"
-        }
-      ],
-      "summary": "",
-      "url": "https://www.thepaper.cn/newsDetail_forward_34367256"
-    },
-    {
-      "id": "evt-ai000000",
-      "title": "人民锐评发文驳斥「中国 AI 跑偏论」，如何看待中美在 AI 落地路径上的差异？",
-      "category": "society",
-      "hotScore": 0.525,
-      "freshness": 1,
-      "crossSource": 0.6309,
-      "totalScore": 0.6993,
-      "sources": [
-        {
-          "channel": "zhihu",
           "rank": 7,
           "hot": 0,
-          "url": ""
+          "url": "https://www.thepaper.cn/newsDetail_forward_34376598"
         }
       ],
       "summary": "",
-      "url": ""
+      "url": "https://www.thepaper.cn/newsDetail_forward_34376598"
     },
     {
-      "id": "evt-13000000",
-      "title": "江苏13城球员集体上手破除摸杯魔咒",
+      "id": "evt-65040000",
+      "title": "卖650万捐赠房产要缴450万的税",
+      "category": "society",
+      "hotScore": 0.56,
+      "freshness": 0.9999,
+      "crossSource": 0.6309,
+      "totalScore": 0.7133,
+      "sources": [
+        {
+          "channel": "baidu",
+          "rank": 7,
+          "hot": 0,
+          "url": "https://m.baidu.com/s?word=%E5%8D%96650%E4%B8%87%E6%8D%90%E8%B5%A0%E6%88%BF%E4%BA%A7%E8%A6%81%E7%BC%B4450%E4%B8%87%E7%9A%84%E7%A8%8E&sa=fyb_news"
+        }
+      ],
+      "summary": "",
+      "url": "https://m.baidu.com/s?word=%E5%8D%96650%E4%B8%87%E6%8D%90%E8%B5%A0%E6%88%BF%E4%BA%A7%E8%A6%81%E7%BC%B4450%E4%B8%87%E7%9A%84%E7%A8%8E&sa=fyb_news"
+    },
+    {
+      "id": "evt-10000000",
+      "title": "大批理发店关停10元快剪走红",
       "category": "society",
       "hotScore": 0.51,
-      "freshness": 1,
+      "freshness": 0.9999,
       "crossSource": 0.6309,
       "totalScore": 0.6933,
       "sources": [
         {
           "channel": "toutiao",
           "rank": 9,
-          "hot": 7813308,
-          "url": "https://www.toutiao.com/trending/7702771272354185779/"
+          "hot": 9808466,
+          "url": "https://www.toutiao.com/trending/7701882093835534390/"
         }
       ],
       "summary": "",
-      "url": "https://www.toutiao.com/trending/7702771272354185779/"
+      "url": "https://www.toutiao.com/trending/7701882093835534390/"
     },
     {
-      "id": "evt-10000000",
-      "title": "10元快剪暴打托尼 理发可以简单点",
+      "id": "evt-20000000",
+      "title": "女子买的侏儒猪长到200斤 1天遛5小时",
       "category": "society",
       "hotScore": 0.48,
-      "freshness": 1,
+      "freshness": 0.9999,
       "crossSource": 0.6309,
       "totalScore": 0.6813,
       "sources": [
@@ -259,11 +252,30 @@
           "channel": "baidu",
           "rank": 9,
           "hot": 0,
-          "url": "https://m.baidu.com/s?word=10%E5%85%83%E5%BF%AB%E5%89%AA%E6%9A%B4%E6%89%93%E6%89%98%E5%B0%BC+%E7%90%86%E5%8F%91%E5%8F%AF%E4%BB%A5%E7%AE%80%E5%8D%95%E7%82%B9&sa=fyb_news"
+          "url": "https://m.baidu.com/s?word=%E5%A5%B3%E5%AD%90%E4%B9%B0%E7%9A%84%E4%BE%8F%E5%84%92%E7%8C%AA%E9%95%BF%E5%88%B0200%E6%96%A4+1%E5%A4%A9%E9%81%9B5%E5%B0%8F%E6%97%B6&sa=fyb_news"
         }
       ],
       "summary": "",
-      "url": "https://m.baidu.com/s?word=10%E5%85%83%E5%BF%AB%E5%89%AA%E6%9A%B4%E6%89%93%E6%89%98%E5%B0%BC+%E7%90%86%E5%8F%91%E5%8F%AF%E4%BB%A5%E7%AE%80%E5%8D%95%E7%82%B9&sa=fyb_news"
+      "url": "https://m.baidu.com/s?word=%E5%A5%B3%E5%AD%90%E4%B9%B0%E7%9A%84%E4%BE%8F%E5%84%92%E7%8C%AA%E9%95%BF%E5%88%B0200%E6%96%A4+1%E5%A4%A9%E9%81%9B5%E5%B0%8F%E6%97%B6&sa=fyb_news"
+    },
+    {
+      "id": "evt-deepseek",
+      "title": "DeepSeek重磅发布：AI开始指挥AI干活",
+      "category": "society",
+      "hotScore": 0.44,
+      "freshness": 0.9999,
+      "crossSource": 0.6309,
+      "totalScore": 0.6653,
+      "sources": [
+        {
+          "channel": "baidu",
+          "rank": 10,
+          "hot": 0,
+          "url": "https://m.baidu.com/s?word=DeepSeek%E9%87%8D%E7%A3%85%E5%8F%91%E5%B8%83%EF%BC%9AAI%E5%BC%80%E5%A7%8B%E6%8C%87%E6%8C%A5AI%E5%B9%B2%E6%B4%BB&sa=fyb_news"
+        }
+      ],
+      "summary": "",
+      "url": "https://m.baidu.com/s?word=DeepSeek%E9%87%8D%E7%A3%85%E5%8F%91%E5%B8%83%EF%BC%9AAI%E5%BC%80%E5%A7%8B%E6%8C%87%E6%8C%A5AI%E5%B9%B2%E6%B4%BB&sa=fyb_news"
     }
   ]
 }
