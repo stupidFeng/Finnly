@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-10-31T19:37:26.796Z",
+  "generatedAt": "2026-10-31T22:55:07.267Z",
   "fields": {
     "society": "社会",
     "economy": "经济",
@@ -18,7 +18,7 @@
         {
           "channel": "toutiao",
           "rank": 6,
-          "hot": 13240045,
+          "hot": 14192329,
           "url": "https://www.toutiao.com/trending/7701893778017665074/"
         },
         {
@@ -42,8 +42,8 @@
       "sources": [
         {
           "channel": "toutiao",
-          "rank": 16,
-          "hot": 4870740,
+          "rank": 14,
+          "hot": 6377024,
           "url": "https://www.toutiao.com/trending/7701948215012393014/"
         },
         {
@@ -63,12 +63,12 @@
       "hotScore": 0.8075,
       "freshness": 0.9999,
       "crossSource": 0.6309,
-      "totalScore": 0.8123,
+      "totalScore": 0.8122,
       "sources": [
         {
           "channel": "toutiao",
           "rank": 2,
-          "hot": 19751826,
+          "hot": 21172468,
           "url": "https://www.toutiao.com/trending/7702761634955214902/"
         }
       ],
@@ -80,7 +80,7 @@
       "title": "央视曝光：2388元的蜜丸检出镇痛药",
       "category": "society",
       "hotScore": 0.76,
-      "freshness": 0.9999,
+      "freshness": 1,
       "crossSource": 0.6309,
       "totalScore": 0.7933,
       "sources": [
@@ -95,17 +95,17 @@
       "url": "https://m.baidu.com/s?word=%E5%A4%AE%E8%A7%86%E6%9B%9D%E5%85%89%EF%BC%9A2388%E5%85%83%E7%9A%84%E8%9C%9C%E4%B8%B8%E6%A3%80%E5%87%BA%E9%95%87%E7%97%9B%E8%8D%AF&sa=fyb_news"
     },
     {
-      "id": "evt-15000000",
-      "title": "红果短剧年营收超 150 亿，为什么有创作者称两个月 11 部剧只赚了 9 块 6？",
+      "id": "evt-28580000",
+      "title": "英特尔股价暴跌 28.58% 创 52 年来最大日跌幅，市值蒸发近 1500 亿美元，怎样解读市场的反应？",
       "category": "economy",
-      "hotScore": 0.7125,
+      "hotScore": 0.5625,
       "freshness": 0.9999,
       "crossSource": 0.6309,
-      "totalScore": 0.7743,
+      "totalScore": 0.7143,
       "sources": [
         {
           "channel": "zhihu",
-          "rank": 2,
+          "rank": 6,
           "hot": 0,
           "url": ""
         }
@@ -114,29 +114,23 @@
       "url": ""
     },
     {
-      "id": "evt-31430000",
-      "title": "女子花3元买彩票中1439万",
+      "id": "evt-10000000",
+      "title": "大批理发店关停10元快剪走红",
       "category": "society",
-      "hotScore": 0.3825,
+      "hotScore": 0.68,
       "freshness": 0.9999,
-      "crossSource": 1,
-      "totalScore": 0.753,
+      "crossSource": 0.6309,
+      "totalScore": 0.7612,
       "sources": [
         {
           "channel": "toutiao",
-          "rank": 12,
-          "hot": 7266290,
-          "url": "https://www.toutiao.com/trending/7702677396650230282/"
-        },
-        {
-          "channel": "baidu",
-          "rank": 14,
-          "hot": 0,
-          "url": "https://m.baidu.com/s?word=%E5%A5%B3%E5%AD%90%E8%8A%B13%E5%85%83%E4%B9%B0%E5%BD%A9%E7%A5%A8%E4%B8%AD1439%E4%B8%87&sa=fyb_news"
+          "rank": 5,
+          "hot": 15684950,
+          "url": "https://www.toutiao.com/trending/7701882093835534390/"
         }
       ],
       "summary": "",
-      "url": "https://www.toutiao.com/trending/7702677396650230282/"
+      "url": "https://www.toutiao.com/trending/7701882093835534390/"
     },
     {
       "id": "evt-30000000",
@@ -150,7 +144,7 @@
         {
           "channel": "toutiao",
           "rank": 13,
-          "hot": 6574811,
+          "hot": 7047702,
           "url": "https://www.toutiao.com/trending/7702643003285848115/"
         },
         {
@@ -164,93 +158,36 @@
       "url": "https://www.toutiao.com/trending/7702643003285848115/"
     },
     {
-      "id": "evt-43000000",
-      "title": "孙颖莎4-3险胜早田希娜 晋级4强",
+      "id": "evt-65045000",
+      "title": "一套房650万要缴450万的税",
       "category": "society",
       "hotScore": 0.595,
       "freshness": 0.9999,
       "crossSource": 0.6309,
-      "totalScore": 0.7273,
+      "totalScore": 0.7272,
       "sources": [
         {
           "channel": "toutiao",
           "rank": 7,
-          "hot": 11980088,
-          "url": "https://www.toutiao.com/trending/7702844114110254628/"
+          "hot": 12841751,
+          "url": "https://www.toutiao.com/trending/7702438360152866866/"
         }
       ],
       "summary": "",
-      "url": "https://www.toutiao.com/trending/7702844114110254628/"
+      "url": "https://www.toutiao.com/trending/7702438360152866866/"
     },
     {
-      "id": "evt-21000000",
-      "title": "“攻击-21”上四川舰，带来哪些关键优势？",
-      "category": "society",
-      "hotScore": 0.595,
-      "freshness": 1,
-      "crossSource": 0.6309,
-      "totalScore": 0.7273,
-      "sources": [
-        {
-          "channel": "thepaper",
-          "rank": 7,
-          "hot": 0,
-          "url": "https://www.thepaper.cn/newsDetail_forward_34376598"
-        }
-      ],
-      "summary": "",
-      "url": "https://www.thepaper.cn/newsDetail_forward_34376598"
-    },
-    {
-      "id": "evt-65040000",
-      "title": "卖650万捐赠房产要缴450万的税",
+      "id": "evt-20000000",
+      "title": "女子买的侏儒猪长到200斤 1天遛5小时",
       "category": "society",
       "hotScore": 0.56,
-      "freshness": 0.9999,
+      "freshness": 1,
       "crossSource": 0.6309,
       "totalScore": 0.7133,
       "sources": [
         {
           "channel": "baidu",
           "rank": 7,
-          "hot": 0,
-          "url": "https://m.baidu.com/s?word=%E5%8D%96650%E4%B8%87%E6%8D%90%E8%B5%A0%E6%88%BF%E4%BA%A7%E8%A6%81%E7%BC%B4450%E4%B8%87%E7%9A%84%E7%A8%8E&sa=fyb_news"
-        }
-      ],
-      "summary": "",
-      "url": "https://m.baidu.com/s?word=%E5%8D%96650%E4%B8%87%E6%8D%90%E8%B5%A0%E6%88%BF%E4%BA%A7%E8%A6%81%E7%BC%B4450%E4%B8%87%E7%9A%84%E7%A8%8E&sa=fyb_news"
-    },
-    {
-      "id": "evt-10000000",
-      "title": "大批理发店关停10元快剪走红",
-      "category": "society",
-      "hotScore": 0.51,
-      "freshness": 0.9999,
-      "crossSource": 0.6309,
-      "totalScore": 0.6933,
-      "sources": [
-        {
-          "channel": "toutiao",
-          "rank": 9,
-          "hot": 9808466,
-          "url": "https://www.toutiao.com/trending/7701882093835534390/"
-        }
-      ],
-      "summary": "",
-      "url": "https://www.toutiao.com/trending/7701882093835534390/"
-    },
-    {
-      "id": "evt-20000000",
-      "title": "女子买的侏儒猪长到200斤 1天遛5小时",
-      "category": "society",
-      "hotScore": 0.48,
-      "freshness": 0.9999,
-      "crossSource": 0.6309,
-      "totalScore": 0.6813,
-      "sources": [
-        {
-          "channel": "baidu",
-          "rank": 9,
           "hot": 0,
           "url": "https://m.baidu.com/s?word=%E5%A5%B3%E5%AD%90%E4%B9%B0%E7%9A%84%E4%BE%8F%E5%84%92%E7%8C%AA%E9%95%BF%E5%88%B0200%E6%96%A4+1%E5%A4%A9%E9%81%9B5%E5%B0%8F%E6%97%B6&sa=fyb_news"
         }
@@ -259,11 +196,68 @@
       "url": "https://m.baidu.com/s?word=%E5%A5%B3%E5%AD%90%E4%B9%B0%E7%9A%84%E4%BE%8F%E5%84%92%E7%8C%AA%E9%95%BF%E5%88%B0200%E6%96%A4+1%E5%A4%A9%E9%81%9B5%E5%B0%8F%E6%97%B6&sa=fyb_news"
     },
     {
+      "id": "evt-21000000",
+      "title": "“攻击-21”上四川舰，带来哪些关键优势？",
+      "category": "society",
+      "hotScore": 0.51,
+      "freshness": 0.9999,
+      "crossSource": 0.6309,
+      "totalScore": 0.6933,
+      "sources": [
+        {
+          "channel": "thepaper",
+          "rank": 9,
+          "hot": 0,
+          "url": "https://www.thepaper.cn/newsDetail_forward_34376598"
+        }
+      ],
+      "summary": "",
+      "url": "https://www.thepaper.cn/newsDetail_forward_34376598"
+    },
+    {
+      "id": "evt-52k20000",
+      "title": "波兰采购的 52 辆韩国 K2 坦克有 30 辆因为技术故障无法运行，韩国的军工质量有这么不堪吗？",
+      "category": "society",
+      "hotScore": 0.4875,
+      "freshness": 0.9999,
+      "crossSource": 0.6309,
+      "totalScore": 0.6843,
+      "sources": [
+        {
+          "channel": "zhihu",
+          "rank": 8,
+          "hot": 0,
+          "url": ""
+        }
+      ],
+      "summary": "",
+      "url": ""
+    },
+    {
+      "id": "evt-31430000",
+      "title": "女子花3元买彩票中1439万",
+      "category": "society",
+      "hotScore": 0.48,
+      "freshness": 1,
+      "crossSource": 0.6309,
+      "totalScore": 0.6813,
+      "sources": [
+        {
+          "channel": "baidu",
+          "rank": 9,
+          "hot": 0,
+          "url": "https://m.baidu.com/s?word=%E5%A5%B3%E5%AD%90%E8%8A%B13%E5%85%83%E4%B9%B0%E5%BD%A9%E7%A5%A8%E4%B8%AD1439%E4%B8%87&sa=fyb_news"
+        }
+      ],
+      "summary": "",
+      "url": "https://m.baidu.com/s?word=%E5%A5%B3%E5%AD%90%E8%8A%B13%E5%85%83%E4%B9%B0%E5%BD%A9%E7%A5%A8%E4%B8%AD1439%E4%B8%87&sa=fyb_news"
+    },
+    {
       "id": "evt-deepseek",
       "title": "DeepSeek重磅发布：AI开始指挥AI干活",
       "category": "society",
       "hotScore": 0.44,
-      "freshness": 0.9999,
+      "freshness": 1,
       "crossSource": 0.6309,
       "totalScore": 0.6653,
       "sources": [
