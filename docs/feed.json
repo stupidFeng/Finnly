@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-11-01T17:23:22.152Z",
+  "generatedAt": "2026-11-01T21:28:39.008Z",
   "fields": {
     "society": "社会",
     "economy": "经济",
@@ -8,7 +8,7 @@
   "feed": [
     {
       "id": "evt-00000000",
-      "title": "习近平：关于《中共中央关于持之以恒推进全面从严治党若干重大问题的决定》的说明",
+      "title": "全球资产遭遇洗盘",
       "category": "society",
       "hotScore": 0.85,
       "freshness": 0.9999,
@@ -16,20 +16,14 @@
       "totalScore": 0.8293,
       "sources": [
         {
-          "channel": "thepaper",
+          "channel": "toutiao",
           "rank": 1,
-          "hot": 0,
-          "url": "https://www.thepaper.cn/newsDetail_forward_34381972"
-        },
-        {
-          "channel": "thepaper",
-          "rank": 2,
-          "hot": 0,
-          "url": "https://www.thepaper.cn/newsDetail_forward_34381970"
+          "hot": 9286115,
+          "url": "https://www.toutiao.com/trending/7703198634543681050/"
         }
       ],
       "summary": "",
-      "url": "https://www.thepaper.cn/newsDetail_forward_34381972"
+      "url": "https://www.toutiao.com/trending/7703198634543681050/"
     },
     {
       "id": "evt-a0000000",
@@ -51,11 +45,11 @@
       "url": "https://m.baidu.com/s?word=A%E8%82%A1%E8%BF%8E%E5%88%A9%E5%A5%BD%EF%BC%81%E9%87%91%E8%9E%8D%E7%9B%91%E7%AE%A1%E9%83%A8%E9%97%A8%E5%B0%86%E5%BC%80%E5%BA%A7%E8%B0%88%E4%BC%9A&sa=fyb_news"
     },
     {
-      "id": "evt-20261000",
-      "title": "如何评价 2026 年 10 月小米汽车交付量超过 50000 台？",
+      "id": "evt-20000000",
+      "title": "如何看待鸿蒙智行五界 2026 年 10 月销量合计 33537 辆？五界是否能生存下去？",
       "category": "society",
       "hotScore": 0.75,
-      "freshness": 0.9999,
+      "freshness": 1,
       "crossSource": 0.6309,
       "totalScore": 0.7893,
       "sources": [
@@ -70,56 +64,18 @@
       "url": ""
     },
     {
-      "id": "evt-30000000",
-      "title": "保险公司追涨科技股换来3500亿浮亏",
+      "id": "evt-65045000",
+      "title": "一套房650万要缴450万的税",
       "category": "society",
       "hotScore": 0.7225,
       "freshness": 0.9999,
       "crossSource": 0.6309,
-      "totalScore": 0.7782,
+      "totalScore": 0.7783,
       "sources": [
         {
           "channel": "toutiao",
           "rank": 4,
-          "hot": 6662669,
-          "url": "https://www.toutiao.com/trending/7703214598127619647/"
-        }
-      ],
-      "summary": "",
-      "url": "https://www.toutiao.com/trending/7703214598127619647/"
-    },
-    {
-      "id": "evt-20000000",
-      "title": "如何看待鸿蒙智行五界 2026 年 10 月销量合计 33537 辆？五界是否能生存下去？",
-      "category": "society",
-      "hotScore": 0.7125,
-      "freshness": 0.9999,
-      "crossSource": 0.6309,
-      "totalScore": 0.7743,
-      "sources": [
-        {
-          "channel": "zhihu",
-          "rank": 2,
-          "hot": 0,
-          "url": ""
-        }
-      ],
-      "summary": "",
-      "url": ""
-    },
-    {
-      "id": "evt-65045000",
-      "title": "一套房650万要缴450万的税",
-      "category": "society",
-      "hotScore": 0.68,
-      "freshness": 0.9999,
-      "crossSource": 0.6309,
-      "totalScore": 0.7612,
-      "sources": [
-        {
-          "channel": "toutiao",
-          "rank": 5,
-          "hot": 6028632,
+          "hot": 6879323,
           "url": "https://www.toutiao.com/trending/7702438360152866866/"
         }
       ],
@@ -127,11 +83,30 @@
       "url": "https://www.toutiao.com/trending/7702438360152866866/"
     },
     {
-      "id": "evt-11600000",
-      "title": "四川华蓥大摆荡致 1 名 16 岁游客死亡调查报告公布，2 名责任人已移送司法机关处理，哪些信息值得关注？",
+      "id": "evt-90000000",
+      "title": "一条红色预警 9名公职人员被查",
+      "category": "society",
+      "hotScore": 0.68,
+      "freshness": 0.9999,
+      "crossSource": 0.6309,
+      "totalScore": 0.7613,
+      "sources": [
+        {
+          "channel": "toutiao",
+          "rank": 5,
+          "hot": 6224669,
+          "url": "https://www.toutiao.com/trending/7703029264865772041/"
+        }
+      ],
+      "summary": "",
+      "url": "https://www.toutiao.com/trending/7703029264865772041/"
+    },
+    {
+      "id": "evt-10000000",
+      "title": "如何评价比亚迪 10 月新能源汽车销量 49.02 万辆，海外销量翻倍？横向对比这一销量属于什么水平？",
       "category": "society",
       "hotScore": 0.675,
-      "freshness": 0.9999,
+      "freshness": 1,
       "crossSource": 0.6309,
       "totalScore": 0.7593,
       "sources": [
@@ -146,49 +121,30 @@
       "url": ""
     },
     {
-      "id": "evt-19841000",
-      "title": "历史上的今天｜1984年11月1日，邓小平提出裁军100万",
+      "id": "evt-anthropic",
+      "title": "怎么看 Anthropic IPO 前夕被黑石评为「垃圾级」？",
       "category": "society",
       "hotScore": 0.6375,
-      "freshness": 0.9999,
+      "freshness": 1,
       "crossSource": 0.6309,
       "totalScore": 0.7443,
       "sources": [
         {
-          "channel": "thepaper",
-          "rank": 6,
+          "channel": "zhihu",
+          "rank": 4,
           "hot": 0,
-          "url": "https://www.thepaper.cn/newsDetail_forward_34367893"
+          "url": ""
         }
       ],
       "summary": "",
-      "url": "https://www.thepaper.cn/newsDetail_forward_34367893"
+      "url": ""
     },
     {
-      "id": "evt-90000000",
-      "title": "一条红色预警 9名公职人员被查",
-      "category": "society",
-      "hotScore": 0.6375,
-      "freshness": 0.9999,
-      "crossSource": 0.6309,
-      "totalScore": 0.7442,
-      "sources": [
-        {
-          "channel": "toutiao",
-          "rank": 6,
-          "hot": 5454932,
-          "url": "https://www.toutiao.com/trending/7703029264865772041/"
-        }
-      ],
-      "summary": "",
-      "url": "https://www.toutiao.com/trending/7703029264865772041/"
-    },
-    {
-      "id": "evt-10000000",
-      "title": "如何评价比亚迪 10 月新能源汽车销量 49.02 万辆，海外销量翻倍？横向对比这一销量属于什么水平？",
+      "id": "evt-11600000",
+      "title": "四川华蓥大摆荡致 1 名 16 岁游客死亡调查报告公布，2 名责任人已移送司法机关处理，哪些信息值得关注？",
       "category": "society",
       "hotScore": 0.6,
-      "freshness": 0.9999,
+      "freshness": 1,
       "crossSource": 0.6309,
       "totalScore": 0.7293,
       "sources": [
@@ -203,18 +159,94 @@
       "url": ""
     },
     {
-      "id": "evt-11000000",
-      "title": "11岁女孩确诊甲状腺癌已肺转移",
+      "id": "evt-43000000",
+      "title": "孙颖莎4-3力克王艺迪 晋级决赛",
       "category": "society",
       "hotScore": 0.595,
       "freshness": 0.9999,
       "crossSource": 0.6309,
-      "totalScore": 0.7272,
+      "totalScore": 0.7273,
       "sources": [
         {
           "channel": "toutiao",
           "rank": 7,
-          "hot": 4935826,
+          "hot": 5096328,
+          "url": "https://www.toutiao.com/trending/7703177835711565338/"
+        }
+      ],
+      "summary": "",
+      "url": "https://www.toutiao.com/trending/7703177835711565338/"
+    },
+    {
+      "id": "evt-19841000",
+      "title": "历史上的今天｜1984年11月1日，邓小平提出裁军100万",
+      "category": "society",
+      "hotScore": 0.595,
+      "freshness": 1,
+      "crossSource": 0.6309,
+      "totalScore": 0.7273,
+      "sources": [
+        {
+          "channel": "thepaper",
+          "rank": 7,
+          "hot": 0,
+          "url": "https://www.thepaper.cn/newsDetail_forward_34367893"
+        }
+      ],
+      "summary": "",
+      "url": "https://www.thepaper.cn/newsDetail_forward_34367893"
+    },
+    {
+      "id": "evt-24620000",
+      "title": "246万买邮轮永居权2年后被要求离船",
+      "category": "society",
+      "hotScore": 0.56,
+      "freshness": 1,
+      "crossSource": 0.6309,
+      "totalScore": 0.7133,
+      "sources": [
+        {
+          "channel": "baidu",
+          "rank": 7,
+          "hot": 0,
+          "url": "https://m.baidu.com/s?word=246%E4%B8%87%E4%B9%B0%E9%82%AE%E8%BD%AE%E6%B0%B8%E5%B1%85%E6%9D%832%E5%B9%B4%E5%90%8E%E8%A2%AB%E8%A6%81%E6%B1%82%E7%A6%BB%E8%88%B9&sa=fyb_news"
+        }
+      ],
+      "summary": "",
+      "url": "https://m.baidu.com/s?word=246%E4%B8%87%E4%B9%B0%E9%82%AE%E8%BD%AE%E6%B0%B8%E5%B1%85%E6%9D%832%E5%B9%B4%E5%90%8E%E8%A2%AB%E8%A6%81%E6%B1%82%E7%A6%BB%E8%88%B9&sa=fyb_news"
+    },
+    {
+      "id": "evt-gumayus0",
+      "title": "三连冠选手 Gumayusi 生涯首次无缘 S 赛八强，如何评价他本届赛事的表现？",
+      "category": "society",
+      "hotScore": 0.525,
+      "freshness": 1,
+      "crossSource": 0.6309,
+      "totalScore": 0.6993,
+      "sources": [
+        {
+          "channel": "zhihu",
+          "rank": 7,
+          "hot": 0,
+          "url": ""
+        }
+      ],
+      "summary": "",
+      "url": ""
+    },
+    {
+      "id": "evt-11000000",
+      "title": "11岁女孩确诊甲状腺癌已肺转移",
+      "category": "society",
+      "hotScore": 0.51,
+      "freshness": 0.9999,
+      "crossSource": 0.6309,
+      "totalScore": 0.6933,
+      "sources": [
+        {
+          "channel": "toutiao",
+          "rank": 9,
+          "hot": 4172520,
           "url": "https://www.toutiao.com/trending/7703155124209877035/"
         }
       ],
@@ -225,46 +257,8 @@
       "id": "evt-40000000",
       "title": "怎么看百度搜索降价千次 4.9 元，这是针对 DeepSeek 搜索的千次 5 元吗？",
       "category": "society",
-      "hotScore": 0.5625,
-      "freshness": 0.9999,
-      "crossSource": 0.6309,
-      "totalScore": 0.7143,
-      "sources": [
-        {
-          "channel": "zhihu",
-          "rank": 6,
-          "hot": 0,
-          "url": ""
-        }
-      ],
-      "summary": "",
-      "url": ""
-    },
-    {
-      "id": "evt-43000000",
-      "title": "孙颖莎4比3王艺迪晋级决赛",
-      "category": "society",
-      "hotScore": 0.52,
-      "freshness": 1,
-      "crossSource": 0.6309,
-      "totalScore": 0.6973,
-      "sources": [
-        {
-          "channel": "baidu",
-          "rank": 8,
-          "hot": 0,
-          "url": "https://m.baidu.com/s?word=%E5%AD%99%E9%A2%96%E8%8E%8E4%E6%AF%943%E7%8E%8B%E8%89%BA%E8%BF%AA%E6%99%8B%E7%BA%A7%E5%86%B3%E8%B5%9B&sa=fyb_news"
-        }
-      ],
-      "summary": "",
-      "url": "https://m.baidu.com/s?word=%E5%AD%99%E9%A2%96%E8%8E%8E4%E6%AF%943%E7%8E%8B%E8%89%BA%E8%BF%AA%E6%99%8B%E7%BA%A7%E5%86%B3%E8%B5%9B&sa=fyb_news"
-    },
-    {
-      "id": "evt-anthropic",
-      "title": "Anthropic 账面亏损 807 亿美元却冲刺 2 万亿 IPO，背后的原因是什么？",
-      "category": "society",
       "hotScore": 0.4875,
-      "freshness": 0.9999,
+      "freshness": 1,
       "crossSource": 0.6309,
       "totalScore": 0.6843,
       "sources": [
@@ -279,23 +273,23 @@
       "url": ""
     },
     {
-      "id": "evt-24620000",
-      "title": "246万买邮轮永居权2年后被要求离船",
+      "id": "evt-18000000",
+      "title": "明查｜肯尼亚18层坍塌大楼由“中国承建”？不实，中企参与救援",
       "category": "society",
-      "hotScore": 0.48,
+      "hotScore": 0.4675,
       "freshness": 1,
       "crossSource": 0.6309,
-      "totalScore": 0.6813,
+      "totalScore": 0.6763,
       "sources": [
         {
-          "channel": "baidu",
-          "rank": 9,
+          "channel": "thepaper",
+          "rank": 10,
           "hot": 0,
-          "url": "https://m.baidu.com/s?word=246%E4%B8%87%E4%B9%B0%E9%82%AE%E8%BD%AE%E6%B0%B8%E5%B1%85%E6%9D%832%E5%B9%B4%E5%90%8E%E8%A2%AB%E8%A6%81%E6%B1%82%E7%A6%BB%E8%88%B9&sa=fyb_news"
+          "url": "https://www.thepaper.cn/newsDetail_forward_34379118"
         }
       ],
       "summary": "",
-      "url": "https://m.baidu.com/s?word=246%E4%B8%87%E4%B9%B0%E9%82%AE%E8%BD%AE%E6%B0%B8%E5%B1%85%E6%9D%832%E5%B9%B4%E5%90%8E%E8%A2%AB%E8%A6%81%E6%B1%82%E7%A6%BB%E8%88%B9&sa=fyb_news"
+      "url": "https://www.thepaper.cn/newsDetail_forward_34379118"
     }
   ]
 }
