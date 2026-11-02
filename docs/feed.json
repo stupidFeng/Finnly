@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-11-01T21:28:39.008Z",
+  "generatedAt": "2026-11-02T01:07:04.745Z",
   "fields": {
     "society": "社会",
     "economy": "经济",
@@ -8,48 +8,54 @@
   "feed": [
     {
       "id": "evt-00000000",
-      "title": "全球资产遭遇洗盘",
+      "title": "评论员：中国要在黄岩岛关门了",
+      "category": "society",
+      "hotScore": 0.8075,
+      "freshness": 0.9999,
+      "crossSource": 1,
+      "totalScore": 0.923,
+      "sources": [
+        {
+          "channel": "toutiao",
+          "rank": 2,
+          "hot": 6751906,
+          "url": "https://www.toutiao.com/trending/7702475985760829503/"
+        },
+        {
+          "channel": "baidu",
+          "rank": 8,
+          "hot": 0,
+          "url": "https://m.baidu.com/s?word=%E8%AF%84%E8%AE%BA%E5%91%98%EF%BC%9A%E4%B8%AD%E5%9B%BD%E8%A6%81%E5%9C%A8%E9%BB%84%E5%B2%A9%E5%B2%9B%E5%85%B3%E9%97%A8%E4%BA%86&sa=fyb_news"
+        }
+      ],
+      "summary": "",
+      "url": "https://www.toutiao.com/trending/7702475985760829503/"
+    },
+    {
+      "id": "evt-90000000",
+      "title": "美国一公务机俯冲爆炸9人全遇难",
       "category": "society",
       "hotScore": 0.85,
       "freshness": 0.9999,
       "crossSource": 0.6309,
-      "totalScore": 0.8293,
+      "totalScore": 0.8292,
       "sources": [
         {
           "channel": "toutiao",
           "rank": 1,
-          "hot": 9286115,
-          "url": "https://www.toutiao.com/trending/7703198634543681050/"
+          "hot": 7462010,
+          "url": "https://www.toutiao.com/trending/7703307437939622409/"
         }
       ],
       "summary": "",
-      "url": "https://www.toutiao.com/trending/7703198634543681050/"
-    },
-    {
-      "id": "evt-a0000000",
-      "title": "A股迎利好！金融监管部门将开座谈会",
-      "category": "society",
-      "hotScore": 0.76,
-      "freshness": 1,
-      "crossSource": 0.6309,
-      "totalScore": 0.7933,
-      "sources": [
-        {
-          "channel": "baidu",
-          "rank": 2,
-          "hot": 0,
-          "url": "https://m.baidu.com/s?word=A%E8%82%A1%E8%BF%8E%E5%88%A9%E5%A5%BD%EF%BC%81%E9%87%91%E8%9E%8D%E7%9B%91%E7%AE%A1%E9%83%A8%E9%97%A8%E5%B0%86%E5%BC%80%E5%BA%A7%E8%B0%88%E4%BC%9A&sa=fyb_news"
-        }
-      ],
-      "summary": "",
-      "url": "https://m.baidu.com/s?word=A%E8%82%A1%E8%BF%8E%E5%88%A9%E5%A5%BD%EF%BC%81%E9%87%91%E8%9E%8D%E7%9B%91%E7%AE%A1%E9%83%A8%E9%97%A8%E5%B0%86%E5%BC%80%E5%BA%A7%E8%B0%88%E4%BC%9A&sa=fyb_news"
+      "url": "https://www.toutiao.com/trending/7703307437939622409/"
     },
     {
       "id": "evt-20000000",
       "title": "如何看待鸿蒙智行五界 2026 年 10 月销量合计 33537 辆？五界是否能生存下去？",
       "category": "society",
       "hotScore": 0.75,
-      "freshness": 1,
+      "freshness": 0.9999,
       "crossSource": 0.6309,
       "totalScore": 0.7893,
       "sources": [
@@ -64,68 +70,49 @@
       "url": ""
     },
     {
-      "id": "evt-65045000",
-      "title": "一套房650万要缴450万的税",
+      "id": "evt-wtt00000",
+      "title": "孙颖莎夺WTT蒙彼利埃站冠军",
       "category": "society",
       "hotScore": 0.7225,
       "freshness": 0.9999,
       "crossSource": 0.6309,
-      "totalScore": 0.7783,
+      "totalScore": 0.7782,
       "sources": [
         {
           "channel": "toutiao",
           "rank": 4,
-          "hot": 6879323,
-          "url": "https://www.toutiao.com/trending/7702438360152866866/"
+          "hot": 5527993,
+          "url": "https://www.toutiao.com/trending/7703314602323378715/"
         }
       ],
       "summary": "",
-      "url": "https://www.toutiao.com/trending/7702438360152866866/"
+      "url": "https://www.toutiao.com/trending/7703314602323378715/"
     },
     {
-      "id": "evt-90000000",
-      "title": "一条红色预警 9名公职人员被查",
+      "id": "evt-35000000",
+      "title": "伊朗已购买俄罗斯苏-35战斗机",
       "category": "society",
       "hotScore": 0.68,
       "freshness": 0.9999,
       "crossSource": 0.6309,
-      "totalScore": 0.7613,
+      "totalScore": 0.7612,
       "sources": [
         {
           "channel": "toutiao",
           "rank": 5,
-          "hot": 6224669,
-          "url": "https://www.toutiao.com/trending/7703029264865772041/"
+          "hot": 5001935,
+          "url": "https://www.toutiao.com/trending/7703020620740723210/"
         }
       ],
       "summary": "",
-      "url": "https://www.toutiao.com/trending/7703029264865772041/"
+      "url": "https://www.toutiao.com/trending/7703020620740723210/"
     },
     {
-      "id": "evt-10000000",
-      "title": "如何评价比亚迪 10 月新能源汽车销量 49.02 万辆，海外销量翻倍？横向对比这一销量属于什么水平？",
-      "category": "society",
-      "hotScore": 0.675,
-      "freshness": 1,
-      "crossSource": 0.6309,
-      "totalScore": 0.7593,
-      "sources": [
-        {
-          "channel": "zhihu",
-          "rank": 3,
-          "hot": 0,
-          "url": ""
-        }
-      ],
-      "summary": "",
-      "url": ""
-    },
-    {
-      "id": "evt-anthropic",
-      "title": "怎么看 Anthropic IPO 前夕被黑石评为「垃圾级」？",
+      "id": "evt-ai000000",
+      "title": "为何 AI 短剧好像放弃了清宫戏，而更倾向于唐 / 宋 / 架空朝代？跟观众偏好、技术、选题、价值观有啥关系吗？",
       "category": "society",
       "hotScore": 0.6375,
-      "freshness": 1,
+      "freshness": 0.9999,
       "crossSource": 0.6309,
       "totalScore": 0.7443,
       "sources": [
@@ -140,17 +127,36 @@
       "url": ""
     },
     {
-      "id": "evt-11600000",
-      "title": "四川华蓥大摆荡致 1 名 16 岁游客死亡调查报告公布，2 名责任人已移送司法机关处理，哪些信息值得关注？",
+      "id": "evt-65045000",
+      "title": "一套房650万要缴450万的税",
       "category": "society",
-      "hotScore": 0.6,
-      "freshness": 1,
+      "hotScore": 0.6375,
+      "freshness": 0.9999,
       "crossSource": 0.6309,
-      "totalScore": 0.7293,
+      "totalScore": 0.7442,
+      "sources": [
+        {
+          "channel": "toutiao",
+          "rank": 6,
+          "hot": 4525938,
+          "url": "https://www.toutiao.com/trending/7702438360152866866/"
+        }
+      ],
+      "summary": "",
+      "url": "https://www.toutiao.com/trending/7702438360152866866/"
+    },
+    {
+      "id": "evt-10000000",
+      "title": "如何评价比亚迪 10 月新能源汽车销量 49.02 万辆，海外销量翻倍？横向对比这一销量属于什么水平？",
+      "category": "society",
+      "hotScore": 0.5625,
+      "freshness": 0.9999,
+      "crossSource": 0.6309,
+      "totalScore": 0.7143,
       "sources": [
         {
           "channel": "zhihu",
-          "rank": 5,
+          "rank": 6,
           "hot": 0,
           "url": ""
         }
@@ -159,49 +165,11 @@
       "url": ""
     },
     {
-      "id": "evt-43000000",
-      "title": "孙颖莎4-3力克王艺迪 晋级决赛",
-      "category": "society",
-      "hotScore": 0.595,
-      "freshness": 0.9999,
-      "crossSource": 0.6309,
-      "totalScore": 0.7273,
-      "sources": [
-        {
-          "channel": "toutiao",
-          "rank": 7,
-          "hot": 5096328,
-          "url": "https://www.toutiao.com/trending/7703177835711565338/"
-        }
-      ],
-      "summary": "",
-      "url": "https://www.toutiao.com/trending/7703177835711565338/"
-    },
-    {
-      "id": "evt-19841000",
-      "title": "历史上的今天｜1984年11月1日，邓小平提出裁军100万",
-      "category": "society",
-      "hotScore": 0.595,
-      "freshness": 1,
-      "crossSource": 0.6309,
-      "totalScore": 0.7273,
-      "sources": [
-        {
-          "channel": "thepaper",
-          "rank": 7,
-          "hot": 0,
-          "url": "https://www.thepaper.cn/newsDetail_forward_34367893"
-        }
-      ],
-      "summary": "",
-      "url": "https://www.thepaper.cn/newsDetail_forward_34367893"
-    },
-    {
-      "id": "evt-24620000",
-      "title": "246万买邮轮永居权2年后被要求离船",
+      "id": "evt-28000000",
+      "title": "“中国最冷小镇”降至-28℃",
       "category": "society",
       "hotScore": 0.56,
-      "freshness": 1,
+      "freshness": 0.9999,
       "crossSource": 0.6309,
       "totalScore": 0.7133,
       "sources": [
@@ -209,56 +177,56 @@
           "channel": "baidu",
           "rank": 7,
           "hot": 0,
-          "url": "https://m.baidu.com/s?word=246%E4%B8%87%E4%B9%B0%E9%82%AE%E8%BD%AE%E6%B0%B8%E5%B1%85%E6%9D%832%E5%B9%B4%E5%90%8E%E8%A2%AB%E8%A6%81%E6%B1%82%E7%A6%BB%E8%88%B9&sa=fyb_news"
+          "url": "https://m.baidu.com/s?word=%E2%80%9C%E4%B8%AD%E5%9B%BD%E6%9C%80%E5%86%B7%E5%B0%8F%E9%95%87%E2%80%9D%E9%99%8D%E8%87%B3-28%E2%84%83&sa=fyb_news"
         }
       ],
       "summary": "",
-      "url": "https://m.baidu.com/s?word=246%E4%B8%87%E4%B9%B0%E9%82%AE%E8%BD%AE%E6%B0%B8%E5%B1%85%E6%9D%832%E5%B9%B4%E5%90%8E%E8%A2%AB%E8%A6%81%E6%B1%82%E7%A6%BB%E8%88%B9&sa=fyb_news"
+      "url": "https://m.baidu.com/s?word=%E2%80%9C%E4%B8%AD%E5%9B%BD%E6%9C%80%E5%86%B7%E5%B0%8F%E9%95%87%E2%80%9D%E9%99%8D%E8%87%B3-28%E2%84%83&sa=fyb_news"
     },
     {
-      "id": "evt-gumayus0",
-      "title": "三连冠选手 Gumayusi 生涯首次无缘 S 赛八强，如何评价他本届赛事的表现？",
+      "id": "evt-deepseek",
+      "title": "DeepSeek亮出“超级智能体”架构",
       "category": "society",
-      "hotScore": 0.525,
-      "freshness": 1,
+      "hotScore": 0.5525,
+      "freshness": 0.9999,
       "crossSource": 0.6309,
-      "totalScore": 0.6993,
+      "totalScore": 0.7102,
       "sources": [
         {
-          "channel": "zhihu",
-          "rank": 7,
-          "hot": 0,
-          "url": ""
+          "channel": "toutiao",
+          "rank": 8,
+          "hot": 3705524,
+          "url": "https://www.toutiao.com/trending/7703258129567321638/"
         }
       ],
       "summary": "",
-      "url": ""
+      "url": "https://www.toutiao.com/trending/7703258129567321638/"
     },
     {
-      "id": "evt-11000000",
-      "title": "11岁女孩确诊甲状腺癌已肺转移",
+      "id": "evt-a0000000",
+      "title": "两家A股公司被证监会立案",
       "category": "society",
       "hotScore": 0.51,
       "freshness": 0.9999,
       "crossSource": 0.6309,
-      "totalScore": 0.6933,
+      "totalScore": 0.6932,
       "sources": [
         {
           "channel": "toutiao",
           "rank": 9,
-          "hot": 4172520,
-          "url": "https://www.toutiao.com/trending/7703155124209877035/"
+          "hot": 3352897,
+          "url": "https://www.toutiao.com/trending/7703187065659260982/"
         }
       ],
       "summary": "",
-      "url": "https://www.toutiao.com/trending/7703155124209877035/"
+      "url": "https://www.toutiao.com/trending/7703187065659260982/"
     },
     {
-      "id": "evt-40000000",
-      "title": "怎么看百度搜索降价千次 4.9 元，这是针对 DeepSeek 搜索的千次 5 元吗？",
+      "id": "evt-50000000",
+      "title": "张雪提出飞行超 5 小时全员必须头等舱，说老板单独坐头等舱很 low，现实里其他公司能照搬吗？",
       "category": "society",
       "hotScore": 0.4875,
-      "freshness": 1,
+      "freshness": 0.9999,
       "crossSource": 0.6309,
       "totalScore": 0.6843,
       "sources": [
@@ -273,23 +241,42 @@
       "url": ""
     },
     {
-      "id": "evt-18000000",
-      "title": "明查｜肯尼亚18层坍塌大楼由“中国承建”？不实，中企参与救援",
+      "id": "evt-19841000",
+      "title": "历史上的今天｜1984年11月1日，邓小平提出裁军100万",
       "category": "society",
-      "hotScore": 0.4675,
+      "hotScore": 0.425,
       "freshness": 1,
       "crossSource": 0.6309,
-      "totalScore": 0.6763,
+      "totalScore": 0.6593,
       "sources": [
         {
           "channel": "thepaper",
-          "rank": 10,
+          "rank": 11,
           "hot": 0,
-          "url": "https://www.thepaper.cn/newsDetail_forward_34379118"
+          "url": "https://www.thepaper.cn/newsDetail_forward_34367893"
         }
       ],
       "summary": "",
-      "url": "https://www.thepaper.cn/newsDetail_forward_34379118"
+      "url": "https://www.thepaper.cn/newsDetail_forward_34367893"
+    },
+    {
+      "id": "evt-13000000",
+      "title": "法定节假日增至 13 天并优化调休，将对公众生活与休假体验带来哪些改变？",
+      "category": "society",
+      "hotScore": 0.4125,
+      "freshness": 0.9999,
+      "crossSource": 0.6309,
+      "totalScore": 0.6543,
+      "sources": [
+        {
+          "channel": "zhihu",
+          "rank": 10,
+          "hot": 0,
+          "url": ""
+        }
+      ],
+      "summary": "",
+      "url": ""
     }
   ]
 }
