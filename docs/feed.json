@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-11-02T01:07:04.745Z",
+  "generatedAt": "2026-11-02T08:36:33.399Z",
   "fields": {
     "society": "社会",
     "economy": "经济",
@@ -7,169 +7,143 @@
   },
   "feed": [
     {
-      "id": "evt-00000000",
-      "title": "评论员：中国要在黄岩岛关门了",
+      "id": "evt-11130000",
+      "title": "男子彩票中1113万 过期2天兑奖被拒",
+      "category": "society",
+      "hotScore": 0.85,
+      "freshness": 1,
+      "crossSource": 1,
+      "totalScore": 0.94,
+      "sources": [
+        {
+          "channel": "toutiao",
+          "rank": 1,
+          "hot": 12649811,
+          "url": "https://www.toutiao.com/trending/7703435058945802259/"
+        },
+        {
+          "channel": "baidu",
+          "rank": 8,
+          "hot": 0,
+          "url": "https://m.baidu.com/s?word=%E7%94%B7%E5%AD%90%E5%BD%A9%E7%A5%A8%E4%B8%AD1113%E4%B8%87+%E8%BF%87%E6%9C%9F2%E5%A4%A9%E5%85%91%E5%A5%96%E8%A2%AB%E6%8B%92&sa=fyb_news"
+        }
+      ],
+      "summary": "",
+      "url": "https://www.toutiao.com/trending/7703435058945802259/"
+    },
+    {
+      "id": "evt-48000000",
+      "title": "巴菲特自曝48年没喝过白开水",
       "category": "society",
       "hotScore": 0.8075,
-      "freshness": 0.9999,
+      "freshness": 1,
       "crossSource": 1,
       "totalScore": 0.923,
       "sources": [
         {
           "channel": "toutiao",
           "rank": 2,
-          "hot": 6751906,
-          "url": "https://www.toutiao.com/trending/7702475985760829503/"
+          "hot": 11446023,
+          "url": "https://www.toutiao.com/trending/7702584731719876671/"
         },
         {
           "channel": "baidu",
-          "rank": 8,
+          "rank": 15,
           "hot": 0,
-          "url": "https://m.baidu.com/s?word=%E8%AF%84%E8%AE%BA%E5%91%98%EF%BC%9A%E4%B8%AD%E5%9B%BD%E8%A6%81%E5%9C%A8%E9%BB%84%E5%B2%A9%E5%B2%9B%E5%85%B3%E9%97%A8%E4%BA%86&sa=fyb_news"
+          "url": "https://m.baidu.com/s?word=%E5%B7%B4%E8%8F%B2%E7%89%B9%E8%87%AA%E6%9B%9D48%E5%B9%B4%E6%B2%A1%E5%96%9D%E8%BF%87%E7%99%BD%E5%BC%80%E6%B0%B4&sa=fyb_news"
         }
       ],
       "summary": "",
-      "url": "https://www.toutiao.com/trending/7702475985760829503/"
+      "url": "https://www.toutiao.com/trending/7702584731719876671/"
     },
     {
-      "id": "evt-90000000",
-      "title": "美国一公务机俯冲爆炸9人全遇难",
+      "id": "evt-00000000",
+      "title": "习近平：关于《中共中央关于持之以恒推进全面从严治党若干重大问题的决定》的说明",
       "category": "society",
       "hotScore": 0.85,
-      "freshness": 0.9999,
+      "freshness": 1,
       "crossSource": 0.6309,
-      "totalScore": 0.8292,
+      "totalScore": 0.8293,
       "sources": [
         {
-          "channel": "toutiao",
+          "channel": "thepaper",
           "rank": 1,
-          "hot": 7462010,
-          "url": "https://www.toutiao.com/trending/7703307437939622409/"
+          "hot": 0,
+          "url": "https://www.thepaper.cn/newsDetail_forward_34381972"
+        },
+        {
+          "channel": "thepaper",
+          "rank": 2,
+          "hot": 0,
+          "url": "https://www.thepaper.cn/newsDetail_forward_34381970"
         }
       ],
       "summary": "",
-      "url": "https://www.toutiao.com/trending/7703307437939622409/"
+      "url": "https://www.thepaper.cn/newsDetail_forward_34381972"
     },
     {
       "id": "evt-20000000",
-      "title": "如何看待鸿蒙智行五界 2026 年 10 月销量合计 33537 辆？五界是否能生存下去？",
-      "category": "society",
-      "hotScore": 0.75,
-      "freshness": 0.9999,
-      "crossSource": 0.6309,
-      "totalScore": 0.7893,
-      "sources": [
-        {
-          "channel": "zhihu",
-          "rank": 1,
-          "hot": 0,
-          "url": ""
-        }
-      ],
-      "summary": "",
-      "url": ""
-    },
-    {
-      "id": "evt-wtt00000",
-      "title": "孙颖莎夺WTT蒙彼利埃站冠军",
-      "category": "society",
-      "hotScore": 0.7225,
-      "freshness": 0.9999,
-      "crossSource": 0.6309,
-      "totalScore": 0.7782,
-      "sources": [
-        {
-          "channel": "toutiao",
-          "rank": 4,
-          "hot": 5527993,
-          "url": "https://www.toutiao.com/trending/7703314602323378715/"
-        }
-      ],
-      "summary": "",
-      "url": "https://www.toutiao.com/trending/7703314602323378715/"
-    },
-    {
-      "id": "evt-35000000",
-      "title": "伊朗已购买俄罗斯苏-35战斗机",
+      "title": "世界眼中的“中国机遇2.0”",
       "category": "society",
       "hotScore": 0.68,
-      "freshness": 0.9999,
+      "freshness": 1,
       "crossSource": 0.6309,
-      "totalScore": 0.7612,
+      "totalScore": 0.7613,
       "sources": [
         {
-          "channel": "toutiao",
-          "rank": 5,
-          "hot": 5001935,
-          "url": "https://www.toutiao.com/trending/7703020620740723210/"
+          "channel": "baidu",
+          "rank": 4,
+          "hot": 0,
+          "url": "https://m.baidu.com/s?word=%E4%B8%96%E7%95%8C%E7%9C%BC%E4%B8%AD%E7%9A%84%E2%80%9C%E4%B8%AD%E5%9B%BD%E6%9C%BA%E9%81%872.0%E2%80%9D&sa=fyb_news"
         }
       ],
       "summary": "",
-      "url": "https://www.toutiao.com/trending/7703020620740723210/"
+      "url": "https://m.baidu.com/s?word=%E4%B8%96%E7%95%8C%E7%9C%BC%E4%B8%AD%E7%9A%84%E2%80%9C%E4%B8%AD%E5%9B%BD%E6%9C%BA%E9%81%872.0%E2%80%9D&sa=fyb_news"
     },
     {
       "id": "evt-ai000000",
       "title": "为何 AI 短剧好像放弃了清宫戏，而更倾向于唐 / 宋 / 架空朝代？跟观众偏好、技术、选题、价值观有啥关系吗？",
       "category": "society",
+      "hotScore": 0.675,
+      "freshness": 1,
+      "crossSource": 0.6309,
+      "totalScore": 0.7593,
+      "sources": [
+        {
+          "channel": "zhihu",
+          "rank": 3,
+          "hot": 0,
+          "url": ""
+        }
+      ],
+      "summary": "",
+      "url": ""
+    },
+    {
+      "id": "evt-10ai0000",
+      "title": "不到10元，AI眼镜秒变“偷拍神器”！一张遮光贴就能撕开隐私红线？",
+      "category": "society",
       "hotScore": 0.6375,
-      "freshness": 0.9999,
+      "freshness": 1,
       "crossSource": 0.6309,
       "totalScore": 0.7443,
       "sources": [
         {
-          "channel": "zhihu",
-          "rank": 4,
-          "hot": 0,
-          "url": ""
-        }
-      ],
-      "summary": "",
-      "url": ""
-    },
-    {
-      "id": "evt-65045000",
-      "title": "一套房650万要缴450万的税",
-      "category": "society",
-      "hotScore": 0.6375,
-      "freshness": 0.9999,
-      "crossSource": 0.6309,
-      "totalScore": 0.7442,
-      "sources": [
-        {
-          "channel": "toutiao",
-          "rank": 6,
-          "hot": 4525938,
-          "url": "https://www.toutiao.com/trending/7702438360152866866/"
-        }
-      ],
-      "summary": "",
-      "url": "https://www.toutiao.com/trending/7702438360152866866/"
-    },
-    {
-      "id": "evt-10000000",
-      "title": "如何评价比亚迪 10 月新能源汽车销量 49.02 万辆，海外销量翻倍？横向对比这一销量属于什么水平？",
-      "category": "society",
-      "hotScore": 0.5625,
-      "freshness": 0.9999,
-      "crossSource": 0.6309,
-      "totalScore": 0.7143,
-      "sources": [
-        {
-          "channel": "zhihu",
+          "channel": "thepaper",
           "rank": 6,
           "hot": 0,
-          "url": ""
+          "url": "https://www.thepaper.cn/newsDetail_forward_34248283"
         }
       ],
       "summary": "",
-      "url": ""
+      "url": "https://www.thepaper.cn/newsDetail_forward_34248283"
     },
     {
-      "id": "evt-28000000",
-      "title": "“中国最冷小镇”降至-28℃",
+      "id": "evt-20270000",
+      "title": "2027是最舒服的一年",
       "category": "society",
       "hotScore": 0.56,
-      "freshness": 0.9999,
+      "freshness": 1,
       "crossSource": 0.6309,
       "totalScore": 0.7133,
       "sources": [
@@ -177,72 +151,34 @@
           "channel": "baidu",
           "rank": 7,
           "hot": 0,
-          "url": "https://m.baidu.com/s?word=%E2%80%9C%E4%B8%AD%E5%9B%BD%E6%9C%80%E5%86%B7%E5%B0%8F%E9%95%87%E2%80%9D%E9%99%8D%E8%87%B3-28%E2%84%83&sa=fyb_news"
+          "url": "https://m.baidu.com/s?word=2027%E6%98%AF%E6%9C%80%E8%88%92%E6%9C%8D%E7%9A%84%E4%B8%80%E5%B9%B4&sa=fyb_news"
         }
       ],
       "summary": "",
-      "url": "https://m.baidu.com/s?word=%E2%80%9C%E4%B8%AD%E5%9B%BD%E6%9C%80%E5%86%B7%E5%B0%8F%E9%95%87%E2%80%9D%E9%99%8D%E8%87%B3-28%E2%84%83&sa=fyb_news"
+      "url": "https://m.baidu.com/s?word=2027%E6%98%AF%E6%9C%80%E8%88%92%E6%9C%8D%E7%9A%84%E4%B8%80%E5%B9%B4&sa=fyb_news"
     },
     {
-      "id": "evt-deepseek",
-      "title": "DeepSeek亮出“超级智能体”架构",
+      "id": "evt-56000000",
+      "title": "导演江小鱼去世 年仅56岁",
       "category": "society",
       "hotScore": 0.5525,
-      "freshness": 0.9999,
+      "freshness": 1,
       "crossSource": 0.6309,
-      "totalScore": 0.7102,
+      "totalScore": 0.7103,
       "sources": [
         {
           "channel": "toutiao",
           "rank": 8,
-          "hot": 3705524,
-          "url": "https://www.toutiao.com/trending/7703258129567321638/"
+          "hot": 6281710,
+          "url": "https://www.toutiao.com/trending/7703012723939934246/"
         }
       ],
       "summary": "",
-      "url": "https://www.toutiao.com/trending/7703258129567321638/"
+      "url": "https://www.toutiao.com/trending/7703012723939934246/"
     },
     {
-      "id": "evt-a0000000",
-      "title": "两家A股公司被证监会立案",
-      "category": "society",
-      "hotScore": 0.51,
-      "freshness": 0.9999,
-      "crossSource": 0.6309,
-      "totalScore": 0.6932,
-      "sources": [
-        {
-          "channel": "toutiao",
-          "rank": 9,
-          "hot": 3352897,
-          "url": "https://www.toutiao.com/trending/7703187065659260982/"
-        }
-      ],
-      "summary": "",
-      "url": "https://www.toutiao.com/trending/7703187065659260982/"
-    },
-    {
-      "id": "evt-50000000",
-      "title": "张雪提出飞行超 5 小时全员必须头等舱，说老板单独坐头等舱很 low，现实里其他公司能照搬吗？",
-      "category": "society",
-      "hotScore": 0.4875,
-      "freshness": 0.9999,
-      "crossSource": 0.6309,
-      "totalScore": 0.6843,
-      "sources": [
-        {
-          "channel": "zhihu",
-          "rank": 8,
-          "hot": 0,
-          "url": ""
-        }
-      ],
-      "summary": "",
-      "url": ""
-    },
-    {
-      "id": "evt-19841000",
-      "title": "历史上的今天｜1984年11月1日，邓小平提出裁军100万",
+      "id": "evt-10000000",
+      "title": "马上测｜实测儿童手表“壁垒”（1）：充电接口各行其是，配件难互通",
       "category": "society",
       "hotScore": 0.425,
       "freshness": 1,
@@ -253,30 +189,11 @@
           "channel": "thepaper",
           "rank": 11,
           "hot": 0,
-          "url": "https://www.thepaper.cn/newsDetail_forward_34367893"
+          "url": "https://www.thepaper.cn/newsDetail_forward_34382238"
         }
       ],
       "summary": "",
-      "url": "https://www.thepaper.cn/newsDetail_forward_34367893"
-    },
-    {
-      "id": "evt-13000000",
-      "title": "法定节假日增至 13 天并优化调休，将对公众生活与休假体验带来哪些改变？",
-      "category": "society",
-      "hotScore": 0.4125,
-      "freshness": 0.9999,
-      "crossSource": 0.6309,
-      "totalScore": 0.6543,
-      "sources": [
-        {
-          "channel": "zhihu",
-          "rank": 10,
-          "hot": 0,
-          "url": ""
-        }
-      ],
-      "summary": "",
-      "url": ""
+      "url": "https://www.thepaper.cn/newsDetail_forward_34382238"
     }
   ]
 }
