@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-11-03T17:25:22.494Z",
+  "generatedAt": "2026-11-03T22:40:58.291Z",
   "fields": {
     "society": "社会",
     "economy": "经济",
@@ -11,14 +11,14 @@
       "title": "王毅同菲律宾外长拉扎罗通电话",
       "category": "society",
       "hotScore": 0.7225,
-      "freshness": 0.9998,
+      "freshness": 1,
       "crossSource": 1,
-      "totalScore": 0.8889,
+      "totalScore": 0.889,
       "sources": [
         {
           "channel": "toutiao",
           "rank": 4,
-          "hot": 18359373,
+          "hot": 19597384,
           "url": "https://www.toutiao.com/trending/7703943117268107318/"
         },
         {
@@ -51,13 +51,13 @@
       "url": "https://m.baidu.com/s?word=10%E6%9C%88%E6%96%B0%E8%83%BD%E6%BA%90%E6%B1%BD%E8%BD%A6%E9%94%80%E9%87%8F%E6%A6%9C%EF%BC%9A%E7%89%B9%E6%96%AF%E6%8B%89%E8%B7%8C%E8%87%B3%E7%AC%AC8&sa=fyb_news"
     },
     {
-      "id": "evt-30000000",
-      "title": "男子被拐 30 余年后认亲，拉黑养家并断联，称一辈子不原谅，如何看待其决绝态度？这算忘恩负义吗？",
+      "id": "evt-21000000",
+      "title": "武汉一小区爆燃致 2 死 1 伤，调查、处置工作正在进行中，目前情况如何？",
       "category": "society",
       "hotScore": 0.75,
-      "freshness": 0.9998,
+      "freshness": 1,
       "crossSource": 0.6309,
-      "totalScore": 0.7892,
+      "totalScore": 0.7893,
       "sources": [
         {
           "channel": "zhihu",
@@ -89,32 +89,13 @@
       "url": "https://m.baidu.com/s?word=6G%E6%9D%A5%E4%BA%86+%E7%A6%BB%E6%88%91%E4%BB%AC%E8%BF%98%E6%9C%89%E5%A4%9A%E8%BF%9C&sa=fyb_news"
     },
     {
-      "id": "evt-36000000",
-      "title": "上班族每月花3600元住酒店代租房",
-      "category": "society",
-      "hotScore": 0.68,
-      "freshness": 0.9998,
-      "crossSource": 0.6309,
-      "totalScore": 0.7612,
-      "sources": [
-        {
-          "channel": "toutiao",
-          "rank": 5,
-          "hot": 16612248,
-          "url": "https://www.toutiao.com/trending/7703864526215102506/"
-        }
-      ],
-      "summary": "",
-      "url": "https://www.toutiao.com/trending/7703864526215102506/"
-    },
-    {
       "id": "evt-deepseekha",
       "title": "基于 DeepSeek Harness 的手机插件 DSH Go 上线后 Star 破 4 千，实际体验如何？",
       "category": "society",
       "hotScore": 0.675,
-      "freshness": 0.9998,
+      "freshness": 1,
       "crossSource": 0.6309,
-      "totalScore": 0.7592,
+      "totalScore": 0.7593,
       "sources": [
         {
           "channel": "zhihu",
@@ -127,13 +108,13 @@
       "url": ""
     },
     {
-      "id": "evt-21000000",
-      "title": "武汉一小区爆燃致 2 死 1 伤，调查、处置工作正在进行中，目前情况如何？",
+      "id": "evt-ucl00000",
+      "title": "清华毕业生 UCL 留学疑遭电诈，账户陆续转出数十万元，邮箱最新留言「我人平安，被诈骗了」，如何看待此事？",
       "category": "society",
       "hotScore": 0.6375,
-      "freshness": 0.9998,
+      "freshness": 1,
       "crossSource": 0.6309,
-      "totalScore": 0.7442,
+      "totalScore": 0.7443,
       "sources": [
         {
           "channel": "zhihu",
@@ -146,13 +127,13 @@
       "url": ""
     },
     {
-      "id": "evt-ucl00000",
-      "title": "清华毕业生 UCL 留学疑遭电诈，账户陆续转出数十万元，邮箱最新留言「我人平安，被诈骗了」，如何看待此事？",
+      "id": "evt-ai000000",
+      "title": "AI 零代码手写算子速度比 DeepSeek 人类手写巅峰还快 9.8%，这意味着什么？",
       "category": "society",
       "hotScore": 0.6,
-      "freshness": 0.9998,
+      "freshness": 1,
       "crossSource": 0.6309,
-      "totalScore": 0.7292,
+      "totalScore": 0.7293,
       "sources": [
         {
           "channel": "zhihu",
@@ -165,32 +146,13 @@
       "url": ""
     },
     {
-      "id": "evt-80000000",
-      "title": "8000元网购西高地犬后“仅退款”案件将开庭，卖家曾驱车600公里寻狗",
-      "category": "society",
-      "hotScore": 0.595,
-      "freshness": 0.9999,
-      "crossSource": 0.6309,
-      "totalScore": 0.7272,
-      "sources": [
-        {
-          "channel": "thepaper",
-          "rank": 7,
-          "hot": 0,
-          "url": "https://www.thepaper.cn/newsDetail_forward_34394801"
-        }
-      ],
-      "summary": "",
-      "url": "https://www.thepaper.cn/newsDetail_forward_34394801"
-    },
-    {
-      "id": "evt-20260000",
-      "title": "2026 年美国中期选举，共和党与民主党谁能最终获胜？",
+      "id": "evt-30000000",
+      "title": "男子被拐 30 余年后认亲，拉黑养家并断联，称一辈子不原谅，如何看待其决绝态度？这算忘恩负义吗？",
       "category": "society",
       "hotScore": 0.5625,
-      "freshness": 0.9998,
+      "freshness": 1,
       "crossSource": 0.6309,
-      "totalScore": 0.7142,
+      "totalScore": 0.7143,
       "sources": [
         {
           "channel": "zhihu",
@@ -203,51 +165,13 @@
       "url": ""
     },
     {
-      "id": "evt-60000000",
-      "title": "深圳600年古村捡来的花瀑逆袭成景",
-      "category": "society",
-      "hotScore": 0.56,
-      "freshness": 1,
-      "crossSource": 0.6309,
-      "totalScore": 0.7133,
-      "sources": [
-        {
-          "channel": "baidu",
-          "rank": 7,
-          "hot": 0,
-          "url": "https://m.baidu.com/s?word=%E6%B7%B1%E5%9C%B3600%E5%B9%B4%E5%8F%A4%E6%9D%91%E6%8D%A1%E6%9D%A5%E7%9A%84%E8%8A%B1%E7%80%91%E9%80%86%E8%A2%AD%E6%88%90%E6%99%AF&sa=fyb_news"
-        }
-      ],
-      "summary": "",
-      "url": "https://m.baidu.com/s?word=%E6%B7%B1%E5%9C%B3600%E5%B9%B4%E5%8F%A4%E6%9D%91%E6%8D%A1%E6%9D%A5%E7%9A%84%E8%8A%B1%E7%80%91%E9%80%86%E8%A2%AD%E6%88%90%E6%99%AF&sa=fyb_news"
-    },
-    {
-      "id": "evt-v0000000",
-      "title": "大V：菲律宾在东盟防长扩大会出洋相",
-      "category": "society",
-      "hotScore": 0.5525,
-      "freshness": 0.9998,
-      "crossSource": 0.6309,
-      "totalScore": 0.7102,
-      "sources": [
-        {
-          "channel": "toutiao",
-          "rank": 8,
-          "hot": 12306656,
-          "url": "https://www.toutiao.com/trending/7703957478559452708/"
-        }
-      ],
-      "summary": "",
-      "url": "https://www.toutiao.com/trending/7703957478559452708/"
-    },
-    {
-      "id": "evt-26800000",
-      "title": "影之刃零卖 268，但游戏中一章「庞镇」的体量就已远超很多大型游戏的全部体量，这会卷死同行或后来者吗？",
+      "id": "evt-17000000",
+      "title": "17 岁男生被人冒充警察骗出家殴打，被告三人均当庭认罪认罚，将择期宣判，三人可能承担哪些法律责任？",
       "category": "society",
       "hotScore": 0.525,
-      "freshness": 0.9998,
+      "freshness": 1,
       "crossSource": 0.6309,
-      "totalScore": 0.6992,
+      "totalScore": 0.6993,
       "sources": [
         {
           "channel": "zhihu",
@@ -279,23 +203,42 @@
       "url": "https://m.baidu.com/s?word=%E5%8A%A0200%E5%85%83%E6%B2%B9%E5%BC%80%E4%BA%862%E5%85%AC%E9%87%8C%E5%8F%91%E7%8E%B0%E6%B2%A1%E5%8A%A0%E4%B8%8A&sa=fyb_news"
     },
     {
-      "id": "evt-67500000",
-      "title": "受贿6750万余元，东航原董事长刘绍勇一审被判十四年",
+      "id": "evt-38240000",
+      "title": "38岁男子拒绝住院24小时后心脏骤停",
+      "category": "society",
+      "hotScore": 0.51,
+      "freshness": 1,
+      "crossSource": 0.6309,
+      "totalScore": 0.6933,
+      "sources": [
+        {
+          "channel": "toutiao",
+          "rank": 9,
+          "hot": 11886414,
+          "url": "https://www.toutiao.com/trending/7703117291454267435/"
+        }
+      ],
+      "summary": "",
+      "url": "https://www.toutiao.com/trending/7703117291454267435/"
+    },
+    {
+      "id": "evt-80000000",
+      "title": "8000元网购西高地犬后“仅退款”案件将开庭，卖家曾驱车600公里寻狗",
       "category": "society",
       "hotScore": 0.4675,
-      "freshness": 0.9999,
+      "freshness": 1,
       "crossSource": 0.6309,
-      "totalScore": 0.6762,
+      "totalScore": 0.6763,
       "sources": [
         {
           "channel": "thepaper",
           "rank": 10,
           "hot": 0,
-          "url": "https://www.thepaper.cn/newsDetail_forward_34395921"
+          "url": "https://www.thepaper.cn/newsDetail_forward_34394801"
         }
       ],
       "summary": "",
-      "url": "https://www.thepaper.cn/newsDetail_forward_34395921"
+      "url": "https://www.thepaper.cn/newsDetail_forward_34394801"
     }
   ]
 }
