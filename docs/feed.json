@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-11-03T01:55:04.660Z",
+  "generatedAt": "2026-11-03T08:48:43.853Z",
   "fields": {
     "society": "社会",
     "economy": "经济",
@@ -8,85 +8,117 @@
   "feed": [
     {
       "id": "evt-00000000",
-      "title": "国际油价大幅下跌",
+      "title": "刘延东遗体在京火化",
       "category": "society",
       "hotScore": 0.85,
-      "freshness": 0.9999,
+      "freshness": 0.9995,
       "crossSource": 1,
-      "totalScore": 0.94,
+      "totalScore": 0.9398,
       "sources": [
         {
           "channel": "toutiao",
           "rank": 1,
-          "hot": 12822837,
-          "url": "https://www.toutiao.com/trending/7703735791394164274/"
+          "hot": 11003588,
+          "url": "https://www.toutiao.com/trending/7702985726727766059/"
         },
         {
           "channel": "baidu",
           "rank": 2,
           "hot": 0,
-          "url": "https://m.baidu.com/s?word=%E5%9B%BD%E9%99%85%E6%B2%B9%E4%BB%B7%E5%A4%A7%E5%B9%85%E4%B8%8B%E8%B7%8C&sa=fyb_news"
+          "url": "https://m.baidu.com/s?word=%E5%88%98%E5%BB%B6%E4%B8%9C%E9%81%97%E4%BD%93%E5%9C%A8%E4%BA%AC%E7%81%AB%E5%8C%96&sa=fyb_news"
         }
       ],
       "summary": "",
-      "url": "https://www.toutiao.com/trending/7703735791394164274/"
-    },
-    {
-      "id": "evt-2wtt0000",
-      "title": "樊振东2年没打WTT仍居第二",
-      "category": "society",
-      "hotScore": 0.8075,
-      "freshness": 0.9999,
-      "crossSource": 1,
-      "totalScore": 0.923,
-      "sources": [
-        {
-          "channel": "toutiao",
-          "rank": 2,
-          "hot": 11602583,
-          "url": "https://www.toutiao.com/trending/7702845707947556902/"
-        },
-        {
-          "channel": "baidu",
-          "rank": 5,
-          "hot": 0,
-          "url": "https://m.baidu.com/s?word=%E6%A8%8A%E6%8C%AF%E4%B8%9C2%E5%B9%B4%E6%B2%A1%E6%89%93WTT%E4%BB%8D%E5%B1%85%E7%AC%AC%E4%BA%8C&sa=fyb_news"
-        }
-      ],
-      "summary": "",
-      "url": "https://www.toutiao.com/trending/7702845707947556902/"
-    },
-    {
-      "id": "evt-13000000",
-      "title": "女子追讨13年前开店“保证金”申请再审被驳回：已过诉讼时效",
-      "category": "society",
-      "hotScore": 0.85,
-      "freshness": 1,
-      "crossSource": 0.6309,
-      "totalScore": 0.8293,
-      "sources": [
-        {
-          "channel": "thepaper",
-          "rank": 1,
-          "hot": 0,
-          "url": "https://www.thepaper.cn/newsDetail_forward_34387026"
-        }
-      ],
-      "summary": "",
-      "url": "https://www.thepaper.cn/newsDetail_forward_34387026"
+      "url": "https://www.toutiao.com/trending/7702985726727766059/"
     },
     {
       "id": "evt-10000000",
       "title": "如何看待 10 元快剪正暴打全国的「设计总监」？",
       "category": "society",
       "hotScore": 0.75,
-      "freshness": 1,
+      "freshness": 0.9995,
       "crossSource": 0.6309,
-      "totalScore": 0.7893,
+      "totalScore": 0.7891,
       "sources": [
         {
           "channel": "zhihu",
           "rank": 1,
+          "hot": 0,
+          "url": ""
+        }
+      ],
+      "summary": "",
+      "url": ""
+    },
+    {
+      "id": "evt-20360000",
+      "title": "中国不申办2036年奥运会",
+      "category": "society",
+      "hotScore": 0.72,
+      "freshness": 0.9995,
+      "crossSource": 0.6309,
+      "totalScore": 0.7771,
+      "sources": [
+        {
+          "channel": "baidu",
+          "rank": 3,
+          "hot": 0,
+          "url": "https://m.baidu.com/s?word=%E4%B8%AD%E5%9B%BD%E4%B8%8D%E7%94%B3%E5%8A%9E2036%E5%B9%B4%E5%A5%A5%E8%BF%90%E4%BC%9A&sa=fyb_news"
+        }
+      ],
+      "summary": "",
+      "url": "https://m.baidu.com/s?word=%E4%B8%AD%E5%9B%BD%E4%B8%8D%E7%94%B3%E5%8A%9E2036%E5%B9%B4%E5%A5%A5%E8%BF%90%E4%BC%9A&sa=fyb_news"
+    },
+    {
+      "id": "evt-90000000",
+      "title": "9组数字 速览第九届进博会",
+      "category": "society",
+      "hotScore": 0.68,
+      "freshness": 0.9995,
+      "crossSource": 0.6309,
+      "totalScore": 0.7611,
+      "sources": [
+        {
+          "channel": "baidu",
+          "rank": 4,
+          "hot": 0,
+          "url": "https://m.baidu.com/s?word=9%E7%BB%84%E6%95%B0%E5%AD%97+%E9%80%9F%E8%A7%88%E7%AC%AC%E4%B9%9D%E5%B1%8A%E8%BF%9B%E5%8D%9A%E4%BC%9A&sa=fyb_news"
+        }
+      ],
+      "summary": "",
+      "url": "https://m.baidu.com/s?word=9%E7%BB%84%E6%95%B0%E5%AD%97+%E9%80%9F%E8%A7%88%E7%AC%AC%E4%B9%9D%E5%B1%8A%E8%BF%9B%E5%8D%9A%E4%BC%9A&sa=fyb_news"
+    },
+    {
+      "id": "evt-app00000",
+      "title": "红果短剧登顶台湾 App 下载榜首，有人退订 Netflix，背后的原因是什么？",
+      "category": "society",
+      "hotScore": 0.6375,
+      "freshness": 0.9995,
+      "crossSource": 0.6309,
+      "totalScore": 0.7441,
+      "sources": [
+        {
+          "channel": "zhihu",
+          "rank": 4,
+          "hot": 0,
+          "url": ""
+        }
+      ],
+      "summary": "",
+      "url": ""
+    },
+    {
+      "id": "evt-11200000",
+      "title": "如何看待新华社在 11 月 2 日发表的文章《国乒男队怎么了？》中表示「男子乒坛多极格局已成」?",
+      "category": "society",
+      "hotScore": 0.5625,
+      "freshness": 0.9995,
+      "crossSource": 0.6309,
+      "totalScore": 0.7141,
+      "sources": [
+        {
+          "channel": "zhihu",
+          "rank": 6,
           "hot": 0,
           "url": ""
         }
@@ -98,172 +130,33 @@
       "id": "evt-20261000",
       "title": "如何解读 2026 年 10 月汽车销量榜：比亚迪近 49 万稳居第一，小米、小鹏齐破 5 万，鸿蒙智行同比却腰斩？",
       "category": "society",
-      "hotScore": 0.7125,
-      "freshness": 1,
+      "hotScore": 0.4875,
+      "freshness": 0.9995,
       "crossSource": 0.6309,
-      "totalScore": 0.7743,
+      "totalScore": 0.6841,
       "sources": [
         {
           "channel": "zhihu",
-          "rank": 2,
+          "rank": 8,
           "hot": 0,
           "url": ""
         }
       ],
       "summary": "",
       "url": ""
-    },
-    {
-      "id": "evt-26000000",
-      "title": "网民编造“花260万登顶珠峰”被罚",
-      "category": "society",
-      "hotScore": 0.425,
-      "freshness": 0.9999,
-      "crossSource": 1,
-      "totalScore": 0.77,
-      "sources": [
-        {
-          "channel": "toutiao",
-          "rank": 11,
-          "hot": 4717258,
-          "url": "https://www.toutiao.com/trending/7703391910693748772/"
-        },
-        {
-          "channel": "baidu",
-          "rank": 12,
-          "hot": 0,
-          "url": "https://m.baidu.com/s?word=%E7%BD%91%E6%B0%91%E7%BC%96%E9%80%A0%E2%80%9C%E8%8A%B1260%E4%B8%87%E7%99%BB%E9%A1%B6%E7%8F%A0%E5%B3%B0%E2%80%9D%E8%A2%AB%E7%BD%9A&sa=fyb_news"
-        }
-      ],
-      "summary": "",
-      "url": "https://www.toutiao.com/trending/7703391910693748772/"
-    },
-    {
-      "id": "evt-19000000",
-      "title": "难以“造王”的19席：大选折射以色列阿拉伯人的力量与尴尬",
-      "category": "society",
-      "hotScore": 0.68,
-      "freshness": 1,
-      "crossSource": 0.6309,
-      "totalScore": 0.7613,
-      "sources": [
-        {
-          "channel": "thepaper",
-          "rank": 5,
-          "hot": 0,
-          "url": "https://www.thepaper.cn/newsDetail_forward_34386031"
-        }
-      ],
-      "summary": "",
-      "url": "https://www.thepaper.cn/newsDetail_forward_34386031"
-    },
-    {
-      "id": "evt-offer800",
-      "title": "网传《offer8》「垫钱姐」周沁瑶论文疑似造假，已经面临延毕，她的论文疑点可能在哪里呢？",
-      "category": "society",
-      "hotScore": 0.675,
-      "freshness": 1,
-      "crossSource": 0.6309,
-      "totalScore": 0.7593,
-      "sources": [
-        {
-          "channel": "zhihu",
-          "rank": 3,
-          "hot": 0,
-          "url": ""
-        }
-      ],
-      "summary": "",
-      "url": ""
-    },
-    {
-      "id": "evt-ai000000",
-      "title": "中国AI灭蚊神器引爆全球订单",
-      "category": "society",
-      "hotScore": 0.6,
-      "freshness": 1,
-      "crossSource": 0.6309,
-      "totalScore": 0.7293,
-      "sources": [
-        {
-          "channel": "baidu",
-          "rank": 6,
-          "hot": 0,
-          "url": "https://m.baidu.com/s?word=%E4%B8%AD%E5%9B%BDAI%E7%81%AD%E8%9A%8A%E7%A5%9E%E5%99%A8%E5%BC%95%E7%88%86%E5%85%A8%E7%90%83%E8%AE%A2%E5%8D%95&sa=fyb_news"
-        }
-      ],
-      "summary": "",
-      "url": "https://m.baidu.com/s?word=%E4%B8%AD%E5%9B%BDAI%E7%81%AD%E8%9A%8A%E7%A5%9E%E5%99%A8%E5%BC%95%E7%88%86%E5%85%A8%E7%90%83%E8%AE%A2%E5%8D%95&sa=fyb_news"
-    },
-    {
-      "id": "evt-60000000",
-      "title": "巩立姣退役后减重60多斤",
-      "category": "society",
-      "hotScore": 0.56,
-      "freshness": 1,
-      "crossSource": 0.6309,
-      "totalScore": 0.7133,
-      "sources": [
-        {
-          "channel": "baidu",
-          "rank": 7,
-          "hot": 0,
-          "url": "https://m.baidu.com/s?word=%E5%B7%A9%E7%AB%8B%E5%A7%A3%E9%80%80%E5%BD%B9%E5%90%8E%E5%87%8F%E9%87%8D60%E5%A4%9A%E6%96%A4&sa=fyb_news"
-        }
-      ],
-      "summary": "",
-      "url": "https://m.baidu.com/s?word=%E5%B7%A9%E7%AB%8B%E5%A7%A3%E9%80%80%E5%BD%B9%E5%90%8E%E5%87%8F%E9%87%8D60%E5%A4%9A%E6%96%A4&sa=fyb_news"
-    },
-    {
-      "id": "evt-11200000",
-      "title": "如何看待新华社在 11 月 2 日发表的文章《国乒男队怎么了？》中表示「男子乒坛多极格局已成」?",
-      "category": "society",
-      "hotScore": 0.525,
-      "freshness": 1,
-      "crossSource": 0.6309,
-      "totalScore": 0.6993,
-      "sources": [
-        {
-          "channel": "zhihu",
-          "rank": 7,
-          "hot": 0,
-          "url": ""
-        }
-      ],
-      "summary": "",
-      "url": ""
-    },
-    {
-      "id": "evt-31000000",
-      "title": "全球每3把伞有1把来自这里",
-      "category": "society",
-      "hotScore": 0.48,
-      "freshness": 1,
-      "crossSource": 0.6309,
-      "totalScore": 0.6813,
-      "sources": [
-        {
-          "channel": "baidu",
-          "rank": 9,
-          "hot": 0,
-          "url": "https://m.baidu.com/s?word=%E5%85%A8%E7%90%83%E6%AF%8F3%E6%8A%8A%E4%BC%9E%E6%9C%891%E6%8A%8A%E6%9D%A5%E8%87%AA%E8%BF%99%E9%87%8C&sa=fyb_news"
-        }
-      ],
-      "summary": "",
-      "url": "https://m.baidu.com/s?word=%E5%85%A8%E7%90%83%E6%AF%8F3%E6%8A%8A%E4%BC%9E%E6%9C%891%E6%8A%8A%E6%9D%A5%E8%87%AA%E8%BF%99%E9%87%8C&sa=fyb_news"
     },
     {
       "id": "evt-32111000",
       "title": "男子 32 元买彩票中 1113 万，过期两天兑奖被拒，起诉索赔被驳回承担 8.8 万诉讼费，怎样从法律角度解读？",
       "category": "society",
-      "hotScore": 0.45,
-      "freshness": 1,
+      "hotScore": 0.4125,
+      "freshness": 0.9995,
       "crossSource": 0.6309,
-      "totalScore": 0.6693,
+      "totalScore": 0.6541,
       "sources": [
         {
           "channel": "zhihu",
-          "rank": 9,
+          "rank": 10,
           "hot": 0,
           "url": ""
         }
@@ -272,23 +165,42 @@
       "url": ""
     },
     {
-      "id": "evt-12345000",
-      "title": "武汉12345回应步行街网约车遭围堵：非常重视，公安部门正处理",
+      "id": "evt-20000000",
+      "title": "李佳琦直播间半小时售出 2 万亿 Token，AI Token 会成为未来直播带货的热销品吗？",
       "category": "society",
-      "hotScore": 0.425,
-      "freshness": 1,
+      "hotScore": 0.375,
+      "freshness": 0.9995,
       "crossSource": 0.6309,
-      "totalScore": 0.6593,
+      "totalScore": 0.6391,
       "sources": [
         {
-          "channel": "thepaper",
+          "channel": "zhihu",
           "rank": 11,
           "hot": 0,
-          "url": "https://www.thepaper.cn/newsDetail_forward_34385750"
+          "url": ""
         }
       ],
       "summary": "",
-      "url": "https://www.thepaper.cn/newsDetail_forward_34385750"
+      "url": ""
+    },
+    {
+      "id": "evt-20260000",
+      "title": "2026 年美国中期选举，共和党与民主党谁能最终获胜？",
+      "category": "society",
+      "hotScore": 0.2625,
+      "freshness": 0.9995,
+      "crossSource": 0.6309,
+      "totalScore": 0.5941,
+      "sources": [
+        {
+          "channel": "zhihu",
+          "rank": 14,
+          "hot": 0,
+          "url": ""
+        }
+      ],
+      "summary": "",
+      "url": ""
     }
   ]
 }
