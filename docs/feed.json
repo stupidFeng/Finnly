@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-11-02T19:52:54.661Z",
+  "generatedAt": "2026-11-03T01:55:04.660Z",
   "fields": {
     "society": "社会",
     "economy": "经济",
@@ -8,54 +8,66 @@
   "feed": [
     {
       "id": "evt-00000000",
-      "title": "中国公务团组人员被瑞典警方拘押",
+      "title": "国际油价大幅下跌",
       "category": "society",
       "hotScore": 0.85,
       "freshness": 0.9999,
-      "crossSource": 0.6309,
-      "totalScore": 0.8293,
+      "crossSource": 1,
+      "totalScore": 0.94,
       "sources": [
         {
           "channel": "toutiao",
           "rank": 1,
-          "hot": 16135179,
-          "url": "https://www.toutiao.com/trending/7703489065979084809/"
+          "hot": 12822837,
+          "url": "https://www.toutiao.com/trending/7703735791394164274/"
+        },
+        {
+          "channel": "baidu",
+          "rank": 2,
+          "hot": 0,
+          "url": "https://m.baidu.com/s?word=%E5%9B%BD%E9%99%85%E6%B2%B9%E4%BB%B7%E5%A4%A7%E5%B9%85%E4%B8%8B%E8%B7%8C&sa=fyb_news"
         }
       ],
       "summary": "",
-      "url": "https://www.toutiao.com/trending/7703489065979084809/"
+      "url": "https://www.toutiao.com/trending/7703735791394164274/"
     },
     {
-      "id": "evt-11130000",
-      "title": "男子彩票中1113万过期2天兑奖被拒",
+      "id": "evt-2wtt0000",
+      "title": "樊振东2年没打WTT仍居第二",
       "category": "society",
       "hotScore": 0.8075,
       "freshness": 0.9999,
-      "crossSource": 0.6309,
-      "totalScore": 0.8123,
+      "crossSource": 1,
+      "totalScore": 0.923,
       "sources": [
         {
           "channel": "toutiao",
           "rank": 2,
-          "hot": 14599714,
-          "url": "https://www.toutiao.com/trending/7703435058945802259/"
+          "hot": 11602583,
+          "url": "https://www.toutiao.com/trending/7702845707947556902/"
+        },
+        {
+          "channel": "baidu",
+          "rank": 5,
+          "hot": 0,
+          "url": "https://m.baidu.com/s?word=%E6%A8%8A%E6%8C%AF%E4%B8%9C2%E5%B9%B4%E6%B2%A1%E6%89%93WTT%E4%BB%8D%E5%B1%85%E7%AC%AC%E4%BA%8C&sa=fyb_news"
         }
       ],
       "summary": "",
-      "url": "https://www.toutiao.com/trending/7703435058945802259/"
+      "url": "https://www.toutiao.com/trending/7702845707947556902/"
     },
     {
       "id": "evt-13000000",
       "title": "女子追讨13年前开店“保证金”申请再审被驳回：已过诉讼时效",
       "category": "society",
-      "hotScore": 0.8075,
+      "hotScore": 0.85,
       "freshness": 1,
       "crossSource": 0.6309,
-      "totalScore": 0.8123,
+      "totalScore": 0.8293,
       "sources": [
         {
           "channel": "thepaper",
-          "rank": 2,
+          "rank": 1,
           "hot": 0,
           "url": "https://www.thepaper.cn/newsDetail_forward_34387026"
         }
@@ -64,65 +76,27 @@
       "url": "https://www.thepaper.cn/newsDetail_forward_34387026"
     },
     {
-      "id": "evt-10ai0000",
-      "title": "不到10元，AI眼镜秒变“偷拍神器”！一张遮光贴就能撕开隐私红线？",
+      "id": "evt-10000000",
+      "title": "如何看待 10 元快剪正暴打全国的「设计总监」？",
       "category": "society",
-      "hotScore": 0.765,
+      "hotScore": 0.75,
       "freshness": 1,
       "crossSource": 0.6309,
-      "totalScore": 0.7953,
+      "totalScore": 0.7893,
       "sources": [
         {
-          "channel": "thepaper",
-          "rank": 3,
+          "channel": "zhihu",
+          "rank": 1,
           "hot": 0,
-          "url": "https://www.thepaper.cn/newsDetail_forward_34248283"
+          "url": ""
         }
       ],
       "summary": "",
-      "url": "https://www.thepaper.cn/newsDetail_forward_34248283"
+      "url": ""
     },
     {
-      "id": "evt-12500000",
-      "title": "央行：再贷款利率由1.25%降至1%",
-      "category": "economy",
-      "hotScore": 0.52,
-      "freshness": 1,
-      "crossSource": 0.6309,
-      "totalScore": 0.6973,
-      "sources": [
-        {
-          "channel": "baidu",
-          "rank": 8,
-          "hot": 0,
-          "url": "https://m.baidu.com/s?word=%E5%A4%AE%E8%A1%8C%EF%BC%9A%E5%86%8D%E8%B4%B7%E6%AC%BE%E5%88%A9%E7%8E%87%E7%94%B11.25%25%E9%99%8D%E8%87%B31%25&sa=fyb_news"
-        }
-      ],
-      "summary": "",
-      "url": "https://m.baidu.com/s?word=%E5%A4%AE%E8%A1%8C%EF%BC%9A%E5%86%8D%E8%B4%B7%E6%AC%BE%E5%88%A9%E7%8E%87%E7%94%B11.25%25%E9%99%8D%E8%87%B31%25&sa=fyb_news"
-    },
-    {
-      "id": "evt-11000000",
-      "title": "加油新规来了！11月起全国推行",
-      "category": "society",
-      "hotScore": 0.76,
-      "freshness": 1,
-      "crossSource": 0.6309,
-      "totalScore": 0.7933,
-      "sources": [
-        {
-          "channel": "baidu",
-          "rank": 2,
-          "hot": 0,
-          "url": "https://m.baidu.com/s?word=%E5%8A%A0%E6%B2%B9%E6%96%B0%E8%A7%84%E6%9D%A5%E4%BA%86%EF%BC%8111%E6%9C%88%E8%B5%B7%E5%85%A8%E5%9B%BD%E6%8E%A8%E8%A1%8C&sa=fyb_news"
-        }
-      ],
-      "summary": "",
-      "url": "https://m.baidu.com/s?word=%E5%8A%A0%E6%B2%B9%E6%96%B0%E8%A7%84%E6%9D%A5%E4%BA%86%EF%BC%8111%E6%9C%88%E8%B5%B7%E5%85%A8%E5%9B%BD%E6%8E%A8%E8%A1%8C&sa=fyb_news"
-    },
-    {
-      "id": "evt-24600000",
-      "title": "美国一邮轮推出 246 万元起「终身旅居」套餐，2 年后因燃油成本乘客被赶下船，怎么看邮轮的毁约行为？",
+      "id": "evt-20261000",
+      "title": "如何解读 2026 年 10 月汽车销量榜：比亚迪近 49 万稳居第一，小米、小鹏齐破 5 万，鸿蒙智行同比却腰斩？",
       "category": "society",
       "hotScore": 0.7125,
       "freshness": 1,
@@ -151,7 +125,7 @@
         {
           "channel": "toutiao",
           "rank": 11,
-          "hot": 5935800,
+          "hot": 4717258,
           "url": "https://www.toutiao.com/trending/7703391910693748772/"
         },
         {
@@ -165,80 +139,17 @@
       "url": "https://www.toutiao.com/trending/7703391910693748772/"
     },
     {
-      "id": "evt-20000000",
-      "title": "李佳琦直播间半小时卖出2万亿Token",
-      "category": "society",
-      "hotScore": 0.64,
-      "freshness": 1,
-      "crossSource": 0.6309,
-      "totalScore": 0.7453,
-      "sources": [
-        {
-          "channel": "baidu",
-          "rank": 5,
-          "hot": 0,
-          "url": "https://m.baidu.com/s?word=%E6%9D%8E%E4%BD%B3%E7%90%A6%E7%9B%B4%E6%92%AD%E9%97%B4%E5%8D%8A%E5%B0%8F%E6%97%B6%E5%8D%96%E5%87%BA2%E4%B8%87%E4%BA%BFToken&sa=fyb_news"
-        }
-      ],
-      "summary": "",
-      "url": "https://m.baidu.com/s?word=%E6%9D%8E%E4%BD%B3%E7%90%A6%E7%9B%B4%E6%92%AD%E9%97%B4%E5%8D%8A%E5%B0%8F%E6%97%B6%E5%8D%96%E5%87%BA2%E4%B8%87%E4%BA%BFToken&sa=fyb_news"
-    },
-    {
-      "id": "evt-10000000",
-      "title": "马上测｜实测儿童手表“壁垒”（1）：充电接口各行其是，配件难互通",
-      "category": "society",
-      "hotScore": 0.6375,
-      "freshness": 1,
-      "crossSource": 0.6309,
-      "totalScore": 0.7443,
-      "sources": [
-        {
-          "channel": "thepaper",
-          "rank": 6,
-          "hot": 0,
-          "url": "https://www.thepaper.cn/newsDetail_forward_34382238"
-        }
-      ],
-      "summary": "",
-      "url": "https://www.thepaper.cn/newsDetail_forward_34382238"
-    },
-    {
-      "id": "evt-a0000000",
-      "title": "A股将迎千亿级增量资金",
-      "category": "society",
-      "hotScore": 0.34,
-      "freshness": 0.9999,
-      "crossSource": 1,
-      "totalScore": 0.736,
-      "sources": [
-        {
-          "channel": "toutiao",
-          "rank": 13,
-          "hot": 4859822,
-          "url": "https://www.toutiao.com/trending/7703570400688475689/"
-        },
-        {
-          "channel": "baidu",
-          "rank": 17,
-          "hot": 0,
-          "url": "https://m.baidu.com/s?word=A%E8%82%A1%E5%B0%86%E8%BF%8E%E5%8D%83%E4%BA%BF%E7%BA%A7%E5%A2%9E%E9%87%8F%E8%B5%84%E9%87%91&sa=fyb_news"
-        }
-      ],
-      "summary": "",
-      "url": "https://www.toutiao.com/trending/7703570400688475689/"
-    },
-    {
       "id": "evt-19000000",
       "title": "难以“造王”的19席：大选折射以色列阿拉伯人的力量与尴尬",
       "category": "society",
-      "hotScore": 0.595,
+      "hotScore": 0.68,
       "freshness": 1,
       "crossSource": 0.6309,
-      "totalScore": 0.7273,
+      "totalScore": 0.7613,
       "sources": [
         {
           "channel": "thepaper",
-          "rank": 7,
+          "rank": 5,
           "hot": 0,
           "url": "https://www.thepaper.cn/newsDetail_forward_34386031"
         }
@@ -247,8 +158,65 @@
       "url": "https://www.thepaper.cn/newsDetail_forward_34386031"
     },
     {
-      "id": "evt-u0000000",
-      "title": "联想指纹加密 U 盘被曝拆壳即可明文读取数据，为何硬件加密会形同虚设？",
+      "id": "evt-offer800",
+      "title": "网传《offer8》「垫钱姐」周沁瑶论文疑似造假，已经面临延毕，她的论文疑点可能在哪里呢？",
+      "category": "society",
+      "hotScore": 0.675,
+      "freshness": 1,
+      "crossSource": 0.6309,
+      "totalScore": 0.7593,
+      "sources": [
+        {
+          "channel": "zhihu",
+          "rank": 3,
+          "hot": 0,
+          "url": ""
+        }
+      ],
+      "summary": "",
+      "url": ""
+    },
+    {
+      "id": "evt-ai000000",
+      "title": "中国AI灭蚊神器引爆全球订单",
+      "category": "society",
+      "hotScore": 0.6,
+      "freshness": 1,
+      "crossSource": 0.6309,
+      "totalScore": 0.7293,
+      "sources": [
+        {
+          "channel": "baidu",
+          "rank": 6,
+          "hot": 0,
+          "url": "https://m.baidu.com/s?word=%E4%B8%AD%E5%9B%BDAI%E7%81%AD%E8%9A%8A%E7%A5%9E%E5%99%A8%E5%BC%95%E7%88%86%E5%85%A8%E7%90%83%E8%AE%A2%E5%8D%95&sa=fyb_news"
+        }
+      ],
+      "summary": "",
+      "url": "https://m.baidu.com/s?word=%E4%B8%AD%E5%9B%BDAI%E7%81%AD%E8%9A%8A%E7%A5%9E%E5%99%A8%E5%BC%95%E7%88%86%E5%85%A8%E7%90%83%E8%AE%A2%E5%8D%95&sa=fyb_news"
+    },
+    {
+      "id": "evt-60000000",
+      "title": "巩立姣退役后减重60多斤",
+      "category": "society",
+      "hotScore": 0.56,
+      "freshness": 1,
+      "crossSource": 0.6309,
+      "totalScore": 0.7133,
+      "sources": [
+        {
+          "channel": "baidu",
+          "rank": 7,
+          "hot": 0,
+          "url": "https://m.baidu.com/s?word=%E5%B7%A9%E7%AB%8B%E5%A7%A3%E9%80%80%E5%BD%B9%E5%90%8E%E5%87%8F%E9%87%8D60%E5%A4%9A%E6%96%A4&sa=fyb_news"
+        }
+      ],
+      "summary": "",
+      "url": "https://m.baidu.com/s?word=%E5%B7%A9%E7%AB%8B%E5%A7%A3%E9%80%80%E5%BD%B9%E5%90%8E%E5%87%8F%E9%87%8D60%E5%A4%9A%E6%96%A4&sa=fyb_news"
+    },
+    {
+      "id": "evt-11200000",
+      "title": "如何看待新华社在 11 月 2 日发表的文章《国乒男队怎么了？》中表示「男子乒坛多极格局已成」?",
       "category": "society",
       "hotScore": 0.525,
       "freshness": 1,
@@ -266,42 +234,61 @@
       "url": ""
     },
     {
-      "id": "evt-56000000",
-      "title": "导演江小鱼去世 年仅56岁",
+      "id": "evt-31000000",
+      "title": "全球每3把伞有1把来自这里",
       "category": "society",
-      "hotScore": 0.51,
-      "freshness": 0.9999,
+      "hotScore": 0.48,
+      "freshness": 1,
       "crossSource": 0.6309,
-      "totalScore": 0.6933,
+      "totalScore": 0.6813,
       "sources": [
         {
-          "channel": "toutiao",
+          "channel": "baidu",
           "rank": 9,
-          "hot": 7250003,
-          "url": "https://www.toutiao.com/trending/7703012723939934246/"
+          "hot": 0,
+          "url": "https://m.baidu.com/s?word=%E5%85%A8%E7%90%83%E6%AF%8F3%E6%8A%8A%E4%BC%9E%E6%9C%891%E6%8A%8A%E6%9D%A5%E8%87%AA%E8%BF%99%E9%87%8C&sa=fyb_news"
         }
       ],
       "summary": "",
-      "url": "https://www.toutiao.com/trending/7703012723939934246/"
+      "url": "https://m.baidu.com/s?word=%E5%85%A8%E7%90%83%E6%AF%8F3%E6%8A%8A%E4%BC%9E%E6%9C%891%E6%8A%8A%E6%9D%A5%E8%87%AA%E8%BF%99%E9%87%8C&sa=fyb_news"
     },
     {
-      "id": "evt-binze000",
-      "title": "Bin 赛后采访称「都说 Zeus 是世一上，今天我击败了他就接替了他的位置」对此你有什么想说的？",
+      "id": "evt-32111000",
+      "title": "男子 32 元买彩票中 1113 万，过期两天兑奖被拒，起诉索赔被驳回承担 8.8 万诉讼费，怎样从法律角度解读？",
       "category": "society",
-      "hotScore": 0.4875,
+      "hotScore": 0.45,
       "freshness": 1,
       "crossSource": 0.6309,
-      "totalScore": 0.6843,
+      "totalScore": 0.6693,
       "sources": [
         {
           "channel": "zhihu",
-          "rank": 8,
+          "rank": 9,
           "hot": 0,
           "url": ""
         }
       ],
       "summary": "",
       "url": ""
+    },
+    {
+      "id": "evt-12345000",
+      "title": "武汉12345回应步行街网约车遭围堵：非常重视，公安部门正处理",
+      "category": "society",
+      "hotScore": 0.425,
+      "freshness": 1,
+      "crossSource": 0.6309,
+      "totalScore": 0.6593,
+      "sources": [
+        {
+          "channel": "thepaper",
+          "rank": 11,
+          "hot": 0,
+          "url": "https://www.thepaper.cn/newsDetail_forward_34385750"
+        }
+      ],
+      "summary": "",
+      "url": "https://www.thepaper.cn/newsDetail_forward_34385750"
     }
   ]
 }
