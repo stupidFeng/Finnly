@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-11-03T08:48:43.853Z",
+  "generatedAt": "2026-11-03T17:25:22.494Z",
   "fields": {
     "society": "社会",
     "economy": "经济",
@@ -8,37 +8,56 @@
   "feed": [
     {
       "id": "evt-00000000",
-      "title": "刘延东遗体在京火化",
+      "title": "王毅同菲律宾外长拉扎罗通电话",
       "category": "society",
-      "hotScore": 0.85,
-      "freshness": 0.9995,
+      "hotScore": 0.7225,
+      "freshness": 0.9998,
       "crossSource": 1,
-      "totalScore": 0.9398,
+      "totalScore": 0.8889,
       "sources": [
         {
           "channel": "toutiao",
-          "rank": 1,
-          "hot": 11003588,
-          "url": "https://www.toutiao.com/trending/7702985726727766059/"
+          "rank": 4,
+          "hot": 18359373,
+          "url": "https://www.toutiao.com/trending/7703943117268107318/"
         },
+        {
+          "channel": "baidu",
+          "rank": 13,
+          "hot": 0,
+          "url": "https://m.baidu.com/s?word=%E7%8E%8B%E6%AF%85%E5%90%8C%E8%8F%B2%E5%BE%8B%E5%AE%BE%E5%A4%96%E9%95%BF%E6%8B%89%E6%89%8E%E7%BD%97%E9%80%9A%E7%94%B5%E8%AF%9D&sa=fyb_news"
+        }
+      ],
+      "summary": "",
+      "url": "https://www.toutiao.com/trending/7703943117268107318/"
+    },
+    {
+      "id": "evt-10000000",
+      "title": "10月新能源汽车销量榜：特斯拉跌至第8",
+      "category": "society",
+      "hotScore": 0.76,
+      "freshness": 1,
+      "crossSource": 0.6309,
+      "totalScore": 0.7933,
+      "sources": [
         {
           "channel": "baidu",
           "rank": 2,
           "hot": 0,
-          "url": "https://m.baidu.com/s?word=%E5%88%98%E5%BB%B6%E4%B8%9C%E9%81%97%E4%BD%93%E5%9C%A8%E4%BA%AC%E7%81%AB%E5%8C%96&sa=fyb_news"
+          "url": "https://m.baidu.com/s?word=10%E6%9C%88%E6%96%B0%E8%83%BD%E6%BA%90%E6%B1%BD%E8%BD%A6%E9%94%80%E9%87%8F%E6%A6%9C%EF%BC%9A%E7%89%B9%E6%96%AF%E6%8B%89%E8%B7%8C%E8%87%B3%E7%AC%AC8&sa=fyb_news"
         }
       ],
       "summary": "",
-      "url": "https://www.toutiao.com/trending/7702985726727766059/"
+      "url": "https://m.baidu.com/s?word=10%E6%9C%88%E6%96%B0%E8%83%BD%E6%BA%90%E6%B1%BD%E8%BD%A6%E9%94%80%E9%87%8F%E6%A6%9C%EF%BC%9A%E7%89%B9%E6%96%AF%E6%8B%89%E8%B7%8C%E8%87%B3%E7%AC%AC8&sa=fyb_news"
     },
     {
-      "id": "evt-10000000",
-      "title": "如何看待 10 元快剪正暴打全国的「设计总监」？",
+      "id": "evt-30000000",
+      "title": "男子被拐 30 余年后认亲，拉黑养家并断联，称一辈子不原谅，如何看待其决绝态度？这算忘恩负义吗？",
       "category": "society",
       "hotScore": 0.75,
-      "freshness": 0.9995,
+      "freshness": 0.9998,
       "crossSource": 0.6309,
-      "totalScore": 0.7891,
+      "totalScore": 0.7892,
       "sources": [
         {
           "channel": "zhihu",
@@ -51,51 +70,70 @@
       "url": ""
     },
     {
-      "id": "evt-20360000",
-      "title": "中国不申办2036年奥运会",
-      "category": "society",
-      "hotScore": 0.72,
-      "freshness": 0.9995,
-      "crossSource": 0.6309,
-      "totalScore": 0.7771,
-      "sources": [
-        {
-          "channel": "baidu",
-          "rank": 3,
-          "hot": 0,
-          "url": "https://m.baidu.com/s?word=%E4%B8%AD%E5%9B%BD%E4%B8%8D%E7%94%B3%E5%8A%9E2036%E5%B9%B4%E5%A5%A5%E8%BF%90%E4%BC%9A&sa=fyb_news"
-        }
-      ],
-      "summary": "",
-      "url": "https://m.baidu.com/s?word=%E4%B8%AD%E5%9B%BD%E4%B8%8D%E7%94%B3%E5%8A%9E2036%E5%B9%B4%E5%A5%A5%E8%BF%90%E4%BC%9A&sa=fyb_news"
-    },
-    {
-      "id": "evt-90000000",
-      "title": "9组数字 速览第九届进博会",
+      "id": "evt-6g000000",
+      "title": "6G来了 离我们还有多远",
       "category": "society",
       "hotScore": 0.68,
-      "freshness": 0.9995,
+      "freshness": 1,
       "crossSource": 0.6309,
-      "totalScore": 0.7611,
+      "totalScore": 0.7613,
       "sources": [
         {
           "channel": "baidu",
           "rank": 4,
           "hot": 0,
-          "url": "https://m.baidu.com/s?word=9%E7%BB%84%E6%95%B0%E5%AD%97+%E9%80%9F%E8%A7%88%E7%AC%AC%E4%B9%9D%E5%B1%8A%E8%BF%9B%E5%8D%9A%E4%BC%9A&sa=fyb_news"
+          "url": "https://m.baidu.com/s?word=6G%E6%9D%A5%E4%BA%86+%E7%A6%BB%E6%88%91%E4%BB%AC%E8%BF%98%E6%9C%89%E5%A4%9A%E8%BF%9C&sa=fyb_news"
         }
       ],
       "summary": "",
-      "url": "https://m.baidu.com/s?word=9%E7%BB%84%E6%95%B0%E5%AD%97+%E9%80%9F%E8%A7%88%E7%AC%AC%E4%B9%9D%E5%B1%8A%E8%BF%9B%E5%8D%9A%E4%BC%9A&sa=fyb_news"
+      "url": "https://m.baidu.com/s?word=6G%E6%9D%A5%E4%BA%86+%E7%A6%BB%E6%88%91%E4%BB%AC%E8%BF%98%E6%9C%89%E5%A4%9A%E8%BF%9C&sa=fyb_news"
     },
     {
-      "id": "evt-app00000",
-      "title": "红果短剧登顶台湾 App 下载榜首，有人退订 Netflix，背后的原因是什么？",
+      "id": "evt-36000000",
+      "title": "上班族每月花3600元住酒店代租房",
+      "category": "society",
+      "hotScore": 0.68,
+      "freshness": 0.9998,
+      "crossSource": 0.6309,
+      "totalScore": 0.7612,
+      "sources": [
+        {
+          "channel": "toutiao",
+          "rank": 5,
+          "hot": 16612248,
+          "url": "https://www.toutiao.com/trending/7703864526215102506/"
+        }
+      ],
+      "summary": "",
+      "url": "https://www.toutiao.com/trending/7703864526215102506/"
+    },
+    {
+      "id": "evt-deepseekha",
+      "title": "基于 DeepSeek Harness 的手机插件 DSH Go 上线后 Star 破 4 千，实际体验如何？",
+      "category": "society",
+      "hotScore": 0.675,
+      "freshness": 0.9998,
+      "crossSource": 0.6309,
+      "totalScore": 0.7592,
+      "sources": [
+        {
+          "channel": "zhihu",
+          "rank": 3,
+          "hot": 0,
+          "url": ""
+        }
+      ],
+      "summary": "",
+      "url": ""
+    },
+    {
+      "id": "evt-21000000",
+      "title": "武汉一小区爆燃致 2 死 1 伤，调查、处置工作正在进行中，目前情况如何？",
       "category": "society",
       "hotScore": 0.6375,
-      "freshness": 0.9995,
+      "freshness": 0.9998,
       "crossSource": 0.6309,
-      "totalScore": 0.7441,
+      "totalScore": 0.7442,
       "sources": [
         {
           "channel": "zhihu",
@@ -108,13 +146,51 @@
       "url": ""
     },
     {
-      "id": "evt-11200000",
-      "title": "如何看待新华社在 11 月 2 日发表的文章《国乒男队怎么了？》中表示「男子乒坛多极格局已成」?",
+      "id": "evt-ucl00000",
+      "title": "清华毕业生 UCL 留学疑遭电诈，账户陆续转出数十万元，邮箱最新留言「我人平安，被诈骗了」，如何看待此事？",
+      "category": "society",
+      "hotScore": 0.6,
+      "freshness": 0.9998,
+      "crossSource": 0.6309,
+      "totalScore": 0.7292,
+      "sources": [
+        {
+          "channel": "zhihu",
+          "rank": 5,
+          "hot": 0,
+          "url": ""
+        }
+      ],
+      "summary": "",
+      "url": ""
+    },
+    {
+      "id": "evt-80000000",
+      "title": "8000元网购西高地犬后“仅退款”案件将开庭，卖家曾驱车600公里寻狗",
+      "category": "society",
+      "hotScore": 0.595,
+      "freshness": 0.9999,
+      "crossSource": 0.6309,
+      "totalScore": 0.7272,
+      "sources": [
+        {
+          "channel": "thepaper",
+          "rank": 7,
+          "hot": 0,
+          "url": "https://www.thepaper.cn/newsDetail_forward_34394801"
+        }
+      ],
+      "summary": "",
+      "url": "https://www.thepaper.cn/newsDetail_forward_34394801"
+    },
+    {
+      "id": "evt-20260000",
+      "title": "2026 年美国中期选举，共和党与民主党谁能最终获胜？",
       "category": "society",
       "hotScore": 0.5625,
-      "freshness": 0.9995,
+      "freshness": 0.9998,
       "crossSource": 0.6309,
-      "totalScore": 0.7141,
+      "totalScore": 0.7142,
       "sources": [
         {
           "channel": "zhihu",
@@ -127,80 +203,99 @@
       "url": ""
     },
     {
-      "id": "evt-20261000",
-      "title": "如何解读 2026 年 10 月汽车销量榜：比亚迪近 49 万稳居第一，小米、小鹏齐破 5 万，鸿蒙智行同比却腰斩？",
+      "id": "evt-60000000",
+      "title": "深圳600年古村捡来的花瀑逆袭成景",
       "category": "society",
-      "hotScore": 0.4875,
-      "freshness": 0.9995,
+      "hotScore": 0.56,
+      "freshness": 1,
       "crossSource": 0.6309,
-      "totalScore": 0.6841,
+      "totalScore": 0.7133,
+      "sources": [
+        {
+          "channel": "baidu",
+          "rank": 7,
+          "hot": 0,
+          "url": "https://m.baidu.com/s?word=%E6%B7%B1%E5%9C%B3600%E5%B9%B4%E5%8F%A4%E6%9D%91%E6%8D%A1%E6%9D%A5%E7%9A%84%E8%8A%B1%E7%80%91%E9%80%86%E8%A2%AD%E6%88%90%E6%99%AF&sa=fyb_news"
+        }
+      ],
+      "summary": "",
+      "url": "https://m.baidu.com/s?word=%E6%B7%B1%E5%9C%B3600%E5%B9%B4%E5%8F%A4%E6%9D%91%E6%8D%A1%E6%9D%A5%E7%9A%84%E8%8A%B1%E7%80%91%E9%80%86%E8%A2%AD%E6%88%90%E6%99%AF&sa=fyb_news"
+    },
+    {
+      "id": "evt-v0000000",
+      "title": "大V：菲律宾在东盟防长扩大会出洋相",
+      "category": "society",
+      "hotScore": 0.5525,
+      "freshness": 0.9998,
+      "crossSource": 0.6309,
+      "totalScore": 0.7102,
+      "sources": [
+        {
+          "channel": "toutiao",
+          "rank": 8,
+          "hot": 12306656,
+          "url": "https://www.toutiao.com/trending/7703957478559452708/"
+        }
+      ],
+      "summary": "",
+      "url": "https://www.toutiao.com/trending/7703957478559452708/"
+    },
+    {
+      "id": "evt-26800000",
+      "title": "影之刃零卖 268，但游戏中一章「庞镇」的体量就已远超很多大型游戏的全部体量，这会卷死同行或后来者吗？",
+      "category": "society",
+      "hotScore": 0.525,
+      "freshness": 0.9998,
+      "crossSource": 0.6309,
+      "totalScore": 0.6992,
       "sources": [
         {
           "channel": "zhihu",
+          "rank": 7,
+          "hot": 0,
+          "url": ""
+        }
+      ],
+      "summary": "",
+      "url": ""
+    },
+    {
+      "id": "evt-20020000",
+      "title": "加200元油开了2公里发现没加上",
+      "category": "society",
+      "hotScore": 0.52,
+      "freshness": 1,
+      "crossSource": 0.6309,
+      "totalScore": 0.6973,
+      "sources": [
+        {
+          "channel": "baidu",
           "rank": 8,
           "hot": 0,
-          "url": ""
+          "url": "https://m.baidu.com/s?word=%E5%8A%A0200%E5%85%83%E6%B2%B9%E5%BC%80%E4%BA%862%E5%85%AC%E9%87%8C%E5%8F%91%E7%8E%B0%E6%B2%A1%E5%8A%A0%E4%B8%8A&sa=fyb_news"
         }
       ],
       "summary": "",
-      "url": ""
+      "url": "https://m.baidu.com/s?word=%E5%8A%A0200%E5%85%83%E6%B2%B9%E5%BC%80%E4%BA%862%E5%85%AC%E9%87%8C%E5%8F%91%E7%8E%B0%E6%B2%A1%E5%8A%A0%E4%B8%8A&sa=fyb_news"
     },
     {
-      "id": "evt-32111000",
-      "title": "男子 32 元买彩票中 1113 万，过期两天兑奖被拒，起诉索赔被驳回承担 8.8 万诉讼费，怎样从法律角度解读？",
+      "id": "evt-67500000",
+      "title": "受贿6750万余元，东航原董事长刘绍勇一审被判十四年",
       "category": "society",
-      "hotScore": 0.4125,
-      "freshness": 0.9995,
+      "hotScore": 0.4675,
+      "freshness": 0.9999,
       "crossSource": 0.6309,
-      "totalScore": 0.6541,
+      "totalScore": 0.6762,
       "sources": [
         {
-          "channel": "zhihu",
+          "channel": "thepaper",
           "rank": 10,
           "hot": 0,
-          "url": ""
+          "url": "https://www.thepaper.cn/newsDetail_forward_34395921"
         }
       ],
       "summary": "",
-      "url": ""
-    },
-    {
-      "id": "evt-20000000",
-      "title": "李佳琦直播间半小时售出 2 万亿 Token，AI Token 会成为未来直播带货的热销品吗？",
-      "category": "society",
-      "hotScore": 0.375,
-      "freshness": 0.9995,
-      "crossSource": 0.6309,
-      "totalScore": 0.6391,
-      "sources": [
-        {
-          "channel": "zhihu",
-          "rank": 11,
-          "hot": 0,
-          "url": ""
-        }
-      ],
-      "summary": "",
-      "url": ""
-    },
-    {
-      "id": "evt-20260000",
-      "title": "2026 年美国中期选举，共和党与民主党谁能最终获胜？",
-      "category": "society",
-      "hotScore": 0.2625,
-      "freshness": 0.9995,
-      "crossSource": 0.6309,
-      "totalScore": 0.5941,
-      "sources": [
-        {
-          "channel": "zhihu",
-          "rank": 14,
-          "hot": 0,
-          "url": ""
-        }
-      ],
-      "summary": "",
-      "url": ""
+      "url": "https://www.thepaper.cn/newsDetail_forward_34395921"
     }
   ]
 }
