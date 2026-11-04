@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-11-03T22:40:58.291Z",
+  "generatedAt": "2026-11-04T03:51:59.949Z",
   "fields": {
     "society": "社会",
     "economy": "经济",
@@ -8,56 +8,50 @@
   "feed": [
     {
       "id": "evt-00000000",
-      "title": "王毅同菲律宾外长拉扎罗通电话",
+      "title": "越南高铁未开建就提供应商本土化",
       "category": "society",
-      "hotScore": 0.7225,
+      "hotScore": 0.85,
       "freshness": 1,
       "crossSource": 1,
-      "totalScore": 0.889,
+      "totalScore": 0.94,
       "sources": [
         {
           "channel": "toutiao",
-          "rank": 4,
-          "hot": 19597384,
-          "url": "https://www.toutiao.com/trending/7703943117268107318/"
-        },
-        {
-          "channel": "baidu",
-          "rank": 13,
-          "hot": 0,
-          "url": "https://m.baidu.com/s?word=%E7%8E%8B%E6%AF%85%E5%90%8C%E8%8F%B2%E5%BE%8B%E5%AE%BE%E5%A4%96%E9%95%BF%E6%8B%89%E6%89%8E%E7%BD%97%E9%80%9A%E7%94%B5%E8%AF%9D&sa=fyb_news"
+          "rank": 1,
+          "hot": 9170124,
+          "url": "https://www.toutiao.com/trending/7704122253796986395/"
         }
       ],
       "summary": "",
-      "url": "https://www.toutiao.com/trending/7703943117268107318/"
+      "url": "https://www.toutiao.com/trending/7704122253796986395/"
     },
     {
-      "id": "evt-10000000",
-      "title": "10月新能源汽车销量榜：特斯拉跌至第8",
+      "id": "evt-54000000",
+      "title": "老人花5万换4家医院没查出病因",
       "category": "society",
-      "hotScore": 0.76,
+      "hotScore": 0.8075,
       "freshness": 1,
-      "crossSource": 0.6309,
-      "totalScore": 0.7933,
+      "crossSource": 1,
+      "totalScore": 0.923,
       "sources": [
         {
-          "channel": "baidu",
+          "channel": "toutiao",
           "rank": 2,
-          "hot": 0,
-          "url": "https://m.baidu.com/s?word=10%E6%9C%88%E6%96%B0%E8%83%BD%E6%BA%90%E6%B1%BD%E8%BD%A6%E9%94%80%E9%87%8F%E6%A6%9C%EF%BC%9A%E7%89%B9%E6%96%AF%E6%8B%89%E8%B7%8C%E8%87%B3%E7%AC%AC8&sa=fyb_news"
+          "hot": 8297471,
+          "url": "https://www.toutiao.com/trending/7703947992398757930/"
         }
       ],
       "summary": "",
-      "url": "https://m.baidu.com/s?word=10%E6%9C%88%E6%96%B0%E8%83%BD%E6%BA%90%E6%B1%BD%E8%BD%A6%E9%94%80%E9%87%8F%E6%A6%9C%EF%BC%9A%E7%89%B9%E6%96%AF%E6%8B%89%E8%B7%8C%E8%87%B3%E7%AC%AC8&sa=fyb_news"
+      "url": "https://www.toutiao.com/trending/7703947992398757930/"
     },
     {
-      "id": "evt-21000000",
-      "title": "武汉一小区爆燃致 2 死 1 伤，调查、处置工作正在进行中，目前情况如何？",
+      "id": "evt-s16ig310",
+      "title": "S16 淘汰赛 iG 3:1 击败 TES 时隔七年重回四强，如何评价这场比赛？",
       "category": "society",
       "hotScore": 0.75,
       "freshness": 1,
-      "crossSource": 0.6309,
-      "totalScore": 0.7893,
+      "crossSource": 1,
+      "totalScore": 0.9,
       "sources": [
         {
           "channel": "zhihu",
@@ -70,32 +64,70 @@
       "url": ""
     },
     {
-      "id": "evt-6g000000",
-      "title": "6G来了 离我们还有多远",
+      "id": "evt-10000000",
+      "title": "张雪回应“校招年薪10万起被嫌低”",
+      "category": "society",
+      "hotScore": 0.72,
+      "freshness": 1,
+      "crossSource": 1,
+      "totalScore": 0.888,
+      "sources": [
+        {
+          "channel": "baidu",
+          "rank": 3,
+          "hot": 0,
+          "url": "https://m.baidu.com/s?word=%E5%BC%A0%E9%9B%AA%E5%9B%9E%E5%BA%94%E2%80%9C%E6%A0%A1%E6%8B%9B%E5%B9%B4%E8%96%AA10%E4%B8%87%E8%B5%B7%E8%A2%AB%E5%AB%8C%E4%BD%8E%E2%80%9D&sa=fyb_news"
+        }
+      ],
+      "summary": "",
+      "url": "https://m.baidu.com/s?word=%E5%BC%A0%E9%9B%AA%E5%9B%9E%E5%BA%94%E2%80%9C%E6%A0%A1%E6%8B%9B%E5%B9%B4%E8%96%AA10%E4%B8%87%E8%B5%B7%E8%A2%AB%E5%AB%8C%E4%BD%8E%E2%80%9D&sa=fyb_news"
+    },
+    {
+      "id": "evt-20000000",
+      "title": "英国男子卡尔布什比徒步 28 年环游地球一圈回家，一路经历了哪些难以想象的挑战？这样的坚持意味着什么？",
+      "category": "society",
+      "hotScore": 0.7125,
+      "freshness": 1,
+      "crossSource": 1,
+      "totalScore": 0.885,
+      "sources": [
+        {
+          "channel": "zhihu",
+          "rank": 2,
+          "hot": 0,
+          "url": ""
+        }
+      ],
+      "summary": "",
+      "url": ""
+    },
+    {
+      "id": "evt-90000000",
+      "title": "9图看中国互联网发展最新成就",
       "category": "society",
       "hotScore": 0.68,
       "freshness": 1,
-      "crossSource": 0.6309,
-      "totalScore": 0.7613,
+      "crossSource": 1,
+      "totalScore": 0.872,
       "sources": [
         {
           "channel": "baidu",
           "rank": 4,
           "hot": 0,
-          "url": "https://m.baidu.com/s?word=6G%E6%9D%A5%E4%BA%86+%E7%A6%BB%E6%88%91%E4%BB%AC%E8%BF%98%E6%9C%89%E5%A4%9A%E8%BF%9C&sa=fyb_news"
+          "url": "https://m.baidu.com/s?word=9%E5%9B%BE%E7%9C%8B%E4%B8%AD%E5%9B%BD%E4%BA%92%E8%81%94%E7%BD%91%E5%8F%91%E5%B1%95%E6%9C%80%E6%96%B0%E6%88%90%E5%B0%B1&sa=fyb_news"
         }
       ],
       "summary": "",
-      "url": "https://m.baidu.com/s?word=6G%E6%9D%A5%E4%BA%86+%E7%A6%BB%E6%88%91%E4%BB%AC%E8%BF%98%E6%9C%89%E5%A4%9A%E8%BF%9C&sa=fyb_news"
+      "url": "https://m.baidu.com/s?word=9%E5%9B%BE%E7%9C%8B%E4%B8%AD%E5%9B%BD%E4%BA%92%E8%81%94%E7%BD%91%E5%8F%91%E5%B1%95%E6%9C%80%E6%96%B0%E6%88%90%E5%B0%B1&sa=fyb_news"
     },
     {
-      "id": "evt-deepseekha",
-      "title": "基于 DeepSeek Harness 的手机插件 DSH Go 上线后 Star 破 4 千，实际体验如何？",
+      "id": "evt-40000000",
+      "title": "胡歌自曝过了 40 岁身体开始走下坡路，已戒烟很久，出差会背 AED，年龄真是分水岭吗？这些措施用处有多大？",
       "category": "society",
       "hotScore": 0.675,
       "freshness": 1,
-      "crossSource": 0.6309,
-      "totalScore": 0.7593,
+      "crossSource": 1,
+      "totalScore": 0.87,
       "sources": [
         {
           "channel": "zhihu",
@@ -108,13 +140,32 @@
       "url": ""
     },
     {
-      "id": "evt-ucl00000",
-      "title": "清华毕业生 UCL 留学疑遭电诈，账户陆续转出数十万元，邮箱最新留言「我人平安，被诈骗了」，如何看待此事？",
+      "id": "evt-bug30000",
+      "title": "苹果天气bug：多地零下32℃",
       "category": "society",
       "hotScore": 0.6375,
       "freshness": 1,
-      "crossSource": 0.6309,
-      "totalScore": 0.7443,
+      "crossSource": 1,
+      "totalScore": 0.855,
+      "sources": [
+        {
+          "channel": "toutiao",
+          "rank": 6,
+          "hot": 5561961,
+          "url": "https://www.toutiao.com/trending/7704052680632598537/"
+        }
+      ],
+      "summary": "",
+      "url": "https://www.toutiao.com/trending/7704052680632598537/"
+    },
+    {
+      "id": "evt-19000000",
+      "title": "两人分 1 亿元，对方给自己 9999 万 9999，只给你 1 元，若你拒绝双方都会失去全部收益，你会接受吗？",
+      "category": "society",
+      "hotScore": 0.6375,
+      "freshness": 1,
+      "crossSource": 1,
+      "totalScore": 0.855,
       "sources": [
         {
           "channel": "zhihu",
@@ -127,13 +178,32 @@
       "url": ""
     },
     {
-      "id": "evt-ai000000",
-      "title": "AI 零代码手写算子速度比 DeepSeek 人类手写巅峰还快 9.8%，这意味着什么？",
+      "id": "evt-igtess16",
+      "title": "IG淘汰TES 挺进S16半决赛",
       "category": "society",
       "hotScore": 0.6,
       "freshness": 1,
-      "crossSource": 0.6309,
-      "totalScore": 0.7293,
+      "crossSource": 1,
+      "totalScore": 0.84,
+      "sources": [
+        {
+          "channel": "baidu",
+          "rank": 6,
+          "hot": 0,
+          "url": "https://m.baidu.com/s?word=IG%E6%B7%98%E6%B1%B0TES+%E6%8C%BA%E8%BF%9BS16%E5%8D%8A%E5%86%B3%E8%B5%9B&sa=fyb_news"
+        }
+      ],
+      "summary": "",
+      "url": "https://m.baidu.com/s?word=IG%E6%B7%98%E6%B1%B0TES+%E6%8C%BA%E8%BF%9BS16%E5%8D%8A%E5%86%B3%E8%B5%9B&sa=fyb_news"
+    },
+    {
+      "id": "evt-13000000",
+      "title": "苹果手机显示 13 日多地气温低至 -30℃，这是怎么回事？是什么问题导致了这种 bug？",
+      "category": "society",
+      "hotScore": 0.6,
+      "freshness": 1,
+      "crossSource": 1,
+      "totalScore": 0.84,
       "sources": [
         {
           "channel": "zhihu",
@@ -146,99 +216,80 @@
       "url": ""
     },
     {
-      "id": "evt-30000000",
-      "title": "男子被拐 30 余年后认亲，拉黑养家并断联，称一辈子不原谅，如何看待其决绝态度？这算忘恩负义吗？",
+      "id": "evt-56800000",
+      "title": "“还是沈阳”5天秋假迎客6.8万人次",
       "category": "society",
-      "hotScore": 0.5625,
+      "hotScore": 0.595,
       "freshness": 1,
-      "crossSource": 0.6309,
-      "totalScore": 0.7143,
-      "sources": [
-        {
-          "channel": "zhihu",
-          "rank": 6,
-          "hot": 0,
-          "url": ""
-        }
-      ],
-      "summary": "",
-      "url": ""
-    },
-    {
-      "id": "evt-17000000",
-      "title": "17 岁男生被人冒充警察骗出家殴打，被告三人均当庭认罪认罚，将择期宣判，三人可能承担哪些法律责任？",
-      "category": "society",
-      "hotScore": 0.525,
-      "freshness": 1,
-      "crossSource": 0.6309,
-      "totalScore": 0.6993,
-      "sources": [
-        {
-          "channel": "zhihu",
-          "rank": 7,
-          "hot": 0,
-          "url": ""
-        }
-      ],
-      "summary": "",
-      "url": ""
-    },
-    {
-      "id": "evt-20020000",
-      "title": "加200元油开了2公里发现没加上",
-      "category": "society",
-      "hotScore": 0.52,
-      "freshness": 1,
-      "crossSource": 0.6309,
-      "totalScore": 0.6973,
-      "sources": [
-        {
-          "channel": "baidu",
-          "rank": 8,
-          "hot": 0,
-          "url": "https://m.baidu.com/s?word=%E5%8A%A0200%E5%85%83%E6%B2%B9%E5%BC%80%E4%BA%862%E5%85%AC%E9%87%8C%E5%8F%91%E7%8E%B0%E6%B2%A1%E5%8A%A0%E4%B8%8A&sa=fyb_news"
-        }
-      ],
-      "summary": "",
-      "url": "https://m.baidu.com/s?word=%E5%8A%A0200%E5%85%83%E6%B2%B9%E5%BC%80%E4%BA%862%E5%85%AC%E9%87%8C%E5%8F%91%E7%8E%B0%E6%B2%A1%E5%8A%A0%E4%B8%8A&sa=fyb_news"
-    },
-    {
-      "id": "evt-38240000",
-      "title": "38岁男子拒绝住院24小时后心脏骤停",
-      "category": "society",
-      "hotScore": 0.51,
-      "freshness": 1,
-      "crossSource": 0.6309,
-      "totalScore": 0.6933,
+      "crossSource": 1,
+      "totalScore": 0.838,
       "sources": [
         {
           "channel": "toutiao",
-          "rank": 9,
-          "hot": 11886414,
-          "url": "https://www.toutiao.com/trending/7703117291454267435/"
+          "rank": 7,
+          "hot": 5032670,
+          "url": "https://www.toutiao.com/trending/7703538042044842010/"
         }
       ],
       "summary": "",
-      "url": "https://www.toutiao.com/trending/7703117291454267435/"
+      "url": "https://www.toutiao.com/trending/7703538042044842010/"
     },
     {
       "id": "evt-80000000",
       "title": "8000元网购西高地犬后“仅退款”案件将开庭，卖家曾驱车600公里寻狗",
       "category": "society",
-      "hotScore": 0.4675,
+      "hotScore": 0.595,
       "freshness": 1,
-      "crossSource": 0.6309,
-      "totalScore": 0.6763,
+      "crossSource": 1,
+      "totalScore": 0.838,
       "sources": [
         {
           "channel": "thepaper",
-          "rank": 10,
+          "rank": 7,
           "hot": 0,
           "url": "https://www.thepaper.cn/newsDetail_forward_34394801"
         }
       ],
       "summary": "",
       "url": "https://www.thepaper.cn/newsDetail_forward_34394801"
+    },
+    {
+      "id": "evt-lols1600",
+      "title": "LOL官方回应S16长暂停",
+      "category": "society",
+      "hotScore": 0.5525,
+      "freshness": 1,
+      "crossSource": 1,
+      "totalScore": 0.821,
+      "sources": [
+        {
+          "channel": "toutiao",
+          "rank": 8,
+          "hot": 4553748,
+          "url": "https://www.toutiao.com/trending/7704130023896252978/"
+        }
+      ],
+      "summary": "",
+      "url": "https://www.toutiao.com/trending/7704130023896252978/"
+    },
+    {
+      "id": "evt-67500000",
+      "title": "受贿6750万余元，东航原董事长刘绍勇一审被判十四年",
+      "category": "society",
+      "hotScore": 0.51,
+      "freshness": 1,
+      "crossSource": 1,
+      "totalScore": 0.804,
+      "sources": [
+        {
+          "channel": "thepaper",
+          "rank": 9,
+          "hot": 0,
+          "url": "https://www.thepaper.cn/newsDetail_forward_34395921"
+        }
+      ],
+      "summary": "",
+      "url": "https://www.thepaper.cn/newsDetail_forward_34395921"
     }
   ]
 }
