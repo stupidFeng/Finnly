@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-11-04T03:51:59.949Z",
+  "generatedAt": "2026-11-04T11:43:55.640Z",
   "fields": {
     "society": "社会",
     "economy": "经济",
@@ -7,55 +7,175 @@
   },
   "feed": [
     {
-      "id": "evt-00000000",
-      "title": "越南高铁未开建就提供应商本土化",
+      "id": "evt-a0000000",
+      "title": "A股大反攻原因找到了",
       "category": "society",
       "hotScore": 0.85,
-      "freshness": 1,
+      "freshness": 0.9999,
       "crossSource": 1,
       "totalScore": 0.94,
       "sources": [
         {
           "channel": "toutiao",
           "rank": 1,
-          "hot": 9170124,
-          "url": "https://www.toutiao.com/trending/7704122253796986395/"
+          "hot": 15476579,
+          "url": "https://www.toutiao.com/trending/7703414994674909203/"
+        },
+        {
+          "channel": "baidu",
+          "rank": 2,
+          "hot": 0,
+          "url": "https://m.baidu.com/s?word=A%E8%82%A1%E5%A4%A7%E5%8F%8D%E6%94%BB%E5%8E%9F%E5%9B%A0%E6%89%BE%E5%88%B0%E4%BA%86&sa=fyb_news"
         }
       ],
       "summary": "",
-      "url": "https://www.toutiao.com/trending/7704122253796986395/"
+      "url": "https://www.toutiao.com/trending/7703414994674909203/"
     },
     {
-      "id": "evt-54000000",
-      "title": "老人花5万换4家医院没查出病因",
+      "id": "evt-00000000",
+      "title": "多地机关单位内部厕所常态化对外开放，进一步补充公共资源",
       "category": "society",
-      "hotScore": 0.8075,
-      "freshness": 1,
-      "crossSource": 1,
-      "totalScore": 0.923,
+      "hotScore": 0.85,
+      "freshness": 0.9999,
+      "crossSource": 0.6309,
+      "totalScore": 0.8293,
+      "sources": [
+        {
+          "channel": "thepaper",
+          "rank": 1,
+          "hot": 0,
+          "url": "https://www.thepaper.cn/newsDetail_forward_34397296"
+        }
+      ],
+      "summary": "",
+      "url": "https://www.thepaper.cn/newsDetail_forward_34397296"
+    },
+    {
+      "id": "evt-90000000",
+      "title": "9图看中国互联网发展最新成就",
+      "category": "society",
+      "hotScore": 0.765,
+      "freshness": 0.9999,
+      "crossSource": 0.6309,
+      "totalScore": 0.7953,
       "sources": [
         {
           "channel": "toutiao",
-          "rank": 2,
-          "hot": 8297471,
-          "url": "https://www.toutiao.com/trending/7703947992398757930/"
+          "rank": 3,
+          "hot": 12671151,
+          "url": "https://www.toutiao.com/trending/7699376583278169634/"
         }
       ],
       "summary": "",
-      "url": "https://www.toutiao.com/trending/7703947992398757930/"
+      "url": "https://www.toutiao.com/trending/7699376583278169634/"
     },
     {
-      "id": "evt-s16ig310",
-      "title": "S16 淘汰赛 iG 3:1 击败 TES 时隔七年重回四强，如何评价这场比赛？",
+      "id": "evt-13000000",
+      "title": "苹果手机显示 13 日多地气温低至 -30℃，这是怎么回事？是什么问题导致了这种 bug？",
       "category": "society",
-      "hotScore": 0.75,
-      "freshness": 1,
-      "crossSource": 1,
-      "totalScore": 0.9,
+      "hotScore": 0.7125,
+      "freshness": 0.9999,
+      "crossSource": 0.6309,
+      "totalScore": 0.7743,
       "sources": [
         {
           "channel": "zhihu",
-          "rank": 1,
+          "rank": 2,
+          "hot": 0,
+          "url": ""
+        }
+      ],
+      "summary": "",
+      "url": ""
+    },
+    {
+      "id": "evt-chinahaul",
+      "title": "“China Haul”为何火遍海外",
+      "category": "society",
+      "hotScore": 0.68,
+      "freshness": 1,
+      "crossSource": 0.6309,
+      "totalScore": 0.7613,
+      "sources": [
+        {
+          "channel": "baidu",
+          "rank": 4,
+          "hot": 0,
+          "url": "https://m.baidu.com/s?word=%E2%80%9CChina+Haul%E2%80%9D%E4%B8%BA%E4%BD%95%E7%81%AB%E9%81%8D%E6%B5%B7%E5%A4%96&sa=fyb_news"
+        }
+      ],
+      "summary": "",
+      "url": "https://m.baidu.com/s?word=%E2%80%9CChina+Haul%E2%80%9D%E4%B8%BA%E4%BD%95%E7%81%AB%E9%81%8D%E6%B5%B7%E5%A4%96&sa=fyb_news"
+    },
+    {
+      "id": "evt-94000000",
+      "title": "94岁独闯西藏的谭爷爷回到上海交大，回望求学岁月",
+      "category": "society",
+      "hotScore": 0.68,
+      "freshness": 0.9999,
+      "crossSource": 0.6309,
+      "totalScore": 0.7613,
+      "sources": [
+        {
+          "channel": "thepaper",
+          "rank": 5,
+          "hot": 0,
+          "url": "https://www.thepaper.cn/newsDetail_forward_34397829"
+        }
+      ],
+      "summary": "",
+      "url": "https://www.thepaper.cn/newsDetail_forward_34397829"
+    },
+    {
+      "id": "evt-51000000",
+      "title": "51岁阿姨参加健美比赛 体脂率12%",
+      "category": "society",
+      "hotScore": 0.56,
+      "freshness": 1,
+      "crossSource": 0.6309,
+      "totalScore": 0.7133,
+      "sources": [
+        {
+          "channel": "baidu",
+          "rank": 7,
+          "hot": 0,
+          "url": "https://m.baidu.com/s?word=51%E5%B2%81%E9%98%BF%E5%A7%A8%E5%8F%82%E5%8A%A0%E5%81%A5%E7%BE%8E%E6%AF%94%E8%B5%9B+%E4%BD%93%E8%84%82%E7%8E%8712%25&sa=fyb_news"
+        }
+      ],
+      "summary": "",
+      "url": "https://m.baidu.com/s?word=51%E5%B2%81%E9%98%BF%E5%A7%A8%E5%8F%82%E5%8A%A0%E5%81%A5%E7%BE%8E%E6%AF%94%E8%B5%9B+%E4%BD%93%E8%84%82%E7%8E%8712%25&sa=fyb_news"
+    },
+    {
+      "id": "evt-22000000",
+      "title": "校方回应“22名学生网购服装演出后退款”：已批评教育，部分学生私信向商家道歉",
+      "category": "society",
+      "hotScore": 0.5525,
+      "freshness": 0.9999,
+      "crossSource": 0.6309,
+      "totalScore": 0.7103,
+      "sources": [
+        {
+          "channel": "thepaper",
+          "rank": 8,
+          "hot": 0,
+          "url": "https://www.thepaper.cn/newsDetail_forward_34399924"
+        }
+      ],
+      "summary": "",
+      "url": "https://www.thepaper.cn/newsDetail_forward_34399924"
+    },
+    {
+      "id": "evt-369s1600",
+      "title": "如何评价 369 在 S16 全球总决赛上的整体表现？",
+      "category": "society",
+      "hotScore": 0.525,
+      "freshness": 0.9999,
+      "crossSource": 0.6309,
+      "totalScore": 0.6993,
+      "sources": [
+        {
+          "channel": "zhihu",
+          "rank": 7,
           "hot": 0,
           "url": ""
         }
@@ -65,231 +185,79 @@
     },
     {
       "id": "evt-10000000",
-      "title": "张雪回应“校招年薪10万起被嫌低”",
+      "title": "全球银行实力榜前10中国占两席",
       "category": "society",
-      "hotScore": 0.72,
+      "hotScore": 0.52,
       "freshness": 1,
-      "crossSource": 1,
-      "totalScore": 0.888,
+      "crossSource": 0.6309,
+      "totalScore": 0.6973,
       "sources": [
         {
           "channel": "baidu",
-          "rank": 3,
-          "hot": 0,
-          "url": "https://m.baidu.com/s?word=%E5%BC%A0%E9%9B%AA%E5%9B%9E%E5%BA%94%E2%80%9C%E6%A0%A1%E6%8B%9B%E5%B9%B4%E8%96%AA10%E4%B8%87%E8%B5%B7%E8%A2%AB%E5%AB%8C%E4%BD%8E%E2%80%9D&sa=fyb_news"
-        }
-      ],
-      "summary": "",
-      "url": "https://m.baidu.com/s?word=%E5%BC%A0%E9%9B%AA%E5%9B%9E%E5%BA%94%E2%80%9C%E6%A0%A1%E6%8B%9B%E5%B9%B4%E8%96%AA10%E4%B8%87%E8%B5%B7%E8%A2%AB%E5%AB%8C%E4%BD%8E%E2%80%9D&sa=fyb_news"
-    },
-    {
-      "id": "evt-20000000",
-      "title": "英国男子卡尔布什比徒步 28 年环游地球一圈回家，一路经历了哪些难以想象的挑战？这样的坚持意味着什么？",
-      "category": "society",
-      "hotScore": 0.7125,
-      "freshness": 1,
-      "crossSource": 1,
-      "totalScore": 0.885,
-      "sources": [
-        {
-          "channel": "zhihu",
-          "rank": 2,
-          "hot": 0,
-          "url": ""
-        }
-      ],
-      "summary": "",
-      "url": ""
-    },
-    {
-      "id": "evt-90000000",
-      "title": "9图看中国互联网发展最新成就",
-      "category": "society",
-      "hotScore": 0.68,
-      "freshness": 1,
-      "crossSource": 1,
-      "totalScore": 0.872,
-      "sources": [
-        {
-          "channel": "baidu",
-          "rank": 4,
-          "hot": 0,
-          "url": "https://m.baidu.com/s?word=9%E5%9B%BE%E7%9C%8B%E4%B8%AD%E5%9B%BD%E4%BA%92%E8%81%94%E7%BD%91%E5%8F%91%E5%B1%95%E6%9C%80%E6%96%B0%E6%88%90%E5%B0%B1&sa=fyb_news"
-        }
-      ],
-      "summary": "",
-      "url": "https://m.baidu.com/s?word=9%E5%9B%BE%E7%9C%8B%E4%B8%AD%E5%9B%BD%E4%BA%92%E8%81%94%E7%BD%91%E5%8F%91%E5%B1%95%E6%9C%80%E6%96%B0%E6%88%90%E5%B0%B1&sa=fyb_news"
-    },
-    {
-      "id": "evt-40000000",
-      "title": "胡歌自曝过了 40 岁身体开始走下坡路，已戒烟很久，出差会背 AED，年龄真是分水岭吗？这些措施用处有多大？",
-      "category": "society",
-      "hotScore": 0.675,
-      "freshness": 1,
-      "crossSource": 1,
-      "totalScore": 0.87,
-      "sources": [
-        {
-          "channel": "zhihu",
-          "rank": 3,
-          "hot": 0,
-          "url": ""
-        }
-      ],
-      "summary": "",
-      "url": ""
-    },
-    {
-      "id": "evt-bug30000",
-      "title": "苹果天气bug：多地零下32℃",
-      "category": "society",
-      "hotScore": 0.6375,
-      "freshness": 1,
-      "crossSource": 1,
-      "totalScore": 0.855,
-      "sources": [
-        {
-          "channel": "toutiao",
-          "rank": 6,
-          "hot": 5561961,
-          "url": "https://www.toutiao.com/trending/7704052680632598537/"
-        }
-      ],
-      "summary": "",
-      "url": "https://www.toutiao.com/trending/7704052680632598537/"
-    },
-    {
-      "id": "evt-19000000",
-      "title": "两人分 1 亿元，对方给自己 9999 万 9999，只给你 1 元，若你拒绝双方都会失去全部收益，你会接受吗？",
-      "category": "society",
-      "hotScore": 0.6375,
-      "freshness": 1,
-      "crossSource": 1,
-      "totalScore": 0.855,
-      "sources": [
-        {
-          "channel": "zhihu",
-          "rank": 4,
-          "hot": 0,
-          "url": ""
-        }
-      ],
-      "summary": "",
-      "url": ""
-    },
-    {
-      "id": "evt-igtess16",
-      "title": "IG淘汰TES 挺进S16半决赛",
-      "category": "society",
-      "hotScore": 0.6,
-      "freshness": 1,
-      "crossSource": 1,
-      "totalScore": 0.84,
-      "sources": [
-        {
-          "channel": "baidu",
-          "rank": 6,
-          "hot": 0,
-          "url": "https://m.baidu.com/s?word=IG%E6%B7%98%E6%B1%B0TES+%E6%8C%BA%E8%BF%9BS16%E5%8D%8A%E5%86%B3%E8%B5%9B&sa=fyb_news"
-        }
-      ],
-      "summary": "",
-      "url": "https://m.baidu.com/s?word=IG%E6%B7%98%E6%B1%B0TES+%E6%8C%BA%E8%BF%9BS16%E5%8D%8A%E5%86%B3%E8%B5%9B&sa=fyb_news"
-    },
-    {
-      "id": "evt-13000000",
-      "title": "苹果手机显示 13 日多地气温低至 -30℃，这是怎么回事？是什么问题导致了这种 bug？",
-      "category": "society",
-      "hotScore": 0.6,
-      "freshness": 1,
-      "crossSource": 1,
-      "totalScore": 0.84,
-      "sources": [
-        {
-          "channel": "zhihu",
-          "rank": 5,
-          "hot": 0,
-          "url": ""
-        }
-      ],
-      "summary": "",
-      "url": ""
-    },
-    {
-      "id": "evt-56800000",
-      "title": "“还是沈阳”5天秋假迎客6.8万人次",
-      "category": "society",
-      "hotScore": 0.595,
-      "freshness": 1,
-      "crossSource": 1,
-      "totalScore": 0.838,
-      "sources": [
-        {
-          "channel": "toutiao",
-          "rank": 7,
-          "hot": 5032670,
-          "url": "https://www.toutiao.com/trending/7703538042044842010/"
-        }
-      ],
-      "summary": "",
-      "url": "https://www.toutiao.com/trending/7703538042044842010/"
-    },
-    {
-      "id": "evt-80000000",
-      "title": "8000元网购西高地犬后“仅退款”案件将开庭，卖家曾驱车600公里寻狗",
-      "category": "society",
-      "hotScore": 0.595,
-      "freshness": 1,
-      "crossSource": 1,
-      "totalScore": 0.838,
-      "sources": [
-        {
-          "channel": "thepaper",
-          "rank": 7,
-          "hot": 0,
-          "url": "https://www.thepaper.cn/newsDetail_forward_34394801"
-        }
-      ],
-      "summary": "",
-      "url": "https://www.thepaper.cn/newsDetail_forward_34394801"
-    },
-    {
-      "id": "evt-lols1600",
-      "title": "LOL官方回应S16长暂停",
-      "category": "society",
-      "hotScore": 0.5525,
-      "freshness": 1,
-      "crossSource": 1,
-      "totalScore": 0.821,
-      "sources": [
-        {
-          "channel": "toutiao",
           "rank": 8,
-          "hot": 4553748,
-          "url": "https://www.toutiao.com/trending/7704130023896252978/"
+          "hot": 0,
+          "url": "https://m.baidu.com/s?word=%E5%85%A8%E7%90%83%E9%93%B6%E8%A1%8C%E5%AE%9E%E5%8A%9B%E6%A6%9C%E5%89%8D10%E4%B8%AD%E5%9B%BD%E5%8D%A0%E4%B8%A4%E5%B8%AD&sa=fyb_news"
         }
       ],
       "summary": "",
-      "url": "https://www.toutiao.com/trending/7704130023896252978/"
+      "url": "https://m.baidu.com/s?word=%E5%85%A8%E7%90%83%E9%93%B6%E8%A1%8C%E5%AE%9E%E5%8A%9B%E6%A6%9C%E5%89%8D10%E4%B8%AD%E5%9B%BD%E5%8D%A0%E4%B8%A4%E5%B8%AD&sa=fyb_news"
     },
     {
-      "id": "evt-67500000",
-      "title": "受贿6750万余元，东航原董事长刘绍勇一审被判十四年",
+      "id": "evt-ceo00000",
+      "title": "奔驰CEO谈中国市场经历“千刀万剐”",
       "category": "society",
       "hotScore": 0.51,
-      "freshness": 1,
-      "crossSource": 1,
-      "totalScore": 0.804,
+      "freshness": 0.9999,
+      "crossSource": 0.6309,
+      "totalScore": 0.6933,
       "sources": [
         {
-          "channel": "thepaper",
+          "channel": "toutiao",
           "rank": 9,
-          "hot": 0,
-          "url": "https://www.thepaper.cn/newsDetail_forward_34395921"
+          "hot": 6954075,
+          "url": "https://www.toutiao.com/trending/7703768056373166099/"
         }
       ],
       "summary": "",
-      "url": "https://www.thepaper.cn/newsDetail_forward_34395921"
+      "url": "https://www.toutiao.com/trending/7703768056373166099/"
+    },
+    {
+      "id": "evt-m6000000",
+      "title": "捷达M6能当出租车大王吗",
+      "category": "society",
+      "hotScore": 0.4675,
+      "freshness": 0.9999,
+      "crossSource": 0.6309,
+      "totalScore": 0.6763,
+      "sources": [
+        {
+          "channel": "toutiao",
+          "rank": 10,
+          "hot": 6292307,
+          "url": "https://www.toutiao.com/trending/7704219661189136410/"
+        }
+      ],
+      "summary": "",
+      "url": "https://www.toutiao.com/trending/7704219661189136410/"
+    },
+    {
+      "id": "evt-ai000000",
+      "title": "AI有意识吗？——从脑机智能与脑机接口谈起",
+      "category": "society",
+      "hotScore": 0.4675,
+      "freshness": 0.9999,
+      "crossSource": 0.6309,
+      "totalScore": 0.6763,
+      "sources": [
+        {
+          "channel": "thepaper",
+          "rank": 10,
+          "hot": 0,
+          "url": "https://www.thepaper.cn/newsDetail_forward_34390827"
+        }
+      ],
+      "summary": "",
+      "url": "https://www.thepaper.cn/newsDetail_forward_34390827"
     }
   ]
 }
