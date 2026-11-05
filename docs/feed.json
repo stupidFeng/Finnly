@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-11-04T19:03:00.737Z",
+  "generatedAt": "2026-11-05T00:37:02.901Z",
   "fields": {
     "society": "社会",
     "economy": "经济",
@@ -8,36 +8,36 @@
   "feed": [
     {
       "id": "evt-00000000",
-      "title": "新疆军区数千名新兵夜间紧急拉动演练",
+      "title": "美股科技上演“次贷危机”",
       "category": "society",
       "hotScore": 0.85,
-      "freshness": 1,
+      "freshness": 0.9999,
       "crossSource": 1,
       "totalScore": 0.94,
       "sources": [
         {
           "channel": "toutiao",
           "rank": 1,
-          "hot": 21121142,
-          "url": "https://www.toutiao.com/trending/7704168520272855562/"
+          "hot": 27998979,
+          "url": "https://www.toutiao.com/trending/7704443460459171337/"
         }
       ],
       "summary": "",
-      "url": "https://www.toutiao.com/trending/7704168520272855562/"
+      "url": "https://www.toutiao.com/trending/7704443460459171337/"
     },
     {
       "id": "evt-51000000",
       "title": "51岁阿姨参加健美比赛 体脂率12%",
       "category": "society",
-      "hotScore": 0.7225,
-      "freshness": 1,
+      "hotScore": 0.68,
+      "freshness": 0.9999,
       "crossSource": 1,
-      "totalScore": 0.889,
+      "totalScore": 0.872,
       "sources": [
         {
           "channel": "toutiao",
-          "rank": 4,
-          "hot": 15646927,
+          "rank": 5,
+          "hot": 18768277,
           "url": "https://www.toutiao.com/trending/7704283013869223945/"
         }
       ],
@@ -45,74 +45,36 @@
       "url": "https://www.toutiao.com/trending/7704283013869223945/"
     },
     {
-      "id": "evt-23000000",
-      "title": "23岁抗癌博主“夏夏”离世，他们从各地赶来送别女孩最后一程",
+      "id": "evt-12000000",
+      "title": "女子花1200万买商铺 开门营业时傻眼",
       "category": "society",
-      "hotScore": 0.7225,
+      "hotScore": 0.6,
       "freshness": 1,
       "crossSource": 1,
-      "totalScore": 0.889,
+      "totalScore": 0.84,
       "sources": [
         {
-          "channel": "thepaper",
-          "rank": 4,
-          "hot": 0,
-          "url": "https://www.thepaper.cn/newsDetail_forward_34403162"
-        }
-      ],
-      "summary": "",
-      "url": "https://www.thepaper.cn/newsDetail_forward_34403162"
-    },
-    {
-      "id": "evt-ai000000",
-      "title": "AI短剧《持械入宋》为何火了",
-      "category": "society",
-      "hotScore": 0.6375,
-      "freshness": 1,
-      "crossSource": 1,
-      "totalScore": 0.855,
-      "sources": [
-        {
-          "channel": "toutiao",
+          "channel": "baidu",
           "rank": 6,
-          "hot": 12810620,
-          "url": "https://www.toutiao.com/trending/7704243006215294507/"
+          "hot": 0,
+          "url": "https://m.baidu.com/s?word=%E5%A5%B3%E5%AD%90%E8%8A%B11200%E4%B8%87%E4%B9%B0%E5%95%86%E9%93%BA+%E5%BC%80%E9%97%A8%E8%90%A5%E4%B8%9A%E6%97%B6%E5%82%BB%E7%9C%BC&sa=fyb_news"
         }
       ],
       "summary": "",
-      "url": "https://www.toutiao.com/trending/7704243006215294507/"
+      "url": "https://m.baidu.com/s?word=%E5%A5%B3%E5%AD%90%E8%8A%B11200%E4%B8%87%E4%B9%B0%E5%95%86%E9%93%BA+%E5%BC%80%E9%97%A8%E8%90%A5%E4%B8%9A%E6%97%B6%E5%82%BB%E7%9C%BC&sa=fyb_news"
     },
     {
-      "id": "evt-14500000",
-      "title": "老人半年种出14.5斤大红薯",
+      "id": "evt-72000000",
+      "title": "如何评价原神 7.2 版本中的七神会议？",
       "category": "society",
-      "hotScore": 0.595,
+      "hotScore": 0.6,
       "freshness": 1,
       "crossSource": 1,
-      "totalScore": 0.838,
-      "sources": [
-        {
-          "channel": "toutiao",
-          "rank": 7,
-          "hot": 11591529,
-          "url": "https://www.toutiao.com/trending/7703592017754406921/"
-        }
-      ],
-      "summary": "",
-      "url": "https://www.toutiao.com/trending/7703592017754406921/"
-    },
-    {
-      "id": "evt-2026114a",
-      "title": "2026 年 11 月 4 日 A 股超 4600 只个股飘红，三大指数集体大涨，科创 50 暴涨近 10%，怎样解读？",
-      "category": "society",
-      "hotScore": 0.5625,
-      "freshness": 0.9999,
-      "crossSource": 1,
-      "totalScore": 0.825,
+      "totalScore": 0.84,
       "sources": [
         {
           "channel": "zhihu",
-          "rank": 6,
+          "rank": 5,
           "hot": 0,
           "url": ""
         }
@@ -122,35 +84,54 @@
     },
     {
       "id": "evt-63000000",
-      "title": "陈建平教授逝世享年63岁",
+      "title": "常冰玉6-3战胜赵心童晋级四强",
       "category": "society",
-      "hotScore": 0.56,
-      "freshness": 1,
+      "hotScore": 0.51,
+      "freshness": 0.9999,
       "crossSource": 1,
-      "totalScore": 0.824,
+      "totalScore": 0.804,
       "sources": [
         {
-          "channel": "baidu",
-          "rank": 7,
-          "hot": 0,
-          "url": "https://m.baidu.com/s?word=%E9%99%88%E5%BB%BA%E5%B9%B3%E6%95%99%E6%8E%88%E9%80%9D%E4%B8%96%E4%BA%AB%E5%B9%B463%E5%B2%81&sa=fyb_news"
+          "channel": "toutiao",
+          "rank": 9,
+          "hot": 12580752,
+          "url": "https://www.toutiao.com/trending/7704327786907058739/"
         }
       ],
       "summary": "",
-      "url": "https://m.baidu.com/s?word=%E9%99%88%E5%BB%BA%E5%B9%B3%E6%95%99%E6%8E%88%E9%80%9D%E4%B8%96%E4%BA%AB%E5%B9%B463%E5%B2%81&sa=fyb_news"
+      "url": "https://www.toutiao.com/trending/7704327786907058739/"
     },
     {
-      "id": "evt-s1600000",
-      "title": "《英雄联盟》S16 首场八强赛决胜局遭遇超长暂停，现场发生了什么？",
+      "id": "evt-23000000",
+      "title": "23岁抗癌博主“夏夏”离世，他们从各地赶来送别女孩最后一程",
       "category": "society",
-      "hotScore": 0.525,
-      "freshness": 0.9999,
+      "hotScore": 0.51,
+      "freshness": 1,
       "crossSource": 1,
-      "totalScore": 0.81,
+      "totalScore": 0.804,
+      "sources": [
+        {
+          "channel": "thepaper",
+          "rank": 9,
+          "hot": 0,
+          "url": "https://www.thepaper.cn/newsDetail_forward_34403162"
+        }
+      ],
+      "summary": "",
+      "url": "https://www.thepaper.cn/newsDetail_forward_34403162"
+    },
+    {
+      "id": "evt-2026114a",
+      "title": "2026 年 11 月 4 日 A 股超 4600 只个股飘红，三大指数集体大涨，科创 50 暴涨近 10%，怎样解读？",
+      "category": "society",
+      "hotScore": 0.4875,
+      "freshness": 1,
+      "crossSource": 1,
+      "totalScore": 0.795,
       "sources": [
         {
           "channel": "zhihu",
-          "rank": 7,
+          "rank": 8,
           "hot": 0,
           "url": ""
         }
@@ -159,42 +140,23 @@
       "url": ""
     },
     {
-      "id": "evt-xc702000",
-      "title": "沃尔沃XC70落地不到20万",
+      "id": "evt-s16genlyon",
+      "title": "S16 GEN对阵LYON",
       "category": "society",
-      "hotScore": 0.51,
+      "hotScore": 0.44,
       "freshness": 1,
       "crossSource": 1,
-      "totalScore": 0.804,
+      "totalScore": 0.776,
       "sources": [
         {
-          "channel": "toutiao",
-          "rank": 9,
-          "hot": 9490341,
-          "url": "https://www.toutiao.com/trending/7704283015114998322/"
-        }
-      ],
-      "summary": "",
-      "url": "https://www.toutiao.com/trending/7704283015114998322/"
-    },
-    {
-      "id": "evt-21000000",
-      "title": "攻击-21为何能拿下全球第一",
-      "category": "society",
-      "hotScore": 0.4675,
-      "freshness": 1,
-      "crossSource": 1,
-      "totalScore": 0.787,
-      "sources": [
-        {
-          "channel": "toutiao",
+          "channel": "baidu",
           "rank": 10,
-          "hot": 8587215,
-          "url": "https://www.toutiao.com/trending/7704244482618691113/"
+          "hot": 0,
+          "url": "https://m.baidu.com/s?word=S16+GEN%E5%AF%B9%E9%98%B5LYON&sa=fyb_news"
         }
       ],
       "summary": "",
-      "url": "https://www.toutiao.com/trending/7704244482618691113/"
+      "url": "https://m.baidu.com/s?word=S16+GEN%E5%AF%B9%E9%98%B5LYON&sa=fyb_news"
     }
   ]
 }
