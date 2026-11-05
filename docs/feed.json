@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-11-05T17:44:40.968Z",
+  "generatedAt": "2026-11-05T23:00:19.044Z",
   "fields": {
     "society": "社会",
     "economy": "经济",
@@ -10,15 +10,15 @@
       "id": "evt-83000000",
       "title": "参保人数减少8300万？医保局回应",
       "category": "society",
-      "hotScore": 0.8075,
+      "hotScore": 0.76,
       "freshness": 0.9999,
       "crossSource": 1,
-      "totalScore": 0.923,
+      "totalScore": 0.904,
       "sources": [
         {
           "channel": "toutiao",
-          "rank": 2,
-          "hot": 17351852,
+          "rank": 4,
+          "hot": 15501488,
           "url": "https://www.toutiao.com/trending/7704612422140641843/"
         },
         {
@@ -35,20 +35,20 @@
       "id": "evt-00000000",
       "title": "北京中小学将全部取消外送餐",
       "category": "society",
-      "hotScore": 0.7225,
+      "hotScore": 0.68,
       "freshness": 0.9999,
       "crossSource": 1,
-      "totalScore": 0.889,
+      "totalScore": 0.872,
       "sources": [
         {
           "channel": "toutiao",
-          "rank": 4,
-          "hot": 14206495,
+          "rank": 5,
+          "hot": 14026326,
           "url": "https://www.toutiao.com/trending/7704519295295933987/"
         },
         {
           "channel": "baidu",
-          "rank": 14,
+          "rank": 9,
           "hot": 0,
           "url": "https://m.baidu.com/s?word=%E5%8C%97%E4%BA%AC%E4%B8%AD%E5%B0%8F%E5%AD%A6%E5%B0%86%E5%85%A8%E9%83%A8%E5%8F%96%E6%B6%88%E5%A4%96%E9%80%81%E9%A4%90&sa=fyb_news"
         }
@@ -57,17 +57,80 @@
       "url": "https://www.toutiao.com/trending/7704519295295933987/"
     },
     {
-      "id": "evt-20270000",
-      "title": "2027年放假安排出炉：调休减少，9天超长春节假期即将回归",
+      "id": "evt-20279000",
+      "title": "2027年放假安排出炉：9天超长春节假期点燃旅游市场，已有旅客下单除夕前一日机票",
       "category": "society",
       "hotScore": 0.85,
-      "freshness": 1,
+      "freshness": 0.9999,
       "crossSource": 0.6309,
       "totalScore": 0.8293,
       "sources": [
         {
           "channel": "thepaper",
           "rank": 1,
+          "hot": 0,
+          "url": "https://www.thepaper.cn/newsDetail_forward_34414459"
+        }
+      ],
+      "summary": "",
+      "url": "https://www.thepaper.cn/newsDetail_forward_34414459"
+    },
+    {
+      "id": "evt-c0000000",
+      "title": "拒绝和解只剩决裂，C罗退出葡萄牙队，真走还是耍小脾气？",
+      "category": "society",
+      "hotScore": 0.8075,
+      "freshness": 0.9999,
+      "crossSource": 0.6309,
+      "totalScore": 0.8123,
+      "sources": [
+        {
+          "channel": "thepaper",
+          "rank": 2,
+          "hot": 0,
+          "url": "https://www.thepaper.cn/newsDetail_forward_34414302"
+        }
+      ],
+      "summary": "",
+      "url": "https://www.thepaper.cn/newsDetail_forward_34414302"
+    },
+    {
+      "id": "evt-10000000",
+      "title": "黄之锋再获刑10年",
+      "category": "society",
+      "hotScore": 0.51,
+      "freshness": 0.9999,
+      "crossSource": 1,
+      "totalScore": 0.804,
+      "sources": [
+        {
+          "channel": "toutiao",
+          "rank": 9,
+          "hot": 9402128,
+          "url": "https://www.toutiao.com/trending/7703889425092116534/"
+        },
+        {
+          "channel": "baidu",
+          "rank": 18,
+          "hot": 0,
+          "url": "https://m.baidu.com/s?word=%E9%BB%84%E4%B9%8B%E9%94%8B%E5%86%8D%E8%8E%B7%E5%88%9110%E5%B9%B4&sa=fyb_news"
+        }
+      ],
+      "summary": "",
+      "url": "https://www.toutiao.com/trending/7703889425092116534/"
+    },
+    {
+      "id": "evt-20270000",
+      "title": "2027年放假安排出炉：调休减少，9天超长春节假期即将回归",
+      "category": "society",
+      "hotScore": 0.765,
+      "freshness": 0.9999,
+      "crossSource": 0.6309,
+      "totalScore": 0.7953,
+      "sources": [
+        {
+          "channel": "thepaper",
+          "rank": 3,
           "hot": 0,
           "url": "https://www.thepaper.cn/newsDetail_forward_34412735"
         }
@@ -76,55 +139,17 @@
       "url": "https://www.thepaper.cn/newsDetail_forward_34412735"
     },
     {
-      "id": "evt-ai000000",
-      "title": "多所高校已引入AI教学督导巡课系统，可识别到课率、抬头率、前排就座率",
-      "category": "society",
-      "hotScore": 0.765,
-      "freshness": 1,
-      "crossSource": 0.6309,
-      "totalScore": 0.7953,
-      "sources": [
-        {
-          "channel": "thepaper",
-          "rank": 3,
-          "hot": 0,
-          "url": "https://www.thepaper.cn/newsDetail_forward_34411188"
-        }
-      ],
-      "summary": "",
-      "url": "https://www.thepaper.cn/newsDetail_forward_34411188"
-    },
-    {
-      "id": "evt-10000000",
-      "title": "反中乱港分子黄之锋再判 10 年，哪些信息值得关注？带来哪些警示？",
+      "id": "evt-11000000",
+      "title": "大学生身挂 11 部手机无偿代跑校园跑，被查后独自扛下处分不供出同学，这算真义气还是真违规？",
       "category": "society",
       "hotScore": 0.75,
-      "freshness": 1,
+      "freshness": 0.9999,
       "crossSource": 0.6309,
       "totalScore": 0.7893,
       "sources": [
         {
           "channel": "zhihu",
           "rank": 1,
-          "hot": 0,
-          "url": ""
-        }
-      ],
-      "summary": "",
-      "url": ""
-    },
-    {
-      "id": "evt-c0000000",
-      "title": "C 罗官宣从葡萄牙国家队正式退役，如何评价此事，他为何会选择在此时退役？",
-      "category": "society",
-      "hotScore": 0.7125,
-      "freshness": 1,
-      "crossSource": 0.6309,
-      "totalScore": 0.7743,
-      "sources": [
-        {
-          "channel": "zhihu",
-          "rank": 2,
           "hot": 0,
           "url": ""
         }
@@ -152,30 +177,30 @@
       "url": "https://m.baidu.com/s?word=6G%E6%9C%89%E5%95%A5%E4%B8%8D%E4%B8%80%E6%A0%B7&sa=fyb_news"
     },
     {
-      "id": "evt-11000000",
-      "title": "大学生身挂 11 部手机无偿代跑校园跑，被查后独自扛下处分不供出同学，这算真义气还是真违规？",
+      "id": "evt-ai000000",
+      "title": "多所高校已引入AI教学督导巡课系统，可识别到课率、抬头率、前排就座率",
       "category": "society",
-      "hotScore": 0.675,
-      "freshness": 1,
+      "hotScore": 0.68,
+      "freshness": 0.9999,
       "crossSource": 0.6309,
-      "totalScore": 0.7593,
+      "totalScore": 0.7613,
       "sources": [
         {
-          "channel": "zhihu",
-          "rank": 3,
+          "channel": "thepaper",
+          "rank": 5,
           "hot": 0,
-          "url": ""
+          "url": "https://www.thepaper.cn/newsDetail_forward_34411188"
         }
       ],
       "summary": "",
-      "url": ""
+      "url": "https://www.thepaper.cn/newsDetail_forward_34411188"
     },
     {
-      "id": "evt-20279000",
-      "title": "2027 年放假安排出炉，9 天春节假期回归，成近年调休天数最少年份，你有哪些期待？假期准备做什么？",
+      "id": "evt-30000000",
+      "title": "张雪自掏 30 万给公司首席发动机工程师买房，要求只能写员工自己名字，如何看待这一举措？",
       "category": "society",
       "hotScore": 0.6375,
-      "freshness": 1,
+      "freshness": 0.9999,
       "crossSource": 0.6309,
       "totalScore": 0.7443,
       "sources": [
@@ -190,36 +215,36 @@
       "url": ""
     },
     {
-      "id": "evt-a0000000",
-      "title": "A股放量反弹能走多远",
+      "id": "evt-10spac00",
+      "title": "特斯拉暴跌超10% SpaceX跌超7%",
       "category": "society",
-      "hotScore": 0.595,
-      "freshness": 0.9999,
+      "hotScore": 0.6,
+      "freshness": 1,
       "crossSource": 0.6309,
-      "totalScore": 0.7273,
+      "totalScore": 0.7293,
       "sources": [
         {
-          "channel": "toutiao",
-          "rank": 7,
-          "hot": 10524430,
-          "url": "https://www.toutiao.com/trending/7704528211891195428/"
+          "channel": "baidu",
+          "rank": 6,
+          "hot": 0,
+          "url": "https://m.baidu.com/s?word=%E7%89%B9%E6%96%AF%E6%8B%89%E6%9A%B4%E8%B7%8C%E8%B6%8510%25+SpaceX%E8%B7%8C%E8%B6%857%25&sa=fyb_news"
         }
       ],
       "summary": "",
-      "url": "https://www.toutiao.com/trending/7704528211891195428/"
+      "url": "https://m.baidu.com/s?word=%E7%89%B9%E6%96%AF%E6%8B%89%E6%9A%B4%E8%B7%8C%E8%B6%8510%25+SpaceX%E8%B7%8C%E8%B6%857%25&sa=fyb_news"
     },
     {
-      "id": "evt-30000000",
-      "title": "张雪自掏 30 万给公司首席发动机工程师买房，要求只能写员工自己名字，如何看待这一举措？",
+      "id": "evt-theshy00",
+      "title": "如何看待 TheShy 谈及回归原因「曾许诺 iG 老板有困难联系我，队伍掉入涅槃后我必须信守承诺」？",
       "category": "society",
-      "hotScore": 0.525,
-      "freshness": 1,
+      "hotScore": 0.5625,
+      "freshness": 0.9999,
       "crossSource": 0.6309,
-      "totalScore": 0.6993,
+      "totalScore": 0.7143,
       "sources": [
         {
           "channel": "zhihu",
-          "rank": 7,
+          "rank": 6,
           "hot": 0,
           "url": ""
         }
@@ -229,22 +254,22 @@
     },
     {
       "id": "evt-90000000",
-      "title": "青少年短视频成瘾9大真相",
+      "title": "春节连休9天",
       "category": "society",
-      "hotScore": 0.425,
+      "hotScore": 0.4675,
       "freshness": 0.9999,
       "crossSource": 0.6309,
-      "totalScore": 0.6593,
+      "totalScore": 0.6762,
       "sources": [
         {
           "channel": "toutiao",
-          "rank": 11,
-          "hot": 7054736,
-          "url": "https://www.toutiao.com/trending/7704657028299603978/"
+          "rank": 10,
+          "hot": 8507397,
+          "url": "https://www.toutiao.com/trending/7704173233691901978/"
         }
       ],
       "summary": "",
-      "url": "https://www.toutiao.com/trending/7704657028299603978/"
+      "url": "https://www.toutiao.com/trending/7704173233691901978/"
     }
   ]
 }
