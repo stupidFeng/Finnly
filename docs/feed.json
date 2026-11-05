@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-11-05T00:37:02.901Z",
+  "generatedAt": "2026-11-05T08:42:59.135Z",
   "fields": {
     "society": "社会",
     "economy": "经济",
@@ -7,74 +7,124 @@
   },
   "feed": [
     {
+      "id": "evt-10000000",
+      "title": "黄之锋再获刑10年",
+      "category": "society",
+      "hotScore": 0.8075,
+      "freshness": 1,
+      "crossSource": 1,
+      "totalScore": 0.923,
+      "sources": [
+        {
+          "channel": "toutiao",
+          "rank": 2,
+          "hot": 18655398,
+          "url": "https://www.toutiao.com/trending/7703889425092116534/"
+        },
+        {
+          "channel": "baidu",
+          "rank": 3,
+          "hot": 0,
+          "url": "https://m.baidu.com/s?word=%E9%BB%84%E4%B9%8B%E9%94%8B%E5%86%8D%E8%8E%B7%E5%88%9110%E5%B9%B4&sa=fyb_news"
+        }
+      ],
+      "summary": "",
+      "url": "https://www.toutiao.com/trending/7703889425092116534/"
+    },
+    {
+      "id": "evt-38000000",
+      "title": "38岁男子被骗到缅甸因太老卖不掉",
+      "category": "society",
+      "hotScore": 0.76,
+      "freshness": 1,
+      "crossSource": 1,
+      "totalScore": 0.904,
+      "sources": [
+        {
+          "channel": "toutiao",
+          "rank": 5,
+          "hot": 13820258,
+          "url": "https://www.toutiao.com/trending/7704577602769584170/"
+        },
+        {
+          "channel": "baidu",
+          "rank": 2,
+          "hot": 0,
+          "url": "https://m.baidu.com/s?word=38%E5%B2%81%E7%94%B7%E5%AD%90%E8%A2%AB%E9%AA%97%E5%88%B0%E7%BC%85%E7%94%B8%E5%9B%A0%E5%A4%AA%E8%80%81%E5%8D%96%E4%B8%8D%E6%8E%89&sa=fyb_news"
+        }
+      ],
+      "summary": "",
+      "url": "https://www.toutiao.com/trending/7704577602769584170/"
+    },
+    {
       "id": "evt-00000000",
-      "title": "美股科技上演“次贷危机”",
+      "title": "马兴瑞被提起公诉",
       "category": "society",
       "hotScore": 0.85,
-      "freshness": 0.9999,
-      "crossSource": 1,
-      "totalScore": 0.94,
+      "freshness": 1,
+      "crossSource": 0.6309,
+      "totalScore": 0.8293,
       "sources": [
         {
           "channel": "toutiao",
           "rank": 1,
-          "hot": 27998979,
-          "url": "https://www.toutiao.com/trending/7704443460459171337/"
+          "hot": 20617403,
+          "url": "https://www.toutiao.com/trending/7704501062417268787/"
         }
       ],
       "summary": "",
-      "url": "https://www.toutiao.com/trending/7704443460459171337/"
+      "url": "https://www.toutiao.com/trending/7704501062417268787/"
     },
     {
-      "id": "evt-51000000",
-      "title": "51岁阿姨参加健美比赛 体脂率12%",
+      "id": "evt-tv000000",
+      "title": "芒果TV崩了",
       "category": "society",
-      "hotScore": 0.68,
-      "freshness": 0.9999,
-      "crossSource": 1,
-      "totalScore": 0.872,
+      "hotScore": 0.7225,
+      "freshness": 1,
+      "crossSource": 0.6309,
+      "totalScore": 0.7783,
       "sources": [
         {
           "channel": "toutiao",
-          "rank": 5,
-          "hot": 18768277,
-          "url": "https://www.toutiao.com/trending/7704283013869223945/"
+          "rank": 4,
+          "hot": 15273748,
+          "url": "https://www.toutiao.com/trending/7704360288891732019/"
         }
       ],
       "summary": "",
-      "url": "https://www.toutiao.com/trending/7704283013869223945/"
+      "url": "https://www.toutiao.com/trending/7704360288891732019/"
     },
     {
-      "id": "evt-12000000",
-      "title": "女子花1200万买商铺 开门营业时傻眼",
+      "id": "evt-6g000000",
+      "title": "乌镇6G首秀",
       "category": "society",
-      "hotScore": 0.6,
+      "hotScore": 0.68,
       "freshness": 1,
-      "crossSource": 1,
-      "totalScore": 0.84,
+      "crossSource": 0.6309,
+      "totalScore": 0.7613,
       "sources": [
         {
           "channel": "baidu",
-          "rank": 6,
+          "rank": 4,
           "hot": 0,
-          "url": "https://m.baidu.com/s?word=%E5%A5%B3%E5%AD%90%E8%8A%B11200%E4%B8%87%E4%B9%B0%E5%95%86%E9%93%BA+%E5%BC%80%E9%97%A8%E8%90%A5%E4%B8%9A%E6%97%B6%E5%82%BB%E7%9C%BC&sa=fyb_news"
+          "url": "https://m.baidu.com/s?word=%E4%B9%8C%E9%95%876G%E9%A6%96%E7%A7%80&sa=fyb_news"
         }
       ],
       "summary": "",
-      "url": "https://m.baidu.com/s?word=%E5%A5%B3%E5%AD%90%E8%8A%B11200%E4%B8%87%E4%B9%B0%E5%95%86%E9%93%BA+%E5%BC%80%E9%97%A8%E8%90%A5%E4%B8%9A%E6%97%B6%E5%82%BB%E7%9C%BC&sa=fyb_news"
+      "url": "https://m.baidu.com/s?word=%E4%B9%8C%E9%95%876G%E9%A6%96%E7%A7%80&sa=fyb_news"
     },
     {
-      "id": "evt-72000000",
-      "title": "如何评价原神 7.2 版本中的七神会议？",
+      "id": "evt-20014000",
+      "title": "小伙 200 多万买 14 套房年收租 21 万，成功实现 30 岁退休，这是怎么做到的？会涉及交税问题吗？",
       "category": "society",
-      "hotScore": 0.6,
+      "hotScore": 0.6375,
       "freshness": 1,
-      "crossSource": 1,
-      "totalScore": 0.84,
+      "crossSource": 0.6309,
+      "totalScore": 0.7443,
       "sources": [
         {
           "channel": "zhihu",
-          "rank": 5,
+          "rank": 4,
           "hot": 0,
           "url": ""
         }
@@ -83,36 +133,17 @@
       "url": ""
     },
     {
-      "id": "evt-63000000",
-      "title": "常冰玉6-3战胜赵心童晋级四强",
-      "category": "society",
-      "hotScore": 0.51,
-      "freshness": 0.9999,
-      "crossSource": 1,
-      "totalScore": 0.804,
-      "sources": [
-        {
-          "channel": "toutiao",
-          "rank": 9,
-          "hot": 12580752,
-          "url": "https://www.toutiao.com/trending/7704327786907058739/"
-        }
-      ],
-      "summary": "",
-      "url": "https://www.toutiao.com/trending/7704327786907058739/"
-    },
-    {
       "id": "evt-23000000",
       "title": "23岁抗癌博主“夏夏”离世，他们从各地赶来送别女孩最后一程",
       "category": "society",
-      "hotScore": 0.51,
+      "hotScore": 0.6375,
       "freshness": 1,
-      "crossSource": 1,
-      "totalScore": 0.804,
+      "crossSource": 0.6309,
+      "totalScore": 0.7443,
       "sources": [
         {
           "channel": "thepaper",
-          "rank": 9,
+          "rank": 6,
           "hot": 0,
           "url": "https://www.thepaper.cn/newsDetail_forward_34403162"
         }
@@ -121,17 +152,17 @@
       "url": "https://www.thepaper.cn/newsDetail_forward_34403162"
     },
     {
-      "id": "evt-2026114a",
-      "title": "2026 年 11 月 4 日 A 股超 4600 只个股飘红，三大指数集体大涨，科创 50 暴涨近 10%，怎样解读？",
+      "id": "evt-s16igvsge",
+      "title": "S16 半决赛 iG vs GEN，此前 6 次中韩大战 LPL 仅 1 胜，这次你看好 iG 取胜吗？",
       "category": "society",
-      "hotScore": 0.4875,
+      "hotScore": 0.6,
       "freshness": 1,
-      "crossSource": 1,
-      "totalScore": 0.795,
+      "crossSource": 0.6309,
+      "totalScore": 0.7293,
       "sources": [
         {
           "channel": "zhihu",
-          "rank": 8,
+          "rank": 5,
           "hot": 0,
           "url": ""
         }
@@ -140,23 +171,42 @@
       "url": ""
     },
     {
-      "id": "evt-s16genlyon",
-      "title": "S16 GEN对阵LYON",
+      "id": "evt-52248000",
+      "title": "文班亚马52分24板8帽",
       "category": "society",
-      "hotScore": 0.44,
+      "hotScore": 0.595,
       "freshness": 1,
-      "crossSource": 1,
-      "totalScore": 0.776,
+      "crossSource": 0.6309,
+      "totalScore": 0.7273,
       "sources": [
         {
-          "channel": "baidu",
-          "rank": 10,
-          "hot": 0,
-          "url": "https://m.baidu.com/s?word=S16+GEN%E5%AF%B9%E9%98%B5LYON&sa=fyb_news"
+          "channel": "toutiao",
+          "rank": 7,
+          "hot": 11315070,
+          "url": "https://www.toutiao.com/trending/7703792548334059574/"
         }
       ],
       "summary": "",
-      "url": "https://m.baidu.com/s?word=S16+GEN%E5%AF%B9%E9%98%B5LYON&sa=fyb_news"
+      "url": "https://www.toutiao.com/trending/7703792548334059574/"
+    },
+    {
+      "id": "evt-48000000",
+      "title": "巴菲特称已 48 年不喝水只喝可乐，是真的吗？健康吗？如何从医学角度看待这一饮食习惯？",
+      "category": "society",
+      "hotScore": 0.525,
+      "freshness": 1,
+      "crossSource": 0.6309,
+      "totalScore": 0.6993,
+      "sources": [
+        {
+          "channel": "zhihu",
+          "rank": 7,
+          "hot": 0,
+          "url": ""
+        }
+      ],
+      "summary": "",
+      "url": ""
     }
   ]
 }
