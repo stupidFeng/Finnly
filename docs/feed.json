@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-11-06T04:08:32.071Z",
+  "generatedAt": "2026-11-06T13:25:52.912Z",
   "fields": {
     "society": "社会",
     "economy": "经济",
@@ -7,11 +7,30 @@
   },
   "feed": [
     {
+      "id": "evt-00000000",
+      "title": "北方多地将有暴雪",
+      "category": "society",
+      "hotScore": 0.85,
+      "freshness": 0.9999,
+      "crossSource": 0.6309,
+      "totalScore": 0.8293,
+      "sources": [
+        {
+          "channel": "toutiao",
+          "rank": 1,
+          "hot": 10721468,
+          "url": "https://www.toutiao.com/trending/7705000086963307018/"
+        }
+      ],
+      "summary": "",
+      "url": "https://www.toutiao.com/trending/7705000086963307018/"
+    },
+    {
       "id": "evt-20279000",
       "title": "2027年放假安排出炉：9天超长春节假期点燃旅游市场，已有旅客下单除夕前一日机票",
       "category": "society",
       "hotScore": 0.85,
-      "freshness": 0.9999,
+      "freshness": 1,
       "crossSource": 0.6309,
       "totalScore": 0.8293,
       "sources": [
@@ -26,27 +45,8 @@
       "url": "https://www.thepaper.cn/newsDetail_forward_34414459"
     },
     {
-      "id": "evt-00000000",
-      "title": "南京零元面馆爆火",
-      "category": "society",
-      "hotScore": 0.85,
-      "freshness": 0.9998,
-      "crossSource": 0.6309,
-      "totalScore": 0.8292,
-      "sources": [
-        {
-          "channel": "toutiao",
-          "rank": 1,
-          "hot": 12212468,
-          "url": "https://www.toutiao.com/trending/7703756521339093019/"
-        }
-      ],
-      "summary": "",
-      "url": "https://www.toutiao.com/trending/7703756521339093019/"
-    },
-    {
-      "id": "evt-20270000",
-      "title": "2027年放假安排出炉：调休减少，9天超长春节假期即将回归",
+      "id": "evt-12000000",
+      "title": "上海原市长龚正等12名正部履新职",
       "category": "society",
       "hotScore": 0.8075,
       "freshness": 0.9999,
@@ -54,21 +54,21 @@
       "totalScore": 0.8123,
       "sources": [
         {
-          "channel": "thepaper",
+          "channel": "toutiao",
           "rank": 2,
-          "hot": 0,
-          "url": "https://www.thepaper.cn/newsDetail_forward_34412735"
+          "hot": 9701186,
+          "url": "https://www.toutiao.com/trending/7704959725117210662/"
         }
       ],
       "summary": "",
-      "url": "https://www.thepaper.cn/newsDetail_forward_34412735"
+      "url": "https://www.toutiao.com/trending/7704959725117210662/"
     },
     {
-      "id": "evt-c0000000",
-      "title": "拒绝和解只剩决裂，C罗退出葡萄牙队，真走还是耍小脾气？",
+      "id": "evt-51000000",
+      "title": "桥梁｜“5年10万人”新邀约发出，中美“双向奔赴”的桥梁如何越架越宽",
       "category": "society",
       "hotScore": 0.765,
-      "freshness": 0.9999,
+      "freshness": 1,
       "crossSource": 0.6309,
       "totalScore": 0.7953,
       "sources": [
@@ -76,20 +76,20 @@
           "channel": "thepaper",
           "rank": 3,
           "hot": 0,
-          "url": "https://www.thepaper.cn/newsDetail_forward_34414302"
+          "url": "https://www.thepaper.cn/newsDetail_forward_34413309"
         }
       ],
       "summary": "",
-      "url": "https://www.thepaper.cn/newsDetail_forward_34414302"
+      "url": "https://www.thepaper.cn/newsDetail_forward_34413309"
     },
     {
-      "id": "evt-19000000",
-      "title": "美股创 19 个月来最大单日跌幅、纳指暴跌 5.52%，科技股遭遇抛售潮，引发市场恐慌的核心原因是什么？",
+      "id": "evt-u9xtre00",
+      "title": "如何看待仰望 U9 Xtreme 在阿布扎比开放公路跑出 503.17km/h 这件事？",
       "category": "society",
       "hotScore": 0.75,
-      "freshness": 0.9999,
+      "freshness": 1,
       "crossSource": 0.6309,
-      "totalScore": 0.7892,
+      "totalScore": 0.7893,
       "sources": [
         {
           "channel": "zhihu",
@@ -102,93 +102,17 @@
       "url": ""
     },
     {
-      "id": "evt-ai000000",
-      "title": "多所高校已引入AI教学督导巡课系统，可识别到课率、抬头率、前排就座率",
-      "category": "society",
-      "hotScore": 0.7225,
-      "freshness": 0.9999,
-      "crossSource": 0.6309,
-      "totalScore": 0.7783,
-      "sources": [
-        {
-          "channel": "thepaper",
-          "rank": 4,
-          "hot": 0,
-          "url": "https://www.thepaper.cn/newsDetail_forward_34411188"
-        }
-      ],
-      "summary": "",
-      "url": "https://www.thepaper.cn/newsDetail_forward_34411188"
-    },
-    {
-      "id": "evt-s16blg30",
-      "title": "S16 淘汰赛 BLG 3:0 淘汰 DK 晋级四强，如何评价这场比赛？",
+      "id": "evt-19000000",
+      "title": "美股创 19 个月来最大单日跌幅、纳指暴跌 5.52%，科技股遭遇抛售潮，引发市场恐慌的核心原因是什么？",
       "category": "society",
       "hotScore": 0.7125,
-      "freshness": 0.9999,
+      "freshness": 1,
       "crossSource": 0.6309,
-      "totalScore": 0.7742,
+      "totalScore": 0.7743,
       "sources": [
         {
           "channel": "zhihu",
           "rank": 2,
-          "hot": 0,
-          "url": ""
-        }
-      ],
-      "summary": "",
-      "url": ""
-    },
-    {
-      "id": "evt-a0000000",
-      "title": "A股又现“天价”离婚 分手费超8亿元",
-      "category": "society",
-      "hotScore": 0.64,
-      "freshness": 1,
-      "crossSource": 0.6309,
-      "totalScore": 0.7453,
-      "sources": [
-        {
-          "channel": "baidu",
-          "rank": 5,
-          "hot": 0,
-          "url": "https://m.baidu.com/s?word=A%E8%82%A1%E5%8F%88%E7%8E%B0%E2%80%9C%E5%A4%A9%E4%BB%B7%E2%80%9D%E7%A6%BB%E5%A9%9A+%E5%88%86%E6%89%8B%E8%B4%B9%E8%B6%858%E4%BA%BF%E5%85%83&sa=fyb_news"
-        }
-      ],
-      "summary": "",
-      "url": "https://m.baidu.com/s?word=A%E8%82%A1%E5%8F%88%E7%8E%B0%E2%80%9C%E5%A4%A9%E4%BB%B7%E2%80%9D%E7%A6%BB%E5%A9%9A+%E5%88%86%E6%89%8B%E8%B4%B9%E8%B6%858%E4%BA%BF%E5%85%83&sa=fyb_news"
-    },
-    {
-      "id": "evt-54ai0000",
-      "title": "54岁大哥靠AI短剧还清负债",
-      "category": "society",
-      "hotScore": 0.6,
-      "freshness": 1,
-      "crossSource": 0.6309,
-      "totalScore": 0.7293,
-      "sources": [
-        {
-          "channel": "baidu",
-          "rank": 6,
-          "hot": 0,
-          "url": "https://m.baidu.com/s?word=54%E5%B2%81%E5%A4%A7%E5%93%A5%E9%9D%A0AI%E7%9F%AD%E5%89%A7%E8%BF%98%E6%B8%85%E8%B4%9F%E5%80%BA&sa=fyb_news"
-        }
-      ],
-      "summary": "",
-      "url": "https://m.baidu.com/s?word=54%E5%B2%81%E5%A4%A7%E5%93%A5%E9%9D%A0AI%E7%9F%AD%E5%89%A7%E8%BF%98%E6%B8%85%E8%B4%9F%E5%80%BA&sa=fyb_news"
-    },
-    {
-      "id": "evt-theshy00",
-      "title": "如何看待 TheShy 谈及回归原因「曾许诺 iG 老板有困难联系我，队伍掉入涅槃后我必须信守承诺」？",
-      "category": "society",
-      "hotScore": 0.6,
-      "freshness": 0.9999,
-      "crossSource": 0.6309,
-      "totalScore": 0.7292,
-      "sources": [
-        {
-          "channel": "zhihu",
-          "rank": 5,
           "hot": 0,
           "url": ""
         }
@@ -198,10 +122,67 @@
     },
     {
       "id": "evt-50000000",
-      "title": "陕西商南重大刑案：500余人进山搜捕",
+      "title": "中国纯电车如何跨过500km/h这道坎",
+      "category": "society",
+      "hotScore": 0.6375,
+      "freshness": 0.9999,
+      "crossSource": 0.6309,
+      "totalScore": 0.7443,
+      "sources": [
+        {
+          "channel": "toutiao",
+          "rank": 6,
+          "hot": 6502899,
+          "url": "https://www.toutiao.com/trending/7704987766832120371/"
+        }
+      ],
+      "summary": "",
+      "url": "https://www.toutiao.com/trending/7704987766832120371/"
+    },
+    {
+      "id": "evt-10300000",
+      "title": "103岁老奶奶不肯吃五角星饼干",
+      "category": "society",
+      "hotScore": 0.6,
+      "freshness": 0.9999,
+      "crossSource": 0.6309,
+      "totalScore": 0.7293,
+      "sources": [
+        {
+          "channel": "baidu",
+          "rank": 6,
+          "hot": 0,
+          "url": "https://m.baidu.com/s?word=103%E5%B2%81%E8%80%81%E5%A5%B6%E5%A5%B6%E4%B8%8D%E8%82%AF%E5%90%83%E4%BA%94%E8%A7%92%E6%98%9F%E9%A5%BC%E5%B9%B2&sa=fyb_news"
+        }
+      ],
+      "summary": "",
+      "url": "https://m.baidu.com/s?word=103%E5%B2%81%E8%80%81%E5%A5%B6%E5%A5%B6%E4%B8%8D%E8%82%AF%E5%90%83%E4%BA%94%E8%A7%92%E6%98%9F%E9%A5%BC%E5%B9%B2&sa=fyb_news"
+    },
+    {
+      "id": "evt-ai000000",
+      "title": "民主党提出超级 AI 禁令，美股迎来 1896 年以来中期选举后表现最差的第二个交易日，影响有多大？",
+      "category": "society",
+      "hotScore": 0.5625,
+      "freshness": 1,
+      "crossSource": 0.6309,
+      "totalScore": 0.7143,
+      "sources": [
+        {
+          "channel": "zhihu",
+          "rank": 6,
+          "hot": 0,
+          "url": ""
+        }
+      ],
+      "summary": "",
+      "url": ""
+    },
+    {
+      "id": "evt-60000000",
+      "title": "女子带娃仅点6元豆芽连吃7碗米饭",
       "category": "society",
       "hotScore": 0.56,
-      "freshness": 1,
+      "freshness": 0.9999,
       "crossSource": 0.6309,
       "totalScore": 0.7133,
       "sources": [
@@ -209,53 +190,34 @@
           "channel": "baidu",
           "rank": 7,
           "hot": 0,
-          "url": "https://m.baidu.com/s?word=%E9%99%95%E8%A5%BF%E5%95%86%E5%8D%97%E9%87%8D%E5%A4%A7%E5%88%91%E6%A1%88%EF%BC%9A500%E4%BD%99%E4%BA%BA%E8%BF%9B%E5%B1%B1%E6%90%9C%E6%8D%95&sa=fyb_news"
+          "url": "https://m.baidu.com/s?word=%E5%A5%B3%E5%AD%90%E5%B8%A6%E5%A8%83%E4%BB%85%E7%82%B96%E5%85%83%E8%B1%86%E8%8A%BD%E8%BF%9E%E5%90%837%E7%A2%97%E7%B1%B3%E9%A5%AD&sa=fyb_news"
         }
       ],
       "summary": "",
-      "url": "https://m.baidu.com/s?word=%E9%99%95%E8%A5%BF%E5%95%86%E5%8D%97%E9%87%8D%E5%A4%A7%E5%88%91%E6%A1%88%EF%BC%9A500%E4%BD%99%E4%BA%BA%E8%BF%9B%E5%B1%B1%E6%90%9C%E6%8D%95&sa=fyb_news"
+      "url": "https://m.baidu.com/s?word=%E5%A5%B3%E5%AD%90%E5%B8%A6%E5%A8%83%E4%BB%85%E7%82%B96%E5%85%83%E8%B1%86%E8%8A%BD%E8%BF%9E%E5%90%837%E7%A2%97%E7%B1%B3%E9%A5%AD&sa=fyb_news"
     },
     {
-      "id": "evt-10000000",
-      "title": "马上评｜超10万女性被偷拍，拿什么守护私密场所的安全感",
+      "id": "evt-15000000",
+      "title": "若失守1.5℃升温红线将酿成巨灾",
       "category": "society",
-      "hotScore": 0.5525,
+      "hotScore": 0.52,
       "freshness": 0.9999,
       "crossSource": 0.6309,
-      "totalScore": 0.7103,
+      "totalScore": 0.6973,
       "sources": [
         {
-          "channel": "thepaper",
+          "channel": "baidu",
           "rank": 8,
           "hot": 0,
-          "url": "https://www.thepaper.cn/newsDetail_forward_34412107"
+          "url": "https://m.baidu.com/s?word=%E8%8B%A5%E5%A4%B1%E5%AE%881.5%E2%84%83%E5%8D%87%E6%B8%A9%E7%BA%A2%E7%BA%BF%E5%B0%86%E9%85%BF%E6%88%90%E5%B7%A8%E7%81%BE&sa=fyb_news"
         }
       ],
       "summary": "",
-      "url": "https://www.thepaper.cn/newsDetail_forward_34412107"
+      "url": "https://m.baidu.com/s?word=%E8%8B%A5%E5%A4%B1%E5%AE%881.5%E2%84%83%E5%8D%87%E6%B8%A9%E7%BA%A2%E7%BA%BF%E5%B0%86%E9%85%BF%E6%88%90%E5%B7%A8%E7%81%BE&sa=fyb_news"
     },
     {
-      "id": "evt-80000000",
-      "title": "月薪 8000，同事天天点星巴克下午茶，我却连奶茶都舍不得喝，这种消费观差距正常吗？该怎么调整心态？",
-      "category": "society",
-      "hotScore": 0.525,
-      "freshness": 0.9999,
-      "crossSource": 0.6309,
-      "totalScore": 0.6992,
-      "sources": [
-        {
-          "channel": "zhihu",
-          "rank": 7,
-          "hot": 0,
-          "url": ""
-        }
-      ],
-      "summary": "",
-      "url": ""
-    },
-    {
-      "id": "evt-51000000",
-      "title": "桥梁｜“5年10万人”新邀约发出，中美“双向奔赴”的桥梁如何越架越宽",
+      "id": "evt-61000000",
+      "title": "6架歼10飞越长城",
       "category": "society",
       "hotScore": 0.51,
       "freshness": 0.9999,
@@ -263,33 +225,52 @@
       "totalScore": 0.6933,
       "sources": [
         {
+          "channel": "toutiao",
+          "rank": 9,
+          "hot": 4817466,
+          "url": "https://www.toutiao.com/trending/7704187559509000211/"
+        }
+      ],
+      "summary": "",
+      "url": "https://www.toutiao.com/trending/7704187559509000211/"
+    },
+    {
+      "id": "evt-11000000",
+      "title": "最高检：男子将11岁女童灌醉性侵，被检方监督立案后获刑16年",
+      "category": "society",
+      "hotScore": 0.51,
+      "freshness": 1,
+      "crossSource": 0.6309,
+      "totalScore": 0.6933,
+      "sources": [
+        {
           "channel": "thepaper",
           "rank": 9,
           "hot": 0,
-          "url": "https://www.thepaper.cn/newsDetail_forward_34413309"
+          "url": "https://www.thepaper.cn/newsDetail_forward_34418743"
         }
       ],
       "summary": "",
-      "url": "https://www.thepaper.cn/newsDetail_forward_34413309"
+      "url": "https://www.thepaper.cn/newsDetail_forward_34418743"
     },
     {
-      "id": "evt-2026wtt0",
-      "title": "2026WTT 法兰克福冠军赛，王楚钦 0-3 温瑞博，无缘男单八强，如何评价本场比赛？",
+      "id": "evt-c0000000",
+      "title": "体坛联播｜热苏斯回应C罗退出国家队，米兰欧联杯爆冷输球",
       "category": "society",
-      "hotScore": 0.4875,
-      "freshness": 0.9999,
+      "hotScore": 0.4675,
+      "freshness": 1,
       "crossSource": 0.6309,
-      "totalScore": 0.6842,
+      "totalScore": 0.6763,
       "sources": [
         {
-          "channel": "zhihu",
-          "rank": 8,
+          "channel": "thepaper",
+          "rank": 10,
           "hot": 0,
-          "url": ""
+          "url": "https://www.thepaper.cn/newsDetail_forward_34418036"
         }
       ],
       "summary": "",
-      "url": ""
+      "url": "https://www.thepaper.cn/newsDetail_forward_34418036"
     }
   ]
 }
