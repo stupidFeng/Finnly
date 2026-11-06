@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-11-06T13:25:52.912Z",
+  "generatedAt": "2026-11-06T20:08:49.859Z",
   "fields": {
     "society": "社会",
     "economy": "经济",
@@ -7,8 +7,33 @@
   },
   "feed": [
     {
+      "id": "evt-60000000",
+      "title": "女子带娃仅点6元豆芽连吃7碗米饭",
+      "category": "society",
+      "hotScore": 0.85,
+      "freshness": 0.9999,
+      "crossSource": 1,
+      "totalScore": 0.94,
+      "sources": [
+        {
+          "channel": "toutiao",
+          "rank": 1,
+          "hot": 13284608,
+          "url": "https://www.toutiao.com/trending/7704842467703570953/"
+        },
+        {
+          "channel": "baidu",
+          "rank": 7,
+          "hot": 0,
+          "url": "https://m.baidu.com/s?word=%E5%A5%B3%E5%AD%90%E5%B8%A6%E5%A8%83%E4%BB%85%E7%82%B96%E5%85%83%E8%B1%86%E8%8A%BD%E8%BF%9E%E5%90%837%E7%A2%97%E7%B1%B3%E9%A5%AD&sa=fyb_news"
+        }
+      ],
+      "summary": "",
+      "url": "https://www.toutiao.com/trending/7704842467703570953/"
+    },
+    {
       "id": "evt-00000000",
-      "title": "北方多地将有暴雪",
+      "title": "国家卫健委原党组成员、国家中医药管理局原局长余艳红主动投案",
       "category": "society",
       "hotScore": 0.85,
       "freshness": 0.9999,
@@ -16,33 +41,14 @@
       "totalScore": 0.8293,
       "sources": [
         {
-          "channel": "toutiao",
-          "rank": 1,
-          "hot": 10721468,
-          "url": "https://www.toutiao.com/trending/7705000086963307018/"
-        }
-      ],
-      "summary": "",
-      "url": "https://www.toutiao.com/trending/7705000086963307018/"
-    },
-    {
-      "id": "evt-20279000",
-      "title": "2027年放假安排出炉：9天超长春节假期点燃旅游市场，已有旅客下单除夕前一日机票",
-      "category": "society",
-      "hotScore": 0.85,
-      "freshness": 1,
-      "crossSource": 0.6309,
-      "totalScore": 0.8293,
-      "sources": [
-        {
           "channel": "thepaper",
           "rank": 1,
           "hot": 0,
-          "url": "https://www.thepaper.cn/newsDetail_forward_34414459"
+          "url": "https://www.thepaper.cn/newsDetail_forward_34418620"
         }
       ],
       "summary": "",
-      "url": "https://www.thepaper.cn/newsDetail_forward_34414459"
+      "url": "https://www.thepaper.cn/newsDetail_forward_34418620"
     },
     {
       "id": "evt-12000000",
@@ -51,12 +57,12 @@
       "hotScore": 0.8075,
       "freshness": 0.9999,
       "crossSource": 0.6309,
-      "totalScore": 0.8123,
+      "totalScore": 0.8122,
       "sources": [
         {
           "channel": "toutiao",
           "rank": 2,
-          "hot": 9701186,
+          "hot": 12020410,
           "url": "https://www.toutiao.com/trending/7704959725117210662/"
         }
       ],
@@ -64,30 +70,30 @@
       "url": "https://www.toutiao.com/trending/7704959725117210662/"
     },
     {
-      "id": "evt-51000000",
-      "title": "桥梁｜“5年10万人”新邀约发出，中美“双向奔赴”的桥梁如何越架越宽",
+      "id": "evt-79990000",
+      "title": "一双“电动鞋”售价7999元",
       "category": "society",
-      "hotScore": 0.765,
+      "hotScore": 0.76,
       "freshness": 1,
       "crossSource": 0.6309,
-      "totalScore": 0.7953,
+      "totalScore": 0.7933,
       "sources": [
         {
-          "channel": "thepaper",
-          "rank": 3,
+          "channel": "baidu",
+          "rank": 2,
           "hot": 0,
-          "url": "https://www.thepaper.cn/newsDetail_forward_34413309"
+          "url": "https://m.baidu.com/s?word=%E4%B8%80%E5%8F%8C%E2%80%9C%E7%94%B5%E5%8A%A8%E9%9E%8B%E2%80%9D%E5%94%AE%E4%BB%B77999%E5%85%83&sa=fyb_news"
         }
       ],
       "summary": "",
-      "url": "https://www.thepaper.cn/newsDetail_forward_34413309"
+      "url": "https://m.baidu.com/s?word=%E4%B8%80%E5%8F%8C%E2%80%9C%E7%94%B5%E5%8A%A8%E9%9E%8B%E2%80%9D%E5%94%AE%E4%BB%B77999%E5%85%83&sa=fyb_news"
     },
     {
       "id": "evt-u9xtre00",
       "title": "如何看待仰望 U9 Xtreme 在阿布扎比开放公路跑出 503.17km/h 这件事？",
       "category": "society",
       "hotScore": 0.75,
-      "freshness": 1,
+      "freshness": 0.9999,
       "crossSource": 0.6309,
       "totalScore": 0.7893,
       "sources": [
@@ -102,11 +108,49 @@
       "url": ""
     },
     {
-      "id": "evt-19000000",
-      "title": "美股创 19 个月来最大单日跌幅、纳指暴跌 5.52%，科技股遭遇抛售潮，引发市场恐慌的核心原因是什么？",
+      "id": "evt-51000000",
+      "title": "桥梁｜“5年10万人”新邀约发出，中美“双向奔赴”的桥梁如何越架越宽",
+      "category": "society",
+      "hotScore": 0.7225,
+      "freshness": 0.9999,
+      "crossSource": 0.6309,
+      "totalScore": 0.7783,
+      "sources": [
+        {
+          "channel": "thepaper",
+          "rank": 4,
+          "hot": 0,
+          "url": "https://www.thepaper.cn/newsDetail_forward_34413309"
+        }
+      ],
+      "summary": "",
+      "url": "https://www.thepaper.cn/newsDetail_forward_34413309"
+    },
+    {
+      "id": "evt-12500000",
+      "title": "125台公交车退役电池卖了300万元",
+      "category": "society",
+      "hotScore": 0.72,
+      "freshness": 1,
+      "crossSource": 0.6309,
+      "totalScore": 0.7773,
+      "sources": [
+        {
+          "channel": "baidu",
+          "rank": 3,
+          "hot": 0,
+          "url": "https://m.baidu.com/s?word=125%E5%8F%B0%E5%85%AC%E4%BA%A4%E8%BD%A6%E9%80%80%E5%BD%B9%E7%94%B5%E6%B1%A0%E5%8D%96%E4%BA%86300%E4%B8%87%E5%85%83&sa=fyb_news"
+        }
+      ],
+      "summary": "",
+      "url": "https://m.baidu.com/s?word=125%E5%8F%B0%E5%85%AC%E4%BA%A4%E8%BD%A6%E9%80%80%E5%BD%B9%E7%94%B5%E6%B1%A0%E5%8D%96%E4%BA%86300%E4%B8%87%E5%85%83&sa=fyb_news"
+    },
+    {
+      "id": "evt-ai000000",
+      "title": "看完 AI 仿真人剧《持械入宋》，感觉技术上并没有很高壁垒，实拍难度也不大，为什么真人影视里没人来拍？",
       "category": "society",
       "hotScore": 0.7125,
-      "freshness": 1,
+      "freshness": 0.9999,
       "crossSource": 0.6309,
       "totalScore": 0.7743,
       "sources": [
@@ -121,8 +165,27 @@
       "url": ""
     },
     {
+      "id": "evt-63000000",
+      "title": "6城住户存款超3万亿",
+      "category": "society",
+      "hotScore": 0.64,
+      "freshness": 1,
+      "crossSource": 0.6309,
+      "totalScore": 0.7453,
+      "sources": [
+        {
+          "channel": "baidu",
+          "rank": 5,
+          "hot": 0,
+          "url": "https://m.baidu.com/s?word=6%E5%9F%8E%E4%BD%8F%E6%88%B7%E5%AD%98%E6%AC%BE%E8%B6%853%E4%B8%87%E4%BA%BF&sa=fyb_news"
+        }
+      ],
+      "summary": "",
+      "url": "https://m.baidu.com/s?word=6%E5%9F%8E%E4%BD%8F%E6%88%B7%E5%AD%98%E6%AC%BE%E8%B6%853%E4%B8%87%E4%BA%BF&sa=fyb_news"
+    },
+    {
       "id": "evt-50000000",
-      "title": "中国纯电车如何跨过500km/h这道坎",
+      "title": "每天给你 5000 元，但是第二天你的存款会自动消失，你愿意吗？",
       "category": "society",
       "hotScore": 0.6375,
       "freshness": 0.9999,
@@ -130,21 +193,21 @@
       "totalScore": 0.7443,
       "sources": [
         {
-          "channel": "toutiao",
-          "rank": 6,
-          "hot": 6502899,
-          "url": "https://www.toutiao.com/trending/7704987766832120371/"
+          "channel": "zhihu",
+          "rank": 4,
+          "hot": 0,
+          "url": ""
         }
       ],
       "summary": "",
-      "url": "https://www.toutiao.com/trending/7704987766832120371/"
+      "url": ""
     },
     {
-      "id": "evt-10300000",
-      "title": "103岁老奶奶不肯吃五角星饼干",
+      "id": "evt-17000000",
+      "title": "17岁职校生手搓充电宝 校长现场拍板",
       "category": "society",
       "hotScore": 0.6,
-      "freshness": 0.9999,
+      "freshness": 1,
       "crossSource": 0.6309,
       "totalScore": 0.7293,
       "sources": [
@@ -152,18 +215,18 @@
           "channel": "baidu",
           "rank": 6,
           "hot": 0,
-          "url": "https://m.baidu.com/s?word=103%E5%B2%81%E8%80%81%E5%A5%B6%E5%A5%B6%E4%B8%8D%E8%82%AF%E5%90%83%E4%BA%94%E8%A7%92%E6%98%9F%E9%A5%BC%E5%B9%B2&sa=fyb_news"
+          "url": "https://m.baidu.com/s?word=17%E5%B2%81%E8%81%8C%E6%A0%A1%E7%94%9F%E6%89%8B%E6%90%93%E5%85%85%E7%94%B5%E5%AE%9D+%E6%A0%A1%E9%95%BF%E7%8E%B0%E5%9C%BA%E6%8B%8D%E6%9D%BF&sa=fyb_news"
         }
       ],
       "summary": "",
-      "url": "https://m.baidu.com/s?word=103%E5%B2%81%E8%80%81%E5%A5%B6%E5%A5%B6%E4%B8%8D%E8%82%AF%E5%90%83%E4%BA%94%E8%A7%92%E6%98%9F%E9%A5%BC%E5%B9%B2&sa=fyb_news"
+      "url": "https://m.baidu.com/s?word=17%E5%B2%81%E8%81%8C%E6%A0%A1%E7%94%9F%E6%89%8B%E6%90%93%E5%85%85%E7%94%B5%E5%AE%9D+%E6%A0%A1%E9%95%BF%E7%8E%B0%E5%9C%BA%E6%8B%8D%E6%9D%BF&sa=fyb_news"
     },
     {
-      "id": "evt-ai000000",
-      "title": "民主党提出超级 AI 禁令，美股迎来 1896 年以来中期选举后表现最差的第二个交易日，影响有多大？",
+      "id": "evt-13000000",
+      "title": "儿子偷卖母亲 13 克金项链，母亲得知真相后报警，儿子被采取刑事强制措施，拿自己家的东西算偷吗？",
       "category": "society",
       "hotScore": 0.5625,
-      "freshness": 1,
+      "freshness": 0.9999,
       "crossSource": 0.6309,
       "totalScore": 0.7143,
       "sources": [
@@ -178,30 +241,11 @@
       "url": ""
     },
     {
-      "id": "evt-60000000",
-      "title": "女子带娃仅点6元豆芽连吃7碗米饭",
-      "category": "society",
-      "hotScore": 0.56,
-      "freshness": 0.9999,
-      "crossSource": 0.6309,
-      "totalScore": 0.7133,
-      "sources": [
-        {
-          "channel": "baidu",
-          "rank": 7,
-          "hot": 0,
-          "url": "https://m.baidu.com/s?word=%E5%A5%B3%E5%AD%90%E5%B8%A6%E5%A8%83%E4%BB%85%E7%82%B96%E5%85%83%E8%B1%86%E8%8A%BD%E8%BF%9E%E5%90%837%E7%A2%97%E7%B1%B3%E9%A5%AD&sa=fyb_news"
-        }
-      ],
-      "summary": "",
-      "url": "https://m.baidu.com/s?word=%E5%A5%B3%E5%AD%90%E5%B8%A6%E5%A8%83%E4%BB%85%E7%82%B96%E5%85%83%E8%B1%86%E8%8A%BD%E8%BF%9E%E5%90%837%E7%A2%97%E7%B1%B3%E9%A5%AD&sa=fyb_news"
-    },
-    {
-      "id": "evt-15000000",
-      "title": "若失守1.5℃升温红线将酿成巨灾",
+      "id": "evt-t0000000",
+      "title": "圆通总裁潘水苗心疼儿子Tim工作辛苦",
       "category": "society",
       "hotScore": 0.52,
-      "freshness": 0.9999,
+      "freshness": 1,
       "crossSource": 0.6309,
       "totalScore": 0.6973,
       "sources": [
@@ -209,43 +253,24 @@
           "channel": "baidu",
           "rank": 8,
           "hot": 0,
-          "url": "https://m.baidu.com/s?word=%E8%8B%A5%E5%A4%B1%E5%AE%881.5%E2%84%83%E5%8D%87%E6%B8%A9%E7%BA%A2%E7%BA%BF%E5%B0%86%E9%85%BF%E6%88%90%E5%B7%A8%E7%81%BE&sa=fyb_news"
+          "url": "https://m.baidu.com/s?word=%E5%9C%86%E9%80%9A%E6%80%BB%E8%A3%81%E6%BD%98%E6%B0%B4%E8%8B%97%E5%BF%83%E7%96%BC%E5%84%BF%E5%AD%90Tim%E5%B7%A5%E4%BD%9C%E8%BE%9B%E8%8B%A6&sa=fyb_news"
         }
       ],
       "summary": "",
-      "url": "https://m.baidu.com/s?word=%E8%8B%A5%E5%A4%B1%E5%AE%881.5%E2%84%83%E5%8D%87%E6%B8%A9%E7%BA%A2%E7%BA%BF%E5%B0%86%E9%85%BF%E6%88%90%E5%B7%A8%E7%81%BE&sa=fyb_news"
-    },
-    {
-      "id": "evt-61000000",
-      "title": "6架歼10飞越长城",
-      "category": "society",
-      "hotScore": 0.51,
-      "freshness": 0.9999,
-      "crossSource": 0.6309,
-      "totalScore": 0.6933,
-      "sources": [
-        {
-          "channel": "toutiao",
-          "rank": 9,
-          "hot": 4817466,
-          "url": "https://www.toutiao.com/trending/7704187559509000211/"
-        }
-      ],
-      "summary": "",
-      "url": "https://www.toutiao.com/trending/7704187559509000211/"
+      "url": "https://m.baidu.com/s?word=%E5%9C%86%E9%80%9A%E6%80%BB%E8%A3%81%E6%BD%98%E6%B0%B4%E8%8B%97%E5%BF%83%E7%96%BC%E5%84%BF%E5%AD%90Tim%E5%B7%A5%E4%BD%9C%E8%BE%9B%E8%8B%A6&sa=fyb_news"
     },
     {
       "id": "evt-11000000",
       "title": "最高检：男子将11岁女童灌醉性侵，被检方监督立案后获刑16年",
       "category": "society",
-      "hotScore": 0.51,
-      "freshness": 1,
+      "hotScore": 0.4675,
+      "freshness": 0.9999,
       "crossSource": 0.6309,
-      "totalScore": 0.6933,
+      "totalScore": 0.6763,
       "sources": [
         {
           "channel": "thepaper",
-          "rank": 9,
+          "rank": 10,
           "hot": 0,
           "url": "https://www.thepaper.cn/newsDetail_forward_34418743"
         }
@@ -257,14 +282,14 @@
       "id": "evt-c0000000",
       "title": "体坛联播｜热苏斯回应C罗退出国家队，米兰欧联杯爆冷输球",
       "category": "society",
-      "hotScore": 0.4675,
-      "freshness": 1,
+      "hotScore": 0.425,
+      "freshness": 0.9999,
       "crossSource": 0.6309,
-      "totalScore": 0.6763,
+      "totalScore": 0.6593,
       "sources": [
         {
           "channel": "thepaper",
-          "rank": 10,
+          "rank": 11,
           "hot": 0,
           "url": "https://www.thepaper.cn/newsDetail_forward_34418036"
         }
