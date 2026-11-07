@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-11-07T14:41:09.231Z",
+  "generatedAt": "2026-11-07T19:43:47.401Z",
   "fields": {
     "society": "社会",
     "economy": "经济",
@@ -11,14 +11,14 @@
       "title": "多地官宣调整中小学上学时间",
       "category": "society",
       "hotScore": 0.85,
-      "freshness": 1,
+      "freshness": 0.9999,
       "crossSource": 1,
       "totalScore": 0.94,
       "sources": [
         {
           "channel": "toutiao",
           "rank": 1,
-          "hot": 11456755,
+          "hot": 12933323,
           "url": "https://www.toutiao.com/trending/7704669314460271155/"
         },
         {
@@ -33,22 +33,47 @@
     },
     {
       "id": "evt-10000000",
-      "title": "北京火锅店立冬排队超1000桌",
+      "title": "北京一火锅店立冬排队超1000桌",
       "category": "society",
-      "hotScore": 0.8075,
-      "freshness": 1,
-      "crossSource": 0.6309,
-      "totalScore": 0.8123,
+      "hotScore": 0.6,
+      "freshness": 0.9999,
+      "crossSource": 1,
+      "totalScore": 0.84,
       "sources": [
         {
           "channel": "toutiao",
-          "rank": 2,
-          "hot": 10366501,
+          "rank": 20,
+          "hot": 1934419,
           "url": "https://www.toutiao.com/trending/7704524130816917567/"
+        },
+        {
+          "channel": "baidu",
+          "rank": 6,
+          "hot": 0,
+          "url": "https://m.baidu.com/s?word=%E5%8C%97%E4%BA%AC%E4%B8%80%E7%81%AB%E9%94%85%E5%BA%97%E7%AB%8B%E5%86%AC%E6%8E%92%E9%98%9F%E8%B6%851000%E6%A1%8C&sa=fyb_news"
         }
       ],
       "summary": "",
       "url": "https://www.toutiao.com/trending/7704524130816917567/"
+    },
+    {
+      "id": "evt-98888888",
+      "title": "尾号98888888手机号128万起拍",
+      "category": "society",
+      "hotScore": 0.8075,
+      "freshness": 0.9999,
+      "crossSource": 0.6309,
+      "totalScore": 0.8122,
+      "sources": [
+        {
+          "channel": "toutiao",
+          "rank": 2,
+          "hot": 11702554,
+          "url": "https://www.toutiao.com/trending/7705331962466549802/"
+        }
+      ],
+      "summary": "",
+      "url": "https://www.toutiao.com/trending/7705331962466549802/"
     },
     {
       "id": "evt-80000000",
@@ -70,11 +95,11 @@
       "url": "https://m.baidu.com/s?word=8%E7%9C%81%E4%BB%BD%E6%9C%89%E5%A4%A7%E5%88%B0%E6%9A%B4%E9%9B%AA+%E5%B1%80%E5%9C%B0%E7%89%B9%E5%A4%A7%E6%9A%B4%E9%9B%AA&sa=fyb_news"
     },
     {
-      "id": "evt-117dee00",
-      "title": "如何看待 11 月 7 日 DeepSeek 再次崩溃？",
+      "id": "evt-60000000",
+      "title": "外媒曝约 60 万枚英伟达芯片滞留香港，美方部分人士指责其为「卡脖子」，为何美方会对此如此着急？",
       "category": "society",
       "hotScore": 0.75,
-      "freshness": 1,
+      "freshness": 0.9999,
       "crossSource": 0.6309,
       "totalScore": 0.7893,
       "sources": [
@@ -89,36 +114,17 @@
       "url": ""
     },
     {
-      "id": "evt-60000000",
-      "title": "外媒曝约 60 万枚英伟达芯片滞留香港，美方部分人士指责其为「卡脖子」，为何美方会对此如此着急？",
+      "id": "evt-117dee00",
+      "title": "如何看待 11 月 7 日 DeepSeek 再次崩溃？",
       "category": "society",
       "hotScore": 0.7125,
-      "freshness": 1,
+      "freshness": 0.9999,
       "crossSource": 0.6309,
       "totalScore": 0.7743,
       "sources": [
         {
           "channel": "zhihu",
           "rank": 2,
-          "hot": 0,
-          "url": ""
-        }
-      ],
-      "summary": "",
-      "url": ""
-    },
-    {
-      "id": "evt-19800000",
-      "title": "男子收 1.98 万误转账约在派出所归还却遭起诉，法院认定不当得利冻结其账户资金，怎样从法律角度解读？",
-      "category": "society",
-      "hotScore": 0.675,
-      "freshness": 1,
-      "crossSource": 0.6309,
-      "totalScore": 0.7593,
-      "sources": [
-        {
-          "channel": "zhihu",
-          "rank": 3,
           "hot": 0,
           "url": ""
         }
@@ -146,49 +152,30 @@
       "url": "https://m.baidu.com/s?word=%E4%B8%BA%E4%BB%80%E4%B9%88%E4%BB%8A%E5%B9%B4%E5%8F%8C11%E7%9A%84%E5%BF%AB%E9%80%92%E5%8C%85%E8%A3%85%E5%8F%98%E7%83%82%E4%BA%86&sa=fyb_news"
     },
     {
-      "id": "evt-40000000",
-      "title": "政策严控「速成车」，工信部第 413 批新车申报量锐减，新势力集体沉默，「速成车」时代要结束了吗？",
+      "id": "evt-47000000",
+      "title": "47岁外卖员在澳洲遇害，其妻称为攒钱丈夫已9年未回国，51岁嫌疑男子已被抓获",
       "category": "society",
-      "hotScore": 0.6,
-      "freshness": 1,
+      "hotScore": 0.595,
+      "freshness": 0.9999,
       "crossSource": 0.6309,
-      "totalScore": 0.7293,
+      "totalScore": 0.7273,
       "sources": [
         {
-          "channel": "zhihu",
-          "rank": 5,
-          "hot": 0,
-          "url": ""
-        }
-      ],
-      "summary": "",
-      "url": ""
-    },
-    {
-      "id": "evt-ai000000",
-      "title": "AI漫剧多赚钱？从业者：播放1万挣5块",
-      "category": "society",
-      "hotScore": 0.56,
-      "freshness": 1,
-      "crossSource": 0.6309,
-      "totalScore": 0.7133,
-      "sources": [
-        {
-          "channel": "baidu",
+          "channel": "thepaper",
           "rank": 7,
           "hot": 0,
-          "url": "https://m.baidu.com/s?word=AI%E6%BC%AB%E5%89%A7%E5%A4%9A%E8%B5%9A%E9%92%B1%EF%BC%9F%E4%BB%8E%E4%B8%9A%E8%80%85%EF%BC%9A%E6%92%AD%E6%94%BE1%E4%B8%87%E6%8C%A35%E5%9D%97&sa=fyb_news"
+          "url": "https://www.thepaper.cn/newsDetail_forward_34427295"
         }
       ],
       "summary": "",
-      "url": "https://m.baidu.com/s?word=AI%E6%BC%AB%E5%89%A7%E5%A4%9A%E8%B5%9A%E9%92%B1%EF%BC%9F%E4%BB%8E%E4%B8%9A%E8%80%85%EF%BC%9A%E6%92%AD%E6%94%BE1%E4%B8%87%E6%8C%A35%E5%9D%97&sa=fyb_news"
+      "url": "https://www.thepaper.cn/newsDetail_forward_34427295"
     },
     {
-      "id": "evt-fakerbl0",
-      "title": "如何看待 Faker 称 BLG 具备夺冠的实力，但很遗憾他们在半决赛对上了我们？",
+      "id": "evt-45000000",
+      "title": "曝美光将暂停 45 亿美元内存厂扩产，为何后续会出现要么 AI 崩要么内存涨价的局面？",
       "category": "society",
       "hotScore": 0.525,
-      "freshness": 1,
+      "freshness": 0.9999,
       "crossSource": 0.6309,
       "totalScore": 0.6993,
       "sources": [
@@ -203,49 +190,30 @@
       "url": ""
     },
     {
-      "id": "evt-wtt00000",
-      "title": "国乒男单连续两站WTT冠军赛无缘四强",
+      "id": "evt-04000000",
+      "title": "温瑞博0比4林昀儒",
       "category": "society",
-      "hotScore": 0.51,
+      "hotScore": 0.52,
       "freshness": 1,
       "crossSource": 0.6309,
-      "totalScore": 0.6933,
+      "totalScore": 0.6973,
       "sources": [
         {
-          "channel": "toutiao",
-          "rank": 9,
-          "hot": 5147852,
-          "url": "https://www.toutiao.com/trending/7705431434030222875/"
-        }
-      ],
-      "summary": "",
-      "url": "https://www.toutiao.com/trending/7705431434030222875/"
-    },
-    {
-      "id": "evt-36000000",
-      "title": "小米成立中国区公关部，360原公关副总裁张永生任总经理",
-      "category": "society",
-      "hotScore": 0.51,
-      "freshness": 1,
-      "crossSource": 0.6309,
-      "totalScore": 0.6933,
-      "sources": [
-        {
-          "channel": "thepaper",
-          "rank": 9,
+          "channel": "baidu",
+          "rank": 8,
           "hot": 0,
-          "url": "https://www.thepaper.cn/newsDetail_forward_34423137"
+          "url": "https://m.baidu.com/s?word=%E6%B8%A9%E7%91%9E%E5%8D%9A0%E6%AF%944%E6%9E%97%E6%98%80%E5%84%92&sa=fyb_news"
         }
       ],
       "summary": "",
-      "url": "https://www.thepaper.cn/newsDetail_forward_34423137"
+      "url": "https://m.baidu.com/s?word=%E6%B8%A9%E7%91%9E%E5%8D%9A0%E6%AF%944%E6%9E%97%E6%98%80%E5%84%92&sa=fyb_news"
     },
     {
-      "id": "evt-cyber000",
-      "title": "特斯拉宣布终止 Cybertruck 生产，扩大 Cybercab 的产能，怎样解读这一调整？",
+      "id": "evt-55000000",
+      "title": "《影之刃零》海外收入占到 55%，一款武侠游戏在欧美卖得比国内好，这事该怎么看？",
       "category": "society",
       "hotScore": 0.45,
-      "freshness": 1,
+      "freshness": 0.9999,
       "crossSource": 0.6309,
       "totalScore": 0.6693,
       "sources": [
