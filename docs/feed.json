@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-11-07T19:43:47.401Z",
+  "generatedAt": "2026-11-07T23:14:15.290Z",
   "fields": {
     "society": "社会",
     "economy": "经济",
@@ -18,7 +18,7 @@
         {
           "channel": "toutiao",
           "rank": 1,
-          "hot": 12933323,
+          "hot": 14022004,
           "url": "https://www.toutiao.com/trending/7704669314460271155/"
         },
         {
@@ -30,50 +30,6 @@
       ],
       "summary": "",
       "url": "https://www.toutiao.com/trending/7704669314460271155/"
-    },
-    {
-      "id": "evt-10000000",
-      "title": "北京一火锅店立冬排队超1000桌",
-      "category": "society",
-      "hotScore": 0.6,
-      "freshness": 0.9999,
-      "crossSource": 1,
-      "totalScore": 0.84,
-      "sources": [
-        {
-          "channel": "toutiao",
-          "rank": 20,
-          "hot": 1934419,
-          "url": "https://www.toutiao.com/trending/7704524130816917567/"
-        },
-        {
-          "channel": "baidu",
-          "rank": 6,
-          "hot": 0,
-          "url": "https://m.baidu.com/s?word=%E5%8C%97%E4%BA%AC%E4%B8%80%E7%81%AB%E9%94%85%E5%BA%97%E7%AB%8B%E5%86%AC%E6%8E%92%E9%98%9F%E8%B6%851000%E6%A1%8C&sa=fyb_news"
-        }
-      ],
-      "summary": "",
-      "url": "https://www.toutiao.com/trending/7704524130816917567/"
-    },
-    {
-      "id": "evt-98888888",
-      "title": "尾号98888888手机号128万起拍",
-      "category": "society",
-      "hotScore": 0.8075,
-      "freshness": 0.9999,
-      "crossSource": 0.6309,
-      "totalScore": 0.8122,
-      "sources": [
-        {
-          "channel": "toutiao",
-          "rank": 2,
-          "hot": 11702554,
-          "url": "https://www.toutiao.com/trending/7705331962466549802/"
-        }
-      ],
-      "summary": "",
-      "url": "https://www.toutiao.com/trending/7705331962466549802/"
     },
     {
       "id": "evt-80000000",
@@ -95,17 +51,17 @@
       "url": "https://m.baidu.com/s?word=8%E7%9C%81%E4%BB%BD%E6%9C%89%E5%A4%A7%E5%88%B0%E6%9A%B4%E9%9B%AA+%E5%B1%80%E5%9C%B0%E7%89%B9%E5%A4%A7%E6%9A%B4%E9%9B%AA&sa=fyb_news"
     },
     {
-      "id": "evt-60000000",
-      "title": "外媒曝约 60 万枚英伟达芯片滞留香港，美方部分人士指责其为「卡脖子」，为何美方会对此如此着急？",
+      "id": "evt-117dee00",
+      "title": "如何看待 11 月 7 日 DeepSeek 再次崩溃？",
       "category": "society",
-      "hotScore": 0.75,
+      "hotScore": 0.6375,
       "freshness": 0.9999,
       "crossSource": 0.6309,
-      "totalScore": 0.7893,
+      "totalScore": 0.7443,
       "sources": [
         {
           "channel": "zhihu",
-          "rank": 1,
+          "rank": 4,
           "hot": 0,
           "url": ""
         }
@@ -114,42 +70,61 @@
       "url": ""
     },
     {
-      "id": "evt-117dee00",
-      "title": "如何看待 11 月 7 日 DeepSeek 再次崩溃？",
+      "id": "evt-40000000",
+      "title": "女老师上场示范连拉4个引体向上",
       "category": "society",
-      "hotScore": 0.7125,
+      "hotScore": 0.6375,
       "freshness": 0.9999,
       "crossSource": 0.6309,
-      "totalScore": 0.7743,
+      "totalScore": 0.7442,
       "sources": [
         {
-          "channel": "zhihu",
-          "rank": 2,
-          "hot": 0,
-          "url": ""
+          "channel": "toutiao",
+          "rank": 6,
+          "hot": 8504775,
+          "url": "https://www.toutiao.com/trending/7704988843992236595/"
         }
       ],
       "summary": "",
-      "url": ""
+      "url": "https://www.toutiao.com/trending/7704988843992236595/"
     },
     {
       "id": "evt-11000000",
       "title": "为什么今年双11的快递包装变烂了",
       "category": "society",
-      "hotScore": 0.64,
+      "hotScore": 0.6,
       "freshness": 1,
       "crossSource": 0.6309,
-      "totalScore": 0.7453,
+      "totalScore": 0.7293,
       "sources": [
         {
           "channel": "baidu",
-          "rank": 5,
+          "rank": 6,
           "hot": 0,
           "url": "https://m.baidu.com/s?word=%E4%B8%BA%E4%BB%80%E4%B9%88%E4%BB%8A%E5%B9%B4%E5%8F%8C11%E7%9A%84%E5%BF%AB%E9%80%92%E5%8C%85%E8%A3%85%E5%8F%98%E7%83%82%E4%BA%86&sa=fyb_news"
         }
       ],
       "summary": "",
       "url": "https://m.baidu.com/s?word=%E4%B8%BA%E4%BB%80%E4%B9%88%E4%BB%8A%E5%B9%B4%E5%8F%8C11%E7%9A%84%E5%BF%AB%E9%80%92%E5%8C%85%E8%A3%85%E5%8F%98%E7%83%82%E4%BA%86&sa=fyb_news"
+    },
+    {
+      "id": "evt-60000000",
+      "title": "外媒曝约 60 万枚英伟达芯片滞留香港，美方部分人士指责其为「卡脖子」，为何美方会对此如此着急？",
+      "category": "society",
+      "hotScore": 0.6,
+      "freshness": 0.9999,
+      "crossSource": 0.6309,
+      "totalScore": 0.7293,
+      "sources": [
+        {
+          "channel": "zhihu",
+          "rank": 5,
+          "hot": 0,
+          "url": ""
+        }
+      ],
+      "summary": "",
+      "url": ""
     },
     {
       "id": "evt-47000000",
@@ -182,44 +157,6 @@
         {
           "channel": "zhihu",
           "rank": 7,
-          "hot": 0,
-          "url": ""
-        }
-      ],
-      "summary": "",
-      "url": ""
-    },
-    {
-      "id": "evt-04000000",
-      "title": "温瑞博0比4林昀儒",
-      "category": "society",
-      "hotScore": 0.52,
-      "freshness": 1,
-      "crossSource": 0.6309,
-      "totalScore": 0.6973,
-      "sources": [
-        {
-          "channel": "baidu",
-          "rank": 8,
-          "hot": 0,
-          "url": "https://m.baidu.com/s?word=%E6%B8%A9%E7%91%9E%E5%8D%9A0%E6%AF%944%E6%9E%97%E6%98%80%E5%84%92&sa=fyb_news"
-        }
-      ],
-      "summary": "",
-      "url": "https://m.baidu.com/s?word=%E6%B8%A9%E7%91%9E%E5%8D%9A0%E6%AF%944%E6%9E%97%E6%98%80%E5%84%92&sa=fyb_news"
-    },
-    {
-      "id": "evt-55000000",
-      "title": "《影之刃零》海外收入占到 55%，一款武侠游戏在欧美卖得比国内好，这事该怎么看？",
-      "category": "society",
-      "hotScore": 0.45,
-      "freshness": 0.9999,
-      "crossSource": 0.6309,
-      "totalScore": 0.6693,
-      "sources": [
-        {
-          "channel": "zhihu",
-          "rank": 9,
           "hot": 0,
           "url": ""
         }
