@@ -1,0 +1,277 @@
+<!DOCTYPE html>
+<html lang="zh-CN">
+<head>
+<meta charset="utf-8"/>
+<meta name="viewport" content="width=device-width,initial-scale=1"/>
+<title>PriceLens 价镜 · 电商商品价格采集与对比</title>
+<link rel="icon" href="data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 32 32'%3E%3Crect width='32' height='32' rx='8' fill='%230d131b'/%3E%3Ccircle cx='14' cy='14' r='7' fill='none' stroke='%2334d399' stroke-width='2.4'/%3E%3Cpath d='M19 19l6 6' stroke='%2334d399' stroke-width='2.6' stroke-linecap='round'/%3E%3C/svg%3E"/>
+<style>/*__CSS__*/</style>
+</head>
+<body>
+<div class="glow glow-a"></div>
+<div class="glow glow-b"></div>
+
+<header class="topbar">
+  <div class="brand">
+    <span class="mark">
+      <svg viewBox="0 0 24 24" fill="none" aria-hidden="true">
+        <circle cx="10.5" cy="10.5" r="6.4" stroke="currentColor" stroke-width="1.6"/>
+        <path d="M15.4 15.4 21 21" stroke="currentColor" stroke-width="1.6" stroke-linecap="round"/>
+        <path d="M7.4 11.6 9.9 9l2 2.2L15 7.6" stroke="currentColor" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round"/>
+      </svg>
+    </span>
+    <div class="brand-text">
+      <b>PriceLens<span>价镜</span></b>
+      <small>e-commerce price intelligence</small>
+    </div>
+  </div>
+  <nav class="nav">
+    <a href="#overview">概览</a>
+    <a href="#trend">趋势</a>
+    <a href="#compare">同款对比</a>
+    <a href="#table">商品清单</a>
+    <a href="#arch">架构</a>
+  </nav>
+  <div class="status" id="status"><i></i><span>内置示例数据</span></div>
+</header>
+
+<main class="wrap">
+
+  <section class="hero">
+    <div class="hero-top">
+      <div>
+        <div class="eyebrow"><span class="live-dot"></span> CLI + Web · 一键跑通采集流水线</div>
+        <h1>输入关键词，<em>现场跑一遍采集脚本</em></h1>
+        <p class="lead">跨京东 / 淘宝 / 拼多多抓取商品名、价格、销量、店铺评分与链接 —— 自动清洗去重、同款归组、价格排序、趋势与性价比推荐。</p>
+      </div>
+      <div class="hero-badges">
+        <div><b id="heroCount">—</b><span>商品</span></div>
+        <div><b id="heroGroups">—</b><span>同款组</span></div>
+        <div><b id="heroTime">—</b><span>耗时 ms</span></div>
+      </div>
+    </div>
+
+    <div class="console">
+      <div class="cmd">
+        <span class="prompt">$</span>
+        <span class="cmd-bin">pricehunter search</span>
+        <input id="keyword" type="text" value="机械键盘" autocomplete="off" spellcheck="false" aria-label="搜索关键词"/>
+        <button id="run" class="run-btn">
+          <span class="btn-label">开始采集</span>
+          <span class="spinner"></span>
+        </button>
+      </div>
+
+      <div class="cmd-options">
+        <div class="opt-group" role="group" aria-label="平台">
+          <span class="opt-label">平台</span>
+          <label class="chip on p-jd"><input type="checkbox" value="jd" checked/><i></i>京东</label>
+          <label class="chip on p-tb"><input type="checkbox" value="tb" checked/><i></i>淘宝</label>
+          <label class="chip on p-pdd"><input type="checkbox" value="pdd" checked/><i></i>拼多多</label>
+        </div>
+        <div class="opt-group">
+          <span class="opt-label">单平台条数</span>
+          <select id="limit">
+            <option value="8">8</option>
+            <option value="12" selected>12</option>
+            <option value="18">18</option>
+            <option value="24">24</option>
+          </select>
+        </div>
+        <div class="opt-group">
+          <span class="opt-label">数据源</span>
+          <select id="source">
+            <option value="auto" selected>自动（真实优先，失败降级）</option>
+            <option value="simulated">模拟数据源</option>
+            <option value="live">仅真实抓取</option>
+          </select>
+        </div>
+        <span class="hint">真实抓取受平台反爬与登录态限制，失败时自动降级，整条链路保持可演示。</span>
+      </div>
+
+      <div class="progress"><i id="progressBar"></i></div>
+      <div class="logbar" id="logs"><span class="muted">就绪 · 内置示例为真实流水线离线运行结果</span></div>
+    </div>
+
+    <div class="suggest">
+      <span>试试</span>
+      <button data-kw="机械键盘">机械键盘</button>
+      <button data-kw="无线耳机">无线耳机</button>
+      <button data-kw="空气炸锅">空气炸锅</button>
+      <button data-kw="便携咖啡机">便携咖啡机</button>
+      <button data-kw="露营灯">露营灯</button>
+      <a class="report-link" id="reportLink" target="_blank" rel="noopener" hidden>查看完整 HTML 报告 →</a>
+    </div>
+  </section>
+
+  <section id="overview" class="kpis" aria-label="核心指标"></section>
+
+  <section id="trend" class="grid-2">
+    <div class="card">
+      <div class="card-head">
+        <div>
+          <h2>价格趋势</h2>
+          <p class="sub">近 90 天报价走势 · 取同款组内性价比最高的链接</p>
+        </div>
+        <div class="seg" id="rangeSeg">
+          <button data-range="30">30天</button>
+          <button data-range="90" class="on">90天</button>
+        </div>
+      </div>
+      <div class="chart" id="trendChart"></div>
+      <div class="legend" id="trendLegend"></div>
+      <p class="footnote">历史价格缺失时会按商品价格走势模型补全，并在数据示例中标记 estimated。</p>
+    </div>
+
+    <div class="card">
+      <div class="card-head">
+        <div>
+          <h2>平台均价</h2>
+          <p class="sub">同批商品在各平台的平均到手价</p>
+        </div>
+      </div>
+      <div class="pbars" id="platformBars"></div>
+      <div class="platform-table" id="platformMeta"></div>
+    </div>
+  </section>
+
+  <section class="card" id="scatterCard">
+    <div class="card-head">
+      <div>
+        <h2>价格 × 销量分布</h2>
+        <p class="sub">横轴价格 · 纵轴销量（对数）· 气泡大小 = 店铺评分</p>
+      </div>
+      <div class="legend-inline" id="scatterLegend"></div>
+    </div>
+    <div class="chart" id="scatterChart"></div>
+    <p class="footnote">左上象限通常是「低价高销」；右下角的高价低销商品需要谨慎评估。</p>
+  </section>
+
+  <section class="card" id="compare">
+    <div class="card-head">
+      <div>
+        <h2>同款横向对比</h2>
+        <p class="sub">跨平台同款自动归组 · 绿色为组内最低价</p>
+      </div>
+      <span class="counter" id="groupCounter"></span>
+    </div>
+    <div class="groups" id="groups"></div>
+  </section>
+
+  <section id="rec">
+    <div class="card-head">
+      <div>
+        <h2>智能推荐</h2>
+        <p class="sub">价格 45% · 销量 30% · 口碑 25% 的加权性价比模型</p>
+      </div>
+    </div>
+    <div class="recs" id="recs"></div>
+  </section>
+
+  <section class="card" id="table">
+    <div class="card-head">
+      <div>
+        <h2>商品清单</h2>
+        <p class="sub">默认按价格升序 · 点击表头切换排序</p>
+      </div>
+      <input class="filter" id="filter" type="text" placeholder="筛选商品 / 品牌 / 店铺"/>
+    </div>
+    <div class="table-wrap">
+      <table class="data-table">
+        <thead>
+          <tr>
+            <th data-sort="rank">#</th>
+            <th data-sort="platform">平台</th>
+            <th data-sort="title">商品</th>
+            <th data-sort="price" class="sorted">价格 <i>↑</i></th>
+            <th data-sort="sales">销量</th>
+            <th data-sort="rating">评分</th>
+            <th data-sort="value">性价比</th>
+            <th>标签</th>
+            <th>链接</th>
+          </tr>
+        </thead>
+        <tbody id="tableBody"></tbody>
+      </table>
+    </div>
+  </section>
+
+  <section class="card" id="sample">
+    <div class="card-head">
+      <div>
+        <h2>数据示例</h2>
+        <p class="sub">同一批数据在流水线各阶段的形态</p>
+      </div>
+      <div class="tabs" id="sampleTabs">
+        <button data-tab="raw">① 原始采集</button>
+        <button data-tab="clean" class="on">② 清洗归一</button>
+        <button data-tab="result">③ 分析结果</button>
+      </div>
+    </div>
+    <div id="sampleBody"></div>
+  </section>
+
+  <section id="arch">
+    <div class="card-head">
+      <div>
+        <h2>整体架构</h2>
+        <p class="sub">适配器分层解耦，采集与呈现互不依赖</p>
+      </div>
+    </div>
+    <div class="pipeline" id="pipeline">
+      <div class="pstep"><b>STEP 01</b><h4>采集</h4><p>平台适配器批量抓取，真实失败自动降级仿真源</p></div>
+      <div class="pstep"><b>STEP 02</b><h4>清洗</h4><p>全角归一、价格 / 销量 / 评分解析、品牌型号抽取</p></div>
+      <div class="pstep"><b>STEP 03</b><h4>去重归组</h4><p>SKU → 同款同价 → 标题相似度，跨平台同款聚类</p></div>
+      <div class="pstep"><b>STEP 04</b><h4>分析</h4><p>价格升序、MAD 异常检测、加权性价比评分与推荐</p></div>
+      <div class="pstep"><b>STEP 05</b><h4>呈现</h4><p>JSON / CSV / HTML 落盘 + 交互网页与趋势图</p></div>
+    </div>
+    <div class="arch-grid">
+      <article class="arch-col">
+        <h3>采集层 · adapters/</h3>
+        <ul>
+          <li><b>jd.py</b> 搜索页 HTML + p.3.cn 价格接口批量取价</li>
+          <li><b>taobao.py</b> g_page_config JSON 解析，依赖登录 Cookie</li>
+          <li><b>pdd.py</b> 预留第三方合规数据服务接入点</li>
+          <li><b>simulated.py</b> 固定种子的仿真数据源，保证离线可演示</li>
+        </ul>
+      </article>
+      <article class="arch-col">
+        <h3>处理层 · pipeline/</h3>
+        <ul>
+          <li><b>normalize.py</b> 全角归一、价格/销量/评分解析、品牌型号抽取</li>
+          <li><b>dedupe</b> SKU → 同款同价 → 标题相似度三重去重</li>
+          <li><b>analyze.py</b> 同款归组、MAD 异常检测、加权性价比评分</li>
+          <li><b>trend.py</b> 90 天趋势指标与「是否好价」信号</li>
+        </ul>
+      </article>
+      <article class="arch-col">
+        <h3>呈现层 · output</h3>
+        <ul>
+          <li><b>render.py</b> 内联 SVG 的离线 HTML 报告</li>
+          <li><b>pipeline.py</b> 落盘 JSON / CSV / HTML 三件套</li>
+          <li><b>server.py</b> 本地 HTTP 服务，POST /api/search 实时运行</li>
+          <li><b>cli.py</b> search / serve / build-demo 三个子命令</li>
+        </ul>
+      </article>
+    </div>
+    <pre class="cli"><code><span class="c"># 1. 采集并分析（真实抓取优先，失败自动降级模拟源）</span>
+python -m pricehunter search "机械键盘" --platforms jd,tb,pdd --limit 12 -v
+
+<span class="c"># 2. 启动交互演示页面（浏览器打开 http://127.0.0.1:8765）</span>
+python -m pricehunter serve --open
+
+<span class="c"># 3. 重建示例数据与演示页面</span>
+python -m pricehunter build-demo --keyword "机械键盘"</code></pre>
+    <p class="footnote">产物：<code>out/&lt;关键词&gt;_&lt;时间戳&gt;.json / .csv / .html</code>。仅用于个人学习与价格监测，请遵守目标平台的 robots 协议与服务条款。</p>
+  </section>
+</main>
+
+<footer class="footer">
+  <span>PriceLens 价镜 v1.0 · 采集 → 清洗 → 分析 → 可视化</span>
+  <span>数据仅作演示，价格与销量为仿真值</span>
+</footer>
+
+<script id="sample-data" type="application/json">__SAMPLE_JSON__</script>
+<script>//__JS__</script>
+</body>
+</html>
