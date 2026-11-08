@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-11-08T17:22:27.445Z",
+  "generatedAt": "2026-11-08T21:27:50.486Z",
   "fields": {
     "society": "社会",
     "economy": "经济",
@@ -10,15 +10,15 @@
       "id": "evt-00000000",
       "title": "疑秦始皇儿子头骨面容复原图公布",
       "category": "society",
-      "hotScore": 0.8075,
+      "hotScore": 0.85,
       "freshness": 0.9999,
       "crossSource": 1,
-      "totalScore": 0.923,
+      "totalScore": 0.94,
       "sources": [
         {
           "channel": "toutiao",
-          "rank": 2,
-          "hot": 16275497,
+          "rank": 1,
+          "hot": 18698713,
           "url": "https://www.toutiao.com/trending/7704831444702711331/"
         },
         {
@@ -36,7 +36,7 @@
       "title": "油价一周暴跌超16%",
       "category": "society",
       "hotScore": 0.76,
-      "freshness": 1,
+      "freshness": 0.9999,
       "crossSource": 0.6309,
       "totalScore": 0.7933,
       "sources": [
@@ -51,44 +51,6 @@
       "url": "https://m.baidu.com/s?word=%E6%B2%B9%E4%BB%B7%E4%B8%80%E5%91%A8%E6%9A%B4%E8%B7%8C%E8%B6%8516%25&sa=fyb_news"
     },
     {
-      "id": "evt-30310000",
-      "title": "中超第 30 轮，大连英博 3-1 天津津门虎，完成史诗大逆转夺冠，如何评价本场比赛？",
-      "category": "society",
-      "hotScore": 0.75,
-      "freshness": 1,
-      "crossSource": 0.6309,
-      "totalScore": 0.7893,
-      "sources": [
-        {
-          "channel": "zhihu",
-          "rank": 1,
-          "hot": 0,
-          "url": ""
-        }
-      ],
-      "summary": "",
-      "url": ""
-    },
-    {
-      "id": "evt-c0000000",
-      "title": "C罗的口碑为什么塌了",
-      "category": "society",
-      "hotScore": 0.7225,
-      "freshness": 0.9999,
-      "crossSource": 0.6309,
-      "totalScore": 0.7783,
-      "sources": [
-        {
-          "channel": "toutiao",
-          "rank": 4,
-          "hot": 13325250,
-          "url": "https://www.toutiao.com/trending/7705807131361938998/"
-        }
-      ],
-      "summary": "",
-      "url": "https://www.toutiao.com/trending/7705807131361938998/"
-    },
-    {
       "id": "evt-31000000",
       "title": "南京辟谣“31岁医生被刺身亡”",
       "category": "society",
@@ -100,7 +62,7 @@
         {
           "channel": "toutiao",
           "rank": 11,
-          "hot": 6617123,
+          "hot": 6878872,
           "url": "https://www.toutiao.com/trending/7704896349787029554/"
         },
         {
@@ -114,30 +76,30 @@
       "url": "https://www.toutiao.com/trending/7704896349787029554/"
     },
     {
-      "id": "evt-22000000",
-      "title": "新闻周刊丨22件演出服满身污渍穿完就退，仅退款“白嫖”乱象如何治理？",
+      "id": "evt-62000000",
+      "title": "澳企一年炼出62吨重稀土意味着什么",
       "category": "society",
       "hotScore": 0.68,
-      "freshness": 1,
+      "freshness": 0.9999,
       "crossSource": 0.6309,
       "totalScore": 0.7613,
       "sources": [
         {
-          "channel": "thepaper",
+          "channel": "toutiao",
           "rank": 5,
-          "hot": 0,
-          "url": "https://www.thepaper.cn/newsDetail_forward_34430071"
+          "hot": 12534122,
+          "url": "https://www.toutiao.com/trending/7705752458739322431/"
         }
       ],
       "summary": "",
-      "url": "https://www.thepaper.cn/newsDetail_forward_34430071"
+      "url": "https://www.toutiao.com/trending/7705752458739322431/"
     },
     {
-      "id": "evt-54ai0000",
-      "title": "54 岁大哥自学 AI 短剧登顶红果榜，团队成员一年还清债务，普通人真能靠 AI 翻身吗？有啥值得借鉴的思路？",
+      "id": "evt-theshy00",
+      "title": "如何评价 the shy 选手赛后采访表示「希望 chovy 选手夺冠」？",
       "category": "society",
       "hotScore": 0.675,
-      "freshness": 1,
+      "freshness": 0.9999,
       "crossSource": 0.6309,
       "totalScore": 0.7593,
       "sources": [
@@ -152,30 +114,11 @@
       "url": ""
     },
     {
-      "id": "evt-30230000",
-      "title": "中超第 30 轮，成都蓉城 2-3 山东鲁能，煮熟的冠军长翅膀飞了，如何评价本场比赛？",
-      "category": "society",
-      "hotScore": 0.6,
-      "freshness": 1,
-      "crossSource": 0.6309,
-      "totalScore": 0.7293,
-      "sources": [
-        {
-          "channel": "zhihu",
-          "rank": 5,
-          "hot": 0,
-          "url": ""
-        }
-      ],
-      "summary": "",
-      "url": ""
-    },
-    {
       "id": "evt-20000000",
       "title": "20公斤陨石砸进石家庄农田",
       "category": "society",
       "hotScore": 0.56,
-      "freshness": 1,
+      "freshness": 0.9999,
       "crossSource": 0.6309,
       "totalScore": 0.7133,
       "sources": [
@@ -190,11 +133,30 @@
       "url": "https://m.baidu.com/s?word=20%E5%85%AC%E6%96%A4%E9%99%A8%E7%9F%B3%E7%A0%B8%E8%BF%9B%E7%9F%B3%E5%AE%B6%E5%BA%84%E5%86%9C%E7%94%B0&sa=fyb_news"
     },
     {
+      "id": "evt-20260000",
+      "title": "大连英博队获2026赛季中超联赛冠军",
+      "category": "society",
+      "hotScore": 0.5525,
+      "freshness": 1,
+      "crossSource": 0.6309,
+      "totalScore": 0.7103,
+      "sources": [
+        {
+          "channel": "thepaper",
+          "rank": 8,
+          "hot": 0,
+          "url": "https://www.thepaper.cn/newsDetail_forward_34433138"
+        }
+      ],
+      "summary": "",
+      "url": "https://www.thepaper.cn/newsDetail_forward_34433138"
+    },
+    {
       "id": "evt-72000000",
       "title": "72岁赵雅芝原相机状态",
       "category": "society",
       "hotScore": 0.52,
-      "freshness": 1,
+      "freshness": 0.9999,
       "crossSource": 0.6309,
       "totalScore": 0.6973,
       "sources": [
@@ -209,42 +171,80 @@
       "url": "https://m.baidu.com/s?word=72%E5%B2%81%E8%B5%B5%E9%9B%85%E8%8A%9D%E5%8E%9F%E7%9B%B8%E6%9C%BA%E7%8A%B6%E6%80%81&sa=fyb_news"
     },
     {
-      "id": "evt-20260000",
-      "title": "大连英博队获2026赛季中超联赛冠军",
+      "id": "evt-43000000",
+      "title": "张本智和4比3林昀儒",
       "category": "society",
-      "hotScore": 0.51,
-      "freshness": 1,
+      "hotScore": 0.48,
+      "freshness": 0.9999,
       "crossSource": 0.6309,
-      "totalScore": 0.6933,
+      "totalScore": 0.6813,
       "sources": [
         {
-          "channel": "thepaper",
+          "channel": "baidu",
           "rank": 9,
           "hot": 0,
-          "url": "https://www.thepaper.cn/newsDetail_forward_34433138"
+          "url": "https://m.baidu.com/s?word=%E5%BC%A0%E6%9C%AC%E6%99%BA%E5%92%8C4%E6%AF%943%E6%9E%97%E6%98%80%E5%84%92&sa=fyb_news"
         }
       ],
       "summary": "",
-      "url": "https://www.thepaper.cn/newsDetail_forward_34433138"
+      "url": "https://m.baidu.com/s?word=%E5%BC%A0%E6%9C%AC%E6%99%BA%E5%92%8C4%E6%AF%943%E6%9E%97%E6%98%80%E5%84%92&sa=fyb_news"
     },
     {
-      "id": "evt-62000000",
-      "title": "澳企一年炼出62吨重稀土意味着什么",
+      "id": "evt-32000000",
+      "title": "陕西商南3死2伤命案：有邻居称曾见过嫌犯与一名女性受害人，未察觉异常，当地成立9个工作组开展善后等工作",
       "category": "society",
       "hotScore": 0.4675,
-      "freshness": 0.9999,
+      "freshness": 1,
       "crossSource": 0.6309,
       "totalScore": 0.6763,
       "sources": [
         {
-          "channel": "toutiao",
+          "channel": "thepaper",
           "rank": 10,
-          "hot": 7313052,
-          "url": "https://www.toutiao.com/trending/7705752458739322431/"
+          "hot": 0,
+          "url": "https://www.thepaper.cn/newsDetail_forward_34431245"
         }
       ],
       "summary": "",
-      "url": "https://www.toutiao.com/trending/7705752458739322431/"
+      "url": "https://www.thepaper.cn/newsDetail_forward_34431245"
+    },
+    {
+      "id": "evt-chovy000",
+      "title": "如何看待 Chovy 首次晋级决赛采访称「无论 Knight 还是 Faker，我都会战胜他们夺冠」？",
+      "category": "society",
+      "hotScore": 0.45,
+      "freshness": 0.9999,
+      "crossSource": 0.6309,
+      "totalScore": 0.6693,
+      "sources": [
+        {
+          "channel": "zhihu",
+          "rank": 9,
+          "hot": 0,
+          "url": ""
+        }
+      ],
+      "summary": "",
+      "url": ""
+    },
+    {
+      "id": "evt-22000000",
+      "title": "王一博2天获2次亚军",
+      "category": "society",
+      "hotScore": 0.44,
+      "freshness": 0.9999,
+      "crossSource": 0.6309,
+      "totalScore": 0.6653,
+      "sources": [
+        {
+          "channel": "baidu",
+          "rank": 10,
+          "hot": 0,
+          "url": "https://m.baidu.com/s?word=%E7%8E%8B%E4%B8%80%E5%8D%9A2%E5%A4%A9%E8%8E%B72%E6%AC%A1%E4%BA%9A%E5%86%9B&sa=fyb_news"
+        }
+      ],
+      "summary": "",
+      "url": "https://m.baidu.com/s?word=%E7%8E%8B%E4%B8%80%E5%8D%9A2%E5%A4%A9%E8%8E%B72%E6%AC%A1%E4%BA%9A%E5%86%9B&sa=fyb_news"
     }
   ]
 }
