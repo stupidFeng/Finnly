@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-11-08T10:52:28.034Z",
+  "generatedAt": "2026-11-08T17:22:27.445Z",
   "fields": {
     "society": "社会",
     "economy": "经济",
@@ -8,31 +8,56 @@
   "feed": [
     {
       "id": "evt-00000000",
-      "title": "史诗级逆转！英博夺队史中超首冠",
+      "title": "疑秦始皇儿子头骨面容复原图公布",
       "category": "society",
-      "hotScore": 0.85,
+      "hotScore": 0.8075,
       "freshness": 0.9999,
       "crossSource": 1,
-      "totalScore": 0.94,
+      "totalScore": 0.923,
       "sources": [
         {
           "channel": "toutiao",
-          "rank": 1,
-          "hot": 6864769,
-          "url": "https://www.toutiao.com/trending/7705266850749448233/"
+          "rank": 2,
+          "hot": 16275497,
+          "url": "https://www.toutiao.com/trending/7704831444702711331/"
+        },
+        {
+          "channel": "baidu",
+          "rank": 5,
+          "hot": 0,
+          "url": "https://m.baidu.com/s?word=%E7%96%91%E7%A7%A6%E5%A7%8B%E7%9A%87%E5%84%BF%E5%AD%90%E5%A4%B4%E9%AA%A8%E9%9D%A2%E5%AE%B9%E5%A4%8D%E5%8E%9F%E5%9B%BE%E5%85%AC%E5%B8%83&sa=fyb_news"
         }
       ],
       "summary": "",
-      "url": "https://www.toutiao.com/trending/7705266850749448233/"
+      "url": "https://www.toutiao.com/trending/7704831444702711331/"
+    },
+    {
+      "id": "evt-16000000",
+      "title": "油价一周暴跌超16%",
+      "category": "society",
+      "hotScore": 0.76,
+      "freshness": 1,
+      "crossSource": 0.6309,
+      "totalScore": 0.7933,
+      "sources": [
+        {
+          "channel": "baidu",
+          "rank": 2,
+          "hot": 0,
+          "url": "https://m.baidu.com/s?word=%E6%B2%B9%E4%BB%B7%E4%B8%80%E5%91%A8%E6%9A%B4%E8%B7%8C%E8%B6%8516%25&sa=fyb_news"
+        }
+      ],
+      "summary": "",
+      "url": "https://m.baidu.com/s?word=%E6%B2%B9%E4%BB%B7%E4%B8%80%E5%91%A8%E6%9A%B4%E8%B7%8C%E8%B6%8516%25&sa=fyb_news"
     },
     {
       "id": "evt-30310000",
       "title": "中超第 30 轮，大连英博 3-1 天津津门虎，完成史诗大逆转夺冠，如何评价本场比赛？",
       "category": "society",
       "hotScore": 0.75,
-      "freshness": 0.9999,
-      "crossSource": 1,
-      "totalScore": 0.9,
+      "freshness": 1,
+      "crossSource": 0.6309,
+      "totalScore": 0.7893,
       "sources": [
         {
           "channel": "zhihu",
@@ -45,232 +70,23 @@
       "url": ""
     },
     {
-      "id": "evt-22000000",
-      "title": "新闻周刊丨22件演出服满身污渍穿完就退，仅退款“白嫖”乱象如何治理？",
+      "id": "evt-c0000000",
+      "title": "C罗的口碑为什么塌了",
       "category": "society",
       "hotScore": 0.7225,
-      "freshness": 1,
-      "crossSource": 1,
-      "totalScore": 0.889,
+      "freshness": 0.9999,
+      "crossSource": 0.6309,
+      "totalScore": 0.7783,
       "sources": [
         {
-          "channel": "thepaper",
+          "channel": "toutiao",
           "rank": 4,
-          "hot": 0,
-          "url": "https://www.thepaper.cn/newsDetail_forward_34430071"
+          "hot": 13325250,
+          "url": "https://www.toutiao.com/trending/7705807131361938998/"
         }
       ],
       "summary": "",
-      "url": "https://www.thepaper.cn/newsDetail_forward_34430071"
-    },
-    {
-      "id": "evt-13000000",
-      "title": "优酷被指在剧中插入占 1/3 屏幕，持续 10 秒的巨大广告，其回应可快进或自行关闭，你怎么看这种弹幕广告？",
-      "category": "society",
-      "hotScore": 0.7125,
-      "freshness": 0.9999,
-      "crossSource": 1,
-      "totalScore": 0.885,
-      "sources": [
-        {
-          "channel": "zhihu",
-          "rank": 2,
-          "hot": 0,
-          "url": ""
-        }
-      ],
-      "summary": "",
-      "url": ""
-    },
-    {
-      "id": "evt-20000000",
-      "title": "秦皇岛居民称20年没见过这么大雪",
-      "category": "society",
-      "hotScore": 0.68,
-      "freshness": 0.9999,
-      "crossSource": 1,
-      "totalScore": 0.872,
-      "sources": [
-        {
-          "channel": "toutiao",
-          "rank": 5,
-          "hot": 4601592,
-          "url": "https://www.toutiao.com/trending/7705276354253753875/"
-        }
-      ],
-      "summary": "",
-      "url": "https://www.toutiao.com/trending/7705276354253753875/"
-    },
-    {
-      "id": "evt-30230000",
-      "title": "中超第 30 轮，成都蓉城 2-3 山东鲁能，煮熟的冠军长翅膀飞了，如何评价本场比赛？",
-      "category": "society",
-      "hotScore": 0.675,
-      "freshness": 0.9999,
-      "crossSource": 1,
-      "totalScore": 0.87,
-      "sources": [
-        {
-          "channel": "zhihu",
-          "rank": 3,
-          "hot": 0,
-          "url": ""
-        }
-      ],
-      "summary": "",
-      "url": ""
-    },
-    {
-      "id": "evt-26000000",
-      "title": "明年260万新能源车电池面临脱保",
-      "category": "society",
-      "hotScore": 0.6375,
-      "freshness": 0.9999,
-      "crossSource": 1,
-      "totalScore": 0.855,
-      "sources": [
-        {
-          "channel": "toutiao",
-          "rank": 6,
-          "hot": 4163692,
-          "url": "https://www.toutiao.com/trending/7705693589514453554/"
-        }
-      ],
-      "summary": "",
-      "url": "https://www.toutiao.com/trending/7705693589514453554/"
-    },
-    {
-      "id": "evt-20360000",
-      "title": "中国不申办 2036 年奥运会，德印韩等 7 国入围，举办奥运还「香」吗? 奥运会的吸引力发生了什么变化？",
-      "category": "society",
-      "hotScore": 0.6375,
-      "freshness": 0.9999,
-      "crossSource": 1,
-      "totalScore": 0.855,
-      "sources": [
-        {
-          "channel": "zhihu",
-          "rank": 4,
-          "hot": 0,
-          "url": ""
-        }
-      ],
-      "summary": "",
-      "url": ""
-    },
-    {
-      "id": "evt-54ai0000",
-      "title": "54 岁大哥自学 AI 短剧登顶红果榜，团队成员一年还清债务，普通人真能靠 AI 翻身吗？有啥值得借鉴的思路？",
-      "category": "society",
-      "hotScore": 0.6,
-      "freshness": 0.9999,
-      "crossSource": 1,
-      "totalScore": 0.84,
-      "sources": [
-        {
-          "channel": "zhihu",
-          "rank": 5,
-          "hot": 0,
-          "url": ""
-        }
-      ],
-      "summary": "",
-      "url": ""
-    },
-    {
-      "id": "evt-theshys0",
-      "title": "如何评价 TheShy 在 S16 全球总决赛上的综合表现？",
-      "category": "society",
-      "hotScore": 0.5625,
-      "freshness": 0.9999,
-      "crossSource": 1,
-      "totalScore": 0.825,
-      "sources": [
-        {
-          "channel": "zhihu",
-          "rank": 6,
-          "hot": 0,
-          "url": ""
-        }
-      ],
-      "summary": "",
-      "url": ""
-    },
-    {
-      "id": "evt-90000000",
-      "title": "男子被扇9次耳光急性脑梗死入院、昏迷14个月后离世，雇主被判赔偿70%",
-      "category": "society",
-      "hotScore": 0.5525,
-      "freshness": 1,
-      "crossSource": 1,
-      "totalScore": 0.821,
-      "sources": [
-        {
-          "channel": "thepaper",
-          "rank": 8,
-          "hot": 0,
-          "url": "https://www.thepaper.cn/newsDetail_forward_34428827"
-        }
-      ],
-      "summary": "",
-      "url": "https://www.thepaper.cn/newsDetail_forward_34428827"
-    },
-    {
-      "id": "evt-70000000",
-      "title": "大麦哥涨粉超700万 一条视频报价12万",
-      "category": "society",
-      "hotScore": 0.48,
-      "freshness": 0.9999,
-      "crossSource": 1,
-      "totalScore": 0.792,
-      "sources": [
-        {
-          "channel": "baidu",
-          "rank": 9,
-          "hot": 0,
-          "url": "https://m.baidu.com/s?word=%E5%A4%A7%E9%BA%A6%E5%93%A5%E6%B6%A8%E7%B2%89%E8%B6%85700%E4%B8%87+%E4%B8%80%E6%9D%A1%E8%A7%86%E9%A2%91%E6%8A%A5%E4%BB%B712%E4%B8%87&sa=fyb_news"
-        }
-      ],
-      "summary": "",
-      "url": "https://m.baidu.com/s?word=%E5%A4%A7%E9%BA%A6%E5%93%A5%E6%B6%A8%E7%B2%89%E8%B6%85700%E4%B8%87+%E4%B8%80%E6%9D%A1%E8%A7%86%E9%A2%91%E6%8A%A5%E4%BB%B712%E4%B8%87&sa=fyb_news"
-    },
-    {
-      "id": "evt-40000000",
-      "title": "韦世豪停赛缺席中超最后4轮",
-      "category": "society",
-      "hotScore": 0.4675,
-      "freshness": 0.9999,
-      "crossSource": 1,
-      "totalScore": 0.787,
-      "sources": [
-        {
-          "channel": "toutiao",
-          "rank": 10,
-          "hot": 2791006,
-          "url": "https://www.toutiao.com/trending/7704840000093749291/"
-        }
-      ],
-      "summary": "",
-      "url": "https://www.toutiao.com/trending/7704840000093749291/"
-    },
-    {
-      "id": "evt-34000000",
-      "title": "34岁周冬雨以主评审身份现身",
-      "category": "society",
-      "hotScore": 0.44,
-      "freshness": 0.9999,
-      "crossSource": 1,
-      "totalScore": 0.776,
-      "sources": [
-        {
-          "channel": "baidu",
-          "rank": 10,
-          "hot": 0,
-          "url": "https://m.baidu.com/s?word=34%E5%B2%81%E5%91%A8%E5%86%AC%E9%9B%A8%E4%BB%A5%E4%B8%BB%E8%AF%84%E5%AE%A1%E8%BA%AB%E4%BB%BD%E7%8E%B0%E8%BA%AB&sa=fyb_news"
-        }
-      ],
-      "summary": "",
-      "url": "https://m.baidu.com/s?word=34%E5%B2%81%E5%91%A8%E5%86%AC%E9%9B%A8%E4%BB%A5%E4%B8%BB%E8%AF%84%E5%AE%A1%E8%BA%AB%E4%BB%BD%E7%8E%B0%E8%BA%AB&sa=fyb_news"
+      "url": "https://www.toutiao.com/trending/7705807131361938998/"
     },
     {
       "id": "evt-31000000",
@@ -284,12 +100,151 @@
         {
           "channel": "toutiao",
           "rank": 11,
-          "hot": 2525407,
+          "hot": 6617123,
           "url": "https://www.toutiao.com/trending/7704896349787029554/"
+        },
+        {
+          "channel": "baidu",
+          "rank": 12,
+          "hot": 0,
+          "url": "https://m.baidu.com/s?word=%E5%8D%97%E4%BA%AC%E8%BE%9F%E8%B0%A3%E2%80%9C31%E5%B2%81%E5%8C%BB%E7%94%9F%E8%A2%AB%E5%88%BA%E8%BA%AB%E4%BA%A1%E2%80%9D&sa=fyb_news"
         }
       ],
       "summary": "",
       "url": "https://www.toutiao.com/trending/7704896349787029554/"
+    },
+    {
+      "id": "evt-22000000",
+      "title": "新闻周刊丨22件演出服满身污渍穿完就退，仅退款“白嫖”乱象如何治理？",
+      "category": "society",
+      "hotScore": 0.68,
+      "freshness": 1,
+      "crossSource": 0.6309,
+      "totalScore": 0.7613,
+      "sources": [
+        {
+          "channel": "thepaper",
+          "rank": 5,
+          "hot": 0,
+          "url": "https://www.thepaper.cn/newsDetail_forward_34430071"
+        }
+      ],
+      "summary": "",
+      "url": "https://www.thepaper.cn/newsDetail_forward_34430071"
+    },
+    {
+      "id": "evt-54ai0000",
+      "title": "54 岁大哥自学 AI 短剧登顶红果榜，团队成员一年还清债务，普通人真能靠 AI 翻身吗？有啥值得借鉴的思路？",
+      "category": "society",
+      "hotScore": 0.675,
+      "freshness": 1,
+      "crossSource": 0.6309,
+      "totalScore": 0.7593,
+      "sources": [
+        {
+          "channel": "zhihu",
+          "rank": 3,
+          "hot": 0,
+          "url": ""
+        }
+      ],
+      "summary": "",
+      "url": ""
+    },
+    {
+      "id": "evt-30230000",
+      "title": "中超第 30 轮，成都蓉城 2-3 山东鲁能，煮熟的冠军长翅膀飞了，如何评价本场比赛？",
+      "category": "society",
+      "hotScore": 0.6,
+      "freshness": 1,
+      "crossSource": 0.6309,
+      "totalScore": 0.7293,
+      "sources": [
+        {
+          "channel": "zhihu",
+          "rank": 5,
+          "hot": 0,
+          "url": ""
+        }
+      ],
+      "summary": "",
+      "url": ""
+    },
+    {
+      "id": "evt-20000000",
+      "title": "20公斤陨石砸进石家庄农田",
+      "category": "society",
+      "hotScore": 0.56,
+      "freshness": 1,
+      "crossSource": 0.6309,
+      "totalScore": 0.7133,
+      "sources": [
+        {
+          "channel": "baidu",
+          "rank": 7,
+          "hot": 0,
+          "url": "https://m.baidu.com/s?word=20%E5%85%AC%E6%96%A4%E9%99%A8%E7%9F%B3%E7%A0%B8%E8%BF%9B%E7%9F%B3%E5%AE%B6%E5%BA%84%E5%86%9C%E7%94%B0&sa=fyb_news"
+        }
+      ],
+      "summary": "",
+      "url": "https://m.baidu.com/s?word=20%E5%85%AC%E6%96%A4%E9%99%A8%E7%9F%B3%E7%A0%B8%E8%BF%9B%E7%9F%B3%E5%AE%B6%E5%BA%84%E5%86%9C%E7%94%B0&sa=fyb_news"
+    },
+    {
+      "id": "evt-72000000",
+      "title": "72岁赵雅芝原相机状态",
+      "category": "society",
+      "hotScore": 0.52,
+      "freshness": 1,
+      "crossSource": 0.6309,
+      "totalScore": 0.6973,
+      "sources": [
+        {
+          "channel": "baidu",
+          "rank": 8,
+          "hot": 0,
+          "url": "https://m.baidu.com/s?word=72%E5%B2%81%E8%B5%B5%E9%9B%85%E8%8A%9D%E5%8E%9F%E7%9B%B8%E6%9C%BA%E7%8A%B6%E6%80%81&sa=fyb_news"
+        }
+      ],
+      "summary": "",
+      "url": "https://m.baidu.com/s?word=72%E5%B2%81%E8%B5%B5%E9%9B%85%E8%8A%9D%E5%8E%9F%E7%9B%B8%E6%9C%BA%E7%8A%B6%E6%80%81&sa=fyb_news"
+    },
+    {
+      "id": "evt-20260000",
+      "title": "大连英博队获2026赛季中超联赛冠军",
+      "category": "society",
+      "hotScore": 0.51,
+      "freshness": 1,
+      "crossSource": 0.6309,
+      "totalScore": 0.6933,
+      "sources": [
+        {
+          "channel": "thepaper",
+          "rank": 9,
+          "hot": 0,
+          "url": "https://www.thepaper.cn/newsDetail_forward_34433138"
+        }
+      ],
+      "summary": "",
+      "url": "https://www.thepaper.cn/newsDetail_forward_34433138"
+    },
+    {
+      "id": "evt-62000000",
+      "title": "澳企一年炼出62吨重稀土意味着什么",
+      "category": "society",
+      "hotScore": 0.4675,
+      "freshness": 0.9999,
+      "crossSource": 0.6309,
+      "totalScore": 0.6763,
+      "sources": [
+        {
+          "channel": "toutiao",
+          "rank": 10,
+          "hot": 7313052,
+          "url": "https://www.toutiao.com/trending/7705752458739322431/"
+        }
+      ],
+      "summary": "",
+      "url": "https://www.toutiao.com/trending/7705752458739322431/"
     }
   ]
 }
