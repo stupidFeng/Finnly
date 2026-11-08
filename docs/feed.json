@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-11-07T23:14:15.290Z",
+  "generatedAt": "2026-11-08T03:17:44.230Z",
   "fields": {
     "society": "社会",
     "economy": "经济",
@@ -8,54 +8,130 @@
   "feed": [
     {
       "id": "evt-00000000",
-      "title": "多地官宣调整中小学上学时间",
+      "title": "最后一位开国将军王扶之逝世",
       "category": "society",
-      "hotScore": 0.85,
-      "freshness": 0.9999,
+      "hotScore": 0.8075,
+      "freshness": 1,
       "crossSource": 1,
-      "totalScore": 0.94,
+      "totalScore": 0.923,
       "sources": [
         {
           "channel": "toutiao",
-          "rank": 1,
-          "hot": 14022004,
-          "url": "https://www.toutiao.com/trending/7704669314460271155/"
+          "rank": 2,
+          "hot": 9270253,
+          "url": "https://www.toutiao.com/trending/7705619349179993636/"
         },
-        {
-          "channel": "baidu",
-          "rank": 3,
-          "hot": 0,
-          "url": "https://m.baidu.com/s?word=%E5%A4%9A%E5%9C%B0%E5%AE%98%E5%AE%A3%E8%B0%83%E6%95%B4%E4%B8%AD%E5%B0%8F%E5%AD%A6%E4%B8%8A%E5%AD%A6%E6%97%B6%E9%97%B4&sa=fyb_news"
-        }
-      ],
-      "summary": "",
-      "url": "https://www.toutiao.com/trending/7704669314460271155/"
-    },
-    {
-      "id": "evt-80000000",
-      "title": "8省份有大到暴雪 局地特大暴雪",
-      "category": "society",
-      "hotScore": 0.76,
-      "freshness": 1,
-      "crossSource": 0.6309,
-      "totalScore": 0.7933,
-      "sources": [
         {
           "channel": "baidu",
           "rank": 2,
           "hot": 0,
-          "url": "https://m.baidu.com/s?word=8%E7%9C%81%E4%BB%BD%E6%9C%89%E5%A4%A7%E5%88%B0%E6%9A%B4%E9%9B%AA+%E5%B1%80%E5%9C%B0%E7%89%B9%E5%A4%A7%E6%9A%B4%E9%9B%AA&sa=fyb_news"
+          "url": "https://m.baidu.com/s?word=%E6%9C%80%E5%90%8E%E4%B8%80%E4%BD%8D%E5%BC%80%E5%9B%BD%E5%B0%86%E5%86%9B%E7%8E%8B%E6%89%B6%E4%B9%8B%E9%80%9D%E4%B8%96&sa=fyb_news"
         }
       ],
       "summary": "",
-      "url": "https://m.baidu.com/s?word=8%E7%9C%81%E4%BB%BD%E6%9C%89%E5%A4%A7%E5%88%B0%E6%9A%B4%E9%9B%AA+%E5%B1%80%E5%9C%B0%E7%89%B9%E5%A4%A7%E6%9A%B4%E9%9B%AA&sa=fyb_news"
+      "url": "https://www.toutiao.com/trending/7705619349179993636/"
     },
     {
-      "id": "evt-117dee00",
-      "title": "如何看待 11 月 7 日 DeepSeek 再次崩溃？",
+      "id": "evt-47000000",
+      "title": "47岁外卖员在澳洲遇害，其妻称为攒钱丈夫已9年未回国，51岁嫌疑男子已被抓获",
+      "category": "society",
+      "hotScore": 0.85,
+      "freshness": 1,
+      "crossSource": 0.6309,
+      "totalScore": 0.8293,
+      "sources": [
+        {
+          "channel": "thepaper",
+          "rank": 1,
+          "hot": 0,
+          "url": "https://www.thepaper.cn/newsDetail_forward_34427295"
+        }
+      ],
+      "summary": "",
+      "url": "https://www.thepaper.cn/newsDetail_forward_34427295"
+    },
+    {
+      "id": "evt-s16gen30",
+      "title": "S16 半决赛 GEN 3:0 淘汰 iG 晋级决赛，如何评价这场比赛？",
+      "category": "society",
+      "hotScore": 0.75,
+      "freshness": 1,
+      "crossSource": 0.6309,
+      "totalScore": 0.7893,
+      "sources": [
+        {
+          "channel": "zhihu",
+          "rank": 1,
+          "hot": 0,
+          "url": ""
+        }
+      ],
+      "summary": "",
+      "url": ""
+    },
+    {
+      "id": "evt-20000000",
+      "title": "秦皇岛积雪超20厘米",
+      "category": "society",
+      "hotScore": 0.7225,
+      "freshness": 1,
+      "crossSource": 0.6309,
+      "totalScore": 0.7783,
+      "sources": [
+        {
+          "channel": "toutiao",
+          "rank": 4,
+          "hot": 7589841,
+          "url": "https://www.toutiao.com/trending/7704909485864861723/"
+        }
+      ],
+      "summary": "",
+      "url": "https://www.toutiao.com/trending/7704909485864861723/"
+    },
+    {
+      "id": "evt-ai000000",
+      "title": "大三男生宿舍制作AI漫剧 营收超300万",
+      "category": "economy",
+      "hotScore": 0.72,
+      "freshness": 1,
+      "crossSource": 0.6309,
+      "totalScore": 0.7773,
+      "sources": [
+        {
+          "channel": "baidu",
+          "rank": 3,
+          "hot": 0,
+          "url": "https://m.baidu.com/s?word=%E5%A4%A7%E4%B8%89%E7%94%B7%E7%94%9F%E5%AE%BF%E8%88%8D%E5%88%B6%E4%BD%9CAI%E6%BC%AB%E5%89%A7+%E8%90%A5%E6%94%B6%E8%B6%85300%E4%B8%87&sa=fyb_news"
+        }
+      ],
+      "summary": "",
+      "url": "https://m.baidu.com/s?word=%E5%A4%A7%E4%B8%89%E7%94%B7%E7%94%9F%E5%AE%BF%E8%88%8D%E5%88%B6%E4%BD%9CAI%E6%BC%AB%E5%89%A7+%E8%90%A5%E6%94%B6%E8%B6%85300%E4%B8%87&sa=fyb_news"
+    },
+    {
+      "id": "evt-11700000",
+      "title": "117岁奶奶跳舞走红长寿秘诀公布",
       "category": "society",
       "hotScore": 0.6375,
-      "freshness": 0.9999,
+      "freshness": 1,
+      "crossSource": 0.6309,
+      "totalScore": 0.7443,
+      "sources": [
+        {
+          "channel": "toutiao",
+          "rank": 6,
+          "hot": 6214036,
+          "url": "https://www.toutiao.com/trending/7704652639065325606/"
+        }
+      ],
+      "summary": "",
+      "url": "https://www.toutiao.com/trending/7704652639065325606/"
+    },
+    {
+      "id": "evt-11600000",
+      "title": "浙江男子 11 元拍走鹤岗 60 多平房屋，还会有隐性成本吗？你要是拍到了准备怎么处理这套房子？",
+      "category": "society",
+      "hotScore": 0.6375,
+      "freshness": 1,
       "crossSource": 0.6309,
       "totalScore": 0.7443,
       "sources": [
@@ -70,27 +146,27 @@
       "url": ""
     },
     {
-      "id": "evt-40000000",
-      "title": "女老师上场示范连拉4个引体向上",
+      "id": "evt-viva0000",
+      "title": "三丽鸥再回应终止《VIVANT》联名产品：如果会让中国消费者难过就不该做",
       "category": "society",
       "hotScore": 0.6375,
-      "freshness": 0.9999,
+      "freshness": 1,
       "crossSource": 0.6309,
-      "totalScore": 0.7442,
+      "totalScore": 0.7443,
       "sources": [
         {
-          "channel": "toutiao",
+          "channel": "thepaper",
           "rank": 6,
-          "hot": 8504775,
-          "url": "https://www.toutiao.com/trending/7704988843992236595/"
+          "hot": 0,
+          "url": "https://www.thepaper.cn/newsDetail_forward_34427663"
         }
       ],
       "summary": "",
-      "url": "https://www.toutiao.com/trending/7704988843992236595/"
+      "url": "https://www.thepaper.cn/newsDetail_forward_34427663"
     },
     {
-      "id": "evt-11000000",
-      "title": "为什么今年双11的快递包装变烂了",
+      "id": "evt-23000000",
+      "title": "河北秦皇岛暴雪 积雪达23厘米",
       "category": "society",
       "hotScore": 0.6,
       "freshness": 1,
@@ -101,18 +177,18 @@
           "channel": "baidu",
           "rank": 6,
           "hot": 0,
-          "url": "https://m.baidu.com/s?word=%E4%B8%BA%E4%BB%80%E4%B9%88%E4%BB%8A%E5%B9%B4%E5%8F%8C11%E7%9A%84%E5%BF%AB%E9%80%92%E5%8C%85%E8%A3%85%E5%8F%98%E7%83%82%E4%BA%86&sa=fyb_news"
+          "url": "https://m.baidu.com/s?word=%E6%B2%B3%E5%8C%97%E7%A7%A6%E7%9A%87%E5%B2%9B%E6%9A%B4%E9%9B%AA+%E7%A7%AF%E9%9B%AA%E8%BE%BE23%E5%8E%98%E7%B1%B3&sa=fyb_news"
         }
       ],
       "summary": "",
-      "url": "https://m.baidu.com/s?word=%E4%B8%BA%E4%BB%80%E4%B9%88%E4%BB%8A%E5%B9%B4%E5%8F%8C11%E7%9A%84%E5%BF%AB%E9%80%92%E5%8C%85%E8%A3%85%E5%8F%98%E7%83%82%E4%BA%86&sa=fyb_news"
+      "url": "https://m.baidu.com/s?word=%E6%B2%B3%E5%8C%97%E7%A7%A6%E7%9A%87%E5%B2%9B%E6%9A%B4%E9%9B%AA+%E7%A7%AF%E9%9B%AA%E8%BE%BE23%E5%8E%98%E7%B1%B3&sa=fyb_news"
     },
     {
-      "id": "evt-60000000",
-      "title": "外媒曝约 60 万枚英伟达芯片滞留香港，美方部分人士指责其为「卡脖子」，为何美方会对此如此着急？",
+      "id": "evt-iggens16",
+      "title": "iG 不敌 GEN 止步 S16 四强，如何评价 iG 在本场比赛的表现？到底输在哪？",
       "category": "society",
       "hotScore": 0.6,
-      "freshness": 0.9999,
+      "freshness": 1,
       "crossSource": 0.6309,
       "totalScore": 0.7293,
       "sources": [
@@ -127,30 +203,11 @@
       "url": ""
     },
     {
-      "id": "evt-47000000",
-      "title": "47岁外卖员在澳洲遇害，其妻称为攒钱丈夫已9年未回国，51岁嫌疑男子已被抓获",
-      "category": "society",
-      "hotScore": 0.595,
-      "freshness": 0.9999,
-      "crossSource": 0.6309,
-      "totalScore": 0.7273,
-      "sources": [
-        {
-          "channel": "thepaper",
-          "rank": 7,
-          "hot": 0,
-          "url": "https://www.thepaper.cn/newsDetail_forward_34427295"
-        }
-      ],
-      "summary": "",
-      "url": "https://www.thepaper.cn/newsDetail_forward_34427295"
-    },
-    {
-      "id": "evt-45000000",
-      "title": "曝美光将暂停 45 亿美元内存厂扩产，为何后续会出现要么 AI 崩要么内存涨价的局面？",
+      "id": "evt-20360000",
+      "title": "中国不申办 2036 年奥运会，德印韩等 7 国入围，举办奥运还「香」吗? 奥运会的吸引力发生了什么变化？",
       "category": "society",
       "hotScore": 0.525,
-      "freshness": 0.9999,
+      "freshness": 1,
       "crossSource": 0.6309,
       "totalScore": 0.6993,
       "sources": [
@@ -163,6 +220,63 @@
       ],
       "summary": "",
       "url": ""
+    },
+    {
+      "id": "evt-90000000",
+      "title": "男子被扇9次耳光急性脑梗死入院、昏迷14个月后离世，雇主被判赔偿70%",
+      "category": "society",
+      "hotScore": 0.51,
+      "freshness": 1,
+      "crossSource": 0.6309,
+      "totalScore": 0.6933,
+      "sources": [
+        {
+          "channel": "thepaper",
+          "rank": 9,
+          "hot": 0,
+          "url": "https://www.thepaper.cn/newsDetail_forward_34428827"
+        }
+      ],
+      "summary": "",
+      "url": "https://www.thepaper.cn/newsDetail_forward_34428827"
+    },
+    {
+      "id": "evt-61000000",
+      "title": "东风 -61 已列装到火箭军，这意味着什么？",
+      "category": "society",
+      "hotScore": 0.4875,
+      "freshness": 1,
+      "crossSource": 0.6309,
+      "totalScore": 0.6843,
+      "sources": [
+        {
+          "channel": "zhihu",
+          "rank": 8,
+          "hot": 0,
+          "url": ""
+        }
+      ],
+      "summary": "",
+      "url": ""
+    },
+    {
+      "id": "evt-genig000",
+      "title": "GEN零封IG晋级决赛",
+      "category": "society",
+      "hotScore": 0.4675,
+      "freshness": 1,
+      "crossSource": 0.6309,
+      "totalScore": 0.6763,
+      "sources": [
+        {
+          "channel": "toutiao",
+          "rank": 10,
+          "hot": 4165393,
+          "url": "https://www.toutiao.com/trending/7705214780864430116/"
+        }
+      ],
+      "summary": "",
+      "url": "https://www.toutiao.com/trending/7705214780864430116/"
     }
   ]
 }
