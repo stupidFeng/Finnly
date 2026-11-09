@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-11-09T01:17:45.597Z",
+  "generatedAt": "2026-11-09T08:50:53.402Z",
   "fields": {
     "society": "社会",
     "economy": "经济",
@@ -8,60 +8,130 @@
   "feed": [
     {
       "id": "evt-00000000",
-      "title": "黄仁勋女儿因家庭原因取消韩国行",
-      "category": "society",
-      "hotScore": 0.8075,
-      "freshness": 0.9999,
-      "crossSource": 1,
-      "totalScore": 0.923,
-      "sources": [
-        {
-          "channel": "toutiao",
-          "rank": 2,
-          "hot": 19160515,
-          "url": "https://www.toutiao.com/trending/7705959194893110811/"
-        },
-        {
-          "channel": "baidu",
-          "rank": 6,
-          "hot": 0,
-          "url": "https://m.baidu.com/s?word=%E9%BB%84%E4%BB%81%E5%8B%8B%E5%A5%B3%E5%84%BF%E5%9B%A0%E5%AE%B6%E5%BA%AD%E5%8E%9F%E5%9B%A0%E5%8F%96%E6%B6%88%E9%9F%A9%E5%9B%BD%E8%A1%8C&sa=fyb_news"
-        }
-      ],
-      "summary": "",
-      "url": "https://www.toutiao.com/trending/7705959194893110811/"
-    },
-    {
-      "id": "evt-15000000",
-      "title": "大爷自学网购下单15吨红薯做粉条",
+      "title": "油价预计将大幅下调",
       "category": "society",
       "hotScore": 0.85,
       "freshness": 0.9999,
-      "crossSource": 0.6309,
-      "totalScore": 0.8293,
+      "crossSource": 1,
+      "totalScore": 0.94,
       "sources": [
         {
           "channel": "toutiao",
           "rank": 1,
-          "hot": 21175644,
-          "url": "https://www.toutiao.com/trending/7705695274731094057/"
+          "hot": 56405865,
+          "url": "https://www.toutiao.com/trending/7705083710051222043/"
         }
       ],
       "summary": "",
-      "url": "https://www.toutiao.com/trending/7705695274731094057/"
+      "url": "https://www.toutiao.com/trending/7705083710051222043/"
+    },
+    {
+      "id": "evt-s16blg31",
+      "title": "S16 半决赛 BLG 3:1 淘汰卫冕冠军 T1，终结 T1 四连冠可能性，如何评价这场比赛？",
+      "category": "society",
+      "hotScore": 0.75,
+      "freshness": 1,
+      "crossSource": 1,
+      "totalScore": 0.9,
+      "sources": [
+        {
+          "channel": "zhihu",
+          "rank": 1,
+          "hot": 0,
+          "url": ""
+        }
+      ],
+      "summary": "",
+      "url": ""
+    },
+    {
+      "id": "evt-a0000000",
+      "title": "郭一鸣：A股缩量轮动",
+      "category": "society",
+      "hotScore": 0.7225,
+      "freshness": 0.9999,
+      "crossSource": 1,
+      "totalScore": 0.889,
+      "sources": [
+        {
+          "channel": "toutiao",
+          "rank": 4,
+          "hot": 41786493,
+          "url": "https://www.toutiao.com/trending/7706076491477421594/"
+        }
+      ],
+      "summary": "",
+      "url": "https://www.toutiao.com/trending/7706076491477421594/"
+    },
+    {
+      "id": "evt-99980000",
+      "title": "“99人的群里 98个都是托”",
+      "category": "society",
+      "hotScore": 0.72,
+      "freshness": 1,
+      "crossSource": 1,
+      "totalScore": 0.888,
+      "sources": [
+        {
+          "channel": "baidu",
+          "rank": 3,
+          "hot": 0,
+          "url": "https://m.baidu.com/s?word=%E2%80%9C99%E4%BA%BA%E7%9A%84%E7%BE%A4%E9%87%8C+98%E4%B8%AA%E9%83%BD%E6%98%AF%E6%89%98%E2%80%9D&sa=fyb_news"
+        }
+      ],
+      "summary": "",
+      "url": "https://m.baidu.com/s?word=%E2%80%9C99%E4%BA%BA%E7%9A%84%E7%BE%A4%E9%87%8C+98%E4%B8%AA%E9%83%BD%E6%98%AF%E6%89%98%E2%80%9D&sa=fyb_news"
+    },
+    {
+      "id": "evt-nextlev0",
+      "title": "入境游已是next level",
+      "category": "society",
+      "hotScore": 0.68,
+      "freshness": 1,
+      "crossSource": 1,
+      "totalScore": 0.872,
+      "sources": [
+        {
+          "channel": "baidu",
+          "rank": 4,
+          "hot": 0,
+          "url": "https://m.baidu.com/s?word=%E5%85%A5%E5%A2%83%E6%B8%B8%E5%B7%B2%E6%98%AFnext+level&sa=fyb_news"
+        }
+      ],
+      "summary": "",
+      "url": "https://m.baidu.com/s?word=%E5%85%A5%E5%A2%83%E6%B8%B8%E5%B7%B2%E6%98%AFnext+level&sa=fyb_news"
+    },
+    {
+      "id": "evt-blglck00",
+      "title": "BLG 连斩 LCK 三队晋级总决赛，他们能在决赛上击败 GEN，一穿四夺冠吗？",
+      "category": "society",
+      "hotScore": 0.675,
+      "freshness": 1,
+      "crossSource": 1,
+      "totalScore": 0.87,
+      "sources": [
+        {
+          "channel": "zhihu",
+          "rank": 3,
+          "hot": 0,
+          "url": ""
+        }
+      ],
+      "summary": "",
+      "url": ""
     },
     {
       "id": "evt-20000000",
       "title": "视频丨电磁弹射×2！福建舰四川舰搭配会怎样？专家提出两种模式",
       "category": "society",
-      "hotScore": 0.765,
+      "hotScore": 0.6375,
       "freshness": 1,
-      "crossSource": 0.6309,
-      "totalScore": 0.7953,
+      "crossSource": 1,
+      "totalScore": 0.855,
       "sources": [
         {
           "channel": "thepaper",
-          "rank": 3,
+          "rank": 6,
           "hot": 0,
           "url": "https://www.thepaper.cn/newsDetail_forward_34433838"
         }
@@ -70,137 +140,112 @@
       "url": "https://www.thepaper.cn/newsDetail_forward_34433838"
     },
     {
-      "id": "evt-ceo00000",
-      "title": "如何看待英伟达 CEO 黄仁勋在致员工内部信中承认婚外情？",
-      "category": "society",
-      "hotScore": 0.75,
-      "freshness": 0.9999,
-      "crossSource": 0.6309,
-      "totalScore": 0.7893,
-      "sources": [
-        {
-          "channel": "zhihu",
-          "rank": 1,
-          "hot": 0,
-          "url": ""
-        }
-      ],
-      "summary": "",
-      "url": ""
-    },
-    {
-      "id": "evt-ai000000",
-      "title": "大三男生宿舍手搓 AI 漫剧不到一年营收超 300 万，这是怎么做到的？实际赚了多少？普通人能效仿吗？",
-      "category": "economy",
-      "hotScore": 0.45,
-      "freshness": 0.9999,
-      "crossSource": 0.6309,
-      "totalScore": 0.6693,
-      "sources": [
-        {
-          "channel": "zhihu",
-          "rank": 9,
-          "hot": 0,
-          "url": ""
-        }
-      ],
-      "summary": "",
-      "url": ""
-    },
-    {
-      "id": "evt-31000000",
-      "title": "南京辟谣“31岁医生被刺身亡”",
-      "category": "society",
-      "hotScore": 0.425,
-      "freshness": 0.9999,
-      "crossSource": 1,
-      "totalScore": 0.77,
-      "sources": [
-        {
-          "channel": "toutiao",
-          "rank": 11,
-          "hot": 7790084,
-          "url": "https://www.toutiao.com/trending/7704896349787029554/"
-        },
-        {
-          "channel": "baidu",
-          "rank": 12,
-          "hot": 0,
-          "url": "https://m.baidu.com/s?word=%E5%8D%97%E4%BA%AC%E8%BE%9F%E8%B0%A3%E2%80%9C31%E5%B2%81%E5%8C%BB%E7%94%9F%E8%A2%AB%E5%88%BA%E8%BA%AB%E4%BA%A1%E2%80%9D&sa=fyb_news"
-        }
-      ],
-      "summary": "",
-      "url": "https://www.toutiao.com/trending/7704896349787029554/"
-    },
-    {
-      "id": "evt-11800000",
-      "title": "“从此11月8日忆山东兄弟”",
-      "category": "society",
-      "hotScore": 0.64,
-      "freshness": 1,
-      "crossSource": 0.6309,
-      "totalScore": 0.7453,
-      "sources": [
-        {
-          "channel": "baidu",
-          "rank": 5,
-          "hot": 0,
-          "url": "https://m.baidu.com/s?word=%E2%80%9C%E4%BB%8E%E6%AD%A411%E6%9C%888%E6%97%A5%E5%BF%86%E5%B1%B1%E4%B8%9C%E5%85%84%E5%BC%9F%E2%80%9D&sa=fyb_news"
-        }
-      ],
-      "summary": "",
-      "url": "https://m.baidu.com/s?word=%E2%80%9C%E4%BB%8E%E6%AD%A411%E6%9C%888%E6%97%A5%E5%BF%86%E5%B1%B1%E4%B8%9C%E5%85%84%E5%BC%9F%E2%80%9D&sa=fyb_news"
-    },
-    {
-      "id": "evt-s16blgvst",
-      "title": "S16 淘汰赛 BLG VS T1，如何评价这场比赛？",
-      "category": "society",
-      "hotScore": 0.6375,
-      "freshness": 0.9999,
-      "crossSource": 0.6309,
-      "totalScore": 0.7443,
-      "sources": [
-        {
-          "channel": "zhihu",
-          "rank": 4,
-          "hot": 0,
-          "url": ""
-        }
-      ],
-      "summary": "",
-      "url": ""
-    },
-    {
-      "id": "evt-30000000",
-      "title": "英伟达美股夜盘跌逾3%",
+      "id": "evt-11000000",
+      "title": "攻击-11隐身无人机最新细节画面公布",
       "category": "society",
       "hotScore": 0.595,
       "freshness": 0.9999,
-      "crossSource": 0.6309,
-      "totalScore": 0.7273,
+      "crossSource": 1,
+      "totalScore": 0.838,
       "sources": [
         {
           "channel": "toutiao",
           "rank": 7,
-          "hot": 11621439,
-          "url": "https://www.toutiao.com/trending/7705972069934059071/"
+          "hot": 30956195,
+          "url": "https://www.toutiao.com/trending/7706032163929653810/"
         }
       ],
       "summary": "",
-      "url": "https://www.toutiao.com/trending/7705972069934059071/"
+      "url": "https://www.toutiao.com/trending/7706032163929653810/"
+    },
+    {
+      "id": "evt-20a00000",
+      "title": "关不上的弹窗｜实测20款APP：弹窗广告为何如此灵敏，谁在获利？",
+      "category": "society",
+      "hotScore": 0.595,
+      "freshness": 1,
+      "crossSource": 1,
+      "totalScore": 0.838,
+      "sources": [
+        {
+          "channel": "thepaper",
+          "rank": 7,
+          "hot": 0,
+          "url": "https://www.thepaper.cn/newsDetail_forward_34142896"
+        }
+      ],
+      "summary": "",
+      "url": "https://www.thepaper.cn/newsDetail_forward_34142896"
+    },
+    {
+      "id": "evt-30000000",
+      "title": "哈工大研究生卖气球月入3千：不后悔",
+      "category": "society",
+      "hotScore": 0.56,
+      "freshness": 1,
+      "crossSource": 1,
+      "totalScore": 0.824,
+      "sources": [
+        {
+          "channel": "baidu",
+          "rank": 7,
+          "hot": 0,
+          "url": "https://m.baidu.com/s?word=%E5%93%88%E5%B7%A5%E5%A4%A7%E7%A0%94%E7%A9%B6%E7%94%9F%E5%8D%96%E6%B0%94%E7%90%83%E6%9C%88%E5%85%A53%E5%8D%83%EF%BC%9A%E4%B8%8D%E5%90%8E%E6%82%94&sa=fyb_news"
+        }
+      ],
+      "summary": "",
+      "url": "https://m.baidu.com/s?word=%E5%93%88%E5%B7%A5%E5%A4%A7%E7%A0%94%E7%A9%B6%E7%94%9F%E5%8D%96%E6%B0%94%E7%90%83%E6%9C%88%E5%85%A53%E5%8D%83%EF%BC%9A%E4%B8%8D%E5%90%8E%E6%82%94&sa=fyb_news"
+    },
+    {
+      "id": "evt-50000000",
+      "title": "5 吨的大象都会被吃，骆驼却几乎无天敌，为啥没有食肉动物吃它呢？",
+      "category": "society",
+      "hotScore": 0.4875,
+      "freshness": 1,
+      "crossSource": 1,
+      "totalScore": 0.795,
+      "sources": [
+        {
+          "channel": "zhihu",
+          "rank": 8,
+          "hot": 0,
+          "url": ""
+        }
+      ],
+      "summary": "",
+      "url": ""
+    },
+    {
+      "id": "evt-14000000",
+      "title": "王健林14年后重新掌舵 将有何变化",
+      "category": "society",
+      "hotScore": 0.48,
+      "freshness": 1,
+      "crossSource": 1,
+      "totalScore": 0.792,
+      "sources": [
+        {
+          "channel": "baidu",
+          "rank": 9,
+          "hot": 0,
+          "url": "https://m.baidu.com/s?word=%E7%8E%8B%E5%81%A5%E6%9E%9714%E5%B9%B4%E5%90%8E%E9%87%8D%E6%96%B0%E6%8E%8C%E8%88%B5+%E5%B0%86%E6%9C%89%E4%BD%95%E5%8F%98%E5%8C%96&sa=fyb_news"
+        }
+      ],
+      "summary": "",
+      "url": "https://m.baidu.com/s?word=%E7%8E%8B%E5%81%A5%E6%9E%9714%E5%B9%B4%E5%90%8E%E9%87%8D%E6%96%B0%E6%8E%8C%E8%88%B5+%E5%B0%86%E6%9C%89%E4%BD%95%E5%8F%98%E5%8C%96&sa=fyb_news"
     },
     {
       "id": "evt-20260000",
       "title": "大连英博队获2026赛季中超联赛冠军",
       "category": "society",
-      "hotScore": 0.51,
+      "hotScore": 0.4675,
       "freshness": 1,
-      "crossSource": 0.6309,
-      "totalScore": 0.6933,
+      "crossSource": 1,
+      "totalScore": 0.787,
       "sources": [
         {
           "channel": "thepaper",
-          "rank": 9,
+          "rank": 10,
           "hot": 0,
           "url": "https://www.thepaper.cn/newsDetail_forward_34433138"
         }
@@ -209,42 +254,23 @@
       "url": "https://www.thepaper.cn/newsDetail_forward_34433138"
     },
     {
-      "id": "evt-s16blgt0",
-      "title": "S16半决赛：BLG对阵T1",
+      "id": "evt-60000000",
+      "title": "因试用期 6 个月没转正，离职人员篡改后台数据致企业数百万损失，有哪些警示？职场遇这种情况该怎么处理？",
       "category": "society",
-      "hotScore": 0.48,
+      "hotScore": 0.45,
       "freshness": 1,
-      "crossSource": 0.6309,
-      "totalScore": 0.6813,
+      "crossSource": 1,
+      "totalScore": 0.78,
       "sources": [
         {
-          "channel": "baidu",
+          "channel": "zhihu",
           "rank": 9,
           "hot": 0,
-          "url": "https://m.baidu.com/s?word=S16%E5%8D%8A%E5%86%B3%E8%B5%9B%EF%BC%9ABLG%E5%AF%B9%E9%98%B5T1&sa=fyb_news"
+          "url": ""
         }
       ],
       "summary": "",
-      "url": "https://m.baidu.com/s?word=S16%E5%8D%8A%E5%86%B3%E8%B5%9B%EF%BC%9ABLG%E5%AF%B9%E9%98%B5T1&sa=fyb_news"
-    },
-    {
-      "id": "evt-22000000",
-      "title": "今天是张纯如去世22周年",
-      "category": "society",
-      "hotScore": 0.4675,
-      "freshness": 0.9999,
-      "crossSource": 0.6309,
-      "totalScore": 0.6763,
-      "sources": [
-        {
-          "channel": "toutiao",
-          "rank": 10,
-          "hot": 8609374,
-          "url": "https://www.toutiao.com/trending/7705642507208311305/"
-        }
-      ],
-      "summary": "",
-      "url": "https://www.toutiao.com/trending/7705642507208311305/"
+      "url": ""
     }
   ]
 }
