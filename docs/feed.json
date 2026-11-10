@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-11-09T20:16:12.926Z",
+  "generatedAt": "2026-11-10T03:52:58.231Z",
   "fields": {
     "society": "社会",
     "economy": "经济",
@@ -7,46 +7,8 @@
   },
   "feed": [
     {
-      "id": "evt-60000000",
-      "title": "老人立遗嘱将6亿遗产留给再婚妻子",
-      "category": "society",
-      "hotScore": 0.85,
-      "freshness": 0.9999,
-      "crossSource": 1,
-      "totalScore": 0.94,
-      "sources": [
-        {
-          "channel": "toutiao",
-          "rank": 1,
-          "hot": 104124162,
-          "url": "https://www.toutiao.com/trending/7706132006567968804/"
-        }
-      ],
-      "summary": "",
-      "url": "https://www.toutiao.com/trending/7706132006567968804/"
-    },
-    {
-      "id": "evt-20a00000",
-      "title": "关不上的弹窗｜实测20款APP：弹窗广告为何如此灵敏，谁在获利？",
-      "category": "society",
-      "hotScore": 0.85,
-      "freshness": 1,
-      "crossSource": 1,
-      "totalScore": 0.94,
-      "sources": [
-        {
-          "channel": "thepaper",
-          "rank": 1,
-          "hot": 0,
-          "url": "https://www.thepaper.cn/newsDetail_forward_34142896"
-        }
-      ],
-      "summary": "",
-      "url": "https://www.thepaper.cn/newsDetail_forward_34142896"
-    },
-    {
-      "id": "evt-00000000",
-      "title": "英伟达巨额货物失踪哪些细节值得推敲",
+      "id": "evt-70000000",
+      "title": "女子买7元早餐发现卡里近26万没了",
       "category": "society",
       "hotScore": 0.8075,
       "freshness": 0.9999,
@@ -56,25 +18,56 @@
         {
           "channel": "toutiao",
           "rank": 2,
-          "hot": 94215438,
-          "url": "https://www.toutiao.com/trending/7706117206945304100/"
+          "hot": 75518540,
+          "url": "https://www.toutiao.com/trending/7706134341668078130/"
+        },
+        {
+          "channel": "baidu",
+          "rank": 13,
+          "hot": 0,
+          "url": "https://m.baidu.com/s?word=%E5%A5%B3%E5%AD%90%E4%B9%B07%E5%85%83%E6%97%A9%E9%A4%90%E5%8F%91%E7%8E%B0%E5%8D%A1%E9%87%8C%E8%BF%9126%E4%B8%87%E6%B2%A1%E4%BA%86&sa=fyb_news"
         }
       ],
       "summary": "",
-      "url": "https://www.toutiao.com/trending/7706117206945304100/"
+      "url": "https://www.toutiao.com/trending/7706134341668078130/"
+    },
+    {
+      "id": "evt-00000000",
+      "title": "一碗免费面把隔壁小店逼到想搬家",
+      "category": "society",
+      "hotScore": 0.68,
+      "freshness": 0.9999,
+      "crossSource": 1,
+      "totalScore": 0.872,
+      "sources": [
+        {
+          "channel": "toutiao",
+          "rank": 5,
+          "hot": 55945510,
+          "url": "https://www.toutiao.com/trending/7706333469177069595/"
+        },
+        {
+          "channel": "baidu",
+          "rank": 17,
+          "hot": 0,
+          "url": "https://m.baidu.com/s?word=%E4%B8%80%E7%A2%97%E5%85%8D%E8%B4%B9%E9%9D%A2%E6%8A%8A%E9%9A%94%E5%A3%81%E5%B0%8F%E5%BA%97%E9%80%BC%E5%88%B0%E6%83%B3%E6%90%AC%E5%AE%B6&sa=fyb_news"
+        }
+      ],
+      "summary": "",
+      "url": "https://www.toutiao.com/trending/7706333469177069595/"
     },
     {
       "id": "evt-14720000",
       "title": "时隔14年，72岁王健林重任万达商管董事长",
       "category": "society",
-      "hotScore": 0.765,
+      "hotScore": 0.7225,
       "freshness": 1,
-      "crossSource": 1,
-      "totalScore": 0.906,
+      "crossSource": 0.6309,
+      "totalScore": 0.7783,
       "sources": [
         {
           "channel": "thepaper",
-          "rank": 3,
+          "rank": 4,
           "hot": 0,
           "url": "https://www.thepaper.cn/newsDetail_forward_34437843"
         }
@@ -83,32 +76,13 @@
       "url": "https://www.thepaper.cn/newsDetail_forward_34437843"
     },
     {
-      "id": "evt-20000000",
-      "title": "国务院关税税则委员会：2个月内继续暂停实施24%的对美加征关税税率",
-      "category": "economy",
-      "hotScore": 0.68,
-      "freshness": 1,
-      "crossSource": 1,
-      "totalScore": 0.872,
-      "sources": [
-        {
-          "channel": "thepaper",
-          "rank": 5,
-          "hot": 0,
-          "url": "https://www.thepaper.cn/newsDetail_forward_34437231"
-        }
-      ],
-      "summary": "",
-      "url": "https://www.thepaper.cn/newsDetail_forward_34437231"
-    },
-    {
-      "id": "evt-igal0000",
-      "title": "如何看待 iG 投资人称 AL 说被淘汰的队要给晋级的 LPL 队伍打训练赛，结果自己淘汰后第二天就回去了？",
+      "id": "evt-faker000",
+      "title": "Faker 无缘四连冠，赛后镜头捕捉其释怀笑容，对此你有什么想说的？",
       "category": "society",
       "hotScore": 0.6375,
-      "freshness": 1,
-      "crossSource": 1,
-      "totalScore": 0.855,
+      "freshness": 0.9999,
+      "crossSource": 0.6309,
+      "totalScore": 0.7442,
       "sources": [
         {
           "channel": "zhihu",
@@ -121,13 +95,32 @@
       "url": ""
     },
     {
-      "id": "evt-20260000",
-      "title": "2026 中超终于落下大幕，大连加冕，成都蓉城以一种几乎无法复刻的方式丢掉了冠军，为啥大家都觉得挺好？",
+      "id": "evt-30000000",
+      "title": "宇树科技市值重回3000亿元",
+      "category": "economy",
+      "hotScore": 0.7225,
+      "freshness": 0.9999,
+      "crossSource": 0.6309,
+      "totalScore": 0.7782,
+      "sources": [
+        {
+          "channel": "toutiao",
+          "rank": 4,
+          "hot": 61829351,
+          "url": "https://www.toutiao.com/trending/7706375400275840548/"
+        }
+      ],
+      "summary": "",
+      "url": "https://www.toutiao.com/trending/7706375400275840548/"
+    },
+    {
+      "id": "evt-50000000",
+      "title": "女子设置失误，5 年给邻居充了近 6000 元话费，发觉后要求返还被拒，法院判定应全部返还，如何看待此事？",
       "category": "society",
       "hotScore": 0.6,
-      "freshness": 1,
-      "crossSource": 1,
-      "totalScore": 0.84,
+      "freshness": 0.9999,
+      "crossSource": 0.6309,
+      "totalScore": 0.7292,
       "sources": [
         {
           "channel": "zhihu",
@@ -140,74 +133,36 @@
       "url": ""
     },
     {
-      "id": "evt-11000000",
-      "title": "代号「玄龙」的攻击 -11 隐身无人机公开亮相，这一无人机有哪些细节值得关注？将如何影响未来空战？",
-      "category": "society",
-      "hotScore": 0.5625,
-      "freshness": 1,
-      "crossSource": 1,
-      "totalScore": 0.825,
-      "sources": [
-        {
-          "channel": "zhihu",
-          "rank": 6,
-          "hot": 0,
-          "url": ""
-        }
-      ],
-      "summary": "",
-      "url": ""
-    },
-    {
-      "id": "evt-ai000000",
-      "title": "大二女生称AI毁了她的计算机学位",
+      "id": "evt-40000000",
+      "title": "晨起后有这4个习惯的人更长寿",
       "category": "society",
       "hotScore": 0.5525,
       "freshness": 0.9999,
-      "crossSource": 1,
-      "totalScore": 0.821,
+      "crossSource": 0.6309,
+      "totalScore": 0.7102,
       "sources": [
         {
           "channel": "toutiao",
           "rank": 8,
-          "hot": 51706529,
-          "url": "https://www.toutiao.com/trending/7706100701260156479/"
+          "hot": 41445453,
+          "url": "https://www.toutiao.com/trending/7706361319699562506/"
         }
       ],
       "summary": "",
-      "url": "https://www.toutiao.com/trending/7706100701260156479/"
+      "url": "https://www.toutiao.com/trending/7706361319699562506/"
     },
     {
-      "id": "evt-21000000",
-      "title": "中青报关注21岁医疗护理员落户上海：照护城市的人也被城市托举",
+      "id": "evt-ai000000",
+      "title": "AI 短剧《持械入宋》为什么能火爆出圈？",
       "category": "society",
-      "hotScore": 0.5525,
-      "freshness": 1,
-      "crossSource": 1,
-      "totalScore": 0.821,
-      "sources": [
-        {
-          "channel": "thepaper",
-          "rank": 8,
-          "hot": 0,
-          "url": "https://www.thepaper.cn/newsDetail_forward_34436504"
-        }
-      ],
-      "summary": "",
-      "url": "https://www.thepaper.cn/newsDetail_forward_34436504"
-    },
-    {
-      "id": "evt-doran000",
-      "title": "为什么 Doran 仍然是那个 Doran，S16 全球总决赛 T1 带不动他了？",
-      "category": "society",
-      "hotScore": 0.4875,
-      "freshness": 1,
-      "crossSource": 1,
-      "totalScore": 0.795,
+      "hotScore": 0.525,
+      "freshness": 0.9999,
+      "crossSource": 0.6309,
+      "totalScore": 0.6992,
       "sources": [
         {
           "channel": "zhihu",
-          "rank": 8,
+          "rank": 7,
           "hot": 0,
           "url": ""
         }
@@ -216,42 +171,118 @@
       "url": ""
     },
     {
-      "id": "evt-28000000",
-      "title": "花坛白骨涉案人28年间频繁出国",
+      "id": "evt-7a000000",
+      "title": "中一签赚7万 A股再现“大肉签”",
       "category": "society",
-      "hotScore": 0.48,
-      "freshness": 1,
-      "crossSource": 1,
-      "totalScore": 0.792,
+      "hotScore": 0.52,
+      "freshness": 0.9999,
+      "crossSource": 0.6309,
+      "totalScore": 0.6972,
       "sources": [
         {
           "channel": "baidu",
-          "rank": 9,
+          "rank": 8,
           "hot": 0,
-          "url": "https://m.baidu.com/s?word=%E8%8A%B1%E5%9D%9B%E7%99%BD%E9%AA%A8%E6%B6%89%E6%A1%88%E4%BA%BA28%E5%B9%B4%E9%97%B4%E9%A2%91%E7%B9%81%E5%87%BA%E5%9B%BD&sa=fyb_news"
+          "url": "https://m.baidu.com/s?word=%E4%B8%AD%E4%B8%80%E7%AD%BE%E8%B5%9A7%E4%B8%87+A%E8%82%A1%E5%86%8D%E7%8E%B0%E2%80%9C%E5%A4%A7%E8%82%89%E7%AD%BE%E2%80%9D&sa=fyb_news"
         }
       ],
       "summary": "",
-      "url": "https://m.baidu.com/s?word=%E8%8A%B1%E5%9D%9B%E7%99%BD%E9%AA%A8%E6%B6%89%E6%A1%88%E4%BA%BA28%E5%B9%B4%E9%97%B4%E9%A2%91%E7%B9%81%E5%87%BA%E5%9B%BD&sa=fyb_news"
+      "url": "https://m.baidu.com/s?word=%E4%B8%AD%E4%B8%80%E7%AD%BE%E8%B5%9A7%E4%B8%87+A%E8%82%A1%E5%86%8D%E7%8E%B0%E2%80%9C%E5%A4%A7%E8%82%89%E7%AD%BE%E2%80%9D&sa=fyb_news"
     },
     {
-      "id": "evt-2026t120",
-      "title": "2026 年的 T1 相比 2025 年差在哪？真的是换走  Gumayusi 导致的吗？",
+      "id": "evt-10cpi000",
+      "title": "分析｜10月CPI同比涨幅回落至0.7%，下阶段走势如何？",
       "category": "society",
-      "hotScore": 0.45,
+      "hotScore": 0.51,
       "freshness": 1,
-      "crossSource": 1,
-      "totalScore": 0.78,
+      "crossSource": 0.6309,
+      "totalScore": 0.6933,
       "sources": [
         {
-          "channel": "zhihu",
+          "channel": "thepaper",
           "rank": 9,
           "hot": 0,
-          "url": ""
+          "url": "https://www.thepaper.cn/newsDetail_forward_34439524"
         }
       ],
       "summary": "",
-      "url": ""
+      "url": "https://www.thepaper.cn/newsDetail_forward_34439524"
+    },
+    {
+      "id": "evt-10000000",
+      "title": "冷空气已致广东降温超10℃",
+      "category": "society",
+      "hotScore": 0.51,
+      "freshness": 0.9999,
+      "crossSource": 0.6309,
+      "totalScore": 0.6932,
+      "sources": [
+        {
+          "channel": "toutiao",
+          "rank": 9,
+          "hot": 37501397,
+          "url": "https://www.toutiao.com/trending/7706126197743059482/"
+        }
+      ],
+      "summary": "",
+      "url": "https://www.toutiao.com/trending/7706126197743059482/"
+    },
+    {
+      "id": "evt-11400000",
+      "title": "祸不单行的英伟达，从1140万美元货物失踪说起｜907编辑室",
+      "category": "society",
+      "hotScore": 0.4675,
+      "freshness": 1,
+      "crossSource": 0.6309,
+      "totalScore": 0.6763,
+      "sources": [
+        {
+          "channel": "thepaper",
+          "rank": 10,
+          "hot": 0,
+          "url": "https://www.thepaper.cn/newsDetail_forward_34439625"
+        }
+      ],
+      "summary": "",
+      "url": "https://www.thepaper.cn/newsDetail_forward_34439625"
+    },
+    {
+      "id": "evt-60000000",
+      "title": "国际油价集体大跌 布油跌6.24%",
+      "category": "society",
+      "hotScore": 0.4675,
+      "freshness": 0.9999,
+      "crossSource": 0.6309,
+      "totalScore": 0.6762,
+      "sources": [
+        {
+          "channel": "toutiao",
+          "rank": 10,
+          "hot": 33932667,
+          "url": "https://www.toutiao.com/trending/7706181046018212361/"
+        }
+      ],
+      "summary": "",
+      "url": "https://www.toutiao.com/trending/7706181046018212361/"
+    },
+    {
+      "id": "evt-co000000",
+      "title": "“粮食、农业与健康日”领衔COP31首日，主席国呼吁兑现气候承诺",
+      "category": "society",
+      "hotScore": 0.425,
+      "freshness": 1,
+      "crossSource": 0.6309,
+      "totalScore": 0.6593,
+      "sources": [
+        {
+          "channel": "thepaper",
+          "rank": 11,
+          "hot": 0,
+          "url": "https://www.thepaper.cn/newsDetail_forward_34440145"
+        }
+      ],
+      "summary": "",
+      "url": "https://www.thepaper.cn/newsDetail_forward_34440145"
     }
   ]
 }
