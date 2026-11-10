@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-11-10T11:56:33.305Z",
+  "generatedAt": "2026-11-10T19:09:58.893Z",
   "fields": {
     "society": "社会",
     "economy": "经济",
@@ -7,8 +7,8 @@
   },
   "feed": [
     {
-      "id": "evt-30000000",
-      "title": "男子回应买彩票30元中了1330万",
+      "id": "evt-40000000",
+      "title": "我军飞行员凌晨4点战斗起飞对抗外机",
       "category": "society",
       "hotScore": 0.85,
       "freshness": 0.9999,
@@ -18,16 +18,16 @@
         {
           "channel": "toutiao",
           "rank": 1,
-          "hot": 60830118,
-          "url": "https://www.toutiao.com/trending/7706432654371065382/"
+          "hot": 52540251,
+          "url": "https://www.toutiao.com/trending/7706375963556037170/"
         }
       ],
       "summary": "",
-      "url": "https://www.toutiao.com/trending/7706432654371065382/"
+      "url": "https://www.toutiao.com/trending/7706375963556037170/"
     },
     {
       "id": "evt-00000000",
-      "title": "“零元面馆” 排长队、有周边商户生意下降，当地市监局：多部门正牵头处理",
+      "title": "四川泸州“花坛藏尸案”一审宣判：陈某芬被判死刑，其前夫被判死缓",
       "category": "society",
       "hotScore": 0.85,
       "freshness": 1,
@@ -38,129 +38,34 @@
           "channel": "thepaper",
           "rank": 1,
           "hot": 0,
-          "url": "https://www.thepaper.cn/newsDetail_forward_34440882"
+          "url": "https://www.thepaper.cn/newsDetail_forward_34443324"
         }
       ],
       "summary": "",
-      "url": "https://www.thepaper.cn/newsDetail_forward_34440882"
+      "url": "https://www.thepaper.cn/newsDetail_forward_34443324"
     },
     {
-      "id": "evt-apec0000",
-      "title": "邵永灵：高市出席APEC峰会前疯狂加戏",
+      "id": "evt-cop31000",
+      "title": "COP31观察｜健康日打头阵：气候大会为何把“人”推到谈判桌前",
       "category": "society",
-      "hotScore": 0.8075,
-      "freshness": 0.9999,
-      "crossSource": 1,
-      "totalScore": 0.923,
-      "sources": [
-        {
-          "channel": "toutiao",
-          "rank": 2,
-          "hot": 55041367,
-          "url": "https://www.toutiao.com/trending/7706477968343698980/"
-        }
-      ],
-      "summary": "",
-      "url": "https://www.toutiao.com/trending/7706477968343698980/"
-    },
-    {
-      "id": "evt-70000000",
-      "title": "700电话号码来了",
-      "category": "society",
-      "hotScore": 0.76,
+      "hotScore": 0.765,
       "freshness": 1,
       "crossSource": 1,
-      "totalScore": 0.904,
+      "totalScore": 0.906,
       "sources": [
         {
-          "channel": "baidu",
-          "rank": 2,
-          "hot": 0,
-          "url": "https://m.baidu.com/s?word=700%E7%94%B5%E8%AF%9D%E5%8F%B7%E7%A0%81%E6%9D%A5%E4%BA%86&sa=fyb_news"
-        }
-      ],
-      "summary": "",
-      "url": "https://m.baidu.com/s?word=700%E7%94%B5%E8%AF%9D%E5%8F%B7%E7%A0%81%E6%9D%A5%E4%BA%86&sa=fyb_news"
-    },
-    {
-      "id": "evt-ape00000",
-      "title": "从“四叶草”出发 下一站APEC",
-      "category": "society",
-      "hotScore": 0.68,
-      "freshness": 1,
-      "crossSource": 1,
-      "totalScore": 0.872,
-      "sources": [
-        {
-          "channel": "baidu",
-          "rank": 4,
-          "hot": 0,
-          "url": "https://m.baidu.com/s?word=%E4%BB%8E%E2%80%9C%E5%9B%9B%E5%8F%B6%E8%8D%89%E2%80%9D%E5%87%BA%E5%8F%91+%E4%B8%8B%E4%B8%80%E7%AB%99APEC&sa=fyb_news"
-        }
-      ],
-      "summary": "",
-      "url": "https://m.baidu.com/s?word=%E4%BB%8E%E2%80%9C%E5%9B%9B%E5%8F%B6%E8%8D%89%E2%80%9D%E5%87%BA%E5%8F%91+%E4%B8%8B%E4%B8%80%E7%AB%99APEC&sa=fyb_news"
-    },
-    {
-      "id": "evt-a0000000",
-      "title": "专家：A股已具备筑底反弹的条件",
-      "category": "society",
-      "hotScore": 0.68,
-      "freshness": 0.9999,
-      "crossSource": 1,
-      "totalScore": 0.872,
-      "sources": [
-        {
-          "channel": "toutiao",
-          "rank": 5,
-          "hot": 40775647,
-          "url": "https://www.toutiao.com/trending/7706095828611612713/"
-        }
-      ],
-      "summary": "",
-      "url": "https://www.toutiao.com/trending/7706095828611612713/"
-    },
-    {
-      "id": "evt-24990000",
-      "title": "售价 2499 元平衡指环号称戴上就「推不倒」遭质疑，企业称将请院士级科学家说明，这背后有科学依据吗？",
-      "category": "society",
-      "hotScore": 0.675,
-      "freshness": 0.9999,
-      "crossSource": 1,
-      "totalScore": 0.87,
-      "sources": [
-        {
-          "channel": "zhihu",
+          "channel": "thepaper",
           "rank": 3,
           "hot": 0,
-          "url": ""
+          "url": "https://www.thepaper.cn/newsDetail_forward_34445443"
         }
       ],
       "summary": "",
-      "url": ""
+      "url": "https://www.thepaper.cn/newsDetail_forward_34445443"
     },
     {
-      "id": "evt-11000000",
-      "title": "“双11”已经有人被骗",
-      "category": "society",
-      "hotScore": 0.6375,
-      "freshness": 0.9999,
-      "crossSource": 1,
-      "totalScore": 0.855,
-      "sources": [
-        {
-          "channel": "toutiao",
-          "rank": 6,
-          "hot": 36895331,
-          "url": "https://www.toutiao.com/trending/7706346866442698761/"
-        }
-      ],
-      "summary": "",
-      "url": "https://www.toutiao.com/trending/7706346866442698761/"
-    },
-    {
-      "id": "evt-ai000000",
-      "title": "AI 短剧《持械入宋》为什么能火爆出圈？",
+      "id": "evt-21000000",
+      "title": "主持人实测滴滴 21 单平均抽成 13.22%，为何司机普遍感觉抽成超过 20%？抽走的钱最终流向了哪里？",
       "category": "society",
       "hotScore": 0.6375,
       "freshness": 0.9999,
@@ -178,23 +83,61 @@
       "url": ""
     },
     {
-      "id": "evt-16880000",
-      "title": "大家买“1688元”烤地瓜买的是什么",
+      "id": "evt-34000000",
+      "title": "我国外储规模再超 3.4 万亿美元，单月贸易顺差超 1335 亿美元，为何人民币升值下外贸数据却持续超预期？",
+      "category": "economy",
+      "hotScore": 0.6,
+      "freshness": 0.9999,
+      "crossSource": 1,
+      "totalScore": 0.84,
+      "sources": [
+        {
+          "channel": "zhihu",
+          "rank": 5,
+          "hot": 0,
+          "url": ""
+        }
+      ],
+      "summary": "",
+      "url": ""
+    },
+    {
+      "id": "evt-i0000000",
+      "title": "贵州茅台：i茅台要从“抢购”模式逐步转向满足消费者需求的日常售卖模式",
       "category": "society",
       "hotScore": 0.5525,
-      "freshness": 0.9999,
+      "freshness": 1,
       "crossSource": 1,
       "totalScore": 0.821,
       "sources": [
         {
-          "channel": "toutiao",
+          "channel": "thepaper",
           "rank": 8,
-          "hot": 30207342,
-          "url": "https://www.toutiao.com/trending/7706327829591540250/"
+          "hot": 0,
+          "url": "https://www.thepaper.cn/newsDetail_forward_34445766"
         }
       ],
       "summary": "",
-      "url": "https://www.toutiao.com/trending/7706327829591540250/"
+      "url": "https://www.thepaper.cn/newsDetail_forward_34445766"
+    },
+    {
+      "id": "evt-anthropic",
+      "title": "Anthropic正式启动募资计划",
+      "category": "society",
+      "hotScore": 0.52,
+      "freshness": 1,
+      "crossSource": 1,
+      "totalScore": 0.808,
+      "sources": [
+        {
+          "channel": "baidu",
+          "rank": 8,
+          "hot": 0,
+          "url": "https://m.baidu.com/s?word=Anthropic%E6%AD%A3%E5%BC%8F%E5%90%AF%E5%8A%A8%E5%8B%9F%E8%B5%84%E8%AE%A1%E5%88%92&sa=fyb_news"
+        }
+      ],
+      "summary": "",
+      "url": "https://m.baidu.com/s?word=Anthropic%E6%AD%A3%E5%BC%8F%E5%90%AF%E5%8A%A8%E5%8B%9F%E8%B5%84%E8%AE%A1%E5%88%92&sa=fyb_news"
     },
     {
       "id": "evt-20268100",
@@ -216,25 +159,6 @@
       "url": "https://www.thepaper.cn/newsDetail_forward_34442682"
     },
     {
-      "id": "evt-48000000",
-      "title": "伊朗向特朗普发 48 小时最后通牒，要么接受德黑兰提出的最新方案，要么面临军事冲突升级，特朗普会如何选择？",
-      "category": "society",
-      "hotScore": 0.4875,
-      "freshness": 0.9999,
-      "crossSource": 1,
-      "totalScore": 0.795,
-      "sources": [
-        {
-          "channel": "zhihu",
-          "rank": 8,
-          "hot": 0,
-          "url": ""
-        }
-      ],
-      "summary": "",
-      "url": ""
-    },
-    {
       "id": "evt-51700000",
       "title": "马上评｜一顿饭51.7万元？别借抹黑上海博流量",
       "category": "society",
@@ -252,25 +176,6 @@
       ],
       "summary": "",
       "url": "https://www.thepaper.cn/newsDetail_forward_34443326"
-    },
-    {
-      "id": "evt-21000000",
-      "title": "主持人实测滴滴 21 单平均抽成 13.22%，为何司机普遍感觉抽成超过 20%？抽走的钱最终流向了哪里？",
-      "category": "society",
-      "hotScore": 0.45,
-      "freshness": 0.9999,
-      "crossSource": 1,
-      "totalScore": 0.78,
-      "sources": [
-        {
-          "channel": "zhihu",
-          "rank": 9,
-          "hot": 0,
-          "url": ""
-        }
-      ],
-      "summary": "",
-      "url": ""
     }
   ]
 }
