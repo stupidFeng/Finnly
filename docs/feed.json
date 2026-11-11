@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-11-11T00:18:44.177Z",
+  "generatedAt": "2026-11-11T08:37:23.731Z",
   "fields": {
     "society": "社会",
     "economy": "经济",
@@ -8,28 +8,28 @@
   "feed": [
     {
       "id": "evt-00000000",
-      "title": "扬州地震",
+      "title": "特朗普写给拜登的信全文曝光",
       "category": "society",
-      "hotScore": 0.85,
-      "freshness": 1,
+      "hotScore": 0.7225,
+      "freshness": 0.9999,
       "crossSource": 1,
-      "totalScore": 0.94,
+      "totalScore": 0.889,
       "sources": [
         {
           "channel": "toutiao",
-          "rank": 1,
-          "hot": 43357540,
-          "url": "https://www.toutiao.com/trending/7706681086532652570/"
+          "rank": 4,
+          "hot": 9939422,
+          "url": "https://www.toutiao.com/trending/7706382018820440127/"
         },
         {
           "channel": "baidu",
-          "rank": 7,
+          "rank": 19,
           "hot": 0,
-          "url": "https://m.baidu.com/s?word=%E6%89%AC%E5%B7%9E%E5%9C%B0%E9%9C%87&sa=fyb_news"
+          "url": "https://m.baidu.com/s?word=%E7%89%B9%E6%9C%97%E6%99%AE%E5%86%99%E7%BB%99%E6%8B%9C%E7%99%BB%E7%9A%84%E4%BF%A1%E5%85%A8%E6%96%87%E6%9B%9D%E5%85%89&sa=fyb_news"
         }
       ],
       "summary": "",
-      "url": "https://www.toutiao.com/trending/7706681086532652570/"
+      "url": "https://www.toutiao.com/trending/7706382018820440127/"
     },
     {
       "id": "evt-cop31000",
@@ -51,8 +51,65 @@
       "url": "https://www.thepaper.cn/newsDetail_forward_34445443"
     },
     {
-      "id": "evt-20000000",
-      "title": "推迟到校 孩子的20分钟该归谁",
+      "id": "evt-ape00000",
+      "title": "中方回应中日领导人APEC是否会晤",
+      "category": "society",
+      "hotScore": 0.85,
+      "freshness": 0.9999,
+      "crossSource": 0.6309,
+      "totalScore": 0.8292,
+      "sources": [
+        {
+          "channel": "toutiao",
+          "rank": 1,
+          "hot": 13416817,
+          "url": "https://www.toutiao.com/trending/7706808711805633051/"
+        }
+      ],
+      "summary": "",
+      "url": "https://www.toutiao.com/trending/7706808711805633051/"
+    },
+    {
+      "id": "evt-apec0000",
+      "title": "外国友人眼中的APEC“中国年”",
+      "category": "society",
+      "hotScore": 0.765,
+      "freshness": 0.9999,
+      "crossSource": 0.6309,
+      "totalScore": 0.7952,
+      "sources": [
+        {
+          "channel": "toutiao",
+          "rank": 3,
+          "hot": 10984760,
+          "url": "https://www.toutiao.com/trending/7706815087293648411/"
+        }
+      ],
+      "summary": "",
+      "url": "https://www.toutiao.com/trending/7706815087293648411/"
+    },
+    {
+      "id": "evt-35000000",
+      "title": "如何看待房主因不满 35 万元拆迁赔偿直播施压，四川自永高速建设施工队直接改方案抬高跨过？",
+      "category": "society",
+      "hotScore": 0.75,
+      "freshness": 0.9999,
+      "crossSource": 0.6309,
+      "totalScore": 0.7892,
+      "sources": [
+        {
+          "channel": "zhihu",
+          "rank": 1,
+          "hot": 0,
+          "url": ""
+        }
+      ],
+      "summary": "",
+      "url": ""
+    },
+    {
+      "id": "evt-44000000",
+      "title": "油价预计下调440元/吨",
       "category": "society",
       "hotScore": 0.72,
       "freshness": 1,
@@ -63,81 +120,24 @@
           "channel": "baidu",
           "rank": 3,
           "hot": 0,
-          "url": "https://m.baidu.com/s?word=%E6%8E%A8%E8%BF%9F%E5%88%B0%E6%A0%A1+%E5%AD%A9%E5%AD%90%E7%9A%8420%E5%88%86%E9%92%9F%E8%AF%A5%E5%BD%92%E8%B0%81&sa=fyb_news"
+          "url": "https://m.baidu.com/s?word=%E6%B2%B9%E4%BB%B7%E9%A2%84%E8%AE%A1%E4%B8%8B%E8%B0%83440%E5%85%83%2F%E5%90%A8&sa=fyb_news"
         }
       ],
       "summary": "",
-      "url": "https://m.baidu.com/s?word=%E6%8E%A8%E8%BF%9F%E5%88%B0%E6%A0%A1+%E5%AD%A9%E5%AD%90%E7%9A%8420%E5%88%86%E9%92%9F%E8%AF%A5%E5%BD%92%E8%B0%81&sa=fyb_news"
-    },
-    {
-      "id": "evt-47000000",
-      "title": "鲨鱼滞销 4条仅70元",
-      "category": "society",
-      "hotScore": 0.64,
-      "freshness": 1,
-      "crossSource": 0.6309,
-      "totalScore": 0.7453,
-      "sources": [
-        {
-          "channel": "baidu",
-          "rank": 5,
-          "hot": 0,
-          "url": "https://m.baidu.com/s?word=%E9%B2%A8%E9%B1%BC%E6%BB%9E%E9%94%80+4%E6%9D%A1%E4%BB%8570%E5%85%83&sa=fyb_news"
-        }
-      ],
-      "summary": "",
-      "url": "https://m.baidu.com/s?word=%E9%B2%A8%E9%B1%BC%E6%BB%9E%E9%94%80+4%E6%9D%A1%E4%BB%8570%E5%85%83&sa=fyb_news"
-    },
-    {
-      "id": "evt-34000000",
-      "title": "我国外储规模再超 3.4 万亿美元，单月贸易顺差超 1335 亿美元，为何人民币升值下外贸数据却持续超预期？",
-      "category": "economy",
-      "hotScore": 0.6375,
-      "freshness": 1,
-      "crossSource": 0.6309,
-      "totalScore": 0.7443,
-      "sources": [
-        {
-          "channel": "zhihu",
-          "rank": 4,
-          "hot": 0,
-          "url": ""
-        }
-      ],
-      "summary": "",
-      "url": ""
-    },
-    {
-      "id": "evt-40000000",
-      "title": "我军飞行员凌晨4点战斗起飞对抗外机",
-      "category": "society",
-      "hotScore": 0.595,
-      "freshness": 1,
-      "crossSource": 0.6309,
-      "totalScore": 0.7273,
-      "sources": [
-        {
-          "channel": "toutiao",
-          "rank": 7,
-          "hot": 23795122,
-          "url": "https://www.toutiao.com/trending/7706375963556037170/"
-        }
-      ],
-      "summary": "",
-      "url": "https://www.toutiao.com/trending/7706375963556037170/"
+      "url": "https://m.baidu.com/s?word=%E6%B2%B9%E4%BB%B7%E9%A2%84%E8%AE%A1%E4%B8%8B%E8%B0%83440%E5%85%83%2F%E5%90%A8&sa=fyb_news"
     },
     {
       "id": "evt-i0000000",
       "title": "贵州茅台：i茅台要从“抢购”模式逐步转向满足消费者需求的日常售卖模式",
       "category": "society",
-      "hotScore": 0.595,
+      "hotScore": 0.68,
       "freshness": 1,
       "crossSource": 0.6309,
-      "totalScore": 0.7273,
+      "totalScore": 0.7613,
       "sources": [
         {
           "channel": "thepaper",
-          "rank": 7,
+          "rank": 5,
           "hot": 0,
           "url": "https://www.thepaper.cn/newsDetail_forward_34445766"
         }
@@ -146,13 +146,108 @@
       "url": "https://www.thepaper.cn/newsDetail_forward_34445766"
     },
     {
-      "id": "evt-s16blgvsge",
-      "title": "S16 决赛 BLG vs GEN，你觉得 BLG 能夺冠吗？",
+      "id": "evt-21000000",
+      "title": "“包子2元停车10元”成历史",
       "category": "society",
-      "hotScore": 0.5625,
+      "hotScore": 0.68,
+      "freshness": 0.9999,
+      "crossSource": 0.6309,
+      "totalScore": 0.7612,
+      "sources": [
+        {
+          "channel": "toutiao",
+          "rank": 5,
+          "hot": 8993561,
+          "url": "https://www.toutiao.com/trending/7706731142883852324/"
+        }
+      ],
+      "summary": "",
+      "url": "https://www.toutiao.com/trending/7706731142883852324/"
+    },
+    {
+      "id": "evt-ai000000",
+      "title": "专访项飙：当AI成为“不需要水的鱼”，人类如何重新理解自己和生活",
+      "category": "society",
+      "hotScore": 0.6375,
       "freshness": 1,
       "crossSource": 0.6309,
-      "totalScore": 0.7143,
+      "totalScore": 0.7443,
+      "sources": [
+        {
+          "channel": "thepaper",
+          "rank": 6,
+          "hot": 0,
+          "url": "https://www.thepaper.cn/newsDetail_forward_34440595"
+        }
+      ],
+      "summary": "",
+      "url": "https://www.thepaper.cn/newsDetail_forward_34440595"
+    },
+    {
+      "id": "evt-10000000",
+      "title": "云南农户种出巨型萝卜 高1.2米重30斤",
+      "category": "society",
+      "hotScore": 0.6,
+      "freshness": 1,
+      "crossSource": 0.6309,
+      "totalScore": 0.7293,
+      "sources": [
+        {
+          "channel": "baidu",
+          "rank": 6,
+          "hot": 0,
+          "url": "https://m.baidu.com/s?word=%E4%BA%91%E5%8D%97%E5%86%9C%E6%88%B7%E7%A7%8D%E5%87%BA%E5%B7%A8%E5%9E%8B%E8%90%9D%E5%8D%9C+%E9%AB%981.2%E7%B1%B3%E9%87%8D30%E6%96%A4&sa=fyb_news"
+        }
+      ],
+      "summary": "",
+      "url": "https://m.baidu.com/s?word=%E4%BA%91%E5%8D%97%E5%86%9C%E6%88%B7%E7%A7%8D%E5%87%BA%E5%B7%A8%E5%9E%8B%E8%90%9D%E5%8D%9C+%E9%AB%981.2%E7%B1%B3%E9%87%8D30%E6%96%A4&sa=fyb_news"
+    },
+    {
+      "id": "evt-26600000",
+      "title": "女子卡里近 26 万元消失，6 天内被分多笔转走，交易短信提醒被取消，手机曾莫名闪烁，这是什么情况？",
+      "category": "society",
+      "hotScore": 0.6,
+      "freshness": 0.9999,
+      "crossSource": 0.6309,
+      "totalScore": 0.7292,
+      "sources": [
+        {
+          "channel": "zhihu",
+          "rank": 5,
+          "hot": 0,
+          "url": ""
+        }
+      ],
+      "summary": "",
+      "url": ""
+    },
+    {
+      "id": "evt-82500000",
+      "title": "彩票店主代买彩票中825万私自兑奖",
+      "category": "society",
+      "hotScore": 0.595,
+      "freshness": 0.9999,
+      "crossSource": 0.6309,
+      "totalScore": 0.7272,
+      "sources": [
+        {
+          "channel": "toutiao",
+          "rank": 7,
+          "hot": 7363305,
+          "url": "https://www.toutiao.com/trending/7706767171250929727/"
+        }
+      ],
+      "summary": "",
+      "url": "https://www.toutiao.com/trending/7706767171250929727/"
+    },
+    {
+      "id": "evt-10200000",
+      "title": "10 月 20 万元以上新能源车销量榜出炉，前三名全是小米，哪些数据值得关注？当前市场格局如何？",
+      "category": "society",
+      "hotScore": 0.5625,
+      "freshness": 0.9999,
+      "crossSource": 0.6309,
+      "totalScore": 0.7142,
       "sources": [
         {
           "channel": "zhihu",
@@ -165,61 +260,23 @@
       "url": ""
     },
     {
-      "id": "evt-10200000",
-      "title": "10 月 20 万元以上新能源车销量榜出炉，前三名全是小米，哪些数据值得关注？当前市场格局如何？",
+      "id": "evt-20000000",
+      "title": "女士取20万给儿子当彩礼 柜员报警",
       "category": "society",
-      "hotScore": 0.4875,
-      "freshness": 1,
+      "hotScore": 0.5525,
+      "freshness": 0.9999,
       "crossSource": 0.6309,
-      "totalScore": 0.6843,
+      "totalScore": 0.7102,
       "sources": [
         {
-          "channel": "zhihu",
+          "channel": "toutiao",
           "rank": 8,
-          "hot": 0,
-          "url": ""
+          "hot": 6662594,
+          "url": "https://www.toutiao.com/trending/7706515721819570697/"
         }
       ],
       "summary": "",
-      "url": ""
-    },
-    {
-      "id": "evt-50000000",
-      "title": "女子为备婚瘦50斤婚礼惊艳全场",
-      "category": "society",
-      "hotScore": 0.48,
-      "freshness": 1,
-      "crossSource": 0.6309,
-      "totalScore": 0.6813,
-      "sources": [
-        {
-          "channel": "baidu",
-          "rank": 9,
-          "hot": 0,
-          "url": "https://m.baidu.com/s?word=%E5%A5%B3%E5%AD%90%E4%B8%BA%E5%A4%87%E5%A9%9A%E7%98%A650%E6%96%A4%E5%A9%9A%E7%A4%BC%E6%83%8A%E8%89%B3%E5%85%A8%E5%9C%BA&sa=fyb_news"
-        }
-      ],
-      "summary": "",
-      "url": "https://m.baidu.com/s?word=%E5%A5%B3%E5%AD%90%E4%B8%BA%E5%A4%87%E5%A9%9A%E7%98%A650%E6%96%A4%E5%A9%9A%E7%A4%BC%E6%83%8A%E8%89%B3%E5%85%A8%E5%9C%BA&sa=fyb_news"
-    },
-    {
-      "id": "evt-51700000",
-      "title": "马上评｜一顿饭51.7万元？别借抹黑上海博流量",
-      "category": "society",
-      "hotScore": 0.4675,
-      "freshness": 1,
-      "crossSource": 0.6309,
-      "totalScore": 0.6763,
-      "sources": [
-        {
-          "channel": "thepaper",
-          "rank": 10,
-          "hot": 0,
-          "url": "https://www.thepaper.cn/newsDetail_forward_34443326"
-        }
-      ],
-      "summary": "",
-      "url": "https://www.thepaper.cn/newsDetail_forward_34443326"
+      "url": "https://www.toutiao.com/trending/7706515721819570697/"
     }
   ]
 }
