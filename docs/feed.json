@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-11-11T17:32:54.470Z",
+  "generatedAt": "2026-11-11T23:50:14.298Z",
   "fields": {
     "society": "社会",
     "economy": "经济",
@@ -7,8 +7,46 @@
   },
   "feed": [
     {
+      "id": "evt-11000000",
+      "title": "今年双11货架电商怎么就又行了",
+      "category": "society",
+      "hotScore": 0.85,
+      "freshness": 0.9999,
+      "crossSource": 1,
+      "totalScore": 0.94,
+      "sources": [
+        {
+          "channel": "toutiao",
+          "rank": 1,
+          "hot": 9639715,
+          "url": "https://www.toutiao.com/trending/7706878760670203411/"
+        }
+      ],
+      "summary": "",
+      "url": "https://www.toutiao.com/trending/7706878760670203411/"
+    },
+    {
       "id": "evt-00000000",
-      "title": "长虹原董事长倪润峰去世",
+      "title": "澎湃回声｜山东临沂回应“非标农用地膜”涉嫌违法产销问题：已依法立案调查",
+      "category": "society",
+      "hotScore": 0.85,
+      "freshness": 1,
+      "crossSource": 1,
+      "totalScore": 0.94,
+      "sources": [
+        {
+          "channel": "thepaper",
+          "rank": 1,
+          "hot": 0,
+          "url": "https://www.thepaper.cn/newsDetail_forward_34453548"
+        }
+      ],
+      "summary": "",
+      "url": "https://www.thepaper.cn/newsDetail_forward_34453548"
+    },
+    {
+      "id": "evt-ai000000",
+      "title": "专访项飙：当AI成为“不需要水的鱼”，人类如何重新理解自己和生活",
       "category": "society",
       "hotScore": 0.8075,
       "freshness": 1,
@@ -16,33 +54,8 @@
       "totalScore": 0.923,
       "sources": [
         {
-          "channel": "toutiao",
-          "rank": 2,
-          "hot": 8909422,
-          "url": "https://www.toutiao.com/trending/7706906823810596914/"
-        },
-        {
-          "channel": "baidu",
-          "rank": 8,
-          "hot": 0,
-          "url": "https://m.baidu.com/s?word=%E9%95%BF%E8%99%B9%E5%8E%9F%E8%91%A3%E4%BA%8B%E9%95%BF%E5%80%AA%E6%B6%A6%E5%B3%B0%E5%8E%BB%E4%B8%96&sa=fyb_news"
-        }
-      ],
-      "summary": "",
-      "url": "https://www.toutiao.com/trending/7706906823810596914/"
-    },
-    {
-      "id": "evt-ai000000",
-      "title": "专访项飙：当AI成为“不需要水的鱼”，人类如何重新理解自己和生活",
-      "category": "society",
-      "hotScore": 0.85,
-      "freshness": 1,
-      "crossSource": 0.6309,
-      "totalScore": 0.8293,
-      "sources": [
-        {
           "channel": "thepaper",
-          "rank": 1,
+          "rank": 2,
           "hot": 0,
           "url": "https://www.thepaper.cn/newsDetail_forward_34440595"
         }
@@ -51,13 +64,13 @@
       "url": "https://www.thepaper.cn/newsDetail_forward_34440595"
     },
     {
-      "id": "evt-35000000",
-      "title": "如何看待房主因不满 35 万元拆迁赔偿直播施压，四川自永高速建设施工队直接改方案抬高跨过？",
+      "id": "evt-39000000",
+      "title": "如何看待第 39 届金鸡奖《密档》郑大圣打败《南京照相馆》申奥、《给阿嬷的情书》蓝鸿春，爆冷获最佳导演？",
       "category": "society",
       "hotScore": 0.75,
       "freshness": 1,
-      "crossSource": 0.6309,
-      "totalScore": 0.7893,
+      "crossSource": 1,
+      "totalScore": 0.9,
       "sources": [
         {
           "channel": "zhihu",
@@ -74,14 +87,14 @@
       "title": "“包子2元停车10元”成历史",
       "category": "society",
       "hotScore": 0.7225,
-      "freshness": 1,
-      "crossSource": 0.6309,
-      "totalScore": 0.7783,
+      "freshness": 0.9999,
+      "crossSource": 1,
+      "totalScore": 0.889,
       "sources": [
         {
           "channel": "toutiao",
           "rank": 4,
-          "hot": 7294417,
+          "hot": 7141276,
           "url": "https://www.toutiao.com/trending/7706731142883852324/"
         }
       ],
@@ -89,93 +102,36 @@
       "url": "https://www.toutiao.com/trending/7706731142883852324/"
     },
     {
-      "id": "evt-39900000",
-      "title": "山姆399元羽绒服被抢购",
+      "id": "evt-anthropica",
+      "title": "Anthropic披露AI仅用3天适配AMD芯片",
       "category": "society",
-      "hotScore": 0.72,
-      "freshness": 1,
-      "crossSource": 0.6309,
-      "totalScore": 0.7773,
+      "hotScore": 0.68,
+      "freshness": 0.9999,
+      "crossSource": 1,
+      "totalScore": 0.872,
       "sources": [
         {
-          "channel": "baidu",
-          "rank": 3,
-          "hot": 0,
-          "url": "https://m.baidu.com/s?word=%E5%B1%B1%E5%A7%86399%E5%85%83%E7%BE%BD%E7%BB%92%E6%9C%8D%E8%A2%AB%E6%8A%A2%E8%B4%AD&sa=fyb_news"
+          "channel": "toutiao",
+          "rank": 5,
+          "hot": 6461694,
+          "url": "https://www.toutiao.com/trending/7706948038756929087/"
         }
       ],
       "summary": "",
-      "url": "https://m.baidu.com/s?word=%E5%B1%B1%E5%A7%86399%E5%85%83%E7%BE%BD%E7%BB%92%E6%9C%8D%E8%A2%AB%E6%8A%A2%E8%B4%AD&sa=fyb_news"
-    },
-    {
-      "id": "evt-rtx50000",
-      "title": "RTX50 系列显卡价格出现回落，RTX5080 售价已跌 4000 元，有哪些原因？现在适合入手吗？",
-      "category": "society",
-      "hotScore": 0.675,
-      "freshness": 1,
-      "crossSource": 0.6309,
-      "totalScore": 0.7593,
-      "sources": [
-        {
-          "channel": "zhihu",
-          "rank": 3,
-          "hot": 0,
-          "url": ""
-        }
-      ],
-      "summary": "",
-      "url": ""
-    },
-    {
-      "id": "evt-39000000",
-      "title": "如何看待第 39 届金鸡奖《密档》郑大圣打败《南京照相馆》申奥、《给阿嬷的情书》蓝鸿春，爆冷获最佳导演？",
-      "category": "society",
-      "hotScore": 0.6375,
-      "freshness": 1,
-      "crossSource": 0.6309,
-      "totalScore": 0.7443,
-      "sources": [
-        {
-          "channel": "zhihu",
-          "rank": 4,
-          "hot": 0,
-          "url": ""
-        }
-      ],
-      "summary": "",
-      "url": ""
-    },
-    {
-      "id": "evt-15000000",
-      "title": "15分钟内限次免费停！时隔21年上海全面调整道路停车收费政策",
-      "category": "society",
-      "hotScore": 0.6375,
-      "freshness": 1,
-      "crossSource": 0.6309,
-      "totalScore": 0.7443,
-      "sources": [
-        {
-          "channel": "thepaper",
-          "rank": 6,
-          "hot": 0,
-          "url": "https://www.thepaper.cn/newsDetail_forward_34450560"
-        }
-      ],
-      "summary": "",
-      "url": "https://www.thepaper.cn/newsDetail_forward_34450560"
+      "url": "https://www.toutiao.com/trending/7706948038756929087/"
     },
     {
       "id": "evt-57000000",
       "title": "媒体：四年跑步570公里才能毕业？四川一高校回应",
       "category": "society",
-      "hotScore": 0.595,
+      "hotScore": 0.6375,
       "freshness": 1,
-      "crossSource": 0.6309,
-      "totalScore": 0.7273,
+      "crossSource": 1,
+      "totalScore": 0.855,
       "sources": [
         {
           "channel": "thepaper",
-          "rank": 7,
+          "rank": 6,
           "hot": 0,
           "url": "https://www.thepaper.cn/newsDetail_forward_34455512"
         }
@@ -184,61 +140,23 @@
       "url": "https://www.thepaper.cn/newsDetail_forward_34455512"
     },
     {
-      "id": "evt-ab000000",
-      "title": "中国叫停软银收购瑞士 ABB 机器人业务，将对全球工业数据流转规则产生哪些影响？",
-      "category": "society",
-      "hotScore": 0.5625,
-      "freshness": 1,
-      "crossSource": 0.6309,
-      "totalScore": 0.7143,
-      "sources": [
-        {
-          "channel": "zhihu",
-          "rank": 6,
-          "hot": 0,
-          "url": ""
-        }
-      ],
-      "summary": "",
-      "url": ""
-    },
-    {
-      "id": "evt-11000000",
-      "title": "今年双11货架电商怎么就又行了",
-      "category": "society",
-      "hotScore": 0.5525,
-      "freshness": 1,
-      "crossSource": 0.6309,
-      "totalScore": 0.7103,
-      "sources": [
-        {
-          "channel": "toutiao",
-          "rank": 8,
-          "hot": 4889594,
-          "url": "https://www.toutiao.com/trending/7706878760670203411/"
-        }
-      ],
-      "summary": "",
-      "url": "https://www.toutiao.com/trending/7706878760670203411/"
-    },
-    {
-      "id": "evt-53561000",
-      "title": "近5小时内打了356次110！男子恶意骚扰报警平台被合肥警方行拘",
+      "id": "evt-15000000",
+      "title": "15分钟内限次免费停！时隔21年上海全面调整道路停车收费政策",
       "category": "society",
       "hotScore": 0.51,
       "freshness": 1,
-      "crossSource": 0.6309,
-      "totalScore": 0.6933,
+      "crossSource": 1,
+      "totalScore": 0.804,
       "sources": [
         {
           "channel": "thepaper",
           "rank": 9,
           "hot": 0,
-          "url": "https://www.thepaper.cn/newsDetail_forward_34451151"
+          "url": "https://www.thepaper.cn/newsDetail_forward_34450560"
         }
       ],
       "summary": "",
-      "url": "https://www.thepaper.cn/newsDetail_forward_34451151"
+      "url": "https://www.thepaper.cn/newsDetail_forward_34450560"
     },
     {
       "id": "evt-10000000",
@@ -246,8 +164,8 @@
       "category": "society",
       "hotScore": 0.4875,
       "freshness": 1,
-      "crossSource": 0.6309,
-      "totalScore": 0.6843,
+      "crossSource": 1,
+      "totalScore": 0.795,
       "sources": [
         {
           "channel": "zhihu",
@@ -260,23 +178,23 @@
       "url": ""
     },
     {
-      "id": "evt-66000000",
-      "title": "特斯拉中国销量跌66%为何不慌",
+      "id": "evt-rtx50000",
+      "title": "RTX50 系列显卡价格出现回落，RTX5080 售价已跌 4000 元，有哪些原因？现在适合入手吗？",
       "category": "society",
-      "hotScore": 0.4675,
+      "hotScore": 0.45,
       "freshness": 1,
-      "crossSource": 0.6309,
-      "totalScore": 0.6763,
+      "crossSource": 1,
+      "totalScore": 0.78,
       "sources": [
         {
-          "channel": "toutiao",
-          "rank": 10,
-          "hot": 4003261,
-          "url": "https://www.toutiao.com/trending/7706842325208534571/"
+          "channel": "zhihu",
+          "rank": 9,
+          "hot": 0,
+          "url": ""
         }
       ],
       "summary": "",
-      "url": "https://www.toutiao.com/trending/7706842325208534571/"
+      "url": ""
     }
   ]
 }
