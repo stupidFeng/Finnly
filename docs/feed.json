@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-11-11T23:50:14.298Z",
+  "generatedAt": "2026-11-12T04:51:25.833Z",
   "fields": {
     "society": "社会",
     "economy": "经济",
@@ -7,84 +7,8 @@
   },
   "feed": [
     {
-      "id": "evt-11000000",
-      "title": "今年双11货架电商怎么就又行了",
-      "category": "society",
-      "hotScore": 0.85,
-      "freshness": 0.9999,
-      "crossSource": 1,
-      "totalScore": 0.94,
-      "sources": [
-        {
-          "channel": "toutiao",
-          "rank": 1,
-          "hot": 9639715,
-          "url": "https://www.toutiao.com/trending/7706878760670203411/"
-        }
-      ],
-      "summary": "",
-      "url": "https://www.toutiao.com/trending/7706878760670203411/"
-    },
-    {
       "id": "evt-00000000",
-      "title": "澎湃回声｜山东临沂回应“非标农用地膜”涉嫌违法产销问题：已依法立案调查",
-      "category": "society",
-      "hotScore": 0.85,
-      "freshness": 1,
-      "crossSource": 1,
-      "totalScore": 0.94,
-      "sources": [
-        {
-          "channel": "thepaper",
-          "rank": 1,
-          "hot": 0,
-          "url": "https://www.thepaper.cn/newsDetail_forward_34453548"
-        }
-      ],
-      "summary": "",
-      "url": "https://www.thepaper.cn/newsDetail_forward_34453548"
-    },
-    {
-      "id": "evt-ai000000",
-      "title": "专访项飙：当AI成为“不需要水的鱼”，人类如何重新理解自己和生活",
-      "category": "society",
-      "hotScore": 0.8075,
-      "freshness": 1,
-      "crossSource": 1,
-      "totalScore": 0.923,
-      "sources": [
-        {
-          "channel": "thepaper",
-          "rank": 2,
-          "hot": 0,
-          "url": "https://www.thepaper.cn/newsDetail_forward_34440595"
-        }
-      ],
-      "summary": "",
-      "url": "https://www.thepaper.cn/newsDetail_forward_34440595"
-    },
-    {
-      "id": "evt-39000000",
-      "title": "如何看待第 39 届金鸡奖《密档》郑大圣打败《南京照相馆》申奥、《给阿嬷的情书》蓝鸿春，爆冷获最佳导演？",
-      "category": "society",
-      "hotScore": 0.75,
-      "freshness": 1,
-      "crossSource": 1,
-      "totalScore": 0.9,
-      "sources": [
-        {
-          "channel": "zhihu",
-          "rank": 1,
-          "hot": 0,
-          "url": ""
-        }
-      ],
-      "summary": "",
-      "url": ""
-    },
-    {
-      "id": "evt-21000000",
-      "title": "“包子2元停车10元”成历史",
+      "title": "油价今晚有望大幅下降",
       "category": "society",
       "hotScore": 0.7225,
       "freshness": 0.9999,
@@ -94,44 +18,107 @@
         {
           "channel": "toutiao",
           "rank": 4,
-          "hot": 7141276,
-          "url": "https://www.toutiao.com/trending/7706731142883852324/"
+          "hot": 5231129,
+          "url": "https://www.toutiao.com/trending/7706047287998660644/"
+        },
+        {
+          "channel": "baidu",
+          "rank": 5,
+          "hot": 0,
+          "url": "https://m.baidu.com/s?word=%E6%B2%B9%E4%BB%B7%E4%BB%8A%E6%99%9A%E6%9C%89%E6%9C%9B%E5%A4%A7%E5%B9%85%E4%B8%8B%E9%99%8D&sa=fyb_news"
         }
       ],
       "summary": "",
-      "url": "https://www.toutiao.com/trending/7706731142883852324/"
+      "url": "https://www.toutiao.com/trending/7706047287998660644/"
     },
     {
-      "id": "evt-anthropica",
-      "title": "Anthropic披露AI仅用3天适配AMD芯片",
+      "id": "evt-16000000",
+      "title": "纪念孙中山先生诞辰160周年大会举行",
       "category": "society",
-      "hotScore": 0.68,
+      "hotScore": 0.8,
+      "freshness": 1,
+      "crossSource": 0.6309,
+      "totalScore": 0.8093,
+      "sources": [
+        {
+          "channel": "baidu",
+          "rank": 1,
+          "hot": 0,
+          "url": "https://m.baidu.com/s?word=%E7%BA%AA%E5%BF%B5%E5%AD%99%E4%B8%AD%E5%B1%B1%E5%85%88%E7%94%9F%E8%AF%9E%E8%BE%B0160%E5%91%A8%E5%B9%B4%E5%A4%A7%E4%BC%9A%E4%B8%BE%E8%A1%8C&sa=fyb_news"
+        }
+      ],
+      "summary": "",
+      "url": "https://m.baidu.com/s?word=%E7%BA%AA%E5%BF%B5%E5%AD%99%E4%B8%AD%E5%B1%B1%E5%85%88%E7%94%9F%E8%AF%9E%E8%BE%B0160%E5%91%A8%E5%B9%B4%E5%A4%A7%E4%BC%9A%E4%B8%BE%E8%A1%8C&sa=fyb_news"
+    },
+    {
+      "id": "evt-apec0000",
+      "title": "APEC“中国年” 重点来了",
+      "category": "society",
+      "hotScore": 0.765,
       "freshness": 0.9999,
-      "crossSource": 1,
-      "totalScore": 0.872,
+      "crossSource": 0.6309,
+      "totalScore": 0.7953,
       "sources": [
         {
           "channel": "toutiao",
-          "rank": 5,
-          "hot": 6461694,
-          "url": "https://www.toutiao.com/trending/7706948038756929087/"
+          "rank": 3,
+          "hot": 5781291,
+          "url": "https://www.toutiao.com/trending/7706363593062731327/"
         }
       ],
       "summary": "",
-      "url": "https://www.toutiao.com/trending/7706948038756929087/"
+      "url": "https://www.toutiao.com/trending/7706363593062731327/"
+    },
+    {
+      "id": "evt-10000000",
+      "title": "高三生在拼豆店干坐 1 小时，留下 5 元钱、道歉纸条和父母电话，为什么能引发热议？给孩子教育留下怎样的启发？",
+      "category": "society",
+      "hotScore": 0.75,
+      "freshness": 0.9999,
+      "crossSource": 0.6309,
+      "totalScore": 0.7893,
+      "sources": [
+        {
+          "channel": "zhihu",
+          "rank": 1,
+          "hot": 0,
+          "url": ""
+        }
+      ],
+      "summary": "",
+      "url": ""
+    },
+    {
+      "id": "evt-50000000",
+      "title": "知情人：腾讯“裁员50%”说法不属实",
+      "category": "society",
+      "hotScore": 0.72,
+      "freshness": 1,
+      "crossSource": 0.6309,
+      "totalScore": 0.7773,
+      "sources": [
+        {
+          "channel": "baidu",
+          "rank": 3,
+          "hot": 0,
+          "url": "https://m.baidu.com/s?word=%E7%9F%A5%E6%83%85%E4%BA%BA%EF%BC%9A%E8%85%BE%E8%AE%AF%E2%80%9C%E8%A3%81%E5%91%9850%25%E2%80%9D%E8%AF%B4%E6%B3%95%E4%B8%8D%E5%B1%9E%E5%AE%9E&sa=fyb_news"
+        }
+      ],
+      "summary": "",
+      "url": "https://m.baidu.com/s?word=%E7%9F%A5%E6%83%85%E4%BA%BA%EF%BC%9A%E8%85%BE%E8%AE%AF%E2%80%9C%E8%A3%81%E5%91%9850%25%E2%80%9D%E8%AF%B4%E6%B3%95%E4%B8%8D%E5%B1%9E%E5%AE%9E&sa=fyb_news"
     },
     {
       "id": "evt-57000000",
       "title": "媒体：四年跑步570公里才能毕业？四川一高校回应",
       "category": "society",
-      "hotScore": 0.6375,
+      "hotScore": 0.68,
       "freshness": 1,
-      "crossSource": 1,
-      "totalScore": 0.855,
+      "crossSource": 0.6309,
+      "totalScore": 0.7613,
       "sources": [
         {
           "channel": "thepaper",
-          "rank": 6,
+          "rank": 5,
           "hot": 0,
           "url": "https://www.thepaper.cn/newsDetail_forward_34455512"
         }
@@ -140,61 +127,175 @@
       "url": "https://www.thepaper.cn/newsDetail_forward_34455512"
     },
     {
-      "id": "evt-15000000",
-      "title": "15分钟内限次免费停！时隔21年上海全面调整道路停车收费政策",
+      "id": "evt-91390000",
+      "title": "搬家公司 9 公里收费 13900 元，不给钱就扣货威胁，能怎么规避这种「套路搬」团伙？遇到这种情况该怎么办？",
       "category": "society",
-      "hotScore": 0.51,
+      "hotScore": 0.6375,
+      "freshness": 0.9999,
+      "crossSource": 0.6309,
+      "totalScore": 0.7443,
+      "sources": [
+        {
+          "channel": "zhihu",
+          "rank": 4,
+          "hot": 0,
+          "url": ""
+        }
+      ],
+      "summary": "",
+      "url": ""
+    },
+    {
+      "id": "evt-mcn00000",
+      "title": "央媒起底MCN机构“暴力起号”套路，四川宜宾成立调查组",
+      "category": "society",
+      "hotScore": 0.6375,
       "freshness": 1,
-      "crossSource": 1,
-      "totalScore": 0.804,
+      "crossSource": 0.6309,
+      "totalScore": 0.7443,
       "sources": [
         {
           "channel": "thepaper",
-          "rank": 9,
+          "rank": 6,
           "hot": 0,
-          "url": "https://www.thepaper.cn/newsDetail_forward_34450560"
+          "url": "https://www.thepaper.cn/newsDetail_forward_34453975"
         }
       ],
       "summary": "",
-      "url": "https://www.thepaper.cn/newsDetail_forward_34450560"
+      "url": "https://www.thepaper.cn/newsDetail_forward_34453975"
     },
     {
-      "id": "evt-10000000",
-      "title": "离岸信托个税申报累计超 1600 亿元，10 月入库超 1200 亿，带动当月全国个税收入增长 90%，怎样解读？",
+      "id": "evt-ceo00000",
+      "title": "奔驰 CEO 称「在中国，车要大，非常大，大得惊人」，实际情况是这样吗？为什么国内外会存在这样的区别？",
       "category": "society",
-      "hotScore": 0.4875,
-      "freshness": 1,
-      "crossSource": 1,
-      "totalScore": 0.795,
+      "hotScore": 0.6,
+      "freshness": 0.9999,
+      "crossSource": 0.6309,
+      "totalScore": 0.7293,
       "sources": [
         {
           "channel": "zhihu",
+          "rank": 5,
+          "hot": 0,
+          "url": ""
+        }
+      ],
+      "summary": "",
+      "url": ""
+    },
+    {
+      "id": "evt-ca000000",
+      "title": "如何看待卡蓓诺洗发水 (Cabelo) 火速上架亚马逊日本，它还有机会逆转吗？",
+      "category": "society",
+      "hotScore": 0.5625,
+      "freshness": 0.9999,
+      "crossSource": 0.6309,
+      "totalScore": 0.7143,
+      "sources": [
+        {
+          "channel": "zhihu",
+          "rank": 6,
+          "hot": 0,
+          "url": ""
+        }
+      ],
+      "summary": "",
+      "url": ""
+    },
+    {
+      "id": "evt-80000000",
+      "title": "8岁女孩被老师用戒尺殴打近20分钟",
+      "category": "society",
+      "hotScore": 0.56,
+      "freshness": 1,
+      "crossSource": 0.6309,
+      "totalScore": 0.7133,
+      "sources": [
+        {
+          "channel": "baidu",
+          "rank": 7,
+          "hot": 0,
+          "url": "https://m.baidu.com/s?word=8%E5%B2%81%E5%A5%B3%E5%AD%A9%E8%A2%AB%E8%80%81%E5%B8%88%E7%94%A8%E6%88%92%E5%B0%BA%E6%AE%B4%E6%89%93%E8%BF%9120%E5%88%86%E9%92%9F&sa=fyb_news"
+        }
+      ],
+      "summary": "",
+      "url": "https://m.baidu.com/s?word=8%E5%B2%81%E5%A5%B3%E5%AD%A9%E8%A2%AB%E8%80%81%E5%B8%88%E7%94%A8%E6%88%92%E5%B0%BA%E6%AE%B4%E6%89%93%E8%BF%9120%E5%88%86%E9%92%9F&sa=fyb_news"
+    },
+    {
+      "id": "evt-20000000",
+      "title": "马克龙迎接外宾时2名仪仗队员晕倒",
+      "category": "society",
+      "hotScore": 0.5525,
+      "freshness": 0.9999,
+      "crossSource": 0.6309,
+      "totalScore": 0.7103,
+      "sources": [
+        {
+          "channel": "toutiao",
+          "rank": 8,
+          "hot": 3506530,
+          "url": "https://www.toutiao.com/trending/7707026163922780699/"
+        }
+      ],
+      "summary": "",
+      "url": "https://www.toutiao.com/trending/7707026163922780699/"
+    },
+    {
+      "id": "evt-20260000",
+      "title": "百度世界2026",
+      "category": "society",
+      "hotScore": 0.52,
+      "freshness": 1,
+      "crossSource": 0.6309,
+      "totalScore": 0.6973,
+      "sources": [
+        {
+          "channel": "baidu",
           "rank": 8,
           "hot": 0,
-          "url": ""
+          "url": "https://m.baidu.com/s?word=%E7%99%BE%E5%BA%A6%E4%B8%96%E7%95%8C2026&sa=fyb_news"
         }
       ],
       "summary": "",
-      "url": ""
+      "url": "https://m.baidu.com/s?word=%E7%99%BE%E5%BA%A6%E4%B8%96%E7%95%8C2026&sa=fyb_news"
     },
     {
-      "id": "evt-rtx50000",
-      "title": "RTX50 系列显卡价格出现回落，RTX5080 售价已跌 4000 元，有哪些原因？现在适合入手吗？",
+      "id": "evt-c0000000",
+      "title": "C罗宣布个人首部剧集开机",
       "category": "society",
-      "hotScore": 0.45,
+      "hotScore": 0.48,
       "freshness": 1,
-      "crossSource": 1,
-      "totalScore": 0.78,
+      "crossSource": 0.6309,
+      "totalScore": 0.6813,
       "sources": [
         {
-          "channel": "zhihu",
+          "channel": "baidu",
           "rank": 9,
           "hot": 0,
-          "url": ""
+          "url": "https://m.baidu.com/s?word=C%E7%BD%97%E5%AE%A3%E5%B8%83%E4%B8%AA%E4%BA%BA%E9%A6%96%E9%83%A8%E5%89%A7%E9%9B%86%E5%BC%80%E6%9C%BA&sa=fyb_news"
         }
       ],
       "summary": "",
-      "url": ""
+      "url": "https://m.baidu.com/s?word=C%E7%BD%97%E5%AE%A3%E5%B8%83%E4%B8%AA%E4%BA%BA%E9%A6%96%E9%83%A8%E5%89%A7%E9%9B%86%E5%BC%80%E6%9C%BA&sa=fyb_news"
+    },
+    {
+      "id": "evt-39900000",
+      "title": "山姆399元羽绒服断货供应商回应",
+      "category": "society",
+      "hotScore": 0.4675,
+      "freshness": 0.9999,
+      "crossSource": 0.6309,
+      "totalScore": 0.6763,
+      "sources": [
+        {
+          "channel": "toutiao",
+          "rank": 10,
+          "hot": 2870904,
+          "url": "https://www.toutiao.com/trending/7706448153800609299/"
+        }
+      ],
+      "summary": "",
+      "url": "https://www.toutiao.com/trending/7706448153800609299/"
     }
   ]
 }
