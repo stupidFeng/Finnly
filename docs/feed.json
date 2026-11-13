@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-11-13T11:41:36.428Z",
+  "generatedAt": "2026-11-13T18:55:16.977Z",
   "fields": {
     "society": "社会",
     "economy": "经济",
@@ -7,62 +7,18 @@
   },
   "feed": [
     {
-      "id": "evt-00000000",
-      "title": "飞秒手术要降价了",
-      "category": "society",
-      "hotScore": 0.76,
-      "freshness": 0.9999,
-      "crossSource": 1,
-      "totalScore": 0.904,
-      "sources": [
-        {
-          "channel": "toutiao",
-          "rank": 4,
-          "hot": 38454113,
-          "url": "https://www.toutiao.com/trending/7707568362565602854/"
-        },
-        {
-          "channel": "baidu",
-          "rank": 2,
-          "hot": 0,
-          "url": "https://m.baidu.com/s?word=%E9%A3%9E%E7%A7%92%E6%89%8B%E6%9C%AF%E8%A6%81%E9%99%8D%E4%BB%B7%E4%BA%86&sa=fyb_news"
-        }
-      ],
-      "summary": "",
-      "url": "https://www.toutiao.com/trending/7707568362565602854/"
-    },
-    {
-      "id": "evt-70000000",
-      "title": "重庆梁平：“饭店老板为连吃7碗米饭母女放钱”视频系摆拍，已立案调查",
-      "category": "society",
-      "hotScore": 0.85,
-      "freshness": 1,
-      "crossSource": 0.6309,
-      "totalScore": 0.8293,
-      "sources": [
-        {
-          "channel": "thepaper",
-          "rank": 1,
-          "hot": 0,
-          "url": "https://www.thepaper.cn/newsDetail_forward_34459574"
-        }
-      ],
-      "summary": "",
-      "url": "https://www.thepaper.cn/newsDetail_forward_34459574"
-    },
-    {
       "id": "evt-15000000",
       "title": "和平饭店账单造假事件15人被抓",
       "category": "society",
-      "hotScore": 0.8075,
-      "freshness": 0.9999,
-      "crossSource": 0.6309,
-      "totalScore": 0.8123,
+      "hotScore": 0.85,
+      "freshness": 1,
+      "crossSource": 1,
+      "totalScore": 0.94,
       "sources": [
         {
           "channel": "toutiao",
-          "rank": 2,
-          "hot": 46967960,
+          "rank": 1,
+          "hot": 55457725,
           "url": "https://www.toutiao.com/trending/7707529781885042730/"
         }
       ],
@@ -70,36 +26,93 @@
       "url": "https://www.toutiao.com/trending/7707529781885042730/"
     },
     {
-      "id": "evt-apec0000",
-      "title": "习近平将出席APEC深圳会议",
+      "id": "evt-00000000",
+      "title": "十四届全国人大环境与资源保护委员会副主任委员王忠林被查",
       "category": "society",
-      "hotScore": 0.8,
+      "hotScore": 0.85,
       "freshness": 1,
-      "crossSource": 0.6309,
-      "totalScore": 0.8093,
+      "crossSource": 1,
+      "totalScore": 0.94,
       "sources": [
         {
-          "channel": "baidu",
+          "channel": "thepaper",
           "rank": 1,
           "hot": 0,
-          "url": "https://m.baidu.com/s?word=%E4%B9%A0%E8%BF%91%E5%B9%B3%E5%B0%86%E5%87%BA%E5%B8%ADAPEC%E6%B7%B1%E5%9C%B3%E4%BC%9A%E8%AE%AE&sa=fyb_news"
+          "url": "https://www.thepaper.cn/newsDetail_forward_34468448"
         }
       ],
       "summary": "",
-      "url": "https://m.baidu.com/s?word=%E4%B9%A0%E8%BF%91%E5%B9%B3%E5%B0%86%E5%87%BA%E5%B8%ADAPEC%E6%B7%B1%E5%9C%B3%E4%BC%9A%E8%AE%AE&sa=fyb_news"
+      "url": "https://www.thepaper.cn/newsDetail_forward_34468448"
     },
     {
-      "id": "evt-usb00000",
-      "title": "网友称高铁座椅 USB 口充手机越充越掉电，12306 称电压更低，用于应急补电，这个设计合理吗？",
+      "id": "evt-apec0000",
+      "title": "APEC“中国年”遇见“十五五”开局之年",
       "category": "society",
-      "hotScore": 0.75,
-      "freshness": 0.9999,
-      "crossSource": 0.6309,
-      "totalScore": 0.7893,
+      "hotScore": 0.765,
+      "freshness": 1,
+      "crossSource": 1,
+      "totalScore": 0.906,
+      "sources": [
+        {
+          "channel": "toutiao",
+          "rank": 3,
+          "hot": 45404945,
+          "url": "https://www.toutiao.com/trending/7707472649269743145/"
+        }
+      ],
+      "summary": "",
+      "url": "https://www.toutiao.com/trending/7707472649269743145/"
+    },
+    {
+      "id": "evt-10000000",
+      "title": "飞秒手术全球1000万例中国750万例",
+      "category": "society",
+      "hotScore": 0.76,
+      "freshness": 1,
+      "crossSource": 1,
+      "totalScore": 0.904,
+      "sources": [
+        {
+          "channel": "baidu",
+          "rank": 2,
+          "hot": 0,
+          "url": "https://m.baidu.com/s?word=%E9%A3%9E%E7%A7%92%E6%89%8B%E6%9C%AF%E5%85%A8%E7%90%831000%E4%B8%87%E4%BE%8B%E4%B8%AD%E5%9B%BD750%E4%B8%87%E4%BE%8B&sa=fyb_news"
+        }
+      ],
+      "summary": "",
+      "url": "https://m.baidu.com/s?word=%E9%A3%9E%E7%A7%92%E6%89%8B%E6%9C%AF%E5%85%A8%E7%90%831000%E4%B8%87%E4%BE%8B%E4%B8%AD%E5%9B%BD750%E4%B8%87%E4%BE%8B&sa=fyb_news"
+    },
+    {
+      "id": "evt-20000000",
+      "title": "央行出手！2000亿元买断式逆回购来了",
+      "category": "economy",
+      "hotScore": 0.64,
+      "freshness": 1,
+      "crossSource": 1,
+      "totalScore": 0.856,
+      "sources": [
+        {
+          "channel": "baidu",
+          "rank": 5,
+          "hot": 0,
+          "url": "https://m.baidu.com/s?word=%E5%A4%AE%E8%A1%8C%E5%87%BA%E6%89%8B%EF%BC%812000%E4%BA%BF%E5%85%83%E4%B9%B0%E6%96%AD%E5%BC%8F%E9%80%86%E5%9B%9E%E8%B4%AD%E6%9D%A5%E4%BA%86&sa=fyb_news"
+        }
+      ],
+      "summary": "",
+      "url": "https://m.baidu.com/s?word=%E5%A4%AE%E8%A1%8C%E5%87%BA%E6%89%8B%EF%BC%812000%E4%BA%BF%E5%85%83%E4%B9%B0%E6%96%AD%E5%BC%8F%E9%80%86%E5%9B%9E%E8%B4%AD%E6%9D%A5%E4%BA%86&sa=fyb_news"
+    },
+    {
+      "id": "evt-11130000",
+      "title": "如何评价 11 月 13 日上市的问界新 M8，售价 37.98 万元起，这一价格在如今的市场有竞争力嘛？",
+      "category": "economy",
+      "hotScore": 0.5625,
+      "freshness": 1,
+      "crossSource": 1,
+      "totalScore": 0.825,
       "sources": [
         {
           "channel": "zhihu",
-          "rank": 1,
+          "rank": 6,
           "hot": 0,
           "url": ""
         }
@@ -108,36 +121,36 @@
       "url": ""
     },
     {
-      "id": "evt-40000000",
-      "title": "南京零元面馆改为仅4类人群免费",
+      "id": "evt-30000000",
+      "title": "女子刮痧脖上刮出3条大血印",
       "category": "society",
-      "hotScore": 0.68,
-      "freshness": 0.9999,
-      "crossSource": 0.6309,
-      "totalScore": 0.7613,
+      "hotScore": 0.7225,
+      "freshness": 1,
+      "crossSource": 1,
+      "totalScore": 0.889,
       "sources": [
         {
           "channel": "toutiao",
-          "rank": 5,
-          "hot": 34794721,
-          "url": "https://www.toutiao.com/trending/7706742419299156006/"
+          "rank": 4,
+          "hot": 41084093,
+          "url": "https://www.toutiao.com/trending/7707282622686396966/"
         }
       ],
       "summary": "",
-      "url": "https://www.toutiao.com/trending/7706742419299156006/"
+      "url": "https://www.toutiao.com/trending/7707282622686396966/"
     },
     {
-      "id": "evt-z0000000",
-      "title": "国铁规定 Z 字头列车不再读「直」改用英文字母发音，如何看待这种转变？",
+      "id": "evt-20260000",
+      "title": "如何评价清华大学 2026 年本科生特等奖学金的 15 名候选人？",
       "category": "society",
-      "hotScore": 0.6375,
-      "freshness": 0.9999,
-      "crossSource": 0.6309,
-      "totalScore": 0.7443,
+      "hotScore": 0.7125,
+      "freshness": 1,
+      "crossSource": 1,
+      "totalScore": 0.885,
       "sources": [
         {
           "channel": "zhihu",
-          "rank": 4,
+          "rank": 2,
           "hot": 0,
           "url": ""
         }
@@ -149,15 +162,15 @@
       "id": "evt-4ai00000",
       "title": "男子花4千多元做AI短剧火了",
       "category": "society",
-      "hotScore": 0.595,
-      "freshness": 0.9999,
-      "crossSource": 0.6309,
-      "totalScore": 0.7273,
+      "hotScore": 0.68,
+      "freshness": 1,
+      "crossSource": 1,
+      "totalScore": 0.872,
       "sources": [
         {
           "channel": "toutiao",
-          "rank": 7,
-          "hot": 28487508,
+          "rank": 5,
+          "hot": 37174424,
           "url": "https://www.toutiao.com/trending/7707122868290748458/"
         }
       ],
@@ -165,17 +178,17 @@
       "url": "https://www.toutiao.com/trending/7707122868290748458/"
     },
     {
-      "id": "evt-20270000",
-      "title": "2027 年全国硕士研究生招生考试报名人数为 347 万，较去年小幅上涨，考研热度要回升了吗？",
+      "id": "evt-z0000000",
+      "title": "国铁规定 Z 字头列车不再读「直」改用英文字母发音，如何看待这种转变？",
       "category": "society",
-      "hotScore": 0.525,
-      "freshness": 0.9999,
-      "crossSource": 0.6309,
-      "totalScore": 0.6993,
+      "hotScore": 0.675,
+      "freshness": 1,
+      "crossSource": 1,
+      "totalScore": 0.87,
       "sources": [
         {
           "channel": "zhihu",
-          "rank": 7,
+          "rank": 3,
           "hot": 0,
           "url": ""
         }
@@ -184,42 +197,61 @@
       "url": ""
     },
     {
-      "id": "evt-99900000",
-      "title": "满级小孩 打败99.9%同龄人",
+      "id": "evt-51700000",
+      "title": "众声｜“一餐饭51.7万元”造谣者被抓，别让真实在流量中走失",
       "category": "society",
-      "hotScore": 0.48,
+      "hotScore": 0.6375,
       "freshness": 1,
-      "crossSource": 0.6309,
-      "totalScore": 0.6813,
+      "crossSource": 1,
+      "totalScore": 0.855,
       "sources": [
         {
-          "channel": "baidu",
-          "rank": 9,
+          "channel": "thepaper",
+          "rank": 6,
           "hot": 0,
-          "url": "https://m.baidu.com/s?word=%E6%BB%A1%E7%BA%A7%E5%B0%8F%E5%AD%A9+%E6%89%93%E8%B4%A599.9%25%E5%90%8C%E9%BE%84%E4%BA%BA&sa=fyb_news"
+          "url": "https://www.thepaper.cn/newsDetail_forward_34468293"
         }
       ],
       "summary": "",
-      "url": "https://m.baidu.com/s?word=%E6%BB%A1%E7%BA%A7%E5%B0%8F%E5%AD%A9+%E6%89%93%E8%B4%A599.9%25%E5%90%8C%E9%BE%84%E4%BA%BA&sa=fyb_news"
+      "url": "https://www.thepaper.cn/newsDetail_forward_34468293"
     },
     {
-      "id": "evt-10000000",
-      "title": "破译“科学”流言不可不知100个真相",
+      "id": "evt-fable52fps",
+      "title": "Fable 5.2 生成 FPS 游戏《Saltline》成本约为 550 美元，如果换成人工，大概需要多少钱？",
       "category": "society",
-      "hotScore": 0.425,
-      "freshness": 0.9999,
-      "crossSource": 0.6309,
-      "totalScore": 0.6593,
+      "hotScore": 0.4875,
+      "freshness": 1,
+      "crossSource": 1,
+      "totalScore": 0.795,
       "sources": [
         {
-          "channel": "toutiao",
-          "rank": 11,
-          "hot": 19095747,
-          "url": "https://www.toutiao.com/trending/7707476395047436330/"
+          "channel": "zhihu",
+          "rank": 8,
+          "hot": 0,
+          "url": ""
         }
       ],
       "summary": "",
-      "url": "https://www.toutiao.com/trending/7707476395047436330/"
+      "url": ""
+    },
+    {
+      "id": "evt-70000000",
+      "title": "重庆通报「帮连吃 7 碗米饭母女放钱」视频系摆拍已立案，这类虚假摆拍该承担哪些法律责任？",
+      "category": "society",
+      "hotScore": 0.45,
+      "freshness": 1,
+      "crossSource": 1,
+      "totalScore": 0.78,
+      "sources": [
+        {
+          "channel": "zhihu",
+          "rank": 9,
+          "hot": 0,
+          "url": ""
+        }
+      ],
+      "summary": "",
+      "url": ""
     }
   ]
 }
