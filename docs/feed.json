@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-11-13T02:20:56.053Z",
+  "generatedAt": "2026-11-13T11:41:36.428Z",
   "fields": {
     "society": "社会",
     "economy": "经济",
@@ -7,52 +7,52 @@
   },
   "feed": [
     {
-      "id": "evt-80000000",
-      "title": "刘欢妻子发8000字长文",
+      "id": "evt-00000000",
+      "title": "飞秒手术要降价了",
       "category": "society",
-      "hotScore": 0.6375,
+      "hotScore": 0.76,
       "freshness": 0.9999,
       "crossSource": 1,
-      "totalScore": 0.855,
+      "totalScore": 0.904,
       "sources": [
         {
           "channel": "toutiao",
-          "rank": 6,
-          "hot": 11845918,
-          "url": "https://www.toutiao.com/trending/7707452217988484662/"
+          "rank": 4,
+          "hot": 38454113,
+          "url": "https://www.toutiao.com/trending/7707568362565602854/"
         },
         {
           "channel": "baidu",
-          "rank": 9,
+          "rank": 2,
           "hot": 0,
-          "url": "https://m.baidu.com/s?word=%E5%88%98%E6%AC%A2%E5%A6%BB%E5%AD%90%E5%8F%918000%E5%AD%97%E9%95%BF%E6%96%87&sa=fyb_news"
+          "url": "https://m.baidu.com/s?word=%E9%A3%9E%E7%A7%92%E6%89%8B%E6%9C%AF%E8%A6%81%E9%99%8D%E4%BB%B7%E4%BA%86&sa=fyb_news"
         }
       ],
       "summary": "",
-      "url": "https://www.toutiao.com/trending/7707452217988484662/"
+      "url": "https://www.toutiao.com/trending/7707568362565602854/"
     },
     {
-      "id": "evt-00000000",
-      "title": "金价跌回一年前",
+      "id": "evt-70000000",
+      "title": "重庆梁平：“饭店老板为连吃7碗米饭母女放钱”视频系摆拍，已立案调查",
       "category": "society",
       "hotScore": 0.85,
-      "freshness": 0.9999,
+      "freshness": 1,
       "crossSource": 0.6309,
       "totalScore": 0.8293,
       "sources": [
         {
-          "channel": "toutiao",
+          "channel": "thepaper",
           "rank": 1,
-          "hot": 19530617,
-          "url": "https://www.toutiao.com/trending/7706807749732548618/"
+          "hot": 0,
+          "url": "https://www.thepaper.cn/newsDetail_forward_34459574"
         }
       ],
       "summary": "",
-      "url": "https://www.toutiao.com/trending/7706807749732548618/"
+      "url": "https://www.thepaper.cn/newsDetail_forward_34459574"
     },
     {
-      "id": "evt-50000000",
-      "title": "50岁老师因学生顶嘴崩溃大哭",
+      "id": "evt-15000000",
+      "title": "和平饭店账单造假事件15人被抓",
       "category": "society",
       "hotScore": 0.8075,
       "freshness": 0.9999,
@@ -62,82 +62,44 @@
         {
           "channel": "toutiao",
           "rank": 2,
-          "hot": 17672033,
-          "url": "https://www.toutiao.com/trending/7707206723462955062/"
+          "hot": 46967960,
+          "url": "https://www.toutiao.com/trending/7707529781885042730/"
         }
       ],
       "summary": "",
-      "url": "https://www.toutiao.com/trending/7707206723462955062/"
+      "url": "https://www.toutiao.com/trending/7707529781885042730/"
     },
     {
-      "id": "evt-70000000",
-      "title": "重庆梁平：“饭店老板为连吃7碗米饭母女放钱”视频系摆拍，已立案调查",
+      "id": "evt-apec0000",
+      "title": "习近平将出席APEC深圳会议",
       "category": "society",
-      "hotScore": 0.765,
+      "hotScore": 0.8,
       "freshness": 1,
       "crossSource": 0.6309,
-      "totalScore": 0.7953,
+      "totalScore": 0.8093,
       "sources": [
         {
-          "channel": "thepaper",
-          "rank": 3,
+          "channel": "baidu",
+          "rank": 1,
           "hot": 0,
-          "url": "https://www.thepaper.cn/newsDetail_forward_34459574"
+          "url": "https://m.baidu.com/s?word=%E4%B9%A0%E8%BF%91%E5%B9%B3%E5%B0%86%E5%87%BA%E5%B8%ADAPEC%E6%B7%B1%E5%9C%B3%E4%BC%9A%E8%AE%AE&sa=fyb_news"
         }
       ],
       "summary": "",
-      "url": "https://www.thepaper.cn/newsDetail_forward_34459574"
+      "url": "https://m.baidu.com/s?word=%E4%B9%A0%E8%BF%91%E5%B9%B3%E5%B0%86%E5%87%BA%E5%B8%ADAPEC%E6%B7%B1%E5%9C%B3%E4%BC%9A%E8%AE%AE&sa=fyb_news"
     },
     {
-      "id": "evt-a0000000",
-      "title": "马上评｜明星起诉短剧“偷脸”，AI用脸的边界在哪？",
-      "category": "entertainment",
-      "hotScore": 0.425,
-      "freshness": 1,
-      "crossSource": 0.6309,
-      "totalScore": 0.6593,
-      "sources": [
-        {
-          "channel": "thepaper",
-          "rank": 11,
-          "hot": 0,
-          "url": "https://www.thepaper.cn/newsDetail_forward_34459124"
-        }
-      ],
-      "summary": "",
-      "url": "https://www.thepaper.cn/newsDetail_forward_34459124"
-    },
-    {
-      "id": "evt-11000000",
-      "title": "秋假催热11月旅游淡季：主题乐园被“挤爆”，研学团陆续出发",
+      "id": "evt-usb00000",
+      "title": "网友称高铁座椅 USB 口充手机越充越掉电，12306 称电压更低，用于应急补电，这个设计合理吗？",
       "category": "society",
-      "hotScore": 0.7225,
-      "freshness": 1,
+      "hotScore": 0.75,
+      "freshness": 0.9999,
       "crossSource": 0.6309,
-      "totalScore": 0.7783,
-      "sources": [
-        {
-          "channel": "thepaper",
-          "rank": 4,
-          "hot": 0,
-          "url": "https://www.thepaper.cn/newsDetail_forward_34459298"
-        }
-      ],
-      "summary": "",
-      "url": "https://www.thepaper.cn/newsDetail_forward_34459298"
-    },
-    {
-      "id": "evt-28000000",
-      "title": "如何看待 28 岁中国留学毕业生在墨尔本遇袭，两根手指被砍断，膝盖被砍伤，还遭朋友卷走 5.4 万澳元医药费？",
-      "category": "society",
-      "hotScore": 0.675,
-      "freshness": 1,
-      "crossSource": 0.6309,
-      "totalScore": 0.7593,
+      "totalScore": 0.7893,
       "sources": [
         {
           "channel": "zhihu",
-          "rank": 3,
+          "rank": 1,
           "hot": 0,
           "url": ""
         }
@@ -146,61 +108,118 @@
       "url": ""
     },
     {
-      "id": "evt-18000000",
-      "title": "“甲醛白菜”案等18起涉食品安全重大犯罪案件被挂牌督办",
+      "id": "evt-40000000",
+      "title": "南京零元面馆改为仅4类人群免费",
       "category": "society",
-      "hotScore": 0.5525,
-      "freshness": 1,
-      "crossSource": 0.6309,
-      "totalScore": 0.7103,
-      "sources": [
-        {
-          "channel": "thepaper",
-          "rank": 8,
-          "hot": 0,
-          "url": "https://www.thepaper.cn/newsDetail_forward_34459136"
-        }
-      ],
-      "summary": "",
-      "url": "https://www.thepaper.cn/newsDetail_forward_34459136"
-    },
-    {
-      "id": "evt-30000000",
-      "title": "景区送终身免费卡感谢送30吨蜜桔游客",
-      "category": "society",
-      "hotScore": 0.4675,
+      "hotScore": 0.68,
       "freshness": 0.9999,
       "crossSource": 0.6309,
-      "totalScore": 0.6763,
+      "totalScore": 0.7613,
       "sources": [
         {
           "channel": "toutiao",
-          "rank": 10,
-          "hot": 7940556,
-          "url": "https://www.toutiao.com/trending/7707171690727457331/"
+          "rank": 5,
+          "hot": 34794721,
+          "url": "https://www.toutiao.com/trending/7706742419299156006/"
         }
       ],
       "summary": "",
-      "url": "https://www.toutiao.com/trending/7707171690727457331/"
+      "url": "https://www.toutiao.com/trending/7706742419299156006/"
     },
     {
-      "id": "evt-90000000",
-      "title": "9类高危习惯悄悄诱发膀胱癌",
+      "id": "evt-z0000000",
+      "title": "国铁规定 Z 字头列车不再读「直」改用英文字母发音，如何看待这种转变？",
       "category": "society",
-      "hotScore": 0.44,
+      "hotScore": 0.6375,
+      "freshness": 0.9999,
+      "crossSource": 0.6309,
+      "totalScore": 0.7443,
+      "sources": [
+        {
+          "channel": "zhihu",
+          "rank": 4,
+          "hot": 0,
+          "url": ""
+        }
+      ],
+      "summary": "",
+      "url": ""
+    },
+    {
+      "id": "evt-4ai00000",
+      "title": "男子花4千多元做AI短剧火了",
+      "category": "society",
+      "hotScore": 0.595,
+      "freshness": 0.9999,
+      "crossSource": 0.6309,
+      "totalScore": 0.7273,
+      "sources": [
+        {
+          "channel": "toutiao",
+          "rank": 7,
+          "hot": 28487508,
+          "url": "https://www.toutiao.com/trending/7707122868290748458/"
+        }
+      ],
+      "summary": "",
+      "url": "https://www.toutiao.com/trending/7707122868290748458/"
+    },
+    {
+      "id": "evt-20270000",
+      "title": "2027 年全国硕士研究生招生考试报名人数为 347 万，较去年小幅上涨，考研热度要回升了吗？",
+      "category": "society",
+      "hotScore": 0.525,
+      "freshness": 0.9999,
+      "crossSource": 0.6309,
+      "totalScore": 0.6993,
+      "sources": [
+        {
+          "channel": "zhihu",
+          "rank": 7,
+          "hot": 0,
+          "url": ""
+        }
+      ],
+      "summary": "",
+      "url": ""
+    },
+    {
+      "id": "evt-99900000",
+      "title": "满级小孩 打败99.9%同龄人",
+      "category": "society",
+      "hotScore": 0.48,
       "freshness": 1,
       "crossSource": 0.6309,
-      "totalScore": 0.6653,
+      "totalScore": 0.6813,
       "sources": [
         {
           "channel": "baidu",
-          "rank": 10,
+          "rank": 9,
           "hot": 0,
-          "url": "https://m.baidu.com/s?word=9%E7%B1%BB%E9%AB%98%E5%8D%B1%E4%B9%A0%E6%83%AF%E6%82%84%E6%82%84%E8%AF%B1%E5%8F%91%E8%86%80%E8%83%B1%E7%99%8C&sa=fyb_news"
+          "url": "https://m.baidu.com/s?word=%E6%BB%A1%E7%BA%A7%E5%B0%8F%E5%AD%A9+%E6%89%93%E8%B4%A599.9%25%E5%90%8C%E9%BE%84%E4%BA%BA&sa=fyb_news"
         }
       ],
       "summary": "",
-      "url": "https://m.baidu.com/s?word=9%E7%B1%BB%E9%AB%98%E5%8D%B1%E4%B9%A0%E6%83%AF%E6%82%84%E6%82%84%E8%AF%B1%E5%8F%91%E8%86%80%E8%83%B1%E7%99%8C&sa=fyb_news"
+      "url": "https://m.baidu.com/s?word=%E6%BB%A1%E7%BA%A7%E5%B0%8F%E5%AD%A9+%E6%89%93%E8%B4%A599.9%25%E5%90%8C%E9%BE%84%E4%BA%BA&sa=fyb_news"
+    },
+    {
+      "id": "evt-10000000",
+      "title": "破译“科学”流言不可不知100个真相",
+      "category": "society",
+      "hotScore": 0.425,
+      "freshness": 0.9999,
+      "crossSource": 0.6309,
+      "totalScore": 0.6593,
+      "sources": [
+        {
+          "channel": "toutiao",
+          "rank": 11,
+          "hot": 19095747,
+          "url": "https://www.toutiao.com/trending/7707476395047436330/"
+        }
+      ],
+      "summary": "",
+      "url": "https://www.toutiao.com/trending/7707476395047436330/"
     }
   ]
 }
