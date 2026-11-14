@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-11-14T08:17:07.971Z",
+  "generatedAt": "2026-11-14T16:13:30.364Z",
   "fields": {
     "society": "社会",
     "economy": "经济",
@@ -7,71 +7,46 @@
   },
   "feed": [
     {
-      "id": "evt-12900000",
-      "title": "原价129万一支的天价药进医保了",
+      "id": "evt-00000000",
+      "title": "中国乘客亲历全美停飞以为被空袭",
+      "category": "society",
+      "hotScore": 0.85,
+      "freshness": 0.9999,
+      "crossSource": 0.6309,
+      "totalScore": 0.8293,
+      "sources": [
+        {
+          "channel": "toutiao",
+          "rank": 1,
+          "hot": 27850872,
+          "url": "https://www.toutiao.com/trending/7707795997758193691/"
+        }
+      ],
+      "summary": "",
+      "url": "https://www.toutiao.com/trending/7707795997758193691/"
+    },
+    {
+      "id": "evt-32000000",
+      "title": "结束3连败！国足2-0马来西亚",
       "category": "society",
       "hotScore": 0.8075,
       "freshness": 0.9999,
-      "crossSource": 1,
-      "totalScore": 0.923,
+      "crossSource": 0.6309,
+      "totalScore": 0.8123,
       "sources": [
         {
           "channel": "toutiao",
           "rank": 2,
-          "hot": 50885204,
-          "url": "https://www.toutiao.com/trending/7707855337277161526/"
-        },
-        {
-          "channel": "baidu",
-          "rank": 2,
-          "hot": 0,
-          "url": "https://m.baidu.com/s?word=%E5%8E%9F%E4%BB%B7129%E4%B8%87%E4%B8%80%E6%94%AF%E7%9A%84%E5%A4%A9%E4%BB%B7%E8%8D%AF%E8%BF%9B%E5%8C%BB%E4%BF%9D%E4%BA%86&sa=fyb_news"
+          "hot": 25200511,
+          "url": "https://www.toutiao.com/trending/7707467529672900671/"
         }
       ],
       "summary": "",
-      "url": "https://www.toutiao.com/trending/7707855337277161526/"
-    },
-    {
-      "id": "evt-ap000000",
-      "title": "白宫：中美俄领导人计划APEC期间会晤",
-      "category": "society",
-      "hotScore": 0.85,
-      "freshness": 0.9999,
-      "crossSource": 0.6309,
-      "totalScore": 0.8293,
-      "sources": [
-        {
-          "channel": "toutiao",
-          "rank": 1,
-          "hot": 56236847,
-          "url": "https://www.toutiao.com/trending/7707473359264546870/"
-        }
-      ],
-      "summary": "",
-      "url": "https://www.toutiao.com/trending/7707473359264546870/"
-    },
-    {
-      "id": "evt-00000000",
-      "title": "王忠林被查，湖北省委：坚决拥护党中央决定",
-      "category": "society",
-      "hotScore": 0.85,
-      "freshness": 1,
-      "crossSource": 0.6309,
-      "totalScore": 0.8293,
-      "sources": [
-        {
-          "channel": "thepaper",
-          "rank": 1,
-          "hot": 0,
-          "url": "https://www.thepaper.cn/newsDetail_forward_34469875"
-        }
-      ],
-      "summary": "",
-      "url": "https://www.thepaper.cn/newsDetail_forward_34469875"
+      "url": "https://www.toutiao.com/trending/7707467529672900671/"
     },
     {
       "id": "evt-apec0000",
-      "title": "APEC独特的“亚太模式”",
+      "title": "APEC如何走进你我生活",
       "category": "society",
       "hotScore": 0.765,
       "freshness": 0.9999,
@@ -81,158 +56,69 @@
         {
           "channel": "toutiao",
           "rank": 3,
-          "hot": 46042836,
-          "url": "https://www.toutiao.com/trending/7707921114760072755/"
+          "hot": 22802365,
+          "url": "https://www.toutiao.com/trending/7707482665838428170/"
         }
       ],
       "summary": "",
-      "url": "https://www.toutiao.com/trending/7707921114760072755/"
+      "url": "https://www.toutiao.com/trending/7707482665838428170/"
     },
     {
-      "id": "evt-51700000",
-      "title": "众声｜“一餐饭51.7万元”造谣者被抓，别让真实在流量中走失",
+      "id": "evt-17000000",
+      "title": "两天17款新车 车企年底扎堆冲量",
       "category": "society",
-      "hotScore": 0.765,
+      "hotScore": 0.72,
       "freshness": 1,
       "crossSource": 0.6309,
-      "totalScore": 0.7953,
+      "totalScore": 0.7773,
       "sources": [
         {
-          "channel": "thepaper",
+          "channel": "baidu",
           "rank": 3,
           "hot": 0,
-          "url": "https://www.thepaper.cn/newsDetail_forward_34468293"
+          "url": "https://m.baidu.com/s?word=%E4%B8%A4%E5%A4%A917%E6%AC%BE%E6%96%B0%E8%BD%A6+%E8%BD%A6%E4%BC%81%E5%B9%B4%E5%BA%95%E6%89%8E%E5%A0%86%E5%86%B2%E9%87%8F&sa=fyb_news"
         }
       ],
       "summary": "",
-      "url": "https://www.thepaper.cn/newsDetail_forward_34468293"
+      "url": "https://m.baidu.com/s?word=%E4%B8%A4%E5%A4%A917%E6%AC%BE%E6%96%B0%E8%BD%A6+%E8%BD%A6%E4%BC%81%E5%B9%B4%E5%BA%95%E6%89%8E%E5%A0%86%E5%86%B2%E9%87%8F&sa=fyb_news"
     },
     {
-      "id": "evt-33000000",
-      "title": "女子回应读博3年生3孩",
-      "category": "society",
-      "hotScore": 0.7225,
-      "freshness": 0.9999,
-      "crossSource": 0.6309,
-      "totalScore": 0.7783,
-      "sources": [
-        {
-          "channel": "toutiao",
-          "rank": 4,
-          "hot": 41661281,
-          "url": "https://www.toutiao.com/trending/7707868135341277220/"
-        }
-      ],
-      "summary": "",
-      "url": "https://www.toutiao.com/trending/7707868135341277220/"
-    },
-    {
-      "id": "evt-ai000000",
-      "title": "高校“抬头率”争议背后：AI监督能裁定一堂课的好坏吗",
-      "category": "society",
-      "hotScore": 0.7225,
-      "freshness": 1,
-      "crossSource": 0.6309,
-      "totalScore": 0.7783,
-      "sources": [
-        {
-          "channel": "thepaper",
-          "rank": 4,
-          "hot": 0,
-          "url": "https://www.thepaper.cn/newsDetail_forward_34468836"
-        }
-      ],
-      "summary": "",
-      "url": "https://www.thepaper.cn/newsDetail_forward_34468836"
-    },
-    {
-      "id": "evt-51300000",
-      "title": "小伙5年开出1300家无人健身房",
-      "category": "society",
+      "id": "evt-a0000000",
+      "title": "吴清：A股市情在全球独一无二",
+      "category": "economy",
       "hotScore": 0.68,
       "freshness": 0.9999,
-      "crossSource": 0.6309,
-      "totalScore": 0.7613,
+      "crossSource": 1,
+      "totalScore": 0.872,
       "sources": [
         {
           "channel": "toutiao",
           "rank": 5,
-          "hot": 37696686,
-          "url": "https://www.toutiao.com/trending/7707843915060691482/"
-        }
-      ],
-      "summary": "",
-      "url": "https://www.toutiao.com/trending/7707843915060691482/"
-    },
-    {
-      "id": "evt-16000000",
-      "title": "波司登王力宏同款仅售16件",
-      "category": "society",
-      "hotScore": 0.64,
-      "freshness": 1,
-      "crossSource": 0.6309,
-      "totalScore": 0.7453,
-      "sources": [
+          "hot": 18668998,
+          "url": "https://www.toutiao.com/trending/7707983642445759014/"
+        },
         {
           "channel": "baidu",
-          "rank": 5,
+          "rank": 15,
           "hot": 0,
-          "url": "https://m.baidu.com/s?word=%E6%B3%A2%E5%8F%B8%E7%99%BB%E7%8E%8B%E5%8A%9B%E5%AE%8F%E5%90%8C%E6%AC%BE%E4%BB%85%E5%94%AE16%E4%BB%B6&sa=fyb_news"
+          "url": "https://m.baidu.com/s?word=%E5%90%B4%E6%B8%85%EF%BC%9AA%E8%82%A1%E5%B8%82%E6%83%85%E5%9C%A8%E5%85%A8%E7%90%83%E7%8B%AC%E4%B8%80%E6%97%A0%E4%BA%8C&sa=fyb_news"
         }
       ],
       "summary": "",
-      "url": "https://m.baidu.com/s?word=%E6%B3%A2%E5%8F%B8%E7%99%BB%E7%8E%8B%E5%8A%9B%E5%AE%8F%E5%90%8C%E6%AC%BE%E4%BB%85%E5%94%AE16%E4%BB%B6&sa=fyb_news"
+      "url": "https://www.toutiao.com/trending/7707983642445759014/"
     },
     {
-      "id": "evt-20280000",
-      "title": "曝万斯考虑退出2028年美国总统大选",
+      "id": "evt-faker000",
+      "title": "Faker 采访称「我们不可能一直是冠军，更看好决赛 GEN 能赢」，为什么今年 GEN 评价如此高？",
       "category": "society",
-      "hotScore": 0.6375,
-      "freshness": 0.9999,
-      "crossSource": 0.6309,
-      "totalScore": 0.7443,
-      "sources": [
-        {
-          "channel": "toutiao",
-          "rank": 6,
-          "hot": 34109372,
-          "url": "https://www.toutiao.com/trending/7707777347822404123/"
-        }
-      ],
-      "summary": "",
-      "url": "https://www.toutiao.com/trending/7707777347822404123/"
-    },
-    {
-      "id": "evt-90000000",
-      "title": "90后女老师转行汽修年入千万",
-      "category": "society",
-      "hotScore": 0.6,
+      "hotScore": 0.7125,
       "freshness": 1,
       "crossSource": 0.6309,
-      "totalScore": 0.7293,
-      "sources": [
-        {
-          "channel": "baidu",
-          "rank": 6,
-          "hot": 0,
-          "url": "https://m.baidu.com/s?word=90%E5%90%8E%E5%A5%B3%E8%80%81%E5%B8%88%E8%BD%AC%E8%A1%8C%E6%B1%BD%E4%BF%AE%E5%B9%B4%E5%85%A5%E5%8D%83%E4%B8%87&sa=fyb_news"
-        }
-      ],
-      "summary": "",
-      "url": "https://m.baidu.com/s?word=90%E5%90%8E%E5%A5%B3%E8%80%81%E5%B8%88%E8%BD%AC%E8%A1%8C%E6%B1%BD%E4%BF%AE%E5%B9%B4%E5%85%A5%E5%8D%83%E4%B8%87&sa=fyb_news"
-    },
-    {
-      "id": "evt-deepseek",
-      "title": "怎么看 DeepSeek 发布全家桶 API，这个价格你接受吗？",
-      "category": "society",
-      "hotScore": 0.5625,
-      "freshness": 0.9999,
-      "crossSource": 0.6309,
-      "totalScore": 0.7143,
+      "totalScore": 0.7743,
       "sources": [
         {
           "channel": "zhihu",
-          "rank": 6,
+          "rank": 2,
           "hot": 0,
           "url": ""
         }
@@ -241,8 +127,65 @@
       "url": ""
     },
     {
-      "id": "evt-30000000",
-      "title": "女子回应读博期间3年生下3个孩子",
+      "id": "evt-21000000",
+      "title": "曾直言“买包子2元、停车10元”的人大代表，如何看上海道路停车收费新政？",
+      "category": "society",
+      "hotScore": 0.68,
+      "freshness": 1,
+      "crossSource": 0.6309,
+      "totalScore": 0.7613,
+      "sources": [
+        {
+          "channel": "thepaper",
+          "rank": 5,
+          "hot": 0,
+          "url": "https://www.thepaper.cn/newsDetail_forward_34470461"
+        }
+      ],
+      "summary": "",
+      "url": "https://www.thepaper.cn/newsDetail_forward_34470461"
+    },
+    {
+      "id": "evt-ai000000",
+      "title": "马化腾曾坦言腾讯 AI「上了船才发现船漏水」，如今又把员工分成陆军和海军，这释放了什么信号？",
+      "category": "society",
+      "hotScore": 0.675,
+      "freshness": 1,
+      "crossSource": 0.6309,
+      "totalScore": 0.7593,
+      "sources": [
+        {
+          "channel": "zhihu",
+          "rank": 3,
+          "hot": 0,
+          "url": ""
+        }
+      ],
+      "summary": "",
+      "url": ""
+    },
+    {
+      "id": "evt-50000000",
+      "title": "糖尿病早期无症状 出现5种表现要重视",
+      "category": "society",
+      "hotScore": 0.595,
+      "freshness": 0.9999,
+      "crossSource": 0.6309,
+      "totalScore": 0.7273,
+      "sources": [
+        {
+          "channel": "toutiao",
+          "rank": 7,
+          "hot": 15284882,
+          "url": "https://www.toutiao.com/trending/7708016813925515327/"
+        }
+      ],
+      "summary": "",
+      "url": "https://www.toutiao.com/trending/7708016813925515327/"
+    },
+    {
+      "id": "evt-20000000",
+      "title": "终结三连败！国足2比0战胜马来西亚",
       "category": "society",
       "hotScore": 0.56,
       "freshness": 1,
@@ -253,34 +196,34 @@
           "channel": "baidu",
           "rank": 7,
           "hot": 0,
-          "url": "https://m.baidu.com/s?word=%E5%A5%B3%E5%AD%90%E5%9B%9E%E5%BA%94%E8%AF%BB%E5%8D%9A%E6%9C%9F%E9%97%B43%E5%B9%B4%E7%94%9F%E4%B8%8B3%E4%B8%AA%E5%AD%A9%E5%AD%90&sa=fyb_news"
+          "url": "https://m.baidu.com/s?word=%E7%BB%88%E7%BB%93%E4%B8%89%E8%BF%9E%E8%B4%A5%EF%BC%81%E5%9B%BD%E8%B6%B32%E6%AF%940%E6%88%98%E8%83%9C%E9%A9%AC%E6%9D%A5%E8%A5%BF%E4%BA%9A&sa=fyb_news"
         }
       ],
       "summary": "",
-      "url": "https://m.baidu.com/s?word=%E5%A5%B3%E5%AD%90%E5%9B%9E%E5%BA%94%E8%AF%BB%E5%8D%9A%E6%9C%9F%E9%97%B43%E5%B9%B4%E7%94%9F%E4%B8%8B3%E4%B8%AA%E5%AD%A9%E5%AD%90&sa=fyb_news"
+      "url": "https://m.baidu.com/s?word=%E7%BB%88%E7%BB%93%E4%B8%89%E8%BF%9E%E8%B4%A5%EF%BC%81%E5%9B%BD%E8%B6%B32%E6%AF%940%E6%88%98%E8%83%9C%E9%A9%AC%E6%9D%A5%E8%A5%BF%E4%BA%9A&sa=fyb_news"
     },
     {
-      "id": "evt-50000000",
-      "title": "乌对俄发动近5年来最大规模空袭",
+      "id": "evt-10000000",
+      "title": "圆周率中可能存在 100 万个连续的 0 吗？",
       "category": "society",
-      "hotScore": 0.5525,
-      "freshness": 0.9999,
+      "hotScore": 0.525,
+      "freshness": 1,
       "crossSource": 0.6309,
-      "totalScore": 0.7103,
+      "totalScore": 0.6993,
       "sources": [
         {
-          "channel": "toutiao",
-          "rank": 8,
-          "hot": 27926392,
-          "url": "https://www.toutiao.com/trending/7707841396476199474/"
+          "channel": "zhihu",
+          "rank": 7,
+          "hot": 0,
+          "url": ""
         }
       ],
       "summary": "",
-      "url": "https://www.toutiao.com/trending/7707841396476199474/"
+      "url": ""
     },
     {
-      "id": "evt-22000000",
-      "title": "22岁男子确诊糖尿病不敢告诉同事",
+      "id": "evt-wbkpl000",
+      "title": "北京WB斩获KPL年度总冠军",
       "category": "society",
       "hotScore": 0.52,
       "freshness": 1,
@@ -291,11 +234,68 @@
           "channel": "baidu",
           "rank": 8,
           "hot": 0,
-          "url": "https://m.baidu.com/s?word=22%E5%B2%81%E7%94%B7%E5%AD%90%E7%A1%AE%E8%AF%8A%E7%B3%96%E5%B0%BF%E7%97%85%E4%B8%8D%E6%95%A2%E5%91%8A%E8%AF%89%E5%90%8C%E4%BA%8B&sa=fyb_news"
+          "url": "https://m.baidu.com/s?word=%E5%8C%97%E4%BA%ACWB%E6%96%A9%E8%8E%B7KPL%E5%B9%B4%E5%BA%A6%E6%80%BB%E5%86%A0%E5%86%9B&sa=fyb_news"
         }
       ],
       "summary": "",
-      "url": "https://m.baidu.com/s?word=22%E5%B2%81%E7%94%B7%E5%AD%90%E7%A1%AE%E8%AF%8A%E7%B3%96%E5%B0%BF%E7%97%85%E4%B8%8D%E6%95%A2%E5%91%8A%E8%AF%89%E5%90%8C%E4%BA%8B&sa=fyb_news"
+      "url": "https://m.baidu.com/s?word=%E5%8C%97%E4%BA%ACWB%E6%96%A9%E8%8E%B7KPL%E5%B9%B4%E5%BA%A6%E6%80%BB%E5%86%A0%E5%86%9B&sa=fyb_news"
+    },
+    {
+      "id": "evt-46000000",
+      "title": "国足对马来西亚46年保持不败",
+      "category": "society",
+      "hotScore": 0.51,
+      "freshness": 0.9999,
+      "crossSource": 0.6309,
+      "totalScore": 0.6933,
+      "sources": [
+        {
+          "channel": "toutiao",
+          "rank": 9,
+          "hot": 12514203,
+          "url": "https://www.toutiao.com/trending/7708028056178560538/"
+        }
+      ],
+      "summary": "",
+      "url": "https://www.toutiao.com/trending/7708028056178560538/"
+    },
+    {
+      "id": "evt-cfa00000",
+      "title": "CFA 中国之队肇庆国际足球邀请赛，国足 2-0 马来西亚，终结 3 连败进球荒，如何评价这场比赛？",
+      "category": "society",
+      "hotScore": 0.45,
+      "freshness": 1,
+      "crossSource": 0.6309,
+      "totalScore": 0.6693,
+      "sources": [
+        {
+          "channel": "zhihu",
+          "rank": 9,
+          "hot": 0,
+          "url": ""
+        }
+      ],
+      "summary": "",
+      "url": ""
+    },
+    {
+      "id": "evt-90000000",
+      "title": "女子遭陌生人泼汽油全身90%烧伤",
+      "category": "society",
+      "hotScore": 0.44,
+      "freshness": 1,
+      "crossSource": 0.6309,
+      "totalScore": 0.6653,
+      "sources": [
+        {
+          "channel": "baidu",
+          "rank": 10,
+          "hot": 0,
+          "url": "https://m.baidu.com/s?word=%E5%A5%B3%E5%AD%90%E9%81%AD%E9%99%8C%E7%94%9F%E4%BA%BA%E6%B3%BC%E6%B1%BD%E6%B2%B9%E5%85%A8%E8%BA%AB90%25%E7%83%A7%E4%BC%A4&sa=fyb_news"
+        }
+      ],
+      "summary": "",
+      "url": "https://m.baidu.com/s?word=%E5%A5%B3%E5%AD%90%E9%81%AD%E9%99%8C%E7%94%9F%E4%BA%BA%E6%B3%BC%E6%B1%BD%E6%B2%B9%E5%85%A8%E8%BA%AB90%25%E7%83%A7%E4%BC%A4&sa=fyb_news"
     }
   ]
 }
