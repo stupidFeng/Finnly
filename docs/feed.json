@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-11-14T00:32:46.353Z",
+  "generatedAt": "2026-11-14T08:17:07.971Z",
   "fields": {
     "society": "社会",
     "economy": "经济",
@@ -7,8 +7,8 @@
   },
   "feed": [
     {
-      "id": "evt-70000000",
-      "title": "南京零元面馆周围7家店转让",
+      "id": "evt-12900000",
+      "title": "原价129万一支的天价药进医保了",
       "category": "society",
       "hotScore": 0.8075,
       "freshness": 0.9999,
@@ -18,22 +18,22 @@
         {
           "channel": "toutiao",
           "rank": 2,
-          "hot": 60363533,
-          "url": "https://www.toutiao.com/trending/7707212687201062463/"
+          "hot": 50885204,
+          "url": "https://www.toutiao.com/trending/7707855337277161526/"
         },
         {
           "channel": "baidu",
-          "rank": 5,
+          "rank": 2,
           "hot": 0,
-          "url": "https://m.baidu.com/s?word=%E5%8D%97%E4%BA%AC%E9%9B%B6%E5%85%83%E9%9D%A2%E9%A6%86%E5%91%A8%E5%9B%B47%E5%AE%B6%E5%BA%97%E8%BD%AC%E8%AE%A9&sa=fyb_news"
+          "url": "https://m.baidu.com/s?word=%E5%8E%9F%E4%BB%B7129%E4%B8%87%E4%B8%80%E6%94%AF%E7%9A%84%E5%A4%A9%E4%BB%B7%E8%8D%AF%E8%BF%9B%E5%8C%BB%E4%BF%9D%E4%BA%86&sa=fyb_news"
         }
       ],
       "summary": "",
-      "url": "https://www.toutiao.com/trending/7707212687201062463/"
+      "url": "https://www.toutiao.com/trending/7707855337277161526/"
     },
     {
-      "id": "evt-00000000",
-      "title": "美国航班全国性地面停飞",
+      "id": "evt-ap000000",
+      "title": "白宫：中美俄领导人计划APEC期间会晤",
       "category": "society",
       "hotScore": 0.85,
       "freshness": 0.9999,
@@ -43,35 +43,35 @@
         {
           "channel": "toutiao",
           "rank": 1,
-          "hot": 66712021,
-          "url": "https://www.toutiao.com/trending/7707795596614045193/"
+          "hot": 56236847,
+          "url": "https://www.toutiao.com/trending/7707473359264546870/"
         }
       ],
       "summary": "",
-      "url": "https://www.toutiao.com/trending/7707795596614045193/"
+      "url": "https://www.toutiao.com/trending/7707473359264546870/"
     },
     {
-      "id": "evt-51700000",
-      "title": "众声｜“一餐饭51.7万元”造谣者被抓，别让真实在流量中走失",
+      "id": "evt-00000000",
+      "title": "王忠林被查，湖北省委：坚决拥护党中央决定",
       "category": "society",
-      "hotScore": 0.8075,
+      "hotScore": 0.85,
       "freshness": 1,
       "crossSource": 0.6309,
-      "totalScore": 0.8123,
+      "totalScore": 0.8293,
       "sources": [
         {
           "channel": "thepaper",
-          "rank": 2,
+          "rank": 1,
           "hot": 0,
-          "url": "https://www.thepaper.cn/newsDetail_forward_34468293"
+          "url": "https://www.thepaper.cn/newsDetail_forward_34469875"
         }
       ],
       "summary": "",
-      "url": "https://www.thepaper.cn/newsDetail_forward_34468293"
+      "url": "https://www.thepaper.cn/newsDetail_forward_34469875"
     },
     {
       "id": "evt-apec0000",
-      "title": "APEC“中国年”遇见“十五五”开局之年",
+      "title": "APEC独特的“亚太模式”",
       "category": "society",
       "hotScore": 0.765,
       "freshness": 0.9999,
@@ -81,54 +81,16 @@
         {
           "channel": "toutiao",
           "rank": 3,
-          "hot": 54619183,
-          "url": "https://www.toutiao.com/trending/7707472649269743145/"
+          "hot": 46042836,
+          "url": "https://www.toutiao.com/trending/7707921114760072755/"
         }
       ],
       "summary": "",
-      "url": "https://www.toutiao.com/trending/7707472649269743145/"
+      "url": "https://www.toutiao.com/trending/7707921114760072755/"
     },
     {
-      "id": "evt-11130000",
-      "title": "如何评价 11 月 13 日上市的问界新 M8，售价 37.98 万元起，这一价格在如今的市场有竞争力嘛？",
-      "category": "economy",
-      "hotScore": 0.675,
-      "freshness": 1,
-      "crossSource": 0.6309,
-      "totalScore": 0.7593,
-      "sources": [
-        {
-          "channel": "zhihu",
-          "rank": 3,
-          "hot": 0,
-          "url": ""
-        }
-      ],
-      "summary": "",
-      "url": ""
-    },
-    {
-      "id": "evt-38000000",
-      "title": "英伟达市值一周蒸发超3.8万亿元",
-      "category": "economy",
-      "hotScore": 0.48,
-      "freshness": 1,
-      "crossSource": 0.6309,
-      "totalScore": 0.6813,
-      "sources": [
-        {
-          "channel": "baidu",
-          "rank": 9,
-          "hot": 0,
-          "url": "https://m.baidu.com/s?word=%E8%8B%B1%E4%BC%9F%E8%BE%BE%E5%B8%82%E5%80%BC%E4%B8%80%E5%91%A8%E8%92%B8%E5%8F%91%E8%B6%853.8%E4%B8%87%E4%BA%BF%E5%85%83&sa=fyb_news"
-        }
-      ],
-      "summary": "",
-      "url": "https://m.baidu.com/s?word=%E8%8B%B1%E4%BC%9F%E8%BE%BE%E5%B8%82%E5%80%BC%E4%B8%80%E5%91%A8%E8%92%B8%E5%8F%91%E8%B6%853.8%E4%B8%87%E4%BA%BF%E5%85%83&sa=fyb_news"
-    },
-    {
-      "id": "evt-ai000000",
-      "title": "高校“抬头率”争议背后：AI监督能裁定一堂课的好坏吗",
+      "id": "evt-51700000",
+      "title": "众声｜“一餐饭51.7万元”造谣者被抓，别让真实在流量中走失",
       "category": "society",
       "hotScore": 0.765,
       "freshness": 1,
@@ -139,15 +101,15 @@
           "channel": "thepaper",
           "rank": 3,
           "hot": 0,
-          "url": "https://www.thepaper.cn/newsDetail_forward_34468836"
+          "url": "https://www.thepaper.cn/newsDetail_forward_34468293"
         }
       ],
       "summary": "",
-      "url": "https://www.thepaper.cn/newsDetail_forward_34468836"
+      "url": "https://www.thepaper.cn/newsDetail_forward_34468293"
     },
     {
-      "id": "evt-20120000",
-      "title": "英伟达创2012年以来最长连跌纪录",
+      "id": "evt-33000000",
+      "title": "女子回应读博3年生3孩",
       "category": "society",
       "hotScore": 0.7225,
       "freshness": 0.9999,
@@ -157,35 +119,35 @@
         {
           "channel": "toutiao",
           "rank": 4,
-          "hot": 49421481,
-          "url": "https://www.toutiao.com/trending/7707796859305070122/"
+          "hot": 41661281,
+          "url": "https://www.toutiao.com/trending/7707868135341277220/"
         }
       ],
       "summary": "",
-      "url": "https://www.toutiao.com/trending/7707796859305070122/"
+      "url": "https://www.toutiao.com/trending/7707868135341277220/"
     },
     {
-      "id": "evt-20260000",
-      "title": "如何评价清华大学 2026 年本科生特等奖学金的 15 名候选人？",
+      "id": "evt-ai000000",
+      "title": "高校“抬头率”争议背后：AI监督能裁定一堂课的好坏吗",
       "category": "society",
-      "hotScore": 0.7125,
+      "hotScore": 0.7225,
       "freshness": 1,
       "crossSource": 0.6309,
-      "totalScore": 0.7743,
+      "totalScore": 0.7783,
       "sources": [
         {
-          "channel": "zhihu",
-          "rank": 2,
+          "channel": "thepaper",
+          "rank": 4,
           "hot": 0,
-          "url": ""
+          "url": "https://www.thepaper.cn/newsDetail_forward_34468836"
         }
       ],
       "summary": "",
-      "url": ""
+      "url": "https://www.thepaper.cn/newsDetail_forward_34468836"
     },
     {
-      "id": "evt-90000000",
-      "title": "美高官回应停飞：非又一次9·11",
+      "id": "evt-51300000",
+      "title": "小伙5年开出1300家无人健身房",
       "category": "society",
       "hotScore": 0.68,
       "freshness": 0.9999,
@@ -195,82 +157,82 @@
         {
           "channel": "toutiao",
           "rank": 5,
-          "hot": 44718405,
-          "url": "https://www.toutiao.com/trending/7707650015505698358/"
+          "hot": 37696686,
+          "url": "https://www.toutiao.com/trending/7707843915060691482/"
         }
       ],
       "summary": "",
-      "url": "https://www.toutiao.com/trending/7707650015505698358/"
+      "url": "https://www.toutiao.com/trending/7707843915060691482/"
     },
     {
-      "id": "evt-15000000",
-      "title": "和平饭店账单造假事件15人被抓",
+      "id": "evt-16000000",
+      "title": "波司登王力宏同款仅售16件",
       "category": "society",
-      "hotScore": 0.595,
-      "freshness": 0.9999,
-      "crossSource": 0.6309,
-      "totalScore": 0.7273,
-      "sources": [
-        {
-          "channel": "toutiao",
-          "rank": 7,
-          "hot": 36612333,
-          "url": "https://www.toutiao.com/trending/7707529781885042730/"
-        }
-      ],
-      "summary": "",
-      "url": "https://www.toutiao.com/trending/7707529781885042730/"
-    },
-    {
-      "id": "evt-30000000",
-      "title": "酒后这3个信号说明不适合喝酒",
-      "category": "society",
-      "hotScore": 0.51,
-      "freshness": 0.9999,
-      "crossSource": 0.6309,
-      "totalScore": 0.6933,
-      "sources": [
-        {
-          "channel": "toutiao",
-          "rank": 9,
-          "hot": 29975643,
-          "url": "https://www.toutiao.com/trending/7706398878525816859/"
-        }
-      ],
-      "summary": "",
-      "url": "https://www.toutiao.com/trending/7706398878525816859/"
-    },
-    {
-      "id": "evt-19880000",
-      "title": "贵州贵定县“1988元可亲亲抱抱伴漂”被查处：罚款25万元，吊销营业执照",
-      "category": "society",
-      "hotScore": 0.4675,
+      "hotScore": 0.64,
       "freshness": 1,
       "crossSource": 0.6309,
-      "totalScore": 0.6763,
+      "totalScore": 0.7453,
       "sources": [
         {
-          "channel": "thepaper",
-          "rank": 10,
+          "channel": "baidu",
+          "rank": 5,
           "hot": 0,
-          "url": "https://www.thepaper.cn/newsDetail_forward_34465522"
+          "url": "https://m.baidu.com/s?word=%E6%B3%A2%E5%8F%B8%E7%99%BB%E7%8E%8B%E5%8A%9B%E5%AE%8F%E5%90%8C%E6%AC%BE%E4%BB%85%E5%94%AE16%E4%BB%B6&sa=fyb_news"
         }
       ],
       "summary": "",
-      "url": "https://www.thepaper.cn/newsDetail_forward_34465522"
+      "url": "https://m.baidu.com/s?word=%E6%B3%A2%E5%8F%B8%E7%99%BB%E7%8E%8B%E5%8A%9B%E5%AE%8F%E5%90%8C%E6%AC%BE%E4%BB%85%E5%94%AE16%E4%BB%B6&sa=fyb_news"
     },
     {
-      "id": "evt-vs000000",
-      "title": "中青赛决赛浙江 VS 上海申花发生恶性球场暴力，球员打球童，有球迷受伤，现场发生了什么？",
+      "id": "evt-20280000",
+      "title": "曝万斯考虑退出2028年美国总统大选",
       "category": "society",
-      "hotScore": 0.45,
+      "hotScore": 0.6375,
+      "freshness": 0.9999,
+      "crossSource": 0.6309,
+      "totalScore": 0.7443,
+      "sources": [
+        {
+          "channel": "toutiao",
+          "rank": 6,
+          "hot": 34109372,
+          "url": "https://www.toutiao.com/trending/7707777347822404123/"
+        }
+      ],
+      "summary": "",
+      "url": "https://www.toutiao.com/trending/7707777347822404123/"
+    },
+    {
+      "id": "evt-90000000",
+      "title": "90后女老师转行汽修年入千万",
+      "category": "society",
+      "hotScore": 0.6,
       "freshness": 1,
       "crossSource": 0.6309,
-      "totalScore": 0.6693,
+      "totalScore": 0.7293,
+      "sources": [
+        {
+          "channel": "baidu",
+          "rank": 6,
+          "hot": 0,
+          "url": "https://m.baidu.com/s?word=90%E5%90%8E%E5%A5%B3%E8%80%81%E5%B8%88%E8%BD%AC%E8%A1%8C%E6%B1%BD%E4%BF%AE%E5%B9%B4%E5%85%A5%E5%8D%83%E4%B8%87&sa=fyb_news"
+        }
+      ],
+      "summary": "",
+      "url": "https://m.baidu.com/s?word=90%E5%90%8E%E5%A5%B3%E8%80%81%E5%B8%88%E8%BD%AC%E8%A1%8C%E6%B1%BD%E4%BF%AE%E5%B9%B4%E5%85%A5%E5%8D%83%E4%B8%87&sa=fyb_news"
+    },
+    {
+      "id": "evt-deepseek",
+      "title": "怎么看 DeepSeek 发布全家桶 API，这个价格你接受吗？",
+      "category": "society",
+      "hotScore": 0.5625,
+      "freshness": 0.9999,
+      "crossSource": 0.6309,
+      "totalScore": 0.7143,
       "sources": [
         {
           "channel": "zhihu",
-          "rank": 9,
+          "rank": 6,
           "hot": 0,
           "url": ""
         }
@@ -279,23 +241,61 @@
       "url": ""
     },
     {
-      "id": "evt-80000000",
-      "title": "马上评｜女子忍耐楼上噪音8年，只能用魔法打败魔法？",
+      "id": "evt-30000000",
+      "title": "女子回应读博期间3年生下3个孩子",
       "category": "society",
-      "hotScore": 0.425,
+      "hotScore": 0.56,
       "freshness": 1,
       "crossSource": 0.6309,
-      "totalScore": 0.6593,
+      "totalScore": 0.7133,
       "sources": [
         {
-          "channel": "thepaper",
-          "rank": 11,
+          "channel": "baidu",
+          "rank": 7,
           "hot": 0,
-          "url": "https://www.thepaper.cn/newsDetail_forward_34468242"
+          "url": "https://m.baidu.com/s?word=%E5%A5%B3%E5%AD%90%E5%9B%9E%E5%BA%94%E8%AF%BB%E5%8D%9A%E6%9C%9F%E9%97%B43%E5%B9%B4%E7%94%9F%E4%B8%8B3%E4%B8%AA%E5%AD%A9%E5%AD%90&sa=fyb_news"
         }
       ],
       "summary": "",
-      "url": "https://www.thepaper.cn/newsDetail_forward_34468242"
+      "url": "https://m.baidu.com/s?word=%E5%A5%B3%E5%AD%90%E5%9B%9E%E5%BA%94%E8%AF%BB%E5%8D%9A%E6%9C%9F%E9%97%B43%E5%B9%B4%E7%94%9F%E4%B8%8B3%E4%B8%AA%E5%AD%A9%E5%AD%90&sa=fyb_news"
+    },
+    {
+      "id": "evt-50000000",
+      "title": "乌对俄发动近5年来最大规模空袭",
+      "category": "society",
+      "hotScore": 0.5525,
+      "freshness": 0.9999,
+      "crossSource": 0.6309,
+      "totalScore": 0.7103,
+      "sources": [
+        {
+          "channel": "toutiao",
+          "rank": 8,
+          "hot": 27926392,
+          "url": "https://www.toutiao.com/trending/7707841396476199474/"
+        }
+      ],
+      "summary": "",
+      "url": "https://www.toutiao.com/trending/7707841396476199474/"
+    },
+    {
+      "id": "evt-22000000",
+      "title": "22岁男子确诊糖尿病不敢告诉同事",
+      "category": "society",
+      "hotScore": 0.52,
+      "freshness": 1,
+      "crossSource": 0.6309,
+      "totalScore": 0.6973,
+      "sources": [
+        {
+          "channel": "baidu",
+          "rank": 8,
+          "hot": 0,
+          "url": "https://m.baidu.com/s?word=22%E5%B2%81%E7%94%B7%E5%AD%90%E7%A1%AE%E8%AF%8A%E7%B3%96%E5%B0%BF%E7%97%85%E4%B8%8D%E6%95%A2%E5%91%8A%E8%AF%89%E5%90%8C%E4%BA%8B&sa=fyb_news"
+        }
+      ],
+      "summary": "",
+      "url": "https://m.baidu.com/s?word=22%E5%B2%81%E7%94%B7%E5%AD%90%E7%A1%AE%E8%AF%8A%E7%B3%96%E5%B0%BF%E7%97%85%E4%B8%8D%E6%95%A2%E5%91%8A%E8%AF%89%E5%90%8C%E4%BA%8B&sa=fyb_news"
     }
   ]
 }
