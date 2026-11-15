@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-11-14T21:47:44.796Z",
+  "generatedAt": "2026-11-15T01:25:36.760Z",
   "fields": {
     "society": "社会",
     "economy": "经济",
@@ -7,56 +7,81 @@
   },
   "feed": [
     {
+      "id": "evt-knights16",
+      "title": "Knight S16全球总决赛FMVP",
+      "category": "society",
+      "hotScore": 0.595,
+      "freshness": 0.9998,
+      "crossSource": 1,
+      "totalScore": 0.8379,
+      "sources": [
+        {
+          "channel": "toutiao",
+          "rank": 7,
+          "hot": 20605111,
+          "url": "https://www.toutiao.com/trending/7707455053946306596/"
+        },
+        {
+          "channel": "baidu",
+          "rank": 9,
+          "hot": 0,
+          "url": "https://m.baidu.com/s?word=Knight+S16%E5%85%A8%E7%90%83%E6%80%BB%E5%86%B3%E8%B5%9BFMVP&sa=fyb_news"
+        }
+      ],
+      "summary": "",
+      "url": "https://www.toutiao.com/trending/7707455053946306596/"
+    },
+    {
       "id": "evt-00000000",
-      "title": "中国乘客亲历全美停飞以为被空袭",
+      "title": "连休五天！多地公布雪假时间",
       "category": "society",
       "hotScore": 0.85,
-      "freshness": 1,
+      "freshness": 0.9999,
       "crossSource": 0.6309,
       "totalScore": 0.8293,
       "sources": [
         {
-          "channel": "toutiao",
+          "channel": "thepaper",
           "rank": 1,
-          "hot": 31434398,
-          "url": "https://www.toutiao.com/trending/7707795997758193691/"
+          "hot": 0,
+          "url": "https://www.thepaper.cn/newsDetail_forward_34479010"
         }
       ],
       "summary": "",
-      "url": "https://www.toutiao.com/trending/7707795997758193691/"
+      "url": "https://www.thepaper.cn/newsDetail_forward_34479010"
     },
     {
-      "id": "evt-32000000",
-      "title": "结束3连败！国足2-0马来西亚",
+      "id": "evt-blg00000",
+      "title": "BLG夺冠",
       "category": "society",
-      "hotScore": 0.8075,
-      "freshness": 1,
+      "hotScore": 0.85,
+      "freshness": 0.9998,
       "crossSource": 0.6309,
-      "totalScore": 0.8123,
+      "totalScore": 0.8292,
       "sources": [
         {
           "channel": "toutiao",
-          "rank": 2,
-          "hot": 28443019,
-          "url": "https://www.toutiao.com/trending/7707467529672900671/"
+          "rank": 1,
+          "hot": 37544960,
+          "url": "https://www.toutiao.com/trending/7708182428107689481/"
         }
       ],
       "summary": "",
-      "url": "https://www.toutiao.com/trending/7707467529672900671/"
+      "url": "https://www.toutiao.com/trending/7708182428107689481/"
     },
     {
       "id": "evt-apec0000",
       "title": "APEC如何走进你我生活",
       "category": "society",
       "hotScore": 0.765,
-      "freshness": 1,
+      "freshness": 0.9998,
       "crossSource": 0.6309,
-      "totalScore": 0.7953,
+      "totalScore": 0.7952,
       "sources": [
         {
           "channel": "toutiao",
           "rank": 3,
-          "hot": 25736308,
+          "hot": 30739213,
           "url": "https://www.toutiao.com/trending/7707482665838428170/"
         }
       ],
@@ -64,8 +89,8 @@
       "url": "https://www.toutiao.com/trending/7707482665838428170/"
     },
     {
-      "id": "evt-s16blg01",
-      "title": "S16总决赛：BLG0比1落后GEN",
+      "id": "evt-s16bl000",
+      "title": "S16总决赛：中国战队BLG逆转夺冠",
       "category": "society",
       "hotScore": 0.76,
       "freshness": 1,
@@ -76,68 +101,24 @@
           "channel": "baidu",
           "rank": 2,
           "hot": 0,
-          "url": "https://m.baidu.com/s?word=S16%E6%80%BB%E5%86%B3%E8%B5%9B%EF%BC%9ABLG0%E6%AF%941%E8%90%BD%E5%90%8EGEN&sa=fyb_news"
+          "url": "https://m.baidu.com/s?word=S16%E6%80%BB%E5%86%B3%E8%B5%9B%EF%BC%9A%E4%B8%AD%E5%9B%BD%E6%88%98%E9%98%9FBLG%E9%80%86%E8%BD%AC%E5%A4%BA%E5%86%A0&sa=fyb_news"
         }
       ],
       "summary": "",
-      "url": "https://m.baidu.com/s?word=S16%E6%80%BB%E5%86%B3%E8%B5%9B%EF%BC%9ABLG0%E6%AF%941%E8%90%BD%E5%90%8EGEN&sa=fyb_news"
+      "url": "https://m.baidu.com/s?word=S16%E6%80%BB%E5%86%B3%E8%B5%9B%EF%BC%9A%E4%B8%AD%E5%9B%BD%E6%88%98%E9%98%9FBLG%E9%80%86%E8%BD%AC%E5%A4%BA%E5%86%A0&sa=fyb_news"
     },
     {
-      "id": "evt-a0000000",
-      "title": "吴清：A股市情在全球独一无二",
-      "category": "economy",
-      "hotScore": 0.24,
-      "freshness": 1,
-      "crossSource": 1,
-      "totalScore": 0.696,
-      "sources": [
-        {
-          "channel": "toutiao",
-          "rank": 16,
-          "hot": 7013962,
-          "url": "https://www.toutiao.com/trending/7707983642445759014/"
-        },
-        {
-          "channel": "baidu",
-          "rank": 15,
-          "hot": 0,
-          "url": "https://m.baidu.com/s?word=%E5%90%B4%E6%B8%85%EF%BC%9AA%E8%82%A1%E5%B8%82%E6%83%85%E5%9C%A8%E5%85%A8%E7%90%83%E7%8B%AC%E4%B8%80%E6%97%A0%E4%BA%8C&sa=fyb_news"
-        }
-      ],
-      "summary": "",
-      "url": "https://www.toutiao.com/trending/7707983642445759014/"
-    },
-    {
-      "id": "evt-12900000",
-      "title": "原价129万/支的天价药进医保了",
+      "id": "evt-s16blg31",
+      "title": "S16 总决赛 BLG 3:1 击败 GEN，中国战队时隔 5 年再夺总冠军，如何评价这场比赛？",
       "category": "society",
-      "hotScore": 0.68,
-      "freshness": 1,
+      "hotScore": 0.75,
+      "freshness": 0.9999,
       "crossSource": 0.6309,
-      "totalScore": 0.7613,
-      "sources": [
-        {
-          "channel": "toutiao",
-          "rank": 5,
-          "hot": 21071107,
-          "url": "https://www.toutiao.com/trending/7707855337277161526/"
-        }
-      ],
-      "summary": "",
-      "url": "https://www.toutiao.com/trending/7707855337277161526/"
-    },
-    {
-      "id": "evt-faker000",
-      "title": "Faker 采访称「我们不可能一直是冠军，更看好决赛 GEN 能赢」，为什么今年 GEN 评价如此高？",
-      "category": "society",
-      "hotScore": 0.675,
-      "freshness": 1,
-      "crossSource": 0.6309,
-      "totalScore": 0.7593,
+      "totalScore": 0.7892,
       "sources": [
         {
           "channel": "zhihu",
-          "rank": 3,
+          "rank": 1,
           "hot": 0,
           "url": ""
         }
@@ -147,64 +128,45 @@
     },
     {
       "id": "evt-50000000",
-      "title": "糖尿病早期无症状 出现5种表现要重视",
+      "title": "中国战队时隔5年再捧冠军奖杯",
       "category": "society",
-      "hotScore": 0.6375,
+      "hotScore": 0.72,
       "freshness": 1,
       "crossSource": 0.6309,
-      "totalScore": 0.7443,
+      "totalScore": 0.7773,
+      "sources": [
+        {
+          "channel": "baidu",
+          "rank": 3,
+          "hot": 0,
+          "url": "https://m.baidu.com/s?word=%E4%B8%AD%E5%9B%BD%E6%88%98%E9%98%9F%E6%97%B6%E9%9A%945%E5%B9%B4%E5%86%8D%E6%8D%A7%E5%86%A0%E5%86%9B%E5%A5%96%E6%9D%AF&sa=fyb_news"
+        }
+      ],
+      "summary": "",
+      "url": "https://m.baidu.com/s?word=%E4%B8%AD%E5%9B%BD%E6%88%98%E9%98%9F%E6%97%B6%E9%9A%945%E5%B9%B4%E5%86%8D%E6%8D%A7%E5%86%A0%E5%86%9B%E5%A5%96%E6%9D%AF&sa=fyb_news"
+    },
+    {
+      "id": "evt-c0000000",
+      "title": "后C罗时代葡萄牙遭遇大败",
+      "category": "society",
+      "hotScore": 0.68,
+      "freshness": 0.9998,
+      "crossSource": 0.6309,
+      "totalScore": 0.7612,
       "sources": [
         {
           "channel": "toutiao",
-          "rank": 6,
-          "hot": 19065926,
-          "url": "https://www.toutiao.com/trending/7708016813925515327/"
+          "rank": 5,
+          "hot": 25167139,
+          "url": "https://www.toutiao.com/trending/7708147309472776731/"
         }
       ],
       "summary": "",
-      "url": "https://www.toutiao.com/trending/7708016813925515327/"
+      "url": "https://www.toutiao.com/trending/7708147309472776731/"
     },
     {
-      "id": "evt-s16blgvsg",
-      "title": "S16 总决赛 BLG vs GEN，如何评价这场比赛？",
-      "category": "society",
-      "hotScore": 0.6375,
-      "freshness": 1,
-      "crossSource": 0.6309,
-      "totalScore": 0.7443,
-      "sources": [
-        {
-          "channel": "zhihu",
-          "rank": 4,
-          "hot": 0,
-          "url": ""
-        }
-      ],
-      "summary": "",
-      "url": ""
-    },
-    {
-      "id": "evt-21000000",
-      "title": "曾直言“买包子2元、停车10元”的人大代表，如何看上海道路停车收费新政？",
-      "category": "society",
-      "hotScore": 0.6375,
-      "freshness": 1,
-      "crossSource": 0.6309,
-      "totalScore": 0.7443,
-      "sources": [
-        {
-          "channel": "thepaper",
-          "rank": 6,
-          "hot": 0,
-          "url": "https://www.thepaper.cn/newsDetail_forward_34470461"
-        }
-      ],
-      "summary": "",
-      "url": "https://www.thepaper.cn/newsDetail_forward_34470461"
-    },
-    {
-      "id": "evt-blg00000",
-      "title": "BLG拿了龙魂输了团战",
+      "id": "evt-chovy000",
+      "title": "Chovy真同意了",
       "category": "society",
       "hotScore": 0.6,
       "freshness": 1,
@@ -215,43 +177,24 @@
           "channel": "baidu",
           "rank": 6,
           "hot": 0,
-          "url": "https://m.baidu.com/s?word=BLG%E6%8B%BF%E4%BA%86%E9%BE%99%E9%AD%82%E8%BE%93%E4%BA%86%E5%9B%A2%E6%88%98&sa=fyb_news"
+          "url": "https://m.baidu.com/s?word=Chovy%E7%9C%9F%E5%90%8C%E6%84%8F%E4%BA%86&sa=fyb_news"
         }
       ],
       "summary": "",
-      "url": "https://m.baidu.com/s?word=BLG%E6%8B%BF%E4%BA%86%E9%BE%99%E9%AD%82%E8%BE%93%E4%BA%86%E5%9B%A2%E6%88%98&sa=fyb_news"
+      "url": "https://m.baidu.com/s?word=Chovy%E7%9C%9F%E5%90%8C%E6%84%8F%E4%BA%86&sa=fyb_news"
     },
     {
-      "id": "evt-33000000",
-      "title": "女子回应读博3年生3孩",
+      "id": "evt-20000000",
+      "title": "凡人修仙传动漫 200 集观众满意吗？",
       "category": "society",
-      "hotScore": 0.595,
-      "freshness": 1,
+      "hotScore": 0.6,
+      "freshness": 0.9999,
       "crossSource": 0.6309,
-      "totalScore": 0.7273,
-      "sources": [
-        {
-          "channel": "toutiao",
-          "rank": 7,
-          "hot": 17251563,
-          "url": "https://www.toutiao.com/trending/7707868135341277220/"
-        }
-      ],
-      "summary": "",
-      "url": "https://www.toutiao.com/trending/7707868135341277220/"
-    },
-    {
-      "id": "evt-68000000",
-      "title": "比特币一度跌破 6.8 万美元创 8 月以来新低，如何看待当下行情？比特币是否彻底变成顺周期高风险资产了？",
-      "category": "society",
-      "hotScore": 0.5625,
-      "freshness": 1,
-      "crossSource": 0.6309,
-      "totalScore": 0.7143,
+      "totalScore": 0.7292,
       "sources": [
         {
           "channel": "zhihu",
-          "rank": 6,
+          "rank": 5,
           "hot": 0,
           "url": ""
         }
@@ -260,42 +203,23 @@
       "url": ""
     },
     {
-      "id": "evt-20000000",
-      "title": "终结三连败！国足2比0战胜马来西亚",
+      "id": "evt-90000000",
+      "title": "北京天津等9省区市有浓雾或强浓雾",
       "category": "society",
-      "hotScore": 0.56,
+      "hotScore": 0.52,
       "freshness": 1,
       "crossSource": 0.6309,
-      "totalScore": 0.7133,
+      "totalScore": 0.6973,
       "sources": [
         {
           "channel": "baidu",
-          "rank": 7,
-          "hot": 0,
-          "url": "https://m.baidu.com/s?word=%E7%BB%88%E7%BB%93%E4%B8%89%E8%BF%9E%E8%B4%A5%EF%BC%81%E5%9B%BD%E8%B6%B32%E6%AF%940%E6%88%98%E8%83%9C%E9%A9%AC%E6%9D%A5%E8%A5%BF%E4%BA%9A&sa=fyb_news"
-        }
-      ],
-      "summary": "",
-      "url": "https://m.baidu.com/s?word=%E7%BB%88%E7%BB%93%E4%B8%89%E8%BF%9E%E8%B4%A5%EF%BC%81%E5%9B%BD%E8%B6%B32%E6%AF%940%E6%88%98%E8%83%9C%E9%A9%AC%E6%9D%A5%E8%A5%BF%E4%BA%9A&sa=fyb_news"
-    },
-    {
-      "id": "evt-30000000",
-      "title": "奔驰女司机借300元加油钱后关机",
-      "category": "society",
-      "hotScore": 0.5525,
-      "freshness": 1,
-      "crossSource": 0.6309,
-      "totalScore": 0.7103,
-      "sources": [
-        {
-          "channel": "toutiao",
           "rank": 8,
-          "hot": 15609860,
-          "url": "https://www.toutiao.com/trending/7707858174912561714/"
+          "hot": 0,
+          "url": "https://m.baidu.com/s?word=%E5%8C%97%E4%BA%AC%E5%A4%A9%E6%B4%A5%E7%AD%899%E7%9C%81%E5%8C%BA%E5%B8%82%E6%9C%89%E6%B5%93%E9%9B%BE%E6%88%96%E5%BC%BA%E6%B5%93%E9%9B%BE&sa=fyb_news"
         }
       ],
       "summary": "",
-      "url": "https://www.toutiao.com/trending/7707858174912561714/"
+      "url": "https://m.baidu.com/s?word=%E5%8C%97%E4%BA%AC%E5%A4%A9%E6%B4%A5%E7%AD%899%E7%9C%81%E5%8C%BA%E5%B8%82%E6%9C%89%E6%B5%93%E9%9B%BE%E6%88%96%E5%BC%BA%E6%B5%93%E9%9B%BE&sa=fyb_news"
     }
   ]
 }
