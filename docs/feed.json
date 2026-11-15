@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-11-15T16:41:32.945Z",
+  "generatedAt": "2026-11-15T22:15:56.259Z",
   "fields": {
     "society": "社会",
     "economy": "经济",
@@ -18,7 +18,7 @@
         {
           "channel": "toutiao",
           "rank": 1,
-          "hot": 14895781,
+          "hot": 17004109,
           "url": "https://www.toutiao.com/trending/7707809713475519003/"
         }
       ],
@@ -45,8 +45,8 @@
       "url": "https://www.thepaper.cn/newsDetail_forward_34483809"
     },
     {
-      "id": "evt-genblg00",
-      "title": "GEN 总决赛不敌 BLG 止步亚军，这场比赛他们输在哪？",
+      "id": "evt-s1600000",
+      "title": "「圣枪哥」因未在 S16 全球总决赛上场无缘冠军皮肤，对此你有什么想说的？",
       "category": "society",
       "hotScore": 0.75,
       "freshness": 1,
@@ -62,63 +62,6 @@
       ],
       "summary": "",
       "url": ""
-    },
-    {
-      "id": "evt-wtt00000",
-      "title": "WTT 伊斯坦布尔站男单决赛，方博 4-1 姜东硕，夺得男单冠军，从复出到夺冠仅 5 个月，如何评价他的表现？",
-      "category": "society",
-      "hotScore": 0.7125,
-      "freshness": 1,
-      "crossSource": 1,
-      "totalScore": 0.885,
-      "sources": [
-        {
-          "channel": "zhihu",
-          "rank": 2,
-          "hot": 0,
-          "url": ""
-        }
-      ],
-      "summary": "",
-      "url": ""
-    },
-    {
-      "id": "evt-blg00000",
-      "title": "BLG夺冠刷屏半个娱乐圈",
-      "category": "entertainment",
-      "hotScore": 0.6375,
-      "freshness": 1,
-      "crossSource": 1,
-      "totalScore": 0.855,
-      "sources": [
-        {
-          "channel": "toutiao",
-          "rank": 6,
-          "hot": 9034747,
-          "url": "https://www.toutiao.com/trending/7708182521196036137/"
-        }
-      ],
-      "summary": "",
-      "url": "https://www.toutiao.com/trending/7708182521196036137/"
-    },
-    {
-      "id": "evt-30000000",
-      "title": "凌晨3点多家电影院爆满",
-      "category": "entertainment",
-      "hotScore": 0.4675,
-      "freshness": 1,
-      "crossSource": 1,
-      "totalScore": 0.787,
-      "sources": [
-        {
-          "channel": "toutiao",
-          "rank": 10,
-          "hot": 6056172,
-          "url": "https://www.toutiao.com/trending/7708242516897697321/"
-        }
-      ],
-      "summary": "",
-      "url": "https://www.toutiao.com/trending/7708242516897697321/"
     },
     {
       "id": "evt-apec0000",
@@ -140,8 +83,46 @@
       "url": "https://m.baidu.com/s?word=APEC%E9%A2%86%E5%AF%BC%E4%BA%BA%E4%BC%9A%E8%AE%AE%E5%91%A8%E6%B4%BB%E5%8A%A8%E5%8D%87%E6%B8%A9&sa=fyb_news"
     },
     {
-      "id": "evt-s1600000",
-      "title": "「圣枪哥」因未在 S16 全球总决赛上场无缘冠军皮肤，对此你有什么想说的？",
+      "id": "evt-12apec00",
+      "title": "12位APEC经济体领导人将出席APEC工商领导人峰会",
+      "category": "economy",
+      "hotScore": 0.8075,
+      "freshness": 1,
+      "crossSource": 1,
+      "totalScore": 0.923,
+      "sources": [
+        {
+          "channel": "thepaper",
+          "rank": 2,
+          "hot": 0,
+          "url": "https://www.thepaper.cn/newsDetail_forward_34483990"
+        }
+      ],
+      "summary": "",
+      "url": "https://www.thepaper.cn/newsDetail_forward_34483990"
+    },
+    {
+      "id": "evt-30000000",
+      "title": "凌晨3点多家电影院爆满",
+      "category": "entertainment",
+      "hotScore": 0.8075,
+      "freshness": 1,
+      "crossSource": 1,
+      "totalScore": 0.923,
+      "sources": [
+        {
+          "channel": "toutiao",
+          "rank": 2,
+          "hot": 15385954,
+          "url": "https://www.toutiao.com/trending/7708242516897697321/"
+        }
+      ],
+      "summary": "",
+      "url": "https://www.toutiao.com/trending/7708242516897697321/"
+    },
+    {
+      "id": "evt-blg00000",
+      "title": "BLG 成功逆袭夺冠，雷鸟达成不退款条件，如何评价这一波营销策略？",
       "category": "society",
       "hotScore": 0.675,
       "freshness": 1,
@@ -159,8 +140,8 @@
       "url": ""
     },
     {
-      "id": "evt-chovys10",
-      "title": "如何评价 Chovy 在 S16 全球总决赛上的表现？",
+      "id": "evt-39900000",
+      "title": "山姆靠 399 元羽绒服、低价始祖鸟 / 加拿大鹅频频出圈，这类产品真的是市场稀缺品吗？山姆真正在「卖什么」？",
       "category": "society",
       "hotScore": 0.6,
       "freshness": 1,
@@ -178,27 +159,8 @@
       "url": ""
     },
     {
-      "id": "evt-spacex10",
-      "title": "SpaceX星舰完成第15次试飞：首次实现“筷子夹飞船”，此前助推器回收未完全成功",
-      "category": "society",
-      "hotScore": 0.595,
-      "freshness": 1,
-      "crossSource": 1,
-      "totalScore": 0.838,
-      "sources": [
-        {
-          "channel": "thepaper",
-          "rank": 7,
-          "hot": 0,
-          "url": "https://www.thepaper.cn/newsDetail_forward_34482883"
-        }
-      ],
-      "summary": "",
-      "url": "https://www.thepaper.cn/newsDetail_forward_34482883"
-    },
-    {
-      "id": "evt-39900000",
-      "title": "山姆靠 399 元羽绒服、低价始祖鸟 / 加拿大鹅频频出圈，这类产品真的是市场稀缺品吗？山姆真正在「卖什么」？",
+      "id": "evt-knight00",
+      "title": "Knight 成为首位中国籍全球总决赛冠军中单，他能在中单选手中排进第几名？",
       "category": "society",
       "hotScore": 0.5625,
       "freshness": 1,
@@ -208,6 +170,44 @@
         {
           "channel": "zhihu",
           "rank": 6,
+          "hot": 0,
+          "url": ""
+        }
+      ],
+      "summary": "",
+      "url": ""
+    },
+    {
+      "id": "evt-ai000000",
+      "title": "中国AI短剧在美国爆火意味着什么",
+      "category": "society",
+      "hotScore": 0.5525,
+      "freshness": 1,
+      "crossSource": 1,
+      "totalScore": 0.821,
+      "sources": [
+        {
+          "channel": "toutiao",
+          "rank": 8,
+          "hot": 8443990,
+          "url": "https://www.toutiao.com/trending/7708322350051102227/"
+        }
+      ],
+      "summary": "",
+      "url": "https://www.toutiao.com/trending/7708322350051102227/"
+    },
+    {
+      "id": "evt-riot0000",
+      "title": "Riot 宣布《英雄联盟》即将全面升级为《英雄联盟: 曙光》，你觉得此举对于这款游戏意味着什么？",
+      "category": "society",
+      "hotScore": 0.525,
+      "freshness": 1,
+      "crossSource": 1,
+      "totalScore": 0.81,
+      "sources": [
+        {
+          "channel": "zhihu",
+          "rank": 7,
           "hot": 0,
           "url": ""
         }
@@ -235,23 +235,23 @@
       "url": "https://m.baidu.com/s?word=%E6%96%B9%E5%8D%9A%E5%A4%8D%E5%87%BA%E5%88%B0%E5%A4%BA%E5%86%A0%E4%BB%855%E4%B8%AA%E6%9C%88&sa=fyb_news"
     },
     {
-      "id": "evt-riot0000",
-      "title": "Riot 宣布《英雄联盟》即将全面升级为《英雄联盟: 曙光》，你觉得此举对于这款游戏意味着什么？",
+      "id": "evt-spacex10",
+      "title": "SpaceX星舰完成第15次试飞：首次实现“筷子夹飞船”，此前助推器回收未完全成功",
       "category": "society",
-      "hotScore": 0.4875,
+      "hotScore": 0.51,
       "freshness": 1,
       "crossSource": 1,
-      "totalScore": 0.795,
+      "totalScore": 0.804,
       "sources": [
         {
-          "channel": "zhihu",
-          "rank": 8,
+          "channel": "thepaper",
+          "rank": 9,
           "hot": 0,
-          "url": ""
+          "url": "https://www.thepaper.cn/newsDetail_forward_34482883"
         }
       ],
       "summary": "",
-      "url": ""
+      "url": "https://www.thepaper.cn/newsDetail_forward_34482883"
     }
   ]
 }
