@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-11-16T03:46:38.850Z",
+  "generatedAt": "2026-11-16T12:14:21.012Z",
   "fields": {
     "society": "社会",
     "economy": "经济",
@@ -7,80 +7,86 @@
   },
   "feed": [
     {
-      "id": "evt-00000000",
-      "title": "习近平将同普京特朗普在深圳会晤",
+      "id": "evt-apec0000",
+      "title": "APEC安保天团 又高又壮又帅",
       "category": "society",
-      "hotScore": 0.85,
-      "freshness": 1,
+      "hotScore": 0.72,
+      "freshness": 0.9999,
       "crossSource": 1,
-      "totalScore": 0.94,
+      "totalScore": 0.888,
       "sources": [
         {
           "channel": "toutiao",
-          "rank": 1,
-          "hot": 25729769,
-          "url": "https://www.toutiao.com/trending/7708568403857899574/"
+          "rank": 10,
+          "hot": 8444950,
+          "url": "https://www.toutiao.com/trending/7708386891527258155/"
         },
         {
           "channel": "baidu",
-          "rank": 2,
+          "rank": 3,
           "hot": 0,
-          "url": "https://m.baidu.com/s?word=%E4%B9%A0%E8%BF%91%E5%B9%B3%E5%B0%86%E5%90%8C%E6%99%AE%E4%BA%AC%E7%89%B9%E6%9C%97%E6%99%AE%E5%9C%A8%E6%B7%B1%E5%9C%B3%E4%BC%9A%E6%99%A4&sa=fyb_news"
+          "url": "https://m.baidu.com/s?word=APEC%E5%AE%89%E4%BF%9D%E5%A4%A9%E5%9B%A2+%E5%8F%88%E9%AB%98%E5%8F%88%E5%A3%AE%E5%8F%88%E5%B8%85&sa=fyb_news"
         }
       ],
       "summary": "",
-      "url": "https://www.toutiao.com/trending/7708568403857899574/"
+      "url": "https://www.toutiao.com/trending/7708386891527258155/"
     },
     {
-      "id": "evt-39900000",
-      "title": "北大399元羽绒服火出圈",
+      "id": "evt-00000000",
+      "title": "中俄美元首即将会晤 释放强烈信号",
       "category": "society",
-      "hotScore": 0.7225,
-      "freshness": 1,
-      "crossSource": 0.6309,
-      "totalScore": 0.7783,
+      "hotScore": 0.68,
+      "freshness": 0.9999,
+      "crossSource": 1,
+      "totalScore": 0.872,
       "sources": [
         {
           "channel": "toutiao",
-          "rank": 4,
-          "hot": 19061082,
-          "url": "https://www.toutiao.com/trending/7708356537781944870/"
-        }
-      ],
-      "summary": "",
-      "url": "https://www.toutiao.com/trending/7708356537781944870/"
-    },
-    {
-      "id": "evt-apec0000",
-      "title": "看一颗蓝莓的APEC加速度",
-      "category": "society",
-      "hotScore": 0.68,
-      "freshness": 1,
-      "crossSource": 0.6309,
-      "totalScore": 0.7613,
-      "sources": [
+          "rank": 5,
+          "hot": 13923368,
+          "url": "https://www.toutiao.com/trending/7708680514529644083/"
+        },
         {
           "channel": "baidu",
-          "rank": 4,
+          "rank": 5,
           "hot": 0,
-          "url": "https://m.baidu.com/s?word=%E7%9C%8B%E4%B8%80%E9%A2%97%E8%93%9D%E8%8E%93%E7%9A%84APEC%E5%8A%A0%E9%80%9F%E5%BA%A6&sa=fyb_news"
+          "url": "https://m.baidu.com/s?word=%E4%B8%AD%E4%BF%84%E7%BE%8E%E5%85%83%E9%A6%96%E5%8D%B3%E5%B0%86%E4%BC%9A%E6%99%A4+%E9%87%8A%E6%94%BE%E5%BC%BA%E7%83%88%E4%BF%A1%E5%8F%B7&sa=fyb_news"
         }
       ],
       "summary": "",
-      "url": "https://m.baidu.com/s?word=%E7%9C%8B%E4%B8%80%E9%A2%97%E8%93%9D%E8%8E%93%E7%9A%84APEC%E5%8A%A0%E9%80%9F%E5%BA%A6&sa=fyb_news"
+      "url": "https://www.toutiao.com/trending/7708680514529644083/"
     },
     {
-      "id": "evt-20261100",
-      "title": "如何看待 2026 年 11 月 15 日 deepseek 关于对话上限长度的调整？",
+      "id": "evt-10000000",
+      "title": "国家统计局：10月份一线城市商品房价环比上涨，二三线城市环比下降",
       "category": "society",
-      "hotScore": 0.6375,
+      "hotScore": 0.8075,
       "freshness": 1,
       "crossSource": 0.6309,
-      "totalScore": 0.7443,
+      "totalScore": 0.8123,
+      "sources": [
+        {
+          "channel": "thepaper",
+          "rank": 2,
+          "hot": 0,
+          "url": "https://www.thepaper.cn/newsDetail_forward_34488425"
+        }
+      ],
+      "summary": "",
+      "url": "https://www.thepaper.cn/newsDetail_forward_34488425"
+    },
+    {
+      "id": "evt-20260000",
+      "title": "前护士张水华 2026 南昌马拉松夺冠，赛后称「感冒了跑下来有点吃力」，如何评价她的表现？",
+      "category": "society",
+      "hotScore": 0.675,
+      "freshness": 0.9999,
+      "crossSource": 0.6309,
+      "totalScore": 0.7593,
       "sources": [
         {
           "channel": "zhihu",
-          "rank": 4,
+          "rank": 3,
           "hot": 0,
           "url": ""
         }
@@ -89,11 +95,11 @@
       "url": ""
     },
     {
-      "id": "evt-2026apec",
-      "title": "2026 APEC 深圳峰会即将举办，有哪些值得关注的看点？",
+      "id": "evt-51000000",
+      "title": "如何看待小伙自称 5 年开 1300 家无人健身房？无人健身房真的很有市场吗？",
       "category": "society",
       "hotScore": 0.6,
-      "freshness": 1,
+      "freshness": 0.9999,
       "crossSource": 0.6309,
       "totalScore": 0.7293,
       "sources": [
@@ -108,11 +114,11 @@
       "url": ""
     },
     {
-      "id": "evt-c0000000",
-      "title": "为什么一直以老练闻名的 Canyon 在 S16 总决赛上就「查无此人」了？",
+      "id": "evt-bin00000",
+      "title": "怎么看 Bin 冠军皮肤投票中，突然出现大量 AI 格温图拉票，理由是特效好做、受众比武器大师多？",
       "category": "society",
       "hotScore": 0.5625,
-      "freshness": 1,
+      "freshness": 0.9999,
       "crossSource": 0.6309,
       "totalScore": 0.7143,
       "sources": [
@@ -127,27 +133,8 @@
       "url": ""
     },
     {
-      "id": "evt-70000000",
-      "title": "避开7个伤肾坏习惯",
-      "category": "society",
-      "hotScore": 0.5525,
-      "freshness": 1,
-      "crossSource": 0.6309,
-      "totalScore": 0.7103,
-      "sources": [
-        {
-          "channel": "toutiao",
-          "rank": 8,
-          "hot": 12777025,
-          "url": "https://www.toutiao.com/trending/7708371231787253779/"
-        }
-      ],
-      "summary": "",
-      "url": "https://www.toutiao.com/trending/7708371231787253779/"
-    },
-    {
-      "id": "evt-matex800",
-      "title": "华为Mate X8将搭载第二代灵珑屏",
+      "id": "evt-80000000",
+      "title": "河北滦南通报“800万建污水处理厂4年未启用”：开展全面核查",
       "category": "society",
       "hotScore": 0.51,
       "freshness": 1,
@@ -155,14 +142,52 @@
       "totalScore": 0.6933,
       "sources": [
         {
-          "channel": "toutiao",
+          "channel": "thepaper",
           "rank": 9,
-          "hot": 11561130,
-          "url": "https://www.toutiao.com/trending/7708556451110928906/"
+          "hot": 0,
+          "url": "https://www.thepaper.cn/newsDetail_forward_34489676"
         }
       ],
       "summary": "",
-      "url": "https://www.toutiao.com/trending/7708556451110928906/"
+      "url": "https://www.thepaper.cn/newsDetail_forward_34489676"
+    },
+    {
+      "id": "evt-binlpl00",
+      "title": "Bin 成 LPL 历史首位大满贯上路选手，现在 Bin 哥算得上世一上吗？",
+      "category": "society",
+      "hotScore": 0.4875,
+      "freshness": 0.9999,
+      "crossSource": 0.6309,
+      "totalScore": 0.6843,
+      "sources": [
+        {
+          "channel": "zhihu",
+          "rank": 8,
+          "hot": 0,
+          "url": ""
+        }
+      ],
+      "summary": "",
+      "url": ""
+    },
+    {
+      "id": "evt-40000000",
+      "title": "媒体：“打包丢脸”被扣4分，孩子真话不该只换一个红叉",
+      "category": "society",
+      "hotScore": 0.4675,
+      "freshness": 1,
+      "crossSource": 0.6309,
+      "totalScore": 0.6763,
+      "sources": [
+        {
+          "channel": "thepaper",
+          "rank": 10,
+          "hot": 0,
+          "url": "https://www.thepaper.cn/newsDetail_forward_34487337"
+        }
+      ],
+      "summary": "",
+      "url": "https://www.thepaper.cn/newsDetail_forward_34487337"
     }
   ]
 }
