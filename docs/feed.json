@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-11-17T15:08:15.418Z",
+  "generatedAt": "2026-11-17T23:14:34.364Z",
   "fields": {
     "society": "社会",
     "economy": "经济",
@@ -7,43 +7,18 @@
   },
   "feed": [
     {
-      "id": "evt-00000000",
-      "title": "特朗普抵达菲律宾 现场响起熟悉的歌",
-      "category": "society",
-      "hotScore": 0.8075,
-      "freshness": 1,
-      "crossSource": 1,
-      "totalScore": 0.923,
-      "sources": [
-        {
-          "channel": "toutiao",
-          "rank": 2,
-          "hot": 25354628,
-          "url": "https://www.toutiao.com/trending/7709069472107348022/"
-        },
-        {
-          "channel": "baidu",
-          "rank": 18,
-          "hot": 0,
-          "url": "https://m.baidu.com/s?word=%E7%89%B9%E6%9C%97%E6%99%AE%E6%8A%B5%E8%BE%BE%E8%8F%B2%E5%BE%8B%E5%AE%BE+%E7%8E%B0%E5%9C%BA%E5%93%8D%E8%B5%B7%E7%86%9F%E6%82%89%E7%9A%84%E6%AD%8C&sa=fyb_news"
-        }
-      ],
-      "summary": "",
-      "url": "https://www.toutiao.com/trending/7709069472107348022/"
-    },
-    {
       "id": "evt-apec0000",
       "title": "APEC工商领导人峰会聚焦哪些议题",
       "category": "society",
       "hotScore": 0.765,
-      "freshness": 1,
+      "freshness": 0.9999,
       "crossSource": 1,
       "totalScore": 0.906,
       "sources": [
         {
           "channel": "toutiao",
           "rank": 3,
-          "hot": 22941816,
+          "hot": 27528768,
           "url": "https://www.toutiao.com/trending/7708221528491658793/"
         },
         {
@@ -57,55 +32,99 @@
       "url": "https://www.toutiao.com/trending/7708221528491658793/"
     },
     {
-      "id": "evt-40000000",
-      "title": "冷门“顶流”｜研究满语40年，一位七旬学者的紧迫感",
+      "id": "evt-00000000",
+      "title": "普京抵达深圳",
       "category": "society",
-      "hotScore": 0.7225,
-      "freshness": 1,
+      "hotScore": 0.76,
+      "freshness": 0.9999,
+      "crossSource": 1,
+      "totalScore": 0.904,
+      "sources": [
+        {
+          "channel": "toutiao",
+          "rank": 7,
+          "hot": 18453085,
+          "url": "https://www.toutiao.com/trending/7709277155649130047/"
+        },
+        {
+          "channel": "baidu",
+          "rank": 2,
+          "hot": 0,
+          "url": "https://m.baidu.com/s?word=%E6%99%AE%E4%BA%AC%E6%8A%B5%E8%BE%BE%E6%B7%B1%E5%9C%B3&sa=fyb_news"
+        }
+      ],
+      "summary": "",
+      "url": "https://www.toutiao.com/trending/7709277155649130047/"
+    },
+    {
+      "id": "evt-40000000",
+      "title": "女子在盒马申请400余次仅退款“薅”走1.7万元？涉嫌诈骗被刑拘",
+      "category": "society",
+      "hotScore": 0.8075,
+      "freshness": 0.9999,
       "crossSource": 0.6309,
-      "totalScore": 0.7783,
+      "totalScore": 0.8123,
       "sources": [
         {
           "channel": "thepaper",
-          "rank": 4,
+          "rank": 2,
           "hot": 0,
-          "url": "https://www.thepaper.cn/newsDetail_forward_34490375"
+          "url": "https://www.thepaper.cn/newsDetail_forward_34492459"
         }
       ],
       "summary": "",
-      "url": "https://www.thepaper.cn/newsDetail_forward_34490375"
+      "url": "https://www.thepaper.cn/newsDetail_forward_34492459"
     },
     {
-      "id": "evt-u1921000",
-      "title": "U19国足2比1韩国夺冠",
+      "id": "evt-doggo000",
+      "title": "Doggo 就抢女友事件致歉「这完全是我个人的错，没有任何借口」，对此你有什么想说的？",
       "category": "society",
-      "hotScore": 0.72,
+      "hotScore": 0.675,
       "freshness": 1,
       "crossSource": 0.6309,
-      "totalScore": 0.7773,
-      "sources": [
-        {
-          "channel": "baidu",
-          "rank": 3,
-          "hot": 0,
-          "url": "https://m.baidu.com/s?word=U19%E5%9B%BD%E8%B6%B32%E6%AF%941%E9%9F%A9%E5%9B%BD%E5%A4%BA%E5%86%A0&sa=fyb_news"
-        }
-      ],
-      "summary": "",
-      "url": "https://m.baidu.com/s?word=U19%E5%9B%BD%E8%B6%B32%E6%AF%941%E9%9F%A9%E5%9B%BD%E5%A4%BA%E5%86%A0&sa=fyb_news"
-    },
-    {
-      "id": "evt-10000000",
-      "title": "中汽协将对比亚迪、小米等 17 家重点车企开展供应商账款支付情况调研评估，哪些信息值得关注？",
-      "category": "society",
-      "hotScore": 0.7125,
-      "freshness": 1,
-      "crossSource": 0.6309,
-      "totalScore": 0.7743,
+      "totalScore": 0.7593,
       "sources": [
         {
           "channel": "zhihu",
-          "rank": 2,
+          "rank": 3,
+          "hot": 0,
+          "url": ""
+        }
+      ],
+      "summary": "",
+      "url": ""
+    },
+    {
+      "id": "evt-ai000000",
+      "title": "马上评｜AI检测不透明，别又成了知网的一门生意",
+      "category": "society",
+      "hotScore": 0.6375,
+      "freshness": 0.9999,
+      "crossSource": 0.6309,
+      "totalScore": 0.7443,
+      "sources": [
+        {
+          "channel": "thepaper",
+          "rank": 6,
+          "hot": 0,
+          "url": "https://www.thepaper.cn/newsDetail_forward_34494042"
+        }
+      ],
+      "summary": "",
+      "url": "https://www.thepaper.cn/newsDetail_forward_34494042"
+    },
+    {
+      "id": "evt-10000000",
+      "title": "如何评价信小呆中 1 亿锦鲤大奖，奖品多为代金券、一度花光积蓄？普通人遇上这种天降流量，该怎么选才不亏？",
+      "category": "society",
+      "hotScore": 0.6,
+      "freshness": 1,
+      "crossSource": 0.6309,
+      "totalScore": 0.7293,
+      "sources": [
+        {
+          "channel": "zhihu",
+          "rank": 5,
           "hot": 0,
           "url": ""
         }
@@ -115,35 +134,54 @@
     },
     {
       "id": "evt-22000000",
-      "title": "国足连追两球2-2战平巴林",
+      "title": "国足友谊赛，中国男足 2-2 巴林，拜合拉木、张玉宁破门、王钰栋造点，如何评价本场比赛双方的表现？",
       "category": "society",
-      "hotScore": 0.595,
+      "hotScore": 0.5625,
       "freshness": 1,
       "crossSource": 0.6309,
-      "totalScore": 0.7273,
+      "totalScore": 0.7143,
       "sources": [
         {
-          "channel": "toutiao",
-          "rank": 7,
-          "hot": 15378359,
-          "url": "https://www.toutiao.com/trending/7709140026294013503/"
+          "channel": "zhihu",
+          "rank": 6,
+          "hot": 0,
+          "url": ""
         }
       ],
       "summary": "",
-      "url": "https://www.toutiao.com/trending/7709140026294013503/"
+      "url": ""
+    },
+    {
+      "id": "evt-ce000000",
+      "title": "黄仁勋：愿重返英伟达任CEO",
+      "category": "society",
+      "hotScore": 0.56,
+      "freshness": 1,
+      "crossSource": 0.6309,
+      "totalScore": 0.7133,
+      "sources": [
+        {
+          "channel": "baidu",
+          "rank": 7,
+          "hot": 0,
+          "url": "https://m.baidu.com/s?word=%E9%BB%84%E4%BB%81%E5%8B%8B%EF%BC%9A%E6%84%BF%E9%87%8D%E8%BF%94%E8%8B%B1%E4%BC%9F%E8%BE%BE%E4%BB%BBCEO&sa=fyb_news"
+        }
+      ],
+      "summary": "",
+      "url": "https://m.baidu.com/s?word=%E9%BB%84%E4%BB%81%E5%8B%8B%EF%BC%9A%E6%84%BF%E9%87%8D%E8%BF%94%E8%8B%B1%E4%BC%9F%E8%BE%BE%E4%BB%BBCEO&sa=fyb_news"
     },
     {
       "id": "evt-93000000",
       "title": "结婚9年3个孩子非亲生！男子索赔，法院一审判女方赔偿55.75万",
       "category": "society",
-      "hotScore": 0.595,
-      "freshness": 1,
+      "hotScore": 0.5525,
+      "freshness": 0.9999,
       "crossSource": 0.6309,
-      "totalScore": 0.7273,
+      "totalScore": 0.7103,
       "sources": [
         {
           "channel": "thepaper",
-          "rank": 7,
+          "rank": 8,
           "hot": 0,
           "url": "https://www.thepaper.cn/newsDetail_forward_34491998"
         }
@@ -152,11 +190,49 @@
       "url": "https://www.thepaper.cn/newsDetail_forward_34491998"
     },
     {
-      "id": "evt-00700000",
-      "title": "蝙蝠侠成为新一任007！罗伯特·帕丁森将饰演詹姆斯·邦德",
+      "id": "evt-61000000",
+      "title": "61 岁女子登机口抛硬币祈福致航班延误 58 分钟被拘 5 日，该处罚尺度是否合理？",
+      "category": "society",
+      "hotScore": 0.4875,
+      "freshness": 1,
+      "crossSource": 0.6309,
+      "totalScore": 0.6843,
+      "sources": [
+        {
+          "channel": "zhihu",
+          "rank": 8,
+          "hot": 0,
+          "url": ""
+        }
+      ],
+      "summary": "",
+      "url": ""
+    },
+    {
+      "id": "evt-jetbrains",
+      "title": "怎么看 JetBrains 成立 20 年来第一次亏损，这是不是代表了一个时代的结束？",
+      "category": "society",
+      "hotScore": 0.45,
+      "freshness": 1,
+      "crossSource": 0.6309,
+      "totalScore": 0.6693,
+      "sources": [
+        {
+          "channel": "zhihu",
+          "rank": 9,
+          "hot": 0,
+          "url": ""
+        }
+      ],
+      "summary": "",
+      "url": ""
+    },
+    {
+      "id": "evt-20260000",
+      "title": "宇树王兴兴：2026年无论是AI大模型还是机器人领域，水面以下的情况都非常激动人心",
       "category": "society",
       "hotScore": 0.425,
-      "freshness": 1,
+      "freshness": 0.9999,
       "crossSource": 0.6309,
       "totalScore": 0.6593,
       "sources": [
@@ -164,11 +240,11 @@
           "channel": "thepaper",
           "rank": 11,
           "hot": 0,
-          "url": "https://www.thepaper.cn/newsDetail_forward_34490641"
+          "url": "https://www.thepaper.cn/newsDetail_forward_34491510"
         }
       ],
       "summary": "",
-      "url": "https://www.thepaper.cn/newsDetail_forward_34490641"
+      "url": "https://www.thepaper.cn/newsDetail_forward_34491510"
     }
   ]
 }
