@@ -1,0 +1,202 @@
+<!DOCTYPE html>
+<html lang="zh-CN">
+<head>
+<meta charset="utf-8"/>
+<meta name="viewport" content="width=device-width, initial-scale=1"/>
+<title>演示 · 客户明细跳转</title>
+<style>
+  :root{
+    --bg:#f5f6f7; --card:#fff; --line:#e5e6eb; --text:#1f2329; --sub:#646a73;
+    --blue:#3370ff; --blue-weak:#e8f0ff; --green:#00b42a; --hover:#f7f8fa;
+    --shadow:0 1px 2px rgba(31,35,41,.06),0 4px 12px rgba(31,35,41,.04);
+  }
+  *{box-sizing:border-box}
+  body{margin:0;background:var(--bg);color:var(--text);
+    font:14px/1.6 -apple-system,BlinkMacSystemFont,"PingFang SC","Microsoft YaHei",sans-serif}
+  .top{height:52px;background:#fff;border-bottom:1px solid var(--line);display:flex;
+    align-items:center;gap:10px;padding:0 20px;position:sticky;top:0;z-index:5}
+  .logo{width:24px;height:24px;border-radius:6px;background:linear-gradient(135deg,#3370ff,#14c9c9);
+    display:grid;place-items:center;color:#fff;font-weight:700;font-size:13px}
+  .top b{font-size:15px}
+  .top .tag{font-size:11px;color:#8f959e;border:1px solid var(--line);border-radius:4px;padding:1px 6px}
+  .top .right{margin-left:auto;font-size:12px;color:var(--sub)}
+  .wrap{max-width:1040px;margin:0 auto;padding:20px 20px 48px}
+  .notice{background:#fff7e8;border:1px solid #ffd591;color:#8a5a00;border-radius:8px;
+    padding:10px 14px;font-size:12.5px;line-height:1.7;margin-bottom:16px}
+  .notice b{color:#6b4300}
+  .crumbs{display:flex;align-items:center;gap:8px;font-size:12.5px;color:var(--sub);margin-bottom:12px}
+  .crumbs a{color:var(--blue);text-decoration:none;cursor:pointer}
+  .crumbs a:hover{text-decoration:underline}
+  .crumbs .sep{color:#c9cdd4}
+  .card{background:var(--card);border:1px solid var(--line);border-radius:10px;
+    box-shadow:var(--shadow);overflow:hidden;margin-bottom:18px}
+  .card-h{display:flex;align-items:center;gap:10px;padding:14px 18px;border-bottom:1px solid var(--line)}
+  .card-h h2{font-size:15px;margin:0;font-weight:600}
+  .card-h .cnt{font-size:12px;color:var(--sub);background:#f2f3f5;border-radius:10px;padding:1px 8px}
+  .card-h .spacer{margin-left:auto}
+  .chip{font-size:12px;color:var(--blue);background:var(--blue-weak);
+    border-radius:4px;padding:2px 8px;white-space:nowrap}
+  table{width:100%;border-collapse:collapse}
+  th,td{text-align:left;padding:11px 18px;border-bottom:1px solid #f0f1f2;font-size:13.5px;
+    white-space:nowrap;overflow:hidden;text-overflow:ellipsis}
+  th{font-size:12px;font-weight:500;color:var(--sub);background:#fafbfc}
+  tbody tr:last-child td{border-bottom:none}
+  tbody tr:hover{background:var(--hover)}
+  .name{color:var(--blue);cursor:pointer;font-weight:500;display:inline-flex;align-items:center;gap:5px}
+  .name:hover{text-decoration:underline}
+  .name .arrow{opacity:0;transform:translateX(-3px);transition:.15s;font-size:12px}
+  .name:hover .arrow{opacity:1;transform:none}
+  .money{font-variant-numeric:tabular-nums}
+  .muted{color:#8f959e}
+  .back{border:1px solid var(--line);background:#fff;border-radius:6px;padding:5px 12px;
+    font-size:12.5px;color:var(--text);cursor:pointer}
+  .back:hover{background:#f2f3f5}
+  .empty{padding:40px;text-align:center;color:#8f959e;font-size:13px}
+  .hint{margin-top:18px;background:#fff;border:1px solid var(--line);border-radius:10px;
+    padding:14px 18px;font-size:12.5px;color:var(--sub);line-height:1.8}
+  .hint b{color:var(--text)}
+  .hint code{background:#f2f3f5;border-radius:4px;padding:1px 5px;font-size:12px;color:#d4380d}
+  .hide{display:none!important}
+  @media(max-width:640px){
+    .wrap{padding:14px 12px 36px}
+    th,td{padding:10px 12px;font-size:12.5px}
+    .top .right{display:none}
+  }
+</style>
+</head>
+<body>
+<div class="top">
+  <div class="logo">表</div>
+  <b>演示 · 客户明细跳转</b>
+  <span class="tag">本地模拟</span>
+  <div class="right">数据为虚构样例，未连接飞书</div>
+</div>
+
+<div class="wrap">
+  <div class="notice">
+    <b>说明：</b>你们租户的安全策略拦截了多维表格权限（错误码 21001），当前应用无法在你的飞书空间里真实建表。
+    这是同结构的<b>本地模拟页</b>：点击「客户总表」里的用户名，会跳到该客户的明细表视图。真实飞书里用「关联字段」或「链接字段」即可实现同样效果。
+  </div>
+
+  <div class="crumbs" id="crumbs">
+    <a id="crumbRoot">我的空间</a><span class="sep">/</span><span>演示_客户明细跳转</span>
+    <span class="sep">/</span><span id="crumbCur">客户总表</span>
+  </div>
+
+  <!-- 客户总表 -->
+  <section class="card" id="viewList">
+    <div class="card-h">
+      <h2>客户总表</h2><span class="cnt">4 条记录</span>
+      <div class="spacer"></div>
+      <span class="chip">点击用户名查看明细 →</span>
+    </div>
+    <table>
+      <thead><tr><th style="width:30%">用户名</th><th style="width:22%">负责人</th><th>备注</th></tr></thead>
+      <tbody id="customerRows"></tbody>
+    </table>
+  </section>
+
+  <!-- 客户明细 -->
+  <section class="card hide" id="viewDetail">
+    <div class="card-h">
+      <h2>客户明细</h2><span class="cnt" id="detailCount"></span>
+      <div class="spacer"></div>
+      <span class="chip" id="detailFilter"></span>
+      <button class="back" id="backBtn">← 返回客户总表</button>
+    </div>
+    <table>
+      <thead><tr><th style="width:24%">客户名</th><th style="width:26%">订单号</th><th style="width:20%">金额</th><th>日期</th></tr></thead>
+      <tbody id="detailRows"></tbody>
+    </table>
+  </section>
+
+  <div class="hint">
+    <b>在真实飞书多维表格里怎么配：</b><br/>
+    ① 明细表放在同一 Base 的另一张表，字段为 客户名 / 订单号 / 金额 / 日期；<br/>
+    ② 总表加「关联」字段指向明细表，开启双向关联，点记录卡片可展开跳转；<br/>
+    ③ 若想单击用户名直接跳，用「链接」字段指向明细表的视图 URL，或用按钮字段「打开链接」；<br/>
+    ④ 每个客户一个筛选视图，把该视图 URL 填到对应行，就能点进去只看到这个客户的订单。
+  </div>
+</div>
+
+<script>
+const DATA = {
+  "星河科技": { owner: "张伟", note: "年度框架客户", orders: [
+    ["ORD-2026-1001", 12800.00, "2026-10-08"],
+    ["ORD-2026-1042", 5600.00,  "2026-10-19"],
+    ["ORD-2026-1099", 23400.00, "2026-11-03"]
+  ]},
+  "云岚商贸": { owner: "李娜", note: "季度结算", orders: [
+    ["ORD-2026-1015", 3200.00,  "2026-10-11"],
+    ["ORD-2026-1063", 8900.50,  "2026-10-26"],
+    ["ORD-2026-1120", 4150.00,  "2026-11-09"]
+  ]},
+  "北辰制造": { owner: "王强", note: "需开专票", orders: [
+    ["ORD-2026-1027", 18600.00, "2026-10-14"],
+    ["ORD-2026-1088", 7200.00,  "2026-11-01"],
+    ["ORD-2026-1136", 15400.00, "2026-11-12"]
+  ]},
+  "清禾生物": { owner: "陈敏", note: "新签约", orders: [
+    ["ORD-2026-1055", 9800.00,  "2026-10-22"],
+    ["ORD-2026-1110", 12600.00, "2026-11-06"]
+  ]}
+};
+
+const fmt = n => "¥" + n.toLocaleString("zh-CN", {minimumFractionDigits:2, maximumFractionDigits:2});
+const esc = s => String(s).replace(/[&<>"]/g, c => ({"&":"&amp;","<":"&lt;",">":"&gt;",'"':"&quot;"}[c]));
+
+const listView = document.getElementById("viewList");
+const detailView = document.getElementById("viewDetail");
+const customerRows = document.getElementById("customerRows");
+const detailRows = document.getElementById("detailRows");
+
+function renderList(){
+  customerRows.innerHTML = Object.entries(DATA).map(([name, info]) => `
+    <tr>
+      <td><span class="name" data-name="${esc(name)}">${esc(name)}<span class="arrow">→</span></span></td>
+      <td>${esc(info.owner)}</td>
+      <td class="muted">${esc(info.note)}</td>
+    </tr>`).join("");
+}
+
+function openDetail(name){
+  const info = DATA[name];
+  if(!info) return;
+  document.getElementById("detailCount").textContent = info.orders.length + " 条记录";
+  document.getElementById("detailFilter").textContent = "客户名 = " + name;
+  document.getElementById("crumbCur").textContent = "客户明细";
+  detailRows.innerHTML = info.orders.map(([no, amount, date]) => `
+    <tr>
+      <td>${esc(name)}</td>
+      <td class="muted">${esc(no)}</td>
+      <td class="money">${fmt(amount)}</td>
+      <td>${esc(date)}</td>
+    </tr>`).join("");
+  listView.classList.add("hide");
+  detailView.classList.remove("hide");
+  history.replaceState(null, "", "#detail=" + encodeURIComponent(name));
+  window.scrollTo({top:0, behavior:"smooth"});
+}
+
+function closeDetail(){
+  detailView.classList.add("hide");
+  listView.classList.remove("hide");
+  document.getElementById("crumbCur").textContent = "客户总表";
+  history.replaceState(null, "", "#list");
+}
+
+customerRows.addEventListener("click", e => {
+  const el = e.target.closest(".name");
+  if(el) openDetail(el.dataset.name);
+});
+document.getElementById("backBtn").addEventListener("click", closeDetail);
+document.getElementById("crumbCur").addEventListener("click", () => {
+  if(!detailView.classList.contains("hide")) closeDetail();
+});
+
+renderList();
+const m = decodeURIComponent(location.hash || "").match(/^#detail=(.+)$/);
+if(m && DATA[m[1]]) openDetail(m[1]);
+</script>
+</body>
+</html>
