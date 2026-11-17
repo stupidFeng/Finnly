@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-11-17T05:40:44.026Z",
+  "generatedAt": "2026-11-17T15:08:15.418Z",
   "fields": {
     "society": "社会",
     "economy": "经济",
@@ -8,70 +8,95 @@
   "feed": [
     {
       "id": "evt-00000000",
-      "title": "俄美运输机已率先抵达深圳",
+      "title": "特朗普抵达菲律宾 现场响起熟悉的歌",
       "category": "society",
-      "hotScore": 0.85,
+      "hotScore": 0.8075,
       "freshness": 1,
       "crossSource": 1,
-      "totalScore": 0.94,
+      "totalScore": 0.923,
       "sources": [
         {
           "channel": "toutiao",
-          "rank": 1,
-          "hot": 29174922,
-          "url": "https://www.toutiao.com/trending/7708657375682707483/"
+          "rank": 2,
+          "hot": 25354628,
+          "url": "https://www.toutiao.com/trending/7709069472107348022/"
         },
+        {
+          "channel": "baidu",
+          "rank": 18,
+          "hot": 0,
+          "url": "https://m.baidu.com/s?word=%E7%89%B9%E6%9C%97%E6%99%AE%E6%8A%B5%E8%BE%BE%E8%8F%B2%E5%BE%8B%E5%AE%BE+%E7%8E%B0%E5%9C%BA%E5%93%8D%E8%B5%B7%E7%86%9F%E6%82%89%E7%9A%84%E6%AD%8C&sa=fyb_news"
+        }
+      ],
+      "summary": "",
+      "url": "https://www.toutiao.com/trending/7709069472107348022/"
+    },
+    {
+      "id": "evt-apec0000",
+      "title": "APEC工商领导人峰会聚焦哪些议题",
+      "category": "society",
+      "hotScore": 0.765,
+      "freshness": 1,
+      "crossSource": 1,
+      "totalScore": 0.906,
+      "sources": [
+        {
+          "channel": "toutiao",
+          "rank": 3,
+          "hot": 22941816,
+          "url": "https://www.toutiao.com/trending/7708221528491658793/"
+        },
+        {
+          "channel": "baidu",
+          "rank": 4,
+          "hot": 0,
+          "url": "https://m.baidu.com/s?word=APEC%E5%B7%A5%E5%95%86%E9%A2%86%E5%AF%BC%E4%BA%BA%E5%B3%B0%E4%BC%9A%E8%81%9A%E7%84%A6%E5%93%AA%E4%BA%9B%E8%AE%AE%E9%A2%98&sa=fyb_news"
+        }
+      ],
+      "summary": "",
+      "url": "https://www.toutiao.com/trending/7708221528491658793/"
+    },
+    {
+      "id": "evt-40000000",
+      "title": "冷门“顶流”｜研究满语40年，一位七旬学者的紧迫感",
+      "category": "society",
+      "hotScore": 0.7225,
+      "freshness": 1,
+      "crossSource": 0.6309,
+      "totalScore": 0.7783,
+      "sources": [
+        {
+          "channel": "thepaper",
+          "rank": 4,
+          "hot": 0,
+          "url": "https://www.thepaper.cn/newsDetail_forward_34490375"
+        }
+      ],
+      "summary": "",
+      "url": "https://www.thepaper.cn/newsDetail_forward_34490375"
+    },
+    {
+      "id": "evt-u1921000",
+      "title": "U19国足2比1韩国夺冠",
+      "category": "society",
+      "hotScore": 0.72,
+      "freshness": 1,
+      "crossSource": 0.6309,
+      "totalScore": 0.7773,
+      "sources": [
         {
           "channel": "baidu",
           "rank": 3,
           "hot": 0,
-          "url": "https://m.baidu.com/s?word=%E4%BF%84%E7%BE%8E%E8%BF%90%E8%BE%93%E6%9C%BA%E5%B7%B2%E7%8E%87%E5%85%88%E6%8A%B5%E8%BE%BE%E6%B7%B1%E5%9C%B3&sa=fyb_news"
+          "url": "https://m.baidu.com/s?word=U19%E5%9B%BD%E8%B6%B32%E6%AF%941%E9%9F%A9%E5%9B%BD%E5%A4%BA%E5%86%A0&sa=fyb_news"
         }
       ],
       "summary": "",
-      "url": "https://www.toutiao.com/trending/7708657375682707483/"
+      "url": "https://m.baidu.com/s?word=U19%E5%9B%BD%E8%B6%B32%E6%AF%941%E9%9F%A9%E5%9B%BD%E5%A4%BA%E5%86%A0&sa=fyb_news"
     },
     {
-      "id": "evt-apec0000",
-      "title": "APEC中国时间｜对话俄罗斯学者：中俄美元首会晤传递什么新信号？",
-      "category": "society",
-      "hotScore": 0.8075,
-      "freshness": 1,
-      "crossSource": 0.6309,
-      "totalScore": 0.8123,
-      "sources": [
-        {
-          "channel": "thepaper",
-          "rank": 2,
-          "hot": 0,
-          "url": "https://www.thepaper.cn/newsDetail_forward_34489422"
-        }
-      ],
-      "summary": "",
-      "url": "https://www.thepaper.cn/newsDetail_forward_34489422"
-    },
-    {
-      "id": "evt-a0000000",
-      "title": "马上评｜“方桃子”被罚，再次给AI商业化划出边界",
-      "category": "society",
-      "hotScore": 0.765,
-      "freshness": 1,
-      "crossSource": 0.6309,
-      "totalScore": 0.7953,
-      "sources": [
-        {
-          "channel": "thepaper",
-          "rank": 3,
-          "hot": 0,
-          "url": "https://www.thepaper.cn/newsDetail_forward_34490388"
-        }
-      ],
-      "summary": "",
-      "url": "https://www.thepaper.cn/newsDetail_forward_34490388"
-    },
-    {
-      "id": "evt-39900000",
-      "title": "北大新款羽绒服 399 元含鹅绒量 90% 卖断货，校外人士求代购，这类高校文创比商业品牌更有性价比吗？",
+      "id": "evt-10000000",
+      "title": "中汽协将对比亚迪、小米等 17 家重点车企开展供应商账款支付情况调研评估，哪些信息值得关注？",
       "category": "society",
       "hotScore": 0.7125,
       "freshness": 1,
@@ -89,118 +114,61 @@
       "url": ""
     },
     {
-      "id": "evt-02000000",
-      "title": "工匠手工锯出0.2毫米“水上莲花”",
+      "id": "evt-22000000",
+      "title": "国足连追两球2-2战平巴林",
       "category": "society",
-      "hotScore": 0.68,
+      "hotScore": 0.595,
       "freshness": 1,
       "crossSource": 0.6309,
-      "totalScore": 0.7613,
+      "totalScore": 0.7273,
       "sources": [
         {
           "channel": "toutiao",
-          "rank": 5,
-          "hot": 19556535,
-          "url": "https://www.toutiao.com/trending/7708975969012596787/"
+          "rank": 7,
+          "hot": 15378359,
+          "url": "https://www.toutiao.com/trending/7709140026294013503/"
         }
       ],
       "summary": "",
-      "url": "https://www.toutiao.com/trending/7708975969012596787/"
+      "url": "https://www.toutiao.com/trending/7709140026294013503/"
     },
     {
-      "id": "evt-10000000",
-      "title": "分析｜怎么看10月消费、投资数据有所波动？",
+      "id": "evt-93000000",
+      "title": "结婚9年3个孩子非亲生！男子索赔，法院一审判女方赔偿55.75万",
       "category": "society",
-      "hotScore": 0.68,
+      "hotScore": 0.595,
       "freshness": 1,
       "crossSource": 0.6309,
-      "totalScore": 0.7613,
+      "totalScore": 0.7273,
       "sources": [
         {
           "channel": "thepaper",
-          "rank": 5,
+          "rank": 7,
           "hot": 0,
-          "url": "https://www.thepaper.cn/newsDetail_forward_34490327"
+          "url": "https://www.thepaper.cn/newsDetail_forward_34491998"
         }
       ],
       "summary": "",
-      "url": "https://www.thepaper.cn/newsDetail_forward_34490327"
+      "url": "https://www.thepaper.cn/newsDetail_forward_34491998"
     },
     {
-      "id": "evt-ai500000",
-      "title": "为什么 AI 生成一条 5 秒钟的视频费用很高，而类似漫剧这样的内容却能大批量生产？​",
+      "id": "evt-00700000",
+      "title": "蝙蝠侠成为新一任007！罗伯特·帕丁森将饰演詹姆斯·邦德",
       "category": "society",
-      "hotScore": 0.6375,
+      "hotScore": 0.425,
       "freshness": 1,
       "crossSource": 0.6309,
-      "totalScore": 0.7443,
-      "sources": [
-        {
-          "channel": "zhihu",
-          "rank": 4,
-          "hot": 0,
-          "url": ""
-        }
-      ],
-      "summary": "",
-      "url": ""
-    },
-    {
-      "id": "evt-80000000",
-      "title": "高达近800℃！被窝被它暖“没”了",
-      "category": "society",
-      "hotScore": 0.6,
-      "freshness": 1,
-      "crossSource": 0.6309,
-      "totalScore": 0.7293,
-      "sources": [
-        {
-          "channel": "baidu",
-          "rank": 6,
-          "hot": 0,
-          "url": "https://m.baidu.com/s?word=%E9%AB%98%E8%BE%BE%E8%BF%91800%E2%84%83%EF%BC%81%E8%A2%AB%E7%AA%9D%E8%A2%AB%E5%AE%83%E6%9A%96%E2%80%9C%E6%B2%A1%E2%80%9D%E4%BA%86&sa=fyb_news"
-        }
-      ],
-      "summary": "",
-      "url": "https://m.baidu.com/s?word=%E9%AB%98%E8%BE%BE%E8%BF%91800%E2%84%83%EF%BC%81%E8%A2%AB%E7%AA%9D%E8%A2%AB%E5%AE%83%E6%9A%96%E2%80%9C%E6%B2%A1%E2%80%9D%E4%BA%86&sa=fyb_news"
-    },
-    {
-      "id": "evt-13500000",
-      "title": "山东13岁少年被控杀害5岁邻居案将开庭：最高检核准追诉，被害人父亲望顶格判处",
-      "category": "society",
-      "hotScore": 0.51,
-      "freshness": 1,
-      "crossSource": 0.6309,
-      "totalScore": 0.6933,
+      "totalScore": 0.6593,
       "sources": [
         {
           "channel": "thepaper",
-          "rank": 9,
+          "rank": 11,
           "hot": 0,
-          "url": "https://www.thepaper.cn/newsDetail_forward_34490040"
+          "url": "https://www.thepaper.cn/newsDetail_forward_34490641"
         }
       ],
       "summary": "",
-      "url": "https://www.thepaper.cn/newsDetail_forward_34490040"
-    },
-    {
-      "id": "evt-24ape000",
-      "title": "用24小时 看深圳的APEC日常故事",
-      "category": "society",
-      "hotScore": 0.44,
-      "freshness": 1,
-      "crossSource": 0.6309,
-      "totalScore": 0.6653,
-      "sources": [
-        {
-          "channel": "baidu",
-          "rank": 10,
-          "hot": 0,
-          "url": "https://m.baidu.com/s?word=%E7%94%A824%E5%B0%8F%E6%97%B6+%E7%9C%8B%E6%B7%B1%E5%9C%B3%E7%9A%84APEC%E6%97%A5%E5%B8%B8%E6%95%85%E4%BA%8B&sa=fyb_news"
-        }
-      ],
-      "summary": "",
-      "url": "https://m.baidu.com/s?word=%E7%94%A824%E5%B0%8F%E6%97%B6+%E7%9C%8B%E6%B7%B1%E5%9C%B3%E7%9A%84APEC%E6%97%A5%E5%B8%B8%E6%95%85%E4%BA%8B&sa=fyb_news"
+      "url": "https://www.thepaper.cn/newsDetail_forward_34490641"
     }
   ]
 }
