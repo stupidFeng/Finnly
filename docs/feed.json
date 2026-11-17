@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-11-16T23:06:09.791Z",
+  "generatedAt": "2026-11-17T05:40:44.026Z",
   "fields": {
     "society": "社会",
     "economy": "经济",
@@ -8,107 +8,127 @@
   "feed": [
     {
       "id": "evt-00000000",
-      "title": "习近平在广东中山考察",
+      "title": "俄美运输机已率先抵达深圳",
       "category": "society",
-      "hotScore": 0.8075,
+      "hotScore": 0.85,
       "freshness": 1,
       "crossSource": 1,
-      "totalScore": 0.923,
-      "sources": [
-        {
-          "channel": "thepaper",
-          "rank": 2,
-          "hot": 0,
-          "url": "https://www.thepaper.cn/newsDetail_forward_34490277"
-        },
-        {
-          "channel": "baidu",
-          "rank": 1,
-          "hot": 0,
-          "url": "https://m.baidu.com/s?word=%E4%B9%A0%E8%BF%91%E5%B9%B3%E5%9C%A8%E5%B9%BF%E4%B8%9C%E4%B8%AD%E5%B1%B1%E8%80%83%E5%AF%9F&sa=fyb_news"
-        }
-      ],
-      "summary": "",
-      "url": "https://www.thepaper.cn/newsDetail_forward_34490277"
-    },
-    {
-      "id": "evt-30000000",
-      "title": "墨总统3次交叉双臂抱于胸前有何深意",
-      "category": "society",
-      "hotScore": 0.8075,
-      "freshness": 1,
-      "crossSource": 1,
-      "totalScore": 0.923,
+      "totalScore": 0.94,
       "sources": [
         {
           "channel": "toutiao",
-          "rank": 2,
-          "hot": 23794387,
-          "url": "https://www.toutiao.com/trending/7708166638301908523/"
+          "rank": 1,
+          "hot": 29174922,
+          "url": "https://www.toutiao.com/trending/7708657375682707483/"
         },
         {
           "channel": "baidu",
           "rank": 3,
           "hot": 0,
-          "url": "https://m.baidu.com/s?word=%E5%A2%A8%E6%80%BB%E7%BB%9F3%E6%AC%A1%E4%BA%A4%E5%8F%89%E5%8F%8C%E8%87%82%E6%8A%B1%E4%BA%8E%E8%83%B8%E5%89%8D%E6%9C%89%E4%BD%95%E6%B7%B1%E6%84%8F&sa=fyb_news"
+          "url": "https://m.baidu.com/s?word=%E4%BF%84%E7%BE%8E%E8%BF%90%E8%BE%93%E6%9C%BA%E5%B7%B2%E7%8E%87%E5%85%88%E6%8A%B5%E8%BE%BE%E6%B7%B1%E5%9C%B3&sa=fyb_news"
         }
       ],
       "summary": "",
-      "url": "https://www.toutiao.com/trending/7708166638301908523/"
+      "url": "https://www.toutiao.com/trending/7708657375682707483/"
     },
     {
       "id": "evt-apec0000",
-      "title": "APEC安保天团 又高又壮又帅",
+      "title": "APEC中国时间｜对话俄罗斯学者：中俄美元首会晤传递什么新信号？",
       "category": "society",
-      "hotScore": 0.595,
+      "hotScore": 0.8075,
       "freshness": 1,
-      "crossSource": 1,
-      "totalScore": 0.838,
+      "crossSource": 0.6309,
+      "totalScore": 0.8123,
       "sources": [
         {
-          "channel": "toutiao",
-          "rank": 7,
-          "hot": 14432025,
-          "url": "https://www.toutiao.com/trending/7708386891527258155/"
-        },
-        {
-          "channel": "baidu",
-          "rank": 20,
+          "channel": "thepaper",
+          "rank": 2,
           "hot": 0,
-          "url": "https://m.baidu.com/s?word=APEC%E5%AE%89%E4%BF%9D%E5%A4%A9%E5%9B%A2+%E5%8F%88%E9%AB%98%E5%8F%88%E5%A3%AE%E5%8F%88%E5%B8%85&sa=fyb_news"
+          "url": "https://www.thepaper.cn/newsDetail_forward_34489422"
         }
       ],
       "summary": "",
-      "url": "https://www.toutiao.com/trending/7708386891527258155/"
+      "url": "https://www.thepaper.cn/newsDetail_forward_34489422"
     },
     {
-      "id": "evt-28000000",
-      "title": "28岁男子抱着刚出生亲弟弟笑不出来",
+      "id": "evt-a0000000",
+      "title": "马上评｜“方桃子”被罚，再次给AI商业化划出边界",
       "category": "society",
-      "hotScore": 0.56,
+      "hotScore": 0.765,
       "freshness": 1,
-      "crossSource": 1,
-      "totalScore": 0.824,
+      "crossSource": 0.6309,
+      "totalScore": 0.7953,
       "sources": [
         {
-          "channel": "toutiao",
-          "rank": 13,
-          "hot": 7920463,
-          "url": "https://www.toutiao.com/trending/7708195887247507977/"
-        },
-        {
-          "channel": "baidu",
-          "rank": 7,
+          "channel": "thepaper",
+          "rank": 3,
           "hot": 0,
-          "url": "https://m.baidu.com/s?word=28%E5%B2%81%E7%94%B7%E5%AD%90%E6%8A%B1%E7%9D%80%E5%88%9A%E5%87%BA%E7%94%9F%E4%BA%B2%E5%BC%9F%E5%BC%9F%E7%AC%91%E4%B8%8D%E5%87%BA%E6%9D%A5&sa=fyb_news"
+          "url": "https://www.thepaper.cn/newsDetail_forward_34490388"
         }
       ],
       "summary": "",
-      "url": "https://www.toutiao.com/trending/7708195887247507977/"
+      "url": "https://www.thepaper.cn/newsDetail_forward_34490388"
+    },
+    {
+      "id": "evt-39900000",
+      "title": "北大新款羽绒服 399 元含鹅绒量 90% 卖断货，校外人士求代购，这类高校文创比商业品牌更有性价比吗？",
+      "category": "society",
+      "hotScore": 0.7125,
+      "freshness": 1,
+      "crossSource": 0.6309,
+      "totalScore": 0.7743,
+      "sources": [
+        {
+          "channel": "zhihu",
+          "rank": 2,
+          "hot": 0,
+          "url": ""
+        }
+      ],
+      "summary": "",
+      "url": ""
+    },
+    {
+      "id": "evt-02000000",
+      "title": "工匠手工锯出0.2毫米“水上莲花”",
+      "category": "society",
+      "hotScore": 0.68,
+      "freshness": 1,
+      "crossSource": 0.6309,
+      "totalScore": 0.7613,
+      "sources": [
+        {
+          "channel": "toutiao",
+          "rank": 5,
+          "hot": 19556535,
+          "url": "https://www.toutiao.com/trending/7708975969012596787/"
+        }
+      ],
+      "summary": "",
+      "url": "https://www.toutiao.com/trending/7708975969012596787/"
+    },
+    {
+      "id": "evt-10000000",
+      "title": "分析｜怎么看10月消费、投资数据有所波动？",
+      "category": "society",
+      "hotScore": 0.68,
+      "freshness": 1,
+      "crossSource": 0.6309,
+      "totalScore": 0.7613,
+      "sources": [
+        {
+          "channel": "thepaper",
+          "rank": 5,
+          "hot": 0,
+          "url": "https://www.thepaper.cn/newsDetail_forward_34490327"
+        }
+      ],
+      "summary": "",
+      "url": "https://www.thepaper.cn/newsDetail_forward_34490327"
     },
     {
       "id": "evt-ai500000",
-      "title": "为什么 AI 生成一条 5 秒钟的视频费用很高，而类似漫剧这样的内容却能大批量生产？​？",
+      "title": "为什么 AI 生成一条 5 秒钟的视频费用很高，而类似漫剧这样的内容却能大批量生产？​",
       "category": "society",
       "hotScore": 0.6375,
       "freshness": 1,
@@ -126,17 +146,36 @@
       "url": ""
     },
     {
+      "id": "evt-80000000",
+      "title": "高达近800℃！被窝被它暖“没”了",
+      "category": "society",
+      "hotScore": 0.6,
+      "freshness": 1,
+      "crossSource": 0.6309,
+      "totalScore": 0.7293,
+      "sources": [
+        {
+          "channel": "baidu",
+          "rank": 6,
+          "hot": 0,
+          "url": "https://m.baidu.com/s?word=%E9%AB%98%E8%BE%BE%E8%BF%91800%E2%84%83%EF%BC%81%E8%A2%AB%E7%AA%9D%E8%A2%AB%E5%AE%83%E6%9A%96%E2%80%9C%E6%B2%A1%E2%80%9D%E4%BA%86&sa=fyb_news"
+        }
+      ],
+      "summary": "",
+      "url": "https://m.baidu.com/s?word=%E9%AB%98%E8%BE%BE%E8%BF%91800%E2%84%83%EF%BC%81%E8%A2%AB%E7%AA%9D%E8%A2%AB%E5%AE%83%E6%9A%96%E2%80%9C%E6%B2%A1%E2%80%9D%E4%BA%86&sa=fyb_news"
+    },
+    {
       "id": "evt-13500000",
       "title": "山东13岁少年被控杀害5岁邻居案将开庭：最高检核准追诉，被害人父亲望顶格判处",
       "category": "society",
-      "hotScore": 0.6375,
+      "hotScore": 0.51,
       "freshness": 1,
       "crossSource": 0.6309,
-      "totalScore": 0.7443,
+      "totalScore": 0.6933,
       "sources": [
         {
           "channel": "thepaper",
-          "rank": 6,
+          "rank": 9,
           "hot": 0,
           "url": "https://www.thepaper.cn/newsDetail_forward_34490040"
         }
@@ -145,80 +184,23 @@
       "url": "https://www.thepaper.cn/newsDetail_forward_34490040"
     },
     {
-      "id": "evt-92000000",
-      "title": "你怎么看，92% 班主任不愿在岗、年轻教师拒任，为何班主任岗位遇冷？有什么解法吗？",
+      "id": "evt-24ape000",
+      "title": "用24小时 看深圳的APEC日常故事",
       "category": "society",
-      "hotScore": 0.6,
+      "hotScore": 0.44,
       "freshness": 1,
       "crossSource": 0.6309,
-      "totalScore": 0.7293,
-      "sources": [
-        {
-          "channel": "zhihu",
-          "rank": 5,
-          "hot": 0,
-          "url": ""
-        }
-      ],
-      "summary": "",
-      "url": ""
-    },
-    {
-      "id": "evt-80000000",
-      "title": "河北滦南通报“800万建污水处理厂4年未启用”：开展全面核查",
-      "category": "society",
-      "hotScore": 0.595,
-      "freshness": 1,
-      "crossSource": 0.6309,
-      "totalScore": 0.7273,
-      "sources": [
-        {
-          "channel": "thepaper",
-          "rank": 7,
-          "hot": 0,
-          "url": "https://www.thepaper.cn/newsDetail_forward_34489676"
-        }
-      ],
-      "summary": "",
-      "url": "https://www.thepaper.cn/newsDetail_forward_34489676"
-    },
-    {
-      "id": "evt-20000000",
-      "title": "今年第2次来华 加总理卡尼抵达深圳",
-      "category": "society",
-      "hotScore": 0.52,
-      "freshness": 1,
-      "crossSource": 0.6309,
-      "totalScore": 0.6973,
+      "totalScore": 0.6653,
       "sources": [
         {
           "channel": "baidu",
-          "rank": 8,
-          "hot": 0,
-          "url": "https://m.baidu.com/s?word=%E4%BB%8A%E5%B9%B4%E7%AC%AC2%E6%AC%A1%E6%9D%A5%E5%8D%8E+%E5%8A%A0%E6%80%BB%E7%90%86%E5%8D%A1%E5%B0%BC%E6%8A%B5%E8%BE%BE%E6%B7%B1%E5%9C%B3&sa=fyb_news"
-        }
-      ],
-      "summary": "",
-      "url": "https://m.baidu.com/s?word=%E4%BB%8A%E5%B9%B4%E7%AC%AC2%E6%AC%A1%E6%9D%A5%E5%8D%8E+%E5%8A%A0%E6%80%BB%E7%90%86%E5%8D%A1%E5%B0%BC%E6%8A%B5%E8%BE%BE%E6%B7%B1%E5%9C%B3&sa=fyb_news"
-    },
-    {
-      "id": "evt-39900000",
-      "title": "北大399元羽绒服走红，访问激增挤崩小程序，门店工作人员：仅线下有售，目前已断货",
-      "category": "society",
-      "hotScore": 0.4675,
-      "freshness": 1,
-      "crossSource": 0.6309,
-      "totalScore": 0.6763,
-      "sources": [
-        {
-          "channel": "thepaper",
           "rank": 10,
           "hot": 0,
-          "url": "https://www.thepaper.cn/newsDetail_forward_34489554"
+          "url": "https://m.baidu.com/s?word=%E7%94%A824%E5%B0%8F%E6%97%B6+%E7%9C%8B%E6%B7%B1%E5%9C%B3%E7%9A%84APEC%E6%97%A5%E5%B8%B8%E6%95%85%E4%BA%8B&sa=fyb_news"
         }
       ],
       "summary": "",
-      "url": "https://www.thepaper.cn/newsDetail_forward_34489554"
+      "url": "https://m.baidu.com/s?word=%E7%94%A824%E5%B0%8F%E6%97%B6+%E7%9C%8B%E6%B7%B1%E5%9C%B3%E7%9A%84APEC%E6%97%A5%E5%B8%B8%E6%95%85%E4%BA%8B&sa=fyb_news"
     }
   ]
 }
