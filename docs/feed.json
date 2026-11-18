@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-11-17T23:14:34.364Z",
+  "generatedAt": "2026-11-18T05:05:18.361Z",
   "fields": {
     "society": "社会",
     "economy": "经济",
@@ -7,67 +7,105 @@
   },
   "feed": [
     {
-      "id": "evt-apec0000",
-      "title": "APEC工商领导人峰会聚焦哪些议题",
-      "category": "society",
-      "hotScore": 0.765,
-      "freshness": 0.9999,
-      "crossSource": 1,
-      "totalScore": 0.906,
-      "sources": [
-        {
-          "channel": "toutiao",
-          "rank": 3,
-          "hot": 27528768,
-          "url": "https://www.toutiao.com/trending/7708221528491658793/"
-        },
-        {
-          "channel": "baidu",
-          "rank": 4,
-          "hot": 0,
-          "url": "https://m.baidu.com/s?word=APEC%E5%B7%A5%E5%95%86%E9%A2%86%E5%AF%BC%E4%BA%BA%E5%B3%B0%E4%BC%9A%E8%81%9A%E7%84%A6%E5%93%AA%E4%BA%9B%E8%AE%AE%E9%A2%98&sa=fyb_news"
-        }
-      ],
-      "summary": "",
-      "url": "https://www.toutiao.com/trending/7708221528491658793/"
-    },
-    {
       "id": "evt-00000000",
-      "title": "普京抵达深圳",
+      "title": "习近平会见俄罗斯总统普京",
       "category": "society",
-      "hotScore": 0.76,
+      "hotScore": 0.8075,
       "freshness": 0.9999,
       "crossSource": 1,
-      "totalScore": 0.904,
+      "totalScore": 0.923,
       "sources": [
         {
-          "channel": "toutiao",
-          "rank": 7,
-          "hot": 18453085,
-          "url": "https://www.toutiao.com/trending/7709277155649130047/"
+          "channel": "thepaper",
+          "rank": 2,
+          "hot": 0,
+          "url": "https://www.thepaper.cn/newsDetail_forward_34502280"
         },
         {
           "channel": "baidu",
           "rank": 2,
           "hot": 0,
-          "url": "https://m.baidu.com/s?word=%E6%99%AE%E4%BA%AC%E6%8A%B5%E8%BE%BE%E6%B7%B1%E5%9C%B3&sa=fyb_news"
+          "url": "https://m.baidu.com/s?word=%E4%B9%A0%E8%BF%91%E5%B9%B3%E4%BC%9A%E8%A7%81%E4%BF%84%E7%BD%97%E6%96%AF%E6%80%BB%E7%BB%9F%E6%99%AE%E4%BA%AC&sa=fyb_news"
         }
       ],
       "summary": "",
-      "url": "https://www.toutiao.com/trending/7709277155649130047/"
+      "url": "https://www.thepaper.cn/newsDetail_forward_34502280"
+    },
+    {
+      "id": "evt-apec0000",
+      "title": "深圳人全妆出街迎APEC",
+      "category": "society",
+      "hotScore": 0.6,
+      "freshness": 1,
+      "crossSource": 1,
+      "totalScore": 0.84,
+      "sources": [
+        {
+          "channel": "toutiao",
+          "rank": 8,
+          "hot": 16840326,
+          "url": "https://www.toutiao.com/trending/7709187557950669338/"
+        },
+        {
+          "channel": "baidu",
+          "rank": 6,
+          "hot": 0,
+          "url": "https://m.baidu.com/s?word=%E6%B7%B1%E5%9C%B3%E4%BA%BA%E5%85%A8%E5%A6%86%E5%87%BA%E8%A1%97%E8%BF%8EAPEC&sa=fyb_news"
+        }
+      ],
+      "summary": "",
+      "url": "https://www.toutiao.com/trending/7709187557950669338/"
+    },
+    {
+      "id": "evt-18000000",
+      "title": "特朗普将于18日晚抵达深圳",
+      "category": "society",
+      "hotScore": 0.8075,
+      "freshness": 1,
+      "crossSource": 0.6309,
+      "totalScore": 0.8123,
+      "sources": [
+        {
+          "channel": "toutiao",
+          "rank": 2,
+          "hot": 30685074,
+          "url": "https://www.toutiao.com/trending/7708763700609499155/"
+        }
+      ],
+      "summary": "",
+      "url": "https://www.toutiao.com/trending/7708763700609499155/"
+    },
+    {
+      "id": "evt-a0000000",
+      "title": "大外交｜从“融入”、“塑造”到“引领”，APEC见证中国主场外交进阶之路",
+      "category": "society",
+      "hotScore": 0.765,
+      "freshness": 0.9999,
+      "crossSource": 0.6309,
+      "totalScore": 0.7953,
+      "sources": [
+        {
+          "channel": "thepaper",
+          "rank": 3,
+          "hot": 0,
+          "url": "https://www.thepaper.cn/newsDetail_forward_34492942"
+        }
+      ],
+      "summary": "",
+      "url": "https://www.thepaper.cn/newsDetail_forward_34492942"
     },
     {
       "id": "evt-40000000",
       "title": "女子在盒马申请400余次仅退款“薅”走1.7万元？涉嫌诈骗被刑拘",
       "category": "society",
-      "hotScore": 0.8075,
+      "hotScore": 0.7225,
       "freshness": 0.9999,
       "crossSource": 0.6309,
-      "totalScore": 0.8123,
+      "totalScore": 0.7783,
       "sources": [
         {
           "channel": "thepaper",
-          "rank": 2,
+          "rank": 4,
           "hot": 0,
           "url": "https://www.thepaper.cn/newsDetail_forward_34492459"
         }
@@ -76,17 +114,55 @@
       "url": "https://www.thepaper.cn/newsDetail_forward_34492459"
     },
     {
-      "id": "evt-doggo000",
-      "title": "Doggo 就抢女友事件致歉「这完全是我个人的错，没有任何借口」，对此你有什么想说的？",
+      "id": "evt-apec7000",
+      "title": "APEC会议近700辆红旗车全流程接待",
       "category": "society",
-      "hotScore": 0.675,
+      "hotScore": 0.64,
       "freshness": 1,
       "crossSource": 0.6309,
-      "totalScore": 0.7593,
+      "totalScore": 0.7453,
+      "sources": [
+        {
+          "channel": "baidu",
+          "rank": 5,
+          "hot": 0,
+          "url": "https://m.baidu.com/s?word=APEC%E4%BC%9A%E8%AE%AE%E8%BF%91700%E8%BE%86%E7%BA%A2%E6%97%97%E8%BD%A6%E5%85%A8%E6%B5%81%E7%A8%8B%E6%8E%A5%E5%BE%85&sa=fyb_news"
+        }
+      ],
+      "summary": "",
+      "url": "https://m.baidu.com/s?word=APEC%E4%BC%9A%E8%AE%AE%E8%BF%91700%E8%BE%86%E7%BA%A2%E6%97%97%E8%BD%A6%E5%85%A8%E6%B5%81%E7%A8%8B%E6%8E%A5%E5%BE%85&sa=fyb_news"
+    },
+    {
+      "id": "evt-31000000",
+      "title": "魏建军回应于东来复购310辆坦克700",
+      "category": "society",
+      "hotScore": 0.6375,
+      "freshness": 1,
+      "crossSource": 0.6309,
+      "totalScore": 0.7443,
+      "sources": [
+        {
+          "channel": "toutiao",
+          "rank": 6,
+          "hot": 20568820,
+          "url": "https://www.toutiao.com/trending/7708354538696146986/"
+        }
+      ],
+      "summary": "",
+      "url": "https://www.toutiao.com/trending/7708354538696146986/"
+    },
+    {
+      "id": "evt-gta6pc20",
+      "title": "曝《GTA6》PC 版将于 2027 年第一季度发售，为何 R 星双平台间隔会进一步缩短？",
+      "category": "society",
+      "hotScore": 0.6375,
+      "freshness": 0.9999,
+      "crossSource": 0.6309,
+      "totalScore": 0.7443,
       "sources": [
         {
           "channel": "zhihu",
-          "rank": 3,
+          "rank": 4,
           "hot": 0,
           "url": ""
         }
@@ -115,29 +191,10 @@
     },
     {
       "id": "evt-10000000",
-      "title": "如何评价信小呆中 1 亿锦鲤大奖，奖品多为代金券、一度花光积蓄？普通人遇上这种天降流量，该怎么选才不亏？",
-      "category": "society",
-      "hotScore": 0.6,
-      "freshness": 1,
-      "crossSource": 0.6309,
-      "totalScore": 0.7293,
-      "sources": [
-        {
-          "channel": "zhihu",
-          "rank": 5,
-          "hot": 0,
-          "url": ""
-        }
-      ],
-      "summary": "",
-      "url": ""
-    },
-    {
-      "id": "evt-22000000",
-      "title": "国足友谊赛，中国男足 2-2 巴林，拜合拉木、张玉宁破门、王钰栋造点，如何评价本场比赛双方的表现？",
+      "title": "不少「固收 +」理财近 1 个月收益为负，「固收 +」里的「+」通常加了什么？它会带来哪些额外风险？",
       "category": "society",
       "hotScore": 0.5625,
-      "freshness": 1,
+      "freshness": 0.9999,
       "crossSource": 0.6309,
       "totalScore": 0.7143,
       "sources": [
@@ -150,25 +207,6 @@
       ],
       "summary": "",
       "url": ""
-    },
-    {
-      "id": "evt-ce000000",
-      "title": "黄仁勋：愿重返英伟达任CEO",
-      "category": "society",
-      "hotScore": 0.56,
-      "freshness": 1,
-      "crossSource": 0.6309,
-      "totalScore": 0.7133,
-      "sources": [
-        {
-          "channel": "baidu",
-          "rank": 7,
-          "hot": 0,
-          "url": "https://m.baidu.com/s?word=%E9%BB%84%E4%BB%81%E5%8B%8B%EF%BC%9A%E6%84%BF%E9%87%8D%E8%BF%94%E8%8B%B1%E4%BC%9F%E8%BE%BE%E4%BB%BBCEO&sa=fyb_news"
-        }
-      ],
-      "summary": "",
-      "url": "https://m.baidu.com/s?word=%E9%BB%84%E4%BB%81%E5%8B%8B%EF%BC%9A%E6%84%BF%E9%87%8D%E8%BF%94%E8%8B%B1%E4%BC%9F%E8%BE%BE%E4%BB%BBCEO&sa=fyb_news"
     },
     {
       "id": "evt-93000000",
@@ -190,11 +228,11 @@
       "url": "https://www.thepaper.cn/newsDetail_forward_34491998"
     },
     {
-      "id": "evt-61000000",
-      "title": "61 岁女子登机口抛硬币祈福致航班延误 58 分钟被拘 5 日，该处罚尺度是否合理？",
+      "id": "evt-blg00000",
+      "title": "BLG 在联赛内组建梦之队一家独大真的有利于联赛发展吗？",
       "category": "society",
       "hotScore": 0.4875,
-      "freshness": 1,
+      "freshness": 0.9999,
       "crossSource": 0.6309,
       "totalScore": 0.6843,
       "sources": [
@@ -213,7 +251,7 @@
       "title": "怎么看 JetBrains 成立 20 年来第一次亏损，这是不是代表了一个时代的结束？",
       "category": "society",
       "hotScore": 0.45,
-      "freshness": 1,
+      "freshness": 0.9999,
       "crossSource": 0.6309,
       "totalScore": 0.6693,
       "sources": [
@@ -226,25 +264,6 @@
       ],
       "summary": "",
       "url": ""
-    },
-    {
-      "id": "evt-20260000",
-      "title": "宇树王兴兴：2026年无论是AI大模型还是机器人领域，水面以下的情况都非常激动人心",
-      "category": "society",
-      "hotScore": 0.425,
-      "freshness": 0.9999,
-      "crossSource": 0.6309,
-      "totalScore": 0.6593,
-      "sources": [
-        {
-          "channel": "thepaper",
-          "rank": 11,
-          "hot": 0,
-          "url": "https://www.thepaper.cn/newsDetail_forward_34491510"
-        }
-      ],
-      "summary": "",
-      "url": "https://www.thepaper.cn/newsDetail_forward_34491510"
     }
   ]
 }
