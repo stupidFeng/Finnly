@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-11-19T04:58:48.482Z",
+  "generatedAt": "2026-11-19T14:53:28.390Z",
   "fields": {
     "society": "社会",
     "economy": "经济",
@@ -7,8 +7,8 @@
   },
   "feed": [
     {
-      "id": "evt-apec0000",
-      "title": "习近平主持APEC领导人非正式会议",
+      "id": "evt-00000000",
+      "title": "中俄美元首和平宣言",
       "category": "society",
       "hotScore": 0.85,
       "freshness": 0.9999,
@@ -18,127 +18,76 @@
         {
           "channel": "toutiao",
           "rank": 1,
-          "hot": 59927016,
-          "url": "https://www.toutiao.com/trending/7709633676023238180/"
+          "hot": 29978560,
+          "url": "https://www.toutiao.com/trending/7709805042211209235/"
+        },
+        {
+          "channel": "thepaper",
+          "rank": 3,
+          "hot": 0,
+          "url": "https://www.thepaper.cn/newsDetail_forward_34512539"
         },
         {
           "channel": "baidu",
-          "rank": 3,
-          "hot": 0,
-          "url": "https://m.baidu.com/s?word=%E4%B9%A0%E8%BF%91%E5%B9%B3%E4%B8%BB%E6%8C%81APEC%E9%A2%86%E5%AF%BC%E4%BA%BA%E9%9D%9E%E6%AD%A3%E5%BC%8F%E4%BC%9A%E8%AE%AE&sa=fyb_news"
-        }
-      ],
-      "summary": "",
-      "url": "https://www.toutiao.com/trending/7709633676023238180/"
-    },
-    {
-      "id": "evt-00000000",
-      "title": "详讯丨习近平和彭丽媛为出席亚太经合组织第三十三次领导人非正式会议的来宾举行欢迎宴会",
-      "category": "society",
-      "hotScore": 0.85,
-      "freshness": 1,
-      "crossSource": 0.6309,
-      "totalScore": 0.8293,
-      "sources": [
-        {
-          "channel": "thepaper",
           "rank": 1,
           "hot": 0,
-          "url": "https://www.thepaper.cn/newsDetail_forward_34505125"
+          "url": "https://m.baidu.com/s?word=%E4%B8%AD%E4%BF%84%E7%BE%8E%E5%85%83%E9%A6%96%E5%92%8C%E5%B9%B3%E5%AE%A3%E8%A8%80&sa=fyb_news"
         }
       ],
       "summary": "",
-      "url": "https://www.thepaper.cn/newsDetail_forward_34505125"
+      "url": "https://www.toutiao.com/trending/7709805042211209235/"
     },
     {
-      "id": "evt-a0000000",
-      "title": "言短意长丨深圳人“全妆”迎APEC：家有盛会，当好东道主",
+      "id": "evt-30000000",
+      "title": "30年 第一次叫“倡议”",
       "category": "society",
-      "hotScore": 0.7225,
+      "hotScore": 0.68,
       "freshness": 1,
-      "crossSource": 0.6309,
-      "totalScore": 0.7783,
+      "crossSource": 0.5,
+      "totalScore": 0.722,
+      "sources": [
+        {
+          "channel": "baidu",
+          "rank": 4,
+          "hot": 0,
+          "url": "https://m.baidu.com/s?word=30%E5%B9%B4+%E7%AC%AC%E4%B8%80%E6%AC%A1%E5%8F%AB%E2%80%9C%E5%80%A1%E8%AE%AE%E2%80%9D&sa=fyb_news"
+        }
+      ],
+      "summary": "",
+      "url": "https://m.baidu.com/s?word=30%E5%B9%B4+%E7%AC%AC%E4%B8%80%E6%AC%A1%E5%8F%AB%E2%80%9C%E5%80%A1%E8%AE%AE%E2%80%9D&sa=fyb_news"
+    },
+    {
+      "id": "evt-apec0000",
+      "title": "APEC欢迎宴会高清大图",
+      "category": "society",
+      "hotScore": 0.68,
+      "freshness": 1,
+      "crossSource": 0.5,
+      "totalScore": 0.722,
       "sources": [
         {
           "channel": "thepaper",
-          "rank": 4,
-          "hot": 0,
-          "url": "https://www.thepaper.cn/newsDetail_forward_34504398"
-        }
-      ],
-      "summary": "",
-      "url": "https://www.thepaper.cn/newsDetail_forward_34504398"
-    },
-    {
-      "id": "evt-d0000000",
-      "title": "马斯克抵达深圳，缺席纽约 DealBook 峰会，他选择深圳 APEC 峰会节点赴华是出于什么考虑？",
-      "category": "society",
-      "hotScore": 0.7125,
-      "freshness": 1,
-      "crossSource": 0.6309,
-      "totalScore": 0.7743,
-      "sources": [
-        {
-          "channel": "zhihu",
-          "rank": 2,
-          "hot": 0,
-          "url": ""
-        }
-      ],
-      "summary": "",
-      "url": ""
-    },
-    {
-      "id": "evt-ape00000",
-      "title": "为什么大家这么关注 APEC 会议？",
-      "category": "society",
-      "hotScore": 0.6375,
-      "freshness": 1,
-      "crossSource": 0.6309,
-      "totalScore": 0.7443,
-      "sources": [
-        {
-          "channel": "zhihu",
-          "rank": 4,
-          "hot": 0,
-          "url": ""
-        }
-      ],
-      "summary": "",
-      "url": ""
-    },
-    {
-      "id": "evt-20100000",
-      "title": "《伟大的长征》收官，创下2019年以来革命题材剧收视率第一",
-      "category": "society",
-      "hotScore": 0.6375,
-      "freshness": 1,
-      "crossSource": 0.6309,
-      "totalScore": 0.7443,
-      "sources": [
-        {
-          "channel": "thepaper",
-          "rank": 6,
-          "hot": 0,
-          "url": "https://www.thepaper.cn/newsDetail_forward_34505158"
-        }
-      ],
-      "summary": "",
-      "url": "https://www.thepaper.cn/newsDetail_forward_34505158"
-    },
-    {
-      "id": "evt-workbuddy",
-      "title": "WorkBuddy 日活用户超 1000 万，它是怎么做到的？AI Agent 已经成为工作刚需了吗？",
-      "category": "society",
-      "hotScore": 0.6,
-      "freshness": 1,
-      "crossSource": 0.6309,
-      "totalScore": 0.7293,
-      "sources": [
-        {
-          "channel": "zhihu",
           "rank": 5,
           "hot": 0,
+          "url": "https://www.thepaper.cn/newsDetail_forward_34505423"
+        }
+      ],
+      "summary": "",
+      "url": "https://www.thepaper.cn/newsDetail_forward_34505423"
+    },
+    {
+      "id": "evt-qq000000",
+      "title": "腾讯控股公布微信 QQ 月活差 9 亿，为什么腾讯坚持留着 QQ 不合并？QQ 还有哪些市场？",
+      "category": "society",
+      "hotScore": 0.675,
+      "freshness": 0.9999,
+      "crossSource": 0.5,
+      "totalScore": 0.72,
+      "sources": [
+        {
+          "channel": "zhihu",
+          "rank": 3,
+          "hot": 0,
           "url": ""
         }
       ],
@@ -146,32 +95,89 @@
       "url": ""
     },
     {
-      "id": "evt-80000000",
-      "title": "二手房价格连涨8个月",
-      "category": "society",
-      "hotScore": 0.595,
+      "id": "evt-90000000",
+      "title": "方程豹钛9正式上市",
+      "category": "economy",
+      "hotScore": 0.6375,
       "freshness": 0.9999,
-      "crossSource": 0.6309,
-      "totalScore": 0.7273,
+      "crossSource": 0.5,
+      "totalScore": 0.705,
       "sources": [
         {
           "channel": "toutiao",
-          "rank": 7,
-          "hot": 32888644,
-          "url": "https://www.toutiao.com/trending/7709711646221946411/"
+          "rank": 6,
+          "hot": 18182916,
+          "url": "https://www.toutiao.com/trending/7709870440894071347/"
         }
       ],
       "summary": "",
-      "url": "https://www.toutiao.com/trending/7709711646221946411/"
+      "url": "https://www.toutiao.com/trending/7709870440894071347/"
     },
     {
-      "id": "evt-app00000",
-      "title": "比亚迪 App 崩了，多位车主反映 App 无法连接车辆开门，故障原因可能是什么？造成的影响有多大？",
+      "id": "evt-auto0000",
+      "title": "如何评价一见 auto 的文章《理想宁德，后会友期》？宁德向理想一天发三封催款邮件，其中出了什么问题？",
+      "category": "society",
+      "hotScore": 0.6375,
+      "freshness": 0.9999,
+      "crossSource": 0.5,
+      "totalScore": 0.705,
+      "sources": [
+        {
+          "channel": "zhihu",
+          "rank": 4,
+          "hot": 0,
+          "url": ""
+        }
+      ],
+      "summary": "",
+      "url": ""
+    },
+    {
+      "id": "evt-20320000",
+      "title": "国台办回应「建议 2032 年两岸统一货币」，称只要利于两岸关系和平发展都欢迎，统一货币会有哪些影响？",
+      "category": "society",
+      "hotScore": 0.5625,
+      "freshness": 0.9999,
+      "crossSource": 0.5,
+      "totalScore": 0.675,
+      "sources": [
+        {
+          "channel": "zhihu",
+          "rank": 6,
+          "hot": 0,
+          "url": ""
+        }
+      ],
+      "summary": "",
+      "url": ""
+    },
+    {
+      "id": "evt-1m000000",
+      "title": "一根 1m 长的玻璃棒，摔到地上断成 3 段，最短一段的平均值是多少？",
+      "category": "society",
+      "hotScore": 0.525,
+      "freshness": 0.9999,
+      "crossSource": 0.5,
+      "totalScore": 0.66,
+      "sources": [
+        {
+          "channel": "zhihu",
+          "rank": 7,
+          "hot": 0,
+          "url": ""
+        }
+      ],
+      "summary": "",
+      "url": ""
+    },
+    {
+      "id": "evt-deepseeka",
+      "title": "怎么看 DeepSeek API 联网搜索与抓页改为免费？",
       "category": "society",
       "hotScore": 0.4875,
-      "freshness": 1,
-      "crossSource": 0.6309,
-      "totalScore": 0.6843,
+      "freshness": 0.9999,
+      "crossSource": 0.5,
+      "totalScore": 0.645,
       "sources": [
         {
           "channel": "zhihu",
@@ -184,36 +190,17 @@
       "url": ""
     },
     {
-      "id": "evt-m0000000",
-      "title": "特斯拉计划推出无方向盘Model Y",
-      "category": "society",
-      "hotScore": 0.4675,
-      "freshness": 0.9999,
-      "crossSource": 0.6309,
-      "totalScore": 0.6763,
-      "sources": [
-        {
-          "channel": "toutiao",
-          "rank": 10,
-          "hot": 24364506,
-          "url": "https://www.toutiao.com/trending/7709720373058817586/"
-        }
-      ],
-      "summary": "",
-      "url": "https://www.toutiao.com/trending/7709720373058817586/"
-    },
-    {
       "id": "evt-apecai00",
       "title": "专访｜澳专家：APEC开AI专题会是积极信号，至少先迈出一小步",
       "category": "society",
-      "hotScore": 0.4675,
+      "hotScore": 0.425,
       "freshness": 1,
-      "crossSource": 0.6309,
-      "totalScore": 0.6763,
+      "crossSource": 0.5,
+      "totalScore": 0.62,
       "sources": [
         {
           "channel": "thepaper",
-          "rank": 10,
+          "rank": 11,
           "hot": 0,
           "url": "https://www.thepaper.cn/newsDetail_forward_34505131"
         }
@@ -222,17 +209,17 @@
       "url": "https://www.thepaper.cn/newsDetail_forward_34505131"
     },
     {
-      "id": "evt-10450000",
-      "title": "上海 10 月社零同比跌 4.5%，其中汽车类跌 39.4%，还有哪些细节值得关注？",
+      "id": "evt-s1600000",
+      "title": "如何评价 S16 决赛结束后，王多多的结束语？",
       "category": "society",
-      "hotScore": 0.45,
-      "freshness": 1,
-      "crossSource": 0.6309,
-      "totalScore": 0.6693,
+      "hotScore": 0.4125,
+      "freshness": 0.9999,
+      "crossSource": 0.5,
+      "totalScore": 0.615,
       "sources": [
         {
           "channel": "zhihu",
-          "rank": 9,
+          "rank": 10,
           "hot": 0,
           "url": ""
         }
