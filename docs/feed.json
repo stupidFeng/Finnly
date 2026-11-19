@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-11-19T14:53:28.390Z",
+  "generatedAt": "2026-11-19T22:49:00.888Z",
   "fields": {
     "society": "社会",
     "economy": "经济",
@@ -11,14 +11,14 @@
       "title": "中俄美元首和平宣言",
       "category": "society",
       "hotScore": 0.85,
-      "freshness": 0.9999,
+      "freshness": 1,
       "crossSource": 1,
       "totalScore": 0.94,
       "sources": [
         {
           "channel": "toutiao",
           "rank": 1,
-          "hot": 29978560,
+          "hot": 36325879,
           "url": "https://www.toutiao.com/trending/7709805042211209235/"
         },
         {
@@ -57,36 +57,17 @@
       "url": "https://m.baidu.com/s?word=30%E5%B9%B4+%E7%AC%AC%E4%B8%80%E6%AC%A1%E5%8F%AB%E2%80%9C%E5%80%A1%E8%AE%AE%E2%80%9D&sa=fyb_news"
     },
     {
-      "id": "evt-apec0000",
-      "title": "APEC欢迎宴会高清大图",
+      "id": "evt-gta60000",
+      "title": "GTA6 是被情怀捧起来的吗？",
       "category": "society",
-      "hotScore": 0.68,
+      "hotScore": 0.6,
       "freshness": 1,
       "crossSource": 0.5,
-      "totalScore": 0.722,
-      "sources": [
-        {
-          "channel": "thepaper",
-          "rank": 5,
-          "hot": 0,
-          "url": "https://www.thepaper.cn/newsDetail_forward_34505423"
-        }
-      ],
-      "summary": "",
-      "url": "https://www.thepaper.cn/newsDetail_forward_34505423"
-    },
-    {
-      "id": "evt-qq000000",
-      "title": "腾讯控股公布微信 QQ 月活差 9 亿，为什么腾讯坚持留着 QQ 不合并？QQ 还有哪些市场？",
-      "category": "society",
-      "hotScore": 0.675,
-      "freshness": 0.9999,
-      "crossSource": 0.5,
-      "totalScore": 0.72,
+      "totalScore": 0.69,
       "sources": [
         {
           "channel": "zhihu",
-          "rank": 3,
+          "rank": 5,
           "hot": 0,
           "url": ""
         }
@@ -95,49 +76,49 @@
       "url": ""
     },
     {
-      "id": "evt-90000000",
-      "title": "方程豹钛9正式上市",
-      "category": "economy",
-      "hotScore": 0.6375,
-      "freshness": 0.9999,
+      "id": "evt-50000000",
+      "title": "睡前有5种表现要警惕脑梗",
+      "category": "society",
+      "hotScore": 0.595,
+      "freshness": 1,
       "crossSource": 0.5,
-      "totalScore": 0.705,
+      "totalScore": 0.688,
       "sources": [
         {
           "channel": "toutiao",
-          "rank": 6,
-          "hot": 18182916,
-          "url": "https://www.toutiao.com/trending/7709870440894071347/"
+          "rank": 7,
+          "hot": 19936065,
+          "url": "https://www.toutiao.com/trending/7709037574400262154/"
         }
       ],
       "summary": "",
-      "url": "https://www.toutiao.com/trending/7709870440894071347/"
+      "url": "https://www.toutiao.com/trending/7709037574400262154/"
     },
     {
-      "id": "evt-auto0000",
-      "title": "如何评价一见 auto 的文章《理想宁德，后会友期》？宁德向理想一天发三封催款邮件，其中出了什么问题？",
+      "id": "evt-apec0000",
+      "title": "APEC现场｜深圳市民街头偶遇多国政要：逛超市、尝车厘子、练八段锦……",
       "category": "society",
-      "hotScore": 0.6375,
-      "freshness": 0.9999,
+      "hotScore": 0.595,
+      "freshness": 1,
       "crossSource": 0.5,
-      "totalScore": 0.705,
+      "totalScore": 0.688,
       "sources": [
         {
-          "channel": "zhihu",
-          "rank": 4,
+          "channel": "thepaper",
+          "rank": 7,
           "hot": 0,
-          "url": ""
+          "url": "https://www.thepaper.cn/newsDetail_forward_34509387"
         }
       ],
       "summary": "",
-      "url": ""
+      "url": "https://www.thepaper.cn/newsDetail_forward_34509387"
     },
     {
-      "id": "evt-20320000",
-      "title": "国台办回应「建议 2032 年两岸统一货币」，称只要利于两岸关系和平发展都欢迎，统一货币会有哪些影响？",
+      "id": "evt-workbudd",
+      "title": "腾讯披露 WorkBuddy 近七天年化收入超 5 亿美元，有用户月付 4 万元买服务，数据背后有多大「含金量」？",
       "category": "society",
       "hotScore": 0.5625,
-      "freshness": 0.9999,
+      "freshness": 1,
       "crossSource": 0.5,
       "totalScore": 0.675,
       "sources": [
@@ -156,7 +137,7 @@
       "title": "一根 1m 长的玻璃棒，摔到地上断成 3 段，最短一段的平均值是多少？",
       "category": "society",
       "hotScore": 0.525,
-      "freshness": 0.9999,
+      "freshness": 1,
       "crossSource": 0.5,
       "totalScore": 0.66,
       "sources": [
@@ -171,17 +152,17 @@
       "url": ""
     },
     {
-      "id": "evt-deepseeka",
-      "title": "怎么看 DeepSeek API 联网搜索与抓页改为免费？",
+      "id": "evt-qq000000",
+      "title": "腾讯控股公布微信 QQ 月活差 9 亿，为什么腾讯坚持留着 QQ 不合并？QQ 还有哪些市场？",
       "category": "society",
-      "hotScore": 0.4875,
-      "freshness": 0.9999,
+      "hotScore": 0.45,
+      "freshness": 1,
       "crossSource": 0.5,
-      "totalScore": 0.645,
+      "totalScore": 0.63,
       "sources": [
         {
           "channel": "zhihu",
-          "rank": 8,
+          "rank": 9,
           "hot": 0,
           "url": ""
         }
@@ -207,25 +188,6 @@
       ],
       "summary": "",
       "url": "https://www.thepaper.cn/newsDetail_forward_34505131"
-    },
-    {
-      "id": "evt-s1600000",
-      "title": "如何评价 S16 决赛结束后，王多多的结束语？",
-      "category": "society",
-      "hotScore": 0.4125,
-      "freshness": 0.9999,
-      "crossSource": 0.5,
-      "totalScore": 0.615,
-      "sources": [
-        {
-          "channel": "zhihu",
-          "rank": 10,
-          "hot": 0,
-          "url": ""
-        }
-      ],
-      "summary": "",
-      "url": ""
     }
   ]
 }
