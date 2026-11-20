@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-11-20T04:50:07.554Z",
+  "generatedAt": "2026-11-20T14:34:35.267Z",
   "fields": {
     "society": "社会",
     "economy": "经济",
@@ -8,7 +8,7 @@
   "feed": [
     {
       "id": "evt-00000000",
-      "title": "中俄美元首和平宣言",
+      "title": "胖东来搬离后原址所开新商场几乎倒闭",
       "category": "society",
       "hotScore": 0.85,
       "freshness": 0.9999,
@@ -18,126 +18,56 @@
         {
           "channel": "toutiao",
           "rank": 1,
-          "hot": 39070860,
-          "url": "https://www.toutiao.com/trending/7709805042211209235/"
+          "hot": 19799875,
+          "url": "https://www.toutiao.com/trending/7709314788123525147/"
         },
         {
-          "channel": "thepaper",
-          "rank": 3,
+          "channel": "baidu",
+          "rank": 15,
           "hot": 0,
-          "url": "https://www.thepaper.cn/newsDetail_forward_34512539"
+          "url": "https://m.baidu.com/s?word=%E8%83%96%E4%B8%9C%E6%9D%A5%E6%90%AC%E7%A6%BB%E5%90%8E%E5%8E%9F%E5%9D%80%E6%89%80%E5%BC%80%E6%96%B0%E5%95%86%E5%9C%BA%E5%87%A0%E4%B9%8E%E5%80%92%E9%97%AD&sa=fyb_news"
         }
       ],
       "summary": "",
-      "url": "https://www.toutiao.com/trending/7709805042211209235/"
-    },
-    {
-      "id": "evt-apec0000",
-      "title": "APEC新机遇年轻人如何接接接",
-      "category": "society",
-      "hotScore": 0.765,
-      "freshness": 0.9999,
-      "crossSource": 0.6309,
-      "totalScore": 0.7953,
-      "sources": [
-        {
-          "channel": "toutiao",
-          "rank": 3,
-          "hot": 31988515,
-          "url": "https://www.toutiao.com/trending/7709806191945318463/"
-        }
-      ],
-      "summary": "",
-      "url": "https://www.toutiao.com/trending/7709806191945318463/"
-    },
-    {
-      "id": "evt-10000000",
-      "title": "王毅给深圳办会打100分",
-      "category": "society",
-      "hotScore": 0.7225,
-      "freshness": 0.9999,
-      "crossSource": 0.6309,
-      "totalScore": 0.7783,
-      "sources": [
-        {
-          "channel": "toutiao",
-          "rank": 4,
-          "hot": 28944405,
-          "url": "https://www.toutiao.com/trending/7708984160852901929/"
-        }
-      ],
-      "summary": "",
-      "url": "https://www.toutiao.com/trending/7708984160852901929/"
-    },
-    {
-      "id": "evt-93900000",
-      "title": "方程豹钛9展车抵达39城135家门店",
-      "category": "society",
-      "hotScore": 0.6375,
-      "freshness": 0.9999,
-      "crossSource": 0.6309,
-      "totalScore": 0.7443,
-      "sources": [
-        {
-          "channel": "toutiao",
-          "rank": 6,
-          "hot": 23697674,
-          "url": "https://www.toutiao.com/trending/7709481133096173619/"
-        }
-      ],
-      "summary": "",
-      "url": "https://www.toutiao.com/trending/7709481133096173619/"
+      "url": "https://www.toutiao.com/trending/7709314788123525147/"
     },
     {
       "id": "evt-27000000",
-      "title": "爱奇艺股价已连续 27 个交易日低于 1 美元，最快将于 11 月 23 日触发退市警告，它真的会退市吗？",
-      "category": "economy",
-      "hotScore": 0.675,
-      "freshness": 1,
-      "crossSource": 0.6309,
-      "totalScore": 0.7593,
-      "sources": [
-        {
-          "channel": "zhihu",
-          "rank": 3,
-          "hot": 0,
-          "url": ""
-        }
-      ],
-      "summary": "",
-      "url": ""
-    },
-    {
-      "id": "evt-workbudd",
-      "title": "腾讯披露 WorkBuddy 近七天年化收入超 5 亿美元，有用户月付 4 万元买服务，数据背后有多大「含金量」？",
+      "title": "27岁庞众望完成博士论文答辩",
       "category": "society",
-      "hotScore": 0.6375,
-      "freshness": 1,
-      "crossSource": 0.6309,
-      "totalScore": 0.7443,
+      "hotScore": 0.7225,
+      "freshness": 0.9999,
+      "crossSource": 1,
+      "totalScore": 0.889,
       "sources": [
         {
-          "channel": "zhihu",
+          "channel": "toutiao",
           "rank": 4,
+          "hot": 14668108,
+          "url": "https://www.toutiao.com/trending/7710188716061540915/"
+        },
+        {
+          "channel": "baidu",
+          "rank": 20,
           "hot": 0,
-          "url": ""
+          "url": "https://m.baidu.com/s?word=27%E5%B2%81%E5%BA%9E%E4%BC%97%E6%9C%9B%E5%AE%8C%E6%88%90%E5%8D%9A%E5%A3%AB%E8%AE%BA%E6%96%87%E7%AD%94%E8%BE%A9&sa=fyb_news"
         }
       ],
       "summary": "",
-      "url": ""
+      "url": "https://www.toutiao.com/trending/7710188716061540915/"
     },
     {
       "id": "evt-ai000000",
       "title": "“知网AI检出率暴涨”背后：存疑的算法、困惑的作者与AI辅助思考的边界",
       "category": "society",
-      "hotScore": 0.6375,
-      "freshness": 1,
+      "hotScore": 0.85,
+      "freshness": 0.9999,
       "crossSource": 0.6309,
-      "totalScore": 0.7443,
+      "totalScore": 0.8293,
       "sources": [
         {
           "channel": "thepaper",
-          "rank": 6,
+          "rank": 1,
           "hot": 0,
           "url": "https://www.thepaper.cn/newsDetail_forward_34513875"
         }
@@ -146,42 +76,137 @@
       "url": "https://www.thepaper.cn/newsDetail_forward_34513875"
     },
     {
-      "id": "evt-15000000",
-      "title": "马上评｜15元起步，扫共享单车不该是开盲盒",
+      "id": "evt-deepseek",
+      "title": "DeepSeek 第二轮融资 1050 多亿元落地，31 家外部股东入局，怎样解读？",
       "category": "society",
-      "hotScore": 0.51,
-      "freshness": 1,
+      "hotScore": 0.6375,
+      "freshness": 0.9999,
       "crossSource": 0.6309,
-      "totalScore": 0.6933,
+      "totalScore": 0.7443,
       "sources": [
         {
-          "channel": "thepaper",
-          "rank": 9,
+          "channel": "zhihu",
+          "rank": 4,
           "hot": 0,
-          "url": "https://www.thepaper.cn/newsDetail_forward_34510107"
+          "url": ""
         }
       ],
       "summary": "",
-      "url": "https://www.thepaper.cn/newsDetail_forward_34510107"
+      "url": ""
     },
     {
-      "id": "evt-ceo00000",
-      "title": "专访全球甲烷中心CEO、智利前环境部长马塞洛：期待中国甲烷减排经验惠及全球南方",
+      "id": "evt-l3000000",
+      "title": "余承东：用L3开车能睡觉，别睡过去就行",
       "category": "society",
-      "hotScore": 0.4675,
-      "freshness": 1,
+      "hotScore": 0.6375,
+      "freshness": 0.9999,
       "crossSource": 0.6309,
-      "totalScore": 0.6763,
+      "totalScore": 0.7443,
       "sources": [
         {
           "channel": "thepaper",
-          "rank": 10,
+          "rank": 6,
           "hot": 0,
-          "url": "https://www.thepaper.cn/newsDetail_forward_34506159"
+          "url": "https://www.thepaper.cn/newsDetail_forward_34521221"
         }
       ],
       "summary": "",
-      "url": "https://www.thepaper.cn/newsDetail_forward_34506159"
+      "url": "https://www.thepaper.cn/newsDetail_forward_34521221"
+    },
+    {
+      "id": "evt-10000000",
+      "title": "特朗普称如果满分 10 分，可以为中俄美元首会晤打 12 分，此次会晤对他有多重要？美方有哪些收获？",
+      "category": "society",
+      "hotScore": 0.5625,
+      "freshness": 0.9999,
+      "crossSource": 0.6309,
+      "totalScore": 0.7143,
+      "sources": [
+        {
+          "channel": "zhihu",
+          "rank": 6,
+          "hot": 0,
+          "url": ""
+        }
+      ],
+      "summary": "",
+      "url": ""
+    },
+    {
+      "id": "evt-u17vs000",
+      "title": "陪看U17世界杯：国足vs西班牙",
+      "category": "society",
+      "hotScore": 0.52,
+      "freshness": 1,
+      "crossSource": 0.6309,
+      "totalScore": 0.6973,
+      "sources": [
+        {
+          "channel": "baidu",
+          "rank": 8,
+          "hot": 0,
+          "url": "https://m.baidu.com/s?word=%E9%99%AA%E7%9C%8BU17%E4%B8%96%E7%95%8C%E6%9D%AF%EF%BC%9A%E5%9B%BD%E8%B6%B3vs%E8%A5%BF%E7%8F%AD%E7%89%99&sa=fyb_news"
+        }
+      ],
+      "summary": "",
+      "url": "https://m.baidu.com/s?word=%E9%99%AA%E7%9C%8BU17%E4%B8%96%E7%95%8C%E6%9D%AF%EF%BC%9A%E5%9B%BD%E8%B6%B3vs%E8%A5%BF%E7%8F%AD%E7%89%99&sa=fyb_news"
+    },
+    {
+      "id": "evt-ap000000",
+      "title": "深圳华丽转型生动诠释APEC理念",
+      "category": "society",
+      "hotScore": 0.51,
+      "freshness": 0.9999,
+      "crossSource": 0.6309,
+      "totalScore": 0.6932,
+      "sources": [
+        {
+          "channel": "toutiao",
+          "rank": 9,
+          "hot": 8896657,
+          "url": "https://www.toutiao.com/trending/7709589988203790390/"
+        }
+      ],
+      "summary": "",
+      "url": "https://www.toutiao.com/trending/7709589988203790390/"
+    },
+    {
+      "id": "evt-gestalt0",
+      "title": "神秘模型 Gestalt 横空出世，设计基准上大幅超越 Claude 、 GPT，这款模型到底是啥来历？",
+      "category": "society",
+      "hotScore": 0.4875,
+      "freshness": 0.9999,
+      "crossSource": 0.6309,
+      "totalScore": 0.6843,
+      "sources": [
+        {
+          "channel": "zhihu",
+          "rank": 8,
+          "hot": 0,
+          "url": ""
+        }
+      ],
+      "summary": "",
+      "url": ""
+    },
+    {
+      "id": "evt-20260000",
+      "title": "中国担任2026年亚太经合组织东道主成果清单",
+      "category": "society",
+      "hotScore": 0.425,
+      "freshness": 0.9999,
+      "crossSource": 0.6309,
+      "totalScore": 0.6593,
+      "sources": [
+        {
+          "channel": "thepaper",
+          "rank": 11,
+          "hot": 0,
+          "url": "https://www.thepaper.cn/newsDetail_forward_34514532"
+        }
+      ],
+      "summary": "",
+      "url": "https://www.thepaper.cn/newsDetail_forward_34514532"
     }
   ]
 }
