@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-11-19T22:49:00.888Z",
+  "generatedAt": "2026-11-20T04:50:07.554Z",
   "fields": {
     "society": "社会",
     "economy": "经济",
@@ -11,14 +11,14 @@
       "title": "中俄美元首和平宣言",
       "category": "society",
       "hotScore": 0.85,
-      "freshness": 1,
+      "freshness": 0.9999,
       "crossSource": 1,
       "totalScore": 0.94,
       "sources": [
         {
           "channel": "toutiao",
           "rank": 1,
-          "hot": 36325879,
+          "hot": 39070860,
           "url": "https://www.toutiao.com/trending/7709805042211209235/"
         },
         {
@@ -26,105 +26,99 @@
           "rank": 3,
           "hot": 0,
           "url": "https://www.thepaper.cn/newsDetail_forward_34512539"
-        },
-        {
-          "channel": "baidu",
-          "rank": 1,
-          "hot": 0,
-          "url": "https://m.baidu.com/s?word=%E4%B8%AD%E4%BF%84%E7%BE%8E%E5%85%83%E9%A6%96%E5%92%8C%E5%B9%B3%E5%AE%A3%E8%A8%80&sa=fyb_news"
         }
       ],
       "summary": "",
       "url": "https://www.toutiao.com/trending/7709805042211209235/"
     },
     {
-      "id": "evt-30000000",
-      "title": "30年 第一次叫“倡议”",
+      "id": "evt-apec0000",
+      "title": "APEC新机遇年轻人如何接接接",
       "category": "society",
-      "hotScore": 0.68,
-      "freshness": 1,
-      "crossSource": 0.5,
-      "totalScore": 0.722,
+      "hotScore": 0.765,
+      "freshness": 0.9999,
+      "crossSource": 0.6309,
+      "totalScore": 0.7953,
       "sources": [
         {
-          "channel": "baidu",
-          "rank": 4,
-          "hot": 0,
-          "url": "https://m.baidu.com/s?word=30%E5%B9%B4+%E7%AC%AC%E4%B8%80%E6%AC%A1%E5%8F%AB%E2%80%9C%E5%80%A1%E8%AE%AE%E2%80%9D&sa=fyb_news"
+          "channel": "toutiao",
+          "rank": 3,
+          "hot": 31988515,
+          "url": "https://www.toutiao.com/trending/7709806191945318463/"
         }
       ],
       "summary": "",
-      "url": "https://m.baidu.com/s?word=30%E5%B9%B4+%E7%AC%AC%E4%B8%80%E6%AC%A1%E5%8F%AB%E2%80%9C%E5%80%A1%E8%AE%AE%E2%80%9D&sa=fyb_news"
+      "url": "https://www.toutiao.com/trending/7709806191945318463/"
     },
     {
-      "id": "evt-gta60000",
-      "title": "GTA6 是被情怀捧起来的吗？",
+      "id": "evt-10000000",
+      "title": "王毅给深圳办会打100分",
       "category": "society",
-      "hotScore": 0.6,
+      "hotScore": 0.7225,
+      "freshness": 0.9999,
+      "crossSource": 0.6309,
+      "totalScore": 0.7783,
+      "sources": [
+        {
+          "channel": "toutiao",
+          "rank": 4,
+          "hot": 28944405,
+          "url": "https://www.toutiao.com/trending/7708984160852901929/"
+        }
+      ],
+      "summary": "",
+      "url": "https://www.toutiao.com/trending/7708984160852901929/"
+    },
+    {
+      "id": "evt-93900000",
+      "title": "方程豹钛9展车抵达39城135家门店",
+      "category": "society",
+      "hotScore": 0.6375,
+      "freshness": 0.9999,
+      "crossSource": 0.6309,
+      "totalScore": 0.7443,
+      "sources": [
+        {
+          "channel": "toutiao",
+          "rank": 6,
+          "hot": 23697674,
+          "url": "https://www.toutiao.com/trending/7709481133096173619/"
+        }
+      ],
+      "summary": "",
+      "url": "https://www.toutiao.com/trending/7709481133096173619/"
+    },
+    {
+      "id": "evt-27000000",
+      "title": "爱奇艺股价已连续 27 个交易日低于 1 美元，最快将于 11 月 23 日触发退市警告，它真的会退市吗？",
+      "category": "economy",
+      "hotScore": 0.675,
       "freshness": 1,
-      "crossSource": 0.5,
-      "totalScore": 0.69,
+      "crossSource": 0.6309,
+      "totalScore": 0.7593,
       "sources": [
         {
           "channel": "zhihu",
-          "rank": 5,
+          "rank": 3,
           "hot": 0,
           "url": ""
         }
       ],
       "summary": "",
       "url": ""
-    },
-    {
-      "id": "evt-50000000",
-      "title": "睡前有5种表现要警惕脑梗",
-      "category": "society",
-      "hotScore": 0.595,
-      "freshness": 1,
-      "crossSource": 0.5,
-      "totalScore": 0.688,
-      "sources": [
-        {
-          "channel": "toutiao",
-          "rank": 7,
-          "hot": 19936065,
-          "url": "https://www.toutiao.com/trending/7709037574400262154/"
-        }
-      ],
-      "summary": "",
-      "url": "https://www.toutiao.com/trending/7709037574400262154/"
-    },
-    {
-      "id": "evt-apec0000",
-      "title": "APEC现场｜深圳市民街头偶遇多国政要：逛超市、尝车厘子、练八段锦……",
-      "category": "society",
-      "hotScore": 0.595,
-      "freshness": 1,
-      "crossSource": 0.5,
-      "totalScore": 0.688,
-      "sources": [
-        {
-          "channel": "thepaper",
-          "rank": 7,
-          "hot": 0,
-          "url": "https://www.thepaper.cn/newsDetail_forward_34509387"
-        }
-      ],
-      "summary": "",
-      "url": "https://www.thepaper.cn/newsDetail_forward_34509387"
     },
     {
       "id": "evt-workbudd",
       "title": "腾讯披露 WorkBuddy 近七天年化收入超 5 亿美元，有用户月付 4 万元买服务，数据背后有多大「含金量」？",
       "category": "society",
-      "hotScore": 0.5625,
+      "hotScore": 0.6375,
       "freshness": 1,
-      "crossSource": 0.5,
-      "totalScore": 0.675,
+      "crossSource": 0.6309,
+      "totalScore": 0.7443,
       "sources": [
         {
           "channel": "zhihu",
-          "rank": 6,
+          "rank": 4,
           "hot": 0,
           "url": ""
         }
@@ -133,61 +127,61 @@
       "url": ""
     },
     {
-      "id": "evt-1m000000",
-      "title": "一根 1m 长的玻璃棒，摔到地上断成 3 段，最短一段的平均值是多少？",
+      "id": "evt-ai000000",
+      "title": "“知网AI检出率暴涨”背后：存疑的算法、困惑的作者与AI辅助思考的边界",
       "category": "society",
-      "hotScore": 0.525,
+      "hotScore": 0.6375,
       "freshness": 1,
-      "crossSource": 0.5,
-      "totalScore": 0.66,
-      "sources": [
-        {
-          "channel": "zhihu",
-          "rank": 7,
-          "hot": 0,
-          "url": ""
-        }
-      ],
-      "summary": "",
-      "url": ""
-    },
-    {
-      "id": "evt-qq000000",
-      "title": "腾讯控股公布微信 QQ 月活差 9 亿，为什么腾讯坚持留着 QQ 不合并？QQ 还有哪些市场？",
-      "category": "society",
-      "hotScore": 0.45,
-      "freshness": 1,
-      "crossSource": 0.5,
-      "totalScore": 0.63,
-      "sources": [
-        {
-          "channel": "zhihu",
-          "rank": 9,
-          "hot": 0,
-          "url": ""
-        }
-      ],
-      "summary": "",
-      "url": ""
-    },
-    {
-      "id": "evt-apecai00",
-      "title": "专访｜澳专家：APEC开AI专题会是积极信号，至少先迈出一小步",
-      "category": "society",
-      "hotScore": 0.425,
-      "freshness": 1,
-      "crossSource": 0.5,
-      "totalScore": 0.62,
+      "crossSource": 0.6309,
+      "totalScore": 0.7443,
       "sources": [
         {
           "channel": "thepaper",
-          "rank": 11,
+          "rank": 6,
           "hot": 0,
-          "url": "https://www.thepaper.cn/newsDetail_forward_34505131"
+          "url": "https://www.thepaper.cn/newsDetail_forward_34513875"
         }
       ],
       "summary": "",
-      "url": "https://www.thepaper.cn/newsDetail_forward_34505131"
+      "url": "https://www.thepaper.cn/newsDetail_forward_34513875"
+    },
+    {
+      "id": "evt-15000000",
+      "title": "马上评｜15元起步，扫共享单车不该是开盲盒",
+      "category": "society",
+      "hotScore": 0.51,
+      "freshness": 1,
+      "crossSource": 0.6309,
+      "totalScore": 0.6933,
+      "sources": [
+        {
+          "channel": "thepaper",
+          "rank": 9,
+          "hot": 0,
+          "url": "https://www.thepaper.cn/newsDetail_forward_34510107"
+        }
+      ],
+      "summary": "",
+      "url": "https://www.thepaper.cn/newsDetail_forward_34510107"
+    },
+    {
+      "id": "evt-ceo00000",
+      "title": "专访全球甲烷中心CEO、智利前环境部长马塞洛：期待中国甲烷减排经验惠及全球南方",
+      "category": "society",
+      "hotScore": 0.4675,
+      "freshness": 1,
+      "crossSource": 0.6309,
+      "totalScore": 0.6763,
+      "sources": [
+        {
+          "channel": "thepaper",
+          "rank": 10,
+          "hot": 0,
+          "url": "https://www.thepaper.cn/newsDetail_forward_34506159"
+        }
+      ],
+      "summary": "",
+      "url": "https://www.thepaper.cn/newsDetail_forward_34506159"
     }
   ]
 }
