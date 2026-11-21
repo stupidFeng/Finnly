@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-11-20T22:25:57.268Z",
+  "generatedAt": "2026-11-21T04:44:43.474Z",
   "fields": {
     "society": "社会",
     "economy": "经济",
@@ -8,7 +8,7 @@
   "feed": [
     {
       "id": "evt-00000000",
-      "title": "胖东来搬离后原址所开新商场几乎倒闭",
+      "title": "胖东来原址开的新商场几乎倒闭",
       "category": "society",
       "hotScore": 0.85,
       "freshness": 1,
@@ -18,7 +18,7 @@
         {
           "channel": "toutiao",
           "rank": 1,
-          "hot": 25774111,
+          "hot": 27992667,
           "url": "https://www.toutiao.com/trending/7709314788123525147/"
         }
       ],
@@ -26,36 +26,36 @@
       "url": "https://www.toutiao.com/trending/7709314788123525147/"
     },
     {
-      "id": "evt-ai000000",
-      "title": "“知网AI检出率暴涨”背后：存疑的算法、困惑的作者与AI辅助思考的边界",
+      "id": "evt-apec0000",
+      "title": "APEC参会来宾眼中的“奇迹之城”",
       "category": "society",
-      "hotScore": 0.85,
+      "hotScore": 0.765,
       "freshness": 1,
       "crossSource": 0.6309,
-      "totalScore": 0.8293,
+      "totalScore": 0.7953,
       "sources": [
         {
-          "channel": "thepaper",
-          "rank": 1,
-          "hot": 0,
-          "url": "https://www.thepaper.cn/newsDetail_forward_34513875"
+          "channel": "toutiao",
+          "rank": 3,
+          "hot": 22918457,
+          "url": "https://www.toutiao.com/trending/7709891766916857906/"
         }
       ],
       "summary": "",
-      "url": "https://www.thepaper.cn/newsDetail_forward_34513875"
+      "url": "https://www.toutiao.com/trending/7709891766916857906/"
     },
     {
-      "id": "evt-gestalt0",
-      "title": "神秘模型 Gestalt 横空出世，设计基准上大幅超越 Claude 、 GPT，这款模型到底是啥来历？",
+      "id": "evt-ai000000",
+      "title": "数学家称与 AI 合作证明了黎曼猜想，证明稿超 25 万页，黎曼猜想真的被解决了吗？",
       "category": "society",
-      "hotScore": 0.7125,
+      "hotScore": 0.75,
       "freshness": 1,
       "crossSource": 0.6309,
-      "totalScore": 0.7743,
+      "totalScore": 0.7893,
       "sources": [
         {
           "channel": "zhihu",
-          "rank": 2,
+          "rank": 1,
           "hot": 0,
           "url": ""
         }
@@ -64,55 +64,17 @@
       "url": ""
     },
     {
-      "id": "evt-u1705000",
-      "title": "U17世界杯：国足0比5惨败西班牙",
-      "category": "society",
-      "hotScore": 0.64,
-      "freshness": 1,
-      "crossSource": 0.6309,
-      "totalScore": 0.7453,
-      "sources": [
-        {
-          "channel": "baidu",
-          "rank": 5,
-          "hot": 0,
-          "url": "https://m.baidu.com/s?word=U17%E4%B8%96%E7%95%8C%E6%9D%AF%EF%BC%9A%E5%9B%BD%E8%B6%B30%E6%AF%945%E6%83%A8%E8%B4%A5%E8%A5%BF%E7%8F%AD%E7%89%99&sa=fyb_news"
-        }
-      ],
-      "summary": "",
-      "url": "https://m.baidu.com/s?word=U17%E4%B8%96%E7%95%8C%E6%9D%AF%EF%BC%9A%E5%9B%BD%E8%B6%B30%E6%AF%945%E6%83%A8%E8%B4%A5%E8%A5%BF%E7%8F%AD%E7%89%99&sa=fyb_news"
-    },
-    {
-      "id": "evt-a0000000",
-      "title": "多家券商研判A股后市",
-      "category": "society",
-      "hotScore": 0.6375,
-      "freshness": 1,
-      "crossSource": 0.6309,
-      "totalScore": 0.7443,
-      "sources": [
-        {
-          "channel": "toutiao",
-          "rank": 6,
-          "hot": 15632789,
-          "url": "https://www.toutiao.com/trending/7708962129541448242/"
-        }
-      ],
-      "summary": "",
-      "url": "https://www.toutiao.com/trending/7708962129541448242/"
-    },
-    {
       "id": "evt-l3000000",
       "title": "余承东：用L3开车能睡觉，别睡过去就行",
       "category": "society",
-      "hotScore": 0.6375,
+      "hotScore": 0.68,
       "freshness": 1,
       "crossSource": 0.6309,
-      "totalScore": 0.7443,
+      "totalScore": 0.7613,
       "sources": [
         {
           "channel": "thepaper",
-          "rank": 6,
+          "rank": 5,
           "hot": 0,
           "url": "https://www.thepaper.cn/newsDetail_forward_34521221"
         }
@@ -121,8 +83,46 @@
       "url": "https://www.thepaper.cn/newsDetail_forward_34521221"
     },
     {
-      "id": "evt-u1700000",
-      "title": "U17 世界杯小组赛，西班牙 U17  vs 中国 U17 男足，如何评价本场比赛？",
+      "id": "evt-60000000",
+      "title": "沪指终结日线6连阴，估值修复窗口何时开启？头部券商、基金密集发声",
+      "category": "economy",
+      "hotScore": 0.8075,
+      "freshness": 1,
+      "crossSource": 0.6309,
+      "totalScore": 0.8123,
+      "sources": [
+        {
+          "channel": "thepaper",
+          "rank": 2,
+          "hot": 0,
+          "url": "https://www.thepaper.cn/newsDetail_forward_34521359"
+        }
+      ],
+      "summary": "",
+      "url": "https://www.thepaper.cn/newsDetail_forward_34521359"
+    },
+    {
+      "id": "evt-11200000",
+      "title": "11 月 20 日美股三大指数集体重挫，AI 交易遭猛烈拋售，Anthropic 上市次日跌 8.5%，怎样解读？",
+      "category": "economy",
+      "hotScore": 0.4875,
+      "freshness": 1,
+      "crossSource": 0.6309,
+      "totalScore": 0.6843,
+      "sources": [
+        {
+          "channel": "zhihu",
+          "rank": 8,
+          "hot": 0,
+          "url": ""
+        }
+      ],
+      "summary": "",
+      "url": ""
+    },
+    {
+      "id": "evt-34000000",
+      "title": "信用卡近一年减少 3400 万张，信用卡为何逐渐失去吸引力？背后反映出消费者支付习惯发生了哪些变化？",
       "category": "society",
       "hotScore": 0.6,
       "freshness": 1,
@@ -140,42 +140,23 @@
       "url": ""
     },
     {
-      "id": "evt-10000000",
-      "title": "特朗普称如果满分 10 分，可以为中俄美元首会晤打 12 分，此次会晤对他有多重要？美方有哪些收获？",
+      "id": "evt-93970000",
+      "title": "马上评｜“93年奶奶97年大爷”的闹剧为何一再重演？",
       "category": "society",
-      "hotScore": 0.5625,
+      "hotScore": 0.595,
       "freshness": 1,
       "crossSource": 0.6309,
-      "totalScore": 0.7143,
+      "totalScore": 0.7273,
       "sources": [
         {
-          "channel": "zhihu",
-          "rank": 6,
+          "channel": "thepaper",
+          "rank": 7,
           "hot": 0,
-          "url": ""
+          "url": "https://www.thepaper.cn/newsDetail_forward_34518691"
         }
       ],
       "summary": "",
-      "url": ""
-    },
-    {
-      "id": "evt-18400000",
-      "title": "18岁女孩打减肥针暴瘦40斤被送急诊",
-      "category": "society",
-      "hotScore": 0.52,
-      "freshness": 1,
-      "crossSource": 0.6309,
-      "totalScore": 0.6973,
-      "sources": [
-        {
-          "channel": "baidu",
-          "rank": 8,
-          "hot": 0,
-          "url": "https://m.baidu.com/s?word=18%E5%B2%81%E5%A5%B3%E5%AD%A9%E6%89%93%E5%87%8F%E8%82%A5%E9%92%88%E6%9A%B4%E7%98%A640%E6%96%A4%E8%A2%AB%E9%80%81%E6%80%A5%E8%AF%8A&sa=fyb_news"
-        }
-      ],
-      "summary": "",
-      "url": "https://m.baidu.com/s?word=18%E5%B2%81%E5%A5%B3%E5%AD%A9%E6%89%93%E5%87%8F%E8%82%A5%E9%92%88%E6%9A%B4%E7%98%A640%E6%96%A4%E8%A2%AB%E9%80%81%E6%80%A5%E8%AF%8A&sa=fyb_news"
+      "url": "https://www.thepaper.cn/newsDetail_forward_34518691"
     },
     {
       "id": "evt-ap000000",
@@ -189,7 +170,7 @@
         {
           "channel": "toutiao",
           "rank": 9,
-          "hot": 11581054,
+          "hot": 12577916,
           "url": "https://www.toutiao.com/trending/7709589988203790390/"
         }
       ],
@@ -197,8 +178,27 @@
       "url": "https://www.toutiao.com/trending/7709589988203790390/"
     },
     {
-      "id": "evt-gta6pc00",
-      "title": "如果 GTA6 明年上 PC，什么配置可以发挥最完全体的画面效果？",
+      "id": "evt-51000000",
+      "title": "哈登爆砍51分 骑士战胜步行者",
+      "category": "society",
+      "hotScore": 0.4675,
+      "freshness": 1,
+      "crossSource": 0.6309,
+      "totalScore": 0.6763,
+      "sources": [
+        {
+          "channel": "toutiao",
+          "rank": 10,
+          "hot": 11380969,
+          "url": "https://www.toutiao.com/trending/7710457697946045993/"
+        }
+      ],
+      "summary": "",
+      "url": "https://www.toutiao.com/trending/7710457697946045993/"
+    },
+    {
+      "id": "evt-blg00000",
+      "title": "BLG 夺冠，能唤回多少国内玩家的热情重回《英雄联盟》？",
       "category": "society",
       "hotScore": 0.45,
       "freshness": 1,
