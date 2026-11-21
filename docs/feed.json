@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-11-21T04:44:43.474Z",
+  "generatedAt": "2026-11-21T13:52:42.392Z",
   "fields": {
     "society": "社会",
     "economy": "经济",
@@ -8,26 +8,76 @@
   "feed": [
     {
       "id": "evt-00000000",
-      "title": "胖东来原址开的新商场几乎倒闭",
+      "title": "2名日本人在上海发生冲突 1人死亡",
       "category": "society",
       "hotScore": 0.85,
       "freshness": 1,
-      "crossSource": 0.6309,
-      "totalScore": 0.8293,
+      "crossSource": 1,
+      "totalScore": 0.94,
       "sources": [
         {
           "channel": "toutiao",
           "rank": 1,
-          "hot": 27992667,
-          "url": "https://www.toutiao.com/trending/7709314788123525147/"
+          "hot": 5541825,
+          "url": "https://www.toutiao.com/trending/7710601674980593171/"
+        },
+        {
+          "channel": "baidu",
+          "rank": 2,
+          "hot": 0,
+          "url": "https://m.baidu.com/s?word=2%E5%90%8D%E6%97%A5%E6%9C%AC%E4%BA%BA%E5%9C%A8%E4%B8%8A%E6%B5%B7%E5%8F%91%E7%94%9F%E5%86%B2%E7%AA%81+1%E4%BA%BA%E6%AD%BB%E4%BA%A1&sa=fyb_news"
         }
       ],
       "summary": "",
-      "url": "https://www.toutiao.com/trending/7709314788123525147/"
+      "url": "https://www.toutiao.com/trending/7710601674980593171/"
+    },
+    {
+      "id": "evt-pcb00000",
+      "title": "全球PCB供应告急",
+      "category": "society",
+      "hotScore": 0.7225,
+      "freshness": 1,
+      "crossSource": 1,
+      "totalScore": 0.889,
+      "sources": [
+        {
+          "channel": "toutiao",
+          "rank": 4,
+          "hot": 4105485,
+          "url": "https://www.toutiao.com/trending/7710585607931563539/"
+        },
+        {
+          "channel": "baidu",
+          "rank": 18,
+          "hot": 0,
+          "url": "https://m.baidu.com/s?word=%E5%85%A8%E7%90%83PCB%E4%BE%9B%E5%BA%94%E5%91%8A%E6%80%A5&sa=fyb_news"
+        }
+      ],
+      "summary": "",
+      "url": "https://www.toutiao.com/trending/7710585607931563539/"
+    },
+    {
+      "id": "evt-40400000",
+      "title": "还40年房贷和租40年房怎么选",
+      "category": "society",
+      "hotScore": 0.8075,
+      "freshness": 1,
+      "crossSource": 0.6309,
+      "totalScore": 0.8123,
+      "sources": [
+        {
+          "channel": "toutiao",
+          "rank": 2,
+          "hot": 5014451,
+          "url": "https://www.toutiao.com/trending/7710596002696138281/"
+        }
+      ],
+      "summary": "",
+      "url": "https://www.toutiao.com/trending/7710596002696138281/"
     },
     {
       "id": "evt-apec0000",
-      "title": "APEC参会来宾眼中的“奇迹之城”",
+      "title": "APEC“中国年”取得哪些成果",
       "category": "society",
       "hotScore": 0.765,
       "freshness": 1,
@@ -37,19 +87,19 @@
         {
           "channel": "toutiao",
           "rank": 3,
-          "hot": 22918457,
-          "url": "https://www.toutiao.com/trending/7709891766916857906/"
+          "hot": 4537263,
+          "url": "https://www.toutiao.com/trending/7710560818030448170/"
         }
       ],
       "summary": "",
-      "url": "https://www.toutiao.com/trending/7709891766916857906/"
+      "url": "https://www.toutiao.com/trending/7710560818030448170/"
     },
     {
-      "id": "evt-ai000000",
-      "title": "数学家称与 AI 合作证明了黎曼猜想，证明稿超 25 万页，黎曼猜想真的被解决了吗？",
+      "id": "evt-25000000",
+      "title": "黎曼猜想数学证明长达 25 万页是什么概念？人类还有可能完整读懂吗？",
       "category": "society",
       "hotScore": 0.75,
-      "freshness": 1,
+      "freshness": 0.9999,
       "crossSource": 0.6309,
       "totalScore": 0.7893,
       "sources": [
@@ -64,11 +114,49 @@
       "url": ""
     },
     {
-      "id": "evt-l3000000",
-      "title": "余承东：用L3开车能睡觉，别睡过去就行",
+      "id": "evt-40000000",
+      "title": "中国摄影著作权协会撤销447个首席代表处：不得再以协会名义开展活动",
+      "category": "society",
+      "hotScore": 0.7225,
+      "freshness": 0.9999,
+      "crossSource": 0.6309,
+      "totalScore": 0.7783,
+      "sources": [
+        {
+          "channel": "thepaper",
+          "rank": 4,
+          "hot": 0,
+          "url": "https://www.thepaper.cn/newsDetail_forward_34522680"
+        }
+      ],
+      "summary": "",
+      "url": "https://www.thepaper.cn/newsDetail_forward_34522680"
+    },
+    {
+      "id": "evt-14100000",
+      "title": "长安大学通报14日面试13日出结果",
+      "category": "society",
+      "hotScore": 0.72,
+      "freshness": 1,
+      "crossSource": 0.6309,
+      "totalScore": 0.7773,
+      "sources": [
+        {
+          "channel": "baidu",
+          "rank": 3,
+          "hot": 0,
+          "url": "https://m.baidu.com/s?word=%E9%95%BF%E5%AE%89%E5%A4%A7%E5%AD%A6%E9%80%9A%E6%8A%A514%E6%97%A5%E9%9D%A2%E8%AF%9513%E6%97%A5%E5%87%BA%E7%BB%93%E6%9E%9C&sa=fyb_news"
+        }
+      ],
+      "summary": "",
+      "url": "https://m.baidu.com/s?word=%E9%95%BF%E5%AE%89%E5%A4%A7%E5%AD%A6%E9%80%9A%E6%8A%A514%E6%97%A5%E9%9D%A2%E8%AF%9513%E6%97%A5%E5%87%BA%E7%BB%93%E6%9E%9C&sa=fyb_news"
+    },
+    {
+      "id": "evt-ai000000",
+      "title": "“AI检出率”致作者陷自证困局：论文改到“学生作文水平”才达标，却没了学术性",
       "category": "society",
       "hotScore": 0.68,
-      "freshness": 1,
+      "freshness": 0.9999,
       "crossSource": 0.6309,
       "totalScore": 0.7613,
       "sources": [
@@ -76,43 +164,24 @@
           "channel": "thepaper",
           "rank": 5,
           "hot": 0,
-          "url": "https://www.thepaper.cn/newsDetail_forward_34521221"
+          "url": "https://www.thepaper.cn/newsDetail_forward_34521136"
         }
       ],
       "summary": "",
-      "url": "https://www.thepaper.cn/newsDetail_forward_34521221"
+      "url": "https://www.thepaper.cn/newsDetail_forward_34521136"
     },
     {
-      "id": "evt-60000000",
-      "title": "沪指终结日线6连阴，估值修复窗口何时开启？头部券商、基金密集发声",
-      "category": "economy",
-      "hotScore": 0.8075,
-      "freshness": 1,
+      "id": "evt-11210000",
+      "title": "如何看待 11 月 21 日三维 ns 方程有限时间爆破的形式化证明疑似已经完成？",
+      "category": "society",
+      "hotScore": 0.675,
+      "freshness": 0.9999,
       "crossSource": 0.6309,
-      "totalScore": 0.8123,
-      "sources": [
-        {
-          "channel": "thepaper",
-          "rank": 2,
-          "hot": 0,
-          "url": "https://www.thepaper.cn/newsDetail_forward_34521359"
-        }
-      ],
-      "summary": "",
-      "url": "https://www.thepaper.cn/newsDetail_forward_34521359"
-    },
-    {
-      "id": "evt-11200000",
-      "title": "11 月 20 日美股三大指数集体重挫，AI 交易遭猛烈拋售，Anthropic 上市次日跌 8.5%，怎样解读？",
-      "category": "economy",
-      "hotScore": 0.4875,
-      "freshness": 1,
-      "crossSource": 0.6309,
-      "totalScore": 0.6843,
+      "totalScore": 0.7593,
       "sources": [
         {
           "channel": "zhihu",
-          "rank": 8,
+          "rank": 3,
           "hot": 0,
           "url": ""
         }
@@ -121,8 +190,8 @@
       "url": ""
     },
     {
-      "id": "evt-34000000",
-      "title": "信用卡近一年减少 3400 万张，信用卡为何逐渐失去吸引力？背后反映出消费者支付习惯发生了哪些变化？",
+      "id": "evt-21200000",
+      "title": "花2万存脐带血12年后发现公司已注销",
       "category": "society",
       "hotScore": 0.6,
       "freshness": 1,
@@ -130,8 +199,27 @@
       "totalScore": 0.7293,
       "sources": [
         {
+          "channel": "baidu",
+          "rank": 6,
+          "hot": 0,
+          "url": "https://m.baidu.com/s?word=%E8%8A%B12%E4%B8%87%E5%AD%98%E8%84%90%E5%B8%A6%E8%A1%8012%E5%B9%B4%E5%90%8E%E5%8F%91%E7%8E%B0%E5%85%AC%E5%8F%B8%E5%B7%B2%E6%B3%A8%E9%94%80&sa=fyb_news"
+        }
+      ],
+      "summary": "",
+      "url": "https://m.baidu.com/s?word=%E8%8A%B12%E4%B8%87%E5%AD%98%E8%84%90%E5%B8%A6%E8%A1%8012%E5%B9%B4%E5%90%8E%E5%8F%91%E7%8E%B0%E5%85%AC%E5%8F%B8%E5%B7%B2%E6%B3%A8%E9%94%80&sa=fyb_news"
+    },
+    {
+      "id": "evt-20000000",
+      "title": "20 多天婴儿被喂白开水中毒肾损伤，新生儿为何不能像成年人一样正常喝白开水？该如何科学喂养？",
+      "category": "society",
+      "hotScore": 0.525,
+      "freshness": 0.9999,
+      "crossSource": 0.6309,
+      "totalScore": 0.6993,
+      "sources": [
+        {
           "channel": "zhihu",
-          "rank": 5,
+          "rank": 7,
           "hot": 0,
           "url": ""
         }
@@ -140,68 +228,30 @@
       "url": ""
     },
     {
-      "id": "evt-93970000",
-      "title": "马上评｜“93年奶奶97年大爷”的闹剧为何一再重演？",
+      "id": "evt-50000000",
+      "title": "曝中方女保镖徐瑾曾战胜5名日本冠军",
       "category": "society",
-      "hotScore": 0.595,
+      "hotScore": 0.48,
       "freshness": 1,
       "crossSource": 0.6309,
-      "totalScore": 0.7273,
+      "totalScore": 0.6813,
       "sources": [
         {
-          "channel": "thepaper",
-          "rank": 7,
-          "hot": 0,
-          "url": "https://www.thepaper.cn/newsDetail_forward_34518691"
-        }
-      ],
-      "summary": "",
-      "url": "https://www.thepaper.cn/newsDetail_forward_34518691"
-    },
-    {
-      "id": "evt-ap000000",
-      "title": "深圳华丽转型生动诠释APEC理念",
-      "category": "society",
-      "hotScore": 0.51,
-      "freshness": 1,
-      "crossSource": 0.6309,
-      "totalScore": 0.6933,
-      "sources": [
-        {
-          "channel": "toutiao",
+          "channel": "baidu",
           "rank": 9,
-          "hot": 12577916,
-          "url": "https://www.toutiao.com/trending/7709589988203790390/"
+          "hot": 0,
+          "url": "https://m.baidu.com/s?word=%E6%9B%9D%E4%B8%AD%E6%96%B9%E5%A5%B3%E4%BF%9D%E9%95%96%E5%BE%90%E7%91%BE%E6%9B%BE%E6%88%98%E8%83%9C5%E5%90%8D%E6%97%A5%E6%9C%AC%E5%86%A0%E5%86%9B&sa=fyb_news"
         }
       ],
       "summary": "",
-      "url": "https://www.toutiao.com/trending/7709589988203790390/"
+      "url": "https://m.baidu.com/s?word=%E6%9B%9D%E4%B8%AD%E6%96%B9%E5%A5%B3%E4%BF%9D%E9%95%96%E5%BE%90%E7%91%BE%E6%9B%BE%E6%88%98%E8%83%9C5%E5%90%8D%E6%97%A5%E6%9C%AC%E5%86%A0%E5%86%9B&sa=fyb_news"
     },
     {
-      "id": "evt-51000000",
-      "title": "哈登爆砍51分 骑士战胜步行者",
-      "category": "society",
-      "hotScore": 0.4675,
-      "freshness": 1,
-      "crossSource": 0.6309,
-      "totalScore": 0.6763,
-      "sources": [
-        {
-          "channel": "toutiao",
-          "rank": 10,
-          "hot": 11380969,
-          "url": "https://www.toutiao.com/trending/7710457697946045993/"
-        }
-      ],
-      "summary": "",
-      "url": "https://www.toutiao.com/trending/7710457697946045993/"
-    },
-    {
-      "id": "evt-blg00000",
-      "title": "BLG 夺冠，能唤回多少国内玩家的热情重回《英雄联盟》？",
+      "id": "evt-a1000000",
+      "title": "网友称零跑 A10 装啤酒致后备厢储物盒脱落，客服称未接到反馈，具体是怎么回事？储物盒能如何规避承重隐患？",
       "category": "society",
       "hotScore": 0.45,
-      "freshness": 1,
+      "freshness": 0.9999,
       "crossSource": 0.6309,
       "totalScore": 0.6693,
       "sources": [
@@ -214,6 +264,25 @@
       ],
       "summary": "",
       "url": ""
+    },
+    {
+      "id": "evt-88000000",
+      "title": "饭店88元红烧“小鸡”竟是候鸟，官方通报：相关涉案人员、餐饮店被查处",
+      "category": "society",
+      "hotScore": 0.425,
+      "freshness": 0.9999,
+      "crossSource": 0.6309,
+      "totalScore": 0.6593,
+      "sources": [
+        {
+          "channel": "thepaper",
+          "rank": 11,
+          "hot": 0,
+          "url": "https://www.thepaper.cn/newsDetail_forward_34522444"
+        }
+      ],
+      "summary": "",
+      "url": "https://www.thepaper.cn/newsDetail_forward_34522444"
     }
   ]
 }
