@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-11-22T09:01:04.477Z",
+  "generatedAt": "2026-11-22T17:28:49.210Z",
   "fields": {
     "society": "社会",
     "economy": "经济",
@@ -7,103 +7,33 @@
   },
   "feed": [
     {
-      "id": "evt-30000000",
-      "title": "特朗普连发30多张照片回味APEC",
-      "category": "society",
-      "hotScore": 0.85,
-      "freshness": 1,
-      "crossSource": 0.6309,
-      "totalScore": 0.8293,
-      "sources": [
-        {
-          "channel": "toutiao",
-          "rank": 1,
-          "hot": 2191405,
-          "url": "https://www.toutiao.com/trending/7710201794621849641/"
-        }
-      ],
-      "summary": "",
-      "url": "https://www.toutiao.com/trending/7710201794621849641/"
-    },
-    {
       "id": "evt-00000000",
-      "title": "国内多家品牌宣布：下调金饰克价",
+      "title": "亚洲市场集体打响保卫战",
       "category": "society",
       "hotScore": 0.85,
-      "freshness": 1,
-      "crossSource": 0.6309,
-      "totalScore": 0.8293,
-      "sources": [
-        {
-          "channel": "thepaper",
-          "rank": 1,
-          "hot": 0,
-          "url": "https://www.thepaper.cn/newsDetail_forward_34529710"
-        }
-      ],
-      "summary": "",
-      "url": "https://www.thepaper.cn/newsDetail_forward_34529710"
-    },
-    {
-      "id": "evt-50000000",
-      "title": "50岁女车迷穿马面裙支持张雪机车",
-      "category": "society",
-      "hotScore": 0.8075,
-      "freshness": 1,
-      "crossSource": 0.6309,
-      "totalScore": 0.8123,
+      "freshness": 0.9999,
+      "crossSource": 1,
+      "totalScore": 0.94,
       "sources": [
         {
           "channel": "toutiao",
-          "rank": 2,
-          "hot": 1982865,
-          "url": "https://www.toutiao.com/trending/7709856236228854282/"
-        }
-      ],
-      "summary": "",
-      "url": "https://www.toutiao.com/trending/7709856236228854282/"
-    },
-    {
-      "id": "evt-14100000",
-      "title": "长安大学回应14日面试13日出结果：学校人事处处长等人被问责",
-      "category": "society",
-      "hotScore": 0.8075,
-      "freshness": 1,
-      "crossSource": 0.6309,
-      "totalScore": 0.8123,
-      "sources": [
-        {
-          "channel": "thepaper",
-          "rank": 2,
-          "hot": 0,
-          "url": "https://www.thepaper.cn/newsDetail_forward_34530115"
-        }
-      ],
-      "summary": "",
-      "url": "https://www.thepaper.cn/newsDetail_forward_34530115"
-    },
-    {
-      "id": "evt-10000000",
-      "title": "10月份工业经济总体平稳",
-      "category": "economy",
-      "hotScore": 0.68,
-      "freshness": 1,
-      "crossSource": 0.6309,
-      "totalScore": 0.7613,
-      "sources": [
+          "rank": 1,
+          "hot": 6545585,
+          "url": "https://www.toutiao.com/trending/7710959041299661339/"
+        },
         {
           "channel": "baidu",
-          "rank": 4,
+          "rank": 2,
           "hot": 0,
-          "url": "https://m.baidu.com/s?word=10%E6%9C%88%E4%BB%BD%E5%B7%A5%E4%B8%9A%E7%BB%8F%E6%B5%8E%E6%80%BB%E4%BD%93%E5%B9%B3%E7%A8%B3&sa=fyb_news"
+          "url": "https://m.baidu.com/s?word=%E4%BA%9A%E6%B4%B2%E5%B8%82%E5%9C%BA%E9%9B%86%E4%BD%93%E6%89%93%E5%93%8D%E4%BF%9D%E5%8D%AB%E6%88%98&sa=fyb_news"
         }
       ],
       "summary": "",
-      "url": "https://m.baidu.com/s?word=10%E6%9C%88%E4%BB%BD%E5%B7%A5%E4%B8%9A%E7%BB%8F%E6%B5%8E%E6%80%BB%E4%BD%93%E5%B9%B3%E7%A8%B3&sa=fyb_news"
+      "url": "https://www.toutiao.com/trending/7710959041299661339/"
     },
     {
       "id": "evt-apec0000",
-      "title": "习主席的深圳APEC时间",
+      "title": "三个时间坐标 读懂APEC“中国年”",
       "category": "society",
       "hotScore": 0.8,
       "freshness": 1,
@@ -114,24 +44,81 @@
           "channel": "baidu",
           "rank": 1,
           "hot": 0,
-          "url": "https://m.baidu.com/s?word=%E4%B9%A0%E4%B8%BB%E5%B8%AD%E7%9A%84%E6%B7%B1%E5%9C%B3APEC%E6%97%B6%E9%97%B4&sa=fyb_news"
+          "url": "https://m.baidu.com/s?word=%E4%B8%89%E4%B8%AA%E6%97%B6%E9%97%B4%E5%9D%90%E6%A0%87+%E8%AF%BB%E6%87%82APEC%E2%80%9C%E4%B8%AD%E5%9B%BD%E5%B9%B4%E2%80%9D&sa=fyb_news"
         }
       ],
       "summary": "",
-      "url": "https://m.baidu.com/s?word=%E4%B9%A0%E4%B8%BB%E5%B8%AD%E7%9A%84%E6%B7%B1%E5%9C%B3APEC%E6%97%B6%E9%97%B4&sa=fyb_news"
+      "url": "https://m.baidu.com/s?word=%E4%B8%89%E4%B8%AA%E6%97%B6%E9%97%B4%E5%9D%90%E6%A0%87+%E8%AF%BB%E6%87%82APEC%E2%80%9C%E4%B8%AD%E5%9B%BD%E5%B9%B4%E2%80%9D&sa=fyb_news"
     },
     {
-      "id": "evt-leanmathlib",
-      "title": "Lean 与 Mathlib 社区联合声明，正式确认 Alpöge 对黎曼猜想的证明正确，这意味着什么？",
+      "id": "evt-60000000",
+      "title": "600块吃好喝好玩好 年轻人羡慕疯了",
       "category": "society",
-      "hotScore": 0.75,
+      "hotScore": 0.72,
       "freshness": 1,
       "crossSource": 0.6309,
-      "totalScore": 0.7893,
+      "totalScore": 0.7773,
+      "sources": [
+        {
+          "channel": "baidu",
+          "rank": 3,
+          "hot": 0,
+          "url": "https://m.baidu.com/s?word=600%E5%9D%97%E5%90%83%E5%A5%BD%E5%96%9D%E5%A5%BD%E7%8E%A9%E5%A5%BD+%E5%B9%B4%E8%BD%BB%E4%BA%BA%E7%BE%A1%E6%85%95%E7%96%AF%E4%BA%86&sa=fyb_news"
+        }
+      ],
+      "summary": "",
+      "url": "https://m.baidu.com/s?word=600%E5%9D%97%E5%90%83%E5%A5%BD%E5%96%9D%E5%A5%BD%E7%8E%A9%E5%A5%BD+%E5%B9%B4%E8%BD%BB%E4%BA%BA%E7%BE%A1%E6%85%95%E7%96%AF%E4%BA%86&sa=fyb_news"
+    },
+    {
+      "id": "evt-a0000000",
+      "title": "A股利好来了 三箭齐发",
+      "category": "society",
+      "hotScore": 0.64,
+      "freshness": 1,
+      "crossSource": 0.6309,
+      "totalScore": 0.7453,
+      "sources": [
+        {
+          "channel": "baidu",
+          "rank": 5,
+          "hot": 0,
+          "url": "https://m.baidu.com/s?word=A%E8%82%A1%E5%88%A9%E5%A5%BD%E6%9D%A5%E4%BA%86+%E4%B8%89%E7%AE%AD%E9%BD%90%E5%8F%91&sa=fyb_news"
+        }
+      ],
+      "summary": "",
+      "url": "https://m.baidu.com/s?word=A%E8%82%A1%E5%88%A9%E5%A5%BD%E6%9D%A5%E4%BA%86+%E4%B8%89%E7%AE%AD%E9%BD%90%E5%8F%91&sa=fyb_news"
+    },
+    {
+      "id": "evt-24000000",
+      "title": "去世到安葬不超24小时？山东一地回应",
+      "category": "society",
+      "hotScore": 0.6375,
+      "freshness": 0.9999,
+      "crossSource": 0.6309,
+      "totalScore": 0.7443,
+      "sources": [
+        {
+          "channel": "toutiao",
+          "rank": 6,
+          "hot": 3970098,
+          "url": "https://www.toutiao.com/trending/7710967769189060106/"
+        }
+      ],
+      "summary": "",
+      "url": "https://www.toutiao.com/trending/7710967769189060106/"
+    },
+    {
+      "id": "evt-vig00000",
+      "title": "如何评价《侠盗猎车手 VI》（GTA 6）的结局？",
+      "category": "society",
+      "hotScore": 0.6375,
+      "freshness": 1,
+      "crossSource": 0.6309,
+      "totalScore": 0.7443,
       "sources": [
         {
           "channel": "zhihu",
-          "rank": 1,
+          "rank": 4,
           "hot": 0,
           "url": ""
         }
@@ -140,27 +127,8 @@
       "url": ""
     },
     {
-      "id": "evt-ti700000",
-      "title": "荷兰法院裁定比亚迪 Ti7 抄袭路虎卫士，颁布销售禁令，对此怎么看？",
-      "category": "society",
-      "hotScore": 0.7125,
-      "freshness": 1,
-      "crossSource": 0.6309,
-      "totalScore": 0.7743,
-      "sources": [
-        {
-          "channel": "zhihu",
-          "rank": 2,
-          "hot": 0,
-          "url": ""
-        }
-      ],
-      "summary": "",
-      "url": ""
-    },
-    {
-      "id": "evt-o1pr0000",
-      "title": "如何评价华为星芒 O1 Pro 定价 5499 元起引争议，总经理刘赫回应称「我们选择创新优先」？",
+      "id": "evt-14100000",
+      "title": "长安大学回应「14 日面试 13 日出结果」，公告误带后台草稿的创建日期，三名人事干部被处分，如何看待此事？",
       "category": "society",
       "hotScore": 0.6,
       "freshness": 1,
@@ -178,27 +146,8 @@
       "url": ""
     },
     {
-      "id": "evt-60000000",
-      "title": "于东来：保洁员都能拿6000元",
-      "category": "society",
-      "hotScore": 0.595,
-      "freshness": 1,
-      "crossSource": 0.6309,
-      "totalScore": 0.7273,
-      "sources": [
-        {
-          "channel": "toutiao",
-          "rank": 7,
-          "hot": 1202668,
-          "url": "https://www.toutiao.com/trending/7710866939170177545/"
-        }
-      ],
-      "summary": "",
-      "url": "https://www.toutiao.com/trending/7710866939170177545/"
-    },
-    {
-      "id": "evt-2026f100",
-      "title": "2026 赛季 F1 拉斯维加斯大奖赛，维斯塔潘夺冠，迈凯伦 2-3，法拉利车手再度内斗，如何评价本场比赛？",
+      "id": "evt-ai000000",
+      "title": "AI 宣称证明黎曼猜想后，数学家又公开了一份完全不使用 AI 的广义黎曼猜想证明，如何看待？",
       "category": "society",
       "hotScore": 0.5625,
       "freshness": 1,
@@ -216,42 +165,61 @@
       "url": ""
     },
     {
-      "id": "evt-20000000",
-      "title": "超200家公司被禁止或暂停参加军采",
+      "id": "evt-30000000",
+      "title": "特朗普连发30多张照片回味APEC",
       "category": "society",
-      "hotScore": 0.4675,
-      "freshness": 1,
+      "hotScore": 0.5525,
+      "freshness": 0.9999,
       "crossSource": 0.6309,
-      "totalScore": 0.6763,
+      "totalScore": 0.7103,
       "sources": [
         {
           "channel": "toutiao",
-          "rank": 10,
-          "hot": 890959,
-          "url": "https://www.toutiao.com/trending/7710507561270902810/"
+          "rank": 8,
+          "hot": 3250441,
+          "url": "https://www.toutiao.com/trending/7710201794621849641/"
         }
       ],
       "summary": "",
-      "url": "https://www.toutiao.com/trending/7710507561270902810/"
+      "url": "https://www.toutiao.com/trending/7710201794621849641/"
     },
     {
-      "id": "evt-blglpl00",
-      "title": "BLG 夺冠能挽救 LPL 吗？能复刻前两个「电竞元年」吗？",
+      "id": "evt-pnp00000",
+      "title": "P/NP 问题如果被解决，会对计算机科学带来哪些革命性影响？",
       "category": "society",
-      "hotScore": 0.45,
+      "hotScore": 0.525,
       "freshness": 1,
       "crossSource": 0.6309,
-      "totalScore": 0.6693,
+      "totalScore": 0.6993,
       "sources": [
         {
           "channel": "zhihu",
-          "rank": 9,
+          "rank": 7,
           "hot": 0,
           "url": ""
         }
       ],
       "summary": "",
       "url": ""
+    },
+    {
+      "id": "evt-27710000",
+      "title": "小区277户只有约100家一直交物业费",
+      "category": "society",
+      "hotScore": 0.4675,
+      "freshness": 0.9999,
+      "crossSource": 0.6309,
+      "totalScore": 0.6763,
+      "sources": [
+        {
+          "channel": "toutiao",
+          "rank": 10,
+          "hot": 2661236,
+          "url": "https://www.toutiao.com/trending/7710911150951006771/"
+        }
+      ],
+      "summary": "",
+      "url": "https://www.toutiao.com/trending/7710911150951006771/"
     }
   ]
 }
