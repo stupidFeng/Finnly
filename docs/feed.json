@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-11-21T20:17:34.324Z",
+  "generatedAt": "2026-11-22T01:46:35.106Z",
   "fields": {
     "society": "社会",
     "economy": "经济",
@@ -7,112 +7,42 @@
   },
   "feed": [
     {
-      "id": "evt-ai000000",
-      "title": "美国人为什么开始反对AI了",
-      "category": "society",
-      "hotScore": 0.85,
-      "freshness": 0.9999,
-      "crossSource": 1,
-      "totalScore": 0.94,
-      "sources": [
-        {
-          "channel": "toutiao",
-          "rank": 1,
-          "hot": 1141102,
-          "url": "https://www.toutiao.com/trending/7710632433913171494/"
-        }
-      ],
-      "summary": "",
-      "url": "https://www.toutiao.com/trending/7710632433913171494/"
-    },
-    {
       "id": "evt-00000000",
-      "title": "倒计时两天！《奔流》第三季从哈德逊河回到苏州河畔",
+      "title": "特朗普回应深圳乘车时不拉窗帘",
       "category": "society",
-      "hotScore": 0.85,
-      "freshness": 1,
-      "crossSource": 1,
-      "totalScore": 0.94,
-      "sources": [
-        {
-          "channel": "thepaper",
-          "rank": 1,
-          "hot": 0,
-          "url": "https://www.thepaper.cn/newsDetail_forward_34510418"
-        }
-      ],
-      "summary": "",
-      "url": "https://www.thepaper.cn/newsDetail_forward_34510418"
-    },
-    {
-      "id": "evt-apec0000",
-      "title": "APEC“中国年”取得哪些成果",
-      "category": "society",
-      "hotScore": 0.765,
+      "hotScore": 0.8075,
       "freshness": 0.9999,
       "crossSource": 1,
-      "totalScore": 0.906,
+      "totalScore": 0.923,
       "sources": [
         {
           "channel": "toutiao",
-          "rank": 3,
-          "hot": 934255,
-          "url": "https://www.toutiao.com/trending/7710560818030448170/"
-        }
-      ],
-      "summary": "",
-      "url": "https://www.toutiao.com/trending/7710560818030448170/"
-    },
-    {
-      "id": "evt-11210000",
-      "title": "如何看待 11 月 21 日三维 ns 方程有限时间爆破的形式化证明疑似已经完成？",
-      "category": "society",
-      "hotScore": 0.75,
-      "freshness": 1,
-      "crossSource": 1,
-      "totalScore": 0.9,
-      "sources": [
+          "rank": 2,
+          "hot": 946383,
+          "url": "https://www.toutiao.com/trending/7710089748098076223/"
+        },
         {
-          "channel": "zhihu",
-          "rank": 1,
+          "channel": "baidu",
+          "rank": 5,
           "hot": 0,
-          "url": ""
+          "url": "https://m.baidu.com/s?word=%E7%89%B9%E6%9C%97%E6%99%AE%E5%9B%9E%E5%BA%94%E6%B7%B1%E5%9C%B3%E4%B9%98%E8%BD%A6%E6%97%B6%E4%B8%8D%E6%8B%89%E7%AA%97%E5%B8%98&sa=fyb_news"
         }
       ],
       "summary": "",
-      "url": ""
-    },
-    {
-      "id": "evt-40400000",
-      "title": "还40年房贷和租40年房怎么选",
-      "category": "society",
-      "hotScore": 0.7225,
-      "freshness": 0.9999,
-      "crossSource": 1,
-      "totalScore": 0.889,
-      "sources": [
-        {
-          "channel": "toutiao",
-          "rank": 4,
-          "hot": 845349,
-          "url": "https://www.toutiao.com/trending/7710596002696138281/"
-        }
-      ],
-      "summary": "",
-      "url": "https://www.toutiao.com/trending/7710596002696138281/"
+      "url": "https://www.toutiao.com/trending/7710089748098076223/"
     },
     {
       "id": "evt-14100000",
       "title": "长安大学回应14日面试13日出结果：学校人事处处长等人被问责",
       "category": "society",
-      "hotScore": 0.7225,
-      "freshness": 1,
-      "crossSource": 1,
-      "totalScore": 0.889,
+      "hotScore": 0.765,
+      "freshness": 0.9999,
+      "crossSource": 0.6309,
+      "totalScore": 0.7953,
       "sources": [
         {
           "channel": "thepaper",
-          "rank": 4,
+          "rank": 3,
           "hot": 0,
           "url": "https://www.thepaper.cn/newsDetail_forward_34530115"
         }
@@ -121,55 +51,36 @@
       "url": "https://www.thepaper.cn/newsDetail_forward_34530115"
     },
     {
-      "id": "evt-20000000",
-      "title": "20 多天婴儿被喂白开水中毒肾损伤，新生儿为何不能像成年人一样正常喝白开水？该如何科学喂养？",
+      "id": "evt-apec0000",
+      "title": "APEC“中国年”取得哪些成果",
       "category": "society",
-      "hotScore": 0.7125,
-      "freshness": 1,
-      "crossSource": 1,
-      "totalScore": 0.885,
+      "hotScore": 0.765,
+      "freshness": 0.9999,
+      "crossSource": 0.6309,
+      "totalScore": 0.7952,
       "sources": [
         {
-          "channel": "zhihu",
-          "rank": 2,
-          "hot": 0,
-          "url": ""
-        }
-      ],
-      "summary": "",
-      "url": ""
-    },
-    {
-      "id": "evt-25000000",
-      "title": "黎曼猜想数学证明长达 25 万页是什么概念？人类还有可能完整读懂吗？",
-      "category": "society",
-      "hotScore": 0.675,
-      "freshness": 1,
-      "crossSource": 1,
-      "totalScore": 0.87,
-      "sources": [
-        {
-          "channel": "zhihu",
+          "channel": "toutiao",
           "rank": 3,
-          "hot": 0,
-          "url": ""
+          "hot": 856323,
+          "url": "https://www.toutiao.com/trending/7710560818030448170/"
         }
       ],
       "summary": "",
-      "url": ""
+      "url": "https://www.toutiao.com/trending/7710560818030448170/"
     },
     {
       "id": "evt-leanmathlib",
       "title": "Lean 与 Mathlib 社区联合声明，正式确认 Alpöge 对黎曼猜想的证明正确，这意味着什么？",
       "category": "society",
-      "hotScore": 0.5625,
-      "freshness": 1,
-      "crossSource": 1,
-      "totalScore": 0.825,
+      "hotScore": 0.75,
+      "freshness": 0.9999,
+      "crossSource": 0.6309,
+      "totalScore": 0.7893,
       "sources": [
         {
           "channel": "zhihu",
-          "rank": 6,
+          "rank": 1,
           "hot": 0,
           "url": ""
         }
@@ -178,80 +89,118 @@
       "url": ""
     },
     {
-      "id": "evt-30000000",
-      "title": "决定长寿的3件关键事是什么",
+      "id": "evt-ai000000",
+      "title": "“AI检出率”致作者陷自证困局：论文改到“学生作文水平”才达标，却没了学术性",
       "category": "society",
-      "hotScore": 0.5525,
+      "hotScore": 0.7225,
       "freshness": 0.9999,
-      "crossSource": 1,
-      "totalScore": 0.821,
+      "crossSource": 0.6309,
+      "totalScore": 0.7783,
       "sources": [
         {
-          "channel": "toutiao",
-          "rank": 8,
-          "hot": 566654,
-          "url": "https://www.toutiao.com/trending/7710016424701460506/"
+          "channel": "thepaper",
+          "rank": 4,
+          "hot": 0,
+          "url": "https://www.thepaper.cn/newsDetail_forward_34521136"
         }
       ],
       "summary": "",
-      "url": "https://www.toutiao.com/trending/7710016424701460506/"
+      "url": "https://www.thepaper.cn/newsDetail_forward_34521136"
     },
     {
-      "id": "evt-35000000",
-      "title": "老人娶小35岁女子 三次起诉家人",
+      "id": "evt-90000000",
+      "title": "韩国高考出中国历史题 9成考生答错",
       "category": "society",
-      "hotScore": 0.51,
-      "freshness": 0.9999,
-      "crossSource": 1,
-      "totalScore": 0.804,
-      "sources": [
-        {
-          "channel": "toutiao",
-          "rank": 9,
-          "hot": 512730,
-          "url": "https://www.toutiao.com/trending/7710421241773064211/"
-        }
-      ],
-      "summary": "",
-      "url": "https://www.toutiao.com/trending/7710421241773064211/"
-    },
-    {
-      "id": "evt-ymca0000",
-      "title": "特朗普在深圳跳了YMCA",
-      "category": "society",
-      "hotScore": 0.4675,
-      "freshness": 0.9999,
-      "crossSource": 1,
-      "totalScore": 0.787,
-      "sources": [
-        {
-          "channel": "toutiao",
-          "rank": 10,
-          "hot": 463937,
-          "url": "https://www.toutiao.com/trending/7710443483722665499/"
-        }
-      ],
-      "summary": "",
-      "url": "https://www.toutiao.com/trending/7710443483722665499/"
-    },
-    {
-      "id": "evt-46000000",
-      "title": "王祖蓝46岁已经用上老花镜了",
-      "category": "society",
-      "hotScore": 0.44,
+      "hotScore": 0.6,
       "freshness": 1,
-      "crossSource": 1,
-      "totalScore": 0.776,
+      "crossSource": 0.6309,
+      "totalScore": 0.7293,
       "sources": [
         {
           "channel": "baidu",
-          "rank": 10,
+          "rank": 6,
           "hot": 0,
-          "url": "https://m.baidu.com/s?word=%E7%8E%8B%E7%A5%96%E8%93%9D46%E5%B2%81%E5%B7%B2%E7%BB%8F%E7%94%A8%E4%B8%8A%E8%80%81%E8%8A%B1%E9%95%9C%E4%BA%86&sa=fyb_news"
+          "url": "https://m.baidu.com/s?word=%E9%9F%A9%E5%9B%BD%E9%AB%98%E8%80%83%E5%87%BA%E4%B8%AD%E5%9B%BD%E5%8E%86%E5%8F%B2%E9%A2%98+9%E6%88%90%E8%80%83%E7%94%9F%E7%AD%94%E9%94%99&sa=fyb_news"
         }
       ],
       "summary": "",
-      "url": "https://m.baidu.com/s?word=%E7%8E%8B%E7%A5%96%E8%93%9D46%E5%B2%81%E5%B7%B2%E7%BB%8F%E7%94%A8%E4%B8%8A%E8%80%81%E8%8A%B1%E9%95%9C%E4%BA%86&sa=fyb_news"
+      "url": "https://m.baidu.com/s?word=%E9%9F%A9%E5%9B%BD%E9%AB%98%E8%80%83%E5%87%BA%E4%B8%AD%E5%9B%BD%E5%8E%86%E5%8F%B2%E9%A2%98+9%E6%88%90%E8%80%83%E7%94%9F%E7%AD%94%E9%94%99&sa=fyb_news"
+    },
+    {
+      "id": "evt-claude00",
+      "title": "机构认证：Claude证明黎曼猜想无误",
+      "category": "society",
+      "hotScore": 0.56,
+      "freshness": 1,
+      "crossSource": 0.6309,
+      "totalScore": 0.7133,
+      "sources": [
+        {
+          "channel": "baidu",
+          "rank": 7,
+          "hot": 0,
+          "url": "https://m.baidu.com/s?word=%E6%9C%BA%E6%9E%84%E8%AE%A4%E8%AF%81%EF%BC%9AClaude%E8%AF%81%E6%98%8E%E9%BB%8E%E6%9B%BC%E7%8C%9C%E6%83%B3%E6%97%A0%E8%AF%AF&sa=fyb_news"
+        }
+      ],
+      "summary": "",
+      "url": "https://m.baidu.com/s?word=%E6%9C%BA%E6%9E%84%E8%AE%A4%E8%AF%81%EF%BC%9AClaude%E8%AF%81%E6%98%8E%E9%BB%8E%E6%9B%BC%E7%8C%9C%E6%83%B3%E6%97%A0%E8%AF%AF&sa=fyb_news"
+    },
+    {
+      "id": "evt-ti700000",
+      "title": "荷兰法院裁定比亚迪 Ti7 抄袭路虎卫士，颁布销售禁令，对此怎么看？",
+      "category": "society",
+      "hotScore": 0.525,
+      "freshness": 0.9999,
+      "crossSource": 0.6309,
+      "totalScore": 0.6993,
+      "sources": [
+        {
+          "channel": "zhihu",
+          "rank": 7,
+          "hot": 0,
+          "url": ""
+        }
+      ],
+      "summary": "",
+      "url": ""
+    },
+    {
+      "id": "evt-a0000000",
+      "title": "怎么看陶哲轩博客下针对 AI 完成黎曼猜想评论：数学变成 F1 赛车，不进 AI 车队都看不到后尾灯？",
+      "category": "society",
+      "hotScore": 0.4875,
+      "freshness": 0.9999,
+      "crossSource": 0.6309,
+      "totalScore": 0.6843,
+      "sources": [
+        {
+          "channel": "zhihu",
+          "rank": 8,
+          "hot": 0,
+          "url": ""
+        }
+      ],
+      "summary": "",
+      "url": ""
+    },
+    {
+      "id": "evt-57000000",
+      "title": "57岁窦唯被曝四婚",
+      "category": "society",
+      "hotScore": 0.425,
+      "freshness": 0.9999,
+      "crossSource": 0.6309,
+      "totalScore": 0.6592,
+      "sources": [
+        {
+          "channel": "toutiao",
+          "rank": 11,
+          "hot": 384770,
+          "url": "https://www.toutiao.com/trending/7710634772250362395/"
+        }
+      ],
+      "summary": "",
+      "url": "https://www.toutiao.com/trending/7710634772250362395/"
     }
   ]
 }
