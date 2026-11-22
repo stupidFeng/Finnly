@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-11-22T17:28:49.210Z",
+  "generatedAt": "2026-11-22T22:56:58.174Z",
   "fields": {
     "society": "社会",
     "economy": "经济",
@@ -8,7 +8,7 @@
   "feed": [
     {
       "id": "evt-00000000",
-      "title": "亚洲市场集体打响保卫战",
+      "title": "黄金这波暴跌割了谁的韭菜",
       "category": "society",
       "hotScore": 0.85,
       "freshness": 0.9999,
@@ -18,18 +18,31 @@
         {
           "channel": "toutiao",
           "rank": 1,
-          "hot": 6545585,
-          "url": "https://www.toutiao.com/trending/7710959041299661339/"
-        },
-        {
-          "channel": "baidu",
-          "rank": 2,
-          "hot": 0,
-          "url": "https://m.baidu.com/s?word=%E4%BA%9A%E6%B4%B2%E5%B8%82%E5%9C%BA%E9%9B%86%E4%BD%93%E6%89%93%E5%93%8D%E4%BF%9D%E5%8D%AB%E6%88%98&sa=fyb_news"
+          "hot": 7447849,
+          "url": "https://www.toutiao.com/trending/7710977855156391474/"
         }
       ],
       "summary": "",
-      "url": "https://www.toutiao.com/trending/7710959041299661339/"
+      "url": "https://www.toutiao.com/trending/7710977855156391474/"
+    },
+    {
+      "id": "evt-19910000",
+      "title": "“1991年张大爷”刷屏",
+      "category": "society",
+      "hotScore": 0.8075,
+      "freshness": 0.9999,
+      "crossSource": 1,
+      "totalScore": 0.923,
+      "sources": [
+        {
+          "channel": "toutiao",
+          "rank": 2,
+          "hot": 6739093,
+          "url": "https://www.toutiao.com/trending/7710279172438736932/"
+        }
+      ],
+      "summary": "",
+      "url": "https://www.toutiao.com/trending/7710279172438736932/"
     },
     {
       "id": "evt-apec0000",
@@ -37,8 +50,8 @@
       "category": "society",
       "hotScore": 0.8,
       "freshness": 1,
-      "crossSource": 0.6309,
-      "totalScore": 0.8093,
+      "crossSource": 1,
+      "totalScore": 0.92,
       "sources": [
         {
           "channel": "baidu",
@@ -51,13 +64,32 @@
       "url": "https://m.baidu.com/s?word=%E4%B8%89%E4%B8%AA%E6%97%B6%E9%97%B4%E5%9D%90%E6%A0%87+%E8%AF%BB%E6%87%82APEC%E2%80%9C%E4%B8%AD%E5%9B%BD%E5%B9%B4%E2%80%9D&sa=fyb_news"
     },
     {
+      "id": "evt-27710000",
+      "title": "小区277户只有约100家一直交物业费",
+      "category": "society",
+      "hotScore": 0.7225,
+      "freshness": 0.9999,
+      "crossSource": 1,
+      "totalScore": 0.889,
+      "sources": [
+        {
+          "channel": "toutiao",
+          "rank": 4,
+          "hot": 5517502,
+          "url": "https://www.toutiao.com/trending/7710911150951006771/"
+        }
+      ],
+      "summary": "",
+      "url": "https://www.toutiao.com/trending/7710911150951006771/"
+    },
+    {
       "id": "evt-60000000",
       "title": "600块吃好喝好玩好 年轻人羡慕疯了",
       "category": "society",
       "hotScore": 0.72,
       "freshness": 1,
-      "crossSource": 0.6309,
-      "totalScore": 0.7773,
+      "crossSource": 1,
+      "totalScore": 0.888,
       "sources": [
         {
           "channel": "baidu",
@@ -70,13 +102,51 @@
       "url": "https://m.baidu.com/s?word=600%E5%9D%97%E5%90%83%E5%A5%BD%E5%96%9D%E5%A5%BD%E7%8E%A9%E5%A5%BD+%E5%B9%B4%E8%BD%BB%E4%BA%BA%E7%BE%A1%E6%85%95%E7%96%AF%E4%BA%86&sa=fyb_news"
     },
     {
+      "id": "evt-83720000",
+      "title": "方力申耗时 8 小时 37 分 24 秒从香港游到澳门破吉尼斯纪录，完成这样的挑战难度有多大？",
+      "category": "society",
+      "hotScore": 0.7125,
+      "freshness": 0.9999,
+      "crossSource": 1,
+      "totalScore": 0.885,
+      "sources": [
+        {
+          "channel": "zhihu",
+          "rank": 2,
+          "hot": 0,
+          "url": ""
+        }
+      ],
+      "summary": "",
+      "url": ""
+    },
+    {
+      "id": "evt-vig00000",
+      "title": "如何评价《侠盗猎车手 VI》（GTA 6）的结局？",
+      "category": "society",
+      "hotScore": 0.675,
+      "freshness": 0.9999,
+      "crossSource": 1,
+      "totalScore": 0.87,
+      "sources": [
+        {
+          "channel": "zhihu",
+          "rank": 3,
+          "hot": 0,
+          "url": ""
+        }
+      ],
+      "summary": "",
+      "url": ""
+    },
+    {
       "id": "evt-a0000000",
       "title": "A股利好来了 三箭齐发",
       "category": "society",
       "hotScore": 0.64,
       "freshness": 1,
-      "crossSource": 0.6309,
-      "totalScore": 0.7453,
+      "crossSource": 1,
+      "totalScore": 0.856,
       "sources": [
         {
           "channel": "baidu",
@@ -89,51 +159,13 @@
       "url": "https://m.baidu.com/s?word=A%E8%82%A1%E5%88%A9%E5%A5%BD%E6%9D%A5%E4%BA%86+%E4%B8%89%E7%AE%AD%E9%BD%90%E5%8F%91&sa=fyb_news"
     },
     {
-      "id": "evt-24000000",
-      "title": "去世到安葬不超24小时？山东一地回应",
-      "category": "society",
-      "hotScore": 0.6375,
-      "freshness": 0.9999,
-      "crossSource": 0.6309,
-      "totalScore": 0.7443,
-      "sources": [
-        {
-          "channel": "toutiao",
-          "rank": 6,
-          "hot": 3970098,
-          "url": "https://www.toutiao.com/trending/7710967769189060106/"
-        }
-      ],
-      "summary": "",
-      "url": "https://www.toutiao.com/trending/7710967769189060106/"
-    },
-    {
-      "id": "evt-vig00000",
-      "title": "如何评价《侠盗猎车手 VI》（GTA 6）的结局？",
-      "category": "society",
-      "hotScore": 0.6375,
-      "freshness": 1,
-      "crossSource": 0.6309,
-      "totalScore": 0.7443,
-      "sources": [
-        {
-          "channel": "zhihu",
-          "rank": 4,
-          "hot": 0,
-          "url": ""
-        }
-      ],
-      "summary": "",
-      "url": ""
-    },
-    {
-      "id": "evt-14100000",
-      "title": "长安大学回应「14 日面试 13 日出结果」，公告误带后台草稿的创建日期，三名人事干部被处分，如何看待此事？",
+      "id": "evt-20260000",
+      "title": "2026 年乒乓球德甲联赛第九轮，樊振东 1：3 负于约内斯库，怎么评价樊振东代表杜塞尔多夫的这一场失利？",
       "category": "society",
       "hotScore": 0.6,
-      "freshness": 1,
-      "crossSource": 0.6309,
-      "totalScore": 0.7293,
+      "freshness": 0.9999,
+      "crossSource": 1,
+      "totalScore": 0.84,
       "sources": [
         {
           "channel": "zhihu",
@@ -146,51 +178,32 @@
       "url": ""
     },
     {
-      "id": "evt-ai000000",
-      "title": "AI 宣称证明黎曼猜想后，数学家又公开了一份完全不使用 AI 的广义黎曼猜想证明，如何看待？",
+      "id": "evt-24000000",
+      "title": "去世到安葬不超24小时？山东一地回应",
       "category": "society",
-      "hotScore": 0.5625,
-      "freshness": 1,
-      "crossSource": 0.6309,
-      "totalScore": 0.7143,
-      "sources": [
-        {
-          "channel": "zhihu",
-          "rank": 6,
-          "hot": 0,
-          "url": ""
-        }
-      ],
-      "summary": "",
-      "url": ""
-    },
-    {
-      "id": "evt-30000000",
-      "title": "特朗普连发30多张照片回味APEC",
-      "category": "society",
-      "hotScore": 0.5525,
+      "hotScore": 0.595,
       "freshness": 0.9999,
-      "crossSource": 0.6309,
-      "totalScore": 0.7103,
+      "crossSource": 1,
+      "totalScore": 0.838,
       "sources": [
         {
           "channel": "toutiao",
-          "rank": 8,
-          "hot": 3250441,
-          "url": "https://www.toutiao.com/trending/7710201794621849641/"
+          "rank": 7,
+          "hot": 4087466,
+          "url": "https://www.toutiao.com/trending/7710967769189060106/"
         }
       ],
       "summary": "",
-      "url": "https://www.toutiao.com/trending/7710201794621849641/"
+      "url": "https://www.toutiao.com/trending/7710967769189060106/"
     },
     {
-      "id": "evt-pnp00000",
-      "title": "P/NP 问题如果被解决，会对计算机科学带来哪些革命性影响？",
+      "id": "evt-showmaker",
+      "title": "曝 ShowMaker 宁愿大幅度降薪也希望留在 DK，如何评价他的选择？DK 目前情况有多糟？",
       "category": "society",
       "hotScore": 0.525,
-      "freshness": 1,
-      "crossSource": 0.6309,
-      "totalScore": 0.6993,
+      "freshness": 0.9999,
+      "crossSource": 1,
+      "totalScore": 0.81,
       "sources": [
         {
           "channel": "zhihu",
@@ -203,23 +216,23 @@
       "url": ""
     },
     {
-      "id": "evt-27710000",
-      "title": "小区277户只有约100家一直交物业费",
+      "id": "evt-aiai0000",
+      "title": "AI 短剧、 AI 漫剧现在这么火爆，为什么我感觉大多数角色的脸都一样？大家不会视觉疲劳吗？",
       "category": "society",
-      "hotScore": 0.4675,
+      "hotScore": 0.45,
       "freshness": 0.9999,
-      "crossSource": 0.6309,
-      "totalScore": 0.6763,
+      "crossSource": 1,
+      "totalScore": 0.78,
       "sources": [
         {
-          "channel": "toutiao",
-          "rank": 10,
-          "hot": 2661236,
-          "url": "https://www.toutiao.com/trending/7710911150951006771/"
+          "channel": "zhihu",
+          "rank": 9,
+          "hot": 0,
+          "url": ""
         }
       ],
       "summary": "",
-      "url": "https://www.toutiao.com/trending/7710911150951006771/"
+      "url": ""
     }
   ]
 }
