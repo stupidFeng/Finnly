@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-11-22T22:56:58.174Z",
+  "generatedAt": "2026-11-23T04:41:36.977Z",
   "fields": {
     "society": "社会",
     "economy": "经济",
@@ -7,27 +7,8 @@
   },
   "feed": [
     {
-      "id": "evt-00000000",
-      "title": "黄金这波暴跌割了谁的韭菜",
-      "category": "society",
-      "hotScore": 0.85,
-      "freshness": 0.9999,
-      "crossSource": 1,
-      "totalScore": 0.94,
-      "sources": [
-        {
-          "channel": "toutiao",
-          "rank": 1,
-          "hot": 7447849,
-          "url": "https://www.toutiao.com/trending/7710977855156391474/"
-        }
-      ],
-      "summary": "",
-      "url": "https://www.toutiao.com/trending/7710977855156391474/"
-    },
-    {
-      "id": "evt-19910000",
-      "title": "“1991年张大爷”刷屏",
+      "id": "evt-14000000",
+      "title": "特朗普深圳行照片14张是中美元首互动",
       "category": "society",
       "hotScore": 0.8075,
       "freshness": 0.9999,
@@ -37,12 +18,56 @@
         {
           "channel": "toutiao",
           "rank": 2,
-          "hot": 6739093,
-          "url": "https://www.toutiao.com/trending/7710279172438736932/"
+          "hot": 6983887,
+          "url": "https://www.toutiao.com/trending/7710702493755719721/"
+        },
+        {
+          "channel": "baidu",
+          "rank": 7,
+          "hot": 0,
+          "url": "https://m.baidu.com/s?word=%E7%89%B9%E6%9C%97%E6%99%AE%E6%B7%B1%E5%9C%B3%E8%A1%8C%E7%85%A7%E7%89%8714%E5%BC%A0%E6%98%AF%E4%B8%AD%E7%BE%8E%E5%85%83%E9%A6%96%E4%BA%92%E5%8A%A8&sa=fyb_news"
         }
       ],
       "summary": "",
-      "url": "https://www.toutiao.com/trending/7710279172438736932/"
+      "url": "https://www.toutiao.com/trending/7710702493755719721/"
+    },
+    {
+      "id": "evt-00000000",
+      "title": "部委干部窃取我国百余份情报获死刑",
+      "category": "society",
+      "hotScore": 0.85,
+      "freshness": 0.9999,
+      "crossSource": 0.6309,
+      "totalScore": 0.8293,
+      "sources": [
+        {
+          "channel": "toutiao",
+          "rank": 1,
+          "hot": 7718389,
+          "url": "https://www.toutiao.com/trending/7711136767030690330/"
+        }
+      ],
+      "summary": "",
+      "url": "https://www.toutiao.com/trending/7711136767030690330/"
+    },
+    {
+      "id": "evt-10080000",
+      "title": "100%降至80%！融资保证金比例下调，预计4000亿增量资金在路上",
+      "category": "society",
+      "hotScore": 0.85,
+      "freshness": 1,
+      "crossSource": 0.6309,
+      "totalScore": 0.8293,
+      "sources": [
+        {
+          "channel": "thepaper",
+          "rank": 1,
+          "hot": 0,
+          "url": "https://www.thepaper.cn/newsDetail_forward_34534889"
+        }
+      ],
+      "summary": "",
+      "url": "https://www.thepaper.cn/newsDetail_forward_34534889"
     },
     {
       "id": "evt-apec0000",
@@ -50,8 +75,8 @@
       "category": "society",
       "hotScore": 0.8,
       "freshness": 1,
-      "crossSource": 1,
-      "totalScore": 0.92,
+      "crossSource": 0.6309,
+      "totalScore": 0.8093,
       "sources": [
         {
           "channel": "baidu",
@@ -64,70 +89,51 @@
       "url": "https://m.baidu.com/s?word=%E4%B8%89%E4%B8%AA%E6%97%B6%E9%97%B4%E5%9D%90%E6%A0%87+%E8%AF%BB%E6%87%82APEC%E2%80%9C%E4%B8%AD%E5%9B%BD%E5%B9%B4%E2%80%9D&sa=fyb_news"
     },
     {
-      "id": "evt-27710000",
-      "title": "小区277户只有约100家一直交物业费",
+      "id": "evt-20000000",
+      "title": "幼儿园要招2岁孩子了",
       "category": "society",
-      "hotScore": 0.7225,
-      "freshness": 0.9999,
-      "crossSource": 1,
-      "totalScore": 0.889,
-      "sources": [
-        {
-          "channel": "toutiao",
-          "rank": 4,
-          "hot": 5517502,
-          "url": "https://www.toutiao.com/trending/7710911150951006771/"
-        }
-      ],
-      "summary": "",
-      "url": "https://www.toutiao.com/trending/7710911150951006771/"
-    },
-    {
-      "id": "evt-60000000",
-      "title": "600块吃好喝好玩好 年轻人羡慕疯了",
-      "category": "society",
-      "hotScore": 0.72,
+      "hotScore": 0.76,
       "freshness": 1,
-      "crossSource": 1,
-      "totalScore": 0.888,
+      "crossSource": 0.6309,
+      "totalScore": 0.7933,
       "sources": [
         {
           "channel": "baidu",
-          "rank": 3,
+          "rank": 2,
           "hot": 0,
-          "url": "https://m.baidu.com/s?word=600%E5%9D%97%E5%90%83%E5%A5%BD%E5%96%9D%E5%A5%BD%E7%8E%A9%E5%A5%BD+%E5%B9%B4%E8%BD%BB%E4%BA%BA%E7%BE%A1%E6%85%95%E7%96%AF%E4%BA%86&sa=fyb_news"
+          "url": "https://m.baidu.com/s?word=%E5%B9%BC%E5%84%BF%E5%9B%AD%E8%A6%81%E6%8B%9B2%E5%B2%81%E5%AD%A9%E5%AD%90%E4%BA%86&sa=fyb_news"
         }
       ],
       "summary": "",
-      "url": "https://m.baidu.com/s?word=600%E5%9D%97%E5%90%83%E5%A5%BD%E5%96%9D%E5%A5%BD%E7%8E%A9%E5%A5%BD+%E5%B9%B4%E8%BD%BB%E4%BA%BA%E7%BE%A1%E6%85%95%E7%96%AF%E4%BA%86&sa=fyb_news"
+      "url": "https://m.baidu.com/s?word=%E5%B9%BC%E5%84%BF%E5%9B%AD%E8%A6%81%E6%8B%9B2%E5%B2%81%E5%AD%A9%E5%AD%90%E4%BA%86&sa=fyb_news"
+    },
+    {
+      "id": "evt-05500000",
+      "title": "055大驱首次向公众开放",
+      "category": "society",
+      "hotScore": 0.68,
+      "freshness": 0.9999,
+      "crossSource": 0.6309,
+      "totalScore": 0.7613,
+      "sources": [
+        {
+          "channel": "toutiao",
+          "rank": 5,
+          "hot": 5173791,
+          "url": "https://www.toutiao.com/trending/7711202163985956927/"
+        }
+      ],
+      "summary": "",
+      "url": "https://www.toutiao.com/trending/7711202163985956927/"
     },
     {
       "id": "evt-83720000",
       "title": "方力申耗时 8 小时 37 分 24 秒从香港游到澳门破吉尼斯纪录，完成这样的挑战难度有多大？",
       "category": "society",
-      "hotScore": 0.7125,
-      "freshness": 0.9999,
-      "crossSource": 1,
-      "totalScore": 0.885,
-      "sources": [
-        {
-          "channel": "zhihu",
-          "rank": 2,
-          "hot": 0,
-          "url": ""
-        }
-      ],
-      "summary": "",
-      "url": ""
-    },
-    {
-      "id": "evt-vig00000",
-      "title": "如何评价《侠盗猎车手 VI》（GTA 6）的结局？",
-      "category": "society",
       "hotScore": 0.675,
       "freshness": 0.9999,
-      "crossSource": 1,
-      "totalScore": 0.87,
+      "crossSource": 0.6309,
+      "totalScore": 0.7593,
       "sources": [
         {
           "channel": "zhihu",
@@ -140,36 +146,36 @@
       "url": ""
     },
     {
-      "id": "evt-a0000000",
-      "title": "A股利好来了 三箭齐发",
+      "id": "evt-19910000",
+      "title": "1991年张大爷试卷实为梗图",
       "category": "society",
       "hotScore": 0.64,
       "freshness": 1,
-      "crossSource": 1,
-      "totalScore": 0.856,
+      "crossSource": 0.6309,
+      "totalScore": 0.7453,
       "sources": [
         {
           "channel": "baidu",
           "rank": 5,
           "hot": 0,
-          "url": "https://m.baidu.com/s?word=A%E8%82%A1%E5%88%A9%E5%A5%BD%E6%9D%A5%E4%BA%86+%E4%B8%89%E7%AE%AD%E9%BD%90%E5%8F%91&sa=fyb_news"
+          "url": "https://m.baidu.com/s?word=1991%E5%B9%B4%E5%BC%A0%E5%A4%A7%E7%88%B7%E8%AF%95%E5%8D%B7%E5%AE%9E%E4%B8%BA%E6%A2%97%E5%9B%BE&sa=fyb_news"
         }
       ],
       "summary": "",
-      "url": "https://m.baidu.com/s?word=A%E8%82%A1%E5%88%A9%E5%A5%BD%E6%9D%A5%E4%BA%86+%E4%B8%89%E7%AE%AD%E9%BD%90%E5%8F%91&sa=fyb_news"
+      "url": "https://m.baidu.com/s?word=1991%E5%B9%B4%E5%BC%A0%E5%A4%A7%E7%88%B7%E8%AF%95%E5%8D%B7%E5%AE%9E%E4%B8%BA%E6%A2%97%E5%9B%BE&sa=fyb_news"
     },
     {
-      "id": "evt-20260000",
-      "title": "2026 年乒乓球德甲联赛第九轮，樊振东 1：3 负于约内斯库，怎么评价樊振东代表杜塞尔多夫的这一场失利？",
+      "id": "evt-27000000",
+      "title": "27 岁庞众望完成博士论文答辩，即将从清华毕业，未来有望朝什么方向发展？他的求学之路给我们什么启示？",
       "category": "society",
-      "hotScore": 0.6,
+      "hotScore": 0.6375,
       "freshness": 0.9999,
-      "crossSource": 1,
-      "totalScore": 0.84,
+      "crossSource": 0.6309,
+      "totalScore": 0.7443,
       "sources": [
         {
           "channel": "zhihu",
-          "rank": 5,
+          "rank": 4,
           "hot": 0,
           "url": ""
         }
@@ -178,32 +184,32 @@
       "url": ""
     },
     {
-      "id": "evt-24000000",
-      "title": "去世到安葬不超24小时？山东一地回应",
+      "id": "evt-u1500000",
+      "title": "浙江U15球员比赛中重伤后续：申花已安排专家赴杭会诊",
       "category": "society",
       "hotScore": 0.595,
-      "freshness": 0.9999,
-      "crossSource": 1,
-      "totalScore": 0.838,
+      "freshness": 1,
+      "crossSource": 0.6309,
+      "totalScore": 0.7273,
       "sources": [
         {
-          "channel": "toutiao",
+          "channel": "thepaper",
           "rank": 7,
-          "hot": 4087466,
-          "url": "https://www.toutiao.com/trending/7710967769189060106/"
+          "hot": 0,
+          "url": "https://www.thepaper.cn/newsDetail_forward_34534260"
         }
       ],
       "summary": "",
-      "url": "https://www.toutiao.com/trending/7710967769189060106/"
+      "url": "https://www.thepaper.cn/newsDetail_forward_34534260"
     },
     {
-      "id": "evt-showmaker",
-      "title": "曝 ShowMaker 宁愿大幅度降薪也希望留在 DK，如何评价他的选择？DK 目前情况有多糟？",
+      "id": "evt-deepseek",
+      "title": "DeepSeek 推出限额规则，不少重度免费用户主动求付费保留长对话，这暴露出哪些行业现实问题？",
       "category": "society",
       "hotScore": 0.525,
       "freshness": 0.9999,
-      "crossSource": 1,
-      "totalScore": 0.81,
+      "crossSource": 0.6309,
+      "totalScore": 0.6993,
       "sources": [
         {
           "channel": "zhihu",
@@ -216,13 +222,51 @@
       "url": ""
     },
     {
-      "id": "evt-aiai0000",
-      "title": "AI 短剧、 AI 漫剧现在这么火爆，为什么我感觉大多数角色的脸都一样？大家不会视觉疲劳吗？",
+      "id": "evt-100m0000",
+      "title": "为啥飞机不让带超100mL的液体登机",
+      "category": "society",
+      "hotScore": 0.48,
+      "freshness": 1,
+      "crossSource": 0.6309,
+      "totalScore": 0.6813,
+      "sources": [
+        {
+          "channel": "baidu",
+          "rank": 9,
+          "hot": 0,
+          "url": "https://m.baidu.com/s?word=%E4%B8%BA%E5%95%A5%E9%A3%9E%E6%9C%BA%E4%B8%8D%E8%AE%A9%E5%B8%A6%E8%B6%85100mL%E7%9A%84%E6%B6%B2%E4%BD%93%E7%99%BB%E6%9C%BA&sa=fyb_news"
+        }
+      ],
+      "summary": "",
+      "url": "https://m.baidu.com/s?word=%E4%B8%BA%E5%95%A5%E9%A3%9E%E6%9C%BA%E4%B8%8D%E8%AE%A9%E5%B8%A6%E8%B6%85100mL%E7%9A%84%E6%B6%B2%E4%BD%93%E7%99%BB%E6%9C%BA&sa=fyb_news"
+    },
+    {
+      "id": "evt-00100000",
+      "title": "魏建军再测长城001号超跑",
+      "category": "society",
+      "hotScore": 0.4675,
+      "freshness": 0.9999,
+      "crossSource": 0.6309,
+      "totalScore": 0.6763,
+      "sources": [
+        {
+          "channel": "toutiao",
+          "rank": 10,
+          "hot": 3138063,
+          "url": "https://www.toutiao.com/trending/7711143363944677430/"
+        }
+      ],
+      "summary": "",
+      "url": "https://www.toutiao.com/trending/7711143363944677430/"
+    },
+    {
+      "id": "evt-viperlck",
+      "title": "如果 Viper 回到 LCK，BLG 买回 ELK 重组一次效果会怎么样？",
       "category": "society",
       "hotScore": 0.45,
       "freshness": 0.9999,
-      "crossSource": 1,
-      "totalScore": 0.78,
+      "crossSource": 0.6309,
+      "totalScore": 0.6693,
       "sources": [
         {
           "channel": "zhihu",
