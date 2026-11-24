@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-11-24T03:35:51.740Z",
+  "generatedAt": "2026-11-24T14:24:00.487Z",
   "fields": {
     "society": "社会",
     "economy": "经济",
@@ -8,26 +8,45 @@
   "feed": [
     {
       "id": "evt-00000000",
-      "title": "首位到访天宫的外籍航天员公布",
+      "title": "陈吉宁被查",
       "category": "society",
       "hotScore": 0.85,
-      "freshness": 1,
+      "freshness": 0.9999,
       "crossSource": 0.6309,
       "totalScore": 0.8293,
       "sources": [
         {
           "channel": "toutiao",
           "rank": 1,
-          "hot": 56117433,
-          "url": "https://www.toutiao.com/trending/7710908113164386347/"
+          "hot": 104628031,
+          "url": "https://www.toutiao.com/trending/7711699195731824155/"
         }
       ],
       "summary": "",
-      "url": "https://www.toutiao.com/trending/7710908113164386347/"
+      "url": "https://www.toutiao.com/trending/7711699195731824155/"
     },
     {
-      "id": "evt-13500000",
-      "title": "山东13岁少年被控杀害5岁男孩案一审开庭，被害人家属：作案前曾踩点并画逃跑路线",
+      "id": "evt-20000000",
+      "title": "马上评丨价值20万摩托车隔空被盗，货拉拉“贼货”也拉？",
+      "category": "society",
+      "hotScore": 0.8075,
+      "freshness": 1,
+      "crossSource": 0.6309,
+      "totalScore": 0.8123,
+      "sources": [
+        {
+          "channel": "thepaper",
+          "rank": 2,
+          "hot": 0,
+          "url": "https://www.thepaper.cn/newsDetail_forward_34542062"
+        }
+      ],
+      "summary": "",
+      "url": "https://www.thepaper.cn/newsDetail_forward_34542062"
+    },
+    {
+      "id": "evt-11700000",
+      "title": "117起典型案例中的“虚假住院骗保”：违规与违法的边界在哪",
       "category": "society",
       "hotScore": 0.7225,
       "freshness": 1,
@@ -38,100 +57,24 @@
           "channel": "thepaper",
           "rank": 4,
           "hot": 0,
-          "url": "https://www.thepaper.cn/newsDetail_forward_34540649"
+          "url": "https://www.thepaper.cn/newsDetail_forward_34450989"
         }
       ],
       "summary": "",
-      "url": "https://www.thepaper.cn/newsDetail_forward_34540649"
-    },
-    {
-      "id": "evt-tre00000",
-      "title": "数年炸鸡无人识 一句treetree全网知",
-      "category": "society",
-      "hotScore": 0.68,
-      "freshness": 1,
-      "crossSource": 0.6309,
-      "totalScore": 0.7613,
-      "sources": [
-        {
-          "channel": "toutiao",
-          "rank": 5,
-          "hot": 37616640,
-          "url": "https://www.toutiao.com/trending/7710276814740111401/"
-        }
-      ],
-      "summary": "",
-      "url": "https://www.toutiao.com/trending/7710276814740111401/"
-    },
-    {
-      "id": "evt-20000000",
-      "title": "马上评丨价值20万摩托车隔空被盗，货拉拉“贼货”也拉？",
-      "category": "society",
-      "hotScore": 0.68,
-      "freshness": 1,
-      "crossSource": 0.6309,
-      "totalScore": 0.7613,
-      "sources": [
-        {
-          "channel": "thepaper",
-          "rank": 5,
-          "hot": 0,
-          "url": "https://www.thepaper.cn/newsDetail_forward_34542062"
-        }
-      ],
-      "summary": "",
-      "url": "https://www.thepaper.cn/newsDetail_forward_34542062"
-    },
-    {
-      "id": "evt-18etf000",
-      "title": "首批18只主动ETF上市，360亿增量资金来了",
-      "category": "economy",
-      "hotScore": 0.85,
-      "freshness": 1,
-      "crossSource": 0.6309,
-      "totalScore": 0.8293,
-      "sources": [
-        {
-          "channel": "thepaper",
-          "rank": 1,
-          "hot": 0,
-          "url": "https://www.thepaper.cn/newsDetail_forward_34539385"
-        }
-      ],
-      "summary": "",
-      "url": "https://www.thepaper.cn/newsDetail_forward_34539385"
-    },
-    {
-      "id": "evt-23000000",
-      "title": "神23将返回东风着陆场",
-      "category": "society",
-      "hotScore": 0.6375,
-      "freshness": 1,
-      "crossSource": 0.6309,
-      "totalScore": 0.7443,
-      "sources": [
-        {
-          "channel": "toutiao",
-          "rank": 6,
-          "hot": 34036944,
-          "url": "https://www.toutiao.com/trending/7711549539124232731/"
-        }
-      ],
-      "summary": "",
-      "url": "https://www.toutiao.com/trending/7711549539124232731/"
+      "url": "https://www.thepaper.cn/newsDetail_forward_34450989"
     },
     {
       "id": "evt-50000000",
       "title": "淘股吧两届冠军仅 5 个月就从 1541 万亏到 74 万，最后宣告破产，一代炒股冠军的陨落带给投资者哪些反思？",
       "category": "society",
-      "hotScore": 0.6375,
+      "hotScore": 0.675,
       "freshness": 0.9999,
       "crossSource": 0.6309,
-      "totalScore": 0.7443,
+      "totalScore": 0.7593,
       "sources": [
         {
           "channel": "zhihu",
-          "rank": 4,
+          "rank": 3,
           "hot": 0,
           "url": ""
         }
@@ -140,30 +83,30 @@
       "url": ""
     },
     {
-      "id": "evt-ceo00000",
-      "title": "黄仁勋回归，重任CEO！英伟达盘前暴涨超26%",
-      "category": "society",
-      "hotScore": 0.6375,
-      "freshness": 1,
+      "id": "evt-2026q300",
+      "title": "小米集团 2026 Q3 财报发布，经调整净利润 48.84 亿元，同比下降 56.8%，怎样解读？",
+      "category": "economy",
+      "hotScore": 0.7125,
+      "freshness": 0.9999,
       "crossSource": 0.6309,
-      "totalScore": 0.7443,
+      "totalScore": 0.7743,
       "sources": [
         {
-          "channel": "thepaper",
-          "rank": 6,
+          "channel": "zhihu",
+          "rank": 2,
           "hot": 0,
-          "url": "https://www.thepaper.cn/newsDetail_forward_34541483"
+          "url": ""
         }
       ],
       "summary": "",
-      "url": "https://www.thepaper.cn/newsDetail_forward_34541483"
+      "url": ""
     },
     {
-      "id": "evt-12000000",
-      "title": "永辉超市同意终止茅台12年渠道合作",
+      "id": "evt-30000000",
+      "title": "车企老板娘女装卖了30亿",
       "category": "society",
       "hotScore": 0.6,
-      "freshness": 1,
+      "freshness": 0.9999,
       "crossSource": 0.6309,
       "totalScore": 0.7293,
       "sources": [
@@ -171,24 +114,24 @@
           "channel": "baidu",
           "rank": 6,
           "hot": 0,
-          "url": "https://m.baidu.com/s?word=%E6%B0%B8%E8%BE%89%E8%B6%85%E5%B8%82%E5%90%8C%E6%84%8F%E7%BB%88%E6%AD%A2%E8%8C%85%E5%8F%B012%E5%B9%B4%E6%B8%A0%E9%81%93%E5%90%88%E4%BD%9C&sa=fyb_news"
+          "url": "https://m.baidu.com/s?word=%E8%BD%A6%E4%BC%81%E8%80%81%E6%9D%BF%E5%A8%98%E5%A5%B3%E8%A3%85%E5%8D%96%E4%BA%8630%E4%BA%BF&sa=fyb_news"
         }
       ],
       "summary": "",
-      "url": "https://m.baidu.com/s?word=%E6%B0%B8%E8%BE%89%E8%B6%85%E5%B8%82%E5%90%8C%E6%84%8F%E7%BB%88%E6%AD%A2%E8%8C%85%E5%8F%B012%E5%B9%B4%E6%B8%A0%E9%81%93%E5%90%88%E4%BD%9C&sa=fyb_news"
+      "url": "https://m.baidu.com/s?word=%E8%BD%A6%E4%BC%81%E8%80%81%E6%9D%BF%E5%A8%98%E5%A5%B3%E8%A3%85%E5%8D%96%E4%BA%8630%E4%BA%BF&sa=fyb_news"
     },
     {
-      "id": "evt-digitalfound",
-      "title": "Digital Foundry 称《GTA6》即便高端 PC 也难稳 60 帧，其核心瓶颈要如何解决？",
+      "id": "evt-blg00000",
+      "title": "如何看待 BLG 夺冠后，米勒等 LPL 解说及曾恶意带 Bin 节奏的 UP 主被群起「清算」？",
       "category": "society",
-      "hotScore": 0.525,
+      "hotScore": 0.6,
       "freshness": 0.9999,
       "crossSource": 0.6309,
-      "totalScore": 0.6993,
+      "totalScore": 0.7293,
       "sources": [
         {
           "channel": "zhihu",
-          "rank": 7,
+          "rank": 5,
           "hot": 0,
           "url": ""
         }
@@ -197,36 +140,55 @@
       "url": ""
     },
     {
-      "id": "evt-21000000",
-      "title": "国字号男足时隔21年再获世界杯积分",
+      "id": "evt-24000000",
+      "title": "去世到安葬不超 24 小时，山东济阳一村推行「一日丧」引热议，这种丧葬风俗值得推广吗？",
       "category": "society",
-      "hotScore": 0.51,
-      "freshness": 1,
-      "crossSource": 0.6309,
-      "totalScore": 0.6933,
-      "sources": [
-        {
-          "channel": "toutiao",
-          "rank": 9,
-          "hot": 25215188,
-          "url": "https://www.toutiao.com/trending/7711502278452055578/"
-        }
-      ],
-      "summary": "",
-      "url": "https://www.toutiao.com/trending/7711502278452055578/"
-    },
-    {
-      "id": "evt-u17u0000",
-      "title": "U17 世界杯小组赛，中国 U17 男足补时读秒阶段遭绝平，最终 2 比 2 摩洛哥，怎样评价本场比赛？",
-      "category": "society",
-      "hotScore": 0.4875,
+      "hotScore": 0.5625,
       "freshness": 0.9999,
       "crossSource": 0.6309,
-      "totalScore": 0.6843,
+      "totalScore": 0.7143,
       "sources": [
         {
           "channel": "zhihu",
+          "rank": 6,
+          "hot": 0,
+          "url": ""
+        }
+      ],
+      "summary": "",
+      "url": ""
+    },
+    {
+      "id": "evt-11000000",
+      "title": "一图｜11天反转：黄仁勋辞任后被全票请回，中间发生了什么",
+      "category": "society",
+      "hotScore": 0.5525,
+      "freshness": 1,
+      "crossSource": 0.6309,
+      "totalScore": 0.7103,
+      "sources": [
+        {
+          "channel": "thepaper",
           "rank": 8,
+          "hot": 0,
+          "url": "https://www.thepaper.cn/newsDetail_forward_34540647"
+        }
+      ],
+      "summary": "",
+      "url": "https://www.thepaper.cn/newsDetail_forward_34540647"
+    },
+    {
+      "id": "evt-ai100000",
+      "title": "为什么让 AI 随机说一个 1 到 30 之间的数，大部分都会说 17？",
+      "category": "society",
+      "hotScore": 0.45,
+      "freshness": 0.9999,
+      "crossSource": 0.6309,
+      "totalScore": 0.6693,
+      "sources": [
+        {
+          "channel": "zhihu",
+          "rank": 9,
           "hot": 0,
           "url": ""
         }
