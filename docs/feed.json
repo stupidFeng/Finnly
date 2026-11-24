@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-11-23T16:48:08.774Z",
+  "generatedAt": "2026-11-24T03:35:51.740Z",
   "fields": {
     "society": "社会",
     "economy": "经济",
@@ -7,113 +7,56 @@
   },
   "feed": [
     {
-      "id": "evt-16000000",
-      "title": "歼-16飞行员放干扰弹驱离外机",
+      "id": "evt-00000000",
+      "title": "首位到访天宫的外籍航天员公布",
       "category": "society",
       "hotScore": 0.85,
-      "freshness": 0.9999,
-      "crossSource": 1,
-      "totalScore": 0.94,
+      "freshness": 1,
+      "crossSource": 0.6309,
+      "totalScore": 0.8293,
       "sources": [
         {
           "channel": "toutiao",
           "rank": 1,
-          "hot": 13498338,
-          "url": "https://www.toutiao.com/trending/7711341405633364490/"
+          "hot": 56117433,
+          "url": "https://www.toutiao.com/trending/7710908113164386347/"
         }
       ],
       "summary": "",
-      "url": "https://www.toutiao.com/trending/7711341405633364490/"
+      "url": "https://www.toutiao.com/trending/7710908113164386347/"
     },
     {
-      "id": "evt-00000000",
-      "title": "大学应有的模样｜我们为什么怀念“曾经的大学”",
+      "id": "evt-13500000",
+      "title": "山东13岁少年被控杀害5岁男孩案一审开庭，被害人家属：作案前曾踩点并画逃跑路线",
       "category": "society",
-      "hotScore": 0.85,
-      "freshness": 0.9999,
-      "crossSource": 1,
-      "totalScore": 0.94,
-      "sources": [
-        {
-          "channel": "thepaper",
-          "rank": 1,
-          "hot": 0,
-          "url": "https://www.thepaper.cn/newsDetail_forward_34510207"
-        }
-      ],
-      "summary": "",
-      "url": "https://www.thepaper.cn/newsDetail_forward_34510207"
-    },
-    {
-      "id": "evt-05535000",
-      "title": "视频丨055大驱、歼-35等海军多型舰机将亮相中国航展",
-      "category": "society",
-      "hotScore": 0.765,
-      "freshness": 0.9999,
-      "crossSource": 1,
-      "totalScore": 0.906,
-      "sources": [
-        {
-          "channel": "thepaper",
-          "rank": 3,
-          "hot": 0,
-          "url": "https://www.thepaper.cn/newsDetail_forward_34537823"
-        }
-      ],
-      "summary": "",
-      "url": "https://www.thepaper.cn/newsDetail_forward_34537823"
-    },
-    {
-      "id": "evt-nielsen0",
-      "title": "怎么看 Nielsen 发布《黎曼猜想证明无效》的反驳论文？",
-      "category": "society",
-      "hotScore": 0.75,
-      "freshness": 0.9999,
-      "crossSource": 1,
-      "totalScore": 0.9,
-      "sources": [
-        {
-          "channel": "zhihu",
-          "rank": 1,
-          "hot": 0,
-          "url": ""
-        }
-      ],
-      "summary": "",
-      "url": ""
-    },
-    {
-      "id": "evt-c0000000",
-      "title": "英伟达董事会恢复黄仁勋CEO职务",
-      "category": "society",
-      "hotScore": 0.72,
+      "hotScore": 0.7225,
       "freshness": 1,
-      "crossSource": 1,
-      "totalScore": 0.888,
+      "crossSource": 0.6309,
+      "totalScore": 0.7783,
       "sources": [
         {
-          "channel": "baidu",
-          "rank": 3,
+          "channel": "thepaper",
+          "rank": 4,
           "hot": 0,
-          "url": "https://m.baidu.com/s?word=%E8%8B%B1%E4%BC%9F%E8%BE%BE%E8%91%A3%E4%BA%8B%E4%BC%9A%E6%81%A2%E5%A4%8D%E9%BB%84%E4%BB%81%E5%8B%8BCEO%E8%81%8C%E5%8A%A1&sa=fyb_news"
+          "url": "https://www.thepaper.cn/newsDetail_forward_34540649"
         }
       ],
       "summary": "",
-      "url": "https://m.baidu.com/s?word=%E8%8B%B1%E4%BC%9F%E8%BE%BE%E8%91%A3%E4%BA%8B%E4%BC%9A%E6%81%A2%E5%A4%8D%E9%BB%84%E4%BB%81%E5%8B%8BCEO%E8%81%8C%E5%8A%A1&sa=fyb_news"
+      "url": "https://www.thepaper.cn/newsDetail_forward_34540649"
     },
     {
       "id": "evt-tre00000",
       "title": "数年炸鸡无人识 一句treetree全网知",
       "category": "society",
-      "hotScore": 0.6375,
-      "freshness": 0.9999,
-      "crossSource": 1,
-      "totalScore": 0.855,
+      "hotScore": 0.68,
+      "freshness": 1,
+      "crossSource": 0.6309,
+      "totalScore": 0.7613,
       "sources": [
         {
           "channel": "toutiao",
-          "rank": 6,
-          "hot": 8187156,
+          "rank": 5,
+          "hot": 37616640,
           "url": "https://www.toutiao.com/trending/7710276814740111401/"
         }
       ],
@@ -121,17 +64,74 @@
       "url": "https://www.toutiao.com/trending/7710276814740111401/"
     },
     {
-      "id": "evt-treetree",
-      "title": "骑手一句「treetree 的」带火披萨店炸鸡，老板直言爆单做不过来，为啥此类视频能迅速调起大众购买欲？",
+      "id": "evt-20000000",
+      "title": "马上评丨价值20万摩托车隔空被盗，货拉拉“贼货”也拉？",
       "category": "society",
-      "hotScore": 0.6,
+      "hotScore": 0.68,
+      "freshness": 1,
+      "crossSource": 0.6309,
+      "totalScore": 0.7613,
+      "sources": [
+        {
+          "channel": "thepaper",
+          "rank": 5,
+          "hot": 0,
+          "url": "https://www.thepaper.cn/newsDetail_forward_34542062"
+        }
+      ],
+      "summary": "",
+      "url": "https://www.thepaper.cn/newsDetail_forward_34542062"
+    },
+    {
+      "id": "evt-18etf000",
+      "title": "首批18只主动ETF上市，360亿增量资金来了",
+      "category": "economy",
+      "hotScore": 0.85,
+      "freshness": 1,
+      "crossSource": 0.6309,
+      "totalScore": 0.8293,
+      "sources": [
+        {
+          "channel": "thepaper",
+          "rank": 1,
+          "hot": 0,
+          "url": "https://www.thepaper.cn/newsDetail_forward_34539385"
+        }
+      ],
+      "summary": "",
+      "url": "https://www.thepaper.cn/newsDetail_forward_34539385"
+    },
+    {
+      "id": "evt-23000000",
+      "title": "神23将返回东风着陆场",
+      "category": "society",
+      "hotScore": 0.6375,
+      "freshness": 1,
+      "crossSource": 0.6309,
+      "totalScore": 0.7443,
+      "sources": [
+        {
+          "channel": "toutiao",
+          "rank": 6,
+          "hot": 34036944,
+          "url": "https://www.toutiao.com/trending/7711549539124232731/"
+        }
+      ],
+      "summary": "",
+      "url": "https://www.toutiao.com/trending/7711549539124232731/"
+    },
+    {
+      "id": "evt-50000000",
+      "title": "淘股吧两届冠军仅 5 个月就从 1541 万亏到 74 万，最后宣告破产，一代炒股冠军的陨落带给投资者哪些反思？",
+      "category": "society",
+      "hotScore": 0.6375,
       "freshness": 0.9999,
-      "crossSource": 1,
-      "totalScore": 0.84,
+      "crossSource": 0.6309,
+      "totalScore": 0.7443,
       "sources": [
         {
           "channel": "zhihu",
-          "rank": 5,
+          "rank": 4,
           "hot": 0,
           "url": ""
         }
@@ -140,55 +140,17 @@
       "url": ""
     },
     {
-      "id": "evt-85000000",
-      "title": "金价下跌有人花超85万购11根金条",
-      "category": "society",
-      "hotScore": 0.595,
-      "freshness": 0.9999,
-      "crossSource": 1,
-      "totalScore": 0.838,
-      "sources": [
-        {
-          "channel": "toutiao",
-          "rank": 7,
-          "hot": 7408045,
-          "url": "https://www.toutiao.com/trending/7711165515036626486/"
-        }
-      ],
-      "summary": "",
-      "url": "https://www.toutiao.com/trending/7711165515036626486/"
-    },
-    {
-      "id": "evt-bbc00000",
-      "title": "媒体：BBC冒犯深圳市民应道歉",
-      "category": "society",
-      "hotScore": 0.5525,
-      "freshness": 0.9999,
-      "crossSource": 1,
-      "totalScore": 0.821,
-      "sources": [
-        {
-          "channel": "toutiao",
-          "rank": 8,
-          "hot": 6703076,
-          "url": "https://www.toutiao.com/trending/7711334946540634651/"
-        }
-      ],
-      "summary": "",
-      "url": "https://www.toutiao.com/trending/7711334946540634651/"
-    },
-    {
       "id": "evt-ceo00000",
       "title": "黄仁勋回归，重任CEO！英伟达盘前暴涨超26%",
       "category": "society",
-      "hotScore": 0.5525,
-      "freshness": 0.9999,
-      "crossSource": 1,
-      "totalScore": 0.821,
+      "hotScore": 0.6375,
+      "freshness": 1,
+      "crossSource": 0.6309,
+      "totalScore": 0.7443,
       "sources": [
         {
           "channel": "thepaper",
-          "rank": 8,
+          "rank": 6,
           "hot": 0,
           "url": "https://www.thepaper.cn/newsDetail_forward_34541483"
         }
@@ -197,13 +159,32 @@
       "url": "https://www.thepaper.cn/newsDetail_forward_34541483"
     },
     {
-      "id": "evt-u1900000",
-      "title": "乒乓球世青赛 U19 男团：国乒 3-2 战胜日本晋级决赛，温瑞博拿 2 分，对此你怎么看？",
+      "id": "evt-12000000",
+      "title": "永辉超市同意终止茅台12年渠道合作",
+      "category": "society",
+      "hotScore": 0.6,
+      "freshness": 1,
+      "crossSource": 0.6309,
+      "totalScore": 0.7293,
+      "sources": [
+        {
+          "channel": "baidu",
+          "rank": 6,
+          "hot": 0,
+          "url": "https://m.baidu.com/s?word=%E6%B0%B8%E8%BE%89%E8%B6%85%E5%B8%82%E5%90%8C%E6%84%8F%E7%BB%88%E6%AD%A2%E8%8C%85%E5%8F%B012%E5%B9%B4%E6%B8%A0%E9%81%93%E5%90%88%E4%BD%9C&sa=fyb_news"
+        }
+      ],
+      "summary": "",
+      "url": "https://m.baidu.com/s?word=%E6%B0%B8%E8%BE%89%E8%B6%85%E5%B8%82%E5%90%8C%E6%84%8F%E7%BB%88%E6%AD%A2%E8%8C%85%E5%8F%B012%E5%B9%B4%E6%B8%A0%E9%81%93%E5%90%88%E4%BD%9C&sa=fyb_news"
+    },
+    {
+      "id": "evt-digitalfound",
+      "title": "Digital Foundry 称《GTA6》即便高端 PC 也难稳 60 帧，其核心瓶颈要如何解决？",
       "category": "society",
       "hotScore": 0.525,
       "freshness": 0.9999,
-      "crossSource": 1,
-      "totalScore": 0.81,
+      "crossSource": 0.6309,
+      "totalScore": 0.6993,
       "sources": [
         {
           "channel": "zhihu",
@@ -216,61 +197,42 @@
       "url": ""
     },
     {
-      "id": "evt-34000000",
-      "title": "成都一34米人行横道绿灯仅12秒：4级残疾男子加速通过被撞亡，法院判双方同责",
+      "id": "evt-21000000",
+      "title": "国字号男足时隔21年再获世界杯积分",
       "category": "society",
-      "hotScore": 0.4675,
-      "freshness": 0.9999,
-      "crossSource": 1,
-      "totalScore": 0.787,
+      "hotScore": 0.51,
+      "freshness": 1,
+      "crossSource": 0.6309,
+      "totalScore": 0.6933,
       "sources": [
         {
-          "channel": "thepaper",
-          "rank": 10,
-          "hot": 0,
-          "url": "https://www.thepaper.cn/newsDetail_forward_34509916"
+          "channel": "toutiao",
+          "rank": 9,
+          "hot": 25215188,
+          "url": "https://www.toutiao.com/trending/7711502278452055578/"
         }
       ],
       "summary": "",
-      "url": "https://www.thepaper.cn/newsDetail_forward_34509916"
+      "url": "https://www.toutiao.com/trending/7711502278452055578/"
     },
     {
-      "id": "evt-kimiaifo",
-      "title": "Kimi 宣布发力 AI for Science 方向，有哪些信息值得关注？",
+      "id": "evt-u17u0000",
+      "title": "U17 世界杯小组赛，中国 U17 男足补时读秒阶段遭绝平，最终 2 比 2 摩洛哥，怎样评价本场比赛？",
       "category": "society",
-      "hotScore": 0.45,
+      "hotScore": 0.4875,
       "freshness": 0.9999,
-      "crossSource": 1,
-      "totalScore": 0.78,
+      "crossSource": 0.6309,
+      "totalScore": 0.6843,
       "sources": [
         {
           "channel": "zhihu",
-          "rank": 9,
+          "rank": 8,
           "hot": 0,
           "url": ""
         }
       ],
       "summary": "",
       "url": ""
-    },
-    {
-      "id": "evt-73000000",
-      "title": "女子嫌对面楼老旧自费7.3万刷漆",
-      "category": "society",
-      "hotScore": 0.44,
-      "freshness": 1,
-      "crossSource": 1,
-      "totalScore": 0.776,
-      "sources": [
-        {
-          "channel": "baidu",
-          "rank": 10,
-          "hot": 0,
-          "url": "https://m.baidu.com/s?word=%E5%A5%B3%E5%AD%90%E5%AB%8C%E5%AF%B9%E9%9D%A2%E6%A5%BC%E8%80%81%E6%97%A7%E8%87%AA%E8%B4%B97.3%E4%B8%87%E5%88%B7%E6%BC%86&sa=fyb_news"
-        }
-      ],
-      "summary": "",
-      "url": "https://m.baidu.com/s?word=%E5%A5%B3%E5%AD%90%E5%AB%8C%E5%AF%B9%E9%9D%A2%E6%A5%BC%E8%80%81%E6%97%A7%E8%87%AA%E8%B4%B97.3%E4%B8%87%E5%88%B7%E6%BC%86&sa=fyb_news"
     }
   ]
 }
