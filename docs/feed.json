@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-11-25T00:13:18.147Z",
+  "generatedAt": "2026-11-25T10:40:38.736Z",
   "fields": {
     "society": "社会",
     "economy": "经济",
@@ -8,85 +8,123 @@
   "feed": [
     {
       "id": "evt-00000000",
-      "title": "神舟二十四号载人飞船发射",
+      "title": "巴航天员接过太空小蛋糕深深闻了闻",
       "category": "society",
-      "hotScore": 0.76,
-      "freshness": 0.9999,
+      "hotScore": 0.6,
+      "freshness": 1,
       "crossSource": 1,
-      "totalScore": 0.904,
+      "totalScore": 0.84,
       "sources": [
         {
           "channel": "toutiao",
-          "rank": 4,
-          "hot": 55123836,
-          "url": "https://www.toutiao.com/trending/7711423926946021898/"
+          "rank": 16,
+          "hot": 6235374,
+          "url": "https://www.toutiao.com/trending/7712016656125398566/"
         },
         {
           "channel": "baidu",
-          "rank": 2,
+          "rank": 6,
           "hot": 0,
-          "url": "https://m.baidu.com/s?word=%E7%A5%9E%E8%88%9F%E4%BA%8C%E5%8D%81%E5%9B%9B%E5%8F%B7%E8%BD%BD%E4%BA%BA%E9%A3%9E%E8%88%B9%E5%8F%91%E5%B0%84&sa=fyb_news"
+          "url": "https://m.baidu.com/s?word=%E5%B7%B4%E8%88%AA%E5%A4%A9%E5%91%98%E6%8E%A5%E8%BF%87%E5%A4%AA%E7%A9%BA%E5%B0%8F%E8%9B%8B%E7%B3%95%E6%B7%B1%E6%B7%B1%E9%97%BB%E4%BA%86%E9%97%BB&sa=fyb_news"
         }
       ],
       "summary": "",
-      "url": "https://www.toutiao.com/trending/7711423926946021898/"
+      "url": "https://www.toutiao.com/trending/7712016656125398566/"
     },
     {
       "id": "evt-ai000000",
-      "title": "AI 短剧《丑狐》爆火后引发大量讨论，它能戳中观众的核心原因是什么？",
+      "title": "知网等平台AI检测被曝算法存疑近一周系统仍未调整：马上测持续追问，平台避而不答",
       "category": "society",
-      "hotScore": 0.7125,
-      "freshness": 0.9999,
-      "crossSource": 0.6309,
-      "totalScore": 0.7742,
-      "sources": [
-        {
-          "channel": "zhihu",
-          "rank": 2,
-          "hot": 0,
-          "url": ""
-        }
-      ],
-      "summary": "",
-      "url": ""
-    },
-    {
-      "id": "evt-20290000",
-      "title": "订单排到2029 又一国产“神器”爆单",
-      "category": "society",
-      "hotScore": 0.64,
+      "hotScore": 0.765,
       "freshness": 1,
       "crossSource": 0.6309,
-      "totalScore": 0.7453,
+      "totalScore": 0.7953,
       "sources": [
         {
-          "channel": "baidu",
-          "rank": 5,
+          "channel": "thepaper",
+          "rank": 3,
           "hot": 0,
-          "url": "https://m.baidu.com/s?word=%E8%AE%A2%E5%8D%95%E6%8E%92%E5%88%B02029+%E5%8F%88%E4%B8%80%E5%9B%BD%E4%BA%A7%E2%80%9C%E7%A5%9E%E5%99%A8%E2%80%9D%E7%88%86%E5%8D%95&sa=fyb_news"
+          "url": "https://www.thepaper.cn/newsDetail_forward_34548287"
         }
       ],
       "summary": "",
-      "url": "https://m.baidu.com/s?word=%E8%AE%A2%E5%8D%95%E6%8E%92%E5%88%B02029+%E5%8F%88%E4%B8%80%E5%9B%BD%E4%BA%A7%E2%80%9C%E7%A5%9E%E5%99%A8%E2%80%9D%E7%88%86%E5%8D%95&sa=fyb_news"
+      "url": "https://www.thepaper.cn/newsDetail_forward_34548287"
     },
     {
-      "id": "evt-2026q300",
-      "title": "小米集团 2026 Q3 财报发布，经调整净利润 48.84 亿元，同比下降 56.8%，怎样解读？",
-      "category": "economy",
-      "hotScore": 0.6375,
+      "id": "evt-40000000",
+      "title": "安徽4岁走失男童找到已无生命体征",
+      "category": "society",
+      "hotScore": 0.68,
+      "freshness": 1,
+      "crossSource": 0.6309,
+      "totalScore": 0.7613,
+      "sources": [
+        {
+          "channel": "toutiao",
+          "rank": 5,
+          "hot": 18732099,
+          "url": "https://www.toutiao.com/trending/7712020998228282922/"
+        }
+      ],
+      "summary": "",
+      "url": "https://www.toutiao.com/trending/7712020998228282922/"
+    },
+    {
+      "id": "evt-gta60000",
+      "title": "如何看待黑客放出《GTA 6》Xbox 版核心文件后，民间靠 AI 不到 24 小时就搬上 PC 并成功进入实机？",
+      "category": "society",
+      "hotScore": 0.675,
       "freshness": 0.9999,
       "crossSource": 0.6309,
-      "totalScore": 0.7442,
+      "totalScore": 0.7593,
       "sources": [
         {
           "channel": "zhihu",
-          "rank": 4,
+          "rank": 3,
           "hot": 0,
           "url": ""
         }
       ],
       "summary": "",
       "url": ""
+    },
+    {
+      "id": "evt-90000000",
+      "title": "专家号加价至900元 陪诊成牟利灰产",
+      "category": "society",
+      "hotScore": 0.51,
+      "freshness": 1,
+      "crossSource": 0.6309,
+      "totalScore": 0.6933,
+      "sources": [
+        {
+          "channel": "toutiao",
+          "rank": 9,
+          "hot": 12556501,
+          "url": "https://www.toutiao.com/trending/7711858642337251849/"
+        }
+      ],
+      "summary": "",
+      "url": "https://www.toutiao.com/trending/7711858642337251849/"
+    },
+    {
+      "id": "evt-fcc00000",
+      "title": "美国FCC更新清单，光储逆变器股走强、阳光电源盘中大涨14%",
+      "category": "society",
+      "hotScore": 0.4675,
+      "freshness": 1,
+      "crossSource": 0.6309,
+      "totalScore": 0.6763,
+      "sources": [
+        {
+          "channel": "thepaper",
+          "rank": 10,
+          "hot": 0,
+          "url": "https://www.thepaper.cn/newsDetail_forward_34549933"
+        }
+      ],
+      "summary": "",
+      "url": "https://www.thepaper.cn/newsDetail_forward_34549933"
     }
   ]
 }
