@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-11-25T10:40:38.736Z",
+  "generatedAt": "2026-11-25T20:49:33.276Z",
   "fields": {
     "society": "社会",
     "economy": "经济",
@@ -8,51 +8,108 @@
   "feed": [
     {
       "id": "evt-00000000",
-      "title": "巴航天员接过太空小蛋糕深深闻了闻",
+      "title": "中外航天员在中国空间站合影",
       "category": "society",
-      "hotScore": 0.6,
-      "freshness": 1,
+      "hotScore": 0.765,
+      "freshness": 0.9999,
       "crossSource": 1,
-      "totalScore": 0.84,
+      "totalScore": 0.906,
       "sources": [
         {
           "channel": "toutiao",
-          "rank": 16,
-          "hot": 6235374,
-          "url": "https://www.toutiao.com/trending/7712016656125398566/"
+          "rank": 3,
+          "hot": 21757381,
+          "url": "https://www.toutiao.com/trending/7711862180634755099/"
         },
         {
           "channel": "baidu",
-          "rank": 6,
+          "rank": 4,
           "hot": 0,
-          "url": "https://m.baidu.com/s?word=%E5%B7%B4%E8%88%AA%E5%A4%A9%E5%91%98%E6%8E%A5%E8%BF%87%E5%A4%AA%E7%A9%BA%E5%B0%8F%E8%9B%8B%E7%B3%95%E6%B7%B1%E6%B7%B1%E9%97%BB%E4%BA%86%E9%97%BB&sa=fyb_news"
+          "url": "https://m.baidu.com/s?word=%E4%B8%AD%E5%A4%96%E8%88%AA%E5%A4%A9%E5%91%98%E5%9C%A8%E4%B8%AD%E5%9B%BD%E7%A9%BA%E9%97%B4%E7%AB%99%E5%90%88%E5%BD%B1&sa=fyb_news"
         }
       ],
       "summary": "",
-      "url": "https://www.toutiao.com/trending/7712016656125398566/"
+      "url": "https://www.toutiao.com/trending/7711862180634755099/"
     },
     {
       "id": "evt-ai000000",
-      "title": "知网等平台AI检测被曝算法存疑近一周系统仍未调整：马上测持续追问，平台避而不答",
+      "title": "AI正在帮忙抓贪官",
       "category": "society",
-      "hotScore": 0.765,
-      "freshness": 1,
+      "hotScore": 0.8075,
+      "freshness": 0.9999,
       "crossSource": 0.6309,
-      "totalScore": 0.7953,
+      "totalScore": 0.8123,
       "sources": [
         {
-          "channel": "thepaper",
-          "rank": 3,
-          "hot": 0,
-          "url": "https://www.thepaper.cn/newsDetail_forward_34548287"
+          "channel": "toutiao",
+          "rank": 2,
+          "hot": 24045624,
+          "url": "https://www.toutiao.com/trending/7712002196388905023/"
         }
       ],
       "summary": "",
-      "url": "https://www.thepaper.cn/newsDetail_forward_34548287"
+      "url": "https://www.toutiao.com/trending/7712002196388905023/"
     },
     {
       "id": "evt-40000000",
-      "title": "安徽4岁走失男童找到已无生命体征",
+      "title": "冷门“顶流”｜深耕西夏学40余年，为历史补缺的人",
+      "category": "society",
+      "hotScore": 0.8075,
+      "freshness": 1,
+      "crossSource": 0.6309,
+      "totalScore": 0.8123,
+      "sources": [
+        {
+          "channel": "thepaper",
+          "rank": 2,
+          "hot": 0,
+          "url": "https://www.thepaper.cn/newsDetail_forward_34539636"
+        }
+      ],
+      "summary": "",
+      "url": "https://www.thepaper.cn/newsDetail_forward_34539636"
+    },
+    {
+      "id": "evt-39900000",
+      "title": "399元羽绒服卖疯 高价品牌脸被打肿",
+      "category": "society",
+      "hotScore": 0.72,
+      "freshness": 0.9999,
+      "crossSource": 0.6309,
+      "totalScore": 0.7773,
+      "sources": [
+        {
+          "channel": "baidu",
+          "rank": 3,
+          "hot": 0,
+          "url": "https://m.baidu.com/s?word=399%E5%85%83%E7%BE%BD%E7%BB%92%E6%9C%8D%E5%8D%96%E7%96%AF+%E9%AB%98%E4%BB%B7%E5%93%81%E7%89%8C%E8%84%B8%E8%A2%AB%E6%89%93%E8%82%BF&sa=fyb_news"
+        }
+      ],
+      "summary": "",
+      "url": "https://m.baidu.com/s?word=399%E5%85%83%E7%BE%BD%E7%BB%92%E6%9C%8D%E5%8D%96%E7%96%AF+%E9%AB%98%E4%BB%B7%E5%93%81%E7%89%8C%E8%84%B8%E8%A2%AB%E6%89%93%E8%82%BF&sa=fyb_news"
+    },
+    {
+      "id": "evt-openai00",
+      "title": "OpenAI 证明矩阵乘法指数下界为 9/4，如何看待？",
+      "category": "society",
+      "hotScore": 0.7125,
+      "freshness": 0.9999,
+      "crossSource": 0.6309,
+      "totalScore": 0.7743,
+      "sources": [
+        {
+          "channel": "zhihu",
+          "rank": 2,
+          "hot": 0,
+          "url": ""
+        }
+      ],
+      "summary": "",
+      "url": ""
+    },
+    {
+      "id": "evt-ci000000",
+      "title": "美国再曝网络安全事件，CIA开源情报分析系统遭入侵有信息泄露",
       "category": "society",
       "hotScore": 0.68,
       "freshness": 1,
@@ -60,18 +117,18 @@
       "totalScore": 0.7613,
       "sources": [
         {
-          "channel": "toutiao",
+          "channel": "thepaper",
           "rank": 5,
-          "hot": 18732099,
-          "url": "https://www.toutiao.com/trending/7712020998228282922/"
+          "hot": 0,
+          "url": "https://www.thepaper.cn/newsDetail_forward_34553570"
         }
       ],
       "summary": "",
-      "url": "https://www.toutiao.com/trending/7712020998228282922/"
+      "url": "https://www.thepaper.cn/newsDetail_forward_34553570"
     },
     {
-      "id": "evt-gta60000",
-      "title": "如何看待黑客放出《GTA 6》Xbox 版核心文件后，民间靠 AI 不到 24 小时就搬上 PC 并成功进入实机？",
+      "id": "evt-githu000",
+      "title": "如何看待谷歌在 GitHub 上发出的六篇数学论文？更新后的 Gemini 数学能力处于什么水平？",
       "category": "society",
       "hotScore": 0.675,
       "freshness": 0.9999,
@@ -89,42 +146,137 @@
       "url": ""
     },
     {
-      "id": "evt-90000000",
-      "title": "专家号加价至900元 陪诊成牟利灰产",
+      "id": "evt-10000000",
+      "title": "商品房楼板国标普遍仅 10-12cm，为什么不统一再加厚 15cm？加厚楼板能否彻底解决楼层噪音困扰？",
       "category": "society",
-      "hotScore": 0.51,
-      "freshness": 1,
+      "hotScore": 0.6375,
+      "freshness": 0.9999,
       "crossSource": 0.6309,
-      "totalScore": 0.6933,
+      "totalScore": 0.7443,
       "sources": [
         {
-          "channel": "toutiao",
-          "rank": 9,
-          "hot": 12556501,
-          "url": "https://www.toutiao.com/trending/7711858642337251849/"
+          "channel": "zhihu",
+          "rank": 4,
+          "hot": 0,
+          "url": ""
         }
       ],
       "summary": "",
-      "url": "https://www.toutiao.com/trending/7711858642337251849/"
+      "url": ""
     },
     {
-      "id": "evt-fcc00000",
-      "title": "美国FCC更新清单，光储逆变器股走强、阳光电源盘中大涨14%",
+      "id": "evt-33000000",
+      "title": "情侣花3300在餐厅求婚遭服务员打断",
+      "category": "society",
+      "hotScore": 0.595,
+      "freshness": 0.9999,
+      "crossSource": 0.6309,
+      "totalScore": 0.7273,
+      "sources": [
+        {
+          "channel": "toutiao",
+          "rank": 7,
+          "hot": 14584408,
+          "url": "https://www.toutiao.com/trending/7711747716883284531/"
+        }
+      ],
+      "summary": "",
+      "url": "https://www.toutiao.com/trending/7711747716883284531/"
+    },
+    {
+      "id": "evt-38000000",
+      "title": "央视曝光 3.8 万余份孕妇血走私案，国安部警示孕妇血样走私或泄露我国遗传弱点，科学依据和风险具体是什么？",
+      "category": "society",
+      "hotScore": 0.5625,
+      "freshness": 0.9999,
+      "crossSource": 0.6309,
+      "totalScore": 0.7143,
+      "sources": [
+        {
+          "channel": "zhihu",
+          "rank": 6,
+          "hot": 0,
+          "url": ""
+        }
+      ],
+      "summary": "",
+      "url": ""
+    },
+    {
+      "id": "evt-48000000",
+      "title": "陕西一囚犯被束缚48日后心梗死亡，两任监区长被控虐待一案已进入重审二审",
+      "category": "society",
+      "hotScore": 0.5525,
+      "freshness": 1,
+      "crossSource": 0.6309,
+      "totalScore": 0.7103,
+      "sources": [
+        {
+          "channel": "thepaper",
+          "rank": 8,
+          "hot": 0,
+          "url": "https://www.thepaper.cn/newsDetail_forward_34555484"
+        }
+      ],
+      "summary": "",
+      "url": "https://www.thepaper.cn/newsDetail_forward_34555484"
+    },
+    {
+      "id": "evt-axiosop0",
+      "title": "怎么看 Axios 报道，OpenAI 和 Anthropic 因为内部模型太强，可能无法发布 ？",
+      "category": "society",
+      "hotScore": 0.525,
+      "freshness": 0.9999,
+      "crossSource": 0.6309,
+      "totalScore": 0.6993,
+      "sources": [
+        {
+          "channel": "zhihu",
+          "rank": 7,
+          "hot": 0,
+          "url": ""
+        }
+      ],
+      "summary": "",
+      "url": ""
+    },
+    {
+      "id": "evt-c0000000",
+      "title": "《千年等一回》的间奏居然是China",
+      "category": "society",
+      "hotScore": 0.48,
+      "freshness": 0.9999,
+      "crossSource": 0.6309,
+      "totalScore": 0.6813,
+      "sources": [
+        {
+          "channel": "baidu",
+          "rank": 9,
+          "hot": 0,
+          "url": "https://m.baidu.com/s?word=%E3%80%8A%E5%8D%83%E5%B9%B4%E7%AD%89%E4%B8%80%E5%9B%9E%E3%80%8B%E7%9A%84%E9%97%B4%E5%A5%8F%E5%B1%85%E7%84%B6%E6%98%AFChina&sa=fyb_news"
+        }
+      ],
+      "summary": "",
+      "url": "https://m.baidu.com/s?word=%E3%80%8A%E5%8D%83%E5%B9%B4%E7%AD%89%E4%B8%80%E5%9B%9E%E3%80%8B%E7%9A%84%E9%97%B4%E5%A5%8F%E5%B1%85%E7%84%B6%E6%98%AFChina&sa=fyb_news"
+    },
+    {
+      "id": "evt-apec0000",
+      "title": "APEC晚宴“木蒸笼”火出圈",
       "category": "society",
       "hotScore": 0.4675,
-      "freshness": 1,
+      "freshness": 0.9999,
       "crossSource": 0.6309,
       "totalScore": 0.6763,
       "sources": [
         {
-          "channel": "thepaper",
+          "channel": "toutiao",
           "rank": 10,
-          "hot": 0,
-          "url": "https://www.thepaper.cn/newsDetail_forward_34549933"
+          "hot": 10804395,
+          "url": "https://www.toutiao.com/trending/7711992117056585782/"
         }
       ],
       "summary": "",
-      "url": "https://www.thepaper.cn/newsDetail_forward_34549933"
+      "url": "https://www.toutiao.com/trending/7711992117056585782/"
     }
   ]
 }
