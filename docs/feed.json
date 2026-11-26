@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-11-25T20:49:33.276Z",
+  "generatedAt": "2026-11-26T03:50:29.280Z",
   "fields": {
     "society": "社会",
     "economy": "经济",
@@ -8,32 +8,57 @@
   "feed": [
     {
       "id": "evt-00000000",
-      "title": "中外航天员在中国空间站合影",
+      "title": "普京爱吃粤菜 离开前还打包上飞机",
       "category": "society",
-      "hotScore": 0.765,
+      "hotScore": 0.85,
       "freshness": 0.9999,
       "crossSource": 1,
-      "totalScore": 0.906,
+      "totalScore": 0.94,
       "sources": [
         {
           "channel": "toutiao",
-          "rank": 3,
-          "hot": 21757381,
-          "url": "https://www.toutiao.com/trending/7711862180634755099/"
+          "rank": 1,
+          "hot": 26714497,
+          "url": "https://www.toutiao.com/trending/7711992074043818047/"
         },
         {
           "channel": "baidu",
-          "rank": 4,
+          "rank": 17,
           "hot": 0,
-          "url": "https://m.baidu.com/s?word=%E4%B8%AD%E5%A4%96%E8%88%AA%E5%A4%A9%E5%91%98%E5%9C%A8%E4%B8%AD%E5%9B%BD%E7%A9%BA%E9%97%B4%E7%AB%99%E5%90%88%E5%BD%B1&sa=fyb_news"
+          "url": "https://m.baidu.com/s?word=%E6%99%AE%E4%BA%AC%E7%88%B1%E5%90%83%E7%B2%A4%E8%8F%9C+%E7%A6%BB%E5%BC%80%E5%89%8D%E8%BF%98%E6%89%93%E5%8C%85%E4%B8%8A%E9%A3%9E%E6%9C%BA&sa=fyb_news"
         }
       ],
       "summary": "",
-      "url": "https://www.toutiao.com/trending/7711862180634755099/"
+      "url": "https://www.toutiao.com/trending/7711992074043818047/"
     },
     {
-      "id": "evt-ai000000",
-      "title": "AI正在帮忙抓贪官",
+      "id": "evt-10000000",
+      "title": "胡海泉辟谣炒股亏近1个亿",
+      "category": "society",
+      "hotScore": 0.56,
+      "freshness": 0.9999,
+      "crossSource": 1,
+      "totalScore": 0.824,
+      "sources": [
+        {
+          "channel": "toutiao",
+          "rank": 8,
+          "hot": 13266027,
+          "url": "https://www.toutiao.com/trending/7711796483838148662/"
+        },
+        {
+          "channel": "baidu",
+          "rank": 7,
+          "hot": 0,
+          "url": "https://m.baidu.com/s?word=%E8%83%A1%E6%B5%B7%E6%B3%89%E8%BE%9F%E8%B0%A3%E7%82%92%E8%82%A1%E4%BA%8F%E8%BF%911%E4%B8%AA%E4%BA%BF&sa=fyb_news"
+        }
+      ],
+      "summary": "",
+      "url": "https://www.toutiao.com/trending/7711796483838148662/"
+    },
+    {
+      "id": "evt-50000000",
+      "title": "陈吉宁落马5天前曾现身",
       "category": "society",
       "hotScore": 0.8075,
       "freshness": 0.9999,
@@ -43,7 +68,83 @@
         {
           "channel": "toutiao",
           "rank": 2,
-          "hot": 24045624,
+          "hot": 24172277,
+          "url": "https://www.toutiao.com/trending/7712289618116480538/"
+        }
+      ],
+      "summary": "",
+      "url": "https://www.toutiao.com/trending/7712289618116480538/"
+    },
+    {
+      "id": "evt-25400000",
+      "title": "一天狂揽254亿元！一款游戏破纪录背后的文娱IP吸金图谱",
+      "category": "society",
+      "hotScore": 0.8075,
+      "freshness": 1,
+      "crossSource": 0.6309,
+      "totalScore": 0.8123,
+      "sources": [
+        {
+          "channel": "thepaper",
+          "rank": 2,
+          "hot": 0,
+          "url": "https://www.thepaper.cn/newsDetail_forward_34548215"
+        }
+      ],
+      "summary": "",
+      "url": "https://www.thepaper.cn/newsDetail_forward_34548215"
+    },
+    {
+      "id": "evt-g0000000",
+      "title": "两大减肥药巨头将为明星GLP-1药物添加新警告标签，涉及视力丧失风险",
+      "category": "entertainment",
+      "hotScore": 0.4675,
+      "freshness": 1,
+      "crossSource": 0.6309,
+      "totalScore": 0.6763,
+      "sources": [
+        {
+          "channel": "thepaper",
+          "rank": 10,
+          "hot": 0,
+          "url": "https://www.thepaper.cn/newsDetail_forward_34559025"
+        }
+      ],
+      "summary": "",
+      "url": "https://www.thepaper.cn/newsDetail_forward_34559025"
+    },
+    {
+      "id": "evt-35000000",
+      "title": "现货黄金下破3500美元、白银失守40美元，什么原因？",
+      "category": "society",
+      "hotScore": 0.765,
+      "freshness": 1,
+      "crossSource": 0.6309,
+      "totalScore": 0.7953,
+      "sources": [
+        {
+          "channel": "thepaper",
+          "rank": 3,
+          "hot": 0,
+          "url": "https://www.thepaper.cn/newsDetail_forward_34558960"
+        }
+      ],
+      "summary": "",
+      "url": "https://www.thepaper.cn/newsDetail_forward_34558960"
+    },
+    {
+      "id": "evt-ai000000",
+      "title": "AI正在帮忙抓贪官",
+      "category": "society",
+      "hotScore": 0.68,
+      "freshness": 0.9999,
+      "crossSource": 0.6309,
+      "totalScore": 0.7613,
+      "sources": [
+        {
+          "channel": "toutiao",
+          "rank": 5,
+          "hot": 17907263,
           "url": "https://www.toutiao.com/trending/7712002196388905023/"
         }
       ],
@@ -51,87 +152,11 @@
       "url": "https://www.toutiao.com/trending/7712002196388905023/"
     },
     {
-      "id": "evt-40000000",
-      "title": "冷门“顶流”｜深耕西夏学40余年，为历史补缺的人",
-      "category": "society",
-      "hotScore": 0.8075,
-      "freshness": 1,
-      "crossSource": 0.6309,
-      "totalScore": 0.8123,
-      "sources": [
-        {
-          "channel": "thepaper",
-          "rank": 2,
-          "hot": 0,
-          "url": "https://www.thepaper.cn/newsDetail_forward_34539636"
-        }
-      ],
-      "summary": "",
-      "url": "https://www.thepaper.cn/newsDetail_forward_34539636"
-    },
-    {
-      "id": "evt-39900000",
-      "title": "399元羽绒服卖疯 高价品牌脸被打肿",
-      "category": "society",
-      "hotScore": 0.72,
-      "freshness": 0.9999,
-      "crossSource": 0.6309,
-      "totalScore": 0.7773,
-      "sources": [
-        {
-          "channel": "baidu",
-          "rank": 3,
-          "hot": 0,
-          "url": "https://m.baidu.com/s?word=399%E5%85%83%E7%BE%BD%E7%BB%92%E6%9C%8D%E5%8D%96%E7%96%AF+%E9%AB%98%E4%BB%B7%E5%93%81%E7%89%8C%E8%84%B8%E8%A2%AB%E6%89%93%E8%82%BF&sa=fyb_news"
-        }
-      ],
-      "summary": "",
-      "url": "https://m.baidu.com/s?word=399%E5%85%83%E7%BE%BD%E7%BB%92%E6%9C%8D%E5%8D%96%E7%96%AF+%E9%AB%98%E4%BB%B7%E5%93%81%E7%89%8C%E8%84%B8%E8%A2%AB%E6%89%93%E8%82%BF&sa=fyb_news"
-    },
-    {
-      "id": "evt-openai00",
-      "title": "OpenAI 证明矩阵乘法指数下界为 9/4，如何看待？",
-      "category": "society",
-      "hotScore": 0.7125,
-      "freshness": 0.9999,
-      "crossSource": 0.6309,
-      "totalScore": 0.7743,
-      "sources": [
-        {
-          "channel": "zhihu",
-          "rank": 2,
-          "hot": 0,
-          "url": ""
-        }
-      ],
-      "summary": "",
-      "url": ""
-    },
-    {
-      "id": "evt-ci000000",
-      "title": "美国再曝网络安全事件，CIA开源情报分析系统遭入侵有信息泄露",
-      "category": "society",
-      "hotScore": 0.68,
-      "freshness": 1,
-      "crossSource": 0.6309,
-      "totalScore": 0.7613,
-      "sources": [
-        {
-          "channel": "thepaper",
-          "rank": 5,
-          "hot": 0,
-          "url": "https://www.thepaper.cn/newsDetail_forward_34553570"
-        }
-      ],
-      "summary": "",
-      "url": "https://www.thepaper.cn/newsDetail_forward_34553570"
-    },
-    {
-      "id": "evt-githu000",
-      "title": "如何看待谷歌在 GitHub 上发出的六篇数学论文？更新后的 Gemini 数学能力处于什么水平？",
+      "id": "evt-38000000",
+      "title": "央视曝光 3.8 万余份孕妇血走私案，国安部警示孕妇血样走私或泄露我国遗传弱点，科学依据和风险具体是什么？",
       "category": "society",
       "hotScore": 0.675,
-      "freshness": 0.9999,
+      "freshness": 1,
       "crossSource": 0.6309,
       "totalScore": 0.7593,
       "sources": [
@@ -146,49 +171,49 @@
       "url": ""
     },
     {
-      "id": "evt-10000000",
-      "title": "商品房楼板国标普遍仅 10-12cm，为什么不统一再加厚 15cm？加厚楼板能否彻底解决楼层噪音困扰？",
+      "id": "evt-58000000",
+      "title": "58岁男子在千年皇陵当守陵人",
       "category": "society",
-      "hotScore": 0.6375,
-      "freshness": 0.9999,
+      "hotScore": 0.6,
+      "freshness": 1,
       "crossSource": 0.6309,
-      "totalScore": 0.7443,
+      "totalScore": 0.7293,
       "sources": [
         {
-          "channel": "zhihu",
-          "rank": 4,
+          "channel": "baidu",
+          "rank": 6,
           "hot": 0,
-          "url": ""
+          "url": "https://m.baidu.com/s?word=58%E5%B2%81%E7%94%B7%E5%AD%90%E5%9C%A8%E5%8D%83%E5%B9%B4%E7%9A%87%E9%99%B5%E5%BD%93%E5%AE%88%E9%99%B5%E4%BA%BA&sa=fyb_news"
         }
       ],
       "summary": "",
-      "url": ""
+      "url": "https://m.baidu.com/s?word=58%E5%B2%81%E7%94%B7%E5%AD%90%E5%9C%A8%E5%8D%83%E5%B9%B4%E7%9A%87%E9%99%B5%E5%BD%93%E5%AE%88%E9%99%B5%E4%BA%BA&sa=fyb_news"
     },
     {
-      "id": "evt-33000000",
-      "title": "情侣花3300在餐厅求婚遭服务员打断",
+      "id": "evt-48000000",
+      "title": "陕西一囚犯被束缚48日后心梗死亡，两任监区长被控虐待一案已进入重审二审",
       "category": "society",
       "hotScore": 0.595,
-      "freshness": 0.9999,
+      "freshness": 1,
       "crossSource": 0.6309,
       "totalScore": 0.7273,
       "sources": [
         {
-          "channel": "toutiao",
+          "channel": "thepaper",
           "rank": 7,
-          "hot": 14584408,
-          "url": "https://www.toutiao.com/trending/7711747716883284531/"
+          "hot": 0,
+          "url": "https://www.thepaper.cn/newsDetail_forward_34555484"
         }
       ],
       "summary": "",
-      "url": "https://www.toutiao.com/trending/7711747716883284531/"
+      "url": "https://www.thepaper.cn/newsDetail_forward_34555484"
     },
     {
-      "id": "evt-38000000",
-      "title": "央视曝光 3.8 万余份孕妇血走私案，国安部警示孕妇血样走私或泄露我国遗传弱点，科学依据和风险具体是什么？",
+      "id": "evt-caleg000",
+      "title": "如何评价数学家 Calegari 认为黎曼猜想的证明过程只是从图书馆的书架上拿下来了一本书？",
       "category": "society",
       "hotScore": 0.5625,
-      "freshness": 0.9999,
+      "freshness": 1,
       "crossSource": 0.6309,
       "totalScore": 0.7143,
       "sources": [
@@ -203,80 +228,42 @@
       "url": ""
     },
     {
-      "id": "evt-48000000",
-      "title": "陕西一囚犯被束缚48日后心梗死亡，两任监区长被控虐待一案已进入重审二审",
+      "id": "evt-80000000",
+      "title": "男子家中搜到诅咒自家8岁孩子WiFi名",
       "category": "society",
-      "hotScore": 0.5525,
+      "hotScore": 0.52,
       "freshness": 1,
       "crossSource": 0.6309,
-      "totalScore": 0.7103,
-      "sources": [
-        {
-          "channel": "thepaper",
-          "rank": 8,
-          "hot": 0,
-          "url": "https://www.thepaper.cn/newsDetail_forward_34555484"
-        }
-      ],
-      "summary": "",
-      "url": "https://www.thepaper.cn/newsDetail_forward_34555484"
-    },
-    {
-      "id": "evt-axiosop0",
-      "title": "怎么看 Axios 报道，OpenAI 和 Anthropic 因为内部模型太强，可能无法发布 ？",
-      "category": "society",
-      "hotScore": 0.525,
-      "freshness": 0.9999,
-      "crossSource": 0.6309,
-      "totalScore": 0.6993,
-      "sources": [
-        {
-          "channel": "zhihu",
-          "rank": 7,
-          "hot": 0,
-          "url": ""
-        }
-      ],
-      "summary": "",
-      "url": ""
-    },
-    {
-      "id": "evt-c0000000",
-      "title": "《千年等一回》的间奏居然是China",
-      "category": "society",
-      "hotScore": 0.48,
-      "freshness": 0.9999,
-      "crossSource": 0.6309,
-      "totalScore": 0.6813,
+      "totalScore": 0.6973,
       "sources": [
         {
           "channel": "baidu",
-          "rank": 9,
+          "rank": 8,
           "hot": 0,
-          "url": "https://m.baidu.com/s?word=%E3%80%8A%E5%8D%83%E5%B9%B4%E7%AD%89%E4%B8%80%E5%9B%9E%E3%80%8B%E7%9A%84%E9%97%B4%E5%A5%8F%E5%B1%85%E7%84%B6%E6%98%AFChina&sa=fyb_news"
+          "url": "https://m.baidu.com/s?word=%E7%94%B7%E5%AD%90%E5%AE%B6%E4%B8%AD%E6%90%9C%E5%88%B0%E8%AF%85%E5%92%92%E8%87%AA%E5%AE%B68%E5%B2%81%E5%AD%A9%E5%AD%90WiFi%E5%90%8D&sa=fyb_news"
         }
       ],
       "summary": "",
-      "url": "https://m.baidu.com/s?word=%E3%80%8A%E5%8D%83%E5%B9%B4%E7%AD%89%E4%B8%80%E5%9B%9E%E3%80%8B%E7%9A%84%E9%97%B4%E5%A5%8F%E5%B1%85%E7%84%B6%E6%98%AFChina&sa=fyb_news"
+      "url": "https://m.baidu.com/s?word=%E7%94%B7%E5%AD%90%E5%AE%B6%E4%B8%AD%E6%90%9C%E5%88%B0%E8%AF%85%E5%92%92%E8%87%AA%E5%AE%B68%E5%B2%81%E5%AD%A9%E5%AD%90WiFi%E5%90%8D&sa=fyb_news"
     },
     {
-      "id": "evt-apec0000",
-      "title": "APEC晚宴“木蒸笼”火出圈",
+      "id": "evt-18000000",
+      "title": "吴奇隆复刻180°后空翻一字马",
       "category": "society",
-      "hotScore": 0.4675,
-      "freshness": 0.9999,
+      "hotScore": 0.4,
+      "freshness": 1,
       "crossSource": 0.6309,
-      "totalScore": 0.6763,
+      "totalScore": 0.6493,
       "sources": [
         {
-          "channel": "toutiao",
-          "rank": 10,
-          "hot": 10804395,
-          "url": "https://www.toutiao.com/trending/7711992117056585782/"
+          "channel": "baidu",
+          "rank": 11,
+          "hot": 0,
+          "url": "https://m.baidu.com/s?word=%E5%90%B4%E5%A5%87%E9%9A%86%E5%A4%8D%E5%88%BB180%C2%B0%E5%90%8E%E7%A9%BA%E7%BF%BB%E4%B8%80%E5%AD%97%E9%A9%AC&sa=fyb_news"
         }
       ],
       "summary": "",
-      "url": "https://www.toutiao.com/trending/7711992117056585782/"
+      "url": "https://m.baidu.com/s?word=%E5%90%B4%E5%A5%87%E9%9A%86%E5%A4%8D%E5%88%BB180%C2%B0%E5%90%8E%E7%A9%BA%E7%BF%BB%E4%B8%80%E5%AD%97%E9%A9%AC&sa=fyb_news"
     }
   ]
 }
