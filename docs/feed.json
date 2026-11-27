@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-11-26T22:41:15.788Z",
+  "generatedAt": "2026-11-27T05:48:51.521Z",
   "fields": {
     "society": "社会",
     "economy": "经济",
@@ -8,32 +8,32 @@
   "feed": [
     {
       "id": "evt-00000000",
-      "title": "董明珠回应不招留学生争议",
+      "title": "三只松鼠员工用鼠取名",
       "category": "society",
-      "hotScore": 0.68,
+      "hotScore": 0.85,
       "freshness": 1,
       "crossSource": 1,
-      "totalScore": 0.872,
+      "totalScore": 0.94,
       "sources": [
         {
           "channel": "toutiao",
-          "rank": 5,
-          "hot": 8486802,
-          "url": "https://www.toutiao.com/trending/7712420530217107510/"
+          "rank": 1,
+          "hot": 13539243,
+          "url": "https://www.toutiao.com/trending/7712472413543792703/"
         },
         {
           "channel": "baidu",
-          "rank": 8,
+          "rank": 11,
           "hot": 0,
-          "url": "https://m.baidu.com/s?word=%E8%91%A3%E6%98%8E%E7%8F%A0%E5%9B%9E%E5%BA%94%E4%B8%8D%E6%8B%9B%E7%95%99%E5%AD%A6%E7%94%9F%E4%BA%89%E8%AE%AE&sa=fyb_news"
+          "url": "https://m.baidu.com/s?word=%E4%B8%89%E5%8F%AA%E6%9D%BE%E9%BC%A0%E5%91%98%E5%B7%A5%E7%94%A8%E9%BC%A0%E5%8F%96%E5%90%8D&sa=fyb_news"
         }
       ],
       "summary": "",
-      "url": "https://www.toutiao.com/trending/7712420530217107510/"
+      "url": "https://www.toutiao.com/trending/7712472413543792703/"
     },
     {
-      "id": "evt-6g203000",
-      "title": "6G要来了！三部委：到2030年建成性能领先的新一代通信网",
+      "id": "evt-6g000000",
+      "title": "适时开展6G网络建设、推动制定电信法，新一代通信网建设实施方案有哪些亮点？",
       "category": "society",
       "hotScore": 0.8075,
       "freshness": 1,
@@ -44,91 +44,72 @@
           "channel": "thepaper",
           "rank": 2,
           "hot": 0,
-          "url": "https://www.thepaper.cn/newsDetail_forward_34561757"
+          "url": "https://www.thepaper.cn/newsDetail_forward_34566582"
         }
       ],
       "summary": "",
-      "url": "https://www.thepaper.cn/newsDetail_forward_34561757"
+      "url": "https://www.thepaper.cn/newsDetail_forward_34566582"
     },
     {
-      "id": "evt-u1700000",
-      "title": "U17 世界杯男足小组赛，中国 U17 男足 8-0 斐济 U17 男足，如何评价本场比赛？",
+      "id": "evt-ah000000",
+      "title": "国常会“稳市” AH股集体飙升",
       "category": "society",
-      "hotScore": 0.7125,
+      "hotScore": 0.76,
       "freshness": 1,
       "crossSource": 0.6309,
-      "totalScore": 0.7743,
+      "totalScore": 0.7933,
       "sources": [
         {
-          "channel": "zhihu",
+          "channel": "baidu",
           "rank": 2,
           "hot": 0,
-          "url": ""
+          "url": "https://m.baidu.com/s?word=%E5%9B%BD%E5%B8%B8%E4%BC%9A%E2%80%9C%E7%A8%B3%E5%B8%82%E2%80%9D+AH%E8%82%A1%E9%9B%86%E4%BD%93%E9%A3%99%E5%8D%87&sa=fyb_news"
         }
       ],
       "summary": "",
-      "url": ""
+      "url": "https://m.baidu.com/s?word=%E5%9B%BD%E5%B8%B8%E4%BC%9A%E2%80%9C%E7%A8%B3%E5%B8%82%E2%80%9D+AH%E8%82%A1%E9%9B%86%E4%BD%93%E9%A3%99%E5%8D%87&sa=fyb_news"
     },
     {
-      "id": "evt-yu700000",
-      "title": "网友爆料小米 YU7 车型前视摄像头集中故障，行车录像无法录制，前向防碰撞失效，是批次质量问题吗？",
+      "id": "evt-a0000000",
+      "title": "A股爆发",
       "category": "society",
-      "hotScore": 0.675,
+      "hotScore": 0.6375,
       "freshness": 1,
       "crossSource": 0.6309,
-      "totalScore": 0.7593,
+      "totalScore": 0.7443,
       "sources": [
         {
-          "channel": "zhihu",
-          "rank": 3,
-          "hot": 0,
-          "url": ""
-        }
-      ],
-      "summary": "",
-      "url": ""
-    },
-    {
-      "id": "evt-70000000",
-      "title": "厦航年利润 7 亿人民币，现在却突然订了 74 亿美元波音飞机，相当 70 年利润，这笔账风险落在谁身上？",
-      "category": "economy",
-      "hotScore": 0.5625,
-      "freshness": 1,
-      "crossSource": 0.6309,
-      "totalScore": 0.7143,
-      "sources": [
-        {
-          "channel": "zhihu",
+          "channel": "toutiao",
           "rank": 6,
-          "hot": 0,
-          "url": ""
+          "hot": 8211966,
+          "url": "https://www.toutiao.com/trending/7712319974953680950/"
         }
       ],
       "summary": "",
-      "url": ""
+      "url": "https://www.toutiao.com/trending/7712319974953680950/"
     },
     {
-      "id": "evt-g0000000",
-      "title": "两大减肥药巨头将为明星GLP-1药物添加新警告标签，涉及视力丧失风险",
-      "category": "entertainment",
-      "hotScore": 0.51,
+      "id": "evt-80000000",
+      "title": "周琦挥肘被驱逐，中国男篮80比82不敌沙特",
+      "category": "society",
+      "hotScore": 0.6375,
       "freshness": 1,
       "crossSource": 0.6309,
-      "totalScore": 0.6933,
+      "totalScore": 0.7443,
       "sources": [
         {
           "channel": "thepaper",
-          "rank": 9,
+          "rank": 6,
           "hot": 0,
-          "url": "https://www.thepaper.cn/newsDetail_forward_34559025"
+          "url": "https://www.thepaper.cn/newsDetail_forward_34568104"
         }
       ],
       "summary": "",
-      "url": "https://www.thepaper.cn/newsDetail_forward_34559025"
+      "url": "https://www.thepaper.cn/newsDetail_forward_34568104"
     },
     {
-      "id": "evt-80820000",
-      "title": "中国男篮80比82不敌沙特",
+      "id": "evt-deepseek",
+      "title": "如何评价 DeepSeek 网页和 App 端开始展示消耗额度？",
       "category": "society",
       "hotScore": 0.6,
       "freshness": 1,
@@ -136,65 +117,46 @@
       "totalScore": 0.7293,
       "sources": [
         {
-          "channel": "baidu",
-          "rank": 6,
+          "channel": "zhihu",
+          "rank": 5,
           "hot": 0,
-          "url": "https://m.baidu.com/s?word=%E4%B8%AD%E5%9B%BD%E7%94%B7%E7%AF%AE80%E6%AF%9482%E4%B8%8D%E6%95%8C%E6%B2%99%E7%89%B9&sa=fyb_news"
+          "url": ""
         }
       ],
       "summary": "",
-      "url": "https://m.baidu.com/s?word=%E4%B8%AD%E5%9B%BD%E7%94%B7%E7%AF%AE80%E6%AF%9482%E4%B8%8D%E6%95%8C%E6%B2%99%E7%89%B9&sa=fyb_news"
+      "url": ""
     },
     {
-      "id": "evt-75000000",
-      "title": "75岁正部级蔡赴朝被开除党籍",
+      "id": "evt-10000000",
+      "title": "创业板指涨逾10%",
       "category": "society",
-      "hotScore": 0.595,
+      "hotScore": 0.52,
       "freshness": 1,
       "crossSource": 0.6309,
-      "totalScore": 0.7273,
-      "sources": [
-        {
-          "channel": "toutiao",
-          "rank": 7,
-          "hot": 6948406,
-          "url": "https://www.toutiao.com/trending/7712417598192844809/"
-        }
-      ],
-      "summary": "",
-      "url": "https://www.toutiao.com/trending/7712417598192844809/"
-    },
-    {
-      "id": "evt-30000000",
-      "title": "警方通报3人可可西里失联被找到",
-      "category": "society",
-      "hotScore": 0.56,
-      "freshness": 1,
-      "crossSource": 0.6309,
-      "totalScore": 0.7133,
+      "totalScore": 0.6973,
       "sources": [
         {
           "channel": "baidu",
-          "rank": 7,
+          "rank": 8,
           "hot": 0,
-          "url": "https://m.baidu.com/s?word=%E8%AD%A6%E6%96%B9%E9%80%9A%E6%8A%A53%E4%BA%BA%E5%8F%AF%E5%8F%AF%E8%A5%BF%E9%87%8C%E5%A4%B1%E8%81%94%E8%A2%AB%E6%89%BE%E5%88%B0&sa=fyb_news"
+          "url": "https://m.baidu.com/s?word=%E5%88%9B%E4%B8%9A%E6%9D%BF%E6%8C%87%E6%B6%A8%E9%80%BE10%25&sa=fyb_news"
         }
       ],
       "summary": "",
-      "url": "https://m.baidu.com/s?word=%E8%AD%A6%E6%96%B9%E9%80%9A%E6%8A%A53%E4%BA%BA%E5%8F%AF%E5%8F%AF%E8%A5%BF%E9%87%8C%E5%A4%B1%E8%81%94%E8%A2%AB%E6%89%BE%E5%88%B0&sa=fyb_news"
+      "url": "https://m.baidu.com/s?word=%E5%88%9B%E4%B8%9A%E6%9D%BF%E6%8C%87%E6%B6%A8%E9%80%BE10%25&sa=fyb_news"
     },
     {
-      "id": "evt-80800000",
-      "title": "男篮世预赛，中国男篮 80-82 不敌沙特阿拉伯男篮，出线形式堪忧，如何评价本场比赛？",
+      "id": "evt-15660000",
+      "title": "能拍出《大明王朝 1566》的导演为什么会在《两京十五日》翻车了？",
       "category": "society",
-      "hotScore": 0.45,
+      "hotScore": 0.4875,
       "freshness": 1,
       "crossSource": 0.6309,
-      "totalScore": 0.6693,
+      "totalScore": 0.6843,
       "sources": [
         {
           "channel": "zhihu",
-          "rank": 9,
+          "rank": 8,
           "hot": 0,
           "url": ""
         }
@@ -206,14 +168,14 @@
       "id": "evt-51000000",
       "title": "王兴兴预测：5-10年内中国机器人产量或超汽车，年产量超2000万台",
       "category": "society",
-      "hotScore": 0.425,
+      "hotScore": 0.4675,
       "freshness": 1,
       "crossSource": 0.6309,
-      "totalScore": 0.6593,
+      "totalScore": 0.6763,
       "sources": [
         {
           "channel": "thepaper",
-          "rank": 11,
+          "rank": 10,
           "hot": 0,
           "url": "https://www.thepaper.cn/newsDetail_forward_34563169"
         }
