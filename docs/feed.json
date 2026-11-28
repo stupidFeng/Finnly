@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-11-27T23:49:21.901Z",
+  "generatedAt": "2026-11-28T05:28:35.401Z",
   "fields": {
     "society": "社会",
     "economy": "经济",
@@ -7,86 +7,80 @@
   },
   "feed": [
     {
-      "id": "evt-u1790000",
-      "title": "U17世界杯亚洲9队出战7队晋级",
-      "category": "society",
-      "hotScore": 0.85,
-      "freshness": 1,
-      "crossSource": 1,
-      "totalScore": 0.94,
-      "sources": [
-        {
-          "channel": "toutiao",
-          "rank": 1,
-          "hot": 9768197,
-          "url": "https://www.toutiao.com/trending/7712946773979185674/"
-        },
-        {
-          "channel": "baidu",
-          "rank": 8,
-          "hot": 0,
-          "url": "https://m.baidu.com/s?word=U17%E4%B8%96%E7%95%8C%E6%9D%AF%E4%BA%9A%E6%B4%B29%E9%98%9F%E5%87%BA%E6%88%987%E9%98%9F%E6%99%8B%E7%BA%A7&sa=fyb_news"
-        }
-      ],
-      "summary": "",
-      "url": "https://www.toutiao.com/trending/7712946773979185674/"
-    },
-    {
-      "id": "evt-92400000",
-      "title": "国家队抄底力度已超“924”",
+      "id": "evt-apec0000",
+      "title": "特朗普又连发深圳APEC照片",
       "category": "society",
       "hotScore": 0.8075,
-      "freshness": 1,
+      "freshness": 0.9998,
       "crossSource": 1,
-      "totalScore": 0.923,
+      "totalScore": 0.9229,
       "sources": [
         {
           "channel": "toutiao",
           "rank": 2,
-          "hot": 8838631,
-          "url": "https://www.toutiao.com/trending/7712761193228321307/"
+          "hot": 8488038,
+          "url": "https://www.toutiao.com/trending/7712653675537170474/"
         },
         {
           "channel": "baidu",
-          "rank": 14,
+          "rank": 11,
           "hot": 0,
-          "url": "https://m.baidu.com/s?word=%E5%9B%BD%E5%AE%B6%E9%98%9F%E6%8A%84%E5%BA%95%E5%8A%9B%E5%BA%A6%E5%B7%B2%E8%B6%85%E2%80%9C924%E2%80%9D&sa=fyb_news"
+          "url": "https://m.baidu.com/s?word=%E7%89%B9%E6%9C%97%E6%99%AE%E5%8F%88%E8%BF%9E%E5%8F%91%E6%B7%B1%E5%9C%B3APEC%E7%85%A7%E7%89%87&sa=fyb_news"
         }
       ],
       "summary": "",
-      "url": "https://www.toutiao.com/trending/7712761193228321307/"
+      "url": "https://www.toutiao.com/trending/7712653675537170474/"
+    },
+    {
+      "id": "evt-14220cm0",
+      "title": "14岁220cm高女孩攻防两端统治赛场",
+      "category": "society",
+      "hotScore": 0.85,
+      "freshness": 0.9998,
+      "crossSource": 0.6309,
+      "totalScore": 0.8292,
+      "sources": [
+        {
+          "channel": "toutiao",
+          "rank": 1,
+          "hot": 9380732,
+          "url": "https://www.toutiao.com/trending/7712800443483783730/"
+        }
+      ],
+      "summary": "",
+      "url": "https://www.toutiao.com/trending/7712800443483783730/"
     },
     {
       "id": "evt-00000000",
-      "title": "大学应有的模样｜大学，该让青年从容栖居",
+      "title": "合力稳市！“国家队”护盘过程中各类机构均为净买入，股票型ETF十月以来净申购近8000亿",
       "category": "society",
-      "hotScore": 0.85,
-      "freshness": 1,
+      "hotScore": 0.8075,
+      "freshness": 0.9999,
       "crossSource": 0.6309,
-      "totalScore": 0.8293,
+      "totalScore": 0.8122,
       "sources": [
         {
           "channel": "thepaper",
-          "rank": 1,
+          "rank": 2,
           "hot": 0,
-          "url": "https://www.thepaper.cn/newsDetail_forward_34554351"
+          "url": "https://www.thepaper.cn/newsDetail_forward_34576889"
         }
       ],
       "summary": "",
-      "url": "https://www.thepaper.cn/newsDetail_forward_34554351"
+      "url": "https://www.thepaper.cn/newsDetail_forward_34576889"
     },
     {
       "id": "evt-58700000",
       "title": "受贿5.87亿余元，广西自治区政府原主席蓝天立一审被判死缓",
       "category": "society",
-      "hotScore": 0.7225,
-      "freshness": 1,
+      "hotScore": 0.765,
+      "freshness": 0.9999,
       "crossSource": 0.6309,
-      "totalScore": 0.7783,
+      "totalScore": 0.7952,
       "sources": [
         {
           "channel": "thepaper",
-          "rank": 4,
+          "rank": 3,
           "hot": 0,
           "url": "https://www.thepaper.cn/newsDetail_forward_34574989"
         }
@@ -95,36 +89,55 @@
       "url": "https://www.thepaper.cn/newsDetail_forward_34574989"
     },
     {
-      "id": "evt-a0000000",
-      "title": "A 股迎史诗级暴涨，沪深两市成交额重回 2 万亿，创业板指放量大涨超 11%，超 400 只个股涨停，发生了什么？",
-      "category": "society",
-      "hotScore": 0.675,
-      "freshness": 1,
+      "id": "evt-10000000",
+      "title": "“数”读前10月规上工业企业利润",
+      "category": "economy",
+      "hotScore": 0.765,
+      "freshness": 0.9998,
       "crossSource": 0.6309,
-      "totalScore": 0.7593,
+      "totalScore": 0.7952,
       "sources": [
         {
-          "channel": "zhihu",
+          "channel": "toutiao",
           "rank": 3,
-          "hot": 0,
-          "url": ""
+          "hot": 7680294,
+          "url": "https://www.toutiao.com/trending/7712036769054920246/"
         }
       ],
       "summary": "",
-      "url": ""
+      "url": "https://www.toutiao.com/trending/7712036769054920246/"
     },
     {
-      "id": "evt-ai000000",
-      "title": "如何评价冯骥在《后 AI 时代最重要的问题》一文中的思考和想法？",
-      "category": "society",
-      "hotScore": 0.6375,
-      "freshness": 1,
+      "id": "evt-39900000",
+      "title": "经济日报刊文：“399元羽绒服卖断货”是消费降级吗？",
+      "category": "economy",
+      "hotScore": 0.595,
+      "freshness": 0.9999,
       "crossSource": 0.6309,
-      "totalScore": 0.7443,
+      "totalScore": 0.7272,
+      "sources": [
+        {
+          "channel": "thepaper",
+          "rank": 7,
+          "hot": 0,
+          "url": "https://www.thepaper.cn/newsDetail_forward_34579821"
+        }
+      ],
+      "summary": "",
+      "url": "https://www.thepaper.cn/newsDetail_forward_34579821"
+    },
+    {
+      "id": "evt-40000000",
+      "title": "如何看待女子称因年龄超 40 岁被酒店拒绝入住？预订平台没有醒目提示，这种规定合法吗？",
+      "category": "society",
+      "hotScore": 0.75,
+      "freshness": 0.9999,
+      "crossSource": 0.6309,
+      "totalScore": 0.7892,
       "sources": [
         {
           "channel": "zhihu",
-          "rank": 4,
+          "rank": 1,
           "hot": 0,
           "url": ""
         }
@@ -136,14 +149,14 @@
       "id": "evt-15000000",
       "title": "雅迪、台铃、爱玛、小牛等15家电动自行车企业被集中约谈",
       "category": "society",
-      "hotScore": 0.595,
-      "freshness": 1,
+      "hotScore": 0.68,
+      "freshness": 0.9999,
       "crossSource": 0.6309,
-      "totalScore": 0.7273,
+      "totalScore": 0.7612,
       "sources": [
         {
           "channel": "thepaper",
-          "rank": 7,
+          "rank": 5,
           "hot": 0,
           "url": "https://www.thepaper.cn/newsDetail_forward_34574923"
         }
@@ -152,55 +165,36 @@
       "url": "https://www.thepaper.cn/newsDetail_forward_34574923"
     },
     {
-      "id": "evt-spacex00",
-      "title": "特斯拉和 SpaceX 冲刺年底合并，将成人类史上最大并购案，马斯克为何要合并两家公司？",
+      "id": "evt-12102400",
+      "title": "油价将于12月10日24时调整",
       "category": "society",
-      "hotScore": 0.5625,
-      "freshness": 1,
+      "hotScore": 0.595,
+      "freshness": 0.9998,
       "crossSource": 0.6309,
-      "totalScore": 0.7143,
+      "totalScore": 0.7272,
       "sources": [
         {
-          "channel": "zhihu",
-          "rank": 6,
-          "hot": 0,
-          "url": ""
-        }
-      ],
-      "summary": "",
-      "url": ""
-    },
-    {
-      "id": "evt-20800000",
-      "title": "208万！国产豪车捅破价格“天花板”",
-      "category": "society",
-      "hotScore": 0.56,
-      "freshness": 1,
-      "crossSource": 0.6309,
-      "totalScore": 0.7133,
-      "sources": [
-        {
-          "channel": "baidu",
+          "channel": "toutiao",
           "rank": 7,
-          "hot": 0,
-          "url": "https://m.baidu.com/s?word=208%E4%B8%87%EF%BC%81%E5%9B%BD%E4%BA%A7%E8%B1%AA%E8%BD%A6%E6%8D%85%E7%A0%B4%E4%BB%B7%E6%A0%BC%E2%80%9C%E5%A4%A9%E8%8A%B1%E6%9D%BF%E2%80%9D&sa=fyb_news"
+          "hot": 5148255,
+          "url": "https://www.toutiao.com/trending/7712753552209953330/"
         }
       ],
       "summary": "",
-      "url": "https://m.baidu.com/s?word=208%E4%B8%87%EF%BC%81%E5%9B%BD%E4%BA%A7%E8%B1%AA%E8%BD%A6%E6%8D%85%E7%A0%B4%E4%BB%B7%E6%A0%BC%E2%80%9C%E5%A4%A9%E8%8A%B1%E6%9D%BF%E2%80%9D&sa=fyb_news"
+      "url": "https://www.toutiao.com/trending/7712753552209953330/"
     },
     {
       "id": "evt-33000000",
       "title": "初中生刺伤霸凌者羁押336天后被判正当防卫，检察院已张贴公告道歉",
       "category": "society",
-      "hotScore": 0.51,
-      "freshness": 1,
+      "hotScore": 0.5525,
+      "freshness": 0.9999,
       "crossSource": 0.6309,
-      "totalScore": 0.6933,
+      "totalScore": 0.7102,
       "sources": [
         {
           "channel": "thepaper",
-          "rank": 9,
+          "rank": 8,
           "hot": 0,
           "url": "https://www.thepaper.cn/newsDetail_forward_34573017"
         }
@@ -209,13 +203,70 @@
       "url": "https://www.thepaper.cn/newsDetail_forward_34573017"
     },
     {
-      "id": "evt-ceo00000",
-      "title": "三只松鼠被曝 CEO 与员工薪资相差 23 倍，这个薪资差距在行业里属于什么水平？算高吗？",
+      "id": "evt-spacex00",
+      "title": "特斯拉和 SpaceX 冲刺年底合并，将成人类史上最大并购案，马斯克为何要合并两家公司？",
       "category": "society",
-      "hotScore": 0.4875,
+      "hotScore": 0.525,
+      "freshness": 0.9999,
+      "crossSource": 0.6309,
+      "totalScore": 0.6992,
+      "sources": [
+        {
+          "channel": "zhihu",
+          "rank": 7,
+          "hot": 0,
+          "url": ""
+        }
+      ],
+      "summary": "",
+      "url": ""
+    },
+    {
+      "id": "evt-35a00000",
+      "title": "歼-35A落地珠海 将首次静态展示",
+      "category": "society",
+      "hotScore": 0.52,
       "freshness": 1,
       "crossSource": 0.6309,
-      "totalScore": 0.6843,
+      "totalScore": 0.6973,
+      "sources": [
+        {
+          "channel": "baidu",
+          "rank": 8,
+          "hot": 0,
+          "url": "https://m.baidu.com/s?word=%E6%AD%BC-35A%E8%90%BD%E5%9C%B0%E7%8F%A0%E6%B5%B7+%E5%B0%86%E9%A6%96%E6%AC%A1%E9%9D%99%E6%80%81%E5%B1%95%E7%A4%BA&sa=fyb_news"
+        }
+      ],
+      "summary": "",
+      "url": "https://m.baidu.com/s?word=%E6%AD%BC-35A%E8%90%BD%E5%9C%B0%E7%8F%A0%E6%B5%B7+%E5%B0%86%E9%A6%96%E6%AC%A1%E9%9D%99%E6%80%81%E5%B1%95%E7%A4%BA&sa=fyb_news"
+    },
+    {
+      "id": "evt-72300000",
+      "title": "暖侬心｜72岁老人跳下3米深河救起6岁幼童：这份善良不声张，也不算账",
+      "category": "society",
+      "hotScore": 0.51,
+      "freshness": 0.9999,
+      "crossSource": 0.6309,
+      "totalScore": 0.6932,
+      "sources": [
+        {
+          "channel": "thepaper",
+          "rank": 9,
+          "hot": 0,
+          "url": "https://www.thepaper.cn/newsDetail_forward_34541801"
+        }
+      ],
+      "summary": "",
+      "url": "https://www.thepaper.cn/newsDetail_forward_34541801"
+    },
+    {
+      "id": "evt-euv00000",
+      "title": "中国一旦解决 EUV 光刻机技术，高端芯片能实现白菜价吗？",
+      "category": "society",
+      "hotScore": 0.4875,
+      "freshness": 0.9999,
+      "crossSource": 0.6309,
+      "totalScore": 0.6842,
       "sources": [
         {
           "channel": "zhihu",
@@ -226,44 +277,6 @@
       ],
       "summary": "",
       "url": ""
-    },
-    {
-      "id": "evt-10000000",
-      "title": "个人大额存单起点降至10万元",
-      "category": "society",
-      "hotScore": 0.4675,
-      "freshness": 1,
-      "crossSource": 0.6309,
-      "totalScore": 0.6763,
-      "sources": [
-        {
-          "channel": "toutiao",
-          "rank": 10,
-          "hot": 3971452,
-          "url": "https://www.toutiao.com/trending/7712505350003654692/"
-        }
-      ],
-      "summary": "",
-      "url": "https://www.toutiao.com/trending/7712505350003654692/"
-    },
-    {
-      "id": "evt-u1730000",
-      "title": "中国队晋级U17世界杯32强，队员：淘汰赛想碰世界强队",
-      "category": "society",
-      "hotScore": 0.4675,
-      "freshness": 1,
-      "crossSource": 0.6309,
-      "totalScore": 0.6763,
-      "sources": [
-        {
-          "channel": "thepaper",
-          "rank": 10,
-          "hot": 0,
-          "url": "https://www.thepaper.cn/newsDetail_forward_34571174"
-        }
-      ],
-      "summary": "",
-      "url": "https://www.thepaper.cn/newsDetail_forward_34571174"
     }
   ]
 }
